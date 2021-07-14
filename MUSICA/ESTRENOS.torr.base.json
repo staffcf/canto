@@ -19,7 +19,26 @@
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra E, Canada, C720, Netflix, ",
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Drama, 1Thriller, A2021, Letra L, Italia, C720, ",
+			"name": "La clásica historia de terror (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/6P4azmmom77p7cVsmSuETl3Gr0v.jpg",
+			"info": "Unos viajeros quedan atrapados en un bosque del sur de Italia, donde deben luchar desesperadamente para salir con vida de allí",
+			"genero": "Terror, Drama, Thriller",
+			"stations": [
+				{
+				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi3": "https://mixdrop.co/e/j9mkervls1xvzr", 
+				"kodi4": "https://vidoza.net/embed-0tz8amtbyd8d-920x360.html", 
+				"kodi5": "https://vidia.tv/NO_LINK", 
+				"vos": "",
+				"torrent": "magnet:?xt=urn:btih:FD1CAEC125BD4CFEDCB1B26B03D6A88D8EF5EB76&dn=Cl4s1caT3rr0rHDR.exclusivetorrent.net.avi",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra E, Canada, C720, Netflix, ",
 			"name": "El manual de la familia perfecta (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/1kMssyzOwGmdsxo0LJtPkTStufB.jpg",
 			"info": "Una pareja en Quebec se enfrenta a las dificultades y las expectativas de criar niños en una sociedad obsesionada con el éxito y la presencia en las redes sociales.",
@@ -28,9 +47,9 @@
 				{
 				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
 				"kodi2": "https://vidia.tv/NO_LINK",
-				"kodi3": "https://vidia.tv/NO_LINK", 
-				"kodi4": "https://vidia.tv/NO_LINK", 
-				"kodi5": "https://vidia.tv/NO_LINK", 
+				"kodi3": "https://mixdrop.co/e/1v8olw4dckx9vlo", 
+				"kodi4": "https://vidoza.net/embed-4pb2kyzrlagg-920x360.html", 
+				"kodi5": "https://vidia.tv/NO_LINK",  
 				"vos": "",
 				"torrent": "magnet:?xt=urn:btih:B40F8120635FD53F3DDDAC37D02026D51472100F&dn=BRRip",
 				"torrent4k": ""
