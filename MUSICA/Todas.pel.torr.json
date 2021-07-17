@@ -63,6 +63,8 @@ Title:CAPITAN AMERICA, SagaID:CapitanAmerica, Imagen:https://st-listas.20minutos
 							-	0Saga, 1SagaTorrent, 
 Title:CHE, SagaID:Che, Imagen:https://www.themoviedb.org/t/p/original/xRcKcFX9KUkSWpIgmdCt4hcMTDD.jpg,
 							-	1Saga, 1SagaTorrent, 
+Title:CHUCKY (EL MUÑECO DIABOLICO), SagaID:Chucky, Imagen:https://www.themoviedb.org/t/p/original/7ySySgzx5pTD8ZxxeQAKaHfXff3.jpg,	
+							-	1Saga, 1SagaTorrent, 
 Title:CINCUENTA SOMBRAS, SagaID:50Sombras, Imagen:https://i.pinimg.com/originals/46/1b/7c/461b7c9f455502b9b2f60352bf4f7cd0.jpg,	
 							-	0Saga, 1SagaTorrent, 
 Title:CREPUSCULO, SagaID:Twilight, Imagen:http://www.harrymedia.com/img/data/media/730/logocrepus.jpg,		
@@ -9911,7 +9913,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 0Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra O, Dinamarca, C720, ",
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra O, Dinamarca, C720, ",
 			"name": "Otra ronda (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/fIsfoGihrmtOQZ7JtgxOc59V9ix.jpg",
 			"info": "Cuatro profesores de instituto se embarcan en un experimento sociologico en el que cada uno de ellos debera mantener la tasa de alcohol en su cuerpo al mismo nivel, durante su vida diaria, intentando demostrar de esa manera que pueden mejorar en todos los aspectos de su vida",
@@ -9923,7 +9925,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi3": "https://vidia.tv/NO_LINK", 
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK"
-				"torrent": "",
+				"torrent": "magnet:?xt=urn:btih:529ADECFF28B10A323A4FCB1DDBEB9081B231904&dn=BRRip",
 				"torrent4k": ""
 				}		
 			]
@@ -22395,12 +22397,12 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/gc6ymr65xd/", "colorserver1": "lime",
+				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
 				"kodi2": "https://femax20.com/v/m8qpxs5emq0g52z",
-				"kodi3": "https://vidia.tv/NO_LINK", 
+				"kodi3": "https://femax20.com/v/yjnpzcep--g0qr-", 
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK"
-				"torrent": "magnet:?xt=urn:btih:21addcac5ec2c8571f6218d623320732ab4c30bf",
+				"torrent": "magnet:?xt=urn:btih:21ADDCAC5EC2C8571F6218D623320732AB4C30BF&dn=HD1080", 
 				"torrent4k": ""
 				}			
 			]
@@ -36452,11 +36454,11 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{
 				"kodi1": "https://vidia.tv/NO_LINK/", "colorserver1": "lime",
-				"kodi2": "https://cloudvideo.tv/embed-ucvp188ocb6l-920x360.html",
+				"kodi2": "https://femax20.com/v/4lo000-qxxo",
 				"kodi3": "https://femax20.com/v/x1-6pa55kjekm1p", 
 				"kodi4": "https://femax20.com/v/l-qryin5pne86ek", 
-				"kodi5": "https://vidia.tv/NO_LINK/gounlimited.to/embed-3tjxioslqbtr.html"
-				"torrent": "magnet:?xt=urn:btih:7CDDE5196B40C4B1702526F41731591CB753C587",
+				"kodi5": "https://vidia.tv/NO_LINK/"
+				"torrent": "magnet:?xt=urn:btih:7CDDE5196B40C4B1702526F41731591CB753C587&dn=HD1080",   magnet:?xt=urn:btih:D7C0CA9A4DC7D68BBD21E0A6A026C789E3B3D365&dn=BRRip
 				"torrent4k": ""
 				}
 			]
@@ -43185,6 +43187,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2013, Letra L, EEUU, C720, Muñecos, Sagas Chucky, ",
+			"name": "La maldicion de Chucky (2013)","coloryear": "lawngreen",
+			"image": "https://www.themoviedb.org/t/p/original/pvEAAog0HWTMMyczYmwhSBjkTYm.jpg",
+			"info": "Nica (Fiona Dourif) está destrozada tras el terrible suicidio de su madre. Su hermana mayor Barb (Danielle Bisutti) regresa a su casa para ayudarle en este duro trance, trayéndose con ella a su hija pequeña, quien posee un muñeco parlante llamado Chucky que llegó misteriosamente por correo. A medida que una serie de brutales asesinatos comienzan a aterrorizar a la familia, Nica sospecha que Chucky puede ser la clave del derramamiento de sangre, pero lo que sabe es que éste está decidido a terminar un trabajo que comenzó hace más de 20 años, y esta vez lo va a llevar acabo hasta el final...",
+			"genero": "Terror",
+			"stations": [
+				{
+				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi3": "https://vidia.tv/NO_LINK", 
+				"kodi4": "https://vidia.tv/NO_LINK", 
+				"kodi5": "https://femax20.com/v/40oxm2-x0y9"
+				"torrent": "magnet:?xt=urn:btih:7F1795C19A894BE476B9122CC5947B90CFD654FA&dn=DVDRip",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Fantastico, 1Accion, A2013, Letra L, EEUU, C720, Superheroes, Marvel, Comics, Sagas XMEN, ",
 			"name": "Lobezno inmortal (The Wolverine) (2013)","coloryear": "lawngreen",
 			"image": "https://www.themoviedb.org/t/p/original/emxbSwkuTxZ8arG1YNKlgUjrpGO.jpg",
@@ -48366,6 +48386,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Romance, A2004, Letra L, EEUU, C720, Muñecos, Sagas Chucky, ",
+			"name": "La semilla de Chucky (2004)","coloryear": "yellow",
+			"image": "https://www.themoviedb.org/t/p/original/fgrOtfUI6I6RquTQtj73RlbtNZf.jpg",
+			"info": "Seed of Chucky presenta a Glen, el hijo huérfano del irresistible Chucky y de su retorcida esposa Tiffany. En Hollywood se prepara una película acerca de la leyenda urbana de sus sanguinarios padres y Glen aprovecha para resucitarlos. Pero las relaciones familiares son todo menos perfectas cuando Glen descubre que Chucky y su deliciosa Tiffany se han lanzado a una carrera tan infernal como criminal. Chucky no acaba de creerse que su retoño no quiera seguir sus sangrientos pasos. Tiffany, totalmente colgada de las estrellas de Hollywood, tampoco acaba de creerse que el director haya escogido a Jennifer Tilly para protagonizar la película. La actriz no tarda en convertirse, muy a pesar suyo, en anfitriona de la temible familia",
+			"genero": "Terror, Romance",
+			"stations": [
+				{
+				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi3": "https://femax20.com/v/dw9r50-nnpo", 
+				"kodi4": "https://vidia.tv/NO_LINK", 
+				"kodi5": "https://vidia.tv/NO_LINK"
+				"torrent": "https://www.dropbox.com/s/ltts6zgzskvfyup/La%20semilla%20de%20Chucky.torrent?dl=1",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Aventuras, 1Comedia, A2004, Letra L, EEUU, C720, ",
 			"name": "La vuelta al mundo en 80 dias (2004)","coloryear": "yellow",
 			"image": "https://www.themoviedb.org/t/p/original/9FlbKMDMHDThgQvcJB7b1hQiICX.jpg",
@@ -51159,6 +51197,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Comedia, 1Thriller, 1Romance, A1998, Letra L, EEUU, C720, B2000, A2000-1991, Muñecos, Sagas Chucky, ",
+			"name": "La novia de Chucky (1998)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/bbmnqqKqthPl8gZwcGUvw41IFjb.jpg",
+			"info": "Tiffany, la examante y cómplice de Charles Lee Ray, el Estrangulador de Lake Shore, adquiere los restos de Chucky, el muñeco al que Charles traspasó su alma antes de morir. Recompone el muñeco como puede y lleva a cabo el mismo ritual vudú para devolverle a Chucky el alma de su novio fallecido. Para probar sus recuperadas fuerzas, Chucky asesina al novio gótico de la entusiasmada Tiffany. Después quiere recuperar el amuleto que llevaba Ray cuando murió, y con el que fue enterrado, para poder volver a tener un cuerpo humano. Para Tiffany es la ocasión perfecta de recordarle a Ray que le había prometido casarse con ella, pero éste, a través de Chucky, se burla de Tiffany y sus deseos de matrimonio. En un ataque de furia Tiffany encierra a Chucky junto con una muñeca a la que ha vestido de novia. La reacción de Chucky no se hace esperar: logra salir de su encierro y electrocuta a Tiffany en la bañera para después transferir su alma al cuerpo de la muñeca le había ofrecido como compañera",
+			"genero": "Terror, Comedia, Thriller, Romance",
+			"stations": [
+				{
+				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi3": "https://femax20.com/v/3qo17p8rp2o", 
+				"kodi4": "https://vidia.tv/NO_LINK", 
+				"kodi5": "https://vidia.tv/NO_LINK"
+				"torrent": "https://www.dropbox.com/s/2nzjcfmcs2bpaw7/La%20novia%20de%20Chucky.torrent?dl=1",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A1998, Letra L, Reino Unido, C720, Robos, Atracos, B2000, A2000-1991, 1Culto, ",
 			"name": "Lock & Stock (1998)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/5DrsSGAS0EcrClOwAcDIziIwzFR.jpg",
@@ -53254,6 +53310,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A1991, Letra M, EEUU, C720, B2000, A2000-1991, Muñecos, Sagas Chucky, ",
+			"name": "Muñeco diabolico 3 (1991)","coloryear": "tomato",
+			"image": "https://i.imgur.com/uPsMcUV.jpg",
+			"info": "Ocho años después del día en que creyó haber destruido al muñeco asesino, Andy Barclay cumple los dieciséis y entra en una academia militar. Mientras, el codicioso presidente de la empresa de juguetes Play Pals decide resucitar la popular línea de muñecos Good Guys. Cuando la cadena de montaje recrea el primer muñeco a partir de una masa de plástico derretido, el espíritu de Chucky regresa con renovadas intenciones de alcanzar su objetivo y vengarse de Andy",
+			"genero": "Terror",
+			"stations": [
+				{
+				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi3": "https://femax20.com/v/5jo4xk5nqxv", 
+				"kodi4": "https://vidia.tv/NO_LINK", 
+				"kodi5": "https://vidia.tv/NO_LINK"
+				"torrent": "",
+				"torrent4k": "magnet:?xt=urn:btih:90EE216DF8A515815B1A7B00E0A30C1E7D2CEF5B&dn=DVDRip"
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A1991, Letra P, EEUU, C720, B2000, A2000-1991, Sagas ElmStreet, ",
 			"name": "Pesadilla final: La muerte de Freddy (Pesadilla en Elm Street 6) (1991)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/dq8Q4SwqIvu2lBPxzMxRu5E6IA1.jpg",
@@ -53465,6 +53539,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1HdqqwubHFM3tVO3gVYy61HJMKGoV5jh7/view?usp=sharing"
 				}
+			]
+			},
+			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A1990, Letra M, EEUU, C720, B2000, A1990-1981, Muñecos, Sagas Chucky, ",
+			"name": "Muñeco diabolico 2 (1990)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/uPD5CIlBJFNYVn56l3zMM3poFRW.jpg",
+			"info": "Chucky ha vuelto. El famoso muñeco asesino de sonrisa satánica resucita en este nuevo episodio. A pesar de que en su última escapada quedó totalmente achicharrado, Chucky resurge de sus cenizas cuando una fábrica de juguetes decide reconstruirlo para acabar con la mala publicidad que la rodea. Chucky vuelve a estar entero y sigue la pista de su presa hasta una familia de acogida...",
+			"genero": "Terror",
+			"stations": [
+				{
+				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi3": "https://femax20.com/v/8g9z63yppyv", 
+				"kodi4": "https://vidia.tv/NO_LINK", 
+				"kodi5": "https://vidia.tv/NO_LINK"
+				"torrent": "magnet:?xt=urn:btih:3F6753B9B75AC0332C00022EC31D91B2930382E5&dn=DVDRip",
+				"torrent4k": ""
+				}		
 			]
 			},
 			{
@@ -54013,6 +54105,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent4k": "magnet:?xt=urn:btih:227B0503C25F9E0589E0D80855DD262ABA3938A4",
 				"GDRIVE": "https://drive.google.com/file/d/1uJOBcI3YFJ-Z1wNrKzRw6QPL25v_qV28/view?usp=sharing", 
 				"GDRIVE4K": "https://drive.google.com/file/d/1scWgTSetJyEyvGnEZUlWH8XzAqpkoaiS/view?usp=sharing"
+				}		
+			]
+			},
+			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A1988, Letra M, EEUU, C720, B2000, A1990-1981, Muñecos, 1Culto, Sagas Chucky, ",
+			"name": "Muñeco diabolico (1988)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/6dHL95kZq4zX67DBYekCOwZkMwb.jpg",
+			"info": "El vudú y el terror se apoderan de un muñeco de aspecto inocente habitado por el alma de un asesino en serie. Cuando Andy Barclay, un niño de seis años de edad, asegura que 'Chucky', su nuevo muñeco, ha arrojado violentamente por la ventana a su niñera, nadie le cree. Pero una larga serie de horribles asesinatos conduce al detective que se ocupa del caso hasta el muñeco y, entonces, descubre que el auténtico terror no ha hecho más que empezar. El malvado muñeco pretende transferir su diabólico espíritu a un ser humano, y el pequeño Andy parece ser el candidato perfecto",
+			"genero": "Terror",
+			"stations": [
+				{
+				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi3": "https://femax20.com/v/05ol1kp66n9", 
+				"kodi4": "https://vidia.tv/NO_LINK", 
+				"kodi5": "https://vidia.tv/NO_LINK"
+				"torrent": "magnet:?xt=urn:btih:7EE51D4AE88405EF360A4397CD7DDECFBED6DFF1&dn=DVDRip",
+				"torrent4k": ""
 				}		
 			]
 			},
@@ -60323,15 +60433,23 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 		},
 		{
 		"tag": " 1Torrentcristal, Sagas ColegasBosque, ",
-		"name": "Colegas en el Bosque -  1, 2 y 3  [COLOR lime]Calidad (1080)","coloryear": "lime",
+		"name": "Colegas en el Bosque -  1, 2 y 3 - [COLOR lime]Calidad (1080)","coloryear": "lime",
 		"image": "http://www.mubis.es/media/releases/966/924/trilogia-colegas-en-el-bosque-blu-ray-l_cover.jpg",
 		"info": "Peliculas 1, 2 y 3 de la Saga Colegas en el Bosque en Calidad 1080",
 		"genero": "Animacion, Infantil, Comedia",
 		"torrent": "magnet:?xt=urn:btih:E8A196F0DA1E2FFA9FE05A13EBF42700DAA6E5C4&dn=HD1080",
 		},
 		{
+		"tag": " 1Torrentcristal, Sagas Chucky, ",
+		"name": "Muñeco diabolico - Peliculas 1 a 6 - [COLOR lime]Calidad (1080)","coloryear": "lime",
+		"image": "https://www.themoviedb.org/t/p/original/7ySySgzx5pTD8ZxxeQAKaHfXff3.jpg",
+		"info": "Las 6 primeras películas de la Saga Muñeco Diabólico",
+		"genero": "Variedad de generos",
+		"torrent": "magnet:?xt=urn:btih:076E7E99271F541EFD879B051C0DF072F2171B3F&dn=HD1080",
+		},
+		{
 		"tag": " 1Torrentcristal, Sagas ElmStreet, ",
-		"name": "Pesadilla en Elm Street - Saga Completa [COLOR lime]Calidad (1080)","coloryear": "lime",
+		"name": "Pesadilla en Elm Street - Saga Completa - [COLOR lime]Calidad (1080)","coloryear": "lime",
 		"image": "https://cdn.ofertitas.es/wp-content/uploads/2015/09/coleccion_pesadilla.jpg",
 		"info": "Toda las peliculas de la Saga Pesadilla en ElmSteet",
 		"genero": "Terror",
@@ -60339,7 +60457,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 		},
 		{
 		"tag": " 1Torrentcristal, Sagas Scream, ",
-		"name": "Scream - Saga Completa [COLOR lime]Calidad (1080)","coloryear": "lime",
+		"name": "Scream - Saga Completa - [COLOR lime]Calidad (1080)","coloryear": "lime",
 		"image": "http://www.mubis.es/media/users/3724/27705/que-pelicula-de-la-saga-scream-te-gusta-mas-l_cover.jpg",
 		"info": "Toda las peliculas de la Saga Scream",
 		"genero": "Terror",
@@ -60347,7 +60465,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 		},
 		{
 		"tag": " 1Torrentcristal, Sagas Viernes13, ",
-		"name": "Viernes 13 - Saga Completa [COLOR lime]Calidad (1080)","coloryear": "lime",
+		"name": "Viernes 13 - Saga Completa - [COLOR lime]Calidad (1080)","coloryear": "lime",
 		"image": "https://images-na.ssl-images-amazon.com/images/I/71j45JMG0CL._SL1331_.jpg",
 		"info": "Toda las peliculas de la Saga Viernes 13",
 		"genero": "Terror",
@@ -60355,7 +60473,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 		},
 		{
 		"tag": " 1Torrentcristal, Sagas Spider-Man, ",
-		"name": "Spider-Man - Saga Completa [COLOR lime]Calidad (1080)","coloryear": "lime",
+		"name": "Spider-Man - Saga Completa - [COLOR lime]Calidad (1080)","coloryear": "lime",
 		"image": "https://images-na.ssl-images-amazon.com/images/I/815BumVI0aL._SL1400_.jpg",
 		"info": "Peliculas de la saga Spiderman",
 		"genero": "Variedad de generos",
@@ -60363,7 +60481,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 		},
 		{
 		"tag": " 1Torrentcristal, Sagas XMEN, ",
-		"name": "X-Men - Saga Completa [COLOR lime]Calidad (1080)","coloryear": "lime",
+		"name": "X-Men - Saga Completa - [COLOR lime]Calidad (1080)","coloryear": "lime",
 		"image": "https://images-na.ssl-images-amazon.com/images/I/71b4xYBd2fL._SY445_.jpg",  
 		"info": "Peliculas de la saga X-Men",
 		"genero": "Variedad de generos",
@@ -60371,7 +60489,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 		},
 		{
 		"tag": " 1Torrentcristal, Sagas BruceLee, ",
-		"name": "Coleccion Bruce Lee [COLOR lime]Calidad (1080)","coloryear": "lime",
+		"name": "Coleccion Bruce Lee - [COLOR lime]Calidad (1080)","coloryear": "lime",
 		"image": "https://img2.freepng.es/20171217/f54/bruce-lee-png-5a36a3ca1b5217.8431159015135303141119.jpg",
 		"info": "Coleccion de peliculas de Bruce Lee",
 		"genero": "Artes marciales",
@@ -60379,7 +60497,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 		},
 		{
 		"tag": " 1Torrentcristal, Sagas ClintEastwood, ",
-		"name": "Coleccion ClintEastwood - Parte 1 [COLOR lime]Calidad (1080)","coloryear": "lime",
+		"name": "Coleccion ClintEastwood - Parte 1 - [COLOR lime]Calidad (1080)","coloryear": "lime",
 		"image": "https://i.imgur.com/RkxspNn.jpg",
 		"info": "Coleccion de peliculas de Clint Eastwood",
 		"genero": "Variedad de generos",
@@ -60387,7 +60505,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 		},
 		{
 		"tag": " 1Torrentcristal, Sagas ClintEastwood, ",
-		"name": "Coleccion ClintEastwood - Parte 2 [COLOR lime]Calidad (1080)","coloryear": "lime",
+		"name": "Coleccion ClintEastwood - Parte 2 - [COLOR lime]Calidad (1080)","coloryear": "lime",
 		"image": "https://i.imgur.com/jEvPMQp.jpg",
 		"info": "Coleccion de peliculas de Clint Eastwood",
 		"genero": "Variedad de generos",
@@ -60395,7 +60513,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 		},
 		{
 		"tag": " 1Torrentcristal, Sagas ClintEastwood, ",
-		"name": "Coleccion ClintEastwood - Parte 3 [COLOR lime]Calidad (1080)","coloryear": "lime",
+		"name": "Coleccion ClintEastwood - Parte 3 - [COLOR lime]Calidad (1080)","coloryear": "lime",
 		"image": "https://i.imgur.com/cTnr5Pr.jpg",
 		"info": "Coleccion de peliculas de Clint Eastwood",
 		"genero": "Variedad de generos",
@@ -60403,7 +60521,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 		},
 		{
 		"tag": " 1Torrentcristal, Sagas ClintEastwood, ",
-		"name": "Coleccion ClintEastwood - Parte 4 [COLOR lime]Calidad (1080)","coloryear": "lime",
+		"name": "Coleccion ClintEastwood - Parte 4 - [COLOR lime]Calidad (1080)","coloryear": "lime",
 		"image": "https://i.imgur.com/8hBoQal.jpg",
 		"info": "Coleccion de peliculas de Clint Eastwood",
 		"genero": "Variedad de generos",
@@ -60411,7 +60529,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 		},
 		{
 		"tag": " 1Torrentcristal, Sagas Pitufos, ",
-		"name": "Los Pitufos - 1 y 2 [COLOR lime]Calidad (1080)","coloryear": "lime",
+		"name": "Los Pitufos - 1 y 2 - [COLOR lime]Calidad (1080)","coloryear": "lime",
 		"image": "https://images-na.ssl-images-amazon.com/images/I/61FYglEGJiL._SX342_.jpg",
 		"info": "Peliculas 1 y 2 de Los Pitufos",
 		"genero": "Variedad de generos",
@@ -60419,7 +60537,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 		},
 		{
 		"tag": " 1Torrentcristal, Sagas IceAge, ",
-		"name": "Ice Age - 1 y 2 [COLOR lime]Calidad (1080)","coloryear": "lime",
+		"name": "Ice Age - 1 y 2 - [COLOR lime]Calidad (1080)","coloryear": "lime",
 		"image": "https://images-na.ssl-images-amazon.com/images/I/81F3V351xHL._SY445_.jpg",
 		"info": "Peliculas 1 y 2 de Ice Age",
 		"genero": "Variedad de generos",
@@ -60427,7 +60545,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 		},
 		{
 		"tag": " 1Torrentcristal, Sagas IceAge, ",
-		"name": "Ice Age - 3 y 4 + cortos [COLOR lime]Calidad (1080)","coloryear": "lime",
+		"name": "Ice Age - 3 y 4 + cortos - [COLOR lime]Calidad (1080)","coloryear": "lime",
 		"image": "https://images-na.ssl-images-amazon.com/images/I/81hDYMJxzKL._SY445_.jpg",
 		"info": "Peliculas 3 y 4 de Ice Age, y cortos",
 		"genero": "Variedad de generos",
@@ -60435,7 +60553,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 		},
 		{
 		"tag": " 0Torrentcristal, Sagas , ",
-		"name": "El exorcista - Saga Completa [COLOR lime]Calidad (1080)","coloryear": "lime",
+		"name": "El exorcista - Saga Completa - [COLOR lime]Calidad (1080)","coloryear": "lime",
 		"image": "",
 		"info": "",
 		"genero": "Variedad de generos",
@@ -60443,7 +60561,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 		},
 		{
 		"tag": " 0Torrentcristal, Sagas , ",
-		"name": "Harry Potter - Saga Completa [COLOR lime]Calidad (1080)","coloryear": "lime",
+		"name": "Harry Potter - Saga Completa - [COLOR lime]Calidad (1080)","coloryear": "lime",
 		"image": "",
 		"info": "",
 		"genero": "Variedad de generos",
@@ -60451,7 +60569,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 		},
 		{
 		"tag": " 0Torrentcristal, Sagas , ",
-		"name": "Fast&Furious - Saga Completa [COLOR lime]Calidad (1080)","coloryear": "lime",
+		"name": "Fast&Furious - Saga Completa - [COLOR lime]Calidad (1080)","coloryear": "lime",
 		"image": "",
 		"info": "",
 		"genero": "Variedad de generos",
@@ -60459,7 +60577,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 		},
 		{
 		"tag": " 0Torrentcristal, Sagas , ",
-		"name": "Piratas del Caribe - Saga Completa [COLOR lime]Calidad (1080)","coloryear": "lime",
+		"name": "Piratas del Caribe - Saga Completa - [COLOR lime]Calidad (1080)","coloryear": "lime",
 		"image": "",
 		"info": "",
 		"genero": "Variedad de generos",
@@ -60467,7 +60585,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 		},
 		{
 		"tag": " 0Torrentcristal, Sagas , ",
-		"name": "Resident Evil - Saga Completa [COLOR lime]Calidad (1080)","coloryear": "lime",
+		"name": "Resident Evil - Saga Completa - [COLOR lime]Calidad (1080)","coloryear": "lime",
 		"image": "",
 		"info": "",
 		"genero": "Variedad de generos",
