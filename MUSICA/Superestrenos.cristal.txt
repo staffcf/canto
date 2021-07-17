@@ -57,7 +57,7 @@
 <thumbnail>https://i.imgur.com/w6evhKN.jpg</thumbnail>
 <fanart>https://i.imgur.com/yahgB1H.jpg</fanart>
 <info>Una pareja de Quebec se enfrenta a las dificultades y las expectativas de criar hijos en una sociedad obsesionada con el éxito y las apariencias en las redes sociales.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=F3_zvi0ebQ0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/3p1j2cmxrdxg3md"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.to/f/enw0n0wgaq0jpee"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/dj01rpndrrs1"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-b9hsn10bkcsb.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1dxpK7Pv3hHUQRwEhFz35eqT0GtRFCDwA/view"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=F3_zvi0ebQ0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/3p1j2cmxrdxg3md"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.to/f/enw0n0wgaq0jpee"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/dj01rpndrrs1"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-b9hsn10bkcsb.html"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:b99fcd252e86da8cf9e1f1bbbb8ef24a9dda9b95"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1dxpK7Pv3hHUQRwEhFz35eqT0GtRFCDwA/view"}</urlsolve>
 </item>
 
 
@@ -90,7 +90,7 @@
 <thumbnail>https://i.imgur.com/xcq5cCn.jpg</thumbnail>
 <fanart>https://i.imgur.com/IAzueiM.jpg</fanart>
 <info>Anthony y Rosemary son dos amantes irlandeses cuyas familias se ven envueltas en una enemistad por una parcela que separa sus dos granjas. Adaptación del musical "Outside Mullingar".<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=-CcJqfJZGU8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/xpx57c582xe56lg"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.to/f/gn1knkqzs46pg6"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/u4ymw0civ9nr"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-u8lx3r1at2pc.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1rmEqtaPIac3PA0tTWnUIAdUvU3oiQRWT/view"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=-CcJqfJZGU8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/xpx57c582xe56lg"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.to/f/gn1knkqzs46pg6"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/u4ymw0civ9nr"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-u8lx3r1at2pc.html"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:1c024e819768d54e52c6e8e9341c7d822d3f10cb"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1rmEqtaPIac3PA0tTWnUIAdUvU3oiQRWT/view"}</urlsolve>
 </item>
 
 
