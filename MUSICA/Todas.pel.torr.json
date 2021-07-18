@@ -7821,7 +7821,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi3": "https://cloudvideo.tv/embed-dx4yjoyssr7p.html", 
 				"kodi4": "https://femax20.com/v/76r3zhggdmgrnpl", 
 				"kodi5": "https://uqload.com/v0tpbp4hb28w.html"
-				"torrent": magnet:?xt=urn:btih:673754486d94cf5ab679452b00c6a72018affedd", 
+				"torrent": "magnet:?xt=urn:btih:673754486d94cf5ab679452b00c6a72018affedd", 
 				"torrent4k": ""
 				}				
 			]
@@ -32279,7 +32279,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			{
 			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Thriller, A2018, Letra M, Argentina, C720, Cine Latino, ",
 			"name": "Magali (2018)","coloryear": "aqua",
-			"image": https://www.themoviedb.org/t/p/original/qxOe63Q5Iqv6ggEsq7AL7DCELfY.jpg
+			"image": "https://www.themoviedb.org/t/p/original/qxOe63Q5Iqv6ggEsq7AL7DCELfY.jpg
 			"info": "Luego de recibir la noticia de que su madre ha muerto, Magali regresa a su pueblo natal en la puna argentina para reencontrarse con su hijo, a quien dejo a cargo de su abuela. Ahora debera enfrentarse con las emociones que implican el reencuentro familiar, con su comunidad y con los conflictos que rodean a su pueblo",
 			"genero": "Drama, Thriller",
 			"stations": [
@@ -45524,6 +45524,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent": "magnet:?xt=urn:btih:5815A0FD7E7EDFE9172C3864A6970A232718B2A1",
 				"torrent4k": ""
 				}
+			]
+			},
+			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, A2009, Letra C, Spain, C720, ",
+			"name": "Celda 211 (2009)","coloryear": "hotpink",
+			"image": "https://i.imgur.com/pipbkFN.jpg",
+			"info": "El día en que Juan (Alberto Ammann) empieza a trabajar en su nuevo destino como funcionario de prisiones, se ve atrapado en un motín carcelario. Decide entonces hacerse pasar por un preso más para salvar su vida y para poner fin a la revuelta, encabezada por el temible Malamadre (Luis Tosar). Lo que ignora es que el destino le ha preparado una encerrona",
+			"genero": "Thriller, Drama",
+			"stations": [
+				{
+				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi3": "https://vidia.tv/NO_LINK", 
+				"kodi4": "https://vidia.tv/NO_LINK", 
+				"kodi5": "https://femax20.com/v/plm64fmxgz3x8nx"
+				"torrent": "magnet:?xt=urn:btih:EDB45D9B49F22112BA5A7A038AE2376904019D4E&dn=HD1080",
+				"torrent4k": ""
+				}		
 			]
 			},
 			{
