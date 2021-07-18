@@ -36,6 +36,7 @@ Title:, SagaID:, Imagen:,
 Title:[COLOR gold]COLECCION [COLOR white]BRUCE LEE, SagaID:BruceLee, Imagen:https://img2.freepng.es/20171217/f54/bruce-lee-png-5a36a3ca1b5217.8431159015135303141119.jpg,		
 							-	0Saga, 1SagaTorrent, 
 Title:[COLOR gold]COLECCION [COLOR white]CLINT EASTWOOD, SagaID:ClintEastwood, Imagen:https://e00-elmundo.uecdn.es/especiales/cultura/clint-eastwood/img/tit-portada.png,	https://dbdzm869oupei.cloudfront.net/img/sticker/preview/5457.png
+
 							-	1Saga, 0SagaTorrent, 
 Title:101 DALMATAS, SagaID:P101Dalmatas, Imagen:https://i.pinimg.com/originals/ea/88/02/ea88020ae6386de5c4c688abab23ecc7.jpg,
 							-	1Saga, 1SagaTorrent, 
@@ -623,7 +624,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{
 				"kodi1": "https://femax20.com/v/lr-5gfnp-kkqdp0", "colorserver1": "lime",
-				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi2": "https://femax20.com/v/nry5ms2xdrd0wpd",
 				"kodi3": "https://vidia.tv/NO_LINK", 
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidoza.net/embed-pphqszqqhi3a-781x540.html"
@@ -641,7 +642,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{
 				"kodi1": "https://femax20.com/v/7g23dsg6-5gglpd", "colorserver1": "lime",
-				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi2": "https://femax20.com/v/-zj23hpln0emmd0",
 				"kodi3": "https://mixdrop.co/f/n09q63dzf4xgzl", 
 				"kodi4": "https://cloudvideo.tv/sdaows6b1spy", 
 				"kodi5": "https://vidia.tv/NO_LINK",  
@@ -716,9 +717,9 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{
 				"kodi1": "https://femax20.com/v/-kdmqupln5nj1yg", "colorserver1": "lime",
-				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi2": "https://femax20.com/v/05j27clnre1p0gd",
 				"kodi3": "https://femax20.com/v/05j27clnre1p0gd", 
-				"kodi4": "https://vidia.tv/NO_LINK", 
+				"kodi4": "https://femax20.com/v/ldn5mhnp4jx04jp", 
 				"kodi5": "https://vidia.tv/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:D651EBAD81A15DAE99CA1B716DE7F8C5F509BEDC&dn=BRRip",
 				"torrent4k": ""
@@ -752,8 +753,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{
 				"kodi1": "https://femax20.com/v/685p7u047g004g7", "colorserver1": "lime",
-				"kodi2": "https://vidia.tv/NO_LINK",
-				"kodi3": "https://mixdrop.co/f/xorkpq4milmev47", 
+				"kodi2": "https://femax20.com/v/xy4lzc5p0wx4wjr",
+				"kodi3": "https://femax20.com/v/05j27clnrmn1dy0", 
 				"kodi4": "https://cloudvideo.tv/ykx075dv3xjl", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:E63A24F08E92A81E1BE1F3F3806405A581FA7B2E&dn=BRRip",
@@ -1030,10 +1031,10 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{
 				"kodi1": "https://femax20.com/v/jd85gcdgj7ljd3z", "colorserver1": "lime",
-				"kodi2": "https://vidia.tv/NO_LINK",
-				"kodi3": "https://vidia.tv/NO_LINK", 
-				"kodi4": "https://vidia.tv/NO_LINK", 
-				"kodi5": "https://vidia.tv/NO_LINK"
+				"kodi2": "https://femax20.com/v/lnxj2inj2d7wel0",
+				"kodi3": "https://femax20.com/v/lnxj2inj2d7wel0", 
+				"kodi4": "https://vidoza.net/embed-a80a4v5mjwza-920x360.html", 
+				"kodi5": "https://vidoza.net/embed-m3qlrxch5jg6-920x360.html",
 				"torrent": "magnet:?xt=urn:btih:0C2A3176BC161FD4E9E9EED9DA6577F84A216DC3&dn=HD1080",  magnet:?xt=urn:btih:118E126CCC2FD6273560E12541E1A23A7116D166&dn=BRRip
 				"torrent4k": ""
 				}		
@@ -1582,7 +1583,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				{
 				"kodi1": "https://femax20.com/v/pz8jgtmypq6nxg6", "colorserver1": "lime",
 				"kodi2": "https://femax20.com/v/05j27cln-w-nl6z",
-				"kodi3": "https://mixdrop.co/f/9n780119c3qzq0k", 
+				"kodi3": "https://femax20.com/v/640p2u0484nmzj0", 
 				"kodi4": "https://cloudvideo.tv/28u30gcfv5t8", 
 				"kodi5": "https://vidoza.net/embed-vpz7mi4rggo3-920x360.html"
 				"torrent": "magnet:?xt=urn:btih:C6E0EE3DF10D7759C1FA8BCC1E5D9A301C755B5F&dn=BRRip",
@@ -2315,9 +2316,9 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{
 				"kodi1": "https://femax20.com/v/4ym04az6p-1rm87", "colorserver1": "lime",
-				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi2": "https://femax20.com/v/gqnjda-l40m7qpj",
 				"kodi3": "https://femax20.com/v/gqnjda-l40m7qpj", 
-				"kodi4": "https://vidoza.net/embed-2fjvv9fx3oal-920x360.html", 
+				"kodi4": "https://femax20.com/v/d8k0xfxrwj7w3l5", 
 				"kodi5": "https://vidoza.net/embed-ufbit605g7eq-920x360.html"
 				"torrent": "magnet:?xt=urn:btih:767EF743A12AFC199B0C430A3FA717557D8C12FC&dn=HD1080",  magnet:?xt=urn:btih:100BEC648D69F8AF87497E659788E541427A4367&dn=BRRip
 				"torrent4k": "magnet:?xt=urn:btih:9174F4220E3755A301D465ECD923031EFF8125B9&dn=UHDWeb"
@@ -2480,8 +2481,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{
 				"kodi1": "https://femax20.com/v/685p7u0w6lz1w2k", "colorserver1": "lime",
-				"kodi2": "https://femax20.com/v/47jdptz6lx-e-6k",
-				"kodi3": "https://vidia.tv/NO_LINK", 
+				"kodi2": "https://femax20.com/v/76r3zhglyr2kg2r",
+				"kodi3": "https://femax20.com/v/47jdptz6lx-e-6k", 
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:B442739423811AC8D19CF9871577201383E4591E&dn=HD1080",  magnet:?xt=urn:btih:FE45208C0A938DFEFB8EB77F5F2080B01A2FF082&dn=BRRip
@@ -5099,8 +5100,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{
 				"kodi1": "https://femax20.com/v/g42-yf-p7x-wzx0", "colorserver1": "lime",
-				"kodi2": "https://vidia.tv/NO_LINK",
-				"kodi3": "https://mixdrop.co/f/vne098wqin3ge1", 
+				"kodi2": "https://femax20.com/v/ky-j1u317-j2z8n",
+				"kodi3": "https://femax20.com/v/ldn5mhnpmx07-2w", 
 				"kodi4": "https://cloudvideo.tv/gc065ss8wvzj", 
 				"kodi5": "https://vidia.tv/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:C42ABEB1120BE0C5AA4A3A8788818ED2C49AA9D8&dn=BRRip",
@@ -6954,24 +6955,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent": "magnet:?xt=urn:btih:0DF3B4736E467FB4B22ECFAEB7E3DBBAA925F763&dn=BRRip",
 				"torrent4k": "",
 				"GDRIVE": "https://drive.google.com/file/d/1aHJ2mW8f9uy632Miepdar-tOXz0e4fhn/view?usp=sharing"
-				}		
-			]
-			},
-			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2020, Letra H, EEUU, C720, ",
-			"name": "Hermanos (Half Brothers) (2020)","coloryear": "magenta",
-			"image": "https://www.themoviedb.org/t/p/original/qaHcvVfMdWkBJS0zjnZfAII0nEu.jpg",
-			"info": "Renato Murguia es un hombre que lo tiene todo: es inteligente, dueño de una exitosa compañia, y esta a punto de casarse y emprender una nueva familia junto a su esposa e hijo. Unos pocos dias antes de la boda, recibe una inesperada llamada desde el otro lado de la frontera; que sacara a la luz una vieja herida que nunca se cerro, y lo llevara a emprender una travesia en la que se encontrara con muchos obstaculos, nuevas experiencias, y con la solucion a esa duda que lleva persiguiendolo desde hace tantos años",
-			"genero": "Comedia",
-			"stations": [
-				{
-				"kodi1": "https://femax20.com/v/lr-5gfnpmzn5mz2", "colorserver1": "lime",
-				"kodi2": "https://vidia.tv/NO_LINK",
-				"kodi3": "https://mixdrop.co/f/n09qgnkgtmx880", 
-				"kodi4": "https://cloudvideo.tv/kvb6bg7hpp7g", 
-				"kodi5": "https://vidia.tv/NO_LINK"
-				"torrent": "magnet:?xt=urn:btih:2025F6405B2EC340BB73A7D2D9CE97B3355D87CC&dn=BRRip",
-				"torrent4k": ""
 				}		
 			]
 			},
@@ -9183,6 +9166,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2020, Letra M, EEUU, C720, ",
+			"name": "Medio hermanos (Half Brothers) (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/qaHcvVfMdWkBJS0zjnZfAII0nEu.jpg",
+			"info": "Renato Murguia es un hombre que lo tiene todo: es inteligente, dueño de una exitosa compañia, y esta a punto de casarse y emprender una nueva familia junto a su esposa e hijo. Unos pocos dias antes de la boda, recibe una inesperada llamada desde el otro lado de la frontera; que sacara a la luz una vieja herida que nunca se cerro, y lo llevara a emprender una travesia en la que se encontrara con muchos obstaculos, nuevas experiencias, y con la solucion a esa duda que lleva persiguiendolo desde hace tantos años",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"kodi1": "https://femax20.com/v/lr-5gfnpmzn5mz2", "colorserver1": "lime",
+				"kodi2": "https://femax20.com/v/rzywphe4x80q6ed",
+				"kodi3": "https://mixdrop.co/f/n09qgnkgtmx880", 
+				"kodi4": "https://cloudvideo.tv/kvb6bg7hpp7g", 
+				"kodi5": "https://vidia.tv/NO_LINK"
+				"torrent": "magnet:?xt=urn:btih:2025F6405B2EC340BB73A7D2D9CE97B3355D87CC&dn=BRRip",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2020, Letra M, Spain, Csd, Netflix, ",
 			"name": "Menendez: El dia del Señor (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/dsQT8B6T7Ot1XJQlj6LxrZ7HjEK.jpg",
@@ -10217,8 +10218,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{
 				"kodi1": "https://femax20.com/v/3ezd3tm8y-dxw4q", "colorserver1": "lime",
-				"kodi2": "https://vidia.tv/NO_LINK",
-				"kodi3": "https://vidia.tv/NO_LINK", 
+				"kodi2": "https://femax20.com/v/y25zdae14l14dm1",
+				"kodi3": "https://femax20.com/v/3w6dyum8y8em022", 
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:D88F29DFBFFFA2C532A6334BAFCA5FA677D888A0&dn=HD1080",  magnet:?xt=urn:btih:21AEEF14D6F27C867CF037043DBA30C5E6B109D4&dn=BRRip
@@ -10999,7 +11000,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{
 				"kodi1": "https://femax20.com/v/ygxlwse30mqyen-", "colorserver1": "lime",
-				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi2": "https://femax20.com/v/-wzmxup10wjq165",
 				"kodi3": "https://mixdrop.co/f/7rdolxoki81mv9", 
 				"kodi4": "https://cloudvideo.tv/g7mdwi1s2aur", 
 				"kodi5": "https://vidia.tv/NO_LINK"
@@ -11541,7 +11542,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{
 				"kodi1": "https://femax20.com/v/dnm05bxr4e0-gjr", "colorserver1": "lime",
-				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi2": "https://femax20.com/v/ky-j1u3gr5-05mn",
 				"kodi3": "https://mixdrop.co/e/vn31njgjcvmdl1", 
 				"kodi4": "https://vidoza.net/embed-tcrrjeiz3tk8-920x360.html", 
 				"kodi5": "https://vidia.tv/NO_LINK"
@@ -13594,7 +13595,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{
 				"kodi1": "https://femax20.com/v/qm85gheg601gkrg", "colorserver1": "lime",   
-				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi2": "https://femax20.com/v/z75m0tjgjd36edx",
 				"kodi3": "https://mixdrop.co/f/rw3d3px4t89m3q", 
 				"kodi4": "https://cloudvideo.tv/g8ewj2hakadv", 
 				"kodi5": "https://vidia.tv/NO_LINK",
@@ -13686,8 +13687,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{
 				"kodi1": "https://femax20.com/v/dnm05bxd01p5l1g", "colorserver1": "lime",
-				"kodi2": "https://vidia.tv/NO_LINK",
-				"kodi3": "https://vidia.tv/NO_LINK", 
+				"kodi2": "https://femax20.com/v/dkwj4sxr35el5p8",
+				"kodi3": "https://femax20.com/v/ldn5mhnjrz3kpxl", 
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:5FC9BD840F93C6FED2CEF75E5E0D087DEE60975C&dn=BRRip",
@@ -16121,7 +16122,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{
 				"kodi1": "https://femax20.com/v/zn8lgbjgekn22mm", "colorserver1": "lime",
-				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi2": "https://femax20.com/v/m0y5eu5-2-d6mjp",
 				"kodi3": "https://vidia.tv/NO_LINK", 
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK"
@@ -17579,7 +17580,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{
 				"kodi1": "https://femax20.com/v/ygxlwse32p4g8yx", "colorserver1": "lime",
-				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi2": "https://femax20.com/v/xy4lzc58-mm1pz4",
 				"kodi3": "https://vidia.tv/NO_LINK", 
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK"
@@ -18160,7 +18161,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{
 				"kodi1": "https://femax20.com/v/7g23dsglnw372-r", "colorserver1": "lime",
-				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi2": "https://femax20.com/v/pyx4dumgkwr1kk3",
 				"kodi3": "https://mixdrop.co/f/o739dr7wtm9qj7", 
 				"kodi4": "https://cloudvideo.tv/wnlp9itdwpl5", 
 				"kodi5": "https://vidia.tv/NO_LINK"
@@ -18866,6 +18867,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent": "magnet:?xt=urn:btih:452241252502E7AA181DF61FD95696153A93CA4C&dn=BRRip",
 				"torrent4k": "",
 				"GDRIVE": "https://drive.google.com/file/d/1R812fbXtLRrMQcVI_0esRYCUkteEfi_Y/view?usp=sharing"
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2019, Letra I, Venezuela, C720, Cine Latino, ",
+			"name": "Infieles (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/7BKOJNgXqxwvSCbcZXFBXZOpWko.jpg",
+			"info": "María Luisa y Sebastián son una pareja de infieles. Tienen una relación y engañan a sus parejas oficiales, Ximena y Guillermo. Una noche comparten los cuatro en el teatro y en una fiesta. Después de eso María Luisa desaparece. El final es tan difícil como inesperado",
+			"genero": "Drama",
+			"stations": [
+				{
+				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi3": "https://vidia.tv/NO_LINK", 
+				"kodi4": "https://vidia.tv/NO_LINK", 
+				"kodi5": "https://vidia.tv/NO_LINK"
+				"torrent": "magnet:?xt=urn:btih:5F689ABBA3E43167F28E8B15AB7F73F3CB18535D&dn=BRRip",
+				"torrent4k": ""
 				}		
 			]
 			},
@@ -26344,7 +26363,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{
 				"kodi1": "https://femax20.com/v/r28wghegy1gmnqj", "colorserver1": "lime",
-				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi2": "https://femax20.com/v/qyx60ueg4w76e3z",
 				"kodi3": "https://mixdrop.co/f/0v8zdw67sz8m8l", 
 				"kodi4": "https://cloudvideo.tv/gd8uwowhjvac", 
 				"kodi5": "https://vidia.tv/NO_LINK"
@@ -34676,7 +34695,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{
 				"kodi1": "https://femax20.com/v/3ezd3tmxjeq71dy", "colorserver1": "lime",   
-				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi2": "https://femax20.com/v/87p4zu8x8qw8znd",
 				"kodi3": "https://mixdrop.co/f/dqleldo7h7r17j", 
 				"kodi4": "https://cloudvideo.tv/3yzxj52vpp20", 
 				"kodi5": "https://vidia.tv/NO_LINK",
@@ -48819,7 +48838,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi5": "https://dl.dropboxusercontent.com/s/uli9em8kzgoveov/Fabulas-Disney-Vol.1.avi?dl=0"
 				"torrent": "",
 				"torrent4k": "",		
-				"GDRIVE": "https://drive.google.com/file/d/1Zz63Q30TC2E5RolRyJggqJ5Mr4lpX5ae/view?usp=sharing",		
+				"GDRIVE": "https://drive.google.com/file/d/1Zz63Q30TC2E5RolRyJggqJ5Mr4lpX5ae/view?usp=sharing",	
+				}
 			]
 			},
 			{
