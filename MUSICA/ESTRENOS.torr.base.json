@@ -19,6 +19,24 @@
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Drama, A2020, Letra C, EEUU, Crimen, Robos, Atracos, ",
+			"name": "Ciudad de asesinos (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/wMqEuChVTNIeKfm7FMjxippjULT.jpg",
+			"info": "Cuatro amigos de un barrio pobre de Nueva Orleans regresan a sus casas después del paso del huracán Katrina, para encontrar sus casas diezmadas, sin trabajo y sin la ayudas oficiales. Sin apenas opciones, recurren a regañadientes a un gángster local, que les ofrece una oportunidad para cambiar su situación realizando un peligroso atraco en el corazón de la ciudad. Cuando el trabajo sale mal, los amigos huyen, pero son perseguidos por dos detectives implacables y un mafioso del vecindario que cree que se han llevado el dinero del atraco",
+			"genero": "Accion, Drama",
+			"stations": [
+				{
+				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi3": "https://vidia.tv/NO_LINK", 
+				"kodi4": "https://vidia.tv/NO_LINK", 
+				"kodi5": "https://vidia.tv/NO_LINK"
+				"torrent": "magnet:?xt=urn:btih:D1C0CFF989ADD6FEEE64A179EE61D4A6083F266B&dn=BRRip",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra O, Dinamarca, C720, ",
 			"name": "Otra ronda (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/fIsfoGihrmtOQZ7JtgxOc59V9ix.jpg",
@@ -28,8 +46,8 @@
 				{
 				"kodi1": "https://femax20.com/v/mp85-u5-x2rzlr4", "colorserver1": "lime",
 				"kodi2": "https://vidia.tv/NO_LINK",
-				"kodi3": "https://vidia.tv/NO_LINK", 
-				"kodi4": "https://vidia.tv/NO_LINK", 
+				"kodi3": "https://mixdrop.co/f/0v8j87e6brp13", 
+				"kodi4": "https://cloudvideo.tv/s1cu0a49tqh9", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:0585DB5D1C4AB6BF9AF3BFD888E65AFBAB5CE076&dn=HD1080",    magnet:?xt=urn:btih:529ADECFF28B10A323A4FCB1DDBEB9081B231904&dn=BRRip
 				"torrent4k": ""
