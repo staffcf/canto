@@ -199,6 +199,8 @@ Title:MILLENNIUM, SagaID:Millennium, Imagen:https://miro.medium.com/max/2560/1*8
 Title:MISION IMPOSIBLE, SagaID:MisionImposible, Imagen:https://4.bp.blogspot.com/-z71e9VUDYUI/VcJ1c4G6y7I/AAAAAAAACDU/N24k2w9rbXE/s1600/Mission-Impossible.png,
 							-	0Saga, 1SagaTorrent, 
 Title:OBJETIVO (HAS FALLEN), SagaID:HasFallen, Imagen:https://images-na.ssl-images-amazon.com/images/I/81McpFq3KDL._SL1500_.jpg,
+							-	1Saga, 1SagaTorrent, 
+Title:OCEAN'S, SagaID:Oceans, Imagen:https://i.ytimg.com/vi/OgqkXi5egwg/maxresdefault.jpg,
 							-	0Saga, 1SagaTorrent, 
 Title:PACIFIC RIM, SagaID:PacificRim, Imagen:https://thegeekiary.com/wp-content/uploads/2013/07/pacific-rim-50e1a0646e108.png,
 							-	1Saga, 1SagaTorrent, 
@@ -1665,7 +1667,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			},
 			{
 			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Comedia, 1Fantastico, A2021, Letra L, EEUU, ",
-			"name": "Los Simpson: La buena, el malo y Loki (Corto) (2021)","coloryear": "cyan",
+			"name": "Los Simpson: La buena, el malo y Loki [COLOR orangered](Cortometraje) (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/rtMdtzywcAGOrF6t8fbxJBqpdcq.jpg",
 			"info": "Loki es desterrado de Asgard una vez mas y debe enfrentarse a sus oponentes mas duros hasta el momento: Los Simpson y los heroes mas poderosos de Springfield. El Dios del engaño se une a Bart Simpson en el evento crossover definitivo que rinde homenaje al universo cinematografico de superheroes y villanos de Marvel",
 			"genero": "Animacion, Comedia, Fantastico",
@@ -3870,10 +3872,10 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Fantastico, A2020, Letra M, Spain, ",
-			"name": "Blue & Malone: Casos imposibles (2020)","coloryear": "magenta",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Fantastico, A2020, Letra B, Spain, ",
+			"name": "Blue & Malone: Casos imposibles [COLOR orangered](Cortometraje) (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/kfnuAz9WuXbLgb6cNfeKuuaGwZB.jpg",
-			"info": "Berta (Aura Garrido), una joven periodista aplastada por el estres, visita el viejo teatro en el que trabajaba su abuela la noche antes de que lo derriben, pero no esta del todo abandonado. Mortando Malone (Alex O´Dogherty) y Big Blue Cat, sus antiguos amigos imaginarios, le ayudaran a resolver un caso imposible: recuperar sus ganas de soñar",
+			"info": "Berta (Aura Garrido), una joven periodista aplastada por el estrés, visita el viejo teatro en el que trabajaba su abuela la noche antes de que lo derriben, pero no está del todo abandonado. Mortando Malone (Alex O´Dogherty) y Big Blue Cat, sus antiguos amigos imaginarios, le ayudarán a resolver un caso imposible: recuperar sus ganas de soñar",
 			"genero": "Animacion, Fantastico",
 			"stations": [
 				{
@@ -33215,20 +33217,20 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Accion, A2018, Letra O, EEUU, Crimen, Robos, Atracos, ",
+			"tag": " 1Peliscristal, 1Torrentcristal, 1Torrent4k, 1Comedia, 1Accion, A2018, Letra O, EEUU, Juego, Crimen, Robos, Atracos, Sagas Oceans, ",
 			"name": "Oceans 8: Las Estafadoras (2018)","coloryear": "aqua",
 			"image": "https://www.ecartelera.com/carteles/11800/11846/011_p.jpg",
 			"info": "Debbie, hermana de Danny Ocean, decide cometer el atraco del siglo en la gala Met anual que se celebra en Nueva York. El primer paso sera conseguir al equipo criminal perfecto: Lou, Rose, Daphne Kluger, Nine Ball, Tammy, Amita y Constance",
 			"genero": "Comedia, Accion",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/dq3v31wvt7md67z/", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/la65wb70",
-				"kodi3": "https://femax20.com/v/65g86s0587knj7z", 
-				"kodi4": "https://vidia.tv/NO_LINK/gounlimited.to/embed-alcxlc96nprj.html", 
-				"kodi5": "https://femax20.com/v/ek3dma-qzd12yde"
-				"torrent": "magnet:?xt=urn:btih:c560160ae584153bc20140f0ea389ab470ccb085",
-				"torrent4k": ""
+				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi3": "https://vidia.tv/NO_LINK", 
+				"kodi4": "https://vidia.tv/NO_LINK", 
+				"kodi5": "https://femax20.com/v/1l9611-80lv"
+				"torrent": "magnet:?xt=urn:btih:c2118c54811a0eeeef2eb1a040d1a9c74edeb568&dn=HD1080",    magnet:?xt=urn:btih:F311E2B426832F8D5AAD9992BC276A6A95E5B2F9&dn=BRRip
+				"torrent4k": "magnet:?xt=urn:btih:BC528EFE130B335F7DFE76F142062DC5E48633FC&dn=UHDRemux"
 				}			
 			]
 			},
@@ -45912,6 +45914,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2009, Letra T, EEUU, 1Hechos reales, Deporte, Familia, Adopcion, ",
+			"name": "The Blind Side (Un sueño posible) (2009)","coloryear": "hotpink",
+			"image": "https://www.themoviedb.org/t/p/original/kB2PtljseiPZQzDTFOthO3orzXj.jpg",
+			"info": "Basada en una historia real. Michael Oher, un joven negro sin hogar, es acogido por los Touhy, una rica familia blanca, dispuesta a darle todo su apoyo para que pueda triunfar tanto como jugador de fútbol americano como en su vida privada. Por su parte, Oher también influirá con su presencia en la vida de la familia Touhy",
+			"genero": "Drama",
+			"stations": [
+				{
+				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi3": "https://vidia.tv/NO_LINK", 
+				"kodi4": "https://vidia.tv/NO_LINK", 
+				"kodi5": "https://vidia.tv/NO_LINK"
+				"torrent": "magnet:?xt=urn:btih:93EA61C5BBF19F11F86DE65EC9C706571314F82A&dn=DVDRip",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 1Peliscristal, 0Torrentcristal, 0Torrent4k, 1Terror, A2009, Letra T, Holanda, 1Culto, ",
 			"name": "The Human Centipede (First Sequence) (2009)","coloryear": "hotpink",
 			"image": "https://www.themoviedb.org/t/p/original/gMtjxIkEi0hnTV5lPHbgeZ4ZpUZ.jpg",
@@ -46990,6 +47010,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Intriga, A2007, Letra O, EEUU, Juego, Crimen, Robos, Atracos, Sagas Oceans, ",
+			"name": "Ocean's 13 (Ocean's Thirteen) (2007)","coloryear": "steelblue",
+			"image": "https://www.themoviedb.org/t/p/original/hcPADu8cpIn8oGHSHraoYadlrN2.jpg",
+			"info": "Danny Ocean (George Clooney) y su banda preparan un ambicioso y arriesgado plan para robar un casino. Su único objetivo, en este caso, es defender a uno de los suyos, que ha sido engañado por Willy Bank (Al Pacino), el despiadado dueño del casino",
+			"genero": "Thriller, Intriga",
+			"stations": [
+				{
+				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi3": "https://vidia.tv/NO_LINK", 
+				"kodi4": "https://vidia.tv/NO_LINK", 
+				"kodi5": "https://femax20.com/v/e7y5ju-04jeq81g"
+				"torrent": "magnet:?xt=urn:btih:019F526753569237EFA1BDEA299153719CB43F3B&dn=HD720",  magnet:?xt=urn:btih:3D020BCF84A851F6E9CF3F9A953AD6AF304CC1DD&dn=DVDRip
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 1Peliscristal, 1Torrentcristal, 1Torrent4k, 1Aventuras, 1Fantastico, 1Comedia, 1Accion, A2007, Letra P, EEUU, Piratas, Sagas PDC, ",
 			"name": "Piratas Del Caribe 3: En El Fin Del Mundo (2007)","coloryear": "steelblue",
 			"image": "https://www.ecartelera.com/carteles/1400/1480/001_p.jpg",
@@ -47217,6 +47255,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:ef6t377wwlmzmayz6ahjictlpdza2tgg",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Fantastico, 1Romance, A2006, Letra A, EEUU, ",
+			"name": "Aquamarine (2006)","coloryear": "olive",
+			"image": "https://www.themoviedb.org/t/p/original/ka0EFKN7BzUATvLpDASSfVbtdRq.jpg",
+			"info": "Claire (Emma Roberts) y Hailey (Joanna 'JoJo' Levesque) son dos grandes amigas de trece años de edad que se embarcan en la aventura de sus vidas cuando descubren a una sirena llamada Aquamarine (Sara Paxton) dentro de una piscina. Aquamarine ha aparecido en tierra tras una gran tormenta que ha golpeado duramente el club de playa de una pequeña ciudad de Florida, en la que Claire vive con sus padres. Claire y Hailey están tratando de aceptar la inminente partida de Hailey: se va a vivir a Australia, con su madre que es bióloga marina, después del último fin de semana del verano. La sirena, guapa y de pelo azul, de dieciocho años, ha abandonado su hogar justo antes de su matrimonio arreglado, en busca del amor verdadero. Si logra demostrar a su padre que ese tipo de amor no es un mito, la dejará cancelar la boda bajo el agua; pero sólo le ha dado tres días. Aqua reclama la ayuda de Claire y Hailey, quienes supuestamente son dos grandes expertas en el tema, las cuales se han instruido a través de las páginas de las revistas que leen y citan a diario",
+			"genero": "Comedia, Fantastico, Romance",
+			"stations": [
+				{
+				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi3": "https://vidia.tv/NO_LINK", 
+				"kodi4": "https://vidia.tv/NO_LINK", 
+				"kodi5": "https://vidia.tv/NO_LINK"
+				"torrent": "magnet:?xt=urn:btih:78B970F1EA9CA9BAC2A373F03A2D062F1E67DB43&dn=HD720",
 				"torrent4k": ""
 				}		
 			]
@@ -48647,6 +48703,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Intriga, A2004, Letra O, EEUU, Juego, Crimen, Robos, Atracos, Sagas Oceans, ",
+			"name": "Ocean's Twelve (2004)","coloryear": "yellow",
+			"image": "https://www.themoviedb.org/t/p/original/guLJDVIqumv9C4iEpuuzqZIhEi1.jpg",
+			"info": "Danny Ocean (Clooney), Tess (Roberts) y su banda vuelven a formar equipo. Esta vez el golpe será múltiple: tres espectaculares atracos en tres lugares diferentes, Roma, París y Ámsterdam. En Ámsterdam, el premio es un Rembrandt. Mientras tanto, el propietario del casino de Las Vegas Terry Benedict (García), a quien Ocean y su banda robaron en una ocasión, no ha renunciado a vengarse de ellos",
+			"genero": "Thriller, Intriga",
+			"stations": [
+				{
+				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi3": "https://vidia.tv/NO_LINK", 
+				"kodi4": "https://vidia.tv/NO_LINK", 
+				"kodi5": "https://femax20.com/v/d6xejfxnd2qej3m"
+				"torrent": "magnet:?xt=urn:btih:FCC6FE71DC18AAD8317DA280BBDDA756A07BD902&dn=HDRip",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Ciencia ficcion, 1Fantastico, A2004, Letra R, Canada, Sagas ResidentEvil, ",
 			"name": "Resident Evil 2: Apocalipsis (2004)","coloryear": "yellow",
 			"image": "https://www.themoviedb.org/t/p/original/h8FFSlEq9DjUP6i9M6vIPFWw8ad.jpg",
@@ -49745,6 +49819,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Intriga, A2002, Letra R, EEUU, Fotografia, ",
+			"name": "Retratos de una obsesion (2002)","coloryear": "skyblue",
+			"image": "https://www.themoviedb.org/t/p/original/1xynnAiIp20CuXJHN3bqljtWgGO.jpg",
+			"info": "Sy (Robin Williams) trabaja como dependiente en una tienda de revelado rápido de fotos en unos grandes almacenes. Es un hombre solitario, tranquilo y sensible, con un único defecto: necesita una familia a la que querer y cuidar. Ahora por fin la ha encontrado... y está dispuesto a hacer lo qué sea para mantenerla como a él le gusta",
+			"genero": "Thriller, Intriga",
+			"stations": [
+				{
+				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi3": "https://vidia.tv/NO_LINK", 
+				"kodi4": "https://vidia.tv/NO_LINK", 
+				"kodi5": "https://vidia.tv/NO_LINK"
+				"torrent": "magnet:?xt=urn:btih:09C72A3B258E0D72EDCC605C4AC64412760FF760&dn=DVDRip",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 1Peliscristal, 1Torrentcristal, 1Torrent4k, 1Fantastico, 1Accion, A2002, Letra S, EEUU, Superheroes, Marvel, Comics, Sagas Spider-Man, ",
 			"name": "Spider-Man (2002)","coloryear": "skyblue",
 			"image": "https://www.ecartelera.com/carteles/4500/4578/001_p.jpg",
@@ -50136,6 +50228,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:540BD978FB44B6B28552BA2F7922109782B8F3C2&dn=DVDRip",  magnet:?xt=urn:btih:EAF3760EFA11B19722FFC211ED82C1510CE8EBAD&dn=BDR1080
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Intriga, A2001, Letra O, EEUU, Juego, Crimen, Robos, Atracos, Sagas Oceans, ",
+			"name": "Ocean's Eleven (Hagan Juego) (2001)","coloryear": "seagreen",
+			"image": "https://www.themoviedb.org/t/p/original/9HrI2krsZ6ZoteeniZjOQ7mFbPx.jpg",
+			"info": "Danny Ocean es un carismático ladrón que, tan sólo 24 horas después de cumplir una larga condena en prisión, ya está planeando su próximo delito. Su objetivo: realizar el mayor atraco de casinos de la historia. Para ello formará un equipo de once hombres, cada uno de ellos el mejor en su campo. Sin embargo surgirá un problema inesperado: el dueño de los locales, Terry Benedic, está saliendo con Tess, su exmujer",
+			"genero": "Thriller, Intriga",
+			"stations": [
+				{
+				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi3": "https://vidia.tv/NO_LINK", 
+				"kodi4": "https://vidia.tv/NO_LINK", 
+				"kodi5": "https://femax20.com/v/5w2p0adgx3g1xxg"
+				"torrent": "magnet:?xt=urn:btih:3BAB9B9E323E376F3E64C03D596740AA2FA3A32E&dn=HDRip",  magnet:?xt=urn:btih:158114A2CED133CEE820130851C9C92650AA4287&dn=HDRip
 				"torrent4k": ""
 				}		
 			]
@@ -54650,6 +54760,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, A1987, Letra T, EEUU, Drogas, B2000, A1990-1981, ",
+			"name": "Traicion sin limites (1987)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/qFOGsbPVG9E7V03AvKbEUFjmFsl.jpg",
+			"info": "La frontera mexicana, una misión secreta del gobierno federal y dos amigos de la infancia enfrentados; un Texas Ranger y un capo de la droga, en una película que obtuvo unas críticas aceptables en Estados Unidos",
+			"genero": "Accion",
+			"stations": [
+				{
+				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi3": "https://vidia.tv/NO_LINK", 
+				"kodi4": "https://vidia.tv/NO_LINK", 
+				"kodi5": "https://vidia.tv/NO_LINK"
+				"torrent": "magnet:?xt=urn:btih:8592D601116ECA5F01F26F875B6EA85903D045B3&dn=HD720",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Terror, A1986, Letra A, EEUU, Extraterrestres, Sagas Alien, B2000, A1990-1981, ",
 			"name": "Aliens: El regreso (1986)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/3QU9EP8BFLnTh6w9ycDSCvhqbRU.jpg",
@@ -58741,6 +58869,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent": "magnet:?xt=urn:btih:281D16439756E178F2273D5F59C9721648855780",
 				"torrent4k": "magnet:?xt=urn:btih:665B4B723C9727A89E3949547336A15B5633A4CF",  magnet:?xt=urn:btih:4B0FAFC22B64338F4FFC83E43C423AFF8100409C
 				"GDRIVE": "https://drive.google.com/file/d/1a48FPHAHaNhWi5ZiSIj4Ciiz44ipyCx6/view?usp=sharing"
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Comedia, 1Intriga, A1960, Letra L, EEUU, Juego, Crimen, Robos, Atracos, B2000, A1960-1951, Sagas Oceans, ",
+			"name": "La cuadrilla de los once (1960)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/wDJzbzmcv02ZqutDr2MwredPN0y.jpg",
+			"info": "Once amigos, compañeros de armas en la II Guerra Mundial (1939-1945), planean robar, en una sola noche, cinco de los mayores casinos de Las Vegas. En el año 2001 Steven Soderbergh hizo un remake con un gran reparto: George Clooney, Brad Pitt y Julia Roberts",
+			"genero": "Thriller, Comedia, Intriga",
+			"stations": [
+				{
+				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi3": "https://vidia.tv/NO_LINK", 
+				"kodi4": "https://vidia.tv/NO_LINK", 
+				"kodi5": "https://vidia.tv/NO_LINK"
+				"torrent": "https://www.dropbox.com/s/8ode4lg4wyp7rj6/La%20cuadrilla%20de%20los%20once.torrent?dl=1",
+				"torrent4k": ""
 				}		
 			]
 			},
