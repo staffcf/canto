@@ -12,7 +12,7 @@
 <thumbnail>https://i.imgur.com/zx6vQ1e.jpg</thumbnail>
 <fanart>https://i.imgur.com/vadyrgl.jpg</fanart>
 <info>Cuatro profesores de instituto se embarcan en un experimento sociológico en el que cada uno de ellos deberá mantener la tasa de alcohol en su cuerpo al mismo nivel, durante su vida diaria, intentando demostrar de esa manera que pueden mejorar en todos los aspectos de su vida.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=5pLZ_DB1RPo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/-46j3up164nwldg"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.to/f/rw39gj4zam7vlp"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/theqls0kworu"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/c0kskzqrsr8v"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1ZIAkPQQhQDRfv4vyn5h7yxqNf1Y9EJm-/view"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=5pLZ_DB1RPo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/-46j3up164nwldg"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.to/f/rw39gj4zam7vlp"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/theqls0kworu"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/c0kskzqrsr8v"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/154428_-1626613925-Otra-ronda--BluRay-1080p.torrent"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1ZIAkPQQhQDRfv4vyn5h7yxqNf1Y9EJm-/view"}</urlsolve>
 </item>
 
 
