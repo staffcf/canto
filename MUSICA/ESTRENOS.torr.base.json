@@ -19,6 +19,24 @@
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Accion, A2019, Letra E, Rusia, ",
+			"name": "Escapada al limite (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/fTI9nWBgtEeSMvN1wnPO8plT4Sz.jpg",
+			"info": "Cuando un cuarteto de jóvenes abandonan Moscú para ocultarse luego de provocar un estrepitoso accidente, pretenden disfrutar una idílica escapada en la naturaleza de Altái. Sin embargo, el viaje se convierte en una pesadilla cuando un grupo de extraños los obligan a luchar contra todo para sobrevivir",
+			"genero": "Thriller, Accion",
+			"stations": [
+				{
+				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi3": "https://vidia.tv/NO_LINK", 
+				"kodi4": "https://vidia.tv/NO_LINK", 
+				"kodi5": "https://vidia.tv/NO_LINK"
+				"torrent": "magnet:?xt=urn:btih:E05B94D4855FD1B2A95378E08ACB7F7055D540C4&dn=BRRip",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Drama, A2020, Letra C, EEUU, Crimen, Robos, Atracos, ",
 			"name": "Ciudad de asesinos (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/wMqEuChVTNIeKfm7FMjxippjULT.jpg",

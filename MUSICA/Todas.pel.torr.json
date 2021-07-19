@@ -263,7 +263,7 @@ Title:THOR, SagaID:Thor, Imagen:https://www.revanchamag.com/wp-content/uploads/2
 Title:TIBURON, SagaID:Tiburon, Imagen:https://www.ecestaticos.com/imagestatic/clipping/b14/4ec/b144ec931b6ca6fcc87f3e8b06de6118.jpg,
 							-	0Saga, 1SagaTorrent, 
 Title:TORTUGAS NINJA, SagaID:TortugasNinja, Imagen:https://vgboxart.com/resources/logo/9582_teenage-mutant-ninja-turtles-2014-prev.png,				
-							-	1Saga, 0SagaTorrent, 
+							-	1Saga, 1SagaTorrent, 
 Title:TORRENTE, SagaID:Torrente, Imagen:https://www.itespresso.es/wp-content/uploads/2011/12/Torrente.jpg,
 							-	1Saga, 1SagaTorrent, 
 Title:TRAINSPOTTING, SagaID:Trainsp, Imagen:https://www.theatermania.com/dyn/graphics/theatermania/v10w223/trainspotting-live-logo-77146.jpeg,		
@@ -1315,6 +1315,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent4k": "magnet:?xt=urn:btih:D79551D21C302282FB5553BC9C2D59AF8515F106",
 				"GDRIVE": "https://drive.google.com/file/d/1Ifn5pMu33teT_6u7npLUtScS0D2tCORR/view?usp=sharing", 
 				"GDRIVE4K": "https://drive.google.com/file/d/1mo5Tq0V9E9EjkJfDuA6IJrQed2pohdQh/view?usp=sharing"
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2021, Letra J, Mexico, Cine Latino, ",
+			"name": "Juega conmigo (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/iM5kNvZzcMSmWv7CFTxnTu5zfoa.jpg",
+			"info": "Sofía, una joven insegura, comienza a trabajar en una casa cuidando a dos hermanos de carácter problemático, que le harán su estancia sumamente difícil. Sin embargo, durante una noche en que los padres están ausentes, los niños serán acosados por una entidad demoníaca y Sofía tendrá que tomar parte en un terrorífico juego para intentar salvarlos",
+			"genero": "Terror",
+			"stations": [
+				{
+				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi3": "https://vidia.tv/NO_LINK", 
+				"kodi4": "https://vidia.tv/NO_LINK", 
+				"kodi5": "https://vidia.tv/NO_LINK"
+				"torrent": "magnet:?xt=urn:btih:d6afc771245fcf176547a84c7e1fda6c8587d076&dn=HD1080",  https://www.alt-torrent.com/torrent/7326_1623899942.torrent
+				"torrent4k": ""
 				}		
 			]
 			},
@@ -17653,6 +17671,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Accion, A2019, Letra E, Rusia, ",
+			"name": "Escapada al limite (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/fTI9nWBgtEeSMvN1wnPO8plT4Sz.jpg",
+			"info": "Cuando un cuarteto de jóvenes abandonan Moscú para ocultarse luego de provocar un estrepitoso accidente, pretenden disfrutar una idílica escapada en la naturaleza de Altái. Sin embargo, el viaje se convierte en una pesadilla cuando un grupo de extraños los obligan a luchar contra todo para sobrevivir",
+			"genero": "Thriller, Accion",
+			"stations": [
+				{
+				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi3": "https://vidia.tv/NO_LINK", 
+				"kodi4": "https://vidia.tv/NO_LINK", 
+				"kodi5": "https://vidia.tv/NO_LINK"
+				"torrent": "magnet:?xt=urn:btih:E05B94D4855FD1B2A95378E08ACB7F7055D540C4&dn=BRRip",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Terror, 1Intriga, A2019, Letra E, EEUU, ",
 			"name": "Escape Room: Sin Salida (2019)","coloryear": "limegreen",
 			"image": "https://www.themoviedb.org/t/p/original/yzjSPPY2qRws12VSprJG33bPnRQ.jpg",
@@ -21136,7 +21172,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			},
 			{
 			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2019, Letra L, Spain, Drogas, Remake, ",
-			"name": "Lo Dejo Cuando Quiera (2019)","coloryear": "limegreen",
+			"name": "Lo dejo cuando quiera (2019)","coloryear": "limegreen",
 			"image": "https://www.themoviedb.org/t/p/original/kc7QqM63sQzeZ5vZbLLF5oxO5Nv.jpg",
 			"info": "Amigos desde la facultad y sobradamente preparados, Pedro, Arturo y Eligio son tres profesores universitarios a los que la crisis ha dejado sin trabajo. Cansados y sin blanca, encuentran accidentalmente la solucion a sus problemas en el proyecto de investigacion en el que Pedro lleva años trabajando: un complejo vitaminico que ofrece, para su sorpresa, desfase a tope sin efectos secundarios. Los tres profesores, con el apoyo de Anabel, una abogada reconvertida en empleada de gasolinera, y de Jota, una alumna mas interesada en la juerga que en los estudios, se lanzaran al mundo de la noche y de los negocios turbios para comercializar la mercancia. Algo para lo que no parecen estar aun tan sobradamente preparados",
 			"genero": "Comedia",
@@ -21190,7 +21226,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			},
 			{
 			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2019, Letra L, Spain, Inmigracion, TVE, ",
-			"name": "Lo Nunca Visto (2019)","coloryear": "limegreen",
+			"name": "Lo nunca visto (2019)","coloryear": "limegreen",
 			"image": "https://www.themoviedb.org/t/p/original/r6FCJoucFzEqplnKG2GFkLIQMgq.jpg",
 			"info": "Teresa (Carmen Machi) ve apagarse Fuentejuela de Arriba, la pequeña aldea de la montaña donde ha vivido toda su vida. Pero el pueblo recibe una visita inesperada: en medio de la nieve aparece un desubicado grupo de africanos… cuya llegada conmociona la aldea. Teresa lo tiene claro: huidos de una situacion de explotacion a la que habian llegado engañados, los africanos quieren quedarse en España como sea… y esa puede ser la solucion al problema de falta de habitantes en el pueblo. Con ayuda de sus amigos Jaime (Pepon Nieto), y el 'Guiri' (Jon Kortajarena) decide ocultarlos y armar un plan. Poniendo patas arriba prejuicios y expectativas, los recien llegados y los habitantes locales trabajaran juntos para que su hogar continue existiendo",
 			"genero": "Comedia",
@@ -21222,6 +21258,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent": "",
 				"torrent4k": "",
 				"GDRIVE": "https://drive.google.com/file/d/1f5sMpjLB6LcDPfx0gqXGEzeorBFfDO1n/view?usp=sharing"
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2019, Letra L, Argentina, Cine Latino, ",
+			"name": "Lobos (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/gSucDXSl15c3AL1Qr79yIJUbZe7.jpg",
+			"info": "Crónica de una familia y su acto desesperado por mantener su forma de vida. Los Nieto son victimarios pero pronto serán víctimas de un poder que los empuja a un destino irreversible",
+			"genero": "Thriller",
+			"stations": [
+				{
+				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi3": "https://vidia.tv/NO_LINK", 
+				"kodi4": "https://vidia.tv/NO_LINK", 
+				"kodi5": "https://vidia.tv/NO_LINK"
+				"torrent": "magnet:?xt=urn:btih:F51F8FACA1951AB6A61282B2A7DD0E8772D5F1F5&dn=BRRip",
+				"torrent4k": ""
 				}		
 			]
 			},
@@ -37343,6 +37397,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Comedia, A2017, Letra F, Argentina, Cine Latino, ",
+			"name": "Fontanarrosa, lo que se dice un idolo (2017)","coloryear": "green",
+			"image": "https://www.themoviedb.org/t/p/original/x7QU2tPNzYP6tf8J2jsLA79XIPo.jpg",
+			"info": "Seis directores de cine rosarinos y actores argentinos reconocidos comienzan el rodaje de los seis cuentos que conformarán ”Fontanarrosa, Lo que se dice un ídolo”, el largometraje en homenaje a Roberto Fontanarrosa; uno de los talentos más destacados y representativos no solo de la ciudad de Rosario sino de la cultura argentina y latinoamericana",
+			"genero": "Drama, Comedia",
+			"stations": [
+				{
+				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi3": "https://vidia.tv/NO_LINK", 
+				"kodi4": "https://vidia.tv/NO_LINK", 
+				"kodi5": "https://vidia.tv/NO_LINK"
+				"torrent": "magnet:?xt=urn:btih:27D8BC85AB2DCD577E30F81B96A95ED26B89C4E8&dn=BRRip",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2017, Letra F, Spain, Internet, Informatica, ",
 			"name": "Framed (2017)","coloryear": "green",
 			"image": "https://m.media-amazon.com/images/M/MV5BYzQyZTIzOGQtZTY1Ni00MDQxLWI5MTQtMzRhYzhmNGQwZWFiXkEyXkFqcGdeQXVyNTQwNjcwMTc@.jpg",
@@ -42861,7 +42933,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi3": "http://ok.ru/videoembed/2115829500532", 
 				"kodi4": "https://vidfast.co/embed-vh8ipx3vt98x.html", 
 				"kodi5": "https://uqload.com/wt2nttt9df30.html"
-				"torrent": "magnet:?xt=urn:btih:19E60E48F865176E053B175BE83D08DBB2DF384D&HD1080",
+				"torrent": "magnet:?xt=urn:btih:19E60E48F865176E053B175BE83D08DBB2DF384D&dn=HD1080",  https://www.alt-torrent.com/torrent/7472_1626656756.torrent
 				"torrent4k": ""
 				}			
 			]
@@ -44766,7 +44838,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi3": "http://ok.ru/videoembed/2115827468916", 
 				"kodi4": "https://vidfast.co/embed-z28bn5e4dg78.html", 
 				"kodi5": "https://uqload.com/pzdaqca0uv1n.html"
-				"torrent": "magnet:?xt=urn:btih:5asc27mow2s3l74huunp34xomy4ua6vo&DVDRip",
+				"torrent": "https://www.alt-torrent.com/torrent/7472_1626656756.torrent",  magnet:?xt=urn:btih:5asc27mow2s3l74huunp34xomy4ua6vo&dn=DVDRip
 				"torrent4k": ""
 				}	
 			]
@@ -48204,7 +48276,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi3": "http://ok.ru/videoembed/2115705637492", 
 				"kodi4": "https://vidfast.co/embed-3nald20t6cd5.html", 
 				"kodi5": "https://uqload.com/5lb5ofd3fing.html"
-				"torrent": "magnet:?xt=urn:btih:903CB02959ECB56ACE4EA61BA9CB893BC5D1EA91&DVDRip",
+				"torrent": "magnet:?xt=urn:btih:337673E2923F5B5BF1AE64E8A6A90864AE003AA0&dn=HD1080",  magnet:?xt=urn:btih:903CB02959ECB56ACE4EA61BA9CB893BC5D1EA91&dn=DVDRip   https://www.alt-torrent.com/torrent/7470_1626656541.torrent
 				"torrent4k": ""
 				}		
 			]
@@ -50317,7 +50389,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi3": "http://ok.ru/videoembed/2115708717684", 
 				"kodi4": "https://vidfast.co/embed-jauzxix7blby.html", 
 				"kodi5": "https://uqload.com/7e0xura6a8qe.html"
-				"torrent": "magnet:?xt=urn:btih:EB5B2C47C6FA7F8C6D611D4F08122864570A3875&DVDRip",
+				"torrent": "https://www.alt-torrent.com/torrent/7469_1626656445.torrent",  magnet:?xt=urn:btih:EB5B2C47C6FA7F8C6D611D4F08122864570A3875&dn=DVDRip
 				"torrent4k": ""
 				}			
 			]
@@ -51607,7 +51679,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 0Torrentcristal, 0Torrent4k, 1Comedia, A1998, Letra T, Spain, Sagas Torrente, B2000, A2000-1991, 1Culto, ",
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A1998, Letra T, Spain, Sagas Torrente, B2000, A2000-1991, 1Culto, ",
 			"name": "Torrente, El brazo tonto de la ley (1998)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/3wAeqkJ8vq7TjkfUp4ikHT15oVn.jpg",
 			"info": "Torrente es un policia español, fascista, machista, racista, alcoholico y del Atleti. Tiene un vecino llamado Rafi, al que le gustan las peliculas de accion y las pistolas, y que vive con su madre y su prima Amparito, una ninfomana. Juntos, Torrente y Rafi, patrullaran por la noche las calles de la ciudad",
@@ -51619,7 +51691,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi3": "http://ok.ru/videoembed/2115704392308", 
 				"kodi4": "https://aparat.cam/ybw611uds1fi", 
 				"kodi5": "https://uqload.com/15mvrijq93yd.html"
-				"torrent": "",
+				"torrent": "https://www.alt-torrent.com/torrent/7468_1626655414.torrent",  
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1UCnqy3wggMpFdrTkxplVM2349Rc_h4-i/view?usp=sharing"
 				}
