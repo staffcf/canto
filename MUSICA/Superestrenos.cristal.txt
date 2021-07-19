@@ -10,8 +10,8 @@
 <genre>Terror,Sobrenatural</genre>
 <year>2021</year>
 <thumbnail>https://i.imgur.com/41zAg3x.jpg</thumbnail>
-<fanart>https://i.imgur.com/pbwtoCj.jpg</fanart>
-<info>Sofía, una joven insegura, comienza a trabajar en una casa cuidando a dos hermanos de carácter problemático, que le harán su estancia sumamente difícil. Sin embargo, durante una noche en que los padres están ausentes, los niños serán acosados por una entidad demoníaca y Sofía tendrá que tomar parte en un terrorífico juego para intentar salvarlos.<info>
+<fanart>https://i.imgur.com/Xkyzepy.jpg</fanart>
+<info>Un niño problemático y su familia se convierten en el objetivo de un monstruo que se materializa a través de objetos electrónicos, tales como teléfonos móviles y tablets. Remake del cortometraje "Larry", creado por Jacob Chase en 2017.<info>
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=BmypYO-x69w"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/42njphz68y0nz3-"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.to/f/rw39r8qptv8prmz"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/yisjki1jpbhh"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/nuvurxnyyecv"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1kgKYoxHklcyLOCvP0B7527mwnxiHJ0vY/view"}</urlsolve>
 </item>
 
