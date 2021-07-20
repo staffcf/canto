@@ -19,6 +19,26 @@
 			]
 			},
 			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra R, Australia, ",
+			"name": "Rams (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/o5wR82r6xHBkVoqNtI6jLwbzg8G.jpg",
+			"info": "Una lucha que ha durado varias décadas entre dos hermanos pastores de ovejas por un terreno llega a su punto crítico cuando un desastre golpea a su rebaño",
+			"genero": "Drama",
+			"stations": [
+				{
+				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi3": "https://vidoza.net/embed-h7j5r6mhrl1p-920x360.html", 
+				"kodi4": "https://mixdrop.co/e/rw3pp3j4ir6x4", 
+				"kodi5": "https://vidoza.net/embed-mh93jdganmek-920x360.html",
+				"torrent": "https://maxitorrent.com/download/154559_-1626806601-Rams--2020---BluRayRip-AC3-5-1.torrent",
+				"torrent4k": "",
+				"magnet": "magnet:?xt=urn:btih:BCFBA5480879A23F8C5BA8C7DE4A17F41C344F7B&dn=BRRip",
+				"magnet4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Thriller, A2021, Letra L, EEUU, Crimen, Robos, Atracos, ",
 			"name": "Ladrones de elite (The Misfits) (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/khVFEq1nvkKmq4Nz6YC9muuDR1P.jpg",
@@ -32,7 +52,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:2C9DD0CB9EAAC48B9CC917F38FB9749B81B595AC&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -45,12 +67,14 @@
 			"stations": [
 				{
 				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
-				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi2": "https://femax20.com/v/8p316s8x085wq-6",
 				"kodi3": "https://mixdrop.co/f/3n89pplmbvx3p", 
 				"kodi4": "https://cloudvideo.tv/7ypxb1g9s3s1", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:E56A1AAA8298AA7D8C83503C0C38451471ECCBE1&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -66,9 +90,11 @@
 				"kodi2": "https://vidia.tv/NO_LINK",
 				"kodi3": "https://mixdrop.co/f/7r890d44id47emn", 
 				"kodi4": "https://cloudvideo.tv/nct6otqo497r", 
-				"kodi5": "https://vidia.tv/NO_LINK",
+				"kodi5": "https://femax20.com/v/ky-j1u3ge85k13w",
 				"torrent": "magnet:?xt=urn:btih:F1036DE8C3C1F8CA0636749474AC9AA8CB63B829&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -86,7 +112,9 @@
 				"kodi4": "https://cloudvideo.tv/q3ac6z4goyp5", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:E05B94D4855FD1B2A95378E08ACB7F7055D540C4&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -99,12 +127,14 @@
 			"stations": [
 				{
 				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
-				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi2": "https://femax20.com/v/w3516ingz-z227r",
 				"kodi3": "https://mixdrop.co/f/848qnzpxtq9gmv", 
 				"kodi4": "https://cloudvideo.tv/vul71rqhg771", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:D1C0CFF989ADD6FEEE64A179EE61D4A6083F266B&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -117,12 +147,14 @@
 			"stations": [
 				{
 				"kodi1": "https://femax20.com/v/mp85-u5-x2rzlr4", "colorserver1": "lime",
-				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi2": "https://femax20.com/v/47jdptz6ez36l4-",
 				"kodi3": "https://mixdrop.co/f/0v8j87e6brp13", 
 				"kodi4": "https://cloudvideo.tv/s1cu0a49tqh9", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:0585DB5D1C4AB6BF9AF3BFD888E65AFBAB5CE076&dn=HD1080",    magnet:?xt=urn:btih:529ADECFF28B10A323A4FCB1DDBEB9081B231904&dn=BRRip
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -140,7 +172,9 @@
 				"kodi4": "https://mixdrop.co/e/md3nn318arrqom", 
 				"kodi5": "https://www.fembed.com/v/jg8l5bdgmekj-5e",
 				"torrent": "magnet:?xt=urn:btih:813BA0C99E31420BC3724664A2C68D014C373B83&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -158,7 +192,9 @@
 				"kodi4": "https://cloudvideo.tv/gl79r1dcaw1o",
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:1EA65391F42CF5ADBAC266C4C4EC74F634F6482C&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -171,12 +207,14 @@
 			"stations": [
 				{
 				"kodi1": "https://femax20.com/v/-kdmqup16m-qwe1", "colorserver1": "lime",  
-				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi2": "https://femax20.com/v/8p316s8x0ww74mx",
 				"kodi3": "https://mixdrop.co/f/j9mz43ewaq6wlz", 
 				"kodi4": "https://cloudvideo.tv/i9p2pdvrkckt", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:7EFD97336377426086B412435783915862091E37&dn=HD1080",  
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -189,12 +227,14 @@
 			"stations": [
 				{
 				"kodi1": "https://femax20.com/v/3ezd3tmxrlp1w65", "colorserver1": "lime",
-				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi2": "https://femax20.com/v/13j4dij2m-m-2ql",
 				"kodi3": "https://mixdrop.co/f/md3n1g36txwmz0e", 
 				"kodi4": "https://cloudvideo.tv/p16senogl4ya", 
 				"kodi5": "https://vidoza.net/embed-2tz0i70yn1zn-920x360.html",
 				"torrent": "magnet:?xt=urn:btih:C1219961BE4588D983EDA8040CAE11F1C21088A1&dn=HD1080",  magnet:?xt=urn:btih:056BBABB00FD7BF4EADB4281D1592614DC54DC10&dn=BRRip
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -207,12 +247,14 @@
 			"stations": [
 				{
 				"kodi1": "https://femax20.com/v/wx8ygangmqm2d83", "colorserver1": "lime",
-				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi2": "https://femax20.com/v/qyx60uegjkgy206",
 				"kodi3": "https://vidoza.net/embed-cw3dcihokpi1-920x360.html", 
 				"kodi4": "https://mixdrop.co/e/j9mz8zd4a03j8x", 
 				"kodi5": "https://vidoza.net/embed-m411l919zwtk-920x360.html",
 				"torrent": "magnet:?xt=urn:btih:6D784740726601AA0CA2508F15E3CCB963711BA1&dn=HD1080",  magnet:?xt=urn:btih:2B501D9CFE17896BE42ADFABFAF50EF5EED50496&dn=BRRip
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -228,9 +270,11 @@
 				"kodi2": "https://femax20.com/v/pz8jgtmgkw4xzzd",
 				"kodi3": "https://mixdrop.co/f/kn3mwzg3s3rlq8m", 
 				"kodi4": "https://cloudvideo.tv/5p4kp3tmuv8f", 
-				"kodi5": "https://vidia.tv/NO_LINK",
+				"kodi5": "https://femax20.com/v/j-xjpidg3pynx0d",
 				"torrent": "magnet:?xt=urn:btih:D41FA53EC39D4C21C1E7359F47F541694C3A10B6&dn=HD1080",  magnet:?xt=urn:btih:F6B56493206EF25A7DD202637659C4325972D025&dn=BRRip  
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -248,7 +292,9 @@
 				"kodi4": "https://cloudvideo.tv/wnlp9itdwpl5", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:6C67442E701E4AD8EDDE3D9F8BA2C3BAD37855F0&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -266,7 +312,9 @@
 				"kodi4": "https://cloudvideo.tv/vfkorw9el9kt", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:C8174BAAB692C488FE6F0C68F039297A615DF459&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -284,7 +332,9 @@
 				"kodi4": "https://cloudvideo.tv/5re26xyun0p1", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:34B59D8A6A7869B845C008CCC238E08C84C6C1E8&dn=BRRip", 
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -302,7 +352,9 @@
 				"kodi4": "https://vidoza.net/embed-0tz8amtbyd8d-920x360.html", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:FD1CAEC125BD4CFEDCB1B26B03D6A88D8EF5EB76&dn=Cl4s1caT3rr0rHDR.exclusivetorrent.net.avi",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -320,7 +372,9 @@
 				"kodi4": "https://vidoza.net/embed-4pb2kyzrlagg-920x360.html", 
 				"kodi5": "https://femax20.com/v/g42-yf-l00egqld", 
 				"torrent": "magnet:?xt=urn:btih:B40F8120635FD53F3DDDAC37D02026D51472100F&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -338,7 +392,9 @@
 				"kodi4": "https://cloudvideo.tv/gd8uwowhjvac", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:110209A42F3DE017B608028498B8A709D8FFDB49&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -356,7 +412,9 @@
 				"kodi4": "https://cloudvideo.tv/rv97i1nkovqa", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:CA950937D06D6846B7299D62CF509F5596535A31&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -374,7 +432,9 @@
 				"kodi4": "https://cloudvideo.tv/mkic8ld08zda", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:467EA1750DCC7255D89F6D11A28D23416C74A468&dn=HD1080",  
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -392,7 +452,9 @@
 				"kodi4": "https://cloudvideo.tv/pqlm6tlgmsof", 
 				"kodi5": "https://vidia.tv/NO_LINK",  
 				"torrent": "magnet:?xt=urn:btih:C58425315CD36A9717FC1DA5008AA49B02AFBE8C&dn=BRRip", 
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -410,7 +472,9 @@
 				"kodi4": "https://cloudvideo.tv/gov22qciqvt7", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:19615CC8D4F0E4FA3F8F212D1F1421ED26CF8106&dn=HD1080",  magnet:?xt=urn:btih:0D7F0C5EA82297495EFE267B974FBF207B2FE0D3&dn=BRRip
-				"torrent4k": "magnet:?xt=urn:btih:F941069FBFCE6B4A9D9143A88B15D36C857A690B&dn=Web4K"
+				"torrent4k": "magnet:?xt=urn:btih:F941069FBFCE6B4A9D9143A88B15D36C857A690B&dn=Web4K",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -428,7 +492,9 @@
 				"kodi4": "https://cloudvideo.tv/ccz1ceh84aiu", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:00F80A2AAD57A6CCF1DA4E992E71D74C1FB3D00D&dn=HD1080",  magnet:?xt=urn:btih:2BF14A78D64C6649A646749697FC487771D887FA&dn=BRRip
-				"torrent4k": "magnet:?xt=urn:btih:8098D965EA13C8A3DD3890DC9417CD4BC3FF631B&dn=Web4K"
+				"torrent4k": "magnet:?xt=urn:btih:8098D965EA13C8A3DD3890DC9417CD4BC3FF631B&dn=Web4K",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -446,7 +512,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:22E872435AA3CB59D3CA3AA94177F7BC2E2B2B89&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -464,7 +532,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:A0B37351339E5CA9A358E82B557CB3453D84D9F8&dn=HD1080",  magnet:?xt=urn:btih:76960F3A8B5B01B8E415AC50C7EB4735F64D4BBF&dn=BRRip
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -482,7 +552,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:0FE7F6CA12216564A5A26C37A830A0DCB2EA77F3&dn=BRRip", 
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -495,12 +567,14 @@
 			"stations": [
 				{
 				"kodi1": "https://femax20.com/v/2lk7xa20pljx6ll", "colorserver1": "lime",
-				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi2": "https://femax20.com/v/5dj01udjzwd56dj",
 				"kodi3": "https://vidia.tv/NO_LINK", 
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidoza.net/embed-pafrg6ps8h6p-920x360.html",
 				"torrent": "magnet:?xt=urn:btih:B374A23336DAA05559E76EC514035EAECB14385A&dn=HD1080",  magnet:?xt=urn:btih:7DEC8AD5F3104770A5A5E1052563AA6233AC9192&dn=BRRip
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -518,7 +592,9 @@
 				"kodi4": "https://cloudvideo.tv/r1686pr9thdc", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:54E51CEC177DA38A3F34E4629D418F102ABDB14A&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -536,7 +612,9 @@
 				"kodi4": "https://vidoza.net/embed-wf8xqe04ev7b-920x360.html", 
 				"kodi5": "https://vidoza.net/embed-sw39w9tbvppu-920x360.html",
 				"torrent": "magnet:?xt=urn:btih:45F6E640E705710E1677AD955FD54330A18636D4&dn=HD1080",  magnet:?xt=urn:btih:6EE04FBF1B40C602F031B5B23E598FCDBDC7C5B1&dn=BRRip
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -554,7 +632,9 @@
 				"kodi4": "https://femax20.com/v/3ezd3tmxjrmqny0", 
 				"kodi5": "https://femax20.com/v/y25zdae3zjd2m-2",
 				"torrent": "magnet:?xt=urn:btih:883592AD9D28E1F493AA0D20E53202D3A7BA609A&dn=HD1080",
-				"torrent4k": "magnet:?xt=urn:btih:F67ABE7D968147A0975BE01C1647E4682358E5DA&dn=Web4K"
+				"torrent4k": "magnet:?xt=urn:btih:F67ABE7D968147A0975BE01C1647E4682358E5DA&dn=Web4K",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -572,7 +652,9 @@
 				"kodi4": "https://cloudvideo.tv/3yzxj52vpp20", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:1AF9EEC1297F1E721A60A1766CC3EEDA0770630C&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -590,7 +672,9 @@
 				"kodi4": "https://cloudvideo.tv/g8ewj2hakadv", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:5FBAA44048907B6B22E70C06B10E71A8F6E64F37&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -608,7 +692,9 @@
 				"kodi4": "https://cloudvideo.tv/0j8ywms5rw79", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:061903ADEA47C48EA4A7DDB640162B47F250B520&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -626,7 +712,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:5E7925D82BC97C12A52366C59AA237605FA90EE6&dn=Ig0rGr0mHDR.exclusivetorrent.net.avi",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -644,7 +732,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:68A64D987F7CC9F10818E41891D28948A17D1F4C&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -662,7 +752,9 @@
 				"kodi4": "https://cloudvideo.tv/dfeyrbr4yndf", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:D2D8A86C689CDCBC834402C87FFE3DFDF35C02DE&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -680,7 +772,9 @@
 				"kodi4": "https://vidoza.net/embed-h2ycigr2uqzl-920x360.html", 
 				"kodi5": "https://vidoza.net/embed-xczzj0johf9q-920x360.html",
 				"torrent": "magnet:?xt=urn:btih:8AA015DC9E88AE3596AA9E3D320D5E38A46F31AE&dn=EnLu.c44HDR.exclusivetorrent.net.avi",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -698,7 +792,9 @@
 				"kodi4": "https://cloudvideo.tv/28u30gcfv5t8", 
 				"kodi5": "https://vidoza.net/embed-vpz7mi4rggo3-920x360.html"
 				"torrent": "magnet:?xt=urn:btih:C6E0EE3DF10D7759C1FA8BCC1E5D9A301C755B5F&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -714,9 +810,11 @@
 				"kodi2": "https://femax20.com/v/r28wghegw754rxj",
 				"kodi3": "https://mixdrop.co/e/wnop69kzin03v3", 
 				"kodi4": "https://vidoza.net/embed-1yi89daby8vl-920x360.html", 
-				"kodi5": "https://vidia.tv/NO_LINK",
+				"kodi5": "https://femax20.com/v/36j72imxgj2880k",
 				"torrent": "magnet:?xt=urn:btih:D27C95B94FAD2C12164A6F2E9FD9BDD012983C12&dn=HD1080",  magnet:?xt=urn:btih:7D7989FE81A8B33DC8D28B69040E18495F1B8C0D&dn=BRRip
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -734,7 +832,9 @@
 				"kodi4": "https://cloudvideo.tv/mzs4hqywn0p3", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:7CB97C442CC2310546DAA2F78D26A68E63647E9B&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -752,7 +852,9 @@
 				"kodi4": "https://vidoza.net/embed-nnxd2kgf6jrc-920x360.html", 
 				"kodi5": "https://vidoza.net/embed-wjvaj0by246i-920x360.html",
 				"torrent": "magnet:?xt=urn:btih:3A9934EBC2FEB9D9257B40065EC1F961C885CEE4&dn=HD1080",
-				"torrent4k": "magnet:?xt=urn:btih:3511E11EC8AC2E73E0D45EB28C7E907D1D1E7B14&dn=Web4K"
+				"torrent4k": "magnet:?xt=urn:btih:3511E11EC8AC2E73E0D45EB28C7E907D1D1E7B14&dn=Web4K",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -770,7 +872,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:E484CEAE736369718601B81DB7F538598A2E6E49&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -788,7 +892,9 @@
 				"kodi4": "https://femax20.com/v/d8k0xfxrwj7w3l5", 
 				"kodi5": "https://vidoza.net/embed-ufbit605g7eq-920x360.html",
 				"torrent": "magnet:?xt=urn:btih:767EF743A12AFC199B0C430A3FA717557D8C12FC&dn=HD1080",  magnet:?xt=urn:btih:100BEC648D69F8AF87497E659788E541427A4367&dn=BRRip
-				"torrent4k": "magnet:?xt=urn:btih:9174F4220E3755A301D465ECD923031EFF8125B9&dn=Web4K"
+				"torrent4k": "magnet:?xt=urn:btih:9174F4220E3755A301D465ECD923031EFF8125B9&dn=Web4K",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -806,7 +912,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidoza.net/embed-tykmu1rlvbv9-920x360.html",
 				"torrent": "magnet:?xt=urn:btih:E5DC7E4861672F9EF77E083C6A6D2F323E336366&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -824,7 +932,9 @@
 				"kodi4": "https://playtube.ws/erfa09pnprl3", 
 				"kodi5": "https://vidoza.net/embed-0biiq476gguw-781x540.html",
 				"torrent": "magnet:?xt=urn:btih:60699795A47C74FEB2D5BB3B7FE23BBE852F87BF&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -842,7 +952,9 @@
 				"kodi4": "https://vidoza.net/embed-a80a4v5mjwza-920x360.html", 
 				"kodi5": "https://vidoza.net/embed-m3qlrxch5jg6-920x360.html",
 				"torrent": "magnet:?xt=urn:btih:0C2A3176BC161FD4E9E9EED9DA6577F84A216DC3&dn=HD1080",  magnet:?xt=urn:btih:118E126CCC2FD6273560E12541E1A23A7116D166&dn=BRRip
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -860,7 +972,9 @@
 				"kodi4": "https://cloudvideo.tv/1vk7xzfb9mep", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:075c2b60982b202b73ddeeec9ca864ce152e76a9&dn=WEBRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -878,7 +992,9 @@
 				"kodi4": "https://vidoza.net/embed-l8rbsech8r6c-920x360.html", 
 				"kodi5": "https://vidoza.net/embed-qgrjhgy07yn8-920x360.html",
 				"torrent": "magnet:?xt=urn:btih:0A715989B413891FAF7C0EDC9ADB6CE296BC2D10&dn=HD1080",  magnet:?xt=urn:btih:1460C62F6816554E814FB4C6BAC440061D3673CA&dn=Sk1l1n3sHDR.exclusivetorrent.net.avi
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -896,7 +1012,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:B442739423811AC8D19CF9871577201383E4591E&dn=HD1080",  magnet:?xt=urn:btih:FE45208C0A938DFEFB8EB77F5F2080B01A2FF082&dn=BRRip
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -914,7 +1032,9 @@
 				"kodi4": "https://cloudvideo.tv/36sd4jh0l5fx", 
 				"kodi5": "https://femax20.com/v/mp85-u5-8301x4e",
 				"torrent": "magnet:?xt=urn:btih:C32AC217AD6368054A79DF4C0CB9B637585227F9&dn=HD1080",  magnet:?xt=urn:btih:29B1D4DC0A3B59D4029D3ECF8BFF9A402744374F&dn=BRRip
-				"torrent4k": "magnet:?xt=urn:btih:A246E3E539445ED1C9CDEE0BD4C2E9437D631CF9&dn=Web4K"
+				"torrent4k": "magnet:?xt=urn:btih:A246E3E539445ED1C9CDEE0BD4C2E9437D631CF9&dn=Web4K",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -932,7 +1052,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:BFC5E0DBF4C74EA9E80FB0A07B2963C986839040&dn=HD1080",  magnet:?xt=urn:btih:539BC299C6590DD55279C2ED2C6D477E570790B8&dn=BRRip
-				"torrent4k": "magnet:?xt=urn:btih:1CE6E20FA6AF2B3A616868E883FA3CDE5DB54C66&dn=Web4K"
+				"torrent4k": "magnet:?xt=urn:btih:1CE6E20FA6AF2B3A616868E883FA3CDE5DB54C66&dn=Web4K",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -950,7 +1072,9 @@
 				"kodi4": "https://cloudvideo.tv/i8ol4egjo79u", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:36D45A2B1EFD32D3B4C0F21C8F4FD5EB3ADC0777&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -968,7 +1092,9 @@
 				"kodi4": "https://cloudvideo.tv/cxvxqt0xinst", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:E3CB84EF49262F9744EA45EA8F9EC2A1F24F3B5B&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -986,7 +1112,9 @@
 				"kodi4": "https://cloudvideo.tv/gm7rst9isip7", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:93EB2ADAFF616B97FCCAC48472EB95BAAB1F759E&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1004,7 +1132,9 @@
 				"kodi4": "https://cloudvideo.tv/or5cptykbdrk", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:84C076240006D88A3B97D697C7160A442962F0EA&dn=HD1080",  magnet:?xt=urn:btih:356AD1C670E69B7ED93F381B5CCA0F4B2B72DD81&dn=BRRip
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1022,7 +1152,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:D5E8C31A58B53D3D3F626D7D30B6D74D2FC831A8&dn=HD1080",  magnet:?xt=urn:btih:A91CA143F0781F2019AA793A23928A2FFA44CFFA&dn=BRRip
-				"torrent4k": "magnet:?xt=urn:btih:23C75FB759E60061C1BF777E5778A4158639E02A&dn=Web4K"
+				"torrent4k": "magnet:?xt=urn:btih:23C75FB759E60061C1BF777E5778A4158639E02A&dn=Web4K",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1040,7 +1172,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:774051BB6C6704DBBBBAA8459FF8F8A54BA90235&dn=BRRip",  magnet:?xt=urn:btih:o5afdo3mm4cnxo52vbcz76hyuvf2sarv&dn=BRRip
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1058,7 +1192,9 @@
 				"kodi4": "https://cloudvideo.tv/a2j69ppze6j2", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:47F07A77D9AC4499A25D4CF2A791FF997E92C806&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1076,7 +1212,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:DBAB414CCC6B3FA085FCF58CFF8CF34904E73005&dn=HD1080",  magnet:?xt=urn:btih:19CE7A803E7033D30CD2B2EAD5344C956B095EDB&dn=BRRip
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1094,7 +1232,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:28742EF76AB0D3275675ADB726416A485FD9B25B&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1112,7 +1252,9 @@
 				"kodi4": "https://vidoza.net/embed-hcehzri806bz-920x360.html", 
 				"kodi5": "https://vidoza.net/embed-hyhm19gri6gp-920x360.html",
 				"torrent": "magnet:?xt=urn:btih:C6697D432382A8FEB7F757188D49DE47E0B845B4&dn=HD1080",  magnet:?xt=urn:btih:EA94170DFB67722CA29B23DA989EBDAD3EFD5156&dn=BRRip
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1130,7 +1272,9 @@
 				"kodi4": "https://cloudvideo.tv/bmgemfp0p7h7", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1148,7 +1292,9 @@
 				"kodi4": "https://vidoza.net/embed-tcrrjeiz3tk8-920x360.html", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:084899706572B630064548C09D717180400825D3&dn=HD1080",   magnet:?xt=urn:btih:BE5EEEEB03529BFEFF6B5AE911FBA15A68971E11&dn=BRRip
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1166,7 +1312,9 @@
 				"kodi4": "https://vidoza.net/embed-n6otdi4wjqkl-920x360.html", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:7BB8C210A9D3FCFA599051A01D5BCE64D5DF5E84&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1184,7 +1332,9 @@
 				"kodi4": "https://cloudvideo.tv/ijbe9thdxrhc", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:92E013721D972337D14F0A2584FD37EBF7620546&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1202,7 +1352,9 @@
 				"kodi4": "https://cloudvideo.tv/vyxulr4jfeug", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:928684147F2F76041ED5431563327B8774E27B7A&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1220,7 +1372,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:628F0C9E745FA080BD3DCFE41CAB1143EB303C8E&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1238,7 +1392,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:F14BBEE5C50ECD296E50902547DFF1353E747AD4&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1256,7 +1412,9 @@
 				"kodi4": "https://cloudvideo.tv/g7mdwi1s2aur", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:7DBA4AEAF4BD1C2F957236C97AAE325B86B7C55A&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1274,7 +1432,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:A25659CFEF9FCA17E70E31B7F436E7D11D67ADA4&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1292,7 +1452,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:CD7CFA8C7570B60BC325332E52EF1FC3E457DC0F&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1310,7 +1472,9 @@
 				"kodi4": "https://cloudvideo.tv/9z6q3gjbzuqt", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:56945183556421D3D9872681D1F50625419A7EDF&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1328,7 +1492,9 @@
 				"kodi4": "https://cloudvideo.tv/9dfsanxv4lfv", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:41F7D63EFA3311EFA97959D20224600A95D7B4EA&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1346,7 +1512,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:3531BE4E9B4998535EC12781E4357659B1CA9CE7&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1364,7 +1532,9 @@
 				"kodi4": "https://cloudvideo.tv/0chfm63aa56v", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:31330C05D90546D78675B968A54B92C8F6256D16&dn=HD1080",   magnet:?xt=urn:btih:184AB6CAFF5A1813EF61095C262C545D2BA9C489&dn=BRRip
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1382,7 +1552,9 @@
 				"kodi4": "https://cloudvideo.tv/1ohm35q5mn54", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:0494E4ABE73F6B1E3FF6790B055061C9FF433233&dn=BR1080",  magnet:?xt=urn:btih:8239D6BF9CBBBFDC4B09B62B231BA99655B2B186&dn=BRRip
-				"torrent4k": "magnet:?xt=urn:btih:E1309E5DEB3BAE57C2FFFDF1C1C9D891E265D1A0&dn=WebRip"
+				"torrent4k": "magnet:?xt=urn:btih:E1309E5DEB3BAE57C2FFFDF1C1C9D891E265D1A0&dn=WebRip",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1400,7 +1572,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:60D5AD8DC094ECF694E6948F2367EB567239A65E&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1418,7 +1592,9 @@
 				"kodi4": "https://mixdrop.co/e/gnl8vnv1b8k6r1", 
 				"kodi5": "https://femax20.com/v/nry5ms2jlnqnndz",
 				"torrent": "magnet:?xt=urn:btih:169597547DBF2442F523421E43C80EA6DBE642F5&dn=BRRip",
-				"torrent4k": "magnet:?xt=urn:btih:5C9C191C43E728387B67B9B37AC13E3AC5CDB1C0&dn=webRip"
+				"torrent4k": "magnet:?xt=urn:btih:5C9C191C43E728387B67B9B37AC13E3AC5CDB1C0&dn=webRip",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1436,7 +1612,9 @@
 				"kodi4": "https://cloudvideo.tv/e7dsh56dcjev", 
 				"kodi5": "https://femax20.com/v/gqnjda-l1146xj-",
 				"torrent": "magnet:?xt=urn:btih:56432CC8B1F81D9EE017DE620EEFC4E2567ACA3C&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1454,7 +1632,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:B3B48C9E78ACDEB3DBF831527D4596ABCBFD1A6C&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1472,7 +1652,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:85A3D4CED25377749D83B6BC52403B56654C282A&dn=HD1080",  magnet:?xt=urn:btih:CBD4B8FC2D54B85BD7FA50F4845BF6E423043F6F&dn=BRRip
-				"torrent4k": "magnet:?xt=urn:btih:E0B7208038326696A8F12B5B79204ADFEE8BFC83"
+				"torrent4k": "magnet:?xt=urn:btih:E0B7208038326696A8F12B5B79204ADFEE8BFC83",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1490,7 +1672,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:D315D1BB655AB4EFAEA9FD6D354314CD6341196D&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1508,7 +1692,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:A4EEC660DC8A3295CDCEFF32605DE3E75C805890&dn=BR1080",  magnet:?xt=urn:btih:782ED59B67F4A6B0A4925C6DAD77A3F897A82583&dn=BRRip
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1526,7 +1712,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:4081C7D942F136937257B88083BCB0670A5A6AE1&dn=HD1080",  magnet:?xt=urn:btih:6D8A0E7192A2BD0FEB4E274820608E88C462FE5E&dn=BR1080   magnet:?xt=urn:btih:A30CB893C778F20BFF4A12B316783D0C9D25E909&dn=BRRip
-				"torrent4k": "magnet:?xt=urn:btih:2419BE6FD35D2C2789A66D680E74726B43B81CB8"
+				"torrent4k": "magnet:?xt=urn:btih:2419BE6FD35D2C2789A66D680E74726B43B81CB8",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1544,7 +1732,9 @@
 				"kodi4": "https://cloudvideo.tv/rct42rade3p5", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:B77BFE1315662A986F6FDF202985826A10F8D921&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1562,7 +1752,9 @@
 				"kodi4": "https://cloudvideo.tv/xmstjxbwg49v", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:7003E3B8D7683F8D3554C2243118F47BD292E413&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1580,7 +1772,9 @@
 				"kodi4": "https://cloudvideo.tv/3n3zaxje6vs4", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:23D0E29FF52722E12C929A9EC9704673EF3A9804&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1598,7 +1792,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:65F0A17C89C203BB696675712986EA7A20DFDA1B&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1616,7 +1812,9 @@
 				"kodi4": "https://cloudvideo.tv/feyc5lwisd5e", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:82831A0B04B4D33AF5368F8B758D2F06F1FF1306&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1634,7 +1832,9 @@
 				"kodi4": "https://cloudvideo.tv/9spj6311rp9x", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:A0AF8B488C4B611DE6A1EC8AE41C1A67A42B427A&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1652,7 +1852,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:6CF9EB3389CD8BB33DD37928E364332F1F357B49&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1670,7 +1872,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:78EFD80F63E5000E72F02127501360AEEB024FA6&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1688,7 +1892,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:D88F29DFBFFFA2C532A6334BAFCA5FA677D888A0&dn=HD1080",  magnet:?xt=urn:btih:21AEEF14D6F27C867CF037043DBA30C5E6B109D4&dn=BRRip
-				"torrent4k": "magnet:?xt=urn:btih:7473098DA19DFCD079256C50071BA529FFB6D505"
+				"torrent4k": "magnet:?xt=urn:btih:7473098DA19DFCD079256C50071BA529FFB6D505",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1706,7 +1912,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:7018B6CA9BAA64135CB0F5CA33A1CE3A1798F478",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1724,7 +1932,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:63D6338E9C47D72E70739BD3EF41D7F25F17B57B&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1742,7 +1952,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:5FC9BD840F93C6FED2CEF75E5E0D087DEE60975C&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1760,7 +1972,9 @@
 				"kodi4": "https://cloudvideo.tv/h6o282w5reg7", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:E7FBE56150EEB7B15DAC9759A4D42F83B08A8CAA&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1778,7 +1992,9 @@
 				"kodi4": "https://cloudvideo.tv/j07i6k3t7k6y", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:32AA87E4739E741AC1C3437FC36002E51D107696&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1796,7 +2012,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:D48AD17FB42CC2C1EF00A2A282C39E6C2F9CDA86&dn=HD1080",  magnet:?xt=urn:btih:A1E86B2C5E8DEBACDD562E2D3BB54B5902B79EF6&dn=BRRip
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1814,7 +2032,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:B2F9B384F21E8BE1DF5921D0B31AE138D10DE660&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1832,7 +2052,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:E438FA4336C885E49BD04FF7FD54B7D12F90FEE4&dn=HD1080",  magnet:?xt=urn:btih:54E8AEE94BC9BF379821A457630BEBEE7DB48CA7&dn=BRRip
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1850,7 +2072,9 @@
 				"kodi4": "https://femax20.com/v/ldn5mhnp4jx04jp", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:D651EBAD81A15DAE99CA1B716DE7F8C5F509BEDC&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1868,7 +2092,9 @@
 				"kodi4": "https://cloudvideo.tv/xq4lfvrn3k0h", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:C22CFD05E6C29D6699B6E2916E35A847D16531CC&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1886,7 +2112,9 @@
 				"kodi4": "https://cloudvideo.tv/hpq3jhka94h2", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:86902D36EBF1DF969EF1DFE3542E28DCFA7E87FD&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1904,7 +2132,9 @@
 				"kodi4": "https://cloudvideo.tv/kvb6bg7hpp7g", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:2025F6405B2EC340BB73A7D2D9CE97B3355D87CC&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1922,7 +2152,9 @@
 				"kodi4": "https://cloudvideo.tv/ykx075dv3xjl", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:E63A24F08E92A81E1BE1F3F3806405A581FA7B2E&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1940,7 +2172,9 @@
 				"kodi4": "https://cloudvideo.tv/w2hh1jk0bxz3", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:C041A5EAB511780179AD9EB12A7BD29425602C29&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1958,7 +2192,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:94BBC30C4515D5C1E60A249E84DC1B3F367B5A98&dn=HD1080",  magnet:?xt=urn:btih:BBDD481EF1372B6DF24D32C5B9EE2E20D5445631&dn=BRRip
-				"torrent4k": "magnet:?xt=urn:btih:10E600C8C12D9DC82A906591D6222BA6BDA40F5C"  magnet:?xt=urn:btih:8490212691D6ABA94999CFF8B189B2D84AC7EDA8&dn=microHD
+				"torrent4k": "magnet:?xt=urn:btih:10E600C8C12D9DC82A906591D6222BA6BDA40F5C"  magnet:?xt=urn:btih:8490212691D6ABA94999CFF8B189B2D84AC7EDA8&dn=microHD,
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1976,7 +2212,9 @@
 				"kodi4": "https://cloudvideo.tv/akf2oeee79bq", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:4A73C8BB9554FE6802D097F42FF94C28CD9CED83&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -1994,7 +2232,9 @@
 				"kodi4": "https://cloudvideo.tv/gc065ss8wvzj", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:C42ABEB1120BE0C5AA4A3A8788818ED2C49AA9D8&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2012,7 +2252,9 @@
 				"kodi4": "https://cloudvideo.tv/sdaows6b1spy", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:09E6940A133A0A0BB7F8A02C998829C0B32A6576&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2030,7 +2272,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2048,7 +2292,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:A2751176247844468B2BEC627DA34A19D286C78C&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2066,7 +2312,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:7549569265F036986A3D267ABBC04404DC00F774&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2084,7 +2332,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:418D7D72569E19FD0CE5DF48CB810CAD79B58D5A&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2102,7 +2352,9 @@
 				"kodi4": "https://cloudvideo.tv/iccx8m9u4zyb", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:15EC639E8E4085C0E21FE5C9A304D1A483C2A5C7&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2120,7 +2372,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:2883258AD12F9992B520DCC399FFE6337A10EE05&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2138,7 +2392,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:4EA13E8FEB8EF037C34DCE264A23057F502DD344&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2156,7 +2412,9 @@
 				"kodi4": "https://femax20.com/v/ywxklbe1x31x7qy", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:4C893416EEE51A60302C5688962C807741873497&dn=HD1080",  magnet:?xt=urn:btih:9E9E5CE43BE9B4AB8E2D0721B1206FCB9E6AE4A8&dn=BRRip
-				"torrent4k": "magnet:?xt=urn:btih:599F760CE492A3577A73F3D44CA74F5BB5F67143"
+				"torrent4k": "magnet:?xt=urn:btih:599F760CE492A3577A73F3D44CA74F5BB5F67143",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2174,7 +2432,9 @@
 				"kodi4": "https://cloudvideo.tv/embed-o415n8pqxa66-920x360.html", 
 				"kodi5": "https://cloudvideo.tv/embed-qd5lkcudfr0r-920x360.html",
 				"torrent": "magnet:?xt=urn:btih:D4C5BF6C822050FB56F11CEB38F9525D5F90CCA3&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2192,7 +2452,9 @@
 				"kodi4": "https://cloudvideo.tv/23i3h6jujybm", 
 				"kodi5": "https://vidoza.net/embed-fgldorpw8zh7-781x540.html",
 				"torrent": "magnet:?xt=urn:btih:BBC21A6745CEED7BAD5BA14B0446435793C08CE8&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2210,7 +2472,9 @@
 				"kodi4": "https://mixdrop.co/f/qlewrlj8fezo11", 
 				"kodi5": "https://cloudvideo.tv/459qivju78rv",
 				"torrent": "magnet:?xt=urn:btih:3A8D5FF001D2A05EE867AE846D04BABB411EC764&dn=HD1080",  magnet:?xt=urn:btih:B719788BDD2B1601D895850885C8FEF6F1C59901&dn=BRRip
-				"torrent4k": "magnet:?xt=urn:btih:805533F93A367EC1AADF4B08DDD3125AF29FE508"
+				"torrent4k": "magnet:?xt=urn:btih:805533F93A367EC1AADF4B08DDD3125AF29FE508",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2228,7 +2492,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:EAE514FDBA89EC883348E64C159DDECD38D91AC1&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2246,7 +2512,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:F085FD5ED73DFE6B63230547EAB858F3610A6D9D&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2264,7 +2532,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:E58096E54BD945CC37DE2E742284C55E4753C27F&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2282,7 +2552,9 @@
 				"kodi4": "https://cloudvideo.tv/dqzymc6pfxlq", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:86E8821C6518E787F9A2530C3FBC396936A7F436&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2300,7 +2572,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:010B70679334F1A9E0B53C1A78DCFCFAB2AA1918&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2318,7 +2592,9 @@
 				"kodi4": "https://cloudvideo.tv/6myitmgiyr6m", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:FB6168E1043813976421519E209E0D7179388519&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2336,7 +2612,9 @@
 				"kodi4": "https://mixdrop.co/f/rwqojgxvhjz8nr", 
 				"kodi5": "https://cloudvideo.tv/h23mbl42dl6z",
 				"torrent": "magnet:?xt=urn:btih:0EF45BF9615CEC79B80883CEFF93EB3498875E98&dn=HD1080",  magnet:?xt=urn:btih:29A3C9273468691897906090662A61BB0AD7E030&dn=BRRip
-				"torrent4k": "magnet:?xt=urn:btih:7E898F9A1C89CA8B9E3623CB5FF78BAA66189945"
+				"torrent4k": "magnet:?xt=urn:btih:7E898F9A1C89CA8B9E3623CB5FF78BAA66189945",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2354,7 +2632,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://cloudvideo.tv/araekm9gu9mz",
 				"torrent": "magnet:?xt=urn:btih:615E8A340489346CB552D40C6DBFED5B68EE9DAC&dn=HD1080",  magnet:?xt=urn:btih:DB82326BF0A8971FDE6CB64B10F1A3FF4714E034&dn=BRRip
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2372,7 +2652,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidoza.net/embed-pphqszqqhi3a-781x540.html",
 				"torrent": "magnet:?xt=urn:btih:D1706CD7AAB382F81B2F08326DD4FFB821895531&dn=HD1080",  magnet:?xt=urn:btih:5E50B2F581DB585C4C43CED572C122DB7096F739&dn=BRRip
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2390,7 +2672,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2408,7 +2692,9 @@
 				"kodi4": "https://femax20.com/v/24j60u2j0m1lw3l", 
 				"kodi5": "https://cloudvideo.tv/g55qufew6mrh",
 				"torrent": "magnet:?xt=urn:btih:707A21E0EE3103A5E2EE656254C02577986EF40F&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2426,7 +2712,9 @@
 				"kodi4": "https://femax20.com/v/e82ryf-42017k6l", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:BBCC1919B4582759BCB317706DC74ED086C33606&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2444,7 +2732,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:FA5762537629C3B7635639E3F62C5FFB0E117AC1&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2462,7 +2752,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:448F588D1C708F7BFACCC118FF8D65F70B7F24D0&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2480,7 +2772,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:EBD026F4DF2C8F18DF27E17D6313A4940C1D5D1A&dn=HD1080",  magnet:?xt=urn:btih:5EBF933A9FF3B93A94C7442113F142290A9BE9CC&dn=BRRip
-				"torrent4k": "magnet:?xt=urn:btih:D84009E396BCDD0A90A570BFC2A578E8C3435C9D"
+				"torrent4k": "magnet:?xt=urn:btih:D84009E396BCDD0A90A570BFC2A578E8C3435C9D",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2498,7 +2792,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:D9E9BE7840DF49C59E94EB9C15BC046B1D7CB5C9&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2516,7 +2812,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:63A4B2206DEB862578704E3430634F5C4D4A6C69&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2534,7 +2832,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:64E6AE3DDC950A7A3E15D2280EB52F1C84CDA956&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2552,7 +2852,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:39C39D53D83571F98E8B3BA7370C1988FE857439&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2570,7 +2872,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://femax20.com/v/ygxlwse13k-gmqd",
 				"torrent": "magnet:?xt=urn:btih:0350D35600D3DD04F4AE43075C3DFDDF1052A1E3&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2588,7 +2892,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:5832E058118405498CD2B6E66FAB9272E7D7E5D2&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2606,7 +2912,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:AFE4AE9D47B1EA5E73069CD9B5DBE5714A2F8877&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2624,7 +2932,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:81A078EDCE01B5AF512546E6818E581126559B2D&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2642,7 +2952,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:5921B65939EB1AD5B804D0D4BDDDCD6EBAA33E53&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2660,7 +2972,9 @@
 				"kodi4": "https://femax20.com/v/jd85gcd55xry40e", 
 				"kodi5": "https://femax20.com/v/-zj23hpllznmmx-",
 				"torrent": "magnet:?xt=urn:btih:4635446A24616F323B8E5F32B35B4EDAF5AB49B4&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2678,7 +2992,9 @@
 				"kodi4": "https://femax20.com/v/jd85gcd55xlz4zr", 
 				"kodi5": "https://femax20.com/v/pyx4dumy8r80w00",
 				"torrent": "magnet:?xt=urn:btih:B8E4D1C74065B2916C9A9C83597769A596ED3B3F&dn=HD1080",  magnet:?xt=urn:btih:169061A0C32F5DC238B33EA7225D125704964E0D&dn=BRRip
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2696,7 +3012,9 @@
 				"kodi4": "https://femax20.com/v/qm85ghe33xr7z-1", 
 				"kodi5": "https://femax20.com/v/k085ga3g-z2n7xe",
 				"torrent": "magnet:?xt=urn:btih:045E6BE875B4217BEB03DF63A661DDDB5CA5D174&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2714,7 +3032,9 @@
 				"kodi4": "https://cloudvideo.tv/6sojduvnkhf9", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:B221ED8734C522CF5802F6DB286366A78D388C7D&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2732,7 +3052,9 @@
 				"kodi4": "https://cloudvideo.tv/4a3o4cv3kqsy", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:11E93FEF72F250B79681A8B28B05485CF2620A06&dn=HD1080",  magnet:?xt=urn:btih:338E58059A96FE1201A861F79C4D53999A5CF2CE&dn=BRRip
-				"torrent4k": "magnet:?xt=urn:btih:29B50BCB635ECBB06BB9BF92F648839869A70A0B"
+				"torrent4k": "magnet:?xt=urn:btih:29B50BCB635ECBB06BB9BF92F648839869A70A0B",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2750,7 +3072,9 @@
 				"kodi4": "https://cloudvideo.tv/sfgxutla37ss", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:AF485CF0C4750CCE6C806403363730CB746CCB40&dn=HD1080",  magnet:?xt=urn:btih:7DBFF5E169A88D2F0D939ECC5366F2EA5BE2EECE&dn=BRRip
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2768,7 +3092,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:85A70C3D5E8CA3F2C3ABDCEA9946333B817C219B&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2786,7 +3112,9 @@
 				"kodi4": "https://upstream.to/1zeu4bhfukdl", 
 				"kodi5": "https://cloudvideo.tv/5euxsq33m8it",
 				"torrent": "magnet:?xt=urn:btih:9755F5C730E142556247742E309EA273C196A4B5&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2804,7 +3132,9 @@
 				"kodi4": "https://upstream.to/wrta4vmflb01", 
 				"kodi5": "https://cloudvideo.tv/hh670uffrf81",
 				"torrent": "magnet:?xt=urn:btih:86998C9E7042121982111640007A9A42565CA522&dn=BRRip",  magnet:?xt=urn:btih:C4F274C2A8AC4E19379C0C4D604B3A57480C82C3&dn=BRRip.ya
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2822,7 +3152,9 @@
 				"kodi4": "https://upstream.to/z3njbs73t8ye", 
 				"kodi5": "https://cloudvideo.tv/5ae55v83wk1e",
 				"torrent": "magnet:?xt=urn:btih:73396C7B580CCAA6B85D55457BF8EDF1AF528C26&dn=HD1080",  magnet:?xt=urn:btih:843999C950D78552D78BE9959E4A54CCC3D05AD1&dn=BRRip  magnet:?xt=urn:btih:80B711EB2B199A926B0BD9ABDF3312A1E5449CCE&dn=BRRip.ya
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2840,7 +3172,9 @@
 				"kodi4": "https://upstream.to/jvc0xz3xiuwx", 
 				"kodi5": "https://cloudvideo.tv/wl7iqhrs21xs",
 				"torrent": "magnet:?xt=urn:btih:E0F655453B7D8C51DB839D5E8031A6369DB6642A&dn=HD1080", magnet:?xt=urn:btih:B6D28A7D1862581997F977ACB504DA39DAAEA263&dn=BRRip
-				"torrent4k": "magnet:?xt=urn:btih:47067864331D7DF8DEFFC358DD87F044C96A76AC"
+				"torrent4k": "magnet:?xt=urn:btih:47067864331D7DF8DEFFC358DD87F044C96A76AC",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2858,7 +3192,9 @@
 				"kodi4": "https://upstream.to/h1qc6r1z4l2u", 
 				"kodi5": "https://cloudvideo.tv/wginnpghdqwl",
 				"torrent": "magnet:?xt=urn:btih:61D1FD60999D185663D6D774403DB2B14893061F&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2876,7 +3212,9 @@
 				"kodi4": "https://upstream.to/v7lod9cnu8cg", 
 				"kodi5": "https://cloudvideo.tv/qa29wyum8a1i",
 				"torrent": "magnet:?xt=urn:btih:A2B7F54BF802644777ABDF15AF1A2FF8EFB67A9B&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2894,7 +3232,9 @@
 				"kodi4": "https://upstream.to/5zp9qedkox2a", 
 				"kodi5": "https://cloudvideo.tv/l3zrxrdicwmq",
 				"torrent": "magnet:?xt=urn:btih:BC55EC6E2F029D45877ABEA4E6F2AD0EA38CD50A&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2912,7 +3252,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:818FDE05096CBF43536AD2B804D55F8AACBE4C69&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2930,7 +3272,9 @@
 				"kodi4": "https://upstream.to/c7rtrlt96g16", 
 				"kodi5": "https://cloudvideo.tv/80r5h2hux7xl",
 				"torrent": "magnet:?xt=urn:btih:1E1300F98FBE61526E09FA9137B3E7C909674308&dn=BRSC",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2948,7 +3292,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:6F69DD0B724E4C0967DDC6DF61B86616A44FB772&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2966,7 +3312,9 @@
 				"kodi4": "https://upstream.to/e4yziba8zpby", 
 				"kodi5": "https://cloudvideo.tv/n4cy4o4uciup",
 				"torrent": "magnet:?xt=urn:btih:EF9F3A8D7E6F5454EB8DA0E94CDC60DF4B08750E&dn=HD1080",  magnet:?xt=urn:btih:7B3CDF17EAA4E93BF6CF0978B0022014BB69E2EF&dn=BRRip
-				"torrent4k": "magnet:?xt=urn:btih:878B632DBE77C94ECFE1E42AC97FAF112B999B10&dn=UHD4K"
+				"torrent4k": "magnet:?xt=urn:btih:878B632DBE77C94ECFE1E42AC97FAF112B999B10&dn=UHD4K",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -2984,7 +3332,9 @@
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:FC1E3E45BC0CDA7825095939858DE94A616EC732&dn=HD720", magnet:?xt=urn:btih:61F21954B7D7B80FADBE6C6333A55105A933DA36&dn=BRRip
-				"torrent4k": ""
+				"torrent4k": "",
+				"magnet": "",
+				"magnet4k": ""
 				}		
 			]
 			},
@@ -3001,8 +3351,10 @@
 				"kodi3": "https://vidia.tv/NO_LINK", 
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK",
-				"torrent": "magnet:?xt=urn:btih:229015D7DA487288F0D3F81F391362EED2D103DD&dn=BR1080",  magnet:?xt=urn:btih:72942F86B6DE2FDF92711C0774CBC08DF7962CED&dn=HD1080 magnet:?xt=urn:btih:E3BDDD798E365A702609BA4094026E47E6D07A27&dn=BRRip
-				"torrent4k": ""
+				"torrent": "https://maxitorrent.com/download/150438_-1620385837-Trick--BluRay-1080p.torrent",  https://maxitorrent.com/download/150439_-1620385869-Trick--BluRay-MicroHD.torrent
+				"torrent4k": "",
+				"magnet": "magnet:?xt=urn:btih:229015D7DA487288F0D3F81F391362EED2D103DD&dn=BR1080",  magnet:?xt=urn:btih:72942F86B6DE2FDF92711C0774CBC08DF7962CED&dn=HD1080 magnet:?xt=urn:btih:E3BDDD798E365A702609BA4094026E47E6D07A27&dn=BRRip
+				"magnet4k": ""
 				}		
 			]
 			}
