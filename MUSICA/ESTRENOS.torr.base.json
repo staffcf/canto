@@ -19,7 +19,25 @@
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2019, Letra B, EEUU, Robos, Atracos, ",
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Accion, A2019, Letra A, EEUU, ",
+			"name": "Apocalipsis Artico (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/6yOakcmbhgV0PXaUvL6iCzxeeb3.jpg",
+			"info": "Una afluencia masiva de glaciares derretidos causa una nueva Edad de Hielo en el hemisferio norte, forzando a una familia a cruzar el terreno helado para poder huir del intempestuoso clima",
+			"genero": "Ciencia ficcion, Accion",
+			"stations": [
+				{
+				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi3": "https://mixdrop.co/f/3n89pplmbvx3p", 
+				"kodi4": "https://cloudvideo.tv/7ypxb1g9s3s1", 
+				"kodi5": "https://vidia.tv/NO_LINK",
+				"torrent": "magnet:?xt=urn:btih:E56A1AAA8298AA7D8C83503C0C38451471ECCBE1&dn=BRRip",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2019, Letra B, EEUU, Robos, Atracos, ",
 			"name": "Burn (2019)","coloryear": "limegreen",
 			"image": "https://www.themoviedb.org/t/p/original/oP3QVjfOvtvBmJYK45CR2tvwPma.jpg",
 			"info": "Un ladrón de poca monta trata de robar una gasolinera. Sin embargo, el empleado que allí trabaja no sólo logra defenderse, sino que además lo captura y lo hace su prisionero. Mientras espera a que llegue la policía, tanto él como el resto de trabajadores tratan de informarse sobre los motivos que llevaron al ladrón a entrar en el mundo del crimen",
@@ -28,16 +46,16 @@
 				{
 				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
 				"kodi2": "https://vidia.tv/NO_LINK",
-				"kodi3": "https://vidia.tv/NO_LINK", 
-				"kodi4": "https://vidia.tv/NO_LINK", 
-				"kodi5": "https://vidia.tv/NO_LINK"
+				"kodi3": "https://mixdrop.co/f/7r890d44id47emn", 
+				"kodi4": "https://cloudvideo.tv/nct6otqo497r", 
+				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:F1036DE8C3C1F8CA0636749474AC9AA8CB63B829&dn=BRRip",
 				"torrent4k": ""
 				}		
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Accion, A2019, Letra E, Rusia, ",
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Accion, A2019, Letra E, Rusia, ",
 			"name": "Escapada al limite (2019)","coloryear": "limegreen",
 			"image": "https://www.themoviedb.org/t/p/original/fTI9nWBgtEeSMvN1wnPO8plT4Sz.jpg",
 			"info": "Cuando un cuarteto de jóvenes abandonan Moscú para ocultarse luego de provocar un estrepitoso accidente, pretenden disfrutar una idílica escapada en la naturaleza de Altái. Sin embargo, el viaje se convierte en una pesadilla cuando un grupo de extraños los obligan a luchar contra todo para sobrevivir",
@@ -46,9 +64,9 @@
 				{
 				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
 				"kodi2": "https://vidia.tv/NO_LINK",
-				"kodi3": "https://vidia.tv/NO_LINK", 
-				"kodi4": "https://vidia.tv/NO_LINK", 
-				"kodi5": "https://vidia.tv/NO_LINK"
+				"kodi3": "https://mixdrop.co/f/dql3117nselg77", 
+				"kodi4": "https://cloudvideo.tv/q3ac6z4goyp5", 
+				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:E05B94D4855FD1B2A95378E08ACB7F7055D540C4&dn=BRRip",
 				"torrent4k": ""
 				}		
@@ -66,7 +84,7 @@
 				"kodi2": "https://vidia.tv/NO_LINK",
 				"kodi3": "https://mixdrop.co/f/848qnzpxtq9gmv", 
 				"kodi4": "https://cloudvideo.tv/vul71rqhg771", 
-				"kodi5": "https://vidia.tv/NO_LINK"
+				"kodi5": "https://vidia.tv/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:D1C0CFF989ADD6FEEE64A179EE61D4A6083F266B&dn=BRRip",
 				"torrent4k": ""
 				}		
