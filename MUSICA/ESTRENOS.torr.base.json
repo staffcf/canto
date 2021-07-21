@@ -19,7 +19,7 @@
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2019, Letra L, Noruega, 1Biografico, 1Historico, ",
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2019, Letra L, Noruega, 1Biografico, 1Historico, ",
 			"name": "La espia (2019)","coloryear": "limegreen",
 			"image": "https://www.themoviedb.org/t/p/original/nMHjtbJWJbhrcsile0rUorNR1wl.jpg",
 			"info": "Sonja Wigert es una diva en Estocolmo cuando comienza la II Guerra Mundial, llamando rápidamente la atención del oficial nazi Josef Terboven. Poco después, el servicio de inteligencia sueco la contrata para trabajar como espía, una posición que se ve comprometida cuando el propio Terboven le pide que se convierta en espía de los suecos",
@@ -28,10 +28,10 @@
 				{
 				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
 				"kodi2": "https://vidia.tv/NO_LINK",
-				"kodi3": "https://vidia.tv/NO_LINK", 
-				"kodi4": "https://vidia.tv/NO_LINK", 
-				"kodi5": "https://vidia.tv/NO_LINK",
-				"torrent": "magnet:?xt=urn:btih:A53437070741CB92368D0C65D7BE685756B97F81&dn=L43sp1aHDR.exclusivetorrent.net.avi",
+				"kodi3": "https://vidoza.net/embed-qn8b1y7puywj-920x360.html", 
+				"kodi4": "https://mixdrop.co/e/n0410pzpu8jmx3", 
+				"kodi5": "https://vidoza.net/embed-6hkom76b0cw9-920x360.html",
+				"torrent": "magnet:?xt=urn:btih:18BBAC5BC2420A07117F2BE01D7BAA9AECB905D4&dn=BRRip",  
 				"torrent4k": ""
 				}		
 			]
