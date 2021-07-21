@@ -4,6 +4,16 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 
+<item>
+<title>[COLOR white] Los Estados Unidos contra Billie Holiday [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.8[/COLOR]</title>    
+<genre>Música, Drama, Historia</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/R2frjqI.jpg</thumbnail>
+<fanart>https://i.imgur.com/9m9jTC3.jpg</fanart>
+<info>La legendaria Billie Holiday, una de las mejores intérpretes de jazz de todos los tiempos, pasó la mayor parte de su carrera siendo adorada por sus fans alrededor del globo. Todo mientras el Departamento Federal de Narcóticos de Estados Unidos la fijó como objetivo mediante una operación encubierta liderada por el Agente Federal Jimmy Fletcher, con quien Billie había tenido un tumultuoso romance.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=wrQl1hXA7Vg"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/0qy04blg-gmqwjl"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/pk34340gsow00j"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/qjotay2pn3rf"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/0v52yfeindhi"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/154426_-1626613857-Los-Estados-Unidos-contra-Billie-Holiday--BluRay-1080p.torrent"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Wx1KZqbS8JhQwLoGcOU5CV8nKYdibdPO/view"}</urlsolve>
+</item>
+
 
 <item>
 <title>[COLOR white] Juega conmigo [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.4[/COLOR]</title>    
