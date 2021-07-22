@@ -31610,6 +31610,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 0Torrentcristal, 1Torrent4k, 1Drama, A2018, Letra L, Spain, ",
+			"name": "La enfermedad del domingo (2018)","coloryear": "aqua",
+			"image": "https://www.themoviedb.org/t/p/original/3oawoWusJ0Wyo3KSx2IPaNcG0I0.jpg",
+			"info": "Anabel (Susi Sánchez) abandonó a su hija Chiara (Bárbara Lennie) cuando esta apenas tenía ocho años. Treinta y cinco años después, Chiara regresa con una extraña petición para su madre: que pasen diez días juntas. Anabel ve en ese viaje la oportunidad de recuperar a su hija, pero no sabe qué intenciones tiene Chiara",
+			"genero": "Drama",
+			"stations": [
+				{
+				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi3": "https://vidia.tv/NO_LINK", 
+				"kodi4": "https://vidia.tv/NO_LINK", 
+				"kodi5": "https://vidia.tv/NO_LINK",
+				"torrent": "magnet:?xt=urn:btih:C9F31966AA87607CC4A375375D5B4F9F32908442&dn=HD1080",  magnet:?xt=urn:btih:4E372A32E0BE33B40117034B971966E439BAE786&dn=BRRip  magnet:?xt=urn:btih:31A2F9524CB8A00EB036340DA904161DDCFAA261&dn=HD720
+				"torrent4k": "magnet:?xt=urn:btih:52A682B12FA858EB1D07B5462F249E72D14CA542&dn=Web4K"
+				}		
+			]
+			},
+			{
 			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Thriller, A2018, Letra L, Reino Unido, 1Biografico, Espionaje, ",
 			"name": "La Espia Roja (2018)","coloryear": "aqua",
 			"image": "https://www.ecartelera.com/carteles/14100/14169/002_p.jpg",
@@ -46052,6 +46070,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi4": "https://vidia.tv/NO_LINK", 
 				"kodi5": "https://vidia.tv/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:e02df5b711b1cd887f66adfd9bc5477c0b12aa70",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2009, Letra B, EEUU, ",
+			"name": "Brüno (2009)","coloryear": "hotpink",
+			"image": "https://www.themoviedb.org/t/p/original/knZ9McSsLHYiVWr7R45FWJHDK08.jpg",
+			"info": "Tras el éxito mundial de Borat, Sacha Baron Cohen interpreta a un reportero gay, con cierta obsesión por la moda y por el culto al cuerpo. Esto le llevará a parodiar a los diseñadores de alta costura y modelos",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi3": "https://vidia.tv/NO_LINK", 
+				"kodi4": "https://vidia.tv/NO_LINK", 
+				"kodi5": "https://vidia.tv/NO_LINK",
+				"torrent": "magnet:?xt=urn:btih:639F05BE0B48EFFC7091B337648CA7119765905E&dn=DVDRip",  https://blazing.network/torrents/peliculas/Bruno.DVD.XviD.torrent
 				"torrent4k": ""
 				}		
 			]
