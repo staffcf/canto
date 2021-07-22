@@ -2375,6 +2375,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 1Peliscristal, 0Torrentcristal, 0Torrent4k, 1Animacion, 1Fantastico, 1Accion, 1Aventuras, A2021, Letra T, EEUU, Netflix, Dreamworks, ",
+			"name": "Trollhunters: El despertar de los titanes (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/xcFYOLIExZPaQKTAmO4f3EiTj0d.jpg",
+			"info": "Los héroes de la serie Trollhunters se unen en una épica aventura para luchar contra la Orden de los Arcanos para determinar quién controla el poder de la magia que los une a todos",
+			"genero": "Animacion, Fantastico, Accion, Aventuras",
+			"stations": [
+				{
+				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi3": "https://vidia.tv/NO_LINK", 
+				"kodi4": "https://vidia.tv/NO_LINK", 
+				"kodi5": "https://vidoza.net/embed-u1no7masmb70-781x540.html",
+				"torrent": "",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Accion, A2021, Letra T, Reino Unido, ",
 			"name": "Twist (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/1b0N6VghD3sgm2ubRengPYDujeD.jpg",
@@ -4499,6 +4517,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent": "magnet:?xt=urn:btih:d77b267204ca9cb8187fd59767f30c861f337505&HD1080",
 				"torrent4k": "",
 				"GDRIVE": "https://drive.google.com/file/d/1aOUNkKNKmdWB0MPqqLA0t2CwlJHSybdA/view?usp=sharing"
+				}		
+			]
+			},
+			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2020, Letra C, EEUU, ",
+			"name": "Come Play (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/exMHPC9hISOilingT8Q1SKMJFV5.jpg",
+			"info": "Un niño problemático y su familia se convierten en el objetivo de un monstruo que se materializa a través de objetos electrónicos, tales como teléfonos móviles y tablets",
+			"genero": "Terror",
+			"stations": [
+				{
+				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi3": "https://mixdrop.co/f/enw69kz6iz6j9n", 
+				"kodi4": "https://cloudvideo.tv/4hu7yfigspfx", 
+				"kodi5": "https://vidia.tv/NO_LINK",
+				"torrent": "magnet:?xt=urn:btih:ACEDD3E106D9BE122749BC979476B7FF1E71683F&dn=BRRip",
+				"torrent4k": ""
 				}		
 			]
 			},
