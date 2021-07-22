@@ -23317,7 +23317,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			},
 			{
 			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2019, Letra P, Spain, Familia, Remake, Sony, Amazon, Sagas PNHMQU, ",
-			"name": "Padre No Hay Mas Que Uno (2019)","coloryear": "limegreen",
+			"name": "Padre no hay mas que uno (2019)","coloryear": "limegreen",
 			"image": "https://www.themoviedb.org/t/p/original/fNNTBbLezpftYjgj5BVTgbaYRex.jpg",
 			"info": "Javier es lo que hemos bautizado como un “marido-cuñao”. Ese que sin ocuparse en absoluto de lo que supone el cuidado de la casa y de los niños, sabe perfectamente que es lo que hay que hacer, y que continuamente regala a su mujer frases del tipo: 'Es que no te organizas', o 'no te pongas nerviosa', ya que considera que su desbordada mujer se ahoga en un vaso de agua. Javier tendra que enfrentarse a la realidad que supone bregar con cinco hijos (de entre cuatro y doce años) cuando su mujer decide irse de viaje y dejarle solo con ellos. La caotica situacion que se provoca en casa evolucionara de forma progresivamente comica hasta el desastre mas absoluto, pero a la vez les dara la oportunidad a padre e hijos de conocerse y disfrutarse por primera vez. Una experiencia que cambiara sus vidas para siempre",
 			"genero": "Comedia",
@@ -23332,6 +23332,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent4k": "",				
 				"GDRIVE": "https://drive.google.com/file/d/1akbTgAbeynQCAdwya-pmeYV-iMp0hR0q/view?usp=sharing""
 				}			
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2019, Letra P, Francia, ",
+			"name": "Padres adoptivos (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/1EK7h39CMRAIELxen95sSbWAYKR.jpg",
+			"info": "Coline y André se llevan a las mil maravillas con su hija, Garance, y con su yerno, Harold. Pero Garance decide romper con Harold y ordena a sus padres que nunca más lo vean. Los suegros no pueden hacerse a la idea: ella lo ha abandonado, pero ellos no. Tendrán que llevar una doble vida para poder seguir viendo a su querido yerno...",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi3": "https://vidia.tv/NO_LINK", 
+				"kodi4": "https://vidia.tv/NO_LINK", 
+				"kodi5": "https://vidia.tv/NO_LINK",
+				"torrent": "magnet:?xt=urn:btih:AC0F6C80E6665DA1EB11FEBB12AEEA73FF1A5669&dn=BRRip",
+				"torrent4k": ""
+				}		
 			]
 			},
 			{
@@ -37297,7 +37315,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Accion, A2017, Letra E, Reino Unido, IRA, Terrorismo, Venganza, ",
+			"tag": " 1Peliscristal, 1Torrentcristal, 1Torrent4k, 1Thriller, 1Accion, A2017, Letra E, Reino Unido, IRA, Terrorismo, Venganza, ",
 			"name": "El Extranjero (2017)","coloryear": "green",
 			"image": "https://www.ecartelera.com/carteles/10800/10839/004_p.jpg",
 			"info": "La historia de un humilde hombre de negocios, Quan (Jackie Chan), cuyo pasado erupciona en una venganza desenfrenada despues de que su hija muera en un atentado terrorista motivado por aspectos politicos. En su busqueda de los terroristas, Quan se ve atrapado en un juego del gato y el raton con un politico irlandes que colabora con el gobierno britanico (Pierce Brosnan), cuyo pasado podria tener algo que ver con los asesinos",
@@ -37310,7 +37328,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi4": "https://vidia.tv/NO_LINK/gounlimited.to/embed-v6uubbh6wf4d.html", 
 				"kodi5": "https://mstream.fun/qwxytw86awyl"
 				"torrent": "magnet:?xt=urn:btih:1864c5cedab238ce7f806549bbd1fa8b5e6ade2e",
-				"torrent4k": ""
+				"torrent4k": "magnet:?xt=urn:btih:79DE0052ABB30B55015425DA3C1E4A89450A849E&dn=UHDRip"
 				}
 			]
 			},
