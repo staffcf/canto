@@ -1403,7 +1403,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Fantastico, 1Thriller, 1Accion, A2021, Letra K, Corea del Sur, Netflix, ",
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Fantastico, 1Thriller, 1Accion, A2021, Letra K, Corea del Sur, Netflix, ",
 			"name": "Kingdom: La historia de Ashin (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/gDu7P9dGWrNJBP6EIYKCuKLWVYg.jpg",
 			"info": "Se centra en Ashin, heredera de un pueblo del norte de Jurchen que salió brevemente al final de la segunda temporada",
@@ -1413,8 +1413,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
 				"kodi2": "https://vidia.tv/NO_LINK",
 				"kodi3": "https://vidia.tv/NO_LINK", 
-				"kodi4": "https://vidia.tv/NO_LINK", 
-				"kodi5": "https://vidia.tv/NO_LINK",
+				"kodi4": "https://vidoza.net/embed-2xitov56duzr-920x360.html", 
+				"kodi5": "https://vidoza.net/embed-qshwarwxbyn0-920x360.html",
 				"torrent": "magnet:?xt=urn:btih:1FC34828A33DE81725920FEE18013A8D20A93738&dn=BRRip",
 				"torrent4k": ""
 				}		
@@ -48672,6 +48672,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Intriga, 1Drama, A2005, Letra E, Reino Unido, ",
+			"name": "El jardinero fiel (2005)","coloryear": "crimson",
+			"image": "https://www.themoviedb.org/t/p/original/xXvD4tPCbR5NbnbEMWctJ5ItEfZ.jpg",
+			"info": "Justin Quayle (Fiennes) es un diplomático británico destinado en Kenya cuya mujer es asesinada junto a un hombre sospechoso de ser su amante, un activista defensor de los derechos humanos de la región. Quayle decide entonces investigar los asesinatos, y comienza a descubrir mucho más de lo que esperaba...",
+			"genero": "Thriller, Intriga, Drama",
+			"stations": [
+				{
+				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi3": "https://vidia.tv/NO_LINK", 
+				"kodi4": "https://vidia.tv/NO_LINK", 
+				"kodi5": "https://vidia.tv/NO_LINK",
+				"torrent": "https://blazing.network/torrents/peliculas/El_jardinero_fiel.(DVDRip.Divx.AC3__5.1Spanish).torrent",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, 1Musical, A2005, Letra E, Taiwan, 1Culto, ",
 			"name": "El sabor de la sandia (2005)","coloryear": "crimson",
 			"image": "https://www.themoviedb.org/t/p/original/9982mkMphAfTGrXbCiOkCwTGVug.jpg",
@@ -55164,6 +55182,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent": "",
 				"torrent4k": "",
 				"GDRIVE": "https://drive.google.com/file/d/1riU_hRluHwbRwpVP0OoQWHj3TK9Ilcbf/view?usp=sharing"
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Fantastico, A1988, Letra B, EEUU, B2000, A1990-1981, ",
+			"name": "Big (1988)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/fQXlNnc6Ztyb6ocsXSiA0zDVD7s.jpg",
+			"info": "Josh Baskin tiene trece años pero, cansado de que las chicas no le hagan caso y de que sus padres le traten como a un niño, desea ser mayor. Una noche, encuentra, en una feria, una vieja máquina que concede un deseo a cambio de una moneda. Josh, sin dudarlo un instante, pide hacerse mayor. A la mañana siguiente, descubre en el espejo un cuerpo de adulto. La otra cara de la moneda serán los problemas y responsabilidades que debe asumir sin ninguna experiencia previa",
+			"genero": "Comedia, Fantastico",
+			"stations": [
+				{
+				"kodi1": "https://vidia.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidia.tv/NO_LINK",
+				"kodi3": "https://vidia.tv/NO_LINK", 
+				"kodi4": "https://vidia.tv/NO_LINK", 
+				"kodi5": "https://vidia.tv/NO_LINK",
+				"torrent": "magnet:?xt=urn:btih:ED56CBA9B166E89551A15FD98EE1185BF28F3264&dn=BR1080",
+				"torrent4k": ""
 				}		
 			]
 			},
