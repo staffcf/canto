@@ -77,7 +77,7 @@
 <thumbnail>https://i.imgur.com/j2zd1Ge.jpg</thumbnail>
 <fanart>https://i.imgur.com/1kPO1vA.jpg</fanart>
 <info>Una lucha que ha durado varias décadas entre dos hermanos pastores de ovejas por un terreno llega a su punto crítico cuando un desastre golpea a su rebaño.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=9JCnM_lXYXk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/q3nx0ieg842g3d8"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.to/f/n040v1lxu0p4xj"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/lm7i8isfvak8"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-77z78nh8vcbv.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/11_2_0aAhv0b4XA8HlqzSw6ZPdVak2zh-/view"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=9JCnM_lXYXk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/q3nx0ieg842g3d8"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.to/f/n040v1lxu0p4xj"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/lm7i8isfvak8"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-77z78nh8vcbv.html"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:02294719d2c1333b2bc6209b60a9caf139acc67e"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/11_2_0aAhv0b4XA8HlqzSw6ZPdVak2zh-/view"}</urlsolve>
 </item>
 
 
