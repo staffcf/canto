@@ -86,7 +86,7 @@
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
 				"kodi5": "https://dl.dropboxusercontent.com/s/j5t74269t58ufhi/Cielo.rojo.sangre.2021.-.1080.-.CristalAzul.mkv?dl=0",  
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Cielo.rojo.sangre.2021.-.1080.-.CristalAzul.mkv.torrent",  https://www.dropbox.com/s/b7mhb1ikoyn6zd5/Cielo.rojo.sangre.2021.-.1080.-.CristalAzul.mkv.torrent?dl=1
+				"torrent": "magnet:?xt=urn:btih:9D2BA2D1CF70C0522AD38BA13860836011680560&dn=HD1080 ",   https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Cielo.rojo.sangre.2021.-.1080.-.CristalAzul.mkv.torrent  https://www.dropbox.com/s/b7mhb1ikoyn6zd5/Cielo.rojo.sangre.2021.-.1080.-.CristalAzul.mkv.torrent?dl=1
 				"torrent4k": ""
 				}		
 			]
@@ -110,7 +110,7 @@
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, A2021, Letra J, EEUU, ",
+			"tag": " 1Peliscristal, 1Torrentcristal, 1Torrent4k, 1Accion, A2021, Letra J, EEUU, ",
 			"name": "Jolt (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/kprsFE8m4NgRstmr3BzTyxZx7Pp.jpg",
 			"info": "Lindy es una mujer con un doloroso secreto: debido a un raro trastorno neurológico crónico, experimenta esporádicos impulsos de ira extremadamente violentos que solo pueden detenerse cuando se aplica una descarga a sí misma con un dispositivo especial de electrodos. Aunque es incapaz de encontrar el amor y de encajar en un mundo que teme su extraña condición, por fin logra confiar lo suficiente en un hombre como para enamorarse, solo para encontrarlo muerto al día siguiente. Desconsolada y enfurecida, se embarca en una misión de venganza para encontrar a su asesino, mientras es perseguida por la policía como principal sospechosa del crimen",
@@ -122,8 +122,10 @@
 				"kodi3": "https://mixdrop.co/f/qlql66o0fzdz83", 
 				"kodi4": "https://cloudvideo.tv/1x1xk5wq25it", 
 				"kodi5": "https://vidoza.net/embed-py87caw9bbao-920x360.html",
-				"torrent": "magnet:?xt=urn:btih:5BCB47A29EEB2C639BBCA1D0C2C76FB04F8824FD&dn=BRRip",
-				"torrent4k": ""
+				"torrent": "magnet:?xt=urn:btih:9627B4895BB1796DCE8053FA408EDD00150068E7&dn=HD1080",  magnet:?xt=urn:btih:5BCB47A29EEB2C639BBCA1D0C2C76FB04F8824FD&dn=BRRip
+				"torrent4k": "https://maxitorrent.com/download/154807_-1627153918-Jolt--4KWebrip.torrent",  
+				"magnet": "",
+				"magnet4k": "magnet:?xt=urn:btih:8451CF916B080F6D01DD5D5711F21C266B19CB72&dn=Web4K"
 				}		
 			]
 			},
@@ -250,7 +252,7 @@
 				"kodi3": "https://mixdrop.co/f/xovlrlgjar0mrl", 
 				"kodi4": "https://cloudvideo.tv/3lqjvfguv9nb", 
 				"kodi5": "https://vidoza.net/NO_LINK",
-				"torrent": "magnet:?xt=urn:btih:2C9DD0CB9EAAC48B9CC917F38FB9749B81B595AC&dn=BRRip",
+				"torrent": "magnet:?xt=urn:btih:49EF69849F606277DE80A40C30B73A1D2D91CE40&dn=HD1080",  magnet:?xt=urn:btih:2C9DD0CB9EAAC48B9CC917F38FB9749B81B595AC&dn=BRRip
 				"torrent4k": ""
 				}		
 			]
@@ -376,7 +378,7 @@
 				"kodi3": "https://mixdrop.co/f/9n8q40zos7rdk3", 
 				"kodi4": "https://cloudvideo.tv/gl79r1dcaw1o",
 				"kodi5": "https://vidoza.net/NO_LINK",
-				"torrent": "magnet:?xt=urn:btih:1EA65391F42CF5ADBAC266C4C4EC74F634F6482C&dn=BRRip",  magnet:?xt=urn:btih:B4508F9C7D762696343E5D1CC41EA835CFD7B790&dn=BRRip
+				"torrent": "magnet:?xt=urn:btih:A711579CC0EEAA4BD4D41784C65F8606C6EABA9E&dn=HD1080",  magnet:?xt=urn:btih:1EA65391F42CF5ADBAC266C4C4EC74F634F6482C&dn=BRRip magnet:?xt=urn:btih:B4508F9C7D762696343E5D1CC41EA835CFD7B790&dn=BRRip
 				"torrent4k": ""
 				}		
 			]
