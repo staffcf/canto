@@ -7,6 +7,18 @@
 
 
 
+
+<item>
+<title>[COLOR white] La espia [/COLOR][COLOR yellow](2019) [COLOR aqua]*6.8[/COLOR]</title>    
+<genre>Suspense, Drama, Historia</genre>
+<year>2019</year>
+<thumbnail>https://i.imgur.com/Kcxo7DC.jpg</thumbnail>
+<fanart>https://i.imgur.com/Ei4oryc.jpg</fanart>
+<info>Sonja Wigert es una diva en Estocolmo cuando comienza la II Guerra Mundial, llamando rápidamente la atención del oficial nazi Josef Terboven. Poco después, el servicio de inteligencia sueco la contrata para trabajar como espía, una posición que se ve comprometida cuando el propio Terboven le pide que se convierta en espía de los suecos.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=fYwrWEYwy4k"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/-k5nmbp1lr3lxpl"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/vn3nrepmiz71no"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/vtwbtypn5ffq"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-5vnqkhmrg8vi.html"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:3598029a21c9069eef57fa1035f6f37bd8d7028f"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1IY6Eu84rri2CgdXTnpXIPxj9rlLIFNpo/view"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white]  Ladrones de Elite [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.4[/COLOR]</title>    
 <genre>Acción, Comedia, Crimen</genre>
