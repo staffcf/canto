@@ -4,6 +4,20 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 
+
+
+
+<item>
+<title>[COLOR white]  Ladrones de Elite [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.4[/COLOR]</title>    
+<genre>Acción, Comedia, Crimen</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/SN8o2to.jpg</thumbnail>
+<fanart>https://i.imgur.com/gtGAx65.jpg</fanart>
+<info>Después de ser reclutado por un grupo de ladrones poco convencionales, el renombrado criminal Richard Pace se ve envuelto en un elaborado atraco de oro que promete tener implicaciones de gran alcance en su vida y en la vida de muchos otros.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=8L-kFNCOSUs"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/8ndm4f8x757eg-l"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/0v8vwjzghpmqvg"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/fk8b0ayg9z77"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-teywrcc8c3qc.html"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/154808_-1627153970-Ladrones-de-elite--BluRay-1080p.torrent"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1uScRngihzsNTxxoiHQ3K0aFlVHDMa-iK/view"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Despierta la furia [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.8[/COLOR]</title>    
 <genre>Thriller,Acción,Robos & Atracos,Venganza,Crimen</genre>
