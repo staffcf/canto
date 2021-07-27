@@ -27261,7 +27261,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi4": "https://cloudvideo.tv/embed-h4jfb175ewj4-920x360.html", 
 				"kodi5": "https://vidoza.net/embed-1ze6v7d12byb-920x360.html"
 				"torrent": "magnet:?xt=urn:btih:114A603EE6A485E225ACB2C5E52FE6A4C4C9A378",
-				"torrent4k": "magnet:?xt=urn:btih:655AF27219AE5BC14E16E91D648A27F5F02FCFF2",
+				"torrent4k": "magnet:?xt=urn:btih:655AF27219AE5BC14E16E91D648A27F5F02FCFF2&dn=UHDRip",
 				"magnet": "",
 				"magnet4k": ""
 				}		
@@ -41159,6 +41159,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Terror, A2016, Letra C, EEUU, ",
+			"name": "Cell (2016)","coloryear": "purple",
+			"image": "https://www.themoviedb.org/t/p/original/c721WxCCzeLJS99BOMBYAzicnJF.jpg",
+			"info": "Clayton Riddell se encuentra en Boston celebrando el éxito de su última novela gráfica, pero cuando se dispone a regresar a casa con su familia se desata un caos apocalíptico a causa de las señales emitidas por los teléfonos móviles, que están convirtiendo a la gente en monstruos sedientos de sangre. Adaptación de la novela de Stephen King 'Cell'; en la elaboración del guión intervino el propio King",
+			"genero": "Thriller, Terror",
+			"stations": [
+				{
+				"kodi1": "https://vidoza.net/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidoza.net/NO_LINK",
+				"kodi3": "https://vidoza.net/NO_LINK", 
+				"kodi4": "https://vidoza.net/NO_LINK", 
+				"kodi5": "https://vidoza.net/NO_LINK",
+				"torrent": "magnet:?xt=urn:btih:42D6BEFF7BD8D10D059D067E7E89B99835C607C7&dn=BRRip",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2016, Letra C, Spain, Robos, Atracos, ",
 			"name": "Cien años de perdon (2016)","coloryear": "purple",
 			"image": "https://www.themoviedb.org/t/p/original/x5c9xuTZcAeQ275LVR5crPPELuZ.jpg",
@@ -43270,7 +43288,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Accion, A2014, Letra I, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Comedia, 1Accion, A2014, Letra I, EEUU, ",
 			"name": "Infiltrados en la universidad (2014)","coloryear": "turquoise",
 			"image": "https://www.themoviedb.org/t/p/original/taDf9ZzGAmCw3G8ZayYthumHKv3.jpg",
 			"info": "Los agentes de policia Jenko (Channing Tatum) y Schmidt (Jonah Hill) tendran que infiltrarse en un campus universitario para intentar desarticular una red de narcotrafico",
@@ -43283,7 +43301,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi4": "https://vidoza.net/NO_LINK", 
 				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:06F4998C83DA463B82926523986BB06113360992",
-				"torrent4k": "", 
+				"torrent4k": "magnet:?xt=urn:btih:5DEC6CE7E732300F7C131993C4D334090AE4E364&dn=UHDRip", 
 				"GDRIVE4K": "https://drive.google.com/file/d/1ExOMheWZ3mWhUuXUu6wCau-ms4HK0mXZ/view?usp=sharing"
 				}		
 			]
@@ -45198,6 +45216,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent": "magnet:?xt=urn:btih:aohoy4qbzrspsc7pqnjefwznp7kidjzl",
 				"torrent4k": "",
 				"GDRIVE": "https://drive.google.com/file/d/1gYKU3vR0yNeUivQy4YE-IhOHgkftez4h/view?usp=sharing"
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Comedia, 1Romance, A2011, Letra A, EEUU, Crimen, Robos, Atracos, ",
+			"name": "Atraco por duplicado (2011)","coloryear": "blue",
+			"image": "https://www.themoviedb.org/t/p/original/20pVV5VO6zYBl3Yzus72pGt7COK.jpg",
+			"info": "Una extraña coincidencia hace que dos bandas atraquen el mismo banco a la misma hora. Un peculiar cliente (Patrick Dempsey) y una resuelta cajera (Ashley Judd) pondrán en juego su ingenio y su valor para intentar frustrar el golpe",
+			"genero": "Thriller, Comedia, Romance",
+			"stations": [
+				{
+				"kodi1": "https://vidoza.net/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidoza.net/NO_LINK",
+				"kodi3": "https://vidoza.net/NO_LINK", 
+				"kodi4": "https://vidoza.net/NO_LINK", 
+				"kodi5": "https://vidoza.net/NO_LINK",
+				"torrent": "magnet:?xt=urn:btih:4415FFB16A3C9A11BF0A96775FE57FD305BA26D9&dn=DVDRip",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -54146,6 +54182,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Accion, 1Romance, A1993, Letra A, EEUU, B2000, A2000-1991, ",
+			"name": "Amor a quemarropa (1993)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/5dQQOHTHVJRUoOJVNh67sdf33vS.jpg",
+			"info": "El joven y solitario Clarence (Christian Slater) celebra su cumpleaños como de costumbre, viendo películas de kung-fu en un destartalado cine de Detroit. Estando en la sala conoce a Alabama (Patricia Arquette), una rubia explosiva con la que tiene una noche de pasión. Ella, en realidad, es una prostituta pagada por el mejor amigo de Clarence como regalo de cumpleaños. A pesar de ello, Clarence decide alejarla de la prostitución, pero tendrá que enfrentarse con su chulo (Gary Oldman) cuando va a recoger las pertenencias de Alabama",
+			"genero": "Thriller, Accion, Romance",
+			"stations": [
+				{
+				"kodi1": "https://vidoza.net/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidoza.net/NO_LINK",
+				"kodi3": "https://vidoza.net/NO_LINK", 
+				"kodi4": "https://vidoza.net/NO_LINK", 
+				"kodi5": "https://femax20.com/v/6x21rt0z0127l1r",
+				"torrent": "magnet:?xt=urn:btih:193A47116901177F4CF211FCAA35D04564C70634&dn=HD1080",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Fantastico, 1Comedia, 1Infantil, 1Terror, A1993, Letra E, EEUU, Disney, B2000, A2000-1991, ",
 			"name": "El retorno de las brujas (1993)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/sOBr6cJVh3X9woaJNf47rgVHFbO.jpg",
@@ -57652,6 +57706,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 		"name": "1976-1980",
 		"image": "",
 		"groups": [
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A1980, Letra A, EEUU, B2000, A1980-1971, Sagas ACP, ",
+			"name": "Aterriza como puedas (1980)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/sFjqv3CnwC1cZKbEtp2Cgc4fIjR.jpg",
+			"info": "El vuelo 209 de la Trans American sale de Los Ángeles con destino a Chicago. Entre el pasaje se encuentran una serie de curiosos personajes. Entre ellos, un ex-piloto de combate que, en pleno vuelo, se verá obligado a hacerse con el mando del avión comercial, tras quedar los pilotos indispuestos por una comida en mal estado",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"kodi1": "https://vidoza.net/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidoza.net/NO_LINK",
+				"kodi3": "https://vidoza.net/NO_LINK", 
+				"kodi4": "https://vidoza.net/NO_LINK", 
+				"kodi5": "https://vidoza.net/NO_LINK",
+				"torrent": "magnet:?xt=urn:btih:8B5C43819298FB7C698FF363854677632905B8A1&dn=DVDRip",
+				"torrent4k": "magnet:?xt=urn:btih:E9B1199F019A30765998FAAD173C75114763F5C4&dn=Web4K"	
+				}		
+			]
+			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Fantastico, A1980, Letra E, EEUU, B2000, A1980-1971, ",
 			"name": "El final de la cuenta atras (1980)","coloryear": "tomato",
