@@ -6404,6 +6404,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Accion, A2020, Letra E, Rusia, ",
+			"name": "En llamas (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/7uyxpJ0R2UINPpqZGbPk92DhJuT.jpg",
+			"info": "Lo que llamamos un acto de valentía es sólo una rutina habitual para ellos. Cuando las personas en peligro parece no tener a nadie que pueda ayudarlas, los rescatistas vienen a luchar contra las despiadadas fuerzas de la naturaleza.",
+			"genero": "Drama, Accion",
+			"stations": [
+				{
+				"kodi1": "https://vidoza.net/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidoza.net/NO_LINK",
+				"kodi3": "https://vidoza.net/NO_LINK", 
+				"kodi4": "https://vidoza.net/NO_LINK", 
+				"kodi5": "https://vidoza.net/NO_LINK",
+				"torrent": "magnet:?xt=urn:btih:D48856A9D1A3CF95D08AADD6106AF1C82EADBC6C&dn=Ll4m4sssHDR.exclusivetorrent.net.avi",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Drama, A2020, Letra E, EEUU, ",
 			"name": "En lucha (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/rR2LOUI0gj0Eg9HwPbRpw7UsMXx.jpg",
@@ -34754,6 +34772,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent": "magnet:?xt=urn:btih:daee92c5e2e491233553e1dc717ade57cf726f9a", 
 				"torrent4k": ""
 				}
+			]
+			},
+			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2018, Letra S, Spain, ",
+			"name": "Sant Marti (2018)","coloryear": "aqua",
+			"image": "https://www.themoviedb.org/t/p/original/zmmfFcFXRS361wmS9cWhzVNXBJD.jpg",
+			"info": "Un grupo de jóvenes se dirige a un festival de rock que se celebra en las montañas. Una avería les obliga a buscar refugio en Sant Martí, un pueblo de la Catalunya profunda venido a menos con los años...",
+			"genero": "Terror",
+			"stations": [
+				{
+				"kodi1": "https://vidoza.net/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidoza.net/NO_LINK",
+				"kodi3": "https://vidoza.net/embed-9551e8a4ttq5-920x360.html", 
+				"kodi4": "https://mixdrop.co/e/wnon17jjt03gm3", 
+				"kodi5": "https://vidoza.net/embed-98acn24d9bw3-920x360.html",
+				"torrent": "magnet:?xt=urn:btih:1B2E2E09135DB3C497001E6E5F9E8C11180458DC&dn=HD720",  magnet:?xt=urn:btih:8E4D6074907B9426336F79F4DE6FF98DBF9095E5&dn=BRRip
+				"torrent4k": ""	
+				}		
 			]
 			},
 			{

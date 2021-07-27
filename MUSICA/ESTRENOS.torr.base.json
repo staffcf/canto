@@ -19,7 +19,7 @@
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2018, Letra S, Spain, ",
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2018, Letra S, Spain, ",
 			"name": "Sant Marti (2018)","coloryear": "aqua",
 			"image": "https://www.themoviedb.org/t/p/original/zmmfFcFXRS361wmS9cWhzVNXBJD.jpg",
 			"info": "Un grupo de jóvenes se dirige a un festival de rock que se celebra en las montañas. Una avería les obliga a buscar refugio en Sant Martí, un pueblo de la Catalunya profunda venido a menos con los años...",
@@ -28,10 +28,10 @@
 				{
 				"kodi1": "https://vidoza.net/NO_LINK", "colorserver1": "lime",
 				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://vidoza.net/NO_LINK",
-				"torrent": "magnet:?xt=urn:btih:8E4D6074907B9426336F79F4DE6FF98DBF9095E5&dn=BRRip",  magnet:?xt=urn:btih:1B2E2E09135DB3C497001E6E5F9E8C11180458DC&dn=HD720
+				"kodi3": "https://vidoza.net/embed-9551e8a4ttq5-920x360.html", 
+				"kodi4": "https://mixdrop.co/e/wnon17jjt03gm3", 
+				"kodi5": "https://vidoza.net/embed-98acn24d9bw3-920x360.html",
+				"torrent": "magnet:?xt=urn:btih:1B2E2E09135DB3C497001E6E5F9E8C11180458DC&dn=HD720",  magnet:?xt=urn:btih:8E4D6074907B9426336F79F4DE6FF98DBF9095E5&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
