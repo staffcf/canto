@@ -7,6 +7,16 @@
 
 
 
+<item>
+<title>[COLOR white] Surge [/COLOR][COLOR yellow](2020) [COLOR aqua]*5.9[/COLOR]</title>    
+<genre>Drama</genre>
+<year>2020</year>
+<thumbnail>https://i.imgur.com/khtl1TY.jpg</thumbnail>
+<fanart>https://i.imgur.com/Usorwdu.jpg</fanart>
+<info>Un hombre emprende un viaje audaz e imprudente de autoliberación por Londres. Después de robar un banco, libera una versión más salvaje de sí mismo, y finalmente experimenta lo que se siente estar vivo..<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=10suikzwcjw"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/15x72bj2z4d82m5"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/l637jov6bpz4j8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/jp55ohrfonno"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-9qq0qpicwuo2.html"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/154895_-1627304331-Surge--2020---BluRayRip-AC3-5-1.torrent"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1DmZZjF6Gjj7LI3QBrfL-MD93frmGQjY4/view"}</urlsolve>
+</item>
+
 
 <item>
 <title>[COLOR white] La espia [/COLOR][COLOR yellow](2019) [COLOR aqua]*6.8[/COLOR]</title>    
