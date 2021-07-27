@@ -8,6 +8,17 @@
 
 
 <item>
+<title>[COLOR white] Relic [/COLOR][COLOR yellow](2020) [COLOR aqua]*6.0[/COLOR]</title>    
+<genre>Terror, Drama, Misterio, Suspense</genre>
+<year>2020</year>
+<thumbnail>https://i.imgur.com/ivHIVam.jpg</thumbnail>
+<fanart>https://i.imgur.com/BeGZHTx.jpg</fanart>
+<info>Cuando Edna, la matriarca anciana y viuda de la familia, desaparece, su hija y su nieta viajan a la remota casa familiar para encontrarla. Poco después de su regreso, comienzan a descubrir una presencia siniestra rondando la casa y tomando el control de Edna.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=0zbJyg1VGVw"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/3egkdimx8-17880"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/kn30ld8rc3ro1qk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/ttnp46uj0nem"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-q3n2pbwnr1kj.html"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/153306_-1624956746-Relic--BluRay-1080p.torrent"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1RH1q1Q45wRaTFAwK0fan2azgqxkqKmBD/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Surge [/COLOR][COLOR yellow](2020) [COLOR aqua]*5.9[/COLOR]</title>    
 <genre>Drama</genre>
 <year>2020</year>
