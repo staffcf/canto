@@ -19,6 +19,24 @@
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Aventuras, 1Ciencia ficcion, A2020, Letra M, EEUU, ",
+			"name": "Meteoro a la Luna (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/ieiS0FdjTbyAHXXOj9B20nVmJn7.jpg",
+			"info": "Cuando un meteorito choca contra la Luna y cambia su eje, la gravedad de la Tierra tira de la Luna hacia ella. Un grupo de científicos deberá descubrir cómo evitar que la Luna golpee la Tierra",
+			"genero": "Aventuras, Ciencia ficcion",
+			"stations": [
+				{
+				"kodi1": "https://vidoza.net/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidoza.net/NO_LINK",
+				"kodi3": "https://vidoza.net/NO_LINK", 
+				"kodi4": "https://vidoza.net/NO_LINK", 
+				"kodi5": "https://vidoza.net/NO_LINK",
+				"torrent": "magnet:?xt=urn:btih:B304E2576AF85844B9E2E77E74811AD213F8C4E5&dn=M3t30rolun4HDR.exclusivetorrent.net.avi",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2018, Letra S, Spain, ",
 			"name": "Sant Marti (2018)","coloryear": "aqua",
 			"image": "https://www.themoviedb.org/t/p/original/zmmfFcFXRS361wmS9cWhzVNXBJD.jpg",
