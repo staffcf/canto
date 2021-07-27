@@ -55,6 +55,8 @@ Title:101 DALMATAS, SagaID:P101Dalmatas, Imagen:https://i.pinimg.com/originals/e
 							-	1Saga, 1SagaTorrent, 
 Title:3 METROS SOBRE EL CIELO, SagaID:3MSEC, Imagen:https://s1.dmcdn.net/v/1SyPY1GNEogMTsKG1/x720,
 							-	1Saga, 1SagaTorrent, 
+Title:A 47 METROS, SagaID:A47m, Imagen:https://www.themoviedb.org/t/p/original/9XupsXE6vFjR8qvy6WaR46ScrIw.jpg,
+							-	1Saga, 1SagaTorrent, 
 Title:ABIERTO HASTA EL AMANECER, SagaID:AHEAmanecer, Imagen:https://i.ytimg.com/vi/c4aTDvUPMW4/hqdefault.jpg,	
 							-	0Saga, 1SagaTorrent, 
 Title:ALIEN, SagaID:Alien, Imagen:https://www.ecestaticos.com/imagestatic/clipping/851/be6/851be66d6b684e376e77e3c9d397342b/ridley-scott-confirma-que-habra-una-nueva-pelicula-de-la-saga-alien.jpg,	
@@ -9140,6 +9142,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2020, Letra M, Dinamarca, ",
+			"name": "Madklubben (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/dCL4O9K6Ay27y3LmtQaTjRmkGw3.jpg",
+			"info": "Para canjear una cata de comidas a la que pensaba acudir con su marido, de quien se acaba de divorciar, Marie decide invitar a sus amigas",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"kodi1": "https://vidoza.net/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidoza.net/NO_LINK",
+				"kodi3": "https://vidoza.net/NO_LINK", 
+				"kodi4": "https://vidoza.net/NO_LINK", 
+				"kodi5": "https://dl.dropboxusercontent.com/s/wwnn7gfshi5pdr2/Madklubben.2020.-.1080.-.CristalAzul.mkv?dl=0",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Madklubben.2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Fantastico, A2020, Letra M, EEUU, ",
 			"name": "Madre oscura (The Wretched) (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/KyXsBGsEOqGVxxLOQhK1n1RCmS.jpg",
@@ -9585,7 +9605,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
 				"kodi5": "https://vidoza.net/NO_LINK",
-				"torrent": "magnet:?xt=urn:btih:B304E2576AF85844B9E2E77E74811AD213F8C4E5&dn=M3t30rolun4HDR.exclusivetorrent.net.avi",
+				"torrent": "magnet:?xt=urn:btih:2923B935A7962C302BE769380B0EBED0CD60A56D&dn=BRRip",
 				"torrent4k": ""	
 				}		
 			]
@@ -13492,19 +13512,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Aventuras, 1Terror, A2019, Letra A, Reino Unido, Tiburones, Secuela, ",
-			"name": "A 47 Metros 2 (2019)","coloryear": "limegreen",
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Aventuras, 1Terror, A2019, Letra A, Reino Unido, Tiburones, Secuela, Sagas A47m, ",
+			"name": "A 47 metros 2 (2019)","coloryear": "limegreen",
 			"image": "https://www.themoviedb.org/t/p/original/tTdsKKEiAcvo4sm3vgIrbzg8u83.jpg",
 			"info": "Secuela de 'A 47 metros'. Sigue la aventura de 4 jovenes que deciden explorar una Ciudad Maya sumergida. Una vez adentro, la emocion de vivir una gran aventura se convierte en una descarga de terror al descubrir que estas ruinas estan custodiadas por un enorme y temible tiburon blanco. Con la reserva de aire escaseando, las 4 amigas deberan de bucear por un laberinto de cuevas y tuneles claustrofobicos en busqueda de la salida de lo que se convirtio en un infierno acuatico",
 			"genero": "Aventuras, Terror",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/mukyd5", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/r26op7g",
-				"kodi3": "https://vidoza.net/NO_LINK/clipwatching.com/embed-81qrgjgfrhf4.html", 
-				"kodi4": "https://upstream.to/embed-u6wh7kwsl5xz.html", 
-				"kodi5": "https://femax20.com/v/xw681i53ym7dl2e"
-				"torrent": "magnet:?xt=urn:btih:d98af957bcf5e772685b865054b26fa0f2f3b138",
+				"kodi1": "https://vidoza.net/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://femax20.com/v/xw681i53ym7dl2e",
+				"kodi3": "https://vidoza.net/NO_LINK", 
+				"kodi4": "https://vidoza.net/NO_LINK", 
+				"kodi5": "https://vidoza.net/NO_LINK"
+				"torrent": "magnet:?xt=urn:btih:14A264412029F99EE79278750D1A8F3679EC9580&dn=BR1080",  magnet:?xt=urn:btih:d98af957bcf5e772685b865054b26fa0f2f3b138&dn=HD1080
 				"torrent4k": ""
 				}		
 			]
@@ -36414,6 +36434,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent": "magnet:?xt=urn:btih:2EE6E322D61793E0B7259D0F06DACAA237B10B7B&dn=BRRip",
 				"torrent4k": "",
 				"GDRIVE": "https://drive.google.com/file/d/1DhvUkNyPrpnIJsos_pwE3QSF9IEr0eIq/view?usp=sharing"
+				}		
+			]
+			},
+			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Aventuras, 1Terror, A2017, Letra A, Reino Unido, Tiburones, Sagas A47m, ",
+			"name": "A 47 metros (2017)","coloryear": "coloryear",
+			"image": "https://www.themoviedb.org/t/p/original/cugpHYvsdyMExbbcRhVJLUf2Wdu.jpg",
+			"info": "Durante una inmersión, dos hermanas que están de vacaciones en México, se quedan atrapadas en una jaula de avistamiento de tiburones, con el oxígeno agotándose y rodeadas de peligrosos tiburones blancos. Sin ayuda en la superficie, sin ayuda bajo la superficie",
+			"genero": "Thriller, Aventuras, Terror",
+			"stations": [
+				{
+				"kodi1": "https://vidoza.net/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidoza.net/NO_LINK",
+				"kodi3": "https://vidoza.net/NO_LINK", 
+				"kodi4": "https://vidoza.net/NO_LINK", 
+				"kodi5": "https://femax20.com/v/kkm3js3-n0kxe1q",
+				"torrent": "magnet:?xt=urn:btih:C101206C9CB129868A592BC933AAFC75BB51F043&dn=BR1080",  magnet:?xt=urn:btih:8925304D7AB91EC3F22852EDF9B870C0E5E8D6B1&dn=BRRip
+				"torrent4k": "magnet:?xt=urn:btih:A0B0045FDE73E951D66296CFB0FC916A6F58484B&dn=UHDRip"	
 				}		
 			]
 			},
