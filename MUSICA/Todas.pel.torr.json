@@ -2055,6 +2055,24 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Romance, A2021, Letra N, EEUU, Netflix, ",
+			"name": "No se puede huir del amor (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/mGa3mPtkvGld4J3O6iG08cA22NJ.jpg",
+			"info": "Para escapar de una ruptura amorosa, una cantante en apuros acepta trabajar en un centro vacacional. Todo parece paradisíaco, hasta que llegan huéspedes que no esperaba",
+			"genero": "Comedia, Romance",
+			"stations": [
+				{
+				"kodi1": "https://vidoza.net/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidoza.net/NO_LINK",
+				"kodi3": "https://vidoza.net/NO_LINK", 
+				"kodi4": "https://vidoza.net/NO_LINK", 
+				"kodi5": "https://dl.dropboxusercontent.com/s/d4em07uq83rgz3b/No.se.puede.huir.del.amor.2021.-.1080.-.CristalAzul.mkv?dl=0",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/No.se.puede.huir.del.amor.2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra O, Spain, Netflix, ",
 			"name": "Odio, De Dani Rovira (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/plJnSrGCWwgLw8mCDya0OLa56uy.jpg",
@@ -2666,12 +2684,12 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Aventuras",
 			"stations": [
 				{
-				"kodi1": "https://femax20.com/v/g42-yf-lm-15w02", "colorserver1": "lime",
-				"kodi2": "https://femax20.com/v/8ne40b8xrrmxk8l",
+				"kodi1": "https://vidoza.net/NO_LINK", "colorserver1": "lime",   https://femax20.com/v/g42-yf-lm-15w02
+				"kodi2": "https://vidoza.net/NO_LINK",   https://femax20.com/v/8ne40b8xrrmxk8l
 				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https://femax20.com/v/3ezd3tmxjrmqny0", 
-				"kodi5": "https://femax20.com/v/y25zdae3zjd2m-2",
-				"torrent": "magnet:?xt=urn:btih:883592AD9D28E1F493AA0D20E53202D3A7BA609A&dn=HD1080",
+				"kodi4": "https://vidoza.net/NO_LINK",   https://femax20.com/v/3ezd3tmxjrmqny0
+				"kodi5": "https://dl.dropboxusercontent.com/s/7rsnfqhjmbkdo3k/Viuda.negra.2021.-.1080.-.CristalAzul.mkv?dl=0",
+				"torrent": "magnet:?xt=urn:btih:883592AD9D28E1F493AA0D20E53202D3A7BA609A&dn=HD1080",  https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Viuda.negra.2021.-.1080.-.CristalAzul.mkv.torrent
 				"torrent4k": "magnet:?xt=urn:btih:F67ABE7D968147A0975BE01C1647E4682358E5DA&dn=Web4K",  https://blazing.network/torrents/peliculas/Viuda-negra-4KWebrip.torrent
 				}		
 			]
