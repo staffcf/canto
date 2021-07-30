@@ -78,7 +78,7 @@ Title:BLADE, SagaID:Blade, Imagen:https://www.cinepremiere.com.mx/wp-content/upl
 Title:CAPITAN AMERICA, SagaID:CapitanAmerica, Imagen:https://st-listas.20minutos.es/images/2014-10/388787/list_640px.jpg?1564533632,	
 							-	0Saga, 1SagaTorrent, 
 Title:CHE, SagaID:Che, Imagen:https://www.themoviedb.org/t/p/original/xRcKcFX9KUkSWpIgmdCt4hcMTDD.jpg,
-							-	1Saga, 1SagaTorrent, 
+							-	1Saga, 0SagaTorrent, 
 Title:CHUCKY (EL MUÑECO DIABOLICO), SagaID:Chucky, Imagen:https://www.themoviedb.org/t/p/original/7ySySgzx5pTD8ZxxeQAKaHfXff3.jpg,	
 							-	1Saga, 1SagaTorrent, 
 Title:CINCUENTA SOMBRAS, SagaID:50Sombras, Imagen:https://i.pinimg.com/originals/46/1b/7c/461b7c9f455502b9b2f60352bf4f7cd0.jpg,	
@@ -588,7 +588,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/erbd0x4f7af8i8n/Bartkowiak.2021.-.1080.-.CristalAzul.mkv?dl=0",
+				"kodi5": "https://vidoza.net/NO_LINK",
 				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Bartkowiak.2021.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:67615B6D3029B82CF7378A08819B5EA05EB58EAC&dn=BRRip
 				"torrent4k": ""	
 				}		
@@ -734,7 +734,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/j5t74269t58ufhi/Cielo.rojo.sangre.2021.-.1080.-.CristalAzul.mkv?dl=0",  
+				"kodi5": "https://vidoza.net/NO_LINK",  
 				"torrent": "magnet:?xt=urn:btih:9D2BA2D1CF70C0522AD38BA13860836011680560&dn=HD1080",  https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Cielo.rojo.sangre.2021.-.1080.-.CristalAzul.mkv.torrent
 				"torrent4k": ""
 				}		
@@ -825,7 +825,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/psmx65my61st6hk/Despierta.la.furia.2021.-.1080.-.CristalAzul.mkv?dl=0",  https://dl.dropboxusercontent.com/s/ifm639o6ux04fm2/Despierta.la.furia.2021.-.1080.-.CristalAzul.mkv?dl=0
+				"kodi5": "https://vidoza.net/NO_LINK", 
 				"torrent": "magnet:?xt=urn:btih:02A1BE7AE3BD80BAE37C02F6F5334E518AD9FB5F&dn=HD1080",   
 				https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Despierta.la.furia.2021.-.1080.-.CristalAzul.mkv.torrent
 				"torrent4k": "magnet:?xt=urn:btih:31037B759704E26613A7301B8A739F5E82C60552&dn=Web4K",  https://maxitorrent.com/download/154849_-1627242129-Despierta-la-furia--4KWebrip.torrent
@@ -971,8 +971,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/e6d860himglzct0/El.Enemigo.El.Comisario.-.1080.-.CristalAzul.mkv?dl=0"
-				"torrent": "https://www.dropbox.com/s/jlvvlhwg3rfmk0i/El.Enemigo.El.Comisario.-.1080.-.CristalAzul.mkv.torrent?dl=1",  magnet:?xt=urn:btih:8AF11E4B33B2DE43B2F24AF1C22D7694DD812B14&dn=BRRip
+				"kodi5": "https://vidoza.net/NO_LINK"
+				"torrent": "magnet:?xt=urn:btih:8AF11E4B33B2DE43B2F24AF1C22D7694DD812B14&dn=BRRip",  
 				"torrent4k": "",
 				"GDRIVE": "https://drive.google.com/file/d/1znUQ7Zz9sxGzfGsp85Edlnci28wrIC3_/view?usp=sharing"
 				}		
@@ -1156,7 +1156,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/0j309udiayanuu2/El.ultimo.mercenario.2021.-.1080.-.CristalAzul.mkv?dl=0",
+				"kodi5": "https://vidoza.net/NO_LINK",
 				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.ultimo.mercenario.2021.-.1080.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""	
 				}		
@@ -1466,7 +1466,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/2mhnmkzh4xlkyye/Jungle.Cruise_2021.-.1080.-.CristalAzul.mkv?dl=0", 
+				"kodi5": "https://vidoza.net/NO_LINK", 
 				"torrent": "magnet:?xt=urn:btih:22D5C52DC892952C837397D036DEADE8C4073B51&dn=HD1080",  https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Jungle.Cruise_2021.-.1080.-.CristalAzul.mkv.torrent
 				"torrent4k": "magnet:?xt=urn:btih:009EBA1C66E193384B5976432F62D8DDDE8618A3&dn=Web4K"	
 				}		
@@ -2102,7 +2102,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/x3vf337x19nsxcw/No.se.puede.huir.del.amor.2021.-.1080.-.CristalAzul.mkv?dl=0",   https://dl.dropboxusercontent.com/s/d4em07uq83rgz3b/No.se.puede.huir.del.amor.2021.-.1080.-.CristalAzul.mkv?dl=0
+				"kodi5": "https://vidoza.net/NO_LINK",  
 				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/No.se.puede.huir.del.amor.2021.-.1080.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""	
 				}		
@@ -2414,7 +2414,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/9e47rxr024cgm44/Kenshin.el.guerrero.samurai.El.origen.2021.-.1080.-.CristalAzul.mkv?dl=0",
+				"kodi5": "https://vidoza.net/NO_LINK",
 				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Kenshin.el.guerrero.samurai.El.origen.2021.-.1080.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""	
 				}		
@@ -2578,7 +2578,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/5sn504bpskwexsu/Trollhunters.El.despertar.de.los.titanes.2021.-.1080.-.CristalAzul.mkv?dl=0",
+				"kodi5": "https://vidoza.net/NO_LINK",
 				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Trollhunters.El.despertar.de.los.titanes.2021.-.1080.-.CristalAzul.mkv.torrent", 
 				"torrent4k": ""
 				}		
@@ -2742,7 +2742,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",   https://femax20.com/v/8ne40b8xrrmxk8l
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK",   https://femax20.com/v/3ezd3tmxjrmqny0
-				"kodi5": "https://dl.dropboxusercontent.com/s/7rsnfqhjmbkdo3k/Viuda.negra.2021.-.1080.-.CristalAzul.mkv?dl=0",
+				"kodi5": "https://vidoza.net/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:883592AD9D28E1F493AA0D20E53202D3A7BA609A&dn=HD1080",  https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Viuda.negra.2021.-.1080.-.CristalAzul.mkv.torrent
 				"torrent4k": "magnet:?xt=urn:btih:F67ABE7D968147A0975BE01C1647E4682358E5DA&dn=Web4K",  https://blazing.network/torrents/peliculas/Viuda-negra-4KWebrip.torrent
 				}		
@@ -4081,7 +4081,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
 				"kodi5": "https://vidoza.net/NO_LINK"
-				"torrent": "https://dl.dropboxusercontent.com/s/v0x7ppu4d8nap52/ben-10-contra-el-universo-bdrip-xvid-castellano-www_yadixv_com.torrent?dl=0"  magnet:?xt=urn:btih:6EBB76C70B22291E97A81074D50D3883E2817BCA&dn=BRRip
+				"torrent": "magnet:?xt=urn:btih:6EBB76C70B22291E97A81074D50D3883E2817BCA&dn=BRRip"  
 				"torrent4k": "",
 				"GDRIVE": "https://drive.google.com/file/d/1eMDHVshqDzSYEPqEqBmhFfDSqMbVxYfF/view?usp=sharing"
 				}		
@@ -6479,7 +6479,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://mixdrop.co/e/l636oq7dbqrj6lw", 
 				"kodi4": "https://vidoza.net/embed-tydg3yi6up0i-920x360.html", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/u6mxwynxjytjez4/En.nombre.de.la.justicia.2020.-.1080.-.CristalAzul.mkv?dl=0",
+				"kodi5": "https://vidoza.net/NO_LINK",
 				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/En.nombre.de.la.justicia.2020.-.1080.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""	
 				}		
@@ -6838,7 +6838,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2020, Letra F, Polonia, Musica, Netflix, ",
+			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Comedia, A2020, Letra F, Polonia, Musica, Netflix, ",
 			"name": "Fierce (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/umvhAr6eqwC10WcGG6RPSSJm9GA.jpg",
 			"info": "Una joven cantante causa sensacion con su actuacion en un popular concurso de talentos. Pero su verdadera intencion es ganarse el cariño de su padre, miembro del jurado",
@@ -6850,7 +6850,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi3": "https://vidoza.net/NO_LINK/clipwatching.com/embed-8ssoedxjgj8u.html", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
 				"kodi5": "https://vidoza.net/NO_LINK"
-				"torrent": "https://dl.dropboxusercontent.com/s/g2q5cy87cdaq7vd/fierce-bdrip-xvid-castellano-www_yadixv_com.torrent?dl=0",
+				"torrent": "",
 				"torrent4k": ""
 				}		
 			]
@@ -9143,7 +9143,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/wwnn7gfshi5pdr2/Madklubben.2020.-.1080.-.CristalAzul.mkv?dl=0",
+				"kodi5": "https://vidoza.net/NO_LINK",
 				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Madklubben.2020.-.1080.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""	
 				}		
@@ -9292,7 +9292,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/4a7q018j0dwucm3/Mama.Maria.2020.-.1080.-.CristalAzul.mkv?dl=0",
+				"kodi5": "https://vidoza.net/NO_LINK",
 				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Mama.Maria.2020.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:2FC0D45B6CEC1D545476DD256299139B8B6AA360&dn=BRRip
 				"torrent4k": ""	
 				}		
@@ -11531,7 +11531,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/2t58ncryezy3c64/Surge.2020.-.1080.-.CristalAzul.mkv?dl=0",
+				"kodi5": "https://vidoza.net/NO_LINK",
 				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Surge.2020.-.1080.-.CristalAzul.mkv.torrent", magnet:?xt=urn:btih:47AE459335CD39C0D82E58B8F4A8A688785111B7&dn=BRRip
 				"torrent4k": ""	
 				}		
@@ -12123,7 +12123,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK", 
 				"kodi3": "https://femax20.com/v/z47leujdzgxz0lr", 
 				"kodi4": "https://femax20.com/v/lr-5gfneel5x-kd", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/vizohebrle3kthb/Trolls.2.Gira.mundial.2020.-.1080.-.CristalAzul.mkv?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:e37a9aa6f68f6d4fd4487cf3294ac9222b866220",
 				"torrent4k": "",
 				"GDRIVE": "https://drive.google.com/file/d/1kFBsOLxfayEhja5UzAGGW9BCINN6AOM4/view?usp=sharing"
@@ -13639,7 +13639,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://femax20.com/v/ky-j1u3gl0qj1r7",
 				"kodi3": "https://femax20.com/v/3ezd3tmxmd87pge", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/rk7vifdudlczx8l/Abominable.2019.-.1080.-.CristalAzul.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:887FC74B2C925FB3D9DB8F242D803207FEBE882D",
 				"torrent4k": "magnet:?xt=urn:btih:8B36F6B400CAE966CDDEA9C652242940BB3E2338",
 				"GDRIVE": "https://drive.google.com/file/d/15dnyked-LfSZR9KWSbz6Sfs2-aZ43vnZ/view?usp=sharing", 
@@ -17850,7 +17850,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/85udokvbhnd0agz/El.vecindario.BR1.2019..1080..CristalAzul.mkv?dl=0",
+				"kodi5": "https://vidoza.net/NO_LINK",
 				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.vecindario.BR1.2019..1080..CristalAzul.mkv.torrent",
 				"torrent4k": ""	
 				}		
@@ -18626,7 +18626,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/rwklsvhgf4uvoph/Frozen.ii.2019.1080p-dual-cast-cinecalidad.is.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:338d43ad3edb738eb52c0210e689f21ee7b450ef",
 				"torrent4k": "magnet:?xt=urn:btih:2487062D1BFD3532119461454E640EF82CAE2D31",
 				}		
@@ -26273,8 +26273,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/p8cx2s715yzygrs/Trasto_de_la_Mansion_a_la_Calle_2019.-.1080.-.CristalAzul.mkv?dl=0"
-				"torrent": "https://www.dropbox.com/s/3l6hgae7zriy87g/Trasto_de_la_Mansion_a_la_Calle_2019.-.1080.-.CristalAzul.mkv.torrent?dl=1", magnet:?xt=urn:btih:E0E2DE4E219D5EBFA5A086C177C5DDA04B116246&dn=BRRip
+				"kodi5": "https://vidoza.net/NO_LINK",
+				"torrent": "magnet:?xt=urn:btih:E0E2DE4E219D5EBFA5A086C177C5DDA04B116246&dn=BRRip", 
 				"torrent4k": ""
 				}		
 			]
@@ -29728,7 +29728,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://femax20.com/v/l-qryin53m83ejp", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/9bq8yffx110be8l/El.Grinch.2018.-.1080.-.CristalAzul.mkv?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:bc83d245658956ea2d8f1f6b3328730e0adc422e", 
 				"torrent4k": "",				
 				"GDRIVE": "https://drive.google.com/file/d/1l764L-eOlNmDAWI7lYhLutv4499aotst/view?usp=sharing""
@@ -31760,10 +31760,10 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/n1uj2cxtqyx", "colorserver1": "lime",
+				"kodi1": "https://vidoza.net/NO_LINK", "colorserver1": "lime",
 				"kodi2": "https://femax20.com/v/0837xil04rrkxy8",
 				"kodi3": "https://femax20.com/v/q8wm4sewr5x71z1", 
-				"kodi4": "https://femax20.com/v/j-xjpidq8-8j88g", 
+				"kodi4": "https://femax20.com/v/j-xjpidq8-8j88g",
 				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:418db82ecc6a4635c21d1633d003b03d47565615",
 				"torrent4k": ""
@@ -34170,7 +34170,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/p1kamt2akwp3ezy/2018.Ploey.Nunca.volaras.solo.hd720.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:e09e3e7e39a144f5068ca3feae65b51779c14431",
 				"torrent4k": ""
 				}
@@ -34386,7 +34386,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK/clipwatching.com/embed-me2m0kjmitux.html",
 				"kodi3": "https://vidoza.net/NO_LINK/clipwatching.com/embed-yfos2vgo5dhm.html", 
 				"kodi4": "https://femax20.com/v/8d5gqu8rnjqlkqq", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/w6hd28x95nhso8d/%282018%29%20RALPH%202_%20ROMPE%20INTERNET.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:ba706182b83ed93838d7a154f17698b4025a3536",
 				"torrent4k": "",				
 				"GDRIVE": "https://drive.google.com/file/d/1FUqnXLmh7u9az4zruSNJULsUflkROK-O/view?usp=sharing"
@@ -34751,8 +34751,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/tq2biuj6vdt1chl/Sherlock.Gnomes.2018.-.1080.-.CristalAzul.mkv?dl=0"
-				"torrent": "https://www.dropbox.com/s/86t35t9xws6v9wc/Sherlock.Gnomes.2018.-.1080.-.CristalAzul.mkv.torrent?dl=1", magnet:?xt=urn:btih:02C32ABCE673EE2C9EF6D099E12CE2323DCF0F11&dn=HD720 magnet:?xt=urn:btih:404B832D042360DC083FFA0046AC6F6212D60E48&dn=HD720
+				"kodi5": "https://vidoza.net/NO_LINK"
+				"torrent": "magnet:?xt=urn:btih:02C32ABCE673EE2C9EF6D099E12CE2323DCF0F11&dn=HD720",  magnet:?xt=urn:btih:404B832D042360DC083FFA0046AC6F6212D60E48&dn=HD720
 				"torrent4k": "",	
 				"GDRIVE": "https://drive.google.com/file/d/1RQ6WMw61Iep-dgcRvLxHOFKSAEcAQ15j/view?usp=sharing""
 				}			
@@ -36833,7 +36833,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/ilvh8xz52j6k955/%282017%29%20CARS%203.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:470643e7057875195824f21e613ec125985fd2a9",
 				"torrent4k": ""
 				}
@@ -36959,7 +36959,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK",  
-				"kodi5": "https://dl.dropboxusercontent.com/s/cfaq7uj5y4wlgg0/%282017%29%20COCO.mp4?dl=0",
+				"kodi5": "https://vidoza.net/NO_LINK",
 				"torrent": "magnet:?xt=urn:btih:657c3322830369ddb9bb1c13f4f01b1ed66251bd", magnet:?xt=urn:btih:ab7628986ece4392f73381398ed6738a93b6c74a
 				"torrent4k": ""
 				}
@@ -37959,7 +37959,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/f0tg9ot7cm1c84t/%282017%29%20FROZEN_%20UNA%20AVENTURA%20DE%20OLAF.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:3087865A4627EC334ED088673D5B5FAE7B4D3E2D",
 				"torrent4k": ""
 				}
@@ -38997,8 +38997,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK",   
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/5lhgalf2euwgljz/Los.pitufos.La.aldea.escondida.2017.-.1080.mkv?dl=0"
-				"torrent": "https://blazing.network/torrents/peliculas/Los_pitufos_la_aldea_escondida_MicroHD1080%204,71GB.torrent",  https://www.dropbox.com/s/oy3st5fdpptxaen/Los.pitufos.La.aldea.escondida.2017.-.1080.mkv.torrent?dl=1  magnet:?xt=urn:btih:74DC074015C1303BCBECFF428C5D63AA166E80EA&dn=HD1080  magnet:?xt=urn:btih:218F97E223E814EE2FC916ED1879868A59C29F03&dn=HDRip
+				"kodi5": "https://vidoza.net/NO_LINK"
+				"torrent": "https://blazing.network/torrents/peliculas/Los_pitufos_la_aldea_escondida_MicroHD1080%204,71GB.torrent",   magnet:?xt=urn:btih:74DC074015C1303BCBECFF428C5D63AA166E80EA&dn=HD1080  magnet:?xt=urn:btih:218F97E223E814EE2FC916ED1879868A59C29F03&dn=HDRip
 				"torrent4k": "",
 				"GDRIVE": "https://drive.google.com/file/d/1-lfUafdSyoF7AEffwvQrnNsV6EtNYdNn/view?usp=sharing"
 				}
@@ -40646,7 +40646,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://femax20.com/v/60jr3c05jyyew2z",
 				"kodi3": "https://femax20.com/v/ygxlwse13dneywg", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/hwazlt9xui67g8w/Canta.2016.-.1080.-.CristalAzul.mkv?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:34A200CDF92B5ADE448DA228BC90A7462281057E&dn=HD1080",  magnet:?xt=urn:btih:W2PD7E4BV4ES4XVRPF57OUKCOSY2WTMC&dn=microHD
 				"torrent4k": "magnet:?xt=urn:btih:FD472E4CB536248CBC6C86633C8BF20937074AD9",
 				}		
@@ -40956,7 +40956,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://femax20.com/v/x45k7u54qmw6m83",
 				"kodi3": "https://femax20.com/v/7g23dsg6j6rx6r6", 
 				"kodi4": "https://vidoza.net/embed-bzibgf7nff3e-614x540.html", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/x3uawy74wxsqmg8/Buscando.a.Dory.2016.-.1080.-.CristalAzul.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:53QQNHOFVSVEWUC56XZC57JA7VG3PMWG",
 				"torrent4k": ""
 				}		
@@ -41824,7 +41824,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://femax20.com/v/8ne40b87-7e7eey", 
 				"kodi4": "https://femax20.com/v/eqd-kb-838xe8pz", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/a49sa5t0i8p86c6/Trolls.2016.-.1080.-.CristalAzul.mkv?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:6FBDF5E46D1D920513E8A3B104FE66A7A5D0A5CE",
 				"torrent4k": ""
 				}		
@@ -41842,7 +41842,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/31qf01e43jxavnk/%282016%29%20VAIANA.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:6WY4JB4RFEONXIIJPIC4MWTSGCT62FBJ",
 				"torrent4k": ""
 				}
@@ -41878,7 +41878,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/zorzxtb0g23wmv5/%282016%29%20ZOOTROPOLIS.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:0FD305C4ED9574A5B7BC356365F4FCB4D0966467",
 				"torrent4k": ""
 				}
@@ -42758,7 +42758,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/hf8kdmfc5y2is1h/2014.Big.Hero.6.hd720.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:F65FB2DAC44CD1F5E84925A6377BA70641D209CD",
 				"torrent4k": ""
 				}
@@ -43343,7 +43343,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/5mr2mlkdrkvifd2/Rio%202%20%28microHD%20720p%29%20%28Elitetorrent.net%29.mkv?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:6mnamr3xkteauogoqtunw4mhw2mnidvg"
 				}
 			]
@@ -43752,7 +43752,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/bapobzcy9fb1bxb/%282013%29%20FROZEN_%20UNA%20AVENTURA%20CONGELADA.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:CFC0B59771B2236EFC650E2891BAC43A7D1505C0",
 				"torrent4k": ""
 				}
@@ -44734,7 +44734,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/pqq12ddezy1effe/%282012%29%20RALPH%20EL%20DEMOLEDOR.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:667ccc6f94233d1b96c1ad2b6ae8ec89e19a1203",
 				"torrent4k": ""
 				}			
@@ -44961,7 +44961,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/50qmpv4jjxnchgm/%282011%29%20Cars.2.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:b285cdb11f7ed3675a94355f2190e7bcc9332e31",
 				"torrent4k": ""
 				}
@@ -45054,7 +45054,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://femax20.com/v/685p7u03ngdm47n",
 				"kodi3": "https://mixdrop.co/f/1vg7zxj4bkzvkq", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/xdtwcb1n3759p5j/Gnomeo.y.Julieta.2011.-.1080.-.CristalAzul.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:50CAA9BC876088C13189F19042C3736FE1ABC6C9&dn=DVDRip",
 				"torrent4k": "",
 				"GDRIVE": "https://drive.google.com/file/d/1hp8qgSQFgTCgYvE1i43ERCCrMcsLDUSv/view?usp=sharing"
@@ -45258,7 +45258,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/lsnfc3npkx0ppfz/Rio.DVD.XviD.%5Bwww.DivxTotaL.com%5D.avi?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:ED1CD32EFFCF41BE13990BCEB0E07ABE10F772EB",
 				"torrent4k": ""
 				}
@@ -45423,7 +45423,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/o8s1iyepd0zw3a8/2011.Winnie.the.Pooh.sd.avi?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:A34D446119171506A8DDEA7AB05E3C0C3D1F83AB",
 				"torrent4k": ""
 				}
@@ -45602,7 +45602,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/8rdfx7fzdttc2ug/2010.Enredados.1080p.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:6514D163BA4B3AE0C3B7C3A89117081548EDD7DE",
 				"torrent4k": ""
 				}
@@ -46128,7 +46128,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/tdo6frrkqiq5ltc/2009.Campanilla%20y%20el%20Tesoro%20Perdido%20480p%20castellano.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:5815A0FD7E7EDFE9172C3864A6970A232718B2A1",
 				"torrent4k": ""
 				}
@@ -46574,7 +46574,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/6bmll2qkcfw6uqx/2009.Tiana.y.el.sapo.hd720.castellano.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:084DEFECA344BD8A01CDD0401B1C890945C941F9",
 				"torrent4k": ""
 				}
@@ -46629,7 +46629,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://femax20.com/v/zm1r4cj2x3z8qgn",
 				"kodi3": "https://mixdrop.co/e/aigy2g/", 
 				"kodi4": "https://femax20.com/v/jd85gcd50gqwpy-", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/zzb9by68v0jvle3/Up.2009.-.1080.-.CirstalAzul.mkv?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:DE55EEE7B650E9E80C946D9D37328A8220F31621",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1Im9sWiVapBWFqQ2bAaMZAsigttL4sN4Y/view?usp=sharing"
@@ -46729,7 +46729,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/yoi99a23h11u6nr/2008.Bolt.hd1080.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:3ec8085be71c9e426c9a5993e16b7c598a10428b",
 				"torrent4k": ""
 				}
@@ -46912,7 +46912,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/xp0it9edbzf3pq8/%282008%29%20EL%20ORIGEN%20DE%20LA%20SIRENITA.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:cebvqygzbndnmiuhfu2wbtqtsukv3dvj",
 				"torrent4k": ""
 				}
@@ -47302,7 +47302,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/aymtb42xtzdgj6s/%282008%29%20WALL-E.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:4ED62D3DE51084A5E778BB1E5180FA4754F6ABE3",
 				"torrent4k": ""
 				}
@@ -47362,7 +47362,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/xli0lhq1qbqmj03/2007.Cenicienta.3.hd720p.castellano.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:A3697388C698E647DF32CEB4AB5BAD3B3D1E733D", magnet:?xt=urn:btih:2B441229E9B56E60E8A20385F202CC2D814708D7
 				"torrent4k": ""
 				}
@@ -47380,7 +47380,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/okb7nn4o6m9owk4/%282007%29%20DESCUBRIENDO%20A%20LOS%20ROBINSONS.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:429633FD5EBBABB427C3B80D7F0D6EEEC7B1803B",
 				"torrent4k": ""
 				}
@@ -47885,7 +47885,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/9q22sqswavl74gj/2006.Bambi.2.hd720.castellano.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:1534f3e8f5b7eac9fd6a03b3626be7d3d4798989",
 				"torrent4k": ""
 				}
@@ -47903,7 +47903,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/1kupa5l3egmaurk/%282006%29.Cars%20hd1080%20castellano.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:E507C949C773A1DFF3E2B80333864BD62C4349D4&=DVRRip",  magnet:?xt=urn:btih:e98d04d0e906e0edb605fc3bba124ceb435b3359
 				"torrent4k": ""
 				}
@@ -48032,7 +48032,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/hwh50l0p7qzg7xe/2006.Hermano.oso.2.hd720.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:5EFE3FCACD518DDAFEDC031A9836261C902C18D5",
 				"torrent4k": ""
 				}
@@ -48235,7 +48235,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/31plby8kxsf4jas/2006.Salvaje.sd480.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "",
 				"torrent4k": ""
 				}
@@ -48460,7 +48460,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/cy89le7pbjf4h0e/2005.Chicken_Little.hd720.mkv?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:A8119094000C92118151E870FE80F8C990C76A0D",
 				"torrent4k": ""
 				}
@@ -48515,7 +48515,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/g8x47diu914cmcd/2005.El.emperador.y.sus.locuras.2.hd1080.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:48F5E57C2A8836BB3BE99DF758F5502A99DB028A",
 				"torrent4k": ""
 				}
@@ -48678,7 +48678,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/n5vxsqhhyxslm7r/2005.Lilo%26Stitch.2.hd720.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:29C8D5C3046B49D9100CFD6431E9D1FD8AEECC66",
 				"torrent4k": ""
 				}
@@ -48864,7 +48864,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/8818uwjrbqfgr70/%282005%29%20VALIANT.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:811BC4F3F911493D646AB4576180BC31E3F9A4BC",
 				"torrent4k": ""
 				}
@@ -49111,7 +49111,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/75pk4s88kkjdfdl/2004.El.Rey.Leon.3.hd720.castellano.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:8d5304a83b9e9c0849740fd4dd4b9db1481f14f9",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1C6Ji-PNEvxzs883t82NbvKTWGQoCpaWd/view?usp=sharing"
@@ -49174,7 +49174,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Romance, A2004, Letra L, EEUU, Muñecos, Sagas Chucky, ",
+			"tag": " 1Peliscristal, 0Torrentcristal, 0Torrent4k, 1Terror, 1Romance, A2004, Letra L, EEUU, Muñecos, Sagas Chucky, ",
 			"name": "La semilla de Chucky (2004)","coloryear": "yellow",
 			"image": "https://www.themoviedb.org/t/p/original/fgrOtfUI6I6RquTQtj73RlbtNZf.jpg",
 			"info": "Seed of Chucky presenta a Glen, el hijo huérfano del irresistible Chucky y de su retorcida esposa Tiffany. En Hollywood se prepara una película acerca de la leyenda urbana de sus sanguinarios padres y Glen aprovecha para resucitarlos. Pero las relaciones familiares son todo menos perfectas cuando Glen descubre que Chucky y su deliciosa Tiffany se han lanzado a una carrera tan infernal como criminal. Chucky no acaba de creerse que su retoño no quiera seguir sus sangrientos pasos. Tiffany, totalmente colgada de las estrellas de Hollywood, tampoco acaba de creerse que el director haya escogido a Jennifer Tilly para protagonizar la película. La actriz no tarda en convertirse, muy a pesar suyo, en anfitriona de la temible familia",
@@ -49186,7 +49186,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi3": "https://femax20.com/v/dw9r50-nnpo", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
 				"kodi5": "https://vidoza.net/NO_LINK"
-				"torrent": "https://www.dropbox.com/s/ltts6zgzskvfyup/La%20semilla%20de%20Chucky.torrent?dl=1",
+				"torrent": "",
 				"torrent4k": ""
 				}		
 			]
@@ -49425,8 +49425,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/2zu8h6lhxwfhpa5/2004.Zafarrancho%20en%20el%20rancho.hd1080.mkv?dl=0"
-				"torrent": "https://www.dropbox.com/s/hrhv8hka7ip3e6e/2004.Zafarrancho%20en%20el%20rancho.hd1080.mkv.torrent?dl=1",  magnet:?xt=urn:btih:E7DFB25260C616957A4A39B9144C37A89D832312
+				"kodi5": "https://vidoza.net/NO_LINK"
+				"torrent": "magnet:?xt=urn:btih:E7DFB25260C616957A4A39B9144C37A89D832312",  
 				"torrent4k": ""
 				}
 			]
@@ -49449,7 +49449,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://femax20.com/v/j6-5mhd5kk46jjl",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/niwluyp9j20nwax/2003.101.Dalmatas.2.hd720.castellano.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:E34CBE29EA9D10C81807F888215BE1414A495144",  
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1zehdxSehO7KdUL-b1Oarl7na1IG9FMze/view?usp=sharing"
@@ -49524,7 +49524,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/1scev6c3bpg7q54/Buscando%20a%20Nemo%20%5BBluRay%20Rip%5D%5BAC3%205.1%20Espa%C3%B1ol%20Castellano%5D%5B2017%5D.avi?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:16616892B94AA59A08DA8E8C7C17DA7492B43478",
 				"torrent4k": ""
 				}
@@ -49637,7 +49637,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/uli9em8kzgoveov/Fabulas-Disney-Vol.1.avi?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1Zz63Q30TC2E5RolRyJggqJ5Mr4lpX5ae/view?usp=sharing",	
@@ -49656,7 +49656,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/9d6288z8rmj15v3/Fabulas-Disney-Vol.2.avi?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1ChYZfw1DzuhsGlGYpZ8nPzf8xAzh-SJ1/view?usp=sharing",		
@@ -49675,7 +49675,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/006ao5emzw227tp/Fabulas-Disney-Vol.3.avi?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/153mToxJm6JxHUmVDyM4c0ro7CqdE7ElN/view?usp=sharing",	
@@ -49694,7 +49694,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/l053yyue9v171gu/Fabulas-Disney-Vol.4.avi?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1DzawLDmbq9OswfzykFtUrEPsKRJZkGmk/view?usp=sharing"
@@ -49713,7 +49713,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/6i8cdwqqlpvhmo2/Fabulas-Disney-Vol.5.avi?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1BAoIbSptIrltmGaWst4Gd0XAOzUyq_SK/view?usp=sharing",
@@ -49732,7 +49732,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/8tmsrc0cn453tup/Fabulas-Disney-Vol.6.avi?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1FZTGVCvKxKE3MzDFqQyaACJQD-mlGqhL/view?usp=sharing",
@@ -49770,7 +49770,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/g2varcngap3pios/2003.Hermano.oso.hd720.castellano.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:15D27FACB4D70D98E316FDA56DB15E8B260FC9B1",
 				"torrent4k": ""
 				}
@@ -49843,7 +49843,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/5yl2569dc5c8392/2003.La.Gran.Pelicula.De.Piglet.sd.mkv?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:9586D293BD5EA2EBE3B7FD997F8E34D08D896479",
 				"torrent4k": ""
 				}
@@ -49880,7 +49880,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/8x5mh87jn5l6yh1/%282003%29%20LA%20PELICULA%20DE%20STICH.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "",
 				"torrent4k": ""
 				}
@@ -50122,7 +50122,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/o0ct0l89o7zwi9q/2002.Cenicienta.2.hd720.Castellano.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:A3697388C698E647DF32CEB4AB5BAD3B3D1E733D",  magnet:?xt=urn:btih:8D42B1CD702D13293DC7ACA3E663B1FE3074214E
 				"torrent4k": ""
 				}
@@ -50252,7 +50252,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/0ir4zygd46jk9c1/2002.El.Planeta.del.Tesoro.hd720.castellano.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:E19910352FC7212A8C3687DDA28865B6A436848B",
 				"torrent4k": ""
 				}
@@ -50362,7 +50362,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/la75c8cgo7g8y63/2002.Lilo.%26.Stich.hd720.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:29C8D5C3046B49D9100CFD6431E9D1FD8AEECC66",
 				"torrent4k": ""
 				}
@@ -50435,7 +50435,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/vfs9vnkrdjohzsx/2002.Peter.pan.en.regreso.al.pais.de.nunca.jamas.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:55c44b8460d86d2c753cb05c0be363710e045ba5",
 				"torrent4k": ""
 				}
@@ -50645,7 +50645,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/5n7k1k6k3ndlema/2001.Atlantis.El.Imperio.Perdido.hd720.castellano.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:0143E0E02261241576483DBC27FC43D339AC0447",
 				"torrent4k": ""
 				}
@@ -50811,7 +50811,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/y566ko1f0yhqzmt/%282001%29%20LA%20DAMA%20Y%20EL%20VAGABUNDO%202.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:E8F5528AE0643A355771E5E060B1B2F1C08AC4A6",
 				"torrent4k": ""
 				}
@@ -50847,7 +50847,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/sn32p7tqsq31tj3/2001.Monstruos.S.A.hd1080.castellano.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:01B41EA75524B606D54487991C02419B7CB7E2C7",
 				"torrent4k": ""
 				}			
@@ -51077,7 +51077,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/lgh4ayf4s21jen9/criydec.avi?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "",
 				"torrent4k": "",
 				"GDRIVE": "https://drive.google.com/file/d/1J_uzGyIOVRfOl4AYf1m9OnZW4PuljyBU/view?usp=sharing"
@@ -51114,7 +51114,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/h707c9rkuold5xv/2000.Dinosaurio.sd480.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:91E388F5F702C755E4F4E19995B33ADD9E2BE7C5",
 				"torrent4k": ""
 				}
@@ -51132,7 +51132,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/w5vru216udc4mzf/2000.Emperador.y.sus.locuras.hd720.castellano.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:48F5E57C2A8836BB3BE99DF758F5502A99DB028A",
 				"torrent4k": ""
 				}
@@ -51261,7 +51261,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/535kzaetb2fegs9/%282000%29%20LA%20SIRENITA%202_%20REGRESO%20AL%20MAR.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:E903937A8BB77A6CD4C102FB5B4F60EFC3988DC2",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/14m06Hl1vVUFf3RNbz1Ni9xO6JU1iN6lY/view?usp=sharing"
@@ -51674,7 +51674,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/34f7xtpgsr76ebt/1999.Fantasia.2000.hd1080%20castellano.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:864d657e64347d6ce571f1f3d605d48b344b435b",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1QjID1ollmdTkd7Jlan_eR1jjt9ncYxou/view?usp=sharing"
@@ -51748,7 +51748,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://ok.ru/video/1550060423741",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/z801cw99b00vpwu/Las.normas.de.la.casa.de.la.sidra.%5B1999%5D.TodoCine.%28Spanish.English.Spanishsub.Englishsub%29.BDrip.1080p.x264-AC3.by.TodoCine.mkv?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:AFF0BE57274EB6C99CC524E2929A5B56ADD738C0",
 				"torrent4k": "",
 				"GDRIVE": "https://drive.google.com/file/d/1NjXls484DQPr_llRB8qX9zWVH8xLqI_b/view?usp=sharing"
@@ -51840,7 +51840,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/xgt2h83461aigef/1999.Stuart.little.hd1080.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:6729B4D56FAC03FFFC17BE8014D95A597AD80B56",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1XFlw4CcQcqEzVR2smohJrtBG8JvyDL7e/view?usp=sharing"
@@ -51859,7 +51859,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/4koi21v9yebkq52/1999.Tarzan.hd720.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:9A8EF42CEFCD2208FE0BB0408DE06A6A3DE7F085",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/17wF1X3P4SzJXnGh0VVzEDa44SyJxeDC1/view?usp=sharing"
@@ -51951,7 +51951,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/65yeurknmq4rewe/1998.Bichos.Una.aventura.en.miniatura.hd1080.castellano.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:4BD47134738961814971ABEEF43ABCB596B07246",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1jtrr3Hq7TeB4M3tkka03cFeTCAp37K18/view?usp=sharing"
@@ -52024,7 +52024,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/xvktd1fg7wbbdx6/1998.El.Rey.Leon.2.hd-720p.castellano.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:e0838e36c81a4604fcb817b3682094a03bcce471",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1ELTZJbVJ4zJaFVcMK9lNDZ60dm0P3zsG/view?usp=sharing"
@@ -52088,7 +52088,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Comedia, 1Thriller, 1Romance, A1998, Letra L, EEUU, B2000, A2000-1991, Muñecos, Sagas Chucky, ",
+			"tag": " 1Peliscristal, 0Torrentcristal, 0Torrent4k, 1Terror, 1Comedia, 1Thriller, 1Romance, A1998, Letra L, EEUU, B2000, A2000-1991, Muñecos, Sagas Chucky, ",
 			"name": "La novia de Chucky (1998)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/bbmnqqKqthPl8gZwcGUvw41IFjb.jpg",
 			"info": "Tiffany, la examante y cómplice de Charles Lee Ray, el Estrangulador de Lake Shore, adquiere los restos de Chucky, el muñeco al que Charles traspasó su alma antes de morir. Recompone el muñeco como puede y lleva a cabo el mismo ritual vudú para devolverle a Chucky el alma de su novio fallecido. Para probar sus recuperadas fuerzas, Chucky asesina al novio gótico de la entusiasmada Tiffany. Después quiere recuperar el amuleto que llevaba Ray cuando murió, y con el que fue enterrado, para poder volver a tener un cuerpo humano. Para Tiffany es la ocasión perfecta de recordarle a Ray que le había prometido casarse con ella, pero éste, a través de Chucky, se burla de Tiffany y sus deseos de matrimonio. En un ataque de furia Tiffany encierra a Chucky junto con una muñeca a la que ha vestido de novia. La reacción de Chucky no se hace esperar: logra salir de su encierro y electrocuta a Tiffany en la bañera para después transferir su alma al cuerpo de la muñeca le había ofrecido como compañera",
@@ -52100,7 +52100,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi3": "https://femax20.com/v/3qo17p8rp2o", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
 				"kodi5": "https://vidoza.net/NO_LINK"
-				"torrent": "https://www.dropbox.com/s/2nzjcfmcs2bpaw7/La%20novia%20de%20Chucky.torrent?dl=1",
+				"torrent": "",
 				"torrent4k": ""
 				}		
 			]
@@ -52136,7 +52136,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/uc74g2v01x12hnx/1998.Mulan.hd720.Castellano.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:51AC80CAD5D8DCA11F925B3CE6308B90D249DE7A",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1iikfHjLAhBqyXRVyfCI8P69W6x-PBbbe/view?usp=sharing"
@@ -52155,7 +52155,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/2dry2gbmtxemyin/Movida.en.el.Roxbury.%5BA.Night.at.the.Roxbury.1998%5D.%28Spanish.English.Subs%29.HD.720p.x264-AC3.by.rodwalker.mkv?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:9B9FC2182846CCD3A3C9AAD3FF1E8E11460BA25A",
 				"torrent4k": ""
 				}
@@ -52340,7 +52340,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/hujouxekhmunji9/1997.Anastasia.hd720.castellano.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:F15708CB93549FF15C1077A6A14445650FE09636",
 				"torrent4k": "",	
 				"GDRIVE": "https://drive.google.com/file/d/1GMDz5HHUqnhEhFo4iS4ftc3b2g8hMcWO/view?usp=sharing"
@@ -52561,7 +52561,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/2bsnx2dlx2z5z3z/1997.Hercules.hd1080.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:98D469D90A84D69D97D72C64313F5A4FAFA9E4A2",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1l0ZrKJsb1XTVOLsGb9f5BcUKyoiOQVlF/view?usp=sharing"
@@ -52785,7 +52785,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/vdmfa0ipexb6qdf/%281996%29%20ALADDIN%20Y%20EL%20REY%20DE%20LOS%20LADRONES.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:B86F4FD17F5D20DD3F5652808448C854DFC99E0D",
 				"torrent4k": "",	
 				"GDRIVE": "https://drive.google.com/file/d/1NqnSH69vBPGOB6Y4e4mMpAYhI-DoPmyP/view?usp=sharing"
@@ -52840,7 +52840,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/wkr27yce0pehika/1996.El.jorobado.de.notre.dam.hd720.castellano.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:B46E9170911FAFEEB79A750E6B9633E2D2CB67E3",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/14VnHhNJX8g52oX5vRagsmWJLNNGBKkoO/view?usp=sharing"
@@ -53308,7 +53308,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/mxuwyrdukextvik/1995.Pocahontas.hd720.castellano.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:10A2BD780791A5D74965D66F836BE7B9997469FA",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1vbgSLIpVPpKMvwuSPDxPdsH0HWONiNx3/view?usp=sharing"
@@ -53382,7 +53382,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/6gabwxjnsnv44mx/%281994%29%20ALADDIN_%20EL%20RETORNO%20DE%20JAFAR.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/17ebDjwZgJAzz3vuG6FWZSeOeCKbhSOaT/view?usp=sharing"
@@ -53474,7 +53474,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK", 
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/jczv0qkbrfzw3sb/1994.El.Rey.Leon.hd720.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:8055b8f89a8d96889286b0b0b78e14c51edec080",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1F8gEEooGG6PcdP3It-UbgO8A6mEktbtl/view?usp=sharing"
@@ -53865,7 +53865,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/dpndhh3wuluhs9i/%281992%29%20ALADDIN.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:D256A49697C8BF4C56EB9AD3974C2FDE1364E640",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1RskfdXvqtH29cm-S0omApmqv2T3b_2aZ/view?usp=sharing"
@@ -54141,7 +54141,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/j1c5lmlp4da2wo1/1991.La.Bella.y.la.Bestia.hd720.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:3BA666760D574018F76A46DFDA7AA272061C01CF",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1oVVaykC029viJZSxuP2553b8LsGR2UgR/view?usp=sharing"
@@ -54425,7 +54425,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/5d8et1lr72gjw61/1990.Los.Rescatadores.2.1080p.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1HdqqwubHFM3tVO3gVYy61HJMKGoV5jh7/view?usp=sharing"
@@ -54721,7 +54721,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/8ii5c6nwz1tvwzu/%281989%29%20LA%20SIRENITA.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:F143220F191D74C68EC28CCA55894162E90AB987", magnet:?xt=urn:btih:DEAAB09E34E5FD009617F75A6B6015AA4212EF3A
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1izm7iKuR4sfUQwebdwVczIgNYT0EKS21/view?usp=sharing"
@@ -55036,7 +55036,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/8m3mudg2uqibewp/1988.Oliver.y.su.pandilla.hd720.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:F8E6270CBBDA6B08587B30FACBB5C9DEA66ACFDF",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1Aox57S13PmxfKvaRTVbtSZ_BvmKfZ-k1/view?usp=sharing"
@@ -55461,7 +55461,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/6ka3059lnjhwwc6/%281986%29.Basil.El.Raton.Superdetective.1080p.mkv?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:2CD0F23DA3AA24CF6C9D2CC8DD3D71223EBBE333",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1KKfVOnRidtEsPeCvMId7UU9YoXhomhtU/view?usp=sharing"
@@ -55955,7 +55955,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/ibbqdhnjn1p86xa/1985.Taron.y.el.caldero.magico.hd720.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:47FDA81561EA2A641CEA7B53E4D7585160A2750E",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1SI2zC38cVYXA1M286VgGCJrdBydaU5vm/view?usp=sharing"
@@ -57050,7 +57050,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/ol7jmc9vrkbxxw4/1981.Tod.y.Tobby.hd720.castellano.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:A4414880EB9875DFFAEDC6B20D92715E400C0A8C",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1rp0Jsb05ekm-SzbXpr-DWj-9jawvqfoJ/view?usp=sharing"
@@ -57728,7 +57728,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/yaqj4hpp4ho1tqv/1977.Lo.Mejor.De.Winnie.The.Pooh.hd1080p.mkv?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1Htfav2fWx8FivzP5JMfDChxxHeIqFC6Q/view?usp=sharing"
@@ -57747,7 +57747,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/okq8jyfabjo6epb/1977.Los.Rescatadores.hd1080.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:DCD7420E4E62A8C1592E69660FEB20824B29141B",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1amOfnxv7iiOSUl89-doORrcVoTV7U1P5/view?usp=sharing"
@@ -58159,7 +58159,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/eg2nhmqv0p486cc/1973.Robin.Hood.hd1080.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:D86E3DE93F07309CFACAC8C1C6B59C2FAA486DF4",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1Jqv8Pht3I3bUeN3rhzIFeewFLKwKoZkv/view?usp=sharing"
@@ -58366,7 +58366,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/31dgkj3fgmenglm/1971.La.Bruja.novata.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:4A7D0CFE710BF7F1253DECE3932F3CE463C1C761",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/14TcW9FuBgYyKaAn45r0tP1JjXoQ7PecM/view?usp=sharing"
@@ -58520,7 +58520,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/0ysoipre77ubxoc/%281970%29%20LOS%20ARISTOGATOS.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:0eb03744bcba5fbe73349865f74d99931e24f397",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1VpCD2F08YBcp3icBKsUR9xQH1h879NtP/view?usp=sharing"
@@ -58817,7 +58817,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/1ukixmnpfs8dzt8/1967.El.libro.de.la.Selva.hd720.castellano.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:2A6E7BD94B7E0125642E5EC27329754D1C055C04",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/10d1PCJguL_J5MmDzJDE4Lj3kE0uBcoFN/view?usp=sharing",
@@ -59116,7 +59116,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/ppe2tiesxbykyhi/1964.Mary.Poppins.hd720.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:904606627DB8108D59E704FC48BEDCE1EEBCFE2D",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/15sLKQ4J9jLnUF46oC7_lFNo-wzOUd8xE/view?usp=sharing"
@@ -59263,7 +59263,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/p362o3pxrm19srv/1963.Merlin.El.Encantador.hd720.castellano.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:FB8AB63AC4911D6C31ACE1898F767CB7C54B1E3B",
 				"torrent4k": "",
 				"GDRIVE": "https://drive.google.com/file/d/1OCqB7vLTYyYEAqbdfBZEDMSPzNDrenr5/view?usp=sharing"
@@ -59548,7 +59548,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/479vvvmt3huckjo/La.cuadrilla.de.los.once.-.1080.-.Cristalazul.mkv?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.cuadrilla.de.los.once.-.1080.-.Cristalazul.mkv.torrent",
 				"torrent4k": ""
 				}		
@@ -59659,7 +59659,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/lm96ac2dsv1h8j2/1959.La.bella.durmiente.hd1080.castellano.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:ABD417FB268DE6F4A6C42A5F70CA70774BFA246E",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1EMhGwFzsOYx7zpyZCVZecmFN-G0RWVxK/view?usp=sharing"
@@ -59952,7 +59952,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/i8leqyx54ac95h1/%281955%29%20LA%20DAMA%20Y%20EL%20VAGABUNDO.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:97ea2b13e7429bc910d16c8cc66de859638ae2a0",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/19flls5bMeQfzpkVx9lqtjgT8MBFMCrZX/view?usp=sharing"
@@ -60120,7 +60120,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/4hpwkiu55n6hjbf/1953.Peter.Pan.hd1080.castellano.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:91FFE61F79FABEE770DBCB23D6982E133A1BF091",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1VKkkxnd3GqDb5NduroaYw09qk_NNANJ4/view?usp=sharing"
@@ -60177,7 +60177,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/hecx3c02k3kcdsn/1951.Alicia.en.el.pais.de.las.maravillas.hd720.castellano.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:E7072D76ED5B9249C82DF92B32B55F0F529D85E0",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1gnLqT5pS_XuVetHUBp09lPBVDWMjBBIw/view?usp=sharing"
@@ -60246,7 +60246,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/yka6aeskmz7owf2/1950.Cenicienta.hd720.castellano.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:A3697388C698E647DF32CEB4AB5BAD3B3D1E733D",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1PlPFSYvZt3EPyci0__baqAWgW_gQ17w7/view?usp=sharing"
@@ -60303,7 +60303,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/lt1kn52hfmg43lk/1949.Las.Aventuras.De.Ichabod.Y.El.Senor.Sapo.hd1080.mkv?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:20447C7495EC0B16CAE88AF2D485400B4C629EC9",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1b9KxBrYYjWLRZIthwJW4m8kzrKvqAvML/view?usp=sharing"
@@ -60360,7 +60360,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/azbu0slfkdzsgrf/1948.Tiempo.de.melod%C3%ADa.sd.mkv?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:E43E4A762DBC9DF65EDB8F432D82FB1161DED404",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1tyDr1t8k6fXOUCGPDhD6dgDtOyZ784Yy/view?usp=sharing"
@@ -60416,7 +60416,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/9r7mp3bwvizia9q/1947.Las.Aventuras.De.Bongo.Mickey.Y.Las.Judias.Magicas.hd1080.mkv?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:7D5438E91F0EC7E47757A7AF0125BDE6A8AAB9BA",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1UaS1kSimpUaMS3G2boPx06utmuSNIW0P/view?usp=sharing"
@@ -60473,7 +60473,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/tpgv97adx2i66w7/1946.Musica.maestro.sd.avi?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1cXSYMWrtvsVcVi164TdhNrNvRbUBf5My/view?usp=sharing"
@@ -60529,7 +60529,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/entuyj5zxm80nsh/1944.Los.tres.caballeros.sd.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1ZNrtc7Zs3fgtO7wyXOvSC1Iu4sg6iwUR/view?usp=sharing"
@@ -60567,7 +60567,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/d3ugn9pvkxemnrm/1942.Bambi.hd720.castellano.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:0478d136915e5cd8927f338dca08b93de1d5e0c0",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/12ZP1UmrF8qV1FGSQIGJuER0LOmjgk3ga/view?usp=sharing"
@@ -60624,7 +60624,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/qwtl1hf2le1ujq5/1943.Saludos.Amigos.hd1080p.mkv?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1HOBSB21gqeH4id4xWnpV4nHxQ3j3VlIf/view?usp=sharing"
@@ -60680,7 +60680,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/71jzsa8rhz08nwj/1941.Dumbo%20hd1080%20castellano.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:289BFF89670A9C4DE5EF33E185342FB2B3E29E18",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1pEjov4VMOb2C5xT4ou6yxHuPA4MOX2vy/view?usp=sharing"
@@ -60705,7 +60705,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/rzm8ptjqi8gbrtm/1940.Fantasia%20hd720%20castellano.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:a49c5de36dc886491e32dcc30ccada1f5e30f1c6",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1JguAGsgBkKZeRwK8GXON8Lphusni_a33/view?usp=sharing"
@@ -60724,7 +60724,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/de29y8cfqyyqfgm/1940.Pinocho.hd720.castellano.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:EC33F0371584A996CA4067DBE35D89C02A63A41F",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/13Hk2ILEayyZ0eQktXBN-bRNCFt7zyFeb/view?usp=sharing"
@@ -60800,7 +60800,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi2": "https://vidoza.net/NO_LINK",
 				"kodi3": "https://vidoza.net/NO_LINK", 
 				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://dl.dropboxusercontent.com/s/1da2g5l3opv40tl/1937.Blancanieves.y.los.7.enanitos.hd1080.castellano.mp4?dl=0"
+				"kodi5": "https://vidoza.net/NO_LINK"
 				"torrent": "magnet:?xt=urn:btih:DE70A564EB68EE38E896FBF0C9EC5450CE69BABB",
 				"torrent4k": "",		
 				"GDRIVE": "https://drive.google.com/file/d/1lMwDc3prrN3DTcnJ4ODYPp8ntzTvlgNT/view?usp=sharing"	
