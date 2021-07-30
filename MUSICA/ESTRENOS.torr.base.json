@@ -19,6 +19,42 @@
 			]
 			},
 			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Aventuras, 1Comedia, A2021, Letra J, EEUU, Disney, ",
+			"name": "Jungle Cruise (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/r3TCF5qkGG2IH1pj8OjPNqmVm14.jpg",
+			"info": "Película basada en una atracción de Disneylandia en la que un pequeño barco recorre un río a través de la jungla atravesando multitud de peligros",
+			"genero": "Aventuras, Comedia",
+			"stations": [
+				{
+				"kodi1": "https://vidoza.net/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidoza.net/NO_LINK",
+				"kodi3": "https://vidoza.net/NO_LINK", 
+				"kodi4": "https://vidoza.net/NO_LINK", 
+				"kodi5": "https://dl.dropboxusercontent.com/s/2mhnmkzh4xlkyye/Jungle.Cruise_2021.-.1080.-.CristalAzul.mkv?dl=0",  
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Jungle.Cruise_2021.-.1080.-.CristalAzul.mkv.torrent",  
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 1Peliscristal, 0Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, A2020, Letra E, Spain, ",
+			"name": "El año de la furia (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/Amg7FgfGvLtDqpIm94vfvPLQbQE.jpg",
+			"info": "Montevideo, 1972. Mientras el país se despeña irremisiblemente hacia el precipicio de la dictadura, Diego y Leonardo, dos guionistas de un conocido programa de televisión, luchan por mantener su integridad ante las presiones de sus superiores para que rebajen el tono de sus mordaces sátiras políticas y eviten ofender a los altos militares que se están apoderando del control del país. Paralelamente, del lado de los opresores, Rojas, un teniente del ejército que ha sido presionado para torturar a militantes o simpatizantes de la guerrilla de los Tupamaros, exorciza sus demonios con Susana, una prostituta con la que encuentra una suerte de refugio emocional ante su sentimiento de culpa. Poco a poco, las confluyentes vidas de los guionistas y del militar se ven profundamente afectadas por el yugo de la dictadura que se va cerniendo sobre ellos, y tanto uno como otros luchan por encontrar una escapatoria, una salida digna que les permita aguantarse la mirada ante el espejo",
+			"genero": "Thriller, Drama",
+			"stations": [
+				{
+				"kodi1": "https://vidoza.net/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidoza.net/NO_LINK",
+				"kodi3": "https://vidoza.net/NO_LINK", 
+				"kodi4": "https://vidoza.net/NO_LINK", 
+				"kodi5": "https://vidoza.net/embed-jvg7e9cyt6s4-920x360.html",
+				"torrent": "el.año.de.la.furia.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2019, Letra E, EEUU, ",
 			"name": "El vecindario (1BR) (2019)","coloryear": "limegreen",
 			"image": "https://www.themoviedb.org/t/p/original/mlHYrRdO8f9B4XLUQ5Cl7E6MxL6.jpg",
@@ -1790,7 +1826,7 @@
 			},
 			{
 			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Aventura, 1Drama, A2021, Letra S, Japon, C720, ",
-			"name": "Samurai X: El fin (2021)","coloryear": "cyan",
+			"name": "Kenshin, el guerrero samurái: El final (2021)","coloryear": "cyan",
 			"image": "https://i.imgur.com/Soc6eON.jpg",
 			"info": "El pasado de Kenshin lo alcanza causando la destruccion del restaurante Akabeko, que era el lugar favorito de Kenshin para comer. Alli encuentra una nota con la palabra 'Junchu'",
 			"genero": "Accion, Aventura, Drama",
