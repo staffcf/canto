@@ -6,9 +6,22 @@
 "url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Todas.pel.torr.json",
 "groups": [
 	{
-	"name": "AVISOS",
+	"name": "PLANTILLA",
 	"image": "",
 	"stations": [
+			{
+			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1genero, Axxxx, Letra ?, Pais, ",
+			"name": " (xxxx)","coloryear": "coloryear",
+			"image": "",
+			"info": "",
+			"genero": "",
+			"stations": [
+				{
+				"torrent": "",
+				"torrent4k": ""	
+				}		
+			]
+			}
 	]
 	},
 	{
@@ -162,7 +175,9 @@ Title:LA TRILOGIA DE BAZTAN, SagaID:Baztan, Imagen:https://images-na.ssl-images-
 							-	0Saga, 1SagaTorrent, 
 Title:LAS CRONICAS DE NARNIA, SagaID:LCDN, Imagen:https://upload.wikimedia.org/wikipedia/ms/5/52/Narnia_title.png,			
 							-	0Saga, 1SagaTorrent, 
-Title:LOS 4 FANTASTICOS, SagaID:Los4Fantasticos, Imagen:https://1.bp.blogspot.com/--8aQlP6goj8/VsRJ6mLoE7I/AAAAAAAAVrQ/ouxaLzqRQDknKdwkaXxPCuIIJYp58_HbwCCo/s225/logo_fantasticfour.png,		
+Title:LOS 4 FANTASTICOS, SagaID:Los4Fantasticos, Imagen:https://1.bp.blogspot.com/--8aQlP6goj8/VsRJ6mLoE7I/AAAAAAAAVrQ/ouxaLzqRQDknKdwkaXxPCuIIJYp58_HbwCCo/s225/logo_fantasticfour.png,	
+							-	0Saga, 1SagaTorrent, 
+Title:LOS CASOS DEL DEPARTAMENTO Q, SagaID:DepartmentQ, Imagen:https://www.themoviedb.org/t/p/original/i8H4xtfPVx6OYPgixSF41Envzhl.jpg,		
 							-	0Saga, 1SagaTorrent, 
 Title:LOS CAZAFANTASMAS, SagaID:Cazafantasmas, Imagen:http://www.hdfondos.eu/pictures/2015/1215/1/ghostbusters-logo-background-415007.jpg,	
 							-	0Saga, 1SagaTorrent, 
@@ -17806,11 +17821,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"info": "Un mes al año, cinco amigos muy competitivos se lanzan a un juego de "tu la llevas" donde todo vale, y al que han jugado desde el primer año de colegio. En el que arriesgan sus vidas, sus empleos y sus relaciones sentimentales para derrotar al otro en la batalla y gritar: “¡Tu la llevas!” Este año, el juego coincide con la boda de su unico jugador todavia no vencido, lo que lo convertiria en un blanco facil. Pero el sabe que los demas van a por el... y esta listo. Basado en una historia real",
 			"genero": "Comedia",
 			"stations": [
-				{
-				"kodi1": "https://aparat.cam/ufumce1s8k74", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK/clipwatching.com/euoxvveu7zsc",
-				"kodi3": "https://vidoza.net/NO_LINK/clipwatching.com/f2j7r2syhi81", 
-				"kodi4": "https://vidoza.net/NO_LINK/clipwatching.com/embed-kgmfqmthn9qe.html", 
+				{ 
 				"torrent": "magnet:?xt=urn:btih:79145a468cb327bf68fc4e255d95ec666775e2f5",
 				"torrent4k": ""
 				}		
@@ -17824,13 +17835,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/pkn488rztgwkr3w", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://femax20.com/v/nyxj6u215qy12g8", 
-				"kodi4": "https://vidoza.net/embed-1nfoqss0vnqd-920x360.html", 
 				"torrent": "magnet:?xt=urn:btih:CB01A6ACCDCBC69E371A06D3ED630065FC99FA25&dn=BRRip",
-				"torrent4k": "",
-				"GDRIVE": "https://drive.google.com/file/d/1esTF-zq5r4s2K0IB7FOJO94ZkNnGx1DN/view?usp=sharing"
+				"torrent4k": ""
 				}		
 			]
 			},
@@ -17842,11 +17848,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia, Drama, Thriller",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/9n1rjp6zu6k4rn/", "colorserver1": "lime",
-				"kodi2": "https://femax20.com/v/e2nj6a--ng3q3zz",
-				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://embed.mystream.to/ik73xff6t3l3"
 				"torrent": "magnet:?xt=urn:btih:B22D4C12428C80B56AA6E94DA11BC93E43128DEB",
 				"torrent4k": ""
 				}			
@@ -17860,10 +17861,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia",
 			"stations": [
 				{
-				"kodi1": "https://femax20.com/v/13j4dij-j7jm5w-", "colorserver1": "aqua",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
 				"torrent": "magnet:?xt=urn:btih:6B705D57124BA2616A0EF6262EB262A75BA7CF70",
 				"torrent4k": ""
 				}			
@@ -17877,11 +17874,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia",
 			"stations": [
 				{
-				"kodi1": "https://vidoza.net/NO_LINK", "colorserver1": "lime",
-				"kodi2": "https://femax20.com/v/j8qdlsd65nz0n58",
-				"kodi3": "https://vidoza.net/NO_LINK/gounlimited.to/embed-pcmfwxr10ci1.html", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://femax20.com/v/2w9mr844lo6"
 				"torrent": "magnet:?xt=urn:btih:7AC3D9965001EFFEB608D0E5390FD9155042B101",
 				"torrent4k": ""
 				}			
@@ -17895,10 +17887,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/flot6/", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/f04zkqxpp1",
-				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https://femax20.com/v/4mgy3fzj62jr3qk", 
 				"torrent": "magnet:?xt=urn:btih:89FBD813F04225FE8C04022A40B989B019873A46&BR1080",
 				"torrent4k": ""
 				}			
@@ -17912,10 +17900,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia",
 			"stations": [
 				{
-				"kodi1": "https://cloudvideo.tv/embed-p6qtq1t4pkd5.html", "colorserver1": "aqua",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
 				"torrent": "magnet:?xt=urn:btih:8796AF20B7943695F57642127A8964DDB7F354A4",
 				"torrent4k": ""
 				}			
@@ -17929,11 +17913,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Belico",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/ogvwj1jp/", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/yzsbe",
-				"kodi3": "https://femax20.com/v/r6-14sep7qxzx-m", 
-				"kodi4": "https://femax20.com/v/2kgl8b2qgnq1jjx", 
-				"kodi5": "https://uqload.com/embed-g05tmiaz0s59.html"
 				"torrent": "magnet:?xt=urn:btih:a58dc0c32a9c49275c960455e77f05acb1c31e62",
 				"torrent4k": ""
 				}			
@@ -17947,11 +17926,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/2vjrh/", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://femax20.com/v/k8q0es3m43pm7nj", 
-				"kodi4": "https://vidoza.net/NO_LINK/gounlimited.to/embed-5k6hlie93lml.html", 
-				"kodi5": "https://embed.mystream.to/8srkerteg4jc"
 				"torrent": "magnet:?xt=urn:btih:17bf3a4c6cfa29d4a368d79342c97bd613ab987c",
 				"torrent4k": ""
 				}			
@@ -17965,10 +17939,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller, Drama",
 			"stations": [
 				{
-				"kodi1": "http://femax20.com/v/14lewfjn7g046y4", "colorserver1": "lime",
-				"kodi2": "https://femax20.com/v/zn8lgbj16-e0-jz",
-				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https://upstream.to/embed-iqvk6hhi5nm9-614x540.html", 
 				"torrent": "magnet:?xt=urn:btih:3656C2EC68F241BA357F1DC57B5A41803178A2EF&dn=BRRip",
 				"torrent4k": ""
 				}		
@@ -17982,10 +17952,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"kodi1": "https://femax20.com/v/r28wghe4yl75dyx", "colorserver1": "lime",
-				"kodi2": "https://femax20.com/v/rzywphe4e5yn4xr",
-				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
 				"torrent": "magnet:?xt=urn:btih:A0E8076672C14E0CC588A09F0BF4515064087BE4&dn=BRRip",
 				"torrent4k": ""
 				}		
@@ -17999,11 +17965,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Romance, Comedia, Drama",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/9z4u8kmjx0/", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/vnnmwj0xtqd9po",
-				"kodi3": "http://ok.ru/videoembed/1767716948596", 
-				"kodi4": "https://vidoza.net/NO_LINK/clipwatching.com/embed-i9h9nh9t1eho.html", 
-				"kodi5": "https://vidoza.net/NO_LINK/clipwatching.com/embed-ulm8w23wdash.html"
 				"torrent": "magnet:?xt=urn:btih:7b00bba4958280927a174035625be71c825ec69f",
 				"torrent4k": ""
 				}			
@@ -18017,11 +17978,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"kodi1": "https://vidoza.net/NO_LINK", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https://femax20.com/v/g2r4mh-0p2q37zr", 
-				"kodi5": "https://vidoza.net/NO_LINK/gounlimited.to/embed-p74j55zgeug0.html"
 				"torrent": "magnet:?xt=urn:btih:05b8bc349e0bfa14b413e46103bf9060ce3a099d",
 				"torrent4k": ""
 				}			
@@ -18035,11 +17991,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Thriller, Terror, Drama",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/n1l8idwx2ig4", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/doa65l2/",
-				"kodi3": "https://vidoza.net/NO_LINK/clipwatching.com/embed-ay86db4i3zsp.html", 
-				"kodi4": "https:/femax20.com/v/zzy2kfj-qwlx5dd", 
-				"kodi5": "https://vidoza.net/embed-vh5m75ra2lll-920x360.html"
 				"torrent": "magnet:?xt=urn:btih:64090812011a71d31db83d7249d3b54f4f5ccc1f",
 				"torrent4k": "magnet:?xt=urn:btih:12728a819178421be4d454dcc35303350468456c",
 				}			
@@ -18053,10 +18004,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Romance, Drama",
 			"stations": [
 				{
-				"kodi1": "https://femax20.com/v/2lk7xa20dm70r-g", "colorserver1": "lime",
-				"kodi2": "https://femax20.com/v/e2nj6a--d8q2yl6",
-				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https:/femax20.com/v/545gkcdq3r1z-q7", 
 				"torrent": "magnet:?xt=urn:btih:4988ccc65563ca4033127786a0815a4f20cdfbe4",
 				"torrent4k": ""
 				}			
@@ -18070,11 +18017,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion",
 			"stations": [
 				{
-				"kodi1": "https://vidoza.net/NO_LINK", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://femax20.com/v/721g7hgnl-dny2-", 
-				"kodi4": "https://vidoza.net/NO_LINK/gounlimited.to/embed-9gzipnls9ddx.html", 
-				"kodi5": "https://embed.mystream.to/ubysn6g2r7gw"
 				"torrent": "magnet:?xt=urn:btih:324093b0e6f70c989a3e9281609d0e2a8af6582f",
 				"torrent4k": ""
 				}			
@@ -18088,11 +18030,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Intriga",
 			"stations": [
 				{
-				"kodi1": "http://ok.ru/videoembed/1269671725685", "colorserver1": "aqua",
-				"kodi2": "https://femax20.com/v/052z7fldy30zq-4",
-				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https://femax20.com/v/r8126sem-871ml1", 
-				"kodi5": "https://ok.ru/videoembed/1273600936674"
 				"torrent": "magnet:?xt=urn:btih:b33de4ead944149819cc75f58fc67c2df25ffdaf",
 				"torrent4k": ""
 				}			
@@ -18106,14 +18043,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"kodi1": "https://femax20.com/v/dnm05bxd-13pm2d", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/f/knxvddoeuqwx67",
-				"kodi3": "https://femax20.com/v/13j4dijkl56npe6", 
-				"kodi4": "https://femax20.com/v/ygxlwsenywlkqp0", 
-				"kodi5": "https://uqload.com/zqb68ozj7268.html",
 				"torrent": "magnet:?xt=urn:btih:9C80719849B1F0E91F1AC7722FC53FFA5A967C27&dn=BRRip",
-				"torrent4k": "",
-				"GDRIVE": "https://drive.google.com/file/d/1JlXtNYbHwlf48sHWkotX_IehYNUlyrD9/view?usp=sharing"
+				"torrent4k": ""
 				}		
 			]
 			},
@@ -18125,12 +18056,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Aventuras",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/r6xu810imr/", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://vidoza.net/NO_LINK/clipwatching.com/embed-efmxixarhlqc.html", 
-				"kodi4": "https://femax20.com/v/721g7hgn6de7g6n", 
 				"torrent": "magnet:?xt=urn:btih:C63449F72826A339EAA4D90D640AAD27D3075F76",
-				"torrent4k": "magnet:?xt=urn:btih:E587B5212AA0C9ADFBBD055A93F7A5E9A58B7F15",
+				"torrent4k": "magnet:?xt=urn:btih:E587B5212AA0C9ADFBBD055A93F7A5E9A58B7F15"
 				}			
 			]
 			},
@@ -18142,11 +18069,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror",
 			"stations": [
 				{
-				"kodi1": "https://vidia.tv/embed-veak3u3tdyev.html", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/n001zglxullejpm", 
-				"kodi3": "https://cloudvideo.tv/embed-3um6dtiyuzrb.html", 
-				"kodi4": "https://femax20.com/v/r8126seypw8g1zz", 
-				"kodi5": "https://uqload.com/tpng3kq742i4.html"
 				"torrent": "magnet:?xt=urn:btih:C783AE819C95C2942E2C627E14603955DCAE26FC", 
 				"torrent4k": ""
 				}			
@@ -18160,11 +18082,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller",
 			"stations": [
 				{
-				"kodi1": "https://vidia.tv/embed-pwdrtfyvc2is-920x360.html", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/dqk16d48ikd4g0",
-				"kodi3": "https://femax20.com/v/d8k0xfxlj1zlk06", 
-				"kodi4": "https://vidoza.net/NO_LINK/gounlimited.to/embed-ts7o73ujmjs2.html", 
-				"kodi5": "https://uqload.com/embed-hhae4nq31xid.html"
 				"torrent": "magnet:?xt=urn:btih:aff4a6b24a99e2192b55e73109616dd28dc1260c",
 				"torrent4k": ""
 				}		
@@ -18178,11 +18095,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Animacion, Comedia",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/4nndz0ndbq4omle", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/7rrk6xjdbdxxwz",
-				"kodi3": "https://cloudvideo.tv/embed-cx49bdqicejg-920x360.html",
-				"kodi4": "https://cloudvideo.tv/embed-i0ptqnnq7g0t-920x360.html",
-				"kodi5": "https://vidoza.net/NO_LINK/clipwatching.com/embed-gzua1g4nbeac.html",
 				"torrent": "magnet:?xt=urn:btih:3ca64cc4862740bb007e03047ea13cc7a663fbc5",
 				"torrent4k": ""
 				}
@@ -18197,12 +18109,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Aventuras",
 			"stations": [
 				{
-				"kodi1": "https://femax20.com/v/wjk01cn-wmn0xj2", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/0v9xxrxdf37dqo/",
-				"kodi3": "https://mixdrop.co/e/3rtc7kj28", 
-				"kodi4": "https://vidoza.net/NO_LINK/clipwatching.com/embed-wudrcqq188w8.html", 
 				"torrent": "magnet:?xt=urn:btih:3949FA6B72156D899EEFF71D5F5AE451864DD355&dn=HD1080",   magnet:?xt=urn:btih:4481f749a9b0232feae94f414fde9020dd220ba1
-				"torrent4k": "magnet:?xt=urn:btih:A9E312EFBEF6495C948A6866449A2A7F70545EA1&dn=UHD4K,
+				"torrent4k": "magnet:?xt=urn:btih:A9E312EFBEF6495C948A6866449A2A7F70545EA1&dn=UHD4K"
 				}			
 			]
 			},
@@ -18214,11 +18122,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller",
 			"stations": [
 				{
-				"kodi1": "https://vidoza.net/NO_LINK", "colorserver1": "lime",
-				"kodi2": "https://femax20.com/v/2ed0nf2kx3mkxn5",
-				"kodi3": "https://femax20.com/v/j8qdlsd64yre-0l", 
-				"kodi4": "https://vidoza.net/NO_LINK/gounlimited.to/embed-is0xulc6sefp.html", 
-				"kodi5": "https://embed.mystream.to/5tvdv76y4ycd"
 				"torrent": "magnet:?xt=urn:btih:1704b52277d223227070d5c17f3e5ea26b0ef09c",
 				"torrent4k": ""
 				}			
@@ -18232,10 +18135,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Thriller",
 			"stations": [
 				{
-				"kodi1": "https://vidoza.net/NO_LINK/clipwatching.com/fuf247wx9zor", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK/clipwatching.com/rulutmc6o8mb",
-				"kodi3": "https://vidoza.net/NO_LINK/clipwatching.com/s3t6pfmvaw5s", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
 				"torrent": "magnet:?xt=urn:btih:68538d95849c3f69b2c94481e21c975bb9c18ebe",
 				"torrent4k": ""
 				}		
@@ -18249,13 +18148,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Fantastico, Accion, Comedia",
 			"stations": [
 				{
-				"kodi1": "https://femax20.com/v/r6-14sewnxgg1g4", "colorserver1": "lime",
-				"kodi2": "https://upstream.to/qbdtmbbhsgem",
-				"kodi3": "https://upstream.to/6xnbdu3nfqu7", 
-				"kodi4": "https://femax20.com/v/r6-14sewnxgg1g4", 
-				"kodi5": "https://vidoza.net/NO_LINK/gounlimited.to/embed-l8d41qdfrjue.html"
 				"torrent": "magnet:?xt=urn:btih:6C597DF0A22B044D196C4F894FF27AFF2D92A50A",
-				"torrent4k": "magnet:?xt=urn:btih:B89BA0720C461AC53F298CADA3D71D26D8665C5F",
+				"torrent4k": "magnet:?xt=urn:btih:B89BA0720C461AC53F298CADA3D71D26D8665C5F"
 				}			
 			]
 			},
@@ -18268,8 +18162,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{ 
 				"torrent": "magnet:?xt=urn:btih:F62DBB7ACF24FA9F14552E00F29B8D465C7C228D&dn=BRRip",
-				"torrent4k": "",
-				"GDRIVE": "https://drive.google.com/file/d/1yOM-zGqfu0XmIXiC3q2qz3LSr_WK6VIF/view?usp=sharing"
+				"torrent4k": ""
 				}		
 			]
 			},
@@ -18281,13 +18174,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Accion",
 			"stations": [
 				{
-				"kodi1": "https://vidia.tv/embed-b21ihi0tpfog-920x360.html", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/4v6v81bu9",
-				"kodi3": "https://femax20.com/v/35yk7smwgpe5w81", 
-				"kodi4": "https://vidoza.net/NO_LINK/gounlimited.to/embed-x1kh5uwr8m4e.html", 
-				"kodi5": "https://vidoza.net/embed-4lkj60uxjsrq-920x360.html"
 				"torrent": "magnet:?xt=urn:btih:690654b00393c5f6cc13fbcbb5ddcd7b45662e2c",  magnet:?xt=urn:btih:1114322C965AB5440BFE5D3F3EBE254FCF8F0CE8
-				"torrent4k": "magnet:?xt=urn:btih:8DA939C32DF2A5861237690581DD3DBFD739CA8E",	magnet:?xt=urn:btih:9E0DFCF8FEB342A11FFBE9221A8B89F362D9D018	
+				"torrent4k": "magnet:?xt=urn:btih:8DA939C32DF2A5861237690581DD3DBFD739CA8E" 	magnet:?xt=urn:btih:9E0DFCF8FEB342A11FFBE9221A8B89F362D9D018	
 				}			
 			]
 			},
@@ -18299,11 +18187,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller, Accion",
 			"stations": [
 				{
-				"kodi1": "https://vidoza.net/NO_LINK", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://femax20.com/v/eqd-kb-842ml7-3", 
-				"kodi4": "https://vidoza.net/NO_LINK/gounlimited.to/embed-ppu7oexhjj29.html", 
-				"kodi5": "https://embed.mystream.to/la8ecyikf1f7"
 				"torrent": "magnet:?xt=urn:btih:BBD50B10349D7FC37D0B94C1C40B1A1B8A78DE78",
 				"torrent4k": ""
 				}			
@@ -18317,11 +18200,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama, Aventura",
 			"stations": [
 				{
-				"kodi1": "https://femax20.com/v/58z1lidg28rjdej", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/imrj0gts",
-				"kodi3": "https://femax20.com/v/m8qpxs540kyqxlm", 
-				"kodi4": "https://femax20.com/v/0yngdclx31m176y", 
-				"kodi5": "https://vidoza.net/NO_LINK/clipwatching.com/embed-mj2q01pag9wr.html"
 				"torrent": "magnet:?xt=urn:btih:62b23366f98647f8b8c915505048d89583ba87c6",
 				"torrent4k": ""
 				}			
@@ -18335,11 +18213,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Animacion, Aventuras, Comedia",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/h38iuchj/", "colorserver1": "lime",
-				"kodi2": "https://femax20.com/v/xw681i5183p84ed",
-				"kodi3": "https://vidoza.net/NO_LINK/gounlimited.to/embed-crmdj1fzoupa.html", 
-				"kodi4": "https://vidoza.net/embed-ym22gw7lzi8c-920x360.html", 
-				"kodi5": "https://embed.mystream.to/5w8xk324sno4"
 				"torrent": "magnet:?xt=urn:btih:26229e312d6167465af5560f1059e51f60aab8a9",
 				"torrent4k": ""
 				}			
@@ -18353,10 +18226,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/gnnqkzqxuwjlm6", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK/clipwatching.com/embed-jz822tpcx3dz.html",
-				"kodi3": "https://femax20.com/v/xw681i5r234n5wq", 
-				"kodi4": "https://vidoza.net/embed-y9bf7nif5ohq-920x360.html", 
 				"torrent": "magnet:?xt=urn:btih:8D1956D4C1D4FBA14E698209D3BCAD7B9BAFF53B",
 				"torrent4k": ""
 				}			
@@ -18370,11 +18239,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Intriga, Terror",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/g9e84jxti/", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://femax20.com/v/p8qz3sm7py805eg", 
-				"kodi4": "https://vidoza.net/NO_LINK/gounlimited.to/embed-fm25i4ytruzn.html", 
-				"kodi5": "https://embed.mystream.to/862osx45f2mr"
 				"torrent": "magnet:?xt=urn:btih:0f6f1fd783ed20c799ecbcadbd8c5c2880154776",
 				"torrent4k": ""
 				}			
@@ -18388,11 +18252,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/pkk8e4lphw7z13/", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK/clipwatching.com/embed-3mak3wpir75p.html",
-				"kodi3": "https://vidoza.net/NO_LINK/clipwatching.com/embed-d2aaeo6g2393.html", 
-				"kodi4": "https://vidoza.net/NO_LINK/gounlimited.to/embed-68j9w9f8rngr.html", 
-				"kodi5": "https://femax20.com/v/6wq3kt00ln50468"
 				"torrent": "magnet:?xt=urn:btih:3E7B6186166552380463C783A7D47F767FFE3CA6",
 				"torrent4k": ""
 				}			
@@ -18406,14 +18265,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller, Drama",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/gnn8dq69a6ke0n", "colorserver1": "lime",
-				"kodi2": "https://femax20.com/v/p8qz3sm713x64y5",
-				"kodi3": "https://vidoza.net/NO_LINK/clipwatching.com/embed-b15foqk6b352.html", 
-				"kodi4": "https://upstream.to/embed-uz8846h8npi4-920x360.html", 
-				"kodi5": "https://embed.mystream.to/5sx08cxz3a8i"
 				"torrent": "magnet:?xt=urn:btih:D1D3C62CBEE7604BBB854E9FF7747758538B42B9",
-				"torrent4k": "",
-				"GDRIVE": "https://drive.google.com/file/d/1aLFktjxfkKcybnSa-lDDD0j3Tl5H-a7S/view?usp=sharing"
+				"torrent4k": ""
 				}		
 			]
 			},
@@ -18425,10 +18278,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/j9q736g7s4n76v/", "colorserver1": "lime",
-				"kodi2": "https://femax20.com/v/4mgy3fz5ykj38qy",
-				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https://vidoza.net/NO_LINK/gounlimited.to/embed-7ij5ev0t11bh.html", 
 				"torrent": "magnet:?xt=urn:btih:b6efd8430fca134eea9f5d6ef24847541579de1b",
 				"torrent4k": ""
 				}			
@@ -18442,14 +18291,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Thriller",
 			"stations": [
 				{
-				"kodi1": "https://upstream.to/ouyxto2a4y38", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/f/9n61oz4zajwpv1",
-				"kodi3": "https://upstream.to/embed-0vwkxiup7f3k-920x360.html", 
-				"kodi4": "https://vidoza.net/embed-265hlb64fo7v-920x360.html", 
-				"kodi5": "https://uqload.com/sgo6nnxug02x.html"
 				"torrent": "magnet:?xt=urn:btih:b4f97e3ced5394d48fb76d855429f81b18e971b3&HD720",
-				"torrent4k": "",
-				"GDRIVE": "https://drive.google.com/file/d/17kH8z8H8cbIURLpbiXJai5DH0fVP6lvm/view?usp=sharing"
+				"torrent4k": ""
 				}		
 			]
 			},
@@ -18461,11 +18304,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia",
 			"stations": [
 				{
-				"kodi1": "http://ok.ru/videoembed/1445991549556", "colorserver1": "lime",
-				"kodi2": "https://ok.ru/videoembed/1304160176866",
-				"kodi3": "https://femax20.com/v/l-qryinzr30ll-2", 
-				"kodi4": "https://femax20.com/v/z7mj0fj25l7n2r0", 
-				"kodi5": "https://uqload.com/embed-zq00pfobt5im.html"
 				"torrent": "magnet:?xt=urn:btih:392df82594996794753cb9fd81f7b5af2275a5df",
 				"torrent4k": ""
 				}			
@@ -18479,13 +18317,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller",
 			"stations": [
 				{
-				"kodi1": "https://vidoza.net/embed-abz9pu9jmzzj-614x540.html", "colorserver1": "lime",
-				"kodi2": "https://upstream.to/embed-r3sfug4ksd82-920x360.html",
-				"kodi3": "https://upstream.to/embed-n23b69yxym2k-920x360.html", 
-				"kodi4": "https://vidoza.net/embed-abz9pu9jmzzj-920x360.html", 
 				"torrent": "magnet:?xt=urn:btih:53EF704FF8B53C6A81C26A6070982128FECE573A&dn=BRRip",
-				"torrent4k": "",
-				"GDRIVE": "https://drive.google.com/file/d/1-nHPVTOsgptuMtetVFQQZxiMSrcNv73g/view?usp=sharing"
+				"torrent4k": ""
 				}		
 			]
 			},
@@ -18497,10 +18330,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"kodi1": "https://femax20.com/v/y06deuezq20l83g", "colorserver1": "lime",
-				"kodi2": "https://femax20.com/v/j-j1pcdkqn2dw8y",
-				"kodi3": "https://femax20.com/v/2kgl8b2py0rk2dz", 
-				"kodi4": "https://vidoza.net/NO_LINK/clipwatching.com/embed-srrmabinndlu.html", 
 				"torrent": "magnet:?xt=urn:btih:77D2FB80E4873E9CCD922DCBEBB1DF2C3E092027",
 				"torrent4k": ""
 				}			
@@ -18514,10 +18343,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Aventuras, Drama",
 			"stations": [
 				{
-				"kodi1": "https://femax20.com/v/w84xpsn74xpwz3j", "colorserver1": "aqua",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
 				"torrent": "magnet:?xt=urn:btih:26fc436efb64bfd9e7a0a1468d4936102b88a9e2",
 				"torrent4k": ""
 				}			
@@ -18531,13 +18356,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Aventuras, Fantastico",
 			"stations": [
 				{
-				"kodi1": "https://upstream.to/embed-zmstaipfw2f5-614x540.html", "colorserver1": "lime",
-				"kodi2": "https://upstream.to/y0hmpilia9jp",
-				"kodi3": "https://upstream.to/9akkm7fwpb9w", 
-				"kodi4": "https://femax20.com/v/eqd-kb-8pz8px7p", 
-				"kodi5": "https://femax20.com/v/-5gl4ipm8q1k7gl"
 				"torrent": "magnet:?xt=urn:btih:40574A5C68CE501FFA76235C021B1AD3D05F2111",
-				"torrent4k": "magnet:?xt=urn:btih:5BDA54B2A69812C81C6D819E0416891FE7F67320",
+				"torrent4k": "magnet:?xt=urn:btih:5BDA54B2A69812C81C6D819E0416891FE7F67320"
 				}			
 			]
 			},
@@ -18549,10 +18369,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Intriga, Fantastico",
 			"stations": [
 				{
-				"kodi1": "https://vidoza.net/NO_LINK", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK/clipwatching.com/embed-8jf4r2ocptt0.html",
-				"kodi3": "https://vidoza.net/NO_LINK/clipwatching.com/embed-yparbggrqumn.html", 
-				"kodi4": "https://vidoza.net/NO_LINK/clipwatching.com/embed-jbsop1lcgf7d.html", 
 				"torrent": "magnet:?xt=urn:btih:ef6da4488072c9d33820e7e1914f8f9bad31f2ea",
 				"torrent4k": ""
 				}		
@@ -18592,11 +18408,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/lju7r4r12s/", "colorserver1": "lime",
-				"kodi2": "https://femax20.com/v/3q917p8m129",
-				"kodi3": "https://femax20.com/v/xw681i5183plx8p", 
-				"kodi4": "https://vidoza.net/NO_LINK/clipwatching.com/embed-udg4av2nvr3d.html", 
-				"kodi5": "https://vidoza.net/NO_LINK/gounlimited.to/embed-sq4mlk4ru3pk.html"
 				"torrent": "magnet:?xt=urn:btih:134fd05b20aa4c5c91ebb500d7d34873b49a4630",
 				"torrent4k": ""
 				}			
@@ -18610,15 +18421,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"kodi1": "https://vidia.tv/embed-2da1o0rich58-920x360.html", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/saf3gnqpq/",
-				"kodi3": "https://mixdrop.co/e/rjb3ord", 
-				"kodi4": "https://femax20.com/v/q8wm4se64r5eple", 
-				"kodi5": "https://vidoza.net/embed-l064xongspa7-920x360.html"
 				"torrent": "magnet:?xt=urn:btih:f3755ed965fc7510bfebfe4f182f9ac29bcbf81a",
-				"torrent4k": "",				
-				"GDRIVE": "https://drive.google.com/file/d/1OXkkE00_jCjaxXP33R-2lpg4ZUyYOPR-/view?usp=sharing"	
-				"
+				"torrent4k": ""
 				}			
 			]
 			},
@@ -18630,11 +18434,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror, Comedia",
 			"stations": [
 				{
-				"kodi1": "https://femax20.com/v/jd85gcd5djn-py2", "colorserver1": "lime",
-				"kodi2": "https://femax20.com/v/p2yjmfmy06p0x28",
-				"kodi3": "https://mixdrop.co/f/6q63rm8qfnxzgp", 
-				"kodi4": "https://upstream.to/s1kdzthxvbn9", 
-				"kodi5": "https://cloudvideo.tv/8jz7yiizvg5c"
 				"torrent": "magnet:?xt=urn:btih:F40AE3DF1ABB123A0D4DFC7B03721A83E90083F4&dn=BRRip",
 				"torrent4k": ""
 				}			
@@ -18661,13 +18460,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia, Romance",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/841368qou6jj0lr", "colorserver1": "lime",
-				"kodi2": "https://cloudvideo.tv/embed-toqfahly9npu-920x360.html",
-				"kodi3": "https://cloudvideo.tv/embed-kwbtpbn1w98r-920x360.html", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
 				"torrent": "magnet:?xt=urn:btih:84660511769f1128b61e0e5514e8ece13b622bbe",
-				"torrent4k": "",				
-				"GDRIVE": "https://drive.google.com/file/d/14Qij3kYX6iMP_8enMbK8O9UUorXpSftX/view?usp=sharing""
+				"torrent4k": ""
 				}			
 			]
 			},
@@ -18679,11 +18473,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/25aliel/", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/hqe15szdb4m7q",
-				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://femax20.com/v/q8wm4se6jzrd383"
 				"torrent": "magnet:?xt=urn:btih:41efb3f0edf12092dd41852e4bb5f9b686da7424",
 				"torrent4k": ""
 				}			
@@ -18697,13 +18486,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Accion, Aventuras",
 			"stations": [
 				{
-				"kodi1": "https://vidia.tv/embed-1lwateeedf9h-920x360.html", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/3n9xgpr7s31ke0/",
-				"kodi3": "https://mixdrop.co/e/xchovy", 
-				"kodi4": "https://femax20.com/v/ek3dma-em3kje6z", 
-				"kodi5": "https://vidoza.net/NO_LINK/clipwatching.com/embed-93c2niqxhnz1.html"
 				"torrent": "magnet:?xt=urn:btih:1538b90ddd0c18844e694d1dd46d4c46e028cffc&HD1080",
-				"torrent4k": "magnet:?xt=urn:btih:449B299E98D167502AE7621712A0AF8F529B2AD2",
+				"torrent4k": "magnet:?xt=urn:btih:449B299E98D167502AE7621712A0AF8F529B2AD2"
 				}			
 			]
 			},
@@ -18715,11 +18499,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"kodi1": "https://femax20.com/v/0qp4ealn8y4dzrq", "colorserver1": "lime",
-				"kodi2": "https://femax20.com/v/m0y5eu5l5d5g0-e",
-				"kodi3": "https://mixdrop.co/f/zpee97x4iw73g3", 
-				"kodi4": "https://upstream.to/f9wcc15wv4op", 
-				"kodi5": "https://cloudvideo.tv/lhb41pwczhx1",
 				"torrent": "magnet:?xt=urn:btih:53A68D0AAAFC4BC87C6714BBD9E1EF70BB75E16A&dn=BRRip",
 				"torrent4k": ""
 				}		
@@ -18733,10 +18512,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Romance, Fantastico, Drama",
 			"stations": [
 				{
-				"kodi1": "https://femax20.com/v/2lk7xa2jx7y85-4", "colorserver1": "lime",
-				"kodi2": "https://femax20.com/v/47jdptz8-mkrz-m",
-				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
 				"torrent": "magnet:?xt=urn:btih:0DEB0350696B22541C584C6A4DBA755CA5E212D5&dn=BRRip",
 				"torrent4k": ""
 				}		
@@ -18750,11 +18525,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/se1ni9kkasjsu", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/1grmvs/",
-				"kodi3": "https://vidoza.net/NO_LINK/clipwatching.com/embed-bltfaoowaivm.html", 
-				"kodi4": "https://femax20.com/v/z82nzsjpkpdd2wy", 
-				"kodi5": "https://vidoza.net/embed-89k362deb12f-920x360.html"
 				"torrent": "magnet:?xt=urn:btih:d8a091f406c399b98803b03badd638153a263821",
 				"torrent4k": ""
 				}			
@@ -18768,10 +18538,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/hcfxpm/", "colorserver1": "lime",
-				"kodi2": "https://cloudvideo.tv/embed-12catkwil3v0-920x360.html",
-				"kodi3": "https://cloudvideo.tv/embed-q4d7kpur9q0u-920x360.html", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
 				"torrent": "magnet:?xt=urn:btih:efb381854124811a3aa50df50335392d43320142",
 				"torrent4k": ""
 				}			
@@ -18785,14 +18551,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia, Drama",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/61h901ete37dp", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/qi5ysf",
-				"kodi3": "https://cloudvideo.tv/embed-kmjstkim8ztb-920x360.html", 
-				"kodi4": "https://femax20.com/v/721g7hg5k8ng2kr", 
-				"kodi5": "https://vidoza.net/NO_LINK/clipwatching.com/embed-04ae7xx2zi5n.html"
 				"torrent": "magnet:?xt=urn:btih:69aa5c69a6293a4a998756694e40497f8a9d827e",
-				"torrent4k": "",				
-				"GDRIVE": "https://drive.google.com/file/d/1pAnefyPdlGmVmF-h3jELvl1WLH_Lqvuo/view?usp=sharing""
+				"torrent4k": ""
 				}		
 			]
 			},
@@ -18804,11 +18564,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"kodi1": "https://femax20.com/v/3ezd3tm864n5lwd", "colorserver1": "lime",
-				"kodi2": "https://femax20.com/v/we3ykhnr7028wwg",
-				"kodi3": "https://mixdrop.co/f/xorodnowuqkkg0", 
-				"kodi4": "https://upstream.to/i986i7nz792t", 
-				"kodi5": "https://cloudvideo.tv/nrqz9tmmosor"
 				"torrent": "magnet:?xt=urn:btih:05FCB9640A6BC93EF386F952030DF9ED32D28229&dn=BRRip",
 				"torrent4k": ""
 				}		
@@ -18821,12 +18576,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"info": "Paris, 1897, en plena Belle epoque. Edmond Rostand es un dramaturgo prometedor. Pero todo lo que ha escrito ha sido un fracaso y ahora sufre una paralisis creativa total. Gracias a su admiradora, la gran actriz Sarah Bernhardt, conoce al mejor actor del momento, Constant Coquelin, que insiste en interpretar su proxima obra. Y, ademas, quiere estrenarla dentro de tres semanas. El gran problema para Edmond es que todavia no la tiene escrita. Solo tiene el SKAM ESPAÑA: 'Cyrano de Bergerac'",
 			"genero": "Drama, Comedia",
 			"stations": [
-				{¡
-				"kodi1": "https://vidoza.net/NO_LINK", "colorserver1": "lime",
-				"kodi2": "https://femax20.com/v/y32lnueejpjk4dm", 
-				"kodi3": "https://cloudvideo.tv/embed-kt1tyl5c25l1.html", 
-				"kodi4": "https://embed.mystream.to/shbvlc43fgdw", 
-				"kodi5": "https://uqload.com/q2ausultxbds.html"
+				{
 				"torrent": "magnet:?xt=urn:btih:ea6b6fafa6e5d67db4b132a8761d70ae30fd0507", 
 				"torrent4k": ""¡
 				}
@@ -18840,10 +18590,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama, Comedia, Romance",
 			"stations": [
 				{
-				"kodi1": "https://cloudvideo.tv/jnjeygbsewp0", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
 				"torrent": "magnet:?xt=urn:btih:d9320027a509309014bfba6071106af2ac8e6938",
 				"torrent4k": ""
 				}		
@@ -18857,10 +18603,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"kodi1": "https://femax20.com/v/mp85-u5lyr37d3d", "colorserver1": "lime",
-				"kodi2": "https://femax20.com/v/d8k0xfx70214m5p",
-				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
 				"torrent": "magnet:?xt=urn:btih:C8BC1D41571369E03766B070D188576469D7404A&dn=BRRip",
 				"torrent4k": ""
 				}		
@@ -18874,11 +18616,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Animacion, Comedia",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/rdltx/", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://femax20.com/v/yx7gkiej1rl2q30", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://vidoza.net/NO_LINK/gounlimited.to/embed-g3m6kr8yz3ba.html"
 				"torrent": "magnet:?xt=urn:btih:37b23feb29f9be8a885d3f39c5663e6f64d9e2c5",
 				"torrent4k": ""
 				}			
@@ -18891,12 +18628,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"info": "Un temido oligarca ruso-israeli que tiene prohibida la entrada en Estados Unidos pone en marcha una espiral de eventos que involucran a un boxeador que trabajara para el, un complot para chantajear a un promotor inmobiliario judio ortodoxo, un gran escandalo sexual y copiosas cantidades de caviar",
 			"genero": "Drama",
 			"stations": [
-				{¡
-				"kodi1": "https://mixdrop.co/e/3nnxgw88ud6qde", "colorserver1": "lime",
-				"kodi2": "http://ok.ru/videoembed/2122121808500",
-				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://uqload.com/0aq71mkrdnr4.html"
+				{
 				"torrent": "magnet:?xt=urn:btih:87BC6C5180082D616BF63BD2666328D3982AAA88",
 				"torrent4k": ""
 				}			
@@ -18910,14 +18642,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Aventuras, Comedia, Fantastico, Drama, Animacion",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/knw6kknligkwz6/", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/6qpkz83vtjlwv9",
-				"kodi3": "https://femax20.com/v/m8qpxs5ejld0yww", 
-				"kodi4": "https://vidoza.net/NO_LINK/gounlimited.to/embed-ztbgjvdy7xpu.html", 
-				"kodi5": "https://femax20.com/v/d2g7zuxxd-ee2g3"
 				"torrent": "magnet:?xt=urn:btih:375452c55a767f3c14023e29ce1ba76b44a52602",
-				"torrent4k": "",				
-				"GDRIVE": "https://drive.google.com/file/d/1fbs_JHOd18aRV3Ems5f9PqcuvZG7kUQb/view?usp=sharing""
+				"torrent4k": ""
 				}			
 			]
 			},
@@ -18929,11 +18655,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Romance, Drama",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/aeb7fyh", "colorserver1": "lime",
-				"kodi2": "https://femax20.com/v/y25zdaewjjl3003",
-				"kodi3": "https://femax20.com/v/721g7hgnz3w2enq", 
-				"kodi4": "https://vidoza.net/NO_LINK/gounlimited.to/embed-ed41uqy9oq4v.html", 
-				"kodi5": "https://mstream.fun/uctvilswb6lw"
 				"torrent": "magnet:?xt=urn:btih:CE94860A4C2185326A12F43E247FFBFB791A1607",
 				"torrent4k": "magnet:?xt=urn:btih:A6EF4DABE1D1343EE22BC94761BC3BCB1D32C489",  magnet:?xt=urn:btih:7EE540083B3B32A3B0194B0D958D03058906EA3B
 				}		
@@ -18947,11 +18668,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Comedia",
 			"stations": [
 				{
-				"kodi1": "https://femax20.com/v/78l4kigxm1kn2ny", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/5o9w6ksje3",
-				"kodi3": "https://cloudvideo.tv/embed-91v9af1gfuha-920x360.html", 
-				"kodi4": "https://cloudvideo.tv/embed-5xexf8tl0o87-920x360.html", 
-				"kodi5": "https://femax20.com/v/721g7hgxm3nw8jn"
 				"torrent": "magnet:?xt=urn:btih:8E78B093A12A456C7FD830B7575F3D8CA6FC64CD",  magnet:?xt=urn:btih:2c97cc2d4ca43167712bd5509eb783f58dc0e8be
 				"torrent4k": ""
 				}			
@@ -18965,10 +18681,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Romance, Drama",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/eu6f7pwym", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
 				"torrent": "magnet:?xt=urn:btih:24c84b9a4628e1b79444657f866249781c5992c4",
 				"torrent4k": ""
 				}		
@@ -18982,11 +18694,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/7cxxw3e0lpoi", "colorserver1": "lime",
-				"kodi2": "https://femax20.com/v/35yk7smpkr3zg34",
-				"kodi3": "https://femax20.com/v/05olgqykn96", 
-				"kodi4": "https://femax20.com/v/xw681i5rwkym4yq", 
-				"kodi5": "https://vidoza.net/NO_LINK/clipwatching.com/embed-5r8ieqglp674.html"
 				"torrent": "magnet:?xt=urn:btih:6192686133344262ef38245b4120a00735da4e30",
 				"torrent4k": ""
 				}			
@@ -19000,10 +18707,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"kodi1": "https://femax20.com/v/k085ga31gnz-mly", "colorserver1": "lime",
-				"kodi2": "https://femax20.com/v/x45k7u5ppwxdgq8",
-				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
 				"torrent": "magnet:?xt=urn:btih:AFE4AE9D47B1EA5E73069CD9B5DBE5714A2F8877&dn=BRRip",
 				"torrent4k": ""
 				}		
@@ -19017,10 +18720,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Belico, Accion, Drama",
 			"stations": [
 				{
-				"kodi1": "https://aparat.cam/nudsl89sf6xu/air-strike-1-hd-1080_es.mp4.html", "colorserver1": "lime",
-				"kodi2": "https://aparat.cam/5gujo7udo1y3",
-				"kodi3": "https://vidoza.net/NO_LINK/clipwatching.com/jweh3sogrqur", 
-				"kodi4": "https://vidoza.net/NO_LINK/clipwatching.com/wikyy81a1s2k", 
 				"torrent": "magnet:?xt=urn:btih:43ea5f91477bb96521634f42f69023cca031fd90",
 				"torrent4k": ""
 				}		
@@ -19034,14 +18733,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Animacion, Infantil",
 			"stations": [
 				{
-				"kodi1": "https://upstream.to/embed-zousn05ym3k0-920x360.html", "colorserver1": "lime",
-				"kodi2": "https://upstream.to/embed-t8l47gvrcyzo-920x360.html",
-				"kodi3": "https://femax20.com/v/2xk87i237gg8dwe", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://uqload.com/embed-4loiwyee5idw.html"
 				"torrent": "magnet:?xt=urn:btih:f38ea679c0e1ca3038701fdfbe5f851828fb22ad&HD1080",
-				"torrent4k": "",
-				"GDRIVE": "https://drive.google.com/file/d/1mjCqK5cxnQwuo_nGTAKfGsgadX5g4q3w/view?usp=sharing"
+				"torrent4k": ""
 				}		
 			]
 			},
@@ -19066,11 +18759,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Romance, Comedia, Drama",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/2ed34", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK/clipwatching.com/embed-1wmtuoyuv8dw.html",
-				"kodi3": "https://femax20.com/v/-dlk5hp-lxx816j", 
-				"kodi4": "https://vidoza.net/NO_LINK/gounlimited.to/embed-vn9p5jzdmw6u.html", 
-				"kodi5": "https://femax20.com/v/0yngdcld-zp4emd"
 				"torrent": "magnet:?xt=urn:btih:a63776d7663860223e8464dae13e2c7cb392044e",
 				"torrent4k": ""
 				}			
@@ -19084,12 +18772,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/qlvrn3rzsqgvzr/", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/kfwhqv",
-				"kodi3": "https://cloudvideo.tv/embed-dxyiblfblrsf-920x360.html", 
-				"kodi4": "https://femax20.com/v/435g2hzw-r5r4e8", 
 				"torrent": "magnet:?xt=urn:btih:AFFAE647F8F911D646E3CD97567C55305E8D009E",
-				"torrent4k": "magnet:?xt=urn:btih:DB31A22E0A66B62F316DE3DC5A75683DA818EAD6",
+				"torrent4k": "magnet:?xt=urn:btih:DB31A22E0A66B62F316DE3DC5A75683DA818EAD6"
 				}		
 			]
 			},
@@ -19101,11 +18785,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller, Drama",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/poyeak8z6x/", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/czav1f1",
-				"kodi3": "https://femax20.com/v/zzy2kfj-qz1gzg5", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://mstream.fun/inesm81boijf"
 				"torrent": "magnet:?xt=urn:btih:f67b4b5c128e5334a55598cafff6a71212a380d2",
 				"torrent4k": ""
 				}			
@@ -19119,11 +18798,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia",
 			"stations": [
 				{
-				"kodi1": "https://aparat.cam/3zyacyvawc4g", "colorserver1": "lime",
-				"kodi2": "https://aparat.cam/c30h8jav4idm/the-christmas-chronicles-hd-1080_es.mp4.html",
-				"kodi3": "https://vidoza.net/NO_LINK/clipwatching.com/62h3h86058ko", 
-				"kodi4": "https://vidoza.net/NO_LINK/clipwatching.com/embed-y9rp4zqa636u.html", 
-				"kodi5": "https://vidoza.net/NO_LINK/clipwatching.com/ucqermnf2vzr/1563297736rji1x.mp4.html"
 				"torrent": "magnet:?xt=urn:btih:690e0ff3d86e8f6ccc1f91898ddf830400be00b0&dn=HD1080",
 				"torrent4k": ""
 				}		
@@ -19137,11 +18811,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"kodi1": "https://vidoza.net/NO_LINK", "colorserver1": "lime",
-				"kodi2": "https://upstream.to/embed-861gcsjbddk0-920x360.html",
-				"kodi3": "https://upstream.to/embed-4ebm0tl5qw2k-920x360.html", 
-				"kodi4": "https://upstream.to/embed-tdyxrq2tsf2d-920x360.html", 
-				"kodi5": "https://vidoza.net/embed-r5ppkeuqblkd-920x360.html"
 				"torrent": "magnet:?xt=urn:btih:24DA8707A6B86C9C81C2584C27D44DDA3F08C608",
 				"torrent4k": ""
 				}		
@@ -19155,11 +18824,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion",
 			"stations": [
 				{
-				"kodi1": "https://aparat.cam/r7pk7xarltc0", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK/clipwatching.com/48nv924rhzuf",
-				"kodi3": "https://vidoza.net/NO_LINK/clipwatching.com/b2yb0yo1wxjp", 
-				"kodi4": "https://vidoza.net/NO_LINK/clipwatching.com/rrqz5y0smdzh", 
-				"kodi5": "https://vidoza.net/NO_LINK/clipwatching.com/3m0hlst3e7gi"
 				"torrent": "magnet:?xt=urn:btih:25fa20a89da313fb418f080055154b3abd880b0c",
 				"torrent4k": ""
 				}		
@@ -19173,17 +18837,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Animacion, Infantil",
 			"stations": [
 				{
-				"name": "TRAILER (NO HAY)",
-				"image": "https://ak5.picdn.net/shutterstock/videos/10488935/thumb/6.jpg",
-				"url": "",
-				"kodi1": "https://mixdrop.co/e/pk4q0xn4fe6onv", "colorserver1": "lime",
-				"kodi2": "https://femax20.com/v/dkwj4sxxwy883qp", 
-				"kodi3": "https://upstream.to/i5hhd3r6yetd", 
-				"kodi4": "https://embed.mystream.to/cryvegnt2a5a", 
-				"kodi5": "https://uqload.com/ye3h2otgttez.html"
 				"torrent": "magnet:?xt=urn:btih:BA96A88A3A0CF676CB57F15B2E9CC0A14F35AAF7", 
-				"torrent4k": "",		
-				"GDRIVE": "https://drive.google.com/file/d/1HgAHwmlCkEKlFRDCz_v8wfYZnn_3oFLz/view?usp=sharing"
+				"torrent4k": ""
 				}			
 			]
 			},
@@ -19195,11 +18850,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Western, Comedia",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/c2d9186/", "colorserver1": "lime",
-				"kodi2": "https://femax20.com/v/pmo54r-w8vl",
-				"kodi3": "https://femax20.com/v/m8qpxs5el-wr03k", 
-				"kodi4": "https://vidoza.net/NO_LINK/gounlimited.to/embed-5iesmlfdqztu.html", 
-				"kodi5": "https://embed.mystream.to/x7463lirki70"
 				"torrent": "magnet:?xt=urn:btih:cf22092f8550115698aec25b4d34da2280de1383",
 				"torrent4k": ""
 				}			
@@ -19213,10 +18863,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia, Romance, Drama",
 			"stations": [
 				{
-				"kodi1": "http://ok.ru/videoembed/1701947968116", "colorserver1": "aqua",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https://vidoza.net/NO_LINK/clipwatching.com/embed-s07fzkosm4i3.html", 
 				"torrent": "magnet:?xt=urn:btih:e249cbcd2b4abd61876b60a2fce477027bac0b9d",
 				"torrent4k": ""
 				}			
@@ -19229,12 +18875,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"info": "Revision de Cyrano de Bergerac ambientada en un colegio privado escoces en los años 80, en donde un patoso pero imaginativo estudiante ayuda al heroe del colegio, guapo pero tonto, a conseguir acercarse a la hija de un recien llegado profesor de frances",
 			"genero": "Comedia",
 			"stations": [
-				{¡
-				"kodi1": "https://mixdrop.co/e/9n10j7gpsexjg", "colorserver1": "lime",
-				"kodi2": "https://cloudvideo.tv/embed-xhocea8ozwuj.html", 
-				"kodi3": "http://ok.ru/videoembed/1962971302516", 
-				"kodi4": "https://uqload.com/feof44gxu89d.html", 
-				"kodi5": "https://femax20.com/v/j-xjpiddjzwy2wn"
+				{
 				"torrent": "magnet:?xt=urn:btih:E951FFDDFABD7311D415817A3BDE0F36CA5372D2",
 				"torrent4k": ""¡
 				}		
@@ -19248,11 +18889,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/3nnv9przbkr18", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK/clipwatching.com/embed-khcv2gr8lq0u.html",
-				"kodi3": "https://femax20.com/v/g2r4mh-0y15xylz", 
-				"kodi4": "https://vidoza.net/NO_LINK/gounlimited.to/embed-ax9o8o4ndx91.html", 
-				"kodi5": "https://embed.mystream.to/bxd535ush09r"
 				"torrent": "magnet:?xt=urn:btih:2fd4bd738b7ab4965e9165251694eef5ff02c015",
 				"torrent4k": ""
 				}			
@@ -19266,13 +18902,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Comedia, Fantastico",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/sasiabsdr", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/xoljxzo7sq96ed/",
-				"kodi3": "https://vidoza.net/NO_LINK/clipwatching.com/embed-3ti30ufayk22.html", 
-				"kodi4": "https://vidoza.net/NO_LINK/clipwatching.com/embed-dmizvwvps24s.html", 
-				"kodi5": "https://femax20.com/v/4lv000-q6xv"
 				"torrent": "magnet:?xt=urn:btih:7FAB1475580AE7405B219863930B4DE29A189246",
-				"torrent4k": "magnet:?xt=urn:btih:1D52076D8F08DA0DDBFE197E933709F9E1D9E4FC",
+				"torrent4k": "magnet:?xt=urn:btih:1D52076D8F08DA0DDBFE197E933709F9E1D9E4FC"
 				}			
 			]
 			},
@@ -19284,11 +18915,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror",
 			"stations": [
 				{
-				"kodi1": "https://vidoza.net/NO_LINK", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/o7wovekpil0j3p",
-				"kodi3": "https://femax20.com/v/x45k7u5qzrq8r14", 
-				"kodi4": "http://ok.ru/videoembed/2335406885492", 
-				"kodi5": "https://uqload.com/rk8rscns9g8w.html"
 				"torrent": "magnet:?xt=urn:btih:6BDB5BBEF16C419EE01F1C678BC2BC72E46CA360",
 				"torrent4k": ""
 				}		
@@ -19302,13 +18928,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller",
 			"stations": [
 				{
-				"kodi1": "https://femax20.com/v/2lk7xa23jn48566", "colorserver1": "lime",
-				"kodi2": "https://upstream.to/embed-lsyjd0fxeoph-920x360.html",
-				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
 				"torrent": "magnet:?xt=urn:btih:AF0079C3F045870FEE383B48EAC16DCFB3E230A4&dn=BR1080",  magnet:?xt=urn:btih:00A1D89B9EFFC6076356D98636FFD7534B7DD4E8&dn=BRRip
-				"torrent4k": "",
-				"GDRIVE": "https://drive.google.com/file/d/1eSg-eqWda2QU75o9gd01-rmEyhKxmLjS/view?usp=sharing"
+				"torrent4k": ""
 				}		
 			]
 			},
@@ -19319,11 +18940,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"info": "Diane es una viuda que al cumplir los setenta años se da cuenta que no le queda mucho tiempo de vida. Ella ha estado toda la vida dedicada a las necesidades de los demas y a cuidar al projimo. Todas las mañanas se levantaba e iba al comedor social a servirles comida a los vagabundos y a los mas necesitados, visitaba a amigos enfermos y, sobre todo, ha intentado por activa y por pasiva ayudar a su hija drogadicta a salir de la adiccion en la que se encuentra sometida. Tras comenzar a ver la muerte como un ente cercano, tendra que cambiar sus habitos radicalmente para comenzar a reflexionar sobre lo que ha hecho con su vida y sobre su identidad. La pelicula hace un reflejo de la pobreza bajo la mirada de un alma candida que, cuando comienza a marchitarse, tendra las dudas propias de la vejez sobre que puede encontrarse mas alla y si sus acciones en el mundo han servido para algo",
 			"genero": "Drama",
 			"stations": [
-				{
-				"kodi1": "https://mixdrop.co/e/bs9dykkl7x", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://femax20.com/v/8egndu8r60zz65q", 
-				"kodi4": "https://vidoza.net/NO_LINK/gounlimited.to/embed-z8yt3nsh1qkp-920x360.html", 
+				{ 
 				"torrent": "magnet:?xt=urn:btih:25e33e600f49902e33368be22aaaeb64190bb03b",
 				"torrent4k": ""
 				}			
@@ -19337,11 +18954,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/e3tghi2a/", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https://femax20.com/v/z82nzsjpe7gq88z", 
-				"kodi5": "https://vidoza.net/NO_LINK/gounlimited.to/embed-36en1h4vr3e9.html"
 				"torrent": "magnet:?xt=urn:btih:e24e3e13eed2f62817545eb21ce3a071b2fe3665",
 				"torrent4k": ""
 				}			
@@ -19355,14 +18967,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller",
 			"stations": [
 				{
-				"kodi1": "https://vidia.tv/embed-wtze5yegs0le-920x360.html", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/xowq6g9vhrgxn7",
-				"kodi3": "https://vidoza.net/NO_LINK/clipwatching.com/embed-dw23f7l39dxx.html", 
-				"kodi4": "https://vidoza.net/NO_LINK/gounlimited.to/embed-cd2oxksk2f40-920x360.html", 
-				"kodi5": "https://embed.mystream.to/63jidizofbu2"
 				"torrent": "magnet:?xt=urn:btih:fb4995afec9e15181266ccf41c53f699c0de89de",
-				"torrent4k": "",
-				"GDRIVE": "https://drive.google.com/file/d/1f_jiVOFXhRmEkIpxN_nP2skl-3Lq_dfw/view?usp=sharing"
+				"torrent4k": ""
 				}		
 			]
 			},
@@ -19374,11 +18980,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama, Comedia",
 			"stations": [
 				{
-				"kodi1": "https://vidoza.net/NO_LINK", "colorserver1": "aqua",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://vidoza.net/NO_LINK/gounlimited.to/embed-2efjnq5a8hh0-920x360.html"
 				"torrent": "magnet:?xt=urn:btih:e5119cbef583968a38b0e00fa87fab68f5f3150d",
 				"torrent4k": ""
 				}			
@@ -19392,10 +18993,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller, Drama",
 			"stations": [
 				{
-				"kodi1": "https://aparat.cam/bb20is9e5zox", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK/clipwatching.com/wpsi268iwq1e",
-				"kodi3": "https://vidoza.net/NO_LINK/clipwatching.com/3yo2e0pgmk93", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
 				"torrent": "magnet:?xt=urn:btih:315ce2584f377e805e5ade72047499126c040953",
 				"torrent4k": ""
 				}		
@@ -19409,10 +19006,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama, Fantastico, Thriller",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/eaikuv6kr", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK/clipwatching.com/embed-kjdmvdplvmax.html",
-				"kodi3": "https://femax20.com/v/721g7hgxmznz44-", 
-				"kodi4": "https://femax20.com/v/kdw1pt38dxe546z", 
 				"torrent": "magnet:?xt=urn:btih:21640bb6e010ca6ab3394edeb862289be0ac2ab6",
 				"torrent4k": ""
 				}			
@@ -19426,10 +19019,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller, Comedia",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/rwwqqw1maz31m0/", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/izkcglqpw4v",
-				"kodi3": "https://vidoza.net/NO_LINK/clipwatching.com/embed-14dysb8ojegk.html", 
-				"kodi4": "https://femax20.com/v/481peizpzdky-qe", 
 				"torrent": "magnet:?xt=urn:btih:97de780ff567a91548ed810b97f72e0e28d0f26e",
 				"torrent4k": ""
 				}			
@@ -19443,14 +19032,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror ",
 			"stations": [
 				{
-				"kodi1": "https://vidoza.net/NO_LINK", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/enl9rexrbeq6re",
-				"kodi3": "http://ok.ru/videoembed/2324080757364", 
-				"kodi4": "https://embed.mystream.to/rdcnb1jv1whn", 
-				"kodi5": "https://uqload.com/162ma3uev1js.html"
 				"torrent": "magnet:?xt=urn:btih:cfee12ca3cc664e93dd0c04d8286550152d13497",
-				"torrent4k": "",
-				"GDRIVE": "https://drive.google.com/file/d/1SQQqbMVuFwgzXap595D_7i25UE34zn88/view?usp=sharing"
+				"torrent4k": ""
 				}		
 			]
 			},
@@ -19462,10 +19045,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia, Drama",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/lyl6piqsn", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://femax20.com/v/p8qz3sm055erjdq", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
 				"torrent": "magnet:?xt=urn:btih:5f050faa5639a9fb1c949020e05399ac51124f10",
 				"torrent4k": ""
 				}			
@@ -19479,10 +19058,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia",
 			"stations": [
 				{
-				"kodi1": "https://vidoza.net/NO_LINK", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK/clipwatching.com/pdlentlnzd3h",
-				"kodi3": "https://vidoza.net/NO_LINK/clipwatching.com/5czfk23kj7ye/El_Alma_De_La_Fiesta_[BluRay_Rip][AC3_5.1_Castellano][2018].avi.html", 
-				"kodi4": "https://vidoza.net/NO_LINK/clipwatching.com/cidgb960b425", 
 				"torrent": "magnet:?xt=urn:btih:ac8da2b976b8bb6076a97e591f3762dab16a3a76",
 				"torrent4k": ""
 				}		
@@ -19496,11 +19071,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Aventuras, Fantastico",
 			"stations": [
 				{
-				"kodi1": "https://vidia.tv/embed-sg6ixeez842t-920x360.html", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://femax20.com/v/134mdcjn10455gd", 
-				"kodi4": "https://femax20.com/v/481peizp7n2g5nw", 
-				"kodi5": "https://vidoza.net/NO_LINK/gounlimited.to/embed-hqb77hd2rbbl-920x360.html"
 				"torrent": "magnet:?xt=urn:btih:4a508cbe3b0e70296a8c5e2e196b57829fb44854",
 				"torrent4k": ""
 				}			
@@ -19514,11 +19084,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama, Intriga",
 			"stations": [
 				{
-				"kodi1": "https://aparat.cam/6rqtzpynrqam", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK/clipwatching.com/nfs8xygxqzg5",
-				"kodi3": "https://vidoza.net/NO_LINK/clipwatching.com/tj0ta987pkp2.html", 
-				"kodi4": "https://vidoza.net/NO_LINK/clipwatching.com/pcwj7pxbbf9c.html", 
-				"kodi5": "https://vidoza.net/NO_LINK/clipwatching.com/ax0sxotl0985"
 				"torrent": "magnet:?xt=urn:btih:2e95887590f14219fc393fd65cc22e5f2fc16745",
 				"torrent4k": ""
 				}		
@@ -19532,10 +19097,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"kodi1": "https://upstream.to/embed-th8jkika7ji8-920x360.html", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
 				"torrent": "magnet:?xt=urn:btih:7ECDED0F3BC0A33B21F330D7B5CC4DB8B4AD21B0&dn=BRRip",
 				"torrent4k": ""
 				}		
@@ -19549,11 +19110,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller",
 			"stations": [
 				{
-				"kodi1": "https://vidia.tv/embed-rnd1yyl1pi2p.html", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/enn6odkrulr3vx", 
-				"kodi3": "https://cloudvideo.tv/embed-jr9r9j1hgnkc.html", 
-				"kodi4": "https://vidoza.net/NO_LINK/gounlimited.to/embed-x1ub0pf1o0rk.html", 
-				"kodi5": "https://femax20.com/v/m8qpxs5e88106j6"
 				"torrent": "magnet:?xt=urn:btih:2371283853BFAA4F252377E9DAB6286C5DB5CD33", 
 				"torrent4k": ""
 				}				
@@ -19567,13 +19123,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller, Intriga",
 			"stations": [
 				{
-				"kodi1": "https://upstream.to/embed-pb63286x581g-920x360.html", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
 				"torrent": "magnet:?xt=urn:btih:31BA4E24A339D0689CDAE980AC8DB649AFBB27AF&dn=BRRip",
-				"torrent4k": "",
-				"GDRIVE": "https://drive.google.com/file/d/1Qs2iEGGuSd5uTl16zBM-fj1F2On5H_O5/view?usp=sharing"
+				"torrent4k": ""
 				}		
 			]
 			},
@@ -19585,11 +19136,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/znum142c/", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/jg8yu/",
-				"kodi3": "https://femax20.com/v/n-e18i27my84lml", 
-				"kodi4": "https://vidoza.net/NO_LINK/gounlimited.to/embed-d52a88taob1u.html", 
-				"kodi5": "https://vidoza.net/embed-eicaucg7n74j-920x360.html"
 				"torrent": "magnet:?xt=urn:btih:7468434a5ad6d5ed6b594c9bd8fc4540ea0e1dff",
 				"torrent4k": ""
 				}			
@@ -19603,11 +19149,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller, Intriga",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/gnn436xwa4v9qj", "colorserver1": "lime",
-				"kodi2": "https://cloudvideo.tv/embed-tn6kase8m1ym-920x360.html",
-				"kodi3": "https://vidoza.net/NO_LINK/clipwatching.com/embed-ut27glj07c6l.html", 
-				"kodi4": "https://vidoza.net/embed-1mqe3j6dx370-920x360.html", 
-				"kodi5": "https://mixdrop.co/e/3nnrjdp3fm8rke"
 				"torrent": "magnet:?xt=urn:btih:BEC57595E39735FC47F478078A8B1DE950784765",
 				"torrent4k": ""
 				}			
@@ -19621,11 +19162,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Romance, Drama",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/x2l4bok6x/", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/j7r0cbi1z",
-				"kodi3": "https://femax20.com/v/0pgqysl072je030", 
-				"kodi4": "https://vidoza.net/NO_LINK/clipwatching.com/embed-dne9q8am3sa4.html", 
-				"kodi5": "https://vidoza.net/NO_LINK/clipwatching.com/embed-2gvii7yh3xrj.html"
 				"torrent": "magnet:?xt=urn:btih:80bba057a8c5b3ecf6465bf69d68a8d1c6c1b177",
 				"torrent4k": ""
 				}			
@@ -19639,11 +19175,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/pxipuolz/", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://vidoza.net/NO_LINK/gounlimited.to/embed-7zmpzi7ojj0d.html", 
-				"kodi4": "https://femax20.com/v/j8qdlsd65gxzxer", 
-				"kodi5": "https://embed.mystream.to/73uu6tjs4pri"
 				"torrent": "magnet:?xt=urn:btih:0364ebc902fbfb96991a92380f0b6436d5a1c949",
 				"torrent4k": ""
 				}			
@@ -19657,11 +19188,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama, Comedia",
 			"stations": [
 				{
-				"kodi1": "https://vidia.tv/embed-x8y055rgi7c2-920x360.html", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/qlvrrmzvtqn7k3", 
-				"kodi3": "https://vidoza.net/NO_LINK/fastplay.to/y8kxgexh67xh.html", 
-				"kodi4": "https://femax20.com/v/ky-j1u33jpwen7g", 
-				"kodi5": "https://uqload.com/89wzfr9qih63.html"
 				"torrent": "magnet:?xt=urn:btih:B83C6733A176EACA16D7298561ADAC7DE0897DA4", 
 				"torrent4k": ""
 				}
@@ -19675,11 +19201,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Aventuras, Fantastico",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/8uqa2qm4c/", "colorserver1": "lime",
-				"kodi2": "https://cloudvideo.tv/embed-2iw7x49m9j5q-920x360.html",
-				"kodi3": "https://femax20.com/v/eqd-kb-824mn60q", 
-				"kodi4": "https://femax20.com/v/jl0qysdq7-j06ge", 
-				"kodi5": "https://vidoza.net/embed-d2su3jd79xz9-920x360.html"
 				"torrent": "magnet:?xt=urn:btih:AE99150AC48C80DD48AC98549CA34721C1C20470",
 				"torrent4k": "magnet:?xt=urn:btih:0CDB3347491FEB28E8FA57B81E0EA9224BFD2ECE",
 				}			
@@ -19693,10 +19214,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/a3r02nxfkw5w/", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https://femax20.com/v/8egndu8rqd2j3k1", 
 				"torrent": "magnet:?xt=urn:btih:52F55585D8DFA4C2EB6DB6E46C0FDAF84FE1C95F",
 				"torrent4k": ""
 				}			
@@ -19710,11 +19227,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"kodi1": "https://femax20.com/v/54vypr-0zxv", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://vidoza.net/NO_LINK/gounlimited.to/embed-mywfuvphezpv.html", 
-				"kodi4": "https://femax20.com/v/yx7gkiejmk4n76x", 
-				"kodi5": "https://embed.mystream.to/ik6lzc454jgh"
 				"torrent": "magnet:?xt=urn:btih:57A88C4DD2C9F70DC1D2A3AE3838A903EE25376F",
 				"torrent4k": ""
 				}		
@@ -19728,20 +19240,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/j997zzn6c03xqg", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK/clipwatching.com/embed-2fyzqetovogw.html",
-				"kodi3": "https://vidoza.net/NO_LINK/clipwatching.com/embed-sy5xsx2dayyd.html", 
-				"kodi4": "https://vidoza.net/NO_LINK/clipwatching.com/embed-j4yvlqph799f.html", 
-				"kodi5": "https://vidoza.net/embed-35r3zwyh0qrm-920x360.html"
 				"torrent": "magnet:?xt=urn:btih:fd098280a6a47b4b44c1db6d52a40809697fa983", magnet:?xt=urn:btih:e3d489cda057124d73b7cd42d080209a4a5cea4c
-				"torrent4k": "",				
-				"GDRIVE": "https://drive.google.com/file/d/1YVxTkQSgyATWMOIZiNMGYHJO4PdCWFFE/view?usp=sharing"
-				https://mixdrop.co/e/qllz9v7nt3rp8g
-				https://vidoza.net/NO_LINK/clipwatching.com/embed-tjwbzxfadpbr.html
-				https://vidoza.net/NO_LINK/clipwatching.com/embed-sy5xsx2dayyd.html
-				https://vidoza.net/NO_LINK/clipwatching.com/embed-0l3wz2u46su4.html			
-				https://vidoza.net/embed-h61y4eboscmk-920x360.html
-				"
+				"torrent4k": ""
 				}		
 			]
 			},
@@ -19753,13 +19253,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Accion, Aventuras",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/zerukj2bom/", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/uka5p0mmaacgd",
-				"kodi3": "https://femax20.com/v/mx1qgh54pwrlpdl", 
-				"kodi4": "https://femax20.com/v/721g7hgxg2-ew3n", 
-				"kodi5": "https://vidoza.net/embed-yjkjiuvpdmp8-920x360.html"
 				"torrent": "magnet:?xt=urn:btih:71735e78011680d70f6b51ef8d56423fea741b1f",
-				"torrent4k": "magnet:?xt=urn:btih:48CB4DF7FDC31E1A3EDF77D7E31B35DC7D2E7CED",
+				"torrent4k": "magnet:?xt=urn:btih:48CB4DF7FDC31E1A3EDF77D7E31B35DC7D2E7CED"
 				}		
 			]
 			},
@@ -19771,10 +19266,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Aventuras, Intriga, Drama",
 			"stations": [
 				{
-				"kodi1": "https://vidoza.net/NO_LINK", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK/clipwatching.com/0i5rtlu7eqkl",
-				"kodi3": "https://vidoza.net/NO_LINK/clipwatching.com/nba49mgaci26", 
-				"kodi4": "https://vidoza.net/NO_LINK/clipwatching.com/a214azyunh7d.html", 
 				"torrent": "magnet:?xt=urn:btih:b1d637ca6cbedd97a31b245f81b3fcd103e20aec",
 				"torrent4k": ""
 				}		
@@ -19788,11 +19279,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia, Drama",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/gnn3qx09addxgl", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK/clipwatching.com/embed-mjf8uuwqwr6m.html",
-				"kodi3": "https://femax20.com/v/mr643h5nl58ry63", 
-				"kodi4": "https://vidoza.net/NO_LINK/clipwatching.com/embed-cda4k5bvxmq1.html", 
-				"kodi5": "https://vidoza.net/NO_LINK/gounlimited.to/embed-ze3bmxm8svty-920x360.html"
 				"torrent": "magnet:?xt=urn:btih:567853FB7AF70A5679F6D5B340E5BD52E4D15DA6",
 				"torrent4k": ""
 				}			
@@ -19806,12 +19292,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller",
 			"stations": [
 				{
-				"kodi1": "https://vidoza.net/NO_LINK", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://femax20.com/v/5qgx4bdkkyzyy65", 
-				"kodi4": "https://vidoza.net/NO_LINK/gounlimited.to/embed-lijlbp1h2lju.html", 
 				"torrent": "magnet:?xt=urn:btih:D979AE19E0A9EC672297F778C23CED57242E3029",
-				"torrent4k": "magnet:?xt=urn:btih:74E8BC40CA0593A51202ED10FB66296FD634D088",
+				"torrent4k": "magnet:?xt=urn:btih:74E8BC40CA0593A51202ED10FB66296FD634D088"
 				}		
 			]
 			},
@@ -19823,10 +19305,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion",
 			"stations": [
 				{
-				"kodi1": "https://aparat.cam/emykg07nwdhj", "colorserver1": "red",
-				"kodi2": "https://aparat.cam/0aiu0nbdzefm",
-				"kodi3": "https://vidoza.net/NO_LINK/clipwatching.com/8wdr8s4qbhy5", 
-				"kodi4": "https://vidoza.net/NO_LINK/clipwatching.com/7m1gmpn5if71", 
 				"torrent": "magnet:?xt=urn:btih:82594d720639f3bb0a02ebd6267c83284d801675",
 				"torrent4k": ""
 				}			
@@ -19840,10 +19318,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia, Accion",
 			"stations": [
 				{
-				"kodi1": "https://aparat.cam/ket4eun9dwb1", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK/clipwatching.com/embed-e9wmfwg95cbb.html",
-				"kodi3": "https://vidoza.net/NO_LINK/clipwatching.com/295zit5d9kv8/15736224307qyj3.mp4.html", 
-				"kodi4": "https://vidoza.net/NO_LINK/clipwatching.com/fnqqjydaxaqx", 
 				"torrent": "magnet:?xt=urn:btih:b7e87f38f1ef2e2b0780b8e23a0842e00dd55640",
 				"torrent4k": ""
 				}		
@@ -19857,11 +19331,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia, Romance, Fantastico",
 			"stations": [
 				{
-				"kodi1": "https://femax20.com/v/809e-w7d7vj", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://vidoza.net/NO_LINK/gounlimited.to/embed-j8soa717iasi.html", 
-				"kodi4": "https://femax20.com/v/j8qdlsd65g0rggn", 
-				"kodi5": "https://embed.mystream.to/sytlqv8rswak"
 				"torrent": "magnet:?xt=urn:btih:d16df74cc02aa4160a06da9f2bb6c69d8eea8722",
 				"torrent4k": ""
 				}			
@@ -19901,13 +19370,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Animacion, Comedia",
 			"stations": [
 				{
-				"kodi1": "https://femax20.com/v/g42-xc-lwz-6ldn", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://femax20.com/v/l-qryin53m83ejp", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
 				"torrent": "magnet:?xt=urn:btih:bc83d245658956ea2d8f1f6b3328730e0adc422e", 
-				"torrent4k": "",				
-				"GDRIVE": "https://drive.google.com/file/d/1l764L-eOlNmDAWI7lYhLutv4499aotst/view?usp=sharing""
+				"torrent4k": ""
 				}		
 			]
 			},
@@ -19919,11 +19383,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Aventuras, Comedia",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/1v9lx4e8an91zq", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/gkszvw631/",
-				"kodi3": "https://femax20.com/v/jl0qysdq7epx13d", 
-				"kodi4": "https://femax20.com/v/11g5xij313m41kq", 
-				"kodi5": "https://vidoza.net/NO_LINK/gounlimited.to/embed-71o7jdsd9ttr.html"
 				"torrent": "magnet:?xt=urn:btih:e1ab12d81db2492225e405b64beaee8c675296a1", 
 				"torrent4k": ""
 				}			
@@ -19937,10 +19396,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/dopbcck7sch", "colorserver1": "aqua",
-				"kodi2": "https://ok.ru/video/1123406711357",
-				"kodi3": "https://ok.ru/video/1062214961872", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
 				"torrent": "magnet:?xt=urn:btih:05e4775e063b3161075cfd95a6f1cdd332a0a6a3",
 				"torrent4k": ""
 				}		
@@ -19954,11 +19409,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/gdvufbvy6", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/8z7qxa11d/",
-				"kodi3": "https://femax20.com/v/28ygrt2qgxxmqxw", 
-				"kodi4": "https://vidoza.net/NO_LINK/gounlimited.to/embed-vq2n2hmirwaf.html", 
-				"kodi5": "https://mstream.fun/wfr8qhkrg11v"
 				"torrent": "magnet:?xt=urn:btih:2464d6c6d77bf05b6540d0a52a9a0b896258cd0c",
 				"torrent4k": ""
 				}			
@@ -19985,13 +19435,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"kodi1": "https://femax20.com/v/5xqr6adex6385ln", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
 				"torrent": "magnet:?xt=urn:btih:FF44349AEEE507812DFAD91BBC18CA24154F0D32&dn=BRRip",
-				"torrent4k": "",
-				"GDRIVE": "https://drive.google.com/file/d/1qmGRalcOXh-sCZovQJxRcPO_hfhnOkXp/view?usp=sharing"
+				"torrent4k": ""
 				}		
 			]
 			},
@@ -20003,11 +19448,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Intriga, Thriller",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/wnk6zwqztjgdmd", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/sqxlbpxudu/",
-				"kodi3": "https://femax20.com/v/wp-4runn2xw4rz6", 
-				"kodi4": "https://femax20.com/v/g2r4mh-0y-l1p03", 
-				"kodi5": "https://vidoza.net/embed-tpetu2pto4xc-920x360.html"
 				"torrent": "magnet:?xt=urn:btih:85c2ac4facf59e9b1d24362f623cc2e3f7b3eb74",
 				"torrent4k": ""
 				}			
@@ -20021,11 +19461,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia",
 			"stations": [
 				{
-				"kodi1": "https://femax20.com/v/8ne40b87nj62zmq", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/f/9n7ooeg7a79erp",
-				"kodi3": "https://upstream.to/danzig8owbeg", 
-				"kodi4": "https://cloudvideo.tv/us5u9xmuxmor", 
-				"kodi5": "https://femax20.com/v/m0y5eu5lyk1k82d"
 				"torrent": "magnet:?xt=urn:btih:9A72CB383AF9717B97A7BE9DDF6266EC2CDE329D&dn=HD720",  magnet:?xt=urn:btih:0F1FF43701299164479926468D03FC655C72650A&dn=BRRip
 				"torrent4k": ""
 				}		
@@ -20039,13 +19474,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/f/pkn34nn1belq83", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
 				"torrent": "magnet:?xt=urn:btih:D2DC22627703DB1D84DD8948B708CBE46F575EFE&dn=BRRip",
-				"torrent4k": "",
-				"GDRIVE": "https://drive.google.com/file/d/12Qv1bgygelErrXh1MBgAf-ty5zq1i5rw/view?usp=sharing"
+				"torrent4k": ""
 				}		
 			]
 			},
@@ -20058,7 +19488,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{ 
 				"torrent": "magnet:?xt=urn:btih:b6a4051db1927a7637898801f8e0e83859934ed9",
-				"torrent4k": "magnet:?xt=urn:btih:4e00fe85ad484ec025f99ca489c5f291fb41d4e9",
+				"torrent4k": "magnet:?xt=urn:btih:4e00fe85ad484ec025f99ca489c5f291fb41d4e9"
 				}		
 			]
 			},
@@ -20070,11 +19500,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia",
 			"stations": [
 				{
-				"kodi1": "https://femax20.com/v/dm7n2fxw2-jk36l", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK/clipwatching.com/embed-sfc19umdbasg.html",
-				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://vidoza.net/embed-czd5o2ve0c8i-920x360.html"
 				"torrent": "magnet:?xt=urn:btih:08f0d3e597bbb62ca57ff230db0f933ec84d59b8",
 				"torrent4k": ""
 				}			
@@ -20101,11 +19526,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Musical, Fantastico",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/a84iwoc", "colorserver1": "lime",
-				"kodi2": "https://femax20.com/v/65g86s054w-1626",
-				"kodi3": "https://vidoza.net/NO_LINK/gounlimited.to/embed-mrxxsevr0fed.html", 
-				"kodi4": "https://vidoza.net/NO_LINK/gounlimited.to/embed-ccddrzs49he0.html", 
-				"kodi5": "https://embed.mystream.to/kt4h4im4qleh"
 				"torrent": "magnet:?xt=urn:btih:d6e919aa3fda5ff59cf633c8a5ba90320b630e8c",
 				"torrent4k": ""
 				}			
@@ -20119,10 +19539,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller, Accion",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/xe5rjxdw3/", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK/clipwatching.com/embed-5h6e7xxx4caf.html",
-				"kodi3": "https://femax20.com/v/3znegsmp8de144l", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
 				"torrent": "magnet:?xt=urn:btih:dd73a480d2db16f1298bfff6d5de46a17cc99b5e",
 				"torrent4k": ""
 				}			
@@ -20149,10 +19565,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Animacion, Comedia, Infantil",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/td5ea928i", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://femax20.com/v/-dlk5hp5-qxn4ky", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
 				"torrent": "magnet:?xt=urn:btih:F11A19B33E8858F057CEE6754249CC42982F149B",
 				"torrent4k": ""
 				}			
@@ -20166,10 +19578,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"kodi1": "https://femax20.com/v/j7npkcd6wjwn8r-", "colorserver1": "aqua",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
 				"torrent": "magnet:?xt=urn:btih:aac741aafd6894be356c918b8b49e4e126bbb95c",
 				"torrent4k": ""
 				}			
@@ -20196,11 +19604,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"kodi1": "https://vidoza.net/NO_LINK", "colorserver1": "aqua",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://uqload.com/embed-8w54o9dzj9m4.html"
 				"torrent": "magnet:?xt=urn:btih:F8B95C5E624D3478FA8A84E11D8C6C09C2F79C6B",
 				"torrent4k": ""
 				}			
@@ -20214,10 +19617,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Romance, Drama",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/8ibrj57uhb0", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK/clipwatching.com/embed-47swem1vtoms.html",
-				"kodi3": "https://femax20.com/v/11g5xij-3l4w1yx", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
 				"torrent": "magnet:?xt=urn:btih:9C30644CE5AC9357BFBD1A92FBD2728CB212E255",
 				"torrent4k": ""
 				}			
@@ -20231,11 +19630,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"kodi1": "https://vidoza.net/NO_LINK/fastplay.to/uscxazfs0nxm.html", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/3nn6rmoksm619gx", 
-				"kodi3": "https://cloudvideo.tv/embed-b0k33jwlk53n.html", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://uqload.com/zyzifs7ve3k1.html"
 				"torrent": "magnet:?xt=urn:btih:D1469EA673E7526A5CF1609E52577034E101193F",
 				"torrent4k": ""
 				}
@@ -20249,15 +19643,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Drama, Ciencia ficcion",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/9nw4400kux10kv", "colorserver1": "lime",
-				"kodi2": "https://cloudvideo.tv/embed-prbtzrlpx3fe-920x360.html",
-				"kodi3": "https://vidoza.net/NO_LINK/clipwatching.com/embed-2p5m1tagfzlb.html", 
-				"kodi4": "https://femax20.com/v/2w47zu2rk7pnny8", 
-				"kodi5": "https://vidoza.net/NO_LINK/gounlimited.to/embed-jcwm57b0bh1y.html"
 				"torrent": "magnet:?xt=urn:btih:EF0C81CE83F4566F0B9654D6F506A42B6F2566CD",
-				"torrent4k": "",
-				"GDRIVE": "https://drive.google.com/file/d/1KeQx3R0zLudlFDZECwTdfGtAq2DtspOw/view?usp=sharing"
-				}		
+				"torrent4k": ""
 			]
 			},
 			{
@@ -20267,11 +19654,9 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"info": "Ambientada en la Inglaterra de 1947, trata sobre un periodista que al investigar una serie de suicidios le lleva a la conexion del encubrimiento de uno de los crimenes mas notorios de Stalin por parte del gobierno britanico",
 			"genero": "Thriller",
 			"stations": [
-				{ 
-				"kodi5": "https://streamtape.com/e/zKA84qrxk6tYL8O/El_Ultimo_Testigo_%282018%29.mp4"
+				{
 				"torrent": "magnet:?xt=urn:btih:def02437a5743c0838f230011ad0a3f48a95dca7",
-				"torrent4k": "",
-				"GDRIVE": "https://drive.google.com/file/d/1cid9Q4j0I7lQ1f-p9fTbvNwhsq5Cn5tl/view?usp=sharing"
+				"torrent4k": ""
 				}		
 			]
 			},
@@ -20283,10 +19668,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"kodi1": "https://femax20.com/v/d-14ysxq8ze--z6", "colorserver1": "aqua",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
 				"torrent": "magnet:?xt=urn:btih:91b34e1eacf0cba9ca5a8625c7f65f5ffbb20cd7",
 				"torrent4k": ""
 				}			
@@ -20300,10 +19681,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"kodi1": "https://vidoza.net/NO_LINK", "colorserver1": "red",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
 				"torrent": "magnet:?xt=urn:btih:7a8bd7cc6c9d49d139d8c2e11494568cae1e104a",
 				"torrent4k": ""
 				}			
@@ -20317,11 +19694,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama, Comedia",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/jjz42lru4", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK/clipwatching.com/embed-p1uch8guwsgc.html",
-				"kodi3": "https://femax20.com/v/q8wm4se4040zq1l", 
-				"kodi4": "https://femax20.com/v/3gxnpsm60-60d4r", 
-				"kodi5": "https://vidoza.net/embed-1o9qw28ft9jw-920x360.html"
 				"torrent": "magnet:?xt=urn:btih:0eeed6a8dcc5afc078344e9156a840af97b22faf",
 				"torrent4k": ""
 				}			
@@ -20335,11 +19707,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/l6nd747xc1jq7o", "colorserver1": "lime",
-				"kodi2": "https://femax20.com/v/6wq3kt061wyp4gd",
-				"kodi3": "https://femax20.com/v/kerqxt3jdke3l07", 
-				"kodi4": "https://femax20.com/v/dm7n2fx8dknpqw7", 
-				"kodi5": "https://vidoza.net/NO_LINK/gounlimited.to/embed-h6zk6816gpy4.html"
 				"torrent": "magnet:?xt=urn:btih:BEC4EA88CED727DAE1E8BF88D325DBD61E5FA466",
 				"torrent4k": ""
 				}			
@@ -20353,10 +19720,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/yzd29dob8n/", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/zew3hyw40",
-				"kodi3": "https://femax20.com/v/l032eunz7344gm3", 
-				"kodi4": "https://femax20.com/v/dm7n2fxw-ljx062", 
 				"torrent": "magnet:?xt=urn:btih:13b3b19441543daf9e4874c388e7b0667f0ed8d5",
 				"torrent4k": ""
 				}			
@@ -20370,14 +19733,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"kodi1": "https://vidoza.net/NO_LINK/fastplay.to/5sgcx9irrkfg.html", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/zpooxr96bx117q", 
-				"kodi3": "https://cloudvideo.tv/embed-u60tihhg8iu6.html", 
-				"kodi4": "https://femax20.com/v/mynj4u55p-xeqr1", 
-				"kodi5": "https://uqload.com/xu8ldi6q7edr.html"
 				"torrent": "magnet:?xt=urn:btih:6BAD4C38FB08D5C5B2D4CA6B33AB4BC4BB1F32A0",
-				"torrent4k": "",		
-				"GDRIVE": "https://drive.google.com/file/d/1N2X38bAJbAtXUb_Ch3HQxyhNbxKvlndr/view?usp=sharing"
+				"torrent4k": ""
 				}		
 			]
 			},
@@ -20390,8 +19747,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{ 
 				"torrent": "magnet:?xt=urn:btih:F7EDEEF6E9613090DDE8D708B8333B2F545923AA&HD720",  magnet:?xt=urn:btih:992e0c236c7bb2fa0519b6ca282d08b6ac175234&HD720
-				"torrent4k": "",
-				"GDRIVE": "https://drive.google.com/file/d/1-Xv0IP_MaGmtj2L9MeQqt0PMUeUrED0l/view?usp=sharing"
+				"torrent4k": ""
 				}		
 			]
 			},
@@ -20416,11 +19772,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Ciencia ficcion, Thriller",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/5g8x1rdfe2", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/wnk03onqadqvrk",
-				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://femax20.com/v/m8qpxs58-yw0w0g"
 				"torrent": "magnet:?xt=urn:btih:260893fcf42710e5e43e8e70c0f5b1814dfa402b",
 				"torrent4k": ""
 				}			
@@ -20434,10 +19785,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller, Drama",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/y3onud3rpm", "colorserver1": "lime",
-				"kodi2": "https://femax20.com/v/58z1lidq4z5r84q",
-				"kodi3": "https://femax20.com/v/n-e18i2r84k4zl1", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
 				"torrent": "magnet:?xt=urn:btih:238bdca948252afbfe413d9986d5f330848ddce7",
 				"torrent4k": ""
 				}			
@@ -20451,12 +19798,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"url": "https://www.ecartelera.com/video/24400/24420.mp4",
-				"kodi1": "https://mixdrop.co/e/rwp8gommi8lw6k", "colorserver1": "lime",
-				"kodi2": "https://femax20.com/v/p2yjmfmm7e73xnn", 
-				"kodi3": "https://cloudvideo.tv/embed-kkcf1wy370m2.html", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
-				"kodi5": "https://femax20.com/v/nyxj6u221ljqqqw"
 				"torrent": "magnet:?xt=urn:btih:0a713ee7201b63851dfa6d3afd5c9cf165a37111", 
 				"torrent4k": ""
 				}			
@@ -20470,11 +19811,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"kodi1": "https://vidoza.net/NO_LINK", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://femax20.com/v/721g7hgn6p8yrj0", 
-				"kodi4": "https://vidoza.net/NO_LINK/gounlimited.to/embed-recg1s0u5dl9.html", 
-				"kodi5": "https://embed.mystream.to/to7bq4df4nti"
 				"torrent": "magnet:?xt=urn:btih:ED91EF6D5017DED101D51776644F0B3D68A50BD0",
 				"torrent4k": ""
 				}			
@@ -20488,10 +19824,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/2zct8wg/", "colorserver1": "aqua",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
 				"torrent": "magnet:?xt=urn:btih:39436A3824373647B00C84F620CEE8E51F577B2C",
 				"torrent4k": ""
 				}			
@@ -20505,11 +19837,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama, Comedia",
 			"stations": [
 				{
-				"kodi1": "https://vidoza.net/NO_LINK/fastplay.to/vjeqr54u2pee.html", "colorserver1": "lime",
-				"kodi2": "https://mixdrop.co/e/vn7kkdx4tnmkg3", 
-				"kodi3": "https://cloudvideo.tv/embed-sfcedoyyf3i7.html", 
-				"kodi4": "https://vidoza.net/NO_LINK/clipwatching.com/embed-tyywn0lyfjpa.html", 
-				"kodi5": "https://femax20.com/v/lnxj2inn17j4xjz"
 				"torrent": "magnet:?xt=urn:btih:4642DF98B1F313D61BFA865BC3B48374DE43BA1A", 
 				"torrent4k": ""
 				}	
@@ -20523,14 +19850,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller, Drama",
 			"stations": [
 				{
-				"kodi1": "https://vidoza.net/NO_LINK", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://femax20.com/v/d8k0xfxl7d48de2", 
-				"kodi4": "https://vidoza.net/NO_LINK/gounlimited.to/embed-1juig5s9kvd3.html", 
-				"kodi5": "https://uqload.com/embed-iwsy7bt2kdfh.html"
 				"torrent": "magnet:?xt=urn:btih:3A4446B90B462F4B7CD9A91A97FFB5AE8E8DC7C6",
-				"torrent4k": "",
-				"GDRIVE": "https://drive.google.com/file/d/1teRRv2FQ9m4qQefBi8YlAob1EnXLPoYH/view?usp=sharing"
+				"torrent4k": ""
 				}		
 			]
 			},
@@ -20542,30 +19863,20 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Romance, Fantastico, Drama",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/j9qxpmpphrgr7l", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK/clipwatching.com/embed-j2ktbhr64hal.html",
-				"kodi3": "https://femax20.com/v/66ygzs0067j8dl0", 
-				"kodi4": "https://vidoza.net/NO_LINK/gounlimited.to/embed-dd8fm87e0cio.html", 
-				"kodi5": "https://vidoza.net/NO_LINK/gounlimited.to/embed-u5gery1ewz72.html"
 				"torrent": "magnet:?xt=urn:btih:c55c5e27f41c7e709e7f3618e508cbbc7f5b8287",
 				"torrent4k": ""
 				}			
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Intriga, A2018, Letra E, Dinamarca, Años 80, Crimen, Policiaco, Secuela, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Intriga, A2018, Letra E, Dinamarca, Años 80, Crimen, Policiaco, Secuela, Sagas DepartmentQ, ",
 			"name": "Expediente 64: Los Casos Del Departamento Q (2018)","coloryear": "aqua",
 			"image": "https://www.ecartelera.com/carteles/14500/14543/002_p.jpg",
 			"info": "La historia arranca con un descubrimiento: tras una pared falsa, se hallan tres cadaveres momificados alrededor de una mesa, y junto a un asiento libre. El detective Carl Mørck y su asistente Assad seguiran las pistas hasta una institucion donde tenian lugar experimentos medicos. Alli, intentaran descubrir quien debia ocupar el cuarto asiento, en este nuevo caso del Departamento Q",
 			"genero": "Thriller, Intriga",
 			"stations": [
 				{
-				"kodi1": "https://mixdrop.co/e/sdzkd/", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://femax20.com/v/721g7hgne1qqlew", 
-				"kodi4": "https://vidoza.net/NO_LINK/gounlimited.to/embed-lptsyh8e8o6u.html", 
-				"kodi5": "https://embed.mystream.to/s4uy8bu23qpy"
-				"torrent": "magnet:?xt=urn:btih:6741fa0dfc8fa7c22c44eaa91b562eca1100d333",
+				"torrent": "magnet:?xt=urn:btih:6741fa0dfc8fa7c22c44eaa91b562eca1100d333&dn=1080",
 				"torrent4k": ""
 				}			
 			]
@@ -30078,6 +29389,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, A2016, Letra R, Dinamarca, Años 80, Crimen, Policiaco, Secuela, Sagas DepartmentQ, ",
+			"name": "Redencion: Los casos del Departamento Q (2016)","coloryear": "purple",
+			"image": "https://www.themoviedb.org/t/p/original/72T8HXXAHEkhM46t63PAtDUndof.jpg",
+			"info": "Una antiguo mensaje es encontrado en una botella en Escocia tras un largo viaje a través del océano. La nota es difícil de descifrar, pero cuando el investigador danés del departamento Q lo consigue, tratará junto a su particular equipo de resolver otro diabólico caso abandonado a pesar de que las huellas de este prácticamente han desaparecido",
+			"genero": "Thriller, Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:077F26432D2AA81EC6032EF9AF12F2900C0BABFD&dn=HDRip",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2016, Letra R, Reino Unido, ",
 			"name": "Rescate Millonario (2016)","coloryear": "purple",
 			"image": "https://www.themoviedb.org/t/p/original/xt5FYrOeCtO7fEIWwLxcF8EJb6T.jpg",
@@ -31430,6 +30754,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Intriga, A2014, Letra P, Dinamarca, Años 80, Crimen, Policiaco, Secuela, Sagas DepartmentQ, ",
+			"name": "Profanacion: Los casos del Departamento Q (2014)","coloryear": "turquoise",
+			"image": "https://www.themoviedb.org/t/p/original/Au7nZ8jLQWUQKizSrO4qRfUe9WI.jpg",
+			"info": "El detective Carl Mørck y su socio Assad, del Departamento Q de la Policía de Copenhague, especializada en casos especiales, investigan el brutal asesinato de dos jóvenes mellizos en una casa de verano. La película relata la apertura del caso, que fue cerrado con la confesión de un personaje marginal del pueblo, a pesar de que la policía sospechaba de un grupo de estudiantes de clase alta",
+			"genero": "Intriga, Thriller",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:D5F38FA808DE849C5BF98D2B3F3D091C2C43F77F&dn=HDRip",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Comedia, 1Aventuras, 1Infantil, A2014, Letra R, EEUU, FavPaola, Sagas Rio, ",
 			"name": "Rio 2 (2014)","coloryear": "turquoise",
 			"image": "https://www.ecartelera.com/carteles/1800/1845/003_p.jpg",
@@ -31977,6 +31314,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"kodi4": "https://vidoza.net/NO_LINK", 
 				"torrent": "magnet:?xt=urn:btih:EADB8608BF14D84BD4BA5AF45839C50B7AF0F60E",
 				"torrent4k": "magnet:?xt=urn:btih:FBB3AE54E4C163D41924D7B6D6A49DB397058229",
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Intriga, A2013, Letra M, Dinamarca, Años 80, Crimen, Policiaco, Secuela, Sagas DepartmentQ, ",
+			"name": "Misericordia: Los casos del Departamento Q (2013)","coloryear": "lawngreen",
+			"image": "https://www.themoviedb.org/t/p/original/83FWhpcrUbZ5gwvLPGkg9pMcBT1.jpg",
+			"info": "Después de cometer un error que costó la vida de uno de sus colegas y dejó tetrapléjico a su mejor amigo, el inspector Carl Mørck (Nikolaj Lie Kaas) atraviesa una de las peores épocas de su vida. Su sentimiento de culpabilidad aumenta cuando su jefe y la prensa dudan de su actuación. Relegado a un nuevo departamento dedicado a casos no resueltos, Carl, junto a su nuevo compañero de origen sirio Hafez al-Assad (Fares Fares), ve la oportunidad de demostrar su valía al descubrir las numerosas irregularidades cometidas en el caso de Marete Lyngaard (Sonja Richter). Cuando en 2002, esta joven promesa de la política danesa desapareció mientras realizaba un viaje en ferry, la policía decidió cerrar el caso por falta de pruebas. Este es el nacimiento del Departamento Q y su primer caso por resolver...",
+			"genero": "Intriga, Thriller",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:06DFF72AEE6B4875C7B7529CB5A967AC6FDE6CB0&dn=HDRip",
+				"torrent4k": ""	
 				}		
 			]
 			},
