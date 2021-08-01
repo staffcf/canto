@@ -18,13 +18,24 @@
 
 
 <item>
-<title>[COLOR white] Kenshin,El Guerrero samurai:El Principio [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.2[/COLOR]</title>    
+<title>[COLOR white] Kenshin,El Guerrero samurai:El Principio [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.9[/COLOR]</title>    
 <genre>Acción,Drama,Japón feudal,Samuráis,Venganza</genre>
 <year>2021</year>
 <thumbnail>https://i.imgur.com/tAdyPyr.jpg</thumbnail>
 <fanart>https://i.imgur.com/QDUEJ8n.jpg</fanart>
-<info>Kenshin Himura (Takeru Satoh) es un legendario espadachín. Tras la Restauración Meiji, ha dejado de matar con la espada. Intenta llevar una vida tranquila con Kaoru Kamiya que dirige una escuela de espadachines en el pueblo. Todo cambia cuando el restaurante Akabeko, que es el lugar favorito de Kenshin para comer, es destruido y él encuentra una nota en la que pone "Junchu".<info>
+<info>Kenshin Himura inicia la búsqueda de un misterioso traficante de armas llamado Enishi Yukishiro que controla el bajo mundo de China. Durante su misión se desvelará también el secreto de "Jujishou", un elemento íntimamente ligado al propio Himura.<info>
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=eW-nPWWqz1k"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/42njphz6610r857"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.to/f/1v8nkkedukqpkw4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/lgz97v2b0nxc.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-6uvoi4n8wv2w.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1eEmJQGd-nd4x6lc65e9HxcfHgzwZZlDD/view"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Kenshin,El Guerrero samurai:El Final [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.5[/COLOR]</title>    
+<genre>Acción,Drama,Japón feudal,Samuráis,Venganza</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/gWgYwfb.jpg</thumbnail>
+<fanart>https://i.imgur.com/oNB6Ufz.jpg</fanart>
+<info>Kenshin Himura (Takeru Satoh) es un legendario espadachín. Tras la Restauración Meiji, ha dejado de matar con la espada. Intenta llevar una vida tranquila con Kaoru Kamiya que dirige una escuela de espadachines en el pueblo. Todo cambia cuando el restaurante Akabeko, que es el lugar favorito de Kenshin para comer, es destruido y él encuentra una nota en la que pone "Junchu".<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=eW-nPWWqz1k"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/10rjdcj252-1eee"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.to/f/n04g987gagwnjr"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/rxljpymoopnq.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/4yfgoncxqjj9"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1wfNzglmFsHNDLj8aW26jEVFGvm7cP0ai/view"}</urlsolve>
 </item>
 
 
@@ -614,15 +625,6 @@
 </item>
 
 
-<item>
-<title>[COLOR white]  Samurai X  [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.5[/COLOR]</title>    
-<genre>Acción,Drama,Comedia,Aventuras</genre>
-<year>2021</year>  
-<thumbnail>https://i.imgur.com/GQz2WXl.jpg</thumbnail>
-<fanart>https://i.imgur.com/rSAyEPV.jpg</fanart>
-<info>Kenshin Himura (Takeru Satoh) es un espadachín legendario. Después de la Restauración Meiji, dejó de matar con la espada. Intenta vivir una vida pacífica con Kaoru Kamiya, quien dirige una escuela de esgrima en la aldea. Las cosas cambian. El restaurante Akabeko, que es el lugar favorito para comer de Kenshin Himura, es destruido. Kenshin Himura encuentra una nota escrita "Junchu" allí.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=ndUd5eZ4dGU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/q3nx0iegdqqkznd"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/qle4rlzxuoxr8m"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/ge3oe4tv7egc"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/l28vpg34iwbx"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1wfNzglmFsHNDLj8aW26jEVFGvm7cP0ai/view"}</urlsolve>
-</item>
 
 
 <item>
