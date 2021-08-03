@@ -6,16 +6,42 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
-			"name": "TAGS",
-			"image": "",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Thriller, A2020, Letra L, EEUU, ",
+			"name": "Luchar o morir (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/gTNFvMYpSgs9njLELe0ljytIBS.jpg",
+			"info": "Zoe Hull, de 17 años, no está manejando bien el fallecimiento reciente de su madre, ya que a veces habla con ella como si estuviera presente, y está resentida con su padre por su falta de emociones. Su mejor amigo, Lewis, quiere que su relación se convierta en algo más. Pero Zoe lo único que quiere es acabar este año de instituto e ir a la universidad para tener un nuevo comienzo. En lugar de eso, su instituto es atacado por cuatro estudiantes armados que quieren hacer una matanza",
+			"genero": "Drama, Thriller",
 			"stations": [
-			{					
-				year:A2020,year:A2019,year:A2018,year:A2017,year:A2016,year:A2015,year:A2014,year:A2013,year:A2012,year:A2011,year:A2010,year:A2009,year:A2008,year:A2007,year:A2006,year:A2005,year:A2004,year:A2003,year:A2002,year:A2001,year:A2000,year:B2000,
-	 
-				genero:Accion,genero:Animacion,genero:Aventuras,genero:Belico,genero:Biografico,genero:Ciencia ficcion,genero:Comedia,genero:Drama,genero:Fantastico,genero:Hechos reales,genero:Infantil,genero:Intriga,genero:Musical,genero:Romance,genero:Terror,genero:Thriller,genero:Western,
-				letra:NUM,letra:A,letra:B,letra:C,letra:D,letra:E,letra:F,letra:G,letra:H,letra:I,letra:J,letra:K,letra:L,letra:M,letra:N,letra:O,letra:P,letra:Q,letra:R,letra:S,letra:T,letra:U,letra:V,letra:W,letra:X,letra:Y,letra:Z,
-				
-			 }
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Luchar.o.morir.2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2020, Letra H, Suecia, ",
+			"name": "Hasta el horizonte (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/cUWA6BFwFvBxk4x6TEsJAlJ5oQN.jpg",
+			"info": "Tiempo después de su ruptura, Sara y Jackson se reencuentran unos días antes de la boda de un amigo en común que se casa en una isla remota. Juntos atraviesan el océano camino a la boda, pero cuando el piloto de la avioneta sufre un ataque al corazón, ellos deberán hacer lo imposible para mantener la avioneta en el aire",
+			"genero": "Thriller",
+			"stations": [
+				{
+				"torrent": "https://github.com/cheroky77/Torrents/blob/main/Films/Hasta.el.horizonte.2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2019, Letra A, Rusia, ",
+			"name": "Atrapado en el pasado. Se acabo la buena vida (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/f78tgHLtWeVLl4JPygiIbCS8yE2.jpg",
+			"info": "Un hombre maleducado y extremadamente ambicioso se despierta un día en un pueblo del siglo XIX y descubre que se ha convertido en un campesino",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Atrapado.en.el.pasado.Se.acabo.la.buena.vida.2019.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
 			]
 			},
 			{
@@ -26,7 +52,7 @@
 			"genero": "Accion, Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:A582CF91EE1AF003D3CF3AC12D295D89E431BAE7&dn=BRRip",  
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Kenshin.el.guerrero.samurai.El.origen.2021.-.1080.-.CristalAzul.mkv.torrent",   magnet:?xt=urn:btih:A582CF91EE1AF003D3CF3AC12D295D89E431BAE7&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -39,7 +65,7 @@
 			"genero": "Accion, Comedia",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:C1B7C8AB526C240F4F7B0FFE8DC821906B4BBEF9&dn=BRRip",   
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.ultimo.mercenario.2021.-.1080.-.CristalAzul.mkv.torrent",   magnet:?xt=urn:btih:C1B7C8AB526C240F4F7B0FFE8DC821906B4BBEF9&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -52,7 +78,7 @@
 			"genero": "Aventuras, Comedia",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:22D5C52DC892952C837397D036DEADE8C4073B51&dn=HD1080",  
+				"torrent": "magnet:?xt=urn:btih:22D5C52DC892952C837397D036DEADE8C4073B51&dn=HD1080",  https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Jungle.Cruise_2021.-.1080.-.CristalAzul.mkv.torrent
 				"torrent4k": "magnet:?xt=urn:btih:009EBA1C66E193384B5976432F62D8DDDE8618A3&dn=Web4K"	
 				}		
 			]
@@ -65,7 +91,7 @@
 			"genero": "Terror",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:AFED31C77DA2AC2E9879E73EF2BD45080107B14D&dn=BRRip",  
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.vecindario.BR1.2019..1080..CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:AFED31C77DA2AC2E9879E73EF2BD45080107B14D&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -78,7 +104,7 @@
 			"genero": "Comedia, Romance",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:910DEA38984A015705D214069D2ABBBB4F6EA052&dn=BRRip",  
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/No.se.puede.huir.del.amor.2021.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:910DEA38984A015705D214069D2ABBBB4F6EA052&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -91,7 +117,7 @@
 			"genero": "Comedia, Drama",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:2FC0D45B6CEC1D545476DD256299139B8B6AA360&dn=BRRip",  
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Mama.Maria.2020.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:2FC0D45B6CEC1D545476DD256299139B8B6AA360&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -104,7 +130,7 @@
 			"genero": "Accion, Thriller",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:67615B6D3029B82CF7378A08819B5EA05EB58EAC&dn=BRRip",  
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Bartkowiak.2021.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:67615B6D3029B82CF7378A08819B5EA05EB58EAC&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -156,7 +182,7 @@
 			"genero": "Drama, Thriller",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:5EA1AA77D832FB69412C941D39D3C963D63D85CB&dn=HD720",     magnet:?xt=urn:btih:47AE459335CD39C0D82E58B8F4A8A688785111B7&dn=BRRip
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Surge.2020.-.1080.-.CristalAzul.mkv.torrentm",  agnet:?xt=urn:btih:5EA1AA77D832FB69412C941D39D3C963D63D85CB&dn=HD720   magnet:?xt=urn:btih:47AE459335CD39C0D82E58B8F4A8A688785111B7&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -182,7 +208,7 @@
 			"genero": "Accion",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:2C9F496424F6BD8843B55E56A771A9C91539C323&dn=BRRip",   
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/En.nombre.de.la.justicia.2020.-.1080.-.CristalAzul.mkv.torrent",   magnet:?xt=urn:btih:2C9F496424F6BD8843B55E56A771A9C91539C323&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -195,7 +221,7 @@
 			"genero": "Thriller, Accion",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:02A1BE7AE3BD80BAE37C02F6F5334E518AD9FB5F&dn=HD1080",  
+				"torrent": "magnet:?xt=urn:btih:02A1BE7AE3BD80BAE37C02F6F5334E518AD9FB5F&dn=HD1080",  https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Despierta.la.furia.2021.-.1080.-.CristalAzul.mkv.torrent
 				"torrent4k": "magnet:?xt=urn:btih:31037B759704E26613A7301B8A739F5E82C60552&dn=Web4K"
 				}		
 			]
@@ -273,7 +299,7 @@
 			"genero": "Animacion, Fantastico, Accion, Aventuras",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:6E533DBF493D9B54765373B5A3EC2EF7D38492E7&dn=BRRip", 
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Trollhunters.El.despertar.de.los.titanes.2021.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:6E533DBF493D9B54765373B5A3EC2EF7D38492E7&dn=BRRip
 				"torrent4k": ""
 				}		
 			]

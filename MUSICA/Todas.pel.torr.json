@@ -49,6 +49,8 @@ Title:[COLOR gold]COLECCION [COLOR white]BRUCE LEE, SagaID:BruceLee, Imagen:http
 Title:[COLOR gold]COLECCION [COLOR white]CLINT EASTWOOD, SagaID:ClintEastwood, Imagen:https://e00-elmundo.uecdn.es/especiales/cultura/clint-eastwood/img/tit-portada.png,	https://dbdzm869oupei.cloudfront.net/img/sticker/preview/5457.png
 
 							-	0Saga, 1SagaTorrent, 
+Title:101 DALMATAS, SagaID:P101Dalmatas, Imagen:https://i.pinimg.com/originals/ea/88/02/ea88020ae6386de5c4c688abab23ecc7.jpg,
+							-	0Saga, 1SagaTorrent, 
 Title:3 METROS SOBRE EL CIELO, SagaID:3MSEC, Imagen:https://s1.dmcdn.net/v/1SyPY1GNEogMTsKG1/x720,
 							-	0Saga, 1SagaTorrent, 
 Title:A 47 METROS, SagaID:A47m, Imagen:https://www.themoviedb.org/t/p/original/9XupsXE6vFjR8qvy6WaR46ScrIw.jpg,
@@ -484,7 +486,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Thriller",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:67615B6D3029B82CF7378A08819B5EA05EB58EAC&dn=BRRip",  
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Bartkowiak.2021.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:67615B6D3029B82CF7378A08819B5EA05EB58EAC&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -588,7 +590,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller, Terror, Accion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:9D2BA2D1CF70C0522AD38BA13860836011680560&dn=HD1080",  https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Cielo.rojo.sangre.2021.-.1080.-.CristalAzul.mkv.torrent
+				"torrent": "magnet:?xt=urn:btih:9D2BA2D1CF70C0522AD38BA13860836011680560&dn=HD1080",  magnet:?xt=urn:btih:FB08521DDDF743C7CA9022A36B060EE99A6382EF&dn=HD1080  https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Cielo.rojo.sangre.2021.-.1080.-.CristalAzul.mkv.torrent
 				"torrent4k": ""
 				}		
 			]
@@ -652,10 +654,9 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"info": "H (Jason Statham) es el misterioso tipo que acaba de incorporarse como guardia de seguridad en una compañía de furgones blindados. Durante un intento de atraco a su camión, sorprende a sus compañeros mostrando habilidades propias de un soldado profesional, dejando al resto del equipo preguntándose quién es realmente y de dónde viene",
 			"genero": "Thriller, Accion",
 			"stations": [
-				{  
-				"torrent": "magnet:?xt=urn:btih:02A1BE7AE3BD80BAE37C02F6F5334E518AD9FB5F&dn=HD1080",   
-				https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Despierta.la.furia.2021.-.1080.-.CristalAzul.mkv.torrent
-				"torrent4k": "magnet:?xt=urn:btih:31037B759704E26613A7301B8A739F5E82C60552&dn=Web4K",  https://maxitorrent.com/download/154849_-1627242129-Despierta-la-furia--4KWebrip.torrent
+				{ 
+				"torrent": "magnet:?xt=urn:btih:02A1BE7AE3BD80BAE37C02F6F5334E518AD9FB5F&dn=HD1080",  https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Despierta.la.furia.2021.-.1080.-.CristalAzul.mkv.torrent
+				"torrent4k": "magnet:?xt=urn:btih:31037B759704E26613A7301B8A739F5E82C60552&dn=Web4K"
 				}		
 			]
 			},
@@ -887,8 +888,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"info": "Cuando descubre que su hijo ha sido falsamente acusado de tráfico de drogas y armas, un misterioso ex-agente secreto (Van Damme) decide regresar a casa para ayudarle, enfrentándose a un burócrata (Alban Ivanov) y desmantelando una operación de la mafia",
 			"genero": "Accion, Comedia",
 			"stations": [
-				{ 
-				"torrent": "magnet:?xt=urn:btih:C1B7C8AB526C240F4F7B0FFE8DC821906B4BBEF9&dn=BRRip",
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.ultimo.mercenario.2021.-.1080.-.CristalAzul.mkv.torrent",   magnet:?xt=urn:btih:C1B7C8AB526C240F4F7B0FFE8DC821906B4BBEF9&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -1108,8 +1109,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"info": "Película basada en una atracción de Disneylandia en la que un pequeño barco recorre un río a través de la jungla atravesando multitud de peligros",
 			"genero": "Aventuras, Comedia",
 			"stations": [
-				{  
-				"torrent": "magnet:?xt=urn:btih:22D5C52DC892952C837397D036DEADE8C4073B51&dn=HD1080",  
+				{
+				"torrent": "magnet:?xt=urn:btih:22D5C52DC892952C837397D036DEADE8C4073B51&dn=HD1080",  https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Jungle.Cruise_2021.-.1080.-.CristalAzul.mkv.torrent
 				"torrent4k": "magnet:?xt=urn:btih:009EBA1C66E193384B5976432F62D8DDDE8618A3&dn=Web4K"	
 				}		
 			]
@@ -1524,8 +1525,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"info": "Para escapar de una ruptura amorosa, una cantante en apuros acepta trabajar en un centro vacacional. Todo parece paradisíaco, hasta que llegan huéspedes que no esperaba",
 			"genero": "Comedia, Romance",
 			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:910DEA38984A015705D214069D2ABBBB4F6EA052&dn=BRRip",
+				{ 
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/No.se.puede.huir.del.amor.2021.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:910DEA38984A015705D214069D2ABBBB4F6EA052&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -1745,8 +1746,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"info": "Kenshin Himura inicia la búsqueda de un misterioso traficante de armas llamado Enishi Yukishiro que controla el bajo mundo de China. Durante su misión se desvelará también el secreto de 'Jujishou', un elemento íntimamente ligado al propio Himura",
 			"genero": "Accion, Drama",
 			"stations": [
-				{ 
-				"torrent": "magnet:?xt=urn:btih:A582CF91EE1AF003D3CF3AC12D295D89E431BAE7&dn=BRRip",
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Kenshin.el.guerrero.samurai.El.origen.2021.-.1080.-.CristalAzul.mkv.torrent",   magnet:?xt=urn:btih:A582CF91EE1AF003D3CF3AC12D295D89E431BAE7&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -1863,7 +1864,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Animacion, Fantastico, Accion, Aventuras",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:6E533DBF493D9B54765373B5A3EC2EF7D38492E7&dn=BRRip", 
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Trollhunters.El.despertar.de.los.titanes.2021.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:6E533DBF493D9B54765373B5A3EC2EF7D38492E7&dn=BRRip
 				"torrent4k": ""
 				}		
 			]
@@ -4281,8 +4282,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"info": "El jefe de policía de un pequeño pueblo no ha llevado consigo una pistola desde que dejó a los Rangers de Texas. Sin embargo, después de un tiroteo se verá obligado a volver a empuñar un arma para hacer frente a una violenta banda de motoristas que ha invadido el pueblo para realizar un robo a gran escala",
 			"genero": "Accion",
 			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:2C9F496424F6BD8843B55E56A771A9C91539C323&dn=BRRip",
+				{ 
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/En.nombre.de.la.justicia.2020.-.1080.-.CristalAzul.mkv.torrent",   magnet:?xt=urn:btih:2C9F496424F6BD8843B55E56A771A9C91539C323&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -4752,6 +4753,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				{
 				"torrent": "magnet:?xt=urn:btih:729CBE81933B26956295535026C6DACE904EDB0F&dn=HD1080",  magnet:?xt=urn:btih:8bda9a5e379b34b4e998f925331b76fa5807ea51&dn=HD1080  magnet:?xt=urn:btih:BB18B9E7B4464E51780AA70E515F49CC93A126D6&dn=BRRip 				magnet:?xt=urn:btih:f7f829dd2fd50754d743046e28477196ba2a5a5b&dn=HD1080   
 				"torrent4k": "magnet:?xt=urn:btih:D1F60E8CE3274DDB14021FA5FA948D9EC09F15A4",
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2020, Letra H, Suecia, ",
+			"name": "Hasta el horizonte (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/cUWA6BFwFvBxk4x6TEsJAlJ5oQN.jpg",
+			"info": "Tiempo después de su ruptura, Sara y Jackson se reencuentran unos días antes de la boda de un amigo en común que se casa en una isla remota. Juntos atraviesan el océano camino a la boda, pero cuando el piloto de la avioneta sufre un ataque al corazón, ellos deberán hacer lo imposible para mantener la avioneta en el aire",
+			"genero": "Thriller",
+			"stations": [
+				{
+				"torrent": "https://github.com/cheroky77/Torrents/blob/main/Films/Hasta.el.horizonte.2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -5846,7 +5860,20 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent4k": ""
 				}		
 			]
-			},
+			}
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Thriller, A2020, Letra L, EEUU, ",
+			"name": "Luchar o morir (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/gTNFvMYpSgs9njLELe0ljytIBS.jpg",
+			"info": "Zoe Hull, de 17 años, no está manejando bien el fallecimiento reciente de su madre, ya que a veces habla con ella como si estuviera presente, y está resentida con su padre por su falta de emociones. Su mejor amigo, Lewis, quiere que su relación se convierta en algo más. Pero Zoe lo único que quiere es acabar este año de instituto e ir a la universidad para tener un nuevo comienzo. En lugar de eso, su instituto es atacado por cuatro estudiantes armados que quieren hacer una matanza",
+			"genero": "Drama, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Luchar.o.morir.2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},,
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2020, Letra L, EEUU, ",
 			"name": "Lucky (2020)","coloryear": "magenta",
@@ -5870,6 +5897,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				{
 				"torrent": "magnet:?xt=urn:btih:11C20BEEDCC8BECA010C596306B32458B94490A9",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2020, Letra M, Dinamarca, ",
+			"name": "Madklubben (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/dCL4O9K6Ay27y3LmtQaTjRmkGw3.jpg",
+			"info": "Para canjear una cata de comidas a la que pensaba acudir con su marido, de quien se acaba de divorciar, Marie decide invitar a sus amigas",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Madklubben.2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -5972,7 +6012,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia, Drama",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:2FC0D45B6CEC1D545476DD256299139B8B6AA360&dn=BRRip",  
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Mama.Maria.2020.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:2FC0D45B6CEC1D545476DD256299139B8B6AA360&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -7390,7 +7430,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama, Thriller",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:5EA1AA77D832FB69412C941D39D3C963D63D85CB&dn=HD720", magnet:?xt=urn:btih:47AE459335CD39C0D82E58B8F4A8A688785111B7&dn=BRRip
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Surge.2020.-.1080.-.CristalAzul.mkv.torrentm",  agnet:?xt=urn:btih:5EA1AA77D832FB69412C941D39D3C963D63D85CB&dn=HD720   magnet:?xt=urn:btih:47AE459335CD39C0D82E58B8F4A8A688785111B7&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -8644,7 +8684,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Aventuras, Terror",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:d98af957bcf5e772685b865054b26fa0f2f3b138&dn=HD1080",  magnet:?xt=urn:btih:14A264412029F99EE79278750D1A8F3679EC9580&dn=BR1080
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/A.47.metros.2.2019.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:d98af957bcf5e772685b865054b26fa0f2f3b138&dn=HD1080  magnet:?xt=urn:btih:14A264412029F99EE79278750D1A8F3679EC9580&dn=BR1080
 				"torrent4k": ""
 				}		
 			]
@@ -9205,6 +9245,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				{
 				"torrent": "magnet:?xt=urn:btih:6f390e6b32bb2a23127d1f9e47cad5bbffa79172",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2019, Letra A, Rusia, ",
+			"name": "Atrapado en el pasado. Se acabo la buena vida (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/f78tgHLtWeVLl4JPygiIbCS8yE2.jpg",
+			"info": "Un hombre maleducado y extremadamente ambicioso se despierta un día en un pueblo del siglo XIX y descubre que se ha convertido en un campesino",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Atrapado.en.el.pasado.Se.acabo.la.buena.vida.2019.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -11455,7 +11508,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:AFED31C77DA2AC2E9879E73EF2BD45080107B14D&dn=BRRip",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.vecindario.BR1.2019..1080..CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:AFED31C77DA2AC2E9879E73EF2BD45080107B14D&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -23586,7 +23639,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller, Aventuras, Terror",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:C101206C9CB129868A592BC933AAFC75BB51F043&dn=BR1080",  magnet:?xt=urn:btih:8925304D7AB91EC3F22852EDF9B870C0E5E8D6B1&dn=BRRip
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/A.47.metros.2017.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:C101206C9CB129868A592BC933AAFC75BB51F043&dn=BR1080  magnet:?xt=urn:btih:8925304D7AB91EC3F22852EDF9B870C0E5E8D6B1&dn=BRRip
 				"torrent4k": "magnet:?xt=urn:btih:A0B0045FDE73E951D66296CFB0FC916A6F58484B&dn=UHDRip"	
 				}		
 			]
@@ -28375,7 +28428,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Romance, Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:7kqsuxhvxfrqysed7vmxivbcitsivirs",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Tengo.ganas.de.ti.2014.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:7kqsuxhvxfrqysed7vmxivbcitsivirs&dn=BRRip
 				"torrent4k": ""
 				}		
 			]
@@ -29822,7 +29875,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Romance, Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:420a751d86cb031e9b8a66cfa8ab9941f8806103&HD720",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/3.Metros.sobre.el.cielo.2010.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:420a751d86cb031e9b8a66cfa8ab9941f8806103&HD720
 				"torrent4k": ""
 				}		
 			]
@@ -33454,7 +33507,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia, Infantil",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:2FE2F2DD3E8C09FC888F26CE79ABD6BCF236CE08&dn=DVDRip",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/102.dalmatas.2000.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:2FE2F2DD3E8C09FC888F26CE79ABD6BCF236CE08&dn=DVDRip
 				"torrent4k": ""
 				}		
 			]
@@ -33759,7 +33812,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Terror",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:DAE4C588CB1F969A58B37466636DF32D764CCD14",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Abierto.hasta.el.amanecer.2.Texas.Blood.Money.1999.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:DAE4C588CB1F969A58B37466636DF32D764CCD14
 				"torrent4k": ""
 				}		
 			]
@@ -33772,7 +33825,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Terror, Western",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:44C2399AEAAE6F16CE1D40CECEAF2E617D73E5C2",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Abierto.hasta.el.amanecer.3.La.hija.del.verdugo.1999.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:44C2399AEAAE6F16CE1D40CECEAF2E617D73E5C2
 				"torrent4k": ""
 				}		
 			]
@@ -34565,7 +34618,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller, Accion, Terror, Fantastico",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:3258F895FE443CEC2D5550A66F6BECAD79F5A6EB",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Abierto.hasta.el.amanecer.1996.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:3258F895FE443CEC2D5550A66F6BECAD79F5A6EB
 				"torrent4k": ""
 				}		
 			]
@@ -34592,6 +34645,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{ 
 				"torrent": "magnet:?xt=urn:btih:3441FE34AE485BC5DBA2A0D6612D7E6A71DB2254&dn=BR1080",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Infantil, A1996, Letra NUM, EEUU, B2000, A2000-1991, Disney, Sagas P101Dalmatas, ",
+			"name": "101 dalmatas. ¡Mas vivos que nunca! (1996)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/jF7B7uj72mID0mxmTQK7gj6SozD.jpg",
+			"info": "Obsesionada por obtener la autentica piel de dalmatas para crear su nueva linea de moda, Cruella de Vil no se detiene ante nada. Cuando Anita, una de sus mejores diseñadoras, le cuenta lo contentos que estan ella y su marido Roger, porque su pareja de dalmatas, Pongo y Perlita, van a tener cachorros, la mente de Cruella empieza a maquinar para hacerse con los pequeños",
+			"genero": "",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/101.dalmatas.Mas.vivos.que.nunca.1996.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:A29B89AB7D17F873B606642367653354CC790B33&dn=DVDRip
 				"torrent4k": ""
 				}		
 			]
@@ -34658,19 +34724,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				{ 
 				"torrent": "magnet:?xt=urn:btih:275FB1F179803AD86AD2697013AAD795DDD28681",
 				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Comedia, 1Fantastico, A1986, Letra H, EEUU, Comics, Marvel, B2000, A1990-1981, ",
-			"name": "Howard, un nuevo heroe (1986)","coloryear": "tomato",
-			"image": "https://www.themoviedb.org/t/p/original/2wvcFw1GCl0MZWptoWwjHMjwleP.jpg",
-			"info": "Desde un lejano planeta, y debido a un error de un laboratorio espacial, llega a La Tierra teletransportado un extraño personaje, un pato que dice llamarse Howard. Es acogido en casa de Beberly, una joven que es vocal de un grupo de rock. Cuando el doctor Jenin intenta devolverle a su planeta, la energia diabolica del experimento le atrapa, transformandole en el terrible Señor de las Tinieblas y Howard tendra que enfrentarse a el",
-			"genero": "Ciencia ficcion, Comedia, Fantastico",
-			"stations": [
-				{ 
-				"torrent": "magnet:?xt=urn:btih:A1D31A5581E2F2CED6013FE7EFE4222B9F2107E8",
-				"torrent4k": "magnet:?xt=urn:btih:CA2DA42FDAF5677B8DAD76E1838DAB5844323CD4&dn=micro4K"  magnet:?xt=urn:btih:74CDB2357CFD440F1771D73C277A37A302090973&dn=UHDRip
 				}		
 			]
 			},
@@ -36334,6 +36387,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				{ 
 				"torrent": "magnet:?xt=urn:btih:BB9F38CF58952A6FE081A856EA17142C8CCB8B7F&dn=DVDRip",  magnet:?xt=urn:btih:C0A0EC28F3724291BFC7AEB6CCAB2F0F08907104&dn=HDRip
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Comedia, 1Fantastico, A1986, Letra H, EEUU, Comics, Marvel, B2000, A1990-1981, ",
+			"name": "Howard, un nuevo heroe (1986)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/2wvcFw1GCl0MZWptoWwjHMjwleP.jpg",
+			"info": "Desde un lejano planeta, y debido a un error de un laboratorio espacial, llega a La Tierra teletransportado un extraño personaje, un pato que dice llamarse Howard. Es acogido en casa de Beberly, una joven que es vocal de un grupo de rock. Cuando el doctor Jenin intenta devolverle a su planeta, la energia diabolica del experimento le atrapa, transformandole en el terrible Señor de las Tinieblas y Howard tendra que enfrentarse a el",
+			"genero": "Ciencia ficcion, Comedia, Fantastico",
+			"stations": [
+				{ 
+				"torrent": "magnet:?xt=urn:btih:A1D31A5581E2F2CED6013FE7EFE4222B9F2107E8",
+				"torrent4k": "magnet:?xt=urn:btih:CA2DA42FDAF5677B8DAD76E1838DAB5844323CD4&dn=micro4K"  magnet:?xt=urn:btih:74CDB2357CFD440F1771D73C277A37A302090973&dn=UHDRip
 				}		
 			]
 			},
