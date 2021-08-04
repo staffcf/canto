@@ -6,6 +6,45 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Comedia, 1Aventuras, 1Infantil, A2021, Letra P, EEUU, ",
+			"name": "Peter Rabbit 2: A la fuga (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/gj4Lwldois15IaNnl4tadesHGC4.jpg",
+			"info": "¡El jardín fue solo el principio! Peter y sus adorables amigos vuelven con más aventuras en 'Peter Rabbit 2 A La Fuga'. Bea, Thomas, y los conejos han hecho las paces como una familia, pero a pesar de sus mejores esfuerzos, Peter no parece sacudirse su traviesa reputación. Aventurándose más allá del jardín, Peter se adentra en las calles menos recomendables de la ciudad donde sus trastadas son mejor apreciadas, pero cuando su peluda familia se encuentra en peligro, Peter deberá decidir qué tipo de conejo quiere ser",
+			"genero": "Animacion, Comedia, Aventuras, Infantil",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Peter.Rabbit.2.A.la.fuga.2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}	
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Thriller, A2021, Letra A, EEUU, ",
+			"name": "Mudanza mortal (Aftermath) (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/2nruTQOL4qxNF4wOTYZVDV4tP3N.jpg",
+			"info": "Una joven pareja acepta un trato y se muda a una casa de ensueño para salvar su matrimonio. Pronto, eventos inquietantes revelan el turbulento pasado de su nuevo hogar",
+			"genero": "Terror, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Mudanza.Mortal.2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, A2020, Letra C, EEUU, ",
+			"name": "Colision inminente (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/mDI7tyRfe1sIAf6TfTMfwTGPsyH.jpg",
+			"info": "Una gran lluvia de meteoritos bombardea inesperadamente el planeta Tierra. Los científicos se dirigen al lugar del primer impacto y a partir de ahí comienzan a diseñar un plan para salvar a la humanidad de la destrucción total",
+			"genero": "Ciencia ficcion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Colision.inminente.2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Thriller, A2020, Letra L, EEUU, ",
 			"name": "Luchar o morir (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/gTNFvMYpSgs9njLELe0ljytIBS.jpg",

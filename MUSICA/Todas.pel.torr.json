@@ -1493,6 +1493,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Thriller, A2021, Letra A, EEUU, ",
+			"name": "Mudanza mortal (Aftermath) (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/2nruTQOL4qxNF4wOTYZVDV4tP3N.jpg",
+			"info": "Una joven pareja acepta un trato y se muda a una casa de ensueño para salvar su matrimonio. Pronto, eventos inquietantes revelan el turbulento pasado de su nuevo hogar",
+			"genero": "Terror, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Mudanza.Mortal.2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Musical, 1Drama, A2021, Letra M, EEUU, ",
 			"name": "Music (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/AafAMQVFA84sxZoT1YWmt9WvRaI.jpg",
@@ -1659,6 +1672,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent": "magnet:?xt=urn:btih:F9FE775611540F49A5625576068F12E2BDC3FB43&dn=HD1080",  magnet:?xt=urn:btih:1499A780253961A9630BFC09568C38C4F47D3108&dn=BRRip
 				"torrent4k": "https://blazing.network/torrents/peliculas/147897_-1615454229-Pequenos-detalles--4KWebrip.torrent",  https://maxitorrent.com/download/147897_-1615454229-Pequenos-detalles--4KWebrip.torrent  magnet:?xt=urn:btih:855115518BF849A5AEF0B72840FD3F7AC6452D7C&dn=Web4K
 				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Comedia, 1Aventuras, 1Infantil, A2021, Letra P, EEUU, ",
+			"name": "Peter Rabbit 2: A la fuga (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/gj4Lwldois15IaNnl4tadesHGC4.jpg",
+			"info": "¡El jardín fue solo el principio! Peter y sus adorables amigos vuelven con más aventuras en 'Peter Rabbit 2 A La Fuga'. Bea, Thomas, y los conejos han hecho las paces como una familia, pero a pesar de sus mejores esfuerzos, Peter no parece sacudirse su traviesa reputación. Aventurándose más allá del jardín, Peter se adentra en las calles menos recomendables de la ciudad donde sus trastadas son mejor apreciadas, pero cuando su peluda familia se encuentra en peligro, Peter deberá decidir qué tipo de conejo quiere ser",
+			"genero": "Animacion, Comedia, Aventuras, Infantil",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Peter.Rabbit.2.A.la.fuga.2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}	
 			]
 			},
 			{
@@ -3191,6 +3217,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				{
 				"torrent": "magnet:?xt=urn:btih:d77b267204ca9cb8187fd59767f30c861f337505&HD1080",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, A2020, Letra C, EEUU, ",
+			"name": "Colision inminente (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/mDI7tyRfe1sIAf6TfTMfwTGPsyH.jpg",
+			"info": "Una gran lluvia de meteoritos bombardea inesperadamente el planeta Tierra. Los científicos se dirigen al lugar del primer impacto y a partir de ahí comienzan a diseñar un plan para salvar a la humanidad de la destrucción total",
+			"genero": "Ciencia ficcion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Colision.inminente.2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -34124,7 +34163,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Comedia",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:E30E1A0714D8A2990B843CD844C84AEC14BA21AB&dn=BDR1080",  magnet:?xt=urn:btih:9476C4B3762ACE010E9BB61E796D090AE9C721A3&dn=DVDRip
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Arma.letal.4.1998.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:E30E1A0714D8A2990B843CD844C84AEC14BA21AB&dn=BDR1080   magnet:?xt=urn:btih:9476C4B3762ACE010E9BB61E796D090AE9C721A3&dn=DVDRip
 				"torrent4k": "magnet:?xt=urn:btih:B32E8DDC7CA31CBEAB329D788613DF05FD491347",
 				}		
 			]
@@ -35391,7 +35430,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:FEA4606CF131A6B36592E60BAFB0D7C80DCD7815&dn=HD1080",  magnet:?xt=urn:btih:F779388C07D000852A9FB46F49D4C88855881AC4&dn=BDR1080
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Arma.letal.3.1992.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:FEA4606CF131A6B36592E60BAFB0D7C80DCD7815&dn=HD1080   magnet:?xt=urn:btih:F779388C07D000852A9FB46F49D4C88855881AC4&dn=BDR1080
 				"torrent4k": "magnet:?xt=urn:btih:DA54FD9DBAFC0E7C836E9B735B33E934481E1544"
 				}		
 			]
@@ -35826,7 +35865,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:16247A3313C070FBC29B643EE97BE11A3E74699A&dn=HD1080",  magnet:?xt=urn:btih:6F17C2A428C1BB81A53427CB014286BE22242F13&dn=BDR1080
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Arma.letal.2.1989.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:16247A3313C070FBC29B643EE97BE11A3E74699A&dn=HD1080   magnet:?xt=urn:btih:6F17C2A428C1BB81A53427CB014286BE22242F13&dn=BDR1080
 				"torrent4k": "magnet:?xt=urn:btih:8ADBBD7207AC07E884576BA4EB5073E8519F8275"
 				}		
 			]
@@ -36190,7 +36229,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Comedia",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:0B8B81B920A188DA81B9D9C74917CAAED550F233&dn=HD1080",  magnet:?xt=urn:btih:FD330BADF55C7581F33BA4FE981FC32EDF6A1E8D&dn=BDR1080
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Arma.letal.1987.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:0B8B81B920A188DA81B9D9C74917CAAED550F233&dn=HD1080  magnet:?xt=urn:btih:FD330BADF55C7581F33BA4FE981FC32EDF6A1E8D&dn=BDR1080
 				"torrent4k": "magnet:?xt=urn:btih:EBF2E725994F73AE72B7B3DD9D1108A07119437B"
 				}		
 			]
