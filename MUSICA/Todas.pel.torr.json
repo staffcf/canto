@@ -67,6 +67,8 @@ Title:ARMA LETAL, SagaID:ArmaLetal, Imagen:https://i.ytimg.com/vi/22vw7cfLTPE/ma
 							-	0Saga, 1SagaTorrent, 
 Title:ATAQUE A LOS TITANES, SagaID:AtaqueTitanes, Imagen:https://www.tacticwars.com/files/subcat/191/foto.png,
 							-	0Saga, 1SagaTorrent, 
+Title:ATTRACTION, SagaID:Attraction, Imagen:https://i.ytimg.com/vi/2tkpiTSrVfY/maxresdefault.jpg,	
+							-	0Saga, 1SagaTorrent, 
 Title:BATMAN, SagaID:Batman, Imagen:https://i.pinimg.com/236x/db/1f/68/db1f683317252a7a6e149dda3a14c14c--batman-logo-batman-batman.jpg,	
 							-	0Saga, 1SagaTorrent, 
 Title:BLADE, SagaID:Blade, Imagen:https://www.cinepremiere.com.mx/wp-content/uploads/2019/07/Blade-1.jpg,	
@@ -1506,6 +1508,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Accion, 1Thriller, 1Comedia, A2021, Letra M, EEUU, ",
+			"name": "Muere otra vez (Boss level) (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/uz2nxa5h8kMaDecjZp4bTCeXuGX.jpg",
+			"info": "Un oficial de las fuerzas especiales, ya retirado, se ve obligado a vivir una y otra vez en bucle el día de su muerte",
+			"genero": "Ciencia ficcion, Accion, Thriller, Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Muere.otra.vez.2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Musical, 1Drama, A2021, Letra M, EEUU, ",
 			"name": "Music (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/AafAMQVFA84sxZoT1YWmt9WvRaI.jpg",
@@ -2682,7 +2697,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:064152cf69d0b68857c207232f49295a3937beed&HD720",  magnet:?xt=urn:btih:F067AB782D0C8B388D02606C240CD61598B969DD&dn=BRRip
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Attraction2.Invasion.El.fin.de.los.tiempos.2020.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:064152cf69d0b68857c207232f49295a3937beed&HD720   magnet:?xt=urn:btih:F067AB782D0C8B388D02606C240CD61598B969DD&dn=BRRip
 				"torrent4k": ""
 				}		
 			]
@@ -23841,13 +23856,13 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Drama, A2017, Letra A, Rusia, Extraterrestres, Sagas Attraction, ",
-			"name": "Attraction: La Guerra Ha Comenzado (2017)","coloryear": "green",
+			"name": "Attraction: La guerra ha comenzado (2017)","coloryear": "green",
 			"image": "https://m.media-amazon.com/images/M/MV5BODNkNTFlMWItZWNkYS00YTUwLWJkN2YtYWQxMGJlZDA0OGFlXkEyXkFqcGdeQXVyMjcxNjI4NTk@.jpg",
 			"info": "Sobre Moscu es derribado un OVNI, un objeto no identificado posiblemente de origen extraterrestre. Esto hace que la mayor parte de la capital quede acordonada, con el fin de poder evacuar a los residentes locales para que un equipo del Ministerio de Defensa ruso trate de ponerse en contacto con los llamados 'invitados'",
 			"genero": "Ciencia ficcion, Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:3a454d6b032c04ae4396c3e7a4dd1581d64d3572",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Attraction.La.Guerra.Ha.Comenzado.2017.-.1080.-.CristalAzul.mkv.torrent", magnet:?xt=urn:btih:3a454d6b032c04ae4396c3e7a4dd1581d64d3572&dn=HD720
 				"torrent4k": ""
 				}
 			]
@@ -27460,7 +27475,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Accion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:A2FEB7A2F9856077930984974DA767C8CF1E73E8",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Ataque.a.los.Titanes.2015.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:A2FEB7A2F9856077930984974DA767C8CF1E73E8&dn=HDRip
 				"torrent4k": ""
 				}		
 			]
@@ -27473,7 +27488,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Accion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:33F2657E4B1A220E6DAC1CBB0D616DA17EBB87AB",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Ataque.a.los.titanes.2.El.fin.del.mundo.2015.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:33F2657E4B1A220E6DAC1CBB0D616DA17EBB87AB&dn=BRRip
 				"torrent4k": ""
 				}		
 			]
