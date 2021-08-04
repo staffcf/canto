@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Accion, 1Thriller, 1Comedia, A2021, Letra M, EEUU, ",
+			"name": "Muere otra vez (Boss level) (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/uz2nxa5h8kMaDecjZp4bTCeXuGX.jpg",
+			"info": "Un oficial de las fuerzas especiales, ya retirado, se ve obligado a vivir una y otra vez en bucle el día de su muerte",
+			"genero": "Ciencia ficcion, Accion, Thriller, Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Muere.otra.vez.2021.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:C17C35AEDAE8F43A047FD1E327175892EAAE20AB&dn=BRRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Comedia, 1Aventuras, 1Infantil, A2021, Letra P, EEUU, ",
 			"name": "Peter Rabbit 2: A la fuga (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/gj4Lwldois15IaNnl4tadesHGC4.jpg",
@@ -26,7 +39,7 @@
 			"genero": "Terror, Thriller",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Mudanza.Mortal.2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Mudanza.Mortal.2021.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:EB6307C820D679AA3CF2D4DA140CD4242610BDF5&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -1939,84 +1952,6 @@
 				{
 				"torrent": "magnet:?xt=urn:btih:4C893416EEE51A60302C5688962C807741873497&dn=HD1080",  magnet:?xt=urn:btih:9E9E5CE43BE9B4AB8E2D0721B1206FCB9E6AE4A8&dn=BRRip
 				"torrent4k": "magnet:?xt=urn:btih:599F760CE492A3577A73F3D44CA74F5BB5F67143"
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2020, Letra U, Spain, C720, ",
-			"name": "Un efecto optico (2020)","coloryear": "magenta",
-			"image": "https://www.themoviedb.org/t/p/original/hsGHEByB5wIwCtnp4ZmtnCkMMsj.jpg",
-			"info": "Alfredo y Teresa son un matrimonio de Burgos que viaja a Nueva York con la intencion de 'desconectar' y hacer todos los planes que vienen en la guia. Pero nada mas aterrizar empiezan a percibir señales, sutiles y no tanto, de que en realidad no estan en la ciudad que les vendieron en la agencia. ¿Donde estan entonces?",
-			"genero": "Comedia",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:D4C5BF6C822050FB56F11CEB38F9525D5F90CCA3&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, A2021, Letra M, Italia, C720, Netflix, 1Hechos reales, ",
-			"name": "Milagro azul (Blue Miracle) (2021)","coloryear": "cyan",
-			"image": "https://www.themoviedb.org/t/p/original/mU6962lzuC26fVbKPAWHBKiuk2N.jpg",
-			"info": "Para ayudar a su orfanato de escasos recursos, un hombre y un grupo de jovenes se asocian al gruñon capitan de un barco para competir en un lucrativo torneo de pesca",
-			"genero": "Comedia, Drama",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:BBC21A6745CEED7BAD5BA14B0446435793C08CE8&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Thriller, A2021, Letra A, EEUU, C720, ",
-			"name": "Aquellos que desean mi muerte (2021)","coloryear": "cyan",
-			"image": "https://www.themoviedb.org/t/p/original/vvaLaBxcdt6nc7YJb8l8VpAPd2H.jpg",
-			"info": "Connor (Finn Little), un adolescente testigo de un asesinato, es perseguido por dos asesinos gemelos a traves de las tierras salvajes de Montana. Aunque cuenta con Hannah (Angelina Jolie), una experta de la supervivencia para evitar que los secuaces le den caza, un incendio cercano pronto amenaza con acabar con la vida de todos los implicados",
-			"genero": "Thriller",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:3A8D5FF001D2A05EE867AE846D04BABB411EC764&dn=HD1080",  magnet:?xt=urn:btih:B719788BDD2B1601D895850885C8FEF6F1C59901&dn=BRRip
-				"torrent4k": "magnet:?xt=urn:btih:805533F93A367EC1AADF4B08DDD3125AF29FE508"
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2018, Letra V, Japon, C720, ",
-			"name": "Viaje a Nara (2018)","coloryear": "aqua",
-			"image": "https://www.themoviedb.org/t/p/original/fLrK6UmKeIf4VZkabNkc7CkyDOi.jpg",
-			"info": "En los bosques de la region japonesa de Nara la periodista francesa Jeanne (Juliette Binoche) busca una rara planta medicinal que solo crece en ese paraje bosquoso. Alli conoce a un misterioso hombre que vive en las montañas, Aki (Masatoshi Nagase). A pesar de la barrera del lenguaje y la cultura, ambos sentiran la necesidad de acercarse el uno al otro",
-			"genero": "Drama",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:EAE514FDBA89EC883348E64C159DDECD38D91AC1&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Musical, 1Drama, A2021, Letra M, EEUU, C720, ",
-			"name": "Music (2021)","coloryear": "cyan",
-			"image": "https://www.themoviedb.org/t/p/original/AafAMQVFA84sxZoT1YWmt9WvRaI.jpg",
-			"info": "Zu acaba de lograr dejar el alcohol cuando recibe la noticia de que se ha convertido en la unica tutora de su hermanastra, una joven autista llamada Music",
-			"genero": "Musical, Drama",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:F085FD5ED73DFE6B63230547EAB858F3610A6D9D&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Thriller, A2020, Letra P, Reino Unido, C720, ",
-			"name": "Pixie (2020)","coloryear": "magenta",
-			"image": "https://www.themoviedb.org/t/p/original/pOg8XNAuqXdE7VcAlVo2VdpOuej.jpg",
-			"info": "Para vengar la muerte de su madre, Pixie idea un robo perfecto. Sin embargo, despues de ejecutarlo tendra que huir de un grupo de gangsters, ademas de hacer frente al patriarcado y elegir su propio destino en el proceso",
-			"genero": "Comedia, Thriller",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:E58096E54BD945CC37DE2E742284C55E4753C27F&dn=BRRip",
-				"torrent4k": ""
 				}		
 			]
 			}
