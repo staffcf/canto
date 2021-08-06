@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra P, Francia, ",
+			"name": "Police (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/gIRezCW9VOz2zlIZkl0I0t1ZcLf.jpg",
+			"info": "Virginie, Erik y Aristide, tres policías parisinos, se ven obligados a aceptar una misión poco habitual: reconducir a un extranjero a la frontera. Durante el camino al aeropuerto, Virginie entiende que si el prisionero pone un pie en su país de origen sufre el riesgo de morir. Frente a dilema moral, intenta convencer a sus colegas de que lo dejen escapar",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Police.2020.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:4B7110E5EF016E763607D6AA5180D94C71E4C763&dn=BRRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Accion, 1Aventuras, A2021, Letra S, EEUU, ",
 			"name": "Scooby-Doo! La Leyenda de Scoobydur (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/sCoG0ibohbPrnyomtzegSuBL40L.jpg",
