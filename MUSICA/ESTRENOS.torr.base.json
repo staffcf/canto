@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Comedia, A2020, Letra B, Alemania, ",
+			"name": "Boda sin fin (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/cO3u3xmsC5R9KqdVLLkZuuqga6K.jpg",
+			"info": "Zazie vive con el mujeriego Patrick y su fiel y dulce amigo Anton en un piso compartido. Los tres son incapaces de tener una relación. Cuando Philipp, el mejor amigo de Zazie desde su infancia, le envía una invitación a su boda, el papel se queda atascado en el buzón durante meses. Cuando Zazie finalmente recibe la invitación, se sorprende al descubrir que la boda de Philipp está planeada... para el día siguiente, y que quiere casarse con la engreída y viciosa Franziska. ¡Pero Franziska es definitivamente la chica equivocada para Philipp! Así que Zazie decide hacer todo lo posible para salvarle antes que cometa el mayor error de su vida",
+			"genero": "Romance, Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Boda.sin.fin.2020.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:72E48770028BFE36634CFB506B64ED4B9ADEF36A&dn=BRRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra P, Francia, ",
 			"name": "Police (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/gIRezCW9VOz2zlIZkl0I0t1ZcLf.jpg",
