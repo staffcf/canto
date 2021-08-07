@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2019, Letra U, Francia, ",
+			"name": "Una veterinaria en la Borgoña (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/xRBPLGqf1nUjog61YXfGfNYwkEc.jpg",
+			"info": "En el corazón de la Borgoña, Nico, el último veterinario de la zona, lucha por salvar a sus pacientes, su clínica y su familia. Cuando Michel, su compañero y mentor, anuncia su jubilación, Nico sabe que lo difícil está por venir: encontrar un nuevo compañero. Esta será Alexandra, una recién graduada brillante, misántropa y que no tiene ningún deseo de enterrarse en el pueblo de su infancia. ¿Conseguirá Nico que se quede?",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Una.veterinaria.en.la.Borgonha.2019.-.1080._CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Comedia, A2020, Letra B, Alemania, ",
 			"name": "Boda sin fin (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/cO3u3xmsC5R9KqdVLLkZuuqga6K.jpg",
