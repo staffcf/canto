@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Musical, 1Comedia, A2021, Letra V, EEUU, Netflix, ",
+			"name": "Vivo (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/eRLlrhbdYE7XN6VtcZKy6o2BsOw.jpg",
+			"info": "Narra la vida de Vivo, un kinkajú («oso de la miel» de la selva tropical) dotado de un brillante talento para la música, que busca la forma de viajar desde La Habana hasta Miami para entregarle una canción al antiguo amor de su adorado dueño",
+			"genero": "Animacion, Musical, Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Vivo.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2019, Letra U, Francia, ",
 			"name": "Una veterinaria en la Borgoña (2019)","coloryear": "limegreen",
 			"image": "https://www.themoviedb.org/t/p/original/xRBPLGqf1nUjog61YXfGfNYwkEc.jpg",
@@ -13,7 +26,7 @@
 			"genero": "Comedia",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Una.veterinaria.en.la.Borgonha.2019.-.1080._CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Una.veterinaria.en.la.Borgonha.2019.-.1080._CristalAzul.mkv.torrent",magnet:?xt=urn:btih:92671DC9F6E52C76B3CF101902BF3FB73C35EFAD&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -47,7 +60,7 @@
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Accion, 1Aventuras, A2021, Letra S, EEUU, ",
 			"name": "Scooby-Doo! La Leyenda de Scoobydur (2021)","coloryear": "cyan",
-			"image": "https://www.themoviedb.org/t/p/original/sCoG0ibohbPrnyomtzegSuBL40L.jpg",
+			"image": "https://www.themoviedb.org/t/p/original/eO3VQGG5vC4160NuCzR31cnSGFQ.jpg",
 			"info": "Una hechicera malvada transporta a la pandilla a la época de caballeros caballerosos, magos lanzadores de hechizos y dragones que escupen fuego",
 			"genero": "Animacion, Accion, Aventuras",
 			"stations": [
