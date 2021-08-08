@@ -87,6 +87,8 @@ Title:CREPUSCULO, SagaID:Twilight, Imagen:https://cdn.quecuriosidades.com/wp-con
 							-	0Saga, 1SagaTorrent, 
 Title:CUBE, SagaID:Cube, Imagen:https://2.bp.blogspot.com/-AArTiyCnySo/UGMcpZe1heI/AAAAAAAAAYA/45WZBz21hT4/s1600/cube1.jpg,
 							-	0Saga, 1SagaTorrent, 
+Title:DANDO LA NOTA, SagaID:DandoLaNota, Imagen:https://www.themoviedb.org/t/p/original/7dQpiBMykwbWIRUFlTCDeIAV147.jpg,
+							-	0Saga, 1SagaTorrent, 
 Title:DEADPOOL, SagaID:Deadpool, Imagen:https://www.seekpng.com/png/full/2-21659_deadpool-movie-logo-dice-masters-deadpool-gravity-feed.png,	
 							-	0Saga, 1SagaTorrent, 
 Title:DESTINO FINAL, SagaID:DestinoFinal, Imagen:https://i.ebayimg.com/images/g/4YkAAOSwtbBezkDt/s-l300.jpg,	
@@ -1798,7 +1800,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Accion, 1Aventuras, A2021, Letra S, EEUU, ",
 			"name": "Scooby-Doo! La Leyenda de Scoobydur (2021)","coloryear": "cyan",
-			"image": "https://www.themoviedb.org/t/p/original/sCoG0ibohbPrnyomtzegSuBL40L.jpg",
+			"image": "https://www.themoviedb.org/t/p/original/eO3VQGG5vC4160NuCzR31cnSGFQ.jpg",
 			"info": "Una hechicera malvada transporta a la pandilla a la época de caballeros caballerosos, magos lanzadores de hechizos y dragones que escupen fuego",
 			"genero": "Animacion, Accion, Aventuras",
 			"stations": [
@@ -2041,7 +2043,20 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent4k": "magnet:?xt=urn:btih:F67ABE7D968147A0975BE01C1647E4682358E5DA&dn=Web4K",  https://blazing.network/torrents/peliculas/Viuda-negra-4KWebrip.torrent
 				}		
 			]
-			},
+			}
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Musical, 1Comedia, A2021, Letra V, EEUU, Netflix, ",
+			"name": "Vivo (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/eRLlrhbdYE7XN6VtcZKy6o2BsOw.jpg",
+			"info": "Narra la vida de Vivo, un kinkajú ('oso de la miel' de la selva tropical) dotado de un brillante talento para la música, que busca la forma de viajar desde La Habana hasta Miami para entregarle una canción al antiguo amor de su adorado dueño",
+			"genero": "Animacion, Musical, Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Vivo.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},,
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Comedia, 1Fantastico, 1Accion, A2021, Letra W, EEUU, ",
 			"name": "Willy's Wonderland (2021)","coloryear": "cyan",
@@ -2777,7 +2792,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Suspense",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:8AFA5A12A8A28074826A4A6C54248F6C766319AE&HD1080", 
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Bad.boys.for.life.2020.-.1080.-.CristalAzul.mkv.torrent", 	magnet:?xt=urn:btih:8AFA5A12A8A28074826A4A6C54248F6C766319AE&HD1080
 				"torrent4k": "magnet:?xt=urn:btih:62A156FD3A414F2109CBE553F815B7D6FDE26E2B",
 				}
 			]
@@ -12024,7 +12039,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Ciencia Ficcion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:444065014DB0062192519B2EFD4DE351C5BD0D4B",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Fast.and.Furious.Hobbs.and.Shaw.2019.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:444065014DB0062192519B2EFD4DE351C5BD0D4B
 				"torrent4k": "magnet:?xt=urn:btih:61615126BE99CA043E87A0CA5D26B8CC497E5680",
 				}			
 			]
@@ -23804,7 +23819,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Thriller",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:8108FFB54829D1E9AF6B40BD55616EA727B89D91",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/A.Todo.Gas.8-Fast.and.Furious.8-.2017.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:8108FFB54829D1E9AF6B40BD55616EA727B89D91
 				"torrent4k": "magnet:?xt=urn:btih:649218A2FB0AB93D4C358F2924AB749819F847FF",
 				}
 			]
@@ -24311,7 +24326,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:58a0b920dc520a06ec2a534a75db71f24f4571ad",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Dando.La.Nota.3.2017.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:58a0b920dc520a06ec2a534a75db71f24f4571ad
 				"torrent4k": ""
 				}
 			]
@@ -27320,7 +27335,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Accion, Romance",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:bd06b02af58e74d3113552c34226cc555d76a556&dn=HD1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.serie.Divergente.Leal.-2016.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:bd06b02af58e74d3113552c34226cc555d76a556&dn=HD1080
 				"torrent4k": "magnet:?xt=urn:btih:C05273B4D6CB00AD59C1A42295650D4B792C1926"
 				}		
 			]
@@ -27573,7 +27588,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:5056AE27ED786A4326D82C78F2B3F5155C98A809",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/A.Todo.Gas.7-Fast.and.Furious.7-.2015.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:5056AE27ED786A4326D82C78F2B3F5155C98A809
 				"torrent4k": "magnet:?xt=urn:btih:74f679340ce1d549a6079a05e4bd8aed5120313d" magnet:?xt=urn:btih:99C54985553479AFE8C1A7662C6529EAC9419F1D
 				}		
 			]
@@ -27653,6 +27668,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				{
 				"torrent": "magnet:?xt=urn:btih:4F2676781D7CFBFF64CD76EF9EFF924BFB4C886E&dn=DVDR",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2015, Letra D, EEUU, Musica, Baile, Colegios, Universidad, Sagas DandoLaNota, ",
+			"name": "Dando la nota - Aun mas alto (2015)","coloryear": "lime",
+			"image": "https://www.themoviedb.org/t/p/original/bc2UTKECa9I5Xpm4ujU4xND9EPK.jpg",
+			"info": "Beca y Fat Amy se enfrentan a su último año en la universidad. Las Barden Bellas se han convertido en el coro a capella más importante y envidiado del campus y competirá en el Campeonato mundial de Coros, donde el equipo estadounidense nunca ha ganado",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Dando.la.nota-Aun.mas.alto.2015.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -27859,7 +27887,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Accion, Romance",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:fe8bd5b681aa45e10da3ed805566e4b8fb2aa5e5&dn=HD1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.serie.Divergente.Insurgente.-2015.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:fe8bd5b681aa45e10da3ed805566e4b8fb2aa5e5&dn=HD1080
 				"torrent4k": "magnet:?xt=urn:btih:ACB6155D268ECA1D6FEF202F0860B3F3F6EC9386"
 				}		
 			]
@@ -28229,7 +28257,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Accion, Aventuras, Romance",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:7c26526ae9dd8580a7ad12ca9e9f88108179a781&dn=HD1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Divergente.2014.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:7c26526ae9dd8580a7ad12ca9e9f88108179a781&dn=HD1080
 				"torrent4k": "magnet:?xt=urn:btih:1B936EEF2C129B4E67064A35652D0FDE108B2ECA"
 				}		
 			]
@@ -28281,7 +28309,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Aventuras, Accion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:496ACB211D40B95315B10809C49F807DF2A54214",  magnet:?xt=urn:btih:ECF88DE810092CD9D63109E18FEE97D9DC14BECB
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.Hobbit.La.batalla.de.los.cinco.ejercitos-V.Ext.2014.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:496ACB211D40B95315B10809C49F807DF2A54214	magnet:?xt=urn:btih:ECF88DE810092CD9D63109E18FEE97D9DC14BECB
 				"torrent4k": "magnet:?xt=urn:btih:F9999440264DED22FBE79E4EC50679568B35A2FF" magnet:?xt=urn:btih:88016152077FF392D41A4B61F8977C4F8B8FD2D7
 				}		
 			]
@@ -28755,7 +28783,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Thriller",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:11055481F9C029C7B1879A60CFB19B6A7F84453F",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/A.Todo.Gas.6-Fast.and.Furious.6-.2013.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:11055481F9C029C7B1879A60CFB19B6A7F84453F
 				"torrent4k": ""
 				}		
 			]
@@ -28820,7 +28848,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Aventuras, Accion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:E3C4B1DF0150655FC8D0DE34AAED8544376425D9",  magnet:?xt=urn:btih:633CAE8812277AD447F68E0C63D9049D6309A1C2
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.Hobbit.La.desolacion.de.Smaug-V.Ext.2013.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:E3C4B1DF0150655FC8D0DE34AAED8544376425D9	magnet:?xt=urn:btih:633CAE8812277AD447F68E0C63D9049D6309A1C2
 				"torrent4k": "magnet:?xt=urn:btih:32A14CDD02914A1334D31933E5F8C673717DB4F1"  magnet:?xt=urn:btih:CB7613D1637403AECBFAB0C1651558206838CD71
 				}		
 			]
@@ -29222,6 +29250,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2012, Letra D, EEUU, Musica, Baile, Colegios, Universidad, Sagas DandoLaNota, ",
+			"name": "Dando la nota (2012)","coloryear": "lightcoral",
+			"image": "https://www.themoviedb.org/t/p/original/puHZCmgINRwhY0g8HCCJZ9IYVjK.jpg",
+			"info": "Beca (Anna Kendrick) es de esas chicas que prefiere escuchar lo que sale de sus cascos a lo que pueda decirle alguien. Al llegar a la universidad, no tiene cabida en ningún grupo, pero la obligan a unirse a uno que jamás habría escogido, formado por chicas malas, chicas buenas y chicas raras que solo comparten una cosa: lo bien que suenan cuando están juntas cantando a coro. Beca quiere que el grupo de canto acústico salga del tradicional mundo musical y llegue a alcanzar armonías nuevas y sorprendentes. Las chicas deciden escalar puestos en el despiadado mundo del canto a cappella universitario. Su intento puede acabar siendo lo mejor que han hecho, o quizá su mayor locura. Probablemente sea una mezcla de las dos cosas",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Dando.la.nota.2012.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Western, A2012, Letra D, EEUU, Venganza, Esclavitud, Racismo, ",
 			"name": "Django desencadenado (2012)","coloryear": "lightcoral", 
 			"image": "https://www.themoviedb.org/t/p/original/hQoNUjkAOMOr66J21x3ovGEJPGx.jpg",
@@ -29268,7 +29309,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Aventuras, Accion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:08FEF0F201EF61BADE7E5A83A90422B477891705",  magnet:?xt=urn:btih:F69F855D7503182F28C0E4C806E4AF6C07F3BAD1
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.Hobbit.Un.viaje.inesperado-V.Ext.2012.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:08FEF0F201EF61BADE7E5A83A90422B477891705	magnet:?xt=urn:btih:F69F855D7503182F28C0E4C806E4AF6C07F3BAD1
 				"torrent4k": "magnet:?xt=urn:btih:463CCE11AE3428B612A8ECC84CD1E6F3D9158BCD" magnet:?xt=urn:btih:B5E234009ABBCD5501CCF4C9D0369A5203A079B9
 				}		
 			]
@@ -29664,7 +29705,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:aohoy4qbzrspsc7pqnjefwznp7kidjzl",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/A.Todo.Gas.5-Fast.and.Furious.5-.2011.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:aohoy4qbzrspsc7pqnjefwznp7kidjzl
 				"torrent4k": ""
 				}		
 			]
@@ -29716,7 +29757,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror, Thriller",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:ECD73E3BFC1464A02EC13070748349DD5A111672&dn=BR1080",  magnet:?xt=urn:btih:FA021511603432B715C9AD2AC5197D2EEC295BB0&dn=DVDRip  magnet:?xt=urn:btih:A66A296B38CFDDC21D9B06AC6B718AB9C0D6103A&dn=DVDRip
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Destino.final.5.-.2011.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:ECD73E3BFC1464A02EC13070748349DD5A111672&dn=BR1080	magnet:?xt=urn:btih:FA021511603432B715C9AD2AC5197D2EEC295BB0&dn=DVDRip  magnet:?xt=urn:btih:A66A296B38CFDDC21D9B06AC6B718AB9C0D6103A&dn=DVDRip
 				"torrent4k": ""
 				}		
 			]
@@ -30423,7 +30464,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:F59796B6A095F943273A56504F25869D9D3DE7EC",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/A.Todo.Gas.4-Fast.and.Furious.Aun.Mas.Rapido-2009.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:F59796B6A095F943273A56504F25869D9D3DE7EC
 				"torrent4k": ""
 				}		
 			]
@@ -30554,7 +30595,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror, Thriller",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:CEEB42CC55270AE15A8A36800BA03A080DE466AD&dn=BR1080",  magnet:?xt=urn:btih:597D65470D949D7AF86DAB23383E0494CB5815F9&dn=DVDRip  magnet:?xt=urn:btih:8E438928A2800555816DD8BCAC16E8FFC6CC9324&dn=DVDRip
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Destino.final.4.-.2009.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:CEEB42CC55270AE15A8A36800BA03A080DE466AD&dn=BR1080	magnet:?xt=urn:btih:597D65470D949D7AF86DAB23383E0494CB5815F9&dn=DVDRip  magnet:?xt=urn:btih:8E438928A2800555816DD8BCAC16E8FFC6CC9324&dn=DVDRip
 				"torrent4k": ""
 				}		
 			]
@@ -31352,6 +31393,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Intriga, 1Thriller, 1Drama, A2007, Letra D, EEUU, ",
+			"name": "Despierto (Awake) (2007)","coloryear": "steelblue",
+			"image": "https://www.themoviedb.org/t/p/original/uHYIu9LdmGE9wvbvsRv4uL5GTU6.jpg",
+			"info": "Clay Beresford (Hayden Christensen) es un joven multimillonario que debe someterse a un transplante de corazón. Para ello, deja que su mejor amigo, el doctor Jack Harper (Terrence Howard), sea el encargado de realizar la operación. Durante la intervención, Clay experimenta un extraño fenómeno que le hace estar consciente y completamente paralizado mientras le operan. Mientras tanto, su novia, Sam (Jessica Alba) debe hacer frente a una serie de decisiones que serán determinantes para el futuro de Clay. Según transcurre la acción, todo da un vuelco, haciendo que nada sea lo que en principio parecía",
+			"genero": "Intriga, Thriller, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Despierto-Awake.2007.-.720.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Accion, 1Intriga, 1Thriller, A2007, Letra E, EEUU, Espionaje, Sagas Bourne, ",
 			"name": "El ultimatum de Bourne (2007)","coloryear": "steelblue",
 			"image": "https://www.themoviedb.org/t/p/original/1OIp3IY2KZO6DehQ29gDW5RRgqs.jpg",
@@ -31638,7 +31692,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Thriller",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:ef6t377wwlmzmayz6ahjictlpdza2tgg",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/A.Todo.Gas.3.Tokyo.Race-The.Fast.and.the.Furious.Tokyo.Drift-.2006.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:ef6t377wwlmzmayz6ahjictlpdza2tgg
 				"torrent4k": ""
 				}		
 			]
@@ -31716,7 +31770,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:A65D4050A718BB6B4A4851BAC4BBD55E847BFD3B&dn=BR1080",  magnet:?xt=urn:btih:CB1EA8148C85738714B44958051E896B5F9CBF0D&dn=DVDRip  magnet:?xt=urn:btih:CA0A2D9B94008C7F82DC44012041A019F771B789&dn=DVDRip
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Destino.final.3.-.2006.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:A65D4050A718BB6B4A4851BAC4BBD55E847BFD3B&dn=BR1080	magnet:?xt=urn:btih:CB1EA8148C85738714B44958051E896B5F9CBF0D&dn=DVDRip  magnet:?xt=urn:btih:CA0A2D9B94008C7F82DC44012041A019F771B789&dn=DVDRip
 				"torrent4k": ""
 				}		
 			]
@@ -32456,7 +32510,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Musical, Romance, Drama",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:3E865E5EE2C36E47EFDD80510A1B808B49A4FB89&dn=DVDRip", 
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Dirty.Dancing.2.-2004.-.720.-.CristalAzul.mkv.torrent", 	magnet:?xt=urn:btih:3E865E5EE2C36E47EFDD80510A1B808B49A4FB89&dn=DVDRip
 				"torrent4k": ""
 				}		
 			]
@@ -32761,7 +32815,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Thriller",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:E822F9169E81FAB546939BD62985E5328183D867",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/A.Todo.Gas.2-2.Fast.2.Furious-.2003.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:E822F9169E81FAB546939BD62985E5328183D867
 				"torrent4k": ""
 				}		
 			]
@@ -32826,7 +32880,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:53ACC9E356E8B1C2778EA3B9882B30EE0212EC39&dn=BR1080",  magnet:?xt=urn:btih:EEE3043D19CF48291CB5C5FEA28F87E979969B8E&dn=DVDRip magnet:?xt=urn:btih:87BDB4F52DE2C25F647129FC283E233E2C5E37A4&dn=DVDRip
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Destino.final.2.-.2003.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:53ACC9E356E8B1C2778EA3B9882B30EE0212EC39&dn=BR1080	magnet:?xt=urn:btih:EEE3043D19CF48291CB5C5FEA28F87E979969B8E&dn=DVDRip magnet:?xt=urn:btih:87BDB4F52DE2C25F647129FC283E233E2C5E37A4&dn=DVDRip
 				"torrent4k": ""
 				}		
 			]
@@ -32839,7 +32893,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:207197C2CE697E97CB9C4DC783988196D6C6AD4F&dn=HD1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Dos.policias.rebeldes.II.2003.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:207197C2CE697E97CB9C4DC783988196D6C6AD4F&dn=HD1080
 				"torrent4k": ""
 				}		
 			]
@@ -33438,7 +33492,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:RVXFT5SJA4BKXH4LHQOJ3QCKNUKJ76H2",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/A.Todo.Gas-The.Fast.And.The.Furious-.2001.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:RVXFT5SJA4BKXH4LHQOJ3QCKNUKJ76H2
 				"torrent4k": ""
 				}		
 			]
@@ -33775,7 +33829,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:8D2DE17C26EF61348E974BE88B070D811BB2167B&dn=BR1080",  magnet:?xt=urn:btih:3d5ebeef45cb7a84e1b411f9390dde953bad7d94&dn=DVDRip magnet:?xt=urn:btih:A0855FCB270E94544179F151351CB57610CB1484&dn=DVDRip
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Destino.final.-.2000.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:8D2DE17C26EF61348E974BE88B070D811BB2167B&dn=BR1080	magnet:?xt=urn:btih:3d5ebeef45cb7a84e1b411f9390dde953bad7d94&dn=DVDRip magnet:?xt=urn:btih:A0855FCB270E94544179F151351CB57610CB1484&dn=DVDRip
 				"torrent4k": ""
 				}		
 			]
@@ -35139,7 +35193,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Comedia",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:C25CBBFD02C0F44FBCD9F6A562D7A40FECFA8B4D&dn=HD1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Dos.policias.rebeldes.1995.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:C25CBBFD02C0F44FBCD9F6A562D7A40FECFA8B4D&dn=HD1080
 				"torrent4k": ""
 				}		
 			]
@@ -36419,7 +36473,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Romance, Drama",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:CFE63C9C6D3B6382C35DF1EABB617592BE41EE90&dn=HD1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Dirty.Dancing.1987.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:CFE63C9C6D3B6382C35DF1EABB617592BE41EE90&dn=HD1080
 				"torrent4k": ""
 				}		
 			]
