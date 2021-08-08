@@ -6,6 +6,17 @@
 
 
 <item>
+<title>[COLOR white] Mudanza Mortal [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.3[/COLOR]</title>    
+<genre>Terror,Thriller,Casas encantadas</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/dg3ojyq.jpg</thumbnail>
+<fanart>https://i.imgur.com/PqaZprS.jpg</fanart>
+<info>Una joven pareja acepta un trato y se muda a una casa de ensueño para salvar su matrimonio. Pronto, eventos inquietantes revelan el turbulento pasado del lugar.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=17Nc08TiVQo&t=2s"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/jy3xpidgzl0jzz7"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.to/f/3n88peg6smm0xkx"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbemed.com/e/jgex0c37i11g.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/d907dd1jdfqg"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1UsmXcmaeGE2xXX04iZov2JSjYqE5lfsH/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white]  Muere otra vez [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.0[/COLOR]</title>    
 <genre>Ciencia ficción,Acción,Thriller,Comedia</genre>
 <year>2021</year>
