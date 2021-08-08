@@ -6,6 +6,17 @@
 
 
 <item>
+<title>[COLOR white]  ¡Scooby-Doo! La Espada y Scooby [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.2[/COLOR]</title>    
+<genre>Animación,Acción,Aventuras,Magia,Dragones</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/4fUABtO.jpg</thumbnail>
+<fanart>https://i.imgur.com/jRiph9n.jpg</fanart>
+<info>Una hechicera malvada transporta a la pandilla a la época de caballeros caballerosos, magos lanzadores de hechizos y dragones que escupen fuego.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=6neKtzlVQS4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/r4nxruegr1qy18j"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.to/f/j9m1mxjqa787ro7"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/pj955em9wfx5.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-5nxpzj8uuw6t.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1q5ctoFHT6Ld-7bIayM9uQHBgJTUfVQ27/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Mudanza Mortal [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.3[/COLOR]</title>    
 <genre>Terror,Thriller,Casas encantadas</genre>
 <year>2021</year>
