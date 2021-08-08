@@ -12,7 +12,7 @@
 <thumbnail>https://i.imgur.com/Po40bjq.jpg</thumbnail>
 <fanart>https://i.imgur.com/XRMee0p.jpg</fanart>
 <info>Un oficial de las fuerzas especiales, ya retirado, se ve obligado a vivir una y otra vez en bucle el día de su muerte.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=vxDnFhIxqyU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/2r2j0i206gx08rq"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "FALTA PONER"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/lze896yr4tju.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/y2o7bczckh94"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/121jL0ePMkTIRcCgqZ9H6ipiC4IAQUMhs/view"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=vxDnFhIxqyU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/2r2j0i206gx08rq"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.to/f/gn1lvqexuqgwwe"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/lze896yr4tju.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/y2o7bczckh94"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/121jL0ePMkTIRcCgqZ9H6ipiC4IAQUMhs/view"}</urlsolve>
 </item>
 
 
