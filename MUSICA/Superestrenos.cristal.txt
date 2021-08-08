@@ -6,6 +6,17 @@
 
 
 <item>
+<title>[COLOR white] Vivo [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.8[/COLOR]</title>    
+<genre>Animación,Musical,Comedia</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/NVhdH1U.jpg</thumbnail>
+<fanart>https://i.imgur.com/EHZar1W.jpg</fanart>
+<info>Narra la vida de Vivo, un kinkajú («oso de la miel» de la selva tropical) dotado de un brillante talento para la música, que busca la forma de viajar desde La Habana hasta Miami para entregarle una canción al antiguo amor de su adorado dueño.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=IWw6Q881b2w"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/zkp50sjg4pg6y48"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.to/f/1v8qrwrrakqj013"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/cw7968s21g12.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-k8y0y5ddkqam.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/15Q2sUNm8xiLD2sZdKt_7uNI25rCzLzpE/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white]  ¡Scooby-Doo! La Espada y Scooby [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.2[/COLOR]</title>    
 <genre>Animación,Acción,Aventuras,Magia,Dragones</genre>
 <year>2021</year>
