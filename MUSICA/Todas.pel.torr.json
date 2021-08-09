@@ -103,6 +103,8 @@ Title:EL CORREDOR DEL LABERINTO, SagaID:MazeRunner, Imagen:https://fanart.tv/det
 							-	0Saga, 1SagaTorrent, 
 Title:EL HOBBIT, SagaID:ElHobbit, Imagen:http://3.bp.blogspot.com/-U7HlyLkd2bs/UXbmTgCSlxI/AAAAAAAAAio/TOvvvfIk4qw/s1600/official-logo-the-hobbit.gif,		
 							-	0Saga, 1SagaTorrent, 
+Title:EL HOMBRE DE LOS PUÑOS DE HIERRO, SagaID:EHDLPDH, Imagen:http://2.bp.blogspot.com/-t_GxsDzKL0Y/UbihBZsvehI/AAAAAAAAllk/TPOwjRA5nhQ/s1600/el-hombre-de-los-pu%C3%B1os-de-hierro.jpg,	
+							-	0Saga, 1SagaTorrent, 
 Title:EL PADRINO, SagaID:ElPadrino, Imagen:https://4.bp.blogspot.com/-jm1n2PikCYs/T1M9Z4cz-PI/AAAAAAAAAFo/pa9Kbd5NFv0/s1600/EL+PADRINO.jpg,	
 							-	0Saga, 1SagaTorrent, 
 Title:EL PLANETA DE LOS SIMIOS, SagaID:Simios, Imagen:https://monjesfanaticos.files.wordpress.com/2017/07/logo.jpg,
@@ -114,6 +116,8 @@ Title:EL PROFESOR CHIFLADO, SagaID:ElProfesorChiflado, Imagen:https://www.themov
 Title:EL REINO DE DUNARK, SagaID:Dunark, Imagen:https://is5-ssl.mzstatic.com/image/thumb/QixEoJGGpWKrZZk3DzTlwQ/1200x630.jpg,			
 							-	0Saga, 1SagaTorrent, 
 Title:EL SEÑOR DE LOS ANILLOS, SagaID:ESDLA, Imagen:https://i1.wp.com/elanillounico.com/wp-content/uploads/2017/11/logo-El-Se%C3%B1or-de-los-Anillos-es.png,
+							-	0Saga, 1SagaTorrent, 
+Title:EN TIERRA PELIGROSA, SagaID:ETP, Imagen:https://www.themoviedb.org/t/p/original/2OxvxLawL3l4A49kFFKeXQTOIbU.jpg,		
 							-	0Saga, 1SagaTorrent, 
 Title:EXPEDIENTE WARREN (EL CONJURO), SagaID:EWarren, Imagen:https://animalesenpeligro.neocities.org/Imagenes/the-conjuring-54c3f7b1b893e.png,	
 							-	0Saga, 1SagaTorrent, 
@@ -869,7 +873,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:FE0FEDBE8F51026A6D41B325575658DDF3581F9D&dn=HD1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.Rey.de.Zamunda.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:FE0FEDBE8F51026A6D41B325575658DDF3581F9D&dn=HD1080
 				"torrent4k": "magnet:?xt=urn:btih:B92D8D6690C526C85FAEA4221E51E61FECC43007&dn=Web4K", https://blazing.network/torrents/peliculas/147714_-1615041737-El-Rey-de-Zamunda-2--4KWebrip.torrent  https://maxitorrent.com/download/147714_-1615041737-El-Rey-de-Zamunda-2--4KWebrip.torrent
 				}		
 			]
@@ -4145,7 +4149,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:B9DDFDFB94FF11E851AC641ED513F23EE59832B2",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.Padrino.epilogo-La.muerte.de.Michael.Corleone.-2020.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:B9DDFDFB94FF11E851AC641ED513F23EE59832B2
 				"torrent4k": ""
 				}		
 			]
@@ -5564,7 +5568,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Terror, Drama",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.nube.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.nube.-2020.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:CEF872CCEBD56D837BDE969A17AE205DA4375F06&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -7469,6 +7473,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				{
 				"torrent": "magnet:?xt=urn:btih:D4ED983FC9747E7B51E153555C873EA681E0BC95",
 				"torrent4k": "
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra S, Spain, Musica, ",
+			"name": "Stop (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/iLW2R016ZWXNUjzfutYjgvAxIEW.jpg",
+			"info": "El infortunio lleva al grupo musical Doble Pletina a ser condenado a realizar servicios a la comunidad en un misterioso parque de Barcelona",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Stop.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -11506,7 +11523,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Aventuras, Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:7337532d8968000eeef29ffe13401c51dd70b1f3&HD720",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.reino.de.Dunark-El.Don.de.la.serpiente.-2019.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:7337532d8968000eeef29ffe13401c51dd70b1f3&HD720
 				"torrent4k": ""
 				}		
 			]
@@ -26925,6 +26942,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Thriller, A2016, Letra A, Corea del Sur, ",
+			"name": "Atrapado en el tunel (2016)","coloryear": "purple",
+			"image": "https://www.themoviedb.org/t/p/original/bTrNHc3LS7sZPY0UCd8qppLa6HD.jpg",
+			"info": "Un túnel se derrumba por la mala construcción y un hombre (Ha Jung Woo) queda atrapado en el túnel",
+			"genero": "Drama, Thriller",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:10EF0A798AC14F61E54C53C1C76D605B9E5C92FF&dn=BRRip",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Drama, 1Thriller, A2016, Letra B, Spain, ",
 			"name": "Backseat Fighter (2016)","coloryear": "purple",
 			"image": "https://www.ecartelera.com/carteles/12100/12167/001_p.jpg",
@@ -27757,7 +27787,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Fantastico",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:D634C6014EE58205773C6B31ADBB3CFC6D365214",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.hombre.de.los.punhos.de.hierro.2.-2015.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:D634C6014EE58205773C6B31ADBB3CFC6D365214
 				"torrent4k": ""
 				}		
 			]
@@ -27783,7 +27813,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Aventuras",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:CFEC6D095B2A1D85D04380BFF91BF07853AC0140&dn=1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.reino.de.Dunark.-2015.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:CFEC6D095B2A1D85D04380BFF91BF07853AC0140&dn=1080
 				"torrent4k": ""
 				}		
 			]
@@ -29354,6 +29384,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Fantastico, A2012, Letra E, EEUU, Sagas EHDLPDH, ",
+			"name": "El hombre de los puños de hierro (2012)","coloryear": "lightcoral",
+			"image": "https://www.themoviedb.org/t/p/original/ob8jkwsa2swYex23Qkh3DxT0DSi.jpg",
+			"info": "En la remota China del siglo XIX, un solitario forastero se dedica a fabricar armas para los vecinos de un pequeño pueblo. Un dia se vera en la obligacion de convertirse en protector del poblado que lo acogio, intentado defender a sus habitantes de una banda de asesinos",
+			"genero": "Accion, Fantastico",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.hombre.de.los.punhos.de.hierro.-2012.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:E85E7239DAD74FC4FE295809F31060992A09087C
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Accion, 1Thriller, A2012, Letra E, EEUU, ",
 			"name": "El invitado (2012)","coloryear": "lightcoral",
 			"image": "https://www.themoviedb.org/t/p/original/a2SMtS2tH188soH7Fb4RzxqtCQQ.jpg",
@@ -29861,7 +29904,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Aventuras, Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:E28BE25C644166B66AA4C58CDE8B017E9BFCB4CE",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Harry.Potter.y.las.reliquias.de.la.muerte.-.Parte.2.-2011.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:E28BE25C644166B66AA4C58CDE8B017E9BFCB4CE
 				"torrent4k": ""magnet:?xt=urn:btih:5BD36CE2A82393306B6EEC7F246D66445570B746"
 				}		
 			]
@@ -30263,7 +30306,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Aventuras, Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:1A9EF3DD41F051FF33C3EB056969B177B96DE71E",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Harry.Potter.y.las.reliquias.de.la.muerte.-.Parte.1.-2010.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:1A9EF3DD41F051FF33C3EB056969B177B96DE71E
 				"torrent4k": "magnet:?xt=urn:btih:2B6995401196B1FBB96A173C8910377AEF897711"
 				}		
 			]
@@ -30686,7 +30729,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Aventuras, Drama",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:53AE3548CDB1D1128B79894F63742AC003AB310D",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Harry.Potter.y.el.misterio.del.principe.-2009.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:53AE3548CDB1D1128B79894F63742AC003AB310D
 				"torrent4k": "magnet:?xt=urn:btih:195739DCB7E695608F0D96748F9ACA58094BF213"
 				}		
 			]
@@ -31517,7 +31560,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Aventuras, Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:67D0DBD469E5B1ECCFEF6256777E3AE155BC0D14&dn=HD1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Harry.Potter.y.la.orden.del.Fenix.-2007.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:67D0DBD469E5B1ECCFEF6256777E3AE155BC0D14&dn=HD1080
 				"torrent4k": "magnet:?xt=urn:btih:F460C59BA3D2A08F353D452DA240B8CD659EC071&dn=UHDRip"
 				}		
 			]
@@ -32231,7 +32274,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Aventuras, Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:A185CCF6CE83F590EBB8B90190D9239A9C916AC0",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Harry.Potter.y.el.caliz.de.fuego.-2005.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:A185CCF6CE83F590EBB8B90190D9239A9C916AC0
 				"torrent4k": "magnet:?xt=urn:btih:03D538A4432E4E6E571300E6633F2A0A12A58D55"
 				}		
 			]
@@ -32627,7 +32670,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Aventuras, Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:75C206EB1F5BA026112D78F41C91F9FBF0868420",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Harry.Potter.y.el.prisionero.de.Azkaban.-2004.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:75C206EB1F5BA026112D78F41C91F9FBF0868420
 				"torrent4k": "magnet:?xt=urn:btih:8765A59C4A4FA088C931BC1DFD5AA2334C8018EF"
 				}		
 			]
@@ -33356,7 +33399,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Aventuras",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:159085A60FF3AB18D8FB89D1AE2F0B7C63641760",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Harry.Potter.y.la.camara.secreta.-2002.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:159085A60FF3AB18D8FB89D1AE2F0B7C63641760
 				"torrent4k": "magnet:?xt=urn:btih:298B114EFC12CC7C545D0354A6579289A61147B1"
 				}		
 			]
@@ -33661,7 +33704,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Aventuras, Infantil",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:55C21FADCF6C62DB2D0CC70B162D3056ECBAC6AC",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Harry.Potter.y.la.piedra.filosofal.-2001.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:55C21FADCF6C62DB2D0CC70B162D3056ECBAC6AC
 				"torrent4k": "magnet:?xt=urn:btih:CE4B3547F8DD0DF208C8C5D9AC3004E38F6ADB99"
 				}		
 			]
@@ -34829,6 +34872,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Aventuras, A1997, Letra E, EEUU, B2000, A2000-1991, Sagas ETP, ",
+			"name": "En tierra peligrosa 2 (1997)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/3DqQr6aeXAkDnc1j7EaOvlQhUQU.jpg",
+			"info": "El agente Jack Taggart es enviado a una pequeña poblacion de los montes Apalaches, donde ha sido asesinado un compañero suyo. Ademas, en esa zona se estan llevando a cabo peligrosos vertidos toxicos, que causan graves enfermedades a los habitantes del lugar, especialmente a los niños. El hermetismo de la gente no facilita la investigacion de Taggart, pero pronto relaciona el caso con un empresario sin escrupulos llamado Orin Hanner, que tiene amenazado al pueblo entero...",
+			"genero": "Accion, Aventuras",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/En.tierra.peligrosa.2.-1997.-.720.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Intriga, A1997, Letra G, EEUU, B2000, A2000-1991, 1Culto, ",
 			"name": "Gattaca (1997)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/a87HrDvqvLRgCumRVP6gAexmNDS.jpg",
@@ -35057,7 +35113,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia, Fantastico",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:DF81B07DFF6079E994CE8390E7119A651C429292&dn=BDR1080",  magnet:?xt=urn:btih:D45B147B9A649BA5BACA46639E6EE8E6A1E2D842&dn=BR1080
+				"torrent": "magnet:?xt=urn:btih:D45B147B9A649BA5BACA46639E6EE8E6A1E2D842&dn=BR1080",  	magnet:?xt=urn:btih:DF81B07DFF6079E994CE8390E7119A651C429292&dn=BDR1080
 				"torrent4k": ""
 				}		
 			]
@@ -35443,6 +35499,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent": "magnet:?xt=urn:btih:8055b8f89a8d96889286b0b0b78e14c51edec080",
 				"torrent4k": ""
 				}
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Aventuras, A1994, Letra E, EEUU, B2000, A2000-1991, Sagas ETP, ",
+			"name": "En tierra peligrosa (1994)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/2OxvxLawL3l4A49kFFKeXQTOIbU.jpg",
+			"info": "En las plataformas de petroleo de Alaska, Forrest Taft (Steven Seagal, que debuta como director) trabaja como especialista en la extincion de incendios en los pozos de petroleo. Sin embargo, mucho mas peligroso que eso es enfrentarse a Michael Jennings, presidente de una compañia petrolifera que ha obtenido enormes beneficios a costa de poner en peligro el medio ambiente. En esa batalla Taft cuenta con el apoyo de una activista nativa y de cualquiera que se oponga a la compañia.",
+			"genero": "Accion, Aventuras",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/En.tierra.peligrosa.-1994.-.720.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""
+				}		
 			]
 			},
 			{
@@ -36018,7 +36087,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:6165595f735ac557ef210f32abb40dd361a588fa",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.Padrino.III.-1990.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:6165595f735ac557ef210f32abb40dd361a588fa
 				"torrent4k": ""
 				}		
 			]
@@ -36395,7 +36464,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia, Romance",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:8EC5EEB5C103BF78463FE5375EAC0E2F7DD4F703&dn=DVDRip",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.Principe.de.Zamunda.-1988.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:8EC5EEB5C103BF78463FE5375EAC0E2F7DD4F703&dn=DVDRip
 				"torrent4k": ""
 				}		
 			]
@@ -38108,7 +38177,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:979b5647ed32b6ef417d40808594cd82857ac81c",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.Padrino.II.-1974.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:979b5647ed32b6ef417d40808594cd82857ac81c
 				"torrent4k": ""
 				}		
 			]
@@ -38238,7 +38307,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:161acc9453d65abe0ad2e2d8aa22348951bd43ad",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.Padrino.-1972.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:161acc9453d65abe0ad2e2d8aa22348951bd43ad
 				"torrent4k": ""
 				}		
 			]
