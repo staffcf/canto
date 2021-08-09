@@ -6,8 +6,34 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Accion, 1Fantastico, A2020, Letra M, EEUU, ",
+			"name": "Mortal Kombat Legends: La venganza de Scorpion (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/sqBl12v4AXVoc5PmeGnd8oZ7HHY.jpg",
+			"info": "Basado en el popular videojuego creado por Ed Boon y John Tovias, Mortal Kombat Legends: Scorpion’s Revenge pone el foco en un torneo único que se celebra una vez por generación y en el que se enfrentan los campeones de distintos reinos. El ganador determinará el destino de la Tierra y de sus habitantes",
+			"genero": "Animacion, Accion, Fantastico",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Mortal.Kombat.Legends-La.venganza.de.Scorpion.-2020.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:B336F2E14D75FAC1BEC73BE4128C52B80E600172&dn=BRRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra S, Spain, Musica, ",
+			"name": "Stop (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/iLW2R016ZWXNUjzfutYjgvAxIEW.jpg",
+			"info": "El infortunio lleva al grupo musical Doble Pletina a ser condenado a realizar servicios a la comunidad en un misterioso parque de Barcelona",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Stop.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:F428C24A85CC8CFF8C89FECEEAB2B6E7893A8B40&dn=HD720	magnet:?xt=urn:btih:29C08B15C0A53CF87B76432C226417B1817BAFAB&dn=BRRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, A2021, Letra U, EEUU, ",
-			"name": "Una Cenicienta moderna: salto a la fama (2021)","coloryear": "cyan",
+			"name": "Una Cenicienta Moderna: Salto a la fama (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/9yG4utptSiN4sa8esR7pXyRN8kh.jpg",
 			"info": "Finley Tremaine, una chica campestre y de pueblo, desea extender sus alas y echar a volar para convertirse en actriz. Cuando un equipo de rodaje de Hollywood llega a su tranquilo pueblo, está decidida a conseguir un papel en la producción y llama la atención del atractivo actor principal, Jackson Stone. Desafortunadamente, una chapuza de audición la obliga a cambiar de rumbo",
 			"genero": "Romance",
@@ -34,7 +60,7 @@
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2021, Letra E, Dinamarca, Sagas DepartmentQ, ",
 			"name": "El efecto Marcus: Los casos del Departamento Q (2021)","coloryear": "cyan",
-			"image": "https://i.imgur.com/15d3Mvz.jpg",
+			"image": "https://www.themoviedb.org/t/p/original/3DRK68IyqtfnPjVuaHffubYAPKo.jpg",
 			"info": "Un día, Marco se encuentra un hombre muerto. Después de darse cuenta de que Marco puede tener información valiosa, el inspector Mørck se decide a encontrarle y rescatarle",
 			"genero": "Thriller",
 			"stations": [
@@ -1900,175 +1926,6 @@
 				{
 				"torrent": "magnet:?xt=urn:btih:2025F6405B2EC340BB73A7D2D9CE97B3355D87CC&dn=BRRip",
 				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Comedia, A2021, Letra D, Suecia, C720, Netflix, ",
-			"name": "Dancing Queens (2021)","coloryear": "cyan",
-			"image": "https://www.themoviedb.org/t/p/original/2SwDKTyGppeB6QNxNwJlBcbt6k6.jpg",
-			"info": "Una joven de un pueblecito sueña con ser bailarina y se disfraza de hombre para actuar en un club de drag queens que esta de capa caida",
-			"genero": "Drama, Comedia",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:E63A24F08E92A81E1BE1F3F3806405A581FA7B2E&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Belico, 1Drama, A2019, Letra NUM, Rusia, C720, ",
-			"name": "1942: la gran ofensiva (2019)","coloryear": "limegreen",
-			"image": "https://www.themoviedb.org/t/p/original/sgUaucXoVmNdI2SyeJyPCxm0Psr.jpg",
-			"info": "Basada en las memorias de Vyacheslav Kondratyev, aborda la batalla de la ciudad de Rzhev durante la segunda guerra mundial de 1942-1943. Dicha batalla fue clave en la lucha para romper el devastador asedio nazi. Se produjo un baño de sangre, murieron mas de 400 mil personas y hubo 900 mil heridos",
-			"genero": "Belico, Drama",
-			"stations": [
-				{ 
-				"torrent": "magnet:?xt=urn:btih:C041A5EAB511780179AD9EB12A7BD29425602C29&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Thriller, 1Accion, A2021, Letra N, EEUU, C720, ",
-			"name": "Nadie (2021)","coloryear": "cyan",
-			"image": "https://www.themoviedb.org/t/p/original/nDAyn7IWyeVz0SlejNXKYWDwcd9.jpg",
-			"info": "Hutch Mansell (Bob Odenkirk) es un hombre de familia corriente. Una noche unos ladrones entran a su casa y el renuncia a defenderse y defender a su familia con el fin de evitar complicaciones. Esto decepciona a su hijo Blake (Gage Munroe) y a su mujer Becca (Connie Nielsen) que empiezan a distanciarse de el. El incidente le reconcome por dentro y hace que salga a la luz su lado mas oscuro",
-			"genero": "Thriller, Accion",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:94BBC30C4515D5C1E60A249E84DC1B3F367B5A98&dn=HD1080",  magnet:?xt=urn:btih:BBDD481EF1372B6DF24D32C5B9EE2E20D5445631&dn=BRRip
-				"torrent4k": "magnet:?xt=urn:btih:10E600C8C12D9DC82A906591D6222BA6BDA40F5C"  magnet:?xt=urn:btih:8490212691D6ABA94999CFF8B189B2D84AC7EDA8&dn=microHD
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, A2019, Letra M, Francia, C720, ",
-			"name": "Mi niña (Mon bebe) (2019)","coloryear": "limegreen",
-			"image": "https://www.themoviedb.org/t/p/original/ms71TRnJqAKJpn3YWlsK1UR9Kzd.jpg",
-			"info": "Heloise es la madre de tres hijos. Jade, su "hija pequeña", acaba de cumplir dieciocho años y pronto abandonara el nido para continuar sus estudios en Canada. A medida que se acerca la partida de Jade, el estres de Heloise aumenta y recuerda sus momentos compartidos con ella",
-			"genero": "Comedia, Drama",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:4A73C8BB9554FE6802D097F42FF94C28CD9CED83&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra E, Spain, C720, ",
-			"name": "El arte de volver (2020)","coloryear": "magenta",
-			"image": "https://www.themoviedb.org/t/p/original/w6db2LwAsPvhd6xNnFdfXd3GqwF.jpg",
-			"info": "Noemí es una joven actriz que regresa a casa tras seis años en Nueva York para asistir a una audicion que podria cambiar su carrera. Durante las primeras 24 horas en Madrid, Noemí tiene una serie de encuentros y despedidas que le enseñan a apreciar los vaivenes de la vida y le ayudan a repensar su pasado, su futuro y su lugar en el mundo",
-			"genero": "Drama",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:C42ABEB1120BE0C5AA4A3A8788818ED2C49AA9D8&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra C, Brasil, C720, Netflix, ",
-			"name": "Carnaval (2021)","coloryear": "cyan",
-			"image": "https://www.themoviedb.org/t/p/original/tsWHlqdsW9uqiyy26kgFjxjKPOH.jpg",
-			"info": "Despues de que se hace viral un video de su novio engañandola, Nina usa sus contactos en el mundo de los influencers para conseguir un viaje espectacular todo pagado al carnaval de Salvador de Bahia con sus tres mejores amigas",
-			"genero": "Comedia",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:09E6940A133A0A0BB7F8A02C998829C0B32A6576&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra M, EEUU, C720, ",
-			"name": "Miss Juneteenth (2020)","coloryear": "magenta",
-			"image": "https://www.themoviedb.org/t/p/original/o3EBp3yXueuOjbvVcZs0AL7jhDv.jpg",
-			"info": "Turquoise, una antigua reina de la belleza en el instituto, se ha convertido ahora en una trabajadora y madre soltera que trata de preparar a su hija para el certamen de 'Miss Juneteenth', con la esperanza puesta en que sea capaz de evitar los errores que ella cometio durante su adolescencia",
-			"genero": "Drama",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:A2751176247844468B2BEC627DA34A19D286C78C&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra N, EEUU, C720, ",
-			"name": "Nunca, casi nunca, a veces, siempre (2020)","coloryear": "magenta",
-			"image": "https://www.themoviedb.org/t/p/original/iY7J2bZyVsnlFLrAgRcoZHuaW9k.jpg",
-			"info": "Autumn, una apatica y callada adolescente, trabaja como cajera en un supermercado rural de Pennsylvania. Viendose obligada a sobrellevar un embarazo accidental y sin alternativas viables para poder realizar un aborto en su propio estado, ella y su prima Skylar reunen algo de dinero y se embarcan en un autobus rumbo a Nueva York. Con la direccion de una clinica apuntada en un papel y sin un lugar en el que pasar la noche, las dos chicas se adentran en una ciudad que desconocen",
-			"genero": "Drama",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:7549569265F036986A3D267ABBC04404DC00F774&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Thriller, A2021, Letra D, EEUU, C720, ",
-			"name": "Dia de redencion (2021)","coloryear": "cyan",
-			"image": "https://www.themoviedb.org/t/p/original/nrWxtM9YbW74PPStSScd5V0lhBM.jpg",
-			"info": "Cuando el amor de su vida es secuestrada por terroristas, el heroe de guerra Brad Paxton intenta rescatarla en una operacion letal en la que se enfrentara a las fuerzas mas poderosas del planeta",
-			"genero": "Accion, Thriller",
-			"stations": [
-				{ 
-				"torrent": "magnet:?xt=urn:btih:418D7D72569E19FD0CE5DF48CB810CAD79B58D5A&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2020, Letra A, Reino Unido, C720, Telefilm, ",
-			"name": "Agatha y los asesinatos de medianoche (2020)","coloryear": "magenta",
-			"image": "https://www.themoviedb.org/t/p/original/42uaDLu8iUuExUHIoU1PDrjLcKK.jpg",
-			"info": "Mientras las bombas caen sobre Londres, la escritora Agatha Christie considera vender un manuscrito que acabara con su creacion mas famosa",
-			"genero": "Thriller",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:15EC639E8E4085C0E21FE5C9A304D1A483C2A5C7&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra R, Italia, C720, 1Biografico, Netflix, ",
-			"name": "Roberto Baggio, la Divina Coleta (2021)","coloryear": "cyan",
-			"image": "https://www.themoviedb.org/t/p/original/tBBv03j2NOCLqZWRc9vwxZWN9DR.jpg",
-			"info": "Una cronica de los 22 años de carrera de la estrella de futbol Roberto Baggio, incluyendo su dificil debut como jugador y las disputas con algunos de sus entrenadores",
-			"genero": "Drama",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:2883258AD12F9992B520DCC399FFE6337A10EE05&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2018, Letra P, Francia, C720, ",
-			"name": "Profesor en Groenlandia (2018)","coloryear": "aqua",
-			"image": "https://www.themoviedb.org/t/p/original/fkloodVoluWkW1A8WnFo24VKU6p.jpg",
-			"info": "Anders, un profesor recien licenciado, decide dejar su Dinamarca natal en busca de una aventura laboral en Groenlandia. Al llegar alli se siente extraño y alejado de sus habitantes, al ser una comunidad muy cerrada. Gracias a una serie de curiosas circunstancias, Anders cuestionara sus convicciones centroeuropeas y aceptara su nuevo estilo de vida polar",
-			"genero": "Drama",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:4EA13E8FEB8EF037C34DCE264A23057F502DD344&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Comedia, A2021, Letra C, EEUU, C720, Disney, ",
-			"name": "Cruella (2021)","coloryear": "cyan",
-			"image": "https://www.themoviedb.org/t/p/original/5bsApWAUqb0jeXtHPjKQ6MZOtZJ.jpg",
-			"info": "Explora los rebeldes comienzos de una de las villanas mas conocidas del cine y famosa por su elegancia: Cruella de Vil. Ambientada en el Londres de los años 70, en plena revolucion del punk rock, la pelicula muestra a una joven estafadora llamada Estella, asi como la serie de acontecimientos que la llevan a asumir su lado malvado y a convertirse en la estridente y vengativa Cruella",
-			"genero": "Comedia",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:4C893416EEE51A60302C5688962C807741873497&dn=HD1080",  magnet:?xt=urn:btih:9E9E5CE43BE9B4AB8E2D0721B1206FCB9E6AE4A8&dn=BRRip
-				"torrent4k": "magnet:?xt=urn:btih:599F760CE492A3577A73F3D44CA74F5BB5F67143"
 				}		
 			]
 			}
