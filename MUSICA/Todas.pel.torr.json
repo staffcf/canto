@@ -5555,7 +5555,20 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent4k": ""
 				}		
 			]
-			},
+			}
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Fantastico, 1Terror, 1Drama, A2020, Letra L, Francia, ",
+			"name": "La nube (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/s31liVC5148H5a1crqpoTGF02zL.jpg",
+			"info": "A Virginie le resulta difícil conciliar su vida de agricultora con la de madre soltera. Para sacar a su familia adelante y evitar la quiebra de su granja, se entrega en cuerpo y alma a la cría de saltamontes comestibles. La vida es dura: las preocupaciones económicas y los problemas prácticos se amontonan, las tensiones con sus hijos y vecinos aumentan. Poco a poco, Virginie empieza a desarrollar un extraño vínculo obsesivo con sus saltamontes: ni sus hijos son capaces ya de reconocerla",
+			"genero": "Fantastico, Terror, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.nube.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},,
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Thriller, A2020, Letra L, Spain, ",
 			"name": "La ofrenda (2020)","coloryear": "magenta",
