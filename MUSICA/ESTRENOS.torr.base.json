@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, A2021, Letra U, EEUU, ",
+			"name": "Una Cenicienta moderna: salto a la fama (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/9yG4utptSiN4sa8esR7pXyRN8kh.jpg",
+			"info": "Finley Tremaine, una chica campestre y de pueblo, desea extender sus alas y echar a volar para convertirse en actriz. Cuando un equipo de rodaje de Hollywood llega a su tranquilo pueblo, está decidida a conseguir un papel en la producción y llama la atención del atractivo actor principal, Jackson Stone. Desafortunadamente, una chapuza de audición la obliga a cambiar de rumbo",
+			"genero": "Romance",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Una.Cenicienta.moderna-Salto.a la.fama.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:A80BBF85F9D430022BA3EE3C96A1B35DA3A7D13F&dn=BRRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Fantastico, 1Terror, 1Drama, A2020, Letra L, Francia, ",
 			"name": "La nube (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/s31liVC5148H5a1crqpoTGF02zL.jpg",
@@ -13,7 +26,7 @@
 			"genero": "Fantastico, Terror, Drama",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.nube.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.nube.-2020.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:CEF872CCEBD56D837BDE969A17AE205DA4375F06&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -21,7 +34,7 @@
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2021, Letra E, Dinamarca, Sagas DepartmentQ, ",
 			"name": "El efecto Marcus: Los casos del Departamento Q (2021)","coloryear": "cyan",
-			"image": "https://www.themoviedb.org/t/p/original/kz1XqFckwKhfK6KAsYKHL1ZB0na.jpg",
+			"image": "https://i.imgur.com/15d3Mvz.jpg",
 			"info": "Un día, Marco se encuentra un hombre muerto. Después de darse cuenta de que Marco puede tener información valiosa, el inspector Mørck se decide a encontrarle y rescatarle",
 			"genero": "Thriller",
 			"stations": [
