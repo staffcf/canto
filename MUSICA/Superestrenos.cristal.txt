@@ -6,6 +6,17 @@
 
 
 <item>
+<title>[COLOR white] Mortal Kombat Legends: La venganza de Scorpion [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.3[/COLOR]</title>    
+<genre>Animación para adultos,Acción,Fantástico,Artes marciales,Gore</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/9kcvufp.jpg</thumbnail>
+<fanart>https://i.imgur.com/tOElfBu.jpg</fanart>
+<info>Basado en el popular videojuego creado por Ed Boon y John Tovias, Mortal Kombat Legends: Scorpion’s Revenge pone el foco en un torneo único que se celebra una vez por generación y en el que se enfrentan los campeones de distintos reinos. El ganador determinará el destino de la Tierra y de sus habitantes.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=SKNrO8-f9fU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/8ql36h8x2pm5x81"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.to/f/1v888z3ehkeok43"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/ucxgm05o4c5m.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/q1ja11fqqzwe"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1TN6fHtzJVXE7a76lz9FPGVtZc_AiJfqG/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Vivo [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.8[/COLOR]</title>    
 <genre>Animación,Musical,Comedia</genre>
 <year>2021</year>
