@@ -35113,7 +35113,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia, Fantastico",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:D45B147B9A649BA5BACA46639E6EE8E6A1E2D842&dn=BR1080",  	magnet:?xt=urn:btih:DF81B07DFF6079E994CE8390E7119A651C429292&dn=BDR1080
+				"torrent": "magnet:?xt=urn:btih:0A17787E64C955D70B2B41F552B9B2B240C6DC90&dn=DVDRip",  	magnet:?xt=urn:btih:DF81B07DFF6079E994CE8390E7119A651C429292&dn=BDR1080
 				"torrent4k": ""
 				}		
 			]
@@ -38836,6 +38836,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				{
 				"torrent": "magnet:?xt=urn:btih:ABBF6377DCA2CAB3F1446D0E7EF21E9016C4C275",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Fantastico, 1Ciencia ficcion, A1963, Letra E, EEUU, B2000, A1970-1961, ",
+			"name": "El profesor chiflado (1963)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/emO5eQK7szRVPlUZwf7dda9U0jc.jpg",
+			"info": "Julious Kelp, un profesor universitario de química torpe y bastante desafortunado en su vida social, da con la fórmula de una poción que cuando la bebe le convierte en una persona totalmente opuesta: Un hombre interesante, elegante y atractivo que se hará llamar Buddy Love... Adaptación en tono cómico de la novela de Stevenson 'Dr. Jekyll y Mr. Hyde'",
+			"genero": "Comedia, Fantastico, Ciencia ficcion",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:D45B147B9A649BA5BACA46639E6EE8E6A1E2D842&dn=BR1080",  
+				"torrent4k": ""	
 				}		
 			]
 			},
