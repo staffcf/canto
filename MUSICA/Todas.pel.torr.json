@@ -129,11 +129,11 @@ Title:GHOST RIDER, SagaID:GhostRider, Imagen:https://i.pinimg.com/originals/19/9
 							-	0Saga, 1SagaTorrent, 
 Title:G.I. JOE, SagaID:GIJoe, Imagen:https://www.themoviedb.org/t/p/original/1BYYoN57FQMcrH3QKrriQO63KTP.jpg,
 							-	0Saga, 1SagaTorrent, 
-Title:GREASE, SagaID:Grease, Imagen:https://kinefilia.files.wordpress.com/2013/06/grease-0.jpg,	
-							-	0Saga, 1SagaTorrent, 
-Title:GRINDHOUSE, SagaID:Grindhouse, Imagen:https://www.themoviedb.org/t/p/original/jl3K6T8Mridd2dWmcdBpKyHyt6Y.jpg,	
+Title:GREASE, SagaID:Grease, Imagen:https://kinefilia.files.wordpress.com/2013/06/grease-0.jpg,		
 							-	0Saga, 1SagaTorrent, 
 Title:GREMLINS, SagaID:Gremlins, Imagen:https://www.huuphuup.nl/data/upload/images/merken/gremlins.png,
+							-	0Saga, 1SagaTorrent, 
+Title:GRINDHOUSE, SagaID:Grindhouse, Imagen:https://www.themoviedb.org/t/p/original/jl3K6T8Mridd2dWmcdBpKyHyt6Y.jpg,
 							-	0Saga, 1SagaTorrent, 
 Title:GUARDIANES DE LA GALAXIA, SagaID:GDLG, Imagen:http://sp0.cinedor.es/809/logo-guardianes-de-la-galaxia-929.jpg,
 							-	0Saga, 1SagaTorrent, 
@@ -29009,7 +29009,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Ciencia ficcion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:1667EB24DEE0A0D820AE0649EB10BE23BA5694A6&dn=HD1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/G.I.Joe-La.venganza.-2013.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:1667EB24DEE0A0D820AE0649EB10BE23BA5694A6&dn=HD1080
 				"torrent4k": "magnet:?xt=urn:btih:45AC20D20F0B26BD9B628DBD71EE547CC95C0E8A"
 				}		
 			]
@@ -30743,7 +30743,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Ciencia ficcion, Aventuras",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:92F62664902D04E0370DCC9575ECC6FE84C5243E&dn=DVDRip.2partes",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/G.I.Joe.-2009.-.1080.-.CistalAzul.mkv.torrent",	magnet:?xt=urn:btih:92F62664902D04E0370DCC9575ECC6FE84C5243E&dn=DVDRip.2partes
 				"torrent4k": "magnet:?xt=urn:btih:9F19D769955FB17E8D97560AC00E0807899F4FAD"
 				}		
 			]
@@ -37498,7 +37498,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Musical, Romance",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:0F09B48F734A502CB7C07EB12AA1C63CF08A77BE&dn=DVDRip", magnet:?xt=urn:btih:716257FA6697A816344375D51663A443EB3F0EED&dn=HDRip
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Grease.2.-1982.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:0F09B48F734A502CB7C07EB12AA1C63CF08A77BE&dn=DVDRip	 magnet:?xt=urn:btih:716257FA6697A816344375D51663A443EB3F0EED&dn=HDRip
 				"torrent4k": ""
 				}		
 			]
@@ -37938,7 +37938,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Musical, Romance, Comedia",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:AA991A77A924EBCBE78E3D25CD1F7CCE27DA645F&dn=HD720",  magnet:?xt=urn:btih:720666BA88034EAD5AC3C0B442AAEDC19BA8472D&dn=HDRip,
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Grease.-1978.-.1080.-.CristalAzul.mkv.torrent", 	magnet:?xt=urn:btih:AA991A77A924EBCBE78E3D25CD1F7CCE27DA645F&dn=HD720	 magnet:?xt=urn:btih:720666BA88034EAD5AC3C0B442AAEDC19BA8472D&dn=HDRip,
 				"torrent4k": "magnet:?xt=urn:btih:3FC13020183DDF149A4FA793FD10DA926C925829"
 				}		
 			]
@@ -39841,6 +39841,14 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 		"info": "Peliculas 1, 2 y 3 de la Saga Colegas en el Bosque en Calidad 1080",
 		"genero": "Animacion, Infantil, Comedia",
 		"torrent": "magnet:?xt=urn:btih:E8A196F0DA1E2FFA9FE05A13EBF42700DAA6E5C4&dn=HD1080",
+		},
+		{
+		"tag": " 0Torrentcristal, Sagas Gremlins, ",
+		"name": "Gremlins - 2 Peliculas - [COLOR gold]Calidad (1080)","coloryear": "gold",
+		"image": "https://www.themoviedb.org/t/p/original/fNBeINj5BeWB7nEOZSroTuNORif.jpg",
+		"info": "Peliculas 1 y 2 de la Saga Gremlins ",
+		"genero": "Variedad de generos",
+		"torrent": "magnet:?xt=urn:btih:78A0A38812D89F1535CE16BD3A45EACD35F28AA4&dn=Saga.HD1080",
 		},
 		{
 		"tag": " 0Torrentcristal, Sagas Chucky, ",
