@@ -964,7 +964,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror, Thriller, Intriga",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:D5E8C31A58B53D3D3F626D7D30B6D74D2FC831A8&dn=HD1080",  magnet:?xt=urn:btih:A91CA143F0781F2019AA793A23928A2FFA44CFFA&dn=BRRip
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Expediente.Warren-Obligado.por.el.demonio.-2021.-.1080.-.CristalAzul.mkv.torrent",   magnet:?xt=urn:btih:D5E8C31A58B53D3D3F626D7D30B6D74D2FC831A8&dn=HD1080		magnet:?xt=urn:btih:A91CA143F0781F2019AA793A23928A2FFA44CFFA&dn=BRRip
 				"torrent4k": "magnet:?xt=urn:btih:23C75FB759E60061C1BF777E5778A4158639E02A&dn=Web4K",  https://blazing.network/torrents/peliculas/153182_-1624814188-Expediente-Warren-obligado-por-el-demonio--4KWebrip.torrent
 				}		
 			]
@@ -4670,7 +4670,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:813BA0C99E31420BC3724664A2C68D014C373B83&dn=BRRip",  magnet:?xt=urn:btih:ac935a504b1ff28319039191de8dac6d80b816cf&dn=HD720
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Flashback.-2020.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:ac935a504b1ff28319039191de8dac6d80b816cf&dn=HD720  magnet:?xt=urn:btih:813BA0C99E31420BC3724664A2C68D014C373B83&dn=BRRip
 				"torrent4k": ""
 				}		
 			]
@@ -7763,32 +7763,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Terror, A2020, Letra T, EEUU, ",
-			"name": "Tito Paleto (2020)","coloryear": "magenta",
-			"image": "https://www.themoviedb.org/t/p/original/pqQFtREiTA99UCSURbKsJBkf3rr.jpg",
-			"info": "Una banda de punk-rock descubre en mitad de su primer tour que su roadie es un paleto canibal, y que el camino que les queda esta cubierto de pesadillas y de cuerpos a medio comer.",
-			"genero": "Comedia, Terror",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:F30443A795CFBA84454085BCE7CAB3A0B608076C&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Thriller, 1Drama, A2020, Letra T, Polonia, Netflix, ",
-			"name": "Todos mis amigos estan muertos (2020)","coloryear": "magenta",
-			"image": "https://www.themoviedb.org/t/p/original/4GGF9oW3b8qqjvig3n8Qftl4P1Q.jpg",
-			"info": "Durante la fiesta de Nochevieja de un grupo de amigos, una serie de eventos locos saca secretos, rompe corazones y conduce a un final impactante",
-			"genero": "Comedia, Thriller, Drama",
-			"stations": [
-				{ 
-				"torrent": "magnet:?xt=urn:btih:6ABCCDABE4ECCE0D543B748B72A6192EBB7BC20A&BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, A2020, Letra T, EEUU, ",
 			"name": "The 2nd (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/bHI9rQZKdq1KWXhuWTEO0DP7Wle.jpg",
@@ -7997,6 +7971,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Terror, A2020, Letra T, EEUU, ",
+			"name": "Tito Paleto (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/pqQFtREiTA99UCSURbKsJBkf3rr.jpg",
+			"info": "Una banda de punk-rock descubre en mitad de su primer tour que su roadie es un paleto canibal, y que el camino que les queda esta cubierto de pesadillas y de cuerpos a medio comer.",
+			"genero": "Comedia, Terror",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:F30443A795CFBA84454085BCE7CAB3A0B608076C&dn=BRRip",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra T, EEUU, ",
 			"name": "Toda una vida en un año (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/xGDbQI7Gtgurt9W5ez6Tim2lpS2.jpg",
@@ -8019,6 +8006,33 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				{
 				"torrent": "magnet:?xt=urn:btih:c50236c38f68c6e52efda870fe692db7b3cbb05c", 
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Thriller, 1Drama, A2020, Letra T, Polonia, Netflix, ",
+			"name": "Todos mis amigos estan muertos (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/4GGF9oW3b8qqjvig3n8Qftl4P1Q.jpg",
+			"info": "Durante la fiesta de Nochevieja de un grupo de amigos, una serie de eventos locos saca secretos, rompe corazones y conduce a un final impactante",
+			"genero": "Comedia, Thriller, Drama",
+			"stations": [
+				{ 
+				"torrent": "magnet:?xt=urn:btih:6ABCCDABE4ECCE0D543B748B72A6192EBB7BC20A&BRRip",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra T, Finlandia, 1Biografico, ",
+			"name": "Tove (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/cfrzq0JFDWikrb0AeCIwChYyieg.jpg",
+			"info": "Biopic sobre Tove Jansson, que indaga en sus relaciones personales y la creación de los populares libros de los Mumin",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Tove.-2020.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:604D930371EDA5B24384680EF14987213137DC05&dn=BRRip
+				"torrent": "",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -9356,13 +9370,13 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2019, Letra A, EEUU, Sobrenatural, Muñecos, Sagas EWarren, ",
-			"name": "Annabelle Vuelve A Casa (2019)","coloryear": "limegreen",
+			"name": "Annabelle vuelve a casa (2019)","coloryear": "limegreen",
 			"image": "https://www.themoviedb.org/t/p/original/yqB7pL2UhYYmuvT1gmbZnEP5wGU.jpg",
 			"info": "Los demonologos Ed y Lorraine Warren estan decididos a evitar que Annabelle cause mas estragos, asi que llevan a la muñeca poseida a la sala de objetos bajo llave que tienen en su casa. La colocan 'a salvo' en una vitrina sagrada bendecida por un sacerdote. Pero una terrorifica noche nada santa, Annabelle despierta a los espiritus malignos de la habitacion, que se fijan en nuevos objetivos: la hija de diez años de los Warren, Judy, su niñera y una amiga de esta",
 			"genero": "Terror",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:629db489daf408b27a1a0d377a537e5d423cbb8b&HD1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Annabelle.vuelve.a.casa.-2019.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:629db489daf408b27a1a0d377a537e5d423cbb8b&HD1080
 				"torrent4k": ""
 				}		
 			]
@@ -13760,7 +13774,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror, Thriller",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:b54210b4406c5f175f3fc29aecf7e51d6b25bab8&HD1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.Llorona.-2019.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:b54210b4406c5f175f3fc29aecf7e51d6b25bab8&HD1080
 				"torrent4k": ""
 				}			
 			]
@@ -19523,13 +19537,13 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Accion, 1Aventuras, A2018, Letra E, EEUU, Supervivencia, Distopia, Sagas MazeRunner, ",
-			"name": "El Corredor Del Laberinto: La Cura Mortal (2018)","coloryear": "aqua",
+			"name": "El corredor del laberinto: La cura mortal (2018)","coloryear": "aqua",
 			"image": "https://www.ecartelera.com/carteles/10000/10083/003_p.jpg",
 			"info": "Thomas no puede confiar en CRUEL. La organizacion le borro sus recuerdos y lo encerro en el Laberinto. Luego lo dejo al borde de la muerte, en el Desierto. Y lo separaron de los Habitantes, sus unicos amigo. Ahora CRUEL asegura que el tiempo de las mentiras ha terminado. Con toda la informacion que reunio gracias a las Pruebas, esta en condiciones de avanzar en la cura de la Llamarada. Pero Thomas debe pasar por la Prueba Final. ¿Lograra sobrevivir al procedimiento? ¿Sera cierto que se terminaron las mentiras? Quiza la verdad sea mas terrible aun... una solucion letal, sin retorno",
 			"genero": "Ciencia ficcion, Accion, Aventuras",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:71735e78011680d70f6b51ef8d56423fea741b1f",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.corredor.del.laberinto-La.cura.mortal.-2018.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:71735e78011680d70f6b51ef8d56423fea741b1f
 				"torrent4k": "magnet:?xt=urn:btih:48CB4DF7FDC31E1A3EDF77D7E31B35DC7D2E7CED"
 				}		
 			]
@@ -21152,7 +21166,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:c5f4c0c913f410ecd78777bc30272e8ee88e0c9b&HD1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.monja.-2018.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:c5f4c0c913f410ecd78777bc30272e8ee88e0c9b&HD1080
 				"torrent4k": ""
 				}		
 			]
@@ -24018,7 +24032,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:33918adf98c2bafed6fec651a708bf15b891ee18&HD1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Annabelle.Creation.-2017.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:33918adf98c2bafed6fec651a708bf15b891ee18&HD1080
 				"torrent4k": "magnet:?xt=urn:btih:ef5b9c21e009d78336a32b5e13ad3ca2f695941e"
 				}
 			]
@@ -25409,7 +25423,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Aventuras, Belico",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:EB3AE78F0E7E01F992FD2830FB5F64281A914683",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.Guerra.del.Planeta.de.los.Simios.-2017.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:EB3AE78F0E7E01F992FD2830FB5F64281A914683
 				"torrent4k": "magnet:?xt=urn:btih:231075C9194266BC41E3D1C8DD22DCB8F66032F1"
 				}		
 			]
@@ -27248,7 +27262,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:06fe06b5068bdb79cffb01d87012e2c696667abd&HD1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Expediente.Warren-El.caso.Enfield.-2016.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:06fe06b5068bdb79cffb01d87012e2c696667abd&HD1080
 				"torrent4k": ""
 				}		
 			]
@@ -27800,7 +27814,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Ciencia ficcion",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:f3f5046cd137277f685ae18b397fa1ee405bcdfa",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.corredor.del.laberinto-Las.pruebas.-2015.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:f3f5046cd137277f685ae18b397fa1ee405bcdfa
 				"torrent4k": "magnet:?xt=urn:btih:3200E4FB96E3546C682856D6FA3F19393FE73FFA"
 				}		
 			]
@@ -28235,7 +28249,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:0A274D7CF893FE43DF7B4CFDA8FF8208FEF37886&HD1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Annabelle.-2014.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:0A274D7CF893FE43DF7B4CFDA8FF8208FEF37886&HD1080
 				"torrent4k": "magnet:?xt=urn:btih:EF5B9C21E009D78336A32B5E13AD3CA2F695941E"
 				}		
 			]
@@ -28378,7 +28392,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Accion",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:F725ACF5C9CE97F4E22A3B566AE202844EE598EC",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.amanecer.del.planeta.de.los.simios.-2014.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:F725ACF5C9CE97F4E22A3B566AE202844EE598EC
 				"torrent4k": "magnet:?xt=urn:btih:FC4803D97F849FCD5443135993192900D9461EEA"
 				}		
 			]
@@ -28391,7 +28405,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Accion, Aventuras",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:a38982b76e4920dfb6ef35350a35fdc7a28bed2a",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.corredor.del.laberinto.-2014.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:a38982b76e4920dfb6ef35350a35fdc7a28bed2a
 				"torrent4k": "magnet:?xt=urn:btih:C58F8B530151308A09BF2D05B42D9F024A4EC557"
 				}		
 			]
@@ -28969,7 +28983,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:f0987e7751f1445bb972bf6341dbe91ba1f8ee52&HD1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Expediente.Warren-The.Conjuring.-2013.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:f0987e7751f1445bb972bf6341dbe91ba1f8ee52&HD1080
 				"torrent4k": "magnet:?xt=urn:btih:e8b8c8a1185f2f8a397e2290e53aab6847dcb227"
 				}		
 			]
@@ -29482,7 +29496,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Fantastico",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:96903A1FABC4809093282DF1A0779A9F8F179752&dn=DVDR",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Ghost.Rider-Espiritu.de.venganza.-2012.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:96903A1FABC4809093282DF1A0779A9F8F179752&dn=DVDR
 				"torrent4k": ""
 				}		
 			]
@@ -29904,7 +29918,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Aventuras,  Accion",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:2B49519ECB07873666BA770F7697577BC49DF76E",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.origen.del.planeta.de.los.simios.-2011.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:2B49519ECB07873666BA770F7697577BC49DF76E
 				"torrent4k": "magnet:?xt=urn:btih:8BD68496A4DBFF67D703D23CF1AE43EBA824AFBA" magnet:?xt=urn:btih:B0E73D7D33A299B1025521C381F35E31FEF27C4C  magnet:?xt=urn:btih:WDTT27JTUKM3CASVEHBYD426GH7PE7CM
 				}		
 			]
@@ -31534,7 +31548,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Fantastico",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:D708CE9E8C02F4EA3C9513C74A8F7E2583B90686&dn=DVDR",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Ghost.Rider-El.motorista.fantasma.-2007.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:D708CE9E8C02F4EA3C9513C74A8F7E2583B90686&dn=DVDR
 				"torrent4k": ""
 				}		
 			]
@@ -32787,7 +32801,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia, Thriller",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:D4851E4392CAB9B306BA115E1F6C2297349A133B&dn=BDR1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Mas.Falsas.Apariencias.-2004.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:D4851E4392CAB9B306BA115E1F6C2297349A133B&dn=BDR1080
 				"torrent4k": ""
 				}		
 			]
@@ -34002,7 +34016,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia, Fantastico",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:A95D9250C0393E969D336D69B82AFED439633DD7&dn=BDR1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.Profesor.chiflado.II-La.familia.Klump.-2000.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:A95D9250C0393E969D336D69B82AFED439633DD7&dn=BDR1080
 				"torrent4k": ""
 				}		
 			]
@@ -34333,7 +34347,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:87420F2D559465C18EA7C7253BF0B7C6A5F635C0&dn=BDR1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Falsas.Apariencias.-1999.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:87420F2D559465C18EA7C7253BF0B7C6A5F635C0&dn=BDR1080
 				"torrent4k": ""
 				}		
 			]
@@ -35139,7 +35153,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia, Fantastico",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:0A17787E64C955D70B2B41F552B9B2B240C6DC90&dn=DVDRip",  	magnet:?xt=urn:btih:DF81B07DFF6079E994CE8390E7119A651C429292&dn=BDR1080
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.Profesor.Chiflado.-1996.-.720.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:0A17787E64C955D70B2B41F552B9B2B240C6DC90&dn=DVDRip	magnet:?xt=urn:btih:DF81B07DFF6079E994CE8390E7119A651C429292&dn=BDR1080
 				"torrent4k": ""
 				}		
 			]
@@ -38866,14 +38880,14 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Fantastico, 1Ciencia ficcion, A1963, Letra E, EEUU, B2000, A1970-1961, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Fantastico, 1Ciencia ficcion, A1963, Letra E, EEUU, B2000, A1970-1961, Sagas ElProfesorChiflado, ",
 			"name": "El profesor chiflado (1963)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/emO5eQK7szRVPlUZwf7dda9U0jc.jpg",
 			"info": "Julious Kelp, un profesor universitario de química torpe y bastante desafortunado en su vida social, da con la fórmula de una poción que cuando la bebe le convierte en una persona totalmente opuesta: Un hombre interesante, elegante y atractivo que se hará llamar Buddy Love... Adaptación en tono cómico de la novela de Stevenson 'Dr. Jekyll y Mr. Hyde'",
 			"genero": "Comedia, Fantastico, Ciencia ficcion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:D45B147B9A649BA5BACA46639E6EE8E6A1E2D842&dn=BR1080",  
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.Profesor.Chiflado.-1963.-.1080.-.CristalAzul.com.mkv.torrent",  magnet:?xt=urn:btih:D45B147B9A649BA5BACA46639E6EE8E6A1E2D842&dn=BR1080
 				"torrent4k": ""	
 				}		
 			]
