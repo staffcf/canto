@@ -6,6 +6,20 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra T, Finlandia, 1Biografico, ",
+			"name": "Tove (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/cfrzq0JFDWikrb0AeCIwChYyieg.jpg",
+			"info": "Biopic sobre Tove Jansson, que indaga en sus relaciones personales y la creación de los populares libros de los Mumin",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Tove.-2020.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:604D930371EDA5B24384680EF14987213137DC05&dn=BRRip
+				"torrent": "",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Accion, 1Fantastico, A2020, Letra M, EEUU, ",
 			"name": "Mortal Kombat Legends: La venganza de Scorpion (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/sqBl12v4AXVoc5PmeGnd8oZ7HHY.jpg",
@@ -650,7 +664,7 @@
 			"genero": "Thriller",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:ac935a504b1ff28319039191de8dac6d80b816cf&dn=HD720",  magnet:?xt=urn:btih:813BA0C99E31420BC3724664A2C68D014C373B83&dn=BRRip
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Flashback.-2020.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:ac935a504b1ff28319039191de8dac6d80b816cf&dn=HD720  magnet:?xt=urn:btih:813BA0C99E31420BC3724664A2C68D014C373B83&dn=BRRip
 				"torrent4k": ""
 				}		
 			]
