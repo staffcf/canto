@@ -31177,7 +31177,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Animacion, Fantastico, Musical, Infantil",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:cebvqygzbndnmiuhfu2wbtqtsukv3dvj",
+				"torrent": "magnet:?xt=urn:btih:cebvqygzbndnmiuhfu2wbtqtsukv3dvj&dn=DVDRip",
 				"torrent4k": ""
 				}
 			]
@@ -34067,7 +34067,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Animacion, Fantastico, Musical, Infantil",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:E903937A8BB77A6CD4C102FB5B4F60EFC3988DC2",
+				"torrent": "magnet:?xt=urn:btih:E903937A8BB77A6CD4C102FB5B4F60EFC3988DC2&dn=DVDRip",
 				"torrent4k": ""
 				}
 			]
@@ -36333,8 +36333,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"info": "Ariel, hija del rey Triton, es la princesa de las sirenas. Esta a punto de celebrarse su fiesta de cumpleaños y su mayor ilusion es poder conocer a los seres humanos. Con la ayuda de la bruja ursula, Ariel consigue subir a la superficie, donde salva de morir ahogado a un hermoso principe, cuyo barco acaba de naufragar, del que se enamora perdidamente",
 			"genero": "Animacion, Fantastico, Musical, Infantil",
 			"stations": [
-				{ 
-				"torrent": "magnet:?xt=urn:btih:F143220F191D74C68EC28CCA55894162E90AB987", magnet:?xt=urn:btih:DEAAB09E34E5FD009617F75A6B6015AA4212EF3A
+				{
+				"torrent": "magnet:?xt=urn:btih:DEAAB09E34E5FD009617F75A6B6015AA4212EF3A&dn=HDRip", 
 				"torrent4k": ""
 				}
 			]
@@ -39939,6 +39939,14 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 		"info": "Peliculas 3 y 4 de Ice Age, y cortos",
 		"genero": "Variedad de generos",
 		"torrent": "magnet:?xt=urn:btih:B9C65BE8F06B66FCA9D9B1FD06258D8B46904043&dn=HD1080.2PELIS+cortos",
+		},
+		{
+		"tag": " 1Torrentcristal, Sagas LaSirenita, ",
+		"name": "La Sirenita - Saga Completa [COLOR gold]Calidad (1080)","coloryear": "gold",
+		"image": "https://anxcinema.com/wp-content/uploads/2021/02/Descargar-La-sirenita-2.jpg",
+		"info": "Peliculas 1, 2 y 3 de La Sirenita",
+		"genero": "Animacion",
+		"torrent": "magnet:?xt=urn:btih:F143220F191D74C68EC28CCA55894162E90AB987&dn=HD1080.SAGA",
 		}			
 		]
 		}
