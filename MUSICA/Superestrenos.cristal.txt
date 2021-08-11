@@ -56,7 +56,7 @@
 <thumbnail>https://i.imgur.com/6HNlLVu.jpg</thumbnail>
 <fanart>https://i.imgur.com/gxv6E9d.jpg</fanart>
 <info>Virginie, Erik y Aristide, tres policías parisinos, se ven obligados a aceptar una misión poco habitual: reconducir a un extranjero a la frontera. Durante el camino al aeropuerto, Virginie entiende que si el prisionero pone un pie en su país de origen sufre el riesgo de morir. Frente a dilema moral, intenta convencer a sus colegas de que lo dejen escapar.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=1d9ABWMJzOg"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/mgzn4i5-grnlg1m"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.to/f/1v8jdmnecpkggz"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "FALTA PONER"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-98i8x2nu394w.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1dCYucsHDqz13IkBDO9WvNcC5RyOaCN1z/view"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=1d9ABWMJzOg"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/mgzn4i5-grnlg1m"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.to/f/o73rqn4dslkp9eg"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "FALTA PONER"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-98i8x2nu394w.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1dCYucsHDqz13IkBDO9WvNcC5RyOaCN1z/view"}</urlsolve>
 </item>
 
 
