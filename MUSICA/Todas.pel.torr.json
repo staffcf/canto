@@ -203,6 +203,8 @@ Title:MATRIX, SagaID:Matrix, Imagen:https://i.ytimg.com/vi/bi04UCeXqLc/maxresdef
 							-	0Saga, 1SagaTorrent, 
 Title:MEN IN BLACK, SagaID:Meninblack, Imagen:https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/meninblack-logo-stars.jpg,
 							-	0Saga, 1SagaTorrent, 
+Title:MI PRIMER BESO, SagaID:Miprimerbeso, Imagen:https://www.themoviedb.org/t/p/original/eVRw197B6UOR27oPeHQSQQShTsL.jpg,	
+							-	0Saga, 1SagaTorrent, 
 Title:MILLENNIUM, SagaID:Millennium, Imagen:https://miro.medium.com/max/2560/1*8QSf80-EnmYPxzw4lDIv-A.jpeg,	
 							-	0Saga, 1SagaTorrent, 
 Title:MISION IMPOSIBLE, SagaID:MisionImposible, Imagen:https://4.bp.blogspot.com/-z71e9VUDYUI/VcJ1c4G6y7I/AAAAAAAACDU/N24k2w9rbXE/s1600/Mission-Impossible.png,
@@ -474,7 +476,20 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent4k": ""
 				}		
 			]
-			},
+			}
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra B, EEUU, ",
+			"name": "Barb y Star van a Vista Del Mar (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/z6oY9WizwwJWbQImwVf87Cjzac7.jpg",
+			"info": "Cuenta la historia de Barb y Star, dos mejores amigas que abandonan su pueblo en el medio oeste por primera vez en sus vidas en dirección a Vista Del Mar, en Florida, donde pronto se verán inmersos en una aventura que las llevará a descubrir el amor y a un terrible villano que planea matar a todo el mundo del pueblo",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Barb.y.Star.van.a.Vista.Del.Mar.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},,
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, A2021, Letra B, Corea del Sur, Netflix, ",
 			"name": "Barrenderos espaciales (2021)","coloryear": "cyan",
@@ -706,6 +721,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				{
 				"torrent": "magnet:?xt=urn:btih:13E4C30662F31C344E47C4C1E427C0F0EC1AD6D7&dn=HD720",  magnet:?xt=urn:btih:3B0F0CC0C94E133FDCF85C7B7F19868A3B06878F&dn=BRRip
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra E, EEUU, ",
+			"name": "El club de las abejas reina (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/rrQmftjBAXjFCrEOFmwrZCTOIxS.jpg",
+			"info": "Después de aceptar a regañadientes mudarse a una residencia de mayores, una mujer conoce a un grupo de mujeres malvadas y a un viudo amoroso",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.club.de.las.abejas.reina.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -1499,6 +1527,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				{
 				"torrent": "magnet:?xt=urn:btih:F4F15561F68D4716C606F9E21E54C3845DF418E2&dn=HD720",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Comedia, A2021, Letra M, Reino Unido, Netflix, Sagas Miprimerbeso, ",
+			"name": "Mi primer beso 3 (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/4eXhx1IN1nSWpeHehunvW9j2BSU.jpg",
+			"info": "Es el verano antes de que Elle Evans vaya a la universidad, y tiene una gran decisión que tomar.",
+			"genero": "Romance, Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Mi.primer.beso.3.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -6392,14 +6433,14 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Romance, A2020, Letra M, EEUU, Netflix, ",
-			"name": "Mi Primer Beso 2 (2020)","coloryear": "magenta",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Romance, A2020, Letra M, EEUU, Netflix, Sagas Miprimerbeso, ",
+			"name": "Mi primer beso 2 (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/pwmtGo0mTjTqWZwk3k3VSWtygxj.jpg",
 			"info": "Continuan las aventuras amorosas de Elle (Joey King), Noah (Jacob Elordi) y Lee (Joel Courtney). Secuela de Mi primer beso (2018) que vuelve a dirigir Vince Marcello, quien se encarga de nuevo del guion del filme junto a Jay S Arnold. Protagonizan la pelicula los actores del reparto original: Joey King (Slender Man), Jacob Elordi (Euphoria), Joel Courtney (Dear Eleanor), y Morne Visser (Mandela: Del mito al hombre), ademas de incorporaciones a la saga como la de Maisie Richardson-Sellers (Star Wars: Episodio VII - El despertar de la Fuerza)",
 			"genero": "Comedia, Romance",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:aac24e71811f70dfe48c652b6a8d4d69704b3941",
+				"torrent": "magnet:?xt=urn:btih:aac24e71811f70dfe48c652b6a8d4d69704b3941&dn=HD1080",
 				"torrent4k": ""
 				}			
 			]
@@ -14274,6 +14315,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Thriller, 1Intriga, A2019, Letra L, Corea del Sur, ",
+			"name": "Llevame a casa (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/nqi37OQaD7JQOuhLvULV4YL1nKT.jpg",
+			"info": "Una madre totalmente entregada a la búsqueda de su hijo desaparecido sigue una pista que le lleva hasta un pueblo pesquero en el que un oficial de policía corrupto podría tener las respuestas a sus preguntas",
+			"genero": "Drama, Thriller, Intriga",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Llevame.a.casa.-2019.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2019, Letra L, Spain, Drogas, Remake, ",
 			"name": "Lo dejo cuando quiera (2019)","coloryear": "limegreen",
 			"image": "https://www.themoviedb.org/t/p/original/kc7QqM63sQzeZ5vZbLLF5oxO5Nv.jpg",
@@ -16791,7 +16845,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Accion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:E521A4B3276A4789BB65B7AAC7D0189FCBB62A53",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Terminator-Destino.oscuro.-2019.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:E521A4B3276A4789BB65B7AAC7D0189FCBB62A53
 				"torrent4k": "magnet:?xt=urn:btih:7C51EDA1218855AE03D5984839076CE04A2636D9",
 				}		
 			]
@@ -21952,6 +22006,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Comedia, A2018, Letra M, Reino Unido, Netflix, Sagas Miprimerbeso, ",
+			"name": "Mi primer beso (2018)","coloryear": "aqua",
+			"image": "https://www.themoviedb.org/t/p/original/if8tk0LvMJUe2OhpZKTVZHtbIkh.jpg",
+			"info": "Elle nunca imaginó que el primer beso daría para tanto. Pero, a pesar de que ha conseguido salir con el chico más guapo del instituto, está a punto de perder a su mejor amigo de toda la vida",
+			"genero": "Romance, Comedia",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:e8cdf7c842b20be8c7fe244253d90368ce586f33&dn=HD1080",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2018, Letra M, EEUU, ",
 			"name": "Mi Querido Dictador (2018)","coloryear": "aqua",
 			"image": "https://m.media-amazon.com/images/M/MV5BNDVlZWU2ZDMtMWYzOC00ODA1LTk2N2EtMGJmYjdjY2IwN2I5XkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg",
@@ -25118,13 +25185,13 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Accion, 1Aventuras, 1Comedia, A2017, Letra G, EEUU, Superheroes, Marvel, Comics, Sagas GDLG, ",
-			"name": "Guardianes De La Galaxia Vol. 2 (2017)","coloryear": "green",
+			"name": "Guardianes de la Galaxia Vol. 2 (2017)","coloryear": "green",
 			"image": "https://www.ecartelera.com/carteles/8000/8049/007_p.jpg",
 			"info": "Continuan las aventuras del equipo en su travesia por los confines del cosmos. Los Guardianes deberan luchar para mantener unida a su nueva familia mientras intentan resolver el misterio de los verdaderos origenes de Peter Quill. Viejos rivales se convertiran en nuevos aliados, y queridos personajes de los comics clasicos acudiran en ayuda de nuestros heroes a medida que el universo cinematografico de Marvel continua expandiendose",
 			"genero": "Ciencia ficcion, Accion, Aventuras, Comedia",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:156715ea1b116c4ac4b20aa1b198563fe4dc286f",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Guardianes.de.la.galaxia-Vol.2.-2017.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:156715ea1b116c4ac4b20aa1b198563fe4dc286f
 				"torrent4k": ""
 				}
 			]
@@ -28204,7 +28271,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Accion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:4a2351fdcb777afec0ae62ec9110d222075af643",  magnet:?xt=urn:btih:4BC6B2710B3F697FDEB0C16CC924B02AB797F193
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Terminator.Genesis.-2015.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:4a2351fdcb777afec0ae62ec9110d222075af643  magnet:?xt=urn:btih:4BC6B2710B3F697FDEB0C16CC924B02AB797F193
 				"torrent4k": "magnet:?xt=urn:btih:BE743B2D9278688E5D544AB38EBBB20FA447538C"
 				}		
 			]
@@ -28464,13 +28531,13 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Accion, 1Aventuras, 1Comedia, A2014, Letra G, EEUU, Superheroes, Comics, Marvel, Sagas GDLG, ",
-			"name": "Guardianes de la galaxia (2014)","coloryear": "turquoise",
+			"name": "Guardianes de la Galaxia (2014)","coloryear": "turquoise",
 			"image": "https://www.themoviedb.org/t/p/original/zqZNnuMtrmK99Xux91KiCdnZxgb.jpg",
 			"info": "El temerario aventurero Peter Quill es objeto de un implacable cazarrecompensas despues de robar una misteriosa esfera codiciada por Ronan, un poderoso villano cuya ambicion amenaza todo el universo. Para poder escapar del incansable Ronan, Quill se ve obligado a pactar una complicada tregua con un cuarteto de disparatados inadaptados: Rocket, un mapache armado con un rifle, Groot, un humanoide con forma de arbol, la letal y enigmatica Gamora y el vengativo Drax the Destroyer. Pero cuando Quill descubre el verdadero poder de la esfera, debera hacer todo lo posible para derrotar a sus extravagantes rivales en un intento desesperado de salvar el destino de la galaxia",
 			"genero": "Ciencia ficcion, Accion, Aventuras, Comedia",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:F6A435D97C737624131BA82D8B03B91D25F494EC",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Guardianes.de.la.galaxia.-2014.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:F6A435D97C737624131BA82D8B03B91D25F494EC
 				"torrent4k": ""
 				}		
 			]
@@ -30087,7 +30154,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror, Thriller, Intriga",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:j33ftknyfd4sfiswxnxxvol4hfk2mw7m&BRRip",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Scream.4.-2011.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:j33ftknyfd4sfiswxnxxvol4hfk2mw7m&BRRip
 				"torrent4k": ""
 				}		
 			]
@@ -30951,7 +31018,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Fantastico, Accion",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:C633D52B0FFD31CD90D24E0066EC515E05A30C6B",  magnet:?xt=urn:btih:ee2bc2f386c8b7c8ef19b5bec50aab39d5d5d79e
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Terminator.Salvation.-2009.-.1080.-.CristalAzul.mkv.torrent", 	magnet:?xt=urn:btih:C633D52B0FFD31CD90D24E0066EC515E05A30C6B	 magnet:?xt=urn:btih:ee2bc2f386c8b7c8ef19b5bec50aab39d5d5d79e
 				"torrent4k": ""
 				}		
 			]
@@ -31165,7 +31232,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Accion, Ciencia ficcion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:1a287a3db37144c7ab5cad8b5fea51c9ca2a156e",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.increible.Hulk.-2008.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:1a287a3db37144c7ab5cad8b5fea51c9ca2a156e
 				"torrent4k": "magnet:?xt=urn:btih:B519C311B62D97A079E556EBC002B1779D9B379C&dn=UHDRip"
 				}		
 			]
@@ -33081,7 +33148,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Accion, Ciencia ficcion, Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:4h6qyqszsllksamdtirei3bnarn26ike",  magnet:?xt=urn:btih:DCC350B68980BC240889F1046D234C0967AA238C
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Hulk.-2003.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:4h6qyqszsllksamdtirei3bnarn26ike 	magnet:?xt=urn:btih:DCC350B68980BC240889F1046D234C0967AA238C
 				"torrent4k": ""
 				}		
 			]
@@ -33237,7 +33304,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Fantastico, Accion",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:a5f87fec47cab25c84d27a169fcd81e07b267b7c",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Terminator.3-La.rebelion.de.las.maquinas.-2003.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:a5f87fec47cab25c84d27a169fcd81e07b267b7c
 				"torrent4k": ""
 				}		
 			]
@@ -34185,7 +34252,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:1F07C4FFB873CBBCB360B1A8205D76308DDC3F9D&dn=DVDRip",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Scream.3.-2000.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:1F07C4FFB873CBBCB360B1A8205D76308DDC3F9D&dn=DVDRip
 				"torrent4k": ""
 				}		
 			]
@@ -35010,7 +35077,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:a5ryrexlmksghihu6b5czjnaf3ealumo&DVDRip",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Scream.2.-1997.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:a5ryrexlmksghihu6b5czjnaf3ealumo&DVDRip
 				"torrent4k": ""
 				}		
 			]
@@ -35218,7 +35285,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:ojyjx6lwdxuh4iu7pdmzvi6iskxocrk3&DVDRip",  magnet:?xt=urn:btih:k6zyqmakjiikqdkmt3h7uhczzxx6ozil&DVDRip
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Scream.Vigila.quien.llama.-1996.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:ojyjx6lwdxuh4iu7pdmzvi6iskxocrk3&DVDRip	  magnet:?xt=urn:btih:k6zyqmakjiikqdkmt3h7uhczzxx6ozil&DVDRip
 				"torrent4k": ""
 				}		
 			]
@@ -36056,7 +36123,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Accion",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:D7E2BBAFE3BEA8E5B3797A13A9F74A5F2A532A15",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Terminator.2-El.juicio.final.-1991.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:D7E2BBAFE3BEA8E5B3797A13A9F74A5F2A532A15
 				"torrent4k": "magnet:?xt=urn:btih:C8903D96B39FF218385179FE68541F71FE11A55E"
 				}		
 			]
@@ -36140,7 +36207,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Comedia, Aventuras, Terror",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:78A0A38812D89F1535CE16BD3A45EACD35F28AA4&dn=Duologia%20Gremlins%20%5bMicroHD",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Gremlins.2.la.nueva.generacion.-1990.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:78A0A38812D89F1535CE16BD3A45EACD35F28AA4&dn=Duologia%20Gremlins%20%5bMicroHD
 				"torrent4k": ""
 				}		
 			]
@@ -37290,7 +37357,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Accion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:7DEE0E9A0F1EEE01EF79CD5520E0A99218D81A09",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Terminator.-1984.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:7DEE0E9A0F1EEE01EF79CD5520E0A99218D81A09
 				"torrent4k": ""
 				}		
 			]
@@ -38120,7 +38187,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:CE44798ED5DF8FD922C7296E949506C149CCA8AD&dn=DVDRip",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Rocky.-1976.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:CE44798ED5DF8FD922C7296E949506C149CCA8AD&dn=DVDRip
 				"torrent4k": "magnet:?xt=urn:btih:6EEE6B30CDBD6065AC5C7134A4B3185F608B656F"
 				}		
 			]
@@ -39867,7 +39934,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 		"torrent": "magnet:?xt=urn:btih:EC21D86AE4958CD69E0AB9D3EFD8966624AFE58B&dn=HD1080",
 		},
 		{
-		"tag": " 1Torrentcristal, Sagas Scream, ",
+		"tag": " 0Torrentcristal, Sagas Scream, ",
 		"name": "Scream - Saga Completa - [COLOR gold]Calidad (1080)","coloryear": "gold",
 		"image": "http://www.mubis.es/media/users/3724/27705/que-pelicula-de-la-saga-scream-te-gusta-mas-l_cover.jpg",
 		"info": "Toda las peliculas de la Saga Scream",
