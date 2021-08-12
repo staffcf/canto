@@ -10153,7 +10153,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Animacion, 1Fantastico, 1Aventuras, 1Infantil, A2019, Letra C, EEUU, Vikingos, Amistad, Dragones, Sagas CEATD, ADreamworks, ",
-			"name": "Como Entrenar A Tu Dragon 3 (2019)","coloryear": "limegreen",
+			"name": "Como entrenar a tu dragon 3 (2019)","coloryear": "limegreen",
 			"image": "https://www.themoviedb.org/t/p/original/n12wESAYZNqa88h4EzdD25bJRYR.jpg",
 			"info": "Lo que comenzo como la inesperada amistad entre un joven vikingo y un temible dragon Furia Nocturna se ha convertido en una epica trilogia que ha recorrido sus vidas. En esta nueva entrega, Hipo y Desdentao descubriran finalmente su verdadero destino: para uno, gobernar Isla Mema junto a Astrid; para el otro, ser el lider de su especie. Pero, por el camino, deberan poner a prueba los lazos que los unen, plantando cara a la mayor amenaza que jamas hayan afrontado... y a la aparicion de una Furia Nocturna hembra",
 			"genero": "Animacion, Fantastico, Aventuras, Infantil",
@@ -10163,10 +10163,23 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent4k": "magnet:?xt=urn:btih:C25005CD40908452DE35A765BEB7D1280922DF1D",
 				}		
 			]
-			},
+			}
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2019, Letra C, Reino Unido, ",
+			"name": "Como se hace una chica (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/4nIupI8oN8tyistI8fDoN6vryeE.jpg",
+			"info": "Johanna Morrigan decide abandonar su vida en Wolverhampton para mudarse a Londres. En el proceso, cambia radicalmente su forma de ser e incluso su propio nombre, pasando a ser conocida ahora como Dolly Wilde. Por suerte para ella, obtiene un trabajo como crítica musical que le permite dejar atrás su vida de pobreza",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Como.se.hace.una.chica.-2019.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},,
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2019, Letra C, Francia, ",
-			"name": "Como Ser Un French Lover (2019)","coloryear": "limegreen",
+			"name": "Como ser un French lover (2019)","coloryear": "limegreen",
 			"image": "https://www.themoviedb.org/t/p/original/hqc52yHDGF4euEEaDEGyU2WlWnB.jpg",
 			"info": "Tras ser abandonado por su 'amiga' de 80 años a causa de un muchacho 60 años mas joven que el, un gigolo entrado en años solicita la ayuda de su sobrino adolescente para encontrar a su siguiente multimillonaria",
 			"genero": "Comedia",
@@ -10231,7 +10244,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2019, Letra C, Reino Unido, 1Biografico Deporte, Hipica, ",
-			"name": "Corre Como Una Chica (2019)","coloryear": "limegreen",
+			"name": "Corre como una chica (2019)","coloryear": "limegreen",
 			"image": "https://www.themoviedb.org/t/p/original/xNtijAc1NJx2HKtGkzn0YamZMJs.jpg",
 			"info": "Cuenta la historia de Michelle Payne, la primera jockey femenina en ganar la copa Melbourne",
 			"genero": "Drama",
@@ -21240,7 +21253,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2018, Letra L, Spain, TV, RTVE, ",
-			"name": "La Mujer Del Siglo (2018)","coloryear": "aqua",
+			"name": "La mujer del Siglo (2018)","coloryear": "aqua",
 			"image": "https://www.ecartelera.com/carteles/15400/15406/001_p.jpg",
 			"info": "Ambientada en la Barcelona de principios del siglo XX, es la historia de una mujer que lucha por sus derechos y contra la discriminacion",
 			"genero": "Drama",
@@ -21259,7 +21272,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:5D9B0875969A7D2FAD1C912281F01A7FA788F253", magnet:?xt=urn:btih:e39a8c3cb2b769dc40369f05538b918d7882ac03
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.noche.de.Halloween.-2018.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:5D9B0875969A7D2FAD1C912281F01A7FA788F253	 magnet:?xt=urn:btih:e39a8c3cb2b769dc40369f05538b918d7882ac03
 				"torrent4k": "magnet:?xt=urn:btih:7B39F9ED5CAE49CDDAB07EED0E2536DEA7AAF1FE"
 				}		
 			]
@@ -27394,7 +27407,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Accion",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:66FA106144DC2CBF7515FCE139306A37123EF5C5&dn=HD1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Independence.Day-Contraataque.-2016.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:66FA106144DC2CBF7515FCE139306A37123EF5C5&dn=HD1080
 				"torrent4k": "magnet:?xt=urn:btih:D017C532272166802832028CC1039DF166CE3585"
 				}		
 			]
@@ -30823,7 +30836,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:3B517215DB216C2740BBDF0AEE864BD78BD3C3EC&BRRip",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Halloween.II-H2-.-2009.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:3B517215DB216C2740BBDF0AEE864BD78BD3C3EC&BRRip
 				"torrent4k": ""
 				}		
 			]
@@ -31654,7 +31667,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:7504B1C241B1B57A5D32470A8377A9294C564A22&dn=DVDRip",  magnet:?xt=urn:btih:05B06091FCBA25341590AF19B503EAD6764EBFB2   magnet:?xt=urn:btih:608D35AE2DAE2D74644220344DD8A39088845D87&dn=HDRip  magnet:?xt=urn:btih:C9FD8395861857777156C39F881DCD82FDA8F534&DVDRip.2PARTES
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Halloween.el.origen.-2007.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:7504B1C241B1B57A5D32470A8377A9294C564A22&dn=DVDRip	  magnet:?xt=urn:btih:05B06091FCBA25341590AF19B503EAD6764EBFB2   magnet:?xt=urn:btih:608D35AE2DAE2D74644220344DD8A39088845D87&dn=HDRip  magnet:?xt=urn:btih:C9FD8395861857777156C39F881DCD82FDA8F534&DVDRip.2PARTES
 				"torrent4k": ""
 				}		
 			]
@@ -33493,7 +33506,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror, Thriller",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:326CA3D10B6079CE6BA155C21A5C98975DECAAA5",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Halloween.Resurrection.-2002.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:326CA3D10B6079CE6BA155C21A5C98975DECAAA5
 				"torrent4k": ""
 				}		
 			]
@@ -34674,7 +34687,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:B0BEF664DC35C45F0ECB2CE63ED024E67961060C", 
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Halloween.H20-Veinte.anhos.despues.-1998.-.1080.-.CristalAzul.mkv.torrent", 	magnet:?xt=urn:btih:B0BEF664DC35C45F0ECB2CE63ED024E67961060C
 				"torrent4k": ""
 				}		
 			]
@@ -35246,7 +35259,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Accion",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:751621BE99FFF475AEFC0F8FD7654CA79C17F4F6&dn=DVDRip",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Independence.Day.-1996.-.1080.-.CristalAzul.mkv.torrent",	Un.vaquero.sin.rumbo.-1990.-.1080.-.CristalAzul
 				"torrent4k": "magnet:?xt=urn:btih:C049F834B84959F98DB1F4DADDCC4DA4DE04C460"
 				}		
 			]
@@ -35435,6 +35448,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:8DEF915CAB0946BBF9DF57785F9BCB7455A446D6",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A1995, Letra H, EEUU, Sagas Halloween, B2000, A2000-1991, ",
+			"name": "Halloween: La Maldicion de Michael Myers (1995)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/qTxbDlZZW4CEuSNcwjwHtgc6T0x.jpg",
+			"info": "Cuando Michael Myers tenia seis años, apuñalo a su hermana hasta la muerte. Durante muchos años fue encerrado en el centro psiquiatrico Smiths Groves, pero logro escapar y, subitamente, Halloween se convirtio en un sinonimo de locura. Uno a uno, cada miembro de su familia fue asesinado hasta que solo quedo Jamie Lloyd, su sobrina de nueve años. En Haddonfield, la noche de Halloween no es una fiesta cualquiera porque siempre durante dicha celebracion, Michael decide visitar su pueblo natal con un unico objetivo; el asesinato premeditado. Ya han pasado seis años desde que Michael muriera, presumiblemente, consumido por las llamas. Haddonfield, por fin, puede celebrar Halloween... pero Michael Myers tambien esta listo para la fiesta",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Halloween.La.Maldicion.de.Michael.Myers.-1995.-.1080.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""
 				}		
 			]
@@ -36304,6 +36330,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Western, A1990, Letra U, EEUU, B2000, A1990-1981, ",
+			"name": "Un vaquero sin rumbo (1990)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/nwKrNycVMBRLTmZAKcynvjnK0sY.jpg",
+			"info": "Matthew Quigley (Tom Selleck), un vaquero californiano que presume de ser un excelente tirador, llega a Australia en respuesta a un anuncio que ha sido publicado en todo el mundo por Elliot Marston (Alan Rickman), un altivo inglés, dueño de inmensas tierras, que se ha asentado en el continente australiano para hacer fortuna. Un viejo barco lleva a Quigley hasta la ciudad de Fremantle, donde sale en defensa de una mujer conocida como 'La loca Cora' (Laura San Giacomo), a quien tres tipos están molestando. Poco después, llega al rancho de Marston donde muy pronto descubre que el trabajo para el que fue contratado no tiene nada que ver con lo que él creía...",
+			"genero": "Western",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Un.vaquero.sin.rumbo.-1990.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Thriller, 1Drama, A1990, Letra U, EEUU, B2000, A1990-1981, 1Culto, ",
 			"name": "Uno de los nuestros (1990)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/1MWsO3QQd6vB7ENMeXOGil7i0Al.jpg",
@@ -36363,7 +36402,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:C58765832B67E68C87F92610D0475A47A16675B3",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Halloween.5-La.venganza.de.Michael.Myers.-1989.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:C58765832B67E68C87F92610D0475A47A16675B3
 				"torrent4k": ""
 				}		
 			]
@@ -37668,7 +37707,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:90538FC7B2486F6FDAEA241BAF34F4DC1AF020F1&HD1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Halloween.2-Sanguinario.1981.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:90538FC7B2486F6FDAEA241BAF34F4DC1AF020F1&HD1080
 				"torrent4k": ""
 				}		
 			]
@@ -38031,7 +38070,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:5309DD3BFB2A3B626A21350C25B838213C66C022&BRRip",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.noche.de.Halloween.-1978.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:5309DD3BFB2A3B626A21350C25B838213C66C022&BRRip
 				"torrent4k": ""
 				}		
 			]
