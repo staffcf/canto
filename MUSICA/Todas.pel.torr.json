@@ -1555,7 +1555,20 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent4k": ""
 				}		
 			]
-			},
+			}
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Fantastico, 1Aventuras, A2021, Letra M, Japon, Netflix, ",
+			"name": "Monster Hunter: Leyendas del gremio (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/bVr1xgQhz7XTSYeLcTWBnhzVAI8.jpg",
+			"info": "Cuenta la historia de un joven novato que desea convertirse en un cazador de renombre, cuando descubre una temible verdad: un Dragón Anciano se está dirigiendo hacia su aldea natal",
+			"genero": "Animacion, Fantastico, Aventuras",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Monster.Hunter-Leyendas.del.gremio.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},,
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Accion, 1Aventuras, 1Fantastico, A2021, Letra M, EEUU, ",
 			"name": "Mortal Kombat (2021)","coloryear": "cyan",
@@ -31310,7 +31323,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Aventuras, Accion, Ciencia ficcion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:AEB064768A7636828D61B5BA522D4D1F3F273BC9",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Indiana.Jones.y.el.reino.de.la.calavera.de.cristal.-2008.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:AEB064768A7636828D61B5BA522D4D1F3F273BC9
 				"torrent4k": "magnet:?xt=urn:btih:5AA95F7DD6DB3393E7248C043F82CE91F67EACA0" magnet:?xt=urn:btih:686952727DDF859E057FA9D29B8D0F2197A465E2&dn=4KRip magnet:?xt=urn:btih:77A5F32A0EBBE9A05F288B1F8D4E96A0D1770608  
 				}		
 			]
@@ -36415,7 +36428,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Aventuras, Accion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:5DDED0A7C0E22FA46AEDB5C8564D27D906B09FD7",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Indiana.Jones.y.La.Ultima.Cruzada.-1989.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:5DDED0A7C0E22FA46AEDB5C8564D27D906B09FD7
 				"torrent4k": "magnet:?xt=urn:btih:9BA556924BD4B17A886345AA8997A2B1A7A934C8" magnet:?xt=urn:btih:3B763F249C354A549B698B02AB74BC8E3F0ED247&dn=4KRip   magnet:?xt=urn:btih:CE53FEF11B61533FB16560F594C6828C548D7F57
 				}		
 			]
@@ -37305,7 +37318,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Aventuras, Accion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:591FF7752FE331E5AB95BB1FF2FF9461AA25E696",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Indiana.Jones.y.el.templo.maldito.-1984.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:591FF7752FE331E5AB95BB1FF2FF9461AA25E696
 				"torrent4k": "magnet:?xt=urn:btih:5B3B13C44CF9FD60F0D75B60D8FE67F0E8D38407"  magnet:?xt=urn:btih:3F4DDB964A0C4CD49F1E10CBFA82D2A9F36F4C86&dn=4KRip   magnet:?xt=urn:btih:E55C07B243BF53C54A8D8E4F6F994E74E6ED6BDB  
 				}		
 			]
@@ -37682,7 +37695,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Aventuras, Accion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:DF61C3DB54271A185B0F94479B2C54E129035EDD",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/En.busca.del.arca.perdida.-1981.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:DF61C3DB54271A185B0F94479B2C54E129035EDD
 				"torrent4k": "magnet:?xt=urn:btih:C6699D42F860CCD9D7BAD858CAF610137A027311", magnet:?xt=urn:btih:D6A233E55D55A97D3D1BA4FD65C51C52BEADD5E3&dn=4KRip magnet:?xt=urn:btih:FF191D9D0A98937D89017829A7EDABDBE6DF1239
 			]
 			},
