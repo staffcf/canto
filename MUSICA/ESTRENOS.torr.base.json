@@ -6,7 +6,20 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Thriller, 1Intriga, A2019, Letra L, Corea del sur, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2019, Letra C, Reino Unido, ",
+			"name": "Como se hace una chica (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/4nIupI8oN8tyistI8fDoN6vryeE.jpg",
+			"info": "Johanna Morrigan decide abandonar su vida en Wolverhampton para mudarse a Londres. En el proceso, cambia radicalmente su forma de ser e incluso su propio nombre, pasando a ser conocida ahora como Dolly Wilde. Por suerte para ella, obtiene un trabajo como crítica musical que le permite dejar atrás su vida de pobreza",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Como.se.hace.una.chica.-2019.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Thriller, 1Intriga, A2019, Letra L, Corea del Sur, ",
 			"name": "Llevame a casa (2019)","coloryear": "limegreen",
 			"image": "https://www.themoviedb.org/t/p/original/nqi37OQaD7JQOuhLvULV4YL1nKT.jpg",
 			"info": "Una madre totalmente entregada a la búsqueda de su hijo desaparecido sigue una pista que le lleva hasta un pueblo pesquero en el que un oficial de policía corrupto podría tener las respuestas a sus preguntas",
