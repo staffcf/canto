@@ -751,7 +751,20 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent4k": ""	
 				}		
 			]
-			},
+			}
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Musical, 1Comedia, 1Romance, A2021, Letra E, Spain, ",
+			"name": "El Cover (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/AbToqdta8kFDFdIJS4t9UapcJKk.jpg",
+			"info": "Dani ha heredado de su familia el amor por la música y también el miedo al fracaso. Así que trabaja de camarero antes que malvivir de su sueño como sus padres. Este año, como cada verano, Benidorm se llena de artistas que vienen a cantar en sus bares, hoteles y salas de fiesta. Allí Dani conoce a Sandra, quien cambiará su forma de entender el arte",
+			"genero": "Musical, Comedia, Romance",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.Cover.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},,
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Comedia, 1Aventuras, 1Fantastico, A2021, Letra E, EEUU, Netflix, ",
 			"name": "El dragon de los deseos (2021)","coloryear": "cyan",
