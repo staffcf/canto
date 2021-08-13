@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2019, Letra A, EEUU, ",
+			"name": "Antrum (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/3gStOwdJ9tXuTGBAIBivGIO7huT.jpg",
+			"info": "En 1988, la proyección de una película resultó en la muerte de cincuenta y seis personas cuando el cine de Budapest donde tenía lugar la premiere prendió en llamas. Desde entonces, es un título maldito, marcado a fuego por la tragedia. Ahora, se ha encontrado un nuevo negativo y se está restaurando una nueva copia: la película más mortal de la historia está lista para el reestreno",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Antrum.-2019.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:978825BE31740EE91E6F9FCE91B02FA7CA2302E2&dn=BRRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Western, 1Drama, A2021, Letra L, Spain, ",
 			"name": "Libertad (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/tB8UVEZYr5VRZKgt8mCTKsLveza.jpg",
