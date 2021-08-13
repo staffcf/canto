@@ -245,7 +245,9 @@ Title:SPIDER-MAN, SagaID:Spider-Man, Imagen:https://www.psicocine.com/wp-content
 							-	0Saga, 1SagaTorrent, 
 Title:SHERLOCK HOLMES, SagaID:SherlockHolmes, Imagen:https://www.dafont.com/forum/attach/orig/4/6/46158.jpg,	
 							-	0Saga, 1SagaTorrent, 
-Title:SIN CITY, SagaID:SinCity, Imagen:https://i.pinimg.com/originals/01/8a/bb/018abbdd2d66774678da16ba5e5b9e52.png,	
+Title:SIN CITY, SagaID:SinCity, Imagen:https://i.pinimg.com/originals/01/8a/bb/018abbdd2d66774678da16ba5e5b9e52.png,		
+							-	0Saga, 1SagaTorrent, 
+Title:SPACE JAM, SagaID:SpaceJam, Imagen:https://vader.news/__export/1589003131377/sites/gadgets/img/2020/05/09/space-jam-2-logo-titulo.jpg_423682103.jpg,	
 							-	0Saga, 1SagaTorrent, 
 Title:SPEED, SagaID:Speed, Imagen:https://i.ytimg.com/vi/u7yEELtCLww/maxresdefault.jpg,	
 							-	0Saga, 1SagaTorrent, 
@@ -1943,6 +1945,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				{
 				"torrent": "magnet:?xt=urn:btih:FED9E189C0323009463654A7CE494C79D0D09049&dn=BRRip",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Fantastico, 1Comedia, 1Infantil, A2021, Letra S, EEUU, Sagas SpaceJam, ",
+			"name": "Space Jam: Nuevas leyendas (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/i6E8fx8lAEI0PGGCUlaA2Ap1gWi.jpg",
+			"info": "La superestrella de la NBA, LeBron James, se une a Bugs Bunny y al resto de los Looney Tunes en esta esperada secuela",
+			"genero": "Animacion, Fantastico, Comedia, Infantil",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Space.Jam-Nuevas.leyendas.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -35356,14 +35371,14 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Animacion, 1Comedia, 1Ciencia ficcion, 1Fantastico, 1Infantil, A1996, Letra S, EEUU, B2000, A2000-1991, ", 	
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Animacion, 1Comedia, 1Ciencia ficcion, 1Fantastico, 1Infantil, A1996, Letra S, EEUU, B2000, A2000-1991, Sagas SpaceJam, ", 	
 			"name": "Space Jam (1996)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/2yyw20gloVgbzR9a5B15GqPdqux.jpg",
 			"info": "Bugs Bunny y su equipo desafian a los Nerdlucks (un grupo de pequeños extraterrestres) a un partido de baloncesto para decidir si los Looney Tunes permanecen en la Tierra o se trasladan a una lejana galaxia para trabajar en un parque de atracciones de Montaña Tontolandia. Los Nerdlucks cuentan con una poderosa arma secreta que los hace superiores: se han apoderado de las mejores cualidades de las estrellas de la NBA (Charles Barkley y Patrick Ewing). Pero tambien los Looney poseen un arma secreta: ¡Michael Jordan!",
 			"genero": "Animacion, Comedia, Ciencia ficcion, Fantastico, Infantil",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:811BD39ACED1042783C4FB73DA053FDA84F8FD49&dn=HD080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Space.Jam.-1996.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:811BD39ACED1042783C4FB73DA053FDA84F8FD49&dn=HD080
 				"torrent4k": "magnet:?xt=urn:btih:AE18D05DDB284ABC0C73C14B5D1935A8DDF45ECE&dn=UHDRip"
 				}		
 			]
