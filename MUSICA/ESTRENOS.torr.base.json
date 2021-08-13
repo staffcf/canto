@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Western, 1Drama, A2021, Letra L, Spain, ",
+			"name": "Libertad (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/tB8UVEZYr5VRZKgt8mCTKsLveza.jpg",
+			"info": "A comienzos del siglo XIX, y tras pasar 17 años en la cárcel condenada a muerte, a la famosa bandolera Lucía la Llanera por fin llega el indulto, que la saca de prisión. Entró embarazada a la cárcel y su hijo, que se gana la vida como asistente del verdugo, no ha conocido más mundo que el de los muros del presidio. Pero a pesar de salir de la cárcel madre e hijo no podrán disfrutar de plena libertad, pues ambos comienzan a ser perseguidos por bandoleros y escopeteros del Gobernador... Película para cines complementaria de la serie homónima de Enrique Urbizu.",
+			"genero": "Western, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Libertad.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, A2021, Letra B, Italia, Netflix, ",
 			"name": "Beckett (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/RsHR0n9kVU4QO5Hwag9v41nnRP.jpg",
@@ -13,7 +26,7 @@
 			"genero": "Thriller, Drama",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Beckett.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:FCCEA6A8587DBEF348730A23966ABA0DFACA16B5&dn=BRRip
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Beckett.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:19240398407B49EA4C10343F57483EBDC355F5FA&dn=B3ck3t.m1080p.exclusivetorrent.net.mkv	magnet:?xt=urn:btih:FCCEA6A8587DBEF348730A23966ABA0DFACA16B5&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -26,7 +39,7 @@
 			"genero": "Animacion, Fantastico, Aventuras",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Monster.Hunter-Leyendas.del.gremio.-2021.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:DF0C08B8CE1C362B42E8934A9D02A00F14AEF7B0&dn=HD720
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Monster.Hunter-Leyendas.del.gremio.-2021.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:70F9994666A08004653BC8EBFCD0A3A3F42B84F4&dn=M0nst3rL3y3ndasGr3m1o.m1080p.exclusivetorrent.net.mkv	magnet:?xt=urn:btih:DF0C08B8CE1C362B42E8934A9D02A00F14AEF7B0&dn=HD720
 				"torrent4k": ""	
 				}		
 			]
@@ -39,7 +52,7 @@
 			"genero": "Comedia",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Como.se.hace.una.chica.-2019.-.1080.-.CristalAzul.mkv.torrent",	
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Como.se.hace.una.chica.-2019.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:85FFF0C859114ACF86A446A40D0740B64DD1E5CC&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -52,7 +65,7 @@
 			"genero": "Drama, Thriller, Intriga",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Llevame.a.casa.-2019.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Llevame.a.casa.-2019.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:8420E46F22E608EF2AC90404881D0CA1A3EDD0AA&dn=Ll3v4m3C4sa.m1080p.exclusivetorrent.net.mkv	magnet:?xt=urn:btih:F6F843BD9FF1C8A70529AC4B903A7F677FB7CFC3&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -65,7 +78,7 @@
 			"genero": "Comedia",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Barb.y.Star.van.a.Vista.Del.Mar.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Barb.y.Star.van.a.Vista.Del.Mar.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:A5C9D4952A83E8979B3EAC326FE83BC686A09FF5&dn=B4rbSt4rV1staM4r.m1080p.exclusivetorrent.net.mkv	magnet:?xt=urn:btih:653960c6b61382b237d7d3456eba4dacd0122483&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -78,7 +91,7 @@
 			"genero": "Romance, Comedia",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Mi.primer.beso.3.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Mi.primer.beso.3.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:87F983E00E7015984CB723CB879734D190196DC4&dn=Pr1merB3so3.m1080p.exclusivetorrent.net.mkv	magnet:?xt=urn:btih:73A9B0724165DB80F80DB879985CFF0E9631768D&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -91,7 +104,7 @@
 			"genero": "Comedia",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.club.de.las.abejas.reina.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.club.de.las.abejas.reina.-2021.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:A14F3751B688538E73DF8AFB5EC72695F511A76F&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -144,7 +157,7 @@
 			"genero": "Romance",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Una.Cenicienta.moderna-Salto.a.la.fama.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:A80BBF85F9D430022BA3EE3C96A1B35DA3A7D13F&dn=BRRip
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Una.Cenicienta.moderna-Salto.a.la.fama.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:195F42961F7ACE8ABE79149F6A24344F78FD9519&dn=C3n1c1ntaM0d3rnaF4m4.m1080p.exclusivetorrent.net.mkv		magnet:?xt=urn:btih:A80BBF85F9D430022BA3EE3C96A1B35DA3A7D13F&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -170,7 +183,7 @@
 			"genero": "Thriller",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.efecto.Marcus-Los.casos.del.Departamento.Q.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.efecto.Marcus-Los.casos.del.Departamento.Q.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:C570059DC0F0DE9BA57CFBCD82B2314C692291C2&dn=Ef3ct0M4rcs.m1080p.exclusivetorrent.net.mkv
 				"torrent4k": ""	
 				}		
 			]
@@ -196,7 +209,7 @@
 			"genero": "Comedia",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Una.veterinaria.en.la.Borgonha.2019.-.1080._CristalAzul.mkv.torrent",magnet:?xt=urn:btih:92671DC9F6E52C76B3CF101902BF3FB73C35EFAD&dn=BRRip
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Una.veterinaria.en.la.Borgonha.2019.-.1080._CristalAzul.mkv.torrent",magnet:?xt=urn:btih:CD64BD54360B7FAEF442916AB6E28ADE7782AB19&dn=V3t3r1nar1aB0rg0n1a.m1080p.exclusivetorrent.net.mkv	magnet:?xt=urn:btih:92671DC9F6E52C76B3CF101902BF3FB73C35EFAD&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -209,7 +222,7 @@
 			"genero": "Romance, Comedia",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Boda.sin.fin.2020.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:72E48770028BFE36634CFB506B64ED4B9ADEF36A&dn=BRRip
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Boda.sin.fin.2020.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:46A6C8181F3C75C510A22BD200D7FD197520D725&dn=B0d4S1nF1n.m1080p.exclusivetorrent.net.mkv	magnet:?xt=urn:btih:72E48770028BFE36634CFB506B64ED4B9ADEF36A&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -222,7 +235,7 @@
 			"genero": "Drama",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Police.2020.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:4B7110E5EF016E763607D6AA5180D94C71E4C763&dn=BRRip
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Police.2020.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:7483F9EF023D9EB07D148FA6A4CCE068383CED06&dn=P0l1c3.m1080p.exclusivetorrent.net.mkv	magnet:?xt=urn:btih:4B7110E5EF016E763607D6AA5180D94C71E4C763&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -235,7 +248,7 @@
 			"genero": "Animacion, Accion, Aventuras",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Scooby-Doo.La.Leyenda.de.Scoobydur.2021.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:27611B59EE38C32761EC5BF78E2F3C2A6F895F34&dn=BRRip
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Scooby-Doo.La.Leyenda.de.Scoobydur.2021.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:A1A04B110AD9D05FCB3410C37C7DDE0BD2B7B89F&dn=Sc0b1D0Sw0rd.m1080p.exclusivetorrent.net.mkv	magnet:?xt=urn:btih:27611B59EE38C32761EC5BF78E2F3C2A6F895F34&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -300,7 +313,7 @@
 			"genero": "Ciencia ficcion",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Colision.inminente.2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Colision.inminente.2020.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:0A6F757D68EAE13F3C77780D188996A48E6C7102&dn=C0l1s10nInm1n3nte.m1080p.exclusivetorrent.net.mkv
 				"torrent4k": ""	
 				}		
 			]
@@ -755,7 +768,7 @@
 			"genero": "Thriller",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Flashback.-2020.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:ac935a504b1ff28319039191de8dac6d80b816cf&dn=HD720  magnet:?xt=urn:btih:813BA0C99E31420BC3724664A2C68D014C373B83&dn=BRRip
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Flashback.-2020.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:2C09DC6E2CA0FED3E9FDD87BD5CAD025032033B2&dn=Flashback%20%282020%29%20MicroHD%201080p.exclusivetorrent.net.mkv	  magnet:?xt=urn:btih:ac935a504b1ff28319039191de8dac6d80b816cf&dn=HD720  magnet:?xt=urn:btih:813BA0C99E31420BC3724664A2C68D014C373B83&dn=BRRip
 				"torrent4k": ""
 				}		
 			]
