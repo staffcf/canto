@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, A2021, Letra B, Italia, Netflix, ",
+			"name": "Beckett (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/RsHR0n9kVU4QO5Hwag9v41nnRP.jpg",
+			"info": "Beckett (John David Washington), un estadounidense de vacaciones en Grecia, se convierte en víctima de una persecución tras un brutal accidente. Mientras emprende una huida desesperada por Grecia para salvar el pellejo, llegar a la embajada de Estados Unidos y lavar su nombre, la tensión va en aumento a medida que las autoridades estrechan el cerco, el malestar político aumenta, y Beckett se va adentrando más y más en una peligrosa e intrincada conspiración",
+			"genero": "Thriller, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Beckett.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:FCCEA6A8587DBEF348730A23966ABA0DFACA16B5&dn=BRRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Fantastico, 1Aventuras, A2021, Letra M, Japon, Netflix, ",
 			"name": "Monster Hunter: Leyendas del gremio (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/bVr1xgQhz7XTSYeLcTWBnhzVAI8.jpg",
@@ -13,7 +26,7 @@
 			"genero": "Animacion, Fantastico, Aventuras",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Monster.Hunter-Leyendas.del.gremio.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Monster.Hunter-Leyendas.del.gremio.-2021.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:DF0C08B8CE1C362B42E8934A9D02A00F14AEF7B0&dn=HD720
 				"torrent4k": ""	
 				}		
 			]
@@ -26,7 +39,7 @@
 			"genero": "Comedia",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Como.se.hace.una.chica.-2019.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Como.se.hace.una.chica.-2019.-.1080.-.CristalAzul.mkv.torrent",	
 				"torrent4k": ""	
 				}		
 			]
@@ -1887,136 +1900,6 @@
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:63D6338E9C47D72E70739BD3EF41D7F25F17B57B&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2019, Letra A, Spain, C720, ",
-			"name": "Amor En Polvo (2019)","coloryear": "limegreen",
-			"image": "https://www.themoviedb.org/t/p/original/j1HciMLzAhR9iLsDmMN6kWA2mOQ.jpg",
-			"info": "Pablo y Blanca han decidido hacer un intercambio de parejas, desobedeciendo la primera norma fundamental: no hacerlo si estas en crisis. Para ello, llaman a dos de sus amigos solteros, Mia y Lucas, desobedeciendo tambien la segunda norma: hacerlo siempre con otra pareja",
-			"genero": "Comedia",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:5FC9BD840F93C6FED2CEF75E5E0D087DEE60975C&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Comedia, 1Fantastico, 1Ciencia ficcion, A2020, Letra J, Spain, C720, ",
-			"name": "Jostissi de Carrero (2020)","coloryear": "magenta",
-			"image": "https://www.themoviedb.org/t/p/original/pdArs40YwuO42sRVb89JXuc26td.jpg",
-			"info": "Golam es un hombre solitario que regresa a Porto Cristo (Mallorca) despues de un tiempo. Al llegar se sorprende al descubrir que una banda criminal llamada 'La banda del lobo' son los amos del lugar, tienen aterrorizada a la poblacion gracias a la complicidad de las autoridades y la inactividad de las fuerzas del orden. Pero el hara justicia",
-			"genero": "Accion, Comedia, Fantastico, Ciencia ficcion",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:E7FBE56150EEB7B15DAC9759A4D42F83B08A8CAA&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2019, Letra I, EEUU, C720, ",
-			"name": "I Trapped The Devil (2019)","coloryear": "limegreen",
-			"image": "https://www.themoviedb.org/t/p/original/1x8R9QFc64iMBge0OJqnEn4kcyl.jpg",
-			"info": "Matt y su mujer Karen se presentan sin avisar en la casa de su hermano Steve, del que hacia algun tiempo que no tenian noticias, durante la noche de Navidad. Aunque esperan celebrar una tranquila y apacible velada, algo fuera de lo normal sucede: al parecer, Steve tiene como rehen a un hombre en su sotano. No obstante, no es una persona cualquiera, pues Steve esta convencido de que esta reteniendo al mismisimo Diablo",
-			"genero": "Terror",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:32AA87E4739E741AC1C3437FC36002E51D107696&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Ciencia ficcion, 1Drama, A2021, Letra D, EEUU, C720, Netflix, ",
-			"name": "Disomnia (Awake) (2021)","coloryear": "cyan",
-			"image": "https://www.themoviedb.org/t/p/original/nNlMXlvBj5GroewpZ9Moc7xyl9z.jpg",
-			"info": "Tras un suceso global repentino que acaba con todos los dispositivos electronicos y con la capacidad para dormir de la humanidad, el caos comienza a consumir el mundo rapidamente. Solo Jill, un exsoldado con un pasado problematico, podria tener la clave de la cura en su propia hija. La cuestion es ¿podra Jill entregar a su hija de manera segura y salvar al mundo antes de que ella misma pierda la cabeza?",
-			"genero": "Thriller, Ciencia ficcion, Drama",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:D48AD17FB42CC2C1EF00A2A282C39E6C2F9CDA86&dn=HD1080",  magnet:?xt=urn:btih:A1E86B2C5E8DEBACDD562E2D3BB54B5902B79EF6&dn=BRRip
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2020, Letra V, Francia, C720, ",
-			"name": "Vacaciones contigo... y tu mujer (2020)","coloryear": "magenta",
-			"image": "https://www.themoviedb.org/t/p/original/14jve98UbM4lmhmqU6I4xLzFWGb.jpg",
-			"info": "Antoinette es una profesora de escuela que esta esperando a que lleguen sus largamente planeadas vacaciones de verano junto a su amante secreto, Vladimir, el padre de uno de sus alumnos",
-			"genero": "Comedia",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:B2F9B384F21E8BE1DF5921D0B31AE138D10DE660&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Comedia, 1Terror, A2020, Letra P, Canada, C720, ",
-			"name": "Psycho Goreman (2020)","coloryear": "magenta",
-			"image": "https://www.themoviedb.org/t/p/original/g4hwWXQRDxeFBlcLrFlcutPG8Pe.jpg",
-			"info": "Las hermanos Mimi y Luke resucitan por error a un señor de la guerra alienigena. Empleando un amuleto magico fuerzan al monstruo a obedecer sus infantiles deseos, lo que acaba atrayendo a su pequeño barrio de los suburbios a un ejercito de asesinos intergalacticos",
-			"genero": "Ciencia ficcion, Comedia, Terror",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:E438FA4336C885E49BD04FF7FD54B7D12F90FEE4&dn=HD1080",  magnet:?xt=urn:btih:54E8AEE94BC9BF379821A457630BEBEE7DB48CA7&dn=BRRip
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, A2021, Letra C, EEUU, C720, ",
-			"name": "Crisis (2021)","coloryear": "cyan",
-			"image": "https://www.themoviedb.org/t/p/original/mymtK0RY960TfwfcT9WMDK10WY8.jpg",
-			"info": "Tres historias sobre el mundo de los opiaceos chocan entre si: un traficante de drogas planea una operacion que implica a varios carteles entre Canada y los Estados Unidos; un arquitecto que se recupera de una fuerte adiccion al OxyContin descubre la verdad que esconde su hijo de su relacion con la droga; un profesor de universidad trata de averiguar que relacion une al gobierno con una compañia farmaceutica que esta diseñando un nuevo analgesico que aseguran no 'provoca ninguna adiccion'",
-			"genero": "Thriller, Drama",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:D651EBAD81A15DAE99CA1B716DE7F8C5F509BEDC&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2020, Letra Y, EEUU, C720, ",
-			"name": "You Should Have Left (2020)","coloryear": "magenta",
-			"image": "https://www.themoviedb.org/t/p/original/qbYUXE1S0jI7Uvz0ZxR2YW9y8pu.jpg",
-			"info": "El banquero retirado Theo Conroy (Kevin Bacon) alquila una casa de campo en Gales para pasar unas vacaciones en compañia de su esposa Susanna (Amanda Seyfried) y su pequeña hija Ella (Avery Essex). Sin embargo, la familia experimenta extraños fenomenos que les ponen en peligro",
-			"genero": "Thriller",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:C22CFD05E6C29D6699B6E2916E35A847D16531CC&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Accion, A2021, Letra X, Spain, C720, Netflix, ",
-			"name": "Xtremo (2021)","coloryear": "cyan",
-			"image": "https://i.imgur.com/wJwP0WI.jpg",
-			"info": "Dos años despues de que su hermano Lucero traicionara a la familia, matando a su padre e hijo y dejandolo casi muerto, Max esta listo para ejecutar su venganza. Su plan, cuidadosamente planeado, se adelanta cuando los hombres de Lucero matan sin piedad a la familia de Leo, el chico adolescente que habia tomado como protegido. Sin nada que perder, Max se enfrenta uno a uno a los secuaces de Lucero hasta que finalmente llega a su blanco final.",
-			"genero": "Thriller, Accion",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:86902D36EBF1DF969EF1DFE3542E28DCFA7E87FD&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2020, Letra M, EEUU, C720, ",
-			"name": "Medio Hermanos (Half Brothers) (2020)","coloryear": "magenta",
-			"image": "https://www.themoviedb.org/t/p/original/qaHcvVfMdWkBJS0zjnZfAII0nEu.jpg",
-			"info": "Renato Murguia es un hombre que lo tiene todo: es inteligente, dueño de una exitosa compañia, y esta a punto de casarse y emprender una nueva familia junto a su esposa e hijo. Unos pocos dias antes de la boda, recibe una inesperada llamada desde el otro lado de la frontera; que sacara a la luz una vieja herida que nunca se cerro, y lo llevara a emprender una travesia en la que se encontrara con muchos obstaculos, nuevas experiencias, y con la solucion a esa duda que lleva persiguiendolo desde hace tantos años",
-			"genero": "Comedia",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:2025F6405B2EC340BB73A7D2D9CE97B3355D87CC&dn=BRRip",
 				"torrent4k": ""
 				}		
 			]
