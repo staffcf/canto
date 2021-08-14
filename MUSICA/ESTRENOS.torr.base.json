@@ -6,6 +6,32 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, A2018, Letra C, Reino Unido, 1Hechos reales, ",
+			"name": "Ciudad de mentiras (2018)","coloryear": "aqua",
+			"image": "https://www.themoviedb.org/t/p/original/xqFFCgKL6yWXM6QCmkrj10ZxVlI.jpg",
+			"info": "Narra la investigación de los asesinatos de los raperos Tupac Shakur en 1996 y de The Notorious B.I.G. en 1997. Basada en el libro LAbyrinth by Randall Sullivan",
+			"genero": "Thriller, Drama",			
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Ciudad.de.mentiras.-2018.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Drama, A2019, Letra L, Egipto, ",
+			"name": "Luxor (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/vFpBftJimBOhsFy18jv3KSN0h8c.jpg",
+			"info": "Hana está buscando tranquilidad mental y física después de haber pasado un periodo muy estresante trabajando en un hospital en Ramtha, en la frontera entre Jordania y Siria, donde trataba a las víctimas de la guerra de Siria. Encuentra algo de paz en Luxor (Egipto), donde vivió cuando tenía 20 años y fue pareja de un atractivo arqueólogo llamado Sultan, que en aquel entonces también estudiaba allí. En este nostálgico viaje en solitario trata de superar las emociones que ha dejado tras de sí la guerra. Cuando se vuelve a encontrar casualmente con Sultan, la química entre ambos resulta innegable",
+			"genero": "Romance, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Luxor.-2019.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Ciencia ficcion, 1Accion, 1Drama, A2021, Letra E, Japon, ",
 			"name": "Evangelion: 3.0+1.0 Thrice Upon a Time (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/cRrLIcrM3I72f5uk7nCeV2k4uLx.jpg",
