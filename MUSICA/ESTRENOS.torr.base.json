@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Ciencia ficcion, 1Accion, 1Drama, A2021, Letra E, Japon, ",
+			"name": "Evangelion: 3.0+1.0 Thrice Upon a Time (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/cRrLIcrM3I72f5uk7nCeV2k4uLx.jpg",
+			"info": "Cuarto y último volumen de La Reconstrucción de Evangelion. Misato y su grupo anti-NERV, Wille, llegan a una París roja por la nucleización. La tripulación de la nave Wunder aterriza en una torre de contención con solo 720 seg para reestablecer la ciudad. Cuando una horda de Evas NERV aparece, la mejorada Unidad Eva 8 debe interceptarlos. Mientras, Shinji, Asuka y Rei merodean por Japón",
+			"genero": "Animacion, Ciencia ficcion, Accion, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Evangelion-3.0-1.0-Thrice.Upon.a.Time.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Musical, 1Comedia, 1Romance, A2021, Letra E, Spain, ",
 			"name": "El Cover (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/AbToqdta8kFDFdIJS4t9UapcJKk.jpg",
