@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Aventuras, 1Fantastico, 1Accion, 1Drama, A2020, Letra G, Japon, ",
+			"name": "Guardianes de la noche: Tren infinito (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/3f4ETSwknZs74lmUYC7ENIMRBMP.jpg",
+			"info": "Tanjiro Kamado y sus amigos del Demon Slayer Corps acompañan a Kyōjurō Rengoku, el Flame Hashira, para investigar una misteriosa serie de desapariciones que ocurren dentro de un tren aparentemente infinitamente largo. Poco saben que Enmu, la última de las Lunas Inferiores de los Doce Kizuki, también está a bordo y les ha preparado una trampa",
+			"genero": "Animacion, Aventuras, Fantastico, Accion, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Guardianes.de.la.noche-Tren.infinito.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, 1Accion, A2020, Letra H, Francia, ",
 			"name": "Hermanos de sangre (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/5Rr1QRh7fS7SOJStBUznqIQ24Y3.jpg",
