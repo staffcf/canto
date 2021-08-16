@@ -315,6 +315,8 @@ Title:COMO ENTRENAR A TU DRAGON, SagaID:CEATD, Imagen:https://as.com/meristation
 							-	0SagaINFANTIL, 1SagaTINFANTIL,
 Title:EL REY LEON, SagaID:ReyLeon, Imagen:https://www.soy-de.com/images/thumbs/El-Rey-Le%C3%B3n--Ya-podemos-disfrutar-del-primer-tr%C3%A1il-0028587.jpeg,
 							-	0SagaINFANTIL, 1SagaTINFANTIL,
+Title:EVANGELION, SagaID:Evangelion, Imagen:https://seeklogo.com/images/N/Neon_Genesis_Evangelion-logo-466029D9A5-seeklogo.com.png,
+							-	0SagaINFANTIL, 1SagaTINFANTIL,
 Title:FROZEN, SagaID:Frozen, Imagen:https://www.cinemascomics.com/wp-content/uploads/2015/02/Frozen-Logo.jpg,
 							-	0SagaINFANTIL, 1SagaTINFANTIL,
 Title:GNOMES, SagaID:Gnomes, Imagen:https://i.pinimg.com/originals/a8/2b/db/a82bdb294b0985f9b905779c9c1b1f68.jpg,
@@ -1025,7 +1027,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			}
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Ciencia ficcion, 1Accion, 1Drama, A2021, Letra E, Japon, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Ciencia ficcion, 1Accion, 1Drama, A2021, Letra E, Japon, Sagas Evangelion, ",
 			"name": "Evangelion: 3.0+1.0 Thrice Upon a Time (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/cRrLIcrM3I72f5uk7nCeV2k4uLx.jpg",
 			"info": "Cuarto y último volumen de La Reconstrucción de Evangelion. Misato y su grupo anti-NERV, Wille, llegan a una París roja por la nucleización. La tripulación de la nave Wunder aterriza en una torre de contención con solo 720 seg para reestablecer la ciudad. Cuando una horda de Evas NERV aparece, la mejorada Unidad Eva 8 debe interceptarlos. Mientras, Shinji, Asuka y Rei merodean por Japón",
@@ -19537,7 +19539,20 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent4k": ""
 				}			
 			]
-			},
+			}
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2018, Letra D, Rusia, ",
+			"name": "Dovlatov (2018)","coloryear": "aqua",
+			"image": "https://www.themoviedb.org/t/p/original/gDuK5L1LOfIEcmPdQNHshRwqnCx.jpg",
+			"info": "'Dovlatov' sigue durante seis días al brillante e irónico escritor que vio más allá de los rígidos límites de la Unión Soviética de los 70. Sergei Dovlatov luchó para conservar su propio talento y su decencia con el poeta y escritor Joseph Brodsky, mientras veía cómo sus amigos artistas sufrían ante la maquinaria del estado",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Dovlatov.-2018.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},,
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Comedia, A2018, Letra D, Reino Unido, 1Biografico, Drogas, ",
 			"name": "Driven: El Origen De La Leyenda (2018)","coloryear": "aqua",
@@ -29726,6 +29741,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Ciencia ficcion, 1Drama, 1Accion, A2012, Letra E, Japon, Sagas Evangelion, ",
+			"name": "Evangelion: 3.0 You Can (Not) Redo (2012)","coloryear": "deeppink",
+			"image": "https://www.themoviedb.org/t/p/original/oU8hDly4mgFYhpg2gZdJQ7D5CoI.jpg",
+			"info": "Tercera película dentro de la serie 'Rebuild of Evangelion', centrada en servir como remake del anime Evangelion",
+			"genero": "Animacion, Ciencia ficcion, Drama, Accion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Evangelion.3.0.You.Can-Not-Redo.-2012.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Ciencia ficcion, 1Comedia, 1Terror, A2012, Letra F, EEUU, ADisney, ",
 			"name": "Frankenweenie (2012)","coloryear": "lightcoral",
 			"image": "https://www.themoviedb.org/t/p/original/4WZaUjHswR2mak767GEXgiWYxeq.jpg",
@@ -30999,6 +31027,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Ciencia ficcion, 1Drama, 1Accion, A2009, Letra E, Japon, Sagas Evangelion, ",
+			"name": "Evangelion 2.0 You Can (Not) Advance (2009)","coloryear": "hotpink",
+			"image": "https://www.themoviedb.org/t/p/original/toKxeQkLXWsOYRCw07tWqEXMJXE.jpg",
+			"info": "El tercer impacto ha comenzado. La espectacular batalla entre los Evangelion, las máquinas de combate definitivas creadas por la humanidad, y las insondables entidades conocidas como Ángeles se intensifica hasta alcanzar el punto de ruptura a partir del cual ya nada volverá a ser como antes. Segunda película dentro de la serie 'Rebuild of Evangelion', centrada en servir como remake del anime Evangelion",
+			"genero": "Animacion, Ciencia ficcion, Drama, Accion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Evangelion.2.0.You.Can-Not-Advance.-2009.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Accion, 1Ciencia ficcion, 1Aventuras, A2009, Letra G, EEUU, Sagas GIJoe, ",
 			"name": "G.I. Joe (2009)","coloryear": "hotpink",
 			"image": "https://www.themoviedb.org/t/p/original/eNTxjvnrv9RQFg7i5GhQrY4kdbe.jpg",
@@ -31800,6 +31841,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				{ 
 				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.ultimatum.de.Bourne.2007.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:0BFCFDBC70CEE4B6EAEE3ACCC603FEBFFE84AD6B&dn=HD1080
 				"torrent4k": "magnet:?xt=urn:btih:EA0D2B06809DD11D300FD3AEBE52FF637A36BE32"
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Ciencia ficcion, 1Drama, 1Accion, A2007, Letra E, Japon, Sagas Evangelion, ",
+			"name": "Evangelion: 1.0 You Are (Not) Alone (2007)","coloryear": "steelblue",
+			"image": "https://www.themoviedb.org/t/p/original/qe3NFczNFn9SiKsbC9dWjEKcqyE.jpg",
+			"info": "Dejando claro que Neon Genesis Evangelion es un icono indiscutible de la animación japonesa no podemos sino alegrarnos de que el gran Hideaki Anno, su creador, haya decidido ‘reconstruir’ un proyecto que se inició en 1995 como serie de televisión y que ha seguido dando que hablar durante más de una década. Este juggernaut de la ciencia ficción animada, de inacabables ramificaciones filosóficas, espirituales y humanas, regresa a la gran pantalla bajo forma de una espectacular tetralogía de la que Evangelion 1.0 es su primer capítulo. Tokyo-3 vuelve a estar bajo la amenaza de los Ángeles y Shinji y Rei volverán a enfundarse el traje de Eva",
+			"genero": "Animacion, Ciencia ficcion, Drama, Accion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Evangelion.1.0.You.Are.-Not-.Alone.-2007.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
