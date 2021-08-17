@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra I, Spain, ",
+			"name": "Isaac (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/Svmhw2SWuHX4q7jnizMyfgrtnn.jpg",
+			"info": "Dos amigos se reencuentran después de dieciséis años, pero ninguno es ya el que era. Ambos tienen pareja, pero muy distintas. Nacho y Marta son un matrimonio burgués con una vida muy acomodada, con un excelente trabajo y un buen status social en Barcelona, pero infelices porque no consiguen tener un hijo. La otra pareja, Denis y Carme, son más liberales, y liberados, pero viven al día y se esfuerzan por conseguir dinero para abrir un restaurante. Cuando surge la opción de que Carme sea su 'vientre de alquiler' a cambio del dinero que necesitan para abrir su soñado negocio, las dos parejas se tendrán que enfrentar a sus prejuicios y buscar la felicidad que hasta ahora no encontraban, aunque eso suponga romper con sus propias reglas... incluso cuando la gestación ya esté avanzada",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Isaac.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Fantastico, 1Comedia, A2021, Letra O, Spain, ",
 			"name": "Ovella (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/iIy2GulN97Y7aW2GsjNpkb5Cvg0.jpg",
