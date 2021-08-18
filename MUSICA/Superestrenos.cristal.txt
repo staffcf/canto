@@ -6,6 +6,17 @@
 
 
 <item>
+<title>[COLOR white] Chaos Walking [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.9[/COLOR]</title>    
+<genre>Ciencia ficción,Aventuras,Fantástico,Distopía</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/raKvs8Y.jpg</thumbnail>
+<fanart>https://i.imgur.com/AmV1xwE.jpg</fanart>
+<info>Año 2267. En un planeta lejano, en la pequeña población de Prentisstown, el joven colono Todd ha crecido creyendo que una raza alienígena asesinó a todas las mujeres y contagió con el "ruido" al resto de los hombres. El ruido permite que entre ellos todos puedan escuchar lo que están pensando. Pero todo cambia cuando un día Todd se encuentra con Viola, la superviviente de una nave espacial que se ha estrellado contra el planeta. Todd se queda perplejo y confuso, pues nunca ha visto a una mujer... y ella no tiene "ruido".<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=KJOd3poTq_I"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/3p1j2cmxnm8-m4q"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.to/f/o731m068hoozqk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/if3o0ule84kb.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/u97trx13zypm"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1VvlUJbjMRzHBJnLbNiPKZWxulzvxo_N_/view"},{"titulo" : "[COLOR white]Drive 4K HDR[/COLOR]","url" : "https://drive.google.com/file/d/1dWydbCenyQVuYA7JGZHALb1Djc0XyA_6/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Guardianes de la Noche - Tren infinito [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.4[/COLOR]</title>    
 <genre>Animación,Action,Adventure,Fantasía,Anime</genre>
 <year>2021</year>
