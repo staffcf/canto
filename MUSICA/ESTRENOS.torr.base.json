@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Aventuras, 1Fantastico, A2021, Letra C, EEUU, ",
+			"name": "Chaos walking (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/a0R1Ybj3m4M4ZeztizD7F6fmPCE.jpg",
+			"info": "En Prentisstown, Todd ha crecido creyendo que la 'Masilla' fue la responsable de liberar un germen que asesino a todas las mujeres y contagio con el "ruido" al resto de los hombres. Tras descubrir un remanso de silencio en un pantano, sus padres adoptivos le obligan a huir lo mas rapido que pueda, dejando todo atras salvo un mapa del Nuevo Mundo y un mensaje, asi como un sinfin de preguntas sin responder. Pronto descubre la fuente del silencio: una chica llamada Viola. Los dos deben avisar lo antes posible sobre la inminente llegada de una nave para que el intendente Prentiss pueda preparar un ejercito para la guerra.",
+			"genero": "Ciencia ficcion, Aventuras, Fantastico",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Chaos.walking.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra I, Spain, ",
 			"name": "Isaac (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/Svmhw2SWuHX4q7jnizMyfgrtnn.jpg",
@@ -1900,110 +1913,6 @@
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:D315D1BB655AB4EFAEA9FD6D354314CD6341196D&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Thriller, A2021, Letra U, EEUU, C720, ",
-			"name": "Una noche de venganza (Vanquish) (2021)","coloryear": "cyan",
-			"image": "https://www.themoviedb.org/t/p/original/48T2OXIrmYuKgaRmxF3CcZEwM4T.jpg",
-			"info": "Un comisionado de policia retirado chantajea a su cuidador secuestrando a su hija para que lo ayude a traicionar a sus sucios socios en un intento por limpiar la ciudad antes de que sea demasiado tarde",
-			"genero": "Accion, Thriller",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:A4EEC660DC8A3295CDCEFF32605DE3E75C805890&dn=BR1080",  magnet:?xt=urn:btih:782ED59B67F4A6B0A4925C6DAD77A3F897A82583&dn=BRRip
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Drama, A2020, Letra E, Reino Unido, C720, ",
-			"name": "El padre (2020)","coloryear": "magenta",
-			"image": "https://www.themoviedb.org/t/p/original/yjY9ElmM48sZaW1xktVyM2aa5QB.jpg",
-			"info": "Anthony (Anthony Hopkins), un hombre de 80 años mordaz, algo travieso y que tercamente ha decidido vivir solo, rechaza todos y cada uno de las cuidadoras que su hija Anne (Olivia Colman) intenta contratar para que le ayuden en casa. Esta desesperada porque ya no puede visitarle a diario y siente que la mente de su padre empieza a fallar y se desconecta cada vez mas de la realidad. Anne sufre la paulatina perdida de su padre a medida que la mente de este se deteriora, pero tambien se aferra al derecho a vivir su propia vida",
-			"genero": "Drama",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:4081C7D942F136937257B88083BCB0670A5A6AE1&dn=HD1080",  magnet:?xt=urn:btih:6D8A0E7192A2BD0FEB4E274820608E88C462FE5E&dn=BR1080   magnet:?xt=urn:btih:A30CB893C778F20BFF4A12B316783D0C9D25E909&dn=BRRip
-				"torrent4k": "magnet:?xt=urn:btih:2419BE6FD35D2C2789A66D680E74726B43B81CB8"
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, A2020, Letra W, Dinamarca, C720, ",
-			"name": "Wildland (2020)","coloryear": "magenta",
-			"image": "https://www.themoviedb.org/t/p/original/vQ304pxbe7NU3xBRZt5NWdYBemz.jpg",
-			"info": "Ida se muda con su tia y sus primos despues de la tragica muerte de su madre en un accidente automovilistico. El hogar esta lleno de amor, pero de puertas afuera la familia lleva una vida violenta y criminal",
-			"genero": "Thriller, Drama",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:B77BFE1315662A986F6FDF202985826A10F8D921&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Fantastico, A2020, Letra L, Spain, C720, ",
-			"name": "Lua vermella (Luna roja) (2020)","coloryear": "magenta",
-			"image": "https://www.themoviedb.org/t/p/original/Aqp42tOjtmSyrBuLY03p3oEgK2F.jpg",
-			"info": "El tiempo parece detenido en un pueblo de la costa de Galicia. Todo el mundo esta como paralizado, pero aun podemos escuchar sus voces: hablan de fantasmas, brujas y monstruos. Tres mujeres aparecen y empiezan a buscar a Rubio, un marinero que ha desaparecido recientemente en el mar",
-			"genero": "Drama, Fantastico",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:7003E3B8D7683F8D3554C2243118F47BD292E413&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, A2018, Letra R, Rusia, C720, ",
-			"name": "Rescate en Marte (Forsaken) (2018)","coloryear": "aqua",
-			"image": "https://www.themoviedb.org/t/p/original/md58Np7dGTC6fezlRfw4l4OecGr.jpg",
-			"info": "Fruto de una cadena de accidentes tragicos en un planeta remoto, el cosmonauta Chapayev se queda solo. Su vida corre peligro, pero descubre algo inexplicable que cambia su vida",
-			"genero": "Ciencia ficcion",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:23D0E29FF52722E12C929A9EC9704673EF3A9804&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Suspense, A2019, Letra P, Egipto, C720, ",
-			"name": "Pharaoh's War (2019)","coloryear": "limegreen",
-			"image": "https://www.themoviedb.org/t/p/original/ovYESeQWvi4Yd3MXSAprZijkpEa.jpg",
-			"info": "Yehia, conocido como Faraon, reune a un grupo de seis de sus viejos amigos, cada uno con una habilidad de combate unica, para viajar a Siria con el pretexto de cazar recompensas. Su verdadera mision es salvar a su hijo secuestrado de las manos de Franco y sus gansteres del ISIS despues de que agredieron a refugiados sirios, incluida la esposa de Yehia, y se llevaron a los niños a un distrito que actualmente esta bajo su control.",
-			"genero": "Accion, Suspense",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:65F0A17C89C203BB696675712986EA7A20DFDA1B&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Comedia, 1Drama, A2019, Letra E, Francia, C720, ",
-			"name": "Entre nosotras (Deux) (2019)","coloryear": "limegreen",
-			"image": "https://www.themoviedb.org/t/p/original/jLZrgKnFy7xVIdjYf2BqR6W4jqd.jpg",
-			"info": "Nina y Madeleine, dos mujeres jubiladas, estan secretamente enamoradas desde hace decadas. Aunque de cara a los demas no son mas que dos vecinas, vienen y van de una casa a la otra compartiendo la ternura de una vida en comun. Hasta que un dia, su relacion da un giro a causa de un suceso inesperado",
-			"genero": "Romance, Comedia, Drama",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:82831A0B04B4D33AF5368F8B758D2F06F1FF1306&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2019, Letra E, Canada, C720, Telefilm, ",
-			"name": "El Caso Amish (2019)","coloryear": "limegreen",
-			"image": "https://www.themoviedb.org/t/p/original/atUwLuGzvrLquBG0AByvVHlBp3i.jpg",
-			"info": "Annie, Jacob y su hijo son amish integrados en su tranquila comunidad hasta que Jacob comienza a mostrar signos de rebeldia. Insatisfecho con la vida tan sencilla que llevan, trata de convencer a Annie para abandonar la comunidad y vivir en la ciudad",
-			"genero": "Thriller",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:A0AF8B488C4B611DE6A1EC8AE41C1A67A42B427A&dn=BRRip",
 				"torrent4k": ""
 				}		
 			]
