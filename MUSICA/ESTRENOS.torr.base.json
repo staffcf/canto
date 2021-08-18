@@ -6,15 +6,54 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Aventuras, 1Fantastico, A2021, Letra C, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Romance, A2021, Letra D, Brasil, Netflix, ",
+			"name": "Diarios de intercambio (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/kOr0XVCMVlq1m80BApiiordfTia.jpg",
+			"info": "Para salir de la rutina, dos buenas amigas emprenden una aventura enriquecedora en otro país como alumnas de intercambio",
+			"genero": "Comedia, Romance",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Diarios.de.intercambio.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, 1Romance, A2020, Letra E, Italia, Netflix, ",
+			"name": "En el mejor momento (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/cmDGudK8fsq7onN2HaQFz5pWO1N.jpg",
+			"info": "Marta puede ser huérfana y puede verse afectada por una enfermedad letal, pero es la persona más positiva que uno puede conocer. Quiere que un chico se enamore de ella. No cualquier chico, el más guapo de todos. Un día, parece haber encontrado su pareja",
+			"genero": "Comedia, Drama, Romance",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/En.el.mejor.momento.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2021, Letra L, Alemania, Netflix, ",
+			"name": "La isla negra (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/lthWL35rQlNbb9UAv44KEhKNEOX.jpg",
+			"info": "Los oscuros secretos de una isla aparentemente pacífica amenazan con devorar a un estudiante cuando se acerca demasiado a su misteriosa profesora nueva",
+			"genero": "Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.isla.negra.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Aventuras, 1Fantastico, A2021, Letra C, EEUU, ",
 			"name": "Chaos walking (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/a0R1Ybj3m4M4ZeztizD7F6fmPCE.jpg",
 			"info": "En Prentisstown, Todd ha crecido creyendo que la 'Masilla' fue la responsable de liberar un germen que asesino a todas las mujeres y contagio con el "ruido" al resto de los hombres. Tras descubrir un remanso de silencio en un pantano, sus padres adoptivos le obligan a huir lo mas rapido que pueda, dejando todo atras salvo un mapa del Nuevo Mundo y un mensaje, asi como un sinfin de preguntas sin responder. Pronto descubre la fuente del silencio: una chica llamada Viola. Los dos deben avisar lo antes posible sobre la inminente llegada de una nave para que el intendente Prentiss pueda preparar un ejercito para la guerra.",
 			"genero": "Ciencia ficcion, Aventuras, Fantastico",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Chaos.walking.-2021.-.1080.-.CristalAzul.mkv.torrent",
-				"torrent4k": ""
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Chaos.walking.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:8ED3B570CC44E07008D1547EB3E30045DF5048A1&dn=HD1080
+				"torrent4k": "magnet:?xt=urn:btih:F7620AF275E1170F0B21B348D3A592F131513237&dn=UHDRip"
 				}		
 			]
 			},
