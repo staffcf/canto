@@ -185,13 +185,19 @@ Title:LA PROFECIA, SagaID:Profecia, Imagen:http://www.mundodvd.com/coversbd/cole
 							-	0Saga, 1SagaTorrent, 
 Title:LA TRILOGIA DE BAZTAN, SagaID:Baztan, Imagen:https://images-na.ssl-images-amazon.com/images/I/91yJmhaD90L.jpg,
 							-	0Saga, 1SagaTorrent, 
+Title:LAS COLINAS TIENEN OJOS, SagaID:LCTO, Imagen:https://i.ytimg.com/vi/HS9Uyyz7GVA/maxresdefault.jpg,		
+							-	0Saga, 1SagaTorrent, 
 Title:LAS CRONICAS DE NARNIA, SagaID:LCDN, Imagen:https://upload.wikimedia.org/wikipedia/ms/5/52/Narnia_title.png,			
 							-	0Saga, 1SagaTorrent, 
 Title:LOS 4 FANTASTICOS, SagaID:Los4Fantasticos, Imagen:https://1.bp.blogspot.com/--8aQlP6goj8/VsRJ6mLoE7I/AAAAAAAAVrQ/ouxaLzqRQDknKdwkaXxPCuIIJYp58_HbwCCo/s225/logo_fantasticfour.png,	
 							-	0Saga, 1SagaTorrent, 
 Title:LOS CASOS DEL DEPARTAMENTO Q, SagaID:DepartmentQ, Imagen:https://www.themoviedb.org/t/p/original/i8H4xtfPVx6OYPgixSF41Envzhl.jpg,		
 							-	0Saga, 1SagaTorrent, 
-Title:LOS CAZAFANTASMAS, SagaID:Cazafantasmas, Imagen:http://www.hdfondos.eu/pictures/2015/1215/1/ghostbusters-logo-background-415007.jpg,	
+Title:LOS CAZAFANTASMAS, SagaID:Cazafantasmas, Imagen:http://www.hdfondos.eu/pictures/2015/1215/1/ghostbusters-logo-background-415007.jpg,		
+							-	0Saga, 1SagaTorrent, 
+Title:LOS DESCENDIENTES, SagaID:LosDescendientes, Imagen:https://img.europapress.es/fotoweb/fotonoticia_20140617105508_420.jpg,
+							-	0Saga, 1SagaTorrent, 
+Title:LOS INMORTALES, SagaID:Inmortales, Imagen:http://www.mubis.es/media/covers/1859/3224/los-inmortales-portada-l_cover.jpg,	
 							-	0Saga, 1SagaTorrent, 
 Title:LOS JUEGOS DEL HAMBRE, SagaID:LJDH, Imagen:https://cartelescine.files.wordpress.com/2012/04/los-juegos-del-hambre.jpg?w=593,		
 							-	0Saga, 1SagaTorrent, 
@@ -2041,6 +2047,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, A2021, Letra S, EEUU, Familia, Venganza, Netflix, ",
+			"name": "Sweet Girl (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/aw58HDsDmj3jQr7KfZvWBPQJGHw.jpg",
+			"info": "Un marido destrozado jura llevar ante la justicia a los responsables de la muerte de su mujer, a la vez que protege a la única familia que le queda, su hija",
+			"genero": "Accion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Sweet.Girl.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Romance, A2021, Letra T, EEUU, Netflix, ",
 			"name": "Tenia buena pinta (Good on Paper) (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/6gnB9xj4dQALKX2ph1CvbWkG5B7.jpg",
@@ -2169,7 +2188,20 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent4k": ""
 				}		
 			]
-			}
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Comedia, A2021, Letra U, EEUU, Netflix, ",
+			"name": "Una casa de locos: La pelicula (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/gpM5WcVj9ssNeriJCOhaPNuj49j.jpg",
+			"info": "La aventura trata del viaje de la familia Loud a Escocia, donde descubren que son descendientes de la realeza escocesa. La familia se entrega rápidamente a la gran vida y descubre que el hogar de sus ancestros es un castillo",
+			"genero": "Animacion, Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Una.casa.de.locos-La.pelicula.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, A2021, Letra U, EEUU, ",
 			"name": "Una Cenicienta Moderna: Salto a la fama (2021)","coloryear": "cyan",
@@ -2182,7 +2214,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent4k": ""	
 				}		
 			]
-			},,
+			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Thriller, A2021, Letra U, EEUU, ",
 			"name": "Una noche de venganza (Vanquish) (2021)","coloryear": "cyan",
@@ -4144,7 +4176,20 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent4k": ""
 				}		
 			]
-			},
+			}
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra E, Reino Unido, 1Biografico, Fotografia, ",
+			"name": "El fotografo de Minamata (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/osmpFmDbFUkkBeFWb5ZahAmur3P.jpg",
+			"info": "Nueva York, 1971. Tras sus celebrados días como uno de los fotoperiodistas más venerados de la II Guerra Mundial, W. Eugene Smith se siente desconectado de la sociedad y de su carrera. La revista Life lo envía a la ciudad costera japonesa de Minamata, cuya población ha sido devastada por el envenenamiento por mercurio, resultado de décadas de negligencia industrial. Smith se sumerge en la comunidad y sus imágenes le dan al desastre una dimensión humana desgarradora",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.fotografo.de.Minamata.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},,
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Terror, 1Thriller, A2020, Letra E, EEUU, ",
 			"name": "El hechizo (2020)","coloryear": "magenta",
@@ -7015,7 +7060,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller, Intriga",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:8534b98eb10da67ab1d794838590d8fad61493c2",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Ofrenda.a.la.tormenta.-2020.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:8534b98eb10da67ab1d794838590d8fad61493c2
 				"torrent4k": ""
 				}		
 			]
@@ -10764,7 +10809,20 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent4k": ""
 				}		
 			]
-			},
+			}
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Intriga, A2019, Letra D, Canada, ",
+			"name": "Desaparicion en Niagara Falls (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/fNzOzNBdAWJlz1GF8qA39PUla69.jpg",
+			"info": "Una joven regresa a su hogar natal, al lado de las cataratas del Niágara, y se ve envuelta en los recuerdos del secuestro que dice que presenció cuando era una niña",
+			"genero": "Thriller, Intriga",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Desaparicion.en.Niagara.Falls.-2019.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},,
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2019, Letra D, EEUU, ",
 			"name": "Despues de la boda (2019)","coloryear": "limegreen",
@@ -14462,13 +14520,13 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Intriga, A2019, Letra L, Spain, Crimen, Atresmedia, Sagas Baztan, ",
-			"name": "Legado En Los Huesos (2019)","coloryear": "limegreen",
+			"name": "Legado en los huesos (2019)","coloryear": "limegreen",
 			"image": "https://www.themoviedb.org/t/p/original/rZFiiHWj8m4cH8ToNmZa99oGdMa.jpg",
 			"info": "Ha pasado un año desde que Amaia Salazar resolviera los crimenes que aterrorizaron al valle del Baztan. Embarazada y decidida a dejar atras lo vivido en Elizondo, la vida de la inspectora se ve de nuevo alterada por un suceso inesperado: el suicidio de varios presos que dejan una unica palabra escrita en la pared de sus celdas, 'Tarttalo'. Los peligros que Amaia creia haber dejado atras regresan con mas fuerza que nunca y la inspectora debera enfrentarse a este nuevo caso en una vertiginosa investigacion amenazada por la presencia de su propia madre. Segunda entrega de la 'Trilogia del Baztan', basada en las novelas de Dolores Redondo",
 			"genero": "Thriller, Intriga",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:457f2049bfbf2bffa49f26856049bb41c1231743",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Legado.En.Los.Huesos.-2019.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:457f2049bfbf2bffa49f26856049bb41c1231743
 				"torrent4k": ""
 				}		
 			]
@@ -14702,7 +14760,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Aventura",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:d5815bb468bb7e116828295b989c633d284c03da",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Los.descendientes.3.-2019.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:d5815bb468bb7e116828295b989c633d284c03da
 				"torrent4k": ""
 				}		
 			]
@@ -21561,7 +21619,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller, Terror, Accion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:565AE21D0E99A5F68201552EFDA096B45D72D437&dn=BR1080",  magnet:?xt=urn:btih:337BC3524B57A004D6FE6C00D095CAF94E4A4A4D&dn=BDR1080
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.Primera.Purga-La.Noche.De.Las.Bestias.-2018.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:565AE21D0E99A5F68201552EFDA096B45D72D437&dn=BR1080  magnet:?xt=urn:btih:337BC3524B57A004D6FE6C00D095CAF94E4A4A4D&dn=BDR1080
 				"torrent4k": "magnet:?xt=urn:btih:902DB2D4A4D75F679B6DC23A0219D4F73F8998B5"
 				}			
 			]
@@ -25025,7 +25083,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller, Intriga",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:C22ABLNVRRVW7AAW6JXMTCQSCLI45VZM",  magnet:?xt=urn:btih:16b400adb58c6b6f8016f26ec98a1212d1ced72c
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.guardian.invisible.-2017.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:C22ABLNVRRVW7AAW6JXMTCQSCLI45VZM	magnet:?xt=urn:btih:16b400adb58c6b6f8016f26ec98a1212d1ced72c
 				"torrent4k": ""
 				}		
 			]
@@ -26039,7 +26097,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Accion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:4D6326D770F1A4EEA4E750A314BA8B8DFF48BE93",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Los.descendientes.2.-2017.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:4D6326D770F1A4EEA4E750A314BA8B8DFF48BE93
 				"torrent4k": ""
 				}
 			]
@@ -26754,7 +26812,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Accion, Aventuras",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:1C7628AC841168F977679DC1893668A7319D4D1E",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Thor-Ragnarok.-2017.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:1C7628AC841168F977679DC1893668A7319D4D1E
 				"torrent4k": "magnet:?xt=urn:btih:0B834E90C1F2284E18C862743CB63ABD5277B730",
 				}
 			]
@@ -27397,7 +27455,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Comedia",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:55ACF015F306A0FECF238C1CA5AC48E353327DE6",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Cazafantasmas-V.Ext.-2016.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:55ACF015F306A0FECF238C1CA5AC48E353327DE6
 				"torrent4k": "magnet:?xt=urn:btih:AFC6AA9AC7B5E4E409F5AD2099963DAA61785CF5"
 				}		
 			]
@@ -27566,7 +27624,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller, Terror, Accion",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:3GCRZARSC4BLQIQBAIXQB7SDJYQ2E4UF&dn=HD1080",  magnet:?xt=urn:btih:1722EC5BAE0CF41308EA1EE709E94CD8757B9208&dn=BDR1080
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Election-La.noche.de.las.bestias.-2016.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:3GCRZARSC4BLQIQBAIXQB7SDJYQ2E4UF&dn=HD1080  magnet:?xt=urn:btih:1722EC5BAE0CF41308EA1EE709E94CD8757B9208&dn=BDR1080
 				"torrent4k": ""
 				}		
 			]
@@ -28339,7 +28397,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Aventuras, Accion, Thriller",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:d006b6bad01f4b7552c54206366d9cdbd5263f42",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Los.juegos.del.hambre-Sinsajo.-Parte.2.-2015.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:DADD737249AB36C214C8F8B063FBCF9193FA9107&dn=HD1080	magnet:?xt=urn:btih:d006b6bad01f4b7552c54206366d9cdbd5263f42
 				"torrent4k": "magnet:?xt=urn:btih:4FF793E8884035C92F75680F5B5012E9E6FD0A03"
 				}		
 			]
@@ -28566,7 +28624,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller, Terror, Accion",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:3E70780B11556E0453BD2F2F909AA27CA194ECAF&dn=BDR1080",  magnet:?xt=urn:btih:D8069CE4D4CFA1D8BB84D46896A81D4918570EC1&dn=HD1080
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Anarchy-La.noche.de.las.bestias.-2014.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:3E70780B11556E0453BD2F2F909AA27CA194ECAF&dn=BDR1080  magnet:?xt=urn:btih:D8069CE4D4CFA1D8BB84D46896A81D4918570EC1&dn=HD1080
 				"torrent4k": ""
 				}		
 			]
@@ -28923,6 +28981,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Fantastico, 1Musical, A2015, Letra L, EEUU, Cuentos, Telefilm, Sagas LosDescendientes, Disney, ",
+			"name": "Los descendientes (2015)","coloryear": "lime",
+			"image": "https://www.themoviedb.org/t/p/original/a1aDPDsXZKXgfBPddyv70FTc5Zw.jpg",
+			"info": "Cuenta la historia de un reino donde el hijo adolescente de la Bella y la Bestia será próximamente coronado siendo su primera orden la redención de los hijos de malvados como Cruella de Vil, Maléfica, la Madrastra de Blancanieves o Jafar. Será entonces cuando éstos, junto a los hijos de Rapunzel, Cenicienta, la Bella Durmiente o Mulán, tengan que elegir si seguir los pasos de sus padres o sacar a relucir su héroe interior",
+			"genero": "Fantastico, Musical",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Los.descendientes.-2015.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Aventuras, 1Accion, A2014, Letra L, EEUU, Sagas LJDH, ",
 			"name": "Los juegos del hambre: Sinsajo. Parte 1 (2014)","coloryear": "turquoise",
 			"image": "https://www.themoviedb.org/t/p/original/32fnZuXSOVG55oNQek41L9HjYVQ.jpg",
@@ -28930,7 +29001,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Aventuras, Accion",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:2fb761ae6e893fdd7dc2df68b605dce58c753e73",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Los.juegos.del.hambre-Sinsajo.-Parte.1.-2014.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:2fb761ae6e893fdd7dc2df68b605dce58c753e73
 				"torrent4k": "magnet:?xt=urn:btih:F87973DDA8458571866B67AE78C935B1CC19810F"
 				}		
 			]
@@ -29443,7 +29514,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Aventuras",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:94ce426af64c7dbd5e2d3c688099e202b0f425d6",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Los.juegos.del.hambre-En.llamas.-2013.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:94ce426af64c7dbd5e2d3c688099e202b0f425d6
 				"torrent4k": "magnet:?xt=urn:btih:234F1856C9FA5C7011D1D81FBA0F240CC88633AB"
 				}		
 			]
@@ -29599,7 +29670,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller, Terror",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:B935C8946934A2D1111761FB14C9B4810D114C38&dn=HD1080",  magnet:?xt=urn:btih:3BE0C142E70456ED72B1F4B0688D15056BDF9D95&dn=BDR1080
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/The.Purge-La.noche.de.las.bestias.-2013.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:B935C8946934A2D1111761FB14C9B4810D114C38&dn=HD1080  magnet:?xt=urn:btih:3BE0C142E70456ED72B1F4B0688D15056BDF9D95&dn=BDR1080
 				"torrent4k": ""
 				}		
 			]
@@ -29612,7 +29683,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Accion, Aventuras",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:17F300921F110A2801C34F3D9E744D4144C5B5C1",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Thor-El.Mundo.Oscuro.-2013.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:17F300921F110A2801C34F3D9E744D4144C5B5C1
 				"torrent4k": ""
 				}		
 			]
@@ -29955,8 +30026,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"info": "Lo que en el pasado fueron los Estados Unidos, ahora es una nacion llamada Panem; un imponente Capitolio ejerce un control riguroso sobre los 12 distritos que lo rodean y que estan aislados entre si. Cada distrito se ve obligado a enviar anualmente un chico y una chica entre los doce y los dieciocho años para que participen en los Hunger Games, unos juegos que son transmitidos en directo por la television. Se trata de una lucha a muerte, en la que solo puede haber un superviviente. Katniss Everdeen, una joven de dieciseis años, decide sustituir a su hermana en los juegos; pero para ella, que ya ha visto la muerte de cerca, la lucha por la supervivencia es su segunda naturaleza.",
 			"genero": "Ciencia ficcion, Aventuras, Thriller",
 			"stations": [
-				{ 
-				"torrent": "magnet:?xt=urn:btih:BA19CCA99475995C7FE4E2B9B433448DB0DBEFFA",
+				{ 	
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Los.juegos.del.hambre.-2012.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:BA19CCA99475995C7FE4E2B9B433448DB0DBEFFA
 				"torrent4k": "magnet:?xt=urn:btih:35851AE619CE2A3749B5429194456455D70BACDE"
 				}		
 			]
@@ -30482,7 +30553,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Accion, Aventuras",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:B297BA207F3464876EABA4A5F23D18986448C6B5",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Thor.-2011.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:B297BA207F3464876EABA4A5F23D18986448C6B5
 				"torrent4k": ""
 				}		
 			]
@@ -30767,7 +30838,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Aventuras",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:57BDD5F1D5F99667D2590B08276018C773EA1043",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Las.cronicas.de.Narnia-La.travesia.del.viajero.del.alba.-2010.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:57BDD5F1D5F99667D2590B08276018C773EA1043
 				"torrent4k": ""
 				}		
 			]
@@ -31677,7 +31748,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Aventuras, Accion, Fantastico, Thriller",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:DC5FF7B47266615DBA90247AF8ACAC84784F5490&dn=HD1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.momia-La.tumba.del.emperador.Dragon-La.momia.3-.-2008.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:DC5FF7B47266615DBA90247AF8ACAC84784F5490&dn=HD1080
 				"torrent4k": "magnet:?xt=urn:btih:C5EC10D6E3010CC8625091D88C8933E026A51ECC&dn=UHDRemux"
 				}		
 			]
@@ -31690,7 +31761,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Aventuras",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:93CF9EA6E2E6B431ABB9C62947EE67DF56D08251",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Las.cronicas.de.Narnia-El.principe.Caspian.-2008.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:93CF9EA6E2E6B431ABB9C62947EE67DF56D08251
 				"torrent4k": ""
 				}		
 			]
@@ -31897,6 +31968,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Terror, 1Thriller, A2007, Letra E, EEUU, Sagas LCTO, ",
+			"name": "El retorno de los malditos (Las colinas tienen ojos 2) (2007)","coloryear": "steelblue",
+			"image": "https://www.themoviedb.org/t/p/original/hDZmMfAVF5D3pyabJvX1mNtJfhX.jpg",
+			"info": "Lo que comenzo con la familia Carter, no llego, claramente, a su fin con la familia Carter. Como parte de una mision habitual, una unidad de soldados de la Guardia Nacional se detiene en una posicion avanzada de Nuevo Mexico para entregar equipo a un grupo de cientificos atomicos. Sin embargo, al llegar al aislado campo de investigacion, lo hallan misteriosamente desierto. Despues de haber divisado una señal de socorro en una lejana cordillera, el equipo decide emprender una mision de busqueda y rescate por las montañas con el fin de localizar a los cientificos desaparecidos. No saben que estas son las mismas montañas que la desventurada familia Carter visito en una ocasion, y en las que acecha una tribu de mutantes antropofagos. Y en esta ocasion, las fuerzas del mal que pretenden la aniquilacion de los soldados son aun mayores: el peor de los mas degenerados – Papa Hades, el patriarca de la familia – quiere conservar a las mujeres como bestias de cria para garantizar la supervivencia del clan de los mutantes. De esta forma, el desprevenido grupo de soldados debe aprender a hacer causa comun contra un enemigo cuya obsesion es la de destruirlos... ",
+			"genero": "Terror, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.retorno.de.los.malditos-Las.colinas.tienen.ojos.2-.-2007.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Accion, 1Intriga, 1Thriller, A2007, Letra E, EEUU, Espionaje, Sagas Bourne, ",
 			"name": "El ultimatum de Bourne (2007)","coloryear": "steelblue",
 			"image": "https://www.themoviedb.org/t/p/original/1OIp3IY2KZO6DehQ29gDW5RRgqs.jpg",
@@ -32022,6 +32106,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:CE842899CCC46EF4D779F06F2A35A1CBA2D0C4F6",  magnet:?xt=urn:btih:01B2CF3D502FB08E418C1B0F34113084B9D75AC9
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Fantastico, 1Aventuras, 1Accion, A2007, Letra L, Reino Unido, Sagas Inmortales, ",
+			"name": "Los inmortales: El origen (2007)","coloryear": "steelblue",
+			"image": "https://www.themoviedb.org/t/p/original/x3VRXD4FczVnVtslPjUVTB3AlRP.jpg",
+			"info": "El mundo esta sumido en el caos. Duncan MacLeod, el Inmortal, recorre la ciudad que se desmorona, mientras va recordando los tiempos felices que vivio junto a su amada. Desesperado y solo, MacLeod se encuentra con su antigua banda, entre ellos con su misterioso amigo Methos, y un mortal, Watcher Joe Dawson. Reunido este pequeño grupo, juntos deciden encontrar el origen del primer Inmortal y la fuente de su inmortalidad",
+			"genero": "Ciencia ficcion, Fantastico, Aventuras, Accion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Los.inmortales-El.origen.-2007.-.1080.-.CristalAzul.mp4.torrent",
 				"torrent4k": ""
 				}		
 			]
@@ -32397,6 +32494,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Terror, 1Thriller, A2006, Letra L, EEUU, Sagas LCTO, ",
+			"name": "Las colinas tienen ojos (2006)","coloryear": "olive",
+			"image": "https://www.themoviedb.org/t/p/original/qiPSDMZZrgG4axJYzI9l74DtEbB.jpg",
+			"info": "El viaje de una familia se convierte en una pesadilla terrorifica cuando se adentran en una zona desertica de acceso restringido, donde el Gobierno esta haciendo experimentos con energia atomica",
+			"genero": "Terror, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Las.colinas.tienen.ojos.-2006.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, A2006, Letra M, EEUU, Espionaje, Sagas MisionImposible, ",
 			"name": "Mision imposible 3 (2006)","coloryear": "olive",
 			"image": "https://www.themoviedb.org/t/p/original/xuZmV5WSpaKZacrVDCOAgH5ydjK.jpg",
@@ -32761,7 +32871,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Aventuras",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:34AFD5335C860778C7A4C6C8A9089C29FB927AFF",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Las.cronicas.de.Narnia-El.leon.la.bruja.y.el.armario.-2005.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:34AFD5335C860778C7A4C6C8A9089C29FB927AFF
 				"torrent4k": ""
 				}		
 			]
@@ -34113,7 +34223,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Aventuras, Accion, Fantastico",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:796E7669FFBCCFBD8F9763F83E8BCC0E3BA466D8&dn=HD1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.regreso.de.la.momia.-2001.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:796E7669FFBCCFBD8F9763F83E8BCC0E3BA466D8&dn=HD1080
 				"torrent4k": "magnet:?xt=urn:btih:5ACDB891A50C2472F34560BDC5FCB1ACAF461109&dn=UHDRemux"
 				}		
 			]
@@ -34482,6 +34592,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Fantastico, 1Accion, A2000, Letra L, EEUU, A2000-1991, Sagas Inmortales, ",
+			"name": "Los inmortales: Juego final (2000)","coloryear": "gold",
+			"image": "https://www.themoviedb.org/t/p/original/h7iMI8yITHvLWKyYlQdIYQYfca3.jpg",
+			"info": "Connor MacLeod esta cansado de su condicion de inmortal y de ver como sobrevive a todos los que ama. Se recluye en un santuario en el que los inmortales pueden reposar en paz, sin tener que luchar. Pero el santuario es atacado por un viejo enemigo, Jacob Kell, que, despues de asesinar a todos los que se encontraban retirados, excepto Connor, se ha convertido en el inmortal mas poderoso. Ahora, Connor y su hermano Duncan tendran que detenerlo y evitar asi que sea el malvado Kell el ultimo inmortal que quede...",
+			"genero": "Fantastico, Accion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Los.inmortales-Juego.final.-2000.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Intriga, A2000, Letra M, EEUU, Crimen, Venganza, A2000-1991, 1Culto, ",
 			"name": "Memento (2000)","coloryear": "gold",
 			"image": "https://www.themoviedb.org/t/p/original/5Pe6iiwZyExtIzeuk2Q5LNxLuHO.jpg",
@@ -34781,7 +34904,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Aventuras, Accion, Fantastico",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:DCA0D64B2A4FF8A1DA80D9F9DA6A3866CD3A8DE1&dn=HD1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.momia.-1999.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:DCA0D64B2A4FF8A1DA80D9F9DA6A3866CD3A8DE1&dn=HD1080
 				"torrent4k": "magnet:?xt=urn:btih:FCEC25F0D02D3A4F6575EFA1968E8C689295912F&dn=UHDRip"
 				}		
 			]
@@ -35626,7 +35749,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Animacion, Comedia, Ciencia ficcion, Fantastico, Infantil",
 			"stations": [
 				{ 
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Space.Jam.-1996.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:811BD39ACED1042783C4FB73DA053FDA84F8FD49&dn=HD080
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Space.Jam.-1996.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:811BD39ACED1042783C4FB73DA053FDA84F8FD49&dn=HD1080
 				"torrent4k": "magnet:?xt=urn:btih:AE18D05DDB284ABC0C73C14B5D1935A8DDF45ECE&dn=UHDRip"
 				}		
 			]
@@ -35827,7 +35950,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Aventuras",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:3B74E3D52FC51647AD1B8FDED7D961EE398EA63B",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Los.inmortales.III-El.hechicero.-1995.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:3B74E3D52FC51647AD1B8FDED7D961EE398EA63B
 				"torrent4k": ""
 				}		
 			]
@@ -36392,6 +36515,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A1991, Letra L, EEUU, B2000, A2000-1991, Sagas Profecia, ",
+			"name": "La Profecia 4: El Renacer (1991)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/wC2UJobBIj0aYbNuoNQNqEmuQ2W.jpg",
+			"info": "Una niña es adoptada por un matrimonio que no pueden tener hijos. La pequeña se comportará de manera inusual, de forma que su madre adoptiva contratará a un investigador para que descubra a los verdaderos progenitores de la niña",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.Profecia.4.El.Renacer.-1991.-.sd.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Infantil, 1Accion, A1991, Letra L, EEUU, Comics, B2000, A2000-1991, Sagas TortugasNinja, ",
 			"name": "Las tortugas ninja II: El secreto de los mocos verdes (1991)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/pHX1HeO3oFcy50QoOaBOl5Rgtc0.jpg",
@@ -36425,7 +36561,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Fantastico, Aventuras, Accion",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:D8F54DB7E3A12FDA10914C6DB0D2DD0FCB062134",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Los.inmortales.II-El.desafio.-1991.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:D8F54DB7E3A12FDA10914C6DB0D2DD0FCB062134
 				"torrent4k": ""
 				}		
 			]
@@ -36769,7 +36905,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Fantastico, Terror",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:0229D7A5BF4EA8E4BA8B8D7FD307E6FC0DA17E61",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.mosca.II.-1989.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:0229D7A5BF4EA8E4BA8B8D7FD307E6FC0DA17E61
 				"torrent4k": ""
 				}		
 			]
@@ -36808,7 +36944,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia, Fantastico",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:7D6E188E51912A6E04FBB01B14971FB2E6244CCF",  magnet:?xt=urn:btih:504C8B0A28F7EF7256BA7B091CA91FF9F0CBA56D
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Los.Cazafantasmas.II.-1989.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:7D6E188E51912A6E04FBB01B14971FB2E6244CCF  magnet:?xt=urn:btih:504C8B0A28F7EF7256BA7B091CA91FF9F0CBA56D
 				"torrent4k": "magnet:?xt=urn:btih:43E25BF2AB8383CEC56DAF741A1374093DF91FC0"  magnet:?xt=urn:btih:C3645CF71875C98393ED5709042E9BABCAD09A83
 				}		
 			]
@@ -37341,7 +37477,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Fantastico, Terror",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:21D395C5C328F087C8E3638BDD1A4B64F8904857",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.mosca.-1986.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:21D395C5C328F087C8E3638BDD1A4B64F8904857
 				"torrent4k": ""
 				}		
 			]
@@ -37354,7 +37490,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Aventuras",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:8BC59C442803F341705FEAF414C181FB034EC105",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Los.inmortales.-1986.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:8BC59C442803F341705FEAF414C181FB034EC105
 				"torrent4k": ""
 				}		
 			]
@@ -37439,6 +37575,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{ 
 				"torrent": "magnet:?xt=urn:btih:891FF4819F38D0F4889B071E6914D3A0E4354BC4",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Terror, A1985, Letra L, EEUU, B2000, A1990-1981, Sagas LCTO, ",
+			"name": "Las colinas tienen ojos 2 (1985)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/p1y5aN1ejz0u2y2ch7G3H8Xpvso.jpg",
+			"info": "Varios años despues de la matanza de las montañas, Bobby, uno de los pocos supervivientes, se ha casado con Ruby. Juntos dirigen un equipo de motocross y organizan un viaje en autobus para competir en una carrera. Cuando estan atravesando el desierto, deciden coger un atajo, con la mala suerte de que sufren una averia cerca de las montañas...",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Las.colinas.tienen.ojos.2.-1985.-.720.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""
 				}		
 			]
@@ -37672,7 +37821,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia, Fantastico",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:7D6E188E51912A6E04FBB01B14971FB2E6244CCF",  magnet:?xt=urn:btih:38EBB98780B7C512978E1857D150D60E3FB4A0DC
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Los.Cazafantasmas.-1984.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:7D6E188E51912A6E04FBB01B14971FB2E6244CCF  magnet:?xt=urn:btih:38EBB98780B7C512978E1857D150D60E3FB4A0DC
 				"torrent4k": "magnet:?xt=urn:btih:06E656061A5FCE147DC8CDAAD3224BFF2B7266DF",  magnet:?xt=urn:btih:273BDA0C33E9F0F7ACFD24ACFD9BCECF40A344C6
 				}		
 			]
@@ -38010,7 +38159,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:B904620A8F52A82EC5D0CD8F21E543168D87AF48", magnet:?xt=urn:btih:D4C23DC46966F06FAF9A1EB827E4AAC6C2966DBA
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.final.de.Damien-La.profecia.3-.-1981.-.1080.-.CristalAzul.mkv.torrent", 	magnet:?xt=urn:btih:B904620A8F52A82EC5D0CD8F21E543168D87AF48	magnet:?xt=urn:btih:D4C23DC46966F06FAF9A1EB827E4AAC6C2966DBA
 				"torrent4k": ""
 				}		
 			]
@@ -38398,7 +38547,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:C4628F5E50E7548C6B2AE91275B658C7B45C6A17",  magnet:?xt=urn:btih:6B5A17C301241C444F459D6D79339DE49F60CFF9
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.maldicion.de.Damien-La.profecia.2-.-1978.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:C4628F5E50E7548C6B2AE91275B658C7B45C6A17	magnet:?xt=urn:btih:6B5A17C301241C444F459D6D79339DE49F60CFF9
 				"torrent4k": ""
 				}		
 			]
@@ -38476,7 +38625,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror",
 			"stations": [
 				{ 
-				"torrent": "",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Las.colinas.tienen.ojos.-1977.-.720.-.CristalAzul.mkv.torrent",
 				"torrent4k": "magnet:?xt=urn:btih:9899FE571640F881AC2FF775BCF379F14F3D04AD&dn=UHDRip"
 				}		
 			]
@@ -38567,7 +38716,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror, Intriga",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:7D7176D8AD4EB8DD994E1304AC6C9695FB992E2C",  magnet:?xt=urn:btih:7E6D8275C2EF3E9F49D92431F27BB21EC07DB4E9
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.Profecia.-1976.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:7D7176D8AD4EB8DD994E1304AC6C9695FB992E2C	magnet:?xt=urn:btih:7E6D8275C2EF3E9F49D92431F27BB21EC07DB4E9
 				"torrent4k": ""
 				}		
 			]
@@ -39600,7 +39749,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Terror, Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:B447583F78448DCA6EB0EAA6F2092C448F342A4C",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.regreso.de.la.mosca.-1959.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:B447583F78448DCA6EB0EAA6F2092C448F342A4C
 				"torrent4k": ""
 				}		
 			]
@@ -39626,7 +39775,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Terror, Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:757BD6021E788AD2536656C656ADF50B571D78F6",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.mosca.-1958.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:757BD6021E788AD2536656C656ADF50B571D78F6
 				"torrent4k": ""
 				}		
 			]
