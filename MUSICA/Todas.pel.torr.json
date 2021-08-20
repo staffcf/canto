@@ -245,17 +245,17 @@ Title:SAW, SagaID:Saw, Imagen:https://turntherightcorner.files.wordpress.com/201
 							-	0Saga, 1SagaTorrent, 
 Title:SCREAM, SagaID:Scream, Imagen:http://www.mubis.es/media/users/3724/27705/que-pelicula-de-la-saga-scream-te-gusta-mas-l_cover.jpg,
 							-	0Saga, 1SagaTorrent, 
-Title:SICARIO, SagaID:Sicario, Imagen:https://i.imgur.com/caHjyRc.jpg,	
-							-	0Saga, 1SagaTorrent, 
-Title:SPIDER-MAN, SagaID:Spider-Man, Imagen:https://www.psicocine.com/wp-content/uploads/2018/10/Marvels-Spider-Man.jpg,
-							-	0Saga, 1SagaTorrent, 
 Title:SHERLOCK HOLMES, SagaID:SherlockHolmes, Imagen:https://www.dafont.com/forum/attach/orig/4/6/46158.jpg,	
 							-	0Saga, 1SagaTorrent, 
-Title:SIN CITY, SagaID:SinCity, Imagen:https://i.pinimg.com/originals/01/8a/bb/018abbdd2d66774678da16ba5e5b9e52.png,		
+Title:SICARIO, SagaID:Sicario, Imagen:https://i.imgur.com/caHjyRc.jpg,	
+							-	0Saga, 1SagaTorrent, 
+Title:SIN CITY, SagaID:SinCity, Imagen:https://i.pinimg.com/originals/01/8a/bb/018abbdd2d66774678da16ba5e5b9e52.png,	
 							-	0Saga, 1SagaTorrent, 
 Title:SPACE JAM, SagaID:SpaceJam, Imagen:https://vader.news/__export/1589003131377/sites/gadgets/img/2020/05/09/space-jam-2-logo-titulo.jpg_423682103.jpg,	
 							-	0Saga, 1SagaTorrent, 
-Title:SPEED, SagaID:Speed, Imagen:https://i.ytimg.com/vi/u7yEELtCLww/maxresdefault.jpg,	
+Title:SPEED, SagaID:Speed, Imagen:https://i.ytimg.com/vi/u7yEELtCLww/maxresdefault.jpg,		
+							-	0Saga, 1SagaTorrent, 
+Title:SPIDER-MAN, SagaID:Spider-Man, Imagen:https://www.psicocine.com/wp-content/uploads/2018/10/Marvels-Spider-Man.jpg,
 							-	0Saga, 1SagaTorrent, 
 Title:STAR TREK, SagaID:StarTrek, Imagen:https://www.lacasadeel.net/wp-content/uploads/2013/08/Logotipo-Star-Trek.jpg,		
 							-	0Saga, 1SagaTorrent, 
@@ -16971,7 +16971,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Accion, Ciencia ficcion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:F84A0D63C549E3BECCFDDEA41ED8FFE206FCBCA5",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Spider-Man-Lejos.de.casa.-2019.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:F84A0D63C549E3BECCFDDEA41ED8FFE206FCBCA5
 				"torrent4k": "magnet:?xt=urn:btih:1D33A2DE151274B214A9C1F975062DCEBB56DCF1"
 				}			
 			]
@@ -23426,7 +23426,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Animacion, Aventuras, Accion, Fantastico",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:2146F6ED3CA15A5B79F62C5DC5CC9FD98DF29E58",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Spider-Man-Un.nuevo.universo.-2018.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:2146F6ED3CA15A5B79F62C5DC5CC9FD98DF29E58
 				"torrent4k": "magnet:?xt=urn:btih:5D1D1F82692F0B0378D34269E0062B57A33D3DF8"
 				}
 			]
@@ -26617,7 +26617,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Accion, Comedia, Ciencia ficcion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:2CDBC89E1DE428A0E5C60BC6F509DBF3A67F61FC",  magnet:?xt=urn:btih:6533671481E43EE3BDB1CBAAFAD13519AD5D8550
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Spider-Man-Homecoming.-2017.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:2CDBC89E1DE428A0E5C60BC6F509DBF3A67F61FC  magnet:?xt=urn:btih:6533671481E43EE3BDB1CBAAFAD13519AD5D8550
 				"torrent4k": ""
 				}
 			]
@@ -29157,7 +29157,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Accion, Aventuras",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:75C5A2AB91F60F40B39580080D9F1902686B114C",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/The.Amazing.Spider-Man.2-El.poder.de.Electro.-2014.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:75C5A2AB91F60F40B39580080D9F1902686B114C
 				"torrent4k": "magnet:?xt=urn:btih:08D5E6812E34C24EC27DD65C1A2F7902C4081350&dn=4KRip"  magnet:?xt=urn:btih:F78BA08D5A01B6A2774EACE11EEB0FA94268EA9C
 				}		
 			]
@@ -30170,7 +30170,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Accion, Romance",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:weqymekxgqbmjp5yow4upe5rrauorcno",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/The.Amazing.Spider-Man.-2012.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:weqymekxgqbmjp5yow4upe5rrauorcno
 				"torrent4k": "magnet:?xt=urn:btih:DAD5606C2BFFAF5A892CF1E0CBF4E0AD586ABB1F&dn=4KRip"  magnet:?xt=urn:btih:D999A79813A3FC298DB3199D64E48F12B108B963
 				}		
 			]
@@ -32248,7 +32248,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Accion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:717E6967B28244A416963B44BE1CD904C893DF04",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Spider-Man.3.-2007.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:717E6967B28244A416963B44BE1CD904C893DF04
 				"torrent4k": "magnet:?xt=urn:btih:4E52DC39C8AE5FA6FE3EED23DB8450CBCC24B8C1&dn=micro4K"  magnet:?xt=urn:btih:A3AE09D146BF6168C7B5B0EA4524B0F40CEED8E9&dn=UHD4K  magnet:?xt=urn:btih:E136F3C38BEA280D457767F702CDEBC80918C22A&dn=BDR4K
 				}		
 			]
@@ -33397,7 +33397,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Accion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:336F1C2A145BF6D1D7C84A180B671CF3F6463C3B",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Spider-Man.2.-2004.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:336F1C2A145BF6D1D7C84A180B671CF3F6463C3B
 				"torrent4k": "magnet:?xt=urn:btih:94CC93B84232037B528D8E8193FE5A4EB1BA0610&dn=micro4K",  magnet:?xt=urn:btih:140F72012FF02F8CB72BC3FF68EC4285D88847DE&dn=UHD4K  magnet:?xt=urn:btih:1ADB398642E1A63D1B90F4A907C33FE1E527E6F5&dn=BDR4K
 				}		
 			]
@@ -34061,7 +34061,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Accion",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:717E6967B28244A416963B44BE1CD904C893DF04",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Spider-Man.-2000.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:717E6967B28244A416963B44BE1CD904C893DF04
 				"torrent4k": "magnet:?xt=urn:btih:D10E3710AF029C276F32449519ADB05728230B9A&dn=micro4K"  magnet:?xt=urn:btih:C67C71944E019B8DD745E5DE0CC1D1244CBA402E&dn=UHDRip
 				}		
 			]
@@ -40505,7 +40505,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 		"torrent": "magnet:?xt=urn:btih:CCAF9F34BACB78F116DFBF68F5C37656DEC273A9&dn=HD1080",
 		},
 		{
-		"tag": " 1Torrentcristal, Sagas Spider-Man, ",
+		"tag": " 0Torrentcristal, Sagas Spider-Man, ",
 		"name": "Spider-Man - Saga Completa - [COLOR gold]Calidad (1080)","coloryear": "gold",
 		"image": "https://images-na.ssl-images-amazon.com/images/I/815BumVI0aL._SL1400_.jpg",
 		"info": "Peliculas de la saga Spiderman",
