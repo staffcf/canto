@@ -3944,7 +3944,20 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent4k": ""
 				}			
 			]
-			},
+			}
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Fantastico, A2020, Letra E, Japon, ",
+			"name": "Earwig y la bruja (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/b4Uz6mjxx2X6hTXRHW7Xhh4ai8y.jpg",
+			"info": "No a todos los huérfanos les gusta vivir en el orfanato de St. Morwald's, pero Earwig lo adora. Tiene todo lo que necesita para ser una muchacha feliz desde el primer día que se abrieron para ella las puertas del centro. Sin embargo, todo cambia el día que Bella Yaga y Mandrake visitan St. Morwald disfrazados de padres adoptivos. Earwig se traslada a su domicilio, una enorme casa repleta de habitaciones invisibles, pociones y libros de hechizos, con magia en cada rincón. Aunque muchos niños hubiesen huido de allí sin pensárselo dos veces, Earwig decide investigar. Empleando su propio ingenio (y algo de ayuda de un gato parlanchín), decide demostrar a todo el mundo quién manda en la casa.",
+			"genero": "Animacion, Fantastico",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Earwig.y.la.bruja.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},,
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Romance, 1Drama, A2020, Letra E, EEUU, Colegios, Universidad, Adolescencia, ",
 			"name": "Efectos colaterales del amor (2020)","coloryear": "magenta",
@@ -15256,8 +15269,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Accion, Comedia",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:C5CD54A4314A9087C85DF8C71E21B5F88D0B9DA3",  
-				"torrent4k": "magnet:?xt=urn:btih:FC986C547A9D50CF01F870672D3E0A739BB2F2A7",	magnet:?xt=urn:btih:D58FDA96B1032E5B38FC8D18B9B69CDB634FAE02 
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Men.In.Black-International.-2019.-.1080.-.CristalAzul.mkv.torrent",  	magnet:?xt=urn:btih:C5CD54A4314A9087C85DF8C71E21B5F88D0B9DA3
+				"torrent4k": "magnet:?xt=urn:btih:FC986C547A9D50CF01F870672D3E0A739BB2F2A7"	magnet:?xt=urn:btih:D58FDA96B1032E5B38FC8D18B9B69CDB634FAE02 
 				}			
 			]
 			},
@@ -30094,7 +30107,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Fantastico, Comedia, Accion",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:gkzjab2ilj7u7biy73xpvwqzn7dtn5a7&HDRip",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Men.In.Black.3-Hombres.de.negro.III.-2012.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:gkzjab2ilj7u7biy73xpvwqzn7dtn5a7&HDRip
 				"torrent4k": "magnet:?xt=urn:btih:4238D87C3B83154E75B3B4E5227E5D4CA32E61C3"
 				}		
 			]
@@ -34024,7 +34037,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Fantastico, Comedia, Accion",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:C487CA4BF2BC081F617BC374C6A085AFFFC6A6A3&DVDRip",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/MIIB-Hombres.de.negro.II-Men.in.Black.2.-2002.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:C487CA4BF2BC081F617BC374C6A085AFFFC6A6A3&DVDRip
 				"torrent4k": "magnet:?xt=urn:btih:C9E44974D1145DCDD7904ACF92440FB0973E5921"
 				}		
 			]
@@ -35517,7 +35530,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Fantastico, Comedia, Accion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:BBB1CFEC6B7191C862D09DC201319BCB02775896&DVDRip",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Men.in.Black-Hombres.de.negro-.-1997.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:BBB1CFEC6B7191C862D09DC201319BCB02775896&DVDRip
 				"torrent4k": "magnet:?xt=urn:btih:D9F015A24B51251A239E673206A78D144ACAA1B9"
 				}		
 			]

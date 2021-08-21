@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Fantastico, A2020, Letra E, Japon, ",
+			"name": "Earwig y la bruja (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/b4Uz6mjxx2X6hTXRHW7Xhh4ai8y.jpg",
+			"info": "No a todos los huérfanos les gusta vivir en el orfanato de St. Morwald's, pero Earwig lo adora. Tiene todo lo que necesita para ser una muchacha feliz desde el primer día que se abrieron para ella las puertas del centro. Sin embargo, todo cambia el día que Bella Yaga y Mandrake visitan St. Morwald disfrazados de padres adoptivos. Earwig se traslada a su domicilio, una enorme casa repleta de habitaciones invisibles, pociones y libros de hechizos, con magia en cada rincón. Aunque muchos niños hubiesen huido de allí sin pensárselo dos veces, Earwig decide investigar. Empleando su propio ingenio (y algo de ayuda de un gato parlanchín), decide demostrar a todo el mundo quién manda en la casa.",
+			"genero": "Animacion, Fantastico",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Earwig.y.la.bruja.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2021, Letra L, Spain, ",
 			"name": "La casa del caracol (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/o0cLPZfaSIKMasmtCclDxggHf09.jpg",
