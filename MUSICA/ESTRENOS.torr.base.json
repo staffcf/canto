@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2021, Letra L, Spain, ",
+			"name": "La casa del caracol (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/o0cLPZfaSIKMasmtCclDxggHf09.jpg",
+			"info": "El escritor Antonio Prieto decide pasar el verano en un pueblo de la serranía malagueña, donde espera encontrar tranquilidad e inspiración para su siguiente novela. Allí conoce a Berta, una mujer por la que siente una atracción instantánea, así como a algunos personajes peculiares sobre los que empieza a escribir e investigar. Antonio comienza a descubrir que los locales guardan numerosos secretos y una perturbadora leyenda oculta. Lo que vivirá en esos días le hará ir dándose cuenta que, a veces, la realidad supera con creces a los mitos",
+			"genero": "Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.casa.del.caracol.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, A2021, Letra S, EEUU, Familia, Venganza, Netflix, ",
 			"name": "Sweet Girl (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/aw58HDsDmj3jQr7KfZvWBPQJGHw.jpg",
@@ -794,7 +807,7 @@
 			"genero": "Thriller, Accion",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:02A1BE7AE3BD80BAE37C02F6F5334E518AD9FB5F&dn=HD1080",  https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Despierta.la.furia.2021.-.1080.-.CristalAzul.mkv.torrent
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Despierta.la.furia.2021.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:02A1BE7AE3BD80BAE37C02F6F5334E518AD9FB5F&dn=HD1080
 				"torrent4k": "magnet:?xt=urn:btih:31037B759704E26613A7301B8A739F5E82C60552&dn=Web4K"
 				}		
 			]
@@ -950,7 +963,7 @@
 			"genero": "Accion, Thriller",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:49EF69849F606277DE80A40C30B73A1D2D91CE40&dn=HD1080",  magnet:?xt=urn:btih:2C9DD0CB9EAAC48B9CC917F38FB9749B81B595AC&dn=BRRip
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Ladrones.de.elite-The.Misfits-.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:49EF69849F606277DE80A40C30B73A1D2D91CE40&dn=HD1080  magnet:?xt=urn:btih:2C9DD0CB9EAAC48B9CC917F38FB9749B81B595AC&dn=BRRip
 				"torrent4k": ""
 				}		
 			]
@@ -1913,97 +1926,6 @@
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:31330C05D90546D78675B968A54B92C8F6256D16&dn=HD1080",   magnet:?xt=urn:btih:184AB6CAFF5A1813EF61095C262C545D2BA9C489&dn=BRRip
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Terror, 1Thriller, A2020, Letra O, EEUU, C720, ",
-			"name": "Otra vuelta de tuerca (2020)","coloryear": "magenta",
-			"image": "https://www.themoviedb.org/t/p/original/ucdtlDLxkxcoyVszwcvcXt8nNjq.jpg",
-			"info": "Una joven institutriz es contratada por un hombre que se ha convertido en el tutor de sus sobrinos tras las muerte de sus padres. Pronto descubrira que tanto los niños como la casa esconden oscuros secretos y las cosas no son lo que aparentan. Adaptacion moderna de la obra de Henry James, 'The Turn of the Screw'",
-			"genero": "Terror, Thriller",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:0494E4ABE73F6B1E3FF6790B055061C9FF433233&dn=BR1080",  magnet:?xt=urn:btih:8239D6BF9CBBBFDC4B09B62B231BA99655B2B186&dn=BRRip
-				"torrent4k": "magnet:?xt=urn:btih:E1309E5DEB3BAE57C2FFFDF1C1C9D891E265D1A0&dn=WebRip"
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, A2021, Letra S, EEUU, C720, Netflix, ",
-			"name": "Ser padre (Fatherhood) (2021)","coloryear": "cyan",
-			"image": "https://www.themoviedb.org/t/p/original/Jabww5OzSZrTyovwSYQ5UAzSyQ.jpg",
-			"info": "Un padre (Kevin Hart) cria a su hija tras sufrir la perdida de su mujer justo el dia despues de que esta diese a luz",
-			"genero": "Comedia, Drama",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:60D5AD8DC094ECF694E6948F2367EB567239A65E&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Animacion, 1Aventuras, 1Comedia, 1Fantastico, A2021, Letra L, EEUU, C720, ADisney, APixar, ",
-			"name": "Luca (2021)","coloryear": "cyan",
-			"image": "https://www.themoviedb.org/t/p/original/mWx7tpgkf1QgE9IsfliuRvhWPkB.jpg",
-			"info": "La historia se desarrolla en un hermoso pueblo al lado del mar en la Riviera Italiana. Es la del crecimiento de un niño que experimenta un verano inolvidable con helado, pasta e interminables viajes en scooter. Luca comparte estas aventuras con su nuevo mejor amigo, pero toda la diversion se ve amenazada por un gran secreto: es un monstruo marino de otro mundo ubicado justo debajo de la superficie del agua",
-			"genero": "Animacion, Aventuras, Comedia, Fantastico",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:169597547DBF2442F523421E43C80EA6DBE642F5&dn=BRRip",
-				"torrent4k": "magnet:?xt=urn:btih:5C9C191C43E728387B67B9B37AC13E3AC5CDB1C0&dn=webRip"
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra S, Italia, C720, ",
-			"name": "Seguridad (Security) (2020)","coloryear": "magenta",
-			"image": "https://www.themoviedb.org/t/p/original/tuMcn12Us09pmAOuVEHXmFRivjF.jpg",
-			"info": "Cuando una adolescente local es acosada sexualmente y golpeada, se levanta revuelo en el pueblo y salen a la luz la corrupcion y los prejuicios",
-			"genero": "Drama",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:56432CC8B1F81D9EE017DE620EEFC4E2567ACA3C&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2018, Letra B, EEUU, C720, ",
-			"name": "Blindspotting (2018)","coloryear": "aqua",
-			"image": "https://www.themoviedb.org/t/p/original/hg7enYKqbdQMrez4cil0lt9Svsk.jpg",
-			"info": "Collin esta en los ultimos dias de libertad condicional. Siempre a su lado esta su mejor amigo, Miles, que tiene un don para buscar problemas. Cuando la oportunidad de Collin de empezar de cero se ve interrumpida por un toque de queda que pierde, su amistad con Miles sera puesta a prueba",
-			"genero": "Comedia",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:B3B48C9E78ACDEB3DBF831527D4596ABCBFD1A6C&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Terror, A2021, Letra R, EEUU, C720, ",
-			"name": "Ruega por nosotros (The Unholy) (2021)","coloryear": "cyan",
-			"image": "https://www.themoviedb.org/t/p/original/ngY2DOOKm4iM5HvXqBGcoPbzTgJ.jpg",
-			"info": "Un periodista en horas bajas descubre una serie de aparentes milagros de una joven que dice haber sido visitada por la Virgen Maria, milagros acaecidos en un pequeño pueblo de Nueva Inglaterra. El periodista intentara tener la exclusiva de la historia para devolver su carrera al estrellato. Lo que desconoce es que estos milagros esconden una cara mucho mas oscura de lo que el cree",
-			"genero": "Terror",
-			"stations": [
-				{ 
-				"torrent": "magnet:?xt=urn:btih:85A3D4CED25377749D83B6BC52403B56654C282A&dn=HD1080",  magnet:?xt=urn:btih:CBD4B8FC2D54B85BD7FA50F4845BF6E423043F6F&dn=BRRip
-				"torrent4k": "magnet:?xt=urn:btih:E0B7208038326696A8F12B5B79204ADFEE8BFC83"
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Comedia, 1Aventuras, 1Fantastico, A2021, Letra E, EEUU, C720, Netflix, ",
-			"name": "El dragon de los deseos (2021)","coloryear": "cyan",
-			"image": "https://www.themoviedb.org/t/p/original/jiGd88DiQ7izfTH14LSoWhvRlbV.jpg",
-			"info": "Din, un estudiante universitario de clase trabajadora con grandes sueños y pocos medios, y Long, un dragon cinico y todopoderoso capaz de conceder deseos, se embarcan en una divertida historia a traves de la moderna Shangai en busca de la amiga perdida de la infancia de Din, Lina. Su viaje les obliga a responder algunas de las grandes preguntas de la vida, porque cuando puedes desear cualquier cosa, tienes que decidir lo que realmente importa",
-			"genero": "Animacion, Comedia, Aventuras, Fantastico",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:D315D1BB655AB4EFAEA9FD6D354314CD6341196D&dn=BRRip",
 				"torrent4k": ""
 				}		
 			]
