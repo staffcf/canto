@@ -251,6 +251,8 @@ Title:SICARIO, SagaID:Sicario, Imagen:https://i.imgur.com/caHjyRc.jpg,
 							-	0Saga, 1SagaTorrent, 
 Title:SIN CITY, SagaID:SinCity, Imagen:https://i.pinimg.com/originals/01/8a/bb/018abbdd2d66774678da16ba5e5b9e52.png,	
 							-	0Saga, 1SagaTorrent, 
+Title:SINISTER, SagaID:Sinister, Imagen:https://www.themoviedb.org/t/p/original/6b7vaJJmPjrhcILI7L5IPZrZUtN.jpg,
+							-	0Saga, 1SagaTorrent, 
 Title:SPACE JAM, SagaID:SpaceJam, Imagen:https://vader.news/__export/1589003131377/sites/gadgets/img/2020/05/09/space-jam-2-logo-titulo.jpg_423682103.jpg,	
 							-	0Saga, 1SagaTorrent, 
 Title:SPEED, SagaID:Speed, Imagen:https://i.ytimg.com/vi/u7yEELtCLww/maxresdefault.jpg,		
@@ -703,7 +705,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller, Accion",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:02A1BE7AE3BD80BAE37C02F6F5334E518AD9FB5F&dn=HD1080",  https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Despierta.la.furia.2021.-.1080.-.CristalAzul.mkv.torrent
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Despierta.la.furia.2021.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:02A1BE7AE3BD80BAE37C02F6F5334E518AD9FB5F&dn=HD1080
 				"torrent4k": "magnet:?xt=urn:btih:31037B759704E26613A7301B8A739F5E82C60552&dn=Web4K"
 				}		
 			]
@@ -1067,7 +1069,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Expediente.Warren-Obligado.por.el.demonio.-2021.-.1080.-.CristalAzul.mkv.torrent",   magnet:?xt=urn:btih:D5E8C31A58B53D3D3F626D7D30B6D74D2FC831A8&dn=HD1080		magnet:?xt=urn:btih:A91CA143F0781F2019AA793A23928A2FFA44CFFA&dn=BRRip
-				"torrent4k": "magnet:?xt=urn:btih:23C75FB759E60061C1BF777E5778A4158639E02A&dn=Web4K",  https://blazing.network/torrents/peliculas/153182_-1624814188-Expediente-Warren-obligado-por-el-demonio--4KWebrip.torrent
+				"torrent4k": "magnet:?xt=urn:btih:21C7A1F20ACC1197FBC5D495DDE8AA217AADFAD8&dn=UHDRip",	magnet:?xt=urn:btih:5C48E818091F8B985700EFD26877C442B6C2DD02&dn=micro4k
 				}		
 			]
 			},
@@ -1330,7 +1332,20 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent4k": ""
 				}		
 			]
-			},
+			}
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2021, Letra L, Spain, ",
+			"name": "La casa del caracol (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/o0cLPZfaSIKMasmtCclDxggHf09.jpg",
+			"info": "El escritor Antonio Prieto decide pasar el verano en un pueblo de la serranía malagueña, donde espera encontrar tranquilidad e inspiración para su siguiente novela. Allí conoce a Berta, una mujer por la que siente una atracción instantánea, así como a algunos personajes peculiares sobre los que empieza a escribir e investigar. Antonio comienza a descubrir que los locales guardan numerosos secretos y una perturbadora leyenda oculta. Lo que vivirá en esos días le hará ir dándose cuenta que, a veces, la realidad supera con creces a los mitos",
+			"genero": "Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.casa.del.caracol.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},,
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Drama, 1Thriller, A2021, Letra L, Italia, Netflix, ",
 			"name": "La clasica historia de terror (2021)","coloryear": "cyan",
@@ -1469,7 +1484,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Thriller",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:49EF69849F606277DE80A40C30B73A1D2D91CE40&dn=HD1080",  magnet:?xt=urn:btih:2C9DD0CB9EAAC48B9CC917F38FB9749B81B595AC&dn=BRRip
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Ladrones.de.elite-The.Misfits-.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:49EF69849F606277DE80A40C30B73A1D2D91CE40&dn=HD1080  magnet:?xt=urn:btih:2C9DD0CB9EAAC48B9CC917F38FB9749B81B595AC&dn=BRRip
 				"torrent4k": ""
 				}		
 			]
@@ -2275,7 +2290,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Aventuras",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:883592AD9D28E1F493AA0D20E53202D3A7BA609A&dn=HD1080",  https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Viuda.negra.2021.-.1080.-.CristalAzul.mkv.torrent
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Viuda.negra.2021.-.1080.-.CristalAzul.mkv.torrent",  	magnet:?xt=urn:btih:883592AD9D28E1F493AA0D20E53202D3A7BA609A&dn=HD1080
 				"torrent4k": "magnet:?xt=urn:btih:F67ABE7D968147A0975BE01C1647E4682358E5DA&dn=Web4K",  https://blazing.network/torrents/peliculas/Viuda-negra-4KWebrip.torrent
 				}		
 			]
@@ -10181,7 +10196,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Accion, Aventuras, Ciencia ficcion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:E8DDD048DADA141E3ED737EF4EC1AFDE6FC6359F",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Capitana.Marvel.-2019.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:E8DDD048DADA141E3ED737EF4EC1AFDE6FC6359F
 				"torrent4k": "magnet:?xt=urn:btih:9C5B3CBC78E9FD8853C272BF41FE7B546517890F"
 				}			
 			]
@@ -15085,7 +15100,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:eadb614cab21ff11204f1f016e4bc9f33e945b3d&HD1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Malefica-Maestra.Del.Mal.-2019.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:eadb614cab21ff11204f1f016e4bc9f33e945b3d&HD1080
 				"torrent4k": "magnet:?xt=urn:btih:671C6C528C56077BC5662C92AC4AF644B142D24D",		magnet:?xt=urn:btih:D39B31BB83D518F1C7740CB55B78EB256211D93D	
 				}		
 			]
@@ -24076,7 +24091,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Fantastico, Accion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:A1D9F9BCCCBBA73B2551DCEFC9754BA54996CB4D",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Venom.-2018.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:A1D9F9BCCCBBA73B2551DCEFC9754BA54996CB4D
 				"torrent4k": ""
 				}			
 			]
@@ -27559,7 +27574,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Accion, Comedia",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:e69efe7ff0deaa8bfb4042417bc19586d0841e0d",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Dr.Strange-Doctor.Extranho.-2016.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:e69efe7ff0deaa8bfb4042417bc19586d0841e0d
 				"torrent4k": ""
 				}		
 			]
@@ -28520,6 +28535,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2015, Letra S, EEUU, Sagas Sinister, ",
+			"name": "Sinister 2 (2015)","coloryear": "lime",
+			"image": "https://i.imgur.com/yHvlyhH.jpg",
+			"info": "Después de los eventos sucedidos en 'Sinister', ahora una madre y sus hijos mellizos se mudan a la casa donde marcada por los asesinatos. Mr. Boogie ha vuelto...",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Sinister.2.-2015.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Terror, 1Thriller, 1Belico, A2015, Letra S, Reino Unido, ",
 			"name": "Soldados malditos (2015)","coloryear": "lime",
 			"image": "https://www.themoviedb.org/t/p/original/xKjzk2nhrKQsUvwDKN76hdtJGYM.jpg",
@@ -29053,7 +29081,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Aventuras",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:53d60e37f97ccbb65693e23b5e1998e194c5dc2e&HD1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Malefica.-2014.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:53d60e37f97ccbb65693e23b5e1998e194c5dc2e&HD1080
 				"torrent4k": ""
 				}		
 			]
@@ -30121,6 +30149,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent": "magnet:?xt=urn:btih:667ccc6f94233d1b96c1ad2b6ae8ec89e19a1203",
 				"torrent4k": ""
 				}			
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Thriller, A2012, Letra S, EEUU, Sagas Sinister, ",
+			"name": "Sinister (2012)","coloryear": "deeppink",
+			"image": "https://i.imgur.com/t4l9CQi.jpg",
+			"info": "Un periodista viaja con su familia a lo largo y ancho del país para investigar terribles asesinatos que luego convierte en libros. Cuando llega a una casa donde ha tenido lugar el asesinato de una familia, encuentra una cinta que desvela horribles pistas que van más allá del esclarecimiento de la tragedia",
+			"genero": "Terror, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Sinister.-2012.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
 			]
 			},
 			{
@@ -33150,7 +33191,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Thriller",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:A20B066937D0259B2593259002607EAFAB49278A",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.castigador-The.Punisher-.-2004.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:A20B066937D0259B2593259002607EAFAB49278A
 				"torrent4k": "magnet:?xt=urn:btih:71A9788BF10CD01551DFA31723FC34426A258515"
 				}		
 			]
@@ -33507,7 +33548,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Fantastico",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:871D546C3D00B88F594E2C14A9C20CC3AA75C78B",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Daredevil.-2003.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:871D546C3D00B88F594E2C14A9C20CC3AA75C78B
 				"torrent4k": ""
 				}		
 			]
@@ -34074,7 +34115,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Animacion, Aventuras, Infantil, Western",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:F385B662E7F9DF894620E847F7EC137D5CBFD030",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Spirit.el.Corcel.Indomable.-2002.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:F385B662E7F9DF894620E847F7EC137D5CBFD030
 				"torrent4k": ""
 				}		
 			]
@@ -34456,7 +34497,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Animacion, Aventuras, Comedia",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:0C902164F0FA224687E234E1B523C8A653E0EF6C",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Chicken.Run.-2000.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:0C902164F0FA224687E234E1B523C8A653E0EF6C
 				"torrent4k": ""
 				}		
 			]
@@ -37425,7 +37466,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Comedia, Fantastico",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:A1D31A5581E2F2CED6013FE7EFE4222B9F2107E8",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Howard.Un.Nuevo.Heroe.-1986.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:A1D31A5581E2F2CED6013FE7EFE4222B9F2107E8
 				"torrent4k": "magnet:?xt=urn:btih:CA2DA42FDAF5677B8DAD76E1838DAB5844323CD4&dn=micro4K"  magnet:?xt=urn:btih:74CDB2357CFD440F1771D73C277A37A302090973&dn=UHDRip
 				}		
 			]
