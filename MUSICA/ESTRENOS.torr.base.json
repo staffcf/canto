@@ -6,6 +6,32 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Fantastico, 1Intriga, A2020, Letra T, Reino Unido, ",
+			"name": "The Show (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/ipoe7LkCIj06Ij4gYWQyKEnIOul.jpg",
+			"info": "Fletcher Dennis (Burke) es contratado para encontrar un artefacto que ha desaparecido. Su búsqueda le lleva a la ciudad de Northampton, un pueblo encantado que se encuentra justo en el corazón de Inglaterra y que, según parece, ha colapsado en un agujero negro de sueños y esperanzas. Al llegar a él, Dennis se encuentra en un mundo repleto de mafiosos que conquetean con el voodoo, aventureros enmascarados y con bellas durmientes en estado de coma",
+			"genero": "Fantastico, Intriga",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/The.Show.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2019, Letra Y, Iran, ",
+			"name": "Yalda, la noche del perdon (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/6OTT3e67lg37BmGZS9u9cPm6DJc.jpg",
+			"info": "En el Irán actual, Maryam una joven de 22 años, es sentenciada a muerte tras matar por accidente a su marido, Nasser, de 65. La única persona que puede salvarla es Mona, la hija de Nasser. Para ello, solo tiene que acudir a un conocido programa de televisión y perdonar en directo a Maryam. Pero cuesta perdonar cuando ambas se ven obligadas a revivir el pasado",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Yalda.la.noche.del.perdon.-2019.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Fantastico, A2020, Letra E, Japon, ",
 			"name": "Earwig y la bruja (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/b4Uz6mjxx2X6hTXRHW7Xhh4ai8y.jpg",
