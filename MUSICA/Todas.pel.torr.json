@@ -213,6 +213,8 @@ Title:MI PRIMER BESO, SagaID:Miprimerbeso, Imagen:https://www.themoviedb.org/t/p
 							-	0Saga, 1SagaTorrent, 
 Title:MILLENNIUM, SagaID:Millennium, Imagen:https://miro.medium.com/max/2560/1*8QSf80-EnmYPxzw4lDIv-A.jpeg,	
 							-	0Saga, 1SagaTorrent, 
+Title:MIMIC, SagaID:Mimic, Imagen:https://www.themoviedb.org/t/p/original/lZyFI1nTlzC8mYDd9F0EMt0zohz.jpg,
+							-	0Saga, 1SagaTorrent, 
 Title:MISION IMPOSIBLE, SagaID:MisionImposible, Imagen:https://4.bp.blogspot.com/-z71e9VUDYUI/VcJ1c4G6y7I/AAAAAAAACDU/N24k2w9rbXE/s1600/Mission-Impossible.png,
 							-	0Saga, 1SagaTorrent, 
 Title:NINJA, SagaID:Ninja, Imagen:https://www.themoviedb.org/t/p/original/xo4KaekxlT2g9csGvBt0sUQ79TB.jpg,
@@ -8240,6 +8242,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				{
 				"torrent": "magnet:?xt=urn:btih:084899706572B630064548C09D717180400825D3&dn=HD1080",   magnet:?xt=urn:btih:BE5EEEEB03529BFEFF6B5AE911FBA15A68971E11&dn=BRRip
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Fantastico, 1Intriga, A2020, Letra T, Reino Unido, ",
+			"name": "The Show (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/ipoe7LkCIj06Ij4gYWQyKEnIOul.jpg",
+			"info": "Fletcher Dennis (Burke) es contratado para encontrar un artefacto que ha desaparecido. Su búsqueda le lleva a la ciudad de Northampton, un pueblo encantado que se encuentra justo en el corazón de Inglaterra y que, según parece, ha colapsado en un agujero negro de sueños y esperanzas. Al llegar a él, Dennis se encuentra en un mundo repleto de mafiosos que conquetean con el voodoo, aventureros enmascarados y con bellas durmientes en estado de coma",
+			"genero": "Fantastico, Intriga",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/The.Show.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -18357,6 +18372,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2019, Letra Y, Iran, ",
+			"name": "Yalda, la noche del perdon (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/6OTT3e67lg37BmGZS9u9cPm6DJc.jpg",
+			"info": "En el Irán actual, Maryam una joven de 22 años, es sentenciada a muerte tras matar por accidente a su marido, Nasser, de 65. La única persona que puede salvarla es Mona, la hija de Nasser. Para ello, solo tiene que acudir a un conocido programa de televisión y perdonar en directo a Maryam. Pero cuesta perdonar cuando ambas se ven obligadas a revivir el pasado",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Yalda.la.noche.del.perdon.-2019.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Fantastico, 1Romance, A2019, Letra Y, Reino Unido, Musica, Universal, ",
 			"name": "Yesterday (2019)","coloryear": "limegreen",
 			"image": "https://www.themoviedb.org/t/p/original/zg6jfMNfXjC1CVt9qT8wqmLcwKR.jpg",
@@ -22466,7 +22494,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller, Drama, Intriga",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:B8E74D719070618E134842D17E72C91F4BB1DF78",   magnet:?xt=urn:btih:97b9cb48744375120a545d1f03a657b0a25c8a77
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Millennium-Lo.que.no.te.mata.te.hace.mas.fuerte.-2018.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:B8E74D719070618E134842D17E72C91F4BB1DF78   magnet:?xt=urn:btih:97b9cb48744375120a545d1f03a657b0a25c8a77
 				"torrent4k": ""
 				}		
 			]
@@ -22479,7 +22507,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller, Accion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:a469906607146a7733f6b5b50bf47f759ac75683&HD1080",  
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Mision.imposible-Fallout.-2018.-.1080.-.CristalAzul.mkv.torrent",  	magnet:?xt=urn:btih:a469906607146a7733f6b5b50bf47f759ac75683&HD1080
 				"torrent4k": ""
 				}			
 			]
@@ -28490,7 +28518,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Thriller",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:753E17211342B9E57102247CC0D95F13CE18F174&HD1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Mision.imposible-Nacion.Secreta.-2015.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:753E17211342B9E57102247CC0D95F13CE18F174&HD1080
 				"torrent4k": ""
 				}		
 			]
@@ -30503,7 +30531,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller, Intriga, Drama",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:5d2d4cd53df17018ccbe45ea1195697b5c2ea58b",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Millennium-Los.hombres.que.no.amaban.a.las.mujeres.-2011.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:5d2d4cd53df17018ccbe45ea1195697b5c2ea58b
 				"torrent4k": ""
 				}		
 			]
@@ -30516,7 +30544,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Thriller",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:44BC0F6FEC4698FE125AAA856494AC7997CC6410&HD1080.4PELIS",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Mision.imposible-Protocolo.Fantasma.-2011.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:44BC0F6FEC4698FE125AAA856494AC7997CC6410&HD1080.4PELIS
 				"torrent4k": ""
 				}		
 			]
@@ -31354,7 +31382,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller, Intriga",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:2E66B293B287B9F209216FE9770D47C725B052FF",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Millennium.1-Los.hombres.que.no.amaban.a.las.mujeres.-2009.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:2E66B293B287B9F209216FE9770D47C725B052FF
 				"torrent4k": ""
 				}		
 			]
@@ -31367,7 +31395,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller, Intriga",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:0D8C03F9FCA5D9504DDFAABBB98397EF52021FAC",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Millennium.2-La.chica.que.sonhaba.con.una.cerilla.y.un.bidon.de.gasolina.-2009.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:0D8C03F9FCA5D9504DDFAABBB98397EF52021FAC
 				"torrent4k": ""
 				}		
 			]
@@ -31380,7 +31408,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:62287AED4165B188225107D7776821152CEA2BB0",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Millennium.3-La.reina.en.el.palacio.de.las.corrientes.de.aire.-2009.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:62287AED4165B188225107D7776821152CEA2BB0
 				"torrent4k": ""
 				}		
 			]
@@ -32568,7 +32596,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:44BC0F6FEC4698FE125AAA856494AC7997CC6410&HD1080.4PELIS",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Mision.imposible.3.-2006.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:44BC0F6FEC4698FE125AAA856494AC7997CC6410&HD1080.4PELIS
 				"torrent4k": ""
 				}		
 			]
@@ -33750,6 +33778,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2003, Letra M, EEUU, Sagas Mimic, ",
+			"name": "Mimic 3 (2003)","coloryear": "darkviolet",
+			"image": "https://www.themoviedb.org/t/p/original/vNAwfgBPZXprxfgx7cF5Cji4be1.jpg",
+			"info": "Cuando los residentes de un bloque de apartamentos comienzan a desaparecer, Marvin empieza a creer en lo increíble: la especie mutante de insectos carnívoros gigantes que una vez plagó la sociedad ha vuelto...",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Mimic.3.-2003.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Thriller, 1Intriga, A2003, Letra O, Corea del Sur, 1Culto, ",
 			"name": "Oldboy (2003)","coloryear": "darkviolet",
 			"image": "https://www.themoviedb.org/t/p/original/xF14Liu2qQgagvAMK6l1UL1MKb8.jpg",
@@ -34348,6 +34389,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2001, Letra M, EEUU, Sagas Mimic, ",
+			"name": "Mimic 2 (2001)","coloryear": "seagreen",
+			"image": "https://www.themoviedb.org/t/p/original/k7YEZ7ZPCmkCVvrunCv8Rbk2gJi.jpg",
+			"info": "La entomóloga Remi Panos lleva una vida monótona y no tiene mucho éxito con los hombres pero de repente, se verá involucrada en una investigación policial",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Mimic.2.-2001.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Comedia, 1Fantastico, 1Infantil, 1Familia, A2001, Letra M, EEUU, Sagas MonstruosSA, APixar, ADisney, ",
 			"name": "Monstruos, S.A. (2001)","coloryear": "seagreen",
 			"image": "https://www.themoviedb.org/t/p/original/cmmi1UzXNBzftBK4SzPdGvemXHY.jpg",
@@ -34692,7 +34746,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:44BC0F6FEC4698FE125AAA856494AC7997CC6410&HD1080.4PELIS",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Mision.imposible.2.-2000.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:44BC0F6FEC4698FE125AAA856494AC7997CC6410&HD1080.4PELIS
 				"torrent4k": ""
 				}		
 			]
@@ -35575,6 +35629,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Fantastico, A1997, Letra M, EEUU, B2000, A2000-1991, Sagas Mimic, ",
+			"name": "Mimic (1997)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/mtfbZVeeyesewqxroQzbYDdyU8A.jpg",
+			"info": "En Nueva York, una epidemia provocada por cucarachas provoca una terrible enfermedad que afecta a los niños. Cuando una entomóloga consigue crear un insecto modificado genéticamente, con el fin de que sea el depredador de las cucarachas, la plaga desaparece. Sin embargo, tres años después...",
+			"genero": "Terror, Fantastico",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Mimic.-1997.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A1996, Letra S, EEUU, Sagas Scream, B2000, A2000-1991, ",
 			"name": "Scream 2 (1997)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/hMDrWCUqxc7BfQcseT427znCDta.jpg",
@@ -35777,7 +35844,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Intriga, Thriller",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:44BC0F6FEC4698FE125AAA856494AC7997CC6410&HD1080.4PELIS",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Mision.imposible.-1996.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:44BC0F6FEC4698FE125AAA856494AC7997CC6410&HD1080.4PELIS
 				"torrent4k": ""
 				}		
 			]
