@@ -4,6 +4,16 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 
+<item>
+<title>[COLOR white] Desaparicion en Niagara Falls [/COLOR][COLOR yellow](2020) [COLOR aqua]*5.5[/COLOR]</title>    
+<genre>Suspense</genre>
+<year>2020</year>
+<thumbnail>https://i.imgur.com/fq1WbAI.jpg</thumbnail>
+<fanart>https://i.imgur.com/MJ9M9v5.jpg</fanart>
+<info>Después de la muerte de su madre, una joven regresa a su hogar en las Cataratas del Niágara y se enreda en el recuerdo de un secuestro que afirma haber presenciado de niña.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=cgN3flgyno0&t=7s"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/dn2e0fx53qd0r5n"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/1v83ppwqb06r30"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/7d8juk18vvo7.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-opltt2mdx1iw.html"},{"titulo" : "[COLOR white]VideoTape[/COLOR]","url" : "https://streamtape.com/e/RXxeML0gVWhdz6D"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/156362_-1629656702-Desaparicion-en-Niagara-Falls--BluRay-MicroHD.torrent"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1TGX8gXMPAWupSI_dGDbyxiq_ay6E8D0H/view"}</urlsolve>
+</item>
+
 
 <item>
 <title>[COLOR white] Ciudad de mentiras [/COLOR][COLOR yellow](2018) [COLOR aqua]*6.4[/COLOR]</title>    
