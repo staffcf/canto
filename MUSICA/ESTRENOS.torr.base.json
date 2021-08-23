@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Fantastico, 1Accion, A2021, Letra T, EEUU, Netflix, ",
+			"name": "The Witcher: La pesadilla del lobo (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/9X9MwQVXqlnucUfHGD97AApf726.jpg",
+			"info": "Escapando de la pobreza para convertirse en brujo, Vesemir asesina monstruos por el oro y la gloria, pero cuando se alza una nueva amenaza, se ve obligado a enfrentar los demonios de su pasado",
+			"genero": "Animacion, Fantastico, Accion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/The.Witcher-La.pesadilla.del.lobo.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, A2020, Letra U, Reino Unido, ",
 			"name": "Una villa en la Toscana (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/bI4JfLRye5pmwZP8BxzTDWBnS8h.jpg",
