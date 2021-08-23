@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, A2020, Letra U, Reino Unido, ",
+			"name": "Una villa en la Toscana (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/bI4JfLRye5pmwZP8BxzTDWBnS8h.jpg",
+			"info": "En la Toscana, un bohemio artista londinense (Neeson) regresa a Italia con su hijo (Richardson) para vender la casa que heredaron de su difunta esposa. Pero ninguno de los dos esperaba encontrar la hermosa villa en tan mal estado. Mientras padre e hijo restauran minuciosamente la casa, también comenzarán a reparar su relación. El futuro ahora puede parecer bastante diferente y sorprender a los dos",
+			"genero": "Comedia, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Una.villa.en.la.Toscana.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Fantastico, 1Intriga, A2020, Letra T, Reino Unido, ",
 			"name": "The Show (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/ipoe7LkCIj06Ij4gYWQyKEnIOul.jpg",
