@@ -5,6 +5,19 @@
 =======================================================================================
 
 
+
+
+<item>
+<title>[COLOR white] Sweet Girl [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.9[/COLOR]</title>    
+<genre>Acción, Suspense, Drama</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/qIJV18L.jpg</thumbnail>
+<fanart>https://i.imgur.com/xbK3liE.jpg</fanart>
+<info>Un marido destrozado jura llevar ante la justicia a los responsables de la muerte de su mujer, a la vez que protege a la única familia que le queda, su hija.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=muwf7sEW-5o"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/ygkplsem5720r4-"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/enwdx798ckm60r"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/9yj08bjprb8t.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-sfrgubrm0drn.html"},{"titulo" : "[COLOR white]VideoTape[/COLOR]","url" : "https://streamtape.com/e/PJBw164la0C0JXO"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/156366_-1629656905-Sweet-Girl--BluRay-MicroHD.torrent"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1FUku7OSRbD5AzQGy1Vfb6D4HwRrB4Wn-/view"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] La isla negra [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.7[/COLOR]</title>    
 <genre>Suspense</genre>
