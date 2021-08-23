@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] La casa del caracol [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.8[/COLOR]</title>    
+<genre>Suspense, terror</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/BoYDfEU.jpg</thumbnail>
+<fanart>https://i.imgur.com/lDHy8fq.jpg</fanart>
+<info>El escritor Antonio Prieto decide pasar el verano en un pueblo de la serranía malagueña, donde espera encontrar tranquilidad e inspiración para su siguiente novela. Allí conoce a Berta, una mujer por la que siente una atracción instantánea, así como a algunos personajes peculiares sobre los que empieza a escribir e investigar. Antonio comienza a descubrir que los locales guardan numerosos secretos y una perturbadora leyenda oculta. La realidad que vivirá en esos días le harán ir dándose cuenta que, a veces, la realidad supera con creces los mitos.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=YrDHL2evhbo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/znz6lfj68-qlqn1"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/zpr4gj70tvzogq"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/94wk1krpo00a.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-jlea5l9dkjyz.html"},{"titulo" : "[COLOR white]VideoTape[/COLOR]","url" : "https://streamtape.com/e/aq266Zj7YyH0gp"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/156364_-1629656819-La-casa-del-caracol--BluRay-MicroHD.torrent"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1TCzW4HEQL7cubITQ2W8De8q8yE6J2rr_/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Desaparicion en Niagara Falls [/COLOR][COLOR yellow](2020) [COLOR aqua]*5.5[/COLOR]</title>    
 <genre>Suspense</genre>
 <year>2020</year>
