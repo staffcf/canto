@@ -4,6 +4,18 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 
+
+<item>
+<title>[COLOR white] La isla negra [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.7[/COLOR]</title>    
+<genre>Suspense</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/nuTlT5r.jpg</thumbnail>
+<fanart>https://i.imgur.com/6lD1eF1.jpg</fanart>
+<info>Los oscuros secretos de una isla aparentemente pacífica amenazan con devorarse a un estudiante cuando se acerca demasiado a su misteriosa profesora nueva.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=5T0N3tGup3c"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/r265wse-7wxz566"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/gn17gnv9tw0omp9"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/x4tgcj9eziih.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-bdot5cag76ox.html"},{"titulo" : "[COLOR white]VideoTape[/COLOR]","url" : "https://streamtape.com/e/A186MvOG3AfXV7p"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/156365_-1629656865-La-isla-negra--BluRay-MicroHD.torrent"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1HbU3tITAQspwX3tK2Ygv1B56vddJBrKW/view"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] La casa del caracol [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.8[/COLOR]</title>    
 <genre>Suspense, terror</genre>
