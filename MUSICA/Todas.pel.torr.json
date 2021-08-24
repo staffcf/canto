@@ -233,7 +233,9 @@ Title:PARQUE JURASICO, SagaID:JurassicPark, Imagen:https://www.cinemascomics.com
 							-	0Saga, 1SagaTorrent, 
 Title:PESADILLA EN ELM STREET, SagaID:ElmStreet, Imagen:https://cdn.ofertitas.es/wp-content/uploads/2015/09/coleccion_pesadilla.jpg,						
 							-	0Saga, 1SagaTorrent, 
-Title:PIRATAS DEL CARIBE, SagaID:PDC, Imagen:https://image.ibb.co/kMZE4x/pirates.png,	
+Title:PIRATAS DEL CARIBE, SagaID:PDC, Imagen:https://image.ibb.co/kMZE4x/pirates.png,		
+							-	0Saga, 1SagaTorrent, 
+Title:PORKYS, SagaID:Porkys, Imagen:https://fanart.tv/fanart/movies/10246/hdmovielogo/porkys-535294bf0b9e9.png,		
 							-	0Saga, 1SagaTorrent, 
 Title:RAMBO, SagaID:Rambo, Imagen:https://3.bp.blogspot.com/-QZCXaOHoYQg/VCGswt0k58I/AAAAAAAALxY/rzmc3YiuoLo/s1600/RAMBO.jpg,
 							-	0Saga, 1SagaTorrent, 
@@ -4275,7 +4277,20 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent4k": ""
 				}		
 			]
-			},
+			}
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra E, Eslovaquia, 1Hechos reales, Holocausto, Nazismo, ",
+			"name": "El informe Auschwitz (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/dGVO5koH2CM0KLqsEoekiSTkJOx.jpg",
+			"info": "Narra la historia real de Freddy y Valter, dos judíos eslovacos que escaparon de Auschwitz en 1944 y consiguieron regresar a Eslovaquia, y su lucha para convencer a todos aquellos que no querían ver la verdad",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.informe.Auschwitz.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},,
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Fantastico, 1Aventuras, A2020, Letra E, Reino Unido, Cbrsd, Infancia, Amistad, ",
 			"name": "El Jardin Secreto (2020)","coloryear": "magenta",
@@ -7198,7 +7213,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:A8F57DE8A5CC400C13362B987B03BD2602DEAE96",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Padre.no.hay.mas.que.uno.2-La.llegada.de.la.suegra.-2020.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:A8F57DE8A5CC400C13362B987B03BD2602DEAE96
 				"torrent4k": ""
 				}		
 			]
@@ -15926,7 +15941,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:ADE94455F5346EAA0C169DF36B42719226A6C48C&dn=HD1080",  magnet:?xt=urn:btih:45e92d2b842f22e80143127da5f1ed2be501d821&HD1080
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Padre.no.hay.mas.que.uno.-2019.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:ADE94455F5346EAA0C169DF36B42719226A6C48C&dn=HD1080  magnet:?xt=urn:btih:45e92d2b842f22e80143127da5f1ed2be501d821&HD1080
 				"torrent4k": ""
 				}			
 			]
@@ -22225,7 +22240,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller, Accion, Terror",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:ef3750a03a3e6281aa3ff0ced1fef989a7ea253e",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Mandy.-2018.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:ef3750a03a3e6281aa3ff0ced1fef989a7ea253e
 				"torrent4k": ""
 				}			
 			]
@@ -22888,8 +22903,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Accion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:e0376988d2afa58996fc1ff82f5327214948b80c&HD1080",
-				"torrent4k": "magnet:?xt=urn:btih:52832BF208FA0BD670259858D71239F72D85F4D2",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Pacific.Rim-Insurreccion.-2018.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:e0376988d2afa58996fc1ff82f5327214948b80c&HD1080
+				"torrent4k": "magnet:?xt=urn:btih:52832BF208FA0BD670259858D71239F72D85F4D2"
 				}			
 			]
 			},
@@ -29743,7 +29758,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Accion",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:539b1234182e9a722cbef84fa3caa3c0d24d5665&HD1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Pacific.Rim.-2013.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:539b1234182e9a722cbef84fa3caa3c0d24d5665&HD1080
 				"torrent4k": "magnet:?xt=urn:btih:0826258F98938E0A3CFC0E8304F5B1E414477BF1"
 				}		
 			]
@@ -34789,7 +34804,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller, Intriga",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:d621da82a987bf65d4421033a0897eed2fe2aac8&HD1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Memento.-2000.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:d621da82a987bf65d4421033a0897eed2fe2aac8&HD1080
 				"torrent4k": ""
 				}		
 			]
@@ -36348,7 +36363,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:F8B9B1B87E724BE81CDCCEE9FB5866D41F4F4ECC",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Pulp.Fiction.-1994.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:F8B9B1B87E724BE81CDCCEE9FB5866D41F4F4ECC
 				"torrent4k": ""
 				}		
 			]
@@ -36634,7 +36649,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller, Accion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:5f5a5967f65744fdfe125d7f039d7746084a21ad&HD1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Reservoir.Dogs.-1992.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:5f5a5967f65744fdfe125d7f039d7746084a21ad&HD1080
 				"torrent4k": ""
 				}		
 			]
@@ -37848,6 +37863,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A1985, Letra P, EEUU, B2000, A1990-1981, Sagas Porkys, ",
+			"name": "Porky's contraataca (1985)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/xuJj5ziHLLVgO7DdvycBqdAXqpN.jpg",
+			"info": "Con motivo de la proxima graduacion de la clase de 1955, vuelven los seis libidinosos estudiantes del Instituto de Playa del Angel. En un intento por ayudar a su entrenador de baloncesto, que tiene una deuda de juego pendiente con el famoso Porky, los chicos se ven forzados a prometer a este que se dejaran ganar en la final del campeonato estatal de baloncesto...",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Porkys.contraataca.-1985.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Aventuras, A1985, Letra R, EEUU, B2000, A1990-1981, Sagas Rambo, ",
 			"name": "Rambo 2: Acorralado Parte II (1985)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/pDsrygpyGl5o5hkvpV5JzK85dYE.jpg",
@@ -38147,6 +38175,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A1983, Letra P, EEUU, B2000, A1990-1981, Sagas Porkys, ",
+			"name": "Porky's II: Al dia siguiente (1983)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/6oyLjjDSdLWWxaKpOujf7JbG12j.jpg",
+			"info": "Despues de vengarse del dueño de Porky's, los gamberros muchachos, estudiantes del instituto Angel Beach de Florida, continuan buscando, infructuosamente, a la mujer que les haga perder su, ya demasiada prolongada, virginidad. Mientras la encuentran, deciden poner en marcha una representacion de Shakespeare en el teatro de la escuela. A este proyecto se opone el reverendo Bubba, que considera la obra como obscena y una basura, sobre todo cuando se entera de que un indio va a interpretar el papel de Romeo",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Porkys.II-Al.dia.siguiente.-1983.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Intriga, 1Thriller, A1983, Letra P, EEUU, B2000, A1990-1981, Sagas Psicosis, ",
 			"name": "Psicosis II: El regreso de Norman (1983)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/m4PRC48MuDaOddqNJVgBWgOb5MA.jpg",
@@ -38299,6 +38340,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				{
 				"torrent": "magnet:?xt=urn:btih:7E959DA0CB7BA4C58FDF9FA5DA2020DAF55D747F",
 				"torrent4k": "magnet:?xt=urn:btih:2B5894A9C1F72D65F8922A7FE14BB1C8E314009E",  magnet:?xt=urn:btih:6a3b77ad9667a3cbd2ce66ea3ba84bd576a8ed8b
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A1982, Letra P, EEUU, B2000, A1990-1981, Sagas Porkys, ",
+			"name": "Porky's (1982)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/uqcDBFovWJvK8s7EDBUBZa6NHDW.jpg",
+			"info": "En Florida, durante la decada de los cincuenta, un grupo de picaros adolescentes que van juntos a la escuela descubren el sexo y el amor. Para dar rienda suelta a sus necesidades intentan entrar en Porky's, un local de alterne, pero, al negarles la entrada el dueño del establecimiento, conciben todo tipo de gamberradas contra el. A partir de entonces le haran la vida imposible con tal de lograr tener acceso a las chicas",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Porkys.-1982.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""
 				}		
 			]
 			},
@@ -38607,7 +38661,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:D3C16A559C993346299888EAA4245BFAF02089B5",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.vida.de.Brian.-1979.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:D3C16A559C993346299888EAA4245BFAF02089B5
 				"torrent4k": ""
 				}		
 			]
@@ -39250,7 +39304,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:E84AA7342D95013EF4009AA84BA62918BC86B5B5",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.naranja.mecanica.-1971.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:E84AA7342D95013EF4009AA84BA62918BC86B5B5
 				"torrent4k": ""
 				}		
 			]
@@ -39263,7 +39317,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama, Thriller",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:102CBE75228DD641FDC0E4E767FED8C8C84CDC00&dn=HD1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Perros.de.paja.-1971.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:102CBE75228DD641FDC0E4E767FED8C8C84CDC00&dn=HD1080
 				"torrent4k": ""
 				}		
 			]
