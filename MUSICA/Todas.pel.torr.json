@@ -231,7 +231,9 @@ Title:PADRE NO HAY MAS QUE UNO, SagaID:PNHMQU, Imagen:https://images-na.ssl-imag
 							-	0Saga, 1SagaTorrent, 
 Title:PARQUE JURASICO, SagaID:JurassicPark, Imagen:https://www.cinemascomics.com/wp-content/uploads/2015/08/Jurassic-Park-galeria-serie-de-animacion.jpg,	
 							-	0Saga, 1SagaTorrent, 
-Title:PESADILLA EN ELM STREET, SagaID:ElmStreet, Imagen:https://cdn.ofertitas.es/wp-content/uploads/2015/09/coleccion_pesadilla.jpg,						
+Title:PESADILLA EN ELM STREET, SagaID:ElmStreet, Imagen:https://cdn.ofertitas.es/wp-content/uploads/2015/09/coleccion_pesadilla.jpg,
+							-	0Saga, 1SagaTorrent, 
+Title:PETER RABBIT, SagaID:PeterRabbit, Imagen:http://www.algeciras.es/opencms/export/sites/algeciras/.galleries/eventos/PETER-RABBIT.jpg_418868725.jpg,						
 							-	0Saga, 1SagaTorrent, 
 Title:PIRATAS DEL CARIBE, SagaID:PDC, Imagen:https://image.ibb.co/kMZE4x/pirates.png,		
 							-	0Saga, 1SagaTorrent, 
@@ -1927,7 +1929,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Animacion, 1Comedia, 1Aventuras, 1Infantil, A2021, Letra P, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Animacion, 1Comedia, 1Aventuras, 1Infantil, A2021, Letra P, EEUU, Sagas PeterRabbit, ",
 			"name": "Peter Rabbit 2: A la fuga (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/gj4Lwldois15IaNnl4tadesHGC4.jpg",
 			"info": "¡El jardín fue solo el principio! Peter y sus adorables amigos vuelven con más aventuras en 'Peter Rabbit 2 A La Fuga'. Bea, Thomas, y los conejos han hecho las paces como una familia, pero a pesar de sus mejores esfuerzos, Peter no parece sacudirse su traviesa reputación. Aventurándose más allá del jardín, Peter se adentra en las calles menos recomendables de la ciudad donde sus trastadas son mejor apreciadas, pero cuando su peluda familia se encuentra en peligro, Peter deberá decidir qué tipo de conejo quiere ser",
@@ -21252,7 +21254,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Aventuras, Accion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:31c8da670d3456e3e9e6bd988769d0dabef26624", 
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Jurassic.World-El.Reino.Caido.-2018.-.1080.-.CristalAzul.mkv.torrent", 	magnet:?xt=urn:btih:31c8da670d3456e3e9e6bd988769d0dabef26624
 				"torrent4k": ""
 				}			
 			]
@@ -23039,14 +23041,14 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Comedia, 1Infantil, A2018, Letra P, EEUU, 1Cine familiar, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Comedia, 1Infantil, A2018, Letra P, EEUU, 1Cine familiar, Sagas PeterRabbit, ",
 			"name": "Peter Rabbit (2018)","coloryear": "aqua",
 			"image": "https://www.themoviedb.org/t/p/original/bRDgMEikWMK3AJUJw0qqSJsWRAd.jpg",
 			"info": "Un conejo rebelde y de lo mas revoltoso intenta hacerse con el control de la huerta de un granjero en esta adaptacion del cuento de Beatrix Potter",
 			"genero": "Animacion, Comedia, Infantil",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:00426ec73f606f724bc7df47f5ed95ec6b29f2a3",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Peter.Rabbit.2018.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:00426ec73f606f724bc7df47f5ed95ec6b29f2a3&dn=1080
 				"torrent4k": ""
 				}			
 			]
@@ -28459,7 +28461,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Accion, Aventuras",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:EAB201ACA1026285D5019842C5B17A4BBBD2A97D",  
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Jurassic.World.-2015.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:EAB201ACA1026285D5019842C5B17A4BBBD2A97D
 				"torrent4k": "magnet:?xt=urn:btih:58E4010D5CE83C81314B64DAAF9853375FCAB6AD"
 				}		
 			]
@@ -31043,7 +31045,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror, Fantastico",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:4F91813653FD72FFBB0A10B043BA69DC7F2F82AB&dn=DVDRip",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Pesadilla.en.Elm.Street-El.origen-.-2010.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:4F91813653FD72FFBB0A10B043BA69DC7F2F82AB&dn=DVDRip
 				"torrent4k": ""
 				}		
 			]
@@ -33732,6 +33734,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Fantastico, A2003, Letra F, EEUU, Sagas Viernes13, Sagas ElmStreet, ",
+			"name": "Freddy contra Jason (2003)","coloryear": "darkviolet",
+			"image": "https://www.themoviedb.org/t/p/original/vVS44i49BswTvEuVCSe2p2o6df8.jpg",
+			"info": "Freddy Krueger (Robert Englund) esta en el infierno... de verdad. Hace diez años que este personaje (uno de los mas terrorificos de todos los tiempos y protagonista de la serie Pesadilla en Elm Street) sacudio nuestros sueños para llevar a cabo su sangrienta venganza. Pero el recuerdo de Freddy ha sido sistematicamente borrado en el pueblo, cuyos habitantes estan decididos a terminar con el. Las potenciales victimas han sido drogadas para impedir que sueñen, dejando impotente al maestro de las pesadillas. Han eliminado su miedo a Freddy y esto representa una tortura extrema para un psicopata egocentrico que se considera una autentica leyenda. Pero entonces Freddy resucita a Jason Voorhees (Ken Kirzinger), el psicopata asesino, protagonista de la serie de peliculas Viernes 13. Para Freddy es el medio perfecto para volver a aterrorizar a los habitantes de Elm Street y le da la oportunidad de salir de su purgatorio. Manipula a Jason con suma facilidad y le engaña para que viaje a Springwood para iniciar otro reinado de terror. Aunque los cadaveres empiezan a acumularse en Elm Street y la reputacion de Freddy cobra nueva vida, Freddy descubre que Jason no esta dispuesto a renunciar a sus costumbres asesinas y dejarle el camino libre. Con un pueblo estremecido de medio, un enfrentamiento de proporciones epicas se desata entre los dos titanes del terror, alternando entre el mundo de los sueños y la dura realidad del mundo de los vivos. ¿Quien ganara la batalla de todas las batallas?",
+			"genero": "Terror, Fantastico",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Freddy.contra.Jason.-2003.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Aventuras, 1Fantastico, 1Infantil, A2003, Letra H, EEUU, Osos, ADisney, Sagas HermanoOso, ",
 			"name": "Hermano Oso (2003)","coloryear": "darkviolet",
 			"image": "https://www.themoviedb.org/t/p/original/uUAsEgeeJjZk01kmQazbJmYhORx.jpg",
@@ -34441,7 +34456,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Aventuras, Fantastico",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:878ead18a4db830c2496f4a31f70f477a9c8904f",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Jurassic.Park.III-Parque.Jurasico.III-.-2001.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:878ead18a4db830c2496f4a31f70f477a9c8904f
 				"torrent4k": "magnet:?xt=urn:btih:F2D453095E3EF515C8DD30657800E434315087BD"
 				}		
 			]
@@ -35603,7 +35618,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Aventuras, Fantastico",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:48974CE5BC091F69B2C22449059CE5F1C50FB98A&dn=BDREMUX1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.mundo.perdido-Jurassic.Park.-1997.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:48974CE5BC091F69B2C22449059CE5F1C50FB98A&dn=BDREMUX1080
 				"torrent4k": "https://blazing.network/torrents/peliculas/jurassic-park-el-mundo-perdido--4kultrahd52,5gb.torrent"
 				}		
 			]
@@ -36337,7 +36352,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror, Fantastico",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:16547E77C89906C8A39A1BBBA2D27E229C32D1F7&dn=DVDRip",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.nueva.pesadilla.de.Wes.Craven.-1994.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:16547E77C89906C8A39A1BBBA2D27E229C32D1F7&dn=DVDRip
 				"torrent4k": ""
 				}		
 			]
@@ -36480,7 +36495,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Aventuras",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:95B8C654878CF15CC772FFDBC546D7185918F66D",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Parque.Jurasico-Jurassic.Park-.-1993.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:95B8C654878CF15CC772FFDBC546D7185918F66D
 				"torrent4k": "magnet:?xt=urn:btih:8F643ACC68DA0515794BB9F3C3A1A2B0E5E342EA"
 				}		
 			]
@@ -36792,7 +36807,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:9D9491EF4589F13F17BC0A288CFB09CE09E6B9DE&dn=DVDRip",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Pesadilla.final-La.muerte.de.Freddy-Pesadilla.en.Elm.Street.-.-1991.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:9D9491EF4589F13F17BC0A288CFB09CE09E6B9DE&dn=DVDRip
 				"torrent4k": ""
 				}		
 			]
@@ -37175,7 +37190,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror, Fantastico",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:08833E2C61540E59F916B1F1073C6F70267C8856&dn=DVDRip",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Pesadilla.en.Elm.Street.5-El ninho.de.los.suenhos-.-1989.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:08833E2C61540E59F916B1F1073C6F70267C8856&dn=DVDRip
 				"torrent4k": ""
 				}		
 			]
@@ -37344,7 +37359,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:743D71FC79A47D12562427A69ACBB19B8F2FC009&dn=DVDRip",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Pesadilla.en.Elm.Street.4-El.amo.del.suenho-.-1988.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:743D71FC79A47D12562427A69ACBB19B8F2FC009&dn=DVDRip
 				"torrent4k": ""
 				}		
 			]
@@ -37500,7 +37515,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror, Fantastico",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:D8BDFF75E5B865A874A360447C0150EA9373E8A7&dn=DVDRip",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Pesadilla.en.Elm.Street.3-Los.guerreros.del.suenho-.-1987.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:D8BDFF75E5B865A874A360447C0150EA9373E8A7&dn=DVDRip
 				"torrent4k": ""
 				}		
 			]
@@ -37857,7 +37872,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:1D69B5048C407038D66D7909D6B85A69D114E555&dn=DVDRip",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Pesadilla.en.Elm.Street.2-La.venganza.de.Freddy.-1985.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:1D69B5048C407038D66D7909D6B85A69D114E555&dn=DVDRip
 				"torrent4k": ""
 				}		
 			]
@@ -38065,7 +38080,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:62C418D73BDA95097CA408CF520D30ED83839F77&dn=DVDRip",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Pesadilla.en.Elm.Street.-1984.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:62C418D73BDA95097CA408CF520D30ED83839F77&dn=DVDRip
 				"torrent4k": ""
 				}		
 			]
@@ -40733,7 +40748,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 		"torrent": "magnet:?xt=urn:btih:076E7E99271F541EFD879B051C0DF072F2171B3F&dn=HD1080",
 		},
 		{
-		"tag": " 1Torrentcristal, Sagas ElmStreet, ",
+		"tag": " 0Torrentcristal, Sagas ElmStreet, ",
 		"name": "Pesadilla en Elm Street - Saga Completa - [COLOR gold]Calidad (1080)","coloryear": "gold",
 		"image": "https://cdn.ofertitas.es/wp-content/uploads/2015/09/coleccion_pesadilla.jpg",
 		"info": "Toda las peliculas de la Saga Pesadilla en ElmSteet",
