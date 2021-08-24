@@ -4,7 +4,15 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 
-
+<item>
+<title>[COLOR white] El informe Auschwitz [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.8[/COLOR]</title>    
+<genre>Drama, Historia, Bélica</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/I7fXhoB.jpg</thumbnail>
+<fanart>https://i.imgur.com/c0DjIYk.jpg</fanart>
+<info>Esta es la verdadera historia de Freddy y Walter, dos jóvenes judíos eslovacos, que fueron deportados a Auschwitz en 1942. El 10 de abril de 1944, después de una planificación meticulosa y con la ayuda y la resistencia de sus internos, logran escapar. Mientras los presos que habían dejado atrás se mantienen firmes con valentía contra los oficiales nazis, los dos hombres están impulsados por la esperanza de que sus pruebas puedan salvar vidas. Demacrados y heridos, atraviesan las montañas de regreso a Eslovaquia. Con la ayuda de encuentros casuales, finalmente logran cruzar la frontera y encontrarse con la resistencia y la Cruz Roja. Recopilan un informe detallado sobre el genocidio sistemático en el campo. Sin embargo, con la propaganda nazi y los enlaces internacionales aún vigentes, su relato parece ser demasiado desgarrador para creerlo.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=W75XrR2Tu8U"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/jdlz5ide7gpr1ll"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/l6316e9raqggdoz"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/5xauz0n6mti8.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-mmgbmtquneqy.html"},{"titulo" : "[COLOR white]VideoTape[/COLOR]","url" : "https://streamtape.com/e/OraoPGVk41ikO2"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1ut_rrMbc7QI9DmJD_GJ8z8WIOivJZXsY/view"}</urlsolve>
+</item>
 
 
 <item>
