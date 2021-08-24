@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra E, Eslovaquia, 1Hechos reales, Holocausto, Nazismo, ",
+			"name": "El informe Auschwitz (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/dGVO5koH2CM0KLqsEoekiSTkJOx.jpg",
+			"info": "Narra la historia real de Freddy y Valter, dos judíos eslovacos que escaparon de Auschwitz en 1944 y consiguieron regresar a Eslovaquia, y su lucha para convencer a todos aquellos que no querían ver la verdad",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.informe.Auschwitz.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Fantastico, 1Accion, A2021, Letra T, EEUU, Netflix, ",
 			"name": "The Witcher: La pesadilla del lobo (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/9X9MwQVXqlnucUfHGD97AApf726.jpg",
@@ -1926,71 +1939,6 @@
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:A25659CFEF9FCA17E70E31B7F436E7D11D67ADA4&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2019, Letra A, Ucrania, C720, ",
-			"name": "Anton, su amigo y la revolucion rusa (2019)","coloryear": "limegreen",
-			"image": "https://www.themoviedb.org/t/p/original/sGD0XiP5v583V9AE6cykQASsIz5.jpg",
-			"info": "Es la historia de dos niños, uno cristiano y uno judio, cuya amistad logra sobreponerse a los prejuicios, el odio y el paso del tiempo en la devastacion de la Revolucion Rusa y la Primera Guerra Mundial.",
-			"genero": "Drama",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:CD7CFA8C7570B60BC325332E52EF1FC3E457DC0F&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Thriller, A2021, Letra U, India, C720, Netflix, ",
-			"name": "Un mundo complicado (2021)","coloryear": "cyan",
-			"image": "https://www.themoviedb.org/t/p/original/rYliygpiXmcLMkhRNfa2ZVnd1JV.jpg",
-			"info": "El lider criminal britanico Peter Sprott quiere hacer caer a un rival, y el mejor hombre para este trabajo es Suruli, un mafioso tamil oriundo de Madurai, India. Pero cuando Suruli llega a Londres, siente que lo invaden dilemas relacionados con el hogar, el pais y la pertenencia, conflictos que un criminal despreocupado como el jamas habia tenido que enfrentar",
-			"genero": "Accion, Thriller",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:56945183556421D3D9872681D1F50625419A7EDF&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Intriga, 1Drama, A2019, Letra S, Francia, C720, ",
-			"name": "Solo las bestias (2019)","coloryear": "limegreen",
-			"image": "https://www.themoviedb.org/t/p/original/v3tNKULhScuSjSbr9xhXsW5V5qt.jpg",
-			"info": "Una mujer desaparece. Despues de una tormenta de nieve, su coche es descubierto en una carretera en direccion a un pueblo remoto. Mientras que la policia no sabe por donde empezar a investigar, cinco personas parecen estar ligadas a la desaparicion. Y cada una de estas personas tiene su propio secreto que ocultar",
-			"genero": "Intriga, Drama",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:41F7D63EFA3311EFA97959D20224600A95D7B4EA&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2019, Letra C, Noruega, C720, ",
-			"name": "Cuidado con los niños (2019)","coloryear": "limegreen",
-			"image": "https://www.themoviedb.org/t/p/original/rEckDnSFF6m2iJ5MMsDLPxBYgOv.jpg",
-			"info": "Durante un recreo en la escuela, Lykke, de 13 años, hija de un destacado miembro del Partido Laborista, hiere gravemente a su compañero de clase Jamie, hijo de un politico de alto nivel de la derecha. Cuando Jamie muere mas tarde en el hospital, las versiones contradictorias de lo que realmente sucedio corren el riesgo de empeorar una situacion dificil y traumatica. ¿Fue solo un juego inocente? Liv, la directora de la escuela y amante secreta del padre de Jamie, debe encontrar la fuerza para enfrentarse a una comunidad en apuros, y a sus propias emociones, altamente conflictivas",
-			"genero": "Drama",
-			"stations": [
-				{ 
-				"torrent": "magnet:?xt=urn:btih:3531BE4E9B4998535EC12781E4357659B1CA9CE7&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Aventura, 1Drama, A2021, Letra S, Japon, C720, ",
-			"name": "Kenshin, el guerrero samurai: El final (2021)","coloryear": "cyan",
-			"image": "https://i.imgur.com/Soc6eON.jpg",
-			"info": "El pasado de Kenshin lo alcanza causando la destruccion del restaurante Akabeko, que era el lugar favorito de Kenshin para comer. Alli encuentra una nota con la palabra 'Junchu'",
-			"genero": "Accion, Aventura, Drama",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:31330C05D90546D78675B968A54B92C8F6256D16&dn=HD1080",   magnet:?xt=urn:btih:184AB6CAFF5A1813EF61095C262C545D2BA9C489&dn=BRRip
 				"torrent4k": ""
 				}		
 			]
