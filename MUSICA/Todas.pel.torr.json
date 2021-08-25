@@ -6015,7 +6015,20 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent4k": ""
 				}		
 			]
-			},
+			}
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Thriller, A2020, Letra L, Spain, ",
+			"name": "La vampira de Barcelona (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/kEnlCfRHkYdrUhHD6xgii0nHICK.jpg",
+			"info": "En la Barcelona de principios del siglo XX conviven dos ciudades: una burguesa y modernista, la otra sórdida y sucia. La desaparición de la pequeña Teresa Guitart, hija de una rica familia, conmociona al país y la policía tiene pronto una sospechosa: Enriqueta Martí, conocida como 'La Vampira del Raval'. El periodista Sebastià Comas se adentrará en el laberinto de calles, burdeles y secretos del barrio del Raval, donde sabe que encontrará la verdad sobre las desapariciones y asesinatos macabros de niños de los que se acusa a la Vampira. Pronto descubrirá que allí se esconde una élite dispuesta a ocultar sus vicios a cualquier precio",
+			"genero": "Drama, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.vampira.de.Barcelona.-2020.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:5562565B1EDD8F09A9762DDD70527D98CAE1C5F6&dn=BRRip
+				"torrent4k": ""	
+				}		
+			]
+			},,
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Western, 1Accion, A2020, Letra L, Australia, Crimen, Siglo XIX, ",
 			"name": "La verdadera historia de la banda de Kelly (2020)","coloryear": "magenta",
@@ -16402,7 +16415,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Thriller",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:C224BB50E79769040EF7CDC52800D5C0C52D8FE3",		https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Rambo.Last.Blood-V.Ext.-2019.-.1080.-.CristalAzul.mkv.torrent
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Rambo.Last.Blood-V.Ext.-2019.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:C224BB50E79769040EF7CDC52800D5C0C52D8FE3	
 				"torrent4k": ""
 				}		
 			]
@@ -31933,7 +31946,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:88C0D79BF32240BE60A7E1472CF852BFB1C87DD1",  	https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/John-Rambo-Rambo.IV-.-2008.-.1080.-.CristalAzul.mkv.torrent
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/John-Rambo-Rambo.IV-.-2008.-.1080.-.CristalAzul.mkv.torrent",  	magnet:?xt=urn:btih:88C0D79BF32240BE60A7E1472CF852BFB1C87DD1
 				"torrent4k": ""
 				}		
 			]
@@ -37441,7 +37454,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Belico",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:7C43BE07951FFA564FBAD047A36E5A8735BDA0CB",  	https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Rambo.III-.-1988.-.1080.-.CristalAzul.mkv.torrent
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Rambo.III-.-1988.-.1080.-.CristalAzul.mkv.torrent",  	magnet:?xt=urn:btih:7C43BE07951FFA564FBAD047A36E5A8735BDA0CB
 				"torrent4k": "magnet:?xt=urn:btih:50C45D5FFED93AE076A316D5EE204BEC65C5D809"
 				}		
 			]
