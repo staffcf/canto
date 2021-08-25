@@ -57,6 +57,8 @@ Title:A 47 METROS, SagaID:A47m, Imagen:https://www.themoviedb.org/t/p/original/9
 							-	0Saga, 1SagaTorrent, 
 Title:ABIERTO HASTA EL AMANECER, SagaID:AHEAmanecer, Imagen:https://i.ytimg.com/vi/c4aTDvUPMW4/hqdefault.jpg,	
 							-	0Saga, 1SagaTorrent, 
+Title:AHORA ME VES, SagaID:Ahorameves, Imagen:https://www.themoviedb.org/t/p/original/do7T07TFfTtvy9oVkD9xedaq30I.jpg,
+							-	0Saga, 1SagaTorrent, 
 Title:ALIEN, SagaID:Alien, Imagen:https://www.ecestaticos.com/imagestatic/clipping/851/be6/851be66d6b684e376e77e3c9d397342b/ridley-scott-confirma-que-habra-una-nueva-pelicula-de-la-saga-alien.jpg,	
 							-	0Saga, 1SagaTorrent, 
 Title:ANIMALES FANTASTICOS, SagaID:AnimalesFantasticos, Imagen:https://2.bp.blogspot.com/-8-qHRJujeF4/Wh8aN35t96I/AAAAAAAACC4/lOFib1GUQpsT_Fq0xDzDEDcS96abdcr3wCLcBGAs/s1600/AF%2Banimado.png,	
@@ -90,6 +92,8 @@ Title:CUBE, SagaID:Cube, Imagen:https://2.bp.blogspot.com/-AArTiyCnySo/UGMcpZe1h
 Title:DANDO LA NOTA, SagaID:DandoLaNota, Imagen:https://www.themoviedb.org/t/p/original/7dQpiBMykwbWIRUFlTCDeIAV147.jpg,
 							-	0Saga, 1SagaTorrent, 
 Title:DEADPOOL, SagaID:Deadpool, Imagen:https://www.seekpng.com/png/full/2-21659_deadpool-movie-logo-dice-masters-deadpool-gravity-feed.png,	
+							-	0Saga, 1SagaTorrent, 
+Title:DEPREDADOR, SagaID:Depredador, Imagen:https://i.ytimg.com/vi/-zxeRnZ4DWI/maxresdefault.jpg,
 							-	0Saga, 1SagaTorrent, 
 Title:DESTINO FINAL, SagaID:DestinoFinal, Imagen:https://i.ebayimg.com/images/g/4YkAAOSwtbBezkDt/s-l300.jpg,	
 							-	0Saga, 1SagaTorrent, 
@@ -6089,7 +6093,20 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent4k": "magnet:?xt=urn:btih:2EB9BC6F2DFEA94684EDD8DDBAFBEF4F2E37838F"
 				}		
 			]
-			},
+			}
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2020, Letra L, EEUU, ",
+			"name": "Las formas antiguas (The old ways) (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/sZqaqEFeuzlgp31y3B4K6ysIl0S.jpg",
+			"info": "Cristina, una periodista de raíces mexicanas, viaja al hogar de sus ancestros en Veracruz para investigar una historia de brujería y curanderos. Allí, es secuestrada por un grupo de locales, que afirman que está poseída por el demonio y es necesario exorcizarla. Mientras trata de escapar de esta situación de pesadilla, la mujer empieza a creer que quizá sus captores estén en lo cierto...",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Las.formas.antiguas-The.old.ways-.-2020.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:1FDAF1B4388AF37602F4C97CB2481CAE280EEE68&dn=BRRip
+				"torrent4k": ""	
+				}		
+			]
+			},,
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, A2020, Letra L, Reino Unido, Nacismo, 1Hechos reales, ",
 			"name": "Las hijas del Reich (2020)","coloryear": "magenta",
@@ -23119,14 +23136,14 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Aventura, 1Terror, A2018, Letra P, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Aventura, 1Terror, A2018, Letra P, EEUU,  Sagas Depredador, ",
 			"name": "Predator (2018)","coloryear": "aqua",
 			"image": "https://www.ecartelera.com/carteles/11400/11407/004_p.jpg",
 			"info": "Desde los confines del espacio hasta los suburbios de las pequeñas ciudades, la busqueda llega a la casa de la reinvencion por Shane Black de la saga 'Predator'. Ahora, los cazadores mas letales del universo son mas fuertes, mas inteligentes y mas mortales que nunca, y se han mejorado geneticamente con ADN de otras especies. Cuando un niño accidentalmente desencadena su regreso a la Tierra, solo un grupo de ex soldados y una profesora de ciencias podran evitar, quiza el fin de la raza humana...",
 			"genero": "Accion, Aventura, Terror",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:13c331a9932e48b6aa17a77497405ae36c64bcf2",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Predator.-2018.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:13c331a9932e48b6aa17a77497405ae36c64bcf2
 				"torrent4k": ""
 				}			
 			]
@@ -27369,8 +27386,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Comedia, A2016, Letra A, EEUU, Magia, Secuela, Sagas AMV, ",
-			"name": "Ahora Me Ves 2 (2016)","coloryear": "purple",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Comedia, A2016, Letra A, EEUU, Magia, Secuela, Sagas Ahorameves, ",
+			"name": "Ahora me ves 2 (2016)","coloryear": "purple",
 			"image": "https://www.ecartelera.com/carteles/8800/8804/029_p.jpg",
 			"info": "Un año despues de despistar al FBI y conseguir la admiracion del publico con sus espectaculos mentales, los cuatro jinetes vuelven a la luz publica, pero un nuevo enemigo se propone arruinar su golpe mas espectacular y peligroso hasta la fecha...",
 			"genero": "Thriller, Comedia",
@@ -29454,6 +29471,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2013, Letra A, EEUU, Robos, Atracos, Crimen, Magia, Sagas Ahorameves, ",
+			"name": "Ahora me ves... (2013)","coloryear": "lawngreen",
+			"image": "https://www.themoviedb.org/t/p/original/tWqcuPsuGkmD8KWHFEqcq5vEdhu.jpg",
+			"info": "Un equipo del FBI debe enfrentarse a una banda de criminales expertos en magia que se dedican a atracar bancos. Son 'los cuatro jinetes', un grupo formado por los mejores ilusionistas del mundo. Durante los atracos, siempre contra hombres de negocios corruptos, hacen llover el dinero robado sobre los espectadores, ante la atónita mirada de un equipo de élite del FBI que les sigue la pista",
+			"genero": "Thriller",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:5C8F2434CBA6EE741099AEDB46EAFF80FCF8595E&dn=HD1080",
+				"torrent4k": "magnet:?xt=urn:btih:9160FA2BAB0D2738A56D65171AFB4E333AB3288B&dn=UHDRemux"	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Accion, 1Thriller, A2013, Letra A, EEUU, ",
 			"name": "Asalto al poder (2013)","coloryear": "lawngreen",
 			"image": "https://www.themoviedb.org/t/p/original/npm7FxHilvxsPbo72iK35HD84GN.jpg",
@@ -31051,6 +31081,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Accion, 1Ciencia ficcion, A2010, Letra P, EEUU, Sagas Depredador, ",
+			"name": "Predators (2010)","coloryear": "springgreen",
+			"image": "https://www.themoviedb.org/t/p/original/78IbTTFUZ1a7OyCsZrKVZSht2AU.jpg",
+			"info": "Royce es un mercenario que, a regañadientes, encabeza a un grupo de guerreros de élite que acaban dándose cuenta de que los han llevado juntos a otro planeta… para servir de presa. Con la excepción de un médico desprestigiado, todos ellos son unos desalmados asesinos -mercenarios, yakuzas, presidiarios, miembros de escuadrones de la muerte-, “depredadores” humanos que ahora están siendo cazados y eliminados sistemáticamente por una nueva raza de Depredadores extraterrestres",
+			"genero": "Accion, Ciencia ficcion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Predators.-2010.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:4C27F3824AB5457E6F88481C466652977DA1E43A&dn=DVDRip
+				"torrent4k": "magnet:?xt=urn:btih:430A624A2F372A15866ABA77BB58B5C28793BF2F&dn=UHDRip"	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Aventuras, 1Fantastico, A2010, Letra P, EEUU, Disney, ",
 			"name": "Prince of Persia: Las arenas del tiempo (2010)","coloryear": "springgreen",
 			"image": "https://www.themoviedb.org/t/p/original/kRsUrojW5Rk8wGwOrBX6YulXK5q.jpg",
@@ -32071,7 +32114,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 		"image": "",
 		"groups": [
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Terror, A2007, Letra A, EEUU, Extraterrestres, Sagas Alien, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Terror, A2007, Letra A, EEUU, Extraterrestres, Sagas Alien,  Sagas Depredador, ",
 			"name": "Alien vs. Predator 2 (2007)","coloryear": "steelblue",
 			"image": "https://www.themoviedb.org/t/p/original/3U0JSDmyqXlCOlXeCcPD5PQmp9Q.jpg",
 			"info": "Cuando una nave exploradora Predator se estrella, aparece en un pueblo de Colorado. Los Aliens a bordo escapan y matan a todos los Predators excepto a uno. El ultimo Predator superviviente debe ahora acabar con todos los Aliens, asi como con el terrorifico Pred-Alien que fue engendrado en la anterior entrega. Mientras tanto, los habitantes del pueblo estan siendo inutilmente atrapados en medio del ultimo enfrentamiento entre estas dos criaturas miticas",
@@ -33220,7 +33263,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 		"image": "",
 		"groups": [
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Terror, 1Fantastico, 1Accion, A2004, Letra A, EEUU, Extraterrestres, Sagas Alien, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Terror, 1Fantastico, 1Accion, A2004, Letra A, EEUU, Extraterrestres, Sagas Alien,  Sagas Depredador, ",
 			"name": "Alien vs. Predator (2004)","coloryear": "yellow",
 			"image": "https://www.themoviedb.org/t/p/original/vP2Y3oTJQhP4rJehbTa2yUxn6df.jpg",
 			"info": "El descubrimiento de una antigua piramide enterrada en la Antartida lleva a un grupo de cientificos y aventureros al continente helado. Alli haran un terrorifico descubrimiento: dos violentas e implacables razas alienigenas libran entre si la ultima batalla. Poco importa quien gane... nosotros perderemos",
@@ -36871,6 +36914,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Accion, 1Ciencia ficcion, 1Fantastico, A1990, Letra D, EEUU, B2000, A1990-1981, Sagas Depredador, ",
+			"name": "Depredador 2 (1990)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/c4FrIgDPUxrlDJMuJo5gjCyI7c3.jpg",
+			"info": "Un grupo de policías de Los Angeles se enfrenta a un misterioso asesino que descuartiza a sus víctimas con un salvajismo inusitado. Pronto, el jefe del grupo, el capitán Harrigan, descubrirá que su enemigo es un alienígena llegado a la Tierra con el único propósito de practicar la caza",
+			"genero": "Accion, Ciencia ficcion, Fantastico",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Depredador.2.-1990.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:188D5C18D3D7AABC27334A7B4FD181E5B4422260&dn=BR1080	
+				"torrent4k": "magnet:?xt=urn:btih:B323369BC11B9C64E25415EA2B9FD7F792FFD9A8&dn=UHDRip"	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Fantastico, 1Drama, 1Romance, A1990, Letra E, EEUU, B2000, A1990-1981, 1Culto, ",
 			"name": "Eduardo Manostijeras (1990)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/vd8tCekihFx82bzmENaASvbhNmx.jpg",
@@ -36969,7 +37025,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Comedia, Fantastico, Aventuras",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:CCBD2D59F15124AE18F9FC9EC6C99D872C98B358",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Regreso.al.futuro.III.-1990.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:CCBD2D59F15124AE18F9FC9EC6C99D872C98B358
 				"torrent4k": "magnet:?xt=urn:btih:996EEDBE4D13D2936E41EA4CF0DDCA3E19B28453"
 				}		
 			]
@@ -37203,7 +37259,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Comedia, Fantastico, Aventuras",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:B6CBB526586FEC9187DC2AD56EACB5C591AA35DC",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Regreso.al.futuro.II.-1989.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:B6CBB526586FEC9187DC2AD56EACB5C591AA35DC
 				"torrent4k": "magnet:?xt=urn:btih:415D7621957A3EEED3F2AE3853756693B150A803"
 				}		
 			]
@@ -37413,6 +37469,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				{
 				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Arma.letal.1987.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:0B8B81B920A188DA81B9D9C74917CAAED550F233&dn=HD1080  magnet:?xt=urn:btih:FD330BADF55C7581F33BA4FE981FC32EDF6A1E8D&dn=BDR1080
 				"torrent4k": "magnet:?xt=urn:btih:EBF2E725994F73AE72B7B3DD9D1108A07119437B"
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Accion, 1Aventuras, 1Ciencia ficcion, 1Fantastico, A1987, Letra D, EEUU, 1Culto, B2000, A1990-1981, Sagas Depredador, ",
+			"name": "Depredador (1987)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/spgPmu5bTk8N6KZXrIOBwfd3cNb.jpg",
+			"info": "Un grupo de mercenarios es contratado por la CIA para rescatar a unos pilotos que han sido apresados por la guerrilla en la selva centroamericana. La misión es un éxito, pero durante el viaje de regreso se dan cuenta de que algo misterioso e invisible está dándoles caza uno a uno. Ese algo resulta ser un cazador alienígena que se queda con las calaveras de sus víctimas como trofeos",
+			"genero": "Accion, Aventuras, Ciencia ficcion, Fantastico",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Depredador.-1987.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:69C2E590CA35BCC303646F6288CF1E5AE9CBA892&dn=BR1080 	magnet:?xt=urn:btih:9EF1A91D7B7E5A185297801E6745CB84B2AE1CF1&dn=DVDRip
+				"torrent4k": "magnet:?xt=urn:btih:ABF9E0F851B0D8C014075F8EAE399126DCE27730&dn=UHDRip"	
 				}		
 			]
 			},
@@ -37924,7 +37993,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Comedia, Fantastico, Aventuras",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:5DFFE64E47B6DCB68777D694F70FAA87505A680C",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Regreso.al.futuro.-1985.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:5DFFE64E47B6DCB68777D694F70FAA87505A680C
 				"torrent4k": "magnet:?xt=urn:btih:7429E7B083B3D55A4526EF40BE318EC049057A24"
 				}		
 			]
