@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2020, Letra L, EEUU, ",
+			"name": "Las formas antiguas (The old ways) (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/sZqaqEFeuzlgp31y3B4K6ysIl0S.jpg",
+			"info": "Cristina, una periodista de raíces mexicanas, viaja al hogar de sus ancestros en Veracruz para investigar una historia de brujería y curanderos. Allí, es secuestrada por un grupo de locales, que afirman que está poseída por el demonio y es necesario exorcizarla. Mientras trata de escapar de esta situación de pesadilla, la mujer empieza a creer que quizá sus captores estén en lo cierto...",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Las.formas.antiguas-The.old.ways-.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra E, Eslovaquia, 1Hechos reales, Holocausto, Nazismo, ",
 			"name": "El informe Auschwitz (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/dGVO5koH2CM0KLqsEoekiSTkJOx.jpg",
