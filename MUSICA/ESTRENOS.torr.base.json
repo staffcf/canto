@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Belico, A2021, Letra D, Reino Unido, 1Biografico, ",
+			"name": "Danny Boy (2021)","coloryear": "cyan",
+			"image": "https://i.imgur.com/8cHg2h5.jpg",
+			"info": "Brian Wood (Boyle), un soldado condecorado por la reina de Inglaterra por su valentía en el conflicto iraquí, es acusado de crímenes de guerra tras la investigación pública del abogado de derechos humanos Phil Shiner (Jones). Wood es uno de los soldados británicos inculpados por el supuesto asesinato, mutilación y tortura de los combatientes apresados tras la Batalla de Danny Boy, que tuvo lugar en mayo de 2004 en el sur de Iraq",
+			"genero": "Drama, Belico",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Danny.Boy.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Drama, A2020, Letra R, EEUU, ",
 			"name": "Really Love (Un romance de verdad) (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/chv0cEGaUAcuwhpdAzPCIhikSjQ.jpg",
