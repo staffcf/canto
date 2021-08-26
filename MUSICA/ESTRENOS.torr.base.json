@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Drama, A2020, Letra R, EEUU, ",
+			"name": "Really Love (Un romance de verdad) (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/chv0cEGaUAcuwhpdAzPCIhikSjQ.jpg",
+			"info": "Un pintor en ascenso se enamora perdidamente de una joven estudiante de Derecho. Pero las oportunidades y las expectativas amenazan con destruir su gran amor",
+			"genero": "Romance, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Really.Love-Un.romance.de.verdad-.-2020.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:DC2206ED2CD3F8A20855B62EF2755D02CB54ED41&dn=BRRip	
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Thriller, A2020, Letra L, Spain, ",
 			"name": "La vampira de Barcelona (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/kEnlCfRHkYdrUhHD6xgii0nHICK.jpg",
