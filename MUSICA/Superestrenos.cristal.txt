@@ -4,6 +4,20 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 
+
+
+
+<item>
+<title>[COLOR white] La vampira de Barcelona [/COLOR][COLOR yellow](2020) [COLOR aqua]*6.0[/COLOR]</title>    
+<genre>Drama</genre>
+<year>2020</year>
+<thumbnail>https://i.imgur.com/qHoSr0V.jpg</thumbnail>
+<fanart>https://i.imgur.com/HOHyiUo.jpg</fanart>
+<info>En la Barcelona de principios del siglo XX conviven dos ciudades: una burguesa y modernista, la otra sórdida y sucia. La desaparición de la pequeña Teresa Guitart, hija de una rica familia, conmociona al país y la policía tiene pronto una sospechosa: Enriqueta Martí, conocida como ‘La Vampira del Raval’. El periodista Sebastià Comas se adentrará en el laberinto de calles, burdeles y secretos del barrio del Raval, donde sabe que encontrará la verdad sobre las desapariciones y asesinatos macabros de niños de los que se acusa a la Vampira. Pronto descubrirá que allí se esconde una élite dispuesta a ocultar sus vicios a cualquier precio.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=BH6mZ-Xhc7A"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/-k5nmbpkr5jr2l0"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/j9mwokdeinq8zm"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/hxdizw1n1cft.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-kj7rvatppbxb.html"},{"titulo" : "[COLOR white]VideoTape[/COLOR]","url" : "https://streamtape.com/e/3kZmVYAoweCdbg1"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/13oICKogsDiYnutNhOkvdqZa3ZC7WO_98/view"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] El informe Auschwitz [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.8[/COLOR]</title>    
 <genre>Drama, Historia, Bélica</genre>
