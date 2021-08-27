@@ -6,6 +6,45 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Comedia, A2021, Letra A, EEUU, Netflix, ",
+			"name": "Alguien como el (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/jPbyE4OAw6gLdV7qtzW26MWiojf.jpg",
+			"info": "Cuando la joven y popular influencer Padgett (Addison Rae) sufre un humillante engaño de su novio grabado por una cámara en directo, y el video se vuelve viral, ella trata de intentar salvar su maltrecha reputación asegurando en una apuesta que es capaz de convertir al desaliñado y antisocial joven Cameron (Tanner Buchanan) en alguien totalmente cambiado a quien llevar al baile de graduación. Pero las cosas se complican cuando Padget comienza a enamorase de él... remake modernizado de la cinta adolescente de 1999 'Alguien como tú'",
+			"genero": "Romance, Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Alguien.como.el.-2021.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:DE3E742875416455872D3F918116254E8A34C67A&dn=BRRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, A2021, Letra S, Reino Unido, Secuestros, Desparaciones, ",
+			"name": "SAS: El ascenso del Cisne Negro (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/vBgy2qv0PV6mypKWz9rK8nkaKhr.jpg",
+			"info": "Un pequeño ejército de criminales bien entrenados y liderados por Laszlo Antonov ha secuestrado el Eurostar en las profundidades del Canal de la Mancha",
+			"genero": "Accion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/SAS-El.ascenso.del.Cisne.Negro.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2020, Letra S, EEUU, ",
+			"name": "Stay Out of the F**king Attic (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/dAX1MIn2un69mgCu2IFvzvMn0Rp.jpg",
+			"info": "Un grupo de ex convictos que ahora se dedican a las mudanzas son convencidos por su último y extraño cliente para pasar la noche en su casa. A medida que la velada progresa, los trabajadores descubren los distintos horrores que se esconden dentro de su antigua mansión victoriana",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Stay.Out.of.the.Fk--ing.Attic.-2020.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:2DDC0ADEFA7BFD7A7C9F0389E1D4BAD9AAE5CB51&dn=BRRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Belico, A2021, Letra D, Reino Unido, 1Biografico, ",
 			"name": "Danny Boy (2021)","coloryear": "cyan",
 			"image": "https://i.imgur.com/8cHg2h5.jpg",
@@ -1736,15 +1775,15 @@
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Terror, 1Ciencia ficcion, 1Thriller, A2021, Letra U, EEUU, C720, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Terror, 1Ciencia ficcion, 1Thriller, A2021, Letra U, EEUU, Sagas Unlugartranquilo, ",
 			"name": "Un lugar tranquilo 2 (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/CoGyb2Way0WwM8DnWOR6bcgLZK.jpg",
 			"info": "(Emily Blunt, Millicent Simmonds y Noah Jupe) debe enfrentarse a los peligros del mundo exterior mientras luchan en silencio por sobrevivir. Forzados a aventurarse en lo desconocido, pronto se dan cuenta de que las criaturas que cazan orientadas por el sonido no son la unica amenaza que acecha mas alla del camino de arena",
 			"genero": "Terror, Ciencia ficcion, Thriller",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:BFC5E0DBF4C74EA9E80FB0A07B2963C986839040&dn=HD1080",  magnet:?xt=urn:btih:539BC299C6590DD55279C2ED2C6D477E570790B8&dn=BRRip
-				"torrent4k": "magnet:?xt=urn:btih:1CE6E20FA6AF2B3A616868E883FA3CDE5DB54C66&dn=Web4K"
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Un.lugar.tranquilo.2.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:BFC5E0DBF4C74EA9E80FB0A07B2963C986839040&dn=HD1080  magnet:?xt=urn:btih:539BC299C6590DD55279C2ED2C6D477E570790B8&dn=BRRip
+				"torrent4k": "magnet:?xt=urn:btih:DD842EB22FC143B4B2A89ED097A45E958512EE28&dn=UHDRip",  magnet:?xt=urn:btih:1CE6E20FA6AF2B3A616868E883FA3CDE5DB54C66&dn=Web4K  
 				}		
 			]
 			},
@@ -1926,71 +1965,6 @@
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:92E013721D972337D14F0A2584FD37EBF7620546&dn=BRRip",  magnet:?xt=urn:btih:4d5e291a3928132bfd862756e6767aa9ce5e201d&dn=HD720
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2018, Letra L, Australia, C720, ",
-			"name": "Living Space (Nazi Undead) (2018)","coloryear": "aqua",
-			"image": "https://www.themoviedb.org/t/p/original/qboOD1Qc2k92VBzYVcRfxPTln8r.jpg",
-			"info": "Una pareja de novios universitarios, Brad y Ashley, se aventuran en el corazon de Alemania. Sus vacaciones romanticas toman un giro siniestro al encontrarse con un oficial de las SS aleman",
-			"genero": "Terror",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:928684147F2F76041ED5431563327B8774E27B7A&dn=BRRip",  magnet:?xt=urn:btih:09db4138861cc03ddd12a09b27d408a504ab6804&dn=HD720
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Comedia, A2020, Letra D, Irlanda, C720, ",
-			"name": "Dating Amber (2020)","coloryear": "magenta",
-			"image": "https://www.themoviedb.org/t/p/original/tl6sqHZKT9SZXkvviAsCRj5F7A3.jpg",
-			"info": "En la Irlanda de los años 80, los mejores amigos Eddie (O'Shea) y Amber (Petticrew) fingen ser pareja para alejar los rumores sobre su orientacion sexual que corren por el instituto",
-			"genero": "Drama, Comedia",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:628F0C9E745FA080BD3DCFE41CAB1143EB303C8E&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Thriller, A2021, Letra H, EEUU, C720, ",
-			"name": "Happily (2021)","coloryear": "cyan",
-			"image": "https://www.themoviedb.org/t/p/original/nD5wRGJZgpjdjyNyEzhpbX2vFdn.jpg",
-			"info": "Janet y Tom llevan años casados, pero su pasion mutua sigue siendo insaciable. Los dos son atractivos y con dinero: la pareja perfecta de vida feliz. Sin embargo, la visita de un misterioso extraño con una inusual propuesta les lleva a tener que lidiar con un cadaver, a muchas preguntas sin respuesta y a enfrentar las verdades con sus amigos, por llamar asi a gente que tal vez podria desear cualquier cosa menos tu bienestar",
-			"genero": "Comedia, Thriller",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:F14BBEE5C50ECD296E50902547DFF1353E747AD4&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra S, Canada, C720, 1Biografico, ",
-			"name": "Sueños de una escritora en Nueva York (2020)","coloryear": "magenta",
-			"image": "https://www.themoviedb.org/t/p/original/mLZzwS4ezYPsJqfDyDrOgvFWeSt.jpg",
-			"info": "Finales de los años 90. Joanna, una joven que sueña con ser una gran escritora, consigue trabajo en una de las principales agencias literarias de Nueva York como ayudante de la directora. Entre otras tareas, Joanna ha de responder las numerosas cartas que envian los fans de uno de los escritores de la firma, el mitico J.D. Salinger, autor de 'El guardian entre el centeno'. Apartandose del protocolo, Joanna imprimira a sus respuestas un caracter muy personal...",
-			"genero": "Drama",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:7DBA4AEAF4BD1C2F957236C97AAE325B86B7C55A&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Documental, 1Comedia, A2021, Letra F, EEUU, C720, ",
-			"name": "Friends: The Reunion (2021)","coloryear": "cyan",
-			"image": "https://www.themoviedb.org/t/p/original/l00ff9dmop1UBfb4QNrLMQl5fgc.jpg",
-			"info": "El elenco de la mitica serie 'Friends' -que duro 10 temporadas (1994-2004)- se reune para un especial en la nueva plataforma HBO Max en la que recuerdan numerosas anecdotas del rodaje, reciben a celebridades y a algunos invitados que pasaron por la serie, y reflexionan sobre la importancia para ellos del show y las consecuencias de su enorme fama sobre sus vidas",
-			"genero": "Documental, Comedia",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:A25659CFEF9FCA17E70E31B7F436E7D11D67ADA4&dn=BRRip",
 				"torrent4k": ""
 				}		
 			]
