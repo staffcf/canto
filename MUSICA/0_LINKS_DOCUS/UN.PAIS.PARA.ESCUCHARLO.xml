@@ -1,0 +1,132 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ UN PAIS PARA ESCUCHARLO
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"UN PAIS PARA ESCUCHARLO", SerieTemp:"TEMPORADA 1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://i.imgur.com/2bablmI.jpg",
+	- 1SerieTitle:"UN PAIS PARA ESCUCHARLO", SerieTemp:"TEMPORADA 2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://i.imgur.com/2bablmI.jpg",
+	- 1SerieTitle:"UN PAIS PARA ESCUCHARLO", SerieTemp:"TEMPORADA 3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://i.imgur.com/2bablmI.jpg",
+
+	
+-->
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 1 a 5</title><titleGdrive></titleGdrive>      
+			<torrent>magnet:?xt=urn:btih:ABC40F53D8887FC2F9AE43B49EDF42B875609D25</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 1 a 6</title><titleGdrive></titleGdrive>      
+			<torrent>magnet:?xt=urn:btih:C5FBD2C2B4871DBE6B13ED7E08F3B45297637C9F</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x0. - Capitulos 1 a 5</title><titleGdrive></titleGdrive>      
+			<torrent>magnet:?xt=urn:btih:98B63ABA458130B775B785A9E971CE27BD2BBF46</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x06 - Valladolid y Leon</title><titleGdrive></titleGdrive>      
+			<torrent>magnet:?xt=urn:btih:A285AAC067F4538D454ACD8AB2374FD9E92E6163</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x07 - San Sebastian</title><titleGdrive></titleGdrive>      
+			<torrent>magnet:?xt=urn:btih:6C0451EB36A1D33E41592BC540A4F63F744402C0</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x08 - Extremadura</title><titleGdrive></titleGdrive>      
+			<torrent>magnet:?xt=urn:btih:089200EC160E22221DF4FB8FE3AF9B27D394D755</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x09 - Islas Canarias</title><titleGdrive></titleGdrive>      
+			<torrent>magnet:?xt=urn:btih:A98E006D0E45AACFEE8A91CDC0409C789D1D03D8</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x10 - Cantabria y Palencia</title><titleGdrive></titleGdrive>      
+			<torrent>magnet:?xt=urn:btih:CB2E138A66D7471F8DB8473DFCD82FF460816CDF</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x01 - Comunidad de Madrid</title><titleGdrive></titleGdrive>      
+			<torrent>magnet:?xt=urn:btih:D63066285107B5FB9DF7E3A16E4C5827C3807023</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x02 - Huelva</title><titleGdrive></titleGdrive>      
+			<torrent>magnet:?xt=urn:btih:2B9AB7315AB701EE52B7EEF2F0100B4BA34CF48E</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x03 - Barcelaona y Tarragona</title><titleGdrive></titleGdrive>      
+			<torrent>magnet:?xt=urn:btih:1DD5EE6C0A75D964FD3CE40C342EFEF5E255947A</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x04 - Ciudad Real y Guadalajara</title><titleGdrive></titleGdrive>      
+			<torrent>magnet:?xt=urn:btih:279599BF2FBF28FE945C5A70470151CDD92AAFAE</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x05 - Galicia</title><titleGdrive></titleGdrive>      
+			<torrent>magnet:?xt=urn:btih:3A80879EE281853E93FAD44111B590900370634B</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x06 - Huesca y Teruel</title><titleGdrive></titleGdrive>      
+			<torrent>magnet:?xt=urn:btih:F3B230873D52092E596D22584CE3DCD6B0BE715D</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x07 - Girona y Lleida</title><titleGdrive></titleGdrive>      
+			<torrent>magnet:?xt=urn:btih:85A341B4878CEDB4E905E65CF0DB7F007454572B</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x08 - Castilla-Leon</title><titleGdrive></titleGdrive>      
+			<torrent>magnet:?xt=urn:btih:736BDA6286C65CC8E1E80A3867609B06849684DA</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x09 - Alicante y Castellon</title><titleGdrive></titleGdrive>      
+			<torrent>magnet:?xt=urn:btih:B948B78A759CDFADF52F819B3C2202BD9100236C</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x10 - Almeria y Melilla</title><titleGdrive></titleGdrive>      
+			<torrent>magnet:?xt=urn:btih:1DC33465097FBD8D58365D1811512520C35A5DC7</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
