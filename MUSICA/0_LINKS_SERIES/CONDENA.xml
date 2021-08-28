@@ -1,0 +1,34 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ CONDENA (TIME)
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"CONDENA (TIME)", SerieTemp:"MINI SERIE", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/r08J5UYg7Mic6Pcv6rQUaixbxMk.jpg",
+	
+-->
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x01 - Capitulo 1</title>
+			<torrent>magnet:?xt=urn:btih:C0F9CF2AD97B73195308E26F38E966FC1AA36E94&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x02 - Capitulo 2</title>
+			<torrent>magnet:?xt=urn:btih:A4BED9CDA17D2B9ACA83F9307C7E798213892BB8&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x03 - Capitulo 3</title>
+			<torrent>magnet:?xt=urn:btih:C77F42B9405C3A043BD2ED6194CD753ED9F38232&dn=HDTV</torrent>
+			</item>
+======================================================================
+======================================================================

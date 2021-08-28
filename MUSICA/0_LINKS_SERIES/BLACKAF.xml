@@ -1,0 +1,34 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ #blackAF
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"#blackAF", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/1GUzQSpMcqJK17edI3LEhm37LNS.jpg",
+	
+-->
+======================================================================
+			"Tag=1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 a 3</title>
+			<torrent>magnet:?xt=urn:btih:C8E1122D837EE092E1D05AFB6033084C9B5F11F1</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 4 a 8</title>
+			<torrent>magnet:?xt=urn:btih:BBC3CB10483A1FCDDB625431899A92B93B1966A3</torrent>
+			</item>
+======================================================================
+======================================================================
