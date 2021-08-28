@@ -1,0 +1,79 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ YELLOWSTONE
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"YELLOWSTONE", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/vztZhTUNXk73mocDIXDd3nIfzRH.jpg", 
+	- 1SerieTitle:"YELLOWSTONE", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/3ePlESS6eyUj9W7yPEbzhwWaiFo.jpg",
+	
+-->
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x01 - Capitulo 1</title>      
+			<torrent>magnet:?xt=urn:btih:214F4EEB76B7F3A92D3D1ADD1C395CA0EFF4598C</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 2 y 3</title>      
+			<torrent>magnet:?xt=urn:btih:5328B4EEAAF1D2746B19E8157C76ECAFE7221AA5</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 4 y 5</title>      
+			<torrent>magnet:?xt=urn:btih:EF22622DB83B92B7F8B3654D8F012FA89D747270</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x06 - Capitulo 6</title>      
+			<torrent>magnet:?xt=urn:btih:298521B97F7A2C60558FA8A140549A2D386D3D57</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x07 - Capitulo 7</title>      
+			<torrent>magnet:?xt=urn:btih:4CFE5A0DA353C2677719654FD9492F4F192859BD</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 8 y 9</title>      
+			<torrent>magnet:?xt=urn:btih:6BFF80B2B092B5E9E03300B16796334A325BD66B</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x0. - Capitulos 1 a 4</title>      
+			<torrent>magnet:?xt=urn:btih:08D48305979DD720EE1B74AA2AE2D673015AB5BC</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x0. - Capitulos 5 a 8</title>      
+			<torrent>magnet:?xt=urn:btih:3BB051AE603F4C22968E8652905872B65CBC5081</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x09 - Capitulo 9</title>      
+			<torrent>magnet:?xt=urn:btih:96DDF3C698F97CC041FD7972E88439E5ED33814A</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x10 - Capitulo 10</title>      
+			<torrent>magnet:?xt=urn:btih:5465ACFA61CB7FA2008AF1ACE645C6B70800BCED</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
