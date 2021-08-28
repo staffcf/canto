@@ -1,0 +1,130 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ PATRIA
+-->
+<!--
+
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"PATRIA", SerieTemp:"MINI SERIE", SerieID:"PATRIATEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://image.tmdb.org/t/p/w600_and_h900_bestv2/yTvhNt0QxXG7ww5hrUQwFtQoKIw.jpg",
+
+	
+-->
+======================================================================
+				<!-- TORRENT -->
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 1080</title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 a 8</title>      
+			<torrent>magnet:?xt=urn:btih:2A21B1B9B80D70A8176BB904C901871EBD794DE2</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 4K</title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 a 4</title>      
+			<torrent>magnet:?xt=urn:btih:6CD12CA17A7178031134E85C3D85D2E373E888E1</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulo 5</title>      
+			<torrent>magnet:?xt=urn:btih:DE954681B5942C9AA7B6158B266681D59C9957EC</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 6 a 8</title>      
+			<torrent>magnet:?xt=urn:btih:67D53EE7060D742C819351ECA429B37BDF4E9E5C</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>      
+			<torrent>magnet:?xt=urn:btih:</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]Calidad 1080</title>      
+			<torrent>magnet:?xt=urn:btih:</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= PATRIATEMP1, TORRENTTEMP1, "
+			<item>
+			<title>1x01 - Octubre benigno</title>  
+			<torrent>magnet:?xt=urn:btih:F07B4D74EDC4A0C5760A1EE663C11EF92BC9FE3A</torrent>
+			</item>
+======================================================================
+			"Tag= PATRIATEMP1, TORRENTTEMP1, "
+			<item>
+			<title>1x02 - Encuentros</title>   
+			<torrent>magnet:?xt=urn:btih:F749170F316D4EF28AF9ECE167CF8C1AE1565E2C</torrent>
+			</item>
+======================================================================
+			"Tag= PATRIATEMP1, TORRENTTEMP1, "
+			<item>
+			<title>1x03 - Ultimas meriendas</title>  
+			<torrent>magnet:?xt=urn:btih:A32FB95606D8551F0768055E473699D2B105382B</torrent>
+			</item>
+======================================================================
+			"Tag= PATRIATEMP1, TORRENTTEMP1, "
+			<item>
+			<title>1x04 - Txato, entzun</title>      
+			<torrent>magnet:?xt=urn:btih:8227DF3BD756ED8CFB01796ADABFEAAC5A89D924</torrent>
+			</item>
+======================================================================
+			"Tag= PATRIATEMP1, TORRENTTEMP1, "
+			<item>
+			<title>1x05 - El país de los callados</title> 
+			<torrent>magnet:?xt=urn:btih:137DB4E7350DF89B408B5807DC3EF6EAE74921A5</torrent>
+			</item>
+======================================================================
+			"Tag= PATRIATEMP1,  TORRENTTEMP1, "
+			<item>
+			<title>1x06 - Patrias y mandangas</title>   
+			<torrent>magnet:?xt=urn:btih:BF2A38B5EA46675A7D5553BFE5C6AD0573446FBA</torrent>
+			</item>
+======================================================================
+			"Tag= PATRIATEMP1, TORRENTTEMP1, "
+			<item>
+			<title>1x07 - Pan ensangrentado</title>    
+			<torrent>magnet:?xt=urn:btih:3786764F2CA146231F7D877A8E946C36186B8053</torrent>
+			</item>
+======================================================================
+			"Tag= PATRIATEMP1, TORRENTTEMP1, "
+			<item>
+			<title>1x08 - Mañana de domingo</title>   
+			<torrent>magnet:?xt=urn:btih:0704DC1F586F6F12BFA0292F7F35C177177C5917</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================

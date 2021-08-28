@@ -1,0 +1,70 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ LOVE ALARM
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"LOVE ALARM", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/dqwW7BNSv9Gxmlm8d9GJ70QMtGx.jpg",
+	- 1SerieTitle:"LOVE ALARM", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/eZYjrVbs1x6TaubuDMqAXPYAGPw.jpg",
+
+	
+-->
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 a 4</title>      
+			<torrent>magnet:?xt=urn:btih:46EAAC96D6601386F70C84C47A4420344B940568</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 5 a 8</title>      
+			<torrent>magnet:?xt=urn:btih:B4A2B06E515B55E5ED49B871A975F4E0F121A356</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 a 4</title>      
+			<torrent>magnet:?xt=urn:btih:20800C8003F0514979EEB8A2362E22E85F15E590</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 5 a 8</title>      
+			<torrent>magnet:?xt=urn:btih:A70A83367D9329F579E32B28BD99ECB9CB19810F</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - Capitulos 1 a 6</title>      
+			<torrent>magnet:?xt=urn:btih:EBF4F045A1C1C19B05386E695F76CFF667AF0F35</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================

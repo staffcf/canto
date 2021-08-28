@@ -1,0 +1,164 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ OZARK
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"OZARK", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/tNDZavjaXfO8poyBY6zpO54aL2e.jpg",
+	- 1SerieTitle:"OZARK", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/niUR6Ob6O61E5Cbik3Qg8jy0NV4.jpg",
+	- 1SerieTitle:"OZARK", SerieTemp:"TEMPORADA 3", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/oy7Peo5iFIt9sNM59lN6csbJeX2.jpg",
+
+	
+-->
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulo 1 [COLOR red](SIN ENLACE)</title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 2 a 10</title>      
+			<torrent>magnet:?xt=urn:btih:6D65334EA47F8FB8044175CC8CF0B095A78CE19F</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - Capitulos 1 a 10</title>      
+			<torrent>magnet:?xt=urn:btih:746ACB2FA5E2BE6204216F01EF960B6104C4B4EA</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulo 1</title>      
+			<torrent>magnet:?xt=urn:btih:7FCD4DDB57A8E747C1A19638705B33D29DD34F70</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 2 a 10</title>      
+			<torrent>magnet:?xt=urn:btih:83CD202622C8927E0B607D88B4A5D05A22DDA276</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - </title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - Capitulos 1 a 10</title>      
+			<torrent>magnet:?xt=urn:btih:47F8BD54D57445A45F6628097283387309D27644</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x01 - Tiempos de guerra</title>     
+			<torrent>magnet:?xt=urn:btih:516997289F1A246016DACB81E41153543E6F30C8</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x02 - Enlace civil</title>      
+			<torrent>magnet:?xt=urn:btih:DF0731922320EFF8C077132AF23EEA21536E8883</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x03 - Kevin Cronin estuvo aquí</title>   
+			<torrent>magnet:?xt=urn:btih:D4C1E1C10733B74D6C8AA1E6634D0F2CA177BC67</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x04 - Pelea entre jefes</title>      
+			<torrent>magnet:?xt=urn:btih:70E0977DA5C2688F7CF6665DF3EFA4D8EA1AE552</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x05 - Vino de Michoacán</title> 
+			<torrent>magnet:?xt=urn:btih:BCDC8055CB89F4B08BAF0F3E1048D7E562F02046</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x06 - Su casa es mi casa</title> 
+			<torrent>magnet:?xt=urn:btih:19804E9356A32004A0FA8D182F4A186648B7A5E1</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x07 - En caso de emergencia</title> 
+			<torrent>magnet:?xt=urn:btih:DAB37FA12C1B55F8C3FDD1CBC0D2111251785186</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x08 - Una amistad inquebrantable</title> 
+			<torrent>magnet:?xt=urn:btih:0AFF3128B838659CDAAEF5F388EAF9A0DD74AC1A</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x09 - Fire Pink</title>      
+			<torrent>magnet:?xt=urn:btih:B45E7B1D1CAFA2A29EB8A9ED08DEC2B0F09C955F</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x10 - A por todas</title>     
+			<torrent>magnet:?xt=urn:btih:FB9A241A3385C98867265D842631682632C467A9</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
