@@ -1,0 +1,72 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ CAMBIO DE IDENTIDAD
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"CAMBIO DE IDENTIDAD", SerieTemp:"MINI-SERIE", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/b0nPy7r4FWPhjTiXn8I6UlVXnPk.jpg",
+-->
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= SERIETEMP1, TORRENTTEMP1, "
+			<item>
+			<title>1x01 - Capitulo 1</title>
+			<torrent>magnet:?xt=urn:btih:8311F00823F04B5168D00107D53B692E6453F2BE</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP1, TORRENTTEMP1, "
+			<item>
+			<title>1x02 - Capitulo 2</title>
+			<torrent>magnet:?xt=urn:btih:1F2CD959E0D627000D1690E475462D3F26ECAC2C</torrent>
+			</item>
+======================================================================
+			"Tag= ERIETEMP1, ORRENTTEMP1, "
+			<item>
+			<title>1x03 - Capitulo 3</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x01 - Capitulo 1</title>
+			<torrent>magnet:?xt=urn:btih:BFC62F5BC3E3A2D0346D9D9E93EE16DE6FA303C5</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x02 - Capitulo 2</title>
+			<torrent>magnet:?xt=urn:btih:6698C3000047FF2B8B1EA7E20D658BEC28240DAE</torrent>
+			</item>
+======================================================================
+			"Tag= ORRENTTEMP1, "
+			<item>
+			<title>1x03 - Capitulo 3</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
