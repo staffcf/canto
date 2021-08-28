@@ -1,0 +1,86 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ BONDING
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"BONDING", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/kLGU1UerWYj6DMB7jRhpJCgak6b.jpg",
+	- 1SerieTitle:"BONDING", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/a2GGurv3bY7W0qkfohlfkFNMQ7p.jpg",
+
+	
+-->
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 a 7</title>      
+			<torrent>magnet:?xt=urn:btih:2ED142A9F09B7F794D72290D3DCEFA75BF888E8A</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 a 7</title>      
+			<torrent>magnet:?xt=urn:btih:C6B2BE5D2D1F000FC0BE92F041D761D758F66E25</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - Capitulos 1 a 8</title>      
+			<torrent>magnet:?xt=urn:btih:C78A53792E705F0D157FDBD96E1414563B21922D</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - </title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - Capitulos 1 a 8</title>      
+			<torrent>magnet:?xt=urn:btih:B9EA3C0A0E79E110AD53E099381FEAF76266BB88</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================

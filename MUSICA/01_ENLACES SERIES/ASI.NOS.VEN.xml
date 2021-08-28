@@ -1,0 +1,43 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ ASI NOS VEN
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"ASI NOS VEN", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/8shLGVN1w4DiYuEc5i0X39dn6RA.jpg",
+	
+-->
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x01 - 1ª Parte</title>
+			<torrent></torrent>
+			<torrent>magnet:?xt=urn:btih:5270D8516206B936340FE1699695E41FDF5EBD33</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x02 - 2ª Parte</title>
+			<torrent></torrent>
+			<torrent>magnet:?xt=urn:btih:D64BB0A831AD0BB915055E3B8CE68104C0B76507</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x03 - 3ª Parte</title>    
+			<torrent></torrent>
+			<torrent>magnet:?xt=urn:btih:A834D4AF85EAB094B1743242446724762E7D19B1</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x04 - 4ª Parte</title>   
+			<torrent></torrent>
+			<torrent>magnet:?xt=urn:btih:AD21C9521CCFD55FC700D882282183C04D4378C7</torrent>
+			</item>
+======================================================================
