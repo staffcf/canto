@@ -1,0 +1,141 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ LUPIN
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"LUPIN", SerieTemp:"PARTE 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg",
+	- 1SerieTitle:"LUPIN", SerieTemp:"PARTE 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/dv6uqkSTpY7OsDzrCza3OIgFGR0.jpg",
+	
+-->
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 a 5</title>      
+			<torrent>magnet:?xt=urn:btih:79D113A320A271BBC074CB87AC82A7F2F20E285E</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 a 5</title>      
+			<torrent>magnet:?xt=urn:btih:A56FFA2B0CF112314CFDBA5F6D29F9D0C8F5011D</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+<!--		"Tag= ORRENTTEMP2, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= ORRENTTEMP2, "
+			<item>
+			<title> - Capitulo 1 [COLOR lime](Seleccionar el que figura como 205)</title>
+			<torrent>magnet:?xt=urn:btih:1288A4DC8C28CCB35571580689C30A40040EE4FB</torrent>
+			</item>
+======================================================================
+			"Tag= ORRENTTEMP2, "
+			<item>
+			<title> - Capitulos 2 a 4 [COLOR lime](Figuran como 201 a 203)</title>
+			<torrent>magnet:?xt=urn:btih:1685C62CF4F18A441F6DAD69DBCDF3F67C9A52A5</torrent>
+			</item>
+======================================================================
+			"Tag= ORRENTTEMP2, "
+			<item>
+			<title> - Capitulo 5  [COLOR lime](Seleccionar el que figura como 204, y sería el último)</title>
+			<torrent>magnet:?xt=urn:btih:1288A4DC8C28CCB35571580689C30A40040EE4FB</torrent>
+			</item>
+======================================================================
+-->
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - Capitulo 1</title>
+			<torrent>https://www.dropbox.com/s/9eatqhbqx8c6abx/Lupin.2x01.-.720.-.CristalAzul.mkv.torrent?dl=1</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - Capitulo 2</title>
+			<torrent>https://www.dropbox.com/s/6d8q6wrnc5qgiic/Lupin.2x02.-.720.-.CristalAzul.mkv.torrent?dl=1</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - Capitulo 3</title>
+			<torrent>https://www.dropbox.com/s/pvir4la8l18wgep/Lupin.2x03.-.720.-.CristalAzul.mkv.torrent?dl=1</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - Capitulo 4</title>
+			<torrent>https://www.dropbox.com/s/qc2q9dnxm7t1pe6/Lupin.2x04.-.720.-.CristalAzul.mkv.torrent?dl=1</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - Capitulo 5</title>
+			<torrent>https://www.dropbox.com/s/d58ndyq3ukcl2lx/Lupin.2x05.-.720.-.CristalAzul.mkv.torrent?dl=1</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - Capitulos 1 a 3</title>
+			<torrent>magnet:?xt=urn:btih:A45206A06F8E7147D8405A62188AB959047319D8</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - Capitulos 4 y 5</title>
+			<torrent>magnet:?xt=urn:btih:CEFF87217A4FD04428E6409F457259506ABEE40D</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================
