@@ -1,0 +1,52 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ FLEABAG
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"FLEABAG", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.sanity.com.au/media/Images/fullimage/427141/SDC_2365343_2018-13-2--00-15-18.jpg",
+	- 1SerieTitle:"FLEABAG", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.sanity.com.au/media/Images/fullimage/556350/SDC_2465043_2020-23-4--00-15-24.jpg", 
+
+	
+-->
+======================================================================
+			<!-- TORRENT -->
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulo 1</title>      
+			<torrent>magnet:?xt=urn:btih:0BE427DADD8A969F27E35A4072D967F25838BE08</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 2 y 3</title>      
+			<torrent>magnet:?xt=urn:btih:CCF7C2870E3210486719C2E3E5552C086F4818F3</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 4, 5 y 6</title>      
+			<torrent>magnet:?xt=urn:btih:19B8E3D9FFA2A7D4448E764E38630D56FD116F09</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - Capitulos 1 a 5</title>      
+			<torrent>magnet:?xt=urn:btih:E1564C77870DA81C15E66A78D8387D7C1FA270D6</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - Capitulos 6</title>      
+			<torrent>magnet:?xt=urn:btih:0581C853E7295124BA5EF84A81C9BE67A5076EDD</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================

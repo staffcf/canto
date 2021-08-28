@@ -1,0 +1,114 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ EL EMBARCADERO
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"EL EMBARCADERO", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/dFuTT1nRzSFknNQuFEvtpb5QZ3O.jpg",
+	- 1SerieTitle:"EL EMBARCADERO", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/rkMIx1JK3GeVq8TRkKSTbg0PyPz.jpg", 
+
+	
+-->
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x01 - Capitulo 1</title>     
+			<torrent>magnet:?xt=urn:btih:ee347301ac263621753ae3fa9850025b87aa2747</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x02 - Capitulo 2</title>  
+			<torrent>magnet:?xt=urn:btih:cf7a9372be6f40b8189634674a87519982252612</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x03 - Capitulo 3</title>   
+			<torrent>magnet:?xt=urn:btih:102faf0e3e231e20a1d6c6e491dccd100265a5ff</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x04 - Capitulo 4</title>   
+			<torrent>magnet:?xt=urn:btih:49f49b1604ba58c7eed0788f25d71b5fe82e1b6a</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x05 - Capitulo 5</title>  
+			<torrent>magnet:?xt=urn:btih:1e161cf99a002c1234fd837e2c0297800fbf14b6</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x06 - Capitulo 6</title>   
+			<torrent>magnet:?xt=urn:btih:7f92f96dd48ef9d3eed826e8d9d9345f00d90e70</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x07 - Capitulo 7</title>     
+			<torrent>magnet:?xt=urn:btih:68f0a99b8c7f4daf86ff0848028a933cc2e20dc9</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x08 - Capitulo 8</title>   
+			<torrent>magnet:?xt=urn:btih:22bc0c34dea678b87aa7eebaec08bbf658c05da7</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x01 - Capitulo 1</title>  
+			<torrent>magnet:?xt=urn:btih:2b0aca929adcbf9111538da99cd5188077e06e98</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x02 - Capitulo 2</title> 
+			<torrent>magnet:?xt=urn:btih:8ae7aa0d09fafb1a5e3757163ca6d9c83ff20258</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x03 - Capitulo 3</title>   
+			<torrent>magnet:?xt=urn:btih:102faf0e3e231e20a1d6c6e491dccd100265a5ff</torrent>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x04 - Capitulo 4</title>   
+			<torrent>magnet:?xt=urn:btih:49f49b1604ba58c7eed0788f25d71b5fe82e1b6a</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x05 - Capitulo 5</title> 
+			<torrent>magnet:?xt=urn:btih:1e161cf99a002c1234fd837e2c0297800fbf14b6</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x06 - Capitulo 6</title>      
+			<torrent>magnet:?xt=urn:btih:7f92f96dd48ef9d3eed826e8d9d9345f00d90e70</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x07 - Capitulo 7</title>    
+			<torrent>magnet:?xt=urn:btih:68f0a99b8c7f4daf86ff0848028a933cc2e20dc9</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x08 - Capitulo 8</title>   
+			<torrent>magnet:?xt=urn:btih:22bc0c34dea678b87aa7eebaec08bbf658c05da7</torrent>
+			</item>
+======================================================================
