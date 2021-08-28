@@ -1,0 +1,257 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ THE MANDALORIAN
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"", SerieTemp:"[COLOR yellow]CALIDAD 4K", SerieIDT:"TORRENT4K", SerieThumbail:"https://www.themoviedb.org/t/p/original/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg",
+	- 1SerieTitle:"THE MANDALORIAN", SerieTemp:"TEMPORADAS 1 y 2", SerieIDT:"TORRENT4K", SerieThumbail:"https://www.themoviedb.org/t/p/original/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg",
+
+	- 1SerieTitle:"", SerieTemp:"", SerieIDT:"", SerieThumbail:"https://www.themoviedb.org/t/p/original/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg",	
+	- 1SerieTitle:"", SerieTemp:"[COLOR yellow]CALIDAD 1080", SerieIDT:"TORRENT1080", SerieThumbail:"https://www.themoviedb.org/t/p/original/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg",
+	- 1SerieTitle:"THE MANDALORIAN", SerieTemp:"TEMPORADAS 1 y 2", SerieIDT:"TORRENT1080", SerieThumbail:"https://www.themoviedb.org/t/p/original/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg",
+	
+	
+	- 1SerieTitle:"", SerieTemp:"", SerieIDT:"", SerieThumbail:"https://www.themoviedb.org/t/p/original/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg",	
+	- 1SerieTitle:"", SerieTemp:"[COLOR yellow]CALIDAD 720", SerieIDT:"", SerieThumbail:"https://www.themoviedb.org/t/p/original/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg",	
+	- 1SerieTitle:"THE MANDALORIAN", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1720", SerieThumbail:"https://www.themoviedb.org/t/p/original/7ahSDUfoMKkagGBP0Xq0Nj73Znq.jpg",
+	- 1SerieTitle:"THE MANDALORIAN", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2720", SerieThumbail:"https://www.themoviedb.org/t/p/original/oV32T4lIiUEKkEnkZuhX2VFvCJU.jpg",
+	
+	
+	- 1SerieTitle:"", SerieTemp:"", SerieIDT:"", SerieThumbail:"https://www.themoviedb.org/t/p/original/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg",	
+	- 1SerieTitle:"", SerieTemp:"[COLOR yellow]CALIDAD HDTV", SerieIDT:"", SerieThumbail:"https://www.themoviedb.org/t/p/original/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg",	
+	- 1SerieTitle:"THE MANDALORIAN", SerieTemp:"TEMPORADA 1", SerieIDT:"TORRENTTEMP1HDTV", SerieThumbail:"https://www.themoviedb.org/t/p/original/7ahSDUfoMKkagGBP0Xq0Nj73Znq.jpg",
+	- 1SerieTitle:"THE MANDALORIAN", SerieTemp:"TEMPORADA 2", SerieIDT:"TORRENTTEMP2HDTV", SerieThumbail:"https://www.themoviedb.org/t/p/original/oV32T4lIiUEKkEnkZuhX2VFvCJU.jpg",
+	
+-->
+======================================================================
+			"Tag= TORRENT1080, "
+			<item>
+			<title>Calidad 1080 - TEMPORADAS 1 y 2</title>      
+			<torrent>magnet:?xt=urn:btih:9863FDC75FCFC606234AAE11918DE7423523903A</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENT4K, "
+			<item>
+			<title>Temporada 1 - Capitulos 1 a 8</title>      
+			<torrent>magnet:?xt=urn:btih:4A81B9CD789FA28E39F8308204F6C82E40C5EEA1</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENT4K, "
+			<item>
+			<title>Temporada 2 - Capitulos 1 a 8</title>      
+			<torrent>magnet:?xt=urn:btih:3B0154860E776AEE5DF34E0384BD67E9AD66AAAB</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1720, "
+			<item>
+			<title>1x01 - El Mandaloriano</title>     
+			<torrent>magnet:?xt=urn:btih:89094C7DDE19214EA38909F89020E38DF35D34F8</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1720, "
+			<item>
+			<title>1x02 - El Niño</title> 
+			<torrent>magnet:?xt=urn:btih:1C15EF5F32101F2B45DD2E6E029FA00397710C92</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1720, "
+			<item>
+			<title>1x03 - El Pecado</title>   
+			<torrent>magnet:?xt=urn:btih:3665B8E292808FFF361D9CD5186E182FAFBCC11F</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1720, "
+			<item>
+			<title>1x04 - El Santuario</title> 
+			<torrent>magnet:?xt=urn:btih:5DF7B5EF2D7A388B7AF2E18B3A4C9636F91CB3A8</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1720, "
+			<item>
+			<title>1x05 - El Pistolero</title> 
+			<torrent>magnet:?xt=urn:btih:67635A1DC41A55A9B481DD3410D00400E1046C96</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1720, "
+			<item>
+			<title>1x06 - El Prisionero</title>   
+			<torrent>magnet:?xt=urn:btih:B85C4CFC29DB81CF2759C2B3C5B06AF52BEEBED4</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1720, "
+			<item>
+			<title>1x07 - Ajuste de Cuentas</title>  
+			<torrent>magnet:?xt=urn:btih:91EED492581DD571F0BD054140B7EC4D9EA87405</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1720, "
+			<item>
+			<title>1x08 - Redención</title>    
+			<torrent>magnet:?xt=urn:btih:3a1f8d5e90023143c49969144f99d9cd8d1c3077</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2720, "
+			<item>
+			<title>2x01 - El Marshal</title>  
+			<torrent>magnet:?xt=urn:btih:224c514f9475016d5ba273688e0e8db27aba5bc1</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2720, "
+			<item>
+			<title>2x02 - La Pasajera</title>   
+			<torrent>magnet:?xt=urn:btih:32506E7c5312920991e37f5e1ee9ad94205d8bf9</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2720, "
+			<item>
+			<title>2x03 - La Heredera</title>   
+			<torrent>magnet:?xt=urn:btih:2CFC114F00AA7E88465E10484A1CC1C4540AA78E</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2720, "
+			<item>
+			<title>2x04 - El Asedio</title>      
+			<torrent>magnet:?xt=urn:btih:5D5EF981A25C6AD3E58C9B96D549C5D6C7FF7078</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2720, "
+			<item>
+			<title>2x05 - La Jedi</title> 
+			<torrent>magnet:?xt=urn:btih:0DDDEC1EBF3BAA5E76A9CEC335BD1AF4D1AC6E79</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2720, "
+			<item>
+			<title>2x06 - La Tragedia</title>    
+			<torrent>magnet:?xt=urn:btih:F24263CF29C63CA46DA18F39829E310FB1D2249E</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2720, "
+			<item>
+			<title>2x07 - El Creyente</title>    
+			<torrent>magnet:?xt=urn:btih:4291CF24DFAE2E7E8E5BF6008DC5278393661A3E</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2720, "
+			<item>
+			<title>2x08 - El Rescate</title> 
+			<torrent>magnet:?xt=urn:btih:AC490057386D359424ED5952E5CD5AC164BD4060</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1HDTV, "
+			<item>
+			<title>1x01 - El Mandaloriano</title>
+			<torrent>magnet:?xt=urn:btih:6E896D167D8D77005958C0B98FDDA840036E46E2</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1HDTV, "
+			<item>
+			<title>1x02 - El Niño</title>
+			<torrent>magnet:?xt=urn:btih:6C5511DF2B22A8D64D9323D907F052E570A2A746</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1HDTV, "
+			<item>
+			<title>1x03 - El Pecado</title>
+			<torrent>magnet:?xt=urn:btih:E1045527EE186ED1A89CBC433990F6712BFF3063</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1HDTV, "
+			<item>
+			<title>1x04 - El Santuario</title>
+			<torrent>magnet:?xt=urn:btih:AC15E7E4A7B092892CA8F5EC3C670599D4B4FA7C</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1HDTV, "
+			<item>
+			<title>1x05 - El Pistolero</title>
+			<torrent>magnet:?xt=urn:btih:A54C119C32602BD76849A599CD25261F136FC037</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1HDTV, "
+			<item>
+			<title>1x06 - El Prisionero</title>
+			<torrent>magnet:?xt=urn:btih:7AD420E62A55062AD3DBE66B7207B7D919BE7E97</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1HDTV, "
+			<item>
+			<title>1x07 - Ajuste de Cuentas</title>
+			<torrent>magnet:?xt=urn:btih:0E909F3B809A929432840E91294D1B2C60DF7362</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1HDTV, "
+			<item>
+			<title>1x08 - Redención [COLOR red](HDTV)</title>
+			<torrent>magnet:?xt=urn:btih:49B8237DD57FF102CBABBF9BB1C6E4A533F76755</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2HDTV, "
+			<item>
+			<title>2x01 - El Marshal</title>
+			<torrent>magnet:?xt=urn:btih:220C78C78699DFEF302FF18694AD8EA374D23D1E</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2HDTV, "
+			<item>
+			<title>2x02 - La Pasajera</title>
+			<torrent>magnet:?xt=urn:btih:519E7477ED35824177ED0C96562D4CC534342AE7</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2HDTV, "
+			<item>
+			<title>2x03 - La Heredera</title>
+			<torrent>magnet:?xt=urn:btih:A7B6BED479D840E119B1690A83ADF4B9CCDA0FCA</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2HDTV, "
+			<item>
+			<title>2x04 - El Asedio</title>
+			<torrent>magnet:?xt=urn:btih:E1B4CE860A7ECA8FB4A173306D26EB78B74B5923</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2HDTV, "
+			<item>
+			<title>2x05 - La Jedi</title>
+			<torrent>magnet:?xt=urn:btih:DE09BD88229D2A9DEB5559FEC3BAB40345E54944</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2HDTV, "
+			<item>
+			<title>2x06 - La Tragedia</title>
+			<torrent>magnet:?xt=urn:btih:22656A01785656B5986EBD2C433CC1E5E8BC4634</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2HDTV, "
+			<item>
+			<title>2x07 - El Creyente</title>
+			<torrent>magnet:?xt=urn:btih:DF537020D551F0563390C3CF2D08285726F3D375</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2HDTV, "
+			<item>
+			<title>2x08 - El Rescate</title>
+			<torrent>magnet:?xt=urn:btih:49B8237DD57FF102CBABBF9BB1C6E4A533F76755</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================

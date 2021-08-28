@@ -1,0 +1,44 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ STEP UP: HIGH WATER
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"STEP UP: HIGH WATER", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/bVDqZel55ftDJfi5NY0t56djE5Y.jpg",
+	- 1SerieTitle:"STEP UP: HIGH WATER", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/yuao6AxkTXoetnQGUOE3JJO24Zb.jpg",
+
+	
+-->
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 a 5</title>      
+			<torrent>magnet:?xt=urn:btih:54E07821973232007E16A72F228D01950FD8FA8D</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 6 a 10</title>      
+			<torrent>magnet:?xt=urn:btih:A060DD71D081B11A5D572FBAEF55A5F1B78D587F</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - Capitulos 1 a 5</title>      
+			<torrent>magnet:?xt=urn:btih:D5A59B47A3FA69C7E8C6ADF8FA7E308868B2C4D6</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - Capitulos 6 a 10</title>      
+			<torrent>magnet:?xt=urn:btih:352736ADD0E9C07E44D5931A19FA76B5A3E2BD15</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
