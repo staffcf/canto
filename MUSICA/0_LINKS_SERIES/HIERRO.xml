@@ -1,0 +1,66 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ HIERRO
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"HIERRO", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/9jXYcixwjsME1hVOzsojaHYQSwn.jpg",
+	- 1SerieTitle:"HIERRO", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/mPCtR4myjwWtrlEoKDn3eOZ2yDf.jpg",
+
+	
+-->
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 a 8</title>      
+			<torrent>magnet:?xt=urn:btih:C634AFCBEAE55401996C3029A75E34F994A8545C</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x01 - Capitulo 1</title> 
+			<torrent>magnet:?xt=urn:btih:4AF5CA13AE9458DA001E7F67E2E46279F3F891EF</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x02 - Capitulo 2</title>     
+			<torrent>magnet:?xt=urn:btih:007F52CE7EA13E479C596267C71647BCD650C474</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x03 - Capitulo 3</title>  
+			<torrent>magnet:?xt=urn:btih:B415383EE55A9564322E41AA8F2B3F3771A2E626</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x04 - Capitulo 4</title>    
+			<torrent>magnet:?xt=urn:btih:715D268B695F4DD4549D3241565B88CC298C7FD6</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x05 - Capitulo 5</title> 
+			<torrent>magnet:?xt=urn:btih:FB71A29B9AF1161584FCC5F60693A882AE34F7AD</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x06 - Capitulo 6</title>  
+			<torrent>magnet:?xt=urn:btih:ECE98FD4D54B4837E8F1A534CFE9C4EA832D3506</torrent>
+			</item>
+======================================================================
+=====================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================

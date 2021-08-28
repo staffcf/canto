@@ -1,0 +1,470 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ LAS CHICAS DEL CABLE
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"LAS CHICAS DEL CABLE", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/tVzN7TJvUc4B0dxoZPukXtVNsQm.jpg",
+	- 1SerieTitle:"LAS CHICAS DEL CABLE", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/oJtJ3cUMliSFrCgr9wmY15PG644.jpg",
+	- 1SerieTitle:"LAS CHICAS DEL CABLE", SerieTemp:"TEMPORADA 3", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/iMf2LpEsVWXIuYcvb1VwvXMx9bZ.jpg",
+	- 1SerieTitle:"LAS CHICAS DEL CABLE", SerieTemp:"TEMPORADA 4", SerieID:"SERIETEMP4", SerieIDT:"TORRENTTEMP4", SerieThumbail:"https://www.themoviedb.org/t/p/original/keaY0N4oJI1P2GnxuksSWOpPYYw.jpg",
+	- 1SerieTitle:"LAS CHICAS DEL CABLE", SerieTemp:"TEMPORADA 5", SerieID:"SERIETEMP5", SerieIDT:"TORRENTTEMP5", SerieThumbail:"https://www.themoviedb.org/t/p/original/vOaiWhBzT6PPC9AXhBq8VOOzOF1.jpg",
+	
+-->
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag=1, "
+			<item>
+			<title> - Capitulo 1</title>      
+			<torrent>magnet:?xt=urn:btih:16840651CE79BCC352DEA51D4A2978D8EFADD5C4</torrent>
+			</item>
+======================================================================
+			"Tag=1, "
+			<item>
+			<title> - Capitulos 2 a 8</title>      
+			<torrent>magnet:?xt=urn:btih:4699A28D4AB70110A0C94F5013CD5F1467422370</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - Capitulos 1 a 8</title>      
+			<torrent>magnet:?xt=urn:btih:CF3ED604144CF4AE7DD461F02A3DE7768FDCCE07</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - </title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - Capitulos 1 a 8</title>      
+			<torrent>magnet:?xt=urn:btih:F6F097F814A2B7E5ADFD09BAA3D3DF9792414CD2</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - Capitulos 1 a 8</title>      
+			<torrent>magnet:?xt=urn:btih:AE9FFFACFE51B191FA1EEDC3EC7CB0B648347F00</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title> - Capitulos 1 a 4</title>      
+			<torrent>magnet:?xt=urn:btih:6B3254D0ED085BB540A6C3BFF682A84155833BF2</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>Calidad 720 - Capitulos 5 a 8</title>      
+			<torrent>magnet:?xt=urn:btih:B41869E34CDEA4563797F479C5A8A745F9122102</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title> - </title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title> - Capitulos 1 a 4</title>      
+			<torrent>magnet:?xt=urn:btih:49C7A6A859C5DA6262F8EA344E1A207EF6AA322E</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title> - Capitulos 5 a 8</title>      
+			<torrent>magnet:?xt=urn:btih:33290456BCB0F2CD947C8A7387C26D88AFBA09E4</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title> - Capitulos 1 a 5</title>      
+			<torrent>magnet:?xt=urn:btih:086FAE9C067B0F64CB899A47E0E9D6F5E8C327AB</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title> - Capitulos 6 a 10</title>      
+			<torrent>magnet:?xt=urn:btih:BB4121FC7D57B1CF0C5FDF35E66D64B99746BA7B</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title> - </title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title> - Capitulos 1 a 5</title>      
+			<torrent>magnet:?xt=urn:btih:0DD5BA2824CFCC1EDF3CDE6F3F907BDF9215C70D</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title> - Capitulos 6 a 10</title>      
+			<torrent>magnet:?xt=urn:btih:63419F36A3A5A11A1960C13061542859AA894DEE</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x01 - Los sueños</title>      
+			<torrent>magnet:?xt=urn:btih:F0FA8F31F0ECD54ED7BFE733ABCE75EB09E00923</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x02 -  Los recuerdos</title>      
+			<torrent>magnet:?xt=urn:btih:B57DB334CF8CEC35633D5DA41867754E940413C3</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x03 - Las mentiras</title>      
+			<torrent>magnet:?xt=urn:btih:5304E440F1EB5DA03879741AE8653B804A80BCCE</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x04 - Los sentimientos</title>     
+			<torrent>magnet:?xt=urn:btih:E207E65AB054D7924F1160CEFC9B5A411A88A025</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x05 - El pasado</title> 
+			<torrent>magnet:?xt=urn:btih:46FEFC44D4C997140D91775C808D6929693DD36A</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x06 - La familia</title>      
+			<torrent>magnet:?xt=urn:btih:FC9357C6FDE1DE16474359FC419563C7532EA61D</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x07 - La pérdida</title>      
+			<torrent>magnet:?xt=urn:btih:FDAE73E4AAE271C510E851D47DFEBC63D4593E0C</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x08 - El amor</title>      
+			<torrent>magnet:?xt=urn:btih:B8AE07C999A41AABF29F870606D9BE0A2CD2CB74</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - </title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x01 - La elección</title>      
+			<torrent>magnet:?xt=urn:btih:86BA1420F0DF7CE33A93E12415E0DBDFC0098F6C</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x02 - El pacto</title>      
+			<torrent>magnet:?xt=urn:btih:29BDE34BE7C62CB02201A8AA76A992C86C8F4A29</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x03 - Los celos</title>    
+			<torrent>magnet:?xt=urn:btih:0261B13A45B54B5744C3337ED1090298D816B909</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x04 - La culpa</title>    
+			<torrent>magnet:?xt=urn:btih:105DF06BF4C5180CC73F3AD4046F28ADBABC9AB2</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x05 - Los secretos</title> 
+			<torrent>magnet:?xt=urn:btih:692A70A8F4BC2BB3E46DDCF54C37A440766C16F8</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x06 - La soledad</title>     
+			<torrent>magnet:?xt=urn:btih:D812FEE7A69F130A81121A278B3B8628918380D8</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x07 - Las oportunidades</title>  
+			<torrent>magnet:?xt=urn:btih:1BA8DBBE8600E2C4F8C6051E6E6737F109F4E909</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x08 - La inocencia</title>     
+			<torrent>magnet:?xt=urn:btih:B5041B4598D4AF80DCDFCB0A8F629D093047C955</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - </title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x01 - El tiempo</title>   
+			<torrent>magnet:?xt=urn:btih:FA881F3A393BC5027EC3F174DADB91691D8AE2D8</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x02 - La muerte</title>      
+			<torrent>magnet:?xt=urn:btih:69654470E20B015C861983B347F41F55C0FE16D6</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x03 - La verdad</title>      
+			<torrent>magnet:?xt=urn:btih:1CF536612A6ED78FEA5D71B943854C42EC59CA59</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x04 - La venganza</title>      
+			<torrent>magnet:?xt=urn:btih:4F40DF8C7AD9CA0CFFB7A499E19D705EC1CB4F62</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x05 - El pecado</title> 
+			<torrent>magnet:?xt=urn:btih:04010183EB18EDA2F03B689B6B63500619AE9DE8</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x06 - La lucha</title>      
+			<torrent>magnet:?xt=urn:btih:FEF2B94A98F4F6DE4FBB4765F38865F7A887E0FB</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x07 - La esperanza</title>      
+			<torrent>magnet:?xt=urn:btih:AE6B4E487F6591CDD744306D8049271EDE8EC792</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x08 - El destino</title>   
+			<torrent>magnet:?xt=urn:btih:2A6F0EA223D841CF7C4543D995A62CE5450B72B4</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title> - </title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x01 - La igualdad</title>      
+			<torrent>magnet:?xt=urn:btih:5F98BEF5833CAA655E7040D655B65BA1266F21C9</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x02 - La libertad</title>      
+			<torrent>magnet:?xt=urn:btih:1E4594324277A23BEE86FED71E084CAE32AE846C</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x03 - La justicia</title>      
+			<torrent>magnet:?xt=urn:btih:AA46B5C87EA2C35D20460ED6DA657AD25F2B1224</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x04 - El miedo</title>      
+			<torrent>magnet:?xt=urn:btih:B1FFA00F8322ADB9AF514BDAE4463DEA80DB06D3</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x05 - La vida</title> 
+			<torrent>magnet:?xt=urn:btih:8D930C3710B0CC72BF5A5B3C4876A75AD888884B</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x06 - La duda</title>      
+			<torrent>magnet:?xt=urn:btih:CECEF8433165B32E6FBBF6CF714A3EA3BB8D7479</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x07 - La felicidad</title>     
+			<torrent>magnet:?xt=urn:btih:54FE5691C14427D9C7B39DDB87ADBF2B3A7BD9DF</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x08 - La suerte</title>      
+			<torrent>magnet:?xt=urn:btih:A2647F8D4E41400E079E4BABD4BD633173EA5BAE</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title> - </title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x01 - La guerra</title>      
+			<torrent>magnet:?xt=urn:btih:56A9EE60AAD6C4EC93BC05B811246A0BDC30E704</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x02 - El odio</title>      
+			<torrent>magnet:?xt=urn:btih:A8B114A588A3B7AB2B721D7A1D9F480BB7DEB3F2</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x03 - El valor</title>   
+			<torrent>magnet:?xt=urn:btih:621162690082ABE2F0FA1055ACC473D80ADA6C16</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x04 - El control</title>   
+			<torrent>magnet:?xt=urn:btih:9FFC842948ECCF247A0045F2CF6E2B91B6BC2D71</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x05 - La locura</title> 
+			<torrent>magnet:?xt=urn:btih:14BD5F939A9EF96B1B6801A32E1F7DF7CC9F6DCA</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x0. - Capitulos 6 a 10</title>      
+			<torrent>magnet:?xt=urn:btih:63419F36A3A5A11A1960C13061542859AA894DEE</torrent>
+			</item>
+======================================================================
+======================================================================
