@@ -1,0 +1,39 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ El Corazon De Sergio Ramos
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"El Corazon De Sergio Ramos", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/v26uNtj4CyB1iP4DR6WJyCjHZtF.jpg",
+	- 1SerieTitle:"La Leyenda De Sergio Ramos", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/nlrsve2ux4sZDFaRjEFYm1grh75.jpg",
+
+	
+-->
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 a 8</title>      
+			<torrent>magnet:?xt=urn:btih:7D017B1DC0267C6E36D57968B0D6A5DF66CBC4D2</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - Capitulos 1 a 4</title><titleGdrive></titleGdrive>      
+			<torrent>magnet:?xt=urn:btih:49989A2B308DFCA52CEBC9EC751D06EE220596EF</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - Capitulos 5 y 6</title><titleGdrive></titleGdrive>      
+			<torrent>magnet:?xt=urn:btih:6B4DBD4C65DFDEB08B35C008C960A7915D0822BA</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================

@@ -1,0 +1,82 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ FERNANDO
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"FERNANDO", SerieTemp:"TEMPORADA 1", SerieID:"FERNANDOTEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/yrBJiaGFQQ59X6Hvq6f7gxR8BbQ.jpg",
+	- 1SerieTitle:"FERNANDO", SerieTemp:"TEMPORADA 2", SerieID:"ENLACESTEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://cinemagavia.es/wp-content/uploads/2021/08/Fernando-3.jpg",
+	
+-->
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 a 5</title>      
+			<torrent>magnet:?xt=urn:btih:53A897619FB5D0726E0D189CC64EF54618B5A984</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 a 5</title>      
+			<torrent>magnet:?xt=urn:btih:C76F30ED9180824C95E85D5F8B646179F04864E4&dn=HDTV</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - Capitulos 1 a 4</title>      
+			<torrent>magnet:?xt=urn:btih:4AA81D48EA89DED0E6FCCDB90237247A1EF07106</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - Capitulos 1 a 4</title>      
+			<torrent>magnet:?xt=urn:btih:F84216D5ABBC2D2B757E81827736D40F73EFDC93&dn=HDTV</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
