@@ -1,0 +1,695 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ELITE
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"ELITE", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/w81eLVq1pBpztPrJq0RowqNDhLk.jpg",
+	- 1SerieTitle:"ELITE", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/80v0cwXwMZkpvkkzxrn8KN7mOwM.jpg", 
+	- 1SerieTitle:"ELITE", SerieTemp:"TEMPORADA 3", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/3NTAbAiao4JLzFQw6YxP1YZppM8.jpg", 
+	- 1SerieTitle:"ELITE", SerieTemp:"TEMPORADA 4", SerieID:"SERIETEMP4", SerieIDT:"TORRENTTEMP4", SerieThumbail:"https://www.themoviedb.org/t/p/original/8fcYtdB6HLP7gsj46OKZ24PjC1g.jpg",
+	
+	- 1SerieTitle:"", SerieTemp:"", SerieID:"", erieIDT:"", SerieThumbail:"https://www.themoviedb.org/t/p/original/u4yfu7i4G1nLA6Njl7tETI1RThC.jpg",
+	- 1SerieTitle:"HISTORIAS BREVES", SerieTemp:"CARLA SAMUEL", SerieID:"SERIEHISTORIASCORTAS1", erieIDT:"TORRENTHISTORIASCORTAS1", SerieThumbail:"https://static.seriesflix.io/2021/06/elite-historias-breves-carla-samuel-73071-poster.jpg",
+	- 1SerieTitle:"HISTORIAS BREVES", SerieTemp:"OMAR ANDER ALEXIS", SerieID:"SERIEHISTORIASCORTAS2", erieIDT:"TORRENTHISTORIASCORTAS2", SerieThumbail:"https://static.seriesflix.io/2021/06/elite-historias-breves-omar-ander-alexis-72998-poster.jpg",
+	- 1SerieTitle:"HISTORIAS BREVES", SerieTemp:"GUZMAN CAYE REBE", SerieID:"SERIEHISTORIASCORTAS3", erieIDT:"TORRENTHISTORIASCORTAS3", SerieThumbail:"https://static.seriesflix.io/2021/06/Serie-Elite-Historias-Breves-Nadia-Guzman-Online.jpg",
+	- 1SerieTitle:"HISTORIAS BREVES", SerieTemp:"NADIA GUZMAN", SerieID:"SERIEHISTORIASCORTAS4", erieIDT:"TORRENTHISTORIASCORTAS4", SerieThumbail:"https://static.seriesflix.io/2021/06/elite-historias-breves-nadia-guzman-72770-poster.jpg",
+	
+-->
+
+
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title><titleGdrive></titleGdrive>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 a 8</title><titleGdrive></titleGdrive>      
+			<torrent>magnet:?xt=urn:btih:137B9903324C4E79CEC6BB54666A941765F1400F<</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title><titleGdrive></titleGdrive>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title><titleGdrive></titleGdrive>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 a 8</title><titleGdrive></titleGdrive>      
+			<torrent>magnet:?xt=urn:btih:17716EE87267FAFD443CE1AD27D9FB5B063D806E</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title><titleGdrive></titleGdrive>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - Capitulos 1 a 8</title><titleGdrive></titleGdrive>      
+			<torrent>magnet:?xt=urn:btih:135F5B24DD82C232AD038D77ED5EB2154FE245A6</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title><titleGdrive></titleGdrive>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - Capitulos 1 a 8</title><titleGdrive></titleGdrive>      
+			<torrent>magnet:?xt=urn:btih:8AB1A8BD32CE54714EDCF670FD2C4C257E0AC711</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - </title><titleGdrive></titleGdrive>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title><titleGdrive></titleGdrive>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - Capitulos 1 a 8</title><titleGdrive></titleGdrive>      
+			<torrent>magnet:?xt=urn:btih:DCD2B1BF8C1833235BE498816C626B4E6D7022D2</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title> - Capitulos 1 a 4</title>
+			<torrent>magnet:?xt=urn:btih:73625D56F4593F342454C3992437635DCDADD16A&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title> - Capitulos 5 a 8</title>
+			<torrent>magnet:?xt=urn:btih:A2AE3DBEC14BC005A14E4CF518EC22FD44FA8B47&dn=HDTV</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title><titleGdrive></titleGdrive>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title><titleGdrive></titleGdrive>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP1, TORRENTTEMP1, "
+			<item>
+			<title>1X01 - Bienvenidos</title><titleGdrive></titleGdrive>  
+			<link>https://femax20.com/v/8ne4-h8x53q4y-5</link>  
+			<link2>https://femax20.com/v/81l2zs8050jwjgn</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent>magnet:?xt=urn:btih:c86c6ed500ded034952b384fded907b33342aee0</torrent> 
+			</item>
+======================================================================
+			"Tag= SERIETEMP1, TORRENTTEMP1, "
+			<item>
+			<title>1X02 - Deseo</title><titleGdrive></titleGdrive>   
+			<link>https://femax20.com/v/pz8jpimgnzw6kp5</link>  
+			<link2>https://femax20.com/v/2625zf21-17nw4m</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent>magnet:?xt=urn:btih:22ac292ff8a7bcd42e272330ddfcdd6cb831935a</torrent>  
+			</item>
+======================================================================
+			"Tag= SERIETEMP1, TORRENTTEMP1, "
+			<item>
+			<title>1X03 - Sabado noche</title><titleGdrive></titleGdrive>      
+			<link>https://femax20.com/v/qm851tegprm741y</link>  
+			<link2>https://femax20.com/v/-261xspgrg00n20</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent>magnet:?xt=urn:btih:52a8ca5f1deb0560c012be00f7f7d5f062bfab3d</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP1, TORRENTTEMP1, "
+			<item>
+			<title>1X04 - El amor es una droga</title><titleGdrive></titleGdrive> 
+			<link>https://femax20.com/v/3ezd-imxdn21p28</link>  
+			<link2>https://femax20.com/v/lj6wmfn3l3kr-8d</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent>magnet:?xt=urn:btih:3a8733da99c3776cefea3d8f961fe1a56e3d9e61</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP1, TORRENTTEMP1, "
+			<item>
+			<title>1X05 - Todos mienten</title><titleGdrive></titleGdrive>  
+			<link>https://femax20.com/v/dnm0lhxrpg4zjgl</link>  
+			<link2>https://femax20.com/v/6rne2f08q86zgxy</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent>magnet:?xt=urn:btih:c7d6cfa538840a27222774505cb266b3c8505e46</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP1, TORRENTTEMP1, "
+			<item>
+			<title>1X06 - Todo va a salir bien</title><titleGdrive></titleGdrive>   
+			<link>https://femax20.com/v/g42-xc-lj3g5mm3</link>  
+			<link2>https://femax20.com/v/dj3pxfxepe6wlex</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent>magnet:?xt=urn:btih:0580e65b19abac00d87bc27ba8bf68e7781de20a</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP1, TORRENTTEMP1, "
+			<item>
+			<title>1X07 - Todo estalla</title><titleGdrive></titleGdrive>    
+			<link>https://femax20.com/v/x8wlef58x6y738w</link>  
+			<link2>https://femax20.com/v/p4n0mtmene2513k</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent>magnet:?xt=urn:btih:5e83d5ebd0e2add25a5a46e47f505140c17b256c</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP1, TORRENTTEMP1, "
+			<item>
+			<title>1X08 - Assilah</title><titleGdrive></titleGdrive>   
+			<link>https://femax20.com/v/685p-f0wqyp2x8l</link>  
+			<link2>https://femax20.com/v/q6nepfejpjxkqjj</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent>magnet:?xt=urn:btih:6bfe1bdc77f746cfe8f832fd2d596e576ed39acb</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - </title><titleGdrive></titleGdrive>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title><titleGdrive></titleGdrive>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP2, TORRENTTEMP2, "
+			<item>
+			<title>2x01 - 20 horas desaparecido</title><titleGdrive></titleGdrive>   
+			<link>https://femax20.com/v/1512-bj2gl82rj0</link>  
+			<link2>https://femax20.com/v/6rne2f08q860exy</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent>magnet:?xt=urn:btih:bf54dee9cb4064bf339c51bb189a3e0b4b6538d9</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP2, TORRENTTEMP2, "
+			<item>
+			<title>2x02 - 34 horas desaparecido</title><titleGdrive></titleGdrive> 
+			<link>https://femax20.com/v/k0856b3gn7qgmmk</link>  
+			<link2>https://femax20.com/v/zmpwehjd7d3qk78</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent>magnet:?xt=urn:btih:efd25d56211e6a63a2450a8a32f0b9a61737d65c</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP2, TORRENTTEMP2, "
+			<item>
+			<title>2x03 - 36 horas desaparecido</title><titleGdrive></titleGdrive> 
+			<link>https://femax20.com/v/8ne4-h8x53jx8wd</link>  
+			<link2>https://femax20.com/v/4dnqzszekegmzyd</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent>magnet:?xt=urn:btih:f076fa968c2f838573daad8d14632325ed1f5ddd</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP2, TORRENTTEMP2, "
+			<item>
+			<title>2x04 - 59 horas desaparecido</title><titleGdrive></titleGdrive>   
+			<link>https://femax20.com/v/x8wlef58x6-84-7</link>  
+			<link2>https://femax20.com/v/14rqktjmgmxp8gg</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent>magnet:?xt=urn:btih:00c4e548a46b36fbd534772eeebb590cd17c6fe4</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP2, TORRENTTEMP2, "
+			<item>
+			<title>2x05 - 63 horas desaparecido</title><titleGdrive></titleGdrive>  
+			<link>https://femax20.com/v/r28wkteg256g6z6</link>  
+			<link2>https://femax20.com/v/50ne2tdz2z-1k5r</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent>magnet:?xt=urn:btih:44974ffe3bdb5b62d95806ca2f8b703734068aef</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP2, TORRENTTEMP2, "
+			<item>
+			<title>2x06 - 66 horas desaparecido</title><titleGdrive></titleGdrive>  
+			<link>https://femax20.com/v/3ezd-imxdnwx21-</link>  
+			<link2>https://femax20.com/v/50ne2tdz2z-lrlj</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent>magnet:?xt=urn:btih:7d11fce94e7011fd5bc72c1c341d43ef1f7e5a43</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP2, TORRENTTEMP2, "
+			<item>
+			<title>2x07 - 84 horas desaparecido</title><titleGdrive></titleGdrive> 
+			<link>https://femax20.com/v/jd854sdgn8xgw15</link>  
+			<link2>https://femax20.com/v/r7nepsez2z3nn8d</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent>magnet:?xt=urn:btih:cf9e70f1766c3dea8d4828f1ef57f5bead28a959</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP2, TORRENTTEMP2, "
+			<item>
+			<title>2x08 - 0 horas desaparecido</title><titleGdrive></titleGdrive>    
+			<link>https://femax20.com/v/dnm0lhxrpg6ry67</link>  
+			<link2>https://femax20.com/v/w1n2ksnzpz1y-e6</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent>magnet:?xt=urn:btih:d0150749d14de148fd7ef4add91984786a1cc806</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - </title><titleGdrive></titleGdrive>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title><titleGdrive></titleGdrive>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP3, TORRENTTEMP3, "
+			<item>
+			<title>3x01 - Carla</title><titleGdrive></titleGdrive>   
+			<link>https://femax20.com/v/685p-f0wqyz08r1</link>  
+			<link2>https://femax20.com/v/jj3rmfd3n3xlrn3</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent>magnet:?xt=urn:btih:b2e98a45e0a683c8b6b285293bb24f39ca9473e6</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP3, TORRENTTEMP3, "
+			<item>
+			<title>3x02 - Samuel y Guzmán</title><titleGdrive></titleGdrive>    
+			<link>https://femax20.com/v/r28wkteg25jezl-</link>  
+			<link2>https://femax20.com/v/lj6wmfn3l3k46-j</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent>magnet:?xt=urn:btih:c51b2ebf2853ebff35cd0f1f4946d7d04f7e7de4</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP3, TORRENTTEMP3, "
+			<item>
+			<title>3x03 - Cayetana y Valerio</title><titleGdrive></titleGdrive>      
+			<link>https://femax20.com/v/n1-50s2jd8q23pl</link>  
+			<link2>https://femax20.com/v/2625zf21-175d0g</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent>magnet:?xt=urn:btih:b1c2f31a2af94344507d9550509c068e250def75</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP3, TORRENTTEMP3, "
+			<item>
+			<title>3x04 - Lu</title><titleGdrive></titleGdrive>     
+			<link>https://femax20.com/v/wx8ylbngpk8nm5p</link>  
+			<link2>https://femax20.com/v/4dnqzszekel-6gz</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent>magnet:?xt=urn:btih:1bebc2f7c83a6c88a404ec8be4ad52c51de72880</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP3, TORRENTTEMP3, "
+			<item>
+			<title>3x05 - Ander</title><titleGdrive></titleGdrive>   
+			<link>https://femax20.com/v/1512-bj2gl6j38q</link>  
+			<link2>https://femax20.com/v/nj2wmf21d1qzjxq</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent>magnet:?xt=urn:btih:df374becea7b19966bc5d85880682ae23d666d6f</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP3, TORRENTTEMP3, "
+			<item>
+			<title>3x06 - Rebeca</title><titleGdrive></titleGdrive>      
+			<link>https://femax20.com/v/3ezd-imxdn4mm-5</link>  
+			<link2>https://femax20.com/v/kj4zmf3ene-dnkr</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent>magnet:?xt=urn:btih:c5ee71e45122222ec73c15a77633d8a3a4ecc1dd</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP3, TORRENTTEMP3, "
+			<item>
+			<title>3x07 - Nadia y Omar</title><titleGdrive></titleGdrive>   
+			<link>https://femax20.com/v/dnm0lhxrpgnxxmz</link>  
+			<link2>https://femax20.com/v/zmpwehjd7de0j5z</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent>magnet:?xt=urn:btih:2c2993ec2f88f2a0338ef344673687d679482443</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP3, TORRENTTEMP3, "
+			<item>
+			<title>3x08 - Polo</title><titleGdrive></titleGdrive>    
+			<link>https://femax20.com/v/jd854sdgn81dk1d</link>  
+			<link2>https://femax20.com/v/6rne2f08q8z-wp5</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent>magnet:?xt=urn:btih:5641f4f2103ff679f420d4f990046c2582d74b88</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title> - Capitulos 1 a 8</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title> - Capitulos 1 a 8</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= SERIETEMP4, TORRENTTEMP4, "
+			<item>
+			<title>4x01 - El nuevo orden</title>
+			<link>https://femax20.com/v/4ym0-bz6k1edx-p</link>  
+			<link2>https://femax20.com/v/026rmslg6jq8y56</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP4, TORRENTTEMP4, "
+			<item>
+			<title>4x02 - 5 segundos</title>
+			<link>https://femax20.com/v/qm851tegprj50e3</link>  
+			<link2>https://femax20.com/v/ej4xyf-nyj727me</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP4, TORRENTTEMP4, "
+			<item>
+			<title>4x03 - Cuando bailan las mentiras con las tentaciones</title>
+			<link>https://femax20.com/v/n1-50s2jd865jkw</link>  
+			<link2>https://femax20.com/v/dj3pxfxrp2zdw20</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP4, TORRENTTEMP4, "
+			<item>
+			<title>4x04 - Soy una...</title>
+			<link>https://femax20.com/v/8ne4-h8x53zd7ml</link>  
+			<link2>https://femax20.com/v/14rqktj2geewl13</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP4, TORRENTTEMP4, "
+			<item>
+			<title>4x05 - La reinserción</title>
+			<link>https://femax20.com/v/lr-57cnjlg2mezy</link>  
+			<link2>https://femax20.com/v/3710ysmxd5n5pnl</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP4, TORRENTTEMP4, "
+			<item>
+			<title>4x06 - Te quiero mal</title>
+			<link>https://femax20.com/v/mp85df5-ydnqmzg</link>  
+			<link2>https://femax20.com/v/6rne2f0wqy-m871</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP4, TORRENTTEMP4, "
+			<item>
+			<title>4x07 - Antes de irme (1ª parte)</title>
+			<link>https://femax20.com/v/e-qreb-nypejk8m</link>  
+			<link2>https://femax20.com/v/6rne2f0wqyqzgg3</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP4, TORRENTTEMP4, "
+			<item>
+			<title>4x08 - Antes de irme (2ª parte)</title>
+			<link>https://femax20.com/v/jd854sdgn8jr687</link>  
+			<link2>https://femax20.com/v/4dnqzsz6k1213rw</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent></torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+<!--
+HISTORIAS CORTAS
+-->
+======================================================================
+			"Tag= SERIEHISTORIASCORTAS1, TORRENTHISTORIASCORTAS1, "
+			<item>
+			<title>1x01 - Carla Samuel</title>
+			<link>https://femax20.com/v/pz8jpimgnz051g0</link>  
+			<link2>https://femax20.com/v/q6nepfegpjq3krx</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= SERIEHISTORIASCORTAS1, TORRENTHISTORIASCORTAS1, "
+			<item>
+			<title>1x02 - Carla Samuel</title>
+			<link>https://femax20.com/v/jd854sdgn8kjgyy</link>  
+			<link2>https://femax20.com/v/-261xsp1rgelm6-</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= SERIEHISTORIASCORTAS1, TORRENTHISTORIASCORTAS1, "
+			<item>
+			<title>1x03 - Carla Samuel</title>
+			<link>https://femax20.com/v/-kdmyfp1rn5m1ry</link>  
+			<link2>https://femax20.com/v/lj6wmfnjl3-p551</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent></torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= SERIEHISTORIASCORTAS2, TORRENTHISTORIASCORTAS2, "
+			<item>
+			<title>1x01 - Omar Ander Alexis</title>
+			<link>https://femax20.com/v/ygxlyae3klz4zy5</link>  
+			<link2>https://femax20.com/v/-261xsp1r071e2w</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= SERIEHISTORIASCORTAS2, TORRENTHISTORIASCORTAS2, "
+			<item>
+			<title>1x02 - Omar Ander Alexis</title>
+			<link>https://femax20.com/v/n1-50s2jd8-w-qz</link>  
+			<link2>https://femax20.com/v/xkxrzi58x-d807-</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= SERIEHISTORIASCORTAS2, TORRENTHISTORIASCORTAS2, "
+			<item>
+			<title>1x03 - Omar Ander Alexis</title>
+			<link>https://femax20.com/v/zn8lxhjg70rw2m2</link>  
+			<link2>https://femax20.com/v/nj2wmf2jdyej8gl</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent></torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= SERIEHISTORIASCORTAS3, TORRENTHISTORIASCORTAS3, "
+			<item>
+			<title>1x01 - Guzmán Caye Rebe</title>
+			<link>https://femax20.com/v/pz8jpimgnzmmx06</link>  
+			<link2>https://femax20.com/v/yzr-nse351lxqn2</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= SERIEHISTORIASCORTAS3, TORRENTHISTORIASCORTAS3, "
+			<item>
+			<title>1x02 - Guzmán Caye Rebe</title>
+			<link>https://femax20.com/v/8ne4-h8x53886gj</link>  
+			<link2>https://femax20.com/v/q6nepfegz3r5mxr</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= SERIEHISTORIASCORTAS3, TORRENTHISTORIASCORTAS3, "
+			<item>
+			<title>1x03 - Guzmán Caye Rebe</title>
+			<link>https://femax20.com/v/mp85df5-yd557rj</link>  
+			<link2>https://femax20.com/v/kj4zmf3gd172z24</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent></torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= SERIEHISTORIASCORTAS4, TORRENTHISTORIASCORTAS4, "
+			<item>
+			<title>1x01 - Nadia Guzmán</title>
+			<link>https://femax20.com/v/e-qreb-nyp-mr3-</link>  
+			<link2>https://femax20.com/v/4dnqzsz6-q4m5yy</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= SERIEHISTORIASCORTAS4, TORRENTHISTORIASCORTAS4, "
+			<item>
+			<title>1x02 - Nadia Guzmán</title>
+			<link>https://femax20.com/v/2lk7-b20-z2m873</link>  
+			<link2>https://femax20.com/v/50ne2tdjrl73knn</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= SERIEHISTORIASCORTAS4, TORRENTHISTORIASCORTAS4, "
+			<item>
+			<title>1x03 - Nadia Guzmán</title>
+			<link>https://femax20.com/v/mp85df5-yd5gy3d</link>  
+			<link2>https://femax20.com/v/w1n2ksng5y6ej0e</link2>  
+			<link3>https://vidia.tv/NO_LINK</link3>  
+			<link4>https://vidia.tv/NO_LINK</link4>  
+			<link5>https://vidia.tv/NO_LINK</link5>
+			<torrent></torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
