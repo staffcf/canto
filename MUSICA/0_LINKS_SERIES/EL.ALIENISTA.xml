@@ -1,0 +1,44 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ EL ALIENISTA
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"EL ALIENISTA", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/bBNIPM3j0xt6TILP6Hy8j3UYLjA.jpg",
+	- 1SerieTitle:"EL ALIENISTA", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/1qzuS7b2XjiVcWwmDkOyE5hIxUM.jpg",
+
+	
+-->
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulo 1</title>      
+			<torrent>magnet:?xt=urn:btih:3CE7707E94EF9CD35BD043B0F10B4A0F17DF6A8B</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulo 2</title>      
+			<torrent>magnet:?xt=urn:btih:564E5FC5F0318247A1AB78CF83C76B27EF4F39B0</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 3 a 10</title>      
+			<torrent>magnet:?xt=urn:btih:4290A1B88BCDB8A4268276354CF7C08789148661</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - Capitulos 1 a 8</title>      
+			<torrent>magnet:?xt=urn:btih:650C13AF758F78FAB16D521F5795411434FEBA0A</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================

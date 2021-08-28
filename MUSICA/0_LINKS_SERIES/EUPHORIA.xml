@@ -1,0 +1,82 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ EUPHORIA
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"EUPHORIA", SerieTemp:"ESPECIALES", SerieID:"ERIEESPECIAL", SerieIDT:"TORRENTESPECIAL", SerieThumbail:"https://www.themoviedb.org/t/p/original/5mi3aRl16yKmfpQJMzvqN5TXkdA.jpg",
+	- 1SerieTitle:"EUPHORIA", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/5mi3aRl16yKmfpQJMzvqN5TXkdA.jpg",
+
+	
+-->
+======================================================================
+			"Tag= TORRENTESPECIAL, "
+			<item>
+			<title>0x01 - Los problemas no duran siempre</title>   
+			<torrent>magnet:?xt=urn:btih:B2AF50D7BEE185A25B7B45DF1060227A69806A57</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTESPECIAL, "
+			<item>
+			<title>0x02 - F*ck Cualquiera que no sea una gota de mar</title>   
+			<torrent>magnet:?xt=urn:btih:029A9D2DB0B1B02221B6AAC4E1CC733490B37EF6</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x01 - Piloto</title>      
+			<torrent>magnet:?xt=urn:btih:873524275EBA3560AB402440BD1382B1ABAEDA18</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x02 - Fardando</title>     
+			<torrent>magnet:?xt=urn:btih:2CE472768BD13B2874405C96A3C5B692DA1B2C34</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x03 - Has mirado</title>   
+			<torrent>magnet:?xt=urn:btih:F614BD6735545C86DC234BB03038B35AF8DDD1F0</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x04 - Los que van de duros - 2ª parte</title>  
+			<torrent>magnet:?xt=urn:btih:15C1C9A2F4A3996CBD1ABA106AA72551D8291724</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x05 - Bonnie y Clyde</title> 
+			<torrent>magnet:?xt=urn:btih:8BC996A0CBD04E7E9C22F3759D4496D9776E6966</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x06 - El siguiente episodio</title>   
+			<torrent>magnet:?xt=urn:btih:211FC97C6E07E1CB4401D7201C47D334809873B7</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x07 - Las vicisitudes de intentar mear deprimida</title>   
+			<torrent>magnet:?xt=urn:btih:5D457496BDC9EDF3BD45CF9793A822212E09AE99</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x08 - Echar sal a tu paso</title>      
+			<torrent>magnet:?xt=urn:btih:ff5036e12e2075427328926b8dc911cd54203ecb</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
