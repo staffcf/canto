@@ -267,6 +267,10 @@ Title:SIN CITY, SagaID:SinCity, Imagen:https://i.pinimg.com/originals/01/8a/bb/0
 							-	0Saga, 1SagaTorrent, 
 Title:SINISTER, SagaID:Sinister, Imagen:https://www.themoviedb.org/t/p/original/6b7vaJJmPjrhcILI7L5IPZrZUtN.jpg,
 							-	0Saga, 1SagaTorrent, 
+Title:SISTER ACT, SagaID:SisterAct, Imagen:https://static.wikia.nocookie.net/logopedia/images/a/a0/Sister-act-movie-logo.png/revision/latest/scale-to-width-down/350?cb=20150926224126,
+							-	0Saga, 1SagaTorrent, 
+Title:SOLO EN CASA, SagaID:SoloEnCasa, Imagen:https://cartelescine.files.wordpress.com/2009/01/11.jpg?w=593&h=250&crop=1,	
+							-	0Saga, 1SagaTorrent, 
 Title:SPACE JAM, SagaID:SpaceJam, Imagen:https://vader.news/__export/1589003131377/sites/gadgets/img/2020/05/09/space-jam-2-logo-titulo.jpg_423682103.jpg,	
 							-	0Saga, 1SagaTorrent, 
 Title:SPEED, SagaID:Speed, Imagen:https://i.ytimg.com/vi/u7yEELtCLww/maxresdefault.jpg,		
@@ -23572,7 +23576,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller, Drama, Accion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:ec14a86ff1b8f12abda9398148d6bc45308247a2",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Sicario-El.Dia.Del.Soldado.-2018.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:ec14a86ff1b8f12abda9398148d6bc45308247a2
 				"torrent4k": "magnet:?xt=urn:btih:111D3ADD935F5FA3F8AF50CC41C5C470087944DF"
 				}			
 			]
@@ -28764,7 +28768,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller, Accion, Drama",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:E216C9FB1D54D909DBBF0ED7AC69E911601CFA55&dn=HD1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Sicario.-2015.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:E216C9FB1D54D909DBBF0ED7AC69E911601CFA55&dn=HD1080
 				"torrent4k": "magnet:?xt=urn:btih:08877C0FE1FD91485DB2AF27BC4958F566944D12"
 				}		
 			]
@@ -29407,7 +29411,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Cine negro, Accion, Thriller",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:9A9DD807D8A0D8EAD3F6D3325801520CF984E857&dn=HD720",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Sin.City-Una.dama.por.la.que.matar.-2014.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:9A9DD807D8A0D8EAD3F6D3325801520CF984E857&dn=HD720
 				"torrent4k": ""
 				}		
 			]
@@ -30439,6 +30443,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2012, Letra S, EEUU, Sagas SoloEnCasa, ",
+			"name": "Solo en casa 5 (2012)","coloryear": "deeppink",
+			"image": "https://www.themoviedb.org/t/p/original/qmUcKg4rT9gfTzxks59sFVmTHxw.jpg",
+			"info": "Finn Baxter y su familia se mudan de California a Maine a su nueva casa. Finn está aterrorizado y cree que la casa está embrujada. Mientras que instala trampas para coger al 'fantasma', sus padres se quedan varados en la ciudad y Finn se quedá solo en casa con su hermana. Lo que no esperaban, es que su casa se convierte en el objetivo de tres ladrones en busca de un botín especial",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Solo.en.casa.5.-2012.-.sd.-.CristalAzul.avi.torrent",	magnet:?xt=urn:btih:2C5EA0D016ED3F34EB5ECED296881949A9E1F520&dn=HDRip	magnet:?xt=urn:btih:6A2BA8D0C7091A1973712B08C097C48E1F9DC79C&dn=DVDRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, A2012, Letra S, EEUU, Crimen, Drogas, 1Culto, ",
 			"name": "Spring Breakers (2012)","coloryear": "lightcoral",
 			"image": "https://www.themoviedb.org/t/p/original/w09eZ7FULwjznA9BWi70ohEhAu4.jpg",
@@ -30816,7 +30833,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Intriga, Comedia, Aventuras",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:95865505F46822609CC31EFEEF1080B982FAFAED",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Sherlock.Holmes-Juego.de.Sombras.-2011.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:95865505F46822609CC31EFEEF1080B982FAFAED
 				"torrent4k": "magnet:?xt=urn:btih:7ea72eb61d2251242eab2cf71881016320b71149"
 				}		
 			]
@@ -31680,7 +31697,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Intriga, Aventuras",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:guhhyqfmyhbd35urd6tmdeppyr24jsea",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Sherlock.Holmes.-2009.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:guhhyqfmyhbd35urd6tmdeppyr24jsea
 				"torrent4k": "magnet:?xt=urn:btih:7619F0032AB8E637D55824A2C7BF613591992126"
 				}		
 			]
@@ -33251,7 +33268,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller, Accion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:070C32FFCD2082AC5FF2A5DECBFACBEC8A1D98A8&dn=HD720",   magnet:?xt=urn:btih:b75f9fd70b25198d7ae9212496923005580820a4&HD1080
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Sin.City-Ciudad.del.pecado-.V.Ext.-2005.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:070C32FFCD2082AC5FF2A5DECBFACBEC8A1D98A8&dn=HD720   magnet:?xt=urn:btih:b75f9fd70b25198d7ae9212496923005580820a4&HD1080
 				"torrent4k": ""
 				}		
 			]
@@ -34391,6 +34408,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				{ 
 				"torrent": "magnet:?xt=urn:btih:09C72A3B258E0D72EDCC605C4AC64412760FF760&dn=DVDRip",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Infantil, A2002, Letra S, EEUU, Sagas SoloEnCasa, ",
+			"name": "Solo en casa 4 (2002)","coloryear": "skyblue",
+			"image": "https://www.themoviedb.org/t/p/original/q9BAc2Q37oQWcRlMKUkuRilJ90E.jpg",
+			"info": "Después del reciente divorcio de sus padres, Kevin decide pasar la Navidad en casa de Natalie, la nueva novia de su padre, una casa equipada con la más moderna tecnología. Con la ayuda de esta tecnología y haciendo uso de su habitual ingenio, Kevin deberá hacer frente a unos ladrones, además de intentar conseguir que sus progenitores se reconcilien. Nueva entrega de la popular saga de 'Solo en casa', que en esta ocasión, y tras perder progresivamente calidad y taquilla en las anteriores, ya se hizo directamente para la televisión y el mercado de video",
+			"genero": "Comedia, Infantil",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Solo.en.casa.4.-2002.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -35901,6 +35931,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Infantil, A1997, Letra S, EEUU, B2000, A2000-1991, Sagas SoloEnCasa, ",
+			"name": "Solo en casa 3 (1997)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/dxlVowXQ2X1ZCDIkuGvJlYS9etx.jpg",
+			"info": "Cuatro espías de alta tecnología industrial roban un microchip ultrasecreto y confiadamente lo ocultan en un coche de juguete de control remoto. Por causa de una confusión de equipajes en el aeropuerto, la anciana señora Hess recoge el juguete y se lo regala a su vecino de ocho años Alex. Los espías desearán recuperar el valioso chip a toda costa, pero Alex está preparado para darles una cálida bienvenida",
+			"genero": "Comedia, Infantil",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Solo.en.casa.3.-1997.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:4BB24DC3FF023BF46A4C4B85C92769F3B5DE1CE2&dn=DVDRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Accion, A1997, Letra S, EEUU, B2000, A2000-1991, Sagas Speed, ",
 			"name": "Speed 2 (1997)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/crtFjNykJ8T8OVfOHVEbUFFm1Ua.jpg",
@@ -36564,7 +36607,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Comedia",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:C2F504766823D605C830DE5941EFA249B91FBD25&dn=HD720",  magnet:?xt=urn:btih:DCF9A3FC625E5A5736781144804ACC38E505D910&dn=BRRip
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Superdetective.en.Hollywood.III.-1994.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:C2F504766823D605C830DE5941EFA249B91FBD25&dn=HD720  magnet:?xt=urn:btih:DCF9A3FC625E5A5736781144804ACC38E505D910&dn=BRRip
 				"torrent4k": ""
 				}		
 			]
@@ -36682,6 +36725,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Robocop.3.-1993.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:F9F039B8C35CEAC765FA3A056F115CF0E1E68816&DVDRip	 magnet:?xt=urn:btih:7E0AC3CCD8636116277C7AE41C5CC6B9BE7B6FFA
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A1993, Letra S, EEUU, B2000, A2000-1991, Sagas SisterAct, ",
+			"name": "Sister Act 2: De vuelta al convento (1993)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/kHaRAIn4vspd3Iuwdel2g9A9GEY.jpg",
+			"info": "Deloris Van Cartier (Whoopi Goldberg) vuelve a colocarse los habitos de la hermana Mary Clarence. Sus compañeras monjas y la Madre superiora Maggie Smith) necesitan ayuda para evitar el cierre de la escuela parroquial de Saint Francis. Con su colaboracion y la del resto de las monjas, todos preparan la participacion del colegio catolico en un concurso de coros escolares.",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Sister.Act.2-De.vuelta.al.convento.-1993.-.1080.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""
 				}		
 			]
@@ -36843,6 +36899,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Infantil, A1992, Letra S, EEUU, B2000, A2000-1991, Sagas SoloEnCasa, ",
+			"name": "Solo en casa 2: Perdido en Nueva York (1992)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/7sdiRUyc0ANHJptPhsgb1KL6hoq.jpg",
+			"info": "En plenas fiestas navideñas, el pequeño Kevin McCallister (Macaulay Culkin) y su familia están a punto de coger un avión para disfrutar de unas pequeñas vacaciones, pero Kevin se equivoca y embarca en un avión que lo lleva a Nueva York, donde vuelve a encontrarse solo y desprotegido",
+			"genero": "Comedia, Infantil",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Solo.en.casa.2-Perdido.en.Nueva.York.-1992.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:FEA38341B224FF5724B9517BF07567CB13829040&dn=HD1080&Pelis1y2		magnet:?xt=urn:btih:DC7262684EB48B76B6895808F046D22247851F23&dn=DVDRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, A1991, Letra D, EEUU, B2000, A2000-1991, ",
 			"name": "Dos duros sobre ruedas (1991)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/wimgbZSfDW78r0DXaBXCBl3Ueiy.jpg",
@@ -36955,6 +37024,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{ 
 				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Pesadilla.final-La.muerte.de.Freddy-Pesadilla.en.Elm.Street.-.-1991.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:9D9491EF4589F13F17BC0A288CFB09CE09E6B9DE&dn=DVDRip
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A1992, Letra S, EEUU, B2000, A2000-1991, Sagas SisterAct, ",
+			"name": "Sister Act (Una monja de cuidado) (1992)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/yPBlWxugSoQMcm05TPwsELq110n.jpg",
+			"info": "Deloris Van Cartier (Whoopi Goldberg) es una mediocre cantante de cabaret. Su amante Vince ha cometido un crimen, y ella decide acogerse al programa policial de proteccion de testigos. Asi, Deloris consigue una nueva identidad como monja en un convento que, tan solo con su presencia, perdera su habitual tranquilidad.",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Sister.Act-Una.monja.de.cuidado.-1992.-.1080.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""
 				}		
 			]
@@ -37157,6 +37239,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				{ 
 				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Rocky.V.-1990.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:F5242EF9388A7DBCECFCBA54CA9E685C752CE637&dn=DVDRip
 				"torrent4k": "magnet:?xt=urn:btih:E9D686DC9A4F70754FF1FBF89F52191B717035C0"
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Infantil, A1990, Letra S, EEUU, B2000, A2000-1991, 1Culto, Sagas SoloEnCasa, ",
+			"name": "Solo en casa (1990)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/sIE93oVIcCWo0z2thR4PRHwZK8d.jpg",
+			"info": "Kevin McAllister es un niño de ocho años, miembro de una familia numerosa, que accidentalmente se queda abandonado en su casa cuando toda la familia se marcha a pasar las vacaciones a Francia. Kevin aprende a valerse por sí mismo e incluso a protegerse de Harry y Marv, dos bribones que se proponen asaltar todas las casas cerradas de su vecindario. En cuanto su madre lo echa en falta, regresa apresuradamente a Chicago para recuperar a su hijo",
+			"genero": "Comedia, Infantil",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Solo.en.casa.-1990.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:FEA38341B224FF5724B9517BF07567CB13829040&dn=HD1080&Pelis1y2		magnet:?xt=urn:btih:BFD4003DB208E4D3B89216B0766C376B4FF30FC7&dn=DVDRip	magnet:?xt=urn:btih:41A9AE18A6BD61536BE3570D78B760AD21C13C1E&dn=DVDRip
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -37714,7 +37809,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Comedia",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:5904EAB1D1EE0A2D9082D645DFBB89C9F3FD705B&dn=HD720",  magnet:?xt=urn:btih:70448E0C9B468D4361726E370F9518D0E0CCBD0A&dn=BRRip
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Superdetective.en.Hollywood.II.-1987.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:5904EAB1D1EE0A2D9082D645DFBB89C9F3FD705B&dn=HD720  magnet:?xt=urn:btih:70448E0C9B468D4361726E370F9518D0E0CCBD0A&dn=BRRip
 				"torrent4k": ""
 				}		
 			]
@@ -38279,7 +38374,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Comedia",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:465EE70B77BB16524DEE21BEF128309D1186E030&dn=HD720",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Superdetective.en.Hollywood.-1984.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:465EE70B77BB16524DEE21BEF128309D1186E030&dn=HD720
 				"torrent4k": ""
 				}		
 			]
