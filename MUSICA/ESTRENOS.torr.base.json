@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Aventuras, A2020, Letra A, Spain, ",
+			"name": "Annie West y el Tesoro de las Seis Caras (2020)","coloryear": "magenta",
+			"image": "https://i.imgur.com/KGJX54f.jpg",
+			"info": "El comienzo de una saga de aventuras, acción, intriga y luchas de poder. Los protagonistas deben impedir que el tesoro caiga en manos equivocadas, pero pagaran un alto precio",
+			"genero": "Aventuras",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Annie.West.y.el.tesoro.de.las.seis.caras.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Thriller, A2021, Letra E, Kenia, ",
 			"name": "En peligro de extincion (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/6fT8OUMd42N0Jh3lwRf9GAI0X92.jpg",
@@ -13,7 +26,7 @@
 			"genero": "Accion, Thriller",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/En.peligro.de.extincion.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/En.peligro.de.extincion.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:8EF314A4566A6C04C06468F1E7C9CCB93A75FAB5&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
