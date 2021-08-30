@@ -8,6 +8,17 @@
 
 
 <item>
+<title>[COLOR white] Amigos pasajeros [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.7[/COLOR]</title>    
+<genre>Comedia</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/4PEMrNv.jpg</thumbnail>
+<fanart>https://i.imgur.com/LeKEYdG.jpg</fanart>
+<info>Marcus y Emily hacen amistad en un resort de México con Ron y Kyla, una pareja de locos fiesteros. Allí deciden disfrutar del momento dejándose llevar durante una semana llena de desinhibición y desenfreno con sus nuevos "amigos pasajeros". Meses después de la aventura, Marcus y Emily se horrorizan al ver que Ron y Kyla aparecen sin que los inviten en su boda.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=Dkk23GUQmDY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/lry15snwq6wr2x-"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/xov3mz01ilojr47"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/p5wq5ss998fi"},{"titulo" : "[COLOR white]VideoLoad[/COLOR]","url" : "https://evoload.io/v/ObPcPMPqd1Qwaf"},{"titulo" : "[COLOR white]VideoTape[/COLOR]","url" : "https://streamtape.com/v/ApDwjL4bxLHXPoP"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1WtLfcio2IQ_pfLdyHtprFYKZIotJLnpc/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] La vampira de Barcelona [/COLOR][COLOR yellow](2020) [COLOR aqua]*6.0[/COLOR]</title>    
 <genre>Drama</genre>
 <year>2020</year>
