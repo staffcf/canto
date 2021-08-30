@@ -8,6 +8,17 @@
 
 
 <item>
+<title>[COLOR white] SAS: El ascenso del Cisne Negro [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.3[/COLOR]</title>    
+<genre>Acción, Suspense</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/GnKCpOC.jpg</thumbnail>
+<fanart>https://i.imgur.com/m6qcoa9.jpg</fanart>
+<info>Un soldado de SAS fuera de servicio, Tom Buckingham, debe frustrar un ataque terrorista en un tren que atraviesa el Túnel del Canal. A medida que la acción se intensifica en el tren, ocurren eventos en los pasillos del poder que pueden marcar la diferencia en cuanto a que Buckingham y los pasajeros civiles salgan vivos del túnel.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=xhnI5VrA-d0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/k0e35h34ykqk46y"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/n047e1wxhvr06d"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/ubvmoyuk8xdp"},{"titulo" : "[COLOR white]VideoLoad[/COLOR]","url" : "https://evoload.io/v/ov7YaGQGMavaVL"},{"titulo" : "[COLOR white]VideoTape[/COLOR]","url" : "https://streamtape.com/v/7dX0VMoLlvHook"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/14SeoXUUD2oYAcETVwTzkLIOc9nfAvESS/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Amigos pasajeros [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.7[/COLOR]</title>    
 <genre>Comedia</genre>
 <year>2021</year>
