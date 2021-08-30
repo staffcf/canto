@@ -1,0 +1,129 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ REUNION FAMILIAR
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"REUNION FAMILIAR", SerieTemp:"TEMP. 1 - PARTE 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1PARTE1", SerieThumbail:"https://www.themoviedb.org/t/p/original/rccPbjzJcdFp46aYZm4z6XrpqkN.jpg",	
+	- 1SerieTitle:"REUNION FAMILIAR", SerieTemp:"TEMP. 1 - PARTE 2", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1PARTE2", SerieThumbail:"https://www.themoviedb.org/t/p/original/rccPbjzJcdFp46aYZm4z6XrpqkN.jpg",
+	- 1SerieTitle:"REUNION FAMILIAR", SerieTemp:"TEMP. 2 - PARTE 3", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2PARTE1", SerieThumbail:"https://www.themoviedb.org/t/p/original/ci7UMJfEmKtZly5dR07942UtdID.jpg",
+	- 1SerieTitle:"REUNION FAMILIAR", SerieTemp:"TEMP. 2 - PARTE 4", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2PARTE2", SerieThumbail:"https://www.themoviedb.org/t/p/original/ci7UMJfEmKtZly5dR07942UtdID.jpg",
+	
+-->
+======================================================================
+			"Tag= TORRENTTEMP1PARTE1, TORRENTTEMP1PARTE2, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1PARTE1, "
+			<item>
+			<title>PARTE 1 - Capitulos 1 a 10</title>
+			<torrent>magnet:?xt=urn:btih:DF9C2A6B60D353583B1366C83E0F16660FF6C6E1&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1PARTE2, "
+			<item>
+			<title>PARTE 2 - Capitulos 11 a 19</title>
+			<torrent>magnet:?xt=urn:btih:47E56F133F1B3D4278E6E823F8CBB9186755631C&dn=HD720</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1PARTE1, TORRENTTEMP1PARTE2, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1PARTE1, TORRENTTEMP1PARTE2, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1PARTE1, "
+			<item>
+			<title>PARTE 1 - Capitulos 1 a 10</title>
+			<torrent>magnet:?xt=urn:btih:32C4967A017DB577C69B1CD3C2F5335DF299ACE7&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1PARTE2, "
+			<item>
+			<title>PARTE 2 - Capitulos 11 a 19</title>
+			<torrent>magnet:?xt=urn:btih:121F53A3B89BDD030D6485BEA1DBF9014F9AC936&dn=HDTV</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2PARTE1, TORRENTTEMP2PARTE2, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2PARTE1, "
+			<item>
+			<title>PARTE 3 - Capitulos 1 a 8</title>
+			<torrent>magnet:?xt=urn:btih:CA59B7A1C89A669E41A4424D72C3016889F89A6B&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2PARTE2, "
+			<item>
+			<title>PARTE 4 - Capitulos 1 a 4</title>
+			<torrent>magnet:?xt=urn:btih:DF3848E6C1B3E7273D4DAB01766058E5A27D44E1&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2PARTE2, "
+			<item>
+			<title>PARTE 4 - Capitulos 5 a 7</title>
+			<torrent>magnet:?xt=urn:btih:892F372397D4B000747FBB9AA2CD41D4EA6756D9&dn=HD720</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2PARTE1, TORRENTTEMP2PARTE2, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2PARTE1, TORRENTTEMP2PARTE2, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2PARTE1, "
+			<item>
+			<title>PARTE 3 - Capitulos 1 a 4</title>
+			<torrent>magnet:?xt=urn:btih:01CC9510E2CF279544BB02AD381924F50C7EFBBE&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2PARTE1, "
+			<item>
+			<title>PARTE 3 - Capitulos 5 a 8</title>
+			<torrent>magnet:?xt=urn:btih:0C95A68BB00596BB792C2FF063D58F177E0CBDB1&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2PARTE2, "
+			<item>
+			<title>PARTE 4 - Capitulos 1 a 4</title>
+			<torrent>magnet:?xt=urn:btih:DB057689D7ED07786EE18CDDDDB4D3DFB7BA160A&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2PARTE2, "
+			<item>
+			<title>PARTE 4 - Capitulos 5 a 7</title>
+			<torrent>magnet:?xt=urn:btih:10B6E7F2F6781088C0806CDA2A7B959CEFED82DA&dn=HDTV</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================
