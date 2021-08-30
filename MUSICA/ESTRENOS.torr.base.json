@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2021, Letra T, Spain, ",
+			"name": "Torcidos (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/56Dc9tOU7k6u0uaJlogpH9AXvq2.jpg",
+			"info": "Inma es una madre que lleva su día a día como mejor puede. No pasa por un buen momento profesional ni profesional. Su marido, Tomás, y su suegra, Adela, discuten a menudo con ella. Extraños personajes irrumpen en sus vidas para cambiarlo todo y tornarlo en una surrealista pesadilla.",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Torcidos.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Aventuras, A2020, Letra A, Spain, ",
 			"name": "Annie West y el Tesoro de las Seis Caras (2020)","coloryear": "magenta",
 			"image": "https://i.imgur.com/KGJX54f.jpg",
