@@ -297,7 +297,9 @@ Title:TORTUGAS NINJA, SagaID:TortugasNinja, Imagen:https://vgboxart.com/resource
 							-	0Saga, 1SagaTorrent, 
 Title:TORRENTE, SagaID:Torrente, Imagen:https://www.itespresso.es/wp-content/uploads/2011/12/Torrente.jpg,
 							-	0Saga, 1SagaTorrent, 
-Title:TRAINSPOTTING, SagaID:Trainsp, Imagen:https://www.theatermania.com/dyn/graphics/theatermania/v10w223/trainspotting-live-logo-77146.jpeg,	
+Title:TRAINSPOTTING, SagaID:Trainsp, Imagen:https://www.theatermania.com/dyn/graphics/theatermania/v10w223/trainspotting-live-logo-77146.jpeg,		
+							-	0Saga, 1SagaTorrent, 
+Title:TRANSFORMERS, SagaID:Transformers, Imagen:https://www.themoviedb.org/t/p/original/uUhVOA4GNN5AQ5aR2ohAa1PDYLQ.jpg,
 							-	0Saga, 1SagaTorrent, 
 Title:TRILOGIA DEL DOLAR, SagaID:Dolar, Imagen:https://images-na.ssl-images-amazon.com/images/I/71LQ0w7FewL._SX522_.jpg,
 							-	0Saga, 1SagaTorrent, 
@@ -805,7 +807,20 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent4k": ""
 				}		
 			]
-			},
+			}
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra D, EEUU, 1Hechos reales, ",
+			"name": "Doce Huerfanos (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/gGlzMcLFTxnXRYXuLHlKVmj1SFw.jpg",
+			"info": "Un entrenador de fútbol americano de un instituto de misterioso pasado trata de llevar a un grupo de huérfanos a la final del campeonato estatal durante la Gran Depresión",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/12.Huerfanos.-.2021.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:AE20B33492B2D4B3D1FC3F6D88F784B889183C94&dn=BRRip
+				"torrent4k": ""	
+				}		
+			]
+			},,
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra D, Brasil, Netflix, ",
 			"name": "Dos sinvergüenzas (2021)","coloryear": "cyan",
@@ -2243,7 +2258,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Torcidos.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Torcidos.-2021.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:F4E25140DEB63AB99ADBF0E7A57FB915F3D5781F&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -2685,7 +2700,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:7791b9f9112eee561892f146664e26340966ae1a", 
-				"torrent4k": "https://www.eltorpe.com/descargas/--Ad--4K-2020-UHDRip-AAC.2160p.mp4--kusko.torrent",   magnet:?xt=urn:btih:BF5CD87E555CB3C2ECD937C86B85551230864BD7&dn=UHDRip
+				"torrent4k": "magnet:?xt=urn:btih:BF5CD87E555CB3C2ECD937C86B85551230864BD7&dn=UHDRip"
 				}		
 			]
 			},
@@ -11059,7 +11074,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller, Drama",
 			"stations": [
 				{
-				"torrent": "https://www.eltorpe.com/descargas/Angel_Of_Mine.2019-MHD1080PZMKVtorrentazo.com.torrent",
+				"torrent": "magnet:?xt=urn:btih:cf27c97338f951f7e064ce74d5e171e63db21ec3&dn=BRRip",	
 				"torrent4k": ""
 				}		
 			]
@@ -11592,7 +11607,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Intriga, Comedia",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:BABEED007320360056221E4A16B0FB9F4755EE90",
+				"torrent": "magnet:?xt=urn:btih:453C6890185E4A3FF8AC753F79E89BE9C48825B3&dn=DVDRip",	magnet:?xt=urn:btih:BABEED007320360056221E4A16B0FB9F4755EE90
 				"torrent4k": ""
 				}		
 			]
@@ -16497,7 +16512,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"torrent": "https://www.eltorpe.com/descargas/Queen_and_Slim--MicroHD-1080p--Cast_Ingl_Subts.torrent", 
+				"torrent": "magnet:?xt=urn:btih:B424B38356A504D6E8AFD5FAAEB8AB05E24A46E0&dn=HD1080", 	magnet:?xt=urn:btih:F4EA8916EFC9223E904854619C77EFB2DCD150B0&dn=BR1080
 				"torrent4k": "magnet:?xt=urn:btih:653C3AABA5F36B8A1359490563B47D4BB137766F"
 				}		
 			]
@@ -19392,7 +19407,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Accion, Aventuras",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:1538b90ddd0c18844e694d1dd46d4c46e028cffc&HD1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Bumblebee.-2018.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:1538b90ddd0c18844e694d1dd46d4c46e028cffc&HD1080
 				"torrent4k": "magnet:?xt=urn:btih:449B299E98D167502AE7621712A0AF8F529B2AD2"
 				}			
 			]
@@ -22004,7 +22019,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{ 
 				"torrent": "magnet:?xt=urn:btih:af0b0685b3d2e58349ddbe82f92514eb61797e72",
-				"torrent4k": "magnet:?xt=urn:btih:C17604EFBC3DDD226AD759C2FDCAEAE02A7D1611&dn=UHDRip"  https://www.eltorpe.com/descargas/La_Tribu_4K_UHDRip.torrent
+				"torrent4k": "magnet:?xt=urn:btih:C17604EFBC3DDD226AD759C2FDCAEAE02A7D1611&dn=UHDRip"  
 				}		
 			]
 			},
@@ -26864,6 +26879,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Belico, 1Drama, A2016, Letra S, Argentina, Cine Latino, ",
+			"name": "Soldado argentino, solo conocido por Dios (2016)","coloryear": "purple",
+			"image": "https://www.themoviedb.org/t/p/original/wQNPewYaVr1BtEeJRAT26cRGSXu.jpg",
+			"info": "Film centrado en el drama humano de tres jóvenes de un pequeño pueblo de Traslasierra, provincia de Córdoba, quienes desde lugares ideológicos muy distintos, se ven transformados para siempre por la Guerra de Malvinas",
+			"genero": "Belico, Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:AD7F70BF4BE43C88F358B22179AF69698504DE89&dn=HD720",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Romance, A2017, Letra S, EEUU, Musica, ",
 			"name": "Song to song (2017)","coloryear": "green",
 			"image": "https://www.themoviedb.org/t/p/original/fZ1tHVE8KW1OnemlRSVulpgvejd.jpg",
@@ -26923,7 +26951,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama, Thriller",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:2B8DEE17131641A7BCB886CA00C197200AE98689",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/T2-Trainspotting.-2017.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:2B8DEE17131641A7BCB886CA00C197200AE98689
 				"torrent4k": ""
 				}
 			]
@@ -27144,7 +27172,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Aventuras, Ciencia ficcion, Comedia",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:98fca6fd1182b2186b0960445cc82142af730dac&HD1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Transformers-El.Ultimo.Caballero.-2017.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:98fca6fd1182b2186b0960445cc82142af730dac&HD1080
 				"torrent4k": ""
 				}
 			]
@@ -27800,7 +27828,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:A165D7FBE526E2CCC4437724019FBF974B7264F2",
+				"torrent": "magnet:?xt=urn:btih:7FEBB00A1DF8765E48FA2BB4F99B1972FEE61B9A&dn=DVDRip",	magnet:?xt=urn:btih:A165D7FBE526E2CCC4437724019FBF974B7264F2
 				"torrent4k": ""
 				}		
 			]
@@ -28904,6 +28932,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Fantastico, 1Musical, A2015, Letra U, Hungria, ",
+			"name": "Un hada llamada Liza (2015)","coloryear": "lime",
+			"image": "https://www.themoviedb.org/t/p/original/m6EGwpjZwoRuRiHf0ZYOR5njIXR.jpg",
+			"info": "Liza es una joven enfermera que cuida desde hace años de Marta, la viuda del embajador de Japón en Hungría. El único compañero de Liza es su amigo imaginario Tomy Tani, el fantasma de un cantante de pop japonés de los años 1950 que solo ella puede ver. El día de su 30 cumpleaños, Liza sale con la esperanza de encontrar a su verdadero amor... y se convierte en la principal sospechosa de una serie de asesinatos. Empieza a creerse que una maldición la ha transformado en una 'fox-fairy', un demonio del folklore japonés",
+			"genero": "Comedia, Fantastico, Musical",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:8590A970EDD7401125326B7549D0D76B43A779F3&dn=HDRip",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Comedia, A2015, Letra Y, EEUU, ",
 			"name": "Yo, el y Raquel (2015)","coloryear": "lime",
 			"image": "https://www.themoviedb.org/t/p/original/2j1LDr9UpDOsVskVoDT6LeVm0aU.jpg",
@@ -29528,7 +29569,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Aventuras, Ciencia ficcion, Comedia",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:7A8E9CB180AE691A800A23B2FADFA0BBE16CF918&dn=HD1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Transformers-La.era.de.la.extinción.-2014.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:7A8E9CB180AE691A800A23B2FADFA0BBE16CF918&dn=HD1080
 				"torrent4k": ""
 				}		
 			]
@@ -30930,6 +30971,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Ciencia ficcion, A2011, Letra T, EEUU, Robots, Extraterrestres, Secuela, Sagas Transformers,  ",
+			"name": "Transformers: El lado oscuro de la Luna (2011)","coloryear": "blue",
+			"image": "https://www.themoviedb.org/t/p/original/7DacEEAUwHEtXvmQQzelNeLoKE0.jpg",
+			"info": "Tercera entrega de Transformers. En la Tierra, los Autobots y los Decepticons se ven envueltos en una peligrosa carrera espacial, entre los EE.UU. y la Union Sovietica, que podria desencadenar una guerra de tal magnitud que destruiria el planeta sin que ni siquiera los 'transformers' pudieran impedirlo. Una vez mas, Sam Witwicky se encuentra involuntariamente en medio del conflicto",
+			"genero": "Ciencia ficcion, Accion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Transformers.El.lado.oscuro.de.la.Luna.-2011.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Belico, 1Drama, A2011, Letra W, EEUU, ",
 			"name": "War Horse (Caballo de batalla) (2011)","coloryear": "blue",
 			"image": "https://www.themoviedb.org/t/p/original/vdkphnrXmqOvh0mEwYN9xrWGI3w.jpg",
@@ -31807,6 +31861,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Ciencia ficcion, A2009, Letra T, EEUU, Robots, Extraterrestres, Secuela, Sagas Transformers,  ",
+			"name": "Transformers: La venganza de los caidos (2009)","coloryear": "hotpink",
+			"image": "https://www.themoviedb.org/t/p/original/7oASPMiK2qU0rrTLfzzx7VS3ZG6.jpg",
+			"info": "Han pasado dos años desde que el joven Sam Witwicky (Shia LaBeouf) salvara al universo de una decisiva batalla entre dos razas de alienigenas roboticos en guerra. Pese a su extrema heroicidad, Sam sigue siendo un adolescente normal con las preocupaciones cotidianas de prepararse para ir a la universidad, dejando atras a su novia Mikaela (Megan Fox), y separandose por primera vez de sus padres. El objetivo de Sam es llevar una vida universitaria normal pero, para hacerlo, debera olvidar su destino. Mientras Sam ha hecho todo lo posible por dejar atras el conflicto de Mission City y volver a su rutina diaria, la batalla entre los Autobots y los Decepticons, aunque haya sido un incidente super secreto, ha provocado muchos cambios. El Sector 7 ha sido desmantelado y el agente Simmons (John Turturro), despedido. En su lugar se ha creado una nueva agencia, NEST. Empleando mandos con experiencia de campo como Lennox (Josh Duhamel) y Epps (Tyrese Gibson), NEST pretende trabajar codo con codo con los Autobots para evitar otra confrontacion mortal con los Decepticons",
+			"genero": "Ciencia ficcion, Accion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Transformers-La.venganza.de.los.caidos.-2009.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Fantastico, 1Terror, 1Accion, A2009, Letra U, EEUU, Sagas Underworld, ",
 			"name": "Underworld: La rebelion de los licantropos (2009)","coloryear": "hotpink",
 			"image": "https://www.themoviedb.org/t/p/original/wTj7OsNUbNAerYs0AdhLXg3xNTt.jpg",
@@ -32638,6 +32705,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Ciencia ficcion, A2007, Letra T, EEUU, Robots, Extraterrestres, Secuela, Sagas Transformers, ",
+			"name": "Transformers (2007)","coloryear": "steelblue",
+			"image": "https://www.themoviedb.org/t/p/original/okY3PwVqqFPozCqIgOEILlue2Tb.jpg",
+			"info": "Dos razas de robots extraterrestres transformables (los villanos 'decepticons' y los amistosos 'autobots') llegan a la Tierra en busca de una misteriosa fuente de poder. En la guerra que estalla entre las dos razas, los hombres toman partido por los "autobots". Sam Witwicky (Shia LaBeouf), un avispado adolescente, que solo desea conquistar a la bella Mikaela (Megan Fox), se convierte en la clave de una guerra que puede destruir a la humanidad",
+			"genero": "Ciencia ficcion, Accion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Transformers.-2007.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Thriller, 1Intriga, A2007, Letra Z, EEUU, 1Hechos reales, ",
 			"name": "Zodiak (2007)","coloryear": "steelblue",
 			"image": "https://www.themoviedb.org/t/p/original/gmoypdRU7rCJZZrZFKGirONbgrI.jpg",
@@ -33426,6 +33506,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				{ 
 				"torrent": "magnet:?xt=urn:btih:E767E919A0A2B76CA9A2B0C8983247F2D23D0FF4&dn=DVDRip",
 				"torrent4k": "magnet:?xt=urn:btih:C6D84EA9E8CD812F844C15DB9B0490B086E8F723"
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Comedia, A2005, Letra Y, EEYY, ",
+			"name": "...Y que le gusten los perros (2005)","coloryear": "crimson",
+			"image": "https://www.themoviedb.org/t/p/original/fvYLSEoVE6nfUHPgA4eEvQpF8oQ.jpg",
+			"info": "Sarah Nolan (Diane Lane) es una profesora de preescolar que lleva ocho meses divorciada. Sus hermanas y su padre (Cristopher Plummer), muy preocupados por su situación de aislamiento, deciden inmiscuirse en su vida para volver a ponerla 'en circulación': le proponen listas de posibles pretendientes y la animan a entrar en las páginas de contactos de Internet con la esperanza de que reciba respuestas a raudales. Después de una serie de primeras citas que resultan absolutamente desastrosas, Sarah tendrá que decidir entre dos posibles candidatos: el idealista, enigmático y un tanto torpe Jake Anderson (John Cusack), que se dedica a construir canoas artesanales, y el atractivo, desenvuelto y mujeriego Bob (Dermot Mulroney)",
+			"genero": "Romance, Comedia",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:7DED23F78C573174C4B91E1354F47E8630E89EBB&dn=DVDRip",
+				"torrent4k": ""	
 				}		
 			]
 			}
@@ -34804,6 +34897,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				{ 
 				"torrent": "magnet:?xt=urn:btih:10961E1E543C6ACAE364FE69BD694A872CF5F7D5&dn=BRRip",  magnet:?xt=urn:btih:C4CAA47A4C3A9E3253261D062FE0AD7A659889CC&dn=BDRemux
 				"torrent4k": "magnet:?xt=urn:btih:E8B5788FCC504E9A1C3DE81F26BF9917CC93C471"
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Comedia, A2001, Letra S, EEUU, ",
+			"name": "Serendipity (2001)","coloryear": "seagreen",
+			"image": "https://i.imgur.com/CVTai2D.jpg",
+			"info": "Jonathan Tragar y Sara Thomas se conocen casualmente una Navidad, de compras por Nueva York. A pesar de que tienen pareja, ambos mantienen un romántico encuentro. Jonathan desea continuar con la relación, pero Sara no se atreve. Acuerdan darse los teléfonos en un billete -con el que pagan una compra- y un libro -que ella vende en una tienda de segunda mano-, y dejar pasar el tiempo para ver qué sucede. Diez años después...",
+			"genero": "Romance, Comedia",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:1D58246C4E03BBF7A457608D6ACFDD7CEA82D52F&dn=DVDRip",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -36263,7 +36369,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:EB536BE8DB827BDCD478F0C8BA91130732D4593A",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Trainspotting.-1996.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:EB536BE8DB827BDCD478F0C8BA91130732D4593A
 				"torrent4k": ""
 				}		
 			]
@@ -39093,6 +39199,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A1978, Letra L, Spain, Cine quinqui, B2000, A1980-1971, ",
+			"name": "Los violadores del amanecer (1978)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/13PaVZDDSd717Q0aFh7P4I9Smin.jpg",
+			"info": "Una banda de delincuentes formada por cuatro chicos y una embarazada se dedican a secuestrar jovencitas para después violarlas",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:8A38BD8FAC6259F8A036608936DAFFAC17EB1EDC&dn=HD1080",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Fantastico, 1Aventuras, A1978, Letra S, EEUU, B2000, A1980-1971, Superheroes, DC, Comics, Sagas Superman, ",
 			"name": "Superman I (1978)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/by0IcC4VBxOuXiYhDo2515lfmUt.jpg",
@@ -39678,7 +39797,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia, Musical, Infantil",
 			"stations": [
 				{ 
-				"torrent": "https://www.eltorpe.com/descargas/Un_mundo_de_fantasia.torrent",  magnet:?xt=urn:btih:DAA8341DFA850BA4186FD76D33F00E360A993512&dn=DVDRip
+				"torrent": "magnet:?xt=urn:btih:DAA8341DFA850BA4186FD76D33F00E360A993512&dn=DVDRip",  
 				"torrent4k": "magnet:?xt=urn:btih:A8FAF1F49DF9FE016363E46A961E84CED8313E3B&dn=UHDRemux"
 				}		
 			]
