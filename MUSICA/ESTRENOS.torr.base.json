@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra D, EEUU, ",
+			"name": "Doce Huerfanos (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/gGlzMcLFTxnXRYXuLHlKVmj1SFw.jpg",
+			"info": "Un entrenador de fútbol americano de un instituto de misterioso pasado trata de llevar a un grupo de huérfanos a la final del campeonato estatal durante la Gran Depresión",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/12.Huerfanos.-.2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:AE20B33492B2D4B3D1FC3F6D88F784B889183C94&dn=BRRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2021, Letra T, Spain, ",
 			"name": "Torcidos (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/56Dc9tOU7k6u0uaJlogpH9AXvq2.jpg",
@@ -13,7 +26,7 @@
 			"genero": "Terror",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Torcidos.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Torcidos.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:F4E25140DEB63AB99ADBF0E7A57FB915F3D5781F&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
