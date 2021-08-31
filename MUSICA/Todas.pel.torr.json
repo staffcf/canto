@@ -36037,19 +36037,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Fantastico, A1997, Letra I, EEUU, B2000, A2000-1991, Sagas IT, ",
-			"name": "It (Eso) (1997)","coloryear": "tomato",
-			"image": "https://www.themoviedb.org/t/p/original/uuTYA9LIlIRCFMgFlxWb1KznfEx.jpg",
-			"info": "Un tranquilo y pequeño pueblo de Maine esta siendo aterrorizado por una fuerza malevola oculta tras la mascara de un payaso, y que tan solo se la conoce como "It". Tras sus primeras victimas, una pandilla formada por siete amigos de la infancia dedicen volver a reunirse para atacar el mal y destruirlo, intentando librar asi del terror a su pueblo natal",
-			"genero": "Terror, Fantastico",
-			"stations": [
-				{	
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/It-Eso.-.1997.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:BD206BA404CF268305A51FFF6553C53774020DEA
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, A1997, Letra J, EEUU, Crimen, B2000, A2000-1991, ",
 			"name": "Jackie Brown (1997)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/l6bCO7BhJJCQehaEqHc4fx80kiG.jpg",
@@ -37331,6 +37318,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Gremlins.2.la.nueva.generacion.-1990.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:78A0A38812D89F1535CE16BD3A45EACD35F28AA4&dn=Duologia%20Gremlins%20%5bMicroHD
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Fantastico, A1990, Letra I, EEUU, A1990-1981, Sagas IT, ",
+			"name": "It (Eso) (1990)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/uuTYA9LIlIRCFMgFlxWb1KznfEx.jpg",
+			"info": "Un tranquilo y pequeño pueblo de Maine esta siendo aterrorizado por una fuerza malevola oculta tras la mascara de un payaso, y que tan solo se la conoce como "It". Tras sus primeras victimas, una pandilla formada por siete amigos de la infancia dedicen volver a reunirse para atacar el mal y destruirlo, intentando librar asi del terror a su pueblo natal",
+			"genero": "Terror, Fantastico",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/It-Eso.-.1997.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:BD206BA404CF268305A51FFF6553C53774020DEA
 				"torrent4k": ""
 				}		
 			]
