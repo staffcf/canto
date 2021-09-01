@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2020, Letra B, Francia, ",
+			"name": "Brutus VS Cesar (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/gSwsXuyHw52LFiGD71Sc8vKXuUr.jpg",
+			"info": "César acaba de capturar a Vercingétorix y cree haberse librado de sus enemigos, pero los senadores romanos conspiran para poner fin a su tiranía. Dos de ellos, Casio y Rufo, invitan a Bruto, hijo de Cesar, a una reunión secreta cuyo objetivo es organizar el asesinato de su progenitor",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Brutus.vs.Cesar.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra F, Japon, 1Hechos reales, ",
 			"name": "Fukushima: Amenaza nuclear (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/bw7Dc5Vn7mqfBjKsYCC8l5ZNfbG.jpg",
