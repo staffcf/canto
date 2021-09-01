@@ -3407,6 +3407,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2020, Letra B, Francia, ",
+			"name": "Brutus VS Cesar (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/gSwsXuyHw52LFiGD71Sc8vKXuUr.jpg",
+			"info": "César acaba de capturar a Vercingétorix y cree haberse librado de sus enemigos, pero los senadores romanos conspiran para poner fin a su tiranía. Dos de ellos, Casio y Rufo, invitan a Bruto, hijo de Cesar, a una reunión secreta cuyo objetivo es organizar el asesinato de su progenitor",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Brutus.vs.Cesar.-2020.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:7D9CDE25BE76323CA495525B1FCE5E5B18351355&dn=BRRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Ciencia ficcion, 1Thriller, A2020, Letra C, EEUU, ",
 			"name": "Cajas Oscuras (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/wiAMeTBGB6ENqopAood5U5PY4vK.jpg",
@@ -5201,7 +5214,20 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent4k": ""
 				}
 			]
-			},
+			}
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra F, Japon, 1Hechos reales, ",
+			"name": "Fukushima: Amenaza nuclear (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/bw7Dc5Vn7mqfBjKsYCC8l5ZNfbG.jpg",
+			"info": "Los trabajadores de las instalaciones de Fukushima Daiichi en Japón arriesgan su vida a diario permaneciendo en la central nuclear para evitar su desintegración total después de que la región haya sido totalmente devastada por un terremoto y un posterior tsunami en 2011",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Fukushima-Amenaza.nuclear.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},,
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra F, EEUU, ",
 			"name": "Full Out 2: You Got This! (2020)","coloryear": "magenta",
@@ -7511,10 +7537,10 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama",
 			"stations": [
 				{
-				"kodi1": "https://vidoza.net/NO_LINK", "colorserver1": "lime",
-				"kodi2": "https://vidoza.net/NO_LINK",
-				"kodi3": "https://vidoza.net/NO_LINK", 
-				"kodi4": "https://vidoza.net/NO_LINK", 
+				"kodi1": "https://vidlox.me/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidlox.me/NO_LINK",
+				"kodi3": "https://vidlox.me/NO_LINK", 
+				"kodi4": "https://vidlox.me/NO_LINK", 
 				"kodi5": "",
 				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Police.2020.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:7483F9EF023D9EB07D148FA6A4CCE068383CED06&dn=P0l1c3.m1080p.exclusivetorrent.net.mkv	magnet:?xt=urn:btih:4B7110E5EF016E763607D6AA5180D94C71E4C763&dn=BRRip
 				"torrent4k": ""	
@@ -12429,7 +12455,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:0baf9f0e0b9b03da2ab5fa0234bf0228b0a76b57",
-				"torrent4k": ""https://vidoza.net/NO_LINK/clipwatching.com/embed-526rml920ztf.html"
+				"torrent4k": ""https://vidlox.me/NO_LINK/clipwatching.com/embed-526rml920ztf.html"
 				}			
 			]
 			},
@@ -28205,7 +28231,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Accion",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:20724E92BAD4D223C9BB6881B6A5E35CF3B5C586&dn=HD1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Ninja.Turtles.2-Fuera.de.las.sombras.-2016.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:20724E92BAD4D223C9BB6881B6A5E35CF3B5C586&dn=HD1080
 				"torrent4k": "magnet:?xt=urn:btih:2EE8614AF5C8C68D0398F4B351A7E029B6203DA1"
 				}		
 			]
@@ -29413,7 +29439,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Accion",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:A4C016E6B3463D006D1DB35EA0A1FAD2C45B89DE&dn=HD1080",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Ninja.Turtles-Las.Tortugas.Ninja-.-2014.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:A4C016E6B3463D006D1DB35EA0A1FAD2C45B89DE&dn=HD1080
 				"torrent4k": "magnet:?xt=urn:btih:5142143D36251E83E5BDA380CB90018600B006B0"
 				}		
 			]
@@ -29850,6 +29876,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				{ 
 				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.maldicion.de.Chucky.2013.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:7F1795C19A894BE476B9122CC5947B90CFD654FA&dn=DVDRip
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Fantastico, 1Terror, A2013, Letra L, Spain, ",
+			"name": "Las brujas de Zugarramurdi (2013)","coloryear": "lawngreen",
+			"image": "https://www.themoviedb.org/t/p/original/dUa5wlAJWDxxz4487jnFruG2x8j.jpg",
+			"info": "Dos parados (Mario Casas y Hugo Silva) cometen un atraco y huyen perseguidos por la policía (Pepón Nieto y Secun de la Rosa) y por la ex mujer de uno de ellos (Macarena Gómez). Así, se adentran en los bosques impenetrables de Navarra y caen en las garras de una horda de mujeres enloquecidas que se alimentan de carne humana",
+			"genero": "Comedia, Fantastico, Terror",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:0ED1FC7D5138A1E425E925088368DECCF40BBCA4&dn=BR1080",	magnet:?xt=urn:btih:07DB64D44709A221D4FDB8E6BC43CBB5D3519BE4&dn=DVDRip
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -31503,7 +31542,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Aventuras, Belico, Accion, Fantastico, Romance",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:62AA088AD00F3C4B12A1305EA006CF2AF478B112", magnet:?xt=urn:btih:dgemexjvrq3l6iseflqqo32cc42bo53i
+				"torrent": "magnet:?xt=urn:btih:62AA088AD00F3C4B12A1305EA006CF2AF478B112&dn=HD1080", magnet:?xt=urn:btih:dgemexjvrq3l6iseflqqo32cc42bo53i
 				magnet:?xt=urn:btih:A660CBAA636990357759B5B12C7103F98623C50C
 				"torrent4k": "magnet:?xt=urn:btih:B4B82F76A3543B05FC0B719D0E485EB165311741"
 				}		
@@ -36830,7 +36869,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Infantil, Ciencia ficcion, Accion, Comedia",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:7C2CA1E14D0FB519486C9F3039DFA3E2C8DA066A&dn=HDRip",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Las.Tortugas.Ninja.III.-1993.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:7C2CA1E14D0FB519486C9F3039DFA3E2C8DA066A&dn=HDRip
 				"torrent4k": ""
 				}		
 			]
@@ -37129,7 +37168,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Infantil, Accion",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:D3E2C9564A64967E0B4E448E334E2F377F54E8EF&dn=HDRip",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Las.Tortugas.Ninja.II.El.secreto.de.los.mocos.verdes.-1991.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:D3E2C9564A64967E0B4E448E334E2F377F54E8EF&dn=HDRip
 				"torrent4k": ""
 				}		
 			]
@@ -37434,7 +37473,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Accion, Comedia",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:C9AFCA442D390FAA88B150D56B235198343D580B&dn=HD1080",  magnet:?xt=urn:btih:194D481C1C5E25E4CC835F3B81233B006413228D&dn=BRRip
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Tortugas.Ninja.-1990.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:C9AFCA442D390FAA88B150D56B235198343D580B&dn=HD1080  magnet:?xt=urn:btih:194D481C1C5E25E4CC835F3B81233B006413228D&dn=BRRip
 				"torrent4k": ""
 				}		
 			]
@@ -40057,14 +40096,14 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Western, A1966, Letra E, Italia, B2000, A1970-1961, Sagas Dolar, 1Culto, Sagas Dolar, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Western, A1966, Letra E, Italia, B2000, A1970-1961, Sagas Dolar, 1Culto, ",
 			"name": "El bueno, el feo y el malo (1966)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/fSWnIXsxA47smMLwRELSWkxbVJ.jpg",
 			"info": "Durante la guerra civil norteamericana (1861-1865), tres cazadores de recompensas buscan un tesoro que ninguno de ellos puede encontrar sin la ayuda de los otros dos. Asi que colaboran entre si para conseguir el botin",
 			"genero": "Western",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:35A5783CFD0B5ED0E685CFC5BE6678C06B18B2C8&dn=HD1080",    magnet:?xt=urn:btih:0F44010CC42DC43B0C7D8813305B8577F148919B&dn=DVDRip
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.bueno.el.feo.y.el.malo.-1966.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:35A5783CFD0B5ED0E685CFC5BE6678C06B18B2C8&dn=HD1080    magnet:?xt=urn:btih:0F44010CC42DC43B0C7D8813305B8577F148919B&dn=DVDRip
 				"torrent4k": "magnet:?xt=urn:btih:31CC8CB495A47327E2F3AE37338E2663E47843D6&dn=UHDmicro",  magnet:?xt=urn:btih:3C8B0F7B13D7A9327246F759CBA7674181B6587C&dn=UHDRip
 				}		
 			]
@@ -40077,7 +40116,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Western",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:03548B9337967C8A8B9DBA0B8B877D2E61140DDB&dn=BR1080",  magnet:?xt=urn:btih:C903C0B67A0D0668D7900F2DC1E4D09A189ACA44&dn=HD1080   magnet:?xt=urn:btih:088E93B97C74E412B3A4484BEBA65CB7A403E531&dn=DVDRip
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.muerte.tenia.un.precio.-1965.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:03548B9337967C8A8B9DBA0B8B877D2E61140DDB&dn=BR1080  magnet:?xt=urn:btih:C903C0B67A0D0668D7900F2DC1E4D09A189ACA44&dn=HD1080   magnet:?xt=urn:btih:088E93B97C74E412B3A4484BEBA65CB7A403E531&dn=DVDRip
 				"torrent4k": ""
 				}		
 			]
@@ -40168,7 +40207,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Western",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:58C2AC49B83274155B60A024AC7538DF84C895E4&dn=BR1080",  magnet:?xt=urn:btih:0F0CCEBFE1B57597167D0AF0BE852AF2F2D59C03&dn=HD1080
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Por.un.punhado.de.dolares.-1964.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:58C2AC49B83274155B60A024AC7538DF84C895E4&dn=BR1080  magnet:?xt=urn:btih:0F0CCEBFE1B57597167D0AF0BE852AF2F2D59C03&dn=HD1080
 				"torrent4k": ""
 				}		
 			]
