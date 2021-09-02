@@ -22,19 +22,19 @@
 			"Tag= TORRENTTEMP1, "
 			<item>
 			<title>1x02 - A Good Day To Dog Hard</title>
-			<torrent>magnet:?xt=urn:btih:6572E83B2205890EC4138B0A67953C9BC18A182A</torrent>
+			<torrent>magnet:?xt=urn:btih:6572E83B2205890EC4138B0A67953C9BC18A182A&dn=HD720</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
 			<title>1x03 - Diamonds are Furever</title>
-			<torrent>magnet:?xt=urn:btih:B03C05AB50BE34DF631FA6A8FF19928EBE1292D7</torrent>
+			<torrent>magnet:?xt=urn:btih:B03C05AB50BE34DF631FA6A8FF19928EBE1292D7&dn=HD720</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
 			<title>1x04 - In The Line Of Fur</title>
-			<torrent>magnet:?xt=urn:btih:231ED958D770BDF121F8FBFD067D12567EB98C12</torrent>
+			<torrent>magnet:?xt=urn:btih:231ED958D770BDF121F8FBFD067D12567EB98C12&dn=HD720</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
@@ -46,7 +46,37 @@
 			"Tag= TORRENTTEMP1, "
 			<item>
 			<title>1x06 - The Fur-gitive</title>
-			<torrent>magnet:?xt=urn:btih:A02F84E734F128C4ED5C661CA8A32CEBD3E0C0B2</torrent>
+			<torrent>magnet:?xt=urn:btih:A02F84E734F128C4ED5C661CA8A32CEBD3E0C0B2&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag=  "
+			<item>
+			<title>1x07 - To Serve and Pawtect</title>
+			<torrent>magnet:?xt=urn:btih:C02E09F18306FB292156E442DAE3BEF430F8D8E8&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag=  "
+			<item>
+			<title>1x08 - Arf Appreciation</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag=  "
+			<item>
+			<title>1x09 - Witness Pup-tection</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag=  "
+			<item>
+			<title>1x10 - Lost and Hound</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag=  "
+			<item>
+			<title>1x11 - Hooch Machina</title>
+			<torrent></torrent>
 			</item>
 ======================================================================
 ======================================================================
