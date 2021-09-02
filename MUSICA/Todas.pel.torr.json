@@ -937,7 +937,20 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent4k": "magnet:?xt=urn:btih:7E898F9A1C89CA8B9E3623CB5FF78BAA66189945&dn=Web4K",  https://maxitorrent.com/download/151356_-1621939501-Ejercito-de-los-muertos--4KWebrip.torrent
 				}		
 			]
-			},
+			}
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Fantastico, 1Thriller, A2021, Letra E, EEUU, DC, Comics, Superheroes, ",
+			"name": "El Escuadron Suicida (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/pSaFLyMfXka4SO1tfqNa140aDKx.jpg",
+			"info": "Un grupo de super villanos se encuentran encerrados en Belle Reve, una prisión de alta seguridad con la tasa de mortalidad más alta de Estados Unidos. Para salir de allí harán cualquier cosa, incluso unirse al grupo Task Force X, dedicado a llevar a cabo misiones suicidas bajo las órdenes de Amanda Waller. Fuertemente armados son enviados a la isla Corto Maltese, una jungla repleta de enemigos",
+			"genero": "Accion, Fantastico, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.Escuadron.Suicida.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},,
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Thriller, A2021, Letra E, Mexico, Cine Latino, ",
 			"name": "El exorcismo de Carmen Farías (2021)","coloryear": "cyan",
@@ -5125,6 +5138,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, A2020, Letra F, EEUU, ",
+			"name": "Final Kill (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/353TYHCfdpOTfS8Lz0LfRAjyr3h.jpg",
+			"info": "Un especialista en protección acepta un último trabajo antes de retirarse: proteger a una pareja que ha robado 8 millones de dólares a una familia de criminales",
+			"genero": "Accion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Final.Kill.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2020, Letra F, Canada, ",
 			"name": "Flashback (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/ky1bTw8yKMrwg2tQTBda8OoRz66.jpg",
@@ -5132,7 +5158,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Flashback.-2020.-.1080.-.CristalAzul.mkv.torrent", magnet:?xt=urn:btih:2C09DC6E2CA0FED3E9FDD87BD5CAD025032033B2&dn=Flashback%20%282020%29%20MicroHD%201080p.exclusivetorrent.net.mkv	  magnet:?xt=urn:btih:ac935a504b1ff28319039191de8dac6d80b816cf&dn=HD720  magnet:?xt=urn:btih:813BA0C99E31420BC3724664A2C68D014C373B83&dn=BRRip
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Flashback.-2020.-.1080.-.CristalAzul.mkv.torrent", 	  magnet:?xt=urn:btih:ac935a504b1ff28319039191de8dac6d80b816cf&dn=HD720  magnet:?xt=urn:btih:813BA0C99E31420BC3724664A2C68D014C373B83&dn=BRRip
 				"torrent4k": ""
 				}		
 			]
