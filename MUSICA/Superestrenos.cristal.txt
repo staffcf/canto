@@ -8,6 +8,28 @@
 
 
 <item>
+<title>[COLOR white] Cenicienta [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.0[/COLOR]</title>    
+<genre>Musical,Fantástico,Comedia</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/vX9xaGB.jpg</thumbnail>
+<fanart>https://i.imgur.com/lKkDDpR.jpg</fanart>
+<info>Cenicienta (Cabello) es una joven ambiciosa cuyos sueños son más grandes de lo que el mundo le permite, pero que será capaz de perseverar y conseguir sus objetivos con la ayuda de su Fab G (Billy Porter).<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=7D_1pl4T6ms"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/6znj3t01pxkdzm1"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/6q48wz86i78den"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/gqmt7z1tcwe3"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/vbdpp7ti9blo.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/2egty7x8wiwj"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1j7Vx8Jdc2vSyRQJ3nsccAcjQJM9d-WuB/view"},{"titulo" : "[COLOR white]Drive 4K HDR[/COLOR]","url" : "https://drive.google.com/file/d/16M4tTgeoOpQZWB4L5tSHHysSQBnV67aR/view"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La fiesta del mas alla [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.7[/COLOR]</title>    
+<genre>Comedia,Drama,Fantástico</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/BpwjkUl.jpg</thumbnail>
+<fanart>https://i.imgur.com/M4rG2qY.jpg</fanart>
+<info>Una persona muy sociable (Justice) sufre la peor fiesta de todas... morir durante la semana de su cumpleaños. Para su sorpresa, se le da una segunda oportunidad para enmendar sus errores en la Tierra. Justice podrá conectar de nuevo con sus seres queridos y, lo más importante, demostrar que es digna de entrar en la gran sala VIP del cielo.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=Y9yiLbPbYG0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/l86x2cnwx2587kl"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/md3gjo73ieow6n"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/4qw2bo2cuh0l"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/vbdpp7ti9blo.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/w8gxmpolsnti"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/15ALTX-IVrCsuEuaVmZnGthx9lF5Q1PSr/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El Escuadron Suicida [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.0[/COLOR]</title>    
 <genre>Acción,Fantástico,Thriller,Crimen,Cómic,Superhéroes</genre>
 <year>2021</year>
