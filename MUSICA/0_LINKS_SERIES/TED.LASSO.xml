@@ -99,13 +99,13 @@
 			"Tag= TORRENTTEMP2, "
 			<item>
 			<title>2x01 - Adiós, Earl</title>
-			<torrent>magnet:?xt=urn:btih:0AD516F89227045225803B8668768F5F92B66806</torrent>  
+			<torrent>magnet:?xt=urn:btih:0AD516F89227045225803B8668768F5F92B66806&dn=HD720</torrent>  
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
 			<title>2x02 - Lavanda</title>
-			<torrent>magnet:?xt=urn:btih:F01090CDA633ACE4B2433FDEB139F242DF6147C1</torrent>
+			<torrent>magnet:?xt=urn:btih:F01090CDA633ACE4B2433FDEB139F242DF6147C1&dn=HD720</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP2, "
@@ -117,25 +117,25 @@
 			"Tag= TORRENTTEMP2, "
 			<item>
 			<title>2x04 - El villancico</title>
-			<torrent>magnet:?xt=urn:btih:B6929574CEBF6F6F06A007BDA31C1D3A8BED29E7</torrent>
+			<torrent>magnet:?xt=urn:btih:B6929574CEBF6F6F06A007BDA31C1D3A8BED29E7&dn=HD720</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
 			<title>2x05 - Rainbow</title>
-			<torrent>magnet:?xt=urn:btih:047D66C1BBE21CF30535CA9D1A08AF0ACD299C5B</torrent>
+			<torrent>magnet:?xt=urn:btih:047D66C1BBE21CF30535CA9D1A08AF0ACD299C5B&dn=HD720</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
 			<title>2x06 - La señal</title>
-			<torrent>magnet:?xt=urn:btih:A92F08C9430662EBB33E517E53A92F7D49B8A90D</torrent>
+			<torrent>magnet:?xt=urn:btih:A92F08C9430662EBB33E517E53A92F7D49B8A90D&dn=HD720</torrent>
 			</item>
 ======================================================================
-			"Tag= "
+			"Tag= TORRENTTEMP2, "
 			<item>
-			<title>2x07 - Capitulo 7</title>
-			<torrent></torrent>
+			<title>2x07 - Estado mental</title>
+			<torrent>magnet:?xt=urn:btih:5B215A6969EA7B93DA8EAC10BE9A764AF8911FCE&dn=HD720</torrent>
 			</item>
 ======================================================================
 			"Tag= "
