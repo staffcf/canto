@@ -6,6 +6,32 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Musical, 1Fantastico, 1Comedia, A2021, Letra C, EEUU, ",
+			"name": "Cenicienta (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/q3EG1UUwcwMJEcuXSgfzzLhRUZZ.jpg",
+			"info": "Cenicienta (Cabello) es una joven ambiciosa cuyos sueños son más grandes de lo que el mundo le permite, pero que será capaz de perseverar y conseguir sus objetivos con la ayuda de su Fab G (Billy Porter)",
+			"genero": "Musical, Fantastico, Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Cenicienta.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2021, Letra T, Spain, ",
+			"name": "Todas las lunas (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/q8iif5xiCIq8uBXxHvhXjH72Bp8.jpg",
+			"info": "Año 1876. Durante los estertores de la última guerra carlista, una niña es rescatada de un orfanato por una misteriosa mujer que habita en lo profundo del bosque. Malherida, y sintiendo estar al borde de la muerte, la pequeña creerá ver en ella a un ángel que ha venido a buscarla para llevársela al Cielo. No tardará en descubrir, al amanecer del nuevo día, que este extraño ser le ha donado la vida eterna a cambio de su compañía. Bajo su nueva condición, tendrá que ‘vivir’ el doloroso paso del tiempo encerrada en su niñez, y contar infinidad de lunas hasta conocer a Cándido, un hombre humilde que le acogerá en su casa como si de su propia hija se tratase, y con el que comenzará su viaje en contra de su nueva naturaleza y el sueño de recuperar su vida arrebatada.",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Todas.las.lunas.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:7DDD9B9605892416E858B358F942AD82B1AB3C9B&dn=BRRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Fantastico, 1Thriller, A2021, Letra E, EEUU, DC, Comics, Superheroes, ",
 			"name": "El Escuadron Suicida (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/pSaFLyMfXka4SO1tfqNa140aDKx.jpg",
@@ -26,7 +52,7 @@
 			"genero": "Accion",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Final.Kill.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Final.Kill.-2020.-.1080.-.CristalAzul.mkv.torrent",	
 				"torrent4k": ""	
 				}		
 			]
