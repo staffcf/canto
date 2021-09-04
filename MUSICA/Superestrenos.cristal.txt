@@ -8,6 +8,17 @@
 
 
 <item>
+<title>[COLOR white] Fukushima [/COLOR][COLOR yellow](2020) [COLOR aqua]*6.6[/COLOR]</title>    
+<genre>Drama, Historia</genre>
+<year>2020</year>
+<thumbnail>https://i.imgur.com/vktu2Ep.jpg</thumbnail>
+<fanart>https://i.imgur.com/eqVxfgZ.jpg</fanart>
+<info>Los trabajadores de las instalaciones de Fukushima Daiichi en Japón arriesgan su vida a diario permaneciendo en la central nuclear para evitar su desintegración total después de que la región haya sido totalmente devastada por un terremoto y un posterior tsunami en 2011.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=WtlZiaomhmA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/g4m7-f-ygey6m30"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/md3gz0g9tg6rzz"},{"titulo" : "[COLOR white]VideoTape[/COLOR]","url" : "https://streamtape.com/v/02r8bWWAobubjqX"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/u22svqurblau.html"},{"titulo" : "[COLOR white]VideoLoad[/COLOR]","url" : "https://evoload.io/v/6LpvPWPsQYko23"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:c94fa4a671b4994c7a8635151b0b68924cbec3f7"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/14D335dw4t0yJta4XbIQU6hmIY4izuT_B/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Cenicienta [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.0[/COLOR]</title>    
 <genre>Musical,Fantástico,Comedia</genre>
 <year>2021</year>
