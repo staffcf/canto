@@ -1,0 +1,185 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ BRITANNIA
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"BRITANNIA", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/nDDoQkfSHBQEpjq92kjWezqJ3yk.jpg",
+	- 1SerieTitle:"BRITANNIA", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/qz1xJOznnXwc8ksr4fl24IGNUDi.jpg",
+	- 1SerieTitle:"BRITANNIA", SerieTemp:"TEMPORADA 3", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/9a0yPUjdx4RQki22IFG28ZqyPQZ.jpg",
+	
+-->
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulo 1</title>
+			<torrent>magnet:?xt=urn:btih:746FF90525BEA625D34254F997C90776E8B54313&dn=720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 2 y 3</title>
+			<torrent>magnet:?xt=urn:btih:9FE840022E6ACB7F85F337F4202326B3C9A38C25&dn=720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 4 a 6</title>
+			<torrent>magnet:?xt=urn:btih:54F5B0E0812DEFD551614B2F671F61B8C3FEA067&dn=720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 7 a 9</title>
+			<torrent>magnet:?xt=urn:btih:F211E6D420CDE2E5E70D0FA33B7539FD80BAC70A&dn=720</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulo 1</title>
+			<torrent>magnet:?xt=urn:btih:90C1A08150805073B54B4E0F271BF0E9F955A757&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 2 y 3</title>
+			<torrent>magnet:?xt=urn:btih:63B806B5C030A0D64262B78E6DF771162B804F99&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 4 a 6</title>
+			<torrent>magnet:?xt=urn:btih:A7D5C12646886ED376531EEC89A900857171FCF0&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 7 a 9</title>
+			<torrent>magnet:?xt=urn:btih:475264C629DE79EBB5CE18756B41F2305D9F0F02&dn=HDTV</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - Capitulos 1 a 5</title>
+			<torrent>magnet:?xt=urn:btih:0B258FBDEF7628C3647E846B5EFD0CB66BB22757&dn=720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - Capitulos 6 a 10</title>
+			<torrent>magnet:?xt=urn:btih:E896D1F2E3D9898C05997BD5BD6516D58F4CC9ED&dn=720</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - Capitulos 1 a 5</title>
+			<torrent>magnet:?xt=urn:btih:A7F241B6F641F88F0ABA8C0BCB3D11B9DA1ADBFB&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - Capitulos 6 a 10</title>
+			<torrent>magnet:?xt=urn:btih:48BD3EADF72EEB97982BBA56665C95AF344B790D&dn=HDTV</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x01 - Capitulo 1</title>
+			<torrent>magnet:?xt=urn:btih:4FBE62B38B0A8ECA7E3C667A21256E1F24DD6D41&dn=720</torrent>	magnet:?xt=urn:btih:33361FA1468F6E6E3E4DDC88DEDC00E345DDACC7&dn=HDTV
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x02 - Capitulo 2</title>
+			<torrent>magnet:?xt=urn:btih:6A71992E0077E384C3757D9BB2C965044BA3406F&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x03 - Capitulo 3</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x04 - Capitulo 4</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x05 - Capitulo 5</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x06 - Capitulo 6</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x07 - Capitulo 7</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x08 - Capitulo 8</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
