@@ -9,11 +9,12 @@
 
 	ETIQUETAS:
 	
-	- 1SerieTitle:"LA CASA DE PAPEL", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/jAGeeCuAh4Id4p78BOYsSFXLrC8.jpg",
-	- 1SerieTitle:"LA CASA DE PAPEL", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/3owa8XVqdzKNRh6VQBGAVJrwsBe.jpg", 
-	- 1SerieTitle:"LA CASA DE PAPEL", SerieTemp:"TEMPORADA 3", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/yHRTXTQmN04cZ5UWxKKreyBNyCi.jpg", 
-	- 1SerieTitle:"LA CASA DE PAPEL", SerieTemp:"TEMPORADA 4", SerieID:"SERIETEMP4", SerieIDT:"TORRENTTEMP4", SerieThumbail:"https://www.themoviedb.org/t/p/original/kvp2I1cKQ8pTzhBIxIyAjscsfxL.jpg",  	
-	- 1SerieTitle:"LA CASA DE PAPEL", SerieTemp:"TEMPORADA 5", SerieID:"SERIETEMP5", SerieIDT:"TORRENTTEMP5", SerieThumbail:"https://www.themoviedb.org/t/p/original/wcijC3hrcahKOUTMQeoUWbMqnYA.jpg",
+	- 1SerieTitle:"LA CASA DE PAPEL", SerieTemp:"PARTE 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://i.imgur.com/81dgP3W.jpg",
+	- 1SerieTitle:"LA CASA DE PAPEL", SerieTemp:"PARTE 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://i.imgur.com/JPGqbir.jpg", 
+	- 1SerieTitle:"LA CASA DE PAPEL", SerieTemp:"PARTE 3", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/yHRTXTQmN04cZ5UWxKKreyBNyCi.jpg", 
+	- 1SerieTitle:"LA CASA DE PAPEL", SerieTemp:"PARTE 4", SerieID:"SERIETEMP4", SerieIDT:"TORRENTTEMP4", SerieThumbail:"https://www.themoviedb.org/t/p/original/kvp2I1cKQ8pTzhBIxIyAjscsfxL.jpg", 	
+	- 1SerieTitle:"LA CASA DE PAPEL", SerieTemp:"PARTE 5 - VOLUMEN 1", SerieID:"SERIETEMP5", SerieIDT:"TORRENTTEMP5", SerieThumbail:"https://www.themoviedb.org/t/p/original/wcijC3hrcahKOUTMQeoUWbMqnYA.jpg",
+	
 	
 -->
 ======================================================================
@@ -267,60 +268,189 @@
 ======================================================================
 			"Tag= TORRENTTEMP5, "
 			<item>
+			<title> - [COLOR yellow]CALIDAD 1080</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP5, TORRENTTEMP5, "
+			<item>
 			<title>5x01 - El final del camino</title>
-			<torrent>https://raw.githubusercontent.com/cheroky77/Torrents/main/Series/La.Casa.de.Papel/LCDP.5x01.El.final.del.camino.-1080.-.CristalAzul.mkv.torrent</torrent> magnet:?xt=urn:btih:E667D31AF0414AAD1FDD59F745B52FD219C7F12E&dn=HD1080
+			<link>https://vidlox.me/NO_LINK</link>  https://femax20.com/v/mp85df53z4zl7kp
+			<link2>https://vidlox.me/NO_LINK</link2>  
+			<link3>https://vidlox.me/NO_LINK</link3>  
+			<link4>https://vidlox.me/NO_LINK</link4>  
+			<link5>https://dl.dropboxusercontent.com/s/3s0l0f2x210mtor/LCDP.5x01.El.final.del.camino.-1080.-.CristalAzul.mkv?dl=0</link5>
+			<torrent>https://www.dropbox.com/s/kccixznykwqkuz7/LCDP.5x01.El.final.del.camino.-1080.-.CristalAzul.mkv.torrent?dl=1</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP5, TORRENTTEMP5, "
+			<item>
+			<title>5x02 - ¿Crees en la reencarnación?</title>
+			<link>https://vidlox.me/NO_LINK</link>  https://femax20.com/v/3ezd-ime262qrmq
+			<link2>https://vidlox.me/NO_LINK</link2>  
+			<link3>https://vidlox.me/NO_LINK</link3>  
+			<link4>https://vidlox.me/NO_LINK</link4>  
+			<link5>https://dl.dropboxusercontent.com/s/lwc20evvhliq5hi/LCDP.5x02.Crees.en.la.reencarnacion.-1080.-.CristalAzul.mkv?dl=0</link5>
+			<torrent>https://www.dropbox.com/s/ccwoony0pecec2y/LCDP.5x02.Crees.en.la.reencarnacion.-1080.-.CristalAzul.mkv.torrent?dl=1</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP5, TORRENTTEMP5, "
+			<item>
+			<title>5x03 - El espectáculo de la vida</title>
+			<link>https://vidlox.me/NO_LINK</link>  https://femax20.com/v/n1-50s2mkryzzz4
+			<link2>https://vidlox.me/NO_LINK</link2>  
+			<link3>https://vidlox.me/NO_LINK</link3>  
+			<link4>https://vidlox.me/NO_LINK</link4>  
+			<link5>https://dl.dropboxusercontent.com/s/mym4shygo6k1nbh/LCDP.5x03.El.espectaculo.de.la.vida.-1080.-.CristalAzul.mkv?dl=0</link5>
+			<torrent>https://www.dropbox.com/s/zimuoep2mfu05ql/LCDP.5x03.El.espectaculo.de.la.vida.-1080.-.CristalAzul.mkv.torrent?dl=1</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP5, TORRENTTEMP5, "
+			<item>
+			<title>5x04 - Tu sitio en el cielo</title>
+			<link>https://vidlox.me/NO_LINK</link>  https://femax20.com/v/pz8jpim1w42ly2l
+			<link2>https://vidlox.me/NO_LINK</link2>  
+			<link3>https://vidlox.me/NO_LINK</link3>  
+			<link4>https://vidlox.me/NO_LINK</link4>  
+			<link5>https://dl.dropboxusercontent.com/s/0h2lmiko3i18kgd/LCDP.5x04.Tu.sitio.en.el.cielo.-1080.-.CristalAzul.mkv?dl=0</link5>
+			<torrent>https://www.dropbox.com/s/z0998n24aipcekw/LCDP.5x04.Tu.sitio.en.el.cielo.-1080.-.CristalAzul.mkv.torrent?dl=1</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP5, TORRENTTEMP5, "
+			<item>
+			<title>5x05 - Vivir muchas vidas</title>
+			<link>https://vidlox.me/NO_LINK</link>  https://femax20.com/v/jd854sdewqx7qr0
+			<link2>https://vidlox.me/NO_LINK</link2>  
+			<link3>https://vidlox.me/NO_LINK</link3>  
+			<link4>https://vidlox.me/NO_LINK</link4>  
+			<link5>https://dl.dropboxusercontent.com/s/3i6g9yr6v6i6gbi/LCDP.5x05.Vivir.muchas.vidas.-1080.-.CristalAzul.mkv?dl=0</link5>
+			<torrent>https://www.dropbox.com/s/lpgtafr2lr2ubp2/LCDP.5x05.Vivir.muchas.vidas.-1080.-.CristalAzul.mkv.torrent?dl=1</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 1080</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x01 - El final del camino</title>
+			<torrent>magnet:?xt=urn:btih:E667D31AF0414AAD1FDD59F745B52FD219C7F12E&dn=HD1080</torrent> 
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP5, "
 			<item>
 			<title>5x02 - ¿Crees en la reencarnación?</title>
-			<torrent>https://raw.githubusercontent.com/cheroky77/Torrents/main/Series/La.Casa.de.Papel/LCDP.5x02.Crees.en.la.reencarnacion.-1080.-.CristalAzul.mkv.torrent</torrent>	magnet:?xt=urn:btih:F0A55D5EA1BABA91BAFEE23B0A230D3A1722B862&dn=HD1080
+			<torrent>magnet:?xt=urn:btih:F0A55D5EA1BABA91BAFEE23B0A230D3A1722B862&dn=HD1080</torrent>	
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP5, "
 			<item>
 			<title>5x03 - El espectáculo de la vida</title>
-			<torrent>https://raw.githubusercontent.com/cheroky77/Torrents/main/Series/La.Casa.de.Papel/LCDP.5x03.El.espectaculo.de.la.vida.-1080.-.CristalAzul.mkv.torrent</torrent>	magnet:?xt=urn:btih:90CB539E1618FDD61916852C03C52C25D39852A0&dn=HD1080
+			<torrent>magnet:?xt=urn:btih:90CB539E1618FDD61916852C03C52C25D39852A0&dn=HD1080</torrent>	
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP5, "
 			<item>
 			<title>5x04 - Tu sitio en el cielo</title>
-			<torrent>https://raw.githubusercontent.com/cheroky77/Torrents/main/Series/La.Casa.de.Papel/LCDP.5x04.Tu.sitio.en.el.cielo.-1080.-.CristalAzul.mkv.torrent</torrent>	magnet:?xt=urn:btih:4FD7BA9E0F579CD5200E516B7F3B9BF1DBCFC6F1&dn=HD1080
+			<torrent>magnet:?xt=urn:btih:4FD7BA9E0F579CD5200E516B7F3B9BF1DBCFC6F1&dn=HD1080</torrent>	
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP5, "
 			<item>
 			<title>5x05 - Vivir muchas vidas</title>
-			<torrent>https://raw.githubusercontent.com/cheroky77/Torrents/main/Series/La.Casa.de.Papel/LCDP.5x05.Vivir.muchas.vidas.-1080.-.CristalAzul.mkv.torrent</torrent>
+			<torrent>magnet:?xt=urn:btih:4ede43bcbc3bdebe8e1972ddddf6d334fd145040&dn=La.casa.de.papel.A.K.A.Money.Heist.S05E05.Vivir.muchas.vidas.DUAL-AUDIO.SPA-ENG.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv</torrent>
 			</item>
 ======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
 ======================================================================
 			"Tag= TORRENTTEMP5, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 1080</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>Opc. 1 - Capitulos 1 a 5 </title>
+			<torrent>magnet:?xt=urn:btih:e6c15d1fb10a65e7e9da08d71a1933f80c607d70&dn=HD1080</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>Opc. 2 - Capitulos 1 a 5</title>
+			<torrent>magnet:?xt=urn:btih:D861B525ED3B71A316DAEF71EEB96B268AAE7F45&dn=HD1080</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>Opc. 3 - Capitulos 1 a 5</title>
+			<torrent>magnet:?xt=urn:btih:bf108f1c50281f6f6d5d868e63f697c5415aecaf&dn=HD1080</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x0. - Capitulos 1 a 5</title>
+			<torrent>magnet:?xt=urn:btih:132901839B7E4FFC6C1AC53EFAF07D357E5527EF&dn=HDTV</torrent>
+			</item>
+======================================================================
+
+
+<!--
+ TEMPORADA 5 PARTE 2
+-->
+<!--
+
+
+
+			"Tag=  "
 			<item>
 			<title>5x06 - Capitulo 6   [COLOR orangered](03-12-21)</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
-			"Tag= TORRENTTEMP5, "
+			"Tag=  "
 			<item>
 			<title>5x07 - Capitulo 7   [COLOR orangered](03-12-21)</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
-			"Tag= TORRENTTEMP5, "
+			"Tag=  "
 			<item>
 			<title>5x08 - Capitulo 8   [COLOR orangered](03-12-21)</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
-			"Tag= TORRENTTEMP5, "
+			"Tag=  "
 			<item>
 			<title>5x09 - Capitulo 9   [COLOR orangered](03-12-21)</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
-			"Tag= TORRENTTEMP5, "
+			"Tag=  "
 			<item>
 			<title>5x10 - Capitulo 10   [COLOR orangered](03-12-21)</title>
 			<torrent></torrent>
