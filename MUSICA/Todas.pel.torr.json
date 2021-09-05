@@ -361,6 +361,8 @@ Title:LA SIRENITA, SagaID:LaSirenita, Imagen:https://i.pinimg.com/originals/06/9
 							-	0SagaINFANTIL, 1SagaTINFANTIL,
 Title:LILO Y STICH, SagaID:LiloyStitch, Imagen:https://i1.wp.com/imagenesparapeques.com/wp-content/uploads/2019/12/Lilo-y-Stitch-logo-imagenes.png,
 							-	0SagaINFANTIL, 1SagaTINFANTIL,
+Title:LLUVIA DE ALBONDIGAS, SagaID:LluviaAlbondigas, Imagen:https://www.themoviedb.org/t/p/original/cMs3pxK1xjse7fJooGZsWAlrk6Q.jpg,
+							-	0SagaINFANTIL, 1SagaTINFANTIL,
 Title:LOS CROODS, SagaID:Croods, Imagen:https://www.themoviedb.org/t/p/original/aKFZWGYnSNc32zeaAh4JlKNP8X4.jpg, https://www.fauxtattoostudios.com/wp-content/uploads/2014/12/The-Croods.jpg
 							-	0SagaINFANTIL, 1SagaTINFANTIL,
 Title:LOS INCREIBLES, SagaID:LosIncreibles, Imagen:https://www.themoviedb.org/t/p/original/8ITl6ukrpwlavJhdribfSKQI6ku.jpg,	
@@ -2195,6 +2197,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				{
 				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Space.Jam-Nuevas.leyendas.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:A98B422B8AD62111F1A89C982BE284E4FD71F82F&dn=HD1080
 				"torrent4k": "magnet:?xt=urn:btih:F2B921B8684622CC220F534F3B715252878C6444&dn=Web4K"	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra S, Spain, Musica, ",
+			"name": "Stop (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/iLW2R016ZWXNUjzfutYjgvAxIEW.jpg",
+			"info": "El infortunio lleva al grupo musical Doble Pletina a ser condenado a realizar servicios a la comunidad en un misterioso parque de Barcelona",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Stop.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:F428C24A85CC8CFF8C89FECEEAB2B6E7893A8B40&dn=HD720	magnet:?xt=urn:btih:29C08B15C0A53CF87B76432C226417B1817BAFAB&dn=BRRip
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -8171,19 +8186,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent4k": ""	
 				}		
 			]
-			},,
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra S, Spain, Musica, ",
-			"name": "Stop (2021)","coloryear": "cyan",
-			"image": "https://www.themoviedb.org/t/p/original/iLW2R016ZWXNUjzfutYjgvAxIEW.jpg",
-			"info": "El infortunio lleva al grupo musical Doble Pletina a ser condenado a realizar servicios a la comunidad en un misterioso parque de Barcelona",
-			"genero": "Comedia",
-			"stations": [
-				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Stop.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:F428C24A85CC8CFF8C89FECEEAB2B6E7893A8B40&dn=HD720	magnet:?xt=urn:btih:29C08B15C0A53CF87B76432C226417B1817BAFAB&dn=BRRip
-				"torrent4k": ""	
-				}		
-			]
 			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, A2020, Letra S, EEUU, Netflix, ",
@@ -12402,7 +12404,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Intriga, Thriller, Drama",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.sospechoso.numero.12.-2019.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.sospechoso.numero.12.-2019.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:594ACA6E45799E93F5C04AF62B460185ABD7FCF8&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -14866,6 +14868,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Thriller, A2019, Letra L, EEUU, Biografico, Espionaje, ",
+			"name": "Las espias de Churchill (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/rfk6q3JPamkmx8T2woB2TNgzHBM.jpg",
+			"info": "A comienzos de la Segunda Guerra Mundial, con Reino Unido llegando a la desesperacion, Churchill ordena a su nueva agencia de espionaje que reclute y entrene a mujeres espia",
+			"genero": "Drama, Thriller",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:FF390F4A93DB2874FA2060302B47FADFE91E8932&dn=BRRip",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Thriller, A2019, Letra L, Australia, Secuestros, Desapariciones, Slasher, Gore, ",
 			"name": "Las Furias (2019)","coloryear": "limegreen",
 			"image": "https://www.themoviedb.org/t/p/original/4w9vVZyFaqnooK6it39ELAycJfS.jpg",
@@ -15087,6 +15102,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2019, Letra L, Canada, ",
+			"name": "Lo que queda de nosotras (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/jU0fYMOvKefK9FLamsXHR7zScpH.jpg",
+			"info": "Dos madres y dos hijas lidian con su dolor y sus complicadas relaciones cuando fallece la persona que las conecta",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:60DB01D6B2B603148A44B3F8440909E6CA2353EB&dn=BRRip",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2019, Letra L, Argentina, Cine Latino, ",
 			"name": "Lobos (2019)","coloryear": "limegreen",
 			"image": "https://www.themoviedb.org/t/p/original/gSucDXSl15c3AL1Qr79yIJUbZe7.jpg",
@@ -15214,32 +15242,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent": "magnet:?xt=urn:btih:efced8482fff02f06da3defd53af99ef31140618",
 				"torrent4k": ""
 				}			
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Thriller, A2019, Letra L, EEUU, Biografico, Espionaje, ",
-			"name": "Las espias de Churchill (2019)","coloryear": "limegreen",
-			"image": "https://www.themoviedb.org/t/p/original/rfk6q3JPamkmx8T2woB2TNgzHBM.jpg",
-			"info": "A comienzos de la Segunda Guerra Mundial, con Reino Unido llegando a la desesperacion, Churchill ordena a su nueva agencia de espionaje que reclute y entrene a mujeres espia",
-			"genero": "Drama, Thriller",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:FF390F4A93DB2874FA2060302B47FADFE91E8932&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2019, Letra L, Canada, ",
-			"name": "Lo que queda de nosotras (2019)","coloryear": "limegreen",
-			"image": "https://www.themoviedb.org/t/p/original/jU0fYMOvKefK9FLamsXHR7zScpH.jpg",
-			"info": "Dos madres y dos hijas lidian con su dolor y sus complicadas relaciones cuando fallece la persona que las conecta",
-			"genero": "Drama",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:60DB01D6B2B603148A44B3F8440909E6CA2353EB&dn=BRRip",
-				"torrent4k": ""
-				}		
 			]
 			},
 			{
@@ -27048,19 +27050,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Belico, 1Drama, A2016, Letra S, Argentina, Cine Latino, ",
-			"name": "Soldado argentino, solo conocido por Dios (2016)","coloryear": "purple",
-			"image": "https://www.themoviedb.org/t/p/original/wQNPewYaVr1BtEeJRAT26cRGSXu.jpg",
-			"info": "Film centrado en el drama humano de tres jóvenes de un pequeño pueblo de Traslasierra, provincia de Córdoba, quienes desde lugares ideológicos muy distintos, se ven transformados para siempre por la Guerra de Malvinas",
-			"genero": "Belico, Drama",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:AD7F70BF4BE43C88F358B22179AF69698504DE89&dn=HD720",
-				"torrent4k": ""	
-				}		
-			]
-			},
-			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Romance, A2017, Letra S, EEUU, Musica, ",
 			"name": "Song to song (2017)","coloryear": "green",
 			"image": "https://www.themoviedb.org/t/p/original/fZ1tHVE8KW1OnemlRSVulpgvejd.jpg",
@@ -28467,6 +28456,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				{
 				"torrent": "magnet:?xt=urn:btih:8F51C4435FF8A0FAD788BD332E416927D007CFBF",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Belico, 1Drama, A2016, Letra S, Argentina, Cine Latino, ",
+			"name": "Soldado argentino, solo conocido por Dios (2016)","coloryear": "purple",
+			"image": "https://www.themoviedb.org/t/p/original/wQNPewYaVr1BtEeJRAT26cRGSXu.jpg",
+			"info": "Film centrado en el drama humano de tres jóvenes de un pequeño pueblo de Traslasierra, provincia de Córdoba, quienes desde lugares ideológicos muy distintos, se ven transformados para siempre por la Guerra de Malvinas",
+			"genero": "Belico, Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:AD7F70BF4BE43C88F358B22179AF69698504DE89&dn=HD720",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -30096,6 +30098,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:0ED1FC7D5138A1E425E925088368DECCF40BBCA4&dn=BR1080",	magnet:?xt=urn:btih:07DB64D44709A221D4FDB8E6BC43CBB5D3519BE4&dn=DVDRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Comedia, 1Fantastico, 1Aventuras, 1Infantil, A2013, Letra L, EEUU, Sagas LluviaAlbondigas, ",
+			"name": "Lluvia de albondigas 2 (2013)","coloryear": "lawngreen",
+			"image": "",
+			"info": "El genio del inventor Flint Lockwoods acaba siendo reconocido por su ídolo Chester V, que lo invita a unirse a la The Live Corp Company, donde los inventores más brillantes del mundo crean nuevas tecnologías para el bienestar de la humanidad. La mano derecha de Chester es Barb: una orangutana dotada de un cerebro humano altamente evolucionado que le permite ser muy retorcida y manipuladora. El sueño de Flint cambia cuando descubre que la máquina de su invención, destinada a convertir el agua en alimentos, ha pasado a crear híbridos de animales-comida. Para salvar a la humanidad, Chester envía a Flint y a sus colegas a una peligrosa misión, que los llevará a enfrentarse a tacocodrilos, gambancés, quesoarañas con doble de bacon y otras criaturas igualmente extravagantes",
+			"genero": "Animacion, Comedia, Fantastico, Aventuras, Infantil",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:D57DC81035094101436A321AA2283114B45C08E2&dn=HD1080",
 				"torrent4k": ""	
 				}		
 			]
@@ -32004,6 +32019,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Ciencia ficcion, 1Infantil, A2009, Letra L, EEUU, Sagas LluviaAlbondigas, ",
+			"name": "Lluvia de albondigas (2009)","coloryear": "hotpink",
+			"image": "https://www.themoviedb.org/t/p/original/cMs3pxK1xjse7fJooGZsWAlrk6Q.jpg",
+			"info": "Adaptación del libro homónimo de Judi Barrett, una parodia animada de los films de catástrofes, como Armageddon, Twister o Independence Day. El protagonista es Flint, un joven científico que sueña con inventar algo que le mejore la vida a todos sus vecinos. Tras muchos intentos consigue crear algo que realmente funciona: una máquina que hace caer comida del cielo",
+			"genero": "Animacion, Ciencia ficcion, Infantil",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:BF35621DE3959B4E9D625C4BF5C0BF4351E75986&dn=HD1080",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Belico, 1Accion, 1Comedia, A2009, Letra M, EEUU, Nazismo, Venganza, ",
 			"name": "Malditos bastardos (2009)","coloryear": "hotpink",
 			"image": "https://www.themoviedb.org/t/p/original/8bvyf5b4omVHD6R7Wx0Rnxwdf11.jpg",
@@ -32199,7 +32227,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Terror, A1980, Letra V, EEUU, Sagas Viernes13, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A1980, Letra V, EEUU, Sagas Viernes13, ",
 			"name": "Viernes 13 (2009)","coloryear": "hotpink",
 			"image": "https://www.themoviedb.org/t/p/original/o4AjO3Otkj2SCXQ2uPqTbGgeb5w.jpg",
 			"info": "Remake del clasico film de terror. A pesar de los consejos de la policia y de los lugareños, Clay se adentra en el espeluznante y legendario bosque de Crystal Lake para buscar a su hermana desaparecida. Cuenta con la ayuda de una joven que ha ido al bosque a pasar un fin de semana con un grupo de amigos. Lo que ignoran es que han entrado en el area de accion de un siniestro asesino: Jason Voorhees.",
@@ -35109,7 +35137,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Terror, 1Ciencia ficcion, 1Fantastico, A1980, Letra J, EEUU, Sagas Viernes13, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Ciencia ficcion, 1Fantastico, A1980, Letra J, EEUU, Sagas Viernes13, ",
 			"name": "Jason X (2001)","coloryear": "seagreen",
 			"image": "https://www.themoviedb.org/t/p/original/qizsVrFGEkfVZ3WvkJb1q95JFVf.jpg",
 			"info": "En el año 2445, la Tierra es un lugar contaminado al que regresan de vez en cuando los hombres para recoger residuos de la vieja civilizacion. Poco se imaginan los jovenes e intrepidos exploradores que acaban de aterrizar en la Tierra el destino que les aguarda. Jason X es la decima parte de la saga Viernes 13, una de las mas famosas series de terror de todos los tiempos",
@@ -35738,7 +35766,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Aventuras, 1Accion, A1997, Letra E, Reino Unido, B2000, A2000-1991, Sagas JamesBond, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Aventuras, 1Accion, A1999, Letra E, Reino Unido, B2000, A2000-1991, Sagas JamesBond, ",
 			"name": "El mundo nunca es suficiente (1999)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/mgZsKKSIolNBS3B0hYCcMHhtTwr.jpg",
 			"info": "Tras la muerte del magnate britanico del petroleo Sir Robert King en un atentado en el cuartel general del MI6, su hija Elektra hereda sus fabulosos yacimientos petroliferos del mar Caspio. El agente 007, que se siente culpable de la muerte de King, se convierte en el guardaespaldas de Elektra. Su astronomica fortuna atrae no solo la atencion de la prensa internacional, sino tambien la del asesino, un hombre con una bala alojada en el cerebro que le impide sentir dolor fisico y cuya unica obsesion es la venganza",
@@ -35797,7 +35825,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Drama, Fantastico",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:AE5FFE3EB551B357CE5EFD4C1420F1D34D0DACA6&HD720",
+				"torrent": "magnet:?xt=urn:btih:CD096FA2D2A97479A665F3E7C6C54C87A79D999D&dn=B1080",	magnet:?xt=urn:btih:AE5FFE3EB551B357CE5EFD4C1420F1D34D0DACA6&HD720	magnet:?xt=urn:btih:8629F43E433A9E16C944D2C095F1623D80BBBAAC&dn=DVDRip
 				"torrent4k": "magnet:?xt=urn:btih:692C0FB195171A2FB7634EA006A3CA2C2857F320&dn=UHD4K"
 				}		
 			]
@@ -36375,19 +36403,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Fantastico, 1Comedia, 1Accion, A1997, Letra M, EEUU, B2000, A2000-1991, Extraterrestres, Comics, Sagas Meninblack, ",
-			"name": "Men in Black (Hombres de negro) (1997)","coloryear": "tomato",
-			"image": "https://www.themoviedb.org/t/p/original/oEjjM8XSPHkhTgPz7go3mEfzysh.jpg",
-			"info": "Durante muchos años los extraterrestres han vivido en la Tierra, mezclados con los seres humanos, sin que nadie lo supiese. Los Hombres de Negro son agentes especiales que forman parte de una unidad altamente secreta del gobierno; su mision consiste en controlar a los alienigenas. Dos de estos agentes (uno veterano y otro recien incorporado), cuya mision consiste en vigilar a los alienigenas que viven en Nueva York, descubren a un terrorista galactico que pretende acabar con la Humanidad",
-			"genero": "Ciencia ficcion, Fantastico, Comedia, Accion",
-			"stations": [
-				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Men.in.Black-Hombres.de.negro-.-1997.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:BBB1CFEC6B7191C862D09DC201319BCB02775896&DVDRip
-				"torrent4k": "magnet:?xt=urn:btih:D9F015A24B51251A239E673206A78D144ACAA1B9"
-				}		
-			]
-			},
-			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, A1997, Letra J, EEUU, Crimen, B2000, A2000-1991, ",
 			"name": "Jackie Brown (1997)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/l6bCO7BhJJCQehaEqHc4fx80kiG.jpg",
@@ -36410,6 +36425,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				{ 
 				"torrent": "magnet:?xt=urn:btih:FF2E4D4055F58476C03FE426E6E2EFB6358CF64B&dn=HD1080",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Fantastico, 1Comedia, 1Accion, A1997, Letra M, EEUU, B2000, A2000-1991, Extraterrestres, Comics, Sagas Meninblack, ",
+			"name": "Men in Black (Hombres de negro) (1997)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/oEjjM8XSPHkhTgPz7go3mEfzysh.jpg",
+			"info": "Durante muchos años los extraterrestres han vivido en la Tierra, mezclados con los seres humanos, sin que nadie lo supiese. Los Hombres de Negro son agentes especiales que forman parte de una unidad altamente secreta del gobierno; su mision consiste en controlar a los alienigenas. Dos de estos agentes (uno veterano y otro recien incorporado), cuya mision consiste en vigilar a los alienigenas que viven en Nueva York, descubren a un terrorista galactico que pretende acabar con la Humanidad",
+			"genero": "Ciencia ficcion, Fantastico, Comedia, Accion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Men.in.Black-Hombres.de.negro-.-1997.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:BBB1CFEC6B7191C862D09DC201319BCB02775896&DVDRip
+				"torrent4k": "magnet:?xt=urn:btih:D9F015A24B51251A239E673206A78D144ACAA1B9"
 				}		
 			]
 			},
@@ -36480,7 +36508,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A1997, Letra V, EEUU, B2000, A2000-1991, ",
-			"name": "Vacaciones en las Vegas (1997)","coloryear": "tomate",
+			"name": "Vacaciones en las Vegas (1997)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/fNdYhw7wDtyLTefK6hd21ZeZAAc.jpg",
 			"info": "Nadie planea unas vaciones mejor que Clark Griswold, un fiel marido y generoso padre de familia. En esta ocasion ha elegido un destino perfecto, Las Vegas, capital del juego donde los Griswold podran disfrutar de unos dias en familia. Pero cuando Clark pone empeño en algo, todo se estropea",
 			"genero": "Comedia",
@@ -36528,19 +36556,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent": "magnet:?xt=urn:btih:B86F4FD17F5D20DD3F5652808448C854DFC99E0D",
 				"torrent4k": ""
 				}
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, A1995, Letra C, EEUU, B2000, A2000-1991, ",
-			"name": "Caza legal (1995)","coloryear": "tomato",
-			"image": "https://www.themoviedb.org/t/p/original/3nQbYCTuFHRe2N8RMIVumIConTf.jpg",
-			"info": "Max Kirkpatrick (William Baldwin) es un brillante agente de policia que se ve obligado a proteger a la atractiva Kate McQuean (Cindy Crawford), una prestigiosa abogada de derechos civiles de Miami que ve su vida amenazada por una banda de antiguos agentes del KGB liderada por un importante hombre de negocios de la antigua Union Sovietica",
-			"genero": "Accion",
-			"stations": [
-				{ 
-				"torrent": "magnet:?xt=urn:btih:3441FE34AE485BC5DBA2A0D6612D7E6A71DB2254&dn=BR1080",
-				"torrent4k": ""
-				}		
 			]
 			},
 			{
@@ -36779,6 +36794,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:1ED9C2020A804131F8518712DBBD4BC535394983",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, A1995, Letra C, EEUU, B2000, A2000-1991, ",
+			"name": "Caza legal (1995)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/3nQbYCTuFHRe2N8RMIVumIConTf.jpg",
+			"info": "Max Kirkpatrick (William Baldwin) es un brillante agente de policia que se ve obligado a proteger a la atractiva Kate McQuean (Cindy Crawford), una prestigiosa abogada de derechos civiles de Miami que ve su vida amenazada por una banda de antiguos agentes del KGB liderada por un importante hombre de negocios de la antigua Union Sovietica",
+			"genero": "Accion",
+			"stations": [
+				{ 
+				"torrent": "magnet:?xt=urn:btih:3441FE34AE485BC5DBA2A0D6612D7E6A71DB2254&dn=BR1080",
 				"torrent4k": ""
 				}		
 			]
@@ -37265,7 +37293,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Terror, A1980, Letra V, EEUU, B2000, A2000-1991, Sagas Viernes13, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A1980, Letra V, EEUU, B2000, A2000-1991, Sagas Viernes13, ",
 			"name": "Viernes 13: Jason se va al Infierno (1993)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/42HcufiLeyqMjgEUibjRNd4ItPB.jpg",
 			"info": "El ultimo descendiente de la familia Voorhess debe detener a Jason, que tras volverse loco, ha sembrado el terror y va dejando tras de si un rastro de sangre. Si no lo consigue a tiempo, Jason podria volverse inmortal y nadie podria detenerlo",
@@ -38051,7 +38079,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Terror, A1980, Letra V, EEUU, B2000, A1990-1981, Sagas Viernes13, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A1980, Letra V, EEUU, B2000, A1990-1981, Sagas Viernes13, ",
 			"name": "Viernes 13. Parte VIII: Jason vuelve... para siempre (1989)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/sVvP2woMRNNXe70fqTCo78co96V.jpg",
 			"info": "Jason ha escogido como victimas a un grupo de escolares que se encuentra en Crystal Lake. Tras una primera masacre, decide ir a Manhattan para acabar con los supervivientes de su primera embestida",
@@ -38207,7 +38235,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Terror, 1Fantastico, A1980, Letra V, EEUU, B2000, A1990-1981, Sagas Viernes13, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Fantastico, A1980, Letra V, EEUU, B2000, A1990-1981, Sagas Viernes13, ",
 			"name": "Viernes 13. 7ª parte: Sangre nueva (1988)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/2Tyr422N8ivi9TfA9BAP896Z6Q.jpg",
 			"info": "Desde que el maniaco homicida Jason Voorhees quedo atrapado en unas cadenas al fondo del lago Crystal, el campamento de verano mas cercano no ha sufrido ningun altercado... ni asesinatos. Pero una de las campistas, Tina Shepherd, puede ver el futuro y hacer levitar objetos. Su medico conoce los peligros de la telequinesia, pero tiene mas interes en aprovecharse de ella que en ayudarla. Y ahora es demasiado tarde. Sin querer, Tina ha liberado a Jason de su tumba acuosa, y el baño de sangre esta a punto de empezar...",
@@ -39602,6 +39630,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A1979, Letra L, Canada, ",
+			"name": "Los incorregibles albondigas (1979)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/khCfHEFzYFXpOeEcuL6Emym8iXr.jpg",
+			"info": "El campamento de verano Northstar acaba de abrir y sus responsables, Tripper, su novia Roxanna y Morty, se afanan en entrenar a los monitores, para recibir a los hiperactivos adolescentes que están a punto de llegar. Tras instalarse, la primera actividad es un partido de fútbol. Rudy, un chico muy tímido, que provoca accidentalmente la derrota de su equipo, es condenado al aislamiento por sus compañeros. Esta situación hace que intente fugarse del campamento, pero Tripper, que sale en su busca, logra ganarse la confianza del muchacho al que convierte en su colaborador. Las peripecias propias de la vida de campamento llegan a su fin con la Olimpiada anual: una competición compuesta por las más diversas pruebas, en la que se enfrentan los chicos del campamento Northstar con los atletas del campamento Mohawk",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:C79E375DED235645F9B0A3A14EA1203AFABAEE42&dn=HD720",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Ciencia ficcion, A1979, Letra M, Australia, B2000, A1980-1971, 1Culto, Sagas MadMax, ",
 			"name": "Mad Max. Salvajes de autopista (1979)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/aMOcXgL8EDgEv3OeYfQupyUdkA8.jpg",
@@ -39693,19 +39734,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Fantastico, 1Aventuras, A1978, Letra S, EEUU, B2000, A1980-1971, Superheroes, DC, Comics, Sagas Superman, ",
-			"name": "Superman I (1978)","coloryear": "tomato",
-			"image": "https://www.themoviedb.org/t/p/original/by0IcC4VBxOuXiYhDo2515lfmUt.jpg",
-			"info": "Desde una galaxia remota, un recien nacido es enviado por sus padres al espacio debido a la inminente destruccion del planeta donde viven. La nave aterriza en la Tierra, y el niño es adoptado por unos granjeros que le inculcan los mejores valores humanos. Con los años el joven se ira a Metropolis y alli usara sus poderes sobrenaturales para luchar contra el mal",
-			"genero": "Ciencia ficcion, Fantastico, Aventuras",
-			"stations": [
-				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Superman.I.-1978.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:C5B754F4C420F3A4D04CFF77ECC8E052BC74CCFF
-				"torrent4k": "magnet:?xt=urn:btih:79AC5061F63A12BA2169DF11A4BC1F2EC0F276A7"
-				}		
-			]
-			},
-			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Belico, A1978, Letra E, EEUU, 1Oscars, A1980-1971, ",
 			"name": "El Cazador (1978)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/mXosJ8Z7FnwyNXBTQ9jvHhlt9Yk.jpg",
@@ -39754,6 +39782,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				{ 
 				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.noche.de.Halloween.-1978.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:5309DD3BFB2A3B626A21350C25B838213C66C022&BRRip
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Fantastico, 1Aventuras, A1978, Letra S, EEUU, B2000, A1980-1971, Superheroes, DC, Comics, Sagas Superman, ",
+			"name": "Superman I (1978)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/by0IcC4VBxOuXiYhDo2515lfmUt.jpg",
+			"info": "Desde una galaxia remota, un recien nacido es enviado por sus padres al espacio debido a la inminente destruccion del planeta donde viven. La nave aterriza en la Tierra, y el niño es adoptado por unos granjeros que le inculcan los mejores valores humanos. Con los años el joven se ira a Metropolis y alli usara sus poderes sobrenaturales para luchar contra el mal",
+			"genero": "Ciencia ficcion, Fantastico, Aventuras",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Superman.I.-1978.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:C5B754F4C420F3A4D04CFF77ECC8E052BC74CCFF
+				"torrent4k": "magnet:?xt=urn:btih:79AC5061F63A12BA2169DF11A4BC1F2EC0F276A7"
 				}		
 			]
 			},
@@ -41649,7 +41690,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 		"torrent": "",
 		},
 		{
-		"tag": " 0Peliscristal, 0Torrentcristal, 0Animacion, EEUU, Sagas Fabulas ADisney, ",
+		"tag": " 0Torrentcristal, Sagas Fabulas ADisney, ",
 		"name": "Recopilacion de Cuentos y Fabulas Disney - [COLOR gold]Calidad (1080)","coloryear": "gold",
 		"image": "https://i.ytimg.com/vi/iOorM37tNbc/mqdefault.jpg",
 		"info": "Recopilación de 52 cuentos cortos/largos y fábulas de Disney desde los años 30 hasta finales del siglo 20",
@@ -41663,70 +41704,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 		"info": "Peliculas 1, 2 y 3 de la Saga Colegas en el Bosque en Calidad 1080",
 		"genero": "Animacion, Infantil, Comedia",
 		"torrent": "magnet:?xt=urn:btih:E8A196F0DA1E2FFA9FE05A13EBF42700DAA6E5C4&dn=HD1080",
-		},
-		{
-		"tag": " 0Torrentcristal, Sagas Gremlins, ",
-		"name": "Gremlins - 2 Peliculas - [COLOR gold]Calidad (1080)","coloryear": "gold",
-		"image": "https://www.themoviedb.org/t/p/original/fNBeINj5BeWB7nEOZSroTuNORif.jpg",
-		"info": "Peliculas 1 y 2 de la Saga Gremlins ",
-		"genero": "Variedad de generos",
-		"torrent": "magnet:?xt=urn:btih:78A0A38812D89F1535CE16BD3A45EACD35F28AA4&dn=Saga.HD1080",
-		},
-		{
-		"tag": " 0Torrentcristal, Sagas MadMax, ",
-		"name": "Trilogía Mad Max [COLOR gold]Calidad (1080)","coloryear": "gold",
-		"image": "https://m.media-amazon.com/images/I/61kAt1nLgUL.jpg",
-		"info": "3 primeras películas de la Saga Mad Max",
-		"genero": "Variedad de generos",
-		"torrent": "",
-		},
-		{
-		"tag": " 0Torrentcristal, Sagas Chucky, ",
-		"name": "Muñeco diabolico - Peliculas 1 a 6 - [COLOR gold]Calidad (1080)","coloryear": "gold",
-		"image": "https://www.themoviedb.org/t/p/original/7ySySgzx5pTD8ZxxeQAKaHfXff3.jpg",
-		"info": "Las 6 primeras películas de la Saga Muñeco Diabólico",
-		"genero": "Variedad de generos",
-		"torrent": "magnet:?xt=urn:btih:076E7E99271F541EFD879B051C0DF072F2171B3F&dn=HD1080",
-		},
-		{
-		"tag": " 0Torrentcristal, Sagas ElmStreet, ",
-		"name": "Pesadilla en Elm Street - Saga Completa - [COLOR gold]Calidad (1080)","coloryear": "gold",
-		"image": "https://cdn.ofertitas.es/wp-content/uploads/2015/09/coleccion_pesadilla.jpg",
-		"info": "Toda las peliculas de la Saga Pesadilla en ElmSteet",
-		"genero": "Terror",
-		"torrent": "magnet:?xt=urn:btih:EC21D86AE4958CD69E0AB9D3EFD8966624AFE58B&dn=HD1080",
-		},
-		{
-		"tag": " 0Torrentcristal, Sagas Scream, ",
-		"name": "Scream - Saga Completa - [COLOR gold]Calidad (1080)","coloryear": "gold",
-		"image": "http://www.mubis.es/media/users/3724/27705/que-pelicula-de-la-saga-scream-te-gusta-mas-l_cover.jpg",
-		"info": "Toda las peliculas de la Saga Scream",
-		"genero": "Terror",
-		"torrent": "magnet:?xt=urn:btih:5E49735091C8AAB97F729EBF0252EE012FE8D0C0&dn=HD1080",
-		},
-		{
-		"tag": " 1Torrentcristal, Sagas Viernes13, ",
-		"name": "Viernes 13 - Saga Completa - [COLOR gold]Calidad (1080)","coloryear": "gold",
-		"image": "https://images-na.ssl-images-amazon.com/images/I/71j45JMG0CL._SL1331_.jpg",
-		"info": "Toda las peliculas de la Saga Viernes 13",
-		"genero": "Terror",
-		"torrent": "magnet:?xt=urn:btih:CCAF9F34BACB78F116DFBF68F5C37656DEC273A9&dn=HD1080",
-		},
-		{
-		"tag": " 0Torrentcristal, Sagas Spider-Man, ",
-		"name": "Spider-Man - Saga Completa - [COLOR gold]Calidad (1080)","coloryear": "gold",
-		"image": "https://images-na.ssl-images-amazon.com/images/I/815BumVI0aL._SL1400_.jpg",
-		"info": "Peliculas de la saga Spiderman",
-		"genero": "Variedad de generos",
-		"torrent": "https://dl.dropboxusercontent.com/s/u5cb4c4wlzsjdzq/Saga%20Spiderman%20bluray-microhd.torrent?dl=0",  
-		},
-		{
-		"tag": " 0Torrentcristal, Sagas XMEN, ",
-		"name": "X-Men - Saga Completa - [COLOR gold]Calidad (1080)","coloryear": "gold",
-		"image": "https://images-na.ssl-images-amazon.com/images/I/71b4xYBd2fL._SY445_.jpg",  
-		"info": "Peliculas de la saga X-Men",
-		"genero": "Variedad de generos",
-		"torrent": "https://dl.dropboxusercontent.com/s/zr1qmair3827p94/Saga%20XMEN%20bluray-1080p.torrent?dl=0",  
 		},
 		{
 		"tag": " 1Torrentcristal, Sagas BruceLee, ",
