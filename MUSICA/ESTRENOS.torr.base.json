@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra H, Iran, ",
+			"name": "Hijos del Sol (Sun Children) (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/l6GJLfrm4OlOueIKpXVifljuJb5.jpg",
+			"info": "Alí, un niño de 12 años, y sus tres amigos, trabajan para sobrevivir y ayudar a sus familias haciendo trabajos en un garaje y cometiendo pequeños delitos para conseguir dinero rápido. En un milagroso giro de los acontecimientos, Alí recibe el encargo de encontrar un tesoro oculto bajo tierra. Para ello recluta a sus amigos, pero antes de empezar la misión deben matricularse en la Escuela del Sol, una institución caritativa que intenta educar a niños sin hogar y que está ubicada cerca de donde se halla el tesoro",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Hijos.del.Sol-Sun.Children-.-2020.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:667953D84619401C28B8B2CFF69C0BC6FFD7733D&dn=BRRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Intriga, 1Thriller, 1Drama, A2019, Letra E, Corea del Sur, ",
 			"name": "El sospechoso numero 12 (2019)","coloryear": "limegreen",
 			"image": "https://www.themoviedb.org/t/p/original/uTrEGZVNju8QGazwOErdXAKyLbg.jpg",
@@ -13,7 +26,7 @@
 			"genero": "Intriga, Thriller, Drama",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.sospechoso.numero.12.-2019.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.sospechoso.numero.12.-2019.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:594ACA6E45799E93F5C04AF62B460185ABD7FCF8&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
