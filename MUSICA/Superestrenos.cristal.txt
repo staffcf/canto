@@ -4,6 +4,18 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 
+
+<item>
+<title>[COLOR white] Quo vadis Aida [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.5[/COLOR]</title>    
+<genre>Drama, Bélica</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/S0A8E7f.jpg</thumbnail>
+<fanart>https://i.imgur.com/yxSHJyo.jpg</fanart>
+<info>Bosnia, julio de 1995. Aida trabaja como traductora para la ONU en la pequeña ciudad de Srebrenica. Cuando el ejército serbio ocupa el pueblo, su familia está entre las miles de personas que buscan refugio en los campos de la ONU. Como participa en las negociaciones, Aida tiene acceso a información importante.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=lVuz-DqFwJ0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/k0e35h34qd48ymz"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/rw3r43nlf3e9w6"},{"titulo" : "[COLOR white]VideoTape[/COLOR]","url" : "https://streamtape.com/v/K0QRPxq68aH01Ww"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/4s0z5euleos7.html"},{"titulo" : "[COLOR white]VideoLoad[/COLOR]","url" : "https://evoload.io/v/cSrxsGMGKawCsB"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1U4L5iWpOnTfnilw2wLv2BhVXUWMehRk4/view"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Los 800 [/COLOR][COLOR yellow](2020) [COLOR aqua]*7.3[/COLOR]</title>    
 <genre>Bélica, Historia, Drama, Acción</genre>
