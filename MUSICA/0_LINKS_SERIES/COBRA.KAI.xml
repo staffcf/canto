@@ -204,6 +204,37 @@
 ======================================================================
 			"Tag= TORRENTTEMP3, "
 			<item>
+			<title> - [COLOR yellow]CALIDAD 1080</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - Capitulos 1 a 4</title>
+			<torrent>magnet:?xt=urn:btih:F894AD21C2ECF1458059AA0388FB4D4281D2B123&dn=HD1080</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - Capitulos 5 a 7</title>
+			<torrent>magnet:?xt=urn:btih:578C6CBD5E7DDAF1A10DFADE09FD4B2870D285AF&dn=HD1080</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - Capitulos 8 a 10</title>
+			<torrent>magnet:?xt=urn:btih:E1371706A7EBC98D9B56DFB114EC18DD7A385F66&dn=HD1080</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
 			<title> - [COLOR yellow]CALIDAD 720</title>      
 			<torrent></torrent>
 			</item>
