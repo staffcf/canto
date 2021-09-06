@@ -6,6 +6,17 @@
 
 
 <item>
+<title>[COLOR white] Todas las lunas [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.8[/COLOR]</title>    
+<genre>Drama, Fantasía, Terror</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/YSR8uBT.jpg</thumbnail>
+<fanart>https://i.imgur.com/oNbTDL9.jpg</fanart>
+<info>Bosques eternos y montañas nevadas… Es el último tercio del siglo XIX y en algún valle del norte de Navarra se viven los estertores de la última guerra carlista…Un proyectil destruye un hospicio de niñas y tan solo sobrevive una niña, que mal herida, es rescatada por una hermosa mujer que la cuida hasta que se cura. Sin embargo, el destino no está de su lado, y como consecuencia de un inesperado ataque a su escondite, la niña vuelve a quedarse sola y aislada en las montañas. Será entonces cuando descubrirá su nueva y extraña condición, que le impedirá ver la luz del día, y volver a tener una vida corriente como cualquier otra niña.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=1rJ43pqCJWM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/e-k5rh-l500k23j"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/9n8rd687snj7nd"},{"titulo" : "[COLOR white]VideoTape[/COLOR]","url" : "https://streamtape.com/v/wDoZA9gkWyIJXar"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/r23pxfij3ne6.html"},{"titulo" : "[COLOR white]VideoLoad[/COLOR]","url" : "https://evoload.io/v/zfQiTdZsGfqC76"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Of9n6O9xSJpTm3JH54EsAI_c7hq7gqOi/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Hijos del Sol [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.5[/COLOR]</title>    
 <genre>Drama</genre>
 <year>2021</year>
