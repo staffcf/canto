@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Romance, A2020, Letra P, EEUU, ",
+			"name": "Pequeño pez (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/rQP2UhAaqRfrpelLmZwa8h3rgUT.jpg",
+			"info": "Una pareja lucha por sacar adelante su relación cuando un virus que hace perder la memoria amenaza con borrar la historia de su amor",
+			"genero": "Ciencia ficcion, Romance",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Pequenho.pez.-2020.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:B7AF6E7B6F7EA57A2A5A7D42C3544543DA55D06C&dn=BRRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Comedia, A2020, Letra S, EEUU, ",
 			"name": "Search and Destroy (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/mTwZ0wE6i93thOjSldztGkqyEHJ.jpg",
