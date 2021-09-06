@@ -6,6 +6,17 @@
 
 
 <item>
+<title>[COLOR white] Hijos del Sol [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.5[/COLOR]</title>    
+<genre>Drama</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/hiHIylq.jpg</thumbnail>
+<fanart>https://i.imgur.com/mG5ucXz.jpg</fanart>
+<info>Alí, un niño de 12 años, y sus tres amigos trabajan para sobrevivir y ayudar a sus familias haciendo pequeños trabajos en un garaje y cometiendo pequeños delitos para conseguir dinero rápido. En un milagroso giro de los acontecimientos, Alí recibe el encargo de encontrar un tesoro oculto bajo tierra. Para ello recluta a sus amigos pero, antes de empezar la misión, deben unirse a la Escuela del Sol, una institución caritativa que intenta educar a niños sin hogar y que está ubicada cerca de donde supuestamente se halla el tesoro.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=jGOVT850d30"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/k0e35h34qd48ymz"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/848n63p3fpxx3l"},{"titulo" : "[COLOR white]VideoTape[/COLOR]","url" : "https://streamtape.com/v/RkowwM2BdQfdrXJ"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/iq284hqzk5nb.html"},{"titulo" : "[COLOR white]VideoLoad[/COLOR]","url" : "https://evoload.io/v/y71IGJvgI4VRe8"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1rAJD0KuQNF6D8Y8LohfgXHNc1vdu7T-b/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Quo vadis Aida [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.5[/COLOR]</title>    
 <genre>Drama, Bélica</genre>
 <year>2021</year>
