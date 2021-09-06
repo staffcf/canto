@@ -1493,7 +1493,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia, Drama, Fantastico",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.fiesta.del.mas.alla.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.fiesta.del.mas.alla.-2021.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:813a36dcb8a55dd7db2b45d8ad9c0f84d343289b&dn=1080
 				"torrent4k": ""	
 				}		
 			]
@@ -3234,7 +3234,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Aventuras",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:9AE5265F9334F6FD8F29DE98050FEF3D60A3D5CE",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Aves.de.Presa.-2020.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:9AE5265F9334F6FD8F29DE98050FEF3D60A3D5CE
 				"torrent4k": ""
 				}	
 			]
@@ -10074,7 +10074,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Animacion, Comedia",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:21162c58aff608b3f53f2828fd0b408067e709f4",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Angry.Birds.2.-2019.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:21162c58aff608b3f53f2828fd0b408067e709f4
 				"torrent4k": ""
 				}	
 			]
@@ -27799,12 +27799,12 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Comedia, A2016, Letra A, EEUU, Aves, Videojuego, Sagas AngryBirds, ",
 			"name": "Angry Birds: La Pelicula (2016)","coloryear": "purple",
-			"image": "https://www.ecartelera.com/carteles/1200/1257/003_p.jpg",
+			"image": "https://www.themoviedb.org/t/p/original/wHlxud7DzsolgvasBFt6gFHIUwP.jpg",
 			"info": "Basada en la coleccion de videojuegos 'Angry Birds', la historia se desarrolla en una isla poblada por aves felices que no vuelan. En este paraiso, Red, un pajaro con muy mal genio, el veloz Chuck y el volatil Bomb nunca han terminado de encajar. Pero cuando llegan a la isla unos misteriosos cerdos verdes, seran estos tres marginados los que averigüen que traman los extraños visitantes",
 			"genero": "Animacion, Comedia",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:VYN2BQ7DZL5YQEXEY5BO5MYIFUEOGRKU",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Angry.Birds-La.Pelicula.-2016.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:VYN2BQ7DZL5YQEXEY5BO5MYIFUEOGRKU
 				"torrent4k": ""
 				}
 			]
@@ -30086,6 +30086,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				{
 				"torrent": "magnet:?xt=urn:btih:A8A28754A41CA73090080224D8327B46332E4369",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Romance, 1Drama, A2013, Letra H, EEUU, ",
+			"name": "Her (2013)","coloryear": "lawngreen",
+			"image": "https://www.themoviedb.org/t/p/original/xPby6SuDafflEL7EWVHTFmhJsDp.jpg",
+			"info": "En un futuro cercano, Theodore, un hombre solitario a punto de divorciarse que trabaja en una empresa como escritor de cartas para terceras personas, compra un día un nuevo sistema operativo basado en el modelo de Inteligencia Artificial, diseñado para satisfacer todas las necesidades del usuario. Para su sorpresa, se crea una relación romántica entre él y Samantha, la voz femenina de ese sistema operativo",
+			"genero": "Ciencia ficcion, Romance, Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:uh5gflfow45fioijhkqevxxkvest2l3t&dn=HD1080",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -34337,7 +34350,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Animacion, Comedia, Infantil",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:E34CBE29EA9D10C81807F888215BE1414A495144",  
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/101.Dalmatas.2.-2003.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:E34CBE29EA9D10C81807F888215BE1414A495144
 				"torrent4k": ""
 				}
 			]
@@ -38378,15 +38391,15 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A1987, Letra E, Spain, 1Hechos reales, 1Biografico, B2000, A1990-1981, Cine Barrio, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A1987, Letra E, Spain, 1Biografico, 1Hechos reales, Cine Quinqui, B2000, A1990-1981, Cine Barrio, ",
 			"name": "El Lute: Camina o revienta (1987)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/bHsaENtzk1oIFqmhTE6Z6E8rR5t.jpg",
-			"info": "En 1960, una familia nomada de cacharreros, cuya situacion economica es muy precaria, recorre Extremadura. La vida tan dura que llevan causa la muerte de la madre. El hijo, Eleuterio Sanchez, 'El Lute', roba unas gallinas y es condenado a seis meses de carcel. Años despues, en 1965, tras el asalto a una joyeria de Madrid, en el que muere el vigilante, es juzgado y condenado a muerte. Aunque la pena es conmutada por cadena perpetua, 'El Lute' aprovecha un traslado para fugarse. Desde ese momento, sera perseguido por la Guardia Civil",
+			"info": "En 1960, una familia nómada de cacharreros, cuya situación económica es muy precaria, recorre Extremadura. La vida tan dura que llevan causa la muerte de la madre. El hijo, Eleuterio Sánchez, 'El Lute', roba unas gallinas y es condenado a seis meses de cárcel. Años después, en 1965, tras el asalto a una joyería de Madrid, en el que muere el vigilante, es juzgado y condenado a muerte. Aunque la pena es conmutada por cadena perpetua, 'El Lute' aprovecha un traslado para fugarse. Desde ese momento, será perseguido por la Guardia Civil",
 			"genero": "Drama",
 			"stations": [
-				{ 
-				"torrent": "magnet:?xt=urn:btih:FDBBE6498D6BB6E6459D58B4FC8A4442C7897A0D",
-				"torrent4k": ""
+				{
+				"torrent": "magnet:?xt=urn:btih:FDBBE6498D6BB6E6459D58B4FC8A4442C7897A0D&dn=DVDRip",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -38671,7 +38684,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Belico",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:341c2084a95a226a3cab58d4c52cef88b0744ca4",   magnet:?xt=urn:btih:2E782780885F850BBCAB07C03EBD1E1CEABB377C
+				"torrent": "magnet:?xt=urn:btih:rrmsigojick7hsdk6b5qgt3ukqs3kytf&dn=HD1080",   magnet:?xt=urn:btih:2E782780885F850BBCAB07C03EBD1E1CEABB377C		magnet:?xt=urn:btih:341c2084a95a226a3cab58d4c52cef88b0744ca4
 				"torrent4k": ""
 				}		
 			]
@@ -40898,7 +40911,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Animacion, Aventuras, Infantil",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:39CF65A4AFAE1E6B86885BA7F1D63F42AA356C96",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/101.Dalmatas.-1961.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:39CF65A4AFAE1E6B86885BA7F1D63F42AA356C96
 				"torrent4k": ""
 				}				
 			]
