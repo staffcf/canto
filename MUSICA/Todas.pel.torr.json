@@ -7926,7 +7926,20 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent4k": "magnet:?xt=urn:btih:167853CC6325A50548F53EA5F5FCD6B7A496225E&dn=UHDmicro",  magnet:?xt=urn:btih:910ACD0DF4A835B473EE5E6AF37FFF3ED1CCC37F&dn=UHD4K,
 				}		
 			]
-			},
+			}
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Comedia, A2020, Letra S, EEUU, ",
+			"name": "Search and Destroy (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/mTwZ0wE6i93thOjSldztGkqyEHJ.jpg",
+			"info": "Habiendo fallado en su encargo de rescatar a una familia en África y perdido a todo su equipo en la operación contra el peligroso traficante de armas Igor Rodin, el ranger americano John Cutter es expulsado del ejército. Tres años después, su antiguo jefe de equipo contacta con él para encomendarle una misión secreta tras la reaparición de Igor. No es fácil convencer a John ya que todavía pesa sobre sus hombros el fracaso sufrido, pero finalmente acepta, dado que es una de las pocas personas vivas que conoce la cara del traficante. La operación se pondrá en marcha en un submarino situado en el Adriático. Desde allí, el equipo de especialistas debe llegar a la Base Naval, liberar a los científicos nucleares secuestrados e identificar a Igor para poder llevarlo frente a la justicia. Lo que nadie sabe es que John tiene otros planes.",
+			"genero": "Accion, Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Search.and.Destroy.-2020.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:BB55542502170AB07FAC75A1D0D50DA9A55DB812&dn=BRRip
+				"torrent4k": ""	
+				}		
+			]		
+			},,
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra S, Italia, ",
 			"name": "Seguridad (Security) (2020)","coloryear": "magenta",
@@ -12339,7 +12352,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Animacion, Aventuras, Drama, Musical",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:CA5911AE02A2C22084E10503E482D0676AD26A59",
+				"torrent": "magnet:?xt=urn:btih:CA5911AE02A2C22084E10503E482D0676AD26A59&dn=HD1080",	magnet:?xt=urn:btih:zjmrdlqculbcbbhbaub6jawqm5vne2sz&dn=HD1080
 				"torrent4k": "magnet:?xt=urn:btih:A37C0C0EA420DDAA78C82020328D43E603022848"
 				}	
 			]
@@ -27895,7 +27908,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Animacion. Comedia. Aventuras. Infantil",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:53QQNHOFVSVEWUC56XZC57JA7VG3PMWG",
+				"torrent": "magnet:?xt=urn:btih:49632A7E4CEDB27C9E9933DF04AC06F61EA6175E&dn=HDRip", magnet:?xt=urn:btih:53QQNHOFVSVEWUC56XZC57JA7VG3PMWG&dn=HD1080	magnet:?xt=urn:btih:pgxjwep2rr2j5fhas2t57kt562272c3q&dn=BR1080	
 				"torrent4k": ""
 				}		
 			]
@@ -34038,6 +34051,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, A2004, Letra E, Spain, 1Culto, ",
+			"name": "El maquinista (2004)","coloryear": "yellow",
+			"image": "https://www.themoviedb.org/t/p/original/9DI0Pyf06o5CNMfLNGOOnTrAQgD.jpg",
+			"info": "Trevor Reznik, un empleado de una fábrica, padece desde hace un año un grave problema de insomnio, un mal que él oculta y que le provoca terribles alucinaciones. Debido a la fatiga se ha deteriorado tanto su salud física como su salud mental. Repelidos por su aspecto físico, sus compañeros de trabajo primero le evitan, y después se volverán contra él cuando uno de ellos pierde un brazo en un accidente en el que Trevor se ve involucrado",
+			"genero": "Thriller, Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:4nnau6g56bowhyonsjorfe3tr6xiwc4x&dn=HD1080",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Intriga, 1Thriller, A2004, Letra E, EEUU, Espionaje, Sagas Bourne, ",
 			"name": "El mito de Bourne (2004)","coloryear": "yellow",
 			"image": "https://www.themoviedb.org/t/p/original/kTFFwQHdaTUb5MJmB8KBGO7lh7N.jpg",
@@ -34786,7 +34812,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Animacion, Aventuras, Fantastico, Ciencia ficcion, Infantil",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:E19910352FC7212A8C3687DDA28865B6A436848B",
+				"torrent": "magnet:?xt=urn:btih:E19910352FC7212A8C3687DDA28865B6A436848B&dn=HD1080", 	magnet:?xt=urn:btih:4gmranjpy4qsvdbwq7o2fcdfw2sdnbel&dn=HD1080
 				"torrent4k": ""
 				}
 			]
@@ -36020,7 +36046,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Animacion, Aventuras, Comedia, Infantil, Familia",			
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:4BD47134738961814971ABEEF43ABCB596B07246",
+				"torrent": "magnet:?xt=urn:btih:4BD47134738961814971ABEEF43ABCB596B07246&dn=HD1080",	magnet:?xt=urn:btih:jpkhcndtrfqycslrvpxpiov4wwlla4sg&dn=HD1080
 				"torrent4k": ""
 				}
 			]
@@ -37956,7 +37982,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Terror, Ciencia ficcion",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.regreso.de.la.cosa.del.pantano.-1989.-.DVDRip.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.regreso.de.la.cosa.del.pantano.-1989.-.DVDRip.-.CristalAzul.avi.torrent",
 				"torrent4k": ""
 				}		
 			]
@@ -38937,7 +38963,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Accion, Aventuras, Fantastico",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:8A99FC61A4FD2357647196A567A75BBAFF9E627C&dn=HD1080",
+				"torrent": "magnet:?xt=urn:btih:8A99FC61A4FD2357647196A567A75BBAFF9E627C&dn=HD1080",	magnet:?xt=urn:btih:rkm7yyne7urvozdrs2swpj23xl7z4yt4&dn=HD1080
 				"torrent4k": "magnet:?xt=urn:btih:BCEE457FD001A05A3A90719AD66CB9FA6D4922F6&dn=UHDRip"	magnet:?xt=urn:btih:6AF77D282C8B4D238BD157270CF0906D4D1615B3&dn=UHDmicro		magnet:?xt=urn:btih:DC5EC2FDDCF43F80855949BFBCD22C8F58F27A10&dn=UHDRemux
 				}		
 			]

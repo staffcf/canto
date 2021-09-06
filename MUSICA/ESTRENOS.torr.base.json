@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Comedia, A2020, Letra S, EEUU, ",
+			"name": "Search and Destroy (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/mTwZ0wE6i93thOjSldztGkqyEHJ.jpg",
+			"info": "Habiendo fallado en su encargo de rescatar a una familia en África y perdido a todo su equipo en la operación contra el peligroso traficante de armas Igor Rodin, el ranger americano John Cutter es expulsado del ejército. Tres años después, su antiguo jefe de equipo contacta con él para encomendarle una misión secreta tras la reaparición de Igor. No es fácil convencer a John ya que todavía pesa sobre sus hombros el fracaso sufrido, pero finalmente acepta, dado que es una de las pocas personas vivas que conoce la cara del traficante. La operación se pondrá en marcha en un submarino situado en el Adriático. Desde allí, el equipo de especialistas debe llegar a la Base Naval, liberar a los científicos nucleares secuestrados e identificar a Igor para poder llevarlo frente a la justicia. Lo que nadie sabe es que John tiene otros planes.",
+			"genero": "Accion, Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Search.and.Destroy.-2020.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:BB55542502170AB07FAC75A1D0D50DA9A55DB812&dn=BRRip
+				"torrent4k": ""	
+				}		
+			]		
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra H, Iran, ",
 			"name": "Hijos del Sol (Sun Children) (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/l6GJLfrm4OlOueIKpXVifljuJb5.jpg",
