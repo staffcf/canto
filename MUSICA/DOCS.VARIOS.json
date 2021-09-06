@@ -65,6 +65,19 @@
 			]
 			},
 			{
+			"tag": " 0DocusLuar, 1TorrentLuar, 0Torrent4k, 1Documental, A2021, Letra L, Spain, C720, ",
+			"name": "La Casa de Papel - De Tokio a Berlin (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/sTlUIfT2ouUojq6vEHM7ff1zazE.jpg",
+			"info": "Los cineastas de ‘La casa de papel’ y los actores que dan vida a personajes como Tokio y el Profesor hablan del proceso artístico y emocional que supone rodar esta serie",
+			"genero": "Documental",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:142EC676FBAB7FB17C5FA4D4500FA04911A6C80D&dn=HD720",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 1Torrent, 1Documental, A2021, Letra L, EEUU, C720, Netflix, ",
 			"name": "Los límites de nuestro planeta: Una mirada científica (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/wvTQ8OdaOOkGHGOEqDrnKJxESuT.jpg",
@@ -84,7 +97,7 @@
 			"genero": "Documental",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:2e70caaa5f827a9969eb586eff09b79e9fef004a&dn=HD1080"
+				"torrent": "magnet:?xt=urn:btih:2e70caaa5f827a9969eb586eff09b79e9fef004a&dn=HD1080"		
 				}		
 			]
 			},
@@ -168,6 +181,18 @@
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:842CE098DA111365265913560A6C7B7C058B5721"
+				}		
+			]
+			},
+			{
+			"tag": " 1Torrent, 0Torrent4k, 1Documental, A2020, Letra D, Alemania, C720, ",
+			"name": "Diez años de guerra en Siria (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/r3qjaLxJDEjxNXsxvM7CFlOtDqB.jpg",
+			"info": "La guerra civil siria es un conflicto armado que se inició en Siria tras las protestas antigubernamentales de 2011. Este documental de PBS muestra el origen del conflicto, describe las etapas y aclara los motivos detrás de esta guerra",
+			"genero": "Documental",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:78DC709FB75CCADF976E65AE5E3239725B104ECA"
 				}		
 			]
 			},
