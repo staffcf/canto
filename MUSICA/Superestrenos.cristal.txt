@@ -6,6 +6,17 @@
 
 
 <item>
+<title>[COLOR white] Mortal Kombat Leyendas: La batalla de los reinos [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.2[/COLOR]</title>    
+<genre>Animación,Acción,Fantástico,Artes marciales,Animación para adultos</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/kwmnhTH.jpg</thumbnail>
+<fanart>https://i.imgur.com/otXOPPH.jpg</fanart>
+<info>Tras ganar el primer torneo de Mortal Kombat: Liu Kang, Sonya Blade y Johnny Cage, deberán entrar al reino de Outworld, para decidir el destino de la humanidad.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=KwinZbCJKW0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/42njphzy4z5k78g"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/n04qkgplh9ezm4"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/qlembbo4pbvu"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/u4z8v5hsd1p0.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-i2bzu0s8g9pr.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1YYtWOkTHD0196oBaj93mmxeSE7tL_roL/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Pequeno pez [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.1[/COLOR]</title>    
 <genre>Romance, Ciencia ficción, Drama</genre>
 <year>2021</year>
