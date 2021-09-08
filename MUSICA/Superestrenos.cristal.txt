@@ -34,7 +34,7 @@
 <thumbnail>https://i.imgur.com/NLTOjb5.jpg</thumbnail>
 <fanart>https://i.imgur.com/Yd17PcK.jpg</fanart>
 <info>Una pareja lucha por sacar adelante su relación cuando un virus que hace perder la memoria amenaza con borrar la historia de su amor.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=KWvyynEZlTw&t=13s"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/4y3x0czy4wqg7z7"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/dql8dwv7a41r1q"},{"titulo" : "[COLOR white]VideoTape[/COLOR]","url" : "https://streamtape.com/v/dKoakK9e2oS0Ql"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/l27boq482d33.html"},{"titulo" : "[COLOR white]VideoLoad[/COLOR]","url" : "https://evoload.io/v/eOA0n4Um77EF3E"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1P-YoIGpoTDtoqebSy4xHFLiQDs3ALV1B/view"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=KWvyynEZlTw&t=13s"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/4y3x0czy4wqg7z7"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/zprnz7lzsnnkj4"},{"titulo" : "[COLOR white]VideoTape[/COLOR]","url" : "https://streamtape.com/v/dKoakK9e2oS0Ql"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/l27boq482d33.html"},{"titulo" : "[COLOR white]VideoLoad[/COLOR]","url" : "https://evoload.io/v/eOA0n4Um77EF3E"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1P-YoIGpoTDtoqebSy4xHFLiQDs3ALV1B/view"}</urlsolve>
 </item>
 
 
