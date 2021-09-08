@@ -1533,7 +1533,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:D9DC35AE6419CDCB9F766CB514067E38189A5010&dn=HD1080",   magnet:?xt=urn:btih:75213FBBBEA08AD9ED33CD8DFFE85AF1E7432EFA&dn=BR1080
-				"torrent4k": "magnet:?xt=urn:btih:BE38EBA58218C4810342D6DFA65E253D6D182912&dn=UHDRip",  https://blazing.network/torrents/peliculas/La-Liga-de-la-Justicia-de-Zack-Snyder-4KUHDrip.torrent
+				"torrent4k": "magnet:?xt=urn:btih:BE38EBA58218C4810342D6DFA65E253D6D182912&dn=UHDRip"
 				}		
 			]
 			},
@@ -1544,8 +1544,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"info": "Con la determinacion de asegurar que el sacrificio definitivo de Superman (Henry Cavill) no fue en vano, Bruce Wayne (Ben Affleck) une fuerzas con Diana Prince (Gal Gadot) para reclutar a un equipo de metahumanos que protejan el mundo de una amenaza inminente de proporciones catastroficas. La tarea es mas dificil de lo que Bruce imaginaba, ya que cada uno de los reclutas debera enfrentarse a sus propios demonios para trascender aquello que los detenia, para unirse y formar de manera definitiva una liga de heroes sin precedentes. Ahora unidos, Batman, la Mujer Maravilla, Aquaman (Jason Momoa), Cyborg (Ray Fisher) y Flash (Ezra Miller) deberan salvar al planeta de la amenaza de Steppenwolf, DeSaad y Darkseid, antes de que sea demasiado tarde. Version expandida y ampliada de 'Justice League' (2017), que representara una version fiel a la vision original de la obra de Zack Snyder, que fue apartado de la produccion de la misma tras una tragedia personal y reemplazado por Joss Whedon.",
 			"genero": "Fantastico, Accion",
 			"stations": [
-				{ 
-				"torrent": "magnet:?xt=urn:btih:E2B1FBA309988B6B8C975C37D7C5BFD6335CD8C7&dn=BR1080",
+				{ 	
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Liga.De.La.Justicia.-2017.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:E2B1FBA309988B6B8C975C37D7C5BFD6335CD8C7&dn=BR1080
 				"torrent4k": ""
 				}		
 			]
@@ -14212,7 +14212,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:ac3976683092218164363f011358077731fc423b",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.Cocina.Del.Infierno-The.Kitchen-.-2019.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:ac3976683092218164363f011358077731fc423b
 				"torrent4k": ""
 				}			
 			]
@@ -26532,12 +26532,12 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Fantastico, A2017, Letra L, EEUU, Superheroes, DC, Comics, ",
 			"name": "Liga De La Justicia (2017)","coloryear": "green",
-			"image": "https://www.ecartelera.com/carteles/1700/1740/019_p.jpg",
+			"image": "https://www.themoviedb.org/t/p/original/ex7PPhCLeiUabeQmnN7zHHCXJrb.jpg",
 			"info": "Motivado por la fe que habia recuperado en la humanidad e inspirado por la accion altruista de Superman, Bruce Wayne recluta la ayuda de su nueva aliada, Diana Prince, para enfrentarse a un enemigo aun mayor. Juntos, Batman y Wonder Woman se mueven rapidamente para intentar encontrar y reclutar un equipo de metahumanos que combata esta nueva amenaza. El problema es que a pesar de la formacion de esta liga de heroes sin precedentes –Batman, Wonder Woman, Aquaman, Cyborg y Flash– puede que sea demasiado tarde para salvar el planeta de una amenaza de proporciones catastroficas",
 			"genero": "Accion, Fantastico",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:e3d30e037696003de7ad0e05becce9236daa5224",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Liga.De.La.Justicia.-2017.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:e3d30e037696003de7ad0e05becce9236daa5224
 				"torrent4k": ""
 				}
 			]
@@ -31253,7 +31253,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Ciencia ficcion, Fantastico, Accion",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:56C6601CF29E57DC852D2749794345DA65652B9B&dn=DVDRip",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Linterna.verde.-V.Ext.-2011.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:56C6601CF29E57DC852D2749794345DA65652B9B&dn=DVDRip
 				"torrent4k": ""
 				}		
 			]
@@ -33422,7 +33422,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Romance, Drama, Ciencia ficcion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:8DB19E173FA699E7041FF99049BFFD932982245E",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.fuente.de.la.vida.-2006.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:8DB19E173FA699E7041FF99049BFFD932982245E
 				"torrent4k": ""
 				}		
 			]
@@ -33935,7 +33935,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller, Drama",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:9647158D84CB07EB8A00294E4F6761467D15771C&dn=BDR1080",  magnet:?xt=urn:btih:A087D78926D359AE517701DCC0AD0E8B8EBFBC19&dn=DVDRip
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Una.historia.de.violencia.-2005.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:9647158D84CB07EB8A00294E4F6761467D15771C&dn=BDR1080  magnet:?xt=urn:btih:A087D78926D359AE517701DCC0AD0E8B8EBFBC19&dn=DVDRip
 				"torrent4k": ""
 				}		
 			]
@@ -37428,6 +37428,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Accion, 1Aventuras, 1Thriller, A1993, Letra M, EEUU, B2000, A2000-1991, ",
+			"name": "Maximo riesgo (1993)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/oBQ6potP8sxTytCoXaCAt4rmOvm.jpg",
+			"info": "A un experimentado alpinista de un equipo de salvamento (Stallone) la muerte de una persona durante un rescate le produce una depresión tan profunda que decide retirarse. Pero el accidente de un avión, secuestrado por una banda criminal, en plena montaña le obligará a realizar la misión más difícil y peligrosa de su vida",
+			"genero": "Accion, Aventuras, Thriller",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:A1DBF6DC2C1A45D9D16B96A9A99D2208CD01CD75&dn=HD1080",	magnet:?xt=urn:btih:D7B70FFBCC1AA4A33863DDC6266AE2880937C509&dn=HDRip
+				"torrent4k": "magnet:?xt=urn:btih:094ECF498C4E9C3BFD70A96E02B6B7026F41958C&dn=UHDRip"	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Aventuras, A1993, Letra P, EEUU, Dinosaurios, Supervivencia, B2000, A2000-1991, Sagas JurassicPark, 1Culto, ",
 			"name": "Parque Jurasico (Jurassic Park) (1993)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/1r8TWaAExHbFRzyqT3Vcbq1XZQb.jpg",
@@ -37476,6 +37489,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				{
 				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Robocop.3.-1993.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:F9F039B8C35CEAC765FA3A056F115CF0E1E68816&DVDRip	 magnet:?xt=urn:btih:7E0AC3CCD8636116277C7AE41C5CC6B9BE7B6FFA
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Comedia, 1Drama, A1993, Letra S, EEUU, 1Culto, ",
+			"name": "Señora Doubtfire, papa de por vida (1993)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/gM8dook296JnMj6nfC4pPWsfhGA.jpg",
+			"info": "Daniel Hillard es padre y esposo. Sus hijos lo consideran un padre maravilloso, pero su mujer está cansada de que se comporte como si también él fuera un niño. Tras un accidentado divorcio, aunque lucha con todas sus fuerzas para conseguir la custodia de los niños, el juez no se la concede. Decide entonces hacerse pasar por una señora mayor para poder ser, al menos, la canguro de sus hijos",
+			"genero": "Comedia, Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:0f66c5628bf431bafd65c46ab22f7b5585324954&dn=HDRip",
+				"torrent4k": "magnet:?xt=urn:btih:5CA435AE3A47C19282EB9D4D4905FE6C150258DB&dn=Web4K"	
 				}		
 			]
 			},
