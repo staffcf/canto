@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2020, Letra E, Nueva Zelanda, ",
+			"name": "El bebe esta listo (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/veVik3Kl4fAT5L5SxA9jqa7N43z.jpg",
+			"info": "Zoe (Rose Matafeo) es una aspirante a aventurera cuya vida se pone patas arriba cuando descubre que está embarazada de su novio de toda la vida, Tim (Matthew Lewis). Mientras que él intenta adaptarse a lo que significa ser padre, ella trata de huir a través de sus sueños",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.bebe.esta.listo.-2020.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:C3E084186BB2386BD3E06B521E3446C778075486&dn=BRRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Romance, A2021, Letra B, Suecia, Netflix, ",
 			"name": "Bahia de invierno (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/85ORghj1b6mgYO4BQJG9l11qlzR.jpg",
