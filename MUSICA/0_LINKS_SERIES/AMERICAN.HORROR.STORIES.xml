@@ -22,43 +22,43 @@
 			<torrent></torrent>
 			</item>
 ======================================================================
-			"Tag= SERIETEMP1, TORRENTTEMP1, "
+			"Tag= TORRENTTEMP1, "
 			<item>
 			<title>1x01 - El hombre (o mujer) de látex</title>
 			<torrent>magnet:?xt=urn:btih:2DD64EEC20ABFAF3DC33C4B68E41DDF87D18076E&dn=HD720</torrent>
 			</item>
 ======================================================================
-			"Tag= SERIETEMP1, TORRENTTEMP1, "
+			"Tag= TORRENTTEMP1, "
 			<item>
 			<title>1x02 - El hombre (o mujer) de látex, parte dos</title>
 			<torrent>magnet:?xt=urn:btih:099CEA9FE98E8497F0A363A11EE4EB8AD512FDF3&dn=HD720.propper</torrent>	magnet:?xt=urn:btih:390DF5B35CEC494619214FA15FDE26F51AF484F0&dn=HD720
 			</item>
 ======================================================================
-			"Tag= SERIETEMP1, TORRENTTEMP1, "
+			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x03 - Drive In [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
+			<title>1x03 - Drive In</title>
+			<torrent>magnet:?xt=urn:btih:2947F0036F9826BC21820A181865FEC619B22404&dn=HD720</torrent>
 			</item>
 ======================================================================
-			"Tag= SERIETEMP1, TORRENTTEMP1, "
+			"Tag= TORRENTTEMP1, "
 			<item>
 			<title>1x04 - The Naughty List [COLOR orangered](PROXIMAMENTE)</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
-			"Tag= SERIETEMP1, TORRENTTEMP1, "
+			"Tag= TORRENTTEMP1, "
 			<item>
 			<title>1x05 - BA'AL [COLOR orangered](PROXIMAMENTE)</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
-			"Tag= SERIETEMP1, TORRENTTEMP1, "
+			"Tag= TORRENTTEMP1, "
 			<item>
 			<title>1x06 - Feral [COLOR orangered](PROXIMAMENTE)</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
-			"Tag= SERIETEMP1, TORRENTTEMP1, "
+			"Tag= TORRENTTEMP1, "
 			<item>
 			<title>1x07 - Game Over [COLOR orangered](PROXIMAMENTE)</title>
 			<torrent></torrent>
@@ -93,8 +93,8 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x03 - Drive In [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
+			<title>1x03 - Drive In</title>
+			<torrent>magnet:?xt=urn:btih:D5AF700BC958727BF0FDA4A71C88FC3AB58DAEBB&dn=HDTV</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
