@@ -6,6 +6,24 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Thriller, A2021, Letra I, EEUU, ",
+			"name": "Ice Road [COLOR gold](Web-Scr) (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/lzJlE1mlHY2ISm9gUt75bXdGJom.jpg",
+			"info": "Una remota mina de diamantes ha colapsado dejando atrapados a un grupo de mineros en una región lejana y helada de Canadá. Como parte de un equipo contratado para rescatarlos, el experimentado conductor de una quitahielos emprende un rescate imposible, teniendo que luchar contra una carretera helada, contra las aguas que están descongelándose y contra una amenaza que no ve venir",
+			"genero": "Accion, Thriller",
+			"stations": [
+				{
+				"kodi1": "https://vidlox.me/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://vidlox.me/NO_LINK",
+				"kodi3": "https://vidlox.me/NO_LINK", 
+				"kodi4": "https://vidlox.me/NO_LINK", 
+				"kodi5": "https://vidlox.me/NO_LINK",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Ice.Road.-2021.-.Web1080-Scr.-.CristalAzul.mkv.torrent",		magnet:?xt=urn:btih:AC6CFD2E7198893F7E51C40CD87CEC14C5AD6B1C&dn=BR-Scr
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2020, Letra E, Nueva Zelanda, ",
 			"name": "El bebe esta listo (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/veVik3Kl4fAT5L5SxA9jqa7N43z.jpg",
@@ -46,7 +64,7 @@
 			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Thriller, 1Romance, A2021, Letra R, EEUU, ",
-			"name": "Reminiscencia [COLOR gold](Web-Sc) (2021)","coloryear": "cyan",
+			"name": "Reminiscencia [COLOR gold](Web-Scr) (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/rDNw3PUbdslsctcJ6Db32g4A4FA.jpg",
 			"info": "Nick Bannister, un investigador privado que se interna en el oscuro y seductor mundo del pasado, ayuda a sus clientes a recuperar recuerdos perdidos. Vive a orillas de la costa de Miami que se encuentra sumergida en gran parte bajo el mar. Un día, su vida cambia cuando aparece Mae, una nueva clienta. Aunque Mae solo acude a su consulta para encontrar un objeto perdido, se convertirá en una peligrosa obsesión. Mientras Bannister intenta encontrar el motivo de la desaparición de Mae, descubre una violenta conspiración y, al final, deberá responder a la gran pregunta: ¿Hasta dónde llegarías para aferrarte a tus seres queridos?",
 			"genero": "Ciencia ficcion, Thriller, Romance",
