@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Romance, A2021, Letra B, Suecia, Netflix, ",
+			"name": "Bahia de invierno (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/85ORghj1b6mgYO4BQJG9l11qlzR.jpg",
+			"info": "Aunque viven en la misma ciudad, Elisabeth y John‑John habitan mundos distintos. ¿Podrá un apasionado primer amor derribar barreras sociales y culturales?",
+			"genero": "Drama, Romance",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Bahia.de.invierno.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:1695D42896C531204259A09286A0E564E9E79C0C&dn=BRRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, A2020, Letra L, Reino Unido, ",
 			"name": "La mercenaria (Rogue) (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/jeFhjvxhaRJrMQ6pfxE5bNjQsAI.jpg",
@@ -13,7 +26,7 @@
 			"genero": "Accion",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.mercenaria-Rogue-.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.mercenaria-Rogue-.-2020.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:8775B57857A28C5BFF43F8D56A49C8B002F0E7AC&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]

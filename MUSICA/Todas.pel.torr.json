@@ -239,7 +239,7 @@ Title:PESADILLA EN ELM STREET, SagaID:ElmStreet, Imagen:https://cdn.ofertitas.es
 							-	0Saga, 1SagaTorrent, 
 Title:PETER RABBIT, SagaID:PeterRabbit, Imagen:http://www.algeciras.es/opencms/export/sites/algeciras/.galleries/eventos/PETER-RABBIT.jpg_418868725.jpg,						
 							-	0Saga, 1SagaTorrent, 
-Title:PIRATAS DEL CARIBE, SagaID:PDC, Imagen:https://image.ibb.co/kMZE4x/pirates.png,		
+Title:PIRATAS DEL CARIBE, SagaID:PiratasCaribe, Imagen:https://image.ibb.co/kMZE4x/pirates.png,		
 							-	0Saga, 1SagaTorrent, 
 Title:PORKYS, SagaID:Porkys, Imagen:https://fanart.tv/fanart/movies/10246/hdmovielogo/porkys-535294bf0b9e9.png,		
 							-	0Saga, 1SagaTorrent, 
@@ -523,7 +523,20 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent4k": ""
 				}		
 			]
-			},
+			}
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Romance, A2021, Letra B, Suecia, Netflix, ",
+			"name": "Bahia de invierno (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/85ORghj1b6mgYO4BQJG9l11qlzR.jpg",
+			"info": "Aunque viven en la misma ciudad, Elisabeth y John‑John habitan mundos distintos. ¿Podrá un apasionado primer amor derribar barreras sociales y culturales?",
+			"genero": "Drama, Romance",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Bahia.de.invierno.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:1695D42896C531204259A09286A0E564E9E79C0C&dn=BRRip
+				"torrent4k": ""	
+				}		
+			]
+			},,
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Accion, A2021, Letra B, Spain, Netflix, ",
 			"name": "Bajocero (2021)","coloryear": "cyan",
@@ -6162,7 +6175,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.mercenaria-Rogue-.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/La.mercenaria-Rogue-.-2020.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:8775B57857A28C5BFF43F8D56A49C8B002F0E7AC&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -17268,7 +17281,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Accion, Comedia",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:2b21811d4c612bef07b1535e60e990fe8eea1ccf",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Shazam.-2019.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:2b21811d4c612bef07b1535e60e990fe8eea1ccf
 				"torrent4k": ""
 				}			
 			]
@@ -26959,7 +26972,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Aventuras, 1Fantastico, 1Comedia, 1Accion, A2017, Letra P, EEUU, Piratas, Sagas PDC, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Aventuras, 1Fantastico, 1Comedia, 1Accion, A2017, Letra P, EEUU, Piratas, Sagas PiratasCaribe, ",
 			"name": "Piratas Del Caribe 5: La Venganza De Salazar (2017)","coloryear": "green",
 			"image": "https://www.ecartelera.com/carteles/6200/6218/002_p.jpg",
 			"info": "El capitan Jack Sparrow se enfrentara a un grupo de piratas-fantasma comandados por una de sus viejas nemesis, el terrorifico capitan Salazar, recien escapado del Triangulo de las Bermudas. La unica posibilidad de Sparrow para salir con vida es encontrar el legendario Tridente de Poseidon, un poderoso artefacto que le da a su poseedor el control de los mares",
@@ -31311,7 +31324,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Aventuras, 1Fantastico, 1Comedia, 1Accion, A2011, Letra P, EEUU, Piratas, Sagas PDC, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Aventuras, 1Fantastico, 1Comedia, 1Accion, A2011, Letra P, EEUU, Piratas, Sagas PiratasCaribe, ",
 			"name": "Piratas Del Caribe 4: En Mareas Misteriosas (2011)","coloryear": "blue",
 			"image": "https://www.ecartelera.com/carteles/3900/3921/004_p.jpg",
 			"info": "Cuando Jack Sparrow (Johnny Depp) vuelve a encontrarse con una mujer a la que habia conocido años atras (Penelope Cruz), no esta seguro de si se trata de amor o si ella es una estafadora sin escrupulos que lo esta utilizando para encontrar la legendaria Fuente de la Juventud. A todo esto, Jack es capturado por el Queen Anne's Revenge, el barco del temible pirata Barbanegra (Ian McShane), que lo obliga a unirse a su tripulacion, lo que le hara vivir una inesperada aventura en la que no sabe quien le inspira mas miedo si Barbanegra o esa mujer que regresa del pasado",
@@ -32390,7 +32403,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Fantastico, Accion, Ciencia ficcion, Thriller, Drama",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:2CD34DB84E45ACBE08BAE9EDD9E9EC943ECF9AF6&dn=HDRip",  magnet:?xt=urn:btih:97D33AFE78F2330B7A78EE1ED893BBD462A9AB0E&dn=BR1080
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Watchmen-Los.Vigilantes.-2009.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:2CD34DB84E45ACBE08BAE9EDD9E9EC943ECF9AF6&dn=HDRip  magnet:?xt=urn:btih:97D33AFE78F2330B7A78EE1ED893BBD462A9AB0E&dn=BR1080
 				"torrent4k": ""
 				}		
 			]
@@ -33084,7 +33097,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Aventuras, 1Fantastico, 1Comedia, 1Accion, A2007, Letra P, EEUU, Piratas, Sagas PDC, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Aventuras, 1Fantastico, 1Comedia, 1Accion, A2007, Letra P, EEUU, Piratas, Sagas PiratasCaribe, ",
 			"name": "Piratas Del Caribe 3: En El Fin Del Mundo (2007)","coloryear": "steelblue",
 			"image": "https://www.ecartelera.com/carteles/1400/1480/001_p.jpg",
 			"info": "Siguiendo la estela de lo sucedido en 'Piratas del Caribe: el cofre del hombre muerto', nuestros heroes, Will Turner y Elizabeth Swann, se han aliado con el capitan Barbossa para buscar y liberar al capitan Jack Sparrow del poder de Davy Jones. Mientras el Holandes Errante y la Compañia de las Indias Orientales causan estragos a lo largo de los Siete Mares, Will y Elizabeth navegan hacia Singapur, donde deben enfrentarse al astuto pirata chino Sao Feng. Ahora, en los mismisimos confines de la tierra, todos ellos deben elegir un bando en la batalla final, ya que no solo sus vidas y fortunas, sino tambien el futuro de la pirateria clasica, pende de un hilo...",
@@ -33184,6 +33197,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				{
 				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Spider-Man.3.-2007.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:717E6967B28244A416963B44BE1CD904C893DF04
 				"torrent4k": "magnet:?xt=urn:btih:4E52DC39C8AE5FA6FE3EED23DB8450CBCC24B8C1&dn=UHDmicro"  magnet:?xt=urn:btih:A3AE09D146BF6168C7B5B0EA4524B0F40CEED8E9&dn=UHD4K  magnet:?xt=urn:btih:E136F3C38BEA280D457767F702CDEBC80918C22A&dn=BDR4K
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Fantastico, 1Aventuras, 1Romance, A2007, Letra S, Reino Unido, Cuentos, Magia, Brujeria, DC, ",
+			"name": "Stardust (2007)","coloryear": "steelblue",
+			"image": "https://www.themoviedb.org/t/p/original/a3YlyXLjGsCRZlkkwglCuQroVgX.jpg",
+			"info": "En un pequeño pueblo ingles que limita con un territorio magico e inaccesible, el joven Tristan (Charlie Cox) emprende la busqueda de una estrella caida del cielo para conquistar el corazon de Victoria (Sienna Miller). Su viaje, una autentica odisea, lo lleva a un misterioso pais, donde encuentra la estrella, que se ha convertido en la preciosa Yvaine (Claire Danes). Pero tambien buscan la estrella otras personas: los cuatro hijos del Rey (Peter O’Toole) y los fantasmas de sus tres hermanos muertos, que la necesitan para ocupar el trono; y, ademas, Lamia (Michelle Pfeiffer), una malvada bruja que la desea para recuperar la juventud. Tristan tendra, pues, que luchar denodadamente contra todos ellos. Sin embargo, cuando conoce a un pirata llamado capitan Shakespeare (Robert De Niro) y al siniestro comerciante Ferdy the Fence (Ricky Gervais), descubrira, al fin, cual es el autentico significado de su viaje.",
+			"genero": "Fantastico, Aventuras, Romance",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Stardust.-2007.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:16B3B85BC57FCC1535132A2F32AD4282A963BE2F&dn=DVDRip  magnet:?xt=urn:btih:FC3472817C8D2694AACD3C6E59E3416FB2BC7E48&dn=DVDRip.2partes
+				"torrent4k": ""
 				}		
 			]
 			},
@@ -33480,7 +33506,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Aventuras, 1Fantastico, 1Comedia, 1Accion, A2006, Letra P, EEUU, Piratas, Sagas PDC, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Aventuras, 1Fantastico, 1Comedia, 1Accion, A2006, Letra P, EEUU, Piratas, Sagas PiratasCaribe, ",
 			"name": "Piratas Del Caribe 2: El Cofre Del Hombre Muerto (2006)","coloryear": "olive",
 			"image": "https://www.ecartelera.com/carteles/900/971/002_p.jpg",
 			"info": "Will Turner y Elizabeth Swann se van a casar, pero ambos son hechos prisioneros por Lord Cutler Beckett y acusados de haber liberado al capitan Jack Sparrow. Para salvar su vida, Will tendra que encontrar a Jack y conseguir su misteriosa brujula, que esconde un gran poder ademas de la clave de una deuda de sangre del pirata con un temible y siniestro Davy Jones, el legendario capitan del barco fantasma El Holandes Errante",
@@ -33948,8 +33974,8 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Accion, Ciencia ficcion, Thriller",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:AFD6947209C4D40981CB6DEBF720C1FD32E756DD&dn=DVDRip",
-				"torrent4k": "magnet:?xt=urn:btih:CAF9A2978EF46393F82F391E11A24EB84843372C",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/V.de.Vendetta.-2005.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:AFD6947209C4D40981CB6DEBF720C1FD32E756DD&dn=DVDRip
+				"torrent4k": "magnet:?xt=urn:btih:CAF9A2978EF46393F82F391E11A24EB84843372C"
 				}		
 			]
 			},
@@ -34765,7 +34791,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Aventuras, 1Fantastico, 1Comedia, 1Accion, A2003, Letra P, EEUU, Piratas, Sagas PDC, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Aventuras, 1Fantastico, 1Comedia, 1Accion, A2003, Letra P, EEUU, Piratas, Sagas PiratasCaribe, ",
 			"name": "Piratas Del Caribe. La Maldicion De La Perla Negra (2003)","coloryear": "darkviolet",
 			"image": "https://www.ecartelera.com/carteles/900/970/001_p.jpg",
 			"info": "Mar Caribe, siglo XVIII. El aventurero capitan Jack Sparrow piratea en aguas caribeñas, pero su andanzas terminan cuando su enemigo, el Capitan Barbossa, despues de robarle su barco, el Perla Negra, ataca la ciudad de Port Royal y secuestra a Elizabeth Swann, la hija del Gobernador. Will Turner, amigo de la infancia de Elizabeth, se une a Jack para rescatarla y recuperar el Perla Negra. Pero Barbossa y su tripulacion son victimas de un conjuro que los condena a vivir eternamente y a transformarse cada noche en esqueletos vivientes. El conjuro solo puede romperse si devuelven una pieza de oro azteca y saldan una deuda de sangre. El rescate de la bella Elizabeth sera una tarea dificil, pues la maldicion es real y sera dificil enfrentarse con quienes no pueden morir",
