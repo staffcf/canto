@@ -14425,7 +14425,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Animacion, Comedia",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:e01a8573a18e2f8ff860fd251c91176e3af9fa5b",
+				"torrent": "magnet:?xt=urn:btih:e01a8573a18e2f8ff860fd251c91176e3af9fa5b&dn=HD1080",
 				"torrent4k": "magnet:?xt=urn:btih:e1be78af9f6b9aaebdf41a6c06174c8a907bae76"
 				}			
 			]
@@ -16194,7 +16194,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Thriller, Terror",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:93099abf743c5321ade5e5ae703a28bb6bd7f67d",
+				"torrent": "magnet:?xt=urn:btih:93099abf743c5321ade5e5ae703a28bb6bd7f67d&dn=HD1080",
 				"torrent4k": ""
 				}		
 			]
@@ -21377,6 +21377,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				{ 
 				"torrent": "magnet:?xt=urn:btih:8b9d3dc114ec76ce427c0628649fa1579511ea87",
 				"torrent4k": "magnet:?xt=urn:btih:A943850951E24029B6B9083B220F836FF0C48C02"
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Aventuras, 1Drama, A2018, Letra H, Francia, ",
+			"name": "High Life (2018)","coloryear": "aqua",
+			"image": "https://www.themoviedb.org/t/p/original/8NpLEwYjqVcr7SgDh2KkiaWR3J4.jpg",
+			"info": "Espacio profundo. Monte y su hija Willow viven completamente aislados a bordo de una nave espacial. No siempre estuvieron solos: eran parte de un grupo de condenados a muerte que aceptaron conmutar sus sentencias por participar en una misión con destino al agujero negro más cercano a la Tierra.",
+			"genero": "Ciencia ficcion, Aventuras, Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:blwg3dr4mzquujvhyahjwx7l7rgs23qw&dn=HD1080",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -28660,6 +28673,32 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Accion, A2016, Letra U, EEUU, ",
+			"name": "Un espia y medio (2016)","coloryear": "purple",
+			"image": "https://www.themoviedb.org/t/p/original/cKBmylofAgLSYK5vM1jAzMNux5l.jpg",
+			"info": "Un letal agente del la CIA (Johnson), víctima de acoso escolar en su adolescencia, vuelve a casa para asistir a una reunión de antiguos alumnos. Con la excusa de estar trabajando en un caso secreto, consigue la ayuda del que fuera el chico más popular del Instituto (Hart), que ahora es un aburrido contable y vive añorando sus años de gloria. Cuando el pobre hombre se da cuenta del embrollo en el que se está metiendo, es ya demasiado tarde, pues su nuevo amigo lo implica en tiroteos, traiciones y espionaje, lo que le obligará a jugarse el cuello en incontables ocasiones",
+			"genero": "Comedia, Accion",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:ahvzo5p2wnmbrt645a7vht2knzjv5vop&dn=HD1080",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Fantastico, 1Terror, 1Accion, A2016, Letra U, EEUU, Sagas Underworld, ",
+			"name": "Underworld: Guerras de sangre (2016)","coloryear": "purple",
+			"image": "https://www.themoviedb.org/t/p/original/8iuDPMjPQE1Si7c4VyU903ZD3JS.jpg",
+			"info": "La vampira Selene (Kate Beckinsale) debera defenderse de ataques brutales de los dos clanes, el de los Licantropos el de los Vampiros que la traicionaron. Con sus unicos aliados, David (Theo James) y Thomas su padre (Charles Dance), ella debe detener la guerra eterna entre Vampiros y Licantropos, aunque signifique tener que hacer un ultimo sacrificio",
+			"genero": "Fantastico, Terror, Accion",
+			"stations": [
+				{ 
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Underworld-Guerras.de.sangre.-2016.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:BB8187EE02FE79CE896B343E3A1C9842D8C1BCC0
+				"torrent4k": "magnet:?xt=urn:btih:B9FC9428F53E4C1CEA1EAA5D3EFAB431C866E9B5"
+				}
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Aventuras, 1Musical, A2016, Letra V, EEUU, ADisney, ",
 			"name": "Vaiana (2016)","coloryear": "purple",
 			"image": "https://www.themoviedb.org/t/p/original/b5mXLtn68k7YUd2OKqAglXVexcd.jpg",
@@ -28695,19 +28734,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				{ 
 				"torrent": "magnet:?xt=urn:btih:0FD305C4ED9574A5B7BC356365F4FCB4D0966467",
 				"torrent4k": ""
-				}
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Fantastico, 1Terror, 1Accion, A2016, Letra U, EEUU, Sagas Underworld, ",
-			"name": "Underworld: Guerras de sangre (2016)","coloryear": "purple",
-			"image": "https://www.themoviedb.org/t/p/original/8iuDPMjPQE1Si7c4VyU903ZD3JS.jpg",
-			"info": "La vampira Selene (Kate Beckinsale) debera defenderse de ataques brutales de los dos clanes, el de los Licantropos el de los Vampiros que la traicionaron. Con sus unicos aliados, David (Theo James) y Thomas su padre (Charles Dance), ella debe detener la guerra eterna entre Vampiros y Licantropos, aunque signifique tener que hacer un ultimo sacrificio",
-			"genero": "Fantastico, Terror, Accion",
-			"stations": [
-				{ 
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Underworld-Guerras.de.sangre.-2016.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:BB8187EE02FE79CE896B343E3A1C9842D8C1BCC0
-				"torrent4k": "magnet:?xt=urn:btih:B9FC9428F53E4C1CEA1EAA5D3EFAB431C866E9B5"
 				}
 			]
 			}
@@ -31180,7 +31206,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Animacion, Comedia, Aventuras, Infantil",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:b285cdb11f7ed3675a94355f2190e7bcc9332e31",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Cars.2.-2011.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:b285cdb11f7ed3675a94355f2190e7bcc9332e31
 				"torrent4k": ""
 				}
 			]
@@ -32927,7 +32953,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Animacion, Fantastico, Infantil, Romance",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:A3697388C698E647DF32CEB4AB5BAD3B3D1E733D", magnet:?xt=urn:btih:2B441229E9B56E60E8A20385F202CC2D814708D7
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Cenicienta.3-Que.pasaria.si...-2007.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:A3697388C698E647DF32CEB4AB5BAD3B3D1E733D&dn=HD1080.trilogia magnet:?xt=urn:btih:2B441229E9B56E60E8A20385F202CC2D814708D7
 				"torrent4k": ""
 				}
 			]
@@ -33349,7 +33375,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Animacion, Comedia, Aventuras, Infantil",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:E507C949C773A1DFF3E2B80333864BD62C4349D4&=DVRRip",  magnet:?xt=urn:btih:e98d04d0e906e0edb605fc3bba124ceb435b3359
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Cars.-2006.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:E507C949C773A1DFF3E2B80333864BD62C4349D4&=DVRRip  magnet:?xt=urn:btih:e98d04d0e906e0edb605fc3bba124ceb435b3359
 				"torrent4k": ""
 				}
 			]
@@ -33667,7 +33693,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2006, Letra V, Spain, 1Biografico, Cine Barrio, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2006, Letra V, Spain, 1Biografico, ",
 			"name": "Volando voy (2006)","coloryear": "olive",
 			"image": "https://www.themoviedb.org/t/p/original/fdhy43Kp8RtXzut8Mc3jb8nzlMY.jpg",
 			"info": "Getafe, finales de los 70. La gente mira extrañada como un '600' sin conductor atraviesa la calle a toda velocidad. Al volante va Juan Carlos, el Pera, un niño de 9 años con una extraordinaria habilidad para robar y conducir coches. Sus padres, no saben que hacer para alejarlo de las malas compañias, pero para el niño la calle es centro de operaciones y lugar de aprendizaje. Su suerte cambia cuando llega a la Ciudad de los Muchachos. Alli, el carisma y la capacidad de persuasion del Tio Alberto conseguiran rescatar al niño que el Pera lleva dentro. Basada en la historia real de Juan Carlos Delgado, el Pera",
@@ -33927,7 +33953,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Animacion, Comedia, Aventuras, Infantil",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:486EE03ECCC7241F6437A23A58D16B24C470B300", 
+				"torrent": "magnet:?xt=urn:btih:486EE03ECCC7241F6437A23A58D16B24C470B300&dn=HD1080", 
 				"torrent4k": ""
 				}		
 			]
@@ -34926,7 +34952,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Animacion, Fantastico,  Romance, Infantil",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:A3697388C698E647DF32CEB4AB5BAD3B3D1E733D",  magnet:?xt=urn:btih:8D42B1CD702D13293DC7ACA3E663B1FE3074214E
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Cenicienta.2.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:A3697388C698E647DF32CEB4AB5BAD3B3D1E733D&dn=HD1080.trilogia  magnet:?xt=urn:btih:8D42B1CD702D13293DC7ACA3E663B1FE3074214E
 				"torrent4k": ""
 				}
 			]
@@ -36472,7 +36498,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Intriga, Drama, Romance, Ciencia ficcion, Thriller",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:64222027da893f1ac01f4fb2083e74a46512c0e1",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Abre.los.ojos.-1997.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:12678D428EDA3AA77723CB0F3473CB1B0DF34347&dn=DVDRip
 				"torrent4k": ""
 				}		
 			]
@@ -36992,7 +37018,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Intriga, Thriller",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:6EE33EDEA1FC284D56F085BAD94A017ECF1BD09A",
+				"torrent": "magnet:?xt=urn:btih:6EE33EDEA1FC284D56F085BAD94A017ECF1BD09A&dn=DVDRip",
 				"torrent4k": ""
 				}		
 			]
@@ -37063,7 +37089,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Aventuras, Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:1ED9C2020A804131F8518712DBBD4BC535394983",
+				"torrent": "magnet:?xt=urn:btih:1ED9C2020A804131F8518712DBBD4BC535394983&dn=HD1080",	magnet:?xt=urn:btih:45sizfgeeqpmfut6dtmtnk6ybelmqxmv&dn=BR1080
 				"torrent4k": ""
 				}		
 			]
@@ -38609,7 +38635,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A1987, Letra E, Spain, 1Biografico, 1Hechos reales, Cine Quinqui, B2000, A1990-1981, Cine Barrio, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A1987, Letra E, Spain, 1Biografico, 1Hechos reales, Cine Quinqui, B2000, A1990-1981, ",
 			"name": "El Lute: Camina o revienta (1987)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/bHsaENtzk1oIFqmhTE6Z6E8rR5t.jpg",
 			"info": "En 1960, una familia nómada de cacharreros, cuya situación económica es muy precaria, recorre Extremadura. La vida tan dura que llevan causa la muerte de la madre. El hijo, Eleuterio Sánchez, 'El Lute', roba unas gallinas y es condenado a seis meses de cárcel. Años después, en 1965, tras el asalto a una joyería de Madrid, en el que muere el vigilante, es juzgado y condenado a muerte. Aunque la pena es conmutada por cadena perpetua, 'El Lute' aprovecha un traslado para fugarse. Desde ese momento, será perseguido por la Guardia Civil",
@@ -38648,7 +38674,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A1987, Letra L, Spain, B2000, A1990-1981, Crimen, Robos, Atracos, Cine Barrio, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A1987, Letra L, Spain, B2000, A1990-1981, Crimen, Robos, Atracos, ",
 			"name": "La estanquera de Vallecas (1987)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/iTNv9ZlNFVsPevNS7yEyHvna5nf.jpg",
 			"info": "Leandro, un albañil en paro, y su amigo Tocho intentan atracar un estanco del madrileño barrio de Vallecas, pero la señora Justa, la estanquera, se lo impide alertando a los vecinos, que avisan a la policia. Mientras tanto, dentro del estanco, el enfrentamiento entre los dos amigos y sus 'rehenes', la estanquera y su sobrina, va relajandose y una incipiente simpatia surge entre ellos",
@@ -39174,7 +39200,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A1985, Letra Y, Spain, B2000, A1990-1981, Cine Barrio, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A1985, Letra Y, Spain, B2000, A1990-1981, ",
 			"name": "Yo, el 'Vaquilla' (1985)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/lTKAskhzxaCX3Z8K4FsjjFjcEZS.jpg",
 			"info": "Relato de las andanzas de un famoso delincuente juvenil de Barcelona. Juan Jose Moreno Cuenca, alias 'El vaquilla', es abandonado por su familia nada mas nacer. La madre no tarda en encontrar otro hombre y el niño debe buscarse la vida por si solo. Esta es la historia de este conocido delincuente, que paso la mayor parte de su vida encerrado",
@@ -39835,7 +39861,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A1980, Letra L, Spain, B2000, A1980-1971, Cine Barrio, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A1980, Letra L, Spain, B2000, A1980-1971, ",
 			"name": "Los ultimos golpes del Torete (Perros callejeros III) (1980)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/t4Y6XXHE1pHV7ML1XTbACP7eBjv.jpg",
 			"info": "Tras escapar del correccional, 'El Torete' atraca un banco. Segundos despues, 'El Vaquilla' entra en el mismo banco para atracarlo tambien. No tienen mas remedio que compartir el botin. La policia los busca por todas partes. Y tambien Begoña, una joven periodista empeñada en redimirlos",
@@ -39848,7 +39874,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A1980, Letra N, Spain, 1Hechos reales, Crimen, B2000, A1980-1971, Cine Barrio, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A1980, Letra N, Spain, 1Hechos reales, Crimen, B2000, A1980-1971, ",
 			"name": "Navajeros (1980)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/dkmgJgkQ3ojaSpnlFUwND1JJ3Fx.jpg",
 			"info": "Jose Manuel Gomez Perales, alias 'El Jaro', vive en Madrid con su banda y sus 'novias'. Un dia conoce a una prostituta de origen mexicano que se enamora de el y le ofrece su casa para apartarlo del mundo de la delincuencia. Jaro acepta el refugio, pero sigue dando golpes con su banda. Un dia conoce a una adolescente drogadicta y se enamora de ella",
@@ -39900,7 +39926,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A1980, Letra Y, Spain, B2000, A1980-1971, Cine Barrio, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A1980, Letra Y, Spain, B2000, A1980-1971, ",
 			"name": "Yo hice a Roque III (1980)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/zqHnxdasp07XwlDFWMLkBNsHKHd.jpg",
 			"info": "Roque Tercero Gonzalez es un gorron que vive en casa de su amigo Federico, famoso ex-jockey de carreras que ahora esta en horas bajas tras haber engordado. Federico no puede quitarse de encima a Roque, ya que este le recuerda constantemente que, cuando tenian siete años, le salvo la vida. El caso es que Federico asiste a un gimnasio con la esperanza de volver a adelgazar lo suficiente como para volver a cabalgar, y alli se entera de que Kid Botija, el campeon de España de los pesos welter, necesita poner en juego su titulo para poder optar al campeonato de Europa de boxeo. Pero claro esta, nadie quiere recibir una paliza del campeon, a pesar de la bolsa que ofrece su preparador. Entre Paco, el dueño del gimnasio, y Federico, consiguen liar a Roque que, engañado, acepta pelear con el campeon...",
@@ -40017,7 +40043,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A1979, Letra P, Spain, B2000, A1980-1971, Cine Barrio, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A1979, Letra P, Spain, B2000, A1980-1971, ",
 			"name": "Perros callejeros II (1979)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/9foH7rlXCfYxcAhiCYZDmW9aSTI.jpg",
 			"info": "Angel, 'El Torete', es acusado de participar en un asesinato por Fernando, un policia que lo tiene entre ceja y ceja porque un dia le atropello dejandole cojo. Ayudado por sus amigos, Angel reconstruyen los hechos que son su coartada; pero mientras esta en la carcel sufre las consecuencias del terrible motin de “La Modelo”, quedando malherido",
@@ -40238,7 +40264,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A1977, Letra P, Spain, B2000, A1980-1971, Crimen, Adolescencia, Robos, Atracos, Cine Barrio, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A1977, Letra P, Spain, B2000, A1980-1971, Crimen, Adolescencia, Robos, Atracos, ",
 			"name": "Perros callejeros (1977)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/pb22uKzzOB5rDuexj9TSDRjPDSe.jpg",
 			"info": "Una pandilla de quinceañeros que viven en los suburbios de Barcelona se han especializado en el robo de coches. Con ellos se dedican a dar el "tiron", a asaltar tiendas para malvender las mercancias y a atacar a parejas en lugares apartados con el fin de desvalijarlas y abusar de las mujeres. Sorprendidos a veces en flagrante delito, son perseguidos por la policia; para zafarse invaden la calzada, circulan en direccion contraria y se saltan controles, resultando a veces malheridos.",
@@ -40779,6 +40805,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				{ 
 				"torrent": "magnet:?xt=urn:btih:00bb8d9afb1f811f49a1284683731efc7ebe2cbf",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Intriga, A1968, Letra B, EEUU, B2000, A1970-1961, ",
+			"name": "Bullitt (1968)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/iJMidBhR6GaBwQASNa0YfvVBWRk.jpg",
+			"info": "Frank Bullit es Teniente de la policía de San Francisco. Un ambicioso político le encarga que proteja a un testigo protegido al que persigue el Sindicato del Crimen de Chicago. A pesar de que Bullit toma todas las precauciones posibles, no puede evitar que sea asesinado. A partir de ese momento, se empeñará en investigar minuciosamente el caso, que es bastante más complejo de lo que parecía a primera vista",
+			"genero": "Accion, Intriga",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:smnbsmkvbeapkguiiu2edn565pidy7gr&dn=HD1080",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -41505,7 +41544,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A1954, Letra M, Spain, B2000, A1960-1951, Cine Barrio, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A1954, Letra M, Spain, B2000, A1960-1951, ",
 			"name": "Marcelino pan y vino (1954)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/tr6qDQKzSDurrMsasXxUG9RqAiv.jpg",
 			"info": "Siglo XIX. Despues de una larga guerra, un bebe es abandonado a la puerta de un convento de frailes franciscanos que intentan, sin exito, buscarle una familia. Pasan los años, y aunque el niño vive feliz entre los monjes, no puede dejar de añorar a su madre. Marcelino se hace amigo de un Cristo crucificado que hay en el desvan del convento: habla con el y le sube de la cocina pan, vino y otros viveres que puede encontrar.",
@@ -41602,7 +41641,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Animacion, Infantil, Romance, Fantastico, Musical",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:A3697388C698E647DF32CEB4AB5BAD3B3D1E733D",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Cenicienta.-1950.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:A3697388C698E647DF32CEB4AB5BAD3B3D1E733D&dn=HD1080.trilogia
 				"torrent4k": ""
 				}
 			]
