@@ -6,6 +6,17 @@
 
 
 <item>
+<title>[COLOR white] La mercenaria [/COLOR][COLOR yellow](2020) [COLOR aqua]*5.6[/COLOR]</title>    
+<genre>Acción, Aventura</genre>
+<year>2020</year>
+<thumbnail>https://i.imgur.com/4LTh19J.jpg</thumbnail>
+<fanart>https://i.imgur.com/6is5pyD.jpg</fanart>
+<info>Rogue es la historia de una pequeña unidad mercenaria de soldados que han sido contratados por el gobernador de un país africano para rescatar a su hija que ha sido secuestrada por una organización terrorista.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=IpSK2CsKULg"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/wxp0yunj87204mj"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/zprnr7dxi3d3qz"},{"titulo" : "[COLOR white]VideoTape[/COLOR]","url" : "https://streamtape.com/v/x2861lvMR8ckJ6b"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/a9scls3xgtyp.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-zoyr3xmcb3kv.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Z8B6dnufhtbgPWDk0ld8L2lEC8LPbegC/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] La casa de papel: de Tokio a Berlín [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.0[/COLOR]</title>    
 <genre>Documental</genre>
 <year>2021</year>
