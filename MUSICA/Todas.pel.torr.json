@@ -22942,7 +22942,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2018, Letra M, Francia, Familia, Terrorismo, ",
-			"name": "Mi Vida Con Amanda (2018)","coloryear": "aqua",
+			"name": "Mi vida con Amanda (2018)","coloryear": "aqua",
 			"image": "https://www.ecartelera.com/carteles/15900/15929/004_p.jpg",
 			"info": "David es un joven de 20 años de Paris que se dedica a vivir el presente. Se gana la vida con pequeños trabajos, y evita tomar decisiones que le comprometan. Es solitario y soñador. Un dia se enamora de Lena, una vecina que acaba de llegar. Pero el tranquilo transcurso de su vida estalla de pronto cuando su hermana mayor muere brutalmente en un atentado. David es la unica persona que se puede hacer cargo de Amanda, su sobrina de siete años",
 			"genero": "Drama",
@@ -22950,6 +22950,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				{
 				"torrent": "magnet:?xt=urn:btih:90FF7228F4781EE90C843C2A16AF1CEAF8DE50AE", 
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2018, Letra M, EEUU, ",
+			"name": "Mi vida con John F. Donovan (2018)","coloryear": "aqua",
+			"image": "https://www.themoviedb.org/t/p/original/gyTjAIapbHRkaGMU7ckrJvmmNt5.jpg",
+			"info": "La noticia de que un conocido actor norteamericano mantiene una correspondencia secreta con un niño británico de once años, provoca tal oleada de especulaciones y acusaciones que su carrera empezará a tambalearse",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Mi.vida.con.John.F.Donovan.-2018.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -24225,19 +24238,6 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent": "magnet:?xt=urn:btih:52fc4ed5288cf73accba6e0e0aee5b571a34ed2b",
 				"torrent4k": ""
 				}			
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2018, Letra T, EEUU, ",
-			"name": "The Death & Life of John F. Donovan (2018)","coloryear": "aqua",
-			"image": "https://www.themoviedb.org/t/p/original/gyTjAIapbHRkaGMU7ckrJvmmNt5.jpg",
-			"info": "La noticia de que un conocido actor norteamericano mantiene una correspondencia secreta con un niño británico de once años, provoca tal oleada de especulaciones y acusaciones que su carrera empezará a tambalearse",
-			"genero": "Drama",
-			"stations": [
-				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/The.Death.and.Life.of.John.F.Donovan.-2018.-.1080.-.CristalAzul.mkv.torrent",
-				"torrent4k": ""	
-				}		
 			]
 			},
 			{
@@ -35738,7 +35738,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Comedia, Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:71153E9E0262035F870AEF618B6BE80169B347C7&dn=DVDRip",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.jardin.de.la.alegria.-2000.-.720.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:71153E9E0262035F870AEF618B6BE80169B347C7&dn=DVDRip
 				"torrent4k": ""	
 				}		
 			]
