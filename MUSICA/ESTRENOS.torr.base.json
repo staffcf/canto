@@ -6,7 +6,33 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
-			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Thriller, A2021, Letra T, EEUU, ",
+			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, A2021, Letra P, Alemania, Netflix, ",
+			"name": "Presas de caza (Prey) (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/reUazKPuZSQzEAVG8ehVPX6BOLw.jpg",
+			"info": "Una excursión al bosque se convierte en una desesperada lucha por sobrevivir para cinco amigos que huyen de un tirador misterioso",
+			"genero": "Thriller, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Presas.de.caza-Prey-.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Thriller, A2021, Letra K, EEUU, Netflix, ",
+			"name": "Kate (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/lxsPuj3blq8PFCLPUc4iQOHYNI2.jpg",
+			"info": "Tras ser envenenada sin remedio, una implacable criminal tiene menos de 24 horas para vengarse de sus enemigos y, durante el proceso, se forma un vínculo inesperado con la hija de una de sus víctimas anteriores",
+			"genero": "Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Kate.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2021, Letra T, EEUU, ",
 			"name": "The voyeurs (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/yBO3DYWlLp8gbTkgSjlGSrP1Hz.jpg",
 			"info": "Pippa y Thomas, una pareja que se acaba de mudar al apartamento de sus sueños, descubre que las ventanas permiten ver el interior del piso de enfrente y no pueden resistirse a observar a sus vecinos e incluso intentar interferir en sus vidas de forma anónima. Pronto descubrirán que todo tiene consecuencias",
@@ -19,7 +45,7 @@
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Terror, 1Ciencia ficcion, 1Intriga, A2020, Letra C, Canada, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Ciencia ficcion, 1Intriga, A2020, Letra C, Canada, ",
 			"name": "Come true (Se hacen realidad) (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/iZaX8L9pjl7uXTJs0xyYtFM96X6.jpg",
 			"info": "Sarah es una estudiante adolescente que toca fondo anímicamente tras huir de casa. Una vez sola, no tiene a nadie que le ayude a superar sus recurrentes pesadillas. Su única oportunidad de sobrevivir pasa por participar en un estudio universitario en la que entabla amistad con el científico supervisor, llamado Jeremy. Sin embargo, hay algo extraño en el procedimiento al que se somete, y con el paso de los días las pesadillas de Sarah empiezan a empeorar",
