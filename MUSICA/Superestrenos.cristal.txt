@@ -6,6 +6,17 @@
 
 
 <item>
+<title>[COLOR white] Otra forma de entender la vida [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.4[/COLOR]</title>    
+<genre>Documental,Documental deportivo,Fútbol</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/LSR7nwt.jpg</thumbnail>
+<fanart>https://i.imgur.com/Mzkw6XN.jpg</fanart>
+<info>Documental que repasa la temporada 2020/2021 del Atlético de Madrid, que culminaría con la consecución del título de Liga.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=Uo-vXAxiVgE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/g51ndt-ydy5edzz"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/kn3dz3zlsqnj8"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/li6m5jceb95h"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/oxfoilj3q3t9.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/vrri3q7qxhxh"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1xXiv46sUAvhG-Msh29gjNNVNmBYXCSRd/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El bebé está listo [/COLOR][COLOR yellow](2020) [COLOR aqua]*6.6[/COLOR]</title>    
 <genre>Comedia</genre>
 <year>2020</year>
