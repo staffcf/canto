@@ -14,7 +14,6 @@
 	- 1SerieTitle:"LUCIFER", SerieTemp:"TEMPORADA 3", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/vkGnVBSNpayJ1oCfyVaMvhrim95.jpg", 
 	- 1SerieTitle:"LUCIFER", SerieTemp:"TEMPORADA 4", SerieID:"SERIETEMP4", SerieIDT:"TORRENTTEMP4", SerieThumbail:"https://www.themoviedb.org/t/p/original/xMPtJfd4SbULImJfJyGY0qJnVAh.jpg", https://www.themoviedb.org/t/p/original/3hS2kWhrFo7643HqracnZQ6JRtn.jpg
 	- 1SerieTitle:"LUCIFER", SerieTemp:"TEMPORADA 5", SerieID:"SERIETEMP5", SerieIDT:"TORRENTTEMP5", SerieThumbail:"https://www.themoviedb.org/t/p/original/i0JfOUlN20MtmeWFGH6KCYvCgHp.jpg", https://www.themoviedb.org/t/p/original/1sBx2Ew4WFsa1YY32vlHt079O03.jpg
-	- 1SerieTitle:"LUCIFER", SerieTemp:"TEMPORADA 6", SerieID:"SERIETEMP6", SerieIDT:"TORRENTTEMP6", SerieThumbail:"https://www.themoviedb.org/t/p/original/wQh2ytX0f8IfC3b2mKpDGOpGTXS.jpg",
 	
 -->
 ======================================================================
@@ -463,8 +462,26 @@
 ======================================================================
 			"Tag= TORRENTTEMP6, "
 			<item>
+			<title> - Capitulos 1 a 4  [COLOR yellow](CALIDAD 1080)</title>
+			<torrent>magnet:?xt=urn:btih:4894BFE126D2F0E1C33AC2A49978953AC16E5F4B&dn=HD1080</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP6, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP6, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP6, "
+			<item>
 			<title> - Capitulos 1 a 4</title>
-			<torrent>magnet:?xt=urn:btih:4894BFE126D2F0E1C33AC2A49978953AC16E5F4B&dn=HD1080</torrent>	magnet:?xt=urn:btih:0709D0393590B0701F4663138C994748C72D1F59&dn=HD720
+			<torrent>magnet:?xt=urn:btih:0709D0393590B0701F4663138C994748C72D1F59&dn=HD720</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP6, "
