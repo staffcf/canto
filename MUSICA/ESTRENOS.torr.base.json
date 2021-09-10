@@ -6,14 +6,14 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
-			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, A2021, Letra P, Alemania, Netflix, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, A2021, Letra P, Alemania, Netflix, ",
 			"name": "Presas de caza (Prey) (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/reUazKPuZSQzEAVG8ehVPX6BOLw.jpg",
 			"info": "Una excursión al bosque se convierte en una desesperada lucha por sobrevivir para cinco amigos que huyen de un tirador misterioso",
 			"genero": "Thriller, Drama",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Presas.de.caza-Prey-.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "magnet:?xt=urn:btih:88A0776AC889B4BE03D29BDCBA0E4C4D8AAD2E6C&dn=HD720",	magnet:?xt=urn:btih:0DA7BB58B5CBB215FCE757AE8F3CE10838428927&dn=BRRip	https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Presas.de.caza-Prey-.-2021.-.1080.-.CristalAzul.mkv.torrent	
 				"torrent4k": ""	
 				}		
 			]
