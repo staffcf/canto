@@ -463,26 +463,8 @@
 ======================================================================
 			"Tag= TORRENTTEMP6, "
 			<item>
-			<title> - Capitulos 1 a 4  [COLOR yellow]CALIDAD 1080</title>
-			<torrent>magnet:?xt=urn:btih:4894BFE126D2F0E1C33AC2A49978953AC16E5F4B&dn=HD1080</torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP6, "
-			<item>
-			<title> - </title>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP6, "
-			<item>
-			<title> - [COLOR yellow]CALIDAD 720</title>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP6, "
-			<item>
 			<title> - Capitulos 1 a 4</title>
-			<torrent>magnet:?xt=urn:btih:0709D0393590B0701F4663138C994748C72D1F59&dn=HD720</torrent>
+			<torrent>magnet:?xt=urn:btih:4894BFE126D2F0E1C33AC2A49978953AC16E5F4B&dn=HD1080</torrent>	magnet:?xt=urn:btih:0709D0393590B0701F4663138C994748C72D1F59&dn=HD720
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP6, "
