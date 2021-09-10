@@ -6,6 +6,17 @@
 
 
 <item>
+<title>[COLOR white] The Voyeurs [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.5[/COLOR]</title>    
+<genre>Thriller,Intriga</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/ybdThFG.jpg</thumbnail>
+<fanart>https://i.imgur.com/NYIm0E1.jpg</fanart>
+<info>Pippa y Thomas, una pareja que se acaba de mudar al apartamento de sus sueños, descubre que las ventanas permiten ver el interior del piso de enfrente y no pueden resistirse a observar a sus vecinos e incluso intentar interferir en sus vidas de forma anónima. Pronto descubrirán que todo tiene consecuencias.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=lbYriCbsguc"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/2r2j0i2lkwlkxkp"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "FALTA PONER"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/vzivweodmrck"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "FALTA PONER"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/t6su28rlg1qq"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1TBBclNhnxNSejAyCt7l3w_m1yv1shJL3/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white]  Poliamor para principiantes [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.7[/COLOR]</title>    
 <genre> Comedia romántica</genre>
 <year>2021</year>
