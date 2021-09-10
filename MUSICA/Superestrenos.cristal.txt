@@ -17,6 +17,17 @@
 
 
 <item>
+<title>[COLOR white] Presas de caza [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.5[/COLOR]</title>    
+<genre>Thriller,Drama,Supervivencia</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/rN08I28.jpg</thumbnail>
+<fanart>https://i.imgur.com/gH5Z8gh.jpg</fanart>
+<info>Una excursión al bosque se convierte en una desesperada lucha por sobrevivir para cinco amigos que huyen de un tirador misterioso.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=-ZxHc1k209w"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/kx4-1i34-4rx3dj"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/zprn6nzjbnm80r"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/5zq1hfx73qwj"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/zdq40lmll4jo.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-wzj14jrgbzaa.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Ihqwp_PB-C1sFR59Vr-kGjChSbrHaiGA/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Kate [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.5[/COLOR]</title>    
 <genre>Acción,Thriller,Venganza</genre>
 <year>2021</year>
