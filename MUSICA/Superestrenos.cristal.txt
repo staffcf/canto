@@ -6,6 +6,17 @@
 
 
 <item>
+<title>[COLOR white] El bebé está listo [/COLOR][COLOR yellow](2020) [COLOR aqua]*6.6[/COLOR]</title>    
+<genre>Comedia</genre>
+<year>2020</year>
+<thumbnail>https://i.imgur.com/T7zZWcO.jpg</thumbnail>
+<fanart>https://i.imgur.com/bDAsw8I.jpg</fanart>
+<info>Una comedia irreverente producida por Taika Waititi ("Jojo Rabbit", "Thor: Ragnarok") en su Nueva Zelanda natal y en la que se nota su gusto por el humor incorrecto y la excentricidad, pero sin perder el cariño hacia los personajes. Se trata, además, del debut en el cine como protagonista de Rose Matafeo, una de las cómicas y personalidades televisivas más populares en las antípodas.Matafeo da vida a Zoe, quien descubre con gran sorpresa que está embarazada. No es que ella no quiera tener un bebé: para lo que no se siente preparada es para ser madre. Zoe es una aventurera y no quiere que su vida cambie, por lo que decide ocultar su estado incluso a su pareja.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=TbIxi2VHTTk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/r265wse-j-e7z7j"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/o73ljvdzavxx9q"},{"titulo" : "[COLOR white]VideoTape[/COLOR]","url" : "https://streamtape.com/v/ZxdYBPpXgJidMB"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/wo47gwiu0wgi.html"},{"titulo" : "[COLOR white]VideoLoad[/COLOR]","url" : "https://evoload.io/v/BeaZryfye5kBeo"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1vt1MIfzrReNfbBWFGuKvJZv9j-4XwCVZ/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Spiral:SAW [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.3[/COLOR]</title>    
 <genre>Terror,Thriller,Policíaco,Crimen,Asesinos en serie</genre>
 <year>2021</year>
