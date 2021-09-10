@@ -14,6 +14,7 @@
 	- 1SerieTitle:"LUCIFER", SerieTemp:"TEMPORADA 3", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/vkGnVBSNpayJ1oCfyVaMvhrim95.jpg", 
 	- 1SerieTitle:"LUCIFER", SerieTemp:"TEMPORADA 4", SerieID:"SERIETEMP4", SerieIDT:"TORRENTTEMP4", SerieThumbail:"https://www.themoviedb.org/t/p/original/xMPtJfd4SbULImJfJyGY0qJnVAh.jpg", https://www.themoviedb.org/t/p/original/3hS2kWhrFo7643HqracnZQ6JRtn.jpg
 	- 1SerieTitle:"LUCIFER", SerieTemp:"TEMPORADA 5", SerieID:"SERIETEMP5", SerieIDT:"TORRENTTEMP5", SerieThumbail:"https://www.themoviedb.org/t/p/original/i0JfOUlN20MtmeWFGH6KCYvCgHp.jpg", https://www.themoviedb.org/t/p/original/1sBx2Ew4WFsa1YY32vlHt079O03.jpg
+	- 1SerieTitle:"LUCIFER", SerieTemp:"TEMPORADA 6", SerieID:"SERIETEMP6", SerieIDT:"TORRENTTEMP6", SerieThumbail:"https://www.themoviedb.org/t/p/original/wQh2ytX0f8IfC3b2mKpDGOpGTXS.jpg",
 	
 -->
 ======================================================================
@@ -458,5 +459,42 @@
 			<torrent>magnet:?xt=urn:btih:151CBE6C1D2F003CE2B755F88F4515F53CE6C916</torrent>
 			</item>
 ======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP6, "
+			<item>
+			<title> - Capitulos 1 a 4  [COLOR yellow]CALIDAD 1080</title>
+			<torrent>magnet:?xt=urn:btih:4894BFE126D2F0E1C33AC2A49978953AC16E5F4B&dn=HD1080</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP6, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP6, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP6, "
+			<item>
+			<title> - Capitulos 1 a 4</title>
+			<torrent>magnet:?xt=urn:btih:0709D0393590B0701F4663138C994748C72D1F59&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP6, "
+			<item>
+			<title> - Capitulos 5 a 7</title>
+			<torrent>magnet:?xt=urn:btih:5FCAF0F4B35003E8C7CE8EACBD7B21920D52FCF1&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP6, "
+			<item>
+			<title> - Capitulos 8 a 10</title>
+			<torrent>magnet:?xt=urn:btih:A6CFF59BC0F6BBCF135DA3788A9BB108E835C3C6&dn=HD720</torrent>
+			</item>
 ======================================================================
 ======================================================================
