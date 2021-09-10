@@ -2243,7 +2243,20 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent4k": "magnet:?xt=urn:btih:F2B921B8684622CC220F534F3B715252878C6444&dn=Web4K"	
 				}		
 			]
-			},
+			}
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Thriller, A2021, Letra S, EEUU, Sagas Saw, ",
+			"name": "Spiral: Saw (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/vgpzkh96GnlRxUYZuOpdZT78T2Q.jpg",
+			"info": "Reinicio de la saga 'Saw'.Trabajando a la sombra de un policía veterano (Samuel L. Jackson), el intrépido detective Ezekiel 'Zeke' Banks (Chris Rock) y su compañero novato (Max Minghella) toman las riendas de una investigación relacionada con una serie de asesinatos que albergan ciertos paralelismos con el sangriento pasado de la ciudad. A medida que profundiza en el misterio, Zeke descubre que él mismo se ha convertido en el epicentro del macabro juego del asesino",
+			"genero": "Terror, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Spiral-Saw.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},,
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra S, Spain, Musica, ",
 			"name": "Stop (2021)","coloryear": "cyan",
@@ -2318,6 +2331,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/The.Witcher-La.pesadilla.del.lobo.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2021, Letra T, EEUU, Tiburones, ",
+			"name": "Tiburon blanco (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/x1qKnA83dtRaocubZx353j8qQje.jpg",
+			"info": "Una escapada en hidroavión a la Gran Barrera de Coral australiana se convierte en una pesadilla para un grupo de jóvenes cuando son atacados por un gigantesco tiburón blanco. Varado en alta mar sobre un frágil bote salvavidas, el grupo tendrá que usar todo su ingenio para resistir a la monstruosa amenaza que les acecha bajo el agua",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Tiburon.blanco.-2021.-.1080.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""	
 				}		
 			]
