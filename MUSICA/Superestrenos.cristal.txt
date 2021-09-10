@@ -17,6 +17,17 @@
 
 
 <item>
+<title>[COLOR white] Kate [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.5[/COLOR]</title>    
+<genre>Acción,Thriller,Venganza</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/c1AlWSj.jpg</thumbnail>
+<fanart>https://i.imgur.com/tL1j4At.jpg</fanart>
+<info>Tras ser envenenada sin remedio, una implacable criminal tiene menos de 24 horas para vengarse de sus enemigos y, durante el proceso, se forma un vínculo inesperado con la hija de una de sus víctimas anteriores.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=ZR25vIpxwmY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/6znj3t01z1pgzll"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/l630k0ejtg03me"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/hshi7cfcf6dm"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/tel3mhkb1v5p.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-ll9utcqtb0ga.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1n-b2wXp04E2T-w2_R5NMCyOv4bvu22ho/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] La mercenaria [/COLOR][COLOR yellow](2020) [COLOR aqua]*5.6[/COLOR]</title>    
 <genre>Acción, Aventura</genre>
 <year>2020</year>
