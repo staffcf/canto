@@ -393,7 +393,9 @@ Title:TADEO JONES, SagaID:TadeoJones, Imagen:https://www.tebeosfera.com/T3conten
 							-	0SagaINFANTIL, 1SagaTINFANTIL,
 Title:TOY STORY, SagaID:ToyStory, Imagen:https://acironline.mx/wp-content/uploads/2019/02/Toy.png,
 							-	0SagaINFANTIL, 1SagaTINFANTIL,
-Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploads/2016/01/12466039_1263729356987157_1103798837878556801_o.png,		
+Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploads/2016/01/12466039_1263729356987157_1103798837878556801_o.png,	
+							-	0SagaINFANTIL, 1SagaTINFANTIL,
+Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5BuvMdptVoMS1TdWOdYu5.jpg,	
 
 	]
 	}
@@ -2712,7 +2714,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Fantastico, 1Infantil, 1Comedia, A2020, Letra NUM, Alemania, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Fantastico, 1Infantil, 1Comedia, A2020, Letra NUM, Alemania, Sagas Uuups, ",
 			"name": "¡Upsss! 2 ¿Y ahora dónde está Noé? (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/1yP6Ls54v2S6TCUDGI7GRmLRhwf.jpg",
 			"info": "La luna de miel ha terminado ... ¡Cómo disfrutamos la fiesta cuando nuestros anfibios amigos Nestria descubrieron su increíble agilidad recién descubierta bajo el agua! Pero, cuando volvemos a visitar a nuestros curiosos y adorables amigos, la supervivencia de todo el reino animal vuelve a estar en juego. En medio de la perspectiva de una nueva tierra en la que vivir y prosperar, sin mencionar los recursos alimenticios en constante disminución, el estado de ánimo a bordo del Arca está cargado de tensiones crecientes, que regularmente se desbordan en la ira del Arca. La frágil paz se rompe con frecuencia con el consiguiente caos general. ¿Cómo pueden ayudar nuestros héroes inverosímiles? ¿Y qué hay debajo de Finny en un océano de posibilidades cuando literalmente cae en una nueva compañía bastante sorprendente?",
@@ -28925,6 +28927,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 		"name": "2015",
 		"image": "",
 		"groups": [
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Comedia, 1Aventuras, A2015, Letra NUM, Alemania, Sagas Uuups, ",
+			"name": "¡Upsss! ¿Dónde está Noé? (2015)","coloryear": "lime",
+			"image": "https://www.themoviedb.org/t/p/original/thXBQpTEW24Zk98kURviovBMROJ.jpg",
+			"info": "Se acerca el Diluvio Universal y Noé ha construido un gran Arca para salvar a una pareja de cada especie animal pero dos Nestrians, padre e hijo, no son admitidos a entrar. La ayuda involuntaria de dos Grymps, madre e hija, les permite colarse en el Arca. Sin embargo, los niños Finny y Leah acaban cayéndose de la nave y tendrán que aprender a sobrevivir y trabajar en equipo para llegar a la cima del monte, mientras sus padres intentarán desviar el curso del Arca para poder salvarles",
+			"genero": "Animacion, Comedia, Aventuras",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Upsss-Donde.esta.Noe.-2015.-.720.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Accion, A2015, Letra A, EEUU, Coches, Automovilismo, Crimen, Venganza, Amistad, Sagas ATodoGas, ",
 			"name": "A Todo Gas 7 (Fast & Furious 7) (2015)","coloryear": "lime",
