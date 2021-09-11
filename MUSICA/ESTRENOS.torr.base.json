@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Fantastico, 1Infantil, 1Comedia, A2020, Letra NUM, Alemania, ",
+			"name": "¡Upsss! 2 ¿Y ahora dónde está Noé? (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/1yP6Ls54v2S6TCUDGI7GRmLRhwf.jpg",
+			"info": "La luna de miel ha terminado ... ¡Cómo disfrutamos la fiesta cuando nuestros anfibios amigos Nestria descubrieron su increíble agilidad recién descubierta bajo el agua! Pero, cuando volvemos a visitar a nuestros curiosos y adorables amigos, la supervivencia de todo el reino animal vuelve a estar en juego. En medio de la perspectiva de una nueva tierra en la que vivir y prosperar, sin mencionar los recursos alimenticios en constante disminución, el estado de ánimo a bordo del Arca está cargado de tensiones crecientes, que regularmente se desbordan en la ira del Arca. La frágil paz se rompe con frecuencia con el consiguiente caos general. ¿Cómo pueden ayudar nuestros héroes inverosímiles? ¿Y qué hay debajo de Finny en un océano de posibilidades cuando literalmente cae en una nueva compañía bastante sorprendente?",
+			"genero": "Animacion, Fantastico, Infantil, Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Upsss.2-Y.ahora.donde.esta.Noe.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2020, Letra B, Francia, ",
 			"name": "Borrar el historial (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/nJOSx1xnwIw7cwkPZZNMHc9fyrR.jpg",

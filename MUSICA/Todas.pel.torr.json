@@ -2712,6 +2712,19 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Fantastico, 1Infantil, 1Comedia, A2020, Letra NUM, Alemania, ",
+			"name": "¡Upsss! 2 ¿Y ahora dónde está Noé? (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/1yP6Ls54v2S6TCUDGI7GRmLRhwf.jpg",
+			"info": "La luna de miel ha terminado ... ¡Cómo disfrutamos la fiesta cuando nuestros anfibios amigos Nestria descubrieron su increíble agilidad recién descubierta bajo el agua! Pero, cuando volvemos a visitar a nuestros curiosos y adorables amigos, la supervivencia de todo el reino animal vuelve a estar en juego. En medio de la perspectiva de una nueva tierra en la que vivir y prosperar, sin mencionar los recursos alimenticios en constante disminución, el estado de ánimo a bordo del Arca está cargado de tensiones crecientes, que regularmente se desbordan en la ira del Arca. La frágil paz se rompe con frecuencia con el consiguiente caos general. ¿Cómo pueden ayudar nuestros héroes inverosímiles? ¿Y qué hay debajo de Finny en un océano de posibilidades cuando literalmente cae en una nueva compañía bastante sorprendente?",
+			"genero": "Animacion, Fantastico, Infantil, Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Upsss.2-Y.ahora.donde.esta.Noe.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Comedia, A2020, Letra NUM, EEUU, Netflix, ",
 			"name": "(Re)cambio de princesa (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/cxtwDFKYyj4EuS95zpGfap9yZiP.jpg",
@@ -3594,7 +3607,20 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 				"torrent4k": ""
 				}		
 			]
-			},
+			}
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2020, Letra B, Francia, ",
+			"name": "Borrar el historial (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/nJOSx1xnwIw7cwkPZZNMHc9fyrR.jpg",
+			"info": "Tres vecinos de un suburbio se ven superados por sus problemas con la tecnología y las redes sociales. Con la ayuda de un pirata informático, deciden declarar la guerra a los poderosos gigantes tecnológicos. Tal vez su batalla esté perdida desde el principio, pero nunca se sabe",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Borrar.el.historial.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},,
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Accion, A2020, Letra B, Francia, Netflix, ",
 			"name": "Bronx (2020)","coloryear": "magenta",
@@ -30583,7 +30609,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Animacion, Fantastico, Comedia",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:33177f20b05538151117e15f64e63f7c5ac75feb",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Monstruos.University.-2013.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:33177f20b05538151117e15f64e63f7c5ac75feb&dn=HD1080
 				"torrent4k": ""
 				}		
 			]
@@ -34440,7 +34466,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Animacion, Comedia, Infantil",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:8d5304a83b9e9c0849740fd4dd4b9db1481f14f9",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/El.Rey.Leon.3-Hakuna.Matata.-2004.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:8d5304a83b9e9c0849740fd4dd4b9db1481f14f9&dn=DVDRip
 				"torrent4k": ""
 				}
 			]
@@ -35674,7 +35700,7 @@ Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploa
 			"genero": "Animacion, Comedia, Fantastico, Infantil, Familia",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:01B41EA75524B606D54487991C02419B7CB7E2C7",
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Monstruos.S.A.-2001.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:01B41EA75524B606D54487991C02419B7CB7E2C7&dn=HD1080
 				"torrent4k": ""
 				}			
 			]
