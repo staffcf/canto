@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-
+<item>
+<title>[COLOR white]Uuups! La aventura continúa  [COLOR cyan](2020)[/COLOR]</title>  
+<genre>Animación,Fantástico,Infantil </genre>
+<year>2020</year>  
+<thumbnail>https://i.imgur.com/uHJDy2h.jpg</thumbnail>
+<fanart>https://i.imgur.com/uHJDy2h.jpg</fanart>
+<info>El joven Nestrian Finny y su mejor amiga, Leah, caen accidentalmente en el Arca y son arrastrados al mar</info>
+<urlsolve>{"titulo" : "[COLOR cyan]Parte 1 [/COLOR]","url" : "https://mixdrop.to/f/j9moj8ljs6z86o"},{"titulo" : "[COLOR yellow]Parte 2[/COLOR]","url" : "https://mixdrop.sx/e/rw3vp400c1ejn"}</urlsolve>
+</item>
 
 <item>
 <title>[COLOR white] Peter Rabbit 2: A la fuga [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.4[/COLOR]</title>    
