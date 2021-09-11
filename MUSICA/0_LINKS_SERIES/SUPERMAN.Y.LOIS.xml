@@ -12,7 +12,7 @@
 	
 	- 1SerieTitle:"SUPERMAN Y LOIS", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/mRqmghSJ0eCVhgMohvAxkl3VXTO.jpg",
 	
-	- 1SerieTitle:"SUPERMAN Y LOIS", SerieTemp:"TEMPORADA 1 [COLOR yellow](4K)", SerieIDT:"TORRENTTEMP14K", SerieThumbail:"https://www.themoviedb.org/t/p/original/mRqmghSJ0eCVhgMohvAxkl3VXTO.jpg",
+	- 0SerieTitle:"SUPERMAN Y LOIS", SerieTemp:"TEMPORADA 1 [COLOR yellow](4K)", SerieIDT:"TORRENTTEMP14K", SerieThumbail:"https://www.themoviedb.org/t/p/original/mRqmghSJ0eCVhgMohvAxkl3VXTO.jpg",
 
 	- 0SerieTitle:"SUPERMAN Y LOIS", SerieTemp:"TEMPORADA 1 [COLOR yellow](HDTV)", SerieIDT:"TORRENTTEMP1HDTV", SerieThumbail:"https://www.themoviedb.org/t/p/original/mRqmghSJ0eCVhgMohvAxkl3VXTO.jpg",
 	
@@ -97,9 +97,9 @@
 			<torrent>magnet:?xt=urn:btih:92E872198DE864AA7A62A2C6C0CB7C568BA9E9EA</torrent>
 			</item>
 ======================================================================
-			"Tag= ORRENTTEMP14K, "
+			"Tag= TORRENTTEMP14K, "
 			<item>
-			<title>1x15 - Los últimos hijos de Krypton [COLOR orangered](PROXIMAMENTE)</title>
+			<title>1x15 - Los últimos hijos de Krypton [COLOR orangered](SIN ENLACE)</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
