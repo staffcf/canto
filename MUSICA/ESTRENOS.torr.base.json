@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2020, Letra B, Francia, ",
+			"name": "Borrar el historial (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/nJOSx1xnwIw7cwkPZZNMHc9fyrR.jpg",
+			"info": "Tres vecinos de un suburbio se ven superados por sus problemas con la tecnología y las redes sociales. Con la ayuda de un pirata informático, deciden declarar la guerra a los poderosos gigantes tecnológicos. Tal vez su batalla esté perdida desde el principio, pero nunca se sabe",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/cheroky77/Torrents/main/Films/Borrar.el.historial.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, A2021, Letra P, Alemania, Netflix, ",
 			"name": "Presas de caza (Prey) (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/reUazKPuZSQzEAVG8ehVPX6BOLw.jpg",
