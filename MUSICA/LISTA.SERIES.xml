@@ -19,7 +19,7 @@ PLANTILLA
 <info></info>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<enlaceslink></enlaceslink>
+<enlaceslink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_SERIES/.xml</enlaceslink>
 <estado></estado>
 </item>
 
@@ -6487,6 +6487,20 @@ https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_SERIES/.xml
 <thumbnail>https://www.themoviedb.org/t/p/original/1KbfR4gdGW5d35S1xz3mjZdpzw8.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/uUwnClwdMA12bpHgeKgkQrbu5Oe.jpg</fanart>
 <enlaceslink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_SERIES/THE.EXPANSE.xml</enlaceslink>
+<estado></estado>
+</item>
+
+===============================================================================================================================================
+"Tag=  1Torrent, "
+
+<item>
+<title>THE FAMILY MAN</title>
+<genre>	Comedia, Drama, Accion, Aventura</genre>
+<year>2019</year>
+<info>Narra la historia de un padre de familia que trabaja para la Agencia de Investigación Nacional de la india</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/tE1NUJqw9gV6AVjQ1GTK78LbWJ9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rRWNU4TQKIzGmSPtaWQwQ5FmWth.jpg</fanart>
+<enlaceslink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_SERIES/THE.FAMILY.MAN.xml</enlaceslink>
 <estado></estado>
 </item>
 
