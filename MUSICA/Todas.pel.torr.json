@@ -333,6 +333,8 @@ Title:101 DALMATAS, SagaID:A101Dalmatas, Imagen:https://fanatycs.com/wp-content/
 							-	0SagaINFANTIL, 1SagaTINFANTIL,
 Title:ANGRY BIRDS, SagaID:AngryBirds, Imagen:https://i.blogs.es/f4175f/650_1000_angry-birds-windows-phone-gratis/450_1000.png,	
 							-	0SagaINFANTIL, 1SagaTINFANTIL,
+Title:AVIONES, SagaID:Aviones, Imagen:https://www.themoviedb.org/t/p/original/6S5JjRheyl3oyLmJVcxcQ8yqDU3.jpg,
+							-	0SagaINFANTIL, 1SagaTINFANTIL,
 Title:CARS, SagaID:Cars, Imagen:https://img.autosblogmexico.com/2020/03/04/WaxDrR2x/img-7408-e96c.jpg,
 							-	0SagaINFANTIL, 1SagaTINFANTIL,
 Title:CENICIENTA, SagaID:Cenicienta, Imagen:https://elidealtorreon.files.wordpress.com/2015/04/1f992427a3f19a5ce7d47b08efe7a38d8f9cde11.jpg,
@@ -29610,6 +29612,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Aventuras, 1Infantil, A2014, Letra A, EEUU, APixar, ADisney, Sagas Aviones, ",
+			"name": "Aviones: Equipo de rescate (Aviones 2) (2014)","coloryear": "turquoise",
+			"image": "https://www.themoviedb.org/t/p/original/pZbuCIMWulgQEWdZDzga3n6L8LW.jpg",
+			"info": "En la primera película, el protagonista, Dusty, tuvo que demostrar todo su valor para alcanzar alturas imaginables y se convirtió en un gran competidor aéreo. En esta segunda entrega la historia se centra en un equipo de aviones de bomberos cuya misión es proteger el Parque Nacional de Piston Peak de un terrible incendio. Cuando Dusty (de nuevo con la voz de Dane Cook) se da cuenta de que su motor está dañado, cambia las competiciones de carreras para unirse al veterano equipo de rescate contraincendios. Juntos se jugarán la vida por apagar un incendio enorme, y Dusty se dará cuenta de lo que cuesta ser un héroe de verdad",
+			"genero": "Animacion, Aventuras, Infantil",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:5y2dlf222ui5kb7lrfiakqfx4zawrf6f&dn=HD1080",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Terror, 1Thriller, A2014, Letra B, Australia, ",
 			"name": "Babadook (2014)","coloryear": "turquoise",
 			"image": "https://www.themoviedb.org/t/p/original/3TnMWnI4xcQyuEwa8Jj66TCCGsR.jpg",
@@ -30340,6 +30355,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{ 
 				"torrent": "magnet:?xt=urn:btih:F82A94BD45B4CDF2991C9E5DC6938A9783D56DB0&dn=HD1080",
 				"torrent4k": "magnet:?xt=urn:btih:98F330305359B2CE2A3FBDD1FCCA6F4757ED461E&dn="
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Comedia, 1Aventuras, 1Infantil, A2013, Letra A, EEUU, APixar, ADisney, Sagas Aviones, ",
+			"name": "Aviones (Planes) (2013)","coloryear": "lawngreen",
+			"image": "https://www.themoviedb.org/t/p/original/6S5JjRheyl3oyLmJVcxcQ8yqDU3.jpg",
+			"info": "Dusty es un avión que sueña con participar en una competición aérea de altos vuelos. Pero Dusty no fue precisamente construido para competir y resulta que... ¡tiene miedo a las alturas! Así que, recurre a un experimentado aviador naval que le ayuda a clasificarse para retar al vigente campeón del circuito de carreras. Dusty demostrará su valor para alcanzar alturas inimaginables y enseñará al mundo lo que hay que hacer para levantar el vuelo. Spin-off de Cars, protagonizado por vehículos aéreos, aunque la productora Pixar no es la responsable del film",
+			"genero": "Animacion, Comedia, Aventuras, Infantil",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:02DA7476C0121445DA725F6AA53168A735404878&dn=HD1080",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -31961,7 +31989,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Animacion, Musical, Aventuras, Comedia, Infantil",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:6514D163BA4B3AE0C3B7C3A89117081548EDD7DE",
+				"torrent": "magnet:?xt=urn:btih:6514D163BA4B3AE0C3B7C3A89117081548EDD7DE&dn=HD1080",	magnet:?xt=urn:btih:mukncy52jm5obq5xyoujcfyicveo3v66&dn=HD1080
 				"torrent4k": ""
 				}
 			]
@@ -35987,7 +36015,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Animacion, Aventuras, Comedia, Fantastico, Ciencia ficcion, Infantil",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Buzz.Lightyear-La.pelicula.-2000.-.DVDRip.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Buzz.Lightyear-La.pelicula.-2000.-.DVDRip.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:1AA5CB9E61274F0566965ABF3D3F1AC59CA79BCC&dn=DVDRip
 				"torrent4k": ""	
 				}		
 			]
@@ -38657,7 +38685,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Ciencia ficcion, Fantastico, Terror",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/La.mosca.II.-1989.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:0229D7A5BF4EA8E4BA8B8D7FD307E6FC0DA17E61
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/La.mosca.II.-1989.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:0229D7A5BF4EA8E4BA8B8D7FD307E6FC0DA17E61&dn=HD1080
 				"torrent4k": ""
 				}		
 			]
@@ -39294,7 +39322,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Ciencia ficcion, Fantastico, Terror",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/La.mosca.-1986.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:21D395C5C328F087C8E3638BDD1A4B64F8904857
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/La.mosca.-1986.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:q2vkfqto6uvfmuzhku4dpj4lg5wh2uw2&dn=HD1080
 				"torrent4k": ""
 				}		
 			]
