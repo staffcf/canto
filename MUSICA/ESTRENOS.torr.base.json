@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Accion, A2020, Letra D, EEUU, DC, Comics, Superheroes, ",
+			"name": "Deathstroke: Caballeros y Dragones (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/nCJGThrH249sLUAzIS80xM7BEKz.jpg",
+			"info": "Hace diez años, Slade Wilson, alias el súper asesino llamado Deathstroke, cometió un trágico error y su esposa e hijo pagaron un precio terrible. Ahora, una década después, la familia de Wilson está amenazada una vez más por el asesino Chacal y los terroristas de H.IV.E. ¿Puede Deathstroke expiar los pecados del pasado o su familia pagará el precio máximo?",
+			"genero": "Animacion, Accion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Deathstroke-Caballeros.y.Dragones.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Fantastico, 1Infantil, 1Comedia, A2020, Letra NUM, Alemania, ",
 			"name": "¡Upsss! 2 ¿Y ahora dónde está Noé? (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/1yP6Ls54v2S6TCUDGI7GRmLRhwf.jpg",
