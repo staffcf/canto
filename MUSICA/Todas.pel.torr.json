@@ -4263,6 +4263,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Accion, A2020, Letra D, EEUU, DC, Comics, Superheroes, ",
+			"name": "Deathstroke: Caballeros y Dragones (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/nCJGThrH249sLUAzIS80xM7BEKz.jpg",
+			"info": "Hace diez años, Slade Wilson, alias el súper asesino llamado Deathstroke, cometió un trágico error y su esposa e hijo pagaron un precio terrible. Ahora, una década después, la familia de Wilson está amenazada una vez más por el asesino Chacal y los terroristas de H.IV.E. ¿Puede Deathstroke expiar los pecados del pasado o su familia pagará el precio máximo?",
+			"genero": "Animacion, Accion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Deathstroke-Caballeros.y.Dragones.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Terror, 1Ciencia ficcion, A2020, Letra D, EEUU, Tiburones, Secuela. ",
 			"name": "Deep Blue Sea 3 (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/bKthjUmxjHjvJK8FktFfQdmwP12.jpg",
@@ -26247,8 +26260,8 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Accion, Thriller, Ciencia ficcion",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:6E65D066C12986D0377BD60B25A9B0F996867CF8&dn=HD1080",
-				"torrent4k": "magnet:?xt=urn:btih:C86295E374F1B185B13039CDF40F86024B87332E",
+				"torrent": "magnet:?xt=urn:btih:6E65D066C12986D0377BD60B25A9B0F996867CF8&dn=HD1080",	magnet:?xt=urn:btih:2E3240C3297AD602A26C33FD56243C5B0EB92E84&dn=BR1080
+				"torrent4k": "magnet:?xt=urn:btih:C86295E374F1B185B13039CDF40F86024B87332E&dn=UHDRip",
 				}		
 			]
 			},
