@@ -1398,7 +1398,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Thriller",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Kate.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Kate.-2021.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:3942778195856D923052AF8346450AD76BEA427A&dn=HD1080
 				"torrent4k": ""	
 				}		
 			]
@@ -2366,15 +2366,15 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2021, Letra T, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Thriller, A2021, Letra T, EEUU, ",
 			"name": "The voyeurs (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/yBO3DYWlLp8gbTkgSjlGSrP1Hz.jpg",
 			"info": "Pippa y Thomas, una pareja que se acaba de mudar al apartamento de sus sueños, descubre que las ventanas permiten ver el interior del piso de enfrente y no pueden resistirse a observar a sus vecinos e incluso intentar interferir en sus vidas de forma anónima. Pronto descubrirán que todo tiene consecuencias",
 			"genero": "Thriller",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/The.voyeurs.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:545141A8951691ED7C3FAE6B0D2B509EE78875D9&dn=HD720
-				"torrent4k": ""	
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/The.voyeurs.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:545141A8951691ED7C3FAE6B0D2B509EE78875D9&dn=HD720	magnet:?xt=urn:btih:4BF1200AB0D2313F7977C47AA03C4A4826D3FC45&dn=HD1080
+				"torrent4k": "magnet:?xt=urn:btih:E2DBA357203586730B3005AB33CC888593200970&dn=Web4K"	
 				}		
 			]
 			},
@@ -2399,7 +2399,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Terror",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Tiburon.blanco.-2021.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:52D8213FE43D649F9EB72DE15811824EB3BF240E&dn=BRRip
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Tiburon.blanco.-2021.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:52D8213FE43D649F9EB72DE15811824EB3BF240E&dn=BRRip	magnet:?xt=urn:btih:0D25B845F933E532661123D64D4B6F40DA9D83E1&dn=HD1080
 				"torrent4k": ""	
 				}		
 			]
@@ -40031,7 +40031,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:7E959DA0CB7BA4C58FDF9FA5DA2020DAF55D747F",
-				"torrent4k": "magnet:?xt=urn:btih:2B5894A9C1F72D65F8922A7FE14BB1C8E314009E",  magnet:?xt=urn:btih:6a3b77ad9667a3cbd2ce66ea3ba84bd576a8ed8b
+				"torrent4k": "magnet:?xt=urn:btih:3AD2616E6FA9A2EB59FA6BA22769B20B69FD0AB6&dn=micro4K",  magnet:?xt=urn:btih:6E32FA396A08C72BE433AF22BCAF26E195F67E4D&dn=UHDRip
 				}		
 			]
 			},
