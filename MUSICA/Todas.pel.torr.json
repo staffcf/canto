@@ -2293,8 +2293,8 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Terror, Thriller",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Spiral-Saw.-2021.-.1080.-.CristalAzul.mkv.torrent",
-				"torrent4k": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Spiral-Saw.-2021.-.4kHDR.-.CristalAzul.mkv.torrent"	
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Spiral-Saw.-2021.-.1080.-.CristalAzul.mkv.torrent",		magnet:?xt=urn:btih:C5CF78DD7ACB23BB56083374C49BC06C212B5F23&dn=HD1080	magnet:?xt=urn:btih:94C1210D3DBF7A977A7F263C349CF09D8E3E11A6&dn=BR1080
+				"torrent4k": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Spiral-Saw.-2021.-.4kHDR.-.CristalAzul.mkv.torrent"		magnet:?xt=urn:btih:8B1C5677CE021B3F9F84DD4F2E7B8DDA81AB1222&dn=UHDRip	
 				}		
 			]
 			},,
@@ -2606,7 +2606,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Viuda.negra.2021.-.1080.-.CristalAzul.mkv.torrent",  	magnet:?xt=urn:btih:883592AD9D28E1F493AA0D20E53202D3A7BA609A&dn=HD1080
-				"torrent4k": "magnet:?xt=urn:btih:F67ABE7D968147A0975BE01C1647E4682358E5DA&dn=Web4K",  https://blazing.network/torrents/peliculas/Viuda-negra-4KWebrip.torrent
+				"torrent4k": "magnet:?xt=urn:btih:CF1A17E6F4DB07E9024C0C82B6F7AF5D076F6D01&dn=micro4K",  magnet:?xt=urn:btih:D3CA3F367769A288E005850ED477715BF159BB42&dn=UHDRip	magnet:?xt=urn:btih:F67ABE7D968147A0975BE01C1647E4682358E5DA&dn=Web4K
 				}		
 			]
 			}
