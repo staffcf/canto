@@ -298,3 +298,79 @@
 ======================================================================
 ======================================================================
 
+<!--
+ PONGAMOS QUE HABLO DE RONALDO
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"7", SerieTemp:"RONALDO", SerieID:"ENLACESTEMP1RONALDO", SerieIDT:"TORRENTTEMP1RONALDO", SerieThumbail:"https://i.imgur.com/SOeROMH.jpg",
+
+	
+-->
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1RONALDO, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title><titleGdrive></titleGdrive>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= ENLACESTEMP1RONALDO, TORRENTTEMP1RONALDO, "
+			<item>
+			<title>1X01 - Dadado</title>
+			<torrent>magnet:?xt=urn:btih:77A9D93A3F2FACF6139987D5DD87D75A208BB92C&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= ENLACESTEMP1RONALDO, TORRENTTEMP1RONALDO, "
+			<item>
+			<title>1X02 - Capitulo 2 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= ENLACESTEMP1RONALDO, TORRENTTEMP1RONALDO, "
+			<item>
+			<title>1X03 - Capitulo 3 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1RONALDO, "
+			<item>
+			<title> - </title><titleGdrive></titleGdrive>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1RONALDO, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title><titleGdrive></titleGdrive>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1RONALDO, "
+			<item>
+			<title>1X01 - Dadado</title>
+			<torrent>magnet:?xt=urn:btih:17410F4C126D679AAE8DBA06473F95CCB1A75614&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1RONALDO, "
+			<item>
+			<title>1X02 - Capitulo 2 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1RONALDO, "
+			<item>
+			<title>1X03 - Capitulo 3 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+
+
+
+
