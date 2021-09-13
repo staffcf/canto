@@ -305,7 +305,7 @@
 
 	ETIQUETAS:
 	
-	- 1SerieTitle:"7", SerieTemp:"RONALDO", SerieID:"ENLACESTEMP1RONALDO", SerieIDT:"TORRENTTEMP1RONALDO", SerieThumbail:"https://i.imgur.com/SOeROMH.jpg",
+	- 0SerieTitle:"7", SerieTemp:"RONALDO", SerieID:"ENLACESTEMP1RONALDO", SerieIDT:"TORRENTTEMP1RONALDO", SerieThumbail:"https://i.imgur.com/SOeROMH.jpg",
 
 	
 -->
@@ -322,7 +322,7 @@
 			"Tag= TORRENTTEMP1RONALDO, "
 			<item>
 			<title>1x01 - Dadado</title>
-			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Pongamos_que_hablo_de_Ronaldo--1x01--(HDTV-720p)--Castellano.torrent</torrent>	magnet:?xt=urn:btih:77A9D93A3F2FACF6139987D5DD87D75A208BB92C
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Pongamos_que_hablo_de_Ronaldo--1x01--(HDTV-720p)--Castellano.torrent</torrent>	magnet:?xt=urn:btih:77A9D93A3F2FACF6139987D5DD87D75A208BB92C&dn=HD720
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1RONALDO, "
@@ -353,7 +353,7 @@
 			"Tag= TORRENTTEMP1RONALDO, "
 			<item>
 			<title>1x01 - Dadado</title>
-			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Pongamos_que_hablo_de_Ronaldo--1x01--(HDTV)--Castellano.torrent</torrent>	magnet:?xt=urn:btih:17410F4C126D679AAE8DBA06473F95CCB1A75614
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Pongamos_que_hablo_de_Ronaldo--1x01--(HDTV)--Castellano.torrent</torrent>	magnet:?xt=urn:btih:17410F4C126D679AAE8DBA06473F95CCB1A75614&dn=HDTV
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1RONALDO, "
