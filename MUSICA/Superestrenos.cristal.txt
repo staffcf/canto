@@ -6,6 +6,17 @@
 
 
 <item>
+<title>[COLOR white] Borrar el Historial [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.7[/COLOR]</title>    
+<genre>Comedia,Internet,Informática,Redes sociales</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/7o0Whqj.jpg</thumbnail>
+<fanart>https://i.imgur.com/rAReoQ2.jpg</fanart>
+<info>Tres vecinos de un suburbio se ven superados por sus problemas con la tecnología y las redes sociales. Con la ayuda de un pirata informático, deciden declarar la guerra a los poderosos gigantes tecnológicos. Tal vez su batalla esté perdida desde el principio, pero nunca se sabe.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=XmtLY1tPoVM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/pwnxdtm15---x0m"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/7r8x78xesdelxwo"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/p67jgtfysa3o"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "Falta poner"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/rtqmn4kog0zk"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1FvE6z6M1xqMSBVS38gQRGfwDmHE-GgLr/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Tiburon blanco [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.8[/COLOR]</title>    
 <genre>Terror,Suspense,Tiburones</genre>
 <year>2021</year>
