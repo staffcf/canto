@@ -6,6 +6,32 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Accion, A2021, Letra E, EEUU, ",
+			"name": "El protector (The Marksman) (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/ncnZa574KFkSRrwPpxbyRoIrteW.jpg",
+			"info": "Un ranchero en la frontera de Arizona se convierte en el improbable defensor de un niño mexicano que huye desesperadamente de los asesinos del cartel que lo han perseguido hasta Estados Unidos",
+			"genero": "Thriller, Accion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/El.protector.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Infantil, A2021, Letra F, Canada, ",
+			"name": "Felix y el tesoro de Morgaa (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/q4zguMDVS4BQWltxrGsc0kKxdRa.jpg",
+			"info": "Félix es un niño de 12 años que está convencido de que su padre, desaparecido en el mar hace dos años, sigue con vida. Un día decide salir en su búsqueda acompañado por Tom, un marinero retirado; Squak, un loro pirata; y Rover, un gato que se comporta como un perro. Su aventura les lleva hasta la isla de Darkshadow, donde encuentran una ciudad subterránea secreta en la que reina Morgäa, una tirana que guarda un increíble secreto",
+			"genero": "Animacion, Infantil",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Felix.y.el.tesoro.de.Morgaa.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Accion, A2020, Letra D, EEUU, DC, Comics, Superheroes, ",
 			"name": "Deathstroke: Caballeros y Dragones (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/nCJGThrH249sLUAzIS80xM7BEKz.jpg",
@@ -39,7 +65,7 @@
 			"genero": "Comedia",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Borrar.el.historial.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Borrar.el.historial.-2020.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:0F01992D93EDC10A0B0F52E6D8427097C2FACE18&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
