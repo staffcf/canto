@@ -1023,6 +1023,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Accion, A2021, Letra E, EEUU, ",
+			"name": "El protector (The Marksman) (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/ncnZa574KFkSRrwPpxbyRoIrteW.jpg",
+			"info": "Un ranchero en la frontera de Arizona se convierte en el improbable defensor de un niño mexicano que huye desesperadamente de los asesinos del cartel que lo han perseguido hasta Estados Unidos",
+			"genero": "Thriller, Accion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/El.protector.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Comedia, A2021, Letra E, EEUU, Sagas Zamunda, ",
 			"name": "El Rey de Zamunda (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/1QmQZJ6PiITEgkJlildtOzkn28K.jpg",
@@ -1202,7 +1215,20 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"torrent4k": "magnet:?xt=urn:btih:21C7A1F20ACC1197FBC5D495DDE8AA217AADFAD8&dn=UHDRip",	magnet:?xt=urn:btih:5C48E818091F8B985700EFD26877C442B6C2DD02&dn=UHDmicro
 				}		
 			]
-			},
+			}
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Infantil, A2021, Letra F, Canada, ",
+			"name": "Felix y el tesoro de Morgaa (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/q4zguMDVS4BQWltxrGsc0kKxdRa.jpg",
+			"info": "Félix es un niño de 12 años que está convencido de que su padre, desaparecido en el mar hace dos años, sigue con vida. Un día decide salir en su búsqueda acompañado por Tom, un marinero retirado; Squak, un loro pirata; y Rover, un gato que se comporta como un perro. Su aventura les lleva hasta la isla de Darkshadow, donde encuentran una ciudad subterránea secreta en la que reina Morgäa, una tirana que guarda un increíble secreto",
+			"genero": "Animacion, Infantil",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Felix.y.el.tesoro.de.Morgaa.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},,
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra F, Belgica, Netflix, ",
 			"name": "Ferry (2021)","coloryear": "cyan",
@@ -3620,7 +3646,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Comedia",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Borrar.el.historial.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Borrar.el.historial.-2020.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:0F01992D93EDC10A0B0F52E6D8427097C2FACE18&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -3665,7 +3691,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2020, Letra C, EEUU, Policiaco, Sobrenatural, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Thriller, A2020, Letra C, EEUU, Policiaco, Sobrenatural, ",
 			"name": "Camara policial (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/akmjfKPlxBAdXi4G1TZOirty8Ia.jpg",
 			"info": "Una policia (Mary J. Blige) es la unica testigo de la muerte inexplicable y espeluznante de su compañero cuando realizaban un rutinario control de trafico. A medida que aumentan las muertes, ella luchara para comprender la fuerza sobrenatural detras de ellos",
@@ -3673,7 +3699,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:588AB2BFA897498E1F7752DDD7C91C34BBB9573B&dn=BR1080",
-				"torrent4k": ""
+				"torrent4k": "magnet:?xt=urn:btih:EB46A58C990AB41855DEA922CF2F11BE15BC68C3&dn=Web4K"
 				}		
 			]
 			},
@@ -6511,6 +6537,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:f0d81d5c221e566afeab1ecc114328763522ed08", 
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra L, Chile, Cine Latino, ",
+			"name": "La Veronica (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/5zzRVHvTglMHMMVgXTtPl91QKEa.jpg",
+			"info": "Verónica, una modelo muy popular en las redes sociales, casada con una estrella internacional del fútbol, cae en desgracia cuando descubre que es la principal sospechosa en la investigación sobre el asesinato de su primera hija, ocurrido diez años atrás. Frente a la presión de la investigación, su matrimonio está al borde de la ruptura y comienza a sentir celos de Amanda, su hija recién nacida",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/La.Veronica.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -17062,7 +17101,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2019, Letra R, EEUU, Reales, Periodismo, Warner Bros, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Drama, A2019, Letra R, EEUU, Reales, Periodismo, Warner Bros, ",
 			"name": "Richard Jewell (2019)","coloryear": "limegreen",
 			"image": "https://www.themoviedb.org/t/p/original/5rI1qPAtkFOzl5aiIwuwSOzn48S.jpg",
 			"info": "Richard Jewell era un guardia de seguridad en los Juegos Olimpicos de Atlanta 1996, el cual descubrio una mochila con explosivos en su interior y evito un numero mayor de victimas al ayudar a evacuar el area poco antes de que se produjera el estallido. En un principio se le presento como un heroe cuya intervencion salvo vidas, pero posteriormente Jewell paso a ser considerado el sospechoso numero uno y fue investigado como presunto culpable",
@@ -17070,7 +17109,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:DA297ACCD1F6A7A1BF058531EDE77E639A5D9D2E",
-				"torrent4k": ""
+				"torrent4k": "magnet:?xt=urn:btih:A9D4B952F8241610CC3048B5141A6D640178A9FE&dn=Web4K"
 				}	
 			]
 			},
@@ -27449,6 +27488,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Thriller, 1Drama, A2017, Letra S, EEUU, ",
+			"name": "Suburbicon (2017)","coloryear": "green",
+			"image": "https://www.themoviedb.org/t/p/original/bnNgySK6IqOMmWBElbj6hAfNr5r.jpg",
+			"info": "Verano de 1959. La familia Lodge se muda a Suburbicon, una comunidad residencial pacífica e idílica con viviendas asequibles y céspedes impecables... el lugar perfecto para criar una familia. Pero la aparente tranquilidad esconde una realidad perturbadora. El cabeza de familia de los Lodge, Gardner (Matt Damon) se sumergirá en el lado oscuro del pueblo, lleno de traición, engaños y violencia. Este es un cuento de gente imperfecta que toma muy malas decisiones.",
+			"genero": "Thriller, Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:D0130E9BE422F8B619609BE3352E5B7E72036821&dn=HD1080",	magnet:?xt=urn:btih:97249D98E7FE680E2A7CD0CB7BA11E6541C9871E&dn=BR1080	magnet:?xt=urn:btih:EFFCFF879ECAE55F49924D7ACC885028C598BB48&dn=HDRip
+				"torrent4k": "magnet:?xt=urn:btih:29221D771E33DAECC38DAE8BDB45C35EAE144BF5&dn=Web4K"	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Ciencia ficcion, A2017, Letra S, Corea del Sur, Netflix, Secuestros, Desapariciones, ",
 			"name": "Sueño Lucido (2017)","coloryear": "green",
 			"image": "https://m.media-amazon.com/images/M/MV5BZTQ5MDRlNmEtMzc2Ny00YTk0LWExNmUtYzNkMjc0NWFkMDFkXkEyXkFqcGdeQXVyNjE1OTQ0NjA@.jpg",
@@ -29269,7 +29321,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Terror, A2015, Letra L, EEUU, ",
-			"name": "L.A. Slasher (2015)","coloryear": "coloryear",
+			"name": "L.A. Slasher (2015)","coloryear": "lime",
 			"image": "https://i.imgur.com/m4VlLpE.jpg",
 			"info": "Un sádico, apodado 'L.A. Slasher' ve el momento perfecto para comenzar a perseguir, secuestrar y torturar a las mujeres en un manicomio abandonado. Tras el secuestro, la tortura y el asesinato, sube los videos a las redes sociales más populares, como YouTube y Twitter. Esto lleva a la policía a creer que 'L.A. Slasher' no está matando solo por diversión, sino para ser famoso",
 			"genero": "Thriller, Terror",
@@ -29433,6 +29485,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{ 
 				"torrent": "magnet:?xt=urn:btih:8289121d469b00a7039d67e1c65c0afb6bab0d45",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Terror, 1Fantastico, A2015, Letra P, EEUU, ",
+			"name": "Poltergeist (2015)","coloryear": "lime",
+			"image": "https://www.themoviedb.org/t/p/original/5SucctTh5babNZBj8ZSR32ZHrxi.jpg",
+			"info": "Cuenta la historia de una familia que, tras mudarse a una nueva casa, se ve azotada por los espíritus de los que la habitaron en el pasado. El foco del ataque sobrenatural se centra en la hija más pequeña del matrimonio. Remake del clásico de 1982",
+			"genero": "Terror, Fantastico",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:BAE7C179D1EEE3304F36974BB6E60FCBFBCE2076&dn=HD1080",	magnet:?xt=urn:btih:EC716BBE38565DE8C5253DF933DC20F96F9A2BDD&dn=HDRip
+				"torrent4k": "magnet:?xt=urn:btih:1C9BD71F36AD924ECA6B896C9C3F0E472D69F94A&dn=Web4K"	
 				}		
 			]
 			},
@@ -34943,7 +35008,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Ciencia ficcion, A2003, Letra B, Spain, ",
-			"name": "Beyond Re-Animator (2003)","coloryear": "coloryear",
+			"name": "Beyond Re-Animator (2003)","coloryear": "darkviolet",
 			"image": "https://www.themoviedb.org/t/p/original/7rPGsqp3UF6Gc5ObIfTYpqM7Dsn.jpg",
 			"info": "El singular Doctor Herbert West, un eminente científico, cumple condena desde hace catorce años por ser el responsable de la matanza de Miskatonic. Una tragedia provocada por extraños engendros, productos de sus experimentos sobre reanimación de organismos muertos. Para él, esa masacre no es más que un daño colateral, inevitable consecuencia de cualquier proceso experimental. En prisión, lejos de rehabilitarse y arrepentirse de su obsesión científica por vencer a la muerte, sigue trabajando en la misma línea",
 			"genero": "Terror, Ciencia ficcion",
@@ -37262,7 +37327,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Accion, 1Terror, 1Fantastico, A1995, Letra A, EEUU, Sagas AHEAmanecer, B2000, A2000-1991, Secuestros, Desapariciones, Vampiros, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Accion, 1Terror, 1Fantastico, A1996, Letra A, EEUU, Sagas AHEAmanecer, B2000, A2000-1991, Secuestros, Desapariciones, Vampiros, ",
 			"name": "Abierto hasta el amanecer (1996)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/mwWHEbVMOdWODpKr5N6JE6VtSS5.jpg",
 			"info": "Los hermanos Seth y Richard son dos de los criminales mas peligrosos de America. Andan huyendo en direccion a Mexico, pues tanto el FBI como la policia de Texas les pisan los talones. Despues de tomar como rehenes al predicador Fuller y a sus dos hijos, se dirigen a su destino en su caravana familiar. Tras pasar la frontera, todos pasan la noche en un local de carretera llamado la Teta Enroscada",
@@ -37537,6 +37602,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{ 
 				"torrent": "magnet:?xt=urn:btih:3441FE34AE485BC5DBA2A0D6612D7E6A71DB2254&dn=BR1080",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1genero, A1995, Letra C, Francia, B2000, A2000-1991, ",
+			"name": "Crying Freeman: Los paraísos perdidos (1995)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/kZQ4f7k5CRiCi85i4qw3XFBtIJ5.jpg",
+			"info": "Freeman pertenece a un culto antiguo de guerreros chinos llamados 'Los hijos del dragón'. Él es su verdugo y su único hombre, porque es tal su poder que no necesitan a otro.",
+			"genero": "Accion",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:4BF50D2B11225AA53875EEE88C68E482E1F3EC04&dn=BR1080",	magnet:?xt=urn:btih:AEAB2E1EB7D5E31B6E5C4A6AB5CDDA37BA58AAB3&dn=HD1080	magnet:?xt=urn:btih:A5D87AE1BB5C5E5598667653F5E9D717E08D036D&dn=DVDRip
+				"torrent4k": "magnet:?xt=urn:btih:08B210730ABF72D51ED4C092C82E4413BD85A91E&dn=UHDRip"	
 				}		
 			]
 			},
