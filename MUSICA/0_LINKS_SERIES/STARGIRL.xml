@@ -193,12 +193,6 @@
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
-			<title> - [COLOR yellow]CALIDAD 720</title><titleGdrive></titleGdrive>      
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP2, "
-			<item>
 			<title>2x01 - Escuela de verano: Capítulo 1</title>
 			<torrent>magnet:?xt=urn:btih:1D07F9FD1C17BA0A1835DE98FE98AC19DC693D6F</torrent>
 			</item>
@@ -227,50 +221,53 @@
 			<torrent>magnet:?xt=urn:btih:86681760DC7FD76207E9833DD3DC65A9C78AD722&dn=HD1080</torrent>	magnet:?xt=urn:btih:82EAD5E0F76F1636D1235659AFADDCFB9A6E9738&dn=HD720
 			</item>
 ======================================================================
-======================================================================
-======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
-			<title> - </title><titleGdrive></titleGdrive>      
-			<torrent></torrent>
+			<title>2x06 - Escuela de verano: Capítulo seis</title>
+			<torrent>magnet:?xt=urn:btih:3038C700B6B21D796099CFB99148C7C1B3864DFF&dn=HD1080</torrent>	
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
-			<title> - [COLOR yellow]CALIDAD HDTV</title><titleGdrive></titleGdrive>      
-			<torrent></torrent>
+			<title>2x07 - Escuela de verano: Capítulo siete [COLOR orangered](PROXIAMENTE)</title>
+			<torrent></torrent>	
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
-			<title>2x01 - Escuela de verano: Capítulo 1</title>
-			<torrent>magnet:?xt=urn:btih:27A30C65CCD0478B1D5DBEA59405909A91A0A09C&dn=HDTV</torrent>
+			<title>2x08 - Escuela de verano: Capítulo ocho [COLOR orangered](PROXIAMENTE)</title>
+			<torrent></torrent>	
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
-			<title>2x02 - Escuela de verano: Capítulo dos</title>
-			<torrent>magnet:?xt=urn:btih:AB6B595F16CDF4B7B2479CF139E0BECD8D57C2B4&dn=HDTV</torrent>
+			<title>2x09 - Escuela de verano: Capítulo nueve [COLOR orangered](PROXIAMENTE)</title>
+			<torrent></torrent>	
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
-			<title>2x03 - Escuela de verano: Capítulo tres</title>
-			<torrent>magnet:?xt=urn:btih:4EEB926F54D055F7302D260A3946583AC4F0213C&dn=HDTV</torrent>
+			<title>2x10 - Escuela de verano: Capítulo diez [COLOR orangered](PROXIAMENTE)</title>
+			<torrent></torrent>	
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
-			<title>2x04 - Escuela de verano: Capítulo cuatro</title>
-			<torrent>magnet:?xt=urn:btih:B4010903AA6E53F5B96B2245BB3FAFD0D6EC63CE&dn=HDTV</torrent>
+			<title>2x11 - Escuela de verano: Capítulo once [COLOR orangered](PROXIAMENTE)</title>
+			<torrent></torrent>	
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
-			<title>2x05 - Escuela de verano: Capítulo cinco</title>
-			<torrent>magnet:?xt=urn:btih:C2AD7A72205A883349A20F9A1BCC30D431CCEBC3&dn=HDTV</torrent>
+			<title>2x12 - Escuela de verano: Capítulo doce [COLOR orangered](PROXIAMENTE)</title>
+			<torrent></torrent>	
 			</item>
 ======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x13 - Escuela de verano: Capítulo trece [COLOR orangered](PROXIAMENTE)</title>
+			<torrent></torrent>	
+			</item>
 ======================================================================
 ======================================================================
 ======================================================================
