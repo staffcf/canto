@@ -6,6 +6,17 @@
 
 
 <item>
+<title>[COLOR white] Cuentos al caer la noche [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.6[/COLOR]</title>    
+<genre>Terror,Comedia,Fantástico,Cine familiar</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/yx39PCY.jpg</thumbnail>
+<fanart>https://i.imgur.com/cyi2R7b.jpg</fanart>
+<info>Cuando Alex (Winslow Fegley), un chico obsesionado con las historias de miedo, es encerrado por una joven bruja malvada (Krysten Ritter) en su moderno apartamento de Nueva York, conoce a Yasmin (Lydia Jewett), que también está atrapada y se da cuenta de que debe contar una historia de miedo nueva cada noche para sobrevivir.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=NFLuCM6S1g4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/nn2x6h2mrp81r-y"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/3n8w0xz3s3rzv1"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/4pqvn55t0fhm"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/ai3qkwh8x24p.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/wyio0d1woya2"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1M-wjTTl6Q4vp9u5cmDTNif_dIOsL31XC/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El protector [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.2[/COLOR]</title>    
 <genre>Thriller,Acción</genre>
 <year>2021</year>
