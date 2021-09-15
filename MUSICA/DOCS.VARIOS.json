@@ -152,6 +152,19 @@
 			]
 			},
 			{
+			"tag": " 1Torrent, 1Documental, A2021, Letra S, Alemania, 1Biografico, Netflix, ",
+			"name": "Schumacher (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/vqPZwu7tkheack5ZVNT6CArANSd.jpg",
+			"info": "Documental sobre el legendario piloto Michael Schumacher (Alemania, 1969), siete veces campeón del mundo de Fórmula 1. El film contiene grabaciones privadas de la familia de Schumacher, escenas de las carreras de F1 y numerosas entrevistas",
+			"genero": "Documental",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Schumacher.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 1Torrent, 1Documental, A2020, Letra A, EEUU, C720, Netflix, ",
 			"name": "A secret love (2020)","coloryear": "magenta",
 			"image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/28LNd4KEpqt9i8sgXrVcrdr2kgI.jpg",
