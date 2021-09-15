@@ -6,6 +6,45 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra C, EEUU, Netflix, ",
+			"name": "Cuentos al caer la noche (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/wuIJBfsy2MpL0VitGThHjBhWzmu.jpg",
+			"info": "Cuando Alex (Winslow Fegley), un chico obsesionado con las historias de miedo, es encerrado por una joven bruja malvada (Krysten Ritter) en su moderno apartamento de Nueva York, conoce a Yasmin (Lydia Jewett), que también está atrapada y se da cuenta de que debe contar una historia de miedo nueva cada noche para sobrevivir",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Cuentos.al.caer.la.noche.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2019, Letra D, EEUU, ",
+			"name": "Dreamland (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/o2CyMYDFHQ7zhnAZiGIBdSewFnI.jpg",
+			"info": "Ambientada en la década de los años 30, en plena devastación producida por el fenómeno medioambiental denominado 'Dust Bowl' (literalmente, 'Cuenco de Polvo'), la historia sigue los pasos de un joven (Travis Fimmel) de 17 años que se propone capturar a una ladrona de bancos (Margot Robbie) que se ha dado a la fuga y cuya cabeza tiene una suculenta recompensa. Aunque vence al FBI y la alcanza antes que las autoridades del país, pronto descubre que la criminal es incluso más peligrosa de lo que todos habían imaginado",
+			"genero": "Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Dreamland.-2019.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Thriller, A2020, Letra M, EEUU, ",
+			"name": "Most dangerous game (2020)","coloryear": "magenta",
+			"image": "https://i.imgur.com/X0BfsnF.jpg",
+			"info": "Empujado por la desesperación de asegurar un futuro para su mujer embarazada antes de que una enfermedad terminal se lo impida para siempre, Dodge Maynard acepta una oferta para participar en un juego mortal donde pronto descubre que no es el cazador, sino la presa",
+			"genero": "Accion, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Most.dangerous.game.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Accion, A2021, Letra E, EEUU, ",
 			"name": "El protector (The Marksman) (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/ncnZa574KFkSRrwPpxbyRoIrteW.jpg",
