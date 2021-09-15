@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Documental, A2021, Letra S, Alemania, 1Biografico, Netflix, ",
+			"name": "Schumacher (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/vqPZwu7tkheack5ZVNT6CArANSd.jpg",
+			"info": "Documental sobre el legendario piloto Michael Schumacher (Alemania, 1969), siete veces campeón del mundo de Fórmula 1. El film contiene grabaciones privadas de la familia de Schumacher, escenas de las carreras de F1 y numerosas entrevistas",
+			"genero": "Documental",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Schumacher.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra C, EEUU, Netflix, ",
 			"name": "Cuentos al caer la noche (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/wuIJBfsy2MpL0VitGThHjBhWzmu.jpg",
@@ -13,7 +26,7 @@
 			"genero": "Comedia",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Cuentos.al.caer.la.noche.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Cuentos.al.caer.la.noche.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:D48CC801C89D4B3AA86F7B89BFD739D8C742EA7A&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
