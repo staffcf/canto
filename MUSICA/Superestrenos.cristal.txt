@@ -6,6 +6,17 @@
 
 
 <item>
+<title>[COLOR white] SCHUMACHER [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.2[/COLOR]</title>    
+<genre>Documental,Coches/Automovilismo,Biográfico</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/zwPFxjf.jpg</thumbnail>
+<fanart>https://i.imgur.com/oYeTSjW.jpg</fanart>
+<info>Documental sobre el legendario piloto Michael Schumacher (Alemania, 1969), siete veces campeón del mundo de Fórmula 1. El film contiene grabaciones privadas de la familia de Schumacher, escenas de las carreras de F1 y numerosas entrevistas.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=MYYsft_6xI0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/7mwj4sgq5zr81j-"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/7r8z018qbd1vxw3"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/6esacqpb07rg"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/bp35k20cdlkd.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/gs7ginly3thp"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1RVIPkukH1ejzZMs7WnSwo894PylOnMxz/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Cuentos al caer la noche [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.6[/COLOR]</title>    
 <genre>Terror,Comedia,Fantástico,Cine familiar</genre>
 <year>2021</year>
