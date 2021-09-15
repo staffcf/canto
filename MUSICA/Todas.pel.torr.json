@@ -13389,7 +13389,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Animacion. Fantastico. Aventuras. Musical. Comedia. Infantil",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:338d43ad3edb738eb52c0210e689f21ee7b450ef&dn=HD1080",	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Frozen.II.-2019.-.1080.-.CristalAzul.mkv.torrent
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Frozen.II.-2019.-.1080.-.CristalAzul.mkv.torrent",		magnet:?xt=urn:btih:338d43ad3edb738eb52c0210e689f21ee7b450ef&dn=HD1080
 				"torrent4k": "magnet:?xt=urn:btih:2487062D1BFD3532119461454E640EF82CAE2D31"
 				}		
 			]
@@ -28710,7 +28710,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Animacion, Accion, Comedia, Infantil",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:B4709A2DBD9B7D2B2FB6F4EC4773D8F8E763A848&dn=HDRip",	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Kung.Fu.Panda-Los.Secretos.Del.Pergamino.-2012.-.1080.-.CristalAzul.mkv.torrent	
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Kung.Fu.Panda-Los.Secretos.Del.Pergamino.-2012.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:B4709A2DBD9B7D2B2FB6F4EC4773D8F8E763A848&dn=HDRip	
 				"torrent4k": ""	
 				}		
 			]
