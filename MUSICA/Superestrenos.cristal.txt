@@ -5,6 +5,18 @@
 =======================================================================================
 
 
+
+
+<item>
+<title>[COLOR white] El olvido que seremos [/COLOR][COLOR yellow](2020) [COLOR aqua]*8.1[/COLOR]</title>    
+<genre>Drama</genre>
+<year>2020</year>
+<thumbnail>https://i.imgur.com/mUGliru.jpg</thumbnail>
+<fanart>https://i.imgur.com/L1VjhFZ.jpg</fanart>
+<info>Narra de manera íntima la vida de un hombre bueno, el médico Héctor Abad Gómez, carismático líder social y hombre de familia, un destacado médico y activista por los derechos humanos en el Medellín polarizado y violento de los años 70. La historia relata la vida del doctor, padre de familia preocupado tanto por sus hijos como por los niños de clases menos favorecidas. En su casa se respiraba la vitalidad y la creatividad características de una educación fundamentada en la tolerancia y el amor, pero la tragedia asomaba.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=ppezPGQJ8Yw&t=2s"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/4y3x0czywm88x1d"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/zprmqoegidzr6z"},{"titulo" : "[COLOR white]VideoTape[/COLOR]","url" : "https://streamtape.com/v/kDAP04D46wcOgVz"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/k64ykbjp7rtn.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/qdqxpx7quzup"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "PENDIENTE"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1YdzacN5Vdet3n9yYaIfU2QLywSQmbuqy/view"}</urlsolve>
+</item>
+
 <item>
 <title>[COLOR white] Dreamland [/COLOR][COLOR yellow](2019) [COLOR aqua]*6.5[/COLOR]</title>    
 <genre>Suspense, Drama</genre>
