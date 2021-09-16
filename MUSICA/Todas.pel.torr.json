@@ -1043,7 +1043,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Thriller, Accion",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/El.protector.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/El.protector.-2021.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:8CF52305493C01F1D145DAAAF74902EB393F6B0E&dn=HD1080	magnet:?xt=urn:btih:7D8CFB51F25893861D359EF0E74003BEAAFA1BCC&dn=BR1080
 				"torrent4k": ""	
 				}		
 			]
@@ -2464,7 +2464,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Terror",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Todas.las.lunas.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:7DDD9B9605892416E858B358F942AD82B1AB3C9B&dn=BRRip
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Todas.las.lunas.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:7DDD9B9605892416E858B358F942AD82B1AB3C9B&dn=BRRip	magnet:?xt=urn:btih:1CFE3F1AE90FCD92506386BE2C31F2FC9FD5B990&dn=HD1080	magnet:?xt=urn:btih:F058CAEB9FF624412C09E3D36EC614B95F798336&dn=BR1080
 				"torrent4k": ""	
 				}		
 			]
@@ -4884,6 +4884,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:45F6E640E705710E1677AD955FD54330A18636D4&dn=HD1080",  magnet:?xt=urn:btih:6EE04FBF1B40C602F031B5B23E598FCDBDC7C5B1&dn=BRRip  magnet:?xt=urn:btih:0e95cfb1c316b4d9dd41e4d2bfc09e7aca44c835&dn=HD
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra E, Colombia, 1Biografico, Cine Latino, ",
+			"name": "El olvido que seremos (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/ArxcaO4RX0kMWhpW6mMuTypEUXv.jpg",
+			"info": "Narra de manera íntima la historia de un hombre bueno, el médico colombiano Héctor Abad Gómez, carismático líder social y hombre de familia, un destacado médico y activista por los derechos humanos en el Medellín polarizado y violento de los años 70. La trama relata la vida del doctor y padre de familia, preocupado tanto por sus hijos como por los niños de clases menos favorecidas. En su casa se respiraba la vitalidad y la creatividad características de una educación fundamentada en la tolerancia y el amor, pero la violencia ambiental del país condicionaba la vida de todo su entorno",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/El.olvido.que.seremos.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -7522,7 +7535,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Accion, Thriller",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Most.dangerous.game.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Most.dangerous.game.-2020.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:E6555C8B298C2B83543708E6BB56BD42DE2E4F4D&dn=HD1080	magnet:?xt=urn:btih:8C0AD0F1AC7EDD39184C42DC4F262EC782DAA347&dn=BR1080
 				"torrent4k": ""	
 				}		
 			]
@@ -7899,7 +7912,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Terror, Accion, Thriller",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:61D1FD60999D185663D6D774403DB2B14893061F&dn=BRRip",
+				"torrent": "magnet:?xt=urn:btih:603CE3BDED4E7010D0F80077474325BF2031AC70&dn=BR1080",	magnet:?xt=urn:btih:61D1FD60999D185663D6D774403DB2B14893061F&dn=BRRip
 				"torrent4k": ""
 				}		
 			]
