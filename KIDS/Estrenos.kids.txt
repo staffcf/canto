@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+<item>
+<title>[COLOR white]Space Jam: Una nueva era[COLOR cyan](2021)[/COLOR]</title>  
+<genre>Animación,Comedia,Familia,Ciencia ficcion</genre>
+<year>2021</year>  
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Secuela de la cinta original de 1996, Space Jam, protagonizada por Michael Jordan. En esta segunda parte, la super estrella de la NBA es LeBron James, quien queda atrapado junto a su hijo Dom en un extraño lugar, un espacio digital de una fuerza todopoderosa y malvada conocida como A.I. Para volver a casa y poner a salvo a su hijo, el jugador de baloncesto deberá unir fuerzas con Bugs Bunny, Lola Bunny y el resto de personajes de los Looney Tunes para enfrentarse en un partido de baloncesto a los campeones digitalizados por A.I.</info>
+<urlsolve>https://mixdrop.to/e/848xvgj3u6mn6dw/</urlsolve>
+</item>
+
 <item>
 <title>[COLOR white]Uuups! La aventura continúa  [COLOR cyan](2020)[/COLOR]</title>  
 <genre>Animación,Fantástico,Infantil </genre>
