@@ -73,7 +73,7 @@
 			"genero": "Documental",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Heroes.Silencio.y.rock.and.roll.-.Cristalazul.mkv.torrent",  magnet:?xt=urn:btih:90CB1579F569B29E566B208D0F06151F1C1A0BCB&dn=HD1080
+				"torrent": "magnet:?xt=urn:btih:90CB1579F569B29E566B208D0F06151F1C1A0BCB&dn=HD1080",  
 				}		
 			]
 			},
@@ -159,7 +159,7 @@
 			"genero": "Documental",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Schumacher.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "magnet:?xt=urn:btih:21270140222610B23C03CFB75BDDF1D8E45056D6&dn=BRRip",
 				"torrent4k": ""	
 				}		
 			]
