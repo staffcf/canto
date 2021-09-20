@@ -718,7 +718,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Thriller, Terror, Accion",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Cielo.rojo.sangre.2021.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:9D2BA2D1CF70C0522AD38BA13860836011680560&dn=HD1080	magnet:?xt=urn:btih:FB08521DDDF743C7CA9022A36B060EE99A6382EF&dn=HD1080  
+				"torrent": "magnet:?xt=urn:btih:9D2BA2D1CF70C0522AD38BA13860836011680560&dn=HD1080",  	magnet:?xt=urn:btih:FB08521DDDF743C7CA9022A36B060EE99A6382EF&dn=HD1080  
 				"torrent4k": ""
 				}		
 			]
@@ -1017,7 +1017,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Terror, Thriller",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:AF832D80AC8765C579F344CD76397962809936A2&dn=BRRip",  https://www.alt-torrent.com/torrent/7477_1626834549.torrent   magnet:?xt=urn:btih:70D3E88E1EC5357B8FE2677E315AC38E4A464460&dn=HD1080
+				"torrent": "magnet:?xt=urn:btih:AF832D80AC8765C579F344CD76397962809936A2&dn=BRRip",  magnet:?xt=urn:btih:70D3E88E1EC5357B8FE2677E315AC38E4A464460&dn=HD1080
 				"torrent4k": ""
 				}		
 			]
@@ -1056,7 +1056,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Thriller, Accion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:8CF52305493C01F1D145DAAAF74902EB393F6B0E&dn=HD1080",magnet:?xt=urn:btih:8CF52305493C01F1D145DAAAF74902EB393F6B0E&dn=HD1080	magnet:?xt=urn:btih:7D8CFB51F25893861D359EF0E74003BEAAFA1BCC&dn=BR1080
+				"torrent": "magnet:?xt=urn:btih:8CF52305493C01F1D145DAAAF74902EB393F6B0E&dn=HD1080",	magnet:?xt=urn:btih:7D8CFB51F25893861D359EF0E74003BEAAFA1BCC&dn=BR1080
 				"torrent4k": ""	
 				}		
 			]
@@ -1070,7 +1070,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/El.Rey.de.Zamunda.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:FE0FEDBE8F51026A6D41B325575658DDF3581F9D&dn=HD1080
-				"torrent4k": "magnet:?xt=urn:btih:B92D8D6690C526C85FAEA4221E51E61FECC43007&dn=Web4K" https://blazing.network/torrents/peliculas/147714_-1615041737-El-Rey-de-Zamunda-2--4KWebrip.torrent  
+				"torrent4k": "magnet:?xt=urn:btih:B92D8D6690C526C85FAEA4221E51E61FECC43007&dn=Web4K" 
 				}		
 			]
 			},
@@ -1358,25 +1358,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"torrent4k": ""
 				}		
 			]
-			}
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Thriller, A2021, Letra I, EEUU, ",
-			"name": "Ice Road [COLOR gold](Web-Scr) (2021)","coloryear": "cyan",
-			"image": "https://www.themoviedb.org/t/p/original/lzJlE1mlHY2ISm9gUt75bXdGJom.jpg",
-			"info": "Una remota mina de diamantes ha colapsado dejando atrapados a un grupo de mineros en una región lejana y helada de Canadá. Como parte de un equipo contratado para rescatarlos, el experimentado conductor de una quitahielos emprende un rescate imposible, teniendo que luchar contra una carretera helada, contra las aguas que están descongelándose y contra una amenaza que no ve venir",
-			"genero": "Accion, Thriller",
-			"stations": [
-				{
-				"kodi1": "https://vidlox.me/NO_LINK", "colorserver1": "lime",
-				"kodi2": "https://vidlox.me/NO_LINK",
-				"kodi3": "https://vidlox.me/NO_LINK", 
-				"kodi4": "https://vidlox.me/NO_LINK", 
-				"kodi5": "https://vidlox.me/NO_LINK",
-				"torrent": "magnet:?xt=urn:btih:AC6CFD2E7198893F7E51C40CD87CEC14C5AD6B1C&dn=BR-Scr",		magnet:?xt=urn:btih:AC6CFD2E7198893F7E51C40CD87CEC14C5AD6B1C&dn=BR-Scr
-				"torrent4k": ""	
-				}		
-			]
-			},,
+			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Aventuras, A2021, Letra I, Rusia, ",
 			"name": "Igor Grom contra el Doctor Peste (2021)","coloryear": "cyan",
@@ -1437,7 +1419,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Terror",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:d6afc771245fcf176547a84c7e1fda6c8587d076&dn=HD1080",  https://www.alt-torrent.com/torrent/7326_1623899942.torrent
+				"torrent": "magnet:?xt=urn:btih:d6afc771245fcf176547a84c7e1fda6c8587d076&dn=HD1080",  
 				"torrent4k": ""
 				}		
 			]
@@ -1872,19 +1854,6 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Thriller, 1Intriga, A2021, Letra M, EEUU, ",
-			"name": "Maligno [COLOR gold](Web-Scr) (2021)","coloryear": "cyan",
-			"image": "https://www.themoviedb.org/t/p/original/9eo0feDgFvAV4rDrQw6TyNAjSes.jpg",
-			"info": "Madison está paralizada por visiones de asesinatos espeluznantes, y su tormento empeora cuando descubre que estos sueños de vigilia son, de hecho, realidades aterradoras",
-			"genero": "Terror, Thriller, Intriga",
-			"stations": [
-				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Maligno.-2021.-.Web1080-Scr.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:80D5F09DAF20D2051788B50D302C3862A06AD1EE&dn=SD.Scr
-				"torrent4k": ""	
-				}		
-			]
-			},
-			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Accion, A2021, Letra M, Brasil, Netflix, ",
 			"name": "Mas locos que una cabra (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/vavrtSN9CxiwGylJ3JtWx2atuX0.jpg",
@@ -2245,19 +2214,6 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:819D19CB97630353EFFD3FF4807B260B1AC9C393&dn=HD1080",  magnet:?xt=urn:btih:6159C84CD05540313B7CA64190F411E6D28A5F21&dn=BR1080
 				"torrent4k": "magnet:?xt=urn:btih:076BEFC97D42FB81F44D2AF4A28C8E370F2CB6E0&dn=Web4K",  https://blazing.network/torrents/peliculas/147767_-1615140321-Raya-y-el-ultimo-dragon--4KWebrip.torrent  
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Thriller, 1Romance, A2021, Letra R, EEUU, ",
-			"name": "Reminiscencia [COLOR gold](Web-Scr) (2021)","coloryear": "cyan",
-			"image": "https://www.themoviedb.org/t/p/original/rDNw3PUbdslsctcJ6Db32g4A4FA.jpg",
-			"info": "Nick Bannister, un investigador privado que se interna en el oscuro y seductor mundo del pasado, ayuda a sus clientes a recuperar recuerdos perdidos. Vive a orillas de la costa de Miami que se encuentra sumergida en gran parte bajo el mar. Un día, su vida cambia cuando aparece Mae, una nueva clienta. Aunque Mae solo acude a su consulta para encontrar un objeto perdido, se convertirá en una peligrosa obsesión. Mientras Bannister intenta encontrar el motivo de la desaparición de Mae, descubre una violenta conspiración y, al final, deberá responder a la gran pregunta: ¿Hasta dónde llegarías para aferrarte a tus seres queridos?",
-			"genero": "Ciencia ficcion, Thriller, Romance",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:9374F68E611ED459DFD2B4C21D6C1D8A9FCB2177&dn=BR-Scr",
-				"torrent4k": ""	
 				}		
 			]
 			},
@@ -30482,7 +30438,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Comedia",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Torrente.5-Operacion.Eurovegas.-2014.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:19E60E48F865176E053B175BE83D08DBB2DF384D&dn=HD1080  https://www.alt-torrent.com/torrent/7472_1626656756.torrent			
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Torrente.5-Operacion.Eurovegas.-2014.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:19E60E48F865176E053B175BE83D08DBB2DF384D&dn=HD1080  		
 				"torrent4k": ""
 				}			
 			]
@@ -32078,7 +32034,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Comedia",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Torrente.4-Lethal.Crisis-Crisis.Letal-.-2011.-.1080.-.CristalAzul.mkv.torrent", 	magnet:?xt=urn:btih:5asc27mow2s3l74huunp34xomy4ua6vo&dn=DVDRip 	https://www.alt-torrent.com/torrent/7472_1626656756.torrent	
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Torrente.4-Lethal.Crisis-Crisis.Letal-.-2011.-.1080.-.CristalAzul.mkv.torrent", 	magnet:?xt=urn:btih:5asc27mow2s3l74huunp34xomy4ua6vo&dn=DVDRip 		
 				"torrent4k": ""
 				}	
 			]
@@ -32801,6 +32757,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Ice.Age.3-El.Origen.De.Los.Dinosaurios.-2009.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:95C6C39F75BE205655A135C5AEBE116061245B8D&dn=DVDRip magnet:?xt=urn:btih:orrz2xtzco2hqkogga6vkfadqsh2pf2o
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Thriller, 1Intriga, A2009, Letra L, EEUU, ",
+			"name": "La Huerfana (2009)","coloryear": "hotpink",
+			"image": "https://www.themoviedb.org/t/p/original/nI940Putdkp0JfN88qtByf87QGM.jpg",
+			"info": "Cuando Kate (Vera Farmiga) y John Coleman (Peter Sarsgaard) pierden al bebé que estaban esperando, todo se derrumba a su alrededor. Su matrimonio se tambalea y la mente de Kate se llena de pesadillas, miedos y temores. Para intentar recuperar la normalidad, la pareja se dirige a un orfanato local con la intención de adoptar a un niño. Allí se sienten extrañamente atraídos por Esther, una niña de rostro angelical (Isabelle Fuhrman). Pero cuando la chiquilla llega a casa de los Coleman, empiezan a ocurrir cosas extrañas, y Kate se da cuenta de que Esther esconde un terrible secreto",
+			"genero": "Terror, Thriller, Intriga",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:9EF6247BC70E4E4E615B36F3FE09F91B516CAF6B&dn=DVDRip",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -34643,7 +34612,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Comedia",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Torrente.3-El.protector.-2005.-.1080.-.CristalAzul.mkv.torrent",	  	magnet:?xt=urn:btih:337673E2923F5B5BF1AE64E8A6A90864AE003AA0&dn=HD1080	magnet:?xt=urn:btih:903CB02959ECB56ACE4EA61BA9CB893BC5D1EA91&dn=DVDRip   https://www.alt-torrent.com/torrent/7470_1626656541.torrent
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Torrente.3-El.protector.-2005.-.1080.-.CristalAzul.mkv.torrent",	  	magnet:?xt=urn:btih:337673E2923F5B5BF1AE64E8A6A90864AE003AA0&dn=HD1080	magnet:?xt=urn:btih:903CB02959ECB56ACE4EA61BA9CB893BC5D1EA91&dn=DVDRip   
 				"torrent4k": ""
 				}		
 			]
@@ -36234,7 +36203,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Comedia",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Torrente.2-Mision.en.Marbella.-2001.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:EB5B2C47C6FA7F8C6D611D4F08122864570A3875&dn=DVDRip	https://www.alt-torrent.com/torrent/7469_1626656445.torrent
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Torrente.2-Mision.en.Marbella.-2001.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:EB5B2C47C6FA7F8C6D611D4F08122864570A3875&dn=DVDRip	
 				"torrent4k": ""
 				}			
 			]
@@ -37201,7 +37170,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Comedia",			
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Torrente.El.brazo.tonto.de.la.ley.-1998.-.1080.-.CristalAzul.mkv.torrent",  	https://www.alt-torrent.com/torrent/7468_1626655414.torrent
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Torrente.El.brazo.tonto.de.la.ley.-1998.-.1080.-.CristalAzul.mkv.torrent",  	
 				"torrent4k": ""
 				}
 			]
