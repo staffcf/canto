@@ -3303,8 +3303,8 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Fantastico, Accion, Aventuras",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:0FE32F6AA824ADEA478E940E840C95C4844FD7AE", 
-				"torrent4k": "magnet:?xt=urn:btih:FB230EFE9B0979B56F5858978965602FCA333191",
+				"torrent": "magnet:?xt=urn:btih:aybrlsywlds6bxvluv3u6cirbyrokykq&dn=HD1080", 	magnet:?xt=urn:btih:0FE32F6AA824ADEA478E940E840C95C4844FD7AE
+				"torrent4k": "magnet:?xt=urn:btih:FB230EFE9B0979B56F5858978965602FCA333191"
 				}
 			]
 			},
@@ -28963,6 +28963,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Thriller, A2016, Letra M, EEUU, ",
+			"name": "Mechanic: Resurrection (2016)","coloryear": "purple",
+			"image": "https://www.themoviedb.org/t/p/original/41ms7o7uXZ2SNNx4AJlNfkGe9Q2.jpg",
+			"info": "Cuando Arthur Bishop (Jason Statham) creía que ya había dejado atrás su pasado criminal, se encuentra de nuevo con él al ser secuestrada la mujer de su vida por uno de sus mayores enemigos. Se ve así obligado a viajar por el mundo para ejecutar tres asesinatos imposibles que deben parecer accidentes",
+			"genero": "Accion, Thriller",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:uifop73rulu3tpityx3xay4acyn7oohj&dn=HD1080",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, A2016, Letra R, Dinamarca, Años 80, Crimen, Policiaco, Secuela, Sagas DepartmentQ, ",
 			"name": "Redencion: Los casos del departamento Q (2016)","coloryear": "purple",
 			"image": "https://i.imgur.com/4B2HFUj.jpg",   https://i.imgur.com/caeJp50.jpg
@@ -33170,6 +33183,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, A2008, Letra D, EEUU, ",
+			"name": "Dueños de la calle (2008)","coloryear": "greenyellow",
+			"image": "https://www.themoviedb.org/t/p/original/jaICduHPSZ7OWcN8ADH3ZXBXr38.jpg",
+			"info": "Tras la muerte de su mujer, Tom Ludlow, un veterano policía de Los Ángeles, está pasando el peor momento de su vida. Cuando unas pruebas lo implican en la ejecución de un compañero, Tom empieza a cuestionarse la integridad moral y la lealtad de todos y cada uno de los que le rodean",
+			"genero": "Thriller, Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:7qjifck5ul6pq34futkcbidpe437b5uz&dn=HD1080",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Thriller, 1Accion, 1Drama, A2008, Letra B, EEUU, Superheroes, DC, Comics, Sagas Batman, ",
 			"name": "El caballero oscuro (2008)","coloryear": "greenyellow",
 			"image": "https://www.themoviedb.org/t/p/original/tSIH3DTA4oFQDhPaJgHxxQZoqHh.jpg",
@@ -33561,6 +33587,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Despierto-Awake.2007.-.720.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Intriga, A2007, Letra E, EEUU, ",
+			"name": "El numero 23 (2007)","coloryear": "steelblue",
+			"image": "https://www.themoviedb.org/t/p/original/h0T3FmHI7PFhUseoySCBPFjxP0O.jpg",
+			"info": "Un hombre vive obsesionado con un libro que parece describir detalles de su vida íntima. El hombre empieza a sentirse amenazado y se vuelve paranoico debido a un número que se repite una y otra vez en el libro: el 23",
+			"genero": "Thriller, Intriga",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:kqcxyrkvnw6si2eq6cqoehysiilkj3ac&dn=HD1080",
 				"torrent4k": ""	
 				}		
 			]
@@ -36364,6 +36403,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Aventuras, 1Belico, 1Drama, A2000, Letra E, EEUU, A2000-1991, ",
+			"name": "El patriota (2000)","coloryear": "gold",
+			"image": "https://www.themoviedb.org/t/p/original/cjGrPDFOfJ5aXbsT5vdisIoHfmj.jpg",
+			"info": "Año 1776, en plena guerra de Independencia entre los colonos de Nueva Inglaterra y las tropas del rey británico Jorge III. En Carolina del Sur, el viudo Benjamin Martin (Mel Gibson), heroico soldado en Francia y en la India, renuncia a combatir para cuidar de sus siete hijos. Pero la pacífica vida de la familia Martin se ve alterada cuando Gabriel (Heath Ledger), el hijo mayor, se alista en el ejército; mientras tanto su padre se esfuerza por sacar adelante a la prole. Sin embargo, los británicos, al mando del cruel coronel Tavington (Jason Isaacs), llegarán hasta las puertas de su casa poniendo en peligro a toda la familia",
+			"genero": "Aventuras, Belico, Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:jnmifbkn7durmp4yskwr737gaaelirv4&dn=HD1080",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Fantastico, A2000, Letra E, EEUU, Sagas ElProfesorChiflado, A2000-1991, ",
 			"name": "El profesor chiflado II: La familia Klump (2000)","coloryear": "gold",
 			"image": "https://www.themoviedb.org/t/p/original/64bD5w8wpscmykI9vFBYblWPMNJ.jpg",
@@ -36964,6 +37016,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Blade.1998.-.1080.-.CristalAzul.mkv.torrent", magnet:?xt=urn:btih:27nu6qfthnaejqgclhmv4gfewrrzq5z3&dn=HDRip  magnet:?xt=urn:btih:296CDDC5D84DEFBA76B206BD650386C42ACFD6C5
 				"torrent4k": "magnet:?xt=urn:btih:9121CCEB064662905FF034D09D4DBAB3D5C4246C"
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Fantastico, 1Accion, 1Terror, A1998, Letra D, EEUU, B2000, A2000-1991, ",
+			"name": "Deep Rising (El misterio de las profundidades) (1998)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/9dJAjcieyjuqDDYYhBr6O2sSSRT.jpg",
+			"info": "En el Mar de China, un trasatlántico de lujo ha sido atacado por misteriosos monstruos marinos que han devorado a la mayor parte de la tripulación y los pasajeros. Unos mercenarios que abordan el barco para atracarlo tendrán que enfrentarse a las feroces criaturas junto a los pocos supervivientes que encuentran.",
+			"genero": "Fantastico, Accion, Terror",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:h4hj2b5hbq2ttfmm7vtwf3u5s7ghf6ox&dn=HD1080",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -37958,6 +38023,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Toy.Story.-1995.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:e30f775426b7fb59b4d174bd3b48e6cca264e974&dn=HD1080
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Aventuras, 1Accion, A1995, Letra W, EEUU, B2000, A2000-1991, ",
+			"name": "Waterworld (1995)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/3tkjk7YKBpbenTJ8TTZJS0J3q52.jpg",
+			"info": "Los casquetes polares se han derretido y toda la Tierra está cubierta de agua marina. Los hombres sobreviven en plataformas flotantes y su principal ocupación es la búsqueda de agua dulce, el bien más preciado. Entre ellos circula una leyenda según la cual en algún lugar existe tierra firme. Un viajero errante y solitario que vive del trueque, llega un día a un atolón de chatarra y vende tierra a sus moradores, pero cuando éstos descubren que es un híbrido, mitad pez y mitad humano, lo condenan a muerte",
+			"genero": "Ciencia ficcion, Aventuras, Accion",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:akp322yucoyg4vywq4azfangsikz2xas&dn=HD1080",
+				"torrent4k": ""	
 				}		
 			]
 			},
