@@ -3,63 +3,63 @@
 ======================================================================
 
 <!--
- HEELS
+ EL JUEGO DEL CALAMAR
 -->
 <!--
 
 	ETIQUETAS:
 	
-	- 1SerieTitle:"HEELS", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/44dhgW94pjDuYEGpcZvSWWoHjAO.jpg",
+	- 1SerieTitle:"EL JUEGO DEL CALAMAR", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/j05hGmB6fvAUuQXQ6raiVJJQnLp.jpg",
 	
 -->
 ======================================================================
-======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x01 - Kayfabe</title>
-			<torrent>magnet:?xt=urn:btih:B4EE128E4FD650BA1394E46FC3F6CE56B1AA7B45&dn=HDTV</torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title>1x02 - Dusty Finish</title>
-			<torrent>magnet:?xt=urn:btih:5733DAE9A9C80EE9502B63855E5D8B24402613BF&dn=HDTV</torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title>1x03 - Cheap Heat</title>
-			<torrent>magnet:?xt=urn:btih:D9545ACE2518EC2717547A279DBC957A293888BF&dn=HDTV</torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title>1x04 - Cutting Promos</title>
-			<torrent>magnet:?xt=urn:btih:7C7717289BBD768B326C8FE611A6BBF669CC860D&dn=HDTV</torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title>1x05 - Swerve</title>
-			<torrent>magnet:?xt=urn:btih:8D7442B1EB900A484A06B0C562BFFD424AF0C21C&dn=HDTV</torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title>1x06 - House Show</title>
-			<torrent>magnet:?xt=urn:btih:CC4E7D8BF759FAC2C60773124930E453AD0FC9D6&dn=HDTV</torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title>1x07 - Capitulo 7 [COLOR orangered](PROXIMAMENTE)</title>
+			<title> - [COLOR yellow]CALIDAD 720/1080</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x08 - Capitulo 8 [COLOR orangered](PROXIMAMENTE)</title>
+			<title> - Capitulos 1 a 5</title>
+			<torrent>magnet:?xt=urn:btih:1EB5C47A908029CCC34A5A61B509D8509637B0CF&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 6 a 9</title>
+			<torrent>magnet:?xt=urn:btih:D530577B57C2E8EF5DC3C152EB9353D3C51C870D&dn=HD720</torrent>	
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 6 a 9 [COLOR yellow]- CALIDAD 1080</title>
+			<torrent>magnet:?xt=urn:btih:5746D7383C819AED7736D631475BD3BBA839D58D&dn=HD1080</torrent>	
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
 			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 a 5</title>
+			<torrent>magnet:?xt=urn:btih:0D0EE56AA382F1962A898D03B42D0D744CB08BE2&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 6 a 9</title>
+			<torrent>magnet:?xt=urn:btih:4F4AFE9963C6CD3485DBC75447747E7A09882A04&dn=HDTV</torrent>
 			</item>
 ======================================================================
 ======================================================================
