@@ -333,7 +333,9 @@ Title:101 DALMATAS, SagaID:A101Dalmatas, Imagen:https://fanatycs.com/wp-content/
 							-	0SagaINFANTIL, 1SagaTINFANTIL,
 Title:ANGRY BIRDS, SagaID:AngryBirds, Imagen:https://i.blogs.es/f4175f/650_1000_angry-birds-windows-phone-gratis/450_1000.png,	
 							-	0SagaINFANTIL, 1SagaTINFANTIL,
-Title:AVIONES, SagaID:Aviones, Imagen:https://www.themoviedb.org/t/p/original/6S5JjRheyl3oyLmJVcxcQ8yqDU3.jpg,
+Title:AVIONES, SagaID:Aviones, Imagen:https://www.themoviedb.org/t/p/original/6S5JjRheyl3oyLmJVcxcQ8yqDU3.jpg,	
+							-	1Saga, 1SagaTorrent, 
+Title:BOB ESPONJA, SagaID:BobEsponja, Imagen:https://upload.wikimedia.org/wikipedia/commons/9/92/Bob_esponja_logotipo.png,	
 							-	0SagaINFANTIL, 1SagaTINFANTIL,
 Title:CARS, SagaID:Cars, Imagen:https://img.autosblogmexico.com/2020/03/04/WaxDrR2x/img-7408-e96c.jpg,
 							-	0SagaINFANTIL, 1SagaTINFANTIL,
@@ -3682,6 +3684,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{ 
 				"torrent": "magnet:?xt=urn:btih:182159F46DE28C86BF9A305DCE2834326F184D33&dn=HD720",  magnet:?xt=urn:btih:915CE4A8B8B5CF2564660B53993CDFEF1C352F0D&dn=BRRip
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Comedia, A2020, Letra B, EEUU, Netflix, FavPaola, Sagas BobEsponja, ",
+			"name": "Bob Esponja: Un heroe al rescate (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/sp9fYcVbUHDFgGZpLvCSJsplfbd.jpg",
+			"info": "Los amigos son lo mas importante para Bob Esponja, por lo que no dudara en salir de la comodidad de su hogar en Fondo de Bikini, junto con Patricio, para adentrarse en un mundo desconocido, arriesgando sus vidas, para salvar a su amigo de la infancia, Gary, de las garras del rey Poseidon que le ha secuestrado en la Ciudad Perdida de Atlantic City. ¿Seran capaces de lograrlo?",
+			"genero": "Animacion, Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Bob.Esponja-Un.heroe.al.rescate.-2020.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:B08568BEC55DE4C57D4916EA98A5F3FDDE56E856
 				"torrent4k": ""
 				}		
 			]
@@ -29333,6 +29348,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Comedia, A2015, Letra B, EEUU, Sagas BobEsponja, ",
+			"name": "Bob Esponja: Un heroe fuera del agua (2015)","coloryear": "lime",
+			"image": "https://www.themoviedb.org/t/p/original/z5aphafm6OEcAq4jwOs5Ml9F384.jpg",
+			"info": "Bob Esponja emprende un viaje para recuperar una receta que ha robado un pirata; para ello lo trae a nuestra dimensión en 3D",
+			"genero": "Animacion, Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Bob.Esponja-Un.heroe.fuera.del.agua.-2015.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Romance, 1Drama, A2015, Letra C, EEUU, Erotico, Sagas 50Sombras, ",
 			"name": "Cincuenta sombras de Grey (2015)","coloryear": "lime",
 			"image": "https://www.themoviedb.org/t/p/original/mNZcZOIlTwDKd30xLnRR4p0ZELg.jpg",
@@ -34893,6 +34921,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{ 
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Catwoman.-2004.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:F57B1D2E07EE7E50453D4722AC56685796CECDC7&dn=HDRip
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Comedia, 1Fantastico, 1Aventuras, 1Infantil, A2004, Letra B, EEUU, Sagas BobEsponja, ",
+			"name": "Bob Esponja: La pelicula (2004)","coloryear": "yellow",
+			"image": "https://www.themoviedb.org/t/p/original/jM3JawB8DxEI5io1GLsJ1Qr028P.jpg",
+			"info": "Hay problemas en Fondo Bikini: la corona del Rey Neptuno ha desaparecido y las sospechas recaen en el Sr. Cangrejo. Junto a Patricio, su mejor amigo, Bob Esponja marcha a la peligrosa Ciudad Concha para rescatar la corona de Neptuno y salvar al Sr. Cangrejo",
+			"genero": "Animacion, Comedia, Fantastico, Aventuras, Infantil",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Bob.Esponja-La.Pelicula.-2004.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
