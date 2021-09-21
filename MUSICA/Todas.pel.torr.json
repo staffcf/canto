@@ -1379,7 +1379,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:189ff74e83e149b88163d09f9f7d594014bfb94f&dn=HD1080",	magnet:?xt=urn:btih:46e7311ba93de3c191c02b40cbc4398d1bf80b65&dn=AVI
+				"torrent": "magnet:?xt=urn:btih:189ff74e83e149b88163d09f9f7d594014bfb94f&dn=HD720",		magnet:?xt=urn:btih:46e7311ba93de3c191c02b40cbc4398d1bf80b65&dn=AVI
 				"torrent4k": ""	
 				}		
 			]
@@ -1888,6 +1888,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:5A78BCC5F2D47F58E2D0F0BC2F06CA5884461705&dn=HD1080",   magnet:?xt=urn:btih:1a9ebe6a9c1b10f84990a54d27663c1684a1aa74&HD720
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Thriller, 1Intriga, A2021, Letra M, EEUU, ",
+			"name": "Maligno [COLOR gold](Web-Scr) (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/9eo0feDgFvAV4rDrQw6TyNAjSes.jpg",
+			"info": "Madison está paralizada por visiones de asesinatos espeluznantes, y su tormento empeora cuando descubre que estos sueños de vigilia son, de hecho, realidades aterradoras",
+			"genero": "Terror, Thriller, Intriga",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:1f98a4bc6b106ab378d58dcf4f09c3a8ca5ea46b&dn=BR-Sc",	magnet:?xt=urn:btih:a15993e79c64114803c208423a8394c9058f55f8&dn=AVI-Sc	magnet:?xt=urn:btih:80D5F09DAF20D2051788B50D302C3862A06AD1EE&dn=SD.Scr
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -16647,7 +16660,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Ciencia ficcion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:69BE80E5968AC5E099999DB53972D4368E8C97FA&dn=0nl1.m1080p.exclusivetorrent.net.mkv",
+				"torrent": "magnet:?xt=urn:btih:169b965879debaf88726c184abf47fa61b376c26&dn=HD",	magnet:?xt=urn:btih:50617675ba1545682c761149142ebbd68ccb12bc&dn=AVI
 				"torrent4k": ""	
 				}		
 			]
