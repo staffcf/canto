@@ -569,6 +569,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El juego del calamar[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.juego.del.calamar</externallink>
+<info>Serie de TV (2021-). 9 episodios. Cientos de jugadores con problemas económicos aceptan una extraña invitación para competir en juegos infantiles. Dentro les esperan un premio tentador y desafíos letales.</info>
+<thumbnail>https://i.imgur.com/nB3DDFd.jpg</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El libro de los negros[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.libro.de.los.negros</externallink>
