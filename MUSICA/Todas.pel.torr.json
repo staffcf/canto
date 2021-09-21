@@ -369,7 +369,9 @@ Title:LOS CROODS, SagaID:Croods, Imagen:https://www.themoviedb.org/t/p/original/
 							-	0SagaINFANTIL, 1SagaTINFANTIL,
 Title:LOS INCREIBLES, SagaID:LosIncreibles, Imagen:https://www.themoviedb.org/t/p/original/8ITl6ukrpwlavJhdribfSKQI6ku.jpg,	
 							-	0SagaINFANTIL, 1SagaTINFANTIL,
-Title:LOS PITUFOS, SagaID:Pitufos, Imagen:https://static.wikia.nocookie.net/videojuego/images/4/4c/Los_Pitufos_%28logo%29.png/revision/latest?cb=20170911162836,
+Title:LOS PITUFOS, SagaID:Pitufos, Imagen:https://static.wikia.nocookie.net/videojuego/images/4/4c/Los_Pitufos_%28logo%29.png/revision/latest?cb=20170911162836,	
+							-	0SagaINFANTIL, 1SagaTINFANTIL,
+Title:LOS RESCATADORES, SagaID:LosRescatadores, Imagen:https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1B8121D85B262525571F5130BED224647DC83EF494D75D7D65B81D24607FC715/scale?width=1440&aspectRatio=1.78,
 							-	0SagaINFANTIL, 1SagaTINFANTIL,
 Title:MADAGASCAR, SagaID:Madagascar, Imagen:https://hyperpix.net/wp-content/uploads/2019/07/madagascar-movie-logo-font-download-856x484.jpg,	
 							-	0SagaINFANTIL, 1SagaTINFANTIL,
@@ -536,7 +538,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Thriller",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:C830E5DCF101C0D868ECC2A9C6BE7BA46D932FC4&dn=BRRip",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/BAC.Nord-Brigada.de.Investigacion .Criminal.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:C830E5DCF101C0D868ECC2A9C6BE7BA46D932FC4&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -913,7 +915,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Thriller, Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:A162ECADE0516B91E11E9075BDF963C3EB7109F7&dn=BRRip",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/El.baile.de.las.locas-Le.bal.des.folles-.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:A162ECADE0516B91E11E9075BDF963C3EB7109F7&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -1069,7 +1071,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:8ef64097097b6fe42997e4cf2082bfb4421176f4&dn=HD720",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/El.padre.que.mueve.montanhas.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:8ef64097097b6fe42997e4cf2082bfb4421176f4&dn=HD720
 				"torrent4k": ""	
 				}		
 			]
@@ -1107,7 +1109,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"info": "A mediados del siglo XIX, el gobierno británico comisiona al oficial Sir James Brooke para que termine con los piratas que asolan las costas de Malasia. Pero Brooke va más allá y una vez llega a su destino conseguirá no solo exterminar a los piratas sino que se convertirá en el rajah del Reino de Sarawak. Atesora tal poder que el gobierno británico empieza a temerle: ¿han creado un poderoso enemigo?",
 			"genero": "Aventuras, Drama",
 			"stations": [
-				"torrent": "magnet:?xt=urn:btih:638277516686396B2D3D4773185715BA1155BCAE&dn=BRRip",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/El.Rey.del.Fin.del.Mundo.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:638277516686396B2D3D4773185715BA1155BCAE&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -1379,7 +1381,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:189ff74e83e149b88163d09f9f7d594014bfb94f&dn=HD720",		magnet:?xt=urn:btih:46e7311ba93de3c191c02b40cbc4398d1bf80b65&dn=AVI
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Historia.de.una.traicion.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:189ff74e83e149b88163d09f9f7d594014bfb94f&dn=HD720	magnet:?xt=urn:btih:46e7311ba93de3c191c02b40cbc4398d1bf80b65&dn=AVI
 				"torrent4k": ""	
 				}		
 			]
@@ -1899,7 +1901,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Terror, Thriller, Intriga",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:1f98a4bc6b106ab378d58dcf4f09c3a8ca5ea46b&dn=BR-Sc",	magnet:?xt=urn:btih:a15993e79c64114803c208423a8394c9058f55f8&dn=AVI-Sc	magnet:?xt=urn:btih:80D5F09DAF20D2051788B50D302C3862A06AD1EE&dn=SD.Scr
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Maligno.-2021.-.Web1080-Scr.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:1f98a4bc6b106ab378d58dcf4f09c3a8ca5ea46b&dn=BR-Sc	magnet:?xt=urn:btih:a15993e79c64114803c208423a8394c9058f55f8&dn=AVI-Sc	magnet:?xt=urn:btih:80D5F09DAF20D2051788B50D302C3862A06AD1EE&dn=SD.Scr
 				"torrent4k": ""	
 				}		
 			]
@@ -2523,7 +2525,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Musical, Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:760F250417C261E2EA8C2804B8BC7132F592BD1E&dn=T0d0sH4bl4nJ41me.m1080p.exclusivetorrent.net.mkv",	
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Todos.hablan.de.Jamie.-2021.-.1080.-.CristalAzul.mkv.torrent",	
 				"torrent4k": ""	
 				}		
 			]
@@ -4472,7 +4474,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Animacion, Aventuras",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:C821F3659DCFF75A22871689EE3FF118DCB5A78A",
+				"torrent": "magnet:?xt=urn:btih:C821F3659DCFF75A22871689EE3FF118DCB5A78A&dn=HD720",
 				"torrent4k": ""
 				}			
 			]
@@ -15124,8 +15126,8 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"info": "Una niña que vive con una familia de acogida se escapa para vivir con la única familia que conoce: su padre vagabundo, mentalmente trastornado, que vive en las calles de Los Ángeles, en el conflictivo barrio de Skid Row",
 			"genero": "Drama",
 			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:D002371524AAB6F7DC8157A7197A33543E369BF7&dn=BRRip",
+				{	
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/La.princesa.de.la.fila.-2020.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:D002371524AAB6F7DC8157A7197A33543E369BF7&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -16660,7 +16662,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Ciencia ficcion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:169b965879debaf88726c184abf47fa61b376c26&dn=HD",	magnet:?xt=urn:btih:50617675ba1545682c761149142ebbd68ccb12bc&dn=AVI
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Only.-2019.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:169b965879debaf88726c184abf47fa61b376c26&dn=HD	magnet:?xt=urn:btih:50617675ba1545682c761149142ebbd68ccb12bc&dn=AVI
 				"torrent4k": ""	
 				}		
 			]
@@ -29352,7 +29354,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Animacion, Fantastico, Aventuras, Comedia",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:ED9152211D082FB8458B52B400222F8F725B5931",
+				"torrent": "magnet:?xt=urn:btih:ED9152211D082FB8458B52B400222F8F725B5931&dn=HD1080",
 				"torrent4k": ""
 				}		
 			]
@@ -29456,7 +29458,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Animacion, Comedia, Infantil, Ciencia ficcion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:B12855ED05451D368D8C6C5943C4345A78145491",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/HOME.Hogar.dulce.hogar.-2015.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:B12855ED05451D368D8C6C5943C4345A78145491
 				"torrent4k": ""
 				}		
 			]
@@ -30281,7 +30283,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Animacion, Comedia, Aventuras, Ciencia ficcion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:1C53BA79E77136E3A10F3FC8C2E975389F4929F4",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Las.aventuras.de.Peabody.y.Sherman.-2014.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:1C53BA79E77136E3A10F3FC8C2E975389F4929F4
 				"torrent4k": ""
 				}		
 			]
@@ -31203,7 +31205,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Animacion, Aventuras, Fantastico, Comedia",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:B93D86D080D2DB4BB1793347535947989E368873",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Brave-Indomable-.-2012.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:B93D86D080D2DB4BB1793347535947989E368873
 				"torrent4k": "magnet:?xt=urn:btih:6EEC8B335EE11788ED52AF49CE59FED60F9867AA&dn=UHDmicro"
 				}		
 			]
@@ -33105,7 +33107,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Animacion. Comedia. Aventuras. Infantil",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:DE55EEE7B650E9E80C946D9D37328A8220F31621",
+				"torrent": "magnet:?xt=urn:btih:DE55EEE7B650E9E80C946D9D37328A8220F31621&dn=HD1080",
 				"torrent4k": ""
 				}	
 			]
@@ -38929,6 +38931,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Aventuras, 1Infantil, A1990, Letra L, EEUU, ADisney, B2000, A1990-1981, Sagas LosRescatadores, ",
+			"name": "Los Rescatadores en Cangurolandia (1990)","coloryear": "tomato",
+			"image": "https://www.ecartelera.com/carteles/8600/8694/001_p.jpg",
+			"info": "Esta vez, nuestros ratoncitos agentes secretos se encuentran en el corazon de la indomable selva australiana cuando tienen que acudir en ayuda de Cody, un jovencito que lucha por salvar un aguila de un despiadado cazador furtivo",
+			"genero": "Animacion, Aventuras, Infantil",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Los.Rescatadores.en.Cangurolandia.-1990.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""
+				}
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A1990, Letra M, EEUU, B2000, A1990-1981, Muñecos, Sagas Chucky, ",
 			"name": "Muñeco diabolico 2 (1990)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/uPD5CIlBJFNYVn56l3zMM3poFRW.jpg",
@@ -41176,7 +41191,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Animacion, Infantil, Aventuras",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:DCD7420E4E62A8C1592E69660FEB20824B29141B",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Los.Rescatadores.-1977.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:DCD7420E4E62A8C1592E69660FEB20824B29141B&dn=HD1080
 				"torrent4k": ""
 				}
 			]
