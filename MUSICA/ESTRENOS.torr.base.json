@@ -4,7 +4,123 @@
 	"name": "ESTRENOS EN ESPAÑOL",
 	"info": "ESTA LISTA HA SIDO CREADA CON EXCLUSIVO ANIMO DE TENER CONCENTRADOS LOS ACCESOS DIRECTOS A ENLACES DE MULTIPLES TERCEROS EN INTERNET, EL CREADOR NO CUENTA CON SERVIDORES QUE ALOJEN NINGUNO DE LOS CONTENIDOS NI OBTIENE NINGUN GENERO NI CLASE DE LUCRO DIRECTO O INDIRECTO POR SU UTILIZACION. DEL MISMO MODO NO SE AUTORIZA SU PUBLICACION NI CIRCULACION FUERA DEL AMBITO PERSONAL DEL CREADOR Y DEL GRUPO DE LOS GRUPOS DE TELEGRAM AUTORIZADOS POR EL , SI LO HAS OBTENIDO DE OTRO LUGAR ESTAS COLABORANDO ACTIVAMENTE A LA DESACTIVACION Y DESAPARICION DE LA LISTA, TODA VEZ QUE SOLO SE COMPARTE POR SU AUTOR CON LA FINALIDAD DE FACILITAR A SUS ALLEGADOS SIN CONOCIMIENTOS INFORMATICOS EL ACCESO A CONTENIDO QUE EL AUTOR CONSIDERA DE SU INTERES",
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
-	"groups": [,
+	"groups": [
+			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1genero, A2021, Letra E, EEUU, 1Hechos reales, Piratas, ",
+			"name": "El rey del fin del mundo (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/A1PrC0mVUcMNF1165I6yw2djuG3.jpg",
+			"info": "A mediados del siglo XIX, el gobierno británico comisiona al oficial Sir James Brooke para que termine con los piratas que asolan las costas de Malasia. Pero Brooke va más allá y una vez llega a su destino conseguirá no solo exterminar a los piratas sino que se convertirá en el rajah del Reino de Sarawak. Atesora tal poder que el gobierno británico empieza a temerle: ¿han creado un poderoso enemigo?",
+			"genero": "Aventuras, Drama",
+			"stations": [
+				"torrent": "magnet:?xt=urn:btih:D5E3DEA33A30B1795F0DEA1BA58487DF54EA65EF&dn=R3yF1nMnd0.m1080p.exclusivetorrent.net.mkv",magnet:?xt=urn:btih:638277516686396B2D3D4773185715BA1155BCAE&dn=BRRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2019, Letra L, EEUU, ",
+			"name": "La princesa de la fila (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/8ePU7cOFu71xtjBRfsuSMbiTFUE.jpg",
+			"info": "Una niña que vive con una familia de acogida se escapa para vivir con la única familia que conoce: su padre vagabundo, mentalmente trastornado, que vive en las calles de Los Ángeles, en el conflictivo barrio de Skid Row",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:CBD1C4EDA341ED80F32E832A0EAAB61E6160918C&dn=P1nc3saF1la.m1080p.exclusivetorrent.net.mkv",magnet:?xt=urn:btih:D002371524AAB6F7DC8157A7197A33543E369BF7&dn=BRRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra E, Rumania, Netflix, ",
+			"name": "El padre que mueve montañas (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/htIK4y0O748QIFGG0d4WOz3J7S8.jpg",
+			"info": "Mircea, antiguo agente de Inteligencia, recibe la noticia de que su hijo se ha perdido en las montañas y viaja al lugar para encontrarlo. Después de días de búsqueda, Mircea reúne a su propio equipo de rescate, generando un conflicto con la patrulla local",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:7F65DEC87C375AF2FFC05E99345E277A2883702F&dn=P4dreMu3v3M0nt4n1as.m1080p.exclusivetorrent.net.mkv",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2021, Letra B, Francia, Netflix, ",
+			"name": "BAC Nord - Brigada de Investigacion Criminal (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/aGAglWnXocqBeCxBFiZwX9xEyOn.jpg",
+			"info": "Año 2012. Los distritos del norte de Marsella ostentan un triste récord: son el área con la tasa de criminalidad más alta de Francia. Impulsado por sus jefes, el BAC Nord, una brigada anticrimen que trabaja sobre el terreno, busca constantemente mejorar sus resultados. En un sector de alto riesgo, la policía adapta sus métodos, a veces cruzando difusas líneas rojas. Hasta el día en que el sistema legal se vuelva en su contra...",
+			"genero": "Thriller",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:F504E54EC42FC3ADC0FF9712C44AC1FAB9F13387&dn=B4cN0rdBr1gada.m1080p.exclusivetorrent.net.mkv",magnet:?xt=urn:btih:C830E5DCF101C0D868ECC2A9C6BE7BA46D932FC4&dn=BRRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, A2021, Letra L, Francia, ",
+			"name": "El baile de las locas (Le bal des folles) (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/bioH49GyKMBsmw8HAdDR1DIgBmq.jpg",
+			"info": "París. 1885. Eugénie, una mujer joven y apasionada descubre que tiene el poder especial de oír a los muertos. Cuando su familia descubre su secreto, la llevan al hospital Pitié Salpétrière, una clínica neurológica ubicada en París dirigida por el famoso profesor y pionero de la neurología Dr. Charcot, en la que se internan mujeres diagnosticadas de histeria, "locura", egomanía, epilepsia y otros tipos de enfermedades mentales. Su destino se entrelaza con el de Geneviève, una enfermera del hospital a quién la vida se le está pasando de largo. Su encuentro cambiará el futuro de ambas mientras se preparan para el "Bal des folles" que organiza anualmente el doctor Charcot en el hospital... Adaptación de la novela 'El baile de las locas' de Victoria Mas",
+			"genero": "Thriller, Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:E83899B49DA79F6E08E4526A4CAEF47F47B7C63E&dn=B41leC0sas.m1080p.exclusivetorrent.net.mkv",		magnet:?xt=urn:btih:D002371524AAB6F7DC8157A7197A33543E369BF7&dn=BRRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra H, EEUU, 1Hechos reales, Nazismo, ",
+			"name": "Historia de una traicion (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/wqShvpAVjbKw7IYVjWJitkWuQm7.jpg",
+			"info": "Una mujer estadounidense llamada Mildred Gillars se dedica a emitir propaganda Nazi durante la II Guerra Mundial. Un grupo de chicas cercanas a ella la apodan 'Axis Sally' como muestra de la ambigua relación con mantiene con ellas, a medio camino entre el amor y el odio. El papel de Sally como promotora de la polìtica del Tercer Reich la llevará a ser capturada y posteriormente juzgada por traición en la ciudad de Washington D.C.",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:59059503B033C556FA55AE147E0E9F5D2E307986&dn=H1st0r1aTr41c1on.m1080p.exclusivetorrent.net.mkv",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, A2019, Letra O, EEUU, ",
+			"name": "Only (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/tRi9mnpackQwc3FrwaYyRdt2mMY.jpg",
+			"info": "Cuando un cometa libera un virus que aniquila lentamente a todas las mujeres que habitan el planeta, la relación entre dos jóvenes se pone a prueba. Ambos se esconden en su apartamento, totalmente esterilizado, tanto de la enfermedad como de los salvajes que tratan de cazar a las últimas mujeres que quedan con vida. Al final, y hastiados de vivir encerrados entre cuatro paredes, los amantes deciden dejar atrás su confinamiento para disfrutar de una última aventura en la naturaleza.",
+			"genero": "Ciencia ficcion",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:69BE80E5968AC5E099999DB53972D4368E8C97FA&dn=0nl1.m1080p.exclusivetorrent.net.mkv",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Musical, 1Drama, A2021, Letra T, Reino Unido, ",
+			"name": "Todos hablan de Jamie (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/vCQfR8gqpM4rAtpD1jSXE4JhZVn.jpg",
+			"info": "Adaptación cinematográfica del exitoso musical sobre Jamie New, un joven de dieciséis años que no termina de encajar del todo y que sueña con convertirse en drag queen, en lugar de seguir una carrera universitaria propiamente dicha. Inseguro sobre su futuro, hay una sola cosa de la que Jamie no tiene dudas: él se convertirá en sensación. Con el apoyo de su querida mamá y sus increíbles amigos, Jamie intentará superar los prejuicios, vencer al acoso escolar y salir de la oscuridad para convertirse en el foco de atención",
+			"genero": "Musical, Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:760F250417C261E2EA8C2804B8BC7132F592BD1E&dn=T0d0sH4bl4nJ41me.m1080p.exclusivetorrent.net.mkv",	
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Thriller, 1Intriga, A2021, Letra M, EEUU, ",
+			"name": "Maligno [COLOR gold](Web-Scr) (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/9eo0feDgFvAV4rDrQw6TyNAjSes.jpg",
+			"info": "Madison está paralizada por visiones de asesinatos espeluznantes, y su tormento empeora cuando descubre que estos sueños de vigilia son, de hecho, realidades aterradoras",
+			"genero": "Terror, Thriller, Intriga",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:13762D9CF07A1C0AA27C71D3C4294A3B88657637&dn=Maligno%20%282021%29WEB-DL%20Screener%201080p.exclusivetorrent.net.mkv",magnet:?xt=urn:btih:80D5F09DAF20D2051788B50D302C3862A06AD1EE&dn=SD.Scr
+				"torrent4k": ""	
+				}		
+			]
+			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra E, Colombia, 1Biografico, Cine Latino, ",
 			"name": "El olvido que seremos (2020)","coloryear": "magenta",
