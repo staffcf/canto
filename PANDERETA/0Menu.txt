@@ -316,6 +316,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Conquistadores Adventvm[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Conquistadores.Adventvm</externallink>
+<info>Miniserie de TV (2019). 8 episodios. Narra cómo fueron los primeros 30 años del descubrimiento y la conquista de América, desde que Cristóbal Colón partió de España en 1492 con tres carabelas hasta que Juan Sebastián Elcano completó la primera vuelta al mundo en 1522. Centrada en personajes como Colón, Cortés, Balboa, Cabeza de Vaca, Juan de la Cosa, Magallanes y Elcano, una historia de aventuras y exploración pero también de codicia, traiciones y venganzas.</info></info>
+<thumbnail>https://i.imgur.com/wrhTb4p.jpg</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Coyote[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Coyote.txt</externallink>
