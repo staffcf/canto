@@ -795,6 +795,15 @@ El.padre.de.cain</externallink>
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Gypsy[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Gypsy</externallink>
+<info>Miniserie de TV (2017). 10 episodios. Jean Holloway (Naomi Watts) es una terapeuta que se ve involucrada en relaciones íntimas y peligrosas con personas relacionadas con la vida de sus pacientes.</info>
+<thumbnail>https://i.imgur.com/GHjsGgQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Halston[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Halston.txt</externallink>
