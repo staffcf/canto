@@ -461,6 +461,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR wwhite]East West 101[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/East.West.101</externallink>
+<info>3 Temporadas. 20 Episodios. East West 101 se desarrolla alrededor del Major Crime Squad en el área metropolitana de Sydney. Se basa en las experiencias de detectives reales en una unidad criminal en los suburbios del oeste de Sydney.</info>
+<thumbnail>https://i.imgur.com/ox9QczC.jpg</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El baile de las Luciérnagas[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.baile.de.las.Luciernagas.txt</externallink>
