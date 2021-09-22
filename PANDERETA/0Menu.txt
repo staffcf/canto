@@ -2063,5 +2063,14 @@ Sexta temporada (SPOILER DE LA 5ª): La temporada 6 de Vikings regresa tras la b
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR gold]* [COLOR white]Zona Fronteriza[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Zona.fronteriza</externallink>
+<info>Serie de TV (2017). 8 episodios. Para proteger a su familia, un detective de la policía encubre un caso de asesinato. Cuando su compañero sospecha que ha jugado sucio, se ve atrapado en un peligroso juego.</info>
+<thumbnail>https://i.imgur.com/qoEYbmm.jpg</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
 
 </items>
