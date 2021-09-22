@@ -88,10 +88,88 @@
 ======================================================================
 ======================================================================
 ======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
 			<title>2x01 - Un encargo singular</title>
-			<torrent>magnet:?xt=urn:btih:487A4F5B85C880B25D841379D9495EA397FDB2D2&dn=HDTV</torrent>	magnet:?xt=urn:btih:9BA00E170D4300A9715646478FC71656C86125BE&dn=HD720
+			<torrent>magnet:?xt=urn:btih:487A4F5B85C880B25D841379D9495EA397FDB2D2&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x02 - Una operación de riesgo</title>
+			<torrent>magnet:?xt=urn:btih:83863AC86F18570DDAB39ECF2F827F51982B2C43&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x03 - Una visita inesperada</title>
+			<torrent>magnet:?xt=urn:btih:9770A78E66A8CE5D3C0BBE921C079CBCC83ECB3C&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x04 - El pasado siempre vuelve</title>
+			<torrent>magnet:?xt=urn:btih:7E26CC8AE6E2E630309AEEE7335E9258522D92BB&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x05 - Cuando menos te lo esperas</title>
+			<torrent>magnet:?xt=urn:btih:39503DE83A7DDDCC3C72114934649B6B01F37E2D&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x06 - Las mil y una noches</title>
+			<torrent>magnet:?xt=urn:btih:A8023842EED780DBB61E3212C72151AC727213B1&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x07 - Nuevos amores</title>
+			<torrent>magnet:?xt=urn:btih:0E1DD278C844C4535E1F8D175A528048CDD35DA2&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x08 - Amistades peligrosas</title>
+			<torrent>magnet:?xt=urn:btih:8314D3148D0F11EA812EF0DAC93B88C2312BF0A1&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x09 - Una nueva realidad</title>
+			<torrent>magnet:?xt=urn:btih:6D89B79E02867E86DFD86DB72232FE289EEEE425&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x10 - Felices fiestas</title>
+			<torrent>magnet:?xt=urn:btih:A19EC47A84A38E7F8BCDA12ED4A1726A69FE7C07&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x01 - Un encargo singular</title>
+			<torrent>magnet:?xt=urn:btih:9BA00E170D4300A9715646478FC71656C86125BE&dn=HD720</torrent>	
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP2, "
