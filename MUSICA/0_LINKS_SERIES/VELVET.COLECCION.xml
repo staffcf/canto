@@ -11,7 +11,7 @@
 	
 	- 1SerieTitle:"VELVET COLECCION", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/gxaVd7JkgEzndJKY0jsSSY20BXA.jpg",
 	- 1SerieTitle:"VELVET COLECCION", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/nMr4WKI9CJjLpQFnBM6M2aS60h0.jpg",
-	- 1SerieTitle:"VELVET COLECCION", SerieTemp:"FINAL", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/zvEUTOcjDV9FX1NzTIjSf4VTRE3.jpg",
+	- 0SerieTitle:"VELVET COLECCION", SerieTemp:"FINAL", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/zvEUTOcjDV9FX1NzTIjSf4VTRE3.jpg",
 	
 -->
 ======================================================================
@@ -285,7 +285,7 @@
 ======================================================================
 			"Tag= TORRENTTEMP3, "
 			<item>
-			<title>3x01 - FINAL</title>
+			<title>3x01 - Capítulo Final</title>
 			<torrent>magnet:?xt=urn:btih:940AC73AF9D7B9F51CE02EE5FEB9DE1C2A9B0F60&dn=HDTV</torrent>
 			</item>
 ======================================================================
