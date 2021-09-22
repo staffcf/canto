@@ -1,0 +1,60 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ LOS TESTIGOS
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"LOS TESTIGOS", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/ak7QAsK6Rafs7DiVh06OAp3dQnn.jpg",
+	
+-->
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 a 4</title>
+			<torrent>magnet:?xt=urn:btih:EA4A0B71DA6DDC637D4AE55B82B4215D83F322A4&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 5 a 8</title>
+			<torrent>magnet:?xt=urn:btih:9C61423F4475D2A15D4982682F60D6B918510D77&dn=HD720</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 a 4</title>
+			<torrent>magnet:?xt=urn:btih:D9642462BEC6E11C8680D1D92DC839B05F237C49&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 5 a 8</title>
+			<torrent>magnet:?xt=urn:btih:C379466B9A8333E897EB011541B5B39C83D0E5E1&dn=HDTV</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
