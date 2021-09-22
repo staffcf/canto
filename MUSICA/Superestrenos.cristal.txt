@@ -19,6 +19,28 @@
 
 
 <item>
+<title>[COLOR white] Intrusión [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.2[/COLOR]</title>    
+<genre>Thriller</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/veus52y.jpg</thumbnail>
+<fanart>https://i.imgur.com/6N5yVOz.jpg</fanart>
+<info>Cuando un matrimonio se muda a una pequeña ciudad, un allanamiento deja a la mujer traumatizada y sospecha que los que la rodean podrían no ser lo que parecen.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=ByxxCNZ23W8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/5knj1sdy42dljz1"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/7r6444dmhnw8l1"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/dy22vwaktbpo"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/3abnw3bu6sc3.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-hmuvgiiwdvcr.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1I_HIUVEbPZWGCOgPyOCFp8yTFFdQwByz/view"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El Rey Del Fin Del Mundo [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.7[/COLOR]</title>    
+<genre>Aventuras,Drama,Siglo XIX,Basado en hechos reales,Piratas,Colonialismo</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/ltFWCYD.jpg</thumbnail>
+<fanart>https://i.imgur.com/CtTAORh.jpg</fanart>
+<info>A mediados del siglo XIX, el gobierno británico comisiona al oficial Sir James Brooke para que termine con los piratas que asolan las costas de Malasia. Pero Brooke va más allá y una vez llega a su destino conseguirá no solo exterminar a los piratas sino que se convertirá en el rajah del Reino de Sarawak. Atesora tal poder que el gobierno británico empieza a temerle: ¿han creado un poderoso enemigo?<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=cuVslAix-Ac"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/2r2j0i2ld-2rdlr"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/md3gjo73ieow6n"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/dw3cq59jkzrr"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/a9mrwqal7ii6.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-18nao07mlu0z.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/15ALTX-IVrCsuEuaVmZnGthx9lF5Q1PSr/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Todos hablan de Jamie [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.3[/COLOR]</title>    
 <genre>Musical,Drama</genre>
 <year>2021</year>
