@@ -18,7 +18,7 @@ PLANTILLA
 <info></info>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<enlaceslink></enlaceslink>
+<enlaceslink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_DOCUS/.xml</enlaceslink>
 <estado></estado>
 </item>
 
@@ -962,6 +962,20 @@ https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_DOCUS/.xml
 <thumbnail>https://www.themoviedb.org/t/p/original/z8tHFIO5Ol02X08ZS3taPff3kE6.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/hEOtj3LDFvmbLyJNztkBezzC2Ks.jpg</fanart>
 <enlaceslink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_DOCUS/MOMENTOS.DECISIVOS.xml</enlaceslink>
+<estado></estado>
+</item>
+
+===============================================================================================================================================
+"Tag= 1Torrent, "
+
+<item>
+<title>MONSTRUOS INTERNOS: LAS 24 CARAS DE BILLY MILLIGAN</title>
+<genre>Documental</genre>
+<year>2021</year>
+<info>A fines de los 70, un violador en serie dice que múltiples personalidades controlan su conducta, lo que origina una odisea legal</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/aoE6X2fJ3PfbJHgWQRLlYdrNU7F.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3YyEKgBBh1DOyQ22yiObLHwMRbO.jpg</fanart>
+<enlaceslink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_DOCUS/MONSTRUOS.INTERNOS.xml</enlaceslink>
 <estado></estado>
 </item>
 
