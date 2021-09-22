@@ -9,19 +9,18 @@
 
 	ETIQUETAS:
 	
-	- 1SerieTitle:"VELVET COLECCION", SerieTemp:"ESPECIAL", SerieID:"SERIEESP", SerieIDT:"TORRENTESP", SerieThumbail:"https://www.themoviedb.org/t/p/original/zvEUTOcjDV9FX1NzTIjSf4VTRE3.jpg",	
 	- 1SerieTitle:"VELVET COLECCION", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/gxaVd7JkgEzndJKY0jsSSY20BXA.jpg",
 	- 1SerieTitle:"VELVET COLECCION", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/nMr4WKI9CJjLpQFnBM6M2aS60h0.jpg",
-	- 1SerieTitle:"VELVET COLECCION", SerieTemp:"FINAL", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/7r8WIGu7A8MwNUAvx2fHUzf3WsG.jpg",
+	- 1SerieTitle:"VELVET COLECCION", SerieTemp:"FINAL", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/zvEUTOcjDV9FX1NzTIjSf4VTRE3.jpg",
 	
 -->
 ======================================================================
 ======================================================================
 ======================================================================
 ======================================================================
-			"Tag= TORRENTESP, "
+			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x00 - Una Navidad para recordar</title>
+			<title>1x00 - Capitulo 0</title>
 			<torrent>magnet:?xt=urn:btih:44DD4037CDAC792291AB26869FC9691B0769A546&dn=HD720</torrent>
 			</item>
 ======================================================================
