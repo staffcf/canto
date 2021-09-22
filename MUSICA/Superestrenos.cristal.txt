@@ -8,6 +8,17 @@
 
 
 <item>
+<title>[COLOR white] Snake Eyes: El origen [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.0[/COLOR]</title>    
+<genre>Acción,Aventuras,Ciencia ficcion,Suspense,Fantasia</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/JLFGHfa.jpg</thumbnail>
+<fanart>https://i.imgur.com/9Do6aSo.jpg</fanart>
+<info>G.I. JOE: Snake Eyes es protagonizada por Henry Golding. Snake Eyes es un solitario y tenaz guerrero que se une a al antiguo clan japonés de los Arashikage luego de salvarle la vida al heredero del clan. Al llegar a Japón, los Arashikage le enseñan a Snake Eyes los caminos del guerrero ninja y le dan algo que siempre quiso tener: un hogar. Pero, al revelarse los secretos sobre su pasado, pondrán a prueba el honor y la lealtad de Snake Eyes, incluso si eso significa perder la confianza de los más cercanos a él.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=Sffo8qVcrwM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/q3nx0ie04pze3nj"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/o73vvkzetlkvlk"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/xcj5po41hqqs"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/xqhco2svte5i.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/q50dzh0nkz2i"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Chfdn74UMrEghRB1Z1Wtb0G65Oq_67M-/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Todos hablan de Jamie [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.3[/COLOR]</title>    
 <genre>Musical,Drama</genre>
 <year>2021</year>
