@@ -238,6 +238,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Chicago Party Aunt[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Chicago.Party.Aunt</externallink>
+<info>Diane, la tía fiestera de Chicago, es fan del alboroto y experta en evadir la madurez. ¿Su debilidad? Su sobrino, que busca descubrirse y aun no sabe qué hacer con su vida.</info>
+<thumbnail>https://i.imgur.com/OvmqJLT.jpg</thumbnail>
+<fanart>https://i.imgur.com/jOW5Suu.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Calls[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Calls.txt</externallink>
