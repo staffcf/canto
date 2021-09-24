@@ -11,20 +11,43 @@
 	
 	- 1SerieTitle:"MADRES. AMOR Y VIDA", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/9u0ykKJvVJXWmdmenOP6cuQKiYM.jpg",
 	- 1SerieTitle:"MADRES. AMOR Y VIDA", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/9u0ykKJvVJXWmdmenOP6cuQKiYM.jpg",
+	- 1SerieTitle:"MADRES. AMOR Y VIDA", SerieTemp:"TEMPORADA 3", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/2CDEunrP0qFJDOqqlybvd6m32sO.jpg",
 	
 -->
 ======================================================================
+======================================================================
+======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - [COLOR yellow]CALIDAD 720</title>      
+			<title> - [COLOR yellow]CALIDAD 720</title><titleGdrive></titleGdrive>      
 			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 1 a 13</title>      
-			<torrent>magnet:?xt=urn:btih:48BBF92A40CD3268343BCF5268A86284EC95036F</torrent>
+			<title> - Capitulos 1 a 13</title><titleGdrive></titleGdrive>      
+			<torrent>magnet:?xt=urn:btih:48BBF92A40CD3268343BCF5268A86284EC95036F&dn=HD720</torrent>
 			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title><titleGdrive></titleGdrive>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title><titleGdrive></titleGdrive>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 a 13</title><titleGdrive></titleGdrive>      
+			<torrent>magnet:?xt=urn:btih:07A194322B72EE1DE0352975527B2CD66133B621&dn=HDTV</torrent>
+			</item>
+======================================================================
 ======================================================================
 ======================================================================
 			"Tag= TORRENTTEMP1, "
@@ -125,5 +148,28 @@
 			<title> - Capitulos 1 a 13</title>      
 			<torrent>magnet:?xt=urn:btih:F84AEAAE679659B5010E79475725533B8FF0D5CE</torrent>
 			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x01 - Brotes</title>
+			<torrent>magnet:?xt=urn:btih:8E3C338B76288F55A54084471F71D0610F20DFCC&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x0. - Capitulos 2 a 5</title>
+			<torrent>magnet:?xt=urn:btih:76BC210BDF3212045BCCCD0605D7AAE53A6EEFE4&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x0. - Capitulos 6 a 8</title>
+			<torrent>magnet:?xt=urn:btih:7E0602CA6E167C41CA5BB671FE301BAB8952E06A&dn=HDTV</torrent>
+			</item>
+======================================================================
+======================================================================
 ======================================================================
 ======================================================================
