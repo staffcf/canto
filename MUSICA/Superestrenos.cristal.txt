@@ -32,7 +32,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/zwGUtqNI6aV0ESizG3BSlTrwO9f.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/zwGUtqNI6aV0ESizG3BSlTrwO9f.jpg</fanart>
 <info>A dos chicas de una academia de ballet de élite parisina se les ponen a prueba sus vínculos y sus cuerpos mientras compiten por un contrato para unirse a la compañía de la Ópera Nacional de París<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=wBq7XmKw2FI"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.to/f/wnr9e6o3h0q04po"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : ""https://cloudvideo.tv/v4w8f5gi5fm9},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/2mesugduddnz "},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1FVKPAZkHjEgJwHejvQoOrNcrMPZUIQ48/view"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:CD0AC3B297B46AB616159C2A6BAC1D5D75F3318B"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=wBq7XmKw2FI"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.to/f/wnr9e6o3h0q04po"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/v4w8f5gi5fm9"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/2mesugduddnz"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1FVKPAZkHjEgJwHejvQoOrNcrMPZUIQ48/view"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:CD0AC3B297B46AB616159C2A6BAC1D5D75F3318B"}</urlsolve>
 </item>
 
 <item>
