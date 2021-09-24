@@ -8,6 +8,19 @@
 					
 			]
 			},
+      			{
+      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra A, Spain, ",
+     			"name": "A todo tren. Destino Asturias (2021)","coloryear": "cyan",
+      			"image": "https://www.themoviedb.org/t/p/original/xsaGj4FsQ8IHN3zqwPuZzMaSsKO.jpg",
+      			"info": "Cuando Ricardo, padre responsable volcado en su hijo, decide llevarle a un campamento en Asturias en tren nocturno, algunos padres proponen que sea él quien lleve a varios de sus hijos Sin embargo, no cuentan que en el último minuto le acompañe Felipe, abuelo de dos de los niños, un tipo extravagante e irresponsable. Cuando el tren arranca sin Ricardo ni Felipe pero con los niños solos dentro, comenzará una disparatada persecución por parte del padre y del abuelo para alcanzar al tren, y un alocado viaje por parte de los niños donde harán todas las travesuras que no se atrevían a hacer delante de los mayores",
+      			"genero": "Comedia",
+      			"stations": [
+       				{
+        			"torrent": "magnet:?xt=urn:btih:E18DA692558A400C7FBC88CCB7F6750941D315AD",  
+        			"torrent4k": ""  
+        			}    
+      			]
+			},
 			{
 			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra E, EEUU, Netflix, ",
 			"name": "El estornino (2021)","coloryear": "cyan",
@@ -29,11 +42,7 @@
 			"genero": "Intriga, Fantastico, Thriller, Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:3ef8c0b907bef13168e62e8b6a0b501a63ffb4f3&dn=Tiempo.BRRip
-
-LouFesta, [24.09.21 17:58]
-joe de donde la sacaste jaja",    
-				"torrent4k": ""	
+				"torrent": "magnet:?xt=urn:btih:3ef8c0b907bef13168e62e8b6a0b501a63ffb4f3&dn=Tiempo.BRRip"torrent4k": ""	
 				}		
 			]
 			},
