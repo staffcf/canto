@@ -83,7 +83,7 @@
 <thumbnail>https://i.imgur.com/veus52y.jpg</thumbnail>
 <fanart>https://i.imgur.com/6N5yVOz.jpg</fanart>
 <info>Cuando un matrimonio se muda a una pequeña ciudad, un allanamiento deja a la mujer traumatizada y sospecha que los que la rodean podrían no ser lo que parecen.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=ByxxCNZ23W8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/5knj1sdy42dljz1"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/7r6444dmhnw8l1"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/dy22vwaktbpo"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/3abnw3bu6sc3.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-hmuvgiiwdvcr.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1I_HIUVEbPZWGCOgPyOCFp8yTFFdQwByz/view"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=ByxxCNZ23W8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/5knj1sdy42dljz1"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/gn19993vhegvmo"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/dy22vwaktbpo"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/3abnw3bu6sc3.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-hmuvgiiwdvcr.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1I_HIUVEbPZWGCOgPyOCFp8yTFFdQwByz/view"}</urlsolve>
 </item>
 
 
