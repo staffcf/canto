@@ -2377,6 +2377,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 1Torrent4k, 1Accion, 1Aventuras, A2021, Letra S, EEUU, Sagas GIJoe, ",
+			"name": "Snake Eyes: El origen (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/6NPUjoz5BndKHOsu4hmBOeyoQDA.jpg",
+			"info": "Película de acción basada en la conocida línea de juguetes G.I. Joe. Este spin-off se centra en la historia de los orígenes de Snake Eyes (Henry Golding), el ninja silencioso siempre vestido de negro y del que no se conoce el rostro, y cómo intenta convertirse en miembro del clan Arashikage. Junto a él conoceremos otros personajes como La baronesa (Úrsula Corberó) y su archienemigo Storm Shadow (Andrew Koji).",
+			"genero": "Accion, Aventuras",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:AC9F1E774FCFB0CF553DD94F08A32BE44DED089F&dn=HD1080",		magnet:?xt=urn:btih:ADA9472DE40C5F437580CCB7DD21B417317E5A52&dn=BR1080
+				"torrent4k": "magnet:?xt=urn:btih:AA0D124299CA5B094081CEEABA9AD93F44C1AD25&dn=Web4K"	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Comedia, A2021, Letra S, Paises Bajos, Netflix, ",
 			"name": "Solo di que si (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/rHfYTIPjSiameKP8zJCQscEJ5wo.jpg",
@@ -35495,6 +35508,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Fantastico, 1Accion, A2003, Letra E, EEUU, ",
+			"name": "El nucleo (2003)","coloryear": "darkviolet",
+			"image": "https://www.themoviedb.org/t/p/original/l4HpogVLiVtx0LWW8XuJoWT7WfZ.jpg",
+			"info": "Tras una serie de extraños acontecimientos a lo largo del planeta, se descubre que, por razones desconocidas, el corazón del planeta Tierra ha detenido su movimiento giratorio, lo que causará en pocos meses un tremendo desastre natural, eliminando la vida tal y como la conocemos. Para buscar una solución a esta catástrofe el gobierno y el estamento militar piden ayuda al geofísico que descubrió qué estaba pasando, el Dr. Josh Keyes (Aaron Eckhart), y a un grupo con los mejores científicos mundiales. Deberán viajar al centro de la Tierra en un vehículo subterráneo al mando del comandante Robert Iverson (Bruce Greenwood) y la mayor Rebecca “Beck” Childs (Hilary Swank). Su peligrosa misión será la de detonar un dispositivo nuclear que intente reactivar el núcleo, y así salvar al mundo entero de una destrucción segura",
+			"genero": "Ciencia ficcion, Fantastico, Accion",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:do22qbw2mchxiyfval6rbkbo4xt6jibp&dn=HD1080",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Fantastico, 1Aventuras, 1Accion, A2003, Letra E, EEUU, Sagas ESDLA, 1Oscars, 1Culto, ",
 			"name": "El señor de los anillos: El retorno del rey (2003)","coloryear": "darkviolet",
 			"image": "https://www.themoviedb.org/t/p/original/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg",
@@ -39641,7 +39667,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:FDBBE6498D6BB6E6459D58B4FC8A4442C7897A0D&dn=DVDRip",
+				"torrent": "magnet:?xt=urn:btih:213518EF8C10B6F7AEA75BD4FDAE636B3B78687D&dn=HD1080",	magnet:?xt=urn:btih:FDBBE6498D6BB6E6459D58B4FC8A4442C7897A0D&dn=DVDRip
 				"torrent4k": ""	
 				}		
 			]
