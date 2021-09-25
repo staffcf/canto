@@ -15,6 +15,12 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
 			<title>1x01 - Libro I: Génesis</title>
 			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Misa.de.medianoche/1x01.-MDM.-.720.-.CristalAzul.mkv.torrent</torrent>
 			</item>
@@ -45,16 +51,28 @@
 ======================================================================
 ======================================================================
 ======================================================================
-			"Tag= ORRENTTEMP1, "
+			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 1 a 4</title>
+			<title> - </title>
 			<torrent></torrent>
 			</item>
 ======================================================================
-			"Tag= ORRENTTEMP1, "
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 a 4</title>
+			<torrent>magnet:?xt=urn:btih:9269B4ECA649EFD00D3A87E899946824A3806C58&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
 			<item>
 			<title> - Capitulos 5 a 7</title>
-			<torrent></torrent>
+			<torrent>magnet:?xt=urn:btih:EAB175522556BF753A8DCE865202EDB2788B41B8&dn=HDTV</torrent>
 			</item>
 ======================================================================
 ======================================================================

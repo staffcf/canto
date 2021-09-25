@@ -98,6 +98,12 @@
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
+			<title>Calidad 720 - </title><titleGdrive></titleGdrive>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
 			<title>2x01 - Adiós, Earl</title>
 			<torrent>magnet:?xt=urn:btih:0AD516F89227045225803B8668768F5F92B66806&dn=HD720</torrent>  
 			</item>
@@ -150,11 +156,81 @@
 			<torrent>magnet:?xt=urn:btih:CF3AA3942DD31067EFAAB2552C6A44376B916A85&dn=HD720</torrent>
 			</item>
 ======================================================================
-			"Tag= "
+			"Tag= TORRENTTEMP2, "
 			<item>
 			<title>2x10 - Capitulo 10</title>
+			<torrent>magnet:?xt=urn:btih:60ABA3F4B3078BEE3A6AB7370BFE41BF567B0D4D&dn=HD720</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= ORRENTTEMP2, "
+			<item>
+			<title>Calidad HDTV - </title><titleGdrive></titleGdrive>      
 			<torrent></torrent>
 			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x01 - Adiós, Earl</title>
+			<torrent>magnet:?xt=urn:btih:015A21277E985D6002C1619E6EF3FAF15B9F2FD3&dn=HDTV</torrent> 
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x02 - Lavanda</title>
+			<torrent>magnet:?xt=urn:btih:C36469EC4FB7CDD1E19B54C3091FA212BB34A56C&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x03 - Lo mejor que puedas</title>
+			<torrent>magnet:?xt=urn:btih:F5EF686B2F5880C3B4008F0EA706B2D09732A153&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x04 - El villancico</title>
+			<torrent>magnet:?xt=urn:btih:D4AF4058D24E0F19D351BC45D487F11C503F1812&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x05 - Rainbow</title>
+			<torrent>magnet:?xt=urn:btih:FA98E0E9AE068F3D484DBA4D6216ABE04BFA3DE6&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x06 - La señal</title>
+			<torrent>magnet:?xt=urn:btih:3AB058609CFDBC18099E5EFAE1A3D33120B170B8&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x07 - Estado mental</title>
+			<torrent>magnet:?xt=urn:btih:44233A4C913C1B9B5CA57E40359737BB010D44F6&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x08 - CMan City</title>
+			<torrent>magnet:?xt=urn:btih:9D6B75E0D9FE4348B116A73659DF30F49907CA10&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x09 - Beard después del trabajo</title>
+			<torrent>magnet:?xt=urn:btih:26F2ACCBCD425790A6EFB80DAA8076878F9B947E&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x10 - Capitulo 10</title>
+			<torrent>magnet:?xt=urn:btih:A5C892165E6523ED28B4474AB0470C933486B1E2&dn=HDTV</torrent>
+			</item>
+======================================================================
 ======================================================================
 ======================================================================
 ======================================================================
