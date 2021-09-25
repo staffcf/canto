@@ -1,0 +1,85 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ GENTE HABLANDO
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"GENTE HABLANDO", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/oVrkiocw3RvUM4dcLzmOgLUqS8N.jpg",
+	- 1SerieTitle:"GENTE HABLANDO", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/aTj4WC2FN6FjRt8fsS8uaiz5KOQ.jpg",
+	
+-->
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 a 6</title>
+			<torrent>magnet:?xt=urn:btih:4B5848F43D4801033512C4F155931500912AF457&dn=HD720</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 a 6</title>
+			<torrent>magnet:?xt=urn:btih:0B2A83D711BD8D21120CEAFF566F0AF27D55C6C7&dn=HDTV</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - Capitulos 1 a 6</title>
+			<torrent>magnet:?xt=urn:btih:68BC0E5B4B739783115DE3CCA62B122AE4B6CD12&dn=HD720</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - Capitulos 1 a 6</title>
+			<torrent>magnet:?xt=urn:btih:EDE9CC38498B70C9E8CB2BEC35AFBF7ACA38EB88&dn=HDTV</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
