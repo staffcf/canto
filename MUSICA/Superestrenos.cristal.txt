@@ -6,6 +6,18 @@
 
 
 <item>
+<title>[COLOR white] Reminiscencia [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.2[/COLOR]</title>    
+<genre>Ciencia ficción,Thriller Suspense,Romance,Misterio</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/1I6mHnT.jpg</thumbnail>
+<fanart>https://i.imgur.com/xCPQ3xs.jpg</fanart>
+<info>Nick Bannister, un investigador privado que se interna en el oscuro y seductor mundo del pasado, ayuda a sus clientes a recuperar recuerdos perdidos. Vive a orillas de la costa de Miami que se encuentra sumergida en gran parte bajo el mar. Un día, su vida cambia cuando aparece Mae, una nueva clienta. Aunque Mae solo acude a su consulta para encontrar un objeto perdido, se convertirá en una peligrosa obsesión. Mientras Bannister intenta encontrar el motivo de la desaparición de Mae, descubre una violenta conspiración y, al final, deberá responder a la gran pregunta: ¿Hasta dónde llegarías para aferrarte a tus seres queridos?<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=5MvFknvMabU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/mgzn4i53xywppw3"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/3nxogwx4c7d3xq"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/n0dafbeaq43l"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/pgib52feten7.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/qi9kba2pyh9s"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1H_dcooc1gF99_TO2T4vSZe1zgPxKmm1G/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] A todo tren. Destino Asturias  [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.4[/COLOR]</title>    
 <genre>Comedia</genre>
 <year>2021</year>
