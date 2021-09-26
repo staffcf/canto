@@ -464,6 +464,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Doom Patrol[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Doom.Patrol</externallink>
+<info>Serie de TV (2019-Actualidad). Reimaginación de uno de los grupos de superhéroes más emblemáticos de DC: Robotman, Negative Man, Elasti-Girl y Crazy Jane, liderados por el científico loco Dr. Niles Caulder. Los miembros de esta peculiar patrulla rememoran las circunstancias que les llevaron a obtener sus habilidades sobrehumanas, causando toda clase de cicatrices y desfiguraciones que les impiden llevar una vida normal. Desesperados, proponen a su Caulder defender el planeta Tierra de los mayores peligros que jamás se hayan conocido. Siguiendo con los acontecimientos que tienen lugar en "Titans", la patrulla recibe un encargo de Cyborg que no podrán rechazar, aunque cumplirlo implica que sus vidas nunca volverán a ser como antes.</info>
+<thumbnail>https://i.imgur.com/njYfU73.jpg</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Dragones: Hacia nuevos confines[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Dragones.hacia.nuevos.confines.txt</externallink>
@@ -1307,6 +1316,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Misa de medianoche[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Misa.medianoche</externallink>
+<info>Miniserie de TV (2021). 7 episodios. Una comunidad al borde de la extinción y ávida de fe recibe la llegada de un carismático sacerdote, que trae consigo milagros, misterios y un renovado fervor religioso.</info>
+<thumbnail>https://i.imgur.com/sEEX8EO.jpg</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Missions[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Missions.txt</externallink>
@@ -1849,6 +1867,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]The River[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.River</externallink>
+<info>Serie de TV (2012). 8 episodios. El doctor Emmet Cole (Bruce Greenwood), famoso divulgador y presentador de documentales, desaparece en plena selva amazónica. Convencidos de que sigue vivo, su familia y sus amigos emprenden su búsqueda y lo localizan seis meses después. Para conseguir los fondos necesarios para financiar la expedición, tuvieron que aceptar que la aventura fuera grabada en forma de documental.</info>
+<thumbnail>https://i.imgur.com/0q1Asvx.jpg</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]The One[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/TheOne.One</externallink>
@@ -1918,6 +1945,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 <info>Antes de entrar en la cárcel, Mark Cobden (Sean Bean) era un ciudadano respetable, padre de familia y profesor. Su vida cambia radicalmente cuando atropella y a un hombre y es condenado a cuatro años de prisión. Atormentado por la culpa, Mark se ve inmerso de repente en un mundo desconocido y hostil, convirtiéndose en blanco fácil para los reos más violentos y peligrosos. Allí es puesto bajo la tutela de Eric McNelly, un veterano funcionario de la prisión a cargo de la protección y manejo de varios grupos de presos. Aunque tiene mano firme y autoridad, McNelly cumple con su trabajo honradamente y busca ayudar a los presos en lo que necesiten a diario. </info>
 <thumbnail>https://i.imgur.com/qWuJuaH.jpg</thumbnail>
 <fanart>https://i.imgur.com/5tQvCOe.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Toy Boy[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Toy.Boy</externallink>
+<info>Serie de TV (2019-). Primera temporada: 13 episodios. Hugo Beltrán (Jesús Mosquera) es un stripper joven, guapo y despreocupado. Una madrugada se despierta en un velero, tras una noche de fiesta y excesos, al lado del cadáver quemado de un hombre. Es el marido de Macarena, su amante (Cristina Castaño), una mujer madura y poderosa con la que mantenía una tórrida relación. Hugo no recuerda nada de lo que ocurrió la noche del crimen, pero está seguro de que él no es el asesino, sino la víctima de un montaje para inculparlo. Tras un rápido juicio es condenado a quince años de cárcel. Siete años más tarde, en la cárcel recibe la visita de Triana Marín (María Pedraza), una abogada joven que, en representación de un importante bufete, se ofrece a ayudarlo, reabrir el caso y tratar de demostrar su inocencia en un nuevo juicio.</info>
+<thumbnail>https://i.imgur.com/vBdce1u.jpg</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 </item>
 
 <item>
