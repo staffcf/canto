@@ -6,6 +6,17 @@
 
 
 <item>
+<title>[COLOR white] Dark Web: Cicada 3301 [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.6[/COLOR]</title>    
+<genre>Acción,Comedia,Thriller</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/puNjKRW.jpg</thumbnail>
+<fanart>https://i.imgur.com/BDoZz3g.jpg</fanart>
+<info>El genial hacker Connor descubre la Cicada 3301, una búsqueda del tesoro online que podría ser una herramienta de reclutamiento para una sociedad secreta. Pronto, Conner, su amigo Avi, experto en arte, y la secreta bibliotecaria Gwen se lanzan a descubrir pistas del mundo real desde los sitios de grafiti hasta las bibliotecas antiguas. Pero deben huir de los agresivos agentes de la NSA, que también están tras la pista de la Cicada y quieren la gloria para ellos.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=DMLId8mTKao"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/wrn56injm0per-4"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/pkq01zqlig748xx"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/3udgkc48yelo"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/q1l6ps0gvc0a.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-kf8pqwpozs0g.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1SjHkWgBR2sF9ih3eY12-ZKjo-oT2oi9B/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Reminiscencia [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.2[/COLOR]</title>    
 <genre>Ciencia ficción,Thriller Suspense,Romance,Misterio</genre>
 <year>2021</year>
