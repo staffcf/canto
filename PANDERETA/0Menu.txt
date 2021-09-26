@@ -789,6 +789,15 @@ El.padre.de.cain</externallink>
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Fundación[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Fundacion</externallink>
+<info>Serie de TV. Adaptación de la famosa saga de novelas científicas de Isaac Asimov. Cuando el revolucionario Dr. Hari Seldon predice la inminente caída del Imperio, él y un grupo de leales seguidores viajan a los últimos confines de la galaxia para establecer La Fundación, en un intento de reconstruir y preservar el futuro de la civilización. Enfurecidos por las teorías de Hari, los Cleons (una larga línea sucesoria de emperadores clónicos que ostentan el poder) temen que su control sobre la galaxia se pueda debilitar y deben reconocer la posibilidad, muy real, de perder su legado para siempre.</info>
+<thumbnail>https://i.imgur.com/777M1DD.jpg</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Gambito de dama[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Gambito.de.dama.txt</externallink>
