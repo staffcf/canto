@@ -17,6 +17,17 @@
 
 
 <item>
+<title>[COLOR white] Mobile Suit Gundam - Hathaway [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.0[/COLOR]</title>    
+<genre> Animación,Action,Adventure,Drama,Ciencia ficción,Anime,Romance,Bélica</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/G1dq088.jpg</thumbnail>
+<fanart>https://i.imgur.com/jvAzgos.jpg</fanart>
+<info>32 años después del contraataque de Char, Hathaway Noa hereda una nueva generación.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=MzxnPP5TLeU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/kx4-1i34wzwl35y"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/gnxmv9ombwlge4"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "Falta poner"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/kpu9ztqazet9.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-if6p75ukyxtw.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1oN1f5h9TeicsxK5xTBINYilSft4cMhjn/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Dark Web: Cicada 3301 [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.6[/COLOR]</title>    
 <genre>Acción,Comedia,Thriller</genre>
 <year>2021</year>
