@@ -224,7 +224,7 @@
 			]
 			},
 			{
-			"tag": " 1Torrent, 0Torrent4k, 1Documental, A2020, Letra D, Alemania, C720, ",
+			"tag": " 1Torrent, 1Documental, A2020, Letra D, Alemania, C720, ",
 			"name": "Diez años de guerra en Siria (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/r3qjaLxJDEjxNXsxvM7CFlOtDqB.jpg",
 			"info": "La guerra civil siria es un conflicto armado que se inició en Siria tras las protestas antigubernamentales de 2011. Este documental de PBS muestra el origen del conflicto, describe las etapas y aclara los motivos detrás de esta guerra",
@@ -308,7 +308,7 @@
 			]
 			},
 			{
-			"tag": " 1Torrent, 1TorrentLuar, 0Torrent4k, 1Documental, A2020, Letra L, Spain, C720, 1Biografico, ",
+			"tag": " 1Torrent, 1Documental, A2020, Letra L, Spain, C720, 1Biografico, ",
 			"name": "La corte de Ana (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/9htOMLcHmiOoLyDx7DgEmbOrpRI.jpg",
 			"info": "a corte de Ana repasa la carrera de esta artista todoterreno que ha sabido estar y mantenerse durante más de cuarenta años en el mundo de la interpretación. En este documental Ana Belén revive alguno de sus recuerdos y se reinvidica como una mujer trabajadora que apuesta por el esfuerzo y la responsabilidad",
@@ -513,6 +513,19 @@
 			]
 			},
 			{
+			"tag": " 1Torrent, 1Documental, A2017, Letra U, EEUU, C720, ",
+			"name": "Una verdad muy incomoda: Ahora o nunca (2017)","coloryear": "green",
+			"image": "https://www.themoviedb.org/t/p/original/x8nenIPl9TeTD5GM68QV4g1HjQy.jpg",
+			"info": "Una década después de que 'Una verdad incómoda' pusiera el asunto del cambio climático en el corazón de la conciencia y la cultura popular, viene el seguimiento que demuestra qué cerca estamos de una verdadera revolución energética.",
+			"genero": "Documental",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:71E41015E586713B08AA3ED7C7DF7CC140646217&dn=HDRip",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 1Torrent, 1Documental, A2016, Letra L, Spain, C720, ",
 			"name": "La Antártida. el viaje al fin de la tierra (2016)","coloryear": "purple",
 			"image": "https://www.themoviedb.org/t/p/original/hRrE6yNpFG9zizkJZMsk0loPpP9.jpg",
@@ -659,7 +672,7 @@
 			]
 			},
 			{
-			"tag": " 1Torrent, 1TorrentLuar, 0Torrent4k, 1Documental, A2006, Letra s, Alemania, C720, ",
+			"tag": " 1Torrent, 1Documental, A2006, Letra s, Alemania, C720, ",
 			"name": "Septiembre negro (2006)","coloryear": "olive",
 			"image": "https://i.imgur.com/FYr9VtE.jpg",
 			"info": "La historia de la toma de rehenes y asesinato de 11 atletas israelíes durante los Juegos Olímpicos de Múnich de 1972 por terroristas palestinos, y la represalia del Estado de Israel contra los autores de la masacre, contada por algunos de los protagonistas de aquellos trágicos acontecimientos",
@@ -667,6 +680,19 @@
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:D6455774DC867AEB6C95398570F27A0D35EC3FB8&dn=HD720"
+				}		
+			]
+			},
+			{
+			"tag": " 1Torrent, 1Documental, A2006, Letra U, EEUU, C720, ",
+			"name": "Una verdad muy incomoda (2006)","coloryear": "olive",
+			"image": "https://www.themoviedb.org/t/p/original/xgxVyBK0ZSAvWDi88KtPMBf4teo.jpg",
+			"info": "Documental sobre los efectos devastadores del cambio climático. El ex-vicepresidente norteamericano Al Gore muestra un contundente y preocupante retrato de la situación del planeta, amenazado por el calientamiento global provocado por las ingentes emisiones de CO2 por parte de la acción del hombre. Un documental cuya leyenda reza: 'De lejos la película más aterradora que verá jamás'",
+			"genero": "Documental",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:0E3AC91F507C5110FAE52DB96CFA2F887C38EE3B&dn=DVDRip",
+				"torrent4k": ""
 				}		
 			]
 			}
