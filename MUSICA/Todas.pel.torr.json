@@ -1389,15 +1389,15 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Fantastico, 1Comedia, 1Accion, 1Aventuras, 1Ciencia ficcion, A2021, Letra F, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Fantastico, 1Comedia, 1Accion, 1Aventuras, 1Ciencia ficcion, A2021, Letra F, EEUU, ",
 			"name": "Free Guy (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/suaooqn1Mnv60V19MoGxneMupJs.jpg",
 			"info": "Guy (Ryan Reynolds) trabaja como cajero de un banco, y es un tipo alegre y solitario al que nada la amarga el día. Incluso si le utilizan como rehén durante un atraco a su banco, él sigue sonriendo como si nada. Pero un día se da cuenta de que Free City no es exactamente la ciudad que él creía. Guy va a descubrir que en realidad es un personaje no jugable dentro de un brutal videojuego",
 			"genero": "Fantastico, Comedia, Accion, Aventuras, Ciencia ficcion",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Free.Guy.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:D7080892CCED0750721E457EFF08879D41FC5234&dn=BRRip
-				"torrent4k": ""	
+				"torrent": "magnet:?xt=urn:btih:E5011C981400FFCE01B1B3E228307BD3579B08F6&dn=HD1080",			magnet:?xt=urn:btih:B576BAC5610503B8AFB4BB10C7445598673F0CFE&dn=BR1080	magnet:?xt=urn:btih:D7080892CCED0750721E457EFF08879D41FC5234&dn=BRRip	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Free.Guy.-2021.-.1080.-.CristalAzul.mkv.torrent
+				"torrent4k": "magnet:?xt=urn:btih:725DD76080B8B6C62E1DFCF08F380060B9412E68&dn=Web4K"	
 				}		
 			]
 			},
@@ -8773,7 +8773,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Thriller, Drama, Accion",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Shorta.El.peso.de.la.ley.-2020.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:65DA00A6C3E9950BE2AF83A88FAD536776A2E9F7&dn=BRRip
+				"torrent": "magnet:?xt=urn:btih:755BA6017A21A1A36276900C88BA0572AB2C0B07&dn=HD1080",			magnet:?xt=urn:btih:D941A2B9BF6615BED9F7167CC6D1818DD82268D4&dn=BR1080	magnet:?xt=urn:btih:65DA00A6C3E9950BE2AF83A88FAD536776A2E9F7&dn=BRRip	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Shorta.El.peso.de.la.ley.-2020.-.1080.-.CristalAzul.mkv.torrent
 				"torrent4k": ""	
 				}		
 			]
