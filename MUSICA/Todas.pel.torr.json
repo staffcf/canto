@@ -1396,7 +1396,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Fantastico, Comedia, Accion, Aventuras, Ciencia ficcion",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Free.Guy.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Free.Guy.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:D7080892CCED0750721E457EFF08879D41FC5234&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -5764,7 +5764,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Aventuras, Fantastico, Intriga, Terror",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:2fd853bccf2670242f8533d178d441b1500bee65",  
+				"torrent": "magnet:?xt=urn:btih:2fd853bccf2670242f8533d178d441b1500bee65&dn=HD1080",  
 				"torrent4k": ""
 				}
 			]
@@ -12799,7 +12799,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Terror, Ciencia ficcion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:3eace26c3987c8bc7dd17ec3b891f890ccf6b10b",
+				"torrent": "magnet:?xt=urn:btih:3eace26c3987c8bc7dd17ec3b891f890ccf6b10b&dn=HD1080",
 				"torrent4k": "magnet:?xt=urn:btih:cfa96c786581bce4f1dcc7d42e0e71b07870a823"
 				}			
 			]
@@ -26352,7 +26352,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Belico, Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:b9dcc916e7d66660e27f6ef2a707e907073d5931",
+				"torrent": "magnet:?xt=urn:btih:b9dcc916e7d66660e27f6ef2a707e907073d5931&dn=HD1080",
 				"torrent4k": ""
 				}
 			]
@@ -29068,6 +29068,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2016, Letra E, Reino Unido, ",
+			"name": "El ultimo acto (2016)","coloryear": "purple",
+			"image": "https://www.themoviedb.org/t/p/original/h4sgFC08DCRl4ZGgYOlHoyQ3BN7.jpg",
+			"info": "El legendario actor Sir Michael Gifford vive recluido en su casa de campo. Desde hace años sufre una enfermedad degenerativa que intenta ocultar al público. En otro tiempo apasionado y mujeriego, Gifford se ha convertido en una persona intratable que se niega a aceptar su condición. Su hija, Sophia, y su antigua amante y ahora ama de llaves, Milly, se desesperan buscando enfermeras. Hasta que aparece Dorottya, una joven cuidadora húngara, que secretamente aspira a convertirse en actriz. A pesar del temperamento de Sir Michael y de la desconfianza de su familia, el amor que ambos comparten por Shakespeare les ayudará a afrontar un último acto.",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:qxwuu7xjjaulz3ly6geihghkgmnq6x3c&dn=HD1080",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Terror, 1Accion, A2016, Letra E, EEUU, Sagas LNDLB, ",
 			"name": "Election: La noche de las bestias (2016)","coloryear": "purple",
 			"image": "https://www.themoviedb.org/t/p/original/wEpLdiISE6mLHXOc1iDnd3edfal.jpg",
@@ -31226,6 +31239,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:5mjf2pmzz7z2obydeyytbe7yo27uhuej&dn=HD1080",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Thriller, A2013, Letra E, EEUU, ",
+			"name": "El protector (2013)","coloryear": "lawngreen",
+			"image": "https://www.themoviedb.org/t/p/original/3epke5oOH7WRWvaFJeH9SsibBW4.jpg",
+			"info": "Un ex-agente de la DEA (Agencia Antidroga) que está viudo se retira a un pequeño pueblo para empezar una nueva vida con su hija de diez años. El único problema es que ha elegido el pueblo equivocado",
+			"genero": "Accion, Thriller",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:6ud42gvuvlujlhxsctqui6queujakak5&dn=HD1080",
 				"torrent4k": ""	
 				}		
 			]
