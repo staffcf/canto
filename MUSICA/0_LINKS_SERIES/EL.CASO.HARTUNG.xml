@@ -1,0 +1,35 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ EL CASO HARTUNG
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"EL CASO HARTUNG", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/tTMZZWvyLV2Unl363IPP6osTLtz.jpg",
+	
+-->
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x01 - Capitulo 1</title>
+			<torrent>magnet:?xt=urn:btih:1D9DC9CB880106C1343D8D2D1857F341392FD76C&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 2 y 3</title>
+			<torrent>magnet:?xt=urn:btih:022CA1127AEA39A9F9048719799D716E04CC5259&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 4 a 6</title>
+			<torrent>magnet:?xt=urn:btih:63CD90A8701A7E9CB4D239209CD028B0ECBC1461&dn=HDTV</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
