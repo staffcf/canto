@@ -29315,6 +29315,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Drama, A2016, Letra L, EEUU, ",
+			"name": "La llegada (2016)","coloryear": "purple",
+			"image": "https://www.themoviedb.org/t/p/original/foAKheCLKEuBZfrp75yWAot6ndc.jpg",
+			"info": "Cuando naves extraterrestres comienzan a llegar a la Tierra, los altos mandos militares piden ayuda a una experta lingüista (Amy Adams) para intentar averiguar si los alienígenas vienen en son de paz o suponen una amenaza. Poco a poco la mujer intentará aprender a comunicarse con los extraños invasores, poseedores de un lenguaje propio, para dar con la verdadera y misteriosa razón de la visita extraterrestre... Adaptación del relato corto "The Story of Your Life" del escritor Ted Chiang, ganador de los reconocidos premios de ciencia ficción Hugo y Nebula",
+			"genero": "Ciencia ficcion, Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:ngpw66bwkqugs4oz6f5udmudz4hsmkmy&dn=HD1080",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2016, Letra L, Reino Unido, Sagas RobertDoll, ",
 			"name": "La maldicion del muñeco Robert (2016)","coloryear": "purple",
 			"image": "https://www.themoviedb.org/t/p/original/jBXqTDGqC9uSZlQ14ibDLzd8sLz.jpg",
@@ -29480,6 +29493,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{ 
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Objetivo-Londres.-2016.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:7C447CD07C146822268379983260FFC6DE8AA3AB&BRRip  magnet:?xt=urn:btih:4A458ADA9BECBB956349A81A0E8DBC5BB56B5551&dn=HD1080
 				"torrent4k": "magnet:?xt=urn:btih:C49CE928F0758528FD6B66B8393336CD1F3F3AEE&dn=UHDRip"
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Aventuras, 1Drama, 1Romance, A2016, Letra P, EEUU, ",
+			"name": "Passengers (2016)","coloryear": "lime",
+			"image": "https://www.themoviedb.org/t/p/original/vfDxSi7sBnAzQ0DBjAAP8oPaBxM.jpg",
+			"info": "Tras el impacto con un gran meteorito, una nave espacial interestelar que viaja con piloto automático a un planeta lejano transportando a miles de personas, tiene una avería en una de las cápsulas de hibernación. Como resultado Jim Preston (Chris Pratt), uno de los pasajeros, se despierta noventa años antes del final del viaje. Estando completamente solo en la nave, Jim intenta por todos los medios volver a hibernar, pero tras un año desiste. Su estado mental comienza a flaquear al tiempo que comienza a obsesionarse con despertar a Aurora Lane (Jennifer Lawrence), una de las pasajeras dentro de su cápsula de hibernación.",
+			"genero": "Ciencia ficcion, Aventuras, Drama, Romance",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:vrcrngnhfda7mgo7ijwhge666t6maz4i&dn=BR1080",
+				"torrent4k": ""	
 				}		
 			]
 			},
