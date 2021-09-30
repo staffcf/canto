@@ -1,0 +1,34 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ LUNA PARK
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"LUNA PARK", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/fGABVcpMTfnvjZQ2s50DvTrCqxQ.jpg",
+	
+-->
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 y 2</title>
+			<torrent>magnet:?xt=urn:btih:9C2489644B475BE123466FEFAA5249D547E5CBD7&dn=HD1080</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 3 y 4</title>
+			<torrent>magnet:?xt=urn:btih:C0865462221F7D0F7B732C4272F40C78AC78AA62&dn=HD1080</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 5 y 6</title>
+			<torrent>magnet:?xt=urn:btih:29257C84D5FF63A825D74642BA71D71281276160&dn=HD1080</torrent>
+			</item>
+======================================================================
+======================================================================
