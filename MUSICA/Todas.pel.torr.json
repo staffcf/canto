@@ -1079,6 +1079,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra E, EEUU, ",
+			"name": "El espacio entre nosotros (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/jWSsfwyZs1wAMzp8EPzJQZ440pQ.jpg",
+			"info": "Micky Adams, un excéntrico músico de rock, pierde el contacto con la realidad mientras su discográfica quiere echarle. Un joven es enviado a su casa para obligarle a rescindir el contrato",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/El.espacio.entre.nosotros.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra E, EEUU, Netflix, ",
 			"name": "El estornino (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/yM6mDwGBXfGSuk68Zy38jnZhxA7.jpg",
