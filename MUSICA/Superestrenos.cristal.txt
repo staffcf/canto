@@ -39,6 +39,17 @@
 
 
 <item>
+<title>[COLOR white] Maldita Jungla [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.2[/COLOR]</title>    
+<genre>Comedia,Aventuras</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/k4fdNUR.jpg</thumbnail>
+<fanart>https://i.imgur.com/DON9M4Q.jpg</fanart>
+<info>Eliott, joven e inocente explorador, parte con el objetivo de estudiar a los Otopis, una misteriosa tribu de la Amazonia. Es también la oportunidad para alejarse del agobiante control que ejerce su madre, la posesiva Chantal de Bellabre. Pero ésta, inquieta por su hijo, intenta seguir sus pasos en la jungla amazónica.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=4iAvuwsZPUM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/mgzn4i53m6w675n"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/l6rj0mwkhlrg84"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/8ed9i5w02nq7"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/kpu9ztqazet9.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-uvzehpil7dt0.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1PcCmzWmjDl2bgIeLaf9-stCknNC6UmgX/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Nadie saldra vivo de aquí  [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.3[/COLOR]</title>    
 <genre>Thriller,Terror,Casas encantadas</genre>
 <year>2021</year>
