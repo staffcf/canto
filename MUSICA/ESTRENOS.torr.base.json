@@ -9,9 +9,22 @@
 			]
 			},
 			{			
+      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Crimen, 1Suspense, 1Drama, A2021, Letra B, Spain, ",
+     			"name": "Silk Road (2021)","coloryear": "cyan",
+      			"image": "https://www.themoviedb.org/t/p/original/hXLv6E82v0WPzM67QYqnoDJejdA.jpg",
+      			"info": "Relata la historia de Ross Ulbricht, creador de Silk Road, una página web de la darknet dedicada a la venta y tráfico de estupefacientes.",  
+			"genero": "Crimen, Suspense, Drama",
+      			"stations": [
+       				{
+        			"torrent": "magnet:?xt=urn:btih:D391025B653A6AC480CAF8CB99EE06C5503AF6A7",  
+        			"torrent4k": ""  
+        			}
+			]
+			},
+			{			
       			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Suspense, A2021, Letra B, Spain, ",
      			"name": "Bingo Hell (2021)","coloryear": "cyan",
-      			"image": "https://www.themoviedb.org/t/p/w220_and_h330_face/86VKuiaox9eVJTETel0ld7XZtiO.jpg",
+      			"image": "https://www.themoviedb.org/t/p/original/86VKuiaox9eVJTETel0ld7XZtiO.jpg",
       			"info": "En Oak Springs vive un grupo obstinado de amigos que se niegan a abandonar el barrio por culpa de la gentrificación. Su líder, Lupita (Barraza), los mantiene unidos como comunidad, como familia. Pero no saben que su amado Bingo Hall va a ser vendido a una fuerza mucho más poderosa que el propio dinero.",  
 			"genero": "Suspense",
       			"stations": [
