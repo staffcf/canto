@@ -6,6 +6,17 @@
 
 
 <item>
+<title>[COLOR white] Fast & Furious 9 [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.5[/COLOR]</title>    
+<genre>Acción, Crimen, Suspense</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/Gtn41Ac.jpg</thumbnail>
+<fanart>https://i.imgur.com/OGeqB0e.jpg</fanart>
+<info>Dom Toretto lleva una vida tranquila con Letty y su hijo, el pequeño Brian, pero saben que el peligro siempre acecha. Esta vez, esa amenaza obligará a Dom a enfrentarse a los pecados de su pasado si quiere salvar a quienes más quiere. El equipo se vuelve a reunir para impedir un complot a escala mundial, liderado por uno de los asesinos más peligrosos y mejor conductor a los que se han enfrentado; un hombre que además es el hermano desaparecido de Dom, Jakob. Novena entrega de la famosa franquicia.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=fV7gg929uDU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/mgzn4i53612z6ek"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/wnrpw0jvip4xjo"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/pmicxk5hanwh"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/wer24fkxipth.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/3y5ulz51h73b"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/158917_-1633095531-Fast-and-Furious-9--BluRay-1080p.torrent"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/14tNYkFvgJiVKu3aAEqj_dOabRjYJ6VSS/view"},{"titulo" : "[COLOR white]Drive 4K HDR[/COLOR]","url" : "https://drive.google.com/file/d/1_A_HblHEMuIiDCuKl70d5ji7ZigVByzE/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Free Guy [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.4[/COLOR]</title>    
 <genre>Fantástico,Comedia,Acción,Aventuras,Ciencia ficción</genre>
 <year>2021</year>
