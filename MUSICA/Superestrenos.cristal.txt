@@ -28,6 +28,17 @@
 
 
 <item>
+<title>[COLOR white] Black as Night  [/COLOR][COLOR yellow](2021) [COLOR aqua]*4.7[/COLOR]</title>    
+<genre>Terror,Vampiros</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/dHxyeHD.jpg</thumbnail>
+<fanart>https://i.imgur.com/x8qc7Uk.jpg</fanart>
+<info>Una adolescente con problemas de autoestima encuentra confianza de la manera más improbable, pasando su verano luchando contra los vampiros que se aprovechan de los marginados de Nueva Orleans con la ayuda de su mejor amigo, el chico por el que siempre ha añorado, y una peculiar chica rica.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=iuXnGbxTxDE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/y1r5dtemn-jr6le"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/1vjp9e40ukw1eq6"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/377ic0vrdf8g"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "Falta Poner"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/j18t0efd0chm"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1qvFzhWOU5c_ON0CmyV-b0goSxh2xmyVY/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Free Guy [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.4[/COLOR]</title>    
 <genre>Fantástico,Comedia,Acción,Aventuras,Ciencia ficción</genre>
 <year>2021</year>
