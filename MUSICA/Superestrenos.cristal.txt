@@ -28,6 +28,18 @@
 
 
 <item>
+<title>[COLOR white] Nadie saldra vivo de aquí  [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.3[/COLOR]</title>    
+<genre>Thriller,Terror,Casas encantadas</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/BgVE1cH.jpg</thumbnail>
+<fanart>https://i.imgur.com/cYy3fEx.jpg</fanart>
+<info>Una joven mexicana, desesperada y sin documentos, se muda a una destartalada pensión en Cleveland. Es el inicio de una pesadilla inesperada.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=GJ-DoAcNA_4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/mgzn4i53m60pldk"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/knr8dzgzi3dqqjk"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/17nhz6bf4j05"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/e5z4tf7ihlx7.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-ie5ha0f0ds0s.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1q8NKiwOF3tAWaGGlcyYPmVR7ljJpuVq9/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Shorta:El peso de la ley [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.1[/COLOR]</title>    
 <genre>Thriller,Drama,Acción,Policíaco,Inmigración</genre>
 <year>2021</year>
