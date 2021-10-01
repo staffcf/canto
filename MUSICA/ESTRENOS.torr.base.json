@@ -9,7 +9,20 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Crimen, 1Suspense, 1Drama, A2021, Letra B, Spain, ",
+      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Suspense, A2021, Letra B, Spain, ",
+     			"name": "Black as Night (2021)","coloryear": "cyan",
+      			"image": "https://www.themoviedb.org/t/p/original/hXLv6E82v0WPzM67QYqnoDJejdA.jpg",
+      			"info": "Una adolescente con problemas de autoestima encuentra confianza de la manera más improbable, pasando su verano luchando contra los vampiros que se aprovechan de los marginados de Nueva Orleans con la ayuda de su mejor amigo, el chico por el que siempre ha añorado, y una peculiar chica rica.",  
+			"genero": "Terror, Suspense",
+      			"stations": [
+       				{
+        			"torrent": "magnet:?xt=urn:btih:5431785610335F78E821275EC5F8B21511D264EF",  
+        			"torrent4k": ""  
+        			}
+			]
+			},
+			{			
+      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Crimen, 1Suspense, 1Drama, A2021, Letra S, Spain, ",
      			"name": "Silk Road (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/hXLv6E82v0WPzM67QYqnoDJejdA.jpg",
       			"info": "Relata la historia de Ross Ulbricht, creador de Silk Road, una página web de la darknet dedicada a la venta y tráfico de estupefacientes.",  
