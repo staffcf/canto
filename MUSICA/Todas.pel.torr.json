@@ -826,7 +826,20 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Comedia",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:7C3A09C616CC55BD8510F1BCF5FF8E637917A69A&dn=HD1080",magnet:?xt=urn:btih:D48CC801C89D4B3AA86F7B89BFD739D8C742EA7A&dn=BRRip	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Cuentos.al.caer.la.noche.-2021.-.1080.-.CristalAzul.mkv.torrent
+				"torrent": "magnet:?xt=urn:btih:7C3A09C616CC55BD8510F1BCF5FF8E637917A69A&dn=HD1080",	magnet:?xt=urn:btih:D48CC801C89D4B3AA86F7B89BFD739D8C742EA7A&dn=BRRip	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Cuentos.al.caer.la.noche.-2021.-.1080.-.CristalAzul.mkv.torrent
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, A2021, Letra C, EEUU, Netflix, ",
+			"name": "Culpable (The Guilty) (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/zcJMqcaMj7eAFwJ79h5SbwzKMh0.jpg",
+			"info": "En el transcurso de una mañana en un centro de llamadas del 911 el operador Joe Bayler (Gyllenhaal) intenta salvar de un grave peligro a la persona que llama, pero pronto descubre que nada es lo que parece y enfrentarse a la verdad es la única salida.",
+			"genero": "Thriller, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Culpable-The.Guilty-.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:B6CCC289FC6293B3F7A0463382D4C5B2F75F79C1&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -1348,7 +1361,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"torrent4k": ""	
 				}		
 			]
-			},,
+			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Terror, 1Thriller, 1Intriga, A2021, Letra E, EEUU, Sagas EWarren, ",
 			"name": "Expediente Warren: Obligado por el demonio (2021)","coloryear": "cyan",
@@ -1361,7 +1374,20 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"torrent4k": "magnet:?xt=urn:btih:21C7A1F20ACC1197FBC5D495DDE8AA217AADFAD8&dn=UHDRip",	magnet:?xt=urn:btih:5C48E818091F8B985700EFD26877C442B6C2DD02&dn=UHDmicro
 				}		
 			]
-			}
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Thriller, 1Ciencia ficcion, A2021, Letra F, EEUU, Sagas ATodoGas, ",
+			"name": "Fast & Furious 9 (2021)","coloryear": "cyan",
+			"image": "https://i.imgur.com/lRDYN3L.jpg",
+			"info": "Dom Toretto (Vin Diesel) lleva una vida tranquila con Letty y su hijo, el pequeño Brian, pero saben que el peligro siempre acecha. Esta vez, esa amenaza obligará a Dom a enfrentarse a los pecados de su pasado si quiere salvar a quienes más quiere. El equipo se vuelve a reunir para impedir un complot a escala mundial, liderado por uno de los asesinos más peligrosos y mejor conductor a los que se han enfrentado; un hombre que además es el hermano desaparecido de Dom, Jakob (John Cena). Novena entrega de la famosa franquicia",
+			"genero": "Accion, Thriller, Ciencia ficcion",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:D657D12900529D0325A5DEFFC61A796EF901C462&dn=F4stFur10us9999.m1080p.exclusivetorrent.net.mkv",	
+				"torrent4k": ""	
+				}		
+			]
+			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Infantil, A2021, Letra F, Canada, ",
 			"name": "Felix y el tesoro de Morgaa (2021)","coloryear": "cyan",
