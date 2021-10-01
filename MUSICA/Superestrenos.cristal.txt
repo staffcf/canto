@@ -28,6 +28,17 @@
 
 
 <item>
+<title>[COLOR white] Un pequeno contratiempo [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.1[/COLOR]</title>    
+<genre>Romance,Comedia,Fantástico,Viajes en el tiempo</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/jpJ2O1o.jpg</thumbnail>
+<fanart>https://i.imgur.com/6tHMPX1.jpg</fanart>
+<info>Teddy se despierta la mañana después de su boda para descubrir que ha saltado un año en el tiempo, hasta su primer aniversario. Su esposa Leanne está ahora muy embarazada, con un año completo de matrimonio a sus espaldas que él no recuerda haber vivido. Atrapado en un ciclo de saltos temporales, Teddy se enfrenta a una carrera contra el tiempo mientras su vida se desmorona a su alrededor. Con la ayuda de su mejor amigo Sam, Teddy trata de reconstruir el rumbo de su vida y, a medida que ésta pasa ante sus ojos, debe aprender a vivir los momentos preciosos para recuperar a la mujer que ama, aunque sea por un segundo.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=lXL6SETyTYo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/pwnxdtm1e8q1dql"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/j9g86xk6s7oe8qx"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/ixz2f83kn73u"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/9n6vt6zd9bp8.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-6lg8qjv55bka.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1L5TIOVzzQNpRps5IC_m6k3sbrXETjbJl/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Nadie saldra vivo de aquí  [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.3[/COLOR]</title>    
 <genre>Thriller,Terror,Casas encantadas</genre>
 <year>2021</year>
