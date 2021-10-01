@@ -28,6 +28,17 @@
 
 
 <item>
+<title>[COLOR white] Erase una vez en Queens [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.2[/COLOR]</title>    
+<genre>Drama,Baloncesto,Inmigración</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/Ke9honq.jpg</thumbnail>
+<fanart>https://i.imgur.com/3pxuhaS.jpg</fanart>
+<info>En la Nueva York contemporánea, un joven fenómeno del baloncesto chino-estadounidense lucha por equilibrar las expectativas de su familia inmigrante con sus propios sueños de convertirse en un jugador de la NBA.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=cInpYmQ3xyY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/kx4-1i345q-4kym"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/l6r8n0q1aw70"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/jet1e836yqlh"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/3lsehcookudd.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-6zw7jd6a9l6f.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Rdb4rK2HodYslX4BwOpwWKZEZRm9Gnpd/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Bingo Hell [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.6[/COLOR]</title>    
 <genre>Terror,Fantástico</genre>
 <year>2021</year>
