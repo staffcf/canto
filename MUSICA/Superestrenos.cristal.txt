@@ -28,6 +28,17 @@
 
 
 <item>
+<title>[COLOR white] Bingo Hell [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.6[/COLOR]</title>    
+<genre>Terror,Fantástico</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/L5a43o4.jpg</thumbnail>
+<fanart>https://i.imgur.com/K5YUHpK.jpg</fanart>
+<info>En Oak Springs vive un grupo obstinado de amigos que se niegan a abandonar el barrio por culpa de la gentrificación. Su líder, Lupita (Barraza), los mantiene unidos como comunidad, como familia. Pero no saben que su amado Bingo Hall va a ser vendido a una fuerza mucho más poderosa que el propio dinero.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=R0jO218mpSc"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/7mwj4sgqz8xkypj"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/l6r8n0q1aw70"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/jxz53rqgp5od"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/e5mthel86ww5.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-hn566ouni66g.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1T629W6BQrDN5nNK8EvtWkuEyJeyN4WCv/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Black as Night  [/COLOR][COLOR yellow](2021) [COLOR aqua]*4.7[/COLOR]</title>    
 <genre>Terror,Vampiros</genre>
 <year>2021</year>
