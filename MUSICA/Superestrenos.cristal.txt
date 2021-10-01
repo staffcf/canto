@@ -28,6 +28,17 @@
 
 
 <item>
+<title>[COLOR white] Shorta:El peso de la ley [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.1[/COLOR]</title>    
+<genre>Thriller,Drama,Acción,Policíaco,Inmigración</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/9bImrX6.jpg</thumbnail>
+<fanart>https://i.imgur.com/sst2oKn.jpg</fanart>
+<info>En la Dinamarca actual, una sociedad multicultural, segregada y llena de tensiones raciales, Talib, un joven inmigrante de segunda generación, entra en coma estando bajo tutela policial. Mientras los agentes de policía Høyer y Andersen hacen una patrulla rutinaria por el gueto de Svalegarden se anuncia la muerte del joven, noticia que desata violentos disturbios en el vecindario, que se convierte en un infierno sin salida para los agentes.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=2ZdxBQEJj-k"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/3p1j2cmeg3-0xk3"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/0vw6e1lminweql"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/5fakk4e3p86q"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/af80e4nvdsve.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/10uXD5ZFV2aakSl-Ju_ph5xbAFIJg4Tqr/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Erase una vez en Queens [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.2[/COLOR]</title>    
 <genre>Drama,Baloncesto,Inmigración</genre>
 <year>2021</year>
