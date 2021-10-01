@@ -12,7 +12,7 @@
 <thumbnail>https://i.imgur.com/mLNV8OD.jpg</thumbnail>
 <fanart>https://i.imgur.com/MjWYLMK.jpg</fanart>
 <info>La vida de Lucky Prescott cambia para siempre cuando se muda de su casa en la gran ciudad a un pequeño pueblo fronterizo en el que entabla amistad con un caballo salvaje llamado Spirit.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=zcpwnzQ2dA0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/zkp50sj61eqx2qp"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/enjxnxo1t7nxpw"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/vdx0fkbwka42"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "Falta Poner"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-xpnsknt3p94a.html"},{"titulo" : "[COLOR white]Drive 4K HDR[/COLOR]","url" : "https://drive.google.com/file/d/1QvXrPcAXWPRpdcU-3M9IeTGDULJ1LHki/view"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=zcpwnzQ2dA0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/zkp50sj61eqx2qp"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/enjxnxo1t7nxpw"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/vdx0fkbwka42"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/8n167kw7a7dz.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-xpnsknt3p94a.html"},{"titulo" : "[COLOR white]Drive 4K HDR[/COLOR]","url" : "https://drive.google.com/file/d/1QvXrPcAXWPRpdcU-3M9IeTGDULJ1LHki/view"}</urlsolve>
 </item>
 
 
