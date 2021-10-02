@@ -34,7 +34,7 @@
 <thumbnail>https://i.imgur.com/ILst0mG.jpg</thumbnail>
 <fanart>https://i.imgur.com/wTHf62L.jpg</fanart>
 <info>Cuando un humillante vídeo se hace viral, una prometedora cantante pop debe luchar durante una larga noche para no perder todo lo que tanto le ha costado lograr.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=TaymtNKTvDE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/zkp50sj61-yr-x0"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/dqwjk033uzzqxq"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/b3y4s61mgtzy"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "Falta poner"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-66c6ycwdk75v.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1USXHPktuVSP9Wz0Hb0dzKSGqM5Sja7ym/view"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=TaymtNKTvDE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/zkp50sj61-yr-x0"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/dqwjk033uzzqxq"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/b3y4s61mgtzy"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/1r44fnwzsezv.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-66c6ycwdk75v.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1USXHPktuVSP9Wz0Hb0dzKSGqM5Sja7ym/view"}</urlsolve>
 </item>
 
 
@@ -45,7 +45,7 @@
 <thumbnail>https://i.imgur.com/2YmM3JL.jpg</thumbnail>
 <fanart>https://i.imgur.com/DPPgCcj.jpg</fanart>
 <info>En el transcurso de una jornada en un centro de llamadas del 911 el operador Joe Bayler (Gyllenhaal) intenta salvar de un grave peligro a la persona que llama.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=Se-sQCcyEbE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/em4n6s-lxe2zwgq"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/rw4k6q39bv4q7mr"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/bembyimz8cam"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "Falta poner"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-7sjd13dhg7be.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1crgUGU8hmBRYVR6xKgJfkw5qK10h5YRv/view"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=Se-sQCcyEbE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/em4n6s-lxe2zwgq"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/rw4k6q39bv4q7mr"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/bembyimz8cam"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/5k3nae0iy97o.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-7sjd13dhg7be.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1crgUGU8hmBRYVR6xKgJfkw5qK10h5YRv/view"}</urlsolve>
 </item>
 
 
