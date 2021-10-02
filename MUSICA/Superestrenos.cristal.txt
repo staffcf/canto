@@ -28,6 +28,17 @@
 
 
 <item>
+<title>[COLOR white] Culpable [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.2[/COLOR]</title>    
+<genre>Thriller,Drama,Policíaco</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/2YmM3JL.jpg</thumbnail>
+<fanart>https://i.imgur.com/DPPgCcj.jpg</fanart>
+<info>En el transcurso de una jornada en un centro de llamadas del 911 el operador Joe Bayler (Gyllenhaal) intenta salvar de un grave peligro a la persona que llama.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=Se-sQCcyEbE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/em4n6s-lxe2zwgq"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/rw4k6q39bv4q7mr"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/bembyimz8cam"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "Falta poner"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-7sjd13dhg7be.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1crgUGU8hmBRYVR6xKgJfkw5qK10h5YRv/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Un pequeno contratiempo [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.1[/COLOR]</title>    
 <genre>Romance,Comedia,Fantástico,Viajes en el tiempo</genre>
 <year>2021</year>
