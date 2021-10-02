@@ -2,13 +2,23 @@
 
 
 <item>
-<title>[COLOR white] My Little Pony - Una nueva generacion [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.5[/COLOR]</title>    
+<title>[COLOR white] Spirit: Indomable [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.4[/COLOR]</title>    
+<genre>Animación,Aventuras,Infantil,Comedia,Caballos</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/mLNV8OD.jpg</thumbnail>
+<fanart>https://i.imgur.com/MjWYLMK.jpg</fanart>
+<info>La vida de Lucky Prescott cambia para siempre cuando se muda de su casa en la gran ciudad a un pequeño pueblo fronterizo en el que entabla amistad con un caballo salvaje llamado Spirit.<info>
+<urlsolve>{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/zkp50sj61eqx2qp"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/enjxnxo1t7nxpw"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/vdx0fkbwka42"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/8n167kw7a7dz.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-xpnsknt3p94a.html"}</urlsolve>
+</item>
+
+<item>
+<title>[COLOR white] My Little Pony - Una nueva generacion [/COLOR][COLOR yellow](2021) [COLOR aqua][/COLOR]</title>    
 <genre>Animación,Fantástico,Aventuras,Infantil</genre>
 <year>2021</year>
 <thumbnail>https://i.imgur.com/Ipljkqo.jpg</thumbnail>
 <fanart>https://i.imgur.com/0oxRrac.jpg</fanart>
 <info>Ha ocurrido lo inimaginable... ¡Equestria ha perdido su magia! Los ponis de la Tierra, los Unicornios y los Pegasos ya no son amigos y ahora viven separados por especies. Pero la idealista poni terrestre Sunny está decidida a encontrar una forma de devolver el encanto y la unidad a su mundo. Formando equipo con la unicornio de gran corazón Izzy, la pareja viaja a tierras lejanas donde se encuentra con las carismáticas y valientes pegaso Pipp y Zipp y el siempre responsable poni terrestre Hitch. Su misión está llena de desventuras, pero cada uno de estos nuevos mejores amigos poseen sus propios dones únicos y especiales que pueden ser justo lo que este poniverso necesita para restaurar la magia y demostrar que incluso los pequeños ponis pueden marcar la diferencia.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=ByxxCNZ23W8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/5knj1sdykqkgmyl"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/84d9zpjgh18rrx"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/i80gc1kz8qe9"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/x5x6jnr4uz0m.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-e1q8id2c0p2s.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1dCgF3In9icsOKtgosvFVrVnq672Qqv2z/view"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/5knj1sdykqkgmyl"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/84d9zpjgh18rrx"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/i80gc1kz8qe9"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/x5x6jnr4uz0m.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-e1q8id2c0p2s.html"}</urlsolve>
 </item>
 
 
