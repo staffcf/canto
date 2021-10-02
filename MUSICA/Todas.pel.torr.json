@@ -898,7 +898,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Comedia, 1Thriller, A2021, Letra D, EEUU, ",
-			"name": "Dark Web: Cicada 3301 (2021)","coloryear": "2021",
+			"name": "Dark Web: Cicada 3301 (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/kuifChNVxXCGwMIReJRtro5a3mY.jpg",
 			"info": "El hacker Connor, su mejor amiga Avi y un bibliotecario se ven envueltos en un juego de reclutamiento global de una sociedad secreta",
 			"genero": "Accion, Comedia, Thriller",
@@ -1348,7 +1348,20 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"torrent4k": ""
 				}		
 			]
-			}
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra E, EEUU, ",
+			"name": "Erase una vez en Queens (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/x0YSRcw3co1roXiyCFxILxw9ndt.jpg",
+			"info": "En la Nueva York contemporánea, un joven fenómeno del baloncesto chino-estadounidense lucha por equilibrar las expectativas de su familia inmigrante con sus propios sueños de convertirse en un jugador de la NBA",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Erase.una.vez.en.Queens.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Thriller, A2021, Letra E, Kenia, ",
 			"name": "En peligro de extincion (2021)","coloryear": "cyan",
@@ -22169,7 +22182,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Drama, 1Comedia, A2018, Letra G, EEUU, 1Hechos reales, Años 60, Racismo, Amistad, Musica, 1Oscars, ",
 			"name": "Green Book (2018)","coloryear": "aqua",
-			"image": "https://www.themoviedb.org/t/p/original/od2A7qPtpimcYfqfKXkpHqoKyuS.jpg",
+			"image": "https://www.themoviedb.org/t/p/original/phwmfaEe43uY2OAI2oeSZNlD4A9.jpg",
 			"info": "Año 1962. Tony Lip (Viggo Mortensen) es un rudo italoamericano del Bronx que es contratado como chofer del virtuoso pianista negro Don Shirley (Mahershala Ali). Ambos emprenderan un viaje para una gira de conciertos por el Sur de Estados Unidos, donde Tony debera tener presente 'El libro verde', una guia que indicaba los pocos establecimientos donde se aceptaba a los afroamericanos. Son dos personas que tendran que hacer frente al racismo y los prejuicios, pero a las que el destino unira, obligandoles a dejar de lado las diferencias para sobrevivir y prosperar en el viaje de sus vidas",
 			"genero": "Drama, Comedia",
 			"stations": [
@@ -27296,7 +27309,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Fantastico, 1Drama, 1Romance, 1Thriller, A2017, Letra L, EEUU, 1Oscars, ",
 			"name": "La Forma Del Agua (2017)","coloryear": "green",
-			"image": "https://www.ecartelera.com/carteles/11700/11783/002_p.jpg",
+			"image": "https://www.themoviedb.org/t/p/original/yYFlLKGduAjeJ3a3u57iJlQOx7z.jpg",
 			"info": "En un inquietante laboratorio de alta seguridad, durante la Guerra Fria, se produce una conexion insolita entre dos mundos aparentemente alejados. La vida de la solitaria Elisa (Sally Hawkins), que trabaja como limpiadora en el laboratorio, cambia por completo cuando descubre un experimento clasificado como secreto: un hombre anfibio (Doug Jones) que se encuentra ahi recluido",
 			"genero": "Fantastico, Drama, Romance, Thriller",
 			"stations": [
@@ -29525,7 +29538,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2016, Letra M, EEUU, Infancia, Adolescencia, Homosexualidad, Drogas, 1Oscars, ",
 			"name": "Moonlight (2016)","coloryear": "purple",
-			"image": "https://www.themoviedb.org/t/p/original/n5mUNwrKGHU2WHDWG3yvbrFRk1u.jpg",
+			"image": "https://www.themoviedb.org/t/p/original/mlctUG8PbXhq5IVXdb19dmN5467.jpg",
 			"info": "Chiron es un joven afroamericano con una dificil infancia y adolescencia, que crece en una zona conflictiva de Miami. A medida que pasan los años, el joven se descubre a si mismo intentando sobrevivir en diferentes situaciones. Durante todo ese tiempo, Chiron tendra que hacer frente a la drogadiccion de su madre y al violento ambiente de su colegio y su barrio",
 			"genero": "Drama",
 			"stations": [
@@ -29999,7 +30012,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2015, Letra E, EEUU, Periodismo, 1Hechos reales, 1Oscars, ",
 			"name": "En primera plana (Spotlight) (2015)","coloryear": "lime",
-			"image": "https://www.themoviedb.org/t/p/original/rBkptJyAMqCfoMwUGQfCpubroec.jpg",
+			"image": "https://www.themoviedb.org/t/p/original/qrUbieuJe1xZshnTHSJydc63EEW.jpg",
 			"info": "En el año 2002, un reducido equipo de reporteros de investigacion del Boston Globe destapo los escandalos de pederastia cometidos durante decadas por curas del estado de Massachussets. La publicacion de estos hechos, que la archidiocesis de Boston intento ocultar, sacudio a la Iglesia Catolica como institucion",
 			"genero": "Drama",
 			"stations": [
@@ -30551,7 +30564,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, A2014, Letra B, EEUU, Teatro, Satira, 1Oscars, ",
 			"name": "Birdman o (La Inesperada Virtud de la Ignorancia) (2014)","coloryear": "turquoise",
-			"image": "https://www.themoviedb.org/t/p/original/lJxWFRrQIOphpD3oPjD0J0d9JYY.jpg",
+			"image": "https://www.themoviedb.org/t/p/original/ivH8rOkZ12BHjmwiuENylJvQf1F.jpg",
 			"info": "Despues de hacerse famoso interpretando en el cine a un celebre superheroe, la estrella Riggan Thomson (Michael Keaton) trata de darle un nuevo rumbo a su vida, luchando contra su ego, recuperando a su familia y preparandose para el estreno de una obra teatral en Broadway que le reafirme en su prestigio profesional como actor",
 			"genero": "Comedia, Drama",
 			"stations": [
@@ -31207,7 +31220,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2013, Letra NUM, EEUU, 1Hechos reales, 1Biografico, Esclavitud, Racismo, Historico, 1Oscars, ",
 			"name": "12 años de esclavitud (2013)","coloryear": "lawngreen",
-			"image": "https://www.themoviedb.org/t/p/original/1OoCd3fmjPHt9iCR4QxNGGrDyI0.jpg",
+			"image": "https://i.imgur.com/VfnbmCF.jpg",
 			"info": "Basada en un hecho real ocurrido en 1850, narra la historia de Solomon Northup, un culto musico negro que vivia con su familia en Nueva York. Tras tomar una copa con dos hombres, Solomon descubre que ha sido drogado y secuestrado para ser vendido como esclavo en una plantacion de Louisiana. Solomon contempla como todos a su alrededor sucumben a la violencia y a la desesperacion. Pero el decide no rendirse y esperar a que llegue el momento oportuno para recuperar la libertad y volver con su familia",
 			"genero": "Drama",
 			"stations": [
@@ -31811,7 +31824,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Thriller, 1Intriga, 1Drama, A2012, Letra A, EEUU, 1Oscars, ",
 			"name": "Argo (2012)","coloryear": "lightcoral",
-			"image": "https://www.themoviedb.org/t/p/original/eXj7T8IZPKpAwt3TbUgTMWViusf.jpg",
+			"image": "https://www.themoviedb.org/t/p/original/r0ZJJpsqzrcMT94MXFl3artAd33.jpg",
 			"info": "Iran, año 1979. Cuando la embajada de los Estados Unidos en Teheran es ocupada por seguidores del Ayatola Jomeini para pedir la extradicion del Sha de Persia, la CIA y el gobierno canadiense organizaron una operacion para rescatar a seis diplomaticos estadounidenses que se habian refugiado en la casa del embajador de Canada. Con este fin se recurrio a un experto en rescatar rehenes y se preparo el escenario para el rodaje de una pelicula de ciencia-ficcion, de SKAM ESPAÑA "Argo", en la que participaba un equipo de cazatalentos de Hollywood. La mision: ir a Teheran y hacer pasar a los diplomaticos por un equipo de filmacion canadiense para traerlos de vuelta a casa",
 			"genero": "Thriller, Intriga, Drama",
 			"stations": [
@@ -32926,7 +32939,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2010, Letra E, Reino Unido, 1Historico, 1Biografico, 1Hechos reales, 1Oscars, ",
 			"name": "El discurso del Rey (2010)","coloryear": "springgreen",
-			"image": "https://www.themoviedb.org/t/p/original/ayrDCichVVOovfAikiS5NTmq8Wb.jpg",
+			"image": "https://www.themoviedb.org/t/p/original/bYq3PuNw5YaPvsmacxxZeNafyPB.jpg",
 			"info": "El duque de York se convirtio en rey de Inglaterra con el nombre de Jorge VI (1936-1952), tras la abdicacion de su hermano mayor, Eduardo VIII. Su tartamudez, que constituia un gran inconveniente para el ejercicio de sus funciones, lo llevo a buscar la ayuda de Lionel Logue, un experto logopeda que intento, empleando una serie de tecnicas poco ortodoxas, eliminar este defecto en el habla del monarca",
 			"genero": "Drama",
 			"stations": [
@@ -33401,7 +33414,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Belico, 1Accion, 1Thriller, 1Drama, A2009, Letra E, EEUU, 1Oscars, ",
 			"name": "En tierra hostil (2009)","coloryear": "hotpink",
-			"image": "https://www.themoviedb.org/t/p/original/wMzapRL8iTqF6oDUY04a2tVU5S4.jpg",
+			"image": "https://www.themoviedb.org/t/p/original/xR6aPDIgqsiwLsO2DpO8OYCnLwK.jpg",
 			"info": "En Irak, una unidad de elite de artificieros norteamericanos actua en una caotica ciudad donde cualquier persona puede ser un enemigo y cualquier objeto, una bomba. El jefe del grupo, el sargento Thompson, muere en el transcurso de una mision y es sustituido por el impredecible y temerario sargento William James (Jeremy Renner). Cuando falta poco para que la brigada sea relevada, el imprudente comportamiento de James hara que dos de sus subordinados, se planteen seriamente el riesgo que corren",
 			"genero": "Belico, Accion, Thriller, Drama",
 			"stations": [
@@ -34492,7 +34505,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Thriller, 1Drama, A2007, Letra N, EEUU, 1Oscars, ",
 			"name": "No es pais para viejos (2007)","coloryear": "steelblue",
-			"image": "https://www.themoviedb.org/t/p/original/x9sQnOXhvec93L6cfWMGIx7BS4h.jpg",
+			"image": "https://www.themoviedb.org/t/p/original/tSPf0AuZqIysbGjNhvsPzoIVsxA.jpg",
 			"info": "En 1980, en la frontera de Texas, cerca de rio Grande, Llewelyn Moss (Josh Brolin), un cazador de antilopes, descubre a unos hombres acribillados a balazos, un cargamento de heroina y dos millones de dolares en efectivo",
 			"genero": "Thriller, Drama",
 			"stations": [
@@ -34862,7 +34875,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, 1Accion, A2006, Letra I, EEUU, 1Oscars, ",
 			"name": "Infiltrados (2006)","coloryear": "olive",
-			"image": "https://www.themoviedb.org/t/p/original/mupWl1yjc7S8nvce6KpYksZdlTy.jpg",
+			"image": "https://www.themoviedb.org/t/p/original/qYbry0wFt5ZPJtc53PmB42d0Qqq.jpg",
 			"info": "El Departamento de Policia de Massachussets se enfrenta a la mayor banda de crimen organizado de la ciudad de Boston. La estrategia consiste en acabar desde dentro con Frank Costello, el poderoso jefe de la mafia irlandesa (Jack Nicholson). El encargado de infiltrarse en la banda es un joven novato, Billy Costigan (Leonardo DiCaprio). Mientras Billy intenta ganarse la confianza de Costello, otro joven policia, Colin Sullivan (Matt Damon), sube rapidamente de categoria y ocupa un puesto en la unidad de Investigaciones Especiales, grupo de elite cuya mision tambien es acabar con Costello. Lo que nadie sabe es que Colin es un topo infiltrado en la policia por el propio Costello",
 			"genero": "Thriller, Drama, Accion",
 			"stations": [
@@ -36068,7 +36081,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Fantastico, 1Aventuras, 1Accion, A2003, Letra E, EEUU, Sagas ESDLA, 1Oscars, 1Culto, ",
 			"name": "El señor de los anillos: El retorno del rey (2003)","coloryear": "darkviolet",
-			"image": "https://www.themoviedb.org/t/p/original/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg",
+			"image": "https://i.imgur.com/mBgp7HK.jpg",
 			"info": "Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de decidir el destino de la Tierra Media, y, por primera vez, parece que hay una pequeña esperanza. El interes del señor oscuro Sauron se centra ahora en Gondor, el ultimo reducto de los hombres, cuyo trono sera reclamado por Aragorn. Sauron se dispone a lanzar un ataque decisivo contra Gondor. Mientras tanto, Frodo y Sam continuan su camino hacia Mordor, con la esperanza de llegar al Monte del Destino",
 			"genero": "Fantastico, Aventuras, Accion",
 			"stations": [
@@ -37044,7 +37057,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2001, Letra U, EEUU, 1Biografico, Colegios, Universidad, Enfermedad, Discapacidad, Matematicas, 1Oscars, ",
 			"name": "Una mente maravillosa (2001)","coloryear": "seagreen",
-			"image": "https://www.themoviedb.org/t/p/original/6zyZ6cauEgSbfii9I7gOvGNyPGv.jpg",
+			"image": "https://www.themoviedb.org/t/p/original/bA7EKJbfVSsc0ereeZPlfcUYSIY.jpg",
 			"info": "Obsesionado con la busqueda de una idea matematica original, el brillante estudiante John Forbes Nash (Russell Crowe) llega a Princeton en 1947 para realizar sus estudios de postgrado. Es un muchacho extraño y solitario, al que solo comprende su compañero de cuarto (Paul Bettany). Por fin, Nash esboza una revolucionaria teoria y consigue una plaza de profesor en el MIT. Alicia Larde (Jennifer Connelly), una de sus alumnas, lo deja fascinado al mostrarle que las leyes del amor estan por encima de las de las matematicas. Gracias a su prodigiosa habilidad para descifrar codigos es reclutado por Parcher William (Ed Harris), del departamento de Defensa, para ayudar a los Estados Unidos en la Guerra Fria contra la Union Sovietica",
 			"genero": "Drama",
 			"stations": [
@@ -37238,7 +37251,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Accion, 1Aventuras, 1Drama, A2000, Letra G, EEUU, 1Oscars, A2000-1991, ",
 			"name": "Gladiator (2000)","coloryear": "gold",
-			"image": "https://www.themoviedb.org/t/p/original/4Ij6EoZuq4mKnByXj6i5YRqq4If.jpg",
+			"image": "https://www.themoviedb.org/t/p/original/hY0z0HghtolIKAy6wpRDEDkvWzL.jpg",
 			"info": "En el año 180, el Imperio Romano domina todo el mundo conocido. Tras una gran victoria sobre los barbaros del norte, el anciano emperador Marco Aurelio (Richard Harris) decide transferir el poder a Maximo (Russell Crowe), bravo general de sus ejercitos y hombre de inquebrantable lealtad al imperio. Pero su hijo Comodo (Joaquin Phoenix), que aspiraba al trono, no lo acepta y trata de asesinar a Maximo",
 			"genero": "Accion, Aventuras, Drama",
 			"stations": [
