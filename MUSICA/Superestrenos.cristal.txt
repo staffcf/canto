@@ -28,6 +28,17 @@
 
 
 <item>
+<title>[COLOR white] Forever Rich [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.5[/COLOR]</title>    
+<genre>Thriller,Drama,Hip Hop,Internet / Informática</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/ILst0mG.jpg</thumbnail>
+<fanart>https://i.imgur.com/wTHf62L.jpg</fanart>
+<info>Cuando un humillante vídeo se hace viral, una prometedora cantante pop debe luchar durante una larga noche para no perder todo lo que tanto le ha costado lograr.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=TaymtNKTvDE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/zkp50sj61-yr-x0"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/dqwjk033uzzqxq"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/b3y4s61mgtzy"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "Falta poner"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-66c6ycwdk75v.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1USXHPktuVSP9Wz0Hb0dzKSGqM5Sja7ym/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Culpable [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.2[/COLOR]</title>    
 <genre>Thriller,Drama,Policíaco</genre>
 <year>2021</year>
