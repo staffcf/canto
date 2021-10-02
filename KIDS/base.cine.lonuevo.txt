@@ -1,6 +1,24 @@
 
 
 
+<title>[COLOR deeppink]****** [COLOR chartreuse] Septiembre [COLOR deeppink]******[/COLOR]</title>    
+<genre></genre>
+<year></year>  
+<thumbnail>https://i.imgur.com/pq8KyGi.png</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<info></info>
+<urlsolve></urlsolve>
+
+<item>
+<title>[COLOR white] Free Guy [/COLOR][COLOR yellow](2021) [COLOR aqua][/COLOR]</title>    
+<genre>Fantástico,Comedia,Acción,Aventuras,Ciencia ficción</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/Ry2zLK2.jpg</thumbnail>
+<fanart>https://i.imgur.com/jvAzgos.jpg</fanart>
+<info>Guy (Ryan Reynolds) trabaja como cajero de un banco, y es un tipo alegre y solitario al que nada la amarga el día. Incluso si le utilizan como rehén durante un atraco a su banco, él sigue sonriendo como si nada. Pero un día se da cuenta de que Free City no es exactamente la ciudad que él creía. Guy va a descubrir que en realidad es un personaje no jugable dentro de un brutal videojuego.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=tZbNDmRGx_M"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/y1r5dtempqg1nw5"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/84drn4l4b6dkql"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/l4nkzptsfuvh"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/j45qvzhy324r.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ok9vuz7mn308"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1f-v-ZM9wPMiKI3K1I4jQ2C_g74b7XtiT/view"},{"titulo" : "[COLOR white]Drive 4K HDR[/COLOR]","url" : "https://drive.google.com/file/d/16PkuGYU30nWvT6sYhBCQAFU_R5OVPKal/view"}</urlsolve>
+</item>
+
 <title>[COLOR deeppink]****** [COLOR chartreuse] JULIO [COLOR deeppink]******[/COLOR]</title>    
 <genre></genre>
 <year></year>  
