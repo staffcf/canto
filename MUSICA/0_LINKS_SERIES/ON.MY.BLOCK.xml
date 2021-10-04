@@ -12,6 +12,7 @@
 	- 1SerieTitle:"ON MY BLOCK", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/dLLwjLaqJhrpl3wCqLRQMlWcjkv.jpg",
 	- 1SerieTitle:"ON MY BLOCK", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/nGTo55JO7GWa9Zie2axjS7cZ44s.jpg",
 	- 1SerieTitle:"ON MY BLOCK", SerieTemp:"TEMPORADA 3", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/uNNbLgwpJZZJRA0gLKvtWIfRJgA.jpg",
+	- 1SerieTitle:"ON MY BLOCK", SerieTemp:"TEMPORADA 4", SerieID:"SERIETEMP4", SerieIDT:"TORRENTTEMP4", SerieThumbail:"https://www.themoviedb.org/t/p/original/thA6zYPu6rvPfej7bmzdXghFwfI.jpg",
 
 	
 -->
@@ -111,6 +112,51 @@
 			<item>
 			<title> - Capitulos 1 a 8</title>      
 			<torrent>https://blazing.network/torrents/series/On_My_Block_3_01_al_3_08_HDTV.torrent</torrent>	magnet:?xt=urn:btih:BD21ED616C63D1169F2BC97F2DDD8F69227CFE5F
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title> - Capitulos 1 a 5</title>
+			<torrent>magnet:?xt=urn:btih:3EE2FA213C84AC7D81079F3EB132930797EF73D6&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title> - Capitulos 6 a 10</title>
+			<torrent>magnet:?xt=urn:btih:776CE200AE1CE4DE2BACBB5574560C222024E455&dn=HD720</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title> - Capitulos 1 a 5</title>
+			<torrent>magnet:?xt=urn:btih:8B22AE725B367632A2AC7F6855F56D2B1EC307E0&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title> - Capitulos 6 a 10</title>
+			<torrent>magnet:?xt=urn:btih:97E356468D985985F97BA3FE58B114DF6D2DEA0C&dn=HDTV</torrent>
 			</item>
 ======================================================================
 ======================================================================
