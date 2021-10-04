@@ -825,6 +825,15 @@ El.padre.de.cain</externallink>
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Ghost Theater[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Ghost.Theater</externallink>
+<info>A través de diez episodios, la cortina se abrirá para mostrar diez historias aterradoras que te pondrán la piel de gallina. Con una duración de 30 minutos, cada una de estas narraciones servirá en cierto modo de introducción para la película Ghost Theater, pero a su vez funcionará como serie independiente.</info>
+<thumbnail>https://i.imgur.com/nJMMVLh.jpg</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Ghoul[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Ghoul.txt</externallink>
@@ -1781,6 +1790,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Star.Wars.La.remesa.mala.txt</externallink>
 <info>Los clones de La Remesa Mala se encuentran en una galaxia cambiante tras las Guerras Clon. Episodio piloto de la serie de Dave Filoni "Star Wars: La Remesa Mala", de doble duración y estrenado el 4 de mayo de 2021 en Disney+. </info>
 <thumbnail>https://i.imgur.com/YvAqxWX.jpg</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Stranger Events[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Stranger.Events</externallink>
+<info>Compuesta de seis episodios independientes, Strange Events cuenta tres terroríficas historias en cada uno de ellos, historias de fenómenos paranormales absolutamente inexplicables como los que solo pueden ocurrir en noches como ésta. Dos hombres en busca de una mujer que terminan en una casa con presencias sobrenaturales. Estudiantes que desaparecen en la autopista, disfraz de la muerte. Hermandades universitarias siniestras que terminan bañadas en sangre y una mujer que, encerrada en un ascensor, se encontrará cara a cara con un asesino.</info>
+<thumbnail>https://i.imgur.com/5s9BNNE.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 </item>
 
