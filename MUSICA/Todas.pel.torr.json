@@ -1331,7 +1331,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Drama",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/En.un.lugar.salvaje-Land-.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:7A0BC6324D9CBFFD3BA21A8C33E5B8D03691823F&dn=Lug4rTr4nqu1lo.m1080p.exclusivetorrent.net.mkv
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/En.un.lugar.salvaje-Land-.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:7A0BC6324D9CBFFD3BA21A8C33E5B8D03691823F&dn=Lug4rTr4nqu1lo.m1080p.exclusivetorrent.net.mkv	magnet:?xt=urn:btih:0F3D525DFDE5AA12DB69B8CDA0FF9CCB2C83401C&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -7443,6 +7443,18 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:711DF3B54E2FCDFE4B787DB84B2AB6D4012EC04C&dn=HD1080",  magnet:?xt=urn:btih:7E894BA620FF03C4AB4DC05F62F584558358B86C&dn=BRRip
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Comedia, 1Romance, A2020, Letra L, Spain, ",
+			"name": "Los Secundarios (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/tugnFnOu2recmPiSHug2T6tciHY.jpg",
+			"info": "Alfredo, actor italiano, vive en Madrid con la ilusión de protagonizar una serie española, y así cumplir el sueño de su madre. Pero las cosas no le salen como él espera y se ve obligado a sobrevivir entre sus sueños y la realidad",
+			"genero": "Drama, Comedia, Romance",
+			"stations": [
+				{
+				"torrent4k": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Los.Secundarios.-2020.-.1080.-.CristalAzul.mkv.torrent"	
 				}		
 			]
 			},
@@ -15400,7 +15412,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Thriller, Drama",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/La.jauria.-2019.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/La.jauria.-2019.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:A2FF10E476040FD3DB2486890491C26ABDE74350&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -29914,6 +29926,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Bob.Esponja-Un.heroe.fuera.del.agua.-2015.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Thriller, 1Accion, A2015, Letra C, EEUU, ",
+			"name": "Chappie (2015)","coloryear": "lime",
+			"image": "https://www.themoviedb.org/t/p/original/g2kVBpRljENCi8KskBi0tedK3UE.jpg",
+			"info": "En un futuro próximo, una opresiva fuerza policial mecanizada es la encargada de patrullar el crimen. Pero el pueblo se está revelando ante ello. Cuando Chappie, un policía androide, es robado y reprogramado, se convierte en el primer robot con la capacidad de pensar y sentir por sí mismo. Esto hace que fuerzas poderosas y destructivas empiecen a percibir a Chappie como una amenaza para la humanidad y el orden, y no se detendrán ante nada para mantener el status quo y asegurarse de que Chappie sea el último de su tipo",
+			"genero": "Ciencia ficcion, Thriller, Accion",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:vkwdcuxgas3dbu4lwdpqwklw4glq2wgl&dn=HD1080",
 				"torrent4k": ""	
 				}		
 			]
