@@ -1,0 +1,28 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ UN CAPITAN
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"UN CAPITAN", SerieTemp:"MINI SERIE", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/jFOPYsiW8CGw4o7O0c1j9p0JTns.jpg",
+	
+-->
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 a 3</title>
+			<torrent>magnet:?xt=urn:btih:F85EA6E2BA0E50D1C63D7F57350DB5BF3DE7E249&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 4 a 6</title>
+			<torrent>magnet:?xt=urn:btih:68CCFFD053067CD045348AEB4AE0EA2EE69FD530&dn=HD720</torrent>
+			</item>
+======================================================================
+======================================================================
