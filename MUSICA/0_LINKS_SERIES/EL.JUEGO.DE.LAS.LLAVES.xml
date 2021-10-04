@@ -10,9 +10,30 @@
 	ETIQUETAS:
 	
 	- 1SerieTitle:"EL JUEGO DE LAS LLAVES", SerieTemp:"MINI SERIE", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/nhdWFJw9MonxaYlQ5hHX0X6FSXm.jpg",
+	- 1SerieTitle:"EL JUEGO DE LAS LLAVES", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/2cMy9qphoOLJjYJJJQBBul0d94q.jpg",
 
 	
 -->
+
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 1080</title><titleGdrive></titleGdrive>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 a 10</title>
+			<torrent>magnet:?xt=urn:btih:6a9dcf3eae900199264e43a0f50237c12dc23f45&dn=El.Juego.De.Las.Llaves.S01.COMPLETE.1080p.AMZN.WEB-DL.x264-dem3nt3</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title><titleGdrive></titleGdrive>      
+			<torrent></torrent>
+			</item>
+======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
 			<title> - [COLOR yellow]CALIDAD 720</title>      
@@ -139,4 +160,10 @@
 ======================================================================
 ======================================================================
 ======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - Capitulos 1 a 8</title>
+			<torrent>magnet:?xt=urn:btih:7987c87d4e3f483937069b2acf275e18a328aef8&dn=El.Juego.De.Las.Llaves.S02.COMPLETE.1080p.AMZN.WEB-DL.x264-dem3nt3</torrent>
+			</item>
 ======================================================================
