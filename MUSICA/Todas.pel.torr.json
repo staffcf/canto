@@ -5470,6 +5470,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2020, Letra E, Argentina, Cine Latino, ",
+			"name": "El profugo (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/hNNgQ8hjUQoQzxJ4czaWPTLQJZn.jpg",
+			"info": "Inés (Érica Rivas), es una mujer que, tras un episodio traumático durante un viaje con su pareja (Daniel Hendler), comienza a confundir la frontera entre lo real y lo imaginario. Vívidas pesadillas y sonidos recurrentes invaden la vida cotidiana que lleva junto a su madre (Cecilia Roth), hasta que ensayando para un concierto conoce a Alberto (Nahuel Pérez Biscayart), un joven que se acomoda a su mundo sin cuestionamientos. Pero Inés no puede evitar una sensación peligrosa: hay seres que provienen de sus sueños. Seres que quieren quedarse para siempre",
+			"genero": "Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/El.profugo.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Comedia, 1Drama, A2020, Letra E, EEUU, ",
 			"name": "El Rey del Barrio (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/a6p9zrXBQpLsDi2QykRhHdQk4EB.jpg",
@@ -9643,7 +9656,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Terror",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Todo.por.Jackson-Anything.for.Jackson-.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Todo.por.Jackson-Anything.for.Jackson-.-2020.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:827550B6DC69BB9EFC375D911AAE9FA2C15A2731&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
