@@ -1006,6 +1006,15 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]La Fortuna[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.Fortuna</externallink>
+<info> Álex Ventura, un joven e inexperto diplomático, se ve convertido sin proponérselo en el líder de una misión que pondrá a prueba todas sus convicciones: recuperar el tesoro submarino robado por Frank Wild, un aventurero que recorre el mundo saqueando el patrimonio común de las profundidades del mar. Conformando un singular equipo con Lucía, una funcionaria de armas tomar, y Jonas Pierce, un brillante abogado norteamericano apasionado por las viejas historias de piratas, Álex emprenderá la aventura de su vida, descubriendo la importancia del amor, la amistad y el compromiso con aquello en lo que uno cree.</info>
+<thumbnail>https://i.imgur.com/uaHwmDP.jpg</thumbnail>
+<fanart>https://i.imgur.com/ePNrg9C.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]La casa de papel[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.casa.de.papel</externallink>
