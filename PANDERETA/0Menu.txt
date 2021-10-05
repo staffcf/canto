@@ -103,6 +103,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Atracadores[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Atracadores</externallink>
+<info>Miniserie (2021) de 6 episodios. Para proteger a su familia de un poderoso narcotraficante, el hábil ladrón Mehdi y su banda de atracadores se ven inmersos en una salvaje guerra territorial.</info>
+<thumbnail>https://i.imgur.com/r6cDBfs.jpg</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Atrapados[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Atrapados.xml</externallink>
@@ -473,6 +482,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Drácula[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Dracula</externallink>
+<info>Miniserie de TV (2020). 3 episodios. Inspirada en el personaje de Bram Stoker, el conde Drácula, que viaja de Transilvania a Londres para saciar su sed de sangre.</info>
+<thumbnail>https://i.imgur.com/g58ZRZJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Dragones: Hacia nuevos confines[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Dragones.hacia.nuevos.confines.txt</externallink>
@@ -505,6 +523,15 @@
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.cid</externallink>
 <info>Serie de TV (2020-Actualidad). 'El Cid' cuenta la historia del hombre detrás de la leyenda, Rodrigo Díaz de Vivar, también conocido como “Ruy”, desde que era niño hasta que se convirtió en un héroe de guerra, mientras intenta encontrar su lugar dentro de una sociedad donde las intrigas de la Corona de León intenta controlarlo. El Cid es un héroe por todos conocido pero también uno de los personajes más misteriosos y complejos de la historia de España. La trama tiene lugar en el siglo XI, una de las épocas más fascinantes de la historia de España, donde cristianos, árabes y judíos convivieron en la Península Ibérica, enfrentándose en guerras y/o forjando alianzas. Una historia de aventuras, amor, intriga, traición y lucha entre quienes ostentan el poder y quienes poseen la auténtica autoridad. </info>
 <thumbnail>https://i.imgur.com/6iqtvCp.jpg</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]El Colapso[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.colapso</externallink>
+<info>Miniserie de TV (2019). 8 episodios. 20 minutos cada uno, filmados todos ellos en plano secuencia. Un suceso -del que desconocemos las causas y el origen- ha provocado el colapso de la sociedad -la francesa y se sobrentiende que la mundial-, y es la espoleta que provoca una serie de historias independientes en diferentes localizaciones, que comparten la desesperación y la huida de las personas que intentan sobrevivir.</info>
+<thumbnail>https://i.imgur.com/xpJxxVk.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 </item>
 
@@ -1482,6 +1509,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Paraiso.xml</externallink>
 <info>Serie de TV (2021). 8 episodios. Levante, 1992, final del verano en un pueblo de la costa. Sandra, Eva y Malena, de 15 años, desaparecen en una discoteca sin dejar rastro. La policía no parece estar buscando en la dirección correcta, y por eso Javi, el hermano pequeño de Sandra, comienza una investigación junto a Quino y Álvaro, sus mejores amigos, y Zeta, el matón de la clase. Juntos descubren que quienes tienen a su hermana no son de este mundo.</info>
 <thumbnail>https://i.imgur.com/PTyfWpK.jpg</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Para toda la humanidad[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Para.toda.la.humanidad</externallink>
+<info>Serie de TV (2019-Actualidad). 10 episodios. La serie explora lo que habría ocurrido si la carrera espacial mundial nunca hubiera terminado y la Unión Soviética hubiera conseguido superar a Estados Unidos como el primer país en poner a un hombre en la Luna.</info>
+<thumbnail>https://i.imgur.com/SYDskX8.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 </item>
 
