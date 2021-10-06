@@ -4,6 +4,17 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 <item>
+<title>[COLOR white] The Night House [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.5[/COLOR]</title>    
+<genre>Terror,Sobrenatural</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/G5rtXyl.jpg</thumbnail>
+<fanart>https://i.imgur.com/GftPgcE.jpg</fanart>
+<info>Mientras intenta superar la inesperada muerte de su marido, Beth (Rebecca Hall) se queda a solas en una casa cerca de un lago especialmente diseñada para ella. Aunque hace todo lo posible por no perder la cordura, los sueños no tardan en aparecer. Las perturbadoras visiones de una presencia que llama por ella en la casa comienzan a ser cada vez más frecuentes. Aunque a la luz del día todo parece normal, Beth empieza lentamente a desesperarse, por lo que decide ignorar el consejo de sus amigos e investiga en sus pertenencias tratando de encontrar alguna respuesta. Allí se topa no sólo con secretos tan extraños como terribles, sino también con un misterio que está dispuesta a resolver.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=ugGtuWLqlEU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/42njphzy7y5x1wm"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/dqw14od9a7xvmwl"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/tn0xzdpmqmxi"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/tfa2x67fzit3.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/lyyois1f3l3j"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1MJQRIAPOZplaKUSIKGjnK7XlfWg8FGC6/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Maligno [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.7[/COLOR]</title>    
 <genre>Terror, Thriller, Intriga</genre>
 <year>2021</year>
