@@ -455,6 +455,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra A, Costa Rica, Cine Latino, ",
+			"name": "A un paso de mi (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/vA9dTyqD4ejlJzVx0FY3tzMD5EO.jpg",
+			"info": "Tatiana (Johanna Solano) es una periodista con una vida rutinaria en todos los aspectos y una reciente relación amorosa fallida. Motivada por su mejor amiga, emprende un viaje por Costa Rica para intentar encontrar la paz interior sobre la que lleva tiempo escribiendo sin experimentarla de verdad",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/A.un.paso.de.mi.-2021.-.1080.-.CristalAzul.mkv.torrent",	
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Aventuras, 1Comedia, A2021, Letra A, Rusia, Netflix, ",
 			"name": "Agencia secreta de control magico (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/4ZSzEDVdxWVMVO4oZDvoodQOEfr.jpg",
@@ -5594,7 +5607,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Romance, Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:BE9F29C5E505D07CC2C9D44AA2FF68E98939E371&dn=BRRip",
+				"torrent": "magnet:?xt=urn:btih:70D79BCA2D39F3B27C23A0B57B97057DBBEF803F&dn=BR1080", 	magnet:?xt=urn:btih:4E00768A73DD6222F794FDEFC1C7F0288A14CFAF&dn=Web1080	magnet:?xt=urn:btih:BE9F29C5E505D07CC2C9D44AA2FF68E98939E371&dn=BRRip
 				"torrent4k": ""
 				}		
 			]
