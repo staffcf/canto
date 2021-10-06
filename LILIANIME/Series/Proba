@@ -10,7 +10,7 @@
 <fanart>https://wallpapercave.com/wp/8C95UpE.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[#$pyFunction
-url = 'https://youtube.com/playlist?list=PLinzOgxhwc-dKQtGguwe3TVTduzKjs6YT'
+url = 'https://www.youtube.com/watch?v=Y3p8VL6SRXE&list=PL9LOfD6Jd5GcxqlhJhRZ0FaHS7Z_4ubjN'
 import re,requests,xbmc
 def GetLSProData(page_data,Cookie_Jar,m,url=url):#cPrLItsLTfakl
  
