@@ -4,6 +4,17 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 <item>
+<title>[COLOR white] Hunted [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.1[/COLOR]</title>    
+<genre>Acción,Thriller,Terror,Suspense</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/U08p8wC.jpg</thumbnail>
+<fanart>https://i.imgur.com/pllkkLw.jpg</fanart>
+<info>Cuando Eve conoce a un chico en un bar, poco se espera lo que va a suceder esa noche. En realidad, se ha cruzado con un psicópata (y su muñeco), con el que se enzarza en una persecución nocturna y violenta. En medio del bosque, esta singular caperucita roja hará lo que sea para librarse de su particular lobo feroz.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=fjSqxuiX8ic"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/r4nxrue-g34exng"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/enj1pjlqsp4nn3"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/fo4e5ly2ahyc"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/z3ojc636ow85.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/pev7i1pr1myp"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1qrU88YlPWBwk0F_UqisOuB3m2KGCJz6f/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] The Night House [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.5[/COLOR]</title>    
 <genre>Terror,Sobrenatural</genre>
 <year>2021</year>
