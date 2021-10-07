@@ -1,0 +1,156 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ INNOCENT
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"INNOCENT", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/wQ7B2urwgCcCmOn3JpxTRIf24Zn.jpg",
+	- 1SerieTitle:"INNOCENT", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/z116jf0W4gzJZsLNyZVsboULCB8.jpg",
+	
+-->
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x01 - Capitulo 1</title>
+			<torrent>magnet:?xt=urn:btih:F81DAB7A1B09E057B587A40ECC51555E110A6F64&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x02 - Capitulo 2</title>
+			<torrent>magnet:?xt=urn:btih:C2AA57269AE8DFE5CE344891C642FBA491DF04DE&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x03 - Capitulo 3</title>
+			<torrent>magnet:?xt=urn:btih:089E1C563BD0BE3D2A6351E0EBF22A2E687E85E2&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x04 - Capitulo 4</title>
+			<torrent>magnet:?xt=urn:btih:B0725EA579368D67E692D9AE39ACC3D67F3945A4&dn=HD720</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x01 - Capitulo 1</title>
+			<torrent>magnet:?xt=urn:btih:C119559C2EA09AE2FB0BD156ABA013F77BC99351&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x02 - Capitulo 2</title>
+			<torrent>magnet:?xt=urn:btih:A47F0ADC5F7A6BF16BC8583B51A07377512F9FBD&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x03 - Capitulo 3</title>
+			<torrent>magnet:?xt=urn:btih:2AB068CEB3F12FAEC57DB2A347376BE5844CC8F1&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x04 - Capitulo 4</title>
+			<torrent>magnet:?xt=urn:btih:37F6342658B1CCC877075D8471ABC52FB7FE4D56&dn=HDTV</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x01 - Capitulo 1</title>
+			<torrent>magnet:?xt=urn:btih:10B50289BB8BD3BCA9CDFC4D9628B99B0A058E73&dn=HD720</torrent>	magnet:?xt=urn:btih:81678999409AED19EF6FC0A72C03F399CB8DEE97&dn=HD1080
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x02 - Capitulo 2</title>
+			<torrent>magnet:?xt=urn:btih:08C43AB4034A504F4FB8ACBD26E9B11BF845F06D&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x03 - Capitulo 3 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x04 - Capitulo 4 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x01 - Capitulo 1</title>
+			<torrent>magnet:?xt=urn:btih:93A8A8FA5BBF7FD62CA9D02FDA370528CC909C20&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x02 - Capitulo 2</title>
+			<torrent>magnet:?xt=urn:btih:18DF4C404F3D42AD5B01A9CEE5ACB706CF485008&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x03 - Capitulo 3 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x04 - Capitulo 4 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
