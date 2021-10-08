@@ -4,6 +4,17 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 <item>
+<title>[COLOR white] El otro guardaspaldas 2 [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.1[/COLOR]</title>    
+<genre>Acción,Comedia</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/JqmfsUL.jpg</thumbnail>
+<fanart>https://i.imgur.com/UF1swCN.jpg</fanart>
+<info>Secuela de 'El otro guardaespaldas' (2017). El guardaespaldas Michael Bryce (Ryan Reynolds) y el asesino a sueldo Darius Kincaid (Samuel L. Jackson) vuelven a la carga en una nueva misión para garantizar la paz y estabilidad en Europa. Bryce, aún bajo investigación y sin licencia, se encuentra disfrutando de su año sabático, cuando Sonia Kincaid (Salma Hayek), la impulsiva y peligrosa esposa de Darius, reaparece para que la ayude a liberar a su marido y luchar contra un complot mundial en el que están implicados un malvado griego (Antonio Banderas) y un célebre exagente (Morgan Freeman).<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=3LsBkTKvWkA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "FALTA PONER"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/6qgdw6mrh1prlx"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/hdup10w83oty"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "FALTA PONER"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "FALTA PONER"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1dGFPk125qzlQv98nvM1qQxcRgLEbKhzg/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Hunted [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.1[/COLOR]</title>    
 <genre>Acción,Thriller,Terror,Suspense</genre>
 <year>2021</year>
