@@ -4,6 +4,17 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 <item>
+<title>[COLOR white] Un hombre lobo entre nosotros [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.1[/COLOR]</title>    
+<genre>Comedia,Terror</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/JIyas35.jpg</thumbnail>
+<fanart>https://i.imgur.com/ehdmxDb.jpg</fanart>
+<info>Cuando un oleoducto propuesto crea hostilidades entre los residentes de una pequeña ciudad, un guardabosques recién llegado debe mantener la paz después de que una tormenta de nieve confina a la gente del pueblo en un antiguo albergue. Pero cuando una criatura misteriosa comienza a aterrorizar al grupo, sus peores tendencias y prejuicios salen a la superficie, y el guardabosques debe mantener con vida a los residentes, tanto entre ellos como con el monstruo que los atormenta.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=oANXC370zcQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/l86x2cnwj8jmpyz"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/mdrqnoj6smk6nm"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/ymwt1codmrkr"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "Falta poner"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/81jin17stbhk"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1i_zqF1yFiEEqVFVzZWewA6lPtcLpebsH/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El otro guardaspaldas 2 [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.1[/COLOR]</title>    
 <genre>Acción,Comedia</genre>
 <year>2021</year>
