@@ -2995,7 +2995,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Terror, Comedia",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Un.hombre.lobo.entre.nosotros.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Un.hombre.lobo.entre.nosotros.-2021.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:7FC54B905FE685BD1C275A4AA6685D66AAD51AB5&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -4787,7 +4787,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Comedia",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Cunhados.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Cunhados.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:F640E4B29323C9EF263BF2E10F91AF3B503B1E20&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -10942,7 +10942,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2019, Letra A, EEUU, 1Hechos reales, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Drama, A2019, Letra A, EEUU, 1Hechos reales, ",
 			"name": "Aguas Oscuras (2019)","coloryear": "limegreen",
 			"image": "https://www.themoviedb.org/t/p/original/yMe6JWb3C5ntdxlXtkbOVg6URUo.jpg",
 			"info": "Inspirada en una impactante historia real. Un tenaz abogado (Mark Ruffalo) descubre el oscuro secreto que conecta un numero creciente de muertes y enfermedades con una de las corporaciones mas grandes del mundo. En el proceso arriesga su futuro, su trabajo y hasta su propia familia para sacar a la luz la verdad",
@@ -10950,7 +10950,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:5E9BB9877AEB3F789F0245A19F44E0DCB64A1841", 
-				"torrent4k": ""
+				"torrent4k": "magnet:?xt=urn:btih:BCF9F2B32CA835E16C5EB5B005FE42260E338205&dn=Web4K"
 				}		
 			]
 			},
@@ -18904,6 +18904,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:2f4c5ac4ff10d6decb1d7cc87238103e37586953", 
 				"torrent4k": ""
+				}		
+			]
+			},	
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2019, Letra T, EEUU, ",
+			"name": "The Dead Ones (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/q1ZJXASxzPMqo45AK4HTOFWzDZD.jpg",
+			"info": "Cuatro estudiantes son encerrados en una escuela y perseguidos por una pandilla vestida como los Cuatro Jinetes del Apocalipsis. Mientras luchan por sobrevivir, cada estudiante debe enfrentarse a traumas pasados",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/The.Dead.Ones.-2019.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -30925,6 +30938,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Belico, 1Accion, A2014, Letra C, EEUU, ",
+			"name": "Corazones de acero (2014)","coloryear": "turquoise",
+			"image": "https://www.themoviedb.org/t/p/original/3wD9EqXtQn2w4sdv6mAX2D49lRP.jpg",
+			"info": "Abril de 1945, la guerra está a punto de acabar. Al mando del veterano sargento Wardaddy (Brad Pitt), una brigada de cinco soldados americanos a bordo de un tanque -el Fury- ha de luchar contra un ejército nazi al borde de la desesperación, pues los alemanes saben que su derrota estaba ya cantada por aquel entonces",
+			"genero": "Belico, Accion",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:dbakqusrxnpfrxqr6derbd5skc3ernfx&dn=HD1080",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2014, Letra D, EEUU, ",
 			"name": "Decision final (2014)","coloryear": "turquoise",
 			"image": "https://www.themoviedb.org/t/p/original/1zBvAdvJfLSF5Y735sGvgfnizgK.jpg",
@@ -31654,6 +31680,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:5mjf2pmzz7z2obydeyytbe7yo27uhuej&dn=HD1080",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, A2013, Letra E, EEUU, 1Biografico, ",
+			"name": "El lobo de Wall Street (2013)","coloryear": "lawngreen",
+			"image": "https://www.themoviedb.org/t/p/original/utfEHZ9jG1emGdvJ4GgfMcHoznp.jpg",
+			"info": "Película basada en hechos reales del corredor de bolsa neoyorquino Jordan Belfort (Leonardo DiCaprio). A mediados de los años 80, Belfort era un joven honrado que perseguía el sueño americano, pero pronto en la agencia de valores aprendió que lo más importante no era hacer ganar a sus clientes, sino ser ambicioso y ganar una buena comisión. Su enorme éxito y fortuna le valió el mote de “El lobo de Wall Street”. Dinero. Poder. Mujeres. Drogas. Las tentaciones abundaban y el temor a la ley era irrelevante. Jordan y su manada de lobos consideraban que la discreción era una cualidad anticuada; nunca se conformaban con lo que tenían",
+			"genero": "Comedia, Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:kiypawj36douhxubiirgdzj2sddxfaki&dn=HD1080",
 				"torrent4k": ""	
 				}		
 			]
@@ -34519,6 +34558,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"torrent": "magnet:?xt=urn:btih:4ED62D3DE51084A5E778BB1E5180FA4754F6ABE3",
 				"torrent4k": ""
 				}
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Thriller, A2008, Letra W, EEUU, ",
+			"name": "Wanted (Se busca) (2008)","coloryear": "greenyellow",
+			"image": "https://www.themoviedb.org/t/p/original/cvQPVhhlFg2D3e8n1qB4buOJZNT.jpg",
+			"info": "Un joven (James McAvoy) que daba por muerto a su padre, descubre que era un asesino a sueldo y que acaba de ser asesinado. A continuación, es reclutado por la sexy Fox (Angelina Jolie) para la misma organización en la que trabajaba su padre. Sloam (Morgan Freeman) se encarga de entrenarlo para que siga los pasos de su progenitor.",
+			"genero": "Accion, Thriller",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:4fit5iwiinu4tbof7sftlqawrdjygaq5&dn=HD1080",
+				"torrent4k": ""	
+				}		
 			]
 			}
 		]
