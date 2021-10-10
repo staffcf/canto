@@ -4,6 +4,17 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 <item>
+<title>[COLOR white] Escape Room 2: Mueres por salir [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.1[/COLOR]</title>    
+<genre>Acción,Thriller,Terror,Intriga </genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/JNTsT25.jpg</thumbnail>
+<fanart>https://i.imgur.com/M77xE83.jpg</fanart>
+<info>Seis personas se encuentran encerradas de manera inesperada en una nueva serie de escape rooms, revelando paulatinamente aquello que tienen en común para sobrevivir… y descubriendo que todos ya habían jugado el juego con anterioridad. Secuela de "Escape Room" (2019).<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=PbC2P8thJDg"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/r4nxrue--emy4n6"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/o7rnm4x1fwjee4"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/znnk49vl19d2"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/fymwk06jgc03.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/60s907hcxl44"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1RnsjbNLWnMITZLDx4rtdAdn9mA487AHj/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Los Muppets en Haunted Mansion [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.0[/COLOR]</title>    
 <genre>Comedia,Infantil,Comedia de terror,Marionetas,Cine familiar</genre>
 <year>2021</year>
