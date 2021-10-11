@@ -1,5 +1,21 @@
+<title>[COLOR deeppink]****** [COLOR chartreuse] Octubre [COLOR deeppink]******[/COLOR]</title>    
+<genre></genre>
+<year></year>  
+<thumbnail>https://i.imgur.com/pq8KyGi.png</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<info></info>
+<urlsolve></urlsolve>
 
 
+<item>
+<title>[COLOR white] Los Muppets en Haunted Mansion [/COLOR][COLOR yellow](2021) [COLOR aqua][/COLOR]</title>    
+<genre>Comedia,Infantil,Comedia de terror,Marionetas,Cine familiar</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/WY98hAM.jpg</thumbnail>
+<fanart>https://i.imgur.com/nGD6SXA.jpg</fanart>
+<info>El Gran Gonzo, famoso por sus proezas, acepta el mayor desafío de su vida: pasar la noche de Halloween en el lugar más aterrador de la Tierra: Haunted Mansion, junto a su amigo Pepe, el Rey Gamba. Esta comedia musical reúne a Gustavo y al resto de los Muppets, que interpretan a los memorables fantasmas de Haunted Mansion en una aventura terroríficamente divertida y plagada de estrellas.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=Ln63_5k3VZo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/r4nxrue--wldlnd"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/l6rwlve0sgg8k0"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/osm01a37egt0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/p1hfxdjhj7s9.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/qr0rsz5ujxf2"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1z_SgSOTfo6mOIpnQX_Jtx6wotadPVRuC/view"}</urlsolve>
+</item>
 
 <title>[COLOR deeppink]****** [COLOR chartreuse] Septiembre [COLOR deeppink]******[/COLOR]</title>    
 <genre></genre>
