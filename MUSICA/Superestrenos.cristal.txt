@@ -4,6 +4,36 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 <item>
+<title>[COLOR white] Cuñados [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.2[/COLOR]</title>    
+<genre>Comedia</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/10Dsd0VxDefoF3bhiOGymzqWADg.jpg</thumbnail>
+<fanart>https://i.imgur.com/31oolcJ.jpg</fanart>
+<info>Eduardo (Miguel de Lira) y su cuñado Sabonis (Xosé A. Touriñán) acaban de meter la pata en uno de sus negocios y necesitan dinero. Mucho dinero. Será Sabonis quien encuentre la solución al problema secuestrando a Modesto (Federico Pérez Rey), cuñado de Alicia Zamora, la empresaria que los engañó y dejó tirados. Solo hay un pequeño problema: Alicia no piensa pagar ni un euro por su cuñado. Sin embargo, es el propio Modesto quien urde un nuevo plan con el que Eduardo y Sabonis podrán salvar la bodega familiar. Estos tres cuñados lo tienen todo para fracasar pero, como diría Sabonis, malo será.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=IQr0Lp2Md8k"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.to/f/o7rnkrxjij7pdp"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/ynqpz91fo1br"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/c1kim6cp7y9s "},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/95svfsjbo2sk"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1lOpdN3HTcocbKhc-XJhn_b6OF2eUqjhC/view"}</urlsolve>
+</item>
+
+<item>
+<title>[COLOR white] El inglés que cogió la maleta y se fue al fin del mundo [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.8[/COLOR]</title>    
+<genre>Drama</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/rO40ywiBWJlPQO5ki803qa7iXji.jpg</thumbnail>
+<fanart>https://i.imgur.com/AzSO2G3.jpg</fanart>
+<info>Tom Harper (Timothy Spall), un jubilado de 90 años cuya esposa acaba de fallecer, se embarca en una emocionante travesía. Dejará atrás el aislado pueblo en el que vive desde hace cincuenta años, situado en el punto más al norte de Gran Bretaña, para viajar hasta su ciudad natal, en el extremo más al sur del país, utilizando para ello su pase gratuito de autobús. El intrépido protagonista le plantará cara al tiempo, a la edad y al destino con tal de cumplir la promesa que le hizo a su esposa Mary (Phyllis Logan). Regresando a su pasado, Tom descubrirá el mundo moderno y una diversidad multicultural británica que hasta entonces desconocía. En el camino, sus aventuras serán registradas por las personas que conoce y ayuda, y al final de su viaje, sin saberlo, se habrá convertido en una 'celebrity' de las redes sociales.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=FH8kBW1Ho2c"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.to/f/enjemjxgfowqvk"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/xaidl9odv6bp"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/hk5j8jkvboue.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/lp6peqxf8ina"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1hihA5w6GX1IUC1Zq9R5oDFhGulghCnW3/view"}</urlsolve>
+</item>
+
+<item>
+<title>[COLOR white] The Manor (La Mansión) [/COLOR][COLOR yellow](2021) [COLOR aqua]*4.5[/COLOR]</title>    
+<genre>Terror</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/7k7U0XWjo5LRAu9UxF9iGE3pCrF.jpg</thumbnail>
+<fanart>https://i.imgur.com/aQyxAjD.jpg</fanart>
+<info>Después de sufrir un derrame cerebral, Judith Albright se muda a un histórico asilo de ancianos, donde comienza a sospechar que algo sobrenatural se está aprovechando de los residentes. Para escapar, tendrá que convencer a todos los que la rodean de que, después de todo, no pertenece allí.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=kKIhdhesFTk"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.to/f/j9g3ngjoh76ej3z"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/gs23qa4inesa"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/80tbbbb7f4ld.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/qmqe8jgt8qzz"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Cj8dZ-c24m5X6VZ-_dYvYxX7GtvKUhDV/view"}</urlsolve>
+</item>
+
+<item>
 <title>[COLOR white] Escape Room 2: Mueres por salir [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.1[/COLOR]</title>    
 <genre>Acción,Thriller,Terror,Intriga </genre>
 <year>2021</year>
@@ -12,7 +42,6 @@
 <info>Seis personas se encuentran encerradas de manera inesperada en una nueva serie de escape rooms, revelando paulatinamente aquello que tienen en común para sobrevivir… y descubriendo que todos ya habían jugado el juego con anterioridad. Secuela de "Escape Room" (2019).<info>
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=PbC2P8thJDg"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/r4nxrue--emy4n6"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/o7rnm4x1fwjee4"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/znnk49vl19d2"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/fymwk06jgc03.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/60s907hcxl44"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1RnsjbNLWnMITZLDx4rtdAdn9mA487AHj/view"}</urlsolve>
 </item>
-
 
 <item>
 <title>[COLOR white] Los Muppets en Haunted Mansion [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.0[/COLOR]</title>    
