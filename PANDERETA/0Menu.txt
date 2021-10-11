@@ -59,6 +59,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Alias Grace[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Alias.Grace</externallink>
+<info>Miniserie de TV (2017). 6 episodios. Basada en la historia real de Grace Marks, una joven inmigrante irlandesa y empleada doméstica en el Alto Canadá que fue condenada por el brutal asesinato de su jefe, Thomas Kinnear en 1843. Grace dice que no recuerda el asesinato, pero los hechos son irrefutables. Una década después, el Dr. Simon Jordan intenta ayudar a Grace a recordar su pasado.</info>
+<thumbnail>https://i.imgur.com/boVWjOU.jpg</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]American Gods[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/American.gods</externallink>
