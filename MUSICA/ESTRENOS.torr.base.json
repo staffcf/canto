@@ -16,7 +16,7 @@
 			"genero": "Comedia, Terror",
       			"stations": [
        				{
-        			"torrent": "magnet:?xt=urn:btih:130FF542D3CDA5BA709575B1F553C73FDD9B5F1C=1080p.exclusivetorrent.net.mkv",  
+        			"torrent": "magnet:?xt=urn:btih:130FF542D3CDA5BA709575B1F553C73FDD9B5F1C&dn=1080p.exclusivetorrent.net.mkv",  
         			"torrent4k": ""  
         			}
 			]
@@ -29,7 +29,7 @@
 			"genero": "Drama",
       			"stations": [
        				{
-        			"torrent": "magnet:?xt=urn:btih:d745b1605daef548bfa2a8a00b704ad63842fd9b=1080p.exclusivetorrent.net.mkv",  
+        			"torrent": "magnet:?xt=urn:btih:d745b1605daef548bfa2a8a00b704ad63842fd9b&dn=1080p.exclusivetorrent.net.mkv",  
         			"torrent4k": ""  
         			}
 			]
@@ -42,7 +42,7 @@
 			"genero": "Comedia, Crimen",
       			"stations": [
        				{
-        			"torrent": "magnet:?xt=urn:btih:60885dd050e4559c458d0663dc5131bdf1c7848f=1080p.exclusivetorrent.net.mkv",  
+        			"torrent": "magnet:?xt=urn:btih:60885dd050e4559c458d0663dc5131bdf1c7848f&dn=1080p.exclusivetorrent.net.mkv",  
         			"torrent4k": ""  
         			}
 			]
