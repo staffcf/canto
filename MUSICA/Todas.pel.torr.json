@@ -3297,6 +3297,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"torrent4k": ""
 				}		
 			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Thriller, A2021, Letra Z, Reino Unido, ",
+			"name": "Zone 414 (2021)","coloryear": "coloryear",
+			"image": "https://www.themoviedb.org/t/p/original/vwkKtvsjI1l3jPFWQfzYpZ7WVUm.jpg",
+			"info": "Ambientado en un futuro cercano, en una colonia de robots humanoides de última generación. Cuando la hija de su creador desaparece, él contrata a un investigador privado, David Carmichael, para que la traiga a casa. David se une a Jane, una inteligencia artificial muy avanzada y con conciencia de sí misma, para encontrar a la hija desaparecida. Moviéndose por la peligrosa selva de acero, desvelan el misterio rápidamente, destapando el crimen que los lleva a cuestionarse los orígenes de la zona 44 y el verdadero propósito de la 'Ciudad de Robots'",
+			"genero": "Ciencia ficcion, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Zone.414.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
 			}
 	]
 	}
@@ -40149,6 +40162,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Los.Rescatadores.en.Cangurolandia.-1990.-.1080.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""
 				}
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Drama, A1990, Letra M, EEUU, B2000, A1990-1981, ",
+			"name": "Misery (1990)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/lWmjrv0yGsOeULBue6odg0XKSXc.jpg",
+			"info": "Un escritor llamado Paul Sheldon (James Caan) lleva años malgastando su talento con unas románticas historias, de gran éxito comercial, cuya protagonista es una mujer llamada Misery. Decidido a acabar con esta situación, mata al personaje y se refugia en Colorado para escribir una novela seria. Terminado su trabajo, emprende el regreso, pero en una carretera de montaña, pierde el control de su coche y sufre un grave accidente. Annie Wilkes (Kathy Bates), una brusca e impetuosa mujer, gran admiradora suya, lo rescata, se lo lleva a su casa y lo cuida con esmero. Obsesionada con el personaje de Misery, retiene a Sheldon para obligarlo a escribir una nueva historia en la que resucite al personaje",
+			"genero": "Terror, Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:2E20DC8DF3C006D4EC07E46EDCA5ADBBF145C100&dn=BR1080",	magnet:?xt=urn:btih:31D19270F828B076D79155C01C3FFEEDF71CAFF2&dn=DVDRip
+				"torrent4k": ""	
+				}		
 			]
 			},
 			{
