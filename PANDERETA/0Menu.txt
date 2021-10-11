@@ -491,6 +491,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Dr.Death[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Dr.Death</externallink>
+<info>Basada en la terrorifica historia real sobre el Dr. Christopher Duntsch, una estrella emergente en la comunidad médica de Dallas. Joven, carismático y claramente brillante, Dr. Duntsch fue construyendo una floreciente carrera en la neurocirugía cuando de repente todo cambia. Los pacientes entran en su quirófano para complejas aunque rutinarias cirugías de espina dorsal saliendo definitivamente mutilados o muertos. A medida que las víctimas se acumulan, dos compañeros médicos, el neurocirujano Robert Henderson y el cirujano vascular Randall Kirby, así como la fiscal de Dallas Michelle Shugart, se proponen detenerlo.</info>
+<thumbnail>https://i.imgur.com/8lT9Gcv.jpg</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Drácula[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Dracula</externallink>
@@ -1477,6 +1486,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Nuevo sabor a cereza[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Nuevo.sabor.a.cereza</externallink>
+<info>Serie de TV (2021). 8 episodios. Lisa Nova, una aspirante a directora de cine en el Los Ángeles de 1990, se embarca en un viaje de venganza sobrenatural que se le va de las manos.</info>
+<thumbnail>https://i.imgur.com/xCDOOEX.jpg</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Orphan Black[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Orphan.Black.xml</externallink>
@@ -2134,6 +2152,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Verguenza.xml</externallink>
 <info>Jesús y Nuria son una pareja normal con una vida normal, es decir, en crisis permanente. Él es fotógrafo de bodas y bautizos, pero se cree llamado a algo más sublime: la "fotografía artística". Ella, con una inestable situación laboral, teme no llegar a alcanzar los objetivos con los que soñó siendo más joven. Juntos, además, tienen un pequeño gran problema. En cualquier situación, están abocados a hacer siempre el ridículo delante de sus amigos y familiares, quedando fatal de la forma más incómoda. ¿Ha contagiado Jesús a Nuria la maldición de dar vergüenza ajena? ¿Hay una cura posible para la grima social?</info>
 <thumbnail>https://i.imgur.com/GU0MBMv.jpg</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Vigil:Conspiración nuclear[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Vigil</externallink>
+<info>Miniserie de TV (2021). 6 episodios. La brillante y frágil detective Amy Silva (Suranne Jones) es enviada al submarino HMS Vigil para investigar la misteriosa muerte de uno de sus tripulantes. Cuando la escotilla se cierra encima de su cabeza, la realidad que encuentra es muy distinta a lo esperado. Dentro del submarino el secretismo, las jerarquías y el claustrofóbico escenario complican la investigación, y la tripulación se muestra reacia a colaborar. Mientras tanto, en tierra, su compañera y confidente Kirsten Longacre (Rose Leslie) hace sus propias indagaciones. El caso pronto trasciende las paredes del submarino y desvela una conspiración que amenaza el corazón mismo de la seguridad nacional británica.</info>
+<thumbnail>https://i.imgur.com/AG1iXMC.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 </item>
 
