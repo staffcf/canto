@@ -4,6 +4,17 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 <item>
+<title>[COLOR white] Infinito [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.4[/COLOR]</title>    
+<genre>Ciencia ficción,Accion,Suspense</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/4Q1w5wQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/PO820oO.jpg</fanart>
+<info>Evan McCauley tiene habilidades que nunca aprendió y recuerdos de lugares que nunca ha visitado. Automedicado y al borde de un colapso mental, un grupo secreto que se hace llamar "Infinitos" acuden a su rescate, revelando que sus recuerdos son reales.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=4sV28IXFIy8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/3p1j2cmeeq7rjj2"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/gnxo8kzvuwmxzz"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/0n5e5q7tcnsi"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/s52t9d51s10z.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/qanshbi04qj4"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1AENkGq6aRsnhLRaQhiO5UdmwsvFHBFG7/view"},{"titulo" : "[COLOR white]Drive 4K HDR[/COLOR]","url" : "https://drive.google.com/file/d/13Prw1-paUExO9Kwpe5FVu-dJ3KBPkgWm/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Cuñados [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.2[/COLOR]</title>    
 <genre>Comedia</genre>
 <year>2021</year>
