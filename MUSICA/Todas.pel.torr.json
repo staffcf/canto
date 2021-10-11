@@ -1477,7 +1477,20 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"torrent4k": ""	
 				}		
 			]
-			},,
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Thriller, 1Terror, 1Intriga, A2021, Letra E, EEUU, ",
+			"name": "Escape Room 2: Mueres por salir (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/hBD44n4mmcckzM7rDgB3CGi12f7.jpg",
+			"info": "Seis personas se encuentran encerradas de manera inesperada en una nueva serie de escape rooms, revelando paulatinamente aquello que tienen en común para sobrevivir… y descubriendo que todos ya habían jugado el juego con anterioridad.",
+			"genero": "Accion, Thriller, Terror, Intriga",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Escape.Room.2-Mueres.por.salir.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Comedia, 1Aventuras, 1Ciencia ficcion, A2021, Letra E, EEUU, Netflix, ",
 			"name": "Estados Unidos: El peliculon (2021)","coloryear": "cyan",
@@ -1490,7 +1503,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"torrent4k": ""
 				}		
 			]
-			}
+			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Ciencia ficcion, 1Accion, 1Drama, A2021, Letra E, Japon, Sagas Evangelion, ",
 			"name": "Evangelion: 3.0+1.0 Thrice Upon a Time (2021)","coloryear": "cyan",
@@ -2801,6 +2814,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:FED9E189C0323009463654A7CE494C79D0D09049&dn=BRRip",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra S, Spain, ",
+			"name": "Solo una vez (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/xdUvxxTSzZYz2LeSbyEld7JZYmp.jpg",
+			"info": "Laura, una psicóloga del servicio de atención a las mujeres que sufren violencia de género, hace unas semanas que es acosada por el marido de una de sus pacientes. En esta situación, debe tratar una pareja que nunca ha puesto los pies en un centro de este tipo: Eva y Pablo. Por una serie de malentendidos él ha recibido una denuncia, pero afirma con contundencia no ser ningún maltratador.",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Solo.una.vez.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
