@@ -1,0 +1,45 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ EL CLUB DE LAS CANGURO
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"EL CLUB DE LAS CANGURO", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/puyNXdEWx2Biqb23dKotLFe9DXs.jpg",
+	- 1SerieTitle:"EL CLUB DE LAS CANGURO", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/afyG6cPl0jeV3SwNwyZxRG0Q9wd.jpg",
+	
+-->
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 a 5</title>
+			<torrent>magnet:?xt=urn:btih:A62C23A6E6959A64965CE1E92B75A3A04647ED02&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 6 a 10</title>
+			<torrent>magnet:?xt=urn:btih:94DF56E8EBE4E0ACAFF5A4D660A3DEE51A2D4463&dn=HDTV</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - Capitulos 1 a 4</title>
+			<torrent>magnet:?xt=urn:btih:03652FEDB7CD0E51E2F2A70CE69779F39DBDB733&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - Capitulos 5 a 8</title>
+			<torrent>magnet:?xt=urn:btih:F5C508983D277989AA0F5F946224BCD711707FB2&dn=HD720</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
