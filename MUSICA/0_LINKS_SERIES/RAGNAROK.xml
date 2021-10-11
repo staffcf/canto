@@ -16,6 +16,51 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 a 6</title>
+			<torrent>magnet:?xt=urn:btih:FFA8436C4F1073C11108DAF6E7A6E130AA125C7B&dn=HD720</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent>magnet:?xt=urn:btih:844603E3787F347F6B524A3E8B38FCDB76E4EC68&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 a 6</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
 			<title>1x01 - El chico nuevo</title>
 			<torrent>magnet:?xt=urn:btih:C76657C24145A3DFBA35E9843664FF7D4F65F65F</torrent>
 			</item>
@@ -56,13 +101,13 @@
 			"Tag= TORRENTTEMP2, "
 			<item>
 			<title> - Capitulos 1 y 2</title>
-			<torrent>magnet:?xt=urn:btih:B33FAC33FF6FEF0A4C4087D50F2088206F755A4A</torrent>
+			<torrent>magnet:?xt=urn:btih:B33FAC33FF6FEF0A4C4087D50F2088206F755A4A&dn=HD720</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
 			<title> - Capitulos 3 a 6</title>
-			<torrent>magnet:?xt=urn:btih:B2F91DC5862E2884C780232ACA3AB2B94FDFA454</torrent>
+			<torrent>magnet:?xt=urn:btih:B2F91DC5862E2884C780232ACA3AB2B94FDFA454&dn=HD720</torrent>
 			</item>
 ======================================================================
 ======================================================================
