@@ -1479,15 +1479,15 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Thriller, 1Terror, 1Intriga, A2021, Letra E, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Accion, 1Thriller, 1Terror, 1Intriga, A2021, Letra E, EEUU, ",
 			"name": "Escape Room 2: Mueres por salir (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/hBD44n4mmcckzM7rDgB3CGi12f7.jpg",
 			"info": "Seis personas se encuentran encerradas de manera inesperada en una nueva serie de escape rooms, revelando paulatinamente aquello que tienen en común para sobrevivir… y descubriendo que todos ya habían jugado el juego con anterioridad.",
 			"genero": "Accion, Thriller, Terror, Intriga",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Escape.Room.2-Mueres.por.salir.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:8E3ADADEECE227468940F435EA7844C1DA67C256&dn=BRRip
-				"torrent4k": ""	
+				"torrent": "magnet:?xt=urn:btih:72C77B0476F4E9E1FABB627DD09E15A67D4ED88E&dn=HD1080",	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Escape.Room.2-Mueres.por.salir.-2021.-.1080.-.CristalAzul.mkv.torrent	magnet:?xt=urn:btih:8E3ADADEECE227468940F435EA7844C1DA67C256&dn=BRRip		magnet:?xt=urn:btih:40CEBAD75E12C4A310DBE408EA007C6B134D54D8&dn=BR1080
+				"torrent4k": "magnet:?xt=urn:btih:DFBD86245833183D7A57E24FC66351CAF30F1A54&dn=Web4K"
 				}		
 			]
 			},
