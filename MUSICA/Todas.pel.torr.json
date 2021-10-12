@@ -1765,15 +1765,15 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Thriller, A2021, Letra I, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Thriller, A2021, Letra I, EEUU, ",
 			"name": "Infinito (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/v0aUBv78iGqO7eiWnrVcxr5zqOZ.jpg",
 			"info": "Un hombre descubre que sus alucinaciones son en realidad visiones de vidas pasadas",
 			"genero": "Ciencia ficcion, Thriller",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Infinito.-2021.-.1080.-.CristalAzul.mkv.torrent",
-				"torrent4k": ""	
+				"torrent": "magnet:?xt=urn:btih:CC6BEAB12F3AB62EDD2E899542C6209AF5F1F1A2&dn=HD1080",	magnet:?xt=urn:btih:1CDF14D602A62B74D1E78F1756A8D73D25EA9D6C&dn=BR1080	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Infinito.-2021.-.1080.-.CristalAzul.mkv.torrent
+				"torrent4k": "magnet:?xt=urn:btih:27B0625E40F6178DD4328B2B4AFD97A3E85DF23C&dn=Web4K"	
 				}		
 			]
 			},
