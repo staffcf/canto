@@ -4,6 +4,17 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 <item>
+<title>[COLOR white] Zona 414 [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.1[/COLOR]</title>    
+<genre>Ciencia ficción,Thriller</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/0HmI9A4.jpg</thumbnail>
+<fanart>https://i.imgur.com/94SSeoC.jpg</fanart>
+<info>Ambientado en un futuro cercano, en una colonia de robots humanoides de última generación. Cuando la hija de su creador desaparece, él contrata a un investigador privado, David Carmichael, para que la traiga a casa. David se une a Jane, una inteligencia artificial muy avanzada y con conciencia de sí misma, para encontrar a la hija desaparecida. Moviéndose por la peligrosa selva de acero, desvelan el misterio rápidamente, destapando el crimen que los lleva a cuestionarse los orígenes de la zona 44 y el verdadero propósito de la 'Ciudad de Robots'<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=zwDES5oJImI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/em4n6s-llplp8mp"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/pkq68l30u74xz9"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/90wwr3qdlvjt"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/5yse7ajuph9z.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/2pze5bs6a4bv"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/14mDfLmppF3GX3zzuaOT3pFS7_O5DaKuV/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Infinito [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.4[/COLOR]</title>    
 <genre>Ciencia ficción,Accion,Suspense</genre>
 <year>2021</year>
