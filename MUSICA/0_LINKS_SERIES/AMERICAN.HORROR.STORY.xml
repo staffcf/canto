@@ -9,15 +9,16 @@
 
 	ETIQUETAS:
 	
-	- 1SerieTitle:"AHS", SerieTemp:"TEMP. 1 - LA CASA DEL CRIMEN", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://i.imgur.com/4tXvj2U.jpg",
-	- 1SerieTitle:"AHS", SerieTemp:"TEMP. 2 - ASYLUM", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://i.imgur.com/tTihAEI.jpg",
-	- 1SerieTitle:"AHS", SerieTemp:"TEMP. 3 - COVEN", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://i.imgur.com/bXfVmtr.jpg",
-	- 1SerieTitle:"AHS", SerieTemp:"TEMP. 4 - FREAK SHOW", SerieID:"SERIETEMP4", SerieIDT:"TORRENTTEMP4", SerieThumbail:"https://i.imgur.com/HZoNBn1.jpg",
-	- 1SerieTitle:"AHS", SerieTemp:"TEMP. 5 - HOTEL", SerieID:"SERIETEMP5", SerieIDT:"TORRENTTEMP5", SerieThumbail:"https://i.imgur.com/twKdDHX.jpg",
-	- 1SerieTitle:"AHS", SerieTemp:"TEMP. 6 - ROANOKE", SerieID:"SERIETEMP6", SerieIDT:"TORRENTTEMP6", SerieThumbail:"https://i.imgur.com/21xOtsl.jpg",
-	- 1SerieTitle:"AHS", SerieTemp:"TEMP. 7 - CULT", SerieID:"SERIETEMP7", SerieIDT:"TORRENTTEMP7", SerieThumbail:"https://i.imgur.com/6fVW9ii.jpg",
-	- 1SerieTitle:"AHS", SerieTemp:"TEMP. 8 - APOCALYPSE", SerieID:"SERIETEMP8", SerieIDT:"TORRENTTEMP8", SerieThumbail:"https://i.imgur.com/3EYFUu3.jpg",
-	- 1SerieTitle:"AHS", SerieTemp:"TEMP. 9 - 1984", SerieID:"SERIETEMP9", SerieIDT:"TORRENTTEMP9", SerieThumbail:"https://i.imgur.com/srpccPQ.jpg",
+	- 1SerieTitle:"AHS", SerieTemp:"TEMP.  1 - LA CASA DEL CRIMEN", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://i.imgur.com/4tXvj2U.jpg",
+	- 1SerieTitle:"AHS", SerieTemp:"TEMP.  2 - ASYLUM", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://i.imgur.com/tTihAEI.jpg",
+	- 1SerieTitle:"AHS", SerieTemp:"TEMP.  3 - COVEN", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://i.imgur.com/bXfVmtr.jpg",
+	- 1SerieTitle:"AHS", SerieTemp:"TEMP.  4 - FREAK SHOW", SerieID:"SERIETEMP4", SerieIDT:"TORRENTTEMP4", SerieThumbail:"https://i.imgur.com/HZoNBn1.jpg",
+	- 1SerieTitle:"AHS", SerieTemp:"TEMP.  5 - HOTEL", SerieID:"SERIETEMP5", SerieIDT:"TORRENTTEMP5", SerieThumbail:"https://i.imgur.com/twKdDHX.jpg",
+	- 1SerieTitle:"AHS", SerieTemp:"TEMP.  6 - ROANOKE", SerieID:"SERIETEMP6", SerieIDT:"TORRENTTEMP6", SerieThumbail:"https://i.imgur.com/21xOtsl.jpg",
+	- 1SerieTitle:"AHS", SerieTemp:"TEMP.  7 - CULT", SerieID:"SERIETEMP7", SerieIDT:"TORRENTTEMP7", SerieThumbail:"https://i.imgur.com/6fVW9ii.jpg",
+	- 1SerieTitle:"AHS", SerieTemp:"TEMP.  8 - APOCALYPSE", SerieID:"SERIETEMP8", SerieIDT:"TORRENTTEMP8", SerieThumbail:"https://i.imgur.com/3EYFUu3.jpg",
+	- 1SerieTitle:"AHS", SerieTemp:"TEMP . 9 - 1984", SerieID:"SERIETEMP9", SerieIDT:"TORRENTTEMP9", SerieThumbail:"https://i.imgur.com/srpccPQ.jpg",
+	- 1SerieTitle:"AHS", SerieTemp:"TEMP. 10 - SESION DOBLE", SerieID:"SERIETEMP10", SerieIDT:"TORRENTTEMP10", SerieThumbail:"https://www.themoviedb.org/t/p/w130_and_h195_bestv2/koJeTvCpmkBx69UD8ekwPEFaG2a.jpg",
 	
 -->
 ======================================================================
@@ -660,6 +661,70 @@
 			<title>9x09 - La chica del final</title>     
 			<torrent>magnet:?xt=urn:btih:64af8629f3da20d725fb43347954baf6a8475e2a</torrent>
 			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP10, "
+			<item>
+			<title>10x01 - El cabo del miedo</title>
+			<torrent>magnet:?xt=urn:btih:C33CF6FA23B6D973D6210B049A73AE5FBC1BC76F&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP10, "
+			<item>
+			<title>10x02 - Capitulo 2 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP10, "
+			<item>
+			<title>10x03 - Capitulo 3 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP10, "
+			<item>
+			<title>10x04 - Capitulo 4 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP10, "
+			<item>
+			<title>10x05 - Capitulo 5 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP10, "
+			<item>
+			<title>10x06 - Capitulo 6 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP10, "
+			<item>
+			<title>10x07 - Capitulo 7 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP10, "
+			<item>
+			<title>10x08 - Capitulo 8 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP10, "
+			<item>
+			<title>10x09 - Capitulo 9 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP10, "
+			<item>
+			<title>10x10 - Capitulo 10 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
 ======================================================================
 ======================================================================
 ======================================================================
