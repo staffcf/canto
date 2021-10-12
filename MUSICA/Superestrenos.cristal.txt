@@ -4,6 +4,17 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 <item>
+<title>[COLOR white] Luis Aragones:La huella de un sabio [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.1[/COLOR]</title>    
+<genre>Documental</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/wDY4qOJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/S4jdiqz.jpg</fanart>
+<info>En el documental repasamos la vida de Luis Aragonés como jugador y técnico con la ayuda de dos de sus hijos, Luis y María José, jugadores a los que hizo campeones de Europa como Villa, F Torres, y Xavi. José Antonio Martín "Petón" recorre con nosotros su vida, de jugador del R.Madrid, donde no llegó a debutar, hasta su éxito mayúsculo como seleccionador en la Eurocopa de 2008, desvelando algunos episodios menos conocidos como su relación con el club de Concha Espina.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=FKZfrUn0ci4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/nn2x6h2m0e02m50"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/3nxqqnwpfjp9k"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/09ijmiskb722"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/vb8qxha2ap8w.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/35qur6zg6ns1"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/157hJxpp7RAbbAsoNpBJMucb56rZjKZ_o/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Zona 414 [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.1[/COLOR]</title>    
 <genre>Ciencia ficción,Thriller</genre>
 <year>2021</year>
