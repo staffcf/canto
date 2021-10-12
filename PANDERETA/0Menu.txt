@@ -536,6 +536,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]The caso Hartung[/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El%20caso.hartung</externallink>
+<info>Serie de TV (2018). 8 episodios. Un grupo de astronautas intentan convertirse en los primeros seres humanos que llegan a Marte. Bajo la dirección de la visionaria y magnate Laz Ingram, el grupo tendrá que afrontar todo tipo de dificultades para llevar a cabo uno de los hitos más importantes de la historia de la humanidad.</info>
+<thumbnail>https://i.imgur.com/xaoeqva.jpg</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El Cid[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.cid</externallink>
@@ -1943,6 +1952,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.Capture.xml</externallink>
 <info>Miniserie de TV (2019). 6 episodios. Cuando un soldado británico es acusado de un delito, el tenaz joven detective que maneja su caso comienza a descubrir una conspiración a gran escala.</info>
 <thumbnail>https://i.imgur.com/NaUZZTQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]The First[/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.First</externallink>
+<info>Serie de TV (2018). 8 episodios. Un grupo de astronautas intentan convertirse en los primeros seres humanos que llegan a Marte. Bajo la dirección de la visionaria y magnate Laz Ingram, el grupo tendrá que afrontar todo tipo de dificultades para llevar a cabo uno de los hitos más importantes de la historia de la humanidad.</info>
+<thumbnail>https://i.imgur.com/xaoeqva.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 </item>
 
