@@ -50,6 +50,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Al otro lado del instituto[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Al.otro.lado.del.instituto</externallink>
+<info>Inspirada en las obras de R. L. Stine, «Al otro lado del instituto» es una serie antológica de 8 episodios que narra historias increíbles que nos harán reflexionar sobre una realidad que está al otro lado de la que conocemos. Cada episodio les presenta a los espectadores un nuevo elenco de personajes que han de adentrarse en una sorprendente aventura de autodescubrimiento en un mundo sobrenatural de brujas, alienígenas, fantasmas y universos alternativos.</info>
+<thumbnail>https://i.imgur.com/UoYMZ8F.jpg</thumbnail>
+<fanart>https://i.imgur.com/EwoOrh8.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Adele[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Adele.xml</externallink>
