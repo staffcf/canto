@@ -14775,8 +14775,21 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Western, Aventura",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:ED599AC7E9ACE08F31E836F35EF6698B6BA88163&dn=HD1080",  magnet:?xt=urn:btih:A0588AB718E7439C1EEE3BD3B6276500496C193E&dn=BRRip
-				"torrent4k": ""
+				"torrent": "magnet:?xt=urn:btih:ED599AC7E9ACE08F31E836F35EF6698B6BA88163&dn=HD1080", "magnet:?xt=urn:btih:A0588AB718E7439C1EEE3BD3B6276500496C193E&dn=BRRip"
+			"torrent4k": ""
+				}		
+			]
+			},
+            {
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficción, 1Acción, 1Suspense, A2021, Letra I, EEUU, ",
+			"name": "Infinite (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/niw2AKHz6XmwiRMLWaoyAOAti0G.jpg",
+			"info": "Evan McCauley tiene habilidades que nunca aprendió y recuerdos de lugares que nunca ha visitado. Automedicado y al borde de un colapso mental, un grupo secreto que se hace llamar Infinitos acuden a su rescate, revelando que sus recuerdos son reales.",
+			"genero": "Ciencia ficción, Acción, Suspense",
+			"stations": [
+				{
+				"torrent": "",
+				"torrent4k": "magnet:?xt=urn:btih:27b0625e40f6178dd4328b2b4afd97a3e85df23c",
 				}		
 			]
 			},
@@ -14879,7 +14892,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Accion, Drama",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Ip.Man.4-El.final.-2019.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:6EDD0642A019F70C19DC03B180A115119370DD4A
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Ip.Man.4-El.final.-2019.-.1080.-.CristalAzul.mkv.torrent", magnet:?xt=urn:btih:6EDD0642A019F70C19DC03B180A115119370DD4A
 				"torrent4k": ""
 				}		
 			]
