@@ -4,6 +4,17 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 <item>
+<title>[COLOR white] La Purga Infinita [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.4[/COLOR]</title>    
+<genre>Terror, Suspense, Action</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/A5k2EYy.jpg</thumbnail>
+<fanart>https://i.imgur.com/jr47f8Y.jpg</fanart>
+<info>Para los miembros de un movimiento clandestino, ya no es suficiente una noche anual de anarquía y asesinatos, así que deciden devolver a Estados Unidos el caos y las masacres sin fin, donde nadie volverá a estar a salvo... jamás. Adela (Ana de la Reguera) y su esposo Juan (Tenoch Huerta) viven en Texas, donde él trabaja como peón en un rancho para la adinerada familia Tucker. En la mañana después de la tradicional purga, una banda de asesinos enmascarados ataca violenta e ilegalmente a la familia Tucker, Tras este hecho, la familia texana se ve obligada a unirse con Juan y su esposa para enfrentar un país entero a punto de colapsar, que se hunde en un mar de caos y de sangre. Quinta y última entrega de la saga 'The Purge'.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/RlJqJUnjhZw"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/8ql36h8lk2pw01-"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/l6r9djnkhw8qne"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/309ikb82pzux"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/e111qmzcsyrz.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/zy13665my55t"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1_g_XVT7SKjTn397BgYN7NOueC7IBACih/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Luis Aragones:La huella de un sabio [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.1[/COLOR]</title>    
 <genre>Documental</genre>
 <year>2021</year>
