@@ -7675,7 +7675,8 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Drama, Comedia, Romance",
 			"stations": [
 				{
-				"torrent4k": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Los.Secundarios.-2020.-.1080.-.CristalAzul.mkv.torrent"	
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Los.Secundarios.-2020.-.1080.-.CristalAzul.mkv.torrent", 
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -15674,6 +15675,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:5F07B9B833EE6CDD50F41B05181299C56416A912&dn=HD1080",  magnet:?xt=urn:btih:9799395D4568CFAFFCE544B602F0E222507E7B61&dn=BR1080
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2019, Letra L, Irlanda, ",
+			"name": "La interpretacion de Rose (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/jJ0xzUW28Ccb8xev4ixR8PES53G.jpg",
+			"info": "Rose estudia veterinaria en la universidad. Siendo hija única, ha disfrutado del amor de sus padres adoptivos. Sin embargo, desde que Rose tiene memoria, ha querido averiguar quiénes son sus padres biológicos y los hechos de su verdadera identidad. Después de años intentando rastrear a su madre biológica, Rose ahora tiene un nombre y un número. Todo lo que tiene que hacer es coger el teléfono y llamar",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/La.interpretacion.de.Rose.-2019.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:5DE4A827D7C958D992D1830D66CAB5D9E8512543&dn=BRRip
+				"torrent4k": ""	
 				}		
 			]
 			},
