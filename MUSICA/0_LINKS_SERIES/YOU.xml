@@ -11,6 +11,7 @@
 
 	- 1SerieTitle:"YOU", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/rlIuxxLjSSqYEodhVHCXI1GMLCl.jpg",
 	- 1SerieTitle:"YOU", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/eakZ6MWPNbRquL7UvV7HGDzBBjh.jpg",
+	- 1SerieTitle:"YOU", SerieTemp:"TEMPORADA 3", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/5CgYcf63vy3rqDn3cHqybNjHT8K.jpg",
 	
 		
 -->
@@ -18,14 +19,39 @@
 			"Tag= TORRENTTEMP1, "
 			<item>
 			<title> - Capitulos 1 a 10</title>      
-			<torrent>magnet:?xt=urn:btih:c9921404cbe6719590f1cb35cb6f856ddd44f903</torrent>
+			<torrent>magnet:?xt=urn:btih:C9921404CBE6719590F1CB35CB6F856DDD44F903&dn=HD720</torrent>
 			</item>
+======================================================================
+======================================================================
 ======================================================================
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
 			<title> - Capitulos 1 a 10</title>      
-			<torrent>magnet:?xt=urn:btih:97e1665c5c515da18e57cc203bf81c260c899f1b</torrent>
+			<torrent>magnet:?xt=urn:btih:97E1665C5C515DA18E57CC203BF81C260C899F1B&dn=HD720</torrent>
 			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x01 - Y vivieron felices y comieron perdices</title>
+			<torrent>magnet:?xt=urn:btih:43582F153BC361F070DF7560F4A341335F436CB8&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x0. - Capitulos 2 a 6</title>
+			<torrent>magnet:?xt=urn:btih:5D310B46043518EF91BE2B9AE9BD5205D8439A03&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x0. - Capitulos 7 a 10</title>
+			<torrent>magnet:?xt=urn:btih:ABC3CDCFDB61321B9FEDAF25E554CB0500033E6C&dn=HD720</torrent>	magnet:?xt=urn:btih:33378B35E832662CE81A9FB73B061161D8699A6A&dn=HD1080
+			</item>
+======================================================================
+======================================================================
 ======================================================================
 ======================================================================
