@@ -1,0 +1,59 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ MISFIT: LA SERIE
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"MISFIT: LA SERIE", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/wdOecjmSy0oqrPa5nzLepGYliRI.jpg",
+	
+-->
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 1080</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 a 4</title>
+			<torrent>magnet:?xt=urn:btih:6D3AB37CC669A0A8FBB1C8A4B517377523BD9828&dn=HD1080</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 5 a 8</title>
+			<torrent>magnet:?xt=urn:btih:FECE907E4DDCFAE98CA5749E485F061951DC1BB5&dn=HD1080</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 a 4</title>
+			<torrent>magnet:?xt=urn:btih:6D722F422765D565806F05B786F4B919E8A78816&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 5 a 8</title>
+			<torrent>magnet:?xt=urn:btih:D39624279865C62ED5CE41626454B9C71C734F00&dn=HD720</torrent>
+			</item>
+======================================================================
+======================================================================
