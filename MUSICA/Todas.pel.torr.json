@@ -1024,7 +1024,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"torrent4k": ""	
 				}		
 			]
-			},,
+			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Ciencia ficcion, 1Drama, A2021, Letra D, EEUU, Netflix, ",
 			"name": "Disomnia (Awake) (2021)","coloryear": "cyan",
@@ -1037,7 +1037,20 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"torrent4k": ""
 				}		
 			]
-			}
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Intriga, 1Drama, A2021, Letra D, Peru, Cine Latino, Netflix, ",
+			"name": "Distancia de rescate (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/hWVgahEaREAl8yIll1zE9HHeeYo.jpg",
+			"info": "Una mujer llamada Amanda pasa las vacaciones en un tranquilo pueblo argentino con su pequeña hija, Nina. Siempre preocupada por el bienestar de su hija, calcula constantemente la 'distancia de rescate' necesaria para protegerla. Pronto descubre que las cosas que la rodean no son como parecen",
+			"genero": "Thriller, Intriga, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Distancia.de.rescate.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra D, EEUU, 1Hechos reales, ",
 			"name": "Doce Huerfanos (2021)","coloryear": "cyan",
@@ -7293,6 +7306,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2020, Letra L, Argentina, Cine Latino, ",
+			"name": "La parte oscura (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/vNgWgbFqFHLlcBXXHgYvVz1h7Qh.jpg",
+			"info": "A mediados del aislamiento global de 2020, una niña de Buenos Aires comienza a experimentar eventos sobrenaturales que la llevarán al límite",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/La.parte.oscura.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Ciencia ficcion, 1Drama, A2020, Letra L, Spain, ",
 			"name": "La sombra (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/vRln20Ry2dRJgBTGgpZg0yzccCU.jpg",
@@ -7300,7 +7326,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Thriller, Ciencia ficcion, Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:63D6338E9C47D72E70739BD3EF41D7F25F17B57B&dn=BRRip",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/La.sombra.-2020.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:63D6338E9C47D72E70739BD3EF41D7F25F17B57B&dn=BRRip
 				"torrent4k": ""
 				}		
 			]
@@ -8588,6 +8614,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:94644BF95E9CC52CACBCE71F756CEA3C703546D5&dn=BRRip",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Ciencia ficcion, 1Thriller, A2020, Letra O, Australia, ",
+			"name": "Ocupacion: Proyecto Lluvia (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/sZ1LWEvIGExy3Cgab7kZrPkBO7f.jpg",
+			"info": "Dos años después de haber sufrido una invasión intergaláctica en la Tierra, los supervivientes de Sydney (Australia) luchan en un campo de batalla desesperado. Mientras los cadáveres se acumulan a diario, la resistencia y sus inesperados aliados tejen un plan que podría resultar en el fin de la guerra",
+			"genero": "Accion, Ciencia ficcion, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Ocupacion-Proyecto.Lluvia.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -21826,7 +21865,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/El.corredor.del.laberinto-La.cura.mortal.-2018.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:71735e78011680d70f6b51ef8d56423fea741b1f
-				"torrent4k": "magnet:?xt=urn:btih:48CB4DF7FDC31E1A3EDF77D7E31B35DC7D2E7CED"
+				"torrent4k": "magnet:?xt=urn:btih:48CB4DF7FDC31E1A3EDF77D7E31B35DC7D2E7CED&dn=UHDRip"
 				}		
 			]
 			},
@@ -29987,7 +30026,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{ 
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/La.serie.Divergente.Leal.-2016.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:bd06b02af58e74d3113552c34226cc555d76a556&dn=HD1080
-				"torrent4k": "magnet:?xt=urn:btih:C05273B4D6CB00AD59C1A42295650D4B792C1926"
+				"torrent4k": "magnet:?xt=urn:btih:C05273B4D6CB00AD59C1A42295650D4B792C1926&dn=UHDRip"
 				}		
 			]
 			},
@@ -40117,7 +40156,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{ 
 				"torrent": "",
-				"torrent4k": "magnet:?xt=urn:btih:04519B286B56A0A5031C60DB945B8075B7CFDEC5&dn=4K"
+				"torrent4k": "magnet:?xt=urn:btih:04519B286B56A0A5031C60DB945B8075B7CFDEC5&dn=micro4K"
 				}		
 			]
 			},
