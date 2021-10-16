@@ -2143,15 +2143,15 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Terror, 1Accion, A2021, Letra L, EEUU, Sagas LNDLB, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Thriller, 1Terror, 1Accion, A2021, Letra L, EEUU, Sagas LNDLB, ",
 			"name": "La Purga: Infinita (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/5yvawJviOjb2nUFvHGXcCpGVTqy.jpg",
 			"info": "Para los miembros de un movimiento clandestino, ya no es suficiente una noche anual de anarquía y asesinatos, así que deciden devolver a Estados Unidos el caos y las masacres sin fin, donde nadie volverá a estar a salvo... jamás. Adela (Ana de la Reguera) y su esposo Juan (Tenoch Huerta) viven en Texas, donde él trabaja como peón en un rancho para la adinerada familia Tucker. En la mañana después de la tradicional purga, una banda de asesinos enmascarados ataca violenta e ilegalmente a la familia Tucker, Tras este hecho, la familia texana se ve obligada a unirse con Juan y su esposa para enfrentar un país entero a punto de colapsar, que se hunde en un mar de caos y de sangre.",
 			"genero": "Thriller, Terror, Accion",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/La.Purga-Infinita.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:945AD40E948A74F71257134B35B57B86B0176663&dn=BRRip
-				"torrent4k": ""	
+				"torrent": "magnet:?xt=urn:btih:CE0A33AAB87248FCE30CD80771755D9CDCE2663B&dn=HD1080",				magnet:?xt=urn:btih:2BF26AE5B072EF2B11EA7D5615774AC710C0D12A&dn=BR1080	magnet:?xt=urn:btih:945AD40E948A74F71257134B35B57B86B0176663&dn=BRRip	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/La.Purga-Infinita.-2021.-.1080.-.CristalAzul.mkv.torrent
+				"torrent4k": "magnet:?xt=urn:btih:7C1FF2D520AFB02BF2CA6C90D1452512BCEC487F&dn=UHDRip"	
 				}		
 			]
 			},
@@ -34271,7 +34271,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Belico, 1Accion, 1Comedia, A2009, Letra M, EEUU, Nazismo, Venganza, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Belico, 1Accion, 1Comedia, A2009, Letra M, EEUU, Nazismo, Venganza, ",
 			"name": "Malditos bastardos (2009)","coloryear": "hotpink",
 			"image": "https://www.themoviedb.org/t/p/original/8bvyf5b4omVHD6R7Wx0Rnxwdf11.jpg",
 			"info": "Segunda Guerra Mundial (1939-1945). En la Francia ocupada por los alemanes, Shosanna Dreyfus (Melanie Laurent) presencia la ejecucion de su familia por orden del coronel Hans Landa (Christoph Waltz). Despues de huir a Paris, adopta una nueva identidad como propietaria de un cine. En otro lugar de Europa, el teniente Aldo Raine (Brad Pitt) adiestra a un grupo de soldados judios ("The Basterds") para atacar objetivos concretos. Los hombres de Raine y una actriz alemana (Diane Kruger), que trabaja para los aliados, deben llevar a cabo una mision para hacer caer a los jefes del Tercer Reich. El destino quiere que todos se encuentren bajo la marquesina de un cine donde Shosanna espera para vengarse",
@@ -34279,7 +34279,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{ 
 				"torrent": "magnet:?xt=urn:btih:1F35008F8CB01E77E16CF96C156978AFD99ED37C&dn=BRRip",
-				"torrent4k": ""
+				"torrent4k": "magnet:?xt=urn:btih:C053BE8817E2FDBA9B30373F475EE07DA296EB1E&dn=UHDRip"
 				}		
 			]
 			},
