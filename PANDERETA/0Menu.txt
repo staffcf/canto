@@ -1033,6 +1033,15 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Knightfall[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Knightfall</externallink>
+<info>Serie de TV (2017-2019). 2 temporadas. 18 episodios. La Orden del Temple ha estado cuidando el Santo Grial. Pero ante la última Caída de Acre en el año 1291 ante las fuerzas musulmanas, los caballeros templarios han tenido que abandonar Tierra Santa. El Grial se ha perdido. 15 años después, asentados en París un grupo de templarios, ya debilitados pero siendo estrechos colaboradores del rey, están planeando su recuperación.</info>
+<thumbnail>https://i.imgur.com/mzgjshq.jpg</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Kung Fu[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Kung.Fu.txt</externallink>
