@@ -244,7 +244,7 @@ Title:PETER RABBIT, SagaID:PeterRabbit, Imagen:http://www.algeciras.es/opencms/e
 Title:PIRATAS DEL CARIBE, SagaID:PiratasCaribe, Imagen:https://image.ibb.co/kMZE4x/pirates.png,		
 							-	0Saga, 1SagaTorrent, 
 Title:PORKYS, SagaID:Porkys, Imagen:https://fanart.tv/fanart/movies/10246/hdmovielogo/porkys-535294bf0b9e9.png,			
-							-	0Saga, 0SagaTorrent, 
+							-	0Saga, 1SagaTorrent, 
 Title:PSICOSIS, SagaID:Psicosis, Imagen:https://www.themoviedb.org/t/p/original/i6sLcFVxP1SpgOo4LvunxkmoRtd.jpg,
 							-	0Saga, 1SagaTorrent, 
 Title:RAMBO, SagaID:Rambo, Imagen:https://3.bp.blogspot.com/-QZCXaOHoYQg/VCGswt0k58I/AAAAAAAALxY/rzmc3YiuoLo/s1600/RAMBO.jpg,
@@ -40822,7 +40822,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Terror, Thriller, Intriga",
 			"stations": [
 				{ 
-				"torrent": "https://blazing.network/torrents/peliculas/Psycho_IV_MicroHD_1080p.torrent",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Psicosis.IV-El.comienzo.-1990.-.1080.-.CristalAzul.mkv.torrent",	https://blazing.network/torrents/peliculas/Psycho_IV_MicroHD_1080p.torrent
 				"torrent4k": ""
 				}		
 			]
@@ -41758,7 +41758,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Terror, Intriga, Thriller",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:3f495740a0ffcc5464b8c651224ec3e9d9e7dc67",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Psicosis.III.-1986.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:3f495740a0ffcc5464b8c651224ec3e9d9e7dc67
 				"torrent4k": ""
 				}		
 			]
@@ -42362,7 +42362,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Terror, Intriga, Thriller",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:5bef68f869ff872880b4486bad04130bb0d130bd",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Psicosis.II-El.regreso.de.Norman.-1983.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:5bef68f869ff872880b4486bad04130bb0d130bd
 				"torrent4k": ""
 				}		
 			]
