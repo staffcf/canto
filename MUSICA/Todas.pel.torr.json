@@ -1824,11 +1824,11 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Thriller, A2021, Letra I, EEUU, ",
-			"name": "Infinito (2021)","coloryear": "cyan",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Thriller, 1Accion, 1Suspense A2021, Letra I, EEUU, ",
+			"name": "Infinite (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/v0aUBv78iGqO7eiWnrVcxr5zqOZ.jpg",
-			"info": "Un hombre descubre que sus alucinaciones son en realidad visiones de vidas pasadas",
-			"genero": "Ciencia ficcion, Thriller",
+			"info": "Evan McCauley tiene habilidades que nunca aprendió y recuerdos de lugares que nunca ha visitado. Automedicado y al borde de un colapso mental, un grupo secreto que se hace llamar Infinitos acuden a su rescate, revelando que sus recuerdos son reales",
+			"genero": "Ciencia ficcion, Thriller, Accion, Suspense",
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:CC6BEAB12F3AB62EDD2E899542C6209AF5F1F1A2&dn=HD1080",	magnet:?xt=urn:btih:1CDF14D602A62B74D1E78F1756A8D73D25EA9D6C&dn=BR1080	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Infinito.-2021.-.1080.-.CristalAzul.mkv.torrent
@@ -2573,6 +2573,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:70EC0F0EF538827681E0C05A7970F4C75DA13E4A&dn=HD1080",	magnet:?xt=urn:btih:DB53F568738DD7A579C85A9C18A2F799D10581AB&dn=HD720	magnet:?xt=urn:btih:1CE4B3D240C5A003A017E7D4C238ED3A8A1F23FD&dn=BRRip	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Nadie.saldra.vivo.de.aqui.-2021.-.1080.-.CristalAzul.mkv.torrent
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra N, Mexico, Cine Latino, ",
+			"name": "Ni tuyo, Ni mia  (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/6fFrpmf0mQtnQK9TUYCkfNkyIqO.jpg",
+			"info": "Amanda se da cuenta de que su esposo perfecto está teniendo una aventura. En lugar de confrontarlo, ella se une con la amante de su esposo para entender qué salió mal y recuperarlo",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Sumergible.-2020.-.1080.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""	
 				}		
 			]
@@ -9553,6 +9566,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2020, Letra S, Ecuador, Cine Latino, ",
+			"name": "Sumergible (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/61u7P6Wa0FpHYDZcR1NoCpwHKiB.jpg",
+			"info": "Un narcosubmarino hecho a mano está a punto de hundirse y perder su preciado cargamento. Los tres tripulantes se ven obligados a abrir la cabina prohibida donde encuentran un 'obsequio' especial para el comprador. El bote, apenas lo suficientemente grande para ellos, se convierte en un polvoriento barril de miedos, deseos y codicia.",
+			"genero": "Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Ni.tuyo.ni.mia.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Fantastico, A2020, Letra S, Australia, ",
 			"name": "Super Wombat (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/kaFVDXUYETmVxbD90fmtUXrZxMx.jpg",
@@ -14941,19 +14967,6 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:ED599AC7E9ACE08F31E836F35EF6698B6BA88163&dn=HD1080", "magnet:?xt=urn:btih:A0588AB718E7439C1EEE3BD3B6276500496C193E&dn=BRRip"
 			"torrent4k": ""
-				}		
-			]
-			},
-            {
-			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficción, 1Acción, 1Suspense, A2021, Letra I, EEUU, ",
-			"name": "Infinite (2021)","coloryear": "cyan",
-			"image": "https://www.themoviedb.org/t/p/original/niw2AKHz6XmwiRMLWaoyAOAti0G.jpg",
-			"info": "Evan McCauley tiene habilidades que nunca aprendió y recuerdos de lugares que nunca ha visitado. Automedicado y al borde de un colapso mental, un grupo secreto que se hace llamar Infinitos acuden a su rescate, revelando que sus recuerdos son reales.",
-			"genero": "Ciencia ficción, Acción, Suspense",
-			"stations": [
-				{
-				"torrent": "",
-				"torrent4k": "magnet:?xt=urn:btih:27b0625e40f6178dd4328b2b4afd97a3e85df23c",
 				}		
 			]
 			},
@@ -40380,6 +40393,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Aventuras, 1Fantastico, 1Terror, 1Comedia, 1Accion, A1992, Letra E, EEUU, B2000, A2000-1991, 1Culto, ",
+			"name": "El ejercito de las tinieblas (1992)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/kCIyhhl11rnIKHjE26YntQAEApi.jpg",
+			"info": "Inglaterra, siglo XIII. Las fuerzas del Mal ejercen su reinado en la Edad Media. Valerosos caballeros se disponen a entrar en desigual batalla, mientras los atemorizados campesinos se refugian tras los muros del castillo. Todo cambia con la inesperada llegada de un nuevo héroe, provisto de sofisticadas armas y que dice provenir del siglo XX",
+			"genero": "Aventuras, Fantastico, Terror, Comedia, Accion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.ejercito.de.las.tinieblas.-1992.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Aventuras, 1Accion, 1Romance, A1992, Letra E, EEUU, B2000, A2000-1991, ",
 			"name": "El ultimo mohicano (1992)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/dM5SCW7niVczfDBxWey2pksUci0.jpg",
@@ -43245,6 +43271,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Star.Wars.Ep..IV-Una.Nueva.Esperanza.-1977.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:DE2ADEBCB4102A88F6C217A3CD6F8615B6B26B1D&HD1080
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Documental, A1976, Letra E, Spain, B2000, A1980-1971, 1Biografico, 1Culto, ",
+			"name": "El desencanto (1976)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/4mWcr4tA5mSQBYRB7MLI0b26Ov.jpg",
+			"info": "Leopoldo Panero, poeta, murió en Astorga, donde había nacido, en el año 1962. Catorce años más tarde, las personas que más íntimamente estuvieron ligadas a él, Felicidad Blanc, su viuda, y sus tres hijos, recuerdan aquel caluroso día de agosto. El recuerdo queda sometido a algo más que aquella fecha. Surgen otras vivencias. Y a través de la palabra y del recorrido por habitaciones, objetos, calles y lugares perdidos, se desvela la historia de unos años y de unas personas unidas por vínculos familiares que en ningún momento huyen de la expresión de sus diferencias y sus identidades",
+			"genero": "Documental",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
