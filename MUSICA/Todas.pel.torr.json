@@ -38942,6 +38942,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Intriga, A1998, Letra T, Japon, B2000, A2000-1991, 1Culto, ",
+			"name": "The Ring (El circulo) (1998)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/2kSA3vb5X4e6dzGZTC2kKjEIKuK.jpg",
+			"info": "En una pequeña y apacible localidad japonesa, entre los estudiantes circula una leyenda en torno a unos videos malditos cuya visión provoca la muerte. Tras la muerte de su sobrina Tomoko, una periodista, Reiko, investigará el origen de dichos videos",
+			"genero": "Terror, Intriga",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/The.Ring-El.circulo-.-1998.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:8AEA89B07B31305B62E3FA32F7C105CA60A6C676&dn=DVDRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A1998, Letra T, Spain, Sagas Torrente, B2000, A2000-1991, 1Culto, ",
 			"name": "Torrente, El brazo tonto de la ley (1998)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/3wAeqkJ8vq7TjkfUp4ikHT15oVn.jpg",
@@ -40374,6 +40387,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Reservoir.Dogs.-1992.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:5f5a5967f65744fdfe125d7f039d7746084a21ad&dn=HD1080
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A1992, Letra R, Australia, B2000, A2000-1991, 1Culto, ",
+			"name": "Romper Stomper (1992)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/urE3Jzl3zuz2XUmAq2rXubYn3SD.jpg",
+			"info": "Hando es el líder de una banda de skinheads que impone el terror en el centro de Melbourne apaleando a la población local vietnamita, por considerarla un claro ejemplo de la impureza racial en Australia. Finalmente, los vietnamitas deciden hacer frente a sus agresores para demostrarles que no están dispuestos a sucumbir al miedo",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Romper.Stomper.-.1992.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
