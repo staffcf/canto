@@ -241,7 +241,9 @@ Title:PETER RABBIT, SagaID:PeterRabbit, Imagen:http://www.algeciras.es/opencms/e
 							-	0Saga, 1SagaTorrent, 
 Title:PIRATAS DEL CARIBE, SagaID:PiratasCaribe, Imagen:https://image.ibb.co/kMZE4x/pirates.png,		
 							-	0Saga, 1SagaTorrent, 
-Title:PORKYS, SagaID:Porkys, Imagen:https://fanart.tv/fanart/movies/10246/hdmovielogo/porkys-535294bf0b9e9.png,		
+Title:PORKYS, SagaID:Porkys, Imagen:https://fanart.tv/fanart/movies/10246/hdmovielogo/porkys-535294bf0b9e9.png,			
+							-	0Saga, 0SagaTorrent, 
+Title:PSICOSIS, SagaID:Psicosis, Imagen:https://www.themoviedb.org/t/p/original/i6sLcFVxP1SpgOo4LvunxkmoRtd.jpg,
 							-	0Saga, 1SagaTorrent, 
 Title:RAMBO, SagaID:Rambo, Imagen:https://3.bp.blogspot.com/-QZCXaOHoYQg/VCGswt0k58I/AAAAAAAALxY/rzmc3YiuoLo/s1600/RAMBO.jpg,
 							-	0Saga, 1SagaTorrent, 
@@ -14889,19 +14891,6 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Terror, 1Intriga, A2019, Letra I, Indonesia, ",
-			"name": "Impetigore (2019)","coloryear": "limegreen",
-			"image": "https://www.themoviedb.org/t/p/original/mgEhwnFYglA3M5Ecc8t9oHcCROi.jpg",
-			"info": "Maya y su mejor amiga Dini tratan de sobrevivir en la ciudad sin tener una familia. Un dia, Maya descubre que es posible que haya heredado una gran fortuna de sus pudientes antepasados, por lo que decide regresar a su pueblo natal junto a su unica amiga. Sin embargo, un peligro aterrador les espera alli a ambas.",
-			"genero": "Drama, Terror, Intriga",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:5A9CA87E172384A1A99E15E2B62B8AC06C2495A8&dn=BRRip",
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2019, Letra I, EEUU, Telefilm, ",
 			"name": "Infiel y seductor (2019)","coloryear": "limegreen",
 			"image": "https://www.themoviedb.org/t/p/original/k5noeqY37ZkEDYjCH41lYMinYjO.jpg",
@@ -16079,7 +16068,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Drama, Terror, Intriga",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/La.mujer.del.infierno.-2019.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/La.mujer.del.infierno.-2019.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:5A9CA87E172384A1A99E15E2B62B8AC06C2495A8&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -35643,15 +35632,20 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Fantastico, 1Drama, 1Thriller, A2006, Letra E, Spanish, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Fantastico, 1Drama, 1Thriller, A2006, Letra E, Spain, 1Culto, ",
 			"name": "El laberinto del Fauno (2006)","coloryear": "olive",
 			"image": "https://www.themoviedb.org/t/p/original/Ao83nMqYIYUsD2Q3lNsz6176MlC.jpg",
-			"info": "Año 1944, posguerra española. Ofelia (Ivana Baquero) y su madre, Carmen (Ariadna Gil), que esta embarazada, se trasladan a un pequeño pueblo al que ha sido destinado el nuevo marido de Carmen, Vidal (Sergi Lopez), un cruel capitan del ejercito franquista por el que la niña no siente ningun afecto. La mision de Vidal es acabar con los ultimos miembros de la resistencia republicana que permanecen escondidos en los montes de la zona. En la zona viven Mercedes (Maribel Verdu), el ama de llaves, y el medico (Alex Angulo) que se hace cargo del delicado estado de salud de Carmen. Una noche, Ofelia descubre las ruinas de un laberinto, y alli se encuentra con un fauno (Doug Jones), una extraña criatura que le hace una sorprendente revelacion: ella es en realidad una princesa, la ultima de su estirpe, y los suyos la esperan desde hace mucho tiempo. Para poder regresar a su magico reino, la niña debera enfrentarse a tres pruebas.",
+			"info": "Año 1944, posguerra española. Ofelia (Ivana Baquero) y su madre, Carmen (Ariadna Gil), que está embarazada, se trasladan a un pequeño pueblo al que ha sido destinado el nuevo marido de Carmen, Vidal (Sergi López), un cruel capitán del ejército franquista por el que la niña no siente ningún afecto. La misión de Vidal es acabar con los últimos miembros de la resistencia republicana que permanecen escondidos en los montes de la zona. En la zona viven Mercedes (Maribel Verdú), el ama de llaves, y el médico (Álex Angulo) que se hace cargo del delicado estado de salud de Carmen. Una noche, Ofelia descubre las ruinas de un laberinto, y allí se encuentra con un fauno (Doug Jones), una extraña criatura que le hace una sorprendente revelación: ella es en realidad una princesa, la última de su estirpe, y los suyos la esperan desde hace mucho tiempo. Para poder regresar a su mágico reino, la niña deberá enfrentarse a tres pruebas",
 			"genero": "Fantastico, Drama, Thriller",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:6a7dcd038bc5486937e0a085c7033852f4b4b46f",
-				"torrent4k": ""
+				"kodi1": "https://supervideo.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://supervideo.tv/NO_LINK",
+				"kodi3": "https://supervideo.tv/NO_LINK", https://www.dropbox.com/s/f1evih29tch0vtn/El.laberinto.del.Fauno.-2006.-.1080.-.CristalAzul.mkv?dl=1
+				"kodi4": "https://supervideo.tv/NO_LINK", 
+				"kodi5": "https://dl.dropboxusercontent.com/s/f1evih29tch0vtn/El.laberinto.del.Fauno.-2006.-.1080.-.CristalAzul.mkv?dl=0",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.laberinto.del.Fauno.-2006.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:11291D94073297B1076D7D11494DE0DCEEC7C1FE&dn=HD1080	magnet:?xt=urn:btih:BEB2EB6AFBC10BCC785C82A67B23729527B081F2&dn=HD1080	magnet:?xt=urn:btih:56D4D3A6375C7BF8C6F09AC8A1ED7A8CB986AF36&dn=BR1080	magnet:?xt=urn:btih:BFB0BF624A94495508000D137EEF916663C30767&dn=BRRip	magnet:?xt=urn:btih:6a7dcd038bc5486937e0a085c7033852f4b4b46f&dn=HD1080
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -37967,6 +37961,32 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Musical, A2000, Letra B, Dinamarca, A2000-19991, 1Culto, ",
+			"name": "Bailar en la oscuridad (2000)","coloryear": "gold",
+			"image": "https://www.themoviedb.org/t/p/original/DibSnXZBioqf8NngFlrAlmzVs.jpg",
+			"info": "Selma, inmigrante checa y madre soltera, trabaja en la fábrica de un pueblo de los Estados Unidos. La única vía de escape a tan rutinaria vida es su pasión por la música, especialmente por las canciones y los números de baile de los musicales clásicos de Hollywood. Selma esconde un triste secreto: está perdiendo la vista, pero lo peor es que su hijo también se quedará ciego, si ella no consigue, a tiempo, el dinero suficiente para que se opere",
+			"genero": "Drama, Musical",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Bailar.en.la.oscuridad.-2000.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:865A39ECCCE740C2D297E5F728080112270465BC&dn=HDRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Accion, A2000, Letra B, Japon, A2000-19991, 1Culto, ",
+			"name": "Battle Royale (2000)","coloryear": "gold",
+			"image": "https://www.themoviedb.org/t/p/original/pH2RdXNEcWMEjE7uN8Vhzbk4NZr.jpg",
+			"info": "En el amanecer de un nuevo milenio, el país está al borde del colapso. Millones de personas vagan sin empleo. La violencia en la escuela está descontrolada y adolescentes rebeldes protagonizan boicots masivos. El gobierno contrataca con 'Battle Royale'. Cada año, una clase es escogida al azar para que se enfrente, en una isla abandonada, a un cruel juego de supervivencia.",
+			"genero": "Thriller, Accion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Battle.Royale.-2000.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:21400A4B70AFA6EBE0A5BC347AB59D617E52D602&dn=DVDRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Aventuras, 1Comedia, 1Fantastico, 1Ciencia ficcion, 1Infantil, A2000, Letra B, EEUU, ADisney, APixar, Sagas ToyStory, A2000-1991, ",
 			"name": "Buzz Lightyear. La pelicula (2000)","coloryear": "gold",
 			"image": "https://www.themoviedb.org/t/p/original/bXMPdUMCiZhGvIRS0IvOBrPVrWo.jpg",
@@ -37989,6 +38009,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Chicken.Run.-2000.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:0C902164F0FA224687E234E1B523C8A653E0EF6C
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Drama, A2000, Letra D, China, A2000-1991, 1Culto, ",
+			"name": "Deseando amar (2000)","coloryear": "gold",
+			"image": "https://www.themoviedb.org/t/p/original/57iJR6wTAGmH3FEyFJcDca8ljYi.jpg",
+			"info": "Hong Kong, 1962. Chow, redactor jefe de un diario local, se muda con su mujer a un edificio habitado principalmente por residentes de Shanghai. Allí conoce a Li-zhen, una joven que acaba de instalarse en el mismo edificio con su esposo. Ella es secretaria de una empresa de exportación y su marido está continuamente de viaje de negocios. Como la mujer de Chow también está casi siempre fuera de casa, Li-zhen y Chow pasan cada vez más tiempo juntos y se hacen muy amigos. Un día, ambos descubrirán algo inesperado sobre sus respectivos cónyuges",
+			"genero": "Romance, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Deseando.amar.-2000.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -39000,6 +39033,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Intriga, 1Cine negro, A1997, Letra C, Reino Unido, B2000, A2000-1991, 1Culto, ",
+			"name": "Carretera perdida (1997)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/vFIhGJuUfCSGTFj5fgLCbBAtxt2.jpg",
+			"info": "Fred Madison (Bill Pullman), un músico de jazz que vive con su esposa Renee (Patricia Arquette), recibe unas misteriosas cintas de vídeo en las que aparece una grabación de él con su mujer dentro de su propia casa. Poco después, durante una fiesta, un misterioso hombre (Robert Blake) le dice que está precisamente en su casa en ese instante. Las sospechas de que algo raro está pasando se tornan terroríficas cuando ve la siguiente cinta de video...",
+			"genero": "Intriga, Cine negro",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Carretera.perdida.-1997.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:056EFCCC0127A375672439DD707FDDB522AC5CC8&dn=DVDRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Accion, A1997, Letra C, EEUU, B2000, A2000-1991, ",
 			"name": "Con Air (Convictos en el aire) (1997)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/5csZq2rx6TMSYZTu64Kv0HzSMZ8.jpg",
@@ -39578,6 +39624,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Western, A1995, Letra D, EEUU, B2000, A2000-1991, 1Culto, ",
+			"name": "Dead man (1995)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/dK9dDBbnRnG6KC2CtLTGz8EXTWA.jpg",
+			"info": "William Blake decide abandonar su puesto de contable en Cleveland (Ohio) después de recibir una oferta de trabajo en Machine, una inhóspita ciudad industrial en el Oeste de los EEUU. Sin embargo, cuando llega, resulta que su puesto lo ocupa otra persona. Charlie Dickinson, el hijo del propietario de la empresa, mata a su mujer cuando la encuentra en la cama con Blake, quien a su vez liquida a Charlie. De este modo, un simple contable de Cleveland se convierte en un "fugitivo" perseguido por tres cazadores de recompensas",
+			"genero": "Western",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Dead.man.-1995.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Comedia, A1995, Letra D, EEUU, B2000, A2000-1991, Sagas BadBoys, ",
 			"name": "Dos policias rebeldes (1995)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/nHalcWY9Ed5KSl35r9ddU2dnyJA.jpg",
@@ -39587,6 +39646,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Dos.policias.rebeldes.1995.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:C25CBBFD02C0F44FBCD9F6A562D7A40FECFA8B4D&dn=HD1080
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Romance, A1995, Letra E, EEUU, B2000, A2000-1991, 1Culto, ",
+			"name": "El abrazo del vampiro (1995)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/zL4TetrANpN52ymkadrO0Kt1HVw.jpg",
+			"info": "Un vampiro lleva años buscando el alma de su amada para caminar con ella el resto de la eternidad, y por fin la encuentra reencarnada en Charlotte, una joven universitaria que cumple todos sus requisitos. El único problema es que ella tendrá que amarle sin reparos",
+			"genero": "Terror, Romance",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.abrazo.del.vampiro.-1995.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -39742,6 +39814,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:akp322yucoyg4vywq4azfangsikz2xas&dn=HD1080",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Accion, 1Romance, A1994, Letra A, EEUU, B2000, A2000-1991, 1Culto, ",
+			"name": "Asesinos natos (1994)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/n6Id0iVkQIPzkAZMFkpYt86BLJL.jpg",
+			"info": "Micky y Mallory, una pareja poco convencional de jovenes amantes, sienten que han nacido para matar: son dos despiadados criminales que tienen atemorizada a la población. El presentador de un programa sensacionalista decide aprovechar la fascinación que su personalidad ejerce sobre el público para convertir a los asesinos en héroes televisivos",
+			"genero": "Thriller, Accion, Romance",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Asesinos.Natos.-1994.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:CD70CE5B3B28972B2D3EE5779F0F04D49CEDA8BF&dn=BR1080	magnet:?xt=urn:btih:A9BADCF362BF2DC8EBEEC3B5B2A9CB52BEA8C48E&dn=HDRip
 				"torrent4k": ""	
 				}		
 			]
@@ -39977,6 +40062,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:A5F77149D21BC768AEF816F9019F9BEBB222A356&dn=HD1080",
 				"torrent4k": "magnet:?xt=urn:btih:A9667B710EB827EE1BCAB254A5DA6851FE070EAD&dn=UHDRip"	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Fantastico, 1Terror, A1993, Letra C, Mexico, B2000, A2000-1991, 1Culto, Cine Latino, ",
+			"name": "Cronos (1993)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/6vgjMO8lBc2L3qT8K1eoky49LBk.jpg",
+			"info": "Cronos es un artefacto creado por un alquimista medieval, en cuyo interior se encuentra instalado un insecto, que se alimenta de sangre y tiene el poder de ofrecer la eterna juventud. Premiada película con excelentes críticas",
+			"genero": "Fantastico, Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Cronos.-1993.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:C7480682126AF903C421256ADCE69AD42D1BFC6F&dn=BDRemux
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -40293,6 +40391,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A1992, Letra S, EEUU, B2000, A2000-1991, Sagas SisterAct, ",
+			"name": "Sister Act (Una monja de cuidado) (1992)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/yPBlWxugSoQMcm05TPwsELq110n.jpg",
+			"info": "Deloris Van Cartier (Whoopi Goldberg) es una mediocre cantante de cabaret. Su amante Vince ha cometido un crimen, y ella decide acogerse al programa policial de proteccion de testigos. Asi, Deloris consigue una nueva identidad como monja en un convento que, tan solo con su presencia, perdera su habitual tranquilidad.",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Sister.Act-Una.monja.de.cuidado.-1992.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 0Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Accion, 1Thriller, A1992, Letra S, EEUU, B2000, A2000-1991, Sagas SoldadoUniversal, ",
 			"name": "Soldado Universal (1992)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/w220_and_h330_face/43oc5qvoMwnvRCsTZATNmEBIaGF.jpg",
@@ -40314,6 +40425,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Solo.en.casa.2-Perdido.en.Nueva.York.-1992.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:FEA38341B224FF5724B9517BF07567CB13829040&dn=HD1080&Pelis1y2		magnet:?xt=urn:btih:DC7262684EB48B76B6895808F046D22247851F23&dn=DVDRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Fantastico, 1Comedia, A1991, Letra D, Francia, B2000, A2000-1991, 1Culto, ",
+			"name": "Delicatessen (1991)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/cACoQdccxToUn0PRC1yW81bZHOG.jpg",
+			"info": "En un inmenso descampado, se alza un viejo edificio habitado por personas de costumbres más bien extrañas que sólo tiene una preocupación: alimentarse. El propietario es un peculiar carnicero que tiene su establecimiento en los bajos del bloque. Allí llega un nuevo inquilino que trabaja en el circo y que alterará la vida de la excéntrica comunidad que lo habita",
+			"genero": "Fantastico, Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Delicatessen.-1991.-.1080.-.CristalAzul.mkv.torrent",		magnet:?xt=urn:btih:D5D93A31EB46BD44D393CA34B04492A4C18F014B&dn=BR1010
 				"torrent4k": ""	
 				}		
 			]
@@ -40431,19 +40555,6 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{ 
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Pesadilla.final-La.muerte.de.Freddy-Pesadilla.en.Elm.Street.-.-1991.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:9D9491EF4589F13F17BC0A288CFB09CE09E6B9DE&dn=DVDRip
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A1992, Letra S, EEUU, B2000, A2000-1991, Sagas SisterAct, ",
-			"name": "Sister Act (Una monja de cuidado) (1992)","coloryear": "tomato",
-			"image": "https://www.themoviedb.org/t/p/original/yPBlWxugSoQMcm05TPwsELq110n.jpg",
-			"info": "Deloris Van Cartier (Whoopi Goldberg) es una mediocre cantante de cabaret. Su amante Vince ha cometido un crimen, y ella decide acogerse al programa policial de proteccion de testigos. Asi, Deloris consigue una nueva identidad como monja en un convento que, tan solo con su presencia, perdera su habitual tranquilidad.",
-			"genero": "Comedia",
-			"stations": [
-				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Sister.Act-Una.monja.de.cuidado.-1992.-.1080.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""
 				}		
 			]
@@ -41010,6 +41121,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{ 
 				"torrent": "magnet:?xt=urn:btih:2279FD5F9D0A4D637879037ADD39E299D4EC5AC6&dn=HD720",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, A1988, Letra C, Reino Unido, B2000, A1990-1981, 1Culto, ",
+			"name": "Conspiracion de mujeres (1988)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/9gUlctisXf7LrLNLk1OQ9pl3VwE.jpg",
+			"info": "Narra la historia de tres generaciones de mujeres que, además de compartir el mismo nombre, Cissie Colpitts, también tuvieron las tres que lidiar con sus problemas matrimoniales. La primera Cissie Colpitts decidió acabar con su adúltero marido ahogándolo en una bañera. El forense local la encubre certificando un suicidio a condición de que la mujer se case con él, pero ella no está dispuesta a acceder. Tiempo después, la acción de la abuela tendrá sus consecuencias en su hija y nieta",
+			"genero": "Comedia, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Conspiracion.de.mujeres.-1988.-.720.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -41644,6 +41768,32 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A1985, Letra D, Italia, B2000, A1990-1981, 1Culto, ",
+			"name": "Demonios (1985)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/ay5hjDD9Z8gE3v77GkiJEDaf616.jpg",
+			"info": "Dos jóvenes deciden ir al preestreno de una película de terror y viven una auténtica pesadilla al quedarse atrapados en el cine con los demás espectadores.",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Demonios.-1985.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, A1985, Letra E, EEUU, B2000, A1990-1981, 1Culto, ",
+			"name": "El club de los cinco (1985)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/AjH4Ffyo3SLb32g3l2m6nxvDLSS.jpg",
+			"info": "Cinco estudiantes de distinta educación, formación y gustos son castigados a pasar un sábado en el instituto en el que estudian. Pronto las desavenencias entre ellos aparecen, especialmente cuando el director que les vigila se ausenta del aula",
+			"genero": "Comedia, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.club.de.los.cinco.-1985.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A1985, Letra E, EEUU, B2000, A1990-1981, Sagas Muertos, ",
 			"name": "El dia de los muertos (1985)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/ne35GlABRF821ENspOTPrghiEsq.jpg",
@@ -42017,6 +42167,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Viernes.13.4a.parte-Ultimo.capitulo.-1984.-.1080.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Romance, A1983, Letra E, EEUU, B2000, A1990-1981, 1Culto, ",
+			"name": "El ansia (1983)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/xIMgMrVVJABB1QBnDld6LPYhLP0.jpg",
+			"info": "Miriam Blaylock colecciona no sólo arte del Renacimiento y colgantes del Antiguo Egipto sino, sobre todo, amantes y almas. Moderna y elegante, Miriam es una vampiro intemporal residente en Manhattan, una mujer bendecida con la belleza y maldecida con su sed de sangre",
+			"genero": "Terror, Romance",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.ansia.-1983.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:53A510A84C53814B1779BB31C99147DE03C5F276&dn=BRRip
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -43209,6 +43372,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Intriga, 1Thriller, A1973, Letra C, EEUU, B2000, A1980-1971, 1Culto, ",
+			"name": "Cuando el destino nos alcance (1973)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/5EFeIerwkWBEKOV29r8sXz29xRk.jpg",
+			"info": "En el año 2022, la población de Nueva York, unos cuarenta millones de habitantes, vive en condiciones miserables. Para combatir el hambre se crea un alimento sintético, el soylent green, pero el policía Thorn y el viejo Roth, un superviviente de otra época, sospechan que detrás del nuevo alimento hay algo inquietante",
+			"genero": "Ciencia ficcion, Intriga, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Cuando.el.destino.nos.alcance.-1973.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:3B67427031FD84D0FF3BB3201A7C953AFF704B21&dn=BDRemux
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A1973, Letra E, EEUU, B2000, A1980-1971, Sagas Exorcista, 1Culto, ",
 			"name": "El Exorcista (1973)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/nYxbpp8JbtuBQcu7DnLGcFrgXWi.jpg",
@@ -43722,6 +43898,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Intriga, 1Drama, 1Thriller, A1966, Letra B, Reino Unido, B2000, A1970-1961, 1Culto, ",
+			"name": "Blow-Up (Deseo de una mañana de verano) (1966)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/7QLaPxHvOAOhnLDKgcocoIDH8do.jpg",
+			"info": "Adaptación de un cuento de Julio Cortázar que narra la historia de Thomas (David Hemmings), un fotógrafo de moda que, tras realizar unas tomas en un parque londinense, descubre al revelarlas una forma irreconocible que resulta ser algo tan turbador como inesperado.",
+			"genero": "Intriga, Drama, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Blow.Up-Deseo.de.una.manhana.de.verano-.-1966.-.720.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Western, A1966, Letra E, Italia, B2000, A1970-1961, Sagas Dolar, 1Culto, ",
 			"name": "El bueno, el feo y el malo (1966)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/fSWnIXsxA47smMLwRELSWkxbVJ.jpg",
@@ -43887,6 +44076,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/2.Desde.Rusia.con.amor.-1963.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:ABBF6377DCA2CAB3F1446D0E7EF21E9016C4C275
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Drama, A1963, Letra E, Reino Unido, B2000, A1970-1961, 1Culto, ",
+			"name": "El beso del vampiro (1963)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/2qwjyCu648UM7mKFk2K3dou0D6M.jpg",
+			"info": "Gerald y Marianne Harcourt viajan en coche cuando éste se avería y se ven obligados a pasar unos pocos días en una aldea pequeña y remota. El doctor Ravna los invita a hospedarse en su castillo, pero en realidad es el líder de una secta vampírica y se ha quedado fascinado por la belleza de Marianne...",
+			"genero": "Terror, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.beso.del.vampiro.-1963.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
