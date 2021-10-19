@@ -12,6 +12,7 @@
 	- 1SerieTitle:"LEGACIES", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/rb64COqdpRRfWOc6gWTfC7WxzXP.jpg",
 	- 1SerieTitle:"LEGACIES", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/1Uhoi348GEg4DObGrVLNUqtKtdu.jpg",
 	- 1SerieTitle:"LEGACIES", SerieTemp:"TEMPORADA 3", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/qTZIgXrBKURBK1KrsT7fe3qwtl9.jpg",
+	- 1SerieTitle:"LEGACIES", SerieTemp:"TEMPORADA 4", SerieID:"SERIETEMP4", SerieIDT:"TORRENTTEMP4", SerieThumbail:"https://www.themoviedb.org/t/p/original/mwJ3OxbliRwCvceSJvAzPiFu4WZ.jpg",
 
 	
 -->
@@ -209,99 +210,192 @@
 ======================================================================
 			"Tag= TORRENTTEMP3, "
 			<item>
-			<title>3x01 - Capitulo 1</title>      
+			<title>3x01 - No somos dignos</title>      
 			<torrent>magnet:?xt=urn:btih:58B0CA2144B6F53917DC9F40897D9B56D46A071F</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP3, "
 			<item>
-			<title>3x02 - Capitulo 2</title>      
+			<title>3x02 - Las despedidas dan asco</title>      
 			<torrent>magnet:?xt=urn:btih:E951854EA321A95918ABDB29B47C3C2CDE6C4C8F</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP3, "
 			<item>
-			<title>3x03 - Capitulo 3</title>      
+			<title>3x03 - Salvatore: ¡El musical!</title>      
 			<torrent>magnet:?xt=urn:btih:34DF7650E5B3A15CCCC5D38221CDC08C005AE6FA</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP3, "
 			<item>
-			<title>3x04 - Capitulo 4</title>      
+			<title>3x04 - Agárrate fuerte</title>      
 			<torrent>magnet:?xt=urn:btih:8D1FD1A702C9844F4E2D38655DC2F5D9FACCE6A7</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP3, "
 			<item>
-			<title>3x05 - Capitulo 5</title> 
+			<title>3x05 - Cueste lo que cueste</title> 
 			<torrent>magnet:?xt=urn:btih:C4DABA169A8AF382543DB84A5D4F64F10A63230B</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP3, "
 			<item>
-			<title>3x06 - Capitulo 6</title>   
+			<title>3x06 - A quien corresponda</title>   
 			<torrent>magnet:?xt=urn:btih:FAF3009742CD1A184F5157A6DCE4ACB4C7388F6A</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP3, "
 			<item>
-			<title>3x07 - Capitulo 7</title>    
+			<title>3x07 - Sí, es un leprechaun de verdad</title>    
 			<torrent>magnet:?xt=urn:btih:C6785EE88FDB9F4E7A817FB94FE295E621C035EB</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP3, "
 			<item>
-			<title>3x08 - Capitulo 8</title>    
+			<title>3x08 - Cuánto tiempo</title>    
 			<torrent>magnet:?xt=urn:btih:07DA02776775E613F6ABAB4FF526F37AB8FB9F46</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP3, "
 			<item>
-			<title>3x09 - Capitulo 9</title>      
+			<title>3x09 - ¿Todos los Monstruos de Malivore aportan esta capacidad de de introspección emocional?</title>      
 			<torrent>magnet:?xt=urn:btih:562033DA78A9653645749AFD68343ADAE2277CE1</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP3, "
 			<item>
-			<title>3x10 - Capitulo 10</title>      
+			<title>3x10 - A buen fin, no hay mal principio</title>      
 			<torrent>magnet:?xt=urn:btih:03789958C8411DA54371DCBFE7F5200727B0EFF5</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP3, "
 			<item>
-			<title>3x11 - Capitulo 11</title>      
+			<title>3x11 - No puedes huir de quien eres</title>      
 			<torrent>magnet:?xt=urn:btih:A4E39275136D1B1D46027286DC800B0B36647AB7</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP3, "
 			<item>
-			<title>3x12 - Capitulo 12</title>      
+			<title>3x12 - Fui creado para amarte</title>      
 			<torrent>magnet:?xt=urn:btih:70B6E7C85A746173FE89A9760F0D9B182A8BBC38</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP3, "
 			<item>
-			<title>3x13 - Capitulo 13</title> 
+			<title>3x13 - Un día lo entenderás</title> 
 			<torrent>magnet:?xt=urn:btih:46572A91B6D8BBCBF71D0D358869C36CEB1EB3C6</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP3, "
 			<item>
-			<title>3x14 - Capitulo 14</title>      
+			<title>3x14 - Siente un poco de culto</title>      
 			<torrent>magnet:?xt=urn:btih:9D71DCEC3283160912FD6379342505EF9D84BAF5</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP3, "
 			<item>
-			<title>3x15 - Capitulo 15</title>      
+			<title>3x15 - Una nueva Hope</title>      
 			<torrent>magnet:?xt=urn:btih:DD7B7D885BD2A87D00F02FC6600769E6D155E9B0</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP3, "
 			<item>
-			<title>3x16 - Capitulo 16</title>      
+			<title>3x16 - El destino es una mierda</title>      
 			<torrent>magnet:?xt=urn:btih:70035E5CA09C3EDA4A26AD573B7D3B8E89F72C80</torrent>
 			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x01 - Capitulo 1</title>
+			<torrent>magnet:?xt=urn:btih:CE0140DDDC1D0C4635F1E453852D1F46D7F7EAE0&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x02 - Capitulo 2 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x03 - Capitulo 3 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x04 - Capitulo 4 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x05 - Capitulo 5 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= "
+			<item>
+			<title>4x06 - Capitulo 6 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= "
+			<item>
+			<title>4x07 - Capitulo 7 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= "
+			<item>
+			<title>4x08 - Capitulo 8 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= "
+			<item>
+			<title>4x09 - Capitulo 9 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= "
+			<item>
+			<title>4x10 - Capitulo 10 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= "
+			<item>
+			<title>4x11 - Capitulo 11 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= "
+			<item>
+			<title>4x12 - Capitulo 12 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= "
+			<item>
+			<title>4x13 - Capitulo 13 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= "
+			<item>
+			<title>4x14 - Capitulo 14 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= "
+			<item>
+			<title>4x15 - Capitulo 15 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
 ======================================================================
 ======================================================================
 ======================================================================
