@@ -224,6 +224,8 @@ Title:MILLENNIUM, SagaID:Millennium, Imagen:https://miro.medium.com/max/2560/1*8
 Title:MIMIC, SagaID:Mimic, Imagen:https://www.themoviedb.org/t/p/original/lZyFI1nTlzC8mYDd9F0EMt0zohz.jpg,
 							-	0Saga, 1SagaTorrent, 
 Title:MISION IMPOSIBLE, SagaID:MisionImposible, Imagen:https://4.bp.blogspot.com/-z71e9VUDYUI/VcJ1c4G6y7I/AAAAAAAACDU/N24k2w9rbXE/s1600/Mission-Impossible.png,
+							-	0Saga, 0SagaTorrent, 
+Title:MUERTOS VIVIENTES, SagaID:MuertosV, Imagen:https://www.themoviedb.org/t/p/original/yo4Q4AZXFkaTg1zaskGfW8becDU.jpg,
 							-	0Saga, 1SagaTorrent, 
 Title:NINJA, SagaID:Ninja, Imagen:https://www.themoviedb.org/t/p/original/xo4KaekxlT2g9csGvBt0sUQ79TB.jpg,
 							-	0Saga, 1SagaTorrent, 
@@ -243,7 +245,9 @@ Title:PETER RABBIT, SagaID:PeterRabbit, Imagen:http://www.algeciras.es/opencms/e
 							-	0Saga, 1SagaTorrent, 
 Title:PIRATAS DEL CARIBE, SagaID:PiratasCaribe, Imagen:https://image.ibb.co/kMZE4x/pirates.png,		
 							-	0Saga, 1SagaTorrent, 
-Title:PORKYS, SagaID:Porkys, Imagen:https://fanart.tv/fanart/movies/10246/hdmovielogo/porkys-535294bf0b9e9.png,			
+Title:PORKYS, SagaID:Porkys, Imagen:https://fanart.tv/fanart/movies/10246/hdmovielogo/porkys-535294bf0b9e9.png,	
+							-	0Saga, 1SagaTorrent, 
+Title:POSESION INFERNAL, SagaID:EvilDead, Imagen:https://www.themoviedb.org/t/p/original/ipKtSs4q2XdATJ33o56ueAN9dgW.jpg,		
 							-	0Saga, 1SagaTorrent, 
 Title:PSICOSIS, SagaID:Psicosis, Imagen:https://www.themoviedb.org/t/p/original/i6sLcFVxP1SpgOo4LvunxkmoRtd.jpg,
 							-	0Saga, 1SagaTorrent, 
@@ -8975,6 +8979,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"kodi4": "https://vidlox.me/NO_LINK", 
 				"kodi5": "",
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Police.2020.-.1080.-.CristalAzul.mkv.torrent", magnet:?xt=urn:btih:4B7110E5EF016E763607D6AA5180D94C71E4C763&dn=BRRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Comedia, A2020, Letra P, EEUU, ",
+			"name": "Popular (Mainstream) (2020)","coloryear": "magenta",
+			"image": "https://i.imgur.com/8iwSgk2.jpg",
+			"info": "Frankie está atrapada en su empleo de camarera en un club de comedia de Hollywood junto a su mejor amigo y examante Jake. Cuando concoe al misterioso Link, le graba y sube a Internet sus diatribas en contra del comercio. Jake se suma a la iniciativa, y el trío de ‘outsiders’ no tarda en encaramarse al estrellato de la red. Pero cuando su manager les pide que recauden más dinero y Frankie se da cuenta de que Link se está convirtiendo en todo aquello que antes denunciaba, la joven se enfrenta a esta pregunta: ¿se está convirtiendo también ella en el monstruo que ayudó a crear?",
+			"genero": "Drama, Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Popular-Mainstream-.-2020.-.1080.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""	
 				}		
 			]
@@ -37490,6 +37507,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2002, Letra L, EEUU, 1Culto, ",
+			"name": "La ultima noche (2002)","coloryear": "skyblue",
+			"image": "https://www.themoviedb.org/t/p/original/9rSCPAEJ35BK5YbK5Asr0JkjB5n.jpg",
+			"info": "Condenado a cumplir pena de siete años por tráfico de drogas, a Monty Brogan le quedan sólo 24 horas de libertad antes de ingresar en prisión. Después de haber sido el rey de Manhattan, Monty está a punto de decir adiós a sus sueños de grandeza y al disparatado tren de vida que lo alejó de quienes lo querían de verdad. En esas últimas horas de libertad intentará recuperar la relación con su padre (Brian Cox) y con sus dos mejores amigos de juventud: Jacob (Philip Seymour Hoffman), un tímido profesor, y Slaughtery (Barry Pepper), un brillante broker de Wall Street. Y también con su novia Naturelle (Rosario Dawson), que quizá podría ser la persona que lo delató a la policía",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/La.ultima.noche.-2002.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Ciencia ficcion, 1Fantastico, 1Infantil, A2002, Letra L, EEUU, Extraterrestres, Familia, ADisney, Sagas LiloyStitch, ",
 			"name": "Lilo & Stitch (2002)","coloryear": "skyblue",
 			"image": "https://www.themoviedb.org/t/p/original/2i7VnIKdfbQm3JFYTgMpL7bWW3z.jpg",
@@ -38457,6 +38487,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, A2000, Letra T, EEUU, A2000-1991, ",
+			"name": "Traffic (2000)","coloryear": "gold",
+			"image": "https://www.themoviedb.org/t/p/original/wcVdkwQbygfSIqOi2ec8jlq7x08.jpg",
+			"info": "El juez Robert Wakefield es nombrado por el Presidente de los Estados Unidos supervisor de los grupos de lucha contra la droga y de su coordinación con las autoridades mexicanas. Sin embargo, su satisfacción inicial por su prestigioso cargo se esfumará cuando descubra que su hija de 16 años se ha convertido en una drogadicta. Mientras tanto, al sur de la frontera, el agente mexicano Javier Rodríguez intenta librar su propia batalla contra la droga",
+			"genero": "Thriller, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Traffic.-2000.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:9F9A3ECDC411AB7726AC1B7780C8FCB92BE01B71&dn=BR1080	magnet:?xt=urn:btih:83B8EB98C4D93E33D710FF8F0D888E982CF186D4&dn=HDRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Fantastico, 1Accion, 1Thriller, A2000, Letra X, EEUU, Superheroes, Marvel, Comics, Sagas XMEN, A2000-1991, ",
 			"name": "X-Men (2000)","coloryear": "gold",
 			"image": "https://www.themoviedb.org/t/p/original/bojMb5j1dOHvD1cKffI0AW9ARkk.jpg",
@@ -39018,6 +39061,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Pocahontas.2-Viaje.a.un.Nuevo.Mundo.-1998.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:01193937074EAD2EDFFC6140047E38ECAAC7B573
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Intriga, A1998, Letra P, EEUU, B2000, A2000-1991, Sagas Psicosis, ",
+			"name": "Psycho (Psicosis) (1998)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/t5fOBcDMbS2WNN3VZ96nX3jUkkT.jpg",
+			"info": "Huyendo de la justicia, Marion Crane se refugia en el motel de Norman Bates, un hombre oscuro cuyas víctimas van cayendo en las misteriosas redes de su madre. Marion será la próxima. Su desaparición hará que su hermana y un detective privado emprendan su búsqueda. Remake del clásico de Hitchcock",
+			"genero": "Terror, Intriga",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Psycho-Psicosis-.-1998.-.DVDRip.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -41673,6 +41729,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Comedia, 1Fantastico, A1987, Letra T, EEUU, B2000, A1990-1981, sagas evildead, 1Culto, ",
+			"name": "Terroríficamente muertos (1987)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/mD0n1FS5LopoKj3icqFyZE4x3lx.jpg",
+			"info": "El bueno de Ash se dispone a pasar un fin de semana en el bosque con su novia. Pero todo se va al traste cuando reproducen una cinta en la que un profesor había grabado varios pasajes del Necronomicon, el Libro de los Muertos. El hechizo convoca a una fuerza demoniaca que convierte a la compañera de Ash en un monstruo ávido de carne. Sin saberlo, él y sus compañeros se disponen a pasar una noche en una cabaña en medio del bosque con un demonio en casa",
+			"genero": "Terror, Comedia, Fantastico",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Terrorificamente.Muertos.-1987.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A1987, Letra T, EEUU, B2000, A1990-1981, Sagas Tiburon, ",
 			"name": "Tiburon, la venganza (Tiburon 4) (1987)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/suF3WbnjtlQ0LHPRv9yqW178GGC.jpg",
@@ -42004,7 +42073,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A1985, Letra E, EEUU, B2000, A1990-1981, Sagas Muertos, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A1985, Letra E, EEUU, B2000, A1990-1981, Sagas MuertosV, ",
 			"name": "El dia de los muertos (1985)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/ne35GlABRF821ENspOTPrghiEsq.jpg",
 			"info": "Los zombies se han apoderado del planeta, y el numero de humanos se reduce a uno por cada 400.000 muertos vivientes. Un pequeño grupo de personas, formado por cientificos y militares, se refugian en una antigua instalacion subterranea del gobierno. Alli intentan contactar sin exito con otros grupos supervivientes. Mientras, los doctores investigan el origen del fenomeno, y de su posible cura; a la vez que intentan 'domesticar' a un muerto viviente al que mantienen encadenado. A medida que pasa el tiempo, las tensiones entre los cientificos y los soldados iran creciendo dentro del grupo",
@@ -43288,7 +43357,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A1978, Letra Z, EEUU, B2000, A1980-1971, Sagas Muertos, 1Culto,",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A1978, Letra Z, EEUU, B2000, A1980-1971, Sagas MuertosV, 1Culto,",
 			"name": "Zombi (El amanecer de los muertos vivientes) (1978)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/fT7qwRHlDfnIXK4su8DKFxbsiQk.jpg",
 			"info": "La epidemia que hace resucitar a los muertos convertidos en seres avidos de carne humana se ha extendido, llegando al punto en el que varias ciudades han quedado practicamente desiertas. Los supervivientes deben refugiarse en zonas militares ya que los zombies no dudan en acabar con sus propios familiares...",
@@ -44082,7 +44151,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A1968, Letra L, EEUU, B2000, A1970-1961, Sagas Muertos, 1Culto, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A1968, Letra L, EEUU, B2000, A1970-1961, Sagas MuertosV, 1Culto, ",
 			"name": "La noche de los muertos vivientes (1968)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/5cjDlHqfb6CJV9gUcAcSp7jlEs4.jpg",
 			"info": "Las radiaciones procedentes de un satelite provocan un fenomeno terrorifico: los muertos salen de sus tumbas y atacan a los hombres para alimentarse. La accion comienza en un cementerio de Pennsylvania, donde Barbara, despues de ser atacada por un muerto viviente, huye hacia una granja. Alli tambien se ha refugiado Ben. Ambos construiran barricadas para defenderse de una multitud de despiadados zombies que solo pueden ser vencidos con un golpe en la cabeza",
