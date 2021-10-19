@@ -149,6 +149,8 @@ Title:HARRY POTTER, SagaID:HarryPotter, Imagen:https://encrypted-tbn0.gstatic.co
 							-	0Saga, 1SagaTorrent, 
 Title:HELLBOY, SagaID:Hellboy, Imagen:https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hellboy_movie_logo.png/1200px-Hellboy_movie_logo.png,
 							-	0Saga, 1SagaTorrent, 
+Title:HOSTEL, SagaID:Hostel, Imagen:https://www.themoviedb.org/t/p/original/dDrtuWUKhgUGp12kgUWuP0NpTdF.jpg,	
+							-	0Saga, 1SagaTorrent, 
 Title:HULK, SagaID:Hulk, Imagen:https://www.lacasadeel.net/wp-content/uploads/2015/09/Hulk-Logo.png,
 							-	0Saga, 1SagaTorrent, 
 Title:INDEPENDENCE DAY, SagaID:IndependenceDay, Imagen:https://www.cinemascomics.com/wp-content/uploads/2020/06/titulo-original-independence-day.jpg,	
@@ -180,6 +182,8 @@ Title:KING KONG, SagaID:KingKong, Imagen:https://www.seekpng.com/png/detail/150-
 Title:KINGSMAN, SagaID:Kingsman, Imagen:https://filmmelier.files.wordpress.com/2019/06/d9bukhovuaa7hhg_jcc4.jpg,
 							-	0Saga, 1SagaTorrent, 
 Title:LA CALLE DEL TERROR, SagaID:LaCalleDelTerror, Imagen:https://i.imgur.com/N0jcnPw.jpg,
+							-	0Saga, 0SagaTorrent, 
+Title:LA MATANZA DE TEXAS, SagaID:MatanzaTexas, Imagen:https://www.themoviedb.org/t/p/original/e00AfCK1ISGVImmXPC1wrR6F5OI.jpg,	
 							-	0Saga, 1SagaTorrent, 
 Title:LA MOMIA (THE MUMMY), SagaID:LaMomia, Imagen:http://4.bp.blogspot.com/-Jom7z2kgdB0/Tbhy0pXgURI/AAAAAAAAAIk/NhD-qtWj7QM/s1600/La-Momia.jpg,	
 							-	0Saga, 1SagaTorrent, 
@@ -224,7 +228,7 @@ Title:MILLENNIUM, SagaID:Millennium, Imagen:https://miro.medium.com/max/2560/1*8
 Title:MIMIC, SagaID:Mimic, Imagen:https://www.themoviedb.org/t/p/original/lZyFI1nTlzC8mYDd9F0EMt0zohz.jpg,
 							-	0Saga, 1SagaTorrent, 
 Title:MISION IMPOSIBLE, SagaID:MisionImposible, Imagen:https://4.bp.blogspot.com/-z71e9VUDYUI/VcJ1c4G6y7I/AAAAAAAACDU/N24k2w9rbXE/s1600/Mission-Impossible.png,
-							-	0Saga, 0SagaTorrent, 
+							-	0Saga, 1SagaTorrent, 
 Title:MUERTOS VIVIENTES, SagaID:MuertosV, Imagen:https://www.themoviedb.org/t/p/original/yo4Q4AZXFkaTg1zaskGfW8becDU.jpg,
 							-	0Saga, 1SagaTorrent, 
 Title:NINJA, SagaID:Ninja, Imagen:https://www.themoviedb.org/t/p/original/xo4KaekxlT2g9csGvBt0sUQ79TB.jpg,
@@ -28124,6 +28128,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Thriller, A2017, Letra L, EEUU, Sagas MatanzaTexas, ",
+			"name": "Leatherface (2017)","coloryear": "green",
+			"image": "https://www.themoviedb.org/t/p/original/hXrdqMiyQ8p9Fa3ZHAJ6Ei881Bm.jpg",
+			"info": "Precuela de la saga 'La matanza de Texas', centrada en los años de adolescencia de Leatherface, su protagonista. El joven Leatherface escapa de un hospital psiquiátrico con otros tres reclusos y secuestra a una enfermera a la que llevará a un viaje por carretera de pesadilla mientras un policía trastornado le persigue",
+			"genero": "Terror, Thriller",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:114332B7EB8DDF7233F0FDE280E8825CD31B64E1&dn=HD1080",	magnet:?xt=urn:btih:1624A64E2F53921413FB71260C17EB7F2ADCB0B8&dn=BR1080
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Comedia, 1Intriga, A2017, Letra L, EEUU, Sagas Lego, ",
 			"name": "Lego Scooby-Doo! Fiesta en la playa de Blowout (2017)","coloryear": "green",
 			"image": "https://m.media-amazon.com/images/M/MV5BZjU1ZWJmNTYtYTJmZi00NmI2LWJjZmEtYmQzOWJmMTY3NWE2XkEyXkFqcGdeQXVyNTM3MDMyMDQ@.jpg",
@@ -32445,7 +32462,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Terror, Fantastico",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:D8518486DD4A7B185A7FCD417FC07AA84ED66A3D&dn=HD1080",	magnet:?xt=urn:btih:5243442E1AE7FF5B7EA5CCE67356D3D37953BE89&dn=HD1080	magnet:?xt=urn:btih:CCDF2F52C57127C3E996C0E919772DAD1553D290&dn=BR1080
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Posesion.Infernal-Evil.dead-.-2013.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:D8518486DD4A7B185A7FCD417FC07AA84ED66A3D&dn=HD1080	magnet:?xt=urn:btih:5243442E1AE7FF5B7EA5CCE67356D3D37953BE89&dn=HD1080	magnet:?xt=urn:btih:CCDF2F52C57127C3E996C0E919772DAD1553D290&dn=BR1080
 				"torrent4k": ""	
 				}		
 			]
@@ -33387,6 +33404,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Harry.Potter.y.las.reliquias.de.la.muerte.-.Parte.2.-2011.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:E28BE25C644166B66AA4C58CDE8B017E9BFCB4CE
 				"torrent4k": ""magnet:?xt=urn:btih:5BD36CE2A82393306B6EEC7F246D66445570B746"
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2011, Letra H, EEUU, Sagas Hostel, ",
+			"name": "Hostel 3: De vuelta al horror (2011)","coloryear": "blue",
+			"image": "https://www.themoviedb.org/t/p/original/bWMijQjpu09Pq9jrn3SL3qTHMvS.jpg",
+			"info": "La historia se desarrolla en Las Vegas y tiene como protagonistas a los miembros de una despedida de soltero que se convertirá en un auténtico matadero",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:67FADCB5B58B877156881869047069751727DCCA&dn=HD1080",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -34359,6 +34389,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2009, Letra E, EEUU, Sagas MuertosV, ",
+			"name": "La resistencia de los muertos (2009)","coloryear": "hotpink",
+			"image": "https://www.themoviedb.org/t/p/original/y8S7aQBKCcE32ISQCVh5rcGOZmN.jpg",
+			"info": "Un grupo de habitantes de una remota isla situada en la costa de Norte América descubrirán cómo los muertos se levantarán de sus tumbas en busca de carne humana. La gente de la isla deberá tomar una decisión: acabar con ellos o mantenerlos 'con vida' hasta que encuentren una cura",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/La.resistencia.de.los.muertos.-2009.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Fantastico, 1Romance, 1Thriller, A2009, Letra L, EEUU, Vampiros, Hombres lobo, Sagas Twilight, ",
 			"name": "La Saga Crepusculo: Luna Nueva (2009)","coloryear": "hotpink",
 			"image": "https://www.themoviedb.org/t/p/original/q2lCykFui6VuHKrrbpjJGr2FcSD.jpg",
@@ -35190,6 +35233,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2007, Letra E, EEUU, Sagas MuertosV, ",
+			"name": "El diario de los muertos (2007)","coloryear": "steelblue",
+			"image": "https://www.themoviedb.org/t/p/original/gAgkDJl5FmKpjSpTBpwUq45l6Pb.jpg",
+			"info": "Un grupo de jóvenes estudiantes de cine ruedan una película en un bosque, donde descubren que la muerte ha cobrado vida. Montados en una camioneta, y sin dejar de filmar ni un minuto de lo que les ocurre, recorren las carreteras de Pensilvania con el objetivo de llegar a sus hogares, pero después de algunos intentos se dan cuenta de que para ellos ya no queda ningún hogar real",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.diario.de.los.muertos.-2007.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Intriga, A2007, Letra E, EEUU, ",
 			"name": "El numero 23 (2007)","coloryear": "steelblue",
 			"image": "https://www.themoviedb.org/t/p/original/h0T3FmHI7PFhUseoySCBPFjxP0O.jpg",
@@ -35329,6 +35385,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Harry.Potter.y.la.orden.del.Fenix.-2007.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:67D0DBD469E5B1ECCFEF6256777E3AE155BC0D14&dn=HD1080
 				"torrent4k": "magnet:?xt=urn:btih:F460C59BA3D2A08F353D452DA240B8CD659EC071&dn=UHDRip"
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2007, Letra H, EEUU, Sagas Hostel, ",
+			"name": "Hostel 2 (2007)","coloryear": "steelblue",
+			"image": "https://www.themoviedb.org/t/p/original/1nsw2sfrDj5P47sOVkKa8OoxuFW.jpg",
+			"info": "Tres chicas estadounidenses que estudian en Roma, deciden irse de viaje un fin de semana y, casualmente, se encuentran con una compañera de clase. Ésta, que también se proponía hacer una 'escapada exótica', las invita a acompañarla a un lugar donde podrán relajarse y olvidar el estrés de la ciudad. Pero allí descubrirán la horrible realidad que se esconde dentro...",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:E8E40AEFFA7F84C8A228911B633917A80F460A45&dn=HD1080",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -35812,6 +35881,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Thriller, A2006, Letra L, EEUU, Sagas MatanzaTexas, ",
+			"name": "La matanza de Texas: El origen (2006)","coloryear": "olive",
+			"image": "https://www.themoviedb.org/t/p/original/qJs6PlJiayDaUbiyUlTnES1iu3H.jpg",
+			"info": "1969. En Estados Unidos, los efectos de la guerra de Vietnam son catastróficos: las bajas son innumerables, pero el reclutamiento continúa. Dean Hill, que acaba de cumplir 18 años, es llamado a filas. Su hermano Eric, que acaba de regresar de Vietnam, contra los deseos de su novia decide volver a alistarse en la Marina para proteger a su hermano. Pero los planes de Eric no coinciden con los de Dean, que ha planeado huir a México con su novia para evitar la guerra. Pero antes de ejecutar sus planes, las dos parejas deciden ir a Texas para pasar un último fin de semana de diversión...",
+			"genero": "Terror, Thriller",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:C99E172B77BF4D85964A2E96B71D62C88BBC17E5&dn=HD1080",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Terror, 1Thriller, A2006, Letra L, EEUU, Sagas Profecia, ",
 			"name": "La profecia: Omen 666 (2006)","coloryear": "olive",
 			"image": "https://www.themoviedb.org/t/p/original/t0u95VL153ywMlzc7MmBO8ATV4L.jpg",
@@ -36182,6 +36264,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2005, Letra H, EEUU, Sagas Hostel, ",
+			"name": "Hostel (2005)","coloryear": "crimson",
+			"image": "https://www.themoviedb.org/t/p/original/iBKRKu3srnTqiEITXOUSLperhKP.jpg",
+			"info": "Paxton y Josh, dos jóvenes universitarios norteamericanos, recorren Europa con sus mochilas y con Oli, un islandés que se les une por el camino. En Amsterdam conocen a un joven que les dice que en cierto lugar de Eslovaquia están las chicas más guapas que puedan imaginar. Así que los tres viajan en tren hasta Eslovaquia, donde conocen a Natalya y Svetlana, dos exóticas bellezas por las que se dejan atraer para acabar atrapados en un siniestro y tenebroso hotel",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:0D189FF0561AA3526492DBE08FE367EC3F80C824&dn=HD1080",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Aventuras, 1Fantastico, 1Accion, A2005, Letra K, EEUU, Simios, Sagas KingKong, ",
 			"name": "King Kong (2005)","coloryear": "crimson",
 			"image": "https://www.themoviedb.org/t/p/original/woGF4fgLZ6VvYmyz4pqBJlwrSg4.jpg",
@@ -36217,6 +36312,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{ 
 				"torrent": "magnet:?xt=urn:btih:f0e94d1c1aa143e11b95ecfdf7fc0fcac598252c",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2005, Letra L, EEUU, Sagas MuertosV, ",
+			"name": "La tierra de los muertos vivientes (2005)","coloryear": "crimson",
+			"image": "https://www.themoviedb.org/t/p/original/bLFow6tnwCZ2LPiUbSu94V8klpl.jpg",
+			"info": "En el mundo actual, los muertos vivientes ocupan una tierra desértica mientras intentan llevar una vida "normal" a las afueras de una ciudad fortificada. En el interior, un puñado de oportunistas sin escrúpulos ha construido una nueva sociedad a la que contemplan desde la altura de un rascacielos. Abajo, en las calles, la gente intenta sobrevivir. Fuera, el ejército de los muertos se acerca. Dentro, reina la anarquía. La supervivencia de la ciudad depende de un grupo de mercenarios contratados para defender a los vivos",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/La.tierra.de.los.muertos.vivientes.-2005.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -37145,6 +37253,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:71A319A9A58F02629510A703185D6A8B93D8D7E4&dn=HD1080",
 				"torrent4k": "magnet:?xt=urn:btih:91CEDAFDC4E676A4841F2CF525851D0C76DA1A47&dn=UHD4K"
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2003, Letra L, EEUU, Sagas MatanzaTexas, ",
+			"name": "La matanza de Texas (2003)","coloryear": "darkviolet",
+			"image": "https://www.themoviedb.org/t/p/original/lIwa6T0pChP85HHduiDEgsf000R.jpg",
+			"info": "Durante un viaje de Texas a México, un grupo de jóvenes recoge a una autoestopista ensangrentada que asegura que es la única superviviente de una masacre ocurrida la noche anterior en una casa cercana",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:047499A10A0764C6CD9ABA7B2FD3816C4011DD2B&dn=HD1080",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -38714,6 +38835,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A1999, Letra M, EEUU, B2000, A2000-1991, 1Culto, ",
+			"name": "Magnolia (1999)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/ktwneUE2PcreplmXub1XAKMvShU.jpg",
+			"info": "La película consta de nueve tramas paralelas ambientadas en el Valle de San Fernando, en Los Ángeles: un niño prodigio, el presentador de un concurso de televisión, un ex-niño prodigio, un moribundo, su hijo perdido, la mujer y el enfermero del moribundo. Son historias aparentemente independientes, pero que guardan entre sí una extraña relación",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Magnolia.-1999.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Fantastico, 1Accion, 1Thriller, A1999, Letra M, EEUU, Sagas Matrix, B2000, A2000-1991, 1Culto, ",
 			"name": "Matrix (1999)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/q4H9IreGqWgQcXq1JvvhcgfSN2w.jpg",
@@ -40150,6 +40284,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Terror, A1994, Letra L, EEUU, B2000, A2000-1991, Sagas MatanzaTexas, ",
+			"name": "La matanza de Texas: La nueva generación (1994)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/u1ZIqqx0SlqjaPj3v9P4zSOaXC1.jpg",
+			"info": "Durante un viaje por Texas, cuatro amigos se equivocan de camino y tienen un accidente en medio de un bosque. Los jóvenes buscan ayuda desesperadamente, pero se verán acosados por una familia de psicópatas asesinos",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Fantastico, A1994, Letra L, EEUU, B2000, A2000-1991, Sagas ElmStreet, ",
 			"name": "La nueva pesadilla de Wes Craven (1994)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/9tvu6MoAKEsITQeGhBUQq9BmCk1.jpg",
@@ -40962,6 +41109,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Terror, 1Thriller, A1990, Letra L, EEUU, B2000, A1990-1981, Sagas MatanzaTexas, ",
+			"name": "La matanza de Texas 3 (1990)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/jaHyBLhqPnF3KJA1yZVi26d7NMU.jpg",
+			"info": "Una pareja que se dirige a Florida en plena crisis sentimental se detiene en una gasolinera en mitad del desierto de Texas para repostar gasolina. Allí son acosados por el encargado que, iracundo al ser despreciado por la chica y refrenado por su compañero, ataca con una escopeta a la pareja que milagrosamente consigue huir. En el camino se cruzarán con el temible Leatherface y su moto sierra eléctrica pero nuevamente lograrán escapar, esta vez, por un excursionista armado con un fusil. La familia de caníbales no descansará hasta que estos tres pasen por su parrilla y conseguir su cena... Tercera entrega de la saga.",
+			"genero": "Terror, Thriller",
+			"stations": [
+				{
+				"torrent": "",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Aventuras, 1Infantil, A1990, Letra L, EEUU, ADisney, B2000, A1990-1981, Sagas LosRescatadores, ",
 			"name": "Los Rescatadores en Cangurolandia (1990)","coloryear": "tomato",
 			"image": "https://www.ecartelera.com/carteles/8600/8694/001_p.jpg",
@@ -41664,6 +41824,45 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Accion, 1Drama, 1Terror, A1987, Letra L, EEUU, B2000, A1990-1981, 1Culto, ",
+			"name": "Los surfistas nazis deben morir (1987)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/7f5rqo6Y6A7KmgqmfKWfffiCBL5.jpg",
+			"info": "Unos vigilantes enloquecidos y de tendencias neo-nazis intentan dominar las playas de California después de los efectos devastadores de un terremoto que acaba con la vida de la mayoría de la población de la costa de los Estados Unidos. Una banda rival de surferos retan a los surfistas nazis y las playas californianas se convierten en verdaderos campos de batalla. La única persona que puede enfrentarse con éxito a los surfistas nazis es Leroy Mama, la vengadora madre de un chico que murió en manos de estos surfistas de Ultraderecha",
+			"genero": "Comedia, Accion, Drama, Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Los.surfistas.nazis.deben.morir.-1987.-.1080.-.CristalAzul.mp4.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Fantastico, 1Terror, 1Romance, 1Western, A1987, Letra L, EEUU, B2000, A1990-1981, 1Culto, ",
+			"name": "Los viajeros de la noche (1987)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/qeMKvalVBscRRWHsgt9RIpVhsCf.jpg",
+			"info": "Un joven cowboy, seducido por una chica nueva en la ciudad, descubre que ha sido mordido por un vampiro. Lentamente se convierte en una criatura de la noche, una raza compuesta por hombres y mujeres que vagan sin rumbo, alimentándose con la sangre de sus víctimas. Frente a estos zombis vampiros, sólo queda una cosa: 'rezar para que salga la luz del día'",
+			"genero": "Fantastico, Terror, Romance, Western",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Los.viajeros.de.la.noche.-1987.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Terror, 1Comedia, 1Fantastico, A1987, Letra M, Nueva Zelanda, B2000, A1990-1981, 1Culto, ",
+			"name": "Mal gusto (Bad Taste) (1987)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/78a6HQmdj2XdcPnJOrsALcFYvnz.jpg",
+			"info": "Una pequeña ciudad costera aparece completamente desierta: sus habitantes han sido secuestrados por un grupo de aliens en busca de carne humana para las hamburguesas de un fast-food intergaláctico. No obstante, un cuerpo de agentes especiales se enfrentará a los extraterrestres",
+			"genero": "Ciencia ficcion, Terror, Comedia, Fantastico",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Mal.Gusto-Bad.Taste-.-1987.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Accion, A1987, Letra P, EEUU, B2000, A1990-1981, ",
 			"name": "Perseguido (1987)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/iI6V96h69WaaA5YWM8Si5IIUox2.jpg",
@@ -41907,6 +42106,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/King.Kong.2.-1986.-.1080.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Terror, 1Comedia, A1986, Letra L, EEUU, B2000, A1990-1981, Sagas MatanzaTexas, ",
+			"name": "La matanza de Texas 2 (1986)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/a7QoeFXsjG9NAEhScEcYQ23AIlv.jpg",
+			"info": "Dos jóvenes llaman al programa de radio de Stretch para burlarse. Cuando lo vuelven a hacer un rato después, sólo se escuchan gritos y el sonido de una motosierra. Al día siguiente la policía averigua que el responsable de la matanza es el mismo que trece años antes asesinó a los amigos de Sally, la protagonista de la primera película. El tío de Sally decide vengarse y se pone en contacto con Stretch...",
+			"genero": "Terror, Comedia",
+			"stations": [
+				{
+				"torrent": "",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -43589,6 +43801,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"torrent4k": "magnet:?xt=urn:btih:0DF29BAEF3DFAF5D5C6BA0FE94BA2A3E76139C85&dn=micro4K"	magnet:?xt=urn:btih:A5B6B3EBB98CF4295569425EB57B4ED53D21D987&dn=Web4K	magnet:?xt=urn:btih:CFD68106ABF30B086F74A1A96654A68D52290791&dn=UHDRip
 				}		
 			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Thriller, 1Intriga, A1976, Letra T, EEUU, 1Hechos reales, B2000, A1980-1971, 1Culto, ",
+			"name": "Terror al anochecer (1976)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/Avph1NIRZQWoAj2l2JcXpzRL1V3.jpg",
+			"info": "En 1946 el pueblo de Texarkana sufrió una serie de experiencias traumáticas que todavía recuerda hoy, treinta años mas tarde. Entre marzo y mayo cinco personas fueron asesinadas a manos de un loco enmascarado. Debido a esto comenzó la sospecha entre los ciudadanos del pueblo que comenzaron a encerrarse en sus casas…",
+			"genero": "Terror, Thriller, Intriga",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Terror.al.anochecer.-1976.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
 			}
 		]
 		}
@@ -43686,6 +43911,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{ 
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/El.Padrino.II.-1974.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:979b5647ed32b6ef417d40808594cd82857ac81c
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Terror, A1974, Letra L, EEUU, B2000, A1980-1971, Sagas MatanzaTexas, 1Culto, ",
+			"name": "La matanza de Texas (1974)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/oIE9ulNKOdluaVr92k3RESaOKlc.jpg",
+			"info": "Cinco adolescentes visitan la tumba, supuestamente profanada, del abuelo de uno de ellos. Cuando llegan al lugar, donde hay un siniestro matadero, toman una deliciosa carne en una gasolinera. A partir de ese momento, los jóvenes vivirán la peor pesadilla de toda su vida",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -43995,6 +44233,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 		"image": "",
 		"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Intriga, 1Thriller, A1970, Letra L, Reino Unido, B2000, A1970-1961, 1Culto, ",
+			"name": "Las amantes del vampiro (1970)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/lApADICfnsXosZKcrHCK8JlgCdO.jpg",
+			"info": "Un joven caballero acude al castillo de los Karnstein para vengar la muerte de su hermana, muerta por los vampiros. Allí, tras apoderarse del sudario de uno de los vampiros, lo atrae hacia sí. Pero el terror lo paraliza, y sólo lo salva la cruz que pende de su cuello. Y entonces, decapita a una vampira...",
+			"genero": "Terror, Intriga, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Las.amantes.del.vampiro.-1970.-.1080.-.CristalAzul.mp4.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Infantil, 1Musical, A1970, Letra L, EEUU,  ADisney, B2000, A1970-1961, ",
 			"name": "Los Aristogatos (1970)","coloryear": "tomato",
 			"image": "https://www.ecartelera.com/carteles/6200/6233/001_p.jpg",
@@ -44290,6 +44541,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/El.bueno.el.feo.y.el.malo.-1966.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:35A5783CFD0B5ED0E685CFC5BE6678C06B18B2C8&dn=HD1080    magnet:?xt=urn:btih:0F44010CC42DC43B0C7D8813305B8577F148919B&dn=DVDRip
 				"torrent4k": "magnet:?xt=urn:btih:31CC8CB495A47327E2F3AE37338E2663E47843D6&dn=UHDmicro",  magnet:?xt=urn:btih:3C8B0F7B13D7A9327246F759CBA7674181B6587C&dn=UHDRip
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Ciencia ficcion, A1966, Letra L, Argentina, B2000, A1970-1961, Cine Latino, 1Culto, ",
+			"name": "La venganza del sexo (1966)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/iP8qC6g8hIsQoca1Xdbi6h4Nzmo.jpg",
+			"info": "Un periodista descubre que el responsable de las extrañas desapariciones que se están produciendo en la ciudad es un extraño personaje, llamado Dr. Zoide, cuya voluntad domina un cerebro malvado conservado en un tarro.",
+			"genero": "Terror, Ciencia ficcion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/La.venganza.del.sexo.-1978.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
