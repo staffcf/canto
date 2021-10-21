@@ -2,6 +2,17 @@
 
 
 <item>
+<title>[COLOR white] La patrulla canina - la película [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.7[/COLOR]</title>    
+<genre>Animación,Infantil,Preescolar,Perros/Lobos</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/kElAH3r.jpg</thumbnail>
+<fanart>https://i.imgur.com/CRrSUXv.jpg</fanart>
+<info>La Patrulla Canina está en racha. Cuando Humdinger, su mayor rival, se convierte en alcalde de la cercana Ciudad Aventura y empieza a causar estragos, Ryder y los heroicos cachorros se ponen en marcha para enfrentarse a este nuevo desafío. Mientras uno de los cachorros debe enfrentarse a su pasado en Ciudad Aventura, el equipo encuentra ayuda en una nueva aliada, la inteligente perrita salchicha Liberty. Juntos y armados con nuevos y emocionantes artefactos y equipos, la Patrulla Canina lucha por salvar a los ciudadanos de Ciudad Aventura.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=ZMMuuB2CDnA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/r4nxrue-nwn026e"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/knrwr1e0u0edkd"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/4jfslz3ls681"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/ny2c02bfx13h.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/1rhujlcaeyve"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1TSbgLjRkop7udYV-XSU6-fpSXKTUEC69/view"},{"titulo" : "[COLOR white]Drive 4K HDR+[/COLOR]","url" : "https://drive.google.com/file/d/1GX4yPuCtyOaRHmnXMGxBJh0JQCv7q0M9/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Los Muppets en Haunted Mansion [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.0[/COLOR]</title>    
 <genre>Comedia,Infantil,Comedia de terror,Marionetas,Cine familiar.</genre>
 <year>2021</year>
