@@ -861,6 +861,15 @@ El.padre.de.cain</externallink>
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]G.E.O Mas allá del limite[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/G.E.O</externallink>
+<info>Acto terrorista en Oslo y Utøya el 22 de julio de 2011. Esta es la historia contada</info>
+<thumbnail>https://i.imgur.com/RVq99qG.jpg</thumbnail>
+<fanart>https://i.imgur.com/69XCR2S.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Gambito de dama[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Gambito.de.dama.txt</externallink>
