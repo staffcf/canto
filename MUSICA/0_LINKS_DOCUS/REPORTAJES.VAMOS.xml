@@ -1,0 +1,53 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ REPORTAJES #VAMOS 
+-->
+<!--
+
+	ETIQUETAS:
+	
+	
+	- 1SerieTitle:"", SerieTemp:"BECKHAMANÍA", SerieID:"SERIEBECKHAM", SerieIDT:"TORRENTBECKHAM", SerieThumbail:"https://i.imgur.com/Tt55l9Q.jpg",	
+	- 1SerieTitle:"", SerieTemp:"EL MADRID DE LORENZO SANZ", SerieID:"SERIEMADRIDLORENZO", SerieIDT:"TORRENTMADRIDLORENZO", SerieThumbail:"https://www.themoviedb.org/t/p/original/1FTTJssg3roV0TnzirSTdHh7Bhu.jpg",
+	- 1SerieTitle:"", SerieTemp:"GUERRA DE CLASICOS", SerieID:"SERIEGCLASICOS", SerieIDT:"TORRENTGCLASICOS", SerieThumbail:"https://www.themoviedb.org/t/p/original/fuqk8heHcYi4RNSXP9afdpxO7y1.jpg",
+	- 1SerieTitle:"", SerieTemp:"LUIS ARAGONES, LA HUELLA DE UN SABIO", SerieID:"SERIELUISARAGONES", SerieIDT:"TORRENTLUISARAGONES", SerieThumbail:"https://www.themoviedb.org/t/p/original/8GJy7k8IxA9GYeXl2TGsC9iHzs8.jpg",
+	- 1SerieTitle:"", SerieTemp:"ZIDANE: MIL DANZAS DE BLANCO", SerieID:"SERIEZIDANE", SerieIDT:"TORRENTZIDANE", SerieThumbail:"https://www.themoviedb.org/t/p/original/hRyR28ypd6ftxsXsXPDsUG77yz2.jpg",
+	
+	
+	
+-->
+
+======================================================================
+			"Tag= TORRENTBECKHAM, "
+			<item>
+			<title> - Beckhamanía</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Reportajes.Vamos/Beckhamania.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTMADRIDLORENZO, "
+			<item>
+			<title> - El Madrid de Lorenzo Sanz</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Reportajes.Vamos/El.Madrid.de.Lorenzo.Sanz.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTGCLASICOS, "
+			<item>
+			<title> - Guerra de Clasicos</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Reportajes.Vamos/Guerra.de.Clasicos.-2021.-.1080.-.CristalAzul.mkv.torrent</torrent>	magnet:?xt=urn:btih:2925F0C06E8CBCB09D466B002DEE655B31DFFECC&dn=HD720	
+			</item>
+======================================================================
+			"Tag= TORRENTLUISARAGONES, "
+			<item>
+			<title> - Luis Aragonés, la huella de un sabio</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Reportajes.Vamos/Luis.Aragones.la.Huella.de.un.Sabio.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTZIDANE, "
+			<item>
+			<title> - Zidane: Mil danzas de blanco</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Reportajes.Vamos/Zidane-mil.Danzas.de.Blanco.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
