@@ -7517,6 +7517,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Western, A2020, Letra L, EEUU, ",
+			"name": "La ultima gran estafa (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/jJyc847v8eIVBsztw3WptOowCgH.jpg",
+			"info": "Max Barber (Robert de Niro) es un productor de cine de Hollywood de serie B que necesita encontrar un nuevo proyecto que le permita saldar su deuda con un jefe de la mafia local (Morgan Freeman). Decide emprender la producción de una película con escenas de acción de alto riesgo, con el fin de provocar la muerte de su actor protagonista y poder cobrar así el altísimo seguro, solucionando definitivamente sus problemas económicos. El actor elegido es Duke Montana (Tommy Lee Jones), una vieja estrella deprimida con problemas con la bebida: el blanco perfecto para los planes de Max. Sin embargo, los días de rodaje pasan y no todo sale según lo planeado.",
+			"genero": "Comedia, Western",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/La.ultima.gran.estafa.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra L, Spain, ",
 			"name": "La ultima primavera (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/fHaLHYFd9DAIm57CNwktbr5iLCd.jpg",
@@ -38208,14 +38221,14 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 0Torrentcristal, 1Torrent4k, 1Accion, 1Thriller, A2001, Letra O, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Accion, 1Thriller, A2001, Letra O, EEUU, ",
 			"name": "Operacion Swordfish (2001)","coloryear": "seagreen",
 			"image": "https://www.themoviedb.org/t/p/original/pSph28xO8uDWJWsMUwVzQHT8Sv9.jpg",
 			"info": "Stanley Jobson (Hugh Jackman), un experto en informatica que acaba de salir de prision, es requerido por el terrorista Gabriel Shear (John Travolta) para que le ayude a decodificar un complicado codigo de seguridad de una cuenta secreta. Solo unos pocos hackers en el mundo son capaces de realizar dicho trabajo, y el es uno de ellos",
 			"genero": "Accion, Thriller",
 			"stations": [
 				{ 
-				"torrent": "",
+				"torrent": "magnet:?xt=urn:btih:7D90135A239E50271C4342DF5081A0DC270AFF83&dn=HDRip",
 				"torrent4k": "magnet:?xt=urn:btih:AAF20BD8187EB2454BF6B0D8B13678D3AC6DA9BC&dn=UHD4K"
 				}		
 			]
