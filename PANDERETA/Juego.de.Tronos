@@ -100,7 +100,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 
 
 <item>
-<title>[COLOR gold]*[/COLOR][COLOR white]Temporada 1[/COLOR]</title>    
+<title>[COLOR gold]*[/COLOR][COLOR white]Temporada 2[/COLOR]</title>    
 <link>$doregex[c]</link>
 <regex>
 <name>c</name>
@@ -116,7 +116,7 @@ from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
 import six
 TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
-url = 'https://pastebin.com/raw/62pwWJYJ'
+url = 'https://pastebin.com/raw/JYz3cq99'
 titulo = 'Juego de Tronos'
 import base64, codecs
 
@@ -191,13 +191,13 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <page></page>
 </regex>
 <info>Serie de TV (2011-2019). 8 temporadas. 73 episodios. La historia se desarrolla en un mundo ficticio de carácter medieval donde hay Siete Reinos. Hay tres líneas argumentales principales: la crónica de la guerra civil dinástica por el control de Poniente entre varias familias nobles que aspiran al Trono de Hierro; la creciente amenaza de "los otros", seres desconocidos que viven al otro lado de un inmenso muro de hielo que protege el Norte de Poniente; y el viaje de Daenerys Targaryen, la hija exiliada del rey que fue asesinado en una guerra civil anterior, y que pretende regresar a Poniente para reclamar sus derechos dinásticos. Tras un largo verano de varios años, el temible invierno se acerca a los Siete Reinos. Lord Eddard 'Ned' Stark, señor de Invernalia, deja sus dominios para ir a la corte de su amigo, el rey Robert Baratheon, en Desembarco del Rey, la capital de los Siete Reinos. Stark se convierte en la Mano del Rey e intenta desentrañar una maraña de intrigas que pondrá en peligro su vida y la de todos los suyos. Mientras tanto, diversas facciones conspiran con un solo objetivo: apoderarse del trono.</info>
-<thumbnail>https://i.imgur.com/IYLsTB9.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/yKSmXEU.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 </item>
 
 
 <item>
-<title>[COLOR gold]*[/COLOR][COLOR white]Temporada 1[/COLOR]</title>    
+<title>[COLOR gold]*[/COLOR][COLOR white]Temporada 3[/COLOR]</title>    
 <link>$doregex[c]</link>
 <regex>
 <name>c</name>
@@ -213,7 +213,7 @@ from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
 import six
 TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
-url = 'https://pastebin.com/raw/62pwWJYJ'
+url = 'https://pastebin.com/raw/ffSMVR1S'
 titulo = 'Juego de Tronos'
 import base64, codecs
 
@@ -288,13 +288,13 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <page></page>
 </regex>
 <info>Serie de TV (2011-2019). 8 temporadas. 73 episodios. La historia se desarrolla en un mundo ficticio de carácter medieval donde hay Siete Reinos. Hay tres líneas argumentales principales: la crónica de la guerra civil dinástica por el control de Poniente entre varias familias nobles que aspiran al Trono de Hierro; la creciente amenaza de "los otros", seres desconocidos que viven al otro lado de un inmenso muro de hielo que protege el Norte de Poniente; y el viaje de Daenerys Targaryen, la hija exiliada del rey que fue asesinado en una guerra civil anterior, y que pretende regresar a Poniente para reclamar sus derechos dinásticos. Tras un largo verano de varios años, el temible invierno se acerca a los Siete Reinos. Lord Eddard 'Ned' Stark, señor de Invernalia, deja sus dominios para ir a la corte de su amigo, el rey Robert Baratheon, en Desembarco del Rey, la capital de los Siete Reinos. Stark se convierte en la Mano del Rey e intenta desentrañar una maraña de intrigas que pondrá en peligro su vida y la de todos los suyos. Mientras tanto, diversas facciones conspiran con un solo objetivo: apoderarse del trono.</info>
-<thumbnail>https://i.imgur.com/IYLsTB9.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/yeXo5F1.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 </item>
 
 
 <item>
-<title>[COLOR gold]*[/COLOR][COLOR white]Temporada 1[/COLOR]</title>    
+<title>[COLOR gold]*[/COLOR][COLOR white]Temporada 4[/COLOR]</title>    
 <link>$doregex[c]</link>
 <regex>
 <name>c</name>
@@ -310,7 +310,7 @@ from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
 import six
 TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
-url = 'https://pastebin.com/raw/62pwWJYJ'
+url = 'https://pastebin.com/raw/FMLic6sJ'
 titulo = 'Juego de Tronos'
 import base64, codecs
 
@@ -385,13 +385,13 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <page></page>
 </regex>
 <info>Serie de TV (2011-2019). 8 temporadas. 73 episodios. La historia se desarrolla en un mundo ficticio de carácter medieval donde hay Siete Reinos. Hay tres líneas argumentales principales: la crónica de la guerra civil dinástica por el control de Poniente entre varias familias nobles que aspiran al Trono de Hierro; la creciente amenaza de "los otros", seres desconocidos que viven al otro lado de un inmenso muro de hielo que protege el Norte de Poniente; y el viaje de Daenerys Targaryen, la hija exiliada del rey que fue asesinado en una guerra civil anterior, y que pretende regresar a Poniente para reclamar sus derechos dinásticos. Tras un largo verano de varios años, el temible invierno se acerca a los Siete Reinos. Lord Eddard 'Ned' Stark, señor de Invernalia, deja sus dominios para ir a la corte de su amigo, el rey Robert Baratheon, en Desembarco del Rey, la capital de los Siete Reinos. Stark se convierte en la Mano del Rey e intenta desentrañar una maraña de intrigas que pondrá en peligro su vida y la de todos los suyos. Mientras tanto, diversas facciones conspiran con un solo objetivo: apoderarse del trono.</info>
-<thumbnail>https://i.imgur.com/IYLsTB9.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/WMUb5zG.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 </item>
 
 
 <item>
-<title>[COLOR gold]*[/COLOR][COLOR white]Temporada 1[/COLOR]</title>    
+<title>[COLOR gold]*[/COLOR][COLOR white]Temporada 5[/COLOR]</title>    
 <link>$doregex[c]</link>
 <regex>
 <name>c</name>
@@ -407,7 +407,7 @@ from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
 import six
 TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
-url = 'https://pastebin.com/raw/62pwWJYJ'
+url = 'https://pastebin.com/raw/tuDPuTZ3'
 titulo = 'Juego de Tronos'
 import base64, codecs
 
@@ -482,13 +482,13 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <page></page>
 </regex>
 <info>Serie de TV (2011-2019). 8 temporadas. 73 episodios. La historia se desarrolla en un mundo ficticio de carácter medieval donde hay Siete Reinos. Hay tres líneas argumentales principales: la crónica de la guerra civil dinástica por el control de Poniente entre varias familias nobles que aspiran al Trono de Hierro; la creciente amenaza de "los otros", seres desconocidos que viven al otro lado de un inmenso muro de hielo que protege el Norte de Poniente; y el viaje de Daenerys Targaryen, la hija exiliada del rey que fue asesinado en una guerra civil anterior, y que pretende regresar a Poniente para reclamar sus derechos dinásticos. Tras un largo verano de varios años, el temible invierno se acerca a los Siete Reinos. Lord Eddard 'Ned' Stark, señor de Invernalia, deja sus dominios para ir a la corte de su amigo, el rey Robert Baratheon, en Desembarco del Rey, la capital de los Siete Reinos. Stark se convierte en la Mano del Rey e intenta desentrañar una maraña de intrigas que pondrá en peligro su vida y la de todos los suyos. Mientras tanto, diversas facciones conspiran con un solo objetivo: apoderarse del trono.</info>
-<thumbnail>https://i.imgur.com/IYLsTB9.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ErJi8Dv.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 </item>
 
 
 <item>
-<title>[COLOR gold]*[/COLOR][COLOR white]Temporada 1[/COLOR]</title>    
+<title>[COLOR gold]*[/COLOR][COLOR white]Temporada 6[/COLOR]</title>    
 <link>$doregex[c]</link>
 <regex>
 <name>c</name>
@@ -504,7 +504,7 @@ from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
 import six
 TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
-url = 'https://pastebin.com/raw/62pwWJYJ'
+url = 'https://pastebin.com/raw/3fCayTHx'
 titulo = 'Juego de Tronos'
 import base64, codecs
 
@@ -579,13 +579,13 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <page></page>
 </regex>
 <info>Serie de TV (2011-2019). 8 temporadas. 73 episodios. La historia se desarrolla en un mundo ficticio de carácter medieval donde hay Siete Reinos. Hay tres líneas argumentales principales: la crónica de la guerra civil dinástica por el control de Poniente entre varias familias nobles que aspiran al Trono de Hierro; la creciente amenaza de "los otros", seres desconocidos que viven al otro lado de un inmenso muro de hielo que protege el Norte de Poniente; y el viaje de Daenerys Targaryen, la hija exiliada del rey que fue asesinado en una guerra civil anterior, y que pretende regresar a Poniente para reclamar sus derechos dinásticos. Tras un largo verano de varios años, el temible invierno se acerca a los Siete Reinos. Lord Eddard 'Ned' Stark, señor de Invernalia, deja sus dominios para ir a la corte de su amigo, el rey Robert Baratheon, en Desembarco del Rey, la capital de los Siete Reinos. Stark se convierte en la Mano del Rey e intenta desentrañar una maraña de intrigas que pondrá en peligro su vida y la de todos los suyos. Mientras tanto, diversas facciones conspiran con un solo objetivo: apoderarse del trono.</info>
-<thumbnail>https://i.imgur.com/IYLsTB9.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/cQSNceY.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 </item>
 
 
 <item>
-<title>[COLOR gold]*[/COLOR][COLOR white]Temporada 1[/COLOR]</title>    
+<title>[COLOR gold]*[/COLOR][COLOR white]Temporada 7[/COLOR]</title>    
 <link>$doregex[c]</link>
 <regex>
 <name>c</name>
@@ -601,7 +601,7 @@ from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
 import six
 TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
-url = 'https://pastebin.com/raw/62pwWJYJ'
+url = 'https://pastebin.com/raw/xb7LQ8VR'
 titulo = 'Juego de Tronos'
 import base64, codecs
 
@@ -676,13 +676,13 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <page></page>
 </regex>
 <info>Serie de TV (2011-2019). 8 temporadas. 73 episodios. La historia se desarrolla en un mundo ficticio de carácter medieval donde hay Siete Reinos. Hay tres líneas argumentales principales: la crónica de la guerra civil dinástica por el control de Poniente entre varias familias nobles que aspiran al Trono de Hierro; la creciente amenaza de "los otros", seres desconocidos que viven al otro lado de un inmenso muro de hielo que protege el Norte de Poniente; y el viaje de Daenerys Targaryen, la hija exiliada del rey que fue asesinado en una guerra civil anterior, y que pretende regresar a Poniente para reclamar sus derechos dinásticos. Tras un largo verano de varios años, el temible invierno se acerca a los Siete Reinos. Lord Eddard 'Ned' Stark, señor de Invernalia, deja sus dominios para ir a la corte de su amigo, el rey Robert Baratheon, en Desembarco del Rey, la capital de los Siete Reinos. Stark se convierte en la Mano del Rey e intenta desentrañar una maraña de intrigas que pondrá en peligro su vida y la de todos los suyos. Mientras tanto, diversas facciones conspiran con un solo objetivo: apoderarse del trono.</info>
-<thumbnail>https://i.imgur.com/IYLsTB9.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/3frJITw.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 </item>
 
 
 <item>
-<title>[COLOR gold]*[/COLOR][COLOR white]Temporada 1[/COLOR]</title>    
+<title>[COLOR gold]*[/COLOR][COLOR white]Temporada 8[/COLOR]</title>    
 <link>$doregex[c]</link>
 <regex>
 <name>c</name>
@@ -698,7 +698,7 @@ from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
 import six
 TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
-url = 'https://pastebin.com/raw/62pwWJYJ'
+url = 'https://pastebin.com/raw/judqHfC6'
 titulo = 'Juego de Tronos'
 import base64, codecs
 
@@ -773,7 +773,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <page></page>
 </regex>
 <info>Serie de TV (2011-2019). 8 temporadas. 73 episodios. La historia se desarrolla en un mundo ficticio de carácter medieval donde hay Siete Reinos. Hay tres líneas argumentales principales: la crónica de la guerra civil dinástica por el control de Poniente entre varias familias nobles que aspiran al Trono de Hierro; la creciente amenaza de "los otros", seres desconocidos que viven al otro lado de un inmenso muro de hielo que protege el Norte de Poniente; y el viaje de Daenerys Targaryen, la hija exiliada del rey que fue asesinado en una guerra civil anterior, y que pretende regresar a Poniente para reclamar sus derechos dinásticos. Tras un largo verano de varios años, el temible invierno se acerca a los Siete Reinos. Lord Eddard 'Ned' Stark, señor de Invernalia, deja sus dominios para ir a la corte de su amigo, el rey Robert Baratheon, en Desembarco del Rey, la capital de los Siete Reinos. Stark se convierte en la Mano del Rey e intenta desentrañar una maraña de intrigas que pondrá en peligro su vida y la de todos los suyos. Mientras tanto, diversas facciones conspiran con un solo objetivo: apoderarse del trono.</info>
-<thumbnail>https://i.imgur.com/IYLsTB9.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/e39RNmG.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 </item>
 
