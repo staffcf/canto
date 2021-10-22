@@ -30,6 +30,18 @@
 			]
 			},
 			{
+			"tag": " 1Torrent, 1Documental, A2021, Letra B, Spain, C720, ",
+			"name": "Bidea, el camino. 10 años sin ETA (2021)","coloryear": "cyan",
+			"image": "https://i.imgur.com/zbsr7eY.jpg",
+			"info": "Se cumplen 10 años desde que ETA cesara la violencia. Viajamos al País Vasco para ver cómo convive y afronta la juventud ese pasado de violencia.",
+			"genero": "Documental",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:FC4EEAB7BB566C87C9DC53C4725E9DE014CB9E72&dn=HD720"
+				}		
+			]
+			},
+			{
 			"tag": " 1Torrent, 1Documental, A2021, Letra C, EEUU, C720, Drogas, Netflix, ",
 			"name": "Crack: Cocaina, corrupcion y conspiracion (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f7x1RoKXEkYtw175m7sN4emUrXl.jpg",
@@ -121,6 +133,18 @@
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:90CB1579F569B29E566B208D0F06151F1C1A0BCB&dn=HD1080",  
+				}		
+			]
+			},
+			{
+			"tag": " 1Torrent, 1Documental, A2021, Letra I, Spain, C720, ",
+			"name": "Impuros (2021)","coloryear": "cyan",
+			"image": "https://i.imgur.com/2ZZZBIT.jpg",
+			"info": "¿Qué harías tú, si supieras que tu vecino de escalera puede ser amenazado, incluso asesinado, por sus ideas? ¿Llamarías a su puerta y le dirías que tiene toda tu solidaridad y lucharías para evitarlo o mirarías para otro lado? La respuesta a esta pregunta llevó a Eduardo Madina y a Borja Sémper a entrar en política en el País Vasco con solo 17 años. Esta decisión los convirtió en objetivo de la banda terrorista ETA y marcó sus vidas y las de sus familias. Con motivo del décimo aniversario del cese de actividad de la banda ambos, amigos y antagonistas políticos, deciden reunirse en un caserío vasco durante cuatro días para repasar sus trayectorias vitales y hacer un alegato contra cualquier tipo de totalitarismo",
+			"genero": "Documental",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:E1F9EF83B4CD5E5157132CB06BF0A7511B8C0E5B&dn=HD720"
 				}		
 			]
 			},
