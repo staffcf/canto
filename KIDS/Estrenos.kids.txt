@@ -2,6 +2,17 @@
 
 
 <item>
+<title>[COLOR white] Menuda momia [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.2[/COLOR]</title>    
+<genre>Fantástico,Terror,Monstruos,Cine familiar</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/hQtHT8o.jpg</thumbnail>
+<fanart>https://i.imgur.com/UDxhh2k.jpg</fanart>
+<info>Tres amigos intentan salvar a su amigo momificado, Harold, de los criminales codiciosos devolviéndolo a su lugar de descanso antes de la medianoche de Halloween.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=9ankZui5fK4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/dz3w4tx5zdrk845"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/0vw9ngxxhezol8"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/0r0vthayy4xa"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "Falta Poner"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/rc9j3x8p0a1a"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1v0dyl42ORKEZLuhsyutsy7W3kCgFLLpu/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] La patrulla canina - la película [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.7[/COLOR]</title>    
 <genre>Animación,Infantil,Preescolar,Perros/Lobos</genre>
 <year>2021</year>
