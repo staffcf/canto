@@ -795,6 +795,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Terror, 1Drama, A2021, Letra C, EEUU, ",
+			"name": "Caged (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/gkBGXYNXWhcW7VI9POpeLLNgtSd.jpg",
+			"info": "Un hombre afroamericano es encarcelado y puesto en confinamiento solitario después de ser declarado culpable de asesinar a su esposa, ahí es perseguido por demonios internos y el fantasma de su esposa muerta, además de ser acosado por una guardia abusiva.",
+			"genero": "Thriller, Terror, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Caged-Enjaulado-.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra C, Francia, Netflix, ",
 			"name": "Calle de la Humanidad, 8 (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/wgPnrFjENWUmU2VaWC0qZV2hjlW.jpg",
@@ -2194,6 +2207,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:B8E4D1C74065B2916C9A9C83597769A596ED3B3F&dn=HD1080",  magnet:?xt=urn:btih:169061A0C32F5DC238B33EA7225D125704964E0D&dn=BRRip
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Infantil, A2021, Letra L, EEUU, ",
+			"name": "La Patrulla Canina: La pelicula (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/2Y5OZsWBksmEl2Dggfx46DfRkFO.jpg",
+			"info": "La Patrulla Canina está en racha. Cuando Humdinger, su mayor rival, se convierte en alcalde de la cercana Ciudad Aventura y empieza a causar estragos, Ryder y los heroicos cachorros se ponen en marcha para enfrentarse a este nuevo desafío. Mientras uno de los cachorros debe enfrentarse a su pasado en Ciudad Aventura, el equipo encuentra ayuda en una nueva aliada, la inteligente perrita salchicha Liberty. Juntos y armados con nuevos y emocionantes artefactos y equipos, la Patrulla Canina lucha por salvar a los ciudadanos de Ciudad Aventura.",
+			"genero": "Animacion, Infantil",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/La.patrulla.canina-La.pelicula.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
