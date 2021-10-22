@@ -1,0 +1,69 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ INFORME +
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"INFORME +", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://i.imgur.com/OH1HYnt.jpg",
+	- 1SerieTitle:"INFORME +", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://i.imgur.com/OH1HYnt.jpg",
+	
+-->
+======================================================================
+======================================================================
+======================================================================
+			"Tag= SERIETEMP1, TORRENTTEMP1, "
+			<item>
+			<title>1x01 - La Plata de Los Ángeles</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Informe.plus/1x01.-Informe.plus.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP1, TORRENTTEMP1, "
+			<item>
+			<title>1x02 - Veteranos, Ganarle al Tiempo</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Informe.plus/1x02.-Informe.plus.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP1, TORRENTTEMP1, "
+			<item>
+			<title>1x03 - 'Hermanos' e 'Irrepetible, la Gesta del TDK Manresa'</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Informe.plus/1x03.-Informe.plus.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP1, TORRENTTEMP1, "
+			<item>
+			<title>1x04 - En Blanca y Negro</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Informe.plus/1x04.-Informe.plus.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP1, TORRENTTEMP1, "
+			<item>
+			<title>x105 - 'El Gran Salto de Celia' y 'Yo Soy José Legrá'</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Informe.plus/1x05.-Informe.plus.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP1, TORRENTTEMP1, "
+			<item>
+			<title>1x06 - Xabi Alonso</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Informe.plus/1x06.-Informe.plus.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP1, TORRENTTEMP1, "
+			<item>
+			<title>1x07 - 'Canales, el 10' y 'Cata, Resiliencia'</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Informe.plus/1x07.-Informe.plus.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= SERIETEMP2, TORRENTTEMP2, "
+			<item>
+			<title>2x01 - 'La Importancia de un Campo de Criquet' y 'Titán Fali'</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Informe.plus/2x01.-Informe.plus.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
