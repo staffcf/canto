@@ -702,7 +702,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"torrent4k": ""	
 				}		
 			]
-			}
+			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, A2021, Letra B, Italia, Netflix, ",
 			"name": "Beckett (2021)","coloryear": "cyan",
@@ -715,7 +715,20 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"torrent4k": ""	
 				}		
 			]
-			},,
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, A2021, Letra B, Canada, ",
+			"name": "Best Sellers (2021)","coloryear": "cyan",
+			"image": "https://i.imgur.com/xK8rT45.jpg",
+			"info": "La joven Lucy Standbridge (Aubrey Plaza) ha heredado la editorial de su padre, pero su ambición como editora la está hundiendo con varios títulos fallidos. Desesperada, un día Lucy descubre que el escritor Harris Shaw (Michael Caine), un autor solitario, cascarrabias y alcohólico que fue un gran éxito de ventas décadas antes, tiene por contrato con la editorial todavía un libro por entregar. En un último esfuerzo por salvar la empresa, Lucy obligará a Harris a lanzar un nuevo libro, embarcándose ambos en una gira de promoción que les cambiará de una manera que no esperaban",
+			"genero": "Comedia, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Best.Sellers.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Accion, 1Drama, A2021, Letra B, Argentina, Disney, Cine Latino, ",
 			"name": "BIA: Un Mundo al Reves (2021)","coloryear": "cyan",
