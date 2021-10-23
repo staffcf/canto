@@ -430,7 +430,20 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 		{
 		"name": "2021",
 		"image": "",
-		"groups": [
+		"groups": [,
+			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Fantastico, 1Terror, A2021, Letra NUM, EEUU, Disney, ",
+			"name": "¡Menuda momia! (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/bTlQchCU05xJZyn4Va8gHkTeayu.jpg",
+			"info": "Tres amigos intentan salvar a su amigo momificado, Harold, de los criminales codiciosos devolviéndolo a su lugar de descanso antes de la medianoche de Halloween",
+			"genero": "Fantastico, Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Menuda.momia.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Accion, A2021, Letra A, EEUU, Netflix, ",
 			"name": "A descubierto (2021)","coloryear": "cyan",
@@ -1129,6 +1142,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:13E4C30662F31C344E47C4C1E427C0F0EC1AD6D7&dn=HD720",  magnet:?xt=urn:btih:3B0F0CC0C94E133FDCF85C7B7F19868A3B06878F&dn=BRRip
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Aventuras, 1Drama, A2021, Letra D, EEUU, ",
+			"name": "Dune (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/cH8Meyut6Nt2J30NGc9SmHfFs6Z.jpg",
+			"info": "Arrakis, el planeta del desierto, feudo de la familia Harkonnen desde hace generaciones, queda en manos de la Casa de los Atreides después de que el emperador ceda a ésta la explotación de las reservas de especia, una de las materias primas más valiosas de la galaxia y también una droga capaz de amplificar la conciencia y extender la vida. El duque Leto (Oscar Isaac), la dama Jessica (Rebecca Ferguson) y el hijo de ambos, Paul Atreides (Timothée Chalamet), llegan al planeta con la esperanza de recuperar el renombre de su casa, pero pronto se verán envueltos en una trama de traiciones y engaños que les llevarán a cuestionar su confianza entre sus más allegados y a valorar a los lugareños, los Fremen, una estirpe de habitantes del desierto con una estrecha relación con la especia",
+			"genero": "Ciencia ficcion, Aventuras, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Dune.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": "magnet:?xt=urn:btih:73356F001C27D46FDBBC6DA76BD20B5F21CDA2F5&dn=Web4K"	
 				}		
 			]
 			},
