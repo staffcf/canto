@@ -3,6 +3,17 @@
 ==========================================================================================
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
+
+<item>
+<title>[COLOR white] Operacion Camaron [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.3[/COLOR]</title>    
+<genre>Comedia</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/FrMsAdr.jpg</thumbnail>
+<fanart>https://i.imgur.com/r5tWYdJ.jpg</fanart>
+<info>Sebas, un policía novato y con aspecto de pringado, es elegido para una peligrosa misión: se tendrá que infiltrar como teclista en "Los Lolos" una agrupación de flamenco-trap que va a tocar en la boda de la hija de un traficante local.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=J0wx4UuuTJQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/3p1j2cme5wwprpw"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/l6r6w489bv39x1"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/fkmpxex753rt"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/7th5ax7s2r3t.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/2bx5ywr826tn"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Ic6JgNE2RvBaGy05WgrW7xBG7q3BzICo/view"}</urlsolve>
+</item>
+
 <item>
 <title>[COLOR white] Dune [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.1[/COLOR]</title>    
 <genre>Ciencia ficción,Aventuras,Drama,Aventura espacial,Cine épico</genre>
