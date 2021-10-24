@@ -53,6 +53,8 @@ Title:101 DALMATAS, SagaID:P101Dalmatas, Imagen:https://www.themoviedb.org/t/p/o
 							-	0Saga, 1SagaTorrent, 
 Title:3 METROS SOBRE EL CIELO, SagaID:3MSEC, Imagen:https://www.themoviedb.org/t/p/original/zVNxqJfzw9MCtkLuFxXo4KL3ye1.jpg,
 							-	0Saga, 1SagaTorrent, 
+Title:28, SagaID:28dias, Imagen:https://i.imgur.com/k1THtZd.jpg,
+							-	0Saga, 1SagaTorrent, 
 Title:A 47 METROS, SagaID:A47m, Imagen:https://www.themoviedb.org/t/p/original/9XupsXE6vFjR8qvy6WaR46ScrIw.jpg,
 							-	0Saga, 1SagaTorrent, 
 Title:ABIERTO HASTA EL AMANECER, SagaID:AHEAmanecer, Imagen:https://m.media-amazon.com/images/I/81KyXdyQODL._SY500_.jpg,	
@@ -439,7 +441,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Fantastico, Terror",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Menuda.momia.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Menuda.momia.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:938BE4C12812AB0563EE9E18ED4F0474C0EAF053&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -724,7 +726,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Comedia, Drama",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Best.Sellers.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Best.Sellers.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:0A8514FDCA3096095E60FDD3A3DC2A170D46B0E0&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -2687,6 +2689,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:70EC0F0EF538827681E0C05A7970F4C75DA13E4A&dn=HD1080",	magnet:?xt=urn:btih:DB53F568738DD7A579C85A9C18A2F799D10581AB&dn=HD720	magnet:?xt=urn:btih:1CE4B3D240C5A003A017E7D4C238ED3A8A1F23FD&dn=BRRip	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Nadie.saldra.vivo.de.aqui.-2021.-.1080.-.CristalAzul.mkv.torrent
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Romance, A2021, Letra N, EEUU, ",
+			"name": "Needle In a Timestack (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/jC2aqSgxaBsZEQwtOc1eEkIufIG.jpg",
+			"info": "Nick y Janine viven en la felicidad conyugal hasta que el exmarido de Janine distorsiona el tiempo para intentar separarlos. A medida que los recuerdos de Nick desaparecen, debe decidir qué está dispuesto a sacrificar para conservar -o dejar ir- todo lo que ama.",
+			"genero": "Ciencia ficcion, Romance",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Needle.In.a.Timestack.-2021.-.1080.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""	
 				}		
 			]
@@ -35350,6 +35365,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 		"image": "",
 		"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Ciencia 1ficcion, Thriller, A2007, Letra NUM, Reino Unido, Sagas 28dias, ",
+			"name": "28 semanas despues (2007)","coloryear": "steelblue",
+			"image": "https://www.themoviedb.org/t/p/original/8ILCu7IVMgCanFJSGIOvIxGeB4l.jpg",
+			"info": "Seis meses después de que la propagación de un virus haya devastado las Islas Británicas, el ejército de los Estados Unidos declara que, vencida la epidemia, ya se puede acometer la reconstrucción del país. Los evacuados regresan entonces al país y las familias se reúnen de nuevo. Sin embargo, el virus aún no ha sido destruido y es más peligroso que nunca",
+			"genero": "Terror, Ciencia ficcion, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/28.semanas.despues.-2007.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Terror, A2007, Letra A, EEUU, Extraterrestres, Sagas Alien,  Sagas Depredador, ",
 			"name": "Alien vs. Predator 2 (2007)","coloryear": "steelblue",
 			"image": "https://www.themoviedb.org/t/p/original/3U0JSDmyqXlCOlXeCcPD5PQmp9Q.jpg",
@@ -37611,7 +37639,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Terror, Ciencia ficcion, Thriller",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:5fad59881c6f562292fc732d29e01779bc586c19&dn=HD1080",	magnet:?xt=urn:btih:E0A7F4C3CD56AEAD619ADD4390E71F227435F2FD&dn=DVDRip
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/28.dias.despues.-2002.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:5fad59881c6f562292fc732d29e01779bc586c19&dn=HD1080	magnet:?xt=urn:btih:E0A7F4C3CD56AEAD619ADD4390E71F227435F2FD&dn=DVDRip
 				"torrent4k": ""	
 				}		
 			]
