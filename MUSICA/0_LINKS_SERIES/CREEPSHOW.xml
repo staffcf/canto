@@ -188,11 +188,18 @@
 			<torrent>magnet:?xt=urn:btih:7D37CFD2B267BCE213EB6D1F77DF4A5E1229B981&dn=HD720</torrent>
 			</item>
 ======================================================================
-			"Tag=   "
+			"Tag=  TORRENTTEMP2, "
 			<item>
 			<title>2x19 - Capitulo 19</title>
-			<torrent></torrent>
+			<torrent>magnet:?xt=urn:btih:437E8A192A438E42206E2A581B3D594C54323DB2&dn=HD720</torrent>
 			</item>
+======================================================================
+			"Tag=  TORRENTTEMP2, "
+			<item>
+			<title>2x20 - Capitulo 20</title>
+			<torrent>magnet:?xt=urn:btih:30CC7F028C6F2429A267A0FAED28A7D9A69A3BB6&dn=HD720</torrent>
+			</item>
+======================================================================
 ======================================================================
 ======================================================================
 ======================================================================
@@ -316,10 +323,16 @@
 			<torrent>magnet:?xt=urn:btih:589885DD5D76491D08A1A92F626FA9181E3BADB7&dn=HDTV</torrent>
 			</item>
 ======================================================================
-			"Tag=   "
+			"Tag=  TORRENTTEMP2, "
 			<item>
 			<title>2x19 - Capitulo 19</title>
-			<torrent></torrent>
+			<torrent>magnet:?xt=urn:btih:1E440F585060884B8D5ACE45457ED04CFF42BF86&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag=  TORRENTTEMP2, "
+			<item>
+			<title>2x20 - Capitulo 20</title>
+			<torrent>magnet:?xt=urn:btih:79C1F3AFC3C7257C9E5A4087D269576C33887B23&dn=HDTV</torrent>
 			</item>
 ======================================================================
 ======================================================================
