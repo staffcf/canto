@@ -17,17 +17,69 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - [COLOR yellow]OPCION MULTIAUDIO Y SUBTITULOS</title>      
-			<torrent></torrent>
+			<title> - [COLOR yellow]CALIDAD 1080</title>    
+			<torrent>magnet:?xt=urn:btih:</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 1 a 4</title>      
+			<title>1x01 - Parte 1</title>      
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Unorthodox/1x01.-Unorthodox.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x02 - Parte 2</title>      
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Unorthodox/1x02.-Unorthodox.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x03 - Parte 3</title>      
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Unorthodox/1x03.-Unorthodox.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x04 - Parte 4</title>      
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Unorthodox/1x04.-Unorthodox.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>    
+			<torrent>magnet:?xt=urn:btih:</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>    
+			<torrent>magnet:?xt=urn:btih:</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Partes 1 a 4</title>    
+			<torrent>magnet:?xt=urn:btih:7EFE8F044C92B3D2F65BED807CAC6C778DF70754</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag=  "
+			<item>
+			<title>1x0. - Capitulos 1 a 4</title>      
 			<torrent>magnet:?xt=urn:btih:acec7571a021aa548b4a74e76e00a7bfa625ca97</torrent>
 			</item>
 ======================================================================
 ======================================================================
+======================================================================
+			"Tag=  "
+			<item>
+			<title>Calidad 720 - Capitulos 1 a 4</title>    
+			<torrent>magnet:?xt=urn:btih:8E7B8B04D4CA694F78FA237391E50793DBB23D2D</torrent>
+			</item>
 ======================================================================
 
 
