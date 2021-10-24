@@ -10,7 +10,8 @@
 	ETIQUETAS:
 	
 	- 1SerieTitle:"CREEPSHOW", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/uxkjj0FFlhUjbDEWCxtLZKU5iwh.jpg",
-	- 1SerieTitle:"CREEPSHOW", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/2gPdnWIl8bMHBk4P4CqiszpYMcC.jpg",
+	- 1SerieTitle:"CREEPSHOW", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/2gPdnWIl8bMHBk4P4CqiszpYMcC.jpg",	
+	- 1SerieTitle:"CREEPSHOW", SerieTemp:"TEMPORADA 3", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/Dol4u98RsYEQeDOMh56Qt6JRXF.jpg",
 	
 -->
 ======================================================================
@@ -333,6 +334,52 @@
 			<item>
 			<title>2x20 - Capitulo 20</title>
 			<torrent>magnet:?xt=urn:btih:79C1F3AFC3C7257C9E5A4087D269576C33887B23&dn=HDTV</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - Capitulos 1 a 4</title>
+			<torrent>magnet:?xt=urn:btih:32A67985657C37AD59370F72487E892A4DC9A4A7&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - Capitulos 5 a 8</title>
+			<torrent>magnet:?xt=urn:btih:D584BCC83C2FC49657262EBF2CB2EFA825F7AB61&dn=HD720</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - Capitulos 1 a 4</title>
+			<torrent>magnet:?xt=urn:btih:CBBE72D62666072416F2AA5D9F2A1AA409A5C3B9&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - Capitulos 5 a 8</title>
+			<torrent>magnet:?xt=urn:btih:C653C02C289787FBBFC1936B35CCCBE1D7CBDBCF&dn=HDTV</torrent>
 			</item>
 ======================================================================
 ======================================================================
