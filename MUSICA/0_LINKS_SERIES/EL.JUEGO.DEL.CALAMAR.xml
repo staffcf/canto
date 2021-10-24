@@ -15,7 +15,7 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - [COLOR yellow]CALIDAD 1080</title>
+			<title>[B][COLOR turquoise]OPCION 1 - [COLOR yellow]CALIDAD 1080</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
@@ -33,7 +33,73 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - [COLOR yellow]CALIDAD 720/1080</title>
+			<title>[B][COLOR turquoise]OPCION 2 - [COLOR yellow]CALIDAD 1080</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x01 - Luz roja, luz verde</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/El.juego.del.calamar/1x01.-El.juego.del.calamar.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x02 - Infierno</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/El.juego.del.calamar/1x02.-El.juego.del.calamar.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x03 - El hombre del paraguas</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/El.juego.del.calamar/1x03.-El.juego.del.calamar.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x04 - El equipo es lo primero</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/El.juego.del.calamar/1x04.-El.juego.del.calamar.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x05 - Un mundo justo</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/El.juego.del.calamar/1x05.-El.juego.del.calamar.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x06 - Gganbu</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/El.juego.del.calamar/1x06.-El.juego.del.calamar.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x07 - Personas importantes</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/El.juego.del.calamar/1x07.-El.juego.del.calamar.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x08 - El líder</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/El.juego.del.calamar/1x08.-El.juego.del.calamar.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x09 - Un día con suerte</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/El.juego.del.calamar/1x09.-El.juego.del.calamar.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>[B][COLOR turquoise]OPCION 3 - [COLOR yellow]CALIDAD 720/1080</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
@@ -64,7 +130,25 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<title>[B][COLOR turquoise]OPCION 4 - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 a 9</title>
+			<torrent>magnet:?xt=urn:btih:64d6fb5b1319fe8970f835a1b52a25ffb7e5bd20&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>[B][COLOR turquoise]OPCION 5 - [COLOR yellow]CALIDAD HDTV</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
