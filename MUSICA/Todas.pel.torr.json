@@ -1680,6 +1680,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 0Torrentcristal, 1Torrent4k, 1Accion, 1Thriller, 1Ciencia ficcion, A2021, Letra F, EEUU, Sagas ATodoGas, ",
+			"name": "Fast & Furious 9 [COLOR gold](Ver.Ext) (2021)","coloryear": "cyan",
+			"image": "https://i.imgur.com/lRDYN3L.jpg",
+			"info": "Dom Toretto (Vin Diesel) lleva una vida tranquila con Letty y su hijo, el pequeño Brian, pero saben que el peligro siempre acecha. Esta vez, esa amenaza obligará a Dom a enfrentarse a los pecados de su pasado si quiere salvar a quienes más quiere. El equipo se vuelve a reunir para impedir un complot a escala mundial, liderado por uno de los asesinos más peligrosos y mejor conductor a los que se han enfrentado; un hombre que además es el hermano desaparecido de Dom, Jakob (John Cena). Novena entrega de la famosa franquicia",
+			"genero": "Accion, Thriller, Ciencia ficcion",
+			"stations": [
+				{
+				"torrent": "",
+				"torrent4k": "magnet:?xt=urn:btih:86854CBB5C4AD40C87E97C938B0278DBAD8401BC&dn=UHDRip"	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Accion, 1Thriller, 1Ciencia ficcion, A2021, Letra F, EEUU, Sagas ATodoGas, ",
 			"name": "Fast & Furious 9 (2021)","coloryear": "cyan",
 			"image": "https://i.imgur.com/lRDYN3L.jpg",
@@ -2053,6 +2066,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:1FC34828A33DE81725920FEE18013A8D20A93738&dn=BRRip",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Aventuras, 1Infantil, A2021, Letra L, Alemania, ",
+			"name": "La abeja Maya: El orbe dorado (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/qFyWyKWvyJVQ5uncgLBjPoSambf.jpg",
+			"info": "La abeja Maya y su mejor amigo, Willi, rescatan a una princesa hormiga y se ven envueltos en una batalla épica entre insectos que les llevará a mundos desconocidos y pondrá a prueba su amistad",
+			"genero": "Animacion, Aventuras, Infantil",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/La.abeja.Maya-El.orbe.dorado.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
