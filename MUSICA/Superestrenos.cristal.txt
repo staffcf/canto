@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Candyman [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.5[/COLOR]</title>    
+<genre>Terror,Sobrenatural</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/ygWWTZP.jpg</thumbnail>
+<fanart>https://i.imgur.com/jFN1qGe.jpg</fanart>
+<info>Desde tiempos inmemoriales, los proyectos residenciales del barrio de Cabrini Green en Chicago se han visto amenazados por la historia de un supuesto asesino en serie con un gancho por mano al que se invoca fácilmente repitiendo su nombre cinco veces frente a un espejo. Hoy, una década después de que la última torre de Cabrini fuese derruída, el artista visual Anthony McCoy (Yahya Abdul-Mateen) y su novia Brianna Cartwright (Teyonah Parris), se mudan a un apartamento de lujo de un barrio ahora irreconocible, repleto de millennials y de personas que, por lo general, desconocen su oscuro pasado.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=76GVmdWnevc"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/7mwj4sgq--zl36l"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "No deja subir de momento ,luego subo"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/v8iyd52ukfc0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/d/wp0m3co0xasd.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-gciaipbyvynz.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1QMS_3eMicH3tWOJQhRvHlSrCvc2rpZC-/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Ni un paso en falso [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.5[/COLOR]</title>    
 <genre>Thriller,Drama</genre>
 <year>2021</year>
