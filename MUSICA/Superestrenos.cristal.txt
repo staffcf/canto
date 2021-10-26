@@ -11,7 +11,7 @@
 <thumbnail>https://i.imgur.com/bUxTSys.jpg</thumbnail>
 <fanart>https://i.imgur.com/LKtXkhq.jpg</fanart>
 <info>Durante unas vacaciones en un paraíso tropical, una familia empieza a percibir que en la recóndita playa elegida para relajarse unas horas suceden algunas anomalías temporales...<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=qb2jx69rH6g"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/-46j3upkn748d3m"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "No deja subir,luego subo"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/h29q56zdon1c"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "Falta Poner"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/8sdern7ste0e"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1AlxqDa6RBHNuOR6KYI6b8Ma2mANYbQez/view"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=qb2jx69rH6g"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/-46j3upkn748d3m"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "No deja subir,luego subo"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/h29q56zdon1c"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/xdi6iu6jedj3.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/8sdern7ste0e"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1AlxqDa6RBHNuOR6KYI6b8Ma2mANYbQez/view"}</urlsolve>
 </item>
 
 
