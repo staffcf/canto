@@ -36813,6 +36813,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 		"image": "",
 		"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Drama, 1Ciencia ficcion, A2004, Letra NUM, China, 1Culto, ",
+			"name": "2046 (2004)","coloryear": "yellow",
+			"image": "https://www.themoviedb.org/t/p/original/93i0MALIu2r1IxTOp4gLsWmgWrC.jpg",
+			"info": "Un escritor que creía escribir sobre el futuro, en realidad estaba escribiendo sobre el pasado. En su novela, un misterioso tren salía de cuando en cuando con dirección al año 2046. Todos los que subían a él lo hacían con el mismo propósito: recobrar los recuerdos perdidos. Se decía que en 2046 nada cambiaba. Nadie sabía a ciencia cierta si eso era verdad, porque ninguno de los que viajaron regresó jamás. Con una excepción. Él estuvo allí. Se marchó voluntariamente. Quería cambiar.",
+			"genero": "Romance, Drama, Ciencia ficcion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/2046.-2004.-.720.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Terror, 1Fantastico, 1Accion, A2004, Letra A, EEUU, Extraterrestres, Sagas Alien,  Sagas Depredador, ",
 			"name": "Alien vs. Predator (2004)","coloryear": "yellow",
 			"image": "https://www.themoviedb.org/t/p/original/vP2Y3oTJQhP4rJehbTa2yUxn6df.jpg",
@@ -36848,6 +36861,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Blade.Trinity.2004.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:b5fjpa72zyqyzc2m4bdjnyegvp5zqxty&dn=HDRip  magnet:?xt=urn:btih:6B02327ABD806D8B33BDFB333561D8815970B245  magnet:?xt=urn:btih:ED40440B29D05A9957CB16DAEA7ABDCDE391ADC1
 				"torrent4k": "magnet:?xt=urn:btih:8E7DBE144A6801DBC6808E001AEB6A47962F1CD7"
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, A2004, Letra C, Japon, 1Culto, ",
+			"name": "Casshern (2004)","coloryear": "yellow",
+			"image": "https://www.themoviedb.org/t/p/original/4xGauRYjH3ms7UAVdoDPb85ZbbH.jpg",
+			"info": "Finales del siglo XXI. En un Japón post-apocalíptico, las continuas guerras con Euroasia, han provocado una grave contaminación nuclear y horribles mutaciones en la población. Un científico parece haber encontrado la panacea en las neo-células, una sustancia que regenera el tejido vivo e incluso lo optimiza y mejora.",
+			"genero": "Ciencia ficcion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Casshern.-2004.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -37326,6 +37352,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2003, Letra A, Francia, 1Culto, ",
+			"name": "Alta tension (2003)","coloryear": "darkviolet",
+			"image": "https://www.themoviedb.org/t/p/original/28qrjz22WbiWZ4jIJMXXt66pnH7.jpg",
+			"info": "La joven Marie es invitada a pasar unos días en la casa de los padres de su mejor amiga Alexia, una granja aislada y rodeada de campos de maíz. Las dos chicas piensan que allí encontrarán la tranquilidad necesaria para poder estudiar. Pero sus esperanzas son vanas. De noche llega a la casa un sádico asesino con la intención de matar a todos",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Alta.tension.-2003.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Aventuras, 1Comedia, 1Fantastico, 1Infantil, A2003, Letra A, EEUU, ADisney, ",
 			"name": "Atlantis: El regreso de Milo (2003)","coloryear": "darkviolet",
 			"image": "https://www.themoviedb.org/t/p/original/cGL75ElUUClVs8kpXbVcaUxmgbd.jpg",
@@ -37608,7 +37647,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Matrix.3.Revolutions.2003.-.1080.-.CristalAzul.mkv.torrent",   magnet:?xt=urn:btih:32e90e6bdbf0c80c349b4efb80bd5931aefdf61f&dn=BR1080
-				"torrent4k": "magnet:?xt=urn:btih:B9346E5E226F00BF4622047BADA3D3C29902F5C3&dn=UHDmicro",  magnet:?xt=urn:btih:56D0BD9FC1493D69E228242E2BBAF09A8ACA6599&dn=UHD4K	magnet:?xt=urn:btih:BFA6C90CBD5A19BC00A25F9F494EC19A740D8103&dn=UHDRemux
+				"torrent4k": "magnet:?xt=urn:btih:BFA6C90CBD5A19BC00A25F9F494EC19A740D8103&dn=UHDRemux",  magnet:?xt=urn:btih:56D0BD9FC1493D69E228242E2BBAF09A8ACA6599&dn=UHD4K		magnet:?xt=urn:btih:B9346E5E226F00BF4622047BADA3D3C29902F5C3&dn=UHDmicro
 				}		
 			]
 			},
@@ -38713,6 +38752,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{ 
 				"torrent": "magnet:?xt=urn:btih:1fa555566d9489e84e88ae14b98324cb17374fb2",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Thriller, A2000, Letra G, Canada, A2000-A1991, 1Culto, ",
+			"name": "Ginger Snaps (2000)","coloryear": "gold",
+			"image": "https://i.imgur.com/mWDXS6A.jpg",
+			"info": "Brigitte y su hermana Ginger son dos adolescentes muy unidas... y aburridas de su rutinaria vida. Pero cierta noche en que deciden gastar una broma a un chico, Ginger acaba siendo atacada por una extraña criatura. Aunque se recupera milagrosamente de las heridas, Ginger no está bien: comienzan a crecerle pelos en las cicatrices, una cola asoma por la base de su espina dorsal y siente un deseo irrefrenable de sangre humana... se está convirtiendo en una mujer-lobo. Brigitte tiene que ayudar a su hermana y recurre a Sam, un joven enigmático, con fama de chico malo y muy aficionado a la botánica... Y mientras Brigitte lucha por proteger a Ginger, se convierte en cómplice de sus crímenes violentos e incontrolables...",
+			"genero": "Terror, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Ginger.Snaps.-2000.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
