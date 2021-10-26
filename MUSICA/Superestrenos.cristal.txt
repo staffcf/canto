@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Cry Macho [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.7[/COLOR]</title>    
+<genre>Drama,Road Movie,Vejez / Madurez,Años 70. Años 80</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/baHZvBE.jpg</thumbnail>
+<fanart>https://i.imgur.com/34XXKbs.jpg</fanart>
+<info>Texas, 1978. Una ex estrella de rodeo y criador de caballos retirado (Eastwood) acepta un encargo de un antiguo jefe: traer a su hijo pequeño desde México de vuelta a casa para alejarlo de su madre alcohólica. En el viaje, ambos se embarcarán en una inesperada aventura.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=JVc8SI5CAKw"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/42njphzy13p7mj2"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "No deja subir,luego subo"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/610bajagtoll"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "Falta Poner"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ozpv8w87xdgc"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1fyDxwmuxJNymcmzceCeN5BQSeiK-mWGY/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Tiempo [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.7[/COLOR]</title>    
 <genre>Intriga,Fantástico.Thriller,Drama,Familia,Sobrenatural</genre>
 <year>2021</year>
