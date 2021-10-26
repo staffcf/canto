@@ -37595,7 +37595,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Matrix.2.Reloaded.2003.-.1080.-.CristalAzul.mkv.torrent",   magnet:?xt=urn:btih:d28d71f17517d49b928f91abdcc2bd76591e2e4f&dn=BR1080
-				"torrent4k": "magnet:?xt=urn:btih:6C04E692191D2BCA8A9AC57788B97A277E8A775F&dn=UHDmicro"  magnet:?xt=urn:btih:0D16D394B70BF829011A1C75E37683D6F2ABF05F&dn=UHD4K
+				"torrent4k": "magnet:?xt=urn:btih:0D16D394B70BF829011A1C75E37683D6F2ABF05F&dn=UHD4K",  magnet:?xt=urn:btih:6C04E692191D2BCA8A9AC57788B97A277E8A775F&dn=UHDmicro		magnet:?xt=urn:btih:4BC17673BAF7396507190F2AFFD6F9B9CAF54DAE&dn=UHDRemux
 				}		
 			]
 			},
@@ -37608,7 +37608,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Matrix.3.Revolutions.2003.-.1080.-.CristalAzul.mkv.torrent",   magnet:?xt=urn:btih:32e90e6bdbf0c80c349b4efb80bd5931aefdf61f&dn=BR1080
-				"torrent4k": "magnet:?xt=urn:btih:B9346E5E226F00BF4622047BADA3D3C29902F5C3&dn=UHDmicro"  magnet:?xt=urn:btih:56D0BD9FC1493D69E228242E2BBAF09A8ACA6599&dn=UHD4K
+				"torrent4k": "magnet:?xt=urn:btih:B9346E5E226F00BF4622047BADA3D3C29902F5C3&dn=UHDmicro",  magnet:?xt=urn:btih:56D0BD9FC1493D69E228242E2BBAF09A8ACA6599&dn=UHD4K	magnet:?xt=urn:btih:BFA6C90CBD5A19BC00A25F9F494EC19A740D8103&dn=UHDRemux
 				}		
 			]
 			},
@@ -39173,7 +39173,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Matrix.1999.-.1080.-.CristalAzul.mkv.torrent",   magnet:?xt=urn:btih:f321dc4e7696c5fa4e431f9f86de7cc0c8fc168c&dn=BR1080
-				"torrent4k": "magnet:?xt=urn:btih:47C28EBEBE2E69F6540AE722473EA6E54CB938AE&dn=UHDmicro"  magnet:?xt=urn:btih:42194E2A61E39E5B6B26492B750381462DD243B8&dn=UHD4K
+				"torrent4k": "magnet:?xt=urn:btih:42194E2A61E39E5B6B26492B750381462DD243B8&dn=UHD4K", magnet:?xt=urn:btih:4927C5658396E63E40BC9061BD805A7BB1E06966&dn=UHDRemux	magnet:?xt=urn:btih:47C28EBEBE2E69F6540AE722473EA6E54CB938AE&dn=UHDmicro
 				}		
 			]
 			},
