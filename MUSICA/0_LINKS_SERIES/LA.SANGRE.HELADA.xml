@@ -14,7 +14,7 @@
 -->
 ======================================================================
 ======================================================================
-			"Tag=  "
+			"Tag= TORRENTTEMP1, "
 			<item>
 			<title> - [COLOR yellow]CALIDAD 720</title>
 			<torrent></torrent>
@@ -30,6 +30,56 @@
 			<item>
 			<title>1x02 - Capitulo 2</title>
 			<torrent>magnet:?xt=urn:btih:10BE6137B567AB7C13BD0E0B2857C3E5A495BA1D&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x03 - Capitulo 3 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x04 - Capitulo 4 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x05 - Capitulo 5 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag=  "
+			<item>
+			<title>1x06 - Capitulo 6 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x01 - Capitulo 1</title>
+			<torrent>magnet:?xt=urn:btih:C8A5CBD1E93CBA5A67CF3F9F843F29F56F0664C7&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x02 - Capitulo 2</title>
+			<torrent>magnet:?xt=urn:btih:03E7B66A1153512ADD1D066762429C0281BD1CD9&dn=HDTV</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
