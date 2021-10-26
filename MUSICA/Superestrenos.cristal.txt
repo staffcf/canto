@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Ni un paso en falso [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.5[/COLOR]</title>    
+<genre>Thriller,Drama</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/X4CyxEJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/KstmkA4.jpg</fanart>
+<info>Detroit, año 1954. Unos delincuentes de poca monta son contratados para robar lo que creen que es un simple documento. Cuando su plan no sale como ellos esperaban, emprenden la búsqueda de quien los contrató y del propósito final.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=FY9M5Z4Lkh4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/7mwj4sgq-rqwdry"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "No deja subir de momento ,luego subo"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/jgzbjmzkatyz"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/d/rkrm7wyg85p3.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/nff0q9a1hvn8"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1oVBH53wkUOLuft_hrDAeIkXixyA_1maP/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Operacion Camaron [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.3[/COLOR]</title>    
 <genre>Comedia</genre>
 <year>2021</year>
