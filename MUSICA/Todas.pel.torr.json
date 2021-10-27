@@ -992,6 +992,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra C, EEUU, ",
+			"name": "Cry Macho (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/4HZByNmYYuPChlmUmEEvC7oIJjn.jpg",
+			"info": "Texas, 1978. Una ex estrella de rodeo y criador de caballos retirado (Eastwood) acepta un encargo de un antiguo jefe: traer a su hijo pequeño desde México de vuelta a casa para alejarlo de su madre alcohólica. En el viaje, ambos se embarcarán en una inesperada aventura.",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Cry.Macho.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, 1Romance, A2021, Letra C, Alemania, Netflix, ",
 			"name": "Cuatro por cuatro (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/tsrJNOy7NaoA4wHtA2M90WXAiVe.jpg",
@@ -2785,6 +2798,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, A2021, Letra N, EEUU, Robos, Atracos, ",
+			"name": "Ni un paso en falso (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/g6Ifj8RJY39luVKweFvhP9hDOfo.jpg",
+			"info": "Detroit, año 1954. Unos delincuentes de poca monta son contratados para robar lo que creen que es un simple documento. Cuando su plan no sale como ellos esperaban, emprenden la búsqueda de quien los contrató y del propósito final.",
+			"genero": "Thriller, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Ni.un.paso.en.falso.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Romance, A2021, Letra N, EEUU, Netflix, ",
 			"name": "No se puede huir del amor (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/mGa3mPtkvGld4J3O6iG08cA22NJ.jpg",
@@ -3371,13 +3397,13 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Intriga, 1Fantastico, 1Thriller, 1Drama, A2021, Letra T, EEUU, ",
-			"name": "Tiempo [COLOR gold](Web-Scr) (2021)","coloryear": "cyan",
+			"name": "Tiempo (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/ggXWPAIPz0LciOc4hwKIctP4xV2.jpg",
 			"info": "Durante unas vacaciones en un paraíso tropical, una familia empieza a percibir que en la recóndita playa elegida para relajarse unas horas suceden algunas anomalías temporales...",
 			"genero": "Intriga, Fantastico, Thriller, Drama",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Tiempo.-2021.-.Web1080-Scr.-.CristalAzul.mkv.torrent",    
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Tiempo.-2021.-.1080.-.CristalAzul.mkv.torrent",    
 				"torrent4k": ""	
 				}		
 			]
@@ -28844,7 +28870,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Comedia",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:8496e9bec4b06d0404e018182f74675dbbba7bd9",
+				"torrent": "magnet:?xt=urn:btih:8496e9bec4b06d0404e018182f74675dbbba7bd9&dn=HD1080",	magnet:?xt=urn:btih:lchw5jwokroq3qlhynhw4ukpb7izvy33&dn=HD1080
 				"torrent4k": "magnet:?xt=urn:btih:DEE0B7E4812BF03580DD2747E86EB90212FB1FF0&dn=UHDRip"
 				}		
 			]
@@ -29994,7 +30020,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Thriller, Intriga",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:1adb21cd676d107cc8dd6665d6d3cadd3f55ff4f",
+				"torrent": "magnet:?xt=urn:btih:1adb21cd676d107cc8dd6665d6d3cadd3f55ff4f&dn=HD1080",
 				"torrent4k": ""
 				}		
 			]
@@ -42089,6 +42115,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Fantastico, A1988, Letra H, Reino Unido, B2000, A1990-1981, Sagas Hellraiser, ",
+			"name": "Hellbound: Hellraiser II (1988)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/laMVYMPOsCWtzp7w5uau1mQyauy.jpg",
+			"info": "Kirsty Cotton acaba recluida en un sanatorio donde intenta olvidar la pesadilla vivida con la muerte de sus padres. Sin embargo, allí coincide con el siniestro Doctor Channard, quien encuentra en la joven la pieza que necesita para llegar al éxito en sus intentos de encontrar la puerta a una dimensión oculta.",
+			"genero": "Terror, Fantastico",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:9C00E83125A35386735685ED2E5AC2E51F650B8E&dn=BR1080",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Accion, 1Thriller, A1988, Letra L, EEUU, Terrorismo, Secuestros, Desapariciones, B2000, A1990-1981, 1Culto, Sagas JunglaCristal, ",
 			"name": "La jungla de cristal (1988)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/iiCFCTOxZgagYo8o4f5QV78UT2G.jpg",
@@ -42279,6 +42318,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Fonda.Sangrienta.-1987.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Fantastico, A1987, Letra H, Reino Unido, B2000, A1990-1981, Sagas Hellraiser, 1Culto, ",
+			"name": "Hellraiser (1987)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/oIWDeijkYl5kqA8hjtsE7yx2DRm.jpg",
+			"info": "Frank Cotton, un hombre joven, violento y ambicioso de experiencias personales adquiere una caja china procedente de un bazar oriental y dotada de poderes. Según antiguas leyendas, es una especie de puerta a seres de otra dimensión. Al abrirla, Cotton convoca a estas criaturas procedentes de un infierno fantástico, pero éstas sólo le infringirán tormentos hasta acabar con él. Veinte años después, dos nuevos inquilinos se instalan en la vieja casa de Frank: su hermano y su esposa. La aparición del espíritu de Frank es el principio de una vorágine de horror en estado puro que enloquecerá a sus familiares. Una gota de sangre, vertida casualmente por su hermano sobre el suelo del desván, es el desencadenante de la tragedia. Frank, para poder retomar su antigua forma, necesitará sangre de seres humanos que le proporcionará, secretamente, la mujer de su hermano",
+			"genero": "Terror, Fantastico",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:indd4jyojmltikqc2w3b3anbbs6ooyds&dn=BR1080",
 				"torrent4k": ""	
 				}		
 			]
