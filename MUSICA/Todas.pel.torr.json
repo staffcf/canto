@@ -1901,6 +1901,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Thriller, A2021, Letra H, EEUU, 1Netflix, ",
+			"name": "Hipnotico (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/c2SR6UZ8uOz2ciEqmYAVfviTgTW.jpg",
+			"info": "Una joven que busca la superación personal pide ayuda a un prestigioso hipnotizador, con el que se somete a varias sesiones muy intensas. Las consecuencias serán aterradoras",
+			"genero": "Terror, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Hipnotico.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra H, EEUU, 1Hechos reales, Nazismo, ",
 			"name": "Historia de una traicion (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/wqShvpAVjbKw7IYVjWJitkWuQm7.jpg",
@@ -2755,6 +2768,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:94BBC30C4515D5C1E60A249E84DC1B3F367B5A98&dn=HD1080",  magnet:?xt=urn:btih:BBDD481EF1372B6DF24D32C5B9EE2E20D5445631&dn=BRRip
 				"torrent4k": "magnet:?xt=urn:btih:8490212691D6ABA94999CFF8B189B2D84AC7EDA8&dn=UHDmicro"  magnet:?xt=urn:btih:A064746010D124B06D6842D2DB3F5B18FCFA7591&dn=UHDRip  magnet:?xt=urn:btih:10E600C8C12D9DC82A906591D6222BA6BDA40F5C&dn=Web4K  
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Fantastico, A2021, Letra N, Polonia, 1Netflix, ",
+			"name": "Nadie duerme en el bosque esta noche 2 (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/pcgqI8p9DQz5qQVWpfERJAKjRj8.jpg",
+			"info": "Adaś es un joven policía solitario e infeliz de un pequeño pueblo de Podlasie. Ignorado por sus colegas y por la bella y muy segura de sí misma Wanessa, el tímido muchacho busca su lugar en el mundo. En la secuela también conoceremos el destino de Zosia, que mostrará una cara completamente nueva y sorprendente. La película es una historia perversa, irónica, grotesca y sangrienta sobre la búsqueda del amor y el descubrimiento de uno mismo en un mundo que nos divide más que nos une. Es una película de miedo que pondrá patas arriba las reglas del género esta vez.",
+			"genero": "Terror, Fantastico",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Nadie.duerme.en.el.bosque.esta.noche.2.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
