@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] El caballero verde [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.7[/COLOR]</title>    
+<genre>Fantástico,Drama,Thriller,Fantasía medieval</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/hNV1cYn.jpg</thumbnail>
+<fanart>https://i.imgur.com/XCrd7VZ.jpg</fanart>
+<info>Una aventura de fantasía épica basada en la eterna leyenda artúrica, The Green Knight cuenta la historia de Sir Gawain (Dev Patel), el temerario y testarudo sobrino del Rey Arturo, que se embarca en una atrevida búsqueda para enfrentarse al homónimo Caballero Verde, un gigantesco de piel esmeralda.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=vFOWbFH_IUI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/7mwj4sgq0pnn857"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/knr0n9owivjdzl"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/ria305tmjay6"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/9dhzsx3q80mc.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/t7gzord588vm"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1grw3cpjBJ516rjlwB_J6TDFxzJt8u-Jy/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Cry Macho [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.7[/COLOR]</title>    
 <genre>Drama,Road Movie,Vejez / Madurez,Años 70. Años 80</genre>
 <year>2021</year>
