@@ -12,6 +12,7 @@
 	- 1SerieTitle:"NEW AMSTERDAM", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/6ufUpmnWZTh7J6hbh7Zt9WDXVWp.jpg",
 	- 1SerieTitle:"NEW AMSTERDAM", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/vXDupgsWKkFizWp8yPDCmAbMV4l.jpg",
 	- 1SerieTitle:"NEW AMSTERDAM", SerieTemp:"TEMPORADA 3", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/wKTAz8fkoXJoHqPpi4ArAUGDtco.jpg",
+	- 1SerieTitle:"NEW AMSTERDAM", SerieTemp:"TEMPORADA 4", SerieID:"SERIETEMP4", SerieIDT:"TORRENTTEMP4", SerieThumbail:"https://www.themoviedb.org/t/p/original/50zBc18T7wK1EQYDhkpau3YJIPy.jpg",
 	
 -->
 ======================================================================
@@ -308,6 +309,41 @@
 			<torrent>magnet:?xt=urn:btih:F672FE1446EA1275B1E952C8811E393E0168B806</torrent>
 			</item>
 ======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x01 - More Joy</title>
+			<torrent>magnet:?xt=urn:btih:C881647A5E550FBDDC492C2D55CEDC2CDF81F3DB&dn=HD720</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x01 - More Joy</title>
+			<torrent>magnet:?xt=urn:btih:9972941EF79FF151CFE985A7EB07441DAAD91982&dn=HDTV</torrent>
+			</item>
 ======================================================================
 ======================================================================
 ======================================================================
