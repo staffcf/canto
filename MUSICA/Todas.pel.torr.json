@@ -992,15 +992,15 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra C, EEUU, ",
+			"tag": " 1Peliscristal, 1Torrentcristal, 1Torrent4k, 1Drama, A2021, Letra C, EEUU, ",
 			"name": "Cry Macho (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/4HZByNmYYuPChlmUmEEvC7oIJjn.jpg",
 			"info": "Texas, 1978. Una ex estrella de rodeo y criador de caballos retirado (Eastwood) acepta un encargo de un antiguo jefe: traer a su hijo pequeño desde México de vuelta a casa para alejarlo de su madre alcohólica. En el viaje, ambos se embarcarán en una inesperada aventura.",
 			"genero": "Drama",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Cry.Macho.-2021.-.1080.-.CristalAzul.mkv.torrent",
-				"torrent4k": ""	
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Cry.Macho.-2021.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:5BA13F95D6F9E8614710F1139874036A7972A630&dn=HD1080	magnet:?xt=urn:btih:4A6085067898BDB0E48F7F8F17F4D44939CAD92F&dn=BR1080
+				"torrent4k": "magnet:?xt=urn:btih:08736FB636A9433F9E463C3091FCCEAD4FD2861F&dn=Web4K"	
 				}		
 			]
 			},
@@ -1148,6 +1148,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra D, Francia, ",
+			"name": "Dios mio, ¡los niños han vuelto! (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/aPjWnoxhu7TMHBLXv7DeFKc9oxd.jpg",
+			"info": "Catherine y Yann son un matrimonio feliz. Llevan años casados, pero desde que él vendió su negocio vive por y para los bonsáis y Catherine se siente ignorada. Por si fuera poco, la hija de la pareja, de 27 años, se planta en casa con su novio cuando los echan de su piso. Yann está sumido en una crisis de mediana edad y los invitados no parecen tener intención alguna de marcharse. Catherine intentará que vuelvan a abandonar el nido para recuperar las riendas de su vida",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Dios.mio.los.ninhos.han.vuelto.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Ciencia ficcion, 1Drama, A2021, Letra D, EEUU, Netflix, ",
 			"name": "Disomnia (Awake) (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/nNlMXlvBj5GroewpZ9Moc7xyl9z.jpg",
@@ -1235,6 +1248,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/El.baile.de.las.locas-Le.bal.des.folles-.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:A162ECADE0516B91E11E9075BDF963C3EB7109F7&dn=BRRip
 				"torrent4k": "magnet:?xt=urn:btih:B833353A94AEF72335ECFA1D7C2B8CDAFB2C27C1&dn=Web4K"	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Fantastico, 1Drama, 1Thriller, A2021, Letra E, EEUU, ",
+			"name": "El caballero verde (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/ciTS1D4RI3thKZ2mgldQ79yP7DE.jpg",
+			"info": "La historia medieval de Sir Gawain y el caballero verde contada desde el punto de vista del género de la fantasía",
+			"genero": "Fantastico, Drama, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.caballero.verde.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -2824,15 +2850,15 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, A2021, Letra N, EEUU, Robos, Atracos, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Thriller, 1Drama, A2021, Letra N, EEUU, Robos, Atracos, ",
 			"name": "Ni un paso en falso (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/g6Ifj8RJY39luVKweFvhP9hDOfo.jpg",
 			"info": "Detroit, año 1954. Unos delincuentes de poca monta son contratados para robar lo que creen que es un simple documento. Cuando su plan no sale como ellos esperaban, emprenden la búsqueda de quien los contrató y del propósito final.",
 			"genero": "Thriller, Drama",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Ni.un.paso.en.falso.-2021.-.1080.-.CristalAzul.mkv.torrent",
-				"torrent4k": ""	
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Ni.un.paso.en.falso.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:5F00B7A1AD96806915137DE14B3B78E5DD707734&dn=HD1080	magnet:?xt=urn:btih:182F54E0CA1C2DE58D4571AC22AEA25C4DAA597C&dn=BR1080
+				"torrent4k": "magnet:?xt=urn:btih:E93EAEA552E5555549055670A03BB7C63D6F1BEF&dn=Web4K"	
 				}		
 			]
 			},
@@ -36889,7 +36915,20 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 		{
 		"name": "2004",
 		"image": "",
-		"groups": [
+		"groups": [,
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Romance, 1Comedia, 1Ciencia ficcion, A2004, Letra NUM, EEUU, 1Culto, ",
+			"name": "¡Olvidate de mi! (2004)","coloryear": "yellow",
+			"image": "https://i.imgur.com/0pw2BxW.jpg",
+			"info": "Joel (Jim Carrey) recibe un terrible golpe cuando descubre que su novia Clementine (Kate Winslet) ha hecho que borren de su memoria todos los recuerdos de su tormentosa relación. Desesperado, se pone en contacto con el creador del proceso, el Dr. Howard Mierzwiak, para que borre a Clementine de su memoria. Pero cuando los recuerdos de Joel empiezan a desaparecer de pronto redescubre su amor por Clementine. Desde lo más profundo de su cerebro intentará parar el proceso.",
+			"genero": "Drama, Romance, Comedia, Ciencia ficcion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Olvidate.de.mi.-2004.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			}
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Drama, 1Ciencia ficcion, A2004, Letra NUM, China, 1Culto, ",
 			"name": "2046 (2004)","coloryear": "yellow",
@@ -37255,6 +37294,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2004, Letra N, EEUU, 1Culto, ",
+			"name": "Napoleon Dynamite (2004)","coloryear": "yellow",
+			"image": "https://www.themoviedb.org/t/p/original/e2OKf9G0roAjnZ2kP2qVWifAMeH.jpg",
+			"info": "Esta es la historia de Napoleon Dynamite (Jon Heder), un joven que vive en la zona rural de Idaho con su abuela y su hermano de 31 años, y a quien su doble condición de bailarín y ninja le ayudan a triunfar sobre la adversidad",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Napoleon.Dynamite.-2004.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Accion, 1Drama, A2004, Letra N, EEUU, ",
 			"name": "Nunca mueras solo (2004)","coloryear": "yellow",
 			"image": "https://www.themoviedb.org/t/p/original/5yBbtO6WvK2rqqSAZg7ZPys1W4E.jpg",
@@ -37289,6 +37341,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Oscura.inocencia.-2004.-.720.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia 1ficcion, Thriller, A2004, Letra P, EEUU, 1Culto, ",
+			"name": "Primer (2004)","coloryear": "yellow",
+			"image": "https://www.themoviedb.org/t/p/original/shv6eIIMUngW8qMnWJ7mI1FUgRi.jpg",
+			"info": "Cuatro hombres trabajan en un garaje construyendo aparatos altamente complejos. En parte por accidente y en parte por su pericia, descubren un mecanismo dotado de poderes que les permite conseguir casi todo lo que quieran. Se trata de un hallazgo que podría cambiar el mundo, pero que pondrá a prueba las relaciones entre sus inventores...",
+			"genero": "Ciencia ficcion, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Primer.-2004.-.1080.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""	
 				}		
 			]
@@ -37395,6 +37460,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"torrent": "magnet:?xt=urn:btih:E7DFB25260C616957A4A39B9144C37A89D832312",  
 				"torrent4k": ""
 				}
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Terror, 1Romance, A2004, Letra Z, Reino Unido, 1Culto, ",
+			"name": "Zombies Party (2004)","coloryear": "yellow",
+			"image": "https://www.themoviedb.org/t/p/original/y7eDuFR9DevYINfvTqA2TsWpJ85.jpg",
+			"info": "Una comedia romántica... con zombies. La vida de Shaun (Simon Pegg) es un callejón sin salida. Se pasa la vida en la taberna local, "The Winchester", con su íntimo amigo Ed (Nick Frost), discute con su madre y descuida a su novia, Liz (Kate Ashfield). Cuando Liz le deja plantado, Shaun decide, finalmente, poner su vida en orden: tiene que reconquistar el corazón de su novia, mejorar las relaciones con su madre y enfrentarse a las responsabilidades de un adulto. Pero, por desgracia, los muertos están volviendo a la vida, y tratan de devorar a los vivos. Así que Shaun tendrá que enfrentarse a un problema más. Armado con un palo de cricket y una pala, emprende una guerra sin cuartel contra una horda de zombies para rescatar a su madre, a su novia e incluso, aunque a regañadientes, a su padrastro, al de su novia... llevándolos a todos al lugar más seguro y protegido que conoce: 'The Winchester'",
+			"genero": "Comedia, Terror, Romance",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Zombies.Party.-2004.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
 			]
 			}
 		]
@@ -37713,6 +37791,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{ 
 				"torrent": "magnet:?xt=urn:btih:F0C81CF467A8679B23C44C5310D997A409A0A41B&dn=BDR1080",  magnet:?xt=urn:btih:C4F6888A60AAA96EDFAC875FDB3B22B8126BD9F2&dn=HD1080
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Comedia, A2003, Letra L, EEUU, 1Culto, ",
+			"name": "Lost in Translation (2003)","coloryear": "darkviolet",
+			"image": "https://www.themoviedb.org/t/p/original/ybXq8xTs6VMx3hM4RDYMXaDZwcz.jpg",
+			"info": "Bob Harris, un actor norteamericano en decadencia, acepta una oferta para hacer un anuncio de whisky japonés en Tokio. Está atravesando una aguda crisis y pasa gran parte del tiempo libre en el bar del hotel. Y, precisamente allí, conoce a Charlotte, una joven casada con un fotógrafo que ha ido a Tokio a hacer un reportaje; pero mientras él trabaja, su mujer se aburre mortalmente. Además del aturdimiento que les producen las imágenes y los sonidos de la inmensa ciudad, Bob y Charlotte comparten también el vacío de sus vidas. Poco a poco se hacen amigos y, a medida que exploran la ciudad juntos, empiezan a preguntarse si su amistad podría transformarse en algo más.",
+			"genero": "Drama, Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Lost.In.Translation.-2003.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -38441,6 +38532,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Harry.Potter.y.la.piedra.filosofal.-2001.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:55C21FADCF6C62DB2D0CC70B162D3056ECBAC6AC
 				"torrent4k": "magnet:?xt=urn:btih:CE4B3547F8DD0DF208C8C5D9AC3004E38F6ADB99"
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Accion, A2001, Letra I, Japon, 1Culto, ",
+			"name": "Ichi the Killer (2001)","coloryear": "seagreen",
+			"image": "https://www.themoviedb.org/t/p/original/6Vz3DENLlLC6QfM8a9Vi7exAfwn.jpg",
+			"info": "Un conocido jefe de la Yakuza (la mafia japonesa) desaparece junto con un botín de 100 millones de yenes. Su mano derecha, el sanguinario y masoquista Kakihara, y el resto del clan, emprenden su búsqueda, ya que no creen que se haya fugado. Para encontrarlo utilizarán todos los métodos que consideren oportunos, ya sea torturando o matando. Así, Kakihara consigue averiguar que lo que pensaban que era una desaparición, es en realidad un asesinato, cometido por un hombre llamado Ichi, un esquizofrénico que cuando pierde el control puede hacer picadillo, literalmente, a cualquiera. Con esto, quiere resarcirse de los traumas de la infancia, aunque lo que consigue es lo contrario. Pero Ichi no está sólo en esta lucha, le acompañan unos repudiados del clan, destacando a Jijii, que es la cabeza del grupo y quien incita al caos que se organiza",
+			"genero": "Thriller, Accion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Ichi.The.Killer.-2001.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
