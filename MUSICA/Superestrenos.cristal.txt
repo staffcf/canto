@@ -3100,3 +3100,14 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=8qW9lyAKg0s"},{"titulo" : "[COLOR white]VideoLoad[/COLOR]","url" : "https://evoload.io/v/VnjnIR4vqQm3EK"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/4n80mdpzbqkjkr"}</urlsolve>
 </item>
 
+
+<item>
+<title>[COLOR white] Black Hawk derribado [/COLOR][COLOR yellow](2001) [COLOR aqua]*7.7[/COLOR]</title>    
+<genre>Bélico,Acción,Ejército,África,Basado en hechos reales,Años 90</genre>
+<year>2001</year>
+<thumbnail>https://i.imgur.com/NXnoCTk.jpg</thumbnail>
+<fanart>https://i.imgur.com/a8FimoV.jpg</fanart>
+<info>Octubre de 1993. Soldados americanos de élite son enviados a Mogadiscio (Somalia) en una misión de paz de las Naciones Unidas, pero su principal objetivo es capturar al caudillo Aidid y acabar de raíz con la guerra. La misión se complica cuando dos helicópteros Black Hawk son derribados. Entonces lo único que importa es rescatar a los soldados que han quedado atrapados o han resultado heridos en el accidente.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=_vJltamBoy8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/5knj1sdy10w466j"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/l6r76lmnfvpkre"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/1wpi2ywkliq6"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/zwmjzpti5nq1.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-9nn2445v6ca0.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1l0YYXNq9tYBDdzuj2ZSnuHYjd3OjMSni/view"}</urlsolve>
+</item>
+
