@@ -1,0 +1,34 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ EL TIEMPO QUE TE DOY
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"EL TIEMPO QUE TE DOY", SerieTemp:"MINI SERIE", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://i.imgur.com/4dWUdrq.jpg",
+	
+-->
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 a 4</title>
+			<torrent>magnet:?xt=urn:btih:8CE2BCDB2F7397229DEA949B0A47C5B7FDAE8BB8&dn=HD1080</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 5 a 7</title>
+			<torrent>magnet:?xt=urn:btih:4C6E34B4234A7402C28898180A291D5D5AAEEAD4&dn=HD1080</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 8 a 10</title>
+			<torrent>magnet:?xt=urn:btih:CDA53E8A569F77397298ACE33B2439739D90C9FD&dn=HD1080</torrent>
+			</item>
+======================================================================
+======================================================================
