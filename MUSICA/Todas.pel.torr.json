@@ -1352,7 +1352,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Thriller",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.ejercito.de.los.ladrones.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "magnet:?xt=urn:btih:CF998E46C399EDDC95C2E97C11DB0CF8E728CD31&dn=HD1080",	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.ejercito.de.los.ladrones.-2021.-.1080.-.CristalAzul.mkv.torrent
 				"torrent4k": ""	
 				}		
 			]
@@ -8080,15 +8080,15 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2020, Letra L, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Terror, A2020, Letra L, EEUU, ",
 			"name": "Libros de sangre (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/cNiRfYp5zPkODqzDtxAxfUcP9i0.jpg",
 			"info": "Un viaje hacia un territorio inexplorado y prohibido contado a través de tres historias en las que se mezcla el tiempo y el espacio",
 			"genero": "Terror",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Libros.de.sangre.-2020.-.1080.-.CristalAzul.mkv.torrent",
-				"torrent4k": ""	
+				"torrent": "magnet:?xt=urn:btih:371B40838D527D23130082961446C9557C08F61C&dn=HD1080",	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Libros.de.sangre.-2020.-.1080.-.CristalAzul.mkv.torrent
+				"torrent4k": "magnet:?xt=urn:btih:A65848ABC45878E2C6E4DAFE78FB08F69C285BF1&dn=Web4K"	
 				}		
 			]
 			},
