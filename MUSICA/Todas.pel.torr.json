@@ -1106,7 +1106,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{ 
 				"torrent": "magnet:?xt=urn:btih:02A1BE7AE3BD80BAE37C02F6F5334E518AD9FB5F&dn=HD1080",  https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Despierta.la.furia.2021.-.1080.-.CristalAzul.mkv.torrent
-				"torrent4k": "magnet:?xt=urn:btih:31037B759704E26613A7301B8A739F5E82C60552&dn=Web4K"
+				"torrent4k": "magnet:?xt=urn:btih:5668C426014230A04C8D73C2781ADDF6127CE970&dn=UHDRip",  magnet:?xt=urn:btih:31037B759704E26613A7301B8A739F5E82C60552&dn=Web4K
 				}		
 			]
 			},
@@ -1254,15 +1254,15 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Fantastico, 1Drama, 1Thriller, A2021, Letra E, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Fantastico, 1Drama, 1Thriller, A2021, Letra E, EEUU, ",
 			"name": "El caballero verde (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/ciTS1D4RI3thKZ2mgldQ79yP7DE.jpg",
 			"info": "La historia medieval de Sir Gawain y el caballero verde contada desde el punto de vista del género de la fantasía",
 			"genero": "Fantastico, Drama, Thriller",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.caballero.verde.-2021.-.1080.-.CristalAzul.mkv.torrent",
-				"torrent4k": ""	
+				"torrent": "magnet:?xt=urn:btih:B36B033AB9F3A1684CC3CB9A5F5A4A2F5E61B682&dn=HD1080",	magnet:?xt=urn:btih:C19A570823EAA7DAD0AAAEBB5FC2E5A392B09164&dn=BRRip		magnet:?xt=urn:btih:DC9E852623737037C118072761D29D503D50554E&dn=BR1080	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.caballero.verde.-2021.-.1080.-.CristalAzul.mkv.torrent
+				"torrent4k": "magnet:?xt=urn:btih:8859EBCB3BC339E162CE95BA47C601BA680C9D57&dn=Web4K"	
 				}		
 			]
 			},
@@ -1936,7 +1936,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Terror, Thriller",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Hipnotico.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Hipnotico.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:8047995574B04C24CA0A2C8997071FE89ECB9611&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -2807,7 +2807,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Terror, Fantastico",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Nadie.duerme.en.el.bosque.esta.noche.2.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Nadie.duerme.en.el.bosque.esta.noche.2.-2021.-.1080.-.CristalAzul.mkv.torrent",		magnet:?xt=urn:btih:EDE23DADE67DA0B0CD0DAB0F50A46E2C8F77331B&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -3045,7 +3045,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"torrent4k": "magnet:?xt=urn:btih:BD8074913DC2D3BE5A9FF9EF5BA2120CF7AAD9A6&dn=UHDRemux"	
 				}	
 			]
-			}
+			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Romance, A2021, Letra P, Spain, ",
 			"name": "Poliamor para principiantes (2021)","coloryear": "cyan",
@@ -3058,7 +3058,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"torrent4k": ""	
 				}		
 			]
-			},,
+			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, A2021, Letra P, EEUU, Netflix, ",
 			"name": "Polizon (Stowaway) (2021)","coloryear": "cyan",
@@ -3450,7 +3450,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Intriga, 1Fantastico, 1Thriller, 1Drama, A2021, Letra T, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Intriga, 1Fantastico, 1Thriller, 1Drama, A2021, Letra T, EEUU, ",
 			"name": "Tiempo (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/ggXWPAIPz0LciOc4hwKIctP4xV2.jpg",
 			"info": "Durante unas vacaciones en un paraíso tropical, una familia empieza a percibir que en la recóndita playa elegida para relajarse unas horas suceden algunas anomalías temporales...",
@@ -3458,7 +3458,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Tiempo.-2021.-.1080.-.CristalAzul.mkv.torrent",   	magnet:?xt=urn:btih:7C5E739D2906F8BABB01D70B17910C599D4254CF&dn=HD1080	magnet:?xt=urn:btih:2309D7F214168B94FF878A54B5674BEE2E94A8AE&dn=BR1080
-				"torrent4k": ""	
+				"torrent4k": "magnet:?xt=urn:btih:A9A5417DF524ECA928F5C267E49E415E5D3F2253&dn=UHDRip"		magnet:?xt=urn:btih:6F7C19E16ECD73759BB83B32ED6443B736099C90&dn=UHDRemux
 				}		
 			]
 			},
@@ -4392,7 +4392,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Drama",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Armugan.El.ultimo.acabador.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Armugan.El.ultimo.acabador.-2020.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:F73910DE2C095C58AAD3076FB1D38B77AC9771D5&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -42658,7 +42658,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:E90A38E0433C9366B9201E9B63FF7ECB4777B359&dn=HD1080",	magnet:?xt=urn:btih:0A8E6749C1F76A4277975E0326EF991FE31E982A&dn=DVDRip
-				"torrent4k": "magnet:?xt=urn:btih:EC748CF7612F8B10324867AC47C070242C9B2898&dn=WebK"	
+				"torrent4k": "magnet:?xt=urn:btih:17BA29CE4C43FF887EEA4964980DFA37C620D7EF&dn=UHDRip"	magnet:?xt=urn:btih:EC748CF7612F8B10324867AC47C070242C9B2898&dn=WebK
 				}		
 			]
 			},
