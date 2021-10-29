@@ -1,0 +1,61 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ EL MOTIVO
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"EL MOTIVO", SerieTemp:"MINI SERIE", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/rrj0YXQ9gVPnWCdS8BsyndRI2VZ.jpg",
+	
+-->
+
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 y 2</title>
+			<torrent>magnet:?xt=urn:btih:0E2EAF645D5C4C504A407FA158E5B29C4E8F1ABB&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 3 y 4</title>
+			<torrent>magnet:?xt=urn:btih:1149046425F77E137114CEAAFA41B734A2A62295&dn=HD720</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 y 2</title>
+			<torrent>magnet:?xt=urn:btih:C0BD5354426ADF72DF163E9198BABD63158879C5&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 3 y 4</title>
+			<torrent>magnet:?xt=urn:btih:19CB8B616B3A185C62D0B61C8A7F48FB9F749D36&dn=HDTV</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
