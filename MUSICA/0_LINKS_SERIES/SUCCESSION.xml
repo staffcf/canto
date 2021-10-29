@@ -11,6 +11,7 @@
 	
 	- 1SerieTitle:"SUCCESSION", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/A6cgK04FCXUYu5cpkGnCDMhRVC4.jpg",
 	- 1SerieTitle:"SUCCESSION", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/zTBcUnU9PgS1drRAtY0hKtpzLPZ.jpg",
+	- 1SerieTitle:"SUCCESSION", SerieTemp:"TEMPORADA 3", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/e2X32jUfJ2kb4QtNg3WCTnLyGxD.jpg",
 
 	
 -->
@@ -137,6 +138,58 @@
 			<title>2x10 - Esto no es para lagrimas</title>
 			<torrent>magnet:?xt=urn:btih:5DACAD4B868212C697ACB590BDBC02561E09D5E2</torrent>
 			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x01 - Secesión</title>
+			<torrent>magnet:?xt=urn:btih:4A3153972C3F6EAA1A1DCCAA19D78A19462DB72C&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x02 - Mass in Time of War</title>
+			<torrent>magnet:?xt=urn:btih:AE493E46F22ACC929BE0C47C4D62F77303B84F70&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x03 - Capitulo 3 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x04 - Capitulo 4 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x05 - Capitulo 5 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x06 - Capitulo 6 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x07 - Capitulo 7 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x08 - Capitulo 8 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
 ======================================================================
 ======================================================================
 ======================================================================
