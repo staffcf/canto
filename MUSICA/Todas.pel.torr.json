@@ -52,6 +52,8 @@ Title:[COLOR gold]COLECCION [COLOR white]CLINT EASTWOOD, SagaID:ClintEastwood, I
 Title:101 DALMATAS, SagaID:P101Dalmatas, Imagen:https://www.themoviedb.org/t/p/original/iGJgy1rCO81LBKbEJabb0jlSWuj.jpg,
 							-	0Saga, 1SagaTorrent, 
 Title:3 METROS SOBRE EL CIELO, SagaID:3MSEC, Imagen:https://www.themoviedb.org/t/p/original/zVNxqJfzw9MCtkLuFxXo4KL3ye1.jpg,
+							-	1Saga, 1SagaTorrent, 
+Title:30 DIAS DE OSCURIDAD, SagaID:30diasoscuridad, Imagen:https://www.themoviedb.org/t/p/original/uWVEjJ6wIjg6jVR2LtwVRHkpJAn.jpg,
 							-	0Saga, 1SagaTorrent, 
 Title:28, SagaID:28dias, Imagen:https://i.imgur.com/k1THtZd.jpg,
 							-	0Saga, 1SagaTorrent, 
@@ -6708,7 +6710,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Accion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:509F8D31B24815E90E40B4D3B293E54CC86BBFCF&dn=BRRip",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/For.the.Sake.of.Vicious.-2020.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:509F8D31B24815E90E40B4D3B293E54CC86BBFCF&dn=BRRip
 				"torrent4k": ""
 				}		
 			]
@@ -34165,6 +34167,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2010, Letra NUM, EEUU, Sagas 30diasoscuridad, ",
+			"name": "30 dias de oscuridad 2: Tinieblas (2010)","coloryear": "springgreen",
+			"image": "https://www.themoviedb.org/t/p/original/bfJMihsKSCTQGhv2mMktcUOG3mX.jpg",
+			"info": "Parece que solo un pequeño grupo de resistentes es consciente de que los vampiros campan a sus anchas por nuestro mundo. En su mano está el detenerlos.",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/30.dias.de.oscuridad.2-Tinieblas.-2010.-.720.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Fantastico, 1Animacion, 1Aventuras, A2010, Letra A, EEUU, Cuentos, ",
 			"name": "Alicia en el pais de las maravillas (2010)","coloryear": "springgreen",
 			"image": "https://www.themoviedb.org/t/p/original/lTL10rosTEhOZp8E3zoniXddyRC.jpg",
@@ -35609,6 +35624,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/28.semanas.despues.-2007.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Thriller, A2007, Letra NUM, EEUU, Sagas 30diasoscuridad, ",
+			"name": "30 dias de oscuridad (2007)","coloryear": "steelblue",
+			"image": "https://www.themoviedb.org/t/p/original/eLBHxB6yKGAXzwAvlW49u8QXwoj.jpg",
+			"info": "En Barrow, un remoto pueblo de Alaska, durante 30 días de cada invierno el Sol no sale y la noche ocupa todo el día. Ese es el momento en el cual aparece un misterioso grupo de extraños: vampiros sedientos de sangre, listos para tomar ventaja de la ininterrumpida oscuridad y alimentarse de los pocos residentes que permanecen en el pueblo. El comisario de Barrow, Eben (Josh Hartnett), su esposa Stella (Melissa George) y un decreciente grupo de sobrevivientes deberán hacer lo que sea para resistir hasta que reaparezca la luz del día. Basada en la novela gráfica de Steve Niles y Ben Templesmith.",
+			"genero": "Terror, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/30.dias.de.oscuridad.-2007.-.1080.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""	
 				}		
 			]
@@ -38485,6 +38513,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 		"name": "2001",
 		"image": "",
 		"groups": [
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2001, Letra NUM, EEUU, ",
+			"name": "13 fantasmas (2001)","coloryear": "seagreen",
+			"image": "https://www.themoviedb.org/t/p/original/2Bzjk9QfZskt39aesRvLQecnhqy.jpg",
+			"info": "Arthur y sus dos hijos acaban de heredar una mansión de un tío lejano. Como Arthur está arruinado, la familia se traslada a la casa, donde descubren el terrible secreto que oculta la herencia: entre las paredes de cristal se encuentran encerrados 13 fantasmas. Atrapados en una carrera infernal por salvar sus vidas, se dan cuenta que la propia mansión es un engima cuya solución es la clave de la que depende su salvación",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/13.Fantasmas.-2001.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, A2001, Letra A, EEUU, Coches, Automovilismo, Sagas ATodoGas, ",
 			"name": "A Todo Gas (The Fast And The Furious) (2001)","coloryear": "seagreen",
@@ -43965,6 +44006,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Viernes.13.3a.parte.-1982.-.1080.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Comedia, 1Thriller, A1981, Letra NUM, EEUU, B2000, A1990-1981, ",
+			"name": "13 Asesinatos y medio (1981)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/mIW0GRg8r2mX5AlWcCazR1SGRb2.jpg",
+			"info": "Hay un asesino llamado The Breather que aterroriza a los estudiantes de la escuela secundaria. Siempre que el asesino encuentra a jovenes manteniendo relaciones sexuales, él les mata. Él tiene algunas lecciones que impartir, le gusta respirar pesadamente,y tambien le gusta hacer llamadas mientras habla a través de un pollo de goma.",
+			"genero": "Terror, Comedia, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/13.Asesinatos.y.medio.-1981.-.720.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
