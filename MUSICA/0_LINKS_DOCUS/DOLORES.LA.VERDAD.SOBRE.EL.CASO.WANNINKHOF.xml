@@ -16,21 +16,64 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>[COLOR yellow]Calidad 1080 - Capitulos 1 a 6</title>
+			<title>[B][COLOR turquoise]OPCION 1 - [COLOR yellow]CALIDAD 1080</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 1 a 6</title>
 			<torrent>magnet:?xt=urn:btih:16762c8a04b1fdd857e47da8499b002688ff6851&dn=HD1080</torrent>		
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>[COLOR yellow]Calidad 720 - Capitulos 1 a 6</title>
-			<torrent>magnet:?xt=urn:btih:56f891e499f86ef3016c7da946ef842f5e13cdf4&dn=HD720</torrent>
+			<title> - </title>
+			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>[COLOR yellow]Calidad HDTV - Capitulos 1 a 6</title>
-			<torrent>magnet:?xt=urn:btih:70c2a9f6c0071c3ef1c8e1614ebf2505c41c6ee8&dn=HDTV</torrent>
+			<title>[B][COLOR turquoise]OPCION 2 - [COLOR yellow]CALIDAD 1080</title>
+			<torrent></torrent>
 			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x01 - Rocío</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Dolores.La.verdad.sobre.el.caso.Wanninkhof/1x01.-Dolores.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x02 - Dolores</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Dolores.La.verdad.sobre.el.caso.Wanninkhof/1x02.-Dolores.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x03 - Alicia</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Dolores.La.verdad.sobre.el.caso.Wanninkhof/1x03.-Dolores.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x04 - Sonia</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Dolores.La.verdad.sobre.el.caso.Wanninkhof/1x04.-Dolores.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x05 - Tony</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Dolores.La.verdad.sobre.el.caso.Wanninkhof/1x05.-Dolores.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x06 - Loli</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Dolores.La.verdad.sobre.el.caso.Wanninkhof/1x06.-Dolores.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
 ======================================================================
 ======================================================================
 			"Tag= TORRENTTEMP1, "
@@ -41,7 +84,25 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - [COLOR yellow]CALIDAD 720</title>
+			<title>[B][COLOR turquoise]OPCION 3 - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 1 a 6</title>
+			<torrent>magnet:?xt=urn:btih:56f891e499f86ef3016c7da946ef842f5e13cdf4&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>[B][COLOR turquoise]OPCION 4 - [COLOR yellow]CALIDAD 720</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
@@ -91,7 +152,7 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - [COLOR yellow]CALIDAD 720</title>
+			<title>[B][COLOR turquoise]OPCION 5 - [COLOR yellow]CALIDAD 720</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
@@ -117,7 +178,26 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<title>[B][COLOR turquoise]OPCION 6 - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 1 a 6</title>
+			<torrent>magnet:?xt=urn:btih:70c2a9f6c0071c3ef1c8e1614ebf2505c41c6ee8&dn=HDTV</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>[B][COLOR turquoise]OPCION 7 - [COLOR yellow]CALIDAD HDTV</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
