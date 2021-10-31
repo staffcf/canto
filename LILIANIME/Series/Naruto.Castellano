@@ -214,7 +214,7 @@ from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
 import six
 TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
-url = 'https://pastebin.com/raw/5BitZSeV'
+url = 'https://pastebin.com/raw/JdQvidfN'
 titulo = 'Naruto'
 import base64, codecs
 
