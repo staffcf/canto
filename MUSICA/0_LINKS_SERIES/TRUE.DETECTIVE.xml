@@ -9,6 +9,8 @@
 
 	ETIQUETAS:
 	
+	- 1SerieTitle:"", SerieTemp:"[COLOR turquoise]MINI SERIES INDEPENDIENTES", SerieID:"", SerieIDT:"", SerieThumbail:"https://www.themoviedb.org/t/p/original/uNtKyMfGyuXeb4qCpxIHScxzCeh.jpg",
+	
 	- 1SerieTitle:"1", SerieTemp:"TRUE DETECTIVE", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/qYMnLtvqMJ3MRi4capFH4lxencs.jpg",
 	- 1SerieTitle:"2", SerieTemp:"TRUE DETECTIVE II", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/tDMOLNg7mujLf2uRfcIvSlHTVpb.jpg",
 	- 1SerieTitle:"3", SerieTemp:"TRUE DETECTIVE III", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/84FQCYjcK43E7v242XUzGR3cO8d.jpg",
