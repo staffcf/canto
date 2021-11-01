@@ -1351,7 +1351,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2021, Letra E, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Thriller, A2021, Letra E, EEUU, ",
 			"name": "El ejercito de los ladrones (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/51j7jSkA1lS9CYOXmW8cWXuokZy.jpg",
 			"info": "Una misteriosa mujer recluta al cajero de banco Ludwig Dieter para liderar a un grupo de aspirantes a ladrones en un atraco ultra secreto durante las primeras etapas del apocalipsis zombie. Precuela de 'Army of the Dead', que se centra en Ludwig Dieter liderando a un grupo de supervivientes durante el apocalipsis zombie",
@@ -1359,7 +1359,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:CF998E46C399EDDC95C2E97C11DB0CF8E728CD31&dn=HD1080",	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.ejercito.de.los.ladrones.-2021.-.1080.-.CristalAzul.mkv.torrent
-				"torrent4k": ""	
+				"torrent4k": "magnet:?xt=urn:btih:50B58F1D354CBBC5A4544E0332EA0140DCD0FD8E&dn=Web4K"
 				}		
 			]
 			},
@@ -1955,7 +1955,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Terror, Thriller",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Hipnotico.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:8047995574B04C24CA0A2C8997071FE89ECB9611&dn=BRRip
+				"torrent": "magnet:?xt=urn:btih:09433696EF9AA17FACCFEA6920EA6FB9F6479CD8&dn=HD1080",	magnet:?xt=urn:btih:8047995574B04C24CA0A2C8997071FE89ECB9611&dn=BRRip	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Hipnotico.-2021.-.1080.-.CristalAzul.mkv.torrent
 				"torrent4k": ""	
 				}		
 			]
@@ -3177,7 +3177,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Thriller",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Quedate.en.casa.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "magnet:?xt=urn:btih:F3E68A807B91E00678C88339E5F92491073CD184&dn=HD1080",	magnet:?xt=urn:btih:7186F00756E5B2032FA57A7409C7D3D98EB560EE&dn=BR1080	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Quedate.en.casa.-2021.-.1080.-.CristalAzul.mkv.torrent
 				"torrent4k": ""	
 				}		
 			]
