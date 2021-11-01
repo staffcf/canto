@@ -490,7 +490,13 @@
 			"Tag= TORRENTTEMP5, "
 			<item>
 			<title>CALIDAD 1080 - Capitulos 1 a 5 </title>
-			<torrent>magnet:?xt=urn:btih:e6c15d1fb10a65e7e9da08d71a1933f80c607d70&dn=HD1080</torrent>
+			<torrent>magnet:?xt=urn:btih:CE7BC668BE8B36C0EC029426C565AC014B45A6E4&dn=HD1080</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>CALIDAD 1080 - Capitulos 1 a 5 </title>
+			<torrent>magnet:?xt=urn:btih:2BC72D65BCF59EBE8DB4368F9CFE65965A922CCE&dn=HD1080</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP5, "
@@ -503,6 +509,13 @@
 			<item>
 			<title>CALIDAD 1080 - Capitulos 1 a 5</title>
 			<torrent>magnet:?xt=urn:btih:bf108f1c50281f6f6d5d868e63f697c5415aecaf&dn=HD1080</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>CALIDAD 720 - Capitulos 1 a 5</title>
+			<torrent>magnet:?xt=urn:btih:7A41C39E73D573FF549002C687C6CFFFD0EB1622&dn=HD720</torrent>
 			</item>
 ======================================================================
 ======================================================================
