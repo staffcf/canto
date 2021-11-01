@@ -6578,6 +6578,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, A2020, Letra E, Francia, ",
+			"name": "Envidia sana (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/yj3xRlVi2F3Lxu8JwSmQ9tpD8rc.jpg",
+			"info": "Léa y Marc, y Karine y Francis, son dos parejas de amigos de toda la vida. El marido machista, la novia chillona... Todos ocupan su lugar en el grupo. La armonía se rompe el día en que Lea, la más discreta de todos, les comenta que está escribiendo una novela que acaba convirtiéndose en un éxito de ventas",
+			"genero": "Comedia, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Envidia.sana.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Aventuras, 1Fantastico, A2020, Letra E, EEUU, ",
 			"name": "Erase una vez... (Come away) (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/AiEZHCZWvew527fLWADDoAFZx9W.jpg",
@@ -8198,6 +8211,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				"torrent": "magnet:?xt=urn:btih:B4C296F94A5F8CE475C6FB771D74B56A0BFA2352",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra L, Colombia, Cine Latino, ",
+			"name": "Los conductos (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/3pHLRZ6OG5djBoqU76Ku1UrTzvV.jpg",
+			"info": "Pinky se ha dado a la fuga. Por la noche, las calles huelen a apocalipsis y la ciudad parece estar en llamadas. La droga se arremolinan entre las venas y el aire. Tras haberse liberado de las garras de una secta liderada por un tal "padre" y decidido a ser el dueño de su propia suerte, se encierra en una fábrica ilegal de camisas, donde duerme rodeado de pinturas y slogans. Pinky busca la luz al final del túnel, pero los fantasmas le asfixian y no le permiten verla. Huye, pero Colombia arde en llamas. Sin embargo, por suerte para él, el país sigue estando vivo.",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:AF6082D4A74AA33F49F9233749F697030839093F&dn=HD1080",
+				"torrent4k": ""	
 				}		
 			]
 			},
