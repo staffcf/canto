@@ -319,6 +319,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Chapelwaite[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Chapelwaite</externallink>
+<info>El capitán Charles Boone hace que su familia de tres hijos se traslade a su antigua casa en un pueblo pequeño y aparentemente tranquilo de Preacher's Corners, Maine, tras la muerte de su mujer en el mar.</info>
+<thumbnail>https://i.imgur.com/Rp8eLZ0.jpg</thumbnail>
+<fanart>https://i.imgur.com/Hstnj8C.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Chernobyl[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Chernobyl.txt</externallink>
@@ -388,6 +397,15 @@
 <info>Serie de TV (2011). 8 episodios. Primera serie de producción propia de Canal+, basada en la novela homónima de Rafael Chirbes. En los años 90, un constructor sin escrúpulos (Pepe Sancho), que ha amasado una gran fortuna con empresas agrícolas, se dedica a hacer negocios en el litoral español. Tras la muerte de su hermano, crea un gran entramado empresarial y urbanístico que lo convierte en el hombre más poderoso de Misent, una ciudad imaginaria del Levante español.</info>
 <thumbnail>https://i.imgur.com/S0uW15Y.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Criado por lobos[/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Criado.por.lobos</externallink>
+<info>Dos androides, denominados "Padre" y "Madre", reciben la tarea de educar a un grupo de niños humanos en un misterioso y desértico planeta. A medida que las distintas colonias humanas comienzan a tener problemas a causa de sus diferencias religiosas, los androides descubren lo difícil que resulta controlar o incluso cambiar la opinión y las creencias de los seres humanos.</info>
+<thumbnail>https://i.imgur.com/E61P1W3.jpg</thumbnail>
+<fanart>https://i.imgur.com/hDepy0S.jpg</fanart>
 </item>
 
 <item>
@@ -735,6 +753,15 @@ El.padre.de.cain</externallink>
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El tiempo que te doy[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.tiempo.que.te.doy</externallink>
+<info>Miniserie de TV. Cuenta la superación de una ruptura en diez episodios de diez minutos, en donde una chica se intenta olvidar de un error romántico del pasado. Lina está empezando de nuevo, se muda de casa, busca un nuevo trabajo y prueba nuevas experiencias. Pero lo que Lina intenta hacer en realidad es olvidar un amor del pasado, su primer amor. Cada día, Lina intenta que el tiempo que pasa pensando en Nico sea un minuto menos para así poder avanzar con su vida.</info>
+<thumbnail>https://i.imgur.com/3R3EyJj.jpg</thumbnail>
+<fanart>https://i.imgur.com/3ZUGT0z.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El vecino[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.vecino</externallink>
@@ -912,6 +939,15 @@ El.padre.de.cain</externallink>
 <info>Miniserie de TV (2018). 3 episodios. Un prisionero llega a unas remota y siniestra instalación militar para ser interrogado, pero revertirá la situación exponiendo a sus interrogadores a sus más íntimos secretos... </info>
 <thumbnail>https://i.imgur.com/Ky3VYgS.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Gossip girl[/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Gossip.girl</externallink>
+<info>Serie de TV (2021). 10 episodios. Reinicio de la serie de televisión "Gossip Girl" centrada en una nueva generación de adolescentes de escuelas privadas de Nueva York que utilizan las redes sociales para difundir chismes.</info>
+<thumbnail>https://i.imgur.com/LlopkPo.jpg</thumbnail>
+<fanart>https://i.imgur.com/3GIOmEQ.jpg</fanart>
 </item>
 
 <item>
@@ -1469,6 +1505,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Monsterland[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Monsterland</externallink>
+<info>Los encuentros con monstruos góticos, incluyendo ángeles y hombres-lobo, llevan a las personas que los sufren a hacer cualquier cosa con tal de reparar sus vidas, demostrando de este modo la delgada línea que separa al hombre de las bestias.</info>
+<thumbnail>https://i.imgur.com/j5dPexl.jpg</thumbnail>
+<fanart>https://i.imgur.com/h0Pzvo8.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Mosaic[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Mosaic</externallink>
@@ -1773,6 +1818,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 <info>Miniserie de TV (2017). 6 episodios. Un asesino en serie, y una historia que se irá desentrañando poco a poco a través de terribles crímenes. Rellik es la historia de un asesino en serie contada hacia atrás. El carismático y perjudicado detective Gabriel Markham lleva a cabo una obsesiva caza de un brutal asesino. Mientras su vida personal y profesional se desdoblan, Rellik explora cómo nuestro pasado nos hace ser quienes somos. </info>
 <thumbnail>https://i.imgur.com/ZOga6kY.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]República salvaje[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Republica.salvaje</externallink>
+<info>Un grupo de jóvenes delincuentes ha perdido la fe y la confianza en el estado alemán. Deben ser rehabilitados y enviados en expedición a los Alpes. Pero hay un terrible accidente y uno de los cuidadores aparece muerto.</info>
+<thumbnail>https://i.imgur.com/IEucMRK.jpg</thumbnail>
+<fanart>https://i.imgur.com/gqwLWXi.jpg</fanart>
 </item>
 
 <item>
