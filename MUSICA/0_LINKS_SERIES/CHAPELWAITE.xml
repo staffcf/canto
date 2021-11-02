@@ -15,6 +15,12 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
 			<title>1x01 - La sangre llama a la sangre</title>
 			<torrent>magnet:?xt=urn:btih:4346437F2993578EAEEC0C0A8FB9002FC1BBDC58&dn=HD720</torrent>
 			</item>
@@ -37,16 +43,10 @@
 			<torrent>magnet:?xt=urn:btih:4F0EF70875E82DF7CAA48B6F7601D5F51226C61A&dn=HD720</torrent>
 			</item>
 ======================================================================
-			"Tag=  "
+			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x05 - Capitulo 5 [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag= , "
-			<item>
-			<title>1x06 - Capitulo 6 [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
+			<title>1x0. - Capitulos 5 y 6</title>
+			<torrent>magnet:?xt=urn:btih:6CA1BF562A5547AD0F7EA52DADA98BD12F874B0D&dn=HD720</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
@@ -55,22 +55,66 @@
 			<torrent>magnet:?xt=urn:btih:06B15D0EF900A9BD1E56206BD5B1B39137E13842&dn=HD720</torrent>
 			</item>
 ======================================================================
-			"Tag=  "
+			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x08 - Capitulo 8 [COLOR orangered](PROXIMAMENTE)</title>
+			<title>1x0. - Capitulos 8 a 10</title>
+			<torrent>magnet:?xt=urn:btih:9DDEF650CB2028F78518C689893D944D5B2ECDB2&dn=HD720</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
 			<torrent></torrent>
 			</item>
 ======================================================================
-			"Tag=  "
+			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x09 - Capitulo 9 [COLOR orangered](PROXIMAMENTE)</title>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
-			"Tag=  "
+			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x10 - Capitulo 10 [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
+			<title>1x01 - La sangre llama a la sangre</title>
+			<torrent>magnet:?xt=urn:btih:74F5C96420DC4EFEEE51E6B87ECCDD296D0DE2C5&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x02 - Memento Mori</title>
+			<torrent>magnet:?xt=urn:btih:65483DD1294D9BEB4BAA1FFFF78716EB132767A9&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x03 - El legado de la locura</title>
+			<torrent>magnet:?xt=urn:btih:D038296F5EE1BA40C0F7CC9E6B2FF0FE4F7EBF75&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x04 - Lo prometido</title>
+			<torrent>magnet:?xt=urn:btih:5B8C5FDEA21855EB90AD507BB3C6652B4801EA56&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 5 y 6</title>
+			<torrent>magnet:?xt=urn:btih:8DF569A06CE7F59DE67931D16E4F95BBD27E0D11&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x07 - De Vermis Mysteriis</title>
+			<torrent>magnet:?xt=urn:btih:949A077A9280F6CC10BD3A94CC844090C01FFA45&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 8 a 10</title>
+			<torrent>magnet:?xt=urn:btih:005F23488809D7880422BB36F338E00CB22795AC&dn=HDTV</torrent>
 			</item>
 ======================================================================
 ======================================================================
