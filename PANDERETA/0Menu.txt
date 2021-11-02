@@ -1233,6 +1233,15 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]La sangre helada[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.sangre.helada</externallink>
+<info>Miniserie de TV. 5 episodios. Siglo XIX. Patrick Sumner es un ex cirujano del ejército caído en desgracia que se inscribe como médico del barco en una expedición ballenera al Ártico. A bordo se encuentra con Henry Drax, el arponero, un brutal asesino cuya amoralidad ha sido moldeada para adaptarse a la dureza de su mundo. Tenía la esperanza de escapar de los horrores de su pasado, pero Sumner se encuentra con un viaje desafortunado y un psicópata asesino. En busca de la redención, su historia se convierte en una dura lucha por la supervivencia en el Ártico inclemente.</info>
+<thumbnail>https://i.imgur.com/zrDxq1F.jpg</thumbnail>
+<fanart>https://i.imgur.com/xcfYI20.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]La valla[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.valla.txt</externallink>
