@@ -13,8 +13,11 @@
 	- 1SerieTitle:"THE MANDALORIAN", SerieTemp:"TEMPORADAS 1 y 2", SerieIDT:"TORRENT4K", SerieThumbail:"https://www.themoviedb.org/t/p/original/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg",
 
 	- 1SerieTitle:"", SerieTemp:"", SerieIDT:"", SerieThumbail:"https://www.themoviedb.org/t/p/original/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg",	
-	- 1SerieTitle:"", SerieTemp:"[COLOR yellow]CALIDAD 1080", SerieIDT:"TORRENT1080", SerieThumbail:"https://www.themoviedb.org/t/p/original/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg",
-	- 1SerieTitle:"THE MANDALORIAN", SerieTemp:"TEMPORADAS 1 y 2", SerieIDT:"TORRENT1080", SerieThumbail:"https://www.themoviedb.org/t/p/original/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg",	
+	- 1SerieTitle:"", SerieTemp:"[COLOR yellow]CALIDAD BR1080", SerieIDT:"TORRENT1080", SerieThumbail:"https://www.themoviedb.org/t/p/original/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg",
+	- 1SerieTitle:"THE MANDALORIAN", SerieTemp:"TEMPORADAS 1 y 2", SerieIDT:"TORRENT1080", SerieThumbail:"https://www.themoviedb.org/t/p/original/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg",
+	
+	- 1SerieTitle:"", SerieTemp:"", SerieIDT:"", SerieThumbail:"https://www.themoviedb.org/t/p/original/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg",	
+	- 1SerieTitle:"", SerieTemp:"[COLOR yellow]CALIDAD 1080", SerieIDT:"TORRENT1080", SerieThumbail:"https://www.themoviedb.org/t/p/original/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg",	
 	- 1SerieTitle:"THE MANDALORIAN", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP11080", SerieThumbail:"https://www.themoviedb.org/t/p/original/7ahSDUfoMKkagGBP0Xq0Nj73Znq.jpg",
 	- 1SerieTitle:"THE MANDALORIAN", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP21080", SerieThumbail:"https://www.themoviedb.org/t/p/original/oV32T4lIiUEKkEnkZuhX2VFvCJU.jpg",
 	
@@ -38,15 +41,47 @@
 ======================================================================
 			"Tag= TORRENT4K, "
 			<item>
-			<title>Temporada 1 - Capitulos 1 a 8</title>      
-			<torrent>magnet:?xt=urn:btih:4A81B9CD789FA28E39F8308204F6C82E40C5EEA1</torrent>
+			<title> - [COLOR gold]Calidad 4K UHDRip</title>      
+			<torrent></torrent>
 			</item>
 ======================================================================
 ======================================================================
 			"Tag= TORRENT4K, "
 			<item>
+			<title>Temporada 1 - Capitulos 1 a 8</title>      
+			<torrent>magnet:?xt=urn:btih:344F688D372356FEA087E12BEAA80B40C9239AE9&dn=UHDRip</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENT4K, "
+			<item>
 			<title>Temporada 2 - Capitulos 1 a 8</title>      
-			<torrent>magnet:?xt=urn:btih:3B0154860E776AEE5DF34E0384BD67E9AD66AAAB</torrent>
+			<torrent>magnet:?xt=urn:btih:3B0154860E776AEE5DF34E0384BD67E9AD66AAAB&dn=dn=UHDRip</torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENT4K, "
+			<item>
+			<title> - </title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENT4K, "
+			<item>
+			<title> - [COLOR gold]Calidad 4K WebRip</title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENT4K, "
+			<item>
+			<title>Temporada 1 - Capitulos 1 a 8</title>      
+			<torrent>magnet:?xt=urn:btih:4A81B9CD789FA28E39F8308204F6C82E40C5EEA1&dn=Web4K</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENT4K, "
+			<item>
+			<title>Temporada 2 - Capitulos 1 a 8</title>      
+			<torrent>magnet:?xt=urn:btih:3B0154860E776AEE5DF34E0384BD67E9AD66AAAB&dn=Web4K</torrent>
 			</item>
 ======================================================================
 ======================================================================
@@ -59,7 +94,7 @@
 ======================================================================
 			"Tag= TORRENT1080, "
 			<item>
-			<title>Calidad 1080 - TEMPORADAS 1 y 2</title>      
+			<title>Calidad BR1080 - TEMPORADAS 1 y 2</title>      
 			<torrent>magnet:?xt=urn:btih:9863FDC75FCFC606234AAE11918DE7423523903A</torrent>
 			</item>
 ======================================================================
