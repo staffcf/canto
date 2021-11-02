@@ -14,13 +14,15 @@
 
 	- 1SerieTitle:"", SerieTemp:"", SerieIDT:"", SerieThumbail:"https://www.themoviedb.org/t/p/original/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg",	
 	- 1SerieTitle:"", SerieTemp:"[COLOR yellow]CALIDAD 1080", SerieIDT:"TORRENT1080", SerieThumbail:"https://www.themoviedb.org/t/p/original/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg",
-	- 1SerieTitle:"THE MANDALORIAN", SerieTemp:"TEMPORADAS 1 y 2", SerieIDT:"TORRENT1080", SerieThumbail:"https://www.themoviedb.org/t/p/original/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg",
+	- 0SerieTitle:"THE MANDALORIAN", SerieTemp:"TEMPORADAS 1 y 2", SerieIDT:"TORRENT1080", SerieThumbail:"https://www.themoviedb.org/t/p/original/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg",	
+	- 1SerieTitle:"THE MANDALORIAN", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP11080", SerieThumbail:"https://www.themoviedb.org/t/p/original/7ahSDUfoMKkagGBP0Xq0Nj73Znq.jpg",
+	- 1SerieTitle:"THE MANDALORIAN", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP21080", SerieThumbail:"https://www.themoviedb.org/t/p/original/oV32T4lIiUEKkEnkZuhX2VFvCJU.jpg",
 	
 	
 	- 1SerieTitle:"", SerieTemp:"", SerieIDT:"", SerieThumbail:"https://www.themoviedb.org/t/p/original/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg",	
 	- 1SerieTitle:"", SerieTemp:"[COLOR yellow]CALIDAD 720", SerieIDT:"", SerieThumbail:"https://www.themoviedb.org/t/p/original/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg",	
-	- 1SerieTitle:"THE MANDALORIAN", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1720", SerieThumbail:"https://www.themoviedb.org/t/p/original/7ahSDUfoMKkagGBP0Xq0Nj73Znq.jpg",
-	- 1SerieTitle:"THE MANDALORIAN", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2720", SerieThumbail:"https://www.themoviedb.org/t/p/original/oV32T4lIiUEKkEnkZuhX2VFvCJU.jpg",
+	- 1SerieTitle:"THE MANDALORIAN", SerieTemp:"TEMPORADA 1", SerieIDT:"TORRENTTEMP1720", SerieThumbail:"https://www.themoviedb.org/t/p/original/7ahSDUfoMKkagGBP0Xq0Nj73Znq.jpg",
+	- 1SerieTitle:"THE MANDALORIAN", SerieTemp:"TEMPORADA 2", SerieIDT:"TORRENTTEMP2720", SerieThumbail:"https://www.themoviedb.org/t/p/original/oV32T4lIiUEKkEnkZuhX2VFvCJU.jpg",
 	
 	
 	- 1SerieTitle:"", SerieTemp:"", SerieIDT:"", SerieThumbail:"https://www.themoviedb.org/t/p/original/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg",	
@@ -30,11 +32,9 @@
 	
 -->
 ======================================================================
-			"Tag= TORRENT1080, "
-			<item>
-			<title>Calidad 1080 - TEMPORADAS 1 y 2</title>      
-			<torrent>magnet:?xt=urn:btih:9863FDC75FCFC606234AAE11918DE7423523903A</torrent>
-			</item>
+<!--
+ THE MANDALORIAN - CALIDAD 4K
+-->
 ======================================================================
 			"Tag= TORRENT4K, "
 			<item>
@@ -51,51 +51,178 @@
 ======================================================================
 ======================================================================
 ======================================================================
-			"Tag= TORRENTTEMP1720, "
+======================================================================
+======================================================================
+<!--
+ THE MANDALORIAN - CALIDAD 1080
+-->
+======================================================================
+			"Tag= TORRENT1080, "
+			<item>
+			<title>Calidad 1080 - TEMPORADAS 1 y 2</title>      
+			<torrent>magnet:?xt=urn:btih:9863FDC75FCFC606234AAE11918DE7423523903A</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP11080, "
 			<item>
 			<title>1x01 - El Mandaloriano</title>     
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Mandalorian/1x01.-The.Mandalorian.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP11080, "
+			<item>
+			<title>1x02 - El Niño</title>     
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Mandalorian/1x02.-The.Mandalorian.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP11080, "
+			<item>
+			<title>1x03 - El Pecado</title>    
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Mandalorian/1x03.-The.Mandalorian.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP11080, "
+			<item>
+			<title>1x04 - El Santuario</title>    
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Mandalorian/1x04.-The.Mandalorian.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP11080, "
+			<item>
+			<title>1x05 - El Pistolero</title>      
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Mandalorian/1x05.-The.Mandalorian.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP11080, "
+			<item>
+			<title>1x06 - El Prisionero</title>        
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Mandalorian/1x06.-The.Mandalorian.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP11080, "
+			<item>
+			<title>1x07 - Ajuste de Cuentas</title>       
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Mandalorian/1x07.-The.Mandalorian.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP11080, "
+			<item>
+			<title>1x08 - Redención</title>       
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Mandalorian/1x08.-The.Mandalorian.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP21080, "
+			<item>
+			<title>2x01 - El Marshal</title>       
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Mandalorian/2x01.-The.Mandalorian.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP21080, "
+			<item>
+			<title>2x02 - La Pasajera</title>      
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Mandalorian/2x02.-The.Mandalorian.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP21080, "
+			<item>
+			<title>2x03 - La Heredera</title>       
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Mandalorian/2x03.-The.Mandalorian.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP21080, "
+			<item>
+			<title>2x04 - El Asedio</title>         
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Mandalorian/2x04.-The.Mandalorian.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP21080, "
+			<item>
+			<title>2x05 - La Jedi</title>      
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Mandalorian/2x05.-The.Mandalorian.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP21080, "
+			<item>
+			<title>2x06 - La Tragedia</title>       
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Mandalorian/2x06.-The.Mandalorian.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP21080, "
+			<item>
+			<title>2x07 - El Creyente</title>      
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Mandalorian/2x07.-The.Mandalorian.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP21080, "
+			<item>
+			<title>2x08 - El Rescate</title>        
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Mandalorian/2x08.-The.Mandalorian.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+<!--
+ THE MANDALORIAN - CALIDAD 720
+-->
+======================================================================
+			"Tag= TORRENTTEMP1720, "
+			<item>
+			<title>1x01 - El Mandaloriano</title>
 			<torrent>magnet:?xt=urn:btih:89094C7DDE19214EA38909F89020E38DF35D34F8</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1720, "
 			<item>
-			<title>1x02 - El Niño</title> 
+			<title>1x02 - El Niño</title><titleGdrive>
 			<torrent>magnet:?xt=urn:btih:1C15EF5F32101F2B45DD2E6E029FA00397710C92</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1720, "
 			<item>
-			<title>1x03 - El Pecado</title>   
+			<title>1x03 - El Pecado</title>
 			<torrent>magnet:?xt=urn:btih:3665B8E292808FFF361D9CD5186E182FAFBCC11F</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1720, "
 			<item>
-			<title>1x04 - El Santuario</title> 
+			<title>1x04 - El Santuario</title>
 			<torrent>magnet:?xt=urn:btih:5DF7B5EF2D7A388B7AF2E18B3A4C9636F91CB3A8</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1720, "
 			<item>
-			<title>1x05 - El Pistolero</title> 
+			<title>1x05 - El Pistolero</title>
 			<torrent>magnet:?xt=urn:btih:67635A1DC41A55A9B481DD3410D00400E1046C96</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1720, "
 			<item>
-			<title>1x06 - El Prisionero</title>   
+			<title>1x06 - El Prisionero</title>
 			<torrent>magnet:?xt=urn:btih:B85C4CFC29DB81CF2759C2B3C5B06AF52BEEBED4</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1720, "
 			<item>
-			<title>1x07 - Ajuste de Cuentas</title>  
+			<title>1x07 - Ajuste de Cuentas</title>
 			<torrent>magnet:?xt=urn:btih:91EED492581DD571F0BD054140B7EC4D9EA87405</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1720, "
 			<item>
-			<title>1x08 - Redención</title>    
+			<title>1x08 - Redención</title>  
 			<torrent>magnet:?xt=urn:btih:3a1f8d5e90023143c49969144f99d9cd8d1c3077</torrent>
 			</item>
 ======================================================================
@@ -104,25 +231,25 @@
 ======================================================================
 			"Tag= TORRENTTEMP2720, "
 			<item>
-			<title>2x01 - El Marshal</title>  
+			<title>2x01 - El Marshal</title>   
 			<torrent>magnet:?xt=urn:btih:224c514f9475016d5ba273688e0e8db27aba5bc1</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP2720, "
 			<item>
-			<title>2x02 - La Pasajera</title>   
+			<title>2x02 - La Pasajera</title>
 			<torrent>magnet:?xt=urn:btih:32506E7c5312920991e37f5e1ee9ad94205d8bf9</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP2720, "
 			<item>
-			<title>2x03 - La Heredera</title>   
+			<title>2x03 - La Heredera</title>     
 			<torrent>magnet:?xt=urn:btih:2CFC114F00AA7E88465E10484A1CC1C4540AA78E</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP2720, "
 			<item>
-			<title>2x04 - El Asedio</title>      
+			<title>2x04 - El Asedio</title>   
 			<torrent>magnet:?xt=urn:btih:5D5EF981A25C6AD3E58C9B96D549C5D6C7FF7078</torrent>
 			</item>
 ======================================================================
@@ -146,10 +273,19 @@
 ======================================================================
 			"Tag= TORRENTTEMP2720, "
 			<item>
-			<title>2x08 - El Rescate</title> 
+			<title>2x08 - El Rescate</title>    
 			<torrent>magnet:?xt=urn:btih:AC490057386D359424ED5952E5CD5AC164BD4060</torrent>
 			</item>
 ======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+<!--
+ THE MANDALORIAN - CALIDAD HDTV
+-->
 ======================================================================
 			"Tag= TORRENTTEMP1HDTV, "
 			<item>
