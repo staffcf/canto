@@ -19,7 +19,7 @@ from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
 import six
 TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
-url = 'https://pastebin.com/f5E3nDZM'
+url = 'https://pastebin.com/raw/f5E3nDZM'
 titulo = 'Naruto SD Rock Lee no Seishun Full Power'
 import base64, codecs
 
