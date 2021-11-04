@@ -1,0 +1,42 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ LOLA
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"LOLA", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://i.imgur.com/A6svs4b.jpg",
+	
+-->
+
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x01 - Ni canta, ni baila</title>	https://i.imgur.com/mNkUdL9.jpg
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Lola/1x01.-Lola.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x02 - La Faraona [COLOR orangered] (PROXIMAMENTE)</title>	https://i.imgur.com/HKSLFZo.jpg
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x03 - Extraterrestre [COLOR orangered] (PROXIMAMENTE)</title>	https://i.imgur.com/fsXDHlF.jpg
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x04 - El brillo de los ojos [COLOR orangered] (PROXIMAMENTE)</title>	https://i.imgur.com/NDtgXi1.jpg
+			<torrent></torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
