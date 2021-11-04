@@ -1007,7 +1007,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Drama",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Cry.Macho.-2021.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:5BA13F95D6F9E8614710F1139874036A7972A630&dn=HD1080	magnet:?xt=urn:btih:4A6085067898BDB0E48F7F8F17F4D44939CAD92F&dn=BR1080
+				"torrent": "magnet:?xt=urn:btih:5BA13F95D6F9E8614710F1139874036A7972A630&dn=HD1080",	magnet:?xt=urn:btih:4A6085067898BDB0E48F7F8F17F4D44939CAD92F&dn=BR1080	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Cry.Macho.-2021.-.1080.-.CristalAzul.mkv.torrent
 				"torrent4k": "magnet:?xt=urn:btih:08736FB636A9433F9E463C3091FCCEAD4FD2861F&dn=Web4K"	
 				}		
 			]
