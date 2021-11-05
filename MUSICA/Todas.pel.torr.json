@@ -455,6 +455,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Comedia, A2021, Letra NUM, EEUU, Netflix, ",
+			"name": "¡Que duro es el amor! (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/xYUmvSAQtwTiam9fs6HZBGWNQXm.jpg",
+			"info": "Una chica de Los Ángeles, desafortunada en el amor, se enamora de un chico de la costa este por una aplicación de citas y decide sorprenderle por Navidad, solo para descubrir que la han engañado. Pero el objeto de su afecto vive, de hecho, en la misma ciudad, y el chico que la engañó se ofrece a tenderles una trampa si ella finge ser su novia durante las vacaciones",
+			"genero": "Romance, Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Que.duro.es.el.amor.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Accion, A2021, Letra A, EEUU, Netflix, ",
 			"name": "A descubierto (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/jcu9hH0fPqOwTIg5nHS3vlgw9FH.jpg",
@@ -3857,7 +3870,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"torrent4k": "magnet:?xt=urn:btih:CF1A17E6F4DB07E9024C0C82B6F7AF5D076F6D01&dn=micro4K",  magnet:?xt=urn:btih:D3CA3F367769A288E005850ED477715BF159BB42&dn=UHDRip	magnet:?xt=urn:btih:F67ABE7D968147A0975BE01C1647E4682358E5DA&dn=Web4K
 				}		
 			]
-			}
+			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Musical, 1Comedia, A2021, Letra V, EEUU, Netflix, ",
 			"name": "Vivo (2021)","coloryear": "cyan",
@@ -3870,7 +3883,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"torrent4k": ""	
 				}		
 			]
-			},,
+			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Comedia, 1Fantastico, 1Accion, A2021, Letra W, EEUU, ",
 			"name": "Willy's Wonderland (2021)","coloryear": "cyan",
@@ -3894,6 +3907,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:86902D36EBF1DF969EF1DFE3542E28DCFA7E87FD&dn=BRRip",
 				"torrent4k": "magnet:?xt=urn:btih:5FF3A5D4BC663E019A04C28AD36EFAFAAC938D4D&dn=UHDRip",  https://blazing.network/torrents/peliculas/Xtremo20214K-2160p.torrent
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra Y, Italia, Netflix, ",
+			"name": "Yara (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/qRllCnVXSfOH665gWxOL4V6cj8b.jpg",
+			"info": "Obsesionada con la desaparición de una niña de 13 años, una decidida abogada hace todo lo posible para averiguar la verdad. Basada en un caso real.",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Yara.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
