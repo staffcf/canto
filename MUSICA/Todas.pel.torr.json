@@ -1831,15 +1831,15 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, A2021, Letra F, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, A2021, Letra F, EEUU, ",
 			"name": "Finch (2021)","coloryear": "cyan",
 			"image": "https://i.imgur.com/HDfPQei.jpg",
 			"info": "La historia sigue a un robot que vive en una tierra post-apocalíptica. Creado para proteger la vida del perro de su creador, enfermo y moribundo (Tom Hanks), el robot aprende sobre el amor, la amistad y el significado de la vida humana...",
 			"genero": "Ciencia ficcion",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Finch.-2021.-.1080.-.CristalAzul.mkv.torrent",
-				"torrent4k": ""	
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Finch.-2021.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:347826B85F005114421FAC0F8AEC0EE3C59938FE&dn=HD1080	magnet:?xt=urn:btih:33E9FC4840565386DC703A0517C30F15CF4FA413&dn=BR1080
+				"torrent4k": "magnet:?xt=urn:btih:AAA42FE01B4C297BD6CB54466B0DC7E56F7E9A4D&dn=Web4K"	
 				}		
 			]
 			},
@@ -35394,7 +35394,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Aventuras, Drama",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Valhalla.Rising.-2009.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Valhalla.Rising.-2009.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:7689FFCE62148F3A43ED21EAE1BADC0C116DFFDE&dn=HD1080	magnet:?xt=urn:btih:D2B50892EB1A042C13CD4CD7F29005D9F181BCA7&dn=BR1080
 				"torrent4k": ""	
 				}		
 			]
@@ -46348,6 +46348,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.pendulo.de.la.muerte.-1961.-.1080.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Belico, 1Aventuras, 1Accion, A1961, Letra L, Reino Unido, B2000, A1970-1961, ",
+			"name": "Los cañones de Navarone (1961)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/61u2a8SB38GOKdPGv8qEiow7rtk.jpg",
+			"info": "Durante la II Guerra Mundial (1939-1945), los alemanes dominan las aguas del Mediterráneo gracias a un eficaz sistema de defensa que los aliados no pueden contrarrestar. La causa de la superioridad alemana es el fortín de Navarone, que, gracias a sus gigantescos cañones, cierra el paso a la navegación por el mar Egeo",
+			"genero": "Belico, Aventuras, Accion",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:4C165EF993E590BA8550E95E6DA23EEC5098C57E&dn=HD1080",
+				"torrent4k": "magnet:?xt=urn:btih:9B645D3C144D42EEAB87D245DF0D9B522BED984C&dn=Web4K"	
 				}		
 			]
 			},
