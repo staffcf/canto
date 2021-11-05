@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+<title>[COLOR orange]* [COLOR white]7 Seeds[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/LILIANIME/Series/7.Seeds</externallink>
+<info>Natsu despierta en un futuro postapocalíptico, descubriendo que ha sido criogenizada como parte de un programa conocido como "7 Seeds", creado para prevenir la extinción de la humanidad.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/m39zhQWhzD4u0Z0J9QZRNQSG4Na.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/q78NtGusmqQ8aC6BsZci4z47GR4.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]* [COLOR white]A.I.C.O Incarnation[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/LILIANIME/Series/Aico.incarnation</externallink>
+<info>Serie de TV (2018). 12 episodios. Todo lo que Aiko creía saber es mentira. En compañía de un grupo de buscadores, trata de llegar al punto de origen de la Irrupción para detenerla y salvar a su familia.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/kZKj6x6Wa8xyfj2VWoLDq0Or6OC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/32WeuBrqcXyTFEMcoWr0qkjf1zT.jpg</fanart>
+</item>
+
 <item>
 <title>[COLOR orange]* [COLOR white]Another [COLOR orange]Subtitulada[/COLOR]</title>  
 <link>cristalazul</link>
@@ -228,12 +247,30 @@ La primera sèrie original de 1981 va comptar amb un notable èxit al Japó, no 
 </item>
 
 <item>
+<title>[COLOR orange]* [COLOR white]Neon Génesis Evangelion[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/LILIANIME/Series/Neon.genesis.evangelion</externallink>
+<info>Serie de TV (1995-1996). 1 temporada. 26 episodios. En el año 1999, en la Antártida, ocurrió un cataclismo llamado "El Segundo Impacto", como resultado de un incidente ocasionado por unos seres conocidos como "Ángeles". Gran parte de la Tierra quedó devastada por el fenómeno, y la mitad de la población sucumbió en la catástrofe, aunque ahora la humanidad gradualmente se va recuperando. Años después, en el 2015, los "Ángeles" regresan y comienzan a atacar a la Tierra... Cada uno de los "Ángeles" es diferente de los demás, excepto por el hecho de que todos pueden generar un impenetrable escudo protector llamado Campo AT. La organización NERV revela su nuevo proyecto con miras a salvar el mundo: gigantes y bio-mecánicos robots conocidos como Evas, que son unos de las pocas fuerzas sobre la Tierra capaces de enfrentar a los "Ángeles". Sólo niños específicos pueden pilotar los Evas: Shinji Ikari, el hijo de el jefe de NERV y que no desea pelear, la reservada Rei Ayanami y la exaltada (y algo amante del combate) Asuka Langley. Mientras combaten a los "Ángeles" uno a uno, van descubriendo más y más acerca de la naturaleza y el futuro de la humanidad.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/juLaboCKWeCr7ZNgNnAFYy2aDYQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qtmlwuXj0VyJnCjnrvdpDjo15vI.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR orange]* [COLOR white]One Punch Man[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/LILIANIME/Series/One.punch.man</externallink>
 <info>Serie de TV (2015). 12 episodios. La trama se desarrolla en Ciudad Z, Japón. Saitama es un superhéroe que, debido a varias circunstancias, puede derrotar de un puñetazo a los monstruos y villanos que asolan el lugar. Debido a esto, el chico se aburre, pues no encuentra un rival a la altura. Es por ello que emprende una singular aventura junto a la Asociación de Héroes. Además de buscar a un contrincante digno, Saitama tiene que conseguir que el resto le valore, pues su aspecto hace que la gente le discrimine y le considere un héroe de tres al cuarto.</info>
 <thumbnail>https://i.imgur.com/Mhhf5wL.jpg</thumbnail>
 <fanart>https://i.imgur.com/o3keGaY.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]* [COLOR white]Pacific Rim:Tierra de nadie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/LILIANIME/Series/Pacific.rim</externallink>
+<info>La historia narrará las andanzas de dos hermanos, un joven soñador y su despistada hermana. Ambos se verán forzados a pilotar un mecha gigante abandonado (conocidos como Jaeger en el universo de Pacific Rim). Los jóvenes deberán abrirse paso a través de los terribles monstruos en la búsqueda de sus padres.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/7PC3p7PQS99G5gu0I9ofotd5hq5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vJFHdjr3oNYTmbCjDVRD9iRLUSz.jpg</fanart>
 </item>
 
 <item>
@@ -334,6 +371,15 @@ La primera sèrie original de 1981 va comptar amb un notable èxit al Japó, no 
 <info>Seiya y los demás Caballeros del Zodiaco juran proteger a la reencarnación de la diosa griega Atenea en su lucha contra los malvados que pretenden destruir la humanidad. Nueva adaptación para televisión del manga de Masami Kurumada, esta vez realizada con animación 3D</info>
 <thumbnail>https://i.imgur.com/sp0jva2.jpg</thumbnail>
 <fanart>https://i.imgur.com/I7aHk0m.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]* [COLOR white]Samurai Champloo[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/LILIANIME/Series/Samurai.champloo</externallink>
+<info>Serie de TV (2004-2005). 1 temporada. 26 episodios. Fuu, una chica de 15 años, trabajaba en una casa de té hasta que ésta fue destruida después de una violenta pelea a tres bandas entre Mugen, el vagabundo, Jin, el samurái negro, y los guardaespaldas del hijo del Daikan de ese pueblo. Al final del combate, Mugen y Jin son arrestados para ser ejecutados al día siguiente. Fuu intenta hacer un trato con estos dos individuos: les ayudará a escapar si, a cambio, ellos la ayudan a encontrar al samurái que huele al perfume de semillas de girasol. Pero las cosas no son tan fáciles, ya que Mugen y Jin están siempre intentando acabar el uno con el otro, una rivalidad eterna casi profesional.Ambos samuráis tienen un pasado borroso; Mugen, de ascendencia pirata, llama la atención con su atuendo y su extraña forma de pelear. De Jin, samurái silencioso, de mirada fría y pocas palabras, es acosado varias veces por todos los distritos por los samuráis de la región, en su viaje hacia Nagasaki. Ex alumnos del dojo del que él procede lo asedian tratando de eliminarlo, debido a su reputación y a la historia que le precede.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/txgi3IxsllKDARWGY9bXmxR5uhj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aZRGh7ccNAdqQWhHypvlT9UuXjZ.jpg</fanart>
 </item>
 
 <item>
