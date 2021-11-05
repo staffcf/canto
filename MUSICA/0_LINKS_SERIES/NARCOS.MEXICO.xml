@@ -11,6 +11,7 @@
 	
 	- 1SerieTitle:"NARCOS: MEXICO", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/aXwMx8OvRFMfI1RmkbJm6Bq1jVg.jpg",
 	- 1SerieTitle:"NARCOS: MEXICO", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/gQQGxVhdBvT2l7G1Zz6JYSCmL6q.jpg",
+	- 1SerieTitle:"NARCOS: MEXICO", SerieTemp:"TEMPORADA 3", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/uYcZMiIIUv8NPebpqKbUGhf2M3y.jpg",
 
 	
 -->
@@ -152,5 +153,24 @@
 			<torrent>magnet:?xt=urn:btih:9292A45551F870656508364E714832FDECDDBFFF</torrent>
 			</item>
 ======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - Capitulos 1 a 4</title>
+			<torrent>magnet:?xt=urn:btih:B002639DD5DBFB317652BEEB79A3EE4DEFF94D9E&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - Capitulos 5 a 7</title>
+			<torrent>magnet:?xt=urn:btih:E0B3C020D2D58D40FEC2F51A5D0B59BCEF73D4E2&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - Capitulos 8 a 10</title>
+			<torrent>magnet:?xt=urn:btih:A604862F8794A5FCEFBF8ED5725CD76F9F50704C&dn=HD720</torrent>
+			</item>
 ======================================================================
 ======================================================================
