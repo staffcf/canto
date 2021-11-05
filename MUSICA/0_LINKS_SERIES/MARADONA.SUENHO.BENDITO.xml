@@ -15,7 +15,52 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>[B][COLOR turquoise]OPCION 1 - [COLOR yellow]CALIDAD 1080</title>
+			<title>[B][COLOR turquoise]OPCION 1 - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 a 3</title>
+			<torrent>magnet:?xt=urn:btih:1DE2FEA634183258924DD77ED58442D632905DF1&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 4 a 7</title>
+			<torrent>magnet:?xt=urn:btih:4F7E09ED67F13E6D8759CF2A4D5F77D982C1BB95&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x08 - Capitulo 8 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x09 - Capitulo 9 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x10 - Capitulo 10 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>[B][COLOR turquoise]OPCION 2 - [COLOR yellow]CALIDAD 1080</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
@@ -89,7 +134,7 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>[B][COLOR turquoise]OPCION 2 - [COLOR yellow]CALIDAD 1080</title>
+			<title>[B][COLOR turquoise]OPCION 3 - [COLOR yellow]CALIDAD 1080</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
@@ -163,7 +208,7 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>[B][COLOR turquoise]OPCION 3 - [COLOR yellow]CALIDAD 1080</title>
+			<title>[B][COLOR turquoise]OPCION 4 - [COLOR yellow]CALIDAD 1080</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
@@ -237,7 +282,7 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>[B][COLOR turquoise]OPCION 4 - [COLOR yellow]CALIDAD 720</title>
+			<title>[B][COLOR turquoise]OPCION 5 - [COLOR yellow]CALIDAD 720</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
@@ -300,6 +345,52 @@
 			<title>1x10 - Capitulo 10 [COLOR orangered](PROXIMAMENTE)</title>
 			<torrent></torrent>
 			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>[B][COLOR turquoise]OPCION 6 - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 a 3</title>
+			<torrent>magnet:?xt=urn:btih:1EB7BA80E8232507EC767212871575790D19DDC0&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 4 a 7</title>
+			<torrent>magnet:?xt=urn:btih:4006E0999D509C6D2C4A59200DC32CF36FCCB534&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x08 - Capitulo 8 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x09 - Capitulo 9 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x10 - Capitulo 10 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+======================================================================
 ======================================================================
 ======================================================================
 ======================================================================
