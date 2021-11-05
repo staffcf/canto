@@ -157,6 +157,12 @@
 ======================================================================
 			"Tag= TORRENTTEMP3, "
 			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
 			<title> - Capitulos 1 a 4</title>
 			<torrent>magnet:?xt=urn:btih:B002639DD5DBFB317652BEEB79A3EE4DEFF94D9E&dn=HD720</torrent>
 			</item>
@@ -172,5 +178,37 @@
 			<title> - Capitulos 8 a 10</title>
 			<torrent>magnet:?xt=urn:btih:A604862F8794A5FCEFBF8ED5725CD76F9F50704C&dn=HD720</torrent>
 			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - Capitulos 1 a 4</title>
+			<torrent>magnet:?xt=urn:btih:80745CF4E26A270B8059153840D8CA46DD58C02C&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - Capitulos 5 a 7</title>
+			<torrent>magnet:?xt=urn:btih:D51D01B1FDEBCF03BF17BAA3F9FA9CAFCA7AD2B8&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - Capitulos 8 a 10</title>
+			<torrent>magnet:?xt=urn:btih:D7ED54F0440EAD16349C93020AD3F4157EAEDEF4&dn=HDTV</torrent>
+			</item>
+======================================================================
 ======================================================================
 ======================================================================
