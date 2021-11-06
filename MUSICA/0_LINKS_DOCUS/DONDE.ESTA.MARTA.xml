@@ -11,18 +11,50 @@
 	
 	- 1SerieTitle:"¿DONDE ESTA MARTA?", SerieTemp:"MINI SERIE", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/uaoy8Bd5MxSzOQIpESTDgziChvw.jpg",
 	
--->
+--> @CristalAzul
 
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - [COLOR yellow]CALIDAD 1080</title>
+			<title>[B][COLOR turquoise]OPCION 1 - [COLOR yellow]CALIDAD 1080</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 1 a 3</title>
+			<title>1x01 - Apagado o fuera de cobertura</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Donde.esta.Marta/1x01.-Donde.esta.Marta.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x02 - Red de mentiras</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Donde.esta.Marta/1x02.-Donde.esta.Marta.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x03 - ¿No hay más preguntas, señoría?</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Donde.esta.Marta/1x03.-Donde.esta.Marta.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>[B][COLOR turquoise]OPCION 2 - [COLOR yellow]CALIDAD 1080</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 1 a 3</title>
 			<torrent>magnet:?xt=urn:btih:E8B287BBCECAB8B7C84FE0CEEECF92A4EE6AE19E&dn=HD1080</torrent>
 			</item>
 ======================================================================
@@ -35,13 +67,13 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - [COLOR yellow]CALIDAD 1080</title>
+			<title>[B][COLOR turquoise]OPCION 3 - [COLOR yellow]CALIDAD 1080</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 1 a 3</title>
+			<title>1x0. - Capitulos 1 a 3</title>
 			<torrent>magnet:?xt=urn:btih:FAC25588AD3DE6F28B5F77CECAB06F289BAB3A90&dn=HD1080</torrent>
 			</item>
 ======================================================================
@@ -54,13 +86,13 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - [COLOR yellow]CALIDAD 720</title>
+			<title>[B][COLOR turquoise]OPCION 4 - [COLOR yellow]CALIDAD 720</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 1 a 3</title>
+			<title>1x0. - Capitulos 1 a 3</title>
 			<torrent>magnet:?xt=urn:btih:CC13F0C554AFBD289F887760D3B4A0DDA5D75D3D&dn=HD720</torrent>
 			</item>
 ======================================================================
@@ -73,13 +105,13 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - [COLOR yellow]CALIDAD 720</title>
+			<title>[B][COLOR turquoise]OPCION 5 - [COLOR yellow]CALIDAD 720</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 1 a 3</title>
+			<title>1x0. - Capitulos 1 a 3</title>
 			<torrent>magnet:?xt=urn:btih:8D717A7483E665EF3506BE7EBD15C39439DB45AD&dn=HD720</torrent>
 			</item>
 ======================================================================
@@ -92,13 +124,13 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - [COLOR yellow]CALIDAD 720</title>
+			<title>[B][COLOR turquoise]OPCION 6 - [COLOR yellow]CALIDAD 720</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 1 a 3</title>
+			<title>1x0. - Capitulos 1 a 3</title>
 			<torrent>magnet:?xt=urn:btih:349EBA90455A09819F06A1575BF38D092F1C10B4&dn=HD720</torrent>	
 			</item>
 ======================================================================
@@ -111,13 +143,13 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<title>[B][COLOR turquoise]OPCION 7 - [COLOR yellow]CALIDAD HDTV</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 1 a 3</title>
+			<title>1x0. - Capitulos 1 a 3</title>
 			<torrent>magnet:?xt=urn:btih:DCBEA4A425390B623E0422E0035DB7AD44EFFEED&dn=HDTV</torrent>
 			</item>
 ======================================================================
