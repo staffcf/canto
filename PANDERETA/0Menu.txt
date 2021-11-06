@@ -2320,6 +2320,15 @@ Sexta temporada (SPOILER DE LA 5ª): La temporada 6 de Vikings regresa tras la b
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Wu Assassins[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Wu.assassins</externallink>
+<info>Un chef de San Francisco se convierte en el último elegido de una larga tradición de asesinos y debe evitar que los poderes místicos del Wu caigan en malas manos.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/amZBsaFhwe9wILpBfJenwU9KdCV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/f0rWmWBn7lxDkx58ZdMZoYtcO1E.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Y,el último hombre[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Y.el.ultimo.hombre</externallink>
