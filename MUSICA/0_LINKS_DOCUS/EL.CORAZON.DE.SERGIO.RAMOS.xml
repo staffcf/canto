@@ -10,7 +10,7 @@
 	ETIQUETAS:
 	
 	- 1SerieTitle:"El Corazon De Sergio Ramos", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/v26uNtj4CyB1iP4DR6WJyCjHZtF.jpg",
-	- 1SerieTitle:"La Leyenda De Sergio Ramos", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/nlrsve2ux4sZDFaRjEFYm1grh75.jpg",
+	- 1SerieTitle:"La Leyenda De Sergio Ramos", SerieTemp:"TEMPORADA 2", SerieID:"TORRENTTEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/nlrsve2ux4sZDFaRjEFYm1grh75.jpg",
 
 	
 -->
@@ -45,61 +45,41 @@
 			<torrent>magnet:?xt=urn:btih:FE0494D19E9431E8365AA1922C0B32FBABC96149&dn=HD1080</torrent>
 			</item>
 ======================================================================
-			"Tag= TORRENTTEMP1, "
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2,  "
 			<item>
-			<title> - </title>
-			<torrent></torrent>
+			<title>2x01 - El Clásico</title>  
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Sergio.Ramos/2x01.-L.L.D.S.R.-.720.-.CristalAzul.mkv.torrent</torrent>
 			</item>
 ======================================================================
-			"Tag= TORRENTTEMP1, "
+			"Tag= TORRENTTEMP2,  "
 			<item>
-			<title> - [COLOR yellow]CALIDAD 720</title>
-			<torrent></torrent>
+			<title>2x02 - Orígenes</title>     
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Sergio.Ramos/2x02.-L.L.D.S.R.-.720.-.CristalAzul.mkv.torrent</torrent>
 			</item>
 ======================================================================
-			"Tag= TORRENTTEMP1, "
+			"Tag= TORRENTTEMP2,  "
 			<item>
-			<title> - Capitulos 1 a 8</title>      
-			<torrent>magnet:?xt=urn:btih:7D017B1DC0267C6E36D57968B0D6A5DF66CBC4D2&dn=HD720</torrent>
+			<title>2x03 - Confinamiento</title>    
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Sergio.Ramos/2x03.-L.L.D.S.R.-.720.-.CristalAzul.mkv.torrent</torrent>
 			</item>
 ======================================================================
-======================================================================
-======================================================================
-			"Tag= TORRENTTEMP2, "
+			"Tag= TORRENTTEMP2,  "
 			<item>
-			<title> - [COLOR yellow]CALIDAD 1080</title>
-			<torrent></torrent>
+			<title>2x04 - La Forja</title>      
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Sergio.Ramos/2x04.-L.L.D.S.R.-.720.-.CristalAzul.mkv.torrent</torrent>
 			</item>
 ======================================================================
-			"Tag= TORRENTTEMP2, "
+			"Tag= TORRENTTEMP2,  "
 			<item>
-			<title> - Capitulos 1 a 8</title>      
-			<torrent>magnet:?xt=urn:btih:456B6522E50B6368152CEC01470A3471CC15E419&dn=HD1080</torrent>
+			<title>2x05 - El Sentimiento</title> 
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Sergio.Ramos/2x05.-L.L.D.S.R.-.720.-.CristalAzul.mkv.torrent</torrent>
 			</item>
 ======================================================================
-			"Tag= TORRENTTEMP2, "
+			"Tag= TORRENTTEMP2,  "
 			<item>
-			<title> - </title>
-			<torrent></torrent>
+			<title>2x06 - El Futuro</title>      
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Sergio.Ramos/2x06.-L.L.D.S.R.-.720.-.CristalAzul.mkv.torrent</torrent>
 			</item>
-======================================================================
-			"Tag= TORRENTTEMP2, "
-			<item>
-			<title> - [COLOR yellow]CALIDAD 720</title>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP2, "
-			<item>
-			<title> - Capitulos 1 a 4</title><titleGdrive></titleGdrive>      
-			<torrent>magnet:?xt=urn:btih:49989A2B308DFCA52CEBC9EC751D06EE220596EF&dn=HD720</torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP2, "
-			<item>
-			<title> - Capitulos 5 y 6</title><titleGdrive></titleGdrive>      
-			<torrent>magnet:?xt=urn:btih:6B4DBD4C65DFDEB08B35C008C960A7915D0822BA&dn=HD720</torrent>
-			</item>
-======================================================================
-======================================================================
 ======================================================================
