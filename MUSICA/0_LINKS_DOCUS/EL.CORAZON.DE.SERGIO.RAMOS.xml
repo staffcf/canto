@@ -17,14 +17,56 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<title> - [COLOR yellow]CALIDAD 1080</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 1 a 8</title>
-			<torrent>magnet:?xt=urn:btih:16D11ABCDB51D6E24EBB3D3C504426E83CB8F563&dn=HDTV</torrent>
+			<title>1x01 - Familia</title>      
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Sergio.Ramos/1x01.-E.C.D.S.R.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x02 - Futbol</title>        
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Sergio.Ramos/1x02.-E.C.D.S.R.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x03 - Raices</title>      
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Sergio.Ramos/1x03.-E.C.D.S.R.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x04 - Logros</title>      
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Sergio.Ramos/1x04.-E.C.D.S.R.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x05 - Recuerdos</title>   
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Sergio.Ramos/1x05.-E.C.D.S.R.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x06 - Musica</title>    
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Sergio.Ramos/1x06.-E.C.D.S.R.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x07 - Aficionados y Rivales</title>    
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Sergio.Ramos/1x07.-E.C.D.S.R.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x08 - Legado</title>        
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Sergio.Ramos/1x08.-E.C.D.S.R.-.1080.-.CristalAzul.mkv.torrent</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
@@ -35,14 +77,14 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - [COLOR yellow]CALIDAD 1080</title>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 1 a 8</title>      
-			<torrent>magnet:?xt=urn:btih:FE0494D19E9431E8365AA1922C0B32FBABC96149&dn=HD1080</torrent>
+			<title> - Capitulos 1 a 8</title>
+			<torrent>magnet:?xt=urn:btih:16D11ABCDB51D6E24EBB3D3C504426E83CB8F563&dn=HDTV</torrent>
 			</item>
 ======================================================================
 ======================================================================
