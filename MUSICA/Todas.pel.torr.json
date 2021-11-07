@@ -3794,6 +3794,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra U, Reino Unido, Netflix, ",
+			"name": "Un padre por Navidad (2021)","coloryear": "cyan",
+			"image": "https://i.imgur.com/Lw18l09.jpg",
+			"info": "Cuatro hermanas enfrentadas reciben un curso acelerado de cómo conseguir una buena armonía familiar, cuando su distanciado padre se presenta inesperadamente en su elegante mansión por Navidad.",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Un.padre.por.Navidad.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Comedia, 1Fantastico, A2021, Letra U, Australia, ",
 			"name": "Un pequeño contratiempo (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/bGkfOC0lVUWo9MMb8gEgTXOvwdt.jpg",
@@ -6133,6 +6146,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Aventuras, 1Drama, A2020, Letra E, EEUU, ",
+			"name": "El hombre agua (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/osTeC1AOreypIHmePyZEIoqaDhg.jpg",
+			"info": "Un niño emprende la mision para intentar salvar a su madre enferma buscando una figura mitica que se dice que tiene poderes curativos magicos.",
+			"genero": "Aventuras, Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:45F6E640E705710E1677AD955FD54330A18636D4&dn=HD1080",  magnet:?xt=urn:btih:6EE04FBF1B40C602F031B5B23E598FCDBDC7C5B1&dn=BRRip  magnet:?xt=urn:btih:0e95cfb1c316b4d9dd41e4d2bfc09e7aca44c835&dn=HD
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Intriga, 1Terror, A2020, Letra E, EEUU, ",
 			"name": "El hombre invisible (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/q7779NOEcMBzY1PWydlmx7DmbSn.jpg",
@@ -6194,6 +6220,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:431D7ECA13A50AC7CC7BDCF77E37E8F2456E2E62&dn=HD1080",  magnet:?xt=urn:btih:78DF7211813252E894A09267FADFA9937D0B31F8&dn=BRRip
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Comedia, A2020, Letra E, Canada, ",
+			"name": "El joven detective (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/cqevEm1JzPc3U2iMMGfrdTEJvcV.jpg",
+			"info": "Un niño detective que tuvo cierta fama en la infancia ahora tiene 31 años y se sigue dedicando a investigar los problemas más triviales entre resacas y ataques de autocompasión. Un día una cliente se acerca a su despacho para ofrecer su primer caso 'adulto' en el que tendrá que averiguar quién asesinó brutalmente a su novio.",
+			"genero": "Drama, Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.joven.detective.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -6285,19 +6324,6 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:D2D8A86C689CDCBC834402C87FFE3DFDF35C02DE&dn=BRRip",  magnet:?xt=urn:btih:1144df141deefc28b39f11b3637138cb01537ce7&dn=HD720
-				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Aventuras, 1Drama, A2020, Letra E, EEUU, ",
-			"name": "El hombre agua (2020)","coloryear": "magenta",
-			"image": "https://www.themoviedb.org/t/p/original/osTeC1AOreypIHmePyZEIoqaDhg.jpg",
-			"info": "Un niño emprende la mision para intentar salvar a su madre enferma buscando una figura mitica que se dice que tiene poderes curativos magicos.",
-			"genero": "Aventuras, Drama",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:45F6E640E705710E1677AD955FD54330A18636D4&dn=HD1080",  magnet:?xt=urn:btih:6EE04FBF1B40C602F031B5B23E598FCDBDC7C5B1&dn=BRRip  magnet:?xt=urn:btih:0e95cfb1c316b4d9dd41e4d2bfc09e7aca44c835&dn=HD
 				"torrent4k": ""
 				}		
 			]
