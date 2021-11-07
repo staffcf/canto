@@ -3308,7 +3308,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:E5232B6323EB27A588C0AF3E2C559646A8150F1B&dn=HD1080",	magnet:?xt=urn:btih:283AE6E244F087DEA68C3E21A3F7DECCBBCE45D9&dn=BR1080	
-				"torrent4k": "magnet:?xt=urn:btih:8BB2BC17BD7164E2CD972C29CDFFC5E4CFD274F8&dn=Web4K"	
+				"torrent4k": "magnet:?xt=urn:btih:E1ECD30C4D5D281A14B9DE66010287E6D0266457&dn=UHDRip"	magnet:?xt=urn:btih:8BB2BC17BD7164E2CD972C29CDFFC5E4CFD274F8&dn=Web4K
 				}		
 			]
 			},
@@ -5899,8 +5899,21 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra E, EEUU, ",
+			"name": "El asesinato de dos amantes (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/960UV2c4tZJnvLgFHaJa4hHWIFg.jpg",
+			"info": "David intenta desesperadamente mantener unida a su familia después de separarse de su esposa. Ambos acuerdan poder salir con otras personas, pero David lucha por asumir la nueva relación de pareja de su ex",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.asesinato.de.dos.amantes.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Intriga, 1Drama, A2020, TLetra E, Reino Unido, Crimen, ",
-			"name": "El Asesino De Las Postales (2020)","coloryear": "magenta",
+			"name": "El asesino de las postales (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/ArMUOJYU8B3FG6dlVh1UaOqadpt.jpg",
 			"info": "Un detective de Nueva York investiga la muerte de su hija, que fue asesinada mientras estaba de luna de miel en London. Para lograrlo, recluta a una una periodista escandinava especializada en esa clase de crimenes",
 			"genero": "Thriller, Intriga, Drama",
@@ -16529,6 +16542,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:edf513430fbdd4e86908770624bb3081cbcc4ecd",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Thriller, A2019, Letra L, Canada, ",
+			"name": "La hija del lobo (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/gOfHbgDYyrys9nxRG8t9vrq3U85.jpg",
+			"info": "Una mujer (Gina Carano) regresa a casa tras realizar un viaje a través de Oriente Medio para descubrir que su padre ha fallecido. Además de la tragedia que esto supone, comienza a tener problemas con su hijo de 13 años, que desafía constantemente su autoridad. Cuando se da a conocer que su padre ha dejado tras de sí una cuantiosa herencia, su hijo es raptado por un grupo local de mafiosos cuyo líder es un hombre llamado 'Padre' (Richard Dreyfuss).",
+			"genero": "Accion, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/La.hija.del.lobo.-2019.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
