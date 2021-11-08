@@ -1024,52 +1024,107 @@
 ======================================================================
 ======================================================================
 ======================================================================
-
 			"Tag= TORRENTTEMP11, "
 			<item>
 			<title>11x01 - Acheron: Parte I</title>
-			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Walking.Dead/11x01.TWD.-.720.-.CristalAzul.mkv.torrent</torrent>	magnet:?xt=urn:btih:0DA34F96FAD573E3A6DCDCE512F5F545EC395039&dn=HD720
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Walking.Dead/11x01.TWD.-.1080.-.CristalAzul.mkv.torrent</torrent>	
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP11, "
 			<item>
 			<title>11x02 - Acheron: Parte II</title>
-			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Walking.Dead/11x02.TWD.-.720.-.CristalAzul.mkv.torrent</torrent>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Walking.Dead/11x02.TWD.-.1080.-.CristalAzul.mkv.torrent</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP11, "
 			<item>
 			<title>11x03 - Cazado</title>
-			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Walking.Dead/11x03.TWD.-.720.-.CristalAzul.mkv.torrent</torrent>		magnet:?xt=urn:btih:E47A5447BC7496E0612082828DF78E61498C0DC5&dn=HD720	magnet:?xt=urn:btih:7A094FBAEC8B259C7F980DE6FA2150A03C327C50&dn=HDTV
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Walking.Dead/11x03.TWD.-.1080.-.CristalAzul.mkv.torrent</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP11, "
 			<item>
 			<title>11x04 - Rendición</title>
-			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Walking.Dead/11x04.TWD.-.720.-.CristalAzul.mkv.torrent</torrent>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Walking.Dead/11x04.TWD.-.1080.-.CristalAzul.mkv.torrent</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP11, "
 			<item>
 			<title>11x05 - De las cenizas</title>
-			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Walking.Dead/11x05.TWD.-.720.-.CristalAzul.mkv.torrent</torrent>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Walking.Dead/11x05.TWD.-.1080.-.CristalAzul.mkv.torrent</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP11, "
 			<item>
 			<title>11x06 - Por dentro</title>
-			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Walking.Dead/11x06.TWD.-.720.-.CristalAzul.mkv.torrent</torrent>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Walking.Dead/11x06.TWD.-.1080.-.CristalAzul.mkv.torrent</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP11, "	
 			<item>
 			<title>11x07 - Promesas rotas</title>
-			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Walking.Dead/11x07.TWD.-.720.-.CristalAzul.mkv.torrent</torrent>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Walking.Dead/11x07.TWD.-.1080.-.CristalAzul.mkv.torrent</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP11, "
 			<item>
 			<title>11x08 - Por sangre</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Walking.Dead/11x08.TWD.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+
+<!--
+	CALIDAD 720 - DESACTIVADA
+
+			"Tag=  "
+			<item>
+			<title>11x01 - Acheron: Parte I</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Walking.Dead/11x01.TWD.-.720.-.CristalAzul.mkv.torrent</torrent>	magnet:?xt=urn:btih:0DA34F96FAD573E3A6DCDCE512F5F545EC395039&dn=HD720
+			</item>
+======================================================================
+			"Tag=  "
+			<item>
+			<title>11x02 - Acheron: Parte II</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Walking.Dead/11x02.TWD.-.720.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag=  "
+			<item>
+			<title>11x03 - Cazado</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Walking.Dead/11x03.TWD.-.720.-.CristalAzul.mkv.torrent</torrent>		magnet:?xt=urn:btih:E47A5447BC7496E0612082828DF78E61498C0DC5&dn=HD720	magnet:?xt=urn:btih:7A094FBAEC8B259C7F980DE6FA2150A03C327C50&dn=HDTV
+			</item>
+======================================================================
+			"Tag=  "
+			<item>
+			<title>11x04 - Rendición</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Walking.Dead/11x04.TWD.-.720.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag=  "
+			<item>
+			<title>11x05 - De las cenizas</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Walking.Dead/11x05.TWD.-.720.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag=  "
+			<item>
+			<title>11x06 - Por dentro</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Walking.Dead/11x06.TWD.-.720.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag=  "	
+			<item>
+			<title>11x07 - Promesas rotas</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Walking.Dead/11x07.TWD.-.720.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag=  "
+			<item>
+			<title>11x08 - Por sangre</title>
 			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/The.Walking.Dead/11x08.TWD.-.720.-.CristalAzul.mkv.torrent</torrent>		magnet:?xt=urn:btih:A2C7FAEA58F049878A12557FC4AC9251070F259B&dn=HD720	magnet:?xt=urn:btih:c05f68c6882c15cf248e3114637e962f1ba0baa5&dn=HDTV	magnet:?xt=urn:btih:19E3E5640B87E3537996267BB153D8B130E9E0EB&dn=HDTV
 			</item>
 ======================================================================
+-->
