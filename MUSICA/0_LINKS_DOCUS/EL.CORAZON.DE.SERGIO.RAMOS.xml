@@ -83,11 +83,67 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 1 a 8</title>
+			<title>1x0. - Capitulos 1 a 8</title>
 			<torrent>magnet:?xt=urn:btih:16D11ABCDB51D6E24EBB3D3C504426E83CB8F563&dn=HDTV</torrent>
 			</item>
 ======================================================================
 ======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 1080</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2,  "
+			<item>
+			<title>2x01 - El Clásico</title>  
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Sergio.Ramos/2x01.-L.L.D.S.R.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2,  "
+			<item>
+			<title>2x02 - Orígenes</title>     
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Sergio.Ramos/2x02.-L.L.D.S.R.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2,  "
+			<item>
+			<title>2x03 - Confinamiento</title>    
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Sergio.Ramos/2x03.-L.L.D.S.R.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2,  "
+			<item>
+			<title>2x04 - La Forja</title>      
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Sergio.Ramos/2x04.-L.L.D.S.R.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2,  "
+			<item>
+			<title>2x05 - El Sentimiento</title> 
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Sergio.Ramos/2x05.-L.L.D.S.R.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2,  "
+			<item>
+			<title>2x06 - El Futuro</title>      
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Sergio.Ramos/2x06.-L.L.D.S.R.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
 ======================================================================
 			"Tag= TORRENTTEMP2,  "
 			<item>
