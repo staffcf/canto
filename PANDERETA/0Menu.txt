@@ -491,6 +491,16 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Dexter:New blood[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Dexter.new.blood</externallink>
+<info>Miniserie de TV (2021). 10 episodios. Diez años después del final de la serie, Dexter Morgan vive con un nombre falso en la pequeña ciudad de Iron Lake, Nueva York. Lleva una vida normal y es un miembro respetado de la sociedad, pero a raíz de eventos inesperados resurge su necesidad de dar rienda suelta a sus oscuros instintos.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/88MZXe81cCV6XwheQPiNyhnrPC8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jBGKz9qyGaOvLh5MjFahAyvZJ2D.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLOR gold]* [COLOR white]DNA[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Dna.txt</externallink>
