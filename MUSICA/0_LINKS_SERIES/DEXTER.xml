@@ -54,6 +54,7 @@
 ======================================================================
 ======================================================================
 ======================================================================
+======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
 			<title> - [COLOR yellow]CALIDAD 720</title>
@@ -89,6 +90,13 @@
 ======================================================================
 ======================================================================
 ======================================================================
+======================================================================
+			"Tag=  TORRENTTEMP3, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
 			"Tag= TORRENTTEMP3, "
 			<item>
 			<title>3x0. - Capitulos 1 a 12</title>
@@ -96,8 +104,98 @@
 			</item>
 ======================================================================
 ======================================================================
+			"Tag=  TORRENTTEMP3, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag=  TORRENTTEMP3, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x01 - Nuestro padre</title>
+			<torrent>magnet:?xt=urn:btih:568789FD699186454A0AAB36F71745D2891DD71D&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x02 - Encontrando a Freebo</title>
+			<torrent>magnet:?xt=urn:btih:EFE55D02ED705D1D21921DAD2F687DD3D2AF5B24&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x03 - El león duerme esta noche</title>
+			<torrent>magnet:?xt=urn:btih:17C2E30F85F7A404CD86DB8883DEEF7E3C0F21B4&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x04 - Todo en familia</title>
+			<torrent>magnet:?xt=urn:btih:6F87BDF1503F911F98C84CBA24A909472B3B0890&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x05 - Retornando a Biminese</title>
+			<torrent>magnet:?xt=urn:btih:F18615E3BCC26D5DE9F0E106A716A5FDFA0B26BF&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x06 - Si se puede</title>
+			<torrent>magnet:?xt=urn:btih:30AFD8C4D12DFC2F959690DC0C933D5E3D52F277&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x07 - Pan Comido</title>
+			<torrent>magnet:?xt=urn:btih:6D822415116AAC83470E9EDFC087D467570B633B&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x08 - El dolor que un hombre puede hacer</title>
+			<torrent>magnet:?xt=urn:btih:D57149D7A421200266D0C74E31F099271D77BB17&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x09 - Acerca de la pasada noche</title>
+			<torrent>magnet:?xt=urn:btih:B26B53BB416DF0BF3E313A2FD361A9410E1366B3&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x10 - Ir en su propio camino</title>
+			<torrent>magnet:?xt=urn:btih:37559BE69774B45E704ABA932069597D19CEE357&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x11 - Tuve un sueño</title>
+			<torrent>magnet:?xt=urn:btih:7D3F0FF1D8DCE89EEB4603AA75C30D42E11C5568&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x12 - ¿Tomas a Dexter Morgan?</title>
+			<torrent>magnet:?xt=urn:btih:DA32942747104925B1F24021B35480AFD38606D9&dn=HDTV</torrent>
+			</item>
 ======================================================================
 ======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
 ======================================================================
 			"Tag= TORRENTTEMP4, "
 			<item>
@@ -106,7 +204,92 @@
 			</item>
 ======================================================================
 ======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
 ======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x01 - Viviendo el sueño</title>
+			<torrent>magnet:?xt=urn:btih:87F60A6478D8F3AB759BEAC45D555EF9B98CA56B&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x02 - Lo que queda por ver</title>
+			<torrent>magnet:?xt=urn:btih:37EE7FE19C1E2D8F707E34B9A3FDCA9920DE2869&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x03 - Cegado por la luz</title>
+			<torrent>magnet:?xt=urn:btih:C353B4A155E169579C9E398AD30A3B59728D4499&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x04 - Dex toma vacaciones</title>
+			<torrent>magnet:?xt=urn:btih:C81061D178A6DD78DB6D5599FFAA08082E190EC7&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x05 - Harry el sucio</title>
+			<torrent>magnet:?xt=urn:btih:89D260CDC0AD6F1D5015AE123826014B421D608D&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x06 - Si tuviese un martillo</title>
+			<torrent>magnet:?xt=urn:btih:22DD2A863A8C1AB007C5B776858F38C38B93DE97&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x07 - Marea en calma</title>
+			<torrent>magnet:?xt=urn:btih:209066708A42FDF7A69FB2B72DECB922F02FA2AC&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x08 - Atropello</title>
+			<torrent>magnet:?xt=urn:btih:45CED4C09FDBFE62E810E64C2A2F73700D450FEC&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x09 - Hambriento</title>
+			<torrent>magnet:?xt=urn:btih:3DAA83E63C5F16D6A9559F5AC9AFCC7CE6D8B905&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x10 - Niños perdidos</title>
+			<torrent>magnet:?xt=urn:btih:FFA3F9C538CACF19E13F40D57A8A0DA6001EE548&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x1. - Capitulos 11 y 12</title>
+			<torrent>magnet:?xt=urn:btih:6264AA8F6EF9AC1C431606CDC1E0FBA5BE2BC447&dn=HDTV</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
 ======================================================================
 			"Tag= TORRENTTEMP5, "
 			<item>
@@ -115,7 +298,97 @@
 			</item>
 ======================================================================
 ======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
 ======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x01 - Culpa mía</title>
+			<torrent>magnet:?xt=urn:btih:BEAFB7F73433E8BE36B58F5C9018F2E3CC336813&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x02 - Hola, bandido</title>
+			<torrent>magnet:?xt=urn:btih:1813AF57B5C60F892479530B528DB4BAC4D1203C&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x03 - Practicamente perfecta</title>
+			<torrent>magnet:?xt=urn:btih:711A84EFC7A6669786CF66446CC0516D1E307947&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x04 - La bella y la bestia</title>
+			<torrent>magnet:?xt=urn:btih:0C47F34C04D2A05AF8EA2916233BEED4582D34C8&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x05 - Primera sangre</title>
+			<torrent>magnet:?xt=urn:btih:6FD791111D473EEC479D40DD630899B43437E417&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x06 - Todo está iluminado</title>
+			<torrent>magnet:?xt=urn:btih:372EAA77D8C63C10938C19CE5FF59A5642156D82&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x07 - Circúndanos</title>
+			<torrent>magnet:?xt=urn:btih:913221E9AF648146A2678498B18923F11E0D4D31&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x08 - ¡Tómalo!</title>
+			<torrent>magnet:?xt=urn:btih:482C74F6F46AAEC46C7AD94BD9C1420DEED2F6B7&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x09 - Adolescente baldío</title>
+			<torrent>magnet:?xt=urn:btih:552316F15A1C3EEDECFF1AB9EFC717C58B54DD0E&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x10 - El inicio</title>
+			<torrent>magnet:?xt=urn:btih:C6591F00844C57DBEB9FED5CC02B0F19936084BE&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x11 - Soltar Una Carga</title>
+			<torrent>magnet:?xt=urn:btih:3D3B93DB33DB8B62300DADAAD308A3B9B5023EEB&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x12 - El grande</title>
+			<torrent>magnet:?xt=urn:btih:AD6F7A5E280DEA56FC8670927FDE6C4637995CE0&dn=HDTV</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP6, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
 ======================================================================
 			"Tag= TORRENTTEMP6, "
 			<item>
@@ -124,7 +397,98 @@
 			</item>
 ======================================================================
 ======================================================================
+			"Tag= TORRENTTEMP6, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
 ======================================================================
+			"Tag= TORRENTTEMP6, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP6, "
+			<item>
+			<title>6x01 - Ese tipo de cosas</title>
+			<torrent>magnet:?xt=urn:btih:6FDF351BA58290804F450AA0850552F7DBA617F0&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP6, "
+			<item>
+			<title>6x02 - Érase una vez</title>
+			<torrent>magnet:?xt=urn:btih:5F238372557D387465298480A65EAD04ABAF32F1&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP6, "
+			<item>
+			<title>6x03 - Los caraduras</title>
+			<torrent>magnet:?xt=urn:btih:DDFB66ADA03F0899821D005C044BE8CB6494BA08&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP6, "
+			<item>
+			<title>6x04 - Un caballo de un color diferente</title>
+			<torrent>magnet:?xt=urn:btih:B3C06FFECDC99ED1159B135C8C63F5A5CDBA283B&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP6, "
+			<item>
+			<title>6x05 - El ángel de la muerte</title>
+			<torrent>magnet:?xt=urn:btih:FECE02197C10095CA17DAA8E90D070760EF7DFD4&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP6, "
+			<item>
+			<title>6x06 - Déjalo Pasar</title>
+			<torrent>magnet:?xt=urn:btih:B225D7514F0E5FDE8D5D8C42694DDA1E09F833F7&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP6, "
+			<item>
+			<title>6x07 - Nebraska</title>
+			<torrent>magnet:?xt=urn:btih:47B9E391885DEB5ED949400804C85B0CF4DCC12F&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP6, "
+			<item>
+			<title>6x08 - Pecado de Omisión</title>
+			<torrent>magnet:?xt=urn:btih:14FE1D399A8DD28C930033EE98F98ECAC6CC8476&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP6, "
+			<item>
+			<title>6x09 - Agarra a Gellar</title>
+			<torrent>magnet:?xt=urn:btih:8F3787F02411DAE48C48465CD98856A1D7219612&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP6, "
+			<item>
+			<title>6x10 - El conejito Ricochet</title>
+			<torrent>magnet:?xt=urn:btih:9BB99288C51B2DD8576D1E79EABD029DC6CA7524&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP6, "
+			<item>
+			<title>6x11 - Hablar con la Mano</title>
+			<torrent>magnet:?xt=urn:btih:8431FF627EAD52B94CF156D1CC3AE83149448158&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP6, "
+			<item>
+			<title>6x12 - Así es como termina el Mundo</title>
+			<torrent>magnet:?xt=urn:btih:46E2C6700DF96B8131059BD55B485B7808A7B034&dn=HDTV</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP7, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
 ======================================================================
 			"Tag= TORRENTTEMP7, "
 			<item>
@@ -133,13 +497,190 @@
 			</item>
 ======================================================================
 ======================================================================
+			"Tag= TORRENTTEMP7, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP7, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP7, "
+			<item>
+			<title>7x01 - ¿Eres tú?</title>
+			<torrent>magnet:?xt=urn:btih:2DC18BA1B1BB1E7ED76B10C97B290F16D1AE39C8&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP7, "
+			<item>
+			<title>7x02 - Sol y helados</title>
+			<torrent>magnet:?xt=urn:btih:B781E7A5C1FE5D00F9EA12D8B3B4F3972F6AABD4&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP7, "
+			<item>
+			<title>7x03 - Rebelarse contra el sistema</title>
+			<torrent>magnet:?xt=urn:btih:36D2FFFAEB8467B8353BBF40ECEFE5EC8BBC808F&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP7, "
+			<item>
+			<title>7x04 - Corre</title>
+			<torrent>magnet:?xt=urn:btih:12C0C647B7AB4B2D6231061F4A7EFE2AF18FCBCB&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP7, "
+			<item>
+			<title>7x05 - Nadar profundo</title>
+			<torrent>magnet:?xt=urn:btih:FF46F6E9B5B08B2B95979BFCA323CB3597C491A3&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP7, "
+			<item>
+			<title>7x06 - Haz lo incorrecto</title>
+			<torrent>magnet:?xt=urn:btih:B8463AE675F353F5B99319969D677DD37C54D190&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP7, "
+			<item>
+			<title>7x07 - Química</title>
+			<torrent>magnet:?xt=urn:btih:E2AA492A6BFD4C97634E3CB6E24E60EB0EC09763&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP7, "
+			<item>
+			<title>7x08 - Argentina</title>
+			<torrent>magnet:?xt=urn:btih:A1DE9F07C277626F60050690EB1D3CED7D3E3500&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP7, "
+			<item>
+			<title>7x09 - Sin orden ni concierto</title>
+			<torrent>magnet:?xt=urn:btih:AD7B03B5DC73346D430B3DF202E0E236E0E7EF69&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP7, "
+			<item>
+			<title>7x10 - El Oscuro... lo que sea</title>
+			<torrent>magnet:?xt=urn:btih:68E455D6E019AD048BFA189A4FBA2AAEEAD2683B&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP7, "
+			<item>
+			<title>7x11 - ¿Ves lo que yo veo?</title>
+			<torrent>magnet:?xt=urn:btih:E6C8AB17FC6F775913A1C3B8FE791D590B4CCD56&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP7, "
+			<item>
+			<title>7x12 - Sorpresa, HIjo de Puta!!</title>
+			<torrent>magnet:?xt=urn:btih:0E741D7CF037903226BBD2A7C7356B25F2A2CB8C&dn=HDTV</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
 ======================================================================
 ======================================================================
 ======================================================================
 			"Tag= TORRENTTEMP8, "
 			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP8, "
+			<item>
 			<title>8x0. - Capitulos 1 a 12</title>
 			<torrent>magnet:?xt=urn:btih:748CE35DB078B2DDC3FFB29606D0E9575634212F&dn=HD720</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP8, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP8, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP8, "
+			<item>
+			<title>8x01 - Un bonito día</title>
+			<torrent>magnet:?xt=urn:btih:9AA31269877ABC0FCAA5E792304CB5D01C3CBDDB&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP8, "
+			<item>
+			<title>8x02 - Cada rayo de luz</title>
+			<torrent>magnet:?xt=urn:btih:9F774A8861BB7AEF0C735C9918AA4EA9F9E9DC43&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP8, "
+			<item>
+			<title>8x03 - ¿Qué come Dexter Morgan?</title>
+			<torrent>magnet:?xt=urn:btih:A7FC035EC48B78A669705B369842E1D4E510C8A7&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP8, "
+			<item>
+			<title>8x04 - Tejido cicatricial</title>
+			<torrent>magnet:?xt=urn:btih:3DBC460B8C210CB40141C357EF49EF956630F209&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP8, "
+			<item>
+			<title>8x05 - Pequeño cerdito</title>
+			<torrent>magnet:?xt=urn:btih:7332B1A96EE0C89F387FF627438E138BEEA266D9&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP8, "
+			<item>
+			<title>8x06 - Una pequeña reflexión</title>
+			<torrent>magnet:?xt=urn:btih:7A086B724217C1E94F4EDF7D250A6403D560FADB&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP8, "
+			<item>
+			<title>8x07 - Código de vestimenta</title>
+			<torrent>magnet:?xt=urn:btih:FF2C19A5AEC352F187E35D88102328954345FE2E&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP8, "
+			<item>
+			<title>8x08 - ¿Cuándo llegamos?</title>
+			<torrent>magnet:?xt=urn:btih:4C2EE46FADD784CE1FCCFC5C85BC92BEA70DF645&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP8, "
+			<item>
+			<title>8x09 - Haz tu propia música</title>
+			<torrent>magnet:?xt=urn:btih:ECF0A73FAAE61FC47C958A48A9ACF7354B329E55&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP8, "
+			<item>
+			<title>8x10 - Adiós Miami</title>
+			<torrent>magnet:?xt=urn:btih:52CE9DF6E6BA3C6E824235CCDB780B5224A13E48&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP8, "
+			<item>
+			<title>8x11 - El Mono en una caja</title>
+			<torrent>magnet:?xt=urn:btih:93580D3467BA62BA68629A2A4D7E276168E27463&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP8, "
+			<item>
+			<title>8x12 - ¿Recuerdas los monstruos?</title>
+			<torrent>magnet:?xt=urn:btih:4304FE29F37209AEB481C1558E652778C1564731&dn=HDTV</torrent>
 			</item>
 ======================================================================
 ======================================================================
