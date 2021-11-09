@@ -15,6 +15,25 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 1 a 3</title>
+			<torrent>magnet:?xt=urn:btih:0A6EDD76D854F60B5850FF5EDC8A7299709AC9CE&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - Capitulos 4 a 6</title>
+			<torrent>magnet:?xt=urn:btih:B253D7A56D340603F73A5CF56EC13A3CE059424C&dn=HD720</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
 			<title> - </title>
 			<torrent></torrent>
 			</item>
