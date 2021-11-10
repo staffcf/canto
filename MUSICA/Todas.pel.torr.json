@@ -475,7 +475,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Ciencia ficcion, Accion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:6d14b1916805c1d1cdb0813e0da563d54d01f5eb",
+				"torrent": "magnet:?xt=urn:btih:6d14b1916805c1d1cdb0813e0da563d54d01f5eb&dn=HD720",
 				"torrent4k": ""
 				}		
 			]
@@ -812,7 +812,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Ciencia ficcion, Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:145D6CC13E370240147E68EDA065A189BB05610D&dn=BR1080",  magnet:?xt=urn:btih:e1d22202339f31f4907c9ba4ae33bb9acae77a43&HD1080
+				"torrent": "magnet:?xt=urn:btih:e1d22202339f31f4907c9ba4ae33bb9acae77a43&HD1080",  magnet:?xt=urn:btih:145D6CC13E370240147E68EDA065A189BB05610D&dn=BR1080
 				"torrent4k": ""
 				}		
 			]
@@ -825,7 +825,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Comedia",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:34B59D8A6A7869B845C008CCC238E08C84C6C1E8&dn=BRRip",  magnet:?xt=urn:btih:7d5e8632f8cbeb9c976dcc247faec9f4dfe749ea&dn=HD720
+				"torrent": "magnet:?xt=urn:btih:7d5e8632f8cbeb9c976dcc247faec9f4dfe749ea&dn=HD720",	magnet:?xt=urn:btih:34B59D8A6A7869B845C008CCC238E08C84C6C1E8&dn=BRRip  
 				"torrent4k": ""
 				}		
 			]
@@ -943,7 +943,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:D3C180F3629363AE51507F4282A8FFDA80A25685&dn=HD1080",
-				"torrent4k": "https://atomixhq.com/download/148019_-1615646335-Cherry--4KWebrip.torrent",  magnet:?xt=urn:btih:D6D46BC3D7622B1C760D59FFE4B0BD87FFFBB77B
+				"torrent4k": "https://atomixhq.one/download/148019_-1615646335-Cherry--4KWebrip.torrent",  magnet:?xt=urn:btih:D6D46BC3D7622B1C760D59FFE4B0BD87FFFBB77B
 				}		
 			]
 			},
@@ -957,6 +957,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:9D2BA2D1CF70C0522AD38BA13860836011680560&dn=HD1080",  	magnet:?xt=urn:btih:FB08521DDDF743C7CA9022A36B060EE99A6382EF&dn=HD1080	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Cielo.rojo.sangre.2021.-.1080.-.CristalAzul.mkv.torrent					
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra C, EEUU, Racismo, ",
+			"name": "Claroscuro (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/n4bJLOC2oGYh9geS2tjBKcOivwH.jpg",
+			"info": "Estados Unidos, década de 1920. Clare es una mujer mulata casada con un racista blanco que se hace pasar por blanca, incluso ante su marido, para beneficiarse del estatus social y económico que les era negado a los negros en aquella época",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Claroscuro.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -1411,7 +1424,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:0EF45BF9615CEC79B80883CEFF93EB3498875E98&dn=HD1080",  magnet:?xt=urn:btih:29A3C9273468691897906090662A61BB0AD7E030&dn=BRRip
-				"torrent4k": "magnet:?xt=urn:btih:7E898F9A1C89CA8B9E3623CB5FF78BAA66189945&dn=Web4K",  https://atomixhq.com/download/151356_-1621939501-Ejercito-de-los-muertos--4KWebrip.torrent
+				"torrent4k": "magnet:?xt=urn:btih:7E898F9A1C89CA8B9E3623CB5FF78BAA66189945&dn=Web4K",  https://atomixhq.one/download/151356_-1621939501-Ejercito-de-los-muertos--4KWebrip.torrent
 				}		
 			]
 			}
@@ -2125,7 +2138,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:9627B4895BB1796DCE8053FA408EDD00150068E7&dn=HD1080",  magnet:?xt=urn:btih:5BCB47A29EEB2C639BBCA1D0C2C76FB04F8824FD&dn=BRRip
-				"torrent4k": "magnet:?xt=urn:btih:8451CF916B080F6D01DD5D5711F21C266B19CB72&dn=Web4K",  https://atomixhq.com/download/154807_-1627153918-Jolt--4KWebrip.torrent
+				"torrent4k": "magnet:?xt=urn:btih:8451CF916B080F6D01DD5D5711F21C266B19CB72&dn=Web4K",  https://atomixhq.one/download/154807_-1627153918-Jolt--4KWebrip.torrent
 				}		
 			]
 			},
@@ -2138,7 +2151,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{ 
 				"torrent": "magnet:?xt=urn:btih:9B0CBE420B0A668D10ED5E662F96046BFC23010A&dn=HD1080",  magnet:?xt=urn:btih:9A62C108FF85E7DA8473829B9DADC45BC544032F&dn=BRRip  
-				"torrent4k": "magnet:?xt=urn:btih:D79551D21C302282FB5553BC9C2D59AF8515F106&dn=Web4K",  https://atomixhq.com/download/148022_-1615646448-Judas-y-el-mesias-negro--4KWebrip.torrent
+				"torrent4k": "magnet:?xt=urn:btih:D79551D21C302282FB5553BC9C2D59AF8515F106&dn=Web4K",  https://atomixhq.one/download/148022_-1615646448-Judas-y-el-mesias-negro--4KWebrip.torrent
 				}		
 			]
 			},
@@ -2359,7 +2372,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:3A9934EBC2FEB9D9257B40065EC1F961C885CEE4&dn=HD1080",
-				"torrent4k": "magnet:?xt=urn:btih:3511E11EC8AC2E73E0D45EB28C7E907D1D1E7B14&dn=Web4K",  https://atomixhq.com/download/153486_-1625210680-The-Tomorrow-War--4KWebrip.torrent
+				"torrent4k": "magnet:?xt=urn:btih:3511E11EC8AC2E73E0D45EB28C7E907D1D1E7B14&dn=Web4K",  https://atomixhq.one/download/153486_-1625210680-The-Tomorrow-War--4KWebrip.torrent
 				}		
 			]
 			},
@@ -2671,7 +2684,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:169597547DBF2442F523421E43C80EA6DBE642F5&dn=BRRip",
-				"torrent4k": "magnet:?xt=urn:btih:5C9C191C43E728387B67B9B37AC13E3AC5CDB1C0&dn=Web4K",  https://atomixhq.com/download/152772_-1624201921-Luca--4KWebrip.torrent
+				"torrent4k": "magnet:?xt=urn:btih:5C9C191C43E728387B67B9B37AC13E3AC5CDB1C0&dn=Web4K",  https://atomixhq.one/download/152772_-1624201921-Luca--4KWebrip.torrent
 				}		
 			]
 			},
@@ -3126,7 +3139,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:E0F655453B7D8C51DB839D5E8031A6369DB6642A&dn=HD1080", magnet:?xt=urn:btih:B6D28A7D1862581997F977ACB504DA39DAAEA263&dn=BRRip
-				"torrent4k": "magnet:?xt=urn:btih:47067864331D7DF8DEFFC358DD87F044C96A76AC&dn=Web4K",  https://atomixhq.com/download/151817_-1622733354-Oxigeno--4KWebrip.torrent
+				"torrent4k": "magnet:?xt=urn:btih:47067864331D7DF8DEFFC358DD87F044C96A76AC&dn=Web4K",  https://atomixhq.one/download/151817_-1622733354-Oxigeno--4KWebrip.torrent
 				}		
 			]
 			},
@@ -3360,7 +3373,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{ 
 				"torrent": "magnet:?xt=urn:btih:85A3D4CED25377749D83B6BC52403B56654C282A&dn=HD1080",  magnet:?xt=urn:btih:CBD4B8FC2D54B85BD7FA50F4845BF6E423043F6F&dn=BRRip
-				"torrent4k": "magnet:?xt=urn:btih:E0B7208038326696A8F12B5B79204ADFEE8BFC83&dn=Web4K",  https://atomixhq.com/download/152532_-1623855075-Ruega-por-nosotros--4KWebrip.torrent
+				"torrent4k": "magnet:?xt=urn:btih:E0B7208038326696A8F12B5B79204ADFEE8BFC83&dn=Web4K",  https://atomixhq.one/download/152532_-1623855075-Ruega-por-nosotros--4KWebrip.torrent
 				}		
 			]
 			},
@@ -3413,6 +3426,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:60D5AD8DC094ECF694E6948F2367EB567239A65E&dn=BRRip",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Fantastico, 1Accion, 1Ciencia ficcion, A2021, Letra S, EEUU, Comics, Marvel, ",
+			"name": "Shang-Chi y la leyenda de los diez anillos (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/lE8Pet7FMzOFUBMToH7l7g1XAny.jpg",
+			"info": "Adaptación cinematográfica del héroe creado por Steve Englehart y Jim Starlin en 1973, un personaje mitad chino, mitad americano, cuyo característico estilo de combate mezclaba kung-fu, nunchacos y armas de fuego",
+			"genero": "Fantastico, Accion, Ciencia ficcion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Shang-Chi.y.la.leyenda.de.los.diez.anillos.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:6D6C38595890F5E8493654D815A007B7BF57F375&dn=Sh4ngCh1An1ll0sHDR.exclusivetorrent.net.avi
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -5400,7 +5426,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:5C37D91A6C08BE9C0501260491A6B264BDF44FCD&dn=HD1080",  magnet:?xt=urn:btih:ACEDD3E106D9BE122749BC979476B7FF1E71683F&dn=BRRip
-				"torrent4k": "magnet:?xt=urn:btih:C79C73A47788FFE36273AD8BA0763B6F28A93C71&dn=Web4K",  https://atomixhq.com/download/154748_-1627051170-Come-play--4KWebrip.torrent
+				"torrent4k": "magnet:?xt=urn:btih:C79C73A47788FFE36273AD8BA0763B6F28A93C71&dn=Web4K",  https://atomixhq.one/download/154748_-1627051170-Come-play--4KWebrip.torrent
 				}		
 			]
 			},
@@ -5855,7 +5881,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:2808f54349dad1081787bcf688502e33a2282af2&dn=HD1080",
-				"torrent4k": "https://atomixhq.com/download/140492_-1598260619-Efectos-colaterales-del-amor--4KWebrip.torrent"
+				"torrent4k": "https://atomixhq.one/download/140492_-1598260619-Efectos-colaterales-del-amor--4KWebrip.torrent"
 				}		
 			]
 			},
@@ -7573,7 +7599,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Comedia",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:F8012F2AE8F1F75A69AFB4BB06523441A98ADD50",
+				"torrent": "magnet:?xt=urn:btih:F8012F2AE8F1F75A69AFB4BB06523441A98ADD50&dn=HD1080",	magnet:?xt=urn:btih:2kw4sawje44duaq3vf7yut2kedeuynbh&dn=HD1080
 				"torrent4k": "magnet:?xt=urn:btih:CFCBE767C15094F10829F6C84AE40C18983E43B6",
 				}		
 			]
@@ -9121,6 +9147,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:A2751176247844468B2BEC627DA34A19D286C78C&dn=BRRip",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra M, Italia, 1Biografico, ",
+			"name": "Miss Marx (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/3z7R66yCqET4g1MrvoVgjXuNz02.jpg",
+			"info": "Brillante, inteligente, apasionada y libre, Eleanor es la hija más joven de Karl Marx. Siendo una de las primeras mujeres que relaciona el feminismo con el socialismo, defiende los derechos de los trabajadores, de las mujeres y lucha por la abolición del trabajo infantil. En 1883 conoce a Edward Aveling y se ve inmersa en una ardiente historia de amor.",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Miss.Marx.-2020.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:FBF8C6FD149E39736DB45147F588F6D0AD905BAB&dn=BRRip
+				"torrent4k": ""	
 				}		
 			]
 			},
