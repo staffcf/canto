@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Shang-Chi y la leyenda de los Diez Anillos [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.7[/COLOR]</title>    
+<genre>Fantasía, Action, Adventure, Ciencia ficción</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/l3UW8Zn.jpg</thumbnail>
+<fanart>https://i.imgur.com/k7DegQv.jpg</fanart>
+<info>Shang-Chi debe enfrentarse al pasado que pensó que había dejado atrás cuando se ve atraído por la red de la misteriosa organización de los Diez Anillos.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/JuE_axN7wXI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/g51ndt-2rmldegl"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/qlrqx7kohzl907"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/hxb6wwjkt2pj"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/d6ydxhvb1iyl"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1kXdW1y-pqXGsPhO8AQqny3dytJx0bHwn/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] El caballero verde [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.7[/COLOR]</title>    
 <genre>Fantástico,Drama,Thriller,Fantasía medieval</genre>
 <year>2021</year>
