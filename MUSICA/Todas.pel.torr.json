@@ -480,7 +480,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"kodi3": "https://supervideo.tv/NO_LINK", 
 				"kodi4": "https://supervideo.tv/NO_LINK", 
 				"kodi5": "https://supervideo.tv/NO_LINK",
-				"torrent": "magnet:?xt=urn:btih:4EE51F99040EA58A80D1B0EF8A83BD1A79C994BA&dn=BRRip",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/7.prisioneros.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:4EE51F99040EA58A80D1B0EF8A83BD1A79C994BA&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -3288,6 +3288,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:124985A19B2EF09DA8F75BBDBE3ACA5F84459D8E&dn=HD1080",  magnet:?xt=urn:btih:B325FA2B643B1BA2E949EDA616BBF1735FC7DB33&dn=BRRip
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra P, EEUU, Disney+, Sagas SoloEnCasa, ",
+			"name": "Por fin solo en casa (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/5K7qxX77PJXWuzkZD8rOBduCEKo.jpg",
+			"info": "Una pareja casada intenta recuperar una valiosa herencia de un niño problemático",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Por.fin.solo.en.casa.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
