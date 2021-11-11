@@ -21,6 +21,24 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
+			<title>1x0. - Capitulos 1 a 9</title>
+			<torrent>magnet:?xt=urn:btih:d84ccb6bde87aae5eddcbde0a0ce480c4029c6c1&dn=El.juego.del.calamar.1080p.dual</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>[B][COLOR turquoise]OPCION 2 - [COLOR yellow]CALIDAD 1080</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
 			<title>1x01 - Luz roja, luz verde</title>
 			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/El.juego.del.calamar/1x01.-El.juego.del.calamar.-.1080.-.CristalAzul.mkv.torrent</torrent>
 			</item>
@@ -81,7 +99,7 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>[B][COLOR turquoise]OPCION 2 - [COLOR yellow]CALIDAD 720/1080</title>
+			<title>[B][COLOR turquoise]OPCION 3 - [COLOR yellow]CALIDAD 720/1080</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
@@ -112,7 +130,7 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>[B][COLOR turquoise]OPCION 3 - [COLOR yellow]CALIDAD HDTV</title>
+			<title>[B][COLOR turquoise]OPCION 4 - [COLOR yellow]CALIDAD HDTV</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
@@ -129,40 +147,4 @@
 			</item>
 ======================================================================
 ======================================================================
-======================================================================
-			"Tag=  "
-			<item>
-			<title> - </title>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag=  "
-			<item>
-			<title>[B][COLOR turquoise]OPCION 4 - [COLOR yellow]CALIDAD 720</title>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag=  "
-			<item>
-			<title> - Capitulos 1 a 9</title>
-			<torrent>magnet:?xt=urn:btih:64d6fb5b1319fe8970f835a1b52a25ffb7e5bd20&dn=HD720</torrent>
-			</item>
-======================================================================
-			"Tag=  "
-			<item>
-			<title>[B][COLOR turquoise]OPCION 1 - [COLOR yellow]CALIDAD 1080</title>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag=  "
-			<item>
-			<title>1x0. - Capitulos 1 a 9</title>
-			<torrent>magnet:?xt=urn:btih:d84ccb6bde87aae5eddcbde0a0ce480c4029c6c1&dn=El.juego.del.calamar.1080p.dual</torrent>
-			</item>
-======================================================================
-			"Tag=  "
-			<item>
-			<title> - </title>
-			<torrent></torrent>
-			</item>
 ======================================================================
