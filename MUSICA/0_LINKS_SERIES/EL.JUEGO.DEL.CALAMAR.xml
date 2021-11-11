@@ -13,27 +13,9 @@
 	
 -->
 ======================================================================
-			"Tag=  "
-			<item>
-			<title>[B][COLOR turquoise]OPCION 1 - [COLOR yellow]CALIDAD 1080</title>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag=  "
-			<item>
-			<title> - Capitulos 1 a 9</title>
-			<torrent>magnet:?xt=urn:btih:d84ccb6bde87aae5eddcbde0a0ce480c4029c6c1&dn=El.juego.del.calamar.1080p.dual</torrent>
-			</item>
-======================================================================
-			"Tag=  "
-			<item>
-			<title> - </title>
-			<torrent></torrent>
-			</item>
-======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>[B][COLOR turquoise]OPCION 2 - [COLOR yellow]CALIDAD 1080</title>
+			<title>[B][COLOR turquoise]OPCION 1 - [COLOR yellow]CALIDAD 1080</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
@@ -99,25 +81,25 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>[B][COLOR turquoise]OPCION 3 - [COLOR yellow]CALIDAD 720/1080</title>
+			<title>[B][COLOR turquoise]OPCION 2 - [COLOR yellow]CALIDAD 720/1080</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 1 a 5</title>
+			<title>1x0. - Capitulos 1 a 5</title>
 			<torrent>magnet:?xt=urn:btih:1EB5C47A908029CCC34A5A61B509D8509637B0CF&dn=HD720</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 6 a 9</title>
+			<title>1x0. - Capitulos 6 a 9</title>
 			<torrent>magnet:?xt=urn:btih:D530577B57C2E8EF5DC3C152EB9353D3C51C870D&dn=HD720</torrent>	
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 6 a 9 [COLOR yellow]- Calidad 1080</title>
+			<title>1x0. - Capitulos 6 a 9 [COLOR yellow]- Calidad 1080</title>
 			<torrent>magnet:?xt=urn:btih:5746D7383C819AED7736D631475BD3BBA839D58D&dn=HD1080</torrent>	
 			</item>
 ======================================================================
@@ -130,19 +112,19 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>[B][COLOR turquoise]OPCION 4 - [COLOR yellow]CALIDAD HDTV</title>
+			<title>[B][COLOR turquoise]OPCION 3 - [COLOR yellow]CALIDAD HDTV</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 1 a 5</title>
+			<title>1x0. - Capitulos 1 a 5</title>
 			<torrent>magnet:?xt=urn:btih:0D0EE56AA382F1962A898D03B42D0D744CB08BE2&dn=HDTV</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 6 a 9</title>
+			<title>1x0. - Capitulos 6 a 9</title>
 			<torrent>magnet:?xt=urn:btih:4F4AFE9963C6CD3485DBC75447747E7A09882A04&dn=HDTV</torrent>
 			</item>
 ======================================================================
@@ -156,7 +138,7 @@
 ======================================================================
 			"Tag=  "
 			<item>
-			<title>[B][COLOR turquoise]OPCION 5 - [COLOR yellow]CALIDAD 720</title>
+			<title>[B][COLOR turquoise]OPCION 4 - [COLOR yellow]CALIDAD 720</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
@@ -164,5 +146,23 @@
 			<item>
 			<title> - Capitulos 1 a 9</title>
 			<torrent>magnet:?xt=urn:btih:64d6fb5b1319fe8970f835a1b52a25ffb7e5bd20&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag=  "
+			<item>
+			<title>[B][COLOR turquoise]OPCION 1 - [COLOR yellow]CALIDAD 1080</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag=  "
+			<item>
+			<title>1x0. - Capitulos 1 a 9</title>
+			<torrent>magnet:?xt=urn:btih:d84ccb6bde87aae5eddcbde0a0ce480c4029c6c1&dn=El.juego.del.calamar.1080p.dual</torrent>
+			</item>
+======================================================================
+			"Tag=  "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
 			</item>
 ======================================================================
