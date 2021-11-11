@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Por fin solo en casa [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.0[/COLOR]</title>    
+<genre>Comedia,Familia,Action</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/pELLeQv.jpg</thumbnail>
+<fanart>https://i.imgur.com/M9Pxkkz.jpg</fanart>
+<info>Max Mercer se queda solo en Navidad y hará lo que haga falta para proteger su hogar de intrusos.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=_ql2cAgoUYQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/3p1j2cmqzq5lng7"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/pkqq03ewam6g7l"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/kjoonxgwv4dq"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/vwhffwzk04zv"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1pZTRz_w3q9iX9TRP8mgmfGrhOziF6C8W/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Shang-Chi y la leyenda de los Diez Anillos [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.7[/COLOR]</title>    
 <genre>Fantasía, Action, Adventure, Ciencia ficción</genre>
 <year>2021</year>
