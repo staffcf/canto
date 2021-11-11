@@ -38,6 +38,17 @@
 
 
 <item>
+<title>[COLOR white] La directora de orquesta [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.0[/COLOR]</title>    
+<genre>Drama</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/75gA3Hz.jpg</thumbnail>
+<fanart>https://i.imgur.com/ZMl6jJl.jpg</fanart>
+<info>Estados Unidos, 1926: Willy Wolters, una joven holandesa de 24 años, emigró al continente americano con sus padres cuando era niña. Sueña con convertirse en directora, pero esta es una ambición que nadie se toma en serio. Sin que ella lo sepa, también se convertirá en Antonia Brico.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/c5n-sEIy7q8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/kx4-1i36lr61786"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/dqwlv9jkcxv46p"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://embedsb.com/e/4u7q3f7ke191"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-drj18hnajcob.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Q8IydeFxLLkdN9cEMJ7XGgXGYJe8MO6V/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white]  Nacido campeon [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.1[/COLOR]</title>    
 <genre>Acción,Drama,Deporte,Artes marciales,Boxeo</genre>
 <year>2021</year>
