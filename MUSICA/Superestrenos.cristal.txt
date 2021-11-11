@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] 7 Prisioneros [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.0[/COLOR]</title>    
+<genre>Drama,Pobreza,Mafia</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/7ocGolq.jpg</thumbnail>
+<fanart>https://i.imgur.com/1N4en8f.jpg</fanart>
+<info>Para ofrecer una vida mejor a su familia en el país, Mateus, de 18 años, acepta un trabajo en un vertedero de São Paulo para su nuevo jefe, Luca, pero se ve atrapado en el peligroso mundo del tráfico de personas.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=Mr2vNNe-qk8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/42njphzx3xynmgl"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/0vww4ozou0e7xr"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/vzp8mfguezlk"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/y99o3kqu10iw"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1tH9ZjeAgh4PHeUz-YLlrNdz1TYVSXAAT/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Por fin solo en casa [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.0[/COLOR]</title>    
 <genre>Comedia,Familia,Action</genre>
 <year>2021</year>
