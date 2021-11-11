@@ -468,6 +468,24 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra NUM, Brasil, Netflix, ",
+			"name": "7 prisioneros (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/uk9GedoTYlnKnbruXPArU09F8oT.jpg",
+			"info": "Para ofrecer una vida mejor a su familia en el país, Mateus, de 18 años, acepta un trabajo en un vertedero de São Paulo para su nuevo jefe, Luca, pero se ve atrapado en el peligroso mundo del tráfico de personas",
+			"genero": "Drama",
+			"stations": [
+				{
+				"kodi1": "https://supervideo.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://supervideo.tv/NO_LINK",
+				"kodi3": "https://supervideo.tv/NO_LINK", 
+				"kodi4": "https://supervideo.tv/NO_LINK", 
+				"kodi5": "https://supervideo.tv/NO_LINK",
+				"torrent": "magnet:?xt=urn:btih:4EE51F99040EA58A80D1B0EF8A83BD1A79C994BA&dn=BRRip",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Accion, A2021, Letra A, EEUU, Netflix, ",
 			"name": "A descubierto (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/jcu9hH0fPqOwTIg5nHS3vlgw9FH.jpg",
