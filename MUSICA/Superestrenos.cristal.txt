@@ -22,7 +22,7 @@
 <thumbnail>https://i.imgur.com/hm4xbb1.jpg</thumbnail>
 <fanart>https://i.imgur.com/pokVxs7.jpg</fanart>
 <info>Estados Unidos, década de 1920. Clare es una mujer mulata casada con un racista blanco que se hace pasar por blanca, incluso ante su marido, para beneficiarse del estatus social y económico que les era negado a los negros en aquella época.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/c5n-sEIy7q8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/10rjdcj1d34wg2p"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/zp0rw0rnt78jkw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/kvxqaznnywng"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-ihwl0oyv755j.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1x5U5AenJMw5V52VeFYLxK2ogbpN8l-NJ/view"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/c5n-sEIy7q8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/10rjdcj1d34wg2p"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/zp0rw0rnt78jkw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/kvxqaznnywng"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-ihwl0oyv755j.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1x5U5AenJMw5V52VeFYLxK2ogbpN8l-NJ/view"}</urlsolve>
 </item>
 
 
