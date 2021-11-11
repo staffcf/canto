@@ -38,6 +38,17 @@
 
 
 <item>
+<title>[COLOR white] Queridos camaradas [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.4[/COLOR]</title>    
+<genre>Drama,Historia</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/wyAaXqq.jpg</thumbnail>
+<fanart>https://i.imgur.com/VCZKFRq.jpg</fanart>
+<info>Lyudmila es miembro del partido comunista local y una gran defensora de los ideales del régimen. Durante una huelga laboral en una fábrica de motores, ve cómo el ejército, enviado por el Gobierno, dispara a los manifestantes produciéndose así una masacre. Este suceso cambiará sus ideales y valores políticos para siempre. Con la ciudad destruida y agitada por las revueltas, mucha gente resulta herida o desaparecida, entre ellas la hija de Lyudmila, lo que la obligará a buscarla entre el caos de la ciudad.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/c5n-sEIy7q8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/5knj1sdm6-0j5l-"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/xo6v7dlqu9zqq1"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://embedsb.com/e/v3c5x3f1df0i"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-t5qg7j85wbhe.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1qfpaogpnlKHoFxqdYDwoRr8VC_D183F1/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] La directora de orquesta [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.0[/COLOR]</title>    
 <genre>Drama</genre>
 <year>2021</year>
