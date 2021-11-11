@@ -809,15 +809,6 @@ El.padre.de.cain</externallink>
 </item>
 
 <item>
-<title>[COLOR gold]* [COLOR white]En el ojo de la tormenta[/COLOR]</title>     
-<link>cristalazul</link>
-<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/En.el.ojo.de.la.tormenta.txt</externallink>
-<info>En el transcurso de un solo día, Silverton es azotada por una serie de tornados sin precedentes. Toda la ciudad está a merced de ciclones erráticos y mortales, mientras que los cazadores de tormentas predicen que lo peor está aún por llegar. La mayoría de las personas buscan refugio, mientras que otras corren hacia el vórtice, poniendo a prueba hasta dónde está dispuesto a llegar un cazador de tormentas para conseguir esa toma que solo se hace una vez en la vida. </info>
-<thumbnail>https://i.imgur.com/p3d3sFR.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
-</item>
-
-<item>
 <title>[COLOR gold]* [COLOR white]En la ciènaga[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/En.la.cienaga.txt</externallink>
@@ -1085,7 +1076,7 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Kingdom</externallink>
 <info>Serie de TV (2019-2020). 2 temporadas. 12 episodios. Un apocalipsis zombie en la era de la dinastía medieval Joseon. El Príncipe Heredero de Joseon investiga una misteriosa enfermedad epidémica y descubre una cruel verdad que amenaza al país. </info>
 <thumbnail>https://i.imgur.com/SCmjppK.jpg</thumbnail>
-<fanart>https://i.imgur.com/5tQvCOe.jpg</fanart>
+<fanart>https://www.themoviedb.org/t/p/original/jTOVOjANSaFNRCXYC809FIExiSr.jpg</fanart>
 </item>
 
 <item>
@@ -1166,7 +1157,7 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.leyenda.de.Sergio.Ramos.txt</externallink>
 <info>6 episodios. Nueva entrega sobre la vida del futbolista internacional que sigue la historia de "El Corazón de Sergio Ramos" (2019). La serie recorre los hitos que han escrito, escriben y aún escribirán la leyenda de Sergio Ramos, tomando como punto de partida los momentos más determinantes de su vida y su carrera profesional durante la pasada temporada. La Leyenda de Sergio Ramos mostrará imágenes inéditas de la conquista de la liga, reflexiones sobre las decisiones más relevantes de su carrera, recuerdos de grandes momentos y planes de futuro, todo ello con el testimonio de aquellos que han compartido su vida personal y profesional. Una historia que hablará de épica y de gloria, pero también de dolor y de decepción, porque el camino de un héroe exige sacrificio y, después de más de 15 años en la élite, Sergio Ramos sigue entregándose al deporte que ama como el primer día. </info>
 <thumbnail>https://i.imgur.com/UEGWJOg.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<fanart>https://www.themoviedb.org/t/p/original/dzQkM8UXzDDTEuZ04GXbmjPkWmh.jpg</fanart>
 </item>
 
 <item>
@@ -1213,7 +1204,7 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 <info>Serie de TV (2018). 10 episodios. Un grupo de hermanos crece en lo que acaba convirtiéndose en la casa encantada más famosa del país. Ya como adultos, viéndose obligados a reunirse tras una tragedia, la familia tendrá que afrontar los fantasmas del pasado... Adaptación de la novela homónima de Shirley Jackson. </info>
 <info>Puede que el despreocupado pollo Archibaldo se olvide de hacer sus tareas, pero siempre se acuerda de pasárselo bien. Y es que la vida es toda una aventura.</info>
 <thumbnail>https://i.imgur.com/P0hOzGI.jpg</thumbnail>
-<fanart>https://i.imgur.com/5tQvCOe.jpg</fanart>
+<fanart>https://www.themoviedb.org/t/p/original/1faPE4WToz4F25KHJzaM5LUxKdO.jpg</fanart>
 </item>
 
 <item>
@@ -1349,16 +1340,7 @@ En paralelo a la serie, Enrique Urbizu realizó un montaje para cines en formato
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Los.relojes.del.diablo </externallink>
 <info>Serie de TV (8 episodios). Cuenta la historia real de Marco Merani (nombre ficticio), un mecánico especializado en motores de embarcaciones náuticas, algo que lo vincula sin saberlo a una banda de narcotráfico. Se acabará convirtiéndo en un infiltrado de la policía en la organización criminal. </info>
 <thumbnail>https://i.imgur.com/Jtn9tho.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR gold]* [COLOR white]Los Reyes de noche[/COLOR]</title>     
-<link>cristalazul</link>
-<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Los.reyes.de.la.noche.txt</externallink>
-<info>Francisco Javier Maldonado, alias Paco el Cóndor, es el periodista deportivo más importante de la radio española en los 80. Los oyentes le admiran, los jugadores le temen, los presidentes de clubes (y el gobierno) le odian. Cada medianoche reúne a millones de oyentes junto al transistor. Desde hace años, el Cóndor no tiene rival. Hasta ahora. </info>
-<thumbnail>https://i.imgur.com/9TLUCJg.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<fanart>https://www.themoviedb.org/t/p/original/Rh9mKoN786vNvohp1jjqwSeI11.jpg</fanart>
 </item>
 
 <item>
@@ -1865,6 +1847,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 <info>Serie de TV (2014-2015). 2 temporadas. 21 episodios. Las vidas de los habitantes de Arcadia, en el estado de Missouri, cambian para siempre cuando sus fallecidos seres queridos regresan como no muertos.</info>
 <thumbnail>https://i.imgur.com/uW1PfcR.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/y53uEoxlZK0Qz1KW0PC7jA7kYrA.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Reyes de noche[/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Los.reyes.de.la.noche.txt</externallink>
+<info>Francisco Javier Maldonado, alias Paco el Cóndor, es el periodista deportivo más importante de la radio española en los 80. Los oyentes le admiran, los jugadores le temen, los presidentes de clubes (y el gobierno) le odian. Cada medianoche reúne a millones de oyentes junto al transistor. Desde hace años, el Cóndor no tiene rival. Hasta ahora. </info>
+<thumbnail>https://i.imgur.com/9TLUCJg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iE88SiiQShZt03NJaB0foUwBeVx.jpg</fanart>
 </item>
 
 <item>
