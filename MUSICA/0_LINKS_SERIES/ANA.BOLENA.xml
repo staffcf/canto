@@ -1,0 +1,73 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ ANA BOLENA
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"ANA BOLENA", SerieTemp:"MINI SERIE", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/1vC3LpIJl9BkNNsYVPhT9qGIYTY.jpg",
+	
+-->
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x01 - Capitulo 1</title>
+			<torrent>magnet:?xt=urn:btih:32BB3D86B9797127F88409F3FEB75868A40E93F7&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x02 - Capitulo 2</title>
+			<torrent>magnet:?xt=urn:btih:29F025E18CF7566C5B7C918996839D57928B975A&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x03 - Capitulo 3</title>
+			<torrent>magnet:?xt=urn:btih:158122FE934F1E69DCEE5C954B8C315B337221AE&dn=HD720</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x01 - Capitulo 1</title>
+			<torrent>magnet:?xt=urn:btih:9B5DB7D0142F64122472154D55AFE59AF289F6C9&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x02 - Capitulo 2</title>
+			<torrent>magnet:?xt=urn:btih:69B5E32DA234C71E8E2CB463A60D064A84B9E3FE&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x03 - Capitulo 3</title>
+			<torrent>magnet:?xt=urn:btih:80D3CBD0E6CF05B0228246AE3AA1BAD92F4C7973&dn=HDTV</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
