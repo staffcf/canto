@@ -66,7 +66,7 @@
 <thumbnail>https://i.imgur.com/l3UW8Zn.jpg</thumbnail>
 <fanart>https://i.imgur.com/k7DegQv.jpg</fanart>
 <info>Shang-Chi debe enfrentarse al pasado que pensó que había dejado atrás cuando se ve atraído por la red de la misteriosa organización de los Diez Anillos.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/JuE_axN7wXI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/g51ndt-2rmldegl"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/qlrqx7kohzl907"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/hxb6wwjkt2pj"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/d6ydxhvb1iyl"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1kXdW1y-pqXGsPhO8AQqny3dytJx0bHwn/view"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/JuE_axN7wXI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/g51ndt-2rmldegl"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/qlrqx7kohzl907"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/hxb6wwjkt2pj"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/d6ydxhvb1iyl"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1kXdW1y-pqXGsPhO8AQqny3dytJx0bHwn/view"},{"titulo" : "[COLOR white]Drive 4K UHDremux DTS 7.1[/COLOR]","url" : "https://drive.google.com/file/d/1U7SZijiHWTouMS47ud8n-FvtjPU0tyuK/view"}</urlsolve>
 </item>
 
 
