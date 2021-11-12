@@ -558,7 +558,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Accion, Thriller, Comedia",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Alerta.roja.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:C532AB0C9B6977D6BFC73C09BA4B2839964C129A&dn=BRRip
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Alerta.roja.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:C532AB0C9B6977D6BFC73C09BA4B2839964C129A&dn=BRRip	magnet:?xt=urn:btih:71797AD98B51FE271B4C740423BA3BC4DE84A61D&dn=HD1080
 				"torrent4k": ""	
 				}		
 			]
@@ -3305,14 +3305,14 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra P, EEUU, Disney+, Sagas SoloEnCasa, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra P, EEUU, Disney, Sagas SoloEnCasa, ",
 			"name": "Por fin solo en casa (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/5K7qxX77PJXWuzkZD8rOBduCEKo.jpg",
 			"info": "Una pareja casada intenta recuperar una valiosa herencia de un niño problemático",
 			"genero": "Comedia",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Por.fin.solo.en.casa.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:B86AD09B9DD83E7A79E8E998BB3CB1E5AC09F304&dn=BRRip
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Por.fin.solo.en.casa.-2021.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:B86AD09B9DD83E7A79E8E998BB3CB1E5AC09F304&dn=BRRip	magnet:?xt=urn:btih:C3015BB5C086FF59EB996F2D5BF8AD19CBF1492F&dn=HD1080
 				"torrent4k": ""	
 				}		
 			]
@@ -4016,6 +4016,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:B442739423811AC8D19CF9871577201383E4591E&dn=HD1080",  magnet:?xt=urn:btih:FE45208C0A938DFEFB8EB77F5F2080B01A2FF082&dn=BRRip
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2021, Letra W, EEUU, ",
+			"name": "Wrong Turn: Sendero al infierno (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/6cyLg724N7GLyiIHFQFsUyMsDWm.jpg",
+			"info": "Un grupo de amigos que hace senderismo por el Sendero de los Apalaches se ven cara a cara con los miembros de una comunidad de habitantes de las montañas llamados 'The Foundation'",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Wrong.Turn-Sendero.al.infierno.-2021.-.1080.-.CrisalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
