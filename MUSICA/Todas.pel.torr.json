@@ -1018,6 +1018,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra C, EEUU, ",
+			"name": "CODA (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/hVpDKCA4UFIWhhCShDvMKShcoyl.jpg",
+			"info": "Ruby (Emilia Jones) es el único miembro con audición de una familia de sordos. A sus 17 años, trabaja por la mañana con sus padres y su hermano en Gloucester, Massachusetts, antes de ir a clase, tratando de mantener a flote su negocio pesquero. Ávida de encontrar nuevas aficiones, Ruby decide probar suerte en el coro de su instituto, donde no sólo descubre una latente pasión por el canto, sino también una fuerte atracción física por la persona con la que realiza duetos. Su entusiasta profesor (Eugenio Derbez) ve algo especial en ella y la anima a que piense en la posibilidad de entrar en la escuela de música, algo que la obligaría a tener que tomar una decisión de cara a su futuro: o sus estudios, o su familia.",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/CODA.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2021, Letra C, EEUU, ",
 			"name": "Comite de dioses (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/950N13EaU8bqEJs9vTDTUy8Ks5U.jpg",
@@ -18030,6 +18043,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"torrent": "magnet:?xt=urn:btih:6a2efc0052246bb07cf716bdc19a4c2837625eb2",
 				"torrent4k": ""
 				}			
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2019, Letra M, Reino Unido, ",
+			"name": "Mejor que nunca (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/aEWy3z3QfVzLbL3T0pZVczARy17.jpg",
+			"info": "Martha (Diane Keaton) vive en una residencia de ancianos y, animada por su compañera Sheryl (Jacki Weaver), decide montar un equipo de animadoras con sus compañeras. Pero lo que comienza siendo un hobbie se acaba convirtiendo en algo más serio cuando deciden presentarse a una competición. Para ello, contratan a una joven cheerleader (Alisha Boe) que se encargará de entrenarlas. ¡Ellas demostrarán que nunca es tarde para darlo todo!",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Mejor.que.nunca.-2019.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
 			]
 			},
 			{
