@@ -551,6 +551,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Thriller, 1Comedia, A2021, Letra A, EEUU, Netlfix, ",
+			"name": "Alerta roja (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/zNbyvMDon1jPWAdAg3D11tr5kZX.jpg",
+			"info": "Cuando la Interpol envía una 'Alerta roja', significa que los departamentos de Policía de todo el mundo deben estar alerta para capturar a los criminales más buscados. Todas las alarmas saltan cuando un temerario robo une al mejor agente del FBI (Johnson) con dos criminales rivales entre sí (Gadot & Reynolds). Una coincidencia que hará que suceda lo impredecible.",
+			"genero": "Accion, Thriller, Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Alerta.roja.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:C532AB0C9B6977D6BFC73C09BA4B2839964C129A&dn=BRRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Comedia, A2021, Letra A, EEUU, Netflix, ",
 			"name": "Alguien como el (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/jPbyE4OAw6gLdV7qtzW26MWiojf.jpg",
@@ -3299,7 +3312,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Comedia",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Por.fin.solo.en.casa.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Por.fin.solo.en.casa.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:B86AD09B9DD83E7A79E8E998BB3CB1E5AC09F304&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
