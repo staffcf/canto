@@ -11,8 +11,7 @@
 <thumbnail>https://i.imgur.com/OxRYRUi.jpg</thumbnail>
 <fanart>https://i.imgur.com/7PtFu10.jpg</fanart>
 <info>Un agente de la Interpol, la Organización Internacional de Policía Criminal, tiene como misión encontrar y capturar al ladrón de piezas de arte más buscado del mundo.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" :
-"https://youtu.be/UUZ_DITqers"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/42njphzxgkz-1gn"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/vnrrqg31bqwqm99"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "Falta Poner"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/u26riwmt1xyf"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1jqseM2ogqQs2rVPysj5zc0yLq-FN40tP/view"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/UUZ_DITqers"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/42njphzxgkz-1gn"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/vnrrqg31bqwqm99"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/u20w1zi17o2d"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/u26riwmt1xyf"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1jqseM2ogqQs2rVPysj5zc0yLq-FN40tP/view"}</urlsolve>
 </item>
 
 
