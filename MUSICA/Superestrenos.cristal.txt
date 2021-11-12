@@ -27,6 +27,17 @@
 
 
 <item>
+<title>[COLOR white] Coda: Senales del corazon [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.3[/COLOR]</title>    
+<genre>Drama,Romance,Musica</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/slIRT3p.jpg</thumbnail>
+<fanart>https://i.imgur.com/AFY2BIc.jpg</fanart>
+<info>Ruby (Emilia Jones) es el único miembro con audición de una familia de sordos. A sus 17 años, trabaja por la mañana con sus padres y su hermano en Gloucester, Massachusetts, antes de ir a clase, tratando de mantener a flote su negocio pesquero. Ávida de encontrar nuevas aficiones, Ruby decide probar suerte en el coro de su instituto, donde no sólo descubre una latente pasión por el canto, sino también una fuerte atracción física por la persona con la que realiza duetos. Su entusiasta profesor (Eugenio Derbez) ve algo especial en ella y la anima a que piense en la posibilidad de entrar en la escuela de música, algo que la obligaría a tener que tomar una decisión de cara a su futuro: o sus estudios, o su familia.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=j_C_3RXQncc"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/r4nxruek3l2p214"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/n0rr168jc93ozn"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/rmt1gs4xsfzi"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/7smrt914e5kd"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/16PD3fi9ihaULd_ljoPbvaqqg9mTZcV7n/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] 7 Prisioneros [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.0[/COLOR]</title>    
 <genre>Drama,Pobreza,Mafia</genre>
 <year>2021</year>
