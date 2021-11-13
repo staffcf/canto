@@ -3,7 +3,7 @@
 
 
 <item>
-<title>[COLOR gold]*[/COLOR][COLOR white]Temporada 1 (Parte 2)[/COLOR]</title>    
+<title>[COLOR gold]*[/COLOR][COLOR white]Temporada 1 (Parte 1)[/COLOR]</title>    
 <link>$doregex[c]</link>
 <regex>
 <name>c</name>
