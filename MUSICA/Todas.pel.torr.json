@@ -921,7 +921,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Terror",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:B1469ACF08C61F42A9E3F102320D3D10FF8F843F&dn=HD1080",	magnet:?xt=urn:btih:356654CFB59F3B582438E39B27D0714373D95C9B&dn=BRRip	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Candyman.-2021.-.1080.-.CristalAzul.mkv.torrent
+				"torrent": "magnet:?xt=urn:btih:B1469ACF08C61F42A9E3F102320D3D10FF8F843F&dn=HD1080",	magnet:?xt=urn:btih:356654CFB59F3B582438E39B27D0714373D95C9B&dn=BRRip	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Candyman.-2021.-.1080.-.CristalAzul.mkv.torrent	magnet:?xt=urn:btih:E5EB362E6B451E0BF4842F4682294BAD53D36DBD&dn=HD1080	magnet:?xt=urn:btih:98595EAE6971B87A1612E497478C7883071D8333&dn=BR1080	m
 				"torrent4k": "magnet:?xt=urn:btih:7BF6A5AC5B368DB45CEB64F0DB824C07B986F7FA&dn=Web4K"	
 				}		
 			]
@@ -2729,6 +2729,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:169597547DBF2442F523421E43C80EA6DBE642F5&dn=BRRip",
 				"torrent4k": "magnet:?xt=urn:btih:5C9C191C43E728387B67B9B37AC13E3AC5CDB1C0&dn=Web4K",  https://atomixhq.one/download/152772_-1624201921-Luca--4KWebrip.torrent
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Thriller, A2021, Letra L, Spain, ",
+			"name": "Lucas (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/8FoFL4zl74X9bI46NvUEzG7ElVG.jpg",
+			"info": "Lucas acaba de perder a su padre y todo a su alrededor empieza a desmoronarse. Un día le aborda Álvaro, que le ofrece dinero a cambio de inocentes fotos suyas. Álvaro las quiere usar para crear perfiles falsos en redes sociales y hablar, 'solo hablar', insiste, con chicas jóvenes. Desesperado por su situación, Lucas acepta.",
+			"genero": "Drama, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Lucas.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -45260,6 +45273,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{ 
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/La.noche.de.Halloween.-1978.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:5309DD3BFB2A3B626A21350C25B838213C66C022&BRRip
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Comedia, A1978, Letra L, China, B2000, A1980-1971, ",
+			"name": "La serpiente a la sombra del aguila (1978)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/rHRIajKl7NPnoFVpbO1xaCJRnnh.jpg",
+			"info": "Un anciano profesor de artes marciales conserva la tradición de la lucha de la cobra, y consigue formar un discípulo que además, observando la lucha entre una cobra y un gato, incorporará el estilo garra de gato",
+			"genero": "Accion, Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/La.serpiente.a.la.sombra.del.aguila.-1978.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
