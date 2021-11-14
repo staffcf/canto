@@ -9,7 +9,7 @@
 
 	ETIQUETAS:
 	
-	- 1SerieTitle:"CARDO", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/fBX3kZCAS5O3gyKCYCVaevAChPi.jpg",
+	- 1SerieTitle:"CARDO", SerieTemp:"MINI SERIE", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/fBX3kZCAS5O3gyKCYCVaevAChPi.jpg",
 	
 -->
 ======================================================================
@@ -29,8 +29,8 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x03 - Capitulo 3 [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
+			<title>1x03 - Capitulo 3</title>
+			<torrent>magnet:?xt=urn:btih:DE916C0721F3EF52B50D6A7C2525977B66C8C94F&dn=HD720</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "

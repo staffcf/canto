@@ -34,6 +34,12 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
 			<title> - [COLOR yellow]CALIDAD 720</title>
 			<torrent></torrent>
 			</item>
