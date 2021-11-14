@@ -3105,15 +3105,15 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Terror, A2021, Letra N, EEUU, Sagas NoRespires, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Thriller, 1Terror, A2021, Letra N, EEUU, Sagas NoRespires, ",
 			"name": "No respires 2 (2021)","coloryear": "2021",
 			"image": "https://www.themoviedb.org/t/p/original/etYHukMKWSIBX0YkHarCEpOb0fE.jpg",
 			"info": "Años después de la invasión mortal de su hogar, Norman Nordstrom vive tranquilo y cómodo hasta que sus pecados del pasado ​​lo alcanzan",
 			"genero": "Thriller, Terror",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/No.respires.2.-2021.-.1080.-.CristalAzul.mkv.torrent",
-				"torrent4k": ""	
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/No.respires.2.-2021.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:D4AC8235858004EF91CDE31C6FA0FEA7A016C578&dn=HD1080	magnet:?xt=urn:btih:DD5866073F979EB91ED8923573DA5E9338168230&dn=BR1080
+				"torrent4k": "magnet:?xt=urn:btih:0BDBE9091AA6C94F663524A83DF0788043B7E55A&dn=UHDRip"	
 				}		
 			]
 			},
@@ -25703,6 +25703,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Oceans.8.-2018.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:c2118c54811a0eeeef2eb1a040d1a9c74edeb568&dn=HD1080    magnet:?xt=urn:btih:F311E2B426832F8D5AAD9992BC276A6A95E5B2F9&dn=BRRip
 				"torrent4k": "magnet:?xt=urn:btih:BC528EFE130B335F7DFE76F142062DC5E48633FC&dn=UHDRemux",
 				}			
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Aventuras, 1Comedia, 1Terror, A2018, Letra O, EEUU, ",
+			"name": "Office Uprising (Oficina zombie) (2018)","coloryear": "aqua",
+			"image": "https://www.themoviedb.org/t/p/original/npkajFITiazxWg0LLw2oMjg5G0B.jpg",
+			"info": "Un empleado de una armería descubre que una bebida energética convierte a sus compañeros en zombis",
+			"genero": "Accion, Aventuras, Comedia, Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Office.Uprising-Oficina.zombie-.-2018.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
 			]
 			},
 			{
