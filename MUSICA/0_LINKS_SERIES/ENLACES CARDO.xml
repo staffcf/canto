@@ -1,0 +1,242 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ CARDO
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"CARDO", SerieTemp:"MINI SERIE", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/fBX3kZCAS5O3gyKCYCVaevAChPi.jpg",
+	
+-->
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP1, TORRENTTEMP1, "
+			<item>
+			<title>1x01 - Capitulo 1</title>
+			<link>https://diasfem.com/v/n1-50s20lmxdkx3</link>  
+			<link2>https://diasfem.com/v/rzywphek1pgdg5l</link2>  
+			<link3>https://vidlox.me/NO_LINK</link3>  
+			<link4>https://vidlox.me/NO_LINK</link4>  
+			<link5>https://vidlox.me/NO_LINK</link5>
+			<torrent>magnet:?xt=urn:btih:7CE9D079D79C146F6E0DE552E386688A9E08D755&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP1, TORRENTTEMP1, "
+			<item>
+			<title>1x02 - Capitulo 2</title>
+			<link>https://diasfem.com/v/685p-f0nd14qp3r</link>  
+			<link2>https://diasfem.com/v/640p2u0ndgw3yp7</link2>  
+			<link3>https://vidlox.me/NO_LINK</link3>  
+			<link4>https://vidlox.me/NO_LINK</link4>  
+			<link5>https://vidlox.me/NO_LINK</link5>
+			<torrent>magnet:?xt=urn:btih:DA3D29D6061D8976983F1D0D20D5E4DA75111508&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP1, TORRENTTEMP1, "
+			<item>
+			<title>1x03 - Capitulo 3</title>
+			<link>https://vidlox.me/NO_LINK</link>  
+			<link2>https://vidlox.me/NO_LINK</link2>  
+			<link3>https://vidlox.me/NO_LINK</link3>  
+			<link4>https://vidlox.me/NO_LINK</link4>  
+			<link5>https://vidlox.me/NO_LINK</link5>
+			<torrent>magnet:?xt=urn:btih:DE916C0721F3EF52B50D6A7C2525977B66C8C94F&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP1, TORRENTTEMP1, "
+			<item>
+			<title>1x04 - Capitulo 4 [COLOR orangered](PROXIMAMENTE)</title>
+			<link>https://vidlox.me/NO_LINK</link>  
+			<link2>https://vidlox.me/NO_LINK</link2>  
+			<link3>https://vidlox.me/NO_LINK</link3>  
+			<link4>https://vidlox.me/NO_LINK</link4>  
+			<link5>https://vidlox.me/NO_LINK</link5>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP1, TORRENTTEMP1, "
+			<item>
+			<title>1x05 - Capitulo 5 [COLOR orangered](PROXIMAMENTE)</title>
+			<link>https://vidlox.me/NO_LINK</link>  
+			<link2>https://vidlox.me/NO_LINK</link2>  
+			<link3>https://vidlox.me/NO_LINK</link3>  
+			<link4>https://vidlox.me/NO_LINK</link4>  
+			<link5>https://vidlox.me/NO_LINK</link5>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP1, TORRENTTEMP1, "
+			<item>
+			<title>1x06 - Capitulo 6 [COLOR orangered](PROXIMAMENTE)</title>
+			<link>https://vidlox.me/NO_LINK</link>  
+			<link2>https://vidlox.me/NO_LINK</link2>  
+			<link3>https://vidlox.me/NO_LINK</link3>  
+			<link4>https://vidlox.me/NO_LINK</link4>  
+			<link5>https://vidlox.me/NO_LINK</link5>
+			<torrent></torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x01 - Capitulo 1</title>
+			<torrent>magnet:?xt=urn:btih:EA2E27E9E321917A7AE78E5A83BB60788C9F0479&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x02 - Capitulo 2</title>
+			<torrent>magnet:?xt=urn:btih:3FCD44D4E2B80C119EECAA6540E6B21C99BAFAA4&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x03 - Capitulo 3</title>
+			<torrent>magnet:?xt=urn:btih:35EDB4D923A133DBD3C21E6D20E0E9F6FBBB4197&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x04 - Capitulo 4 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x05 - Capitulo 5 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x06 - Capitulo 6 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 4K</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x01 - Capitulo 1</title>
+			<torrent>magnet:?xt=urn:btih:57E1329E8644688A0232C716AC65F849BD5D0950&dn=Web4K</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x02 - Capitulo 2</title>
+			<torrent>magnet:?xt=urn:btih:072549325709D3EDD6CABC586CF2CFB59BB585CC&dn=Web4K</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x03 - Capitulo 3</title>
+			<torrent>magnet:?xt=urn:btih:6BA5381E57061C48713C8C36E12F2FA825DF3E1D&dn=Web4K</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x04 - Capitulo 4 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x05 - Capitulo 5 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x06 - Capitulo 6 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 1080</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x01 - Capitulo 1</title>
+			<torrent>magnet:?xt=urn:btih:120074132F0970B07431DC527DE335C734FFF538&dn=HD1080</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x02 - Capitulo 2</title>
+			<torrent>magnet:?xt=urn:btih:0BC09A60C2CD9CDDA8AEE79694D3923C32F6FAE7&dn=HD1080</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x03 - Capitulo 3</title>
+			<torrent>magnet:?xt=urn:btih:59B45E92098328736BC53FD63AA210F5AA0BD67A&dn=HD1080</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x04 - Capitulo 4 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x05 - Capitulo 5 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x06 - Capitulo 6 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
