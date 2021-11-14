@@ -475,11 +475,6 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Drama",
 			"stations": [
 				{
-				"kodi1": "https://supervideo.tv/NO_LINK", "colorserver1": "lime",
-				"kodi2": "https://supervideo.tv/NO_LINK",
-				"kodi3": "https://supervideo.tv/NO_LINK", 
-				"kodi4": "https://supervideo.tv/NO_LINK", 
-				"kodi5": "https://supervideo.tv/NO_LINK",
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/7.prisioneros.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:4EE51F99040EA58A80D1B0EF8A83BD1A79C994BA&dn=BRRip
 				"torrent4k": ""	
 				}		
@@ -3110,6 +3105,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Terror, A2021, Letra N, EEUU, Sagas NoRespires, ",
+			"name": "No respires 2 (2021)","coloryear": "2021",
+			"image": "https://www.themoviedb.org/t/p/original/etYHukMKWSIBX0YkHarCEpOb0fE.jpg",
+			"info": "Años después de la invasión mortal de su hogar, Norman Nordstrom vive tranquilo y cómodo hasta que sus pecados del pasado ​​lo alcanzan",
+			"genero": "Thriller, Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/No.respires.2.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Romance, A2021, Letra N, EEUU, Netflix, ",
 			"name": "No se puede huir del amor (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/mGa3mPtkvGld4J3O6iG08cA22NJ.jpg",
@@ -4053,7 +4061,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Terror",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Wrong.Turn-Sendero.al.infierno.-2021.-.1080.-.CrisalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Wrong.Turn-Sendero.al.infierno.-2021.-.1080.-.CrisalAzul.mkv.torrent",magnet:?xt=urn:btih:C89570FBEC0DD3534F22442CAEB582063D44FC8B&dn=HD1080		magnet:?xt=urn:btih:EA96194C4AFC1B09F9B653D302A71D7143F30296&dn=HD1080
 				"torrent4k": ""	
 				}		
 			]
@@ -18066,7 +18074,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Comedia",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Mejor.que.nunca.-2019.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Mejor.que.nunca.-2019.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:2225C625310E5795CAC262F0A95406D6DE07049C&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
