@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] El nido [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.2[/COLOR]</title>    
+<genre>Drama,Thriller</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/vaKE5O1.jpg</thumbnail>
+<fanart>https://i.imgur.com/YQ3zPoJ.jpg</fanart>
+<info>Rory es un emprendedor ambicioso que trae a su esposa e hijos estadounidenses a su país natal, Inglaterra, para explorar nuevas oportunidades comerciales. Después de abandonar el santuario de su entorno suburbano estadounidense seguro, la familia se sumerge en la desesperación de una Gran Bretaña arcaica de los 80 y su nueva vida inasequible en una casa solariega inglesa amenaza con destruir a la familia.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=Fid1pAs3Miw"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/kx4-1i36qrrqgl7"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/n0rj69o8hv1o8p"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/9lg0hjxu8mm2"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/26ytc1pk9z94"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-iqv8kcaqnkx3.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1fR7H41eh94gG4j9WO3dxalQ5sRVHG9HK/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Ataque de zombis [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.2[/COLOR]</title>    
 <genre>Acción,Aventuras.Comedia,Terror</genre>
 <year>2021</year>
