@@ -2449,7 +2449,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Fantastico, Accion",
 			"stations": [
 				{ 	
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Liga.De.La.Justicia.-2017.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:E2B1FBA309988B6B8C975C37D7C5BFD6335CD8C7&dn=BR1080
+				"torrent": "magnet:?xt=urn:btih:E2B1FBA309988B6B8C975C37D7C5BFD6335CD8C7&dn=BR1080",	
 				"torrent4k": ""
 				}		
 			]
@@ -2696,7 +2696,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Animacion, Aventuras, Infantil",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:EB4D76FE0BDC0E6C572EB27E9CF21F540874518F&dn=HD720",  magnet:?xt=urn:btih:CD3025AB7386021BA48CCFA2EEB348267736FE43&dn=BRRip
+				"torrent": "magnet:?xt=urn:btih:CD3025AB7386021BA48CCFA2EEB348267736FE43&dn=BRRip", 
 				"torrent4k": ""
 				}		
 			]
@@ -2774,7 +2774,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Drama, Romance",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:5A78BCC5F2D47F58E2D0F0BC2F06CA5884461705&dn=HD1080",   magnet:?xt=urn:btih:1a9ebe6a9c1b10f84990a54d27663c1684a1aa74&HD720
+				"torrent": "magnet:?xt=urn:btih:1a9ebe6a9c1b10f84990a54d27663c1684a1aa74&HD720",
 				"torrent4k": ""
 				}		
 			]
@@ -2826,7 +2826,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Comedia, Accion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:F4F15561F68D4716C606F9E21E54C3845DF418E2&dn=HD720",
+				"torrent": "magnet:?xt=urn:btih:3D7DCCD23630274BE1B86434FD40E13ED61B9BC1&dn=BRRip",
 				"torrent4k": ""
 				}		
 			]
@@ -2969,7 +2969,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Terror, Thriller",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:93E4C355947F4DDC5B6DD1367ED4E9F486860F61&dnHD1080",    magnet:?xt=urn:btih:EB6307C820D679AA3CF2D4DA140CD4242610BDF5&dn=BRRip	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Mudanza.Mortal.2021.-.1080.-.CristalAzul.mkv.torrent
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Mudanza.Mortal.2021.-.1080.-.CristalAzul.mkv.torrent",    magnet:?xt=urn:btih:EB6307C820D679AA3CF2D4DA140CD4242610BDF5&dn=BRRip	
 				"torrent4k": ""	
 				}		
 			]
@@ -3439,6 +3439,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:2883258AD12F9992B520DCC399FFE6337A10EE05&dn=BRRip",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Drama, A2021, Letra R, EEUU, ",
+			"name": "Rompiendo las reglas: Rebelion (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/icAG01wZyy1ZpS3UEnPReph3jMV.jpg",
+			"info": "Una mujer que es secuestrada y obligada a competir en combates clandestinos de élite y que tiene que luchar por su libertad",
+			"genero": "Accion, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Rompiendo.las.reglas-Rebelion.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -9450,7 +9463,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " Peliscristal, 1Torrentcristal, 1Torrent4k, 1Drama, A2020, Letra N, EEUU, 1Oscars, ",
+			"tag": " 1Peliscristal, 1Torrentcristal, 1Torrent4k, 1Drama, A2020, Letra N, EEUU, 1Oscars, ",
 			"name": "Nomadland (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/4Bq6ONhkASjjFNECzkJK0bF3ESy.jpg",
 			"info": "Una mujer, despues de perderlo todo durante la recesion, se embarca en un viaje hacia el Oeste americano viviendo como una nomada en una caravana. Tras el colapso economico que afecto tambien a su ciudad en la zona rural de Nevada, Fern toma su camioneta y se pone en camino para explorar una vida fuera de la sociedad convencional, como nomada moderna",
