@@ -3106,7 +3106,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Thriller, 1Terror, A2021, Letra N, EEUU, Sagas NoRespires, ",
-			"name": "No respires 2 (2021)","coloryear": "2021",
+			"name": "No respires 2 (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/etYHukMKWSIBX0YkHarCEpOb0fE.jpg",
 			"info": "Años después de la invasión mortal de su hogar, Norman Nordstrom vive tranquilo y cómodo hasta que sus pecados del pasado ​​lo alcanzan",
 			"genero": "Thriller, Terror",
@@ -10773,6 +10773,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:3A258CE16C031B39DE5B4B070619F33565E66F9B",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Thriller, A2020, Letra T, Reino Unido, ",
+			"name": "The Nest (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/mKTsBAxEwWAQwRyPey8txjwiYFS.jpg",
+			"info": "Años 80. Rory es un ambicioso empresario que lleva a su esposa e hijos estadounidenses a su país natal, Reino Unido, para explorar nuevas oportunidades de negocios. La familia se encontrará con una nueva y difícil vida en una casa de campo inglesa, bajo la presión social y económica que amenaza con destruir a la familia.",
+			"genero": "Drama, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/The.Nest.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
