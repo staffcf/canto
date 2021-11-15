@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Ataque de zombis [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.2[/COLOR]</title>    
+<genre>Acción,Aventuras.Comedia,Terror</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/2jn7Joe.jpg</thumbnail>
+<fanart>https://i.imgur.com/gPuJIu8.jpg</fanart>
+<info>Desmond es un perdedor que trabaja en Ammotech, una gran empresa de fabricación de armas. Sin embargo, Desmond pronto se entera de que Zolt, una popular bebida energética creada por los militares, ha convertido a su jefe y compañeros de trabajo en psicópatas violentos, que comienzan a matar a sus enemigos y realizan actos brutales que solo pueden ser divertidos. Ahora, Desmond debe enfrentar el desafío de sobrevivir en un edificio lleno de maníacos armados hasta los dientes y capaces de todo para satisfacer su sed de matar. Para colmo, la chica de la que está enamorado ha bebido algo de la bebida energética y está a punto de convertirse en una de ellas, por lo que también necesita encontrar una cura para salvarla..<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=WQdT4YLEzaA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/2r2j0i2w7eq17my"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/rw4mxmj6agvv46"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/20qzyb9xupqi"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/7utpz2jc9gt6"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/iuqlfp1dsa7e"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1a6hUHND_MCP7TUpexvrgYsNX_UpwDCls/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] No Respires 2 [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.7[/COLOR]</title>    
 <genre>Thriller,Terror,Crimen,Discapacidad,Discapacidad visual,Secuela</genre>
 <year>2021</year>
