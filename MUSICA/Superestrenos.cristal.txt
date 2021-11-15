@@ -11,7 +11,7 @@
 <thumbnail>https://i.imgur.com/fWtBUmo.jpg</thumbnail>
 <fanart>https://i.imgur.com/BtdhIfk.jpg</fanart>
 <info>Una mujer que es secuestrada y obligada a competir en combates clandestinos de élite y que tiene que luchar por su libertad.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=-oE2DI1tyF8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/6znj3t0n6pdg2xd"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/qlrz8gxpuzk1v6"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https:/sbvideo.net/e/gc2g5yu8r9sv"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/2y008ly64c46"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-58opk7ugbvgo.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/12hY30ya-ltoNLMMKqOFo-ykBDlabte2H/view"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=-oE2DI1tyF8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/r4nxruek6667k8r"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/wnr0pw0of0zl7wl"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https:/sbvideo.net/e/gc2g5yu8r9sv"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/nae7xxzwa3mg"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ycxlvjxzmdnn"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/12hY30ya-ltoNLMMKqOFo-ykBDlabte2H/view"}</urlsolve>
 </item>
 
 
