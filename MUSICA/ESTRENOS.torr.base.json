@@ -5,43 +5,571 @@
 	"info": "ESTA LISTA HA SIDO CREADA CON EXCLUSIVO ANIMO DE TENER CONCENTRADOS LOS ACCESOS DIRECTOS A ENLACES DE MULTIPLES TERCEROS EN INTERNET, EL CREADOR NO CUENTA CON SERVIDORES QUE ALOJEN NINGUNO DE LOS CONTENIDOS NI OBTIENE NINGUN GENERO NI CLASE DE LUCRO DIRECTO O INDIRECTO POR SU UTILIZACION. DEL MISMO MODO NO SE AUTORIZA SU PUBLICACION NI CIRCULACION FUERA DEL AMBITO PERSONAL DEL CREADOR Y DEL GRUPO DE LOS GRUPOS DE TELEGRAM AUTORIZADOS POR EL , SI LO HAS OBTENIDO DE OTRO LUGAR ESTAS COLABORANDO ACTIVAMENTE A LA DESACTIVACION Y DESAPARICION DE LA LISTA, TODA VEZ QUE SOLO SE COMPARTE POR SU AUTOR CON LA FINALIDAD DE FACILITAR A SUS ALLEGADOS SIN CONOCIMIENTOS INFORMATICOS EL ACCESO A CONTENIDO QUE EL AUTOR CONSIDERA DE SU INTERES",
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra A, Spain, ",
+			"name": "Ama (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/7tKVwSMz5itGZH0eEK5A7Uyx5UL.jpg",
+			"info": "Cuenta la historia de muchas mujeres expuestas en soledad a la mitificada maternidad. Tras varias advertencias, Ade echa a su amiga Pepa de su casa y esta termina viéndose en la calle junto a Leila, su hija de seis años. Sin nadie que las ayude, Pepa y Leila lucharán solas para encontrar un lugar donde vivir. Enfrentándose a cada obstáculo, emprenderán una búsqueda que conllevará también un acercamiento dentro de su relación antes prácticamente inexistente y distante. Se creará un nuevo vínculo entre madre e hija, dónde tendrán cabida las equivocaciones y la desidealización",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:324106710E6CB04EAEAB212DFE804475B4DFB645&dn=BRRip",
+				"torrent4k": ""	
+				}		
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Misterio, 1Suspense, A2021, Letra T, Estados Unidos, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Drama, A2021, Letra R, EEUU, ",
+			"name": "Rompiendo las reglas: Rebelion (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/icAG01wZyy1ZpS3UEnPReph3jMV.jpg",
+			"info": "Una mujer que es secuestrada y obligada a competir en combates clandestinos de élite y que tiene que luchar por su libertad",
+			"genero": "Accion, Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:9EDB7AA15F47E67C29FD815DD24FAF899BFC498C&dn=BRRip",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Thriller, A2020, Letra T, Reino Unido, ",
+			"name": "The Nest (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/mKTsBAxEwWAQwRyPey8txjwiYFS.jpg",
+			"info": "Años 80. Rory es un ambicioso empresario que lleva a su esposa e hijos estadounidenses a su país natal, Reino Unido, para explorar nuevas oportunidades de negocios. La familia se encontrará con una nueva y difícil vida en una casa de campo inglesa, bajo la presión social y económica que amenaza con destruir a la familia.",
+			"genero": "Drama, Thriller",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:DA35A503F45A6725B5ED70E5C4E8603EDFF3EB3C&dn=BRRip",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Thriller, 1Terror, A2021, Letra N, EEUU, Sagas NoRespires, ",
+			"name": "No respires 2 (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/etYHukMKWSIBX0YkHarCEpOb0fE.jpg",
+			"info": "Años después de la invasión mortal de su hogar, Norman Nordstrom vive tranquilo y cómodo hasta que sus pecados del pasado ​​lo alcanzan",
+			"genero": "Thriller, Terror",
+			"stations": [
+				"torrent": "magnet:?xt=urn:btih:D4AC8235858004EF91CDE31C6FA0FEA7A016C578&dn=HD1080",
+				"torrent4k": "magnet:?xt=urn:btih:0BDBE9091AA6C94F663524A83DF0788043B7E55A&dn=UHDRip"	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Thriller, A2021, Letra L, Spain, ",
+			"name": "Lucas (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/8FoFL4zl74X9bI46NvUEzG7ElVG.jpg",
+			"info": "Lucas acaba de perder a su padre y todo a su alrededor empieza a desmoronarse. Un día le aborda Álvaro, que le ofrece dinero a cambio de inocentes fotos suyas. Álvaro las quiere usar para crear perfiles falsos en redes sociales y hablar, 'solo hablar', insiste, con chicas jóvenes. Desesperado por su situación, Lucas acepta.",
+			"genero": "Drama, Thriller",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:B753684D32E8722363A1BC6B6B9F707EA51D45D3&dn=BRRip",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra C, EEUU, ",
+			"name": "CODA (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/hVpDKCA4UFIWhhCShDvMKShcoyl.jpg",
+			"info": "Ruby (Emilia Jones) es el único miembro con audición de una familia de sordos. A sus 17 años, trabaja por la mañana con sus padres y su hermano en Gloucester, Massachusetts, antes de ir a clase, tratando de mantener a flote su negocio pesquero. Ávida de encontrar nuevas aficiones, Ruby decide probar suerte en el coro de su instituto, donde no sólo descubre una latente pasión por el canto, sino también una fuerte atracción física por la persona con la que realiza duetos. Su entusiasta profesor (Eugenio Derbez) ve algo especial en ella y la anima a que piense en la posibilidad de entrar en la escuela de música, algo que la obligaría a tener que tomar una decisión de cara a su futuro: o sus estudios, o su familia.",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:F1FCB9D3A2A8116CC0C4446C5E6FD1946C7FA951&dn=C0d4HDR.exclusivetorrent.net.avi",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2021, Letra W, EEUU, ",
+			"name": "Wrong Turn: Sendero al infierno (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/6cyLg724N7GLyiIHFQFsUyMsDWm.jpg",
+			"info": "Un grupo de amigos que hace senderismo por el Sendero de los Apalaches se ven cara a cara con los miembros de una comunidad de habitantes de las montañas llamados 'The Foundation'",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:C89570FBEC0DD3534F22442CAEB582063D44FC8B&dn=HD1080",		
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Thriller, 1Comedia, A2021, Letra A, EEUU, Netlfix, ",
+			"name": "Alerta roja (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/zNbyvMDon1jPWAdAg3D11tr5kZX.jpg",
+			"info": "Cuando la Interpol envía una 'Alerta roja', significa que los departamentos de Policía de todo el mundo deben estar alerta para capturar a los criminales más buscados. Todas las alarmas saltan cuando un temerario robo une al mejor agente del FBI (Johnson) con dos criminales rivales entre sí (Gadot & Reynolds). Una coincidencia que hará que suceda lo impredecible.",
+			"genero": "Accion, Thriller, Comedia",
+			"stations": [
+				"torrent": "magnet:?xt=urn:btih:71797AD98B51FE271B4C740423BA3BC4DE84A61D&dn=HD1080",
+				"torrent4k": ""					
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra P, EEUU, Disney, Sagas SoloEnCasa, ",
+			"name": "Por fin solo en casa (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/5K7qxX77PJXWuzkZD8rOBduCEKo.jpg",
+			"info": "Una pareja casada intenta recuperar una valiosa herencia de un niño problemático",
+			"genero": "Comedia",
+			"stations": [
+				"torrent": "magnet:?xt=urn:btih:C3015BB5C086FF59EB996F2D5BF8AD19CBF1492F&dn=HD1080",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra NUM, Brasil, Netflix, ",
+			"name": "7 prisioneros (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/uk9GedoTYlnKnbruXPArU09F8oT.jpg",
+			"info": "Para ofrecer una vida mejor a su familia en el país, Mateus, de 18 años, acepta un trabajo en un vertedero de São Paulo para su nuevo jefe, Luca, pero se ve atrapado en el peligroso mundo del tráfico de personas",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:4EE51F99040EA58A80D1B0EF8A83BD1A79C994BA&dn=BRRip",	
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Fantastico, 1Accion, 1Ciencia ficcion, A2021, Letra S, EEUU, Comics, Marvel, ",
+			"name": "Shang-Chi y la leyenda de los diez anillos (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/lE8Pet7FMzOFUBMToH7l7g1XAny.jpg",
+			"info": "Adaptación cinematográfica del héroe creado por Steve Englehart y Jim Starlin en 1973, un personaje mitad chino, mitad americano, cuyo característico estilo de combate mezclaba kung-fu, nunchacos y armas de fuego",
+			"genero": "Fantastico, Accion, Ciencia ficcion",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:84EED90A792FD435BDDC9BC3650C59BEBC9948EF&dn=HD1080",
+				"torrent4k": "magnet:?xt=urn:btih:AD9189243081D331E86C5EB4C60903805A1F02BD&dn=UHDRip"	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra C, EEUU, Racismo, ",
+			"name": "Claroscuro (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/n4bJLOC2oGYh9geS2tjBKcOivwH.jpg",
+			"info": "Estados Unidos, década de 1920. Clare es una mujer mulata casada con un racista blanco que se hace pasar por blanca, incluso ante su marido, para beneficiarse del estatus social y económico que les era negado a los negros en aquella época",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:EA5F924855D276144C19606A39860FC82ABD49AD&dn=Cl4r00scr0HDR.exclusivetorrent.net.avi",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra M, Italia, 1Biografico, ",
+			"name": "Miss Marx (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/3z7R66yCqET4g1MrvoVgjXuNz02.jpg",
+			"info": "Brillante, inteligente, apasionada y libre, Eleanor es la hija más joven de Karl Marx. Siendo una de las primeras mujeres que relaciona el feminismo con el socialismo, defiende los derechos de los trabajadores, de las mujeres y lucha por la abolición del trabajo infantil. En 1883 conoce a Edward Aveling y se ve inmersa en una ardiente historia de amor.",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:FBF8C6FD149E39736DB45147F588F6D0AD905BAB&dn=BRRip",	
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, A2021, Letra A, EEUU, ",
+			"name": "Aqui y ahora (Here Today) (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/3e1PedEUeSjhPbgrtVlpAs40pK8.jpg",
+			"info": "El veterano escritor de comedias Charlie Berns (Crystal), que está perdiendo lentamente el control sobre la realidad, se hace amigo de Emma Payge (Haddish), una talentosa cantante callejera. Entablan una inesperada amistad, hilarante y conmovedora, que desafía la brecha generacional y redefine el significado del amor y la confianza.",
+			"genero": "Comedia, Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:8E6D5A7B414AA26097B589315E5BFC0AE7D9C310&dn=BRRip",	
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Fantastico, A2020, Letra M, Francia, ",
+			"name": "Mandibulas (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/2g9AsQKpcL8R9kqoLW63TVT3l1O.jpg",
+			"info": "Cuando dos amigos no muy inteligentes encuentran una mosca gigante, viva y atrapada dentro de un coche, ambos deciden entrenarla para ganar dinero con ella",
+			"genero": "Comedia, Fantastico",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:62749D2C80165B617D79E6503C9EBBE4B728F750&dn=M4nd1bul4sHDR.exclusivetorrent.net.avi",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra U, Reino Unido, Netflix, ",
+			"name": "Un padre por Navidad (2021)","coloryear": "cyan",
+			"image": "https://i.imgur.com/Lw18l09.jpg",
+			"info": "Cuatro hermanas enfrentadas reciben un curso acelerado de cómo conseguir una buena armonía familiar, cuando su distanciado padre se presenta inesperadamente en su elegante mansión por Navidad.",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:C08E16DFCE6E1CD7D4C43E22201B5374E5EC1951&dn=BRRip",	
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Comedia, A2020, Letra E, Canada, ",
+			"name": "El joven detective (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/cqevEm1JzPc3U2iMMGfrdTEJvcV.jpg",
+			"info": "Un niño detective que tuvo cierta fama en la infancia ahora tiene 31 años y se sigue dedicando a investigar los problemas más triviales entre resacas y ataques de autocompasión. Un día una cliente se acerca a su despacho para ofrecer su primer caso 'adulto' en el que tendrá que averiguar quién asesinó brutalmente a su novio.",
+			"genero": "Drama, Comedia",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:5D633FCA1E66354C9840B05AE424DF24209EBF0A&dn=BRRip",	
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Thriller, A2019, Letra L, Canada, ",
+			"name": "La hija del lobo (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/gOfHbgDYyrys9nxRG8t9vrq3U85.jpg",
+			"info": "Una mujer (Gina Carano) regresa a casa tras realizar un viaje a través de Oriente Medio para descubrir que su padre ha fallecido. Además de la tragedia que esto supone, comienza a tener problemas con su hijo de 13 años, que desafía constantemente su autoridad. Cuando se da a conocer que su padre ha dejado tras de sí una cuantiosa herencia, su hijo es raptado por un grupo local de mafiosos cuyo líder es un hombre llamado 'Padre' (Richard Dreyfuss).",
+			"genero": "Accion, Thriller",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:E671FCAE78332876B2FCA45845B38F6C444D0E8F&dn=BRRip",	
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra E, EEUU, ",
+			"name": "El asesinato de dos amantes (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/960UV2c4tZJnvLgFHaJa4hHWIFg.jpg",
+			"info": "David intenta desesperadamente mantener unida a su familia después de separarse de su esposa. Ambos acuerdan poder salir con otras personas, pero David lucha por asumir la nueva relación de pareja de su ex",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.asesinato.de.dos.amantes.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Thriller, 1Ciencia ficcion, A2021, Letra C, EEUU, ",
+			"name": "Claw (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/bOSYNXEKUSHcBLN5DuYpKJzwgqo.jpg",
+			"info": "Dos amigos obligados a pasar la noche en un pueblo fantasma son perseguidos por un depredador prehistórico.",
+			"genero": "Terror, Thriller, Ciencia ficcion",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:009DFD97DF9C18AB119EED442A7C8915A40914B4&dn=BRRip",	
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Fantastico, A2021, Letra M, Japon, ",
+			"name": "Mas alla de los dos minutos infinitos (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/a4dawag4oIFfwaztsQROjqT0JMA.jpg",
+			"info": "Regresando a su apartamento tras terminar la jornada, Kato, propietario del Café Phalam, se ve a sí mismo hablándose desde la pantalla de su ordenador: "Soy el yo del futuro. Dos minutos en el futuro". La pantalla de su casa y la del ordenador del café están conectadas de alguna manera. Kato vuelve a su establecimiento y, junto a clientes habituales, empieza a explorar este fenómeno",
+			"genero": "Comedia, Fantastico",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:D09AF091BDA77C13714CC5538BDE9F82D9F0ADD9&dn=BRRip",	
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Thriller, A2020, Letra L, Japon, ",
+			"name": "La mujer del espia (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/AeXDKLQOfH91hhz2fXwRRBLvTmN.jpg",
+			"info": "En vísperas del estallido de la II Guerra Mundial. Yusaku (Issey Takahashi) es el director de una compañía comercial en Kobe (Japón), y está casado con Satoko (Yu Aoi). En un viaje a Manchuria durante 1940, Yusaku descubre un terrible secreto nacional. En nombre de la justicia decide hacerlo público, lo que le convierte al instante en un enemigo público. Sin embargo, Satoko asegura creerle y jura que estará a su lado independientemente de las consecuencias",
+			"genero": "Drama, Thriller",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:BE8F54B8DC6F89E99A454444E80F33BCBA618E85&dn=Muj3rEsp1aHDR.exclusivetorrent.net.avi",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Comedia, A2021, Letra NUM, EEUU, Netflix, ",
+			"name": "¡Que duro es el amor! (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/xYUmvSAQtwTiam9fs6HZBGWNQXm.jpg",
+			"info": "Una chica de Los Ángeles, desafortunada en el amor, se enamora de un chico de la costa este por una aplicación de citas y decide sorprenderle por Navidad, solo para descubrir que la han engañado. Pero el objeto de su afecto vive, de hecho, en la misma ciudad, y el chico que la engañó se ofrece a tenderles una trampa si ella finge ser su novia durante las vacaciones",
+			"genero": "Romance, Comedia",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:A7EB5E0392BE23E8F04AC84ED09DB5C113A186A3&dn=BRRip",	
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra Y, Italia, Netflix, ",
+			"name": "Yara (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/qRllCnVXSfOH665gWxOL4V6cj8b.jpg",
+			"info": "Obsesionada con la desaparición de una niña de 13 años, una decidida abogada hace todo lo posible para averiguar la verdad. Basada en un caso real.",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:33A5B6D099C3CA621F6D2EE3AC921865E3E6807F&dn=BRRip",	
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, A2021, Letra F, EEUU, ",
+			"name": "Finch (2021)","coloryear": "cyan",
+			"image": "https://i.imgur.com/HDfPQei.jpg",
+			"info": "La historia sigue a un robot que vive en una tierra post-apocalíptica. Creado para proteger la vida del perro de su creador, enfermo y moribundo (Tom Hanks), el robot aprende sobre el amor, la amistad y el significado de la vida humana...",
+			"genero": "Ciencia ficcion",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:347826B85F005114421FAC0F8AEC0EE3C59938FE&dn=HD1080",
+				"torrent4k": "magnet:?xt=urn:btih:AAA42FE01B4C297BD6CB54466B0DC7E56F7E9A4D&dn=Web4K"	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra Q, Rusia, 1Hechos reales, ",
+			"name": "Queridos camaradas (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/bY0AumierZLUsZDRUz9o2de8IIg.jpg",
+			"info": "Novocherkask, Unión Soviética, 1962. Lyudmila es miembro del partido comunista local. Ella defiende los ideales del régimen comunista y desprecia todo tipo de disidencia. Durante una huelga laboral en una fábrica de motores, ve cómo el ejército mandado por el Gobierno dispara a los protestantes y comete una masacre. Ese suceso cambiará su visión de las cosas. Con la ciudad destruida y agitada por las revueltas, hay mucha gente herida y desaparecida. Una de las desaparecidas es la hija de Lyudmila, lo que la obligará a buscarla entre el caos",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:F7E73E70031C81EF98955F247EFC40233659034E&dn=Qu3r1dosC4m4radasHDR.exclusivetorrent.net.avi",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Drama, A2021, Letra N, EEUU, ",
+			"name": "Nacido campeon (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/wTjBPDsxb1Ifsb0LVay8vXO8Fxg.jpg",
+			"info": "Mickey Kelley, uno de los primeros estadounidenses en conseguir el cinturón negro de jiu-jitsu brasileño, tiene que dejar atrás todo lo que ama para participar en un torneo clandestino de MMA",
+			"genero": "Accion, Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:32FCF285E14D669754F13426D13F8EF159E40000&dn=N4c1doC4mp3onHDR.exclusivetorrent.net.avi",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Western, 1Drama, A2021, Letra M, EEUU, Netflix, ",
+			"name": "Mas dura sera la caida (2021)","coloryear": "cyan",
+			"image": "https://i.imgur.com/3ipkxbU.jpg",
+			"info": "El forajido Nat Love (Jonathan Majors) descubre que su enemigo, Rufus Buck (Idris Elba) ha salido de prisión, por lo que reúne a su banda para perseguir a Rufus y buscar venganza",
+			"genero": "Western, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Mas.dura.sera.la.caida.-2021.-.1080.-.CristalAzul.mkv.torrent",	
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra E, Italia, 1Biografico, ",
+			"name": "El poeta y el espia (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/uZch3n3bBF4iQhPJ9XXD8jAyBdb.jpg",
+			"info": "Italia, año 1936. Giovanni Comini acaba de ser ascendido al cargo de Federal, el más joven en Italia. Es trasladado a Roma para una delicada misión: debe vigilar al escritor Gabriele D'Annunzio y asegurarse de que no dé ningún tipo de problema. D'Annunzio, un poeta reconocido a nivel nacional, está cada vez más inquieto y Benito Mussolini teme que pueda perjudicar la alianza con la Alemania nazi.",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:6784D5EDB42A709968C8F84E669481AB10D7BAC0&dn=BRRip",	
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Aventuras, 1Drama, A2009, Letra V, Dinamarca, ",
+			"name": "Valhalla Rising (2009)","coloryear": "hotpink",
+			"image": "https://www.themoviedb.org/t/p/original/mVfFHXRlQjUZFhcbRUV8xldWD39.jpg",
+			"info": "Plena Edad Media, en el siglo X. One-Eye (Mads Mikkelsen), un enigmático guerrero con una fuerza sobrehumana, que ha permanecido esclavizado durante años, mata a su amo y logra escapar con la ayuda de un niño al que lleva consigo. Tras enrolarse en un barco vikingo, emprenden un viaje que los lleva a una tierra desconocida, donde reinan el dolor y la sangre.",
+			"genero": "Aventuras, Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:7689FFCE62148F3A43ED21EAE1BADC0C116DFFDE&dn=HD1080",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Comedia, 1Accion, 1Aventuras, A2021, Letra M, EEUU, ",
+			"name": "Mickey y las dos brujas (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/jnycU7F6gutIa6Oo0Bn1mufGKnG.jpg",
+			"info": "En Halloween, Mickey cuenta la historia de dos brujas en entrenamiento, Minnie y Daisy, que deben aprobar cuatro exámenes para graduarse de la Academia de Brujas en Happy Haunt Hills",
+			"genero": "Animacion, Comedia, Accion, Aventuras",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Mickey.y.las.dos.brujas.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, A2020, Letra E, Francia, ",
+			"name": "Envidia sana (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/yj3xRlVi2F3Lxu8JwSmQ9tpD8rc.jpg",
+			"info": "Léa y Marc, y Karine y Francis, son dos parejas de amigos de toda la vida. El marido machista, la novia chillona... Todos ocupan su lugar en el grupo. La armonía se rompe el día en que Lea, la más discreta de todos, les comenta que está escribiendo una novela que acaba convirtiéndose en un éxito de ventas",
+			"genero": "Comedia, Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:832B88350AF5408088E483BE242C429E08B82E7E&dn=BRRip",	
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2021, Letra Q, EEUU, ",
+			"name": "Quedate en casa (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/idSnYjtvDoryHU50M7pueqeFuQo.jpg",
+			"info": "En el año 2022, la pandemia del coronavirus ha creado un caos masivo en Los Ángeles y ha convertido a la ciudad en un estado policial. Para escapar de esta cruda realidad, un grupo de amigos se reúne para celebrar una fiesta online llena de música, alcohol, juegos y drogas. Pero lo que empieza como una divertida tarde entre amigos comienza a ir terriblemente mal",
+			"genero": "Thriller",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:F3E68A807B91E00678C88339E5F92491073CD184&dn=HD1080",	
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Fantastico, A2019, Letra L, Rusia, ",
+			"name": "La novena profecia (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/x4AliW3aSTPYXW6uGdEFUoTxTvq.jpg",
+			"info": "Finales del siglo XIX. La fiebre por las ciencias ocultas se extiende por Europa. Olivia Reed, una médium británica, llega a San Petersburgo y logra cautivar a la alta sociedad que acude a su espectáculo con la esperanza de entrar en contacto con los espíritus de sus difuntos. Mientras tanto, en otra parte de la ciudad comienza una serie de asesinatos cuyas víctimas son jóvenes brutalmente mutiladas. Convencido de que todo es obra de delincuentes comunes, el teniente Rostov inicia su investigación en los ambientes del hampa local. Sin embargo, cada nueva muerte apunta a la posibilidad de que los crímenes formen parte de un macabro ritual, lo que lleva a Rostov hasta Olivia. Su relación con el otro mundo y con la magia negra la convierten en la principal sospechosa...",
+			"genero": "Fantastico",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/La.novena.profecia.-2019.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Thriller, A2021, Letra E, EEUU, ",
+			"name": "El ejercito de los ladrones (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/51j7jSkA1lS9CYOXmW8cWXuokZy.jpg",
+			"info": "Una misteriosa mujer recluta al cajero de banco Ludwig Dieter para liderar a un grupo de aspirantes a ladrones en un atraco ultra secreto durante las primeras etapas del apocalipsis zombie. Precuela de 'Army of the Dead', que se centra en Ludwig Dieter liderando a un grupo de supervivientes durante el apocalipsis zombie",
+			"genero": "Thriller",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:CF998E46C399EDDC95C2E97C11DB0CF8E728CD31&dn=HD1080",	
+				"torrent4k": "magnet:?xt=urn:btih:50B58F1D354CBBC5A4544E0332EA0140DCD0FD8E&dn=Web4K"	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Terror, A2020, Letra L, EEUU, ",
+			"name": "Libros de sangre (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/cNiRfYp5zPkODqzDtxAxfUcP9i0.jpg",
+			"info": "Un viaje hacia un territorio inexplorado y prohibido contado a través de tres historias en las que se mezcla el tiempo y el espacio",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:371B40838D527D23130082961446C9557C08F61C&dn=HD1080",
+				"torrent4k": "magnet:?xt=urn:btih:A65848ABC45878E2C6E4DAFE78FB08F69C285BF1&dn=Web4K"	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, A2021, Letra P, Alemania, 1Hechos reales, ",
+			"name": "Plan A (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/9NuYDoBu1Wy7HgKmZKvO99CVBlU.jpg",
+			"info": "En 1945, un grupo de judíos supervivientes del holocausto planeó envenenar el sistema de agua de Alemania. La película cuenta la peligrosa y audaz operación secreta que se llamó Plan A.",
+			"genero": "Thriller, Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:4F95B76BD3586DE46ED99F527F4CA7D34467F019&dn=BRRip",	
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Fantastico, A2019, Letra NUM, Italia, ",
+			"name": "¿Donde esta el truco? (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/cRyeTUQoqUyhcsAkzYtzkrX3g8m.jpg",
+			"info": "Arturo Maravilla, es un joven empresario que no está pasando por su mejor momento. Aunque heredó de su padre una compañía de teatro, afamada por sus espectáculos circenses, sus numerosas deudas le han llevado a la crisis y a contar únicamente con el peor de los comediantes del momento: Juanito Sin Blanca. La muerte de un tío lejano de Arturo, parece que será su salvación. Sin embargo, lejos recibir una herencia que le permita pagar sus deudas, deberá hacerse cargo de la familia de su difunto tío: sus hijos adoptivos Joel y Rebeca. Pero no todo es lo que parece, la suerte de Arturo está a punto de cambiar cuando descubre que Joel no habla pero está dotado con extraordinarios superpoderes. ¿Podrá Arturo salvar la compañía de teatro? ¿Y a su nueva familia?",
+			"genero": "Comedia, Fantastico",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:4131FDB8D85476AEA555954117A916A0C865C43A&dn=BRRip",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Fantastico, 1Drama, 1Thriller, A2021, Letra E, EEUU, ",
+			"name": "El caballero verde (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/ciTS1D4RI3thKZ2mgldQ79yP7DE.jpg",
+			"info": "La historia medieval de Sir Gawain y el caballero verde contada desde el punto de vista del género de la fantasía",
+			"genero": "Fantastico, Drama, Thriller",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:B36B033AB9F3A1684CC3CB9A5F5A4A2F5E61B682&dn=HD1080",
+				"torrent4k": "magnet:?xt=urn:btih:8859EBCB3BC339E162CE95BA47C601BA680C9D57&dn=Web4K"	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra D, Francia, ",
+			"name": "Dios mio, ¡los niños han vuelto! (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/aPjWnoxhu7TMHBLXv7DeFKc9oxd.jpg",
+			"info": "Catherine y Yann son un matrimonio feliz. Llevan años casados, pero desde que él vendió su negocio vive por y para los bonsáis y Catherine se siente ignorada. Por si fuera poco, la hija de la pareja, de 27 años, se planta en casa con su novio cuando los echan de su piso. Yann está sumido en una crisis de mediana edad y los invitados no parecen tener intención alguna de marcharse. Catherine intentará que vuelvan a abandonar el nido para recuperar las riendas de su vida",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Dios.mio.los.ninhos.han.vuelto.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra A, Spain, ",
+			"name": "Armugan. El ultimo acabador (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/psVZg0z817R8CDSrMigKpjAArAH.jpg",
+			"info": "En un remoto valle del Pirineo aragonés se canta la leyenda de Armugán. Se dice que se dedica a un oficio misterioso y terrible del que nadie quiere hablar: es un acabador, un hombre que ayuda a morir. Cuentan que se desplaza por los valles aferrado al cuerpo de Anchel, su fiel servidor, y que ambos comparten el secreto de una labor tan antigua como la vida, tan terrible como la misma muerte. Armugán es el ángel del abismo al que nadie desea encomendarse, pero resulta necesario cuando la decadencia arrasa la fantasía de eternidad con que los hombres esconden la implacable realidad. Sin embargo, no mata, no es un asesino. Posee una radical sabiduría que le permite ayudar a desprenderse del mayor de los sufrimientos: el miedo a morir",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:F73910DE2C095C58AAD3076FB1D38B77AC9771D5&dn=BRRip",	
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Intriga, 1Fantastico, 1Thriller, 1Drama, A2021, Letra T, EEUU, ",
 			"name": "Tiempo (2021)","coloryear": "cyan",
-			"image": "https://www.themoviedb.org/t/p/w220_and_h330_face/ggXWPAIPz0LciOc4hwKIctP4xV2.jpg",
-			"info": "Thriller sobre una familia que, estando de vacaciones en un paraíso tropical, descubre que la recóndita playa elegida para relajarse unas horas está haciéndoles envejecer rápidamente... reduciendo toda su vida a un único día.",
-			"genero": "Terror, Suspense",
+			"image": "https://www.themoviedb.org/t/p/original/ggXWPAIPz0LciOc4hwKIctP4xV2.jpg",
+			"info": "Durante unas vacaciones en un paraíso tropical, una familia empieza a percibir que en la recóndita playa elegida para relajarse unas horas suceden algunas anomalías temporales...",
+			"genero": "Intriga, Fantastico, Thriller, Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:7c5e739d2906f8babb01d70b17910c599d4254cf",
-				"torrent4k": ""	
+				"torrent": "magnet:?xt=urn:btih:7C5E739D2906F8BABB01D70B17910C599D4254CF&dn=HD1080",  
+				"torrent4k": "magnet:?xt=urn:btih:A9A5417DF524ECA928F5C267E49E415E5D3F2253&dn=UHDRip"
 				}		
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Suspense, A2021, Letra H, Estados Unidos, ",
-			"name": "Hipnótico (Hypnotic) (2021)","coloryear": "cyan",
-			"image": "https://www.themoviedb.org/t/p/original/c2SR6UZ8uOz2ciEqmYAVfviTgTW.jpg",
-			"info": "Una joven que busca la superación personal pide ayuda a un prestigioso hipnotizador, con el que se somete a varias sesiones muy intensas. Las consecuencias serán aterradoras.",
-			"genero": "Terror, Suspense",
-			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:94A13259C0482B42322A332E759110A16C3A6CF1",
-				"torrent4k": ""	
-				}		
-			]
-			},
-			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Suspense, A2021, Letra N, Estados Unidos, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Fantastico, A2021, Letra N, Polonia, 1Netflix, ",
 			"name": "Nadie duerme en el bosque esta noche 2 (2021)","coloryear": "cyan",
-			"image": "https://www.themoviedb.org/t/p/original/k5Z2DdVqtWxGm14d3F3GawHlGOV.jpg",
+			"image": "https://www.themoviedb.org/t/p/original/pcgqI8p9DQz5qQVWpfERJAKjRj8.jpg",
 			"info": "Adaś es un joven policía solitario e infeliz de un pequeño pueblo de Podlasie. Ignorado por sus colegas y por la bella y muy segura de sí misma Wanessa, el tímido muchacho busca su lugar en el mundo. En la secuela también conoceremos el destino de Zosia, que mostrará una cara completamente nueva y sorprendente. La película es una historia perversa, irónica, grotesca y sangrienta sobre la búsqueda del amor y el descubrimiento de uno mismo en un mundo que nos divide más que nos une. Es una película de miedo que pondrá patas arriba las reglas del género esta vez.",
-			"genero": "Terror, Suspense",
+			"genero": "Terror, Fantastico",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:047E1635F406E893BE8FA5ED714ACD3377F63FFA",
+				"torrent": "magnet:?xt=urn:btih:EDE23DADE67DA0B0CD0DAB0F50A46E2C8F77331B&dn=BRRip",	
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Thriller, A2021, Letra H, EEUU, 1Netflix, ",
+			"name": "Hipnotico (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/c2SR6UZ8uOz2ciEqmYAVfviTgTW.jpg",
+			"info": "Una joven que busca la superación personal pide ayuda a un prestigioso hipnotizador, con el que se somete a varias sesiones muy intensas. Las consecuencias serán aterradoras",
+			"genero": "Terror, Thriller",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:09433696EF9AA17FACCFEA6920EA6FB9F6479CD8&dn=HD1080",	
 				"torrent4k": ""	
 				}		
 			]
