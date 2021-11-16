@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Romance, A2020, Letra P, EEUU, ",
+			"name": "Palabras en las paredes del baño (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/zTI3SycIlWm05psQ6zF8fS66rMD.jpg",
+			"info": "Un adolescente que padece esquizofrenia paranoide espera que su nuevo tratamiento con un medicamento experimental le permita llevar una vida normal tanto en el instituto como fuera de él.",
+			"genero": "Drama, Romance",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:965E84398CB92404F10FD7FE9B75EE055AA43952&dn=BRRip",	
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra A, Spain, ",
 			"name": "Ama (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/7tKVwSMz5itGZH0eEK5A7Uyx5UL.jpg",
