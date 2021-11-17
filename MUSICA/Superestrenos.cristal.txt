@@ -4,6 +4,17 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 
+
+<item>
+<title>[COLOR white] Ama [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.7[/COLOR]</title>    
+<genre>Drama</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/xs8VtmQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/mNEWGMT.jpg</fanart>
+<info>Ama cuenta la historia de muchas mujeres expuestas en soledad a la mitificada maternidad. Tras varias advertencias, Ade echa a su amiga Pepa de su casa y esta termina viéndose en la calle junto a Leila, su hija de seis años. Sin nadie que las ayude, Pepa y Leila lucharán solas para encontrar un lugar donde vivir. Enfrentándose a cada obstáculo, emprenderán una búsqueda que conllevará también un acercamiento dentro de su relación antes prácticamente inexistente y distante. Se creará un nuevo vínculo entre madre e hija, donde tendrán cabida las equivocaciones y la desidealización.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/I4NHJ9HJq90"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/kx4-1i36q4mxrq8"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/pkqxn77dukx3n1"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/wggj5uk1x7cu"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-hxo0yv9y7qcg.html"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/g31jjnx5dled"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/15TyO-jpvC5L8jRt-sBO6WOTOwi1-1T9y/view"}</urlsolve>
+</item>
+
 <item>
 <title>[COLOR white] Rompiendo las reglas:Rebelion [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.2[/COLOR]</title>    
 <genre>Acción,Drama,Deporte</genre>
