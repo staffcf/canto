@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Primera cita [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.3[/COLOR]</title>    
+<genre>Comedia,Crimen,Misterio</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/n0cVuPd.jpg</thumbnail>
+<fanart>https://i.imgur.com/hby1mY3.jpg</fanart>
+<info>Mike, un adolescente que se ha enamorado, reúne tras darle muchas vueltas el valor para pedir a Kelsey una cita. Con cita pero sin vehículo en el que poder moverse, Mike toma algo de dinero prestado de sus padres y compra un Chrysler de 65. Aunque muchas primeras citas no salen según lo previsto, la de Mike resulta poco menos que catastrófica. Antes de poder darse cuenta se convierte en el objetivo de una pareja de policías y de un grupo criminal, así como también de una amante de los gatos que busca venganza. En este caso, todos los caminos llevan a un espectacular e inevitable final.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/qmASbwysSQI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/l86x2cn7k8206jk"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/7r6161mlux13wj"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/f6paeljf5xca"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-otfgyl0hwgdz.html"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/f32n68iqsaqp"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1PzjArwOdCEvjrNR6VQNKlVAg1YSq74m1/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Palabras en las paredes del bano [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.0[/COLOR]</title>    
 <genre>Drama,Romance</genre>
 <year>2021</year>
