@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Misterio en Saint-Tropez [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.2[/COLOR]</title>    
+<genre>Comedia,Crimen,Misterio</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/KYMeNgC.jpg</thumbnail>
+<fanart>https://i.imgur.com/eYprvgh.jpg</fanart>
+<info>Agosto 1970, en pleno periodo yéyé. Como cada año, el millonario Claude Trachant y su mujer Eliane han invitado a lo más granado del show-business a su suntuosa villa de Saint-Tropez. Parecía que nada podría aguar la fiesta generalizada hasta que el descapotable de la pareja es saboteado. Convencido de ser víctima de un intento de homicidio, Tranchant llama a su amigo Chirac para conseguir el contacto del mejor detective de París. Pero en mitad del verano, solo el comisario Boulin, a punto de jubilarse, está disponible.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/7RI0uu8VcqY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/pwnxdtmp2-x826p"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/rw4mm91kbwq4zr"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ih1j2xg5g5za"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/lsssuifgm55o"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/v4ekqz6qq0yv"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/1yvmyGM2iqaFmK69sIczJ8pfFY3BxK3og/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Primera cita [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.3[/COLOR]</title>    
 <genre>Comedia,Crimen,Misterio</genre>
 <year>2021</year>
