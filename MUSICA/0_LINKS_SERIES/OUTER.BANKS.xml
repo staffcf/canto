@@ -54,6 +54,12 @@
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
 			<title>2x01 - El oro</title>
 			<torrent>magnet:?xt=urn:btih:9EF20181747D8F15AA7AFB74E2C323C793AB682B</torrent>
 			</item>
@@ -64,18 +70,53 @@
 			<torrent>magnet:?xt=urn:btih:1BBB8885BEAE004ED2A96CD7C1C84C19D8192CD4</torrent>
 			</item>
 ======================================================================
-
 			"Tag= TORRENTTEMP2, "
 			<item>
 			<title>2x0. - Capitulos 5 a 7</title>
 			<torrent>magnet:?xt=urn:btih:7598C8E0BCFE2656842E0BBCB95C10F405976171</torrent>
 			</item>
 ======================================================================
-
 			"Tag= TORRENTTEMP2, "
 			<item>
 			<title>2x0. - Capitulos 8 a 10</title>
 			<torrent>magnet:?xt=urn:btih:945D317BFA89CEE5287FDB88CE277AC0605A0676</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - </title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x01 - El oro</title>
+			<torrent>magnet:?xt=urn:btih:650AFFA9FE26504DDAC07D7DE3F7200E661443F2&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x0. - Capitulos 2 a 4</title>
+			<torrent>magnet:?xt=urn:btih:0ED13CA11D0B447482F90E76C28A99B7FEB50DF1&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x0. - Capitulos 5 a 7</title>
+			<torrent>magnet:?xt=urn:btih:61C1AB7CFA542660FACE0972F8EA8E55AE0A0975&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x0. - Capitulos 8 a 10</title>
+			<torrent>magnet:?xt=urn:btih:0E95E1BDFA78D7D8A15176C727952696FBB5B4DA&dn=HDTV</torrent>
 			</item>
 ======================================================================
 ======================================================================
