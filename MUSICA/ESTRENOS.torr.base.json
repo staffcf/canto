@@ -6,6 +6,32 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Intriga, A2021, Letra P, EEUU, ",
+			"name": "Primera cita (First Date) (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/5iAMdSs3QK4bosi5DiDhEgJ5JG5.jpg",
+			"info": "Mike, un adolescente que se ha enamorado, reúne tras darle muchas vueltas el valor para pedir a Kelsey una cita. Con cita pero sin vehículo en el que poder moverse, Mike toma algo de dinero prestado de sus padres y compra un Chrysler de 65. Aunque muchas primeras citas no salen según lo previsto, la de Mike resulta poco menos que catastrófica. Antes de poder darse cuenta se convierte en el objetivo de una pareja de policías y de un grupo criminal, así como también de una amante de los gatos que busca venganza. En este caso, todos los caminos llevan a un espectacular e inevitable final.",
+			"genero": "Comedia, Intriga",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:0FCE6B21482928762D7A4FE7B04C006EC6F7C833&dn=BRRip",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Intriga, A2021, Letra M, Francia, ",
+			"name": "Misterio en Saint-Tropez (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/hyrZuMqH4XbobR38ISYRfmulGiI.jpg",
+			"info": "Agosto 1970, en pleno periodo yéyé. Como cada año, el millonario Claude Trachant y su mujer Eliane han invitado a lo más granado del show-business a su suntuosa villa de Saint-Tropez. Parecía que nada podría aguar la fiesta generalizada hasta que el descapotable de la pareja es saboteado. Convencido de ser víctima de un intento de homicidio, Tranchant llama a su amigo Chirac para conseguir el contacto del mejor detective de París. Pero en mitad del verano, solo el comisario Boulin, a punto de jubilarse, está disponible.",
+			"genero": "Comedia, Intriga",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:5B5A8BB484BBDCD103AE6B55EE5D87FA3B5645A4&dn=BRRip",	
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Romance, A2020, Letra P, EEUU, ",
 			"name": "Palabras en las paredes del baño (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/zTI3SycIlWm05psQ6zF8fS66rMD.jpg",
