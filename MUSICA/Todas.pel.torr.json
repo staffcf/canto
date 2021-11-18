@@ -79,7 +79,9 @@ Title:BATMAN, SagaID:Batman, Imagen:https://www.themoviedb.org/t/p/original/gmU7
 							-	0Saga, 1SagaTorrent, 
 Title:BLADE, SagaID:Blade, Imagen:https://www.themoviedb.org/t/p/original/PDuKQeQkRHkdx7rY147VBVN5Ef.jpg,	
 							-	0Saga, 1SagaTorrent, 
-Title:BOURNE, SagaID:Bourne, Imagen:https://www.themoviedb.org/t/p/original/ilaZC6JuYwGfOBexpo6U1redAgj.jpg,	
+Title:BOURNE, SagaID:Bourne, Imagen:https://www.themoviedb.org/t/p/original/ilaZC6JuYwGfOBexpo6U1redAgj.jpg,
+							-	0Saga, 1SagaTorrent, 
+Title:CAMINO SANGRIENTO, SagaID:CaminoSangriento, Imagen:https://www.themoviedb.org/t/p/original/hvBot3zZ1INsqm9zw8XibErXRY6.jpg,		
 							-	0Saga, 1SagaTorrent, 
 Title:CAPITAN AMERICA, SagaID:CapitanAmerica, Imagen:https://www.themoviedb.org/t/p/original/bv0obAMTA55R0ecl0zSmGVipRnv.jpg,	
 							-	0Saga, 1SagaTorrent, 
@@ -6518,7 +6520,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Terror, Ciencia ficcion, Thriller",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:13FF7C101964DA67A41DDDECD40FAB19338FB03D&dn=HD1080",  magnet:?xt=urn:btih:09712F3FBC4F56899F01893C3834C6D1242B823B&dn=BRRip
+				"torrent": "magnet:?xt=urn:btih:09712F3FBC4F56899F01893C3834C6D1242B823B&dn=BRRip",  magnet:?xt=urn:btih:09712F3FBC4F56899F01893C3834C6D1242B823B&dn=BRRip
 				"torrent4k": ""
 				}		
 			]
@@ -6610,7 +6612,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Thriller",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:E655D7C532C983310039CCDBB5C0EF31C2BF27FB"
+				"torrent": "magnet:?xt=urn:btih:7d2973dc7682ad6e8f65452d9a4b11001a0af710&dn=HD1080"
 				}		
 			]
 			},
@@ -6622,7 +6624,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Fantastico, Aventuras",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:8A2FCFAFF9BFBAC4818B8CF1A7413C14A84A3A8A", 
+				"torrent": "magnet:?xt=urn:btih:a2fd7d59db3d78f7cab625d313639f2064085a36&dn=HD1080", 
 				"torrent4k": ""
 				}			
 			]
@@ -6726,7 +6728,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Drama, Romance",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:1EFC30FC0DB23782CAAF0D385D9DC811EC49099C&dn=BRRip",
+				"torrent": "magnet:?xt=urn:btih:B4F1CE5068D9825A4037776E56C3C73A062654BA&dn=HD720",
 				"torrent4k": ""
 				}		
 			]
@@ -6817,7 +6819,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Comedia",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:1977E0ECA47754DABDECAEA3D5BAA52551919575&dn=HD1080",  magnet:?xt=urn:btih:A430AB0B2E2FD86904447C2974A8A6AD24B89BC2&dn=BRRip
+				"torrent": "magnet:?xt=urn:btih:A430AB0B2E2FD86904447C2974A8A6AD24B89BC2&dn=BRRip",  magnet:?xt=urn:btih:A430AB0B2E2FD86904447C2974A8A6AD24B89BC2&dn=BRRip
 				"torrent4k": ""
 				"
 				}		
@@ -22533,6 +22535,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"torrent": "magnet:?xt=urn:btih:cf22092f8550115698aec25b4d34da2280de1383",
 				"torrent4k": ""
 				}			
+			]
+			},
+			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Accion, A2018, Letra D, EEUU, ",
+			"name": "Darc (2018)","coloryear": "aqua",
+			"image": "https://www.themoviedb.org/t/p/original/wJrijebKS7sNeYKwOTcpSBuPpJ6.jpg",
+			"info": "Un agente de la Interpol recluta en sus filas a un sanguinario criminal conocedor de la yakuza para acabar con una red mundial de trata de personas",
+			"genero": "Thriller, Accion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Darc.-2018.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
 			]
 			},
 			{
@@ -48125,6 +48140,14 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 		"info": "Coleccion de peliculas de Clint Eastwood",
 		"genero": "Variedad de generos",
 		"torrent": "magnet:?xt=urn:btih:2DE90E727FB55C3C3BF41098140C46EFDD892E5C&dn=BR1080",
+		},
+		{
+		"tag": " 1Torrentcristal, Sagas CaminoSangriento, ",
+		"name": "Saga Completa [COLOR gold]Calidad (1080)","coloryear": "gold",
+		"image": "https://www.themoviedb.org/t/p/original/hvBot3zZ1INsqm9zw8XibErXRY6.jpg",
+		"info": "Las 6 películas de la Saga Camino Sangriento",
+		"genero": "Variedad de generos",
+		"torrent": "magnet:?xt=urn:btih:A73FE2D71C839AF8EDBBECD1D99D3858DFCCC50F&dn=BR1080",
 		}
 	]
 	}
