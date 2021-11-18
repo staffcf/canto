@@ -6,6 +6,32 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Romance, A2021, Letra A, Brasil, Netflix, ",
+			"name": "Amor sin medida (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/9OaIuLanorTUbEfUXbWgdX3Mk4Z.jpg",
+			"info": "Ivana Cornejo (Juliana Paes) es una abogada de divorcios que se enamora de un carismático cardiólogo, Ricardo Leão (Leandro Hassum). Pero su diferencia de altura provoca fricciones en su familia. Remake del film argentino 'Corazón de León'",
+			"genero": "Comedia, Romance",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:D0CE5BE1996103FB4C8CA29DC4FE2DA10342D369&dn=BRRip",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Fantastico, A2021, Letra R, EEUU, Netflix, ",
+			"name": "Requetecambio de princesa (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/ykcL3gNhckBgm54f1y0r97k8dJ.jpg",
+			"info": "Cuando roban una reliquia de valor incalculable, la reina Margaret y la princesa Stacy solicitan la ayuda de Fiona para recuperarla... y reavivar las chispas de un romance navideño",
+			"genero": "Comedia, Fantastico",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:9EAB0C41D6BC88B2C676E51116DD77C8F4EC8CD6&dn=BRRip",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Intriga, A2021, Letra P, EEUU, ",
 			"name": "Primera cita (First Date) (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/5iAMdSs3QK4bosi5DiDhEgJ5JG5.jpg",
