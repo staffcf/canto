@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Amor sin medida [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.0[/COLOR]</title>    
+<genre>Comedia,Romance</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/t4Vm1pX.jpg</thumbnail>
+<fanart>https://i.imgur.com/NfuR1DS.jpg</fanart>
+<info>Ivana Cornejo (Juliana Paes) es una abogada de divorcios que se enamora de un carismático cardiólogo, Ricardo Leão (Leandro Hassum). Pero su diferencia de altura provoca fricciones en su familia. Remake del film argentino "Corazón de León" (2013).<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/6DVQt7xeGk8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/g51ndt-2drk6g7e"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/9n0zjm31i0dxrd"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/2aa4yc5r31dv"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/d7yw22f862og"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/n44i4lbnsuo7"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/1EQ8RfjVRhpfdSK6U3Mc2nS7lTqRp_w_3/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Requetecambio de princesa [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.0[/COLOR]</title>    
 <genre>Comedia,Fantástico,Navidad</genre>
 <year>2021</year>
