@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Requetecambio de princesa [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.0[/COLOR]</title>    
+<genre>Comedia,Fantástico,Navidad</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/arg3Y8u.jpg</thumbnail>
+<fanart>https://i.imgur.com/xOdC4Lm.jpg</fanart>
+<info>Cuando roban una reliquia de valor incalculable, la reina Margaret y la princesa Stacy solicitan la ayuda de Fiona para recuperarla... y reavivar las chispas de un romance navideño.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/6DVQt7xeGk8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/em4n6s-20w7kz45"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/mdrwl690ck6p0n"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/i0ny8sgiw4dm"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/lxdqw2o4h2b2"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/17hml00wc9lw"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/1BQeWKuDIRaqHAQMc7gCjbrGGwZ5Ft1qP/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Misterio en Saint-Tropez [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.2[/COLOR]</title>    
 <genre>Comedia,Crimen,Misterio</genre>
 <year>2021</year>
