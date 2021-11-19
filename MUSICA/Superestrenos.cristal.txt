@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] tick, tick... Boom! [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.2[/COLOR]</title>    
+<genre>Musical,Drama,Biográfico,Años 90</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/fJkMjJL.jpg</thumbnail>
+<fanart>https://i.imgur.com/zwI83DR.jpg</fanart>
+<info>En la cúspide de su cumpleaños número 30, un joven y prometedor compositor de teatro navega por el amor, la amistad y las presiones de la vida como artista en la ciudad de Nueva York.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=YJserno8tyU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/42njphzxl87r5-q"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/qlro8mjec874vn"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/u3h732hhqtys"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/65ztcdizv5jr"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-pcqep3ek93yx.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1lrNuYfSFOUF6VpgZedYpAHNScbeME8_b/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Vive o deja morir [/COLOR][COLOR yellow](2021) [COLOR aqua]*4.0[/COLOR]</title>    
 <genre>Terror,Zombis</genre>
 <year>2021</year>
