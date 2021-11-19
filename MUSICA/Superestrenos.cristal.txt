@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Quiéreme igualmente [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.9[/COLOR]</title>    
+<genre>Drama</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/rgdwh7I.jpg</thumbnail>
+<fanart>https://i.imgur.com/GUakViW.jpg</fanart>
+<info>Supervisado por un agente penitenciario, un preso pone rumbo a su ciudad natal para reconectar con su hija y arreglar las cosas.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=kZhzMwv1gzU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/0d6j7clzw-q3d-7"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/l6ro8k37iwod6d"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/1vlws77tt7eb"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/9xxwj7n4x628"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-gn9cf5jmiyqs.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1eN8IHHRUF2ojWkRmqx3sTHBrDNdFSmn7/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] tick, tick... Boom! [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.2[/COLOR]</title>    
 <genre>Musical,Drama,Biográfico,Años 90</genre>
 <year>2021</year>
