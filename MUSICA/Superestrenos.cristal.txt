@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Vive o deja morir [/COLOR][COLOR yellow](2021) [COLOR aqua]*4.0[/COLOR]</title>    
+<genre>Terror,Zombis</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/d2Ja11Z.jpg</thumbnail>
+<fanart>https://i.imgur.com/rdjlXNg.jpg</fanart>
+<info>La raza humana está cerca de la extinción. Nick encuentra un mapa con la ubicación de un refugio, la última oportunidad para poder sobrevivir. Se encontrará con John y tras un encuentro sangriento con John, juntos comenzarán su viaje no si antes de encontrarse con dificultades en su camino, dónde se darán cuenta que la peor amenaza no son los zombies sino los supervivientes con los que se encuentran..<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=da7_tnat8S4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/mgzn4i5j252z6rm"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/zp0l8ql3u033mm"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/qzn8drfe37zy"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/hwvwwdsgd71e"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-2h5zo8qbfs3k.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1azrnRz9aS01dXcn1ag_4GG--_UoGBiiz/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Respect - La historia de Aretha Franklin [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.9[/COLOR]</title>    
 <genre>Drama,Biográfico,Música,Años 60</genre>
 <year>2021</year>
