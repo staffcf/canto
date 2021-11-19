@@ -201,6 +201,7 @@
 <fanart>https://i.imgur.com/kxDx301.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLOR gold]* [COLOR white]Black Summer[/COLOR]</title>     
 <link>cristalazul</link>
@@ -217,6 +218,15 @@
 <info>19 de octubre de 1987, también conocido como Black Monday, la peor caída del mercado de valores en la historia de Wall Street. Nunca se ha sabido quién lo causó... hasta ahora. Es la historia de cómo un grupo de individuos al margen del sistema se enfrentaron a Wall Street y terminaron estrellando el sistema financiero más grande del mundo. </info>
 <thumbnail>https://i.imgur.com/5LSPZGZ.jpg</thumbnail>
 <fanart>https://i.imgur.com/aT2eABG.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]BMF Black Mafia Family[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Black.mafia</externallink>
+<info>Drama inspirado en la historia real de dos hermanos que se criaron en las decadentes calles del suroeste de Detroit a fines de la década de 1980 y dieron origen a una de las familias criminales más influyentes de Estados Unidos. El carismático liderazgo de Demetrius 'Big Meech' Flenory, la perspicacia empresarial de Terry 'Southwest T' Flenory y la visión de la hermandad en comunidad, más allá del tráfico de drogas y dentro del mundo del hip-hop, convertirían a los hermanos en un icono a nivel mundial. Su inquebrantable creencia en la lealtad a la familia sería la piedra angular de su relación y el núcleo de su posible distanciamiento.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/hcbRz5D3yRnYjvXXfO1B61TYUqr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3iboRbap6Uw69yYmukLryc51aPA.jpg</fanart>
 </item>
 
 <item>
