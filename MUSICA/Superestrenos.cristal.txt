@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Darc [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.9[/COLOR]</title>    
+<genre>Thriller,Acción</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/ToCNJbA.jpg</thumbnail>
+<fanart>https://i.imgur.com/GYMRU8j.jpg</fanart>
+<info>Un agente de la Interpol recluta en sus filas a un sanguinario criminal conocedor de la yakuza para acabar con una red mundial de trata de personas.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=56BaU33u0Zg"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/em4n6s-20-rp3g3"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/1vj0wvw3bdk8g"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/g4b0aqfjb9tj"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/ab8nk3n735mv"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-ieykkcjew8s8.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/18Q4Cobj7GeSYHtVKE4dO8BNShX8ovyjs/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Amor sin medida [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.0[/COLOR]</title>    
 <genre>Comedia,Romance</genre>
 <year>2021</year>
