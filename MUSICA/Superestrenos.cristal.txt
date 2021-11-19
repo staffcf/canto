@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Respect - La historia de Aretha Franklin [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.9[/COLOR]</title>    
+<genre>Drama,Biográfico,Música,Años 60</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/xcmLmrp.jpg</thumbnail>
+<fanart>https://i.imgur.com/8BzfaFJ.jpg</fanart>
+<info>El ascenso de la carrera de Aretha Franklin desde una niña cantando en el coro de la iglesia de su padre hasta su estrellato internacional.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=rNCR9EF1qhQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/6znj3t0nz0m3k7w"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/gnx69n7wc1wknx"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/hkqlwhdvzra0"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/3k40pzq8mpmv"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-h5mvqayg4hca.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1wePn5nhvXa8fm-7DvrbZDsFsKDDWbBPx/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Darc [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.9[/COLOR]</title>    
 <genre>Thriller,Acción</genre>
 <year>2021</year>
