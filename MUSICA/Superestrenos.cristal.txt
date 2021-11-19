@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] ¡Nos hemos extinguido! [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.0[/COLOR]</title>    
+<genre>Animación,Comedia,Aventuras</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/ptk4mIV.jpg</thumbnail>
+<fanart>https://i.imgur.com/hpuoy4Z.jpg</fanart>
+<info>Cuenta la historia de una nueva especie de animales peludos llamados "Flummels". Dos de ellos se teletransportan al presente y descubren que su especie se ha extinguido, por lo que se ven obligados a volver al pasado para salvar a los de su raza.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=4ulFkSR75po"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/r4nxruekjz71qwd"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/zp07x1mgc0dv4q"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/9wdtdr73saca"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/e09pkusyubpi"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-i5wc712ouh9o.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1mLACUZ3PW7w5qRPzXJaryekg7wiiNSxU/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Quiéreme igualmente [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.9[/COLOR]</title>    
 <genre>Drama</genre>
 <year>2021</year>
