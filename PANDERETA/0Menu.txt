@@ -1227,6 +1227,15 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]La rueda del tiempo[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.rueda.del.tiempo</externallink>
+<info>Serie basada en la popular serie literaria de fantasía de Robert Jordan, "La rueda del tiempo" (The Wheel of Time), con más de 90 millones de libros vendidos. Ambientada en un extenso y épico mundo en el que existe la magia y únicamente algunas mujeres pueden acceder a ella, la historia sigue a Moiraine, miembro de una organización femenina increíblemente poderosa llamada 'Aes Sedai', cuando llega a la pequeña ciudad de Two Rivers. Allí se embarca en un peligroso viaje por todo el mundo con cinco jóvenes, uno de los cuales ha sido profetizado como "el dragón renacido", que salvará o destruirá a la humanidad.</info>
+<thumbnail>https://i.imgur.com/IidowfB.jpg</thumbnail>
+<fanart>https://i.imgur.com/wKbi8EL.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]La reina del flow[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.reina.del.flow.txt</externallink>
