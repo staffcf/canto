@@ -1624,6 +1624,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Nightflyers[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Nightflyers</externallink>
+<info>Serie de TV (2018). 10 episodios. Ocho científicos y un hombre con poderes telepáticos viajan a los confines del sistema solar a bordo del Nightflyer, una nave con un pequeño equipo y un capitán solitario, con la esperanza de encontrar vida alienígena. Pero cuando todo se complica, la supervivencia será más difícil de lo que esperaban... Adaptación de las novelas de George R.R. Martin ("Game of Thrones").</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/61pz6uQSANiuhZTRWDXNuqw4mHn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/A8cU6W6to9h4Yzs5ZaUdhPZpO6P.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]No hables con extraños[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/No.hables.con.extranos.txt</externallink>
