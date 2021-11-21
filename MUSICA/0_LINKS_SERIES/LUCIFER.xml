@@ -14,6 +14,7 @@
 	- 1SerieTitle:"LUCIFER", SerieTemp:"TEMPORADA 3", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/vkGnVBSNpayJ1oCfyVaMvhrim95.jpg", 
 	- 1SerieTitle:"LUCIFER", SerieTemp:"TEMPORADA 4", SerieID:"SERIETEMP4", SerieIDT:"TORRENTTEMP4", SerieThumbail:"https://www.themoviedb.org/t/p/original/xMPtJfd4SbULImJfJyGY0qJnVAh.jpg", https://www.themoviedb.org/t/p/original/3hS2kWhrFo7643HqracnZQ6JRtn.jpg
 	- 1SerieTitle:"LUCIFER", SerieTemp:"TEMPORADA 5", SerieID:"SERIETEMP5", SerieIDT:"TORRENTTEMP5", SerieThumbail:"https://www.themoviedb.org/t/p/original/i0JfOUlN20MtmeWFGH6KCYvCgHp.jpg", https://www.themoviedb.org/t/p/original/1sBx2Ew4WFsa1YY32vlHt079O03.jpg
+	- 1SerieTitle:"LUCIFER", SerieTemp:"TEMPORADA 6", SerieID:"SERIETEMP6", SerieIDT:"TORRENTTEMP6", SerieThumbail:"https://www.themoviedb.org/t/p/original/wQh2ytX0f8IfC3b2mKpDGOpGTXS.jpg",
 	
 -->
 ======================================================================
@@ -382,6 +383,31 @@
 ======================================================================
 ======================================================================
 ======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>4x0. - Capitulos 1 a 10</title>
+			<torrent>magnet:?xt=urn:btih:E0697907C2C397793A19E3F688D1A084F56A8818</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
 			"Tag= TORRENTTEMP4, "
 			<item>
 			<title>4x01 - Todo va bien</title>      
@@ -445,18 +471,37 @@
 ======================================================================
 ======================================================================
 ======================================================================
-			"Tag= TORRENTTEMP5, "
+			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 1 a 8</title>      
-			<torrent>magnet:?xt=urn:btih:0D7B41C25C931AE3C485F8579F9EC55F4E7F9A84</torrent>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
 			</item>
 ======================================================================
-
 			"Tag= TORRENTTEMP5, "
 			<item>
-			<title> - Capitulos 9 a 16</title>      
-			<torrent>magnet:?xt=urn:btih:151CBE6C1D2F003CE2B755F88F4515F53CE6C916</torrent>
+			<title>4x0. - Capitulos 1 a 4</title>      
+			<torrent>magnet:?xt=urn:btih:51B532BD938F3FCE250BF6C14811F9F5DE00007C&dn=HDTV</torrent>
 			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>4x02 - ¡Lucifer! ¡Lucifer! ¡Lucifer! [COLOR gold](Arreglado)</title>      
+			<torrent>magnet:?xt=urn:btih:00E394F18F74839FE248B2008057EF9929B96197&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>4x0. - Capitulos 5 a 8</title>      
+			<torrent>magnet:?xt=urn:btih:AFEC99E4D26432B9EC489CF8DACE8B4EA3471094&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>4x0. - Capitulos 9 a 16</title>      
+			<torrent>magnet:?xt=urn:btih:151CBE6C1D2F003CE2B755F88F4515F53CE6C916&dn=HDTV</torrent>
+			</item>
+======================================================================
+======================================================================
 ======================================================================
 ======================================================================
 ======================================================================
