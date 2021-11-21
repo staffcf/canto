@@ -538,6 +538,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Dopesick:Historia de una adicción[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Dopesick</externallink>
+<info>Miniserie que transporta a los espectadores al epicentro de la lucha contra la adicción a los opioides que se libra en Estados Unidos, desde la sala de juntas de Purdue Pharma a una castigada comunidad minera de Virginia, pasando por los despachos de la DEA.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/qW8Gpddy29faTcD7VuyKjwLXbKU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/k8yuQwhgGYFJkDSw95wOpXH6Ia3.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Dr.Death[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Dr.Death</externallink>
