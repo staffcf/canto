@@ -2403,6 +2403,16 @@ Sexta temporada (SPOILER DE LA 5ª): La temporada 6 de Vikings regresa tras la b
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Yellowjackets[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Yellowjackets</externallink>
+<info>Un equipo de exitosas jugadoras de fútbol de instituto pasan a ser las (des)afortunadas supervivientes de un accidente de avión que se estrella en la más profunda y salvaje naturaleza de Ontario.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/XtnjzjjFAnmTEiDk4xu7diCvMF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bnzdMWL9IgrdQjwvH4zw5D33dTD.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLOR gold]* [COLOR white]You[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/You.xml</externallink>
