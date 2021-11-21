@@ -1026,6 +1026,15 @@ El.padre.de.cain</externallink>
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Invasión[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Invasion</externallink>
+<info>10 episodios. Un ataque alienígena que afecta a toda la Tierra se muestra desde el punto de vista de personajes desperdigados por diferentes continentes.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/y02TXn2JjP77Bszc3ffEstwfZ2E.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xYztm6m1ct8A7MVoNoJ6vSV50km.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]It's a Sin[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/It's.a.sin.txt</externallink>
@@ -1069,6 +1078,15 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 <info>Serie de TV (2021-). 8 episodios. "Jupiter's Legacy" sigue la historia de los primeros superhéroes del mundo, que recibieron sus poderes allá por la década de 1930. Tras dedicar casi un siglo a proteger a la humanidad, ahora esta primera generación debe pasar el testigo a sus hijos para que continúen con su legado. Pero las tensiones van en aumento cuando los jóvenes, ansiosos por demostrar su valía, no logran estar a la altura ni de la legendaria reputación pública de sus progenitores ni tampoco de los exigentes estándares personales de estos. </info>
 <thumbnail>https://i.imgur.com/65RgbDy.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/4YKkS95v9o9c0tBVA46xIn6M1tx.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Kamikaze[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Kamikaze</externallink>
+<info>Julie, de 18 años, se queda sola en una enorme casa vacía después de que sus adinerados padres y su hermano mueran en un accidente de avión. De ser una niña que aparentemente lo tenía todo, ahora debe reevaluar todo lo que consideraba importante en la vida.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/at19TDyTguh3eQj45G2XN1ceV7w.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bUsuZplz4rFGQPwv7O4aazTP6bF.jpg</fanart>
 </item>
 
 <item>
