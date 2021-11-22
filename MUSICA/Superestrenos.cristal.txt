@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Percy [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.1[/COLOR]</title>    
+<genre>Drama</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/mrBYWj7.jpg</thumbnail>
+<fanart>https://i.imgur.com/DkURH6w.jpg</fanart>
+<info>Un granjero canadiense se enfrenta una gran corporación después de que director interfiera con sus cultivos.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=PVK_Ol3VFa0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/wrn56inlqgp6yk-"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/n0rodnr8h690q9"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/g4e8jkq2hyxy"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/0t3wbnb7rbmg"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/e4bgp8c5b286"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/10USDJVw261SWYQQO1tvXcRHX9fU9praj/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Violation [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.9[/COLOR]</title>    
 <genre>Drama,Terror,Suspense</genre>
 <year>2021</year>
