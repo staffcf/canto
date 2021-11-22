@@ -311,6 +311,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Cardo[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Cardo</externallink>
+<info>Miniserie de seis episodios centrada en la generación nacida en los año noventa y que gira alrededor de una chica, María (Ana Rujas) que decide abandonar el mundo de la televisión, en el que ha trabajado como presentadora y protagonizando anuncios, para hacer frente a sus problemas, que son unos cuantos. María por fuera rebosa belleza, pero por dentro se siente un cardo.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/fBX3kZCAS5O3gyKCYCVaevAChPi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tB8cVUcWVsCJZdtrHLfAMXy47qR.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Castillo de naipes (House of Cards)[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Castillo.de.naipes.txt</externallink>
@@ -1574,6 +1583,7 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 <title>[COLOR gold]* [COLOR white]Mr. Corman[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Mr.Corman</externallink>
+<info>Con mejor suerte, mejores elecciones, mejor postura ... Josh Corman podría haber sido una estrella de rock. Ahora enseña quinto grado, y aunque ama a sus alumnos, todavía lucha por encontrar la felicidad y el significado en un mundo que a veces se siente corto en ambos.</info>
 <thumbnail>https://i.imgur.com/KoFcRWD.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/q4cL3l3xGOOrHdy7iuFOlq2BQyt.jpg</fanart>
 </item>
