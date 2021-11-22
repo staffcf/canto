@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Las leyes de la frontera [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.1[/COLOR]</title>    
+<genre>Drama,Thriller,Años 70,Robos & Atracos,Adolescencia</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/fYPaYW3.jpg</thumbnail>
+<fanart>https://i.imgur.com/ZUpO0Aj.jpg</fanart>
+<info>Verano de 1978. Ignacio Cañas (Marcos Ruiz) es un estudiante de 17 años introvertido y algo inadaptado que vive en Girona. Al conocer al Zarco (Chechu Salgado) y a Tere (Begoña Vargas), dos jóvenes delincuentes del barrio chino de la ciudad, se ve inmerso en una carrera imparable de hurtos, robos y atracos. Es la historia en la que Nacho se hace mayor, cruzando la línea que hay entre el bien y el mal, entre la justicia y la injusticia... Adaptación de la novela homónima de Javier Cercas.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=BsYn0nBZjUM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/y1r5dteg633jp48"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/3nxjl9l0hd39v6"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/a0bhzv8ym2md"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/jdkizjjohi7f"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/85w99fllwbcz"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1465nxI91XPx9STRcdVSsFryom--utPvB/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Percy [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.1[/COLOR]</title>    
 <genre>Drama</genre>
 <year>2021</year>
