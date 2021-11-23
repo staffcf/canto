@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Venom: Habra matanza [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.8[/COLOR]</title>    
+<genre>Fantástico,Acción,Comedia</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/gzhE8PG.jpg</thumbnail>
+<fanart>https://i.imgur.com/zctLs1I.jpg</fanart>
+<info>Eddie Brock (Tom Hardy) y su simbionte Venom todavía están intentando descubrir cómo vivir juntos cuando un preso que está en el corredor de la muerte (Woody Harrelson) se infecta con un simbionte propio.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=UZggozsVz9M"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/em4n6s-2e6e07rr"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/vnr41qnptq8xn1k"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "Falta poner"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/bldsv9zpn1ps"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/90cz23bs95nu"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1-PXawq9l1_bZucNP26Qn7wKBdjdsllOv/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Las leyes de la frontera [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.1[/COLOR]</title>    
 <genre>Drama,Thriller,Años 70,Robos & Atracos,Adolescencia</genre>
 <year>2021</year>
