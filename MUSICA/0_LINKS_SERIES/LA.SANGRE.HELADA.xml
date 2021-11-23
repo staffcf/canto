@@ -22,38 +22,14 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x01 - Capitulo 1</title>
-			<torrent>magnet:?xt=urn:btih:60F0922197921CD5A598B96A72FB6CBB804627A6&dn=HD720</torrent>
+			<title>1x0. - Capitulos 1 a 3</title>
+			<torrent>magnet:?xt=urn:btih:EE65CFF4086376D49EDD56B2B46921BA94B77280&dn=HD720</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x02 - Capitulo 2</title>
-			<torrent>magnet:?xt=urn:btih:10BE6137B567AB7C13BD0E0B2857C3E5A495BA1D&dn=HD720</torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title>1x03 - Capitulo 3</title>
-			<torrent>magnet:?xt=urn:btih:F4F2973BAC98562B7B8670B168D2AA9E2736DCC3&dn=HD720</torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title>1x04 - Capitulo 4</title>
-			<torrent>magnet:?xt=urn:btih:1918C3694C62A42C3714D6AFD7EB3CA531FF8E9C&dn=HD720</torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title>1x05 - Capitulo 5</title>
-			<torrent>magnet:?xt=urn:btih:858430BE540735D4F1664EEF864A8509A79256B1&dn=HD720.propper</torrent>	magnet:?xt=urn:btih:D9F17ACD278CD7F4FC42C40483DDC6EA6B85D1DB&dn=HD720
-			</item>
-======================================================================
-			"Tag=  "
-			<item>
-			<title>1x06 - Capitulo 6 [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
+			<title>1x0. - Capitulos 4 a 6</title>
+			<torrent>magnet:?xt=urn:btih:423FB3F49E86CC21ACE47E95225FDF585EC6D773&dn=HD720</torrent>
 			</item>
 ======================================================================
 ======================================================================
@@ -72,29 +48,105 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
+			<title>1x0. - Capitulos 1 a 3</title>
+			<torrent>magnet:?xt=urn:btih:E92EB4466A3E53906F69721C4018DC10EB2170A4&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 4 a 6</title>
+			<torrent>magnet:?xt=urn:btih:26DFAA5869A7A630C51082452772D769F389741C&dn=HDTV</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag=  "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag=  "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag=  "
+			<item>
+			<title>1x01 - Capitulo 1</title>
+			<torrent>magnet:?xt=urn:btih:60F0922197921CD5A598B96A72FB6CBB804627A6&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag=  "
+			<item>
+			<title>1x02 - Capitulo 2</title>
+			<torrent>magnet:?xt=urn:btih:10BE6137B567AB7C13BD0E0B2857C3E5A495BA1D&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag=  "
+			<item>
+			<title>1x03 - Capitulo 3</title>
+			<torrent>magnet:?xt=urn:btih:F4F2973BAC98562B7B8670B168D2AA9E2736DCC3&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag=  "
+			<item>
+			<title>1x04 - Capitulo 4</title>
+			<torrent>magnet:?xt=urn:btih:1918C3694C62A42C3714D6AFD7EB3CA531FF8E9C&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag=  "
+			<item>
+			<title>1x05 - Capitulo 5</title>
+			<torrent>magnet:?xt=urn:btih:858430BE540735D4F1664EEF864A8509A79256B1&dn=HD720.propper</torrent>	magnet:?xt=urn:btih:D9F17ACD278CD7F4FC42C40483DDC6EA6B85D1DB&dn=HD720
+			</item>
+======================================================================
+			"Tag=  "
+			<item>
+			<title>1x06 - Capitulo 6 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag=  "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag=  "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag=  "
+			<item>
 			<title>1x01 - Capitulo 1</title>
 			<torrent>magnet:?xt=urn:btih:C8A5CBD1E93CBA5A67CF3F9F843F29F56F0664C7&dn=HDTV</torrent>
 			</item>
 ======================================================================
-			"Tag= TORRENTTEMP1, "
+			"Tag=  "
 			<item>
 			<title>1x02 - Capitulo 2</title>
 			<torrent>magnet:?xt=urn:btih:03E7B66A1153512ADD1D066762429C0281BD1CD9&dn=HDTV</torrent>
 			</item>
 ======================================================================
-			"Tag= TORRENTTEMP1, "
+			"Tag=  "
 			<item>
 			<title>1x03 - Capitulo 3</title>
 			<torrent>magnet:?xt=urn:btih:8A30785E1CD4F7887B236BA5EE1EF7758A62ADDE&dn=HDTV</torrent>
 			</item>
 ======================================================================
-			"Tag= TORRENTTEMP1, "
+			"Tag=  "
 			<item>
 			<title>1x04 - Capitulo 4</title>
 			<torrent>magnet:?xt=urn:btih:37A0403EB0CE41FFD46BA18251A4DB956058BE9E&dn=HDTV</torrent>
 			</item>
 ======================================================================
-			"Tag= TORRENTTEMP1, "
+			"Tag=  "
 			<item>
 			<title>1x05 - Capitulo 5</title>
 			<torrent>magnet:?xt=urn:btih:014A205E065EDEAAFD61544DDE20AD0A8DD27A2E&dn=HDTV.propper</torrent>	magnet:?xt=urn:btih:DC20B0EB44D95AF291CE247C3E4EAD20B2C711AE&dn=HDTV
