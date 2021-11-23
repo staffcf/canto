@@ -10,6 +10,7 @@
 	ETIQUETAS:
 	
 	- 1SerieTitle:"MASTERS DEL UNIVERSO: REVELACION", SerieTemp:"MINI SERIE", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/lAHDzG94cz3T0uYBpDyLVRLqljc.jpg",
+	- 1SerieTitle:"MASTERS DEL UNIVERSO: REVELACION", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/9Y5hpJmn11ym9M8PeBQC0qjToAx.jpg",
 -->
 ======================================================================
 			"Tag= TORRENTTEMP1, "
@@ -20,13 +21,13 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 1 a 3</title>
+			<title>1x0. - Capitulos 1 a 3</title>
 			<torrent>magnet:?xt=urn:btih:3CE124E7CC825D76C1EBF16C7B15863548C86548</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 4 y 5</title>
+			<title>1x0. - Capitulos 4 y 5</title>
 			<torrent>magnet:?xt=urn:btih:55D0BFB437FE5F2EA55B63D013023E27DE35B2FF</torrent>
 			</item>
 ======================================================================
@@ -45,15 +46,28 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 1 a 3</title>
+			<title>1x0. - Capitulos 1 a 3</title>
 			<torrent>magnet:?xt=urn:btih:CFD4859B42898F0E1B7F49F1DAEC9DA105ABB3B3</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 4 y 5</title>
+			<title>1x0. - Capitulos 4 y 5</title>
 			<torrent>magnet:?xt=urn:btih:A8ADDAC03092ABBE5E7287F557CD5FE70C8B6F88</torrent>
 			</item>
 ======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x0. - Capitulos 1 a 3</title>
+			<torrent>magnet:?xt=urn:btih:50A8369EDC30C7BA06755B7B1E8E38AB5EDCE4AD&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x0. - Capitulos 4 y 5</title>
+			<torrent>magnet:?xt=urn:btih:76F1EE6CBC462B4582E38F84939D39D4C63E9094&dn=HD720</torrent>
+			</item>
 ======================================================================
 ======================================================================
