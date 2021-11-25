@@ -5,13 +5,13 @@
 =======================================================================================
 
 <item>
-<title>[COLOR white] El bebe jefazo: Negocios de familia [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.9[/COLOR]</title>    
+<title>[COLOR white] El bebe jefazo: Negocios de familia [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.7[/COLOR]</title>    
 <genre>Animación,Comedia,Cine familiar</genre>
 <year>2021</year>
 <thumbnail>https://i.imgur.com/HiYiQmh.jpg</thumbnail>
 <fanart>https://i.imgur.com/MEqs7sf.jpg</fanart>
 <info>Los hermanos Templeton se han convertido en adultos y se han alejado el uno del otro, pero un nuevo jefe bebé con un enfoque de vanguardia está a punto de unirlos nuevamente e inspirar un nuevo negocio familiar.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=zuicq115nDk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : ""},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : ""},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : ""},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : ""},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : ""},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=zuicq115nDk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : ""},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/mdrxx6jof8mzon"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/l684qv9k75xl"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/tsgk7au2qbrv"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/4otxlan0157k"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1zBn4Yu2S5ZL5yB6oryDkjkEE447ExdF-/view"},{"titulo" : "[COLOR white]Drive 4K UHDremux[/COLOR]","url" : "https://drive.google.com/file/d/1NOgg8YqpbAqa6q37vYLz1YKnReCeBgAl/view"}</urlsolve>
 </item>
 
 
