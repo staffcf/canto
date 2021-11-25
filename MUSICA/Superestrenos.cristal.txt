@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Lo que te mantiene viva [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.9[/COLOR]</title>    
+<genre>Terror,Thriller</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/aTZHrt8.jpg</thumbnail>
+<fanart>https://i.imgur.com/DKGOgff.jpg</fanart>
+<info>En la noche de su primer aniversario de bodas, Jules y Jackie van a tener que huir de un enemigo que sin duda no esperaban: la una de la otra. El idílico bosque en el que deberían haber celebrado su amor se convierte en escenario de una escalada de violencia, y el matrimonio se torna un macabro juego del gato y el ratón.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=1YdYDKDP3wI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/-46j3upj2jrkq0k"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/rw4880jlf3mjg7"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/y2sqidjw2vb8"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/o01jl6c2zsj0"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-099z48jbk9zr.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1bHBbvjN7WgnlhSCn-ZOXzMVqOjqJ_HGM/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] La Sra Lowry e hijo [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.7[/COLOR]</title>    
 <genre>Drama,Biográfico,Pintura</genre>
 <year>2021</year>
