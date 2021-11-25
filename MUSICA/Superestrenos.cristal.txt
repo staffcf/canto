@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Herida [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.8[/COLOR]</title>    
+<genre>Drama,Thriller,Artes marciales,Maternidad</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/7D9z7Pa.jpg</thumbnail>
+<fanart>https://i.imgur.com/XDg2EHT.jpg</fanart>
+<info>Jackie "Juice" es una luchadora de MMA caída en desgracia que ha fracasado en lo único que se le ha dado bien en la vida: pelear sobre el ring. Cuando su hijo Manny regresa a su vida, un niño de 6 años que abandonó cuando aún era un bebé, Jackie se verá obligada a vencer a sus propios demonios, además de enfrentarse a una de las rivales más temibles del mundo del MMA. Para ello primero tendrá que luchar para convertirse en la madre que su hijo realmente merece. <info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=KrA1jAHeLKo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/xpx57c5e338mq2j"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/7r67kmpkizdwnz"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/70lwqc3jsxzw"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/zcr30xhxdp2u"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-lqcliz0i96ya.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1tdteI6Uu9pouvUF2PLO-vzCkGZ8x-UZr/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Venom: Habra matanza [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.8[/COLOR]</title>    
 <genre>Fantástico,Acción,Comedia</genre>
 <year>2021</year>
