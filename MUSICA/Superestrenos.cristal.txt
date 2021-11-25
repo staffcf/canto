@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] La Sra Lowry e hijo [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.7[/COLOR]</title>    
+<genre>Drama,Biográfico,Pintura</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/qyX0soM.jpg</thumbnail>
+<fanart>https://i.imgur.com/EGBoAal.jpg</fanart>
+<info>L.S. Lowry fue una de las figuras artísticas más importantes del Reino Unido de mediados del siglo 20. Lowry era un pintor famoso por su visión única del noroeste industrial de Inglaterra. La película nos muestra la complicada relación que mantiene con su madre, una mujer empeñada en criticar cualquiera de los gustos de su hijo.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=mHhAKjlEK_0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/kx4-1i36j68lj68"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/7r67ko48ud1r9re"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/pxuthdfwdsy8"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/v0wxms47zsxj"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-vqgocnmg6c75.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/17IAztcmvZpprl3CNgO4LhIkH46ZQFmu8/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Herida [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.8[/COLOR]</title>    
 <genre>Drama,Thriller,Artes marciales,Maternidad</genre>
 <year>2021</year>
