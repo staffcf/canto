@@ -2,6 +2,17 @@
 
 
 <item>
+<title>[COLOR white] Peti Roja [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.2[/COLOR]</title>    
+<genre>Animación,Infantil,Musical</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/7YNFNRn.jpg</thumbnail>
+<fanart>https://i.imgur.com/zbTPDLP.jpg</fanart>
+<info>Un especial musical festivo de animación en volumen de Aardman. Cuando su huevo cae casualmente en un contenedor, Robin es criado por una cariñosa familia de ratones. A medida que va creciendo, las diferencias se van haciendo evidentes. Robin emprende un atraco para acabar con todos los atracos y demostrar a su familia que puede ser un buen ratón, pero acaba descubriendo quién es en realidad.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=3h2mkGkOJdY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/nn2x6h20rr11y65"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/n0rzlrzefvre81"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/533wafdpuapi"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/msjbseya7nle"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-yw7c2d2ir58v.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1TsMS8yVa_2gdbF9ysK38loBrSBXYXhAW/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] ¡Nos hemos extinguido! [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.0[/COLOR]</title>    
 <genre>Animación,Comedia,Aventuras</genre>
 <year>2021</year>
