@@ -2,6 +2,17 @@
 
 
 <item>
+<title>[COLOR white] El bebe jefazo: Negocios de familia [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.9[/COLOR]</title>    
+<genre>Animación,Comedia,Cine familiar</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/HiYiQmh.jpg</thumbnail>
+<fanart>https://i.imgur.com/MEqs7sf.jpg</fanart>
+<info>Los hermanos Templeton se han convertido en adultos y se han alejado el uno del otro, pero un nuevo jefe bebé con un enfoque de vanguardia está a punto de unirlos nuevamente e inspirar un nuevo negocio familiar.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=zuicq115nDk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : ""},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : ""},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : ""},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : ""},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : ""},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Peti Roja [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.2[/COLOR]</title>    
 <genre>Animación,Infantil,Musical</genre>
 <year>2021</year>
