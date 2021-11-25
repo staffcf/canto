@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] El chico que salvo la Navidad [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.5[/COLOR]</title>    
+<genre>Infantil,Aventuras,Fantástico,Cine familiar,Navidad</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/2SB46N3.jpg</thumbnail>
+<fanart>https://i.imgur.com/3PhIuXh.jpg</fanart>
+<info>Un chico normal llamado Nikolas se embarca en una extraordinaria aventura por el nevado norte en busca de su padre, que se halla en una misión para descubrir el legendario pueblo de los elfos, Elfhem. Junto a un testarudo reno llamado Blitzen y un leal ratón mascota, Nikolas pronto encuentra su destino en esta historia mágica que demuestra que nada es imposible.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=VGp2sZY0mw0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/q3nx0ie1ww3rwq1"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/3nxv6km6aw98r3"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/n3n9xzw8krfj"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/p1o3v5i1qfuo"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-da1pkyoy3zmt.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1iVThgxvvqCBl-kziodahfj8fWIAqsXtG/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Copper Bill [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.0[/COLOR]</title>    
 <genre>Thriller,Robos & Atracos</genre>
 <year>2021</year>
