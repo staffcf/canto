@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Copper Bill [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.0[/COLOR]</title>    
+<genre>Thriller,Robos & Atracos</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/NpSHon6.jpg</thumbnail>
+<fanart>https://i.imgur.com/9Ogzgt7.jpg</fanart>
+<info>Dos ladrones intentan robar 80 millones de dólares que se encuentran ocultos en un racho texano que pertenecía a un narcotraficante recientemente muerto. Sin embargo, no cuentan con la presencia de la nieta del narcotraficante, que hará todo lo posible para evitar el robo.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=h1UmSy-IUdY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/pwnxdtmp4plz535"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/enjddzg3i9gz4o"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/pdqh4l0x5c8o"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/m5w53t5ha93d"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-78rwukfuwdyf.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1l95JSKjs_dtZvd7lMHwg2eKccR4gDHWr/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Lo que te mantiene viva [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.9[/COLOR]</title>    
 <genre>Terror,Thriller</genre>
 <year>2021</year>
