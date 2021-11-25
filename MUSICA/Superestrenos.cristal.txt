@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Navidad en 8 bits [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.7[/COLOR]</title>    
+<genre>Comedia,Cine familiar,Navidad</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/c6sTpjz.jpg</thumbnail>
+<fanart>https://i.imgur.com/36U4jmO.jpg</fanart>
+<info>En el Chicago de los 80, un niño de diez años emprende una búsqueda para obtener el regalo estrella de Navidad de su generación: el último y mejor sistema de videojuegos. <info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=4v5y0BIR14o"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/xpx57c5e3w6we30"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/rw488dzzbo47no"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/sobf5c0amy8s"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/t5wx8md2winf"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-r5dif8ipn1pj.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1q6uLpBWvbBPc6mwvEB_KRpb6UpXXjLSC/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El chico que salvo la Navidad [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.5[/COLOR]</title>    
 <genre>Infantil,Aventuras,Fantástico,Cine familiar,Navidad</genre>
 <year>2021</year>
