@@ -2672,7 +2672,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Drama, Thriller",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:F9A4C7F368131B9B8C3756143A5253E7E1EB9695&dn=HD1080",	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/La.Leyes.De.La.Frontera.-2021.-.1080.-.CristalAzul.mkv.torrent
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/La.Leyes.De.La.Frontera.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:F9A4C7F368131B9B8C3756143A5253E7E1EB9695&dn=HD1080	
 				"torrent4k": ""	
 				}		
 			]
@@ -4270,7 +4270,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"info": "Eddie Brock (Tom Hardy) y su simbionte Venom todavía están intentando descubrir cómo vivir juntos cuando un preso que está en el corredor de la muerte (Woody Harrelson) se infecta con un simbionte propio",
 			"genero": "Fantastico, Accion, Comedia",
 			"stations": [
-				"torrent": "magnet:?xt=urn:btih:794538E0BB521617539B0750AE222EA0D305427D&dn=HD1080",	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Venom-Habra.matanza.-2021.-.1080.-.CristalAzul.mkv.torrent
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Venom-Habra.matanza.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:794538E0BB521617539B0750AE222EA0D305427D&dn=HD1080	
 				"torrent4k": "magnet:?xt=urn:btih:EA2522AD211C1FD0B1D975AF6B368C9791ED4DDE&dn=Web4K"	
 				}		
 			]
@@ -43499,14 +43499,14 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 0Torrentcristal, 1Torrent4k, 1Animacion, 1Comedia, 1Infantil, 1Aventuras, A1988, Letra NUM, EEUU, B2000, A1990-1981, 1Culto, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Animacion, 1Comedia, 1Infantil, 1Aventuras, A1988, Letra NUM, EEUU, B2000, A1990-1981, 1Culto, ",
 			"name": "¿Quien engaño a Roger Rabbit? (1988)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/xA6XOhYyHwwZMeSIRxdq0Jk8az4.jpg",
 			"info": "Hollywood, 1947. Eddie Valiant (Bob Hoskins), un detective de poca monta, ha sido contratado para encontrar pruebas que demuestren que Marvin Acme, magnate del negocio de los artículos de broma y dueño de Toontown, está rondando a Jessica Rabbit, mujer fatal y esposa de la superestrella del Marron Cartoon, Roger Rabbit. Cuando Acme aparece asesinado, todas las pruebas apuntan a Roger, y el siniestro y ambicioso Juez Doom (Christopher Lloyd) está decidido a condenarlo como sea. Roger suplica a Valiant que le ayude a encontrar al verdadero culpable, pero el asunto se irá complicando a medida que Eddie va descubriendo, escándalo tras escándalo, que la propia existencia de Toontown corre peligro.",
 			"genero": "Animacion, Comedia, Infantil, Aventuras",
 			"stations": [
 				{
-				"torrent": "",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Quien.enganho.a.Roger.Rabbit.-1988.-.1080.-.CristalAzul.mkv.torrent",
 				"torrent4k": "magnet:?xt=urn:btih:3799946DD3D26C81CE93A2ADBE2C9EF2811220AC&dn=UHDRip"	
 				}		
 			]
