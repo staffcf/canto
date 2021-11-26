@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Descarrilados[/COLOR][COLOR yellow](2021) [COLOR aqua]*5.5[/COLOR]</title>    
+<genre>Comedia</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/lS56a8D.jpg</thumbnail>
+<fanart>https://i.imgur.com/BXSL91Q.jpg</fanart>
+<info>Pepo, Roge, Costa y Juan Luis, cuatro veinteañeros, emprenden el viaje soñado: el INTERRAÍL. Pero en su primera parada en París, la aventura, y de paso su amistad, acaban de manera abrupta.  Veinte años después Juan Luis ha fallecido y, como última voluntad, ha decidido donar su jugosa herencia a sus tres antiguos amigos. Pero a cambio les pide que hagan el Interraíl que no pudieron hacer con unas divertidas condiciones… tienen que llevarse con ellos las cenizas de su amigo para que pueda “vivir” la experiencia con ellos.  Por “amor” a Juan Luis, estos tres adolescentes de 40 años tendrán que resolver sus diferencias, visitar las mismas ciudades y vivir las mismas juergas, pero de un modo mucho más patético. Y con el colesterol por las nubes…<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/y1d5n38jvXQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/q3nx0ie1wlmr-zq"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/pkqgv6jefer19q"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/sq95ehr92znx"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/atreu9y8grtc"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/0p76mpfhurzu"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1YM38vkwCAhZwwhON4p1n-I-1L9VSrQUU/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El bebe jefazo: Negocios de familia [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.7[/COLOR]</title>    
 <genre>Animación,Comedia,Cine familiar</genre>
 <year>2021</year>
