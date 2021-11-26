@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Un castillo por Navidad [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.0[/COLOR]</title> 
+<genre>Romance,Adventure,Comedia, Familia</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/ZXF4mUa.jpg</thumbnail>
+<fanart>https://i.imgur.com/3CgZdHV.jpg</fanart>
+<info>La famosa escritora estadounidense Sophie viaja a Escocia y le entran ganas de comprar un castillo, pero el quisquilloso propietario, Myles (un duque escocés), se resiste a vendérselo a una extranjera. Al intentar buscar un acuerdo, la pareja choca constantemente, pero en el camino pueden encontrar más de lo que esperaban.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/XrRJfdTUUz0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/8ql36h8kw37rx62"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/gnx7ror0hr7318"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/2259q5o9e8he"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/ax02p0dj5cf2"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/coh0z052nfda"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/14XmuYZuEyubPq3Va3k4Wyay5iucQIJh4/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Anni da Cane [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.0[/COLOR]</title>    
 <genre>Comedia,Romance,Drama</genre>
 <year>2021</year>
