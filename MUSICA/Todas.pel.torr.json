@@ -39754,7 +39754,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Ciencia ficcion, 1Fantastico, 1Drama, A2001, Letra F, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Animacion, 1Ciencia ficcion, 1Fantastico, 1Drama, A2001, Letra F, EEUU, ",
 			"name": "Final Fantasy: La Fuerza Interior (2001)","coloryear": "seagreen",
 			"image": "https://www.themoviedb.org/t/p/original/3m1GhcO2LkTRsBAxVEtrAR1JLUf.jpg",
 			"info": "Corre el año 2070 y la tierra ha sido devastada por una invasión alienígena. En los ojos de una joven se refleja tristeza y desolación, mientras mira fijamente a la desértica tierra a su alrededor, y la luz del sol, demasiado brillante, le dificulta la visión. Está sola, entre nubes de polvo, en un amenazador mundo de extraterrestres y sus ojos revelan un conflicto interno. Times Square se desmorona en la oscuridad, quemado casi hasta desaparecer, pero en alguna parte grandes ejércitos retienen al ejército extraterrestre. Mientras la muerte acecha entre las sombras, ella busca el milagro, creyendo en que los valores humanos como el valor, la dedicación y el amor podrán finalmente salvar al planeta Tierra...",
@@ -39762,7 +39762,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:vuwnipfthvhivdzneow7b2cr7h7koqek&dn=HD1080",
-				"torrent4k": ""	
+				"torrent4k": "magnet:?xt=urn:btih:B60CAC04B963B851E5DF95ECB3C84A3EFEBCDDDD&dn=UHDRip"	
 				}		
 			]
 			},
@@ -40466,6 +40466,16 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"torrent4k": ""	
 				}		
 			]
+			},
+			{
+			"tag": " 0Peliscristal, 0Torrentcristal, 1Torrent4k, 1Accion, 1Romance, 1Drama, A2000, Letra T, Taiwan, ",
+			"name": "Tigre y dragon (2000)","coloryear": "gold",
+			"image": "https://www.themoviedb.org/t/p/original/mdAh06X2sCPpgfmMp6wx0glHZOO.jpg",
+			"info": "Li Mu Bai, un legendario experto en artes marciales, ha decidido dejar en herencia su espada mágica, la Espada Celestial, a su mejor amigo. Además, le pide a Yu Sha, una poderosa guerrera de la que está enamorado, que custodie la espada hasta que llegue el momento de entregarla",
+			"genero": "Accion, Romance, Drama",
+			"stations": [
+				"torrent": "",
+				"torrent4k": "magnet:?xt=urn:btih:834E61AB633D97C7FAA5BDBA5CE32CF3BDF5649C&dn=UHDRip"
 			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, A2000, Letra T, EEUU, A2000-1991, ",
@@ -43485,6 +43495,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Viernes.13.Parte.VIII-Jason.vuelve...para.siempre.-1989.-.1080.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 0Torrentcristal, 1Torrent4k, 1Animacion, 1Comedia, 1Infantil, 1Aventuras, A1988, Letra NUM, EEUU, B2000, A1990-1981, 1Culto, ",
+			"name": "¿Quien engaño a Roger Rabbit? (1988)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/xA6XOhYyHwwZMeSIRxdq0Jk8az4.jpg",
+			"info": "Hollywood, 1947. Eddie Valiant (Bob Hoskins), un detective de poca monta, ha sido contratado para encontrar pruebas que demuestren que Marvin Acme, magnate del negocio de los artículos de broma y dueño de Toontown, está rondando a Jessica Rabbit, mujer fatal y esposa de la superestrella del Marron Cartoon, Roger Rabbit. Cuando Acme aparece asesinado, todas las pruebas apuntan a Roger, y el siniestro y ambicioso Juez Doom (Christopher Lloyd) está decidido a condenarlo como sea. Roger suplica a Valiant que le ayude a encontrar al verdadero culpable, pero el asunto se irá complicando a medida que Eddie va descubriendo, escándalo tras escándalo, que la propia existencia de Toontown corre peligro.",
+			"genero": "Animacion, Comedia, Infantil, Aventuras",
+			"stations": [
+				{
+				"torrent": "",
+				"torrent4k": "magnet:?xt=urn:btih:3799946DD3D26C81CE93A2ADBE2C9EF2811220AC&dn=UHDRip"	
 				}		
 			]
 			},
