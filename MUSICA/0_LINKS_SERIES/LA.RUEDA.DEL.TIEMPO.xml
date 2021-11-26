@@ -15,6 +15,12 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
+			<title> - [COLOR yellow]CALIDAD 1080</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
 			<title>1x01 - La partida</title>
 			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/La.Rueda.del.Tiempo/1x01.-L.R.D.T.-.1080.-.CristalAzul.mkv.torrent</torrent>
 			</item>
