@@ -3647,7 +3647,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Drama",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Respect.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Respect.-2021.-.1080x265.-.CristalAzul.mkv.torrent",	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Respect.-2021.-.1080.-.CristalAzul.mkv.torrent
 				"torrent4k": "magnet:?xt=urn:btih:CC793C9A661A3A2B9EA3C5E3977E75FFDECC2804&dn=Web4K"	
 				}		
 			]
@@ -12977,6 +12977,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:790555C8447CCD3010EF6330CBC2252C8457CFBE&dn=BRRip",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2019, Letra B, China, ",
+			"name": "Better Days (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/JWUDXjf4N1XotLBRV1F5A8TeEk.jpg",
+			"info": "El examen 'gaokao' paraliza a todo el país. Para casi diez millones de estudiantes, este examen para entrar en el programa nacional de estudios determinará su vida. Nian ha estado muy ocupada preparando el examen, dejando todo de lado, aunque una compañera de clase se ha suicidado y ella misma ha sufrido bullying. Nian conocerá en esos días a un delincuente de poca monta con el que hará un pacto.",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Better.Days.-2019.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
