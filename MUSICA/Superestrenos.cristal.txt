@@ -3,6 +3,17 @@
 ==========================================================================================
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
+<item>
+<title>[COLOR white] Annette [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.1[/COLOR]</title> 
+<genre>Drama,Musical,Romance,Música</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/nsRSemN.jpg</thumbnail>
+<fanart>https://i.imgur.com/NKnGfn6.jpg</fanart>
+<info>Henry es un monologuista cómico de humor incisivo. Ann, una cantante de renombre internacional. Centro de todas las miradas, juntos forman una pareja feliz rodeada de glamur. El nacimiento de su primogénita, Annette, una niña misteriosa con un destino excepcional, les cambiará la vida.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ujm0B2gd0ig"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/r4nxruekmwz5qrp"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/pkqlpjvgapo441"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/y83kh7y043xv"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/0lmvvae3aomz"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/27eie6ycw80o"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1pSo5GvCYgiyczdKvxu6SYiCw34T7WnEh/view"}</urlsolve>
+</item>
+
+
 
 <item>
 <title>[COLOR white] Mejores dias [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.4[/COLOR]</title> 
