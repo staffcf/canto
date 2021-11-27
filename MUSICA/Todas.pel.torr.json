@@ -13957,7 +13957,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, A2019, Letra D, EEUU, Crimen, Netflix, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Thriller, 1Drama, A2019, Letra D, EEUU, Crimen, Netflix, ",
 			"name": "Diamantes En Bruto (2019)","coloryear": "limegreen",
 			"image": "https://www.themoviedb.org/t/p/original/ek3NThY7R8OysOuKZrEy7CRl1co.jpg",
 			"info": "Howard Ratner es el propietario de una joyeria ubicada en el barrio de los diamantes de la ciudad de Nueva York que vende en exclusiva a ricos y famosos. Un dia se produce un importante robo que le obliga a tener que afrontar una deuda economica que no esta preparado para pagar",
@@ -13965,7 +13965,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:baa64d562d75c788c920cfe84b37c4d4b3b5850c",
-				"torrent4k": ""
+				"torrent4k": "magnet:?xt=urn:btih:01E9C804F38E17116196432BD7AE104D88AD0BC1&dn=UHDRip"
 				}		
 			]
 			},
@@ -15178,6 +15178,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"torrent": "magnet:?xt=urn:btih:7ad7761f7ecd4c79b88e308a2aa78c67e1f1dbe4",
 				"torrent4k": ""
 				}			
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Thriller, A2019, Letra E, EEUU, 1Hechos reales, ",
+			"name": "El ultimo vermeer (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/oKkhCzi5o28C3Jr2cFvUh2FGhpt.jpg",
+			"info": "Tras la II Guerra Mundial, un soldado llamado Joseph Piller investiga al reconocido artista holandés Han van Meegeren, acusado de conspirar con los nazis. A pesar de las creciente evidencias, Piller se va convenciendo cada vez más de la inocencia de Han, e intentará luchar para salvar la vida de ese artista de pasado misterioso",
+			"genero": "Drama, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.Ultimo.Vermeer.-2019.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
 			]
 			},
 			{
@@ -27858,7 +27871,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Accion, A2017, Letra A, EEUU, Venganza, Espionaje, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Thriller, 1Accion, A2017, Letra A, EEUU, Venganza, Espionaje, ",
 			"name": "American Assassin (2017)","coloryear": "green",
 			"image": "https://www.themoviedb.org/t/p/original/1UFz4TrbVdwBaJTz0rZn3PFI5kp.jpg",
 			"info": "Tras la muerte de su prometida en un ataque terrorista, Mitch Rapp es reclutado por los Black Ops y entrena bajo la direccion de Stan Hurley, un agente de la CIA. Rapp y Hurley tendran que llevar a cabo una mision para detener una operacion que podria desatar el caos a nivel internacional",
@@ -27866,7 +27879,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{ 
 				"torrent": "magnet:?xt=urn:btih:7E386910AB29143FB7E241FD353F27964C95C61B",
-				"torrent4k": ""
+				"torrent4k": "magnet:?xt=urn:btih:EBAB4696DA2D4C8862E17585F158CDF8B2852587&dn=UHDRip"
 				}		
 			]
 			},
@@ -45447,7 +45460,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:8A536C8BC96D8D6A53905ADC3631EDB95BA3E66E&dn=HD1080",
-				"torrent4k": "magnet:?xt=urn:btih:806CE01303BC23EDA6B855659CE51E1D57D618C7&dn=UHDRip"	
+				"torrent4k": "magnet:?xt=urn:btih:B2D0636DFEF9D4C57857F98F694B9075442A926E&dn=UHDRip"	magnet:?xt=urn:btih:806CE01303BC23EDA6B855659CE51E1D57D618C7&dn=UHDRip
 				}		
 			]
 			},
