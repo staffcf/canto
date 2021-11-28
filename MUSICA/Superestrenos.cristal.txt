@@ -3,6 +3,18 @@
 ==========================================================================================
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
+
+<item>
+<title>[COLOR white] El ultimo Vermeer [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.7[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/9z5IhXB.jpg</thumbnail>
+<fanart>https://i.imgur.com/pWL2oS9.jpg</fanart>
+<info>Tras la II Guerra Mundial, un soldado llamado Joseph Piller investiga al reconocido artista holandés Han van Meegeren, acusado de conspirar con los nazis. A pesar de las creciente evidencias, Piller se va convenciendo cada vez más de la inocencia de Han, e intentará luchar para salvar la vida de ese artista de pasado misterioso.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/lalEea09lyo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/5knj1sdmwel3jpe"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/l6rdnd8waqvpdjz"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/i97yw4vzfa7z"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/c6qargklf6uy"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/q79nqkz6tfb3"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1UtGGKSnhM2GlBE9gLP0ers8ePJBy7zm1/view"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Annette [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.1[/COLOR]</title> 
 <genre>Drama,Musical,Romance,Música</genre>
