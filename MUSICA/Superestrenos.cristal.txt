@@ -9,7 +9,7 @@
 <genre>Action,Aventura,Suspense</genre>
 <year>2021</year>
 <thumbnail>https://i.imgur.com/j1bHwTc.jpg</thumbnail>
-<fanart>https://i.imgur.com/kiJUm41.jpg</fanart>
+<fanart>https://i.imgur.com/bqCtVEa.jpg</fanart>
 <info>En ‘No Time to Die’, James Bond se encuentra disfrutando de unas merecidas vacaciones en Jamaica. Sin embargo, su paz termina cuando su amigo de la CIA, Felix Leiter, lo busca para una nueva misión que implica rescatar a un importante científico que ha sido secuestrado.<info>
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/90HtfG6dZAM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/6znj3t0nenz6www"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/xo63pev6allezgj"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/8b6o5ooih17b"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/4r9ltd5oanzz"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/cepw3085wopv"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/14zDMp0-lYPooBTmcHbtJsM4nue7JS52h/view"},{"titulo" : "[COLOR white]Drive 4K HDR[/COLOR]","url" : "https://drive.google.com/file/d/1J1mblce7PbFM45SAm_uPwhdBjckkAYk5/view"}</urlsolve>
 </item>
