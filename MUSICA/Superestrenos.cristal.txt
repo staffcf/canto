@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Ricos y mimados [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.8[/COLOR]</title> 
+<genre>Comedia</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/GRI8g0w.jpg</thumbnail>
+<fanart>https://i.imgur.com/FVA5GLb.jpg</fanart>
+<info>El multimillonario está cansado de los caprichos de sus propios hijos y decide darles una lección. Les anuncia que se ha arruinado. Ahora los adolescentes mimados tendrán que hacer lo que nunca han hecho: ir a trabajar, aprender a amar y valorar la vida.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/VD5OXgMhEQ8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/2r2j0i2wpje-145"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/l6rdnp4rt40k8o"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/75pdmhszhkqm"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/902gozfzfjbq"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/teo09o0xgkl5"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1ghV1PH_U7f3K3jUQG6kJt-jBTDKGXU5M/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El ultimo Vermeer [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.7[/COLOR]</title> 
 <genre>Drama</genre>
 <year>2021</year>
