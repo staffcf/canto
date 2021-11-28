@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1genero, A2021, Letra S, Reino Unido, Sagas JamesBond, ",
+			"name": "Sin tiempo para morir (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/rDfYClNuplM26KwPbyFAE7CDZo4.jpg",
+			"info": "Bond ha dejado el servicio secreto y está disfrutando de una vida tranquila en Jamaica. Pero su calma no va a durar mucho tiempo. Su amigo de la CIA, Felix Leiter, aparece para pedirle ayuda. La misión de rescatar a un científico secuestrado resulta ser mucho más arriesgada de lo esperado, y lleva a Bond tras la pista de un misterioso villano armado con una nueva y peligrosa tecnología",
+			"genero": "Thriller, Accion, Aventuras",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Sin.tiempo.para morir.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra R, Francia, ",
 			"name": "Ricos y mimados (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/uaqn7IE39qSJ3zRLfIktMqWl7T9.jpg",
