@@ -104,6 +104,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Ana Bolena[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Ana.Bolena</externallink>
+<info>Sigue los últimos meses de la vida de Ana Bolena, su lucha con la sociedad patriarcal de la Inglaterra Tudor, su deseo de asegurar un futuro para su hija, Elizabeth, y su incapacidad para dar a Henry un heredero varón.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/hBDQUB2elhHMHb23RzpAlXBfYlo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bM9aExeCQ8FuxTItoqfRXwZ5d4X.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Antidisturbios[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Antidisturbios.xml</externallink>
@@ -808,6 +817,15 @@ El.padre.de.cain</externallink>
 <thumbnail>https://i.imgur.com/MxGcgth.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/uT4GWv6A71Utef7yjUIeYOhDjk2.jpg</fanart>
 </item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Elfos[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Elfos</externallink>
+<info>Serie de TV (2021-). Las vacaciones de Navidad de una adolescente y su familia se convierten en una auténtica pesadilla cuando descubren la ancestral amenaza que acecha su retiro isleño.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/yLTpFfLBgLcyrssFQYJqBmeBLbE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/x53wp3XGHCBTuqxefYy2mIZYuan.jpg</fanart>
+</item>
  
 <item>
 <title>[COLOR gold]* [COLOR white]Elite: Historias breves[/COLOR]</title>     
@@ -1472,6 +1490,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Mañanas de Septiembre[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Ma%C3%B1anas.septiembre</externallink>
+<info>Cassandra (Liniker) dejó atrás su ciudad natal cuando decidió dejar de hacer concesiones y convertirse en quien siempre quiso ser: una mujer transgénero libre e independiente. Después de años de sufrimiento en silencio, las cosas finalmente comienzan a tomar rumbo en su vida. Cassandra tiene un lugar propio por primera vez, así como un novio al que ama, Ivaldo (Thomas Aquino), además de un trabajo como mensajero en el centro de São Paulo. Cumple su sueño de ser una artista de portada de Vanusa, una famosa cantante brasileña de los años 70. Aunque su vida toma un giro inesperado cuando la ex de Cassandra, Leide (Karine Telles), aparece con un niño que dice ser ella.</info>
+<thumbnail>https://i.imgur.com/lJstNx5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lWhbnAMmK4aqqaKRdeulqjMaE7y.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Mare of Easttown[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Mare.of.Easttown.txt</externallink>
@@ -1517,6 +1544,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Marvel Ojo fe Halcón[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Marvel.ojo.de.halcon</externallink>
+<info>Serie de TV (2021). 6 episodios. Narra las aventuras de Hawkeye desde el punto de vista de la sucesora de Clint Barton: Kate Bishop, una de las integrantes del grupo de "jóvenes vengadores".</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/ommKNzt6wmtz3mQS3e3rrDnISOM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rXAqfQ2UeoonpBZ73LFsT2H3FME.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Marvel The Fury Files[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Marvel.The.Fury.Files</externallink>
@@ -1534,14 +1570,6 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 <fanart>https://www.themoviedb.org/t/p/original/cfuKSncV7m6qFzEpARmzSDcr9nc.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR gold]* [COLOR white]Mañanas de Septiembre[/COLOR]</title>  
-<link>cristalazul</link>
-<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Ma%C3%B1anas.septiembre</externallink>
-<info>Cassandra (Liniker) dejó atrás su ciudad natal cuando decidió dejar de hacer concesiones y convertirse en quien siempre quiso ser: una mujer transgénero libre e independiente. Después de años de sufrimiento en silencio, las cosas finalmente comienzan a tomar rumbo en su vida. Cassandra tiene un lugar propio por primera vez, así como un novio al que ama, Ivaldo (Thomas Aquino), además de un trabajo como mensajero en el centro de São Paulo. Cumple su sueño de ser una artista de portada de Vanusa, una famosa cantante brasileña de los años 70. Aunque su vida toma un giro inesperado cuando la ex de Cassandra, Leide (Karine Telles), aparece con un niño que dice ser ella.</info>
-<thumbnail>https://i.imgur.com/lJstNx5.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/lWhbnAMmK4aqqaKRdeulqjMaE7y.jpg</fanart>
-</item>
 
 <item>
 <title>[COLOR gold]* [COLOR white]Masters del Universo:Revelación[/COLOR]</title>  
@@ -1811,6 +1839,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 <info>Se centra en la vida de tres mujeres que viven en distintas décadas: un ama de casa en los años 60, una celebridad en los 80 y una abogada en el 2019. Cada una trata de lidiar con las infidelidades de sus maridos a su manera.</info>
 <thumbnail>https://i.imgur.com/tIBd7Cb.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/dEHDBtlZIW2hV3BjNMlaXhU1Pcc.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Possessions[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Possessions</externallink>
+<info>Serie de TV (2020). 7 episodios. Natalie, una joven francesa expatriada en Israel, está acusada de haber asesinado a su marido durante su boda. Karim, un diplomático francés responsable de brindar ayuda a los ciudadanos en dificultad, cae gradualmente bajo el encanto de Natalie.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/8CaCRmXOJiUESbb0BBzPkZ4pyHu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e0Tb2uzRjYO2WCFbYy2Kj2jT0GT.jpg</fanart>
 </item>
 
 <item>
@@ -2249,6 +2286,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]The Shrink next door[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.shrink.next.door</externallink>
+<info>8 Episodios. Inspirada en hechos reales, cuenta la extraña relación entre el "psiquiatra de los famosos", el Dr. Isaac 'Ike' Herschkopf (Paul Rudd) y su paciente de muchos años Martin 'Marty' Markowitz (Will Ferrell). A lo largo de su extensa relación, el carismático Ike se va introduciendo poco a poco en la vida de Marty, llegando a mudarse a la casa de Marty en los Hamptons y convenciendo a Marty de que le nombre presidente de la empresa familiar. La serie explora cómo una relación entre doctor y paciente aparentemente normal va convirtiéndose en una dinámica de poder basada en la manipulación, el control y todo tipo de disfunciones... Con guión de la ganadora de los premios Emmy, Globo de Oro, BAFTA, y WGA Georgia Pritchett, “The Shrink Next Door” está basada en el podcast más escuchado del año 2019, de Wondery y Bloomberg Media.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/ocaE1YtHTPsgcfSu8UYov4apX3h.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9Hc0JluEcAKkJoZM7o65pzSI7Ir.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]The Sinner[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.sinner</externallink>
@@ -2345,6 +2391,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 <info>Serie de TV (2019-). 2 temporadas. Cuando la aparición de nuevas pruebas obligan a la periodista radiofónica Poppy Parnell (Octavia Spencer) a reabrir el caso de asesinato que la convirtió en una sensación nacional 18 años atrás, la mujer se encuentra cara a cara con Warren Cave (Aaron Paul), el hombre que pudo haber ayudado, quizá por error, a meter entre rejas. Su investigación levantará de nuevo temas candentes como la privacidad, los prejuicios de la raza y los medios de comunicación.</info>
 <thumbnail>https://i.imgur.com/bZYgN21.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/zaqlegD9dnNyFtn5o3LHqqv6qg9.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Una historia muy real[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Una.historia.muy.real</externallink>
+<info>7 episodios. Después de una noche en Filadelfia con su hermano que amenaza con sabotear algo más que su éxito, un famoso humorista busca desesperadamente una escapatoria.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/8Ld8RjI0rYX1ucZRtSh82MADG11.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/chvF1VNHrIgBE7DDuIodSC0Z9jB.jpg</fanart>
 </item>
 
 <item>
