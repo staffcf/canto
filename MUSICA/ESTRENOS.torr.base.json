@@ -6,6 +6,32 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra D, Spain, ",
+			"name": "Donde caben dos (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/o7o8DJb33bOhhjVIjRXi25rl78e.jpg",
+			"info": "Una pareja atrapada en la rutina, un joven desengañado de su última relación amorosa, una novia desesperada, dos primos separados desde su último verano en el pueblo, un grupo de amigos con ganas de experimentar… Durante una noche, todos ellos vivirán situaciones descabelladas en las que jamás hubieran pensado encontrarse, para terminar, a la mañana siguiente, de la mejor manera posible: muy juntos y muy revueltos.",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Donde.caben.dos.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2020, Letra L, Francia, ",
+			"name": "Las apariencias (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/rYomcwrm8Ee9FTdznj9k9GmabTM.jpg",
+			"info": "Eve y Henri son un matrimonio francés viviendo en Viena. Forman una pareja aparentemente feliz, con un hijo en común, y llevan una vida privilegiada en el seno de un pequeño círculo francés afincado en la capital austríaca. Son 'la crème de la crème'. Sin embargo, esta imagen perfecta se desmorona cuando ella sospecha que su marido la puede estar engañando. Es entonces cuando Eve buscará venganza al tiempo que intentará mantener las apariencias en su entorno burgués de expatriados, donde reinan la hipocresía y las mentiras",
+			"genero": "Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Las.apariencias.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1genero, A2021, Letra S, Reino Unido, Sagas JamesBond, ",
 			"name": "Sin tiempo para morir (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/rDfYClNuplM26KwPbyFAE7CDZo4.jpg",

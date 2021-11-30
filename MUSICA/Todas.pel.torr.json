@@ -1405,7 +1405,20 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"torrent4k": ""	
 				}		
 			]
-			},,
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra D, Spain, ",
+			"name": "Donde caben dos (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/o7o8DJb33bOhhjVIjRXi25rl78e.jpg",
+			"info": "Una pareja atrapada en la rutina, un joven desengañado de su última relación amorosa, una novia desesperada, dos primos separados desde su último verano en el pueblo, un grupo de amigos con ganas de experimentar… Durante una noche, todos ellos vivirán situaciones descabelladas en las que jamás hubieran pensado encontrarse, para terminar, a la mañana siguiente, de la mejor manera posible: muy juntos y muy revueltos.",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Donde.caben.dos.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra D, Brasil, Netflix, ",
 			"name": "Dos sinvergüenzas (2021)","coloryear": "cyan",
@@ -7368,7 +7381,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Thriller",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:392D4C04DB2C22AAC5A15D5963727FDA591F8F38&dn=HD1080",  magnet:?xt=urn:btih:5286A3148B5F4E4E190865338DE057D2A76243F8&dn=BRRip
+				"torrent": "magnet:?xt=urn:btih:5286A3148B5F4E4E190865338DE057D2A76243F8&dn=BRRip",  
 				"torrent4k": ""
 				}		
 			]
@@ -7420,7 +7433,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Thriller",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:ac935a504b1ff28319039191de8dac6d80b816cf&dn=HD720", magnet:?xt=urn:btih:813BA0C99E31420BC3724664A2C68D014C373B83&dn=BRRip	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Flashback.-2020.-.1080.-.CristalAzul.mkv.torrent
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Flashback.-2020.-.1080.-.CristalAzul.mkv.torrent", magnet:?xt=urn:btih:813BA0C99E31420BC3724664A2C68D014C373B83&dn=BRRip	
 				"torrent4k": ""
 				}		
 			]
@@ -7478,7 +7491,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Thriller, A2020, Letra F, Alemania, Crimen, Navidad, Netflix, ",
+			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Comedia, 1Thriller, A2020, Letra F, Alemania, Crimen, Navidad, Netflix, ",
 			"name": "Fuego cruzado por Navidad (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/ySX1radA4onAh6PspCRBnpG43HX.jpg",
 			"info": "Un hombre frustra un asesinato y acaba huyendo de los asesinos con la persona a la que iban a matar. Mientras, una mujer que acaba de conocer intenta encontrarlo",
@@ -7491,7 +7504,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Thriller, A2020, Letra F, Mexico, Cine Latino, ",
+			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Accion, 1Thriller, A2020, Letra F, Mexico, Cine Latino, ",
 			"name": "Fuego Negro (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/haagP4DVbqgDdbj3AjUvXFdjNZq.jpg",
 			"info": "Tras la pista de su hermana, un criminal renegado busca respuestas en un sordido hotel, donde conoce a un siniestro huesped y enamora a una misteriosa camarera",
@@ -7517,7 +7530,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra F, Reino Unido, ",
+			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra F, Reino Unido, ",
 			"name": "Fuga de Pretoria (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/4KgImKuUUHSfOyu3xbo4A1JP6et.jpg",
 			"info": "Dos sudafricanos blancos, encarcelados por trabajar para el partido Congreso Nacional Africano, tratan de escapar de la prision de 'Robben Island', en Pretoria",
@@ -7556,7 +7569,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra G, Argentina, Cine Latino, ",
+			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra G, Argentina, Cine Latino, ",
 			"name": "Gauchito Gil (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/3V8uLpNtyOE2zFkh4DV70WXVN88.jpg",
 			"info": "Antonio Gil vuelve de la Guerra de la Triple Alianza con el deseo de asentarse en sus pagos pero la violencia vuelve a llamarlo. El Coronel Salazar lo recluta para luchas partidarias en la provincia. Al negarse, es perseguido por desertor y pasa a la clandestinidad. Exiliado en el monte mágico de la tierra guaraní, se esconde de la partida policial y forma una cuadrilla de asalto. Junto a ella, vive un viaje hacia la libertad, donde la amistad, la búsqueda de paz y justicia social son el motor de su errante existencia",
@@ -7576,7 +7589,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Accion, Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:D23AF4441396D5854654791FFFFC59FDBA27AB3A&dn=HD1080",  magnet:?xt=urn:btih:B5C5FBA72AA0C8FDE2937DA1E01066044E590363&dn=HD720
+				"torrent": "magnet:?xt=urn:btih:B5C5FBA72AA0C8FDE2937DA1E01066044E590363&dn=HD720",  magnet:?xt=urn:btih:D23AF4441396D5854654791FFFFC59FDBA27AB3A&dn=HD1080
 				"torrent4k": ""
 				}		
 			]
@@ -7595,7 +7608,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Romance, 1Fantastico, A2020, Letra G, Argentina, Cine Latino, ",
+			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Comedia, 1Romance, 1Fantastico, A2020, Letra G, Argentina, Cine Latino, ",
 			"name": "Giro de ases (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/14AqF27ndW3oze4kLmeqJ8fFxSK.jpg",
 			"info": "Martin (Juan Grandinetti) trabaja de croupier en el casino durante la noche y durante el dia se dedica a estudiar y a practicar magia con cartas. Martin es muy amigo del Rubio (Lautaro Delgado Tymruk), cuyo talento magico es ser carterista. Martin y el Rubio son habitues del local de magia de Mariana (Thelma Fardin), donde se reunen para hablar y practicar trucos y compartir momentos de camaraderia",
@@ -7608,7 +7621,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Accion, A2020, Letra G, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Thriller, 1Accion, A2020, Letra G, EEUU, ",
 			"name": "Greenland: El ultimo refugio (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/ltlKaXvIHMTOgxqVbZSGUqcExuN.jpg",
 			"info": "Cuando el mundo es consciente de que el asteroide mas grande de la historia va a impactar en la Tierra y aniquilar todo rastro de vida, los gobiernos de todo el mundo realizan un sorteo en el cual los afortunados podran sobrevivir en refugios secretos. Esta decision desata un caos a nivel mundial. Muchos tendran que emprender un peligroso viaje donde se enfrentaran a los mas imponentes peligros de la naturaleza, lo que les obligara a encontrar la manera de mantenerse unidos mientras encuentran la forma de sobrevivir",
@@ -7628,7 +7641,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Terror, Fantastico",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:A5D8E0044ED54594C62B29978855CB3BB6D71EBB",
+				"torrent": "magnet:?xt=urn:btih:94079977cbb8fdddf45fa3ab72c87a0d7e207b60&dn=HDRip",
 				"torrent4k": "magnet:?xt=urn:btih:14DB27D675FDA93FBB89B0386BEDECC7D7DD6392",
 				}		
 			]
@@ -8671,6 +8684,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:D2EC869E935BED88ACD63E3083D099BC000C85EC", 
 				"torrent4k": "magnet:?xt=urn:btih:62F524AAB0FFF8951718C372CD944385D69B5AC2"
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2020, Letra L, Francia, ",
+			"name": "Las apariencias (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/rYomcwrm8Ee9FTdznj9k9GmabTM.jpg",
+			"info": "Eve y Henri son un matrimonio francés viviendo en Viena. Forman una pareja aparentemente feliz, con un hijo en común, y llevan una vida privilegiada en el seno de un pequeño círculo francés afincado en la capital austríaca. Son 'la crème de la crème'. Sin embargo, esta imagen perfecta se desmorona cuando ella sospecha que su marido la puede estar engañando. Es entonces cuando Eve buscará venganza al tiempo que intentará mantener las apariencias en su entorno burgués de expatriados, donde reinan la hipocresía y las mentiras",
+			"genero": "Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Las.apariencias.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
