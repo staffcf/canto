@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Donde caben dos [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.0[/COLOR]</title> 
+<genre>Comedia,Romance</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/GdyfpYz.jpg</thumbnail>
+<fanart>https://i.imgur.com/MJDUS2u.jpg</fanart>
+<info>Una pareja atrapada en la rutina, un joven desengañado de su última relación amorosa, una novia desesperada, dos primos separados desde su último verano en el pueblo, un grupo de amigos con ganas de experimentar… Durante una noche, todos ellos vivirán situaciones descabelladas en las que jamás hubieran pensado encontrarse, para terminar, a la mañana siguiente, de la mejor manera posible: muy juntos y muy revueltos.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/2gJEmakpLsM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/l86x2cn7nd4zg5k"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/o7rk00poineqde"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/qomlfqs8h1x7"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/cxpco1atyjh2"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/y81b8jz44ep7"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1vD2GwNwt_09Q_QwtCbDY13BtX6n7sSv5/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Las apariencias [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.0[/COLOR]</title> 
 <genre>Crimen,Suspense,Drama</genre>
 <year>2021</year>
