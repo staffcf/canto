@@ -373,6 +373,8 @@ Title:COLEGAS EN EL BOSQUE, SagaID:ColegasBosque, Imagen:https://as.com/meristat
 							-	0SagaINFANTIL, 1SagaTINFANTIL,
 Title:COMO ENTRENAR A TU DRAGON, SagaID:CEATD, Imagen:https://as.com/meristation/imagenes/2010/02/19/album/1266592020_592020_000002_album_normal.jpg,	
 							-	0SagaINFANTIL, 1SagaTINFANTIL,
+Title:EL BEBE JEFAZO, SagaID:BebeJefazo, Imagen:https://www.themoviedb.org/t/p/original/dPiXM1aFbJ9XJGPyf5ZULmEjzkR.jpg,
+							-	0SagaINFANTIL, 1SagaTINFANTIL,
 Title:EL REY LEON, SagaID:ReyLeon, Imagen:https://www.soy-de.com/images/thumbs/El-Rey-Le%C3%B3n--Ya-podemos-disfrutar-del-primer-tr%C3%A1il-0028587.jpeg,
 							-	0SagaINFANTIL, 1SagaTINFANTIL,
 Title:EVANGELION, SagaID:Evangelion, Imagen:https://seeklogo.com/images/N/Neon_Genesis_Evangelion-logo-466029D9A5-seeklogo.com.png,
@@ -442,7 +444,20 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 		{
 		"name": "2021",
 		"image": "",
-		"groups": [,
+		"groups": [
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Comedia, A2021, Letra NUM, EEUU, ADisney, ",
+			"name": "¡Los Simpson en Plusniversario! [COLOR gold](Corto) (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/tKcfWKk4wGrvV6dGuiZZPEBTxHa.jpg",
+			"info": "Los Simpson montan una fiesta para el aniversario de Disney+ y todo el mundo está en la lista… menos Homer. Con amigos de toda la plataforma y una canción ideal para una princesa Disney, el Plusniversario será el evento del año en Springfield",
+			"genero": "Animacion, Comedia",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:053831153140D0B4EDB036FF23A4BDC1A03CC5FD&dn=BRRip",
+				"torrent4k": ""	
+				}		
+			]
+			},
 			{
 			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Fantastico, 1Terror, A2021, Letra NUM, EEUU, Disney, ",
 			"name": "¡Menuda momia! (2021)","coloryear": "cyan",
@@ -1037,6 +1052,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:D3C180F3629363AE51507F4282A8FFDA80A25685&dn=HD1080",
 				"torrent4k": "https://atomixhq.one/download/148019_-1615646335-Cherry--4KWebrip.torrent",  magnet:?xt=urn:btih:D6D46BC3D7622B1C760D59FFE4B0BD87FFFBB77B
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Comedia, 1Fantastico, A2021, Letra C, EEUU, APixar, ADisney, ",
+			"name": "Ciao Alberto [COLOR gold](Corto) (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/3xlgMrGXYlQ7W7Sj0bllJgPHiB3.jpg",
+			"info": "Mientras su mejor amigo, Luca, está en el colegio, Alberto disfruta de su nueva vida en Portorosso, donde trabaja con Massimo, el imponente pescador manco y tatuado, parco en palabras, que es, a ojos de Alberto, el humano más guay de todo el planeta. Lo que más desea Alberto es impresionar a su mentor, pero eso es más fácil decirlo que hacerlo. Corto relacionado con la película 'Luca' de Pixar.",
+			"genero": "Animacion, Comedia, Fantastico",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:51251480F0CBEF3D702AA933E0153873E850F7E8&dn=BRRip",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -2778,6 +2806,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:C6E0EE3DF10D7759C1FA8BCC1E5D9A301C755B5F&dn=BRRip",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Comedia, 1Fantastico, A2021, Letra L, EEUU, ADisney, ",
+			"name": "Los descendientes: La boda real (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/tK5xU4x7w9npLUYT5xZJ4RvVlsM.jpg",
+			"info": "Mal y Ben se preparan para dar el 'sí quiero' en una celebración épica con sus amigos y familia, pero Hades amenaza con arruinarlo todo",
+			"genero": "Animacion, Comedia, Fantastico",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:B19A3DFFAC87A2071086D3083E7F08CE922A6247&dn=BRRip",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -7060,7 +7101,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, A2020, Letra E, EEUU, ",
+			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, A2020, Letra E, EEUU, ",
 			"name": "En las rocas (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/zA9a8tiKEeyBI6XGIWdhDH6Khsu.jpg",
 			"info": "Una madre joven (Rashida Jones) reconecta con su padre (Bill Murray), un playboy de cierta fama, a traves de una serie de aventuras con la ciudad de Nueva York como escenario",
@@ -7073,7 +7114,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Accion, A2020, Letra E, Rusia, ",
+			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Drama, 1Accion, A2020, Letra E, Rusia, ",
 			"name": "En llamas (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/7uyxpJ0R2UINPpqZGbPk92DhJuT.jpg",
 			"info": "Lo que llamamos un acto de valentía es sólo una rutina habitual para ellos. Cuando las personas en peligro parece no tener a nadie que pueda ayudarlas, los rescatistas vienen a luchar contra las despiadadas fuerzas de la naturaleza.",
@@ -7139,7 +7180,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra E, Alemania, 1Biografico, ",
+			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra E, Alemania, 1Biografico, ",
 			"name": "Enfant Terrible (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/fVtpAKlGIJFEQqWcLVV1XHj3hVA.jpg",
 			"info": "Biopic sobre el cineasta aleman Rainer Werner Fassbinder",
@@ -7243,7 +7284,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Terror, 1Thriller, 1Fantastico, A2020, Letra E, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Thriller, 1Fantastico, A2020, Letra E, EEUU, ",
 			"name": "Este cuerpo me sienta de muerte (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/tKvg9mUAZM9PqoSe1BKCK65XlU1.jpg",
 			"info": "Tras intercambiar su cuerpo con un asesino en serie (Vince Vaughn), una joven estudiante (Kathryn Newton) descubre que tiene menos de 24 horas antes de que el cambio sea permanente.",
@@ -7256,7 +7297,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Intriga, A2020, Letra E, EEUU, Netflix, ",
+			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Drama, 1Intriga, A2020, Letra E, EEUU, Netflix, ",
 			"name": "Estoy Pensando En Dejarlo (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/5ynWWapdl45hJXUh0KIevxSG9JQ.jpg",
 			"info": "Un atajo imprevisto provoca que una mujer, en plena busqueda de un modo de romper con su novio, tenga que reconsiderar toda su vida",
@@ -7301,7 +7342,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:CBCF7B6855996BBE6C27A19ABF6BA1E25FA7EF43&dn=HD720",  magnet:?xt=urn:btih:81DCF7B35C5BDF45C27075EB3E949BB0E3055146&dn=BRRip
+				"torrent": "magnet:?xt=urn:btih:81DCF7B35C5BDF45C27075EB3E949BB0E3055146&dn=BRRip",  magnet:?xt=urn:btih:81DCF7B35C5BDF45C27075EB3E949BB0E3055146&dn=BRRip
 				"torrent4k": ""
 				}		
 			]
@@ -28496,7 +28537,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Comedia, 1Infantil, A2017, Letra E, EEUU, ADreamworks, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Comedia, 1Infantil, A2017, Letra E, EEUU, ADreamworks, Sagas BebeJefazo, ",
 			"name": "El Bebe Jefazo (2017)","coloryear": "green",
 			"image": "https://www.ecartelera.com/carteles/12000/12063/001_p.jpg",
 			"info": "La llegada de un hermanito trastoca por completo la idilica vida del pequeño Tim, hasta entonces hijo unico de 7 años y el ojito derecho de sus padres. Su nuevo hermano es un peculiar bebe, que viste traje y corbata y lleva maletin. Tim comienza a sospechar de el, hasta que descubre que puede hablar.",
