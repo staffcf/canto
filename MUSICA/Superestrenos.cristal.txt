@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Las apariencias [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.0[/COLOR]</title> 
+<genre>Crimen,Suspense,Drama</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/jiPzunp.jpg</thumbnail>
+<fanart>https://i.imgur.com/ZGcYrUt.jpg</fanart>
+<info>Eve y Henri son un matrimonio francés viviendo en Viena. Eve, tras descubrir que su marido le es infiel, buscará venganza al tiempo que intentará mantener las apariencias en su entorno burgués de expatriados donde reinan la hipocresía y las mentiras.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/uZnKxGqMlVY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/zkp50sjxjrw618j"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/qlrwkkgebxkjx3m"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/au5ec493gwce"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/7wz54o6evznb"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/008k9mkjsvbs"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1eA6YKTZvQl3gpCDcj66avsGiIQs6ZCiT/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Sin Tiempo Para Morir [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.4[/COLOR]</title> 
 <genre>Action,Aventura,Suspense</genre>
 <year>2021</year>
