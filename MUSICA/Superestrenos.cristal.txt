@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] El ultimo duelo [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.7[/COLOR]</title> 
+<genre>Drama,Historia,Action, Suspense</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/9VIrLx9.jpg</thumbnail>
+<fanart>https://i.imgur.com/GblzE85.jpg</fanart>
+<info>Ambientada en Francia, en 1386, cuenta el enfrentamiento entre el caballero Jean de Carrouges y el escudero Jacques LeGris , al acusar el primero al segundo de abusar de su esposa, Marguerite de Carrouges. El Rey Carlos VI decide que la mejor forma de solucionar el conflicto es un duelo a muerte. El que venza será el ganador, sin embargo, si lo hace el escudero, la esposa del caballero será quemada como castigo por falsas acusaciones.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/EUXOWBP-uAo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/kx4-1i363kg8njm"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/xo6n9o40ill4xw3"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "Falta poner"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/v91a92s51sif"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/j118rt1djidz"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Bggo8F4HJ0fM1krCfZlEpgZ-_MWv6Zsk/view"},{"titulo" : "[COLOR white]Drive 4K HDR[/COLOR]","url" : "https://drive.google.com/file/d/poner"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Donde caben dos [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.0[/COLOR]</title> 
 <genre>Comedia,Romance</genre>
 <year>2021</year>
