@@ -16,6 +16,17 @@
 
 
 <item>
+<title>[COLOR white] Instintos ocultos [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.2[/COLOR]</title> 
+<genre>Ciencia ficción,Suspense,Aventura</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/x7LvmG9A6v8p9Zx7JCMQtlAuIG1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gNwbb6AlfGvdNwFQwWpgDllyC8w.jpg</fanart>
+<info>Crónica de la odisea de 30 hombres y mujeres jóvenes que son enviados al espacio remoto en una misión multigeneracional con el propósito de hallar un nuevo hogar para la especie humana. Poco a poco la tripulación comienza recuperar el estado más primitivo del ser humano, lo que les convierte en la auténtica amenaza de la misión.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/eMe7oDA4Lxk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/r4nxruekeqp3-g5"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.bz/e/xo6n9874fllxqkm"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/qogp7htg1ac0"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/lg537z97rf1m"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-j5bnfqg7yn9n.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1OP_q2nw3ejfPUmyk1K-M2tUNdYmC4Cdz/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Madres paralelas [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.9[/COLOR]</title> 
 <genre>Drama,Maternidad</genre>
 <year>2021</year>
