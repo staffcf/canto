@@ -6,6 +6,32 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Thriller, A2021, Letra I, EEUU, ",
+			"name": "Instintos ocultos (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/pUbbRrhrU45kTE0f0cSOnQ1VYPm.jpg",
+			"info": "Crónica de la odisea de 30 hombres y mujeres jóvenes que son enviados al espacio remoto en una misión multigeneracional con el propósito de hallar un nuevo hogar para la especie humana. Poco a poco la tripulación comienza recuperar el estado más primitivo del ser humano, lo que les convierte en la auténtica amenaza de la misión.",
+			"genero": "Ciencia ficcion, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Instintos.Ocultos.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Western, 1Drama, A2021, Letra E, EEUU, Netflix, ",
+			"name": "El poder del perro (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/olE97xcp4SLwDLhWMNWzQVJip5x.jpg",
+			"info": "Los acaudalados hermanos Phil (Cumberbatch) y George Burbank (Plemons) son las dos caras de la misma moneda. Phil es elegante, genial y cruel, mientras George es impasible, quisquilloso y amable. Juntos son copropietarios de un enorme rancho en Montana. Es un lugar donde la rápida modernización del siglo XX se mantiene y en el que la figura de Bronco Henry, el mayor cowbow que Phil ha conocido jamás, es venerado. Cuando George se casa en secreto con una viuda del pueblo, Rose (Dunst), Phil, sorprendido y furioso, lleva a cabo una guerra sádica e implacable para destruirla por completo usando a su afeminado hijo, Peter, como peón.",
+			"genero": "Western, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.poder.del.perro.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra D, Spain, ",
 			"name": "Donde caben dos (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/o7o8DJb33bOhhjVIjRXi25rl78e.jpg",
