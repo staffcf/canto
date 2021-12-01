@@ -1809,6 +1809,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Accion, A2021, Letra E, EEUU, ",
+			"name": "El ultimo duelo (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/tzW96vTfVUFLO5QAHFeCmMa6fLB.jpg",
+			"info": "Basada en hechos reales. Francia, 1386. Cuenta el enfrentamiento entre el caballero Jean de Carrouges (Matt Damon) y el escudero Jacques LeGris (Adam Driver), al acusar el primero al segundo de abusar de su esposa, Marguerite de Carrouges (Jodie Comer). El Rey Carlos VI decide que la mejor forma de solucionar el conflicto es un duelo a muerte. El que venza será el ganador, sin embargo, si lo hace el escudero, la esposa del caballero será quemada como castigo por falsas acusaciones.",
+			"genero": "Drama, Accion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.ultimo.duelo.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:0A324F854F411239F14026B18E2D0310EC7A1F43&dn=HD1080	magnet:?xt=urn:btih:81B4EAA23F66D923581CEDD8FDBA3FDD2D61CB8D&dn=BR1080	
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Comedia, A2021, Letra E, Francia, Netflix, ",
 			"name": "El ultimo mercenario (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/jlpt3qLKULxjlxDs3KxZMsYpSoN.jpg",
@@ -2988,6 +3001,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:B1C934F6D78BA2DB64B778DC3B337B33D9244C98&dn=BR1080",		https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Madres.-2021.-.1080.-.CristalAzul.mkv.torrent	magnet:?xt=urn:btih:37616DF1D1312CB3B2DD0207BEFB1EDEA3AF6F00&dn=BRRip
 				"torrent4k": "magnet:?xt=urn:btih:9B00C1C0F0A010CF11C92ED37FCF58F5BD9442E5&dn=Web4K"	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra M, Spain, ",
+			"name": "Madres paralelas (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/qIgv9S40h83xmk8IvTg7ykq9ETb.jpg",
+			"info": "Dos mujeres coinciden en una habitación de hospital donde van a dar a luz. Ambas están solteras y se quedaron embarazadas por accidente. Janis, de mediana edad, no se arrepiente y está exultante. La otra, Ana, una adolescente, está asustada, arrepentida y traumatizada. Janis intenta animarla mientras pasean por los pasillos del hospital. Las pocas palabras que intercambien en esas horas crearán un vínculo muy estrecho entre las dos, que por casualidad se desarrolla y se complica, afectando a sus vidas de forma decisiva",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Madres.paralelas.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -40759,7 +40785,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Thriller, A1999, Letra E, EEUU, B2000, A2000-1991, 1Culto, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Drama, 1Thriller, A1999, Letra E, EEUU, B2000, A2000-1991, 1Culto, ",
 			"name": "El club de la lucha (1999)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/1yWmCAIGSVNuTOGyz9F48W9g1Ux.jpg",
 			"info": "Un joven hastiado de su gris y monotona vida lucha contra el insomnio. En un viaje en avion conoce a un carismatico vendedor de jabon que sostiene una teoria muy particular: el perfeccionismo es cosa de gentes debiles; solo la autodestruccion hace que la vida merezca la pena. Ambos deciden entonces fundar un club secreto de lucha, donde poder descargar sus frustaciones y su ira, que tendra un exito arrollador",
@@ -40767,7 +40793,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/El.Club.de.la.Lucha.-1999.-.1080.-.CristalAzul.mkv.torrent",  	magnet:?xt=urn:btih:b37c6eb4f8501f2c820726bc957c3cec552e68ac
-				"torrent4k": ""
+				"torrent4k": "magnet:?xt=urn:btih:CE71E481B9DD1822433726C6EC018368333B25C6&dn=UHDReescalado"
 				}		
 			]
 			},
