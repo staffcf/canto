@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Bordertown - Murales de sangre [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.9[/COLOR]</title> 
+<genre>Crimen,Drama,Misterio</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/mDrUIKP3I1QkUieImwpo3verZPj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hR0GjqNFY4pPh8kiNNtLbttYs7h.jpg</fanart>
+<info>Cuando el rostro del asesino en serie encarcelado Lasse Maasalo y el texto "Hagamos del mundo un lugar mejor" se pintan en un paso subterráneo con sangre, Kari Sorjonen se ve obligado a afrontar el caso más difícil de su carrera.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/KmYOk8zNCIo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/7mwj4sgen8425-2"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/84dw0k6pszkjkr"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/0p48so42s8dq"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/eugdj21jwi15"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-a0lrc5c4nkgw.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1GY23fIUQ_QaSd8KCTrnLQ4jvei5H9Xhq/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] El ultimo duelo [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.7[/COLOR]</title> 
 <genre>Drama,Historia,Action, Suspense</genre>
 <year>2021</year>
