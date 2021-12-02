@@ -48,6 +48,17 @@
 </item>
 
 
+<item>
+<title>[COLOR white] Ricos y mimados [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.8[/COLOR]</title> 
+<genre>Comedia</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/GRI8g0w.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/k1dvfnU8tRCo854jZqCDyCP2D7o.jpg</fanart>
+<info>El multimillonario está cansado de los caprichos de sus propios hijos y decide darles una lección. Les anuncia que se ha arruinado. Ahora los adolescentes mimados tendrán que hacer lo que nunca han hecho: ir a trabajar, aprender a amar y valorar la vida.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/VD5OXgMhEQ8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/10rjdcj1jek13qq"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/knr7mz9xb7rxzw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/75pdmhszhkqm"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/vjkrsncoywr5"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/0re2yylypqzj"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1SIvKn5gIuksERmoEgEzmFdHNyPIJpeJS/view"}</urlsolve>
+</item>
+
+
 
 <item>
 <title>[COLOR white] Donde caben dos [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.0[/COLOR]</title> 
