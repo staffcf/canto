@@ -700,7 +700,7 @@ https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_SERIES/.xml
 </item>
 
 ===============================================================================================================================================
-"Tag= 0SeriesLuar, 1Torrent, "
+"Tag= 1Torrent, "
 
 <item>
 <title>ANNA</title>
@@ -3734,7 +3734,7 @@ https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_SERIES/.xml
 </item>
 
 ===============================================================================================================================================
-"Tag= 0SeriesLuar, 1Torrent, "
+"Tag= 1Torrent, "
 
 <item>
 <title>HANNA</title>
@@ -3744,6 +3744,20 @@ https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_SERIES/.xml
 <thumbnail>https://www.themoviedb.org/t/p/original/qjQWlL4CcjPdgw3f9o7jguXN97A.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/6Fzyuwn8KeMCSqRILfdrDmCvmod.jpg</fanart>
 <enlaceslink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_SERIES/HANNA.xml</enlaceslink>
+<estado></estado>
+</item>
+
+===============================================================================================================================================
+"Tag= 1Torrent, "
+
+<item>
+<title>HARLEM</title>
+<genre>Comedia</genre>
+<year>2021</year>
+<info>Un grupo de 4 amigas afroamericanas residentes en el barrio neoyorquino de Harlem, persiguen sus sueños laborales y personales tras su graduación</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/qyEtuIIEpUHNMhmdvcvID7oQGYu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pDGk8l44bAv590M9oJdnr9w3bsd.jpg</fanart>
+<enlaceslink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_SERIES/HARLEM.xml</enlaceslink>
 <estado></estado>
 </item>
 
