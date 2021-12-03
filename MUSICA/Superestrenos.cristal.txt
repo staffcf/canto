@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Carrusel de Navidad [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.0[/COLOR]</title> 
+<genre>Drama,Romance,Navidad</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/1oqqPncrRREzk5D63YUL9CLbqVf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/y91SQ471zKci9vhRZqExO7NnYS5.jpg</fanart>
+<info>El multimillonario está cansado de los caprichos de sus propios hijos y decide darles una lección. Les anuncia que se ha arruinado. Ahora los adolescentes mimados tendrán que hacer lo que nunca han hecho: ir a trabajar, aprender a amar y valorar la vida.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/CoVyn2hr-8k"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/mgzn4i5je7y1m65"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/wnrve4pguo6070"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/b396e6h33uge"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/ushwibzqt3pu"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-8brbtx3th72s.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1b708kDoWwS6jRgKjzHlu7reGEs1LaOSa/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Bordertown - Murales de sangre [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.9[/COLOR]</title> 
 <genre>Crimen,Drama,Misterio</genre>
 <year>2021</year>
