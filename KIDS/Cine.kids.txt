@@ -2702,13 +2702,13 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 "Tag= Malu3, 1Ficcion, 1Infantil, A2019, Letra M, Croacia, "
 <item>
-<title>[COLOR white]Mi abuelo es un extraterrestre [/COLOR][COLOR gold](2019)[/COLOR]</title>    
+<title>[COLOR white]Mi abuelo es un extraterrestre [/COLOR][COLOR blue](2019)[/COLOR]</title>    
 <genre>Ficcion,Infantil</genre>
 <year>2019</year>  
 <thumbnail>https://i.imgur.com/OXm001H.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Una, acompañada de un robot alienígena, tienen 24 horas para encontrar a su abuelo que fue secuestrado por extraterrestres.</info>
-<urlsolve>{"titulo" : "[COLOR white]Castellano Server 1[/COLOR]","url" : "https://upstream.to/i7u9am9hmqi3"},{"titulo" : "[COLOR gold]Castellano Server 2[/COLOR]","url" : "https://mixdrop.to/f/n0gzm4z6teon1"}</urlsolve>
+<urlsolve>https://sbembed.com/e/te8wpuqx4r7m</urlsolve>
 </item>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -2727,13 +2727,13 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 "Tag= Malu3 , 1Animacion, 1Fantastico, 1Infantil, Japon, A1988 "
 <item>
-<title>[COLOR white]Mi vecino Totoro [COLOR lime](1988)[/COLOR]</title>    
+<title>[COLOR white]Mi vecino Totoro [COLOR blue](1988)[/COLOR]</title>    
 <genre>Animacion,Fantastico,Infantil</genre>
 <year>1988</year>  
 <thumbnail>https://i.imgur.com/MP6b4Cw.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>En los años 50, una familia japonesa se traslada al campo. Las dos hijas, Satsuki y Mei, entablan amistad con Totoro, un espiritu del bosque. El padre es un profesor universitario que estimula la imaginacion de sus hijas relatandoles fabulas e historias magicas sobre duendes, fantasmas y espiritus protectores de los hogares, mientras la madre se encuentra enferma en el hospital.</info>
-<urlsolve>https://cloudvideo.tv/iv6lwj3bcsvy</urlsolve>
+<urlsolve>https://sbembed.com/e/le8xn0qvhke3</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -2741,35 +2741,35 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 "Tag= Malu3 , 1venturas, 1Familiar, Francia, A2018, "
 <item>
-<title>[COLOR white]Mia y el leon blanco [COLOR lime](2018)[/COLOR]</title>    
+<title>[COLOR white]Mia y el leon blanco [COLOR blue](2018)[/COLOR]</title>    
 <genre>Aventuras</genre>
 <year>2018</year>  
 <thumbnail>https://i.imgur.com/FrqzQVG.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Una joven que se ha trasladado con sus padres desde Londres a africa desarrolla un vinculo sorprendente y especial con un leon salvaje. Su increible amistad la impulsa a viajar por la sabana para salvar a su mejor amigo.</info>
-<urlsolve>{"titulo" : "[COLOR cyan]Opcion 1 [/COLOR]","url" : "https://cloudvideo.tv/yuf6j1z360w2"},{"titulo" : "[COLOR yellow]Opcion 2[/COLOR]","url" : "http://ok.ru/video/1111591881413"}</urlsolve>  
+<urlsolve>https://sbembed.com/e/au3yr0krw3w5</urlsolve>  
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <item>
-<title>[COLOR white]Mirai, mi hermana pequeña  [COLOR lime](2018)[/COLOR]</title>    
+<title>[COLOR white]Mirai, mi hermana pequeña  [COLOR blue](2018)[/COLOR]</title>    
 <genre>Animacion,Drama, Fantastico</genre>
 <year>2018</year>  
 <thumbnail>https://i.imgur.com/BI6LH0i.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Kun, un niño mimado y consentido de cuatro años al que sus padres dejan de prestar atencion cuando nace su hermana Mirai, empieza a sufrir situaciones en casa que nunca habia vivido. Pero entonces, la version adolescente de su hermana viaja en el tiempo desde el futuro para vivir junto a Kun una aventura extraordinaria mas alla de lo imaginable.</info>
-<urlsolve>https://cloudvideo.tv/bxtjqnum0low</urlsolve>
+<urlsolve>https://sbembed.com/e/j9ot2byu9x98</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
-<title>[COLOR white]Mision Katmandu  [COLOR lime](2017)[/COLOR]</title>    
+<title>[COLOR white]Mision Katmandu  [COLOR blue](2017)[/COLOR]</title>    
 <genre>Animacion,Comedia</genre>
 <year>2017</year>  
 <thumbnail>https://i.imgur.com/XEtTOEr.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Nelly es una detective novata y Simon es un investigador de ciencia que deben trabajar juntos en una loca aventura para probar la existencia del Monstruo de las Nieves. Para lograr este objetivo Simon sigue el diario de un explorador desaparecido donde da la ubicacion de la guarida secreta de la criatura. Acompañados de Tenzig el guia y Jazzmin un pajaro parlanchin, estos heroes se enfrentan a una serie de peligros en los Himalayas mientras buscan a el legendario monstruo.</info>
-<urlsolve>https://cloudvideo.tv/11fs7yegmzfv</urlsolve>
+<urlsolve>https://sbembed.com/e/swb7cxsthjik</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -2790,49 +2790,48 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 "Tag= Malu3,1Animacion, 1Infantil, Disney, "
 <item>
-<title>[COLOR white]Mulan [/COLOR][COLOR cyan](1998)[/COLOR]</title>    
+<title>[COLOR white]Mulan [/COLOR][COLOR blue](1998)[/COLOR]</title>    
 <genre>Animacion, Aventuras, Accion, Comedia, Musical</genre>
 <year>1998</year>  
 <thumbnail>https://i.imgur.com/KPIZSgL.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Mulan, una joven china hija unica de la familia Fa, en lugar de buscar novio, como sus amigas, trata por todos los medios de alistarse en el ejercito imperial para evitar que su anciano padre sea llamado a filas para defender al Emperador del acoso de los Hunos. Cuando el emisario imperial lleva a cabo la orden de reclutar a los varones de todas las familias, Mulan se hara pasar por soldado y se sometera a un duro entrenamiento hasta hacerse merecedora de la estima y de la confianza del resto de su escuadron.</info>
-<urlsolve>https://mixdrop.to/e/xo4uahej?k=40d4933314c3fd2efb6a95e45e64d232&t=1596233116&referrer=https%3A%2F%2Fwww.gnula.co%2Fenlace%2Fver%2F54e2a832f4f597c10e7fb911bfe777422a18ab0d196cf68aa3a3f02c31fd2d25f56f75079f81a486a48d0ccaebe2bd079ff04d1caed84e1b1bc75d1cba3ebb620fb56833969e%2F</urlsolve> 
-</item>
+<urlsolve>https://sbembed.com/e/17s1loaypqkk</urlsolve>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 "Tag= Malu3, 1Animacion, 1Aventuras, 1Comedia, 1Musical, 1Infantil, A2004, Letra M, EEUU, Secuela, Disney, C720, "
 <item>
-<title>[COLOR white]Mulan 2 [COLOR cyan](2004)[/COLOR]</title>    
+<title>[COLOR white]Mulan 2 [COLOR blue](2004)[/COLOR]</title>    
 <genre>Animacion, Aventuras, Comedia, Musical, Infantil</genre>
 <year>2004</year>  
 <thumbnail>https://i.imgur.com/RMmOJeD.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>La leyenda de Mulan continua en esta nueva aventura. La bella y valiente heroina Mulan, siempre acompañada por su dragon guardian, Mushu y sus nuevos amigos, recibe la noticia mas emocionante de su vida cuando el General Shang pide su mano en matrimonio, pero las sorpresas acaban de comenzar... El travieso Mushu intentara separar a la feliz pareja durante el tiempo que sea posible para mantener asi su trabajo como dragon guardian. Ademas Mulan y Shang tendran que escoltar por toda China a tres princesas que se dirigen a celebrar sus respectivos matrimonios, previamente concertados. Cuando Mulan descubre que ninguna de ellas desea estos matrimonios tomara una decision que cambiara el curso de la historia. </info>
-<urlsolve>https://mixdrop.to/e/knwknjgltkqxw9?k=29bc3194546b3ca390a393293d168878&t=1596233228&referrer=https%3A%2F%2Fwww.gnula.co%2Fenlace%2Fver%2F6a013d63418b078c55daf18a0e102657b977a41fa1f2ecd1ccf9eccdcdd7de3b08dc973d6279925eeb4238012b848d8d5e2aadd29ce62d4eda19fe5586474c274e0dc343e5a8%2F</urlsolve> 
+<urlsolve>https://sbembed.com/e/8preig8y5z6z</urlsolve> 
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, 1Accion, 1Aventuras, 1Belico, A2020, Letra M, EEUU, Secuela, Disney, C720, "
 <item>
-<title>[COLOR white]Mulan [COLOR lime](2020)[/COLOR]</title>    
+<title>[COLOR white]Mulan [COLOR blue](2020)[/COLOR]</title>    
 <genre>Aventuras,Accion,Belico</genre>
 <year>2020</year>  
 <thumbnail>https://i.imgur.com/pv2Bkai.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Narra la historia de Mulan, una intrepida joven lo arriesga todo por amor a su familia y a su pais hasta convertirse en una de las mayores guerreras de la historia de China. Cuando el emperador de China decreta que un hombre de cada familia debe servir en el Ejercito Imperial para defender al pais de los invasores del norte, Hua Mulan, la hija mayor de un condecorado guerrero, decide ocupar el lugar de su padre enfermo. Haciendose pasar por un hombre, Hua Jun, se enfrenta a constantes desafios y debera aprender a canalizar su fuerza interior y a aceptar su verdadero potencial. Un viaje epico que la convertira en una reconocida guerrera y le permitira ganarse el respeto de una nacion agradecida... y de un padre orgulloso. Remake del clasico de Disney.</info>
-<urlsolve>https://mixdrop.to/e/xoo8q0k1i1r37z</urlsolve>
+<urlsolve>https://sbembed.com/e/mu7p0i536t4d</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
  
  "Tag= Malu3, 1Animacion, 1Musical, 1Infantil, A1946, Letra M, EEUU, Disney, C720, "
 <item>
-<title>[COLOR white]Musica, Maestro [COLOR lime](1946)[/COLOR]</title>    
+<title>[COLOR white]Musica, Maestro [COLOR blue](1946)[/COLOR]</title>    
 <genre>Animacion, Musical, Infantil</genre>
 <year>1946</year>  
 <thumbnail>https://i.imgur.com/oic1MB2.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Antologia musical animada compuesta por 10 fragmentos: 'The Martins and the Coys', 'Blue Bayou', 'All the Cats Join In', 'Without You', 'Casey At the Bat', 'Two Silhouettes', 'Peter and the Wolf', 'After You've Gone', 'Johnny Fedora and Alice Blue Bonnett', 'The Whale Who Wanted To Sing At the Met'.CS.</info>
-<urlsolve>https://cloudvideo.tv/3r6xtu6lsfr8</urlsolve> 
+<urlsolve>https://sbembed.com/e/72lla1mheacw</urlsolve> 
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -3012,13 +3011,13 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
-<title>[COLOR white]Pequenos Gigantes [COLOR lime](1994)[/COLOR]</title>    
+<title>[COLOR white]Pequenos Gigantes [COLOR blue](1994)[/COLOR]</title>    
 <genre>Comedia, Deportes</genre>
 <year>1994</year>  
 <thumbnail>https://i.imgur.com/gwdhNqy.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Danny O'Shea siempre ha vivido a la sombra de su hermano, el gran jugador de fútbol americano Kevin O'Shea. Kevin siempre fue el más grande, más fuerte, más rápido y más popular. Después de una brillante carrera, Kevin vuelve con su familia a su pueblo natal, donde organiza una liga infantil de fútbol. Sin embargo, a pesar que su sobrina (la hija de Danny) es la mejor jugadora, no la selecciona para el equipo representante del pueblo. Cuando se entera de que su hija es rechazada, Danny reunirá a una cuadrilla de los más flojuchos y regordetes del lugar para enseñarle una lección a su hermano.</info>
-<urlsolve>https://ok.ru/video/333372328582</urlsolve>
+<urlsolve>https://sbembed.com/e/jwhr3d9n6gxu</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3,1Animacion, 1Infantil,Disney, "
