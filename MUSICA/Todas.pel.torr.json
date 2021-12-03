@@ -1822,7 +1822,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Accion, A2021, Letra E, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Drama, 1Accion, A2021, Letra E, EEUU, ",
 			"name": "El ultimo duelo (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/tzW96vTfVUFLO5QAHFeCmMa6fLB.jpg",
 			"info": "Basada en hechos reales. Francia, 1386. Cuenta el enfrentamiento entre el caballero Jean de Carrouges (Matt Damon) y el escudero Jacques LeGris (Adam Driver), al acusar el primero al segundo de abusar de su esposa, Marguerite de Carrouges (Jodie Comer). El Rey Carlos VI decide que la mejor forma de solucionar el conflicto es un duelo a muerte. El que venza será el ganador, sin embargo, si lo hace el escudero, la esposa del caballero será quemada como castigo por falsas acusaciones.",
@@ -1830,7 +1830,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.ultimo.duelo.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:0A324F854F411239F14026B18E2D0310EC7A1F43&dn=HD1080	magnet:?xt=urn:btih:81B4EAA23F66D923581CEDD8FDBA3FDD2D61CB8D&dn=BR1080	
-				"torrent4k": ""	
+				"torrent4k": "magnet:?xt=urn:btih:BFC8F21A9E7CCD27881D22DD85AA729CE41DD187&dn=Web4K"	
 				}		
 			]
 			},
