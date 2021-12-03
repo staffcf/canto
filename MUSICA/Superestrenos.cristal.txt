@@ -5,6 +5,19 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Soltero hasta navidad [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.8[/COLOR]</title> 
+<genre>Comedia,Romance,Navidad</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/bfZPNzAwUQZ6FZQi1d136KLr3wl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/NTr02Xsg7XVpPZfwqihbHtbvx5.jpg</fanart>
+<info>Peter, buscando desesperadamente evitar el juicio de su familia dado su eterno estatus como soltero, convence a su mejor amigo Nick para que finja que están en una relación entre ellos y le acompañe durante las festividades navideñas.
+<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/kCQxxqdowOg"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/r4nxrueky61m0x2"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/j9g0mp9wtv4xkj"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/d8k8mym0nhcf"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/98oqy5ktc285"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-hb1h1dutaibm.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1ErJct8QJias-8VTSWJzGojRRnElBG3Bc/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Carrusel de Navidad [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.0[/COLOR]</title> 
 <genre>Drama,Romance,Navidad</genre>
 <year>2021</year>
