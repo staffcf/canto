@@ -13,7 +13,7 @@
 	- 1SerieTitle:"LA CASA DE PAPEL", SerieTemp:"PARTE 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://i.imgur.com/JPGqbir.jpg", 
 	- 1SerieTitle:"LA CASA DE PAPEL", SerieTemp:"PARTE 3", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/yHRTXTQmN04cZ5UWxKKreyBNyCi.jpg", 
 	- 1SerieTitle:"LA CASA DE PAPEL", SerieTemp:"PARTE 4", SerieID:"SERIETEMP4", SerieIDT:"TORRENTTEMP4", SerieThumbail:"https://www.themoviedb.org/t/p/original/kvp2I1cKQ8pTzhBIxIyAjscsfxL.jpg", 	
-	- 1SerieTitle:"LA CASA DE PAPEL", SerieTemp:"PARTE 5 - VOLUMEN 1", SerieID:"SERIETEMP5", SerieIDT:"TORRENTTEMP5", SerieThumbail:"https://www.themoviedb.org/t/p/original/wcijC3hrcahKOUTMQeoUWbMqnYA.jpg",
+	- 1SerieTitle:"LA CASA DE PAPEL", SerieTemp:"PARTE 5", SerieID:"SERIETEMP5", SerieIDT:"TORRENTTEMP5", SerieThumbail:"https://www.themoviedb.org/t/p/original/gBUfuGAcLf15SwgpufmdGxnYnRs.jpg",
 	
 	
 -->
@@ -268,6 +268,24 @@
 ======================================================================
 			"Tag= TORRENTTEMP5, "
 			<item>
+			<title>[B][COLOR turquoise]OPCION 0 - [COLOR yellow]CALIDAD 1080</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x0. - Capitulos 1 a 10</title>
+			<torrent>magnet:?xt=urn:btih:DD6B7E07385C23FD0A1C773B2AEFFF8317C7E995&dn=Money.Heist.S05.COMPLETE.SPANISH.1080p.NF.WEBRip.DDP5.1.Atmos.x264-AGLET</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
 			<title>[B][COLOR turquoise]OPCION 1 - [COLOR yellow]CALIDAD 1080</title>
 			<torrent></torrent>
 			</item>
@@ -300,6 +318,36 @@
 			<item>
 			<title>5x05 - Vivir muchas vidas</title>
 			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/La.Casa.de.Papel/LCDP.5x05.Vivir.muchas.vidas.-1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x06 - Válvulas de escape [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x07 - Ciencia ilusionada [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x08 - La teoría de la elegancia [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x09 - Lo que se habla en la cama [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x10 - Una tradición familiar [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
 			</item>
 ======================================================================
 ======================================================================
@@ -342,7 +390,37 @@
 			"Tag= TORRENTTEMP5, "
 			<item>
 			<title>5x05 - Vivir muchas vidas</title>
-			<torrent>magnet:?xt=urn:btih:4ede43bcbc3bdebe8e1972ddddf6d334fd145040&dn=La.casa.de.papel.A.K.A.Money.Heist.S05E05.Vivir.muchas.vidas.DUAL-AUDIO.SPA-ENG.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv</torrent>	
+			<torrent>magnet:?xt=urn:btih:b355ae36d2c04a6d8996fcf64c11193fe0f9cd37</torrent>	
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x06 - Válvulas de escape [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x07 - Ciencia ilusionada [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x08 - La teoría de la elegancia [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x09 - Lo que se habla en la cama [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x10 - Una tradición familiar [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
 			</item>
 ======================================================================
 ======================================================================
@@ -388,47 +466,34 @@
 			<torrent>magnet:?xt=urn:btih:b355ae36d2c04a6d8996fcf64c11193fe0f9cd37</torrent>
 			</item>
 ======================================================================
-======================================================================
 			"Tag= TORRENTTEMP5, "
 			<item>
-			<title> - </title>
+			<title>5x06 - Válvulas de escape [COLOR orangered](PROXIMAMENTE)</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP5, "
 			<item>
-			<title>[B][COLOR turquoise]OPCION 4 - [COLOR yellow]CALIDAD 1080</title>
+			<title>5x07 - Ciencia ilusionada [COLOR orangered](PROXIMAMENTE)</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP5, "
 			<item>
-			<title>5x01 - El final del camino</title>
-			<torrent>magnet:?xt=urn:btih:65850f075a274eafa1e15fd4bcc0b40b00d4c796&dn=La.casa.de.papel.A.K.A.Money.Heist.S05E01.El.final.del.camino.DUAL-AUDIO.SPA-ENG.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv</torrent> 
+			<title>5x08 - La teoría de la elegancia [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP5, "
 			<item>
-			<title>5x02 - ¿Crees en la reencarnación?</title>
-			<torrent>magnet:?xt=urn:btih:1d9092bdd154b7db77001278b901ebf7e849d8fe&dn=La.casa.de.papel.A.K.A.Money.Heist.S05E02.Crees.en.la.reencarnacion.DUAL-AUDIO.SPA-ENG.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv</torrent>	
+			<title>5x09 - Lo que se habla en la cama [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP5, "
 			<item>
-			<title>5x03 - El espectáculo de la vida</title>
-			<torrent>magnet:?xt=urn:btih:1225854b2c8a604eda578aaa605b251ac3f5d8d7&dn=La.casa.de.papel.A.K.A.Money.Heist.S05E03.El.espectaculo.de.la.vida.DUAL-AUDIO.SPA-ENG.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv</torrent>	
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP5, "
-			<item>
-			<title>5x04 - Tu sitio en el cielo</title>
-			<torrent>magnet:?xt=urn:btih:854b6c220de0158c1829f8d72e8b40b4589d3053&dn=La.casa.de.papel.A.K.A.Money.Heist.S05E04.Tu.sitio.en.el.cielo.DUAL-AUDIO.SPA-ENG.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv</torrent>	
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP5, "
-			<item>
-			<title>5x05 - Vivir muchas vidas</title>
-			<torrent>magnet:?xt=urn:btih:4ede43bcbc3bdebe8e1972ddddf6d334fd145040&dn=La.casa.de.papel.A.K.A.Money.Heist.S05E05.Vivir.muchas.vidas.DUAL-AUDIO.SPA-ENG.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv</torrent>	
+			<title>5x10 - Una tradición familiar [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
 			</item>
 ======================================================================
 ======================================================================
@@ -440,7 +505,7 @@
 ======================================================================
 			"Tag= TORRENTTEMP5, "
 			<item>
-			<title>[B][COLOR turquoise]OPCION 5 - [COLOR yellow]CALIDAD 720</title>
+			<title>[B][COLOR turquoise]OPCION 4 - [COLOR yellow]CALIDAD 720</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
@@ -472,6 +537,36 @@
 			<item>
 			<title>5x05 - Vivir muchas vidas</title>
 			<torrent>magnet:?xt=urn:btih:a04ad1056b8bab695b4a0b2dfd948cf218341f37</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x06 - Válvulas de escape [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x07 - Ciencia ilusionada [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x08 - La teoría de la elegancia [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x09 - Lo que se habla en la cama [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x10 - Una tradición familiar [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
 			</item>
 ======================================================================
 ======================================================================
@@ -534,46 +629,3 @@
 =======================================================================
 
 
-
-
-<!--
- TEMPORADA 5 PARTE 2
--->
-<!--
-
-
-
-			"Tag=  "
-			<item>
-			<title>5x06 - Capitulo 6   [COLOR orangered](03-12-21)</title>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag=  "
-			<item>
-			<title>5x07 - Capitulo 7   [COLOR orangered](03-12-21)</title>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag=  "
-			<item>
-			<title>5x08 - Capitulo 8   [COLOR orangered](03-12-21)</title>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag=  "
-			<item>
-			<title>5x09 - Capitulo 9   [COLOR orangered](03-12-21)</title>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag=  "
-			<item>
-			<title>5x10 - Capitulo 10   [COLOR orangered](03-12-21)</title>
-			<torrent></torrent>
-			</item>
-======================================================================
-======================================================================
-======================================================================
-
-======================================================================
