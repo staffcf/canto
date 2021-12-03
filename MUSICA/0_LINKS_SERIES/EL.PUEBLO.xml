@@ -1,0 +1,73 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ EL PUEBLO
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"EL PUEBLO", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/34JHQ7FyCyw9ztdifXzGXGlfwel.jpg",
+	- 1SerieTitle:"EL PUEBLO", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/3LPfKV9TpxM5Xc04MBYdiIEhcNx.jpg",
+	- 1SerieTitle:"EL PUEBLO", SerieTemp:"TEMPORADA 3", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/fj7av7Ny6yvlWFoP9hATlSfjPnU.jpg",
+	
+-->
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 1 y 2</title>
+			<torrent>magnet:?xt=urn:btih:4E94CA58C894C5E1358F7A40AE85FAA319225834&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 3 a 8</title>
+			<torrent>magnet:?xt=urn:btih:44FD93E3B36A5303265C4EA1507D6637371223AF&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x07 - Capitulo 7</title>
+			<torrent>magnet:?xt=urn:btih:97D8EDEBBF75FDBB61E19E378FB9C1AED384FB50&dn=HDTV</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x0. - Capitulos 1 a 6</title>
+			<torrent>magnet:?xt=urn:btih:DDE53AC0452568CFA93762586C9D2D89599131A5&dn=HDTV</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x0. - Capitulos 1 y 2</title>
+			<torrent>magnet:?xt=urn:btih:F1375A01735D88796ABC3756DFF7328548F2153C&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x0. - Capitulos 3 y 4</title>
+			<torrent>magnet:?xt=urn:btih:AB1C85328597CFF9D245FEDFCD607D6BB3FF4255&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x0. - Capitulos 5 y 6</title>
+			<torrent>magnet:?xt=urn:btih:6024389C9D2D46B1C29181069CE90E294D370765&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x0. - Capitulos 7 y 8</title>
+			<torrent>magnet:?xt=urn:btih:F967D483933080A8ACEEFF4C4E873741AE30622E&dn=HDTV</torrent>
+			</item>
+======================================================================
+======================================================================
