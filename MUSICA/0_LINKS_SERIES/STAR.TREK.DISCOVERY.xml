@@ -35,8 +35,7 @@
 			"Tag= TORRENTTEMP1, "
 			<item>
 			<title>1x03 - El contexto es para los reyes</title>
-			<GDRIVE>magnet:?xt=urn:btih:26EA3D96303D125EB4E094070676EB9B3AF556CF</GDRIVE>
-			<torrent></torrent>
+			<torrent>magnet:?xt=urn:btih:26EA3D96303D125EB4E094070676EB9B3AF556CF</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
@@ -60,15 +59,13 @@
 			"Tag= TORRENTTEMP1, "
 			<item>
 			<title>1x07 - La magia que vuelve loco al hombre cuerdo</title>
-			<GDRIVE>magnet:?xt=urn:btih:BBBBAE0A9951E79DBCBCBEF0962B1AD2F771AE74</GDRIVE>
-			<torrent></torrent>
+			<torrent>magnet:?xt=urn:btih:BBBBAE0A9951E79DBCBCBEF0962B1AD2F771AE74</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
 			<title>1x08 - Si vis pacem, para bellum</title>
-			<GDRIVE>magnet:?xt=urn:BTIH:82498FEF64070D626A4394552E3C9B7FD3978FDF</GDRIVE>
-			<torrent></torrent>
+			<torrent>magnet:?xt=urn:BTIH:82498FEF64070D626A4394552E3C9B7FD3978FDF</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
@@ -295,10 +292,10 @@
 			<torrent>magnet:?xt=urn:btih:209CD5B671D8B0CF9D233628F118498F56C92EAD&dn=HD720</torrent>
 			</item>
 ======================================================================
-			"Tag=  "
+			"Tag= TORRENTTEMP4, "
 			<item>
 			<title>4x03 - Elige vivir</title>
-			<torrent></torrent>
+			<torrent>magnet:?xt=urn:btih:07A0F7F5E431938B05A23483237C585B5389D9F7&dn=HD720</torrent>
 			</item>
 ======================================================================
 			"Tag=  "
