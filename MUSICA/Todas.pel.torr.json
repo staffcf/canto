@@ -77,6 +77,8 @@ Title:ATTRACTION, SagaID:Attraction, Imagen:https://www.themoviedb.org/t/p/origi
 							-	0Saga, 1SagaTorrent, 
 Title:BATMAN, SagaID:Batman, Imagen:https://www.themoviedb.org/t/p/original/gmU7P3FzGFsl2wiSDhx9znZCNub.jpg,	
 							-	0Saga, 1SagaTorrent, 
+Title:BATTLE ROYALE, SagaID:BattleRoyale, Imagen:https://www.themoviedb.org/t/p/original/rUWyoYJ6y3c3ipKn6te4FWWypT3.jpg,	
+							-	0Saga, 1SagaTorrent, 
 Title:BLADE, SagaID:Blade, Imagen:https://www.themoviedb.org/t/p/original/PDuKQeQkRHkdx7rY147VBVN5Ef.jpg,	
 							-	0Saga, 1SagaTorrent, 
 Title:BOURNE, SagaID:Bourne, Imagen:https://www.themoviedb.org/t/p/original/ilaZC6JuYwGfOBexpo6U1redAgj.jpg,
@@ -38975,6 +38977,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, A2003, Letra B, Japon, Sagas BattleRoyale, ",
+			"name": "Battle Royale 2: Requiem (2003)","coloryear": "darkviolet",
+			"image": "https://www.themoviedb.org/t/p/original/v32LuSHdMEn25rmKeDvxV9tK30u.jpg",
+			"info": "Tres años después de los sucesos de 'Battle Royale', Shuya Nanahara es un famoso terrorista que está empeñado en derrocar al gobierno. Como respuesta, ellos ordenan la creación del programa 'Battle Royale 2' y enviar a una clase de estudiantes de secundaria para buscarlo y matarlo",
+			"genero": "Accion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Battle.Royale.2-Requiem.-2003.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Ciencia ficcion, A2003, Letra B, Spain, ",
 			"name": "Beyond Re-Animator (2003)","coloryear": "darkviolet",
 			"image": "https://www.themoviedb.org/t/p/original/7rPGsqp3UF6Gc5ObIfTYpqM7Dsn.jpg",
@@ -40314,7 +40329,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Accion, A2000, Letra B, Japon, A2000-19991, 1Culto, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Accion, A2000, Letra B, Japon, A2000-19991, 1Culto, Sagas BattleRoyale, ",
 			"name": "Battle Royale (2000)","coloryear": "gold",
 			"image": "https://www.themoviedb.org/t/p/original/pH2RdXNEcWMEjE7uN8Vhzbk4NZr.jpg",
 			"info": "En el amanecer de un nuevo milenio, el país está al borde del colapso. Millones de personas vagan sin empleo. La violencia en la escuela está descontrolada y adolescentes rebeldes protagonizan boicots masivos. El gobierno contrataca con 'Battle Royale'. Cada año, una clase es escogida al azar para que se enfrente, en una isla abandonada, a un cruel juego de supervivencia.",
