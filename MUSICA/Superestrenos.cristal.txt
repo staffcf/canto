@@ -15,6 +15,17 @@
 </item>
 
 
+<item>
+<title>[COLOR white] La cinta de musica [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.5[/COLOR]</title> 
+<genre>Comedia,Drama,Romance,Familia</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/2fpG1PiHPHdLt8X2e7WAct7EVB7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tf81EFI4hMfflKgc8beIMwhFbu2.jpg</fanart>
+<info>En la víspera del año 2000, Beverly Moody (Gemma Brooke Allen), una desgarbada huérfana de 12 años, descubre un casete roto en el que sus padres adolescentes grabaron canciones que les gustaban. Beverly se ha criado con su abuela Gail (Julie Bowen), quien también fue madre adolescente y a la que le resulta doloroso hablar de su difunta hija. Para Beverly, la cinta supone una oportunidad de conocer algo mejor a sus padres, y se propone encontrar todas esas canciones. Por el camino, se hace amiga de su peculiar vecina, Ellen (Audrey Hsieh); de Nicky (Olga Petsa), una chica dura e intimidante; y de Anti, el propietario de una tienda de discos declarado ‘antitodo’, que posee la clave para localizar las canciones... y para forjar un nuevo vínculo entre Gail y Beverly.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/SV6LLpXiIMA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/pwnxdtmpkd3gry1"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/l6rme1k7im9pnm"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/gohuvsr5dye2"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/98oqy5ktc285"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-r3ihe82r706v.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1JVouNQXiTClqt6SzlEM8DqIIYIa2JBlT/view"}</urlsolve>
+</item>
+
+
 
 <item>
 <title>[COLOR white] El reflejo del diablo [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.4[/COLOR]</title> 
