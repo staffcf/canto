@@ -148,6 +148,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Auga Seca[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Auga.Seca</externallink>
+<info>Serie de TV (2020-Actualidad). Primera temporada: 6 episodios. Paulo Duarte aparece muerto en el puerto de Vigo. Un aparente suicidio que no convence a nadie: ni a su hermana Teresa, ni al inspector Viñas. Teresa decide dejar su vida en Lisboa y mudarse a Vigo para averiguar qué sucedió con su hermano.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/8BE6eX73TrROYzw6pyaYa72XrSt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/r0ee2OCEysIBdS4PiIbDpPN4h0o.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Away[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Away.xml</externallink>
@@ -407,6 +416,15 @@
 <info>Tras 32 años de servicio, el agente de fronteras Ben Clemens (Michael Chiklis) se da cuenta de que en el fondo está ayudando al tipo de gente que ha tratado siempre de mantener fuera de los Estados Unidos. </info>
 <thumbnail>https://i.imgur.com/Uv3Hxyz.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/4J713WSLvfKFp7ZiZQopB7vXtNN.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Coyotes[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Coyotes</externallink>
+<info>Una tropa de exploradores llega a Warnaffe para su gran campamento de verano. Entre ellos, el miembro más nuevo de la patrulla Coyotes, Kevin, un niño rebelde y solitario. Desde la primera noche, se va a buscar algo para fumar en el pueblo vecino. Allí conoce a Marie con quien se enamora a primera vista. Pasan la noche junto a un lago en una cantera. Al día siguiente, todavía bajo los efectos de las drogas, Kevin se sumerge en el lago, descubre una cueva, diamantes y el cadáver de un joven. Aquí es donde empezaron los problemas.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/odVPD7IWfbH0j8NsLxQd5l0qseR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hgtn8n55ds83qYNUgcP6NJ4roKm.jpg</fanart>
 </item>
 
 <item>
@@ -2464,6 +2482,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 <info>Serie de TV (2019-2021). 2 temporadas. 14 episodios. Serie que se adentra en la vida de tres mujeres que, habiendo superado la treintena, están en plena crisis existencial. La primera de ellas es María (Leticia Dolera), una dentista calculadora que, cuando está a punto de ejecutar su plan de vida, éste se va al traste y entonces decide dejarse llevar y comete una locura con consecuencias. La segunda es la hermana de María, Esther (Aixa Villagrán), una pintora que no logra vivir de su arte. Es una mujer muy divertida, carismática y hedonista, que no tiene miedo a que le juzguen, pero que se ha quedado en la adolescencia y no acaba de encontrarse. Y por último se encuentra la amiga de ambas, Cristina (Celia Freijerio), una abogada en lo más alto de su carrera, casada y con dos hijas que, pese a llevar la vida que siempre había soñado, se siente profundamente vacía e infeliz.</info>
 <thumbnail>https://i.imgur.com/w2eqQfy.jpg</thumbnail>
 <fanart>https://i.imgur.com/jsTf75g.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Vienna Blood[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Vienna.Blood</externallink>
+<info>Serie de TV (2019-Actualidad). Max Liebermann, un estudiante de Sigmund Freud, ayuda al detective Rheinhardt en la investigación de una serie de perturbadores crímenes en la Viena del año 1900.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/owekqSuiRnqmwqogYP30Gf6xS2Z.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/giyjjuUlSHxVbZsy6IWG8jOZcbI.jpg</fanart>
 </item>
 
 <item>
