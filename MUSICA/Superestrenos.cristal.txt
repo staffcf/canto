@@ -17,6 +17,18 @@
 
 
 <item>
+<title>[COLOR white] El reflejo del diablo [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.4[/COLOR]</title> 
+<genre>Terror</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/lOW4X8yTuqHwE4OE2qwlSQHrcQx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wvbjQivN3QKdJcKXSPVYBRNG410.jpg</fanart>
+<info>Basada en el folclore ruso. Cuatro niños despiertan a un demonio femenino llamado Queen of Spades creyendo que sólo es un juego. Cuando a los pocos días dos de ellos mueren en un accidente, Anna intenta convencer a su madre de que la maldición es real. Con la ayuda de un experto cuyo hijo fue asesinado por esta entidad, intentarán deshacerse de la maldición.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/aD6ZAYeoESk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/5knj1sdmk8-nlwq"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/o7r8pk99hzq0k4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/uhs3qode5hnl"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/zf0dsu2ezcfe"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-z7v5gyulbfo0.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1CFwg2D6Cjc1Fzt4-1wb7U82dgjKbU-an/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Soltero hasta navidad [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.8[/COLOR]</title> 
 <genre>Comedia,Romance,Navidad</genre>
 <year>2021</year>
