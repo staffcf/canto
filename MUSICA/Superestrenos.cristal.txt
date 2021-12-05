@@ -16,6 +16,17 @@
 
 
 <item>
+<title>[COLOR white] Charlatan [/COLOR][COLOR yellow](2021) [genre>COLOR aqua]*6.4[/COLOR]</title> 
+<genre>Historia,Drama,Basado en hechos reales</
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/ieNkSMJuJAnMPWAVP0u1PJx1lcV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rQKT8xIyvhWv7A0eQ6mZ84UL11I.jpg</fanart>
+<info>Nacido a principios del siglo XX, el herbolario Jan Mikolasek se hizo rico y famoso después de curar innumerables enfermedades con medios poco ortodoxos. Verdadero emblema de Checoslovaquia antes de la Segunda Guerra Mundial, el curandero se hizo aún más apreciado durante la ocupación nazi y el régimen comunista. Cada régimen aprecia su habilidad y lo protege. Pero, ¿cuánto le costará mantener su estatus en un nuevo cambio político?<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/s-Okx8UG5f4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/wrn56inlm0wrqmy"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/xo6k04dwiweqg9"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/q4fvkjlmqb5a"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/rycrimbwydrn"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-aerq105lla9x.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1j9eeQbRwQuNmJWKrlbD88SSJGnwrrTmw/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] La cinta de musica [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.5[/COLOR]</title> 
 <genre>Comedia,Drama,Romance,Familia</genre>
 <year>2021</year>
