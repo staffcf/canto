@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] David y los elfos [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.5[/COLOR]</title> 
+<genre>Comedia,Familia,Fantasía,Adventure</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/AtpnwDfKBlcPokEGcaxWO2fmiNl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/13MNZaAKNoSZpOs5HULVNQwZYjB.jpg</fanart>
+<info>La Navidad se acerca, pero no es una época feliz para David. Después de mudarse a una gran ciudad, sus padres se han atascado con el trabajo y han olvidado el significado de la Navidad. David decide cambiar eso. Junto con Albert el Elfo, que escapó de la tierra de Santa para descubrir de qué se trata la Navidad, David emprende un viaje lleno de aventuras hacia las montañas Tatra, donde viven sus abuelos.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Jp-IKyT5FqQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/kx4-1i36w5x-qr1"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/3nxm8vg9umv8rkq"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/gbta148lbqts"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/sufobxxguzx2"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-fuwhr0krt9dh.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1FxsbfpmX9CI_kMRXXlcQuSSwZBQP6rsu/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Cuestion de sangre [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.9[/COLOR]</title> 
 <genre>Drama,Suspense,Crimen</genre>
 <year>2021</year>
