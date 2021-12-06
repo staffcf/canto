@@ -193,7 +193,7 @@
 			"genero": "Documental",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:142EC676FBAB7FB17C5FA4D4500FA04911A6C80D&dn=HD720",		magnet:?xt=urn:btih:316EB913BE165275B5C53330FE777F64DBC8A0A2&dn=Money.Heist.From.Tokyo.To.Berlin.S01E01.1080p.NF.WEBRip.DDP5.1.x264-SKiZOiD
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/La.casa.de.papel-Documentales/1x01.-LCDP-De.Tokyo.a.Berlin.-.1080.-.CristalAzul.mkv.torrent",		magnet:?xt=urn:btih:142EC676FBAB7FB17C5FA4D4500FA04911A6C80D&dn=HD720	magnet:?xt=urn:btih:316EB913BE165275B5C53330FE777F64DBC8A0A2&dn=HD1080
 				}		
 			]
 			},
@@ -205,7 +205,7 @@
 			"genero": "Documental",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:78D3AC7D2E6396152223DDBCC2C89278F379D713&dn=Money.Heist.From.Tokyo.to.Berlin.S02E01.1080p.WEB.H264-BIGDOC",	
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/La.casa.de.papel-Documentales/2x01.-LCDP-De.Tokyo.a.Berlin.-.1080.-.CristalAzul.mkv.torrent"	magnet:?xt=urn:btih:78D3AC7D2E6396152223DDBCC2C89278F379D713&dn=HD1080	
 				}		
 			]
 			},
@@ -482,7 +482,7 @@
 			"genero": "Documental",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:F081CD1EB783EEDE4B314F5EDEB21BBB1533261C"
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/La.casa.de.papel-Documentales/La.casa.de.papel-El.fenomeno.-.1080.-.CristalAzul.mkv.torrent"	magnet:?xt=urn:btih:F081CD1EB783EEDE4B314F5EDEB21BBB1533261C
 				}		
 			]
 			},
