@@ -1752,6 +1752,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Nine Perfect Strangers[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Nine.perfect.strangers</externallink>
+<info>Miniserie de TV de 8 episodios (2016). El 22 de noviembre de 1963, los disparos que acabaron con la vida del Presidente Kennedy cambiaron el mundo. El profesor Jake Epping (James Franco) intenta viajar al pasado para impedir el magnicidio, pero su misión se verá amenazada. </info>
+<thumbnail>https://www.themoviedb.org/t/p/original/d2aUPktc72WhSKMV2vfzTlnt1vK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8DFYmwvmXjUFLPKKOUUaxqTLtwq.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]No hables con extraños[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/No.hables.con.extranos.txt</externallink>
