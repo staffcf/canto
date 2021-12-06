@@ -187,14 +187,25 @@
 			},
 			{
 			"tag": " 1Torrent, 1Documental, A2021, Letra L, Spain, C720, ",
-			"name": "La Casa de Papel, de Tokio a Berlin (2021)","coloryear": "cyan",
+			"name": "La Casa de Papel, de Tokio a Berlin [COLOR gold](Parte 1) (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/sTlUIfT2ouUojq6vEHM7ff1zazE.jpg",
 			"info": "Los cineastas de ‘La casa de papel’ y los actores que dan vida a personajes como Tokio y el Profesor hablan del proceso artístico y emocional que supone rodar esta serie",
 			"genero": "Documental",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:CF99DC5886A804582873EBA257BEA02176AFADF3&dn=HD720",	magnet:?xt=urn:btih:142EC676FBAB7FB17C5FA4D4500FA04911A6C80D&dn=HD720
-				"torrent4k": ""
+				"torrent": "magnet:?xt=urn:btih:142EC676FBAB7FB17C5FA4D4500FA04911A6C80D&dn=HD720",		magnet:?xt=urn:btih:316EB913BE165275B5C53330FE777F64DBC8A0A2&dn=Money.Heist.From.Tokyo.To.Berlin.S01E01.1080p.NF.WEBRip.DDP5.1.x264-SKiZOiD
+				}		
+			]
+			},
+			{
+			"tag": " 1Torrent, 1Documental, A2021, Letra L, Spain, C720, ",
+			"name": "La Casa de Papel, de Tokio a Berlin [COLOR gold](Parte 2) (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/sTlUIfT2ouUojq6vEHM7ff1zazE.jpg",
+			"info": "Los cineastas de ‘La casa de papel’ y los actores que dan vida a personajes como Tokio y el Profesor hablan del proceso artístico y emocional que supone rodar esta serie",
+			"genero": "Documental",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:78D3AC7D2E6396152223DDBCC2C89278F379D713&dn=Money.Heist.From.Tokyo.to.Berlin.S02E01.1080p.WEB.H264-BIGDOC",	
 				}		
 			]
 			},
