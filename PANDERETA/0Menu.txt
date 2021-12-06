@@ -828,6 +828,15 @@ El.padre.de.cain</externallink>
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El Pueblo[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.Pueblo</externallink>
+<info>Un grupo de urbanitas huyen de la ciudad por diferentes motivos: crisis existencial, económica, necesidad de aire fresco, búsqueda de la paz, inspiración para componer… La intención de estos extraños es asentarse en un pueblo abandonado y comenzar desde cero sus vidas, pero cuando llegan descubren que todavía hay algunos vecinos: gente rural con una forma muy diferente de ver la vida.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/uxZVarxdmvNSUJvuY3t8YxBNJvG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xzW6NowukcNhBjS917UYBky7xm6.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El tiempo que te doy[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.tiempo.que.te.doy</externallink>
