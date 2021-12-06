@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] El tubo [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.9[/COLOR]</title> 
+<genre>Terror,Ciencia ficción, Suspense,Drama,Misterio</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/2mErvCmba7CDtQBa9cogwDAikEs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/w7kxkSSQy3sZWDC4K8y0m2GYZ2.jpg</fanart>
+<info>Una mujer se despierta dentro de un lugar con extraños conductos y con un brazalete que le va marcando el tiempo de las sucesivas pruebas que tiene que superar para salvar su vida.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/nNd3W-2HEMY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/3p1j2cmqr82qkqg"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/rw4r3l33hgnwqe"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/z6gahdyjcx4q"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/r58a8shqdo5c"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-o0molf5ekouo.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1kkr7HsAgp8iJv3mcqq7fEPZ_Jm_LkaDn/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] David y los elfos [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.5[/COLOR]</title> 
 <genre>Comedia,Familia,Fantasía,Adventure</genre>
 <year>2021</year>
