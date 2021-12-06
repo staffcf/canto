@@ -3,62 +3,69 @@
 ======================================================================
 
 <!--
- DEXTER: NEW BLOOD
+ MOEBIUS
 -->
 <!--
 
 	ETIQUETAS:
 	
-	- 1SerieTitle:"DEXTER: NEW BLOOD", SerieTemp:"TEMPORADA 1", SerieID:"MINI SERIE", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/onnYrRDxvfEAjeXHxq1BoyUF419.jpg",
+	- 1SerieTitle:"MOEBIUS", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/jGW8wzEw65uQ7zALnlFVjihh3J3.jpg",
 	
 -->
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x01 - Ola de frío</title>
-			<torrent>magnet:?xt=urn:btih:4D116C4C6C5774998EF018B7A611B6ADF2903481&dn=HD720</torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title>1x02 - Tormenta de mierda</title>
-			<torrent>magnet:?xt=urn:btih:1F0B7B5717A8535F0CD52C282109B7AFC232EB77&dn=HD720</torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title>1x03 - Señales de humo</title>
-			<torrent>magnet:?xt=urn:btih:A34917A1361E459CAE9346F0E9524731F84E0A5F&dn=HD720</torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title>1x04 - H es por Hero</title>
-			<torrent>magnet:?xt=urn:btih:3802896CFE68918B64965652E3CA19B0F32C9838&dn=HD720</torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title>1x05 - Huir</title>
-			<torrent>magnet:?xt=urn:btih:D019B3B7BDF94F6DD66CFF84F5D400B7238697AA&dn=HD720</torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title>1x06 - Demasiados sándwiches de atún [COLOR orangered](PROXIMAMENTE)</title>
+			<title> - [COLOR yellow]CALIDAD 720</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x07 - Skin of Her Teeth [COLOR orangered](PROXIMAMENTE)</title>
+			<title>1x0. - Capitulos 1 a 4</title>
+			<torrent>magnet:?xt=urn:btih:828BBC3635EF3F4DE82AE717BE610829FB98C903&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 5 a 7</title>
+			<torrent>magnet:?xt=urn:btih:744E4AF1F41B547AF43A601B81A3CE8BA0EDD9F6&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 8 a 10</title>
+			<torrent>magnet:?xt=urn:btih:652289E119AFCD5518DDCF3BCA7052E3F3C6F961&dn=HD720</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
 			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x08 - Big Game [COLOR orangered](PROXIMAMENTE)</title>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
 			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 1 a 4</title>
+			<torrent>magnet:?xt=urn:btih:3E0BCDACA6DD5B4EC33FCD172135C30DD0F45462&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 5 a 7</title>
+			<torrent>magnet:?xt=urn:btih:4F69808B1972C929F0C9EB31955859670E56BC67&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 8 a 10</title>
+			<torrent>magnet:?xt=urn:btih:09B7F7FCD9E28EE09F9194E34629B298622DA0F9&dn=HDTV</torrent>
 			</item>
 ======================================================================
 ======================================================================

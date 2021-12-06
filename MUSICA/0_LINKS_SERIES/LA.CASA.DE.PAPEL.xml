@@ -17,6 +17,10 @@
 	- 1SerieTitle:"LA CASA DE PAPEL", SerieTemp:"PARTE 5 - VOLUMEN 2", SerieID:"SERIETEMP5", SerieIDT:"TORRENTTEMP5vol2", SerieThumbail:"https://www.themoviedb.org/t/p/original/skqqWwuL000GJN9OYOilvF15zQ.jpg",
 	
 	
+	- 1SerieTitle:"DOCUMENTAL", SerieTemp:"LA CASA DE PAPEL: EL FENOMENO", SerieID:"SERIEFENOMENO", SerieIDT:"TORRENTFENOMENO", SerieThumbail:"https://image.tmdb.org/t/p/w600_and_h900_bestv2/AboUXTrDWEi0PuZUqaft0iwBTm7.jpg",	
+	- 1SerieTitle:"DOCUMENTAL", SerieTemp:"LA CASA DE PAPEL: DE TOKYO A BERLIN", SerieID:"SERIETOKIOBERLIN", SerieIDT:"TORRENTTOKIOBERLIN", SerieThumbail:"https://www.themoviedb.org/t/p/original/sTlUIfT2ouUojq6vEHM7ff1zazE.jpg",
+	
+	
 -->
 ======================================================================
 ======================================================================
@@ -743,6 +747,55 @@
 			<title>CALIDAD HDTV - Capitulos 1 a 10</title>
 			<torrent>magnet:?xt=urn:btih:A55002D7B3D64E33650887928D467748058F949E&dn=Money.Heist.S05.COMPLETE.SPANISH.WEBRip.x264-ION10</torrent>
 			</item>
+======================================================================
+======================================================================
+======================================================================
+
+
+
+
+
+
+======================================================================
+======================================================================
+<!--
+
+DOCUMENTALES
+
+-->
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTFENOMENO, "
+			<item>
+			<title>1x01 - LA CASA DE PAPEL: EL FENOMENO</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/La.casa.de.papel-Documentales/La.casa.de.papel-El.fenomeno.-.1080.-.CristalAzul.mkv.torrent</torrent>		
+			magnet:?xt=urn:btih:F081CD1EB783EEDE4B314F5EDEB21BBB1533261C&dn=HD1080
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTOKIOBERLIN, "
+			<item>
+			<title>[COLOR orangered]ALERTA - [COLOR gold]SPOILERS PARTE 5</title>
+			<torrent></torrent>	
+			</item>
+======================================================================
+			"Tag= TORRENTTOKIOBERLIN, "
+			<item>
+			<title>1x01 - Parte 1</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/La.casa.de.papel-Documentales/1x01.-LCDP-De.Tokyo.a.Berlin.-.1080.-.CristalAzul.mkv.torrent</torrent>	
+			magnet:?xt=urn:btih:142EC676FBAB7FB17C5FA4D4500FA04911A6C80D&dn=HD720	
+			magnet:?xt=urn:btih:316EB913BE165275B5C53330FE777F64DBC8A0A2&dn=HD1080
+			</item>
+======================================================================
+			"Tag= TORRENTTOKIOBERLIN, "
+			<item>
+			<title>2x01 - Parte 2</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/La.casa.de.papel-Documentales/2x01.-LCDP-De.Tokyo.a.Berlin.-.1080.-.CristalAzul.mkv.torrent</torrent>	
+			magnet:?xt=urn:btih:78D3AC7D2E6396152223DDBCC2C89278F379D713&dn=HD1080
+			</item>
+======================================================================
 ======================================================================
 ======================================================================
 ======================================================================
