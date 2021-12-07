@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Ida Red: El precio de la libertad [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.5[/COLOR]</title> 
+<genre>Action,Suspense,Crimen,Drama</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/fuDutibVku4FH8TKqnk2qjbMCmZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/m7Y8uF8AS4Jyq6zP5CHgw2Hk4aU.jpg</fanart>
+<info>La delincuente habitual Ida 'Red' Walker está luchando contra una enfermedad terminal mientras cumple una condena de 25 años en el estado corrupto de Oklahoma. Le queda poco tiempo de vida. Su hijo, Wyatt Walker, se ha encargado del negocio familiar junto a su tío. Cuando un trato fracasa, el detective local y cuñado de Wyatt, Collier, se une a un agente del FBI para localizar al responsable.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/CjTLN0CgNcI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/3p1j2cmqrnrw87g"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/o7r8jjqgb9v3wq"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/c41286ej0ds9"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/mu1o67b9zqop"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/nkfmfiafkk6o"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1wJmoElbXXmEWMEOURzNChNccPTMlOwNw/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Especie oculta [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.2[/COLOR]</title> 
 <genre>Misterio,Suspense,Terror,Ciencia ficción</genre>
 <year>2021</year>
