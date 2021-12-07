@@ -1080,6 +1080,15 @@ El.padre.de.cain</externallink>
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Harry Potter:El torneo de las casas de Hogwarts[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Harry.Potter.el.torneo</externallink>
+<info>Este acontecimiento especial en cuatro partes mostrará a fans del universo mágico que quieran poner a prueba sus conocimientos sobre Harry Potter. Lucharán entre sí para conseguir el mayor de los honores: ganar la Copa de las Casas</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/hiLk9o3j2604NTQOlRg2tnOWqH4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/k5cTn4sICp2jp1V6jts8aPcx153.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Hellbound Rumbo al infierno[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Hellbound.Rumbo.al.infierno</externallink>
