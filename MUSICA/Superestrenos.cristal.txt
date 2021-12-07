@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Ultimas navidades [/COLOR][COLOR yellow](2019) [COLOR aqua]*6.5[/COLOR]</title> 
+<genre>Romance,Comedia,Drama, Navidad</genre>
+<year>2019</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/AcVAqTnPSiOtuWIj0zauw5WyjYp.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oqjT71WAbCcZsGENHFNDa1guOAR.jpg</fanart>
+<info>Kate (Emilia Clarke) es una mujer joven que suele tomar siempre la decisión menos acertada. ¿Su último error? Haber aceptado un trabajo como elfo de Santa Claus en un centro comercial. Sin embargo, el destino la lleva a conocer a Tom (Henry Golding), circunstancia que cambia por completo su vida. Para Kate, todo es demasiado bueno para ser cierto.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/LiSiRIXqw6c"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/nn2x6h203wp5y1w"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/6qg884zoull9jge"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/jgpjikuq2oaq"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/sfy55wm49sf5"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/nvth5wsio5vj"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Jsl7mAXI2YV4F9FDpz0B8FsiBYYis3Fa/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Ida Red: El precio de la libertad [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.5[/COLOR]</title> 
 <genre>Action,Suspense,Crimen,Drama</genre>
 <year>2021</year>
