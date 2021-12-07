@@ -401,6 +401,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Club Estambul[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Club.Estambul</externallink>
+<info>Una madre judía trata de reconectar con su hija tras salir de la cárcel en medio del entorno de inestabilidad política de Estambul en los años 50.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/jrqzdQtx89pBQXocFzsBknhfhdT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lzR5l25Ov8aOErnsdqjSPZVPUKq.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Cobra Kai[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Cobra.Kai.txt</externallink>
