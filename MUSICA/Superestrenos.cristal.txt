@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Especie oculta [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.2[/COLOR]</title> 
+<genre>Misterio,Suspense,Terror,Ciencia ficción</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/ouqDca02a6TvRXuaShcaXG3qNrG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fOl85uCudmHRhGGEfxLLaR5GacQ.jpg</fanart>
+<info>Liberty, una joven de 16 años, regresa a casa después de dos meses en un campamento y conoce al prometido de su madre, John Smith, cuyas cualidades parecen demasiado perfectas para ser humanas.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/c7olo2RSYK8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/xpx57c5e2pq-52n"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/enjkj1pmf7lo4k"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/abzqzz23txtk"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/6dbprvs1cvxg"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-5y2anrvbp97b.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/120emSdbb9C_wnpKGVOntmxnYxjXBJ8Si/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] El tubo [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.9[/COLOR]</title> 
 <genre>Terror,Ciencia ficción, Suspense,Drama,Misterio</genre>
 <year>2021</year>
