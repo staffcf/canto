@@ -1125,6 +1125,15 @@ El.padre.de.cain</externallink>
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Hightown[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Hightown</externallink>
+<info>Serie de TV (2020-Actualidad). 2 temporadas. Primera temporada: 8 episodios. Jackie Quiñones (Monica Raymund) es una atormentada agente del Servicio Nacional de Pesca, adicta al alcohol y las drogas, que ve cómo su vida se complica al descubrirse un cadáver en la bahía, en lo que parece ser otra víctima de la epidemia de drogas que asola la zona de Cape Cod.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/kR46u9HNJJSe2yXrw9mfU8z4Oyz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jBXk5dPH9JJMwabbIdbuyv2bMIk.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Instinto[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Instinto</externallink>
