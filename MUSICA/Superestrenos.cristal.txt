@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Mi navidad con Bob [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.3[/COLOR]</title> 
+<genre>Familia,Drama,Navidad</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/mwM2BBxG4XLGvkCX7GbVDt8hjaV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sZChMMbkHsdfAvWPqgpGhW0ta1P.jpg</fanart>
+<info>James Bowen es objeto de una investigación sobre el bienestar de los animales que amenaza con llevarse a su amado gato, Bob, en Navidad.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/MAxsellWJvA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/jy3xpid43jzrzee"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/l6r0j6ddsqvgpz3"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/263qro6w8880"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/g3vik3lo7wdc"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/cgo9qmtezmss"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/15Qc9fUNS-XIfm65e9Oy1raw2za19LIYl/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Ultimas navidades [/COLOR][COLOR yellow](2019) [COLOR aqua]*6.5[/COLOR]</title> 
 <genre>Romance,Comedia,Drama, Navidad</genre>
 <year>2019</year>
