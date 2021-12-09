@@ -558,7 +558,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/r6UNbzr.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Merida, la indomita hija del Rey Fergus y de la Reina Elinor, es una habil arquera que decide romper con una antigua costumbre, que es sagrada para los señores de la tierra: el gigantesco Lord MacGuffin, el malhumorado Lord Macintosh y el cascarrabias Lord Dingwall. Las acciones de Merida desencadenan el caos y la furia en el reino. Ademas, pide ayuda a una sabia anciana que le concede un deseo muy desafortunado. La muchacha tendra que afrontar grandes peligros antes de aprender que es la autentica valentia.</info>
-<urlsolve>https://sendvid.com/id7hrojg</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://sendvid.com/id7hrojg"},{"titulo" : "[COLOR gold]Opcion 2[/COLOR]","url" : "https://sbembed.com/e/mzz5s2nq6vsa"}</urlsolve>
 </item>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= pepeleche2, 1Animacion, 1Aventuras, 1Comedia, A2016, Letra B, EEUU, Pixar, "
