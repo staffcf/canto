@@ -1905,6 +1905,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Partisan[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Partisan</externallink>
+<info>Ubicado en los idílicos alrededores de Jordnära, una comunidad cerrada que administra una granja orgánica de gran éxito. Un hombre acepta una oferta de trabajo y pronto se entera de las reglas y rutinas poco ortodoxas del lugar.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/lI8WfhL4IUN3uNRyY20y8nq7bdZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uKQx7gy2sqadFaRkLBw576Gb6KH.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Patria[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Patria.txt</externallink>
