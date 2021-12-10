@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Cuidado con lo que deseas [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.4[/COLOR]</title> 
+<genre>Comedia,Familia,Fantasía,Navidad</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/4QmmlPcHctr3qXcC1AHCwhyWz5p.jpg</thumbnail>
+<fanart>https://imgur.com/a/OoYCVaT</fanart>
+<info>Ha llegado la Navidad, y Miguel y Laura deciden pasar las vacaciones de invierno con sus hijos pequeños en una cabaña en medio de la montaña. Este año el abuelo Benigno, quien posee un cierto talento místico, no puede pasar los festejos junto a su familia, sin embargo, sus traviesos nietos se llevarán su objeto más preciado: su bola mágica. Los niños comenzarán a usar el artilugio y darán vida a unos muñecos de nieve, que acabarán sembrando el caos allá por donde pasen.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ga7JvhR4h1o"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/mgzn4i5jmkjrg8r"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/enjvjnx8hz63wk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/49ovkuq44mr4"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/oiogrwa6r4tw"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/d9rnin3spc7i"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1E5KbFMvgTsQJJt6b-JNl4335XoE5gvoW/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Sator [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.5[/COLOR]</title> 
 <genre>Terror</genre>
 <year>2021</year>
