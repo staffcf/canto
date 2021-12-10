@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Indestructible [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.1[/COLOR]</title> 
+<genre>Drama, Historia, Bélico, Action</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/k6736bg6aegasOQCPqkeKjQoNp6.jpg</thumbnail>
+<fanart></fanart>
+<info>La película inspirada en eventos reales cuenta la historia de la heroica hazaña del equipo del tanque KV-1. Teniendo una pelea perdida, la tripulación de Semyon Konovalov destruyó 16 tanques enemigos, 2 vehículos blindados y 8 vehículos con personal enemigo cerca de la granja Nizhnemityakin en el distrito de Tarasovskoye de la región de Rostov. Esta es la historia de los héroes del cartel, pero de tipos rotos, alegres y muy diversos que solo querían vivir. En el momento decisivo, lograron hacer lo único correcto y realizaron el hecho digno de la leyenda.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/yoEIpLeLZLk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/dz3w4tx-e2l2j30"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/zp0nlje4iqp7z"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ld03r61lbccq"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/gb9ivwwd7zhs"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-1nyl51fuu4ky.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1lblJqSU38dqgTkKKMNDXNupxgapH-T9N/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Encuentro [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.8[/COLOR]</title> 
 <genre>Ciencia ficción,Suspense,Aventura</genre>
 <year>2021</year>
