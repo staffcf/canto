@@ -113,6 +113,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]And just like that[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/And.just.like.that</externallink>
+<info>Miniserie de TV. 10 episodios. Secuela de "Sex and the City" en formato miniserie. Sin el personaje de Samantha (Kim Cattrall), la serie seguirá a Carrie, Miranda y Charlotte mientras navegan por el viaje desde la complicada realidad de la vida y la amistad a los 30 hasta la realidad aún más complicada de la vida y la amistad a los 50.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/92cZE979JpIGKji8X48xQkS5V7g.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1CqkiWeuwlaMswG02q3mBmraiDM.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Antidisturbios[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Antidisturbios.xml</externallink>
