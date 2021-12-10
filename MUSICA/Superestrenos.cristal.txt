@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Sator [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.5[/COLOR]</title> 
+<genre>Terror</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/p0OgWKpcRYboZOmuozorfvQt0qL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lch8GEMczkpRabis40Uhw8zkVA9.jpg</fanart>
+<info>Aislada en un bosque desolado, una familia rota es observada por Sator, una entidad sobrenatural que intenta reclamarlos.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/MDgBFjxqJyU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/3p1j2cmqgq0p6en"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/pkqwkq7jco67jv"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ql6okiz7ehhj"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/unzxb05wb8x2"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-jr1h8f99d6rk.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Y1m8-lHxMxHt9Y0VVNhJw2pFthttmWeR/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Mi navidad con Bob [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.3[/COLOR]</title> 
 <genre>Familia,Drama,Navidad</genre>
 <year>2021</year>
