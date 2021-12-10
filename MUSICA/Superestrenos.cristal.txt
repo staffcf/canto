@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Jinetes de la justicia [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.3[/COLOR]</title> 
+<genre>Comedia, Action, Drama</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/vKNUd65qICbXhxf8IcGPIFao9o7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oZYUrxvgFZ0CmBrsL37Oiw4oRlN.jpg</fanart>
+<info>El militar Markus debe regresar a casa con su hija adolescente, Mathilde, cuando su esposa muere en un trágico accidente de tren. Todo parece ser a causa de la mala suerte, hasta que Otto, experto en matemáticas y también pasajero de tren siniestrado, aparece con sus dos excéntricos colegas, Lennart y Emmenthaler. Otto está convencido de que alguien está detrás de todo esto.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/RzmPoJznY9Y"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/7mwj4sge3rzd57n"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/7r6e6jj4u94911"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/mr1z9nbidk72"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/71fo2httjcnf"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-3ghzpc8ir6gr.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Mbh8i4cyQRc-gqig5iSjcwhmzs1KqCS0/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Indestructible [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.1[/COLOR]</title> 
 <genre>Drama, Historia, Bélico, Action</genre>
 <year>2021</year>
