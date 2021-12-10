@@ -552,7 +552,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, 1Animacion, 1Aventuras, 1Fantastico, 1Comedia, Pixar,Letra B, A2012, Princesas, C1080, "
 
 <item>
-<title>[COLOR white]Brave [COLOR gold](2012)[/COLOR]</title>    
+<title>[COLOR white]Brave [COLOR coral](2012)[/COLOR]</title>    
 <genre>Animacion, Aventuras, Fantastico, Comedia</genre>
 <year>2012</year>  
 <thumbnail>https://i.imgur.com/r6UNbzr.jpg</thumbnail>
@@ -1065,7 +1065,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3,1Animacion, 1Infantil,Disney, A2019, "
 <item>
-<title>[COLOR white]Dumbo [COLOR gold](2019)[/COLOR]</title>    
+<title>[COLOR white]Dumbo [COLOR coral](2019)[/COLOR]</title>    
 <genre>Aventuras,Fantastico |</genre>
 <year>2019</year>  
 <thumbnail>https://i.imgur.com/mOUpHUo.jpg</thumbnail>
@@ -1414,7 +1414,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
  "Tag= Malu3, 1Animacion, 1Infantil, Disney, A2019, "
 <item>
-<title>[COLOR white]El Rey Leon [COLOR pink](2019)[/COLOR]</title>    
+<title>[COLOR white]El Rey Leon [COLOR coral](2019)[/COLOR]</title>    
 <genre>Animacion,Aventuras,Drama,Musica</genre>
 <year>2019</year>  
 <thumbnail>https://i.imgur.com/aQbopuT.jpg</thumbnail>
@@ -1580,7 +1580,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, 1Animacion, 1Infantil, Disney, LetraF, A2019, Princesas, "
 <item>
-<title>[COLOR white]Frozen 2 [COLOR blue](2019)[/COLOR]</title>    
+<title>[COLOR white]Frozen 2 [COLOR coral](2019)[/COLOR]</title>    
 <genre>Animacion,Aventuras,Musical,Fantastico</genre>
 <year>2019</year>  
 <thumbnail>https://i.imgur.com/z5oebaC.jpg</thumbnail>
@@ -1752,7 +1752,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 "Tag= Malu3, 1Animacion, 1Comedia, 1Fantastico, A2012, Letra H, EEUU, "
 <item>
-<title>[COLOR white]Hotel Transilvania [COLOR blue](2012)[/COLOR]</title> 
+<title>[COLOR white]Hotel Transilvania [COLOR coral](2012)[/COLOR]</title> 
 <genre>Animacion, Comedia,Fantastico</genre>
 <year>2012</year>
 <thumbnail>https://i.imgur.com/cw73d7H.jpg</thumbnail>
@@ -1763,7 +1763,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, 1Animacion, 1Comedia, 1Fantastico, A2015, Letra H, EEUU, "
 <item>
-<title>[COLOR white]Hotel Transilvania 2 [COLOR blue](2015)[/COLOR]</title> 
+<title>[COLOR white]Hotel Transilvania 2 [COLOR coral](2015)[/COLOR]</title> 
 <genre>Animacion, Comedia,Fantastico</genre>
 <year>2015</year>
 <thumbnail>https://i.imgur.com/m5euySS.jpg</thumbnail>
@@ -1776,7 +1776,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 "Tag= Malu3, 1Animacion, 1Comedia, 1Fantastico, A2018, Letra H, EEUU, "
 <item>
-<title>[COLOR white]Hotel Transilvania 3 [COLOR blue](2018)[/COLOR]</title> 
+<title>[COLOR white]Hotel Transilvania 3 [COLOR coral](2018)[/COLOR]</title> 
 <genre>Animacion, Comedia,Fantastico</genre>
 <year>2018</year>
 <thumbnail>https://i.imgur.com/qbvvBaB.jpg</thumbnail>
@@ -2813,7 +2813,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, 1Accion, 1Aventuras, 1Belico, A2020, Letra M, EEUU, Secuela, Disney, C720, "
 <item>
-<title>[COLOR white]Mulan [COLOR blue](2020)[/COLOR]</title>    
+<title>[COLOR white]Mulan [COLOR coral](2020)[/COLOR]</title>    
 <genre>Aventuras,Accion,Belico</genre>
 <year>2020</year>  
 <thumbnail>https://i.imgur.com/pv2Bkai.jpg</thumbnail>
