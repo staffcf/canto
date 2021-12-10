@@ -1420,7 +1420,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/aQbopuT.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Tras el asesinato de su padre, un joven leon abandona su reino para descubrir el autentico significado de la responsabilidad y de la valentia. Remake de "El Rey Leon", dirigido y producido por Jon Favreau, responsable de la puesta al dia, con el mismo formato, de "El libro de la selva" (2016).</info>
-<urlsolve>https://ulozto.net/file/DQCZgJ8u6gPf/festakids-el-rey-leon-2019-mkv</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/DQCZgJ8u6gPf/festakids-el-rey-leon-2019-mkv"},{"titulo" : "[COLOR white]Opcion 2 Magnet [COLOR gold]4k[/COLOR]","url" : "https://www.torlock.com/tor/11343085.torrent"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
