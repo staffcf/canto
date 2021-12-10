@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Encuentro [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.8[/COLOR]</title> 
+<genre>Ciencia ficción,Suspense,Aventura</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/m8FbbKowTcud7r1JPz95qFU8z2H.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1PHwTsl6ETaOhVEzQMlfJdVXYhC.jpg</fanart>
+<info>Riz Ahmed interpreta a Malik Khan, un exmarine que, después de varios viajes a zonas de guerra, vuelve a casa y se entera de un siniestro secreto: una especie alienígena de insectos se está apoderando de los cuerpos de las personas con apariencia normal.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/vCCK434ElW4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/6znj3t0n8y-52jp"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/qlrjzd1zcq61lw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/shzsnb48kv0e"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/0rztc3mmjto5"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-7dc9098s8na6.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/16hS2R38rhQSrSRSyHMVGsrq6PPqqBKNK/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Cuidado con lo que deseas [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.4[/COLOR]</title> 
 <genre>Comedia,Familia,Fantasía,Navidad</genre>
 <year>2021</year>
