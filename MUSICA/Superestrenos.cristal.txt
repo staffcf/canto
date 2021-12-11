@@ -3,6 +3,19 @@
 ==========================================================================================
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
+
+<item>
+<title>[COLOR white] Dos [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.0[/COLOR]</title> 
+<genre>Suspense,Terror</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/dk9PgN3iN9MOPJW3LJErh4y5xWw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/Aqp47Dbz8f1wnVU1qKvFFXQFROr.jpg</fanart>
+<info>Un hombre y una mujer se despiertan pegados por el abdomen. David y Sara no se conocen. Ambos están desnudos. Ambos rondan los 35 años. Están en un lugar misterioso que no reconocen. Por el aspecto del lugar, parece una habitación de hotel. Tras el susto inicial, tratan de mantener la calma e intentar pensar porqué están ahí. No recuerdan cómo han llegado hasta la misteriosa habitación, ni qué hicieron las horas antes. David sugiere la posibilidad de que hayan sido drogados y secuestrados. Ambos deben confiar en el otro para desvelar el misterio, pero Sara sospecha de David. Mientras intentan atar cabos, descubren que estar pegados dificulta en extremo hasta las actividades más mundanas (además de hacer que aflore una inevitable atracción mutua a pesar de las circunstancias). Ambos se ven obligados a compartir con un desconocido sus secretos más íntimos y vergonzosos para poder descifrar el misterio.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/-fpWg6wxSug"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/7mwj4sgez7wmejq"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/gnxr7vr6ug8o00"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/xjwzz0b9dhqw"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/d163jg8qoy7d"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-6gxqzi02ivms.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1PsonQnRyGBh7pf0m4njIVPegAP9okRdO/view"}</urlsolve>
+</item>
+
+
+
 <item>
 <title>[COLOR white] Imperdonable [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.8[/COLOR]</title> 
 <genre>Drama,Suspense,Crimen</genre>
