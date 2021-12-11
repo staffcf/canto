@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] En un momento aun mejor [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.8[/COLOR]</title> 
+<genre>Comedia,Drama,Romance</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/soVwWSesTguGQSNsEpdSr46z98M.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lWbcNs42ngAGXotEAtXzF85qI83.jpg</fanart>
+<info>Después de terminar una relación con un galán, Marta encuentra el amor con un artista. Pero a esta luchadora joven y sus amigos le esperan nuevos desafíos.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/3Iv5hu1KK7k"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/l86x2cn7erlymp7"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/l6r0rrw4tqzz8l"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/4sicu163tm0i"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/5wvixroz203t"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-g0yswwdoun53.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1tqYL4SUYl2ZFj_5IqiAPg9kAkL5oCs89/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Jinetes de la justicia [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.3[/COLOR]</title> 
 <genre>Comedia, Action, Drama</genre>
 <year>2021</year>
