@@ -3,6 +3,18 @@
 ==========================================================================================
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
+<item>
+<title>[COLOR white] Imperdonable [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.8[/COLOR]</title> 
+<genre>Drama,Suspense,Crimen</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/qpZUU24mIn1IQGwovqEUT0AjGj2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/utT4g1reTFC5aOwLI7wVXbtECx4.jpg</fanart>
+<info>Ruth Slater, una mujer liberada de prisión después de cumplir una condena por un crimen violento, vuelve a entrar en una sociedad que se niega a perdonar su pasado.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ggXA42KU5oQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/wrn56inld51n7q-"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/knrdr91ga033qv"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/0395csu2u1mq"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/lkaygjwujax4"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-ng154wjcwokx.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Mb5SPzsk7N955cks9NYatH8MwfOhm7v2/view"}</urlsolve>
+</item>
+
+
+
 
 <item>
 <title>[COLOR white] En un momento aun mejor [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.8[/COLOR]</title> 
