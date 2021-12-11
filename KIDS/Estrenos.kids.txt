@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<item>
+<title>[COLOR white] ¡Nos volvemos a casa! [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.3[/COLOR]</title> 
+<genre>Animación,Aventura, Comedia,Familia,Música</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/zNXNRLH5wJprUG6B1olaBTNZOjy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5B22eed7ErxFiYAG4Ksb4eLwKNF.jpg</fanart>
+<info>Cansados de estar encerrados en un terrario en el que los humanos los miran boquiabiertos como si fueran monstruos, un variado grupo de las criaturas más mortíferas de Australia trama una temeraria fuga del zoo al Outback, un lugar en el que encajarán sin ser juzgados por sus escamas y colmillos. A la cabeza del grupo está Maddie, una serpiente venenosa con un corazón de oro, que se une a un diablo espinoso llamado Zoe, muy seguro de sí mismo, una araña peluda con mal de amores y un sensible escorpión llamado Nigel. Pero cuando su archienemigo, Pretty Boy, un koala monísimo pero detestable, se une a su fuga de manera inesperada, Maddie y su pandilla no tienen más remedio que llevarlo con ellos. Así comienza un viaje por carretera espeluznante e hilarante a través de Australia, mientras son perseguidos por el cuidador del zoo y su mini-yo en busca de aventuras.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/eg7RZaf1Z6A"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/xpx57c5ekx5mxej"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/3nxek1mvfvm30k"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/u8hmlqwkx79d"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/9t668cfrk8si"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/79bdors7gxcs"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1ab2kcAOdUWirsTr5ZB0VFRlTe6DwNEFd/view"}</urlsolve>
+</item>
+
+
+
 
 <item>
 <title>[COLOR white] El bebe jefazo: Negocios de familia [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.7[/COLOR]</title>    
