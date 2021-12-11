@@ -17,6 +17,18 @@
 
 
 <item>
+<title>[COLOR white] Un bocado exquisito [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.6[/COLOR]</title> 
+<genre>Drama,Romance</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/adcSJBSKiNOfuKMYGszY5hEuMNg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3qJTTfJTlNCgmfrleL5kJaBfcWX.jpg</fanart>
+<info>Una pareja lo sacrifica todo para alcanzar la mayor meta posible dentro del mundo culinario: una estrellla Michelín.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/pOj_MGz-3PQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/8ql36h8kyj8xdkg"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/knrd6ngvhk9dwd"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/gmfymh19mrc0"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/7mryipyk1s7b"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/g6z37zptqe4e"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/178T9t3UvryEDDuz-PK7AUa2edptvFZNa/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Dos [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.0[/COLOR]</title> 
 <genre>Suspense,Terror</genre>
 <year>2021</year>
