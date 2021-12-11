@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>[COLOR white] Snoopy presenta: Por los viejos tiempos [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.4[/COLOR]</title> 
+<genre>Terror</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/hZPHo3miiG0Xc8VyGvzGkkC6mkh.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7tJSulnvERJn6R9Ih2C2Uvpm8zy.jpg</fanart>
+<info>Después de descubrir que su abuela no estará de visita en Navidad, Lucy decide animarse organizando la mejor fiesta de Nochevieja. Mientras tanto, Charlie Brown intenta cumplir con uno de sus propósitos antes de que el reloj marque la medianoche.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/tELkpLtUH0c"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/6znj3t0n36mjx6d"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/xo683064fvqv3w"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/3impyd7779w7"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/n4futhv24l2q"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-wzc5w0uashde.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1g6NtSaW6ri_HtB9HDWrtnn2BF_N99qeb/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] ¡Nos volvemos a casa! [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.3[/COLOR]</title> 
 <genre>Animación,Aventura, Comedia,Familia,Música</genre>
 <year>2021</year>
