@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] ¿Navidad otra vez? [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.3[/COLOR]</title> 
+<genre>Aventura,Comedia,Familia, Fantasía,Drama,Navidad</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/kZqdNOvQD6ov2zOMExJpp65sdhW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zrJ4EWeJcjYjaHyHu9zDd7mOk9B.jpg</fanart>
+<info>Tras una celebración desastrosa, Rowena de 12 años pide un deseo e inesperadamente se encuentra reviviendo el Día de Navidad una y otra vez.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ZEPKw-njvwo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/nn2x6h20p0d6j0d"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/wnrzpxq4u036pd9"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/wq8vh8kt40d4"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/wddfvuph0ab3"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/9p7kg4f46qti"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1F2cMhPqE33arfeJrQ-zbT8iDBSloPNow/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Snoopy presenta: Por los viejos tiempos [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.4[/COLOR]</title> 
 <genre>Animación,Comedia,Familia</genre>
 <year>2021</year>
