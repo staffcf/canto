@@ -722,7 +722,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, 1Animacion, 1Aventuras, 1Comedia, A2017, Letra C, EEUU, Coches, Pixar, C720, "
 <item>
-<title>[COLOR white]Cars 2 [COLOR gold(2011)[/COLOR]</title>  
+<title>[COLOR white]Cars 2 [COLOR gold](2011)[/COLOR]</title>  
 <genre>Animacion,Comedia,Aventuras</genre>
 <year>2011</year>  
 <thumbnail>https://i.imgur.com/MIC6NWf.jpg</thumbnail>
