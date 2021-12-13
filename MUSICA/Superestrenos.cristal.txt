@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Antlers:Criatura Oscura [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.3[/COLOR]</title> 
+<genre>Terror,Misterio</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/ht9BZCnIjVPMO20CSlnvPBR5h3J.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/muejeAIfCiWALDE1hLqCsKON0E7.jpg</fanart>
+<info>En Antlers, una pequeña ciudad de Oregón, una profesora y su hermano, el sheriff de la localidad, se empiezan a interesar por un estudiante misterioso y distante. A medida que se van conociendo, descubren que el joven esconde un peligroso secreto que podría tener consecuencias fatales.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/pEiJsRmp_sA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/8ql36h8kyejeqww"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/pkq79g0qign9e0k"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/5iivz2485emx"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/y1bd1d0kdrzj"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/z9gvolm7geex"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1ufLPrpRWPofyMqH-RNX2yhmtVht6XmWR/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] ¿Navidad otra vez? [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.3[/COLOR]</title> 
 <genre>Aventura,Comedia,Familia, Fantasía,Drama,Navidad</genre>
 <year>2021</year>
