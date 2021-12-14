@@ -1698,6 +1698,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Meme[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Meme</externallink>
+<info>Un thriller de ciencia ficción con una atmósfera inspirada por clásicos como Blade Runner o el cine de David Lynch. Un joven hacker decidirá rebelarse contra el sistema.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/uVWck56xh81O3Xjye93naxj8W9V.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iVNPX7opeefM3hiljndgBFTrRaV.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Mentiras[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Mentiras</externallink>
