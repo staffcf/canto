@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] El medico de Budapest [/COLOR][COLOR yellow](2021) [COLOR aqua]*9.0[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/j91tTv5Cc2JKPEsZx5qdPrE8a2r.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jC1pOCOlTtYAgHRoBWE8vdeJxs8.jpg</fanart>
+<info>Un cardiólogo es enviado a la jubilación, pero se siente perdido sin su trabajo. Regresa a su pueblo natal para trabajar como médico generalista. Este es el comienzo de su terrible experiencia: se enfrenta a la cruda realidad, que finalmente lo pone de rodillas. Pero la música tiene la última palabra.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/sZ7qUvaKnfQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/y1r5dteg1jgn0w0"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/4nzw187jfqk69k0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/meq12c6is3jh"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/luvgf4b0uwid"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-gz9d5vdbs6df.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1CJO6d3rAvb_AWwhs54OcvoMi6PXands7/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Wild Indian [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.3[/COLOR]</title> 
 <genre>Suspense,Crimen,Drama,Misterio</genre>
 <year>2021</year>
