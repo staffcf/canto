@@ -756,6 +756,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El gran imperio Otomano[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.gran.imperio.otomano</externallink>
+<info>6 episodios. El sultán otomano Mehmed II lleva a cabo una épica campaña para apoderarse de Constantinopla, la capital bizantina, y cambia el curso de la historia.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/nkvdPFYo7o2IQWooJvA9UE0nvAp.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aFU4sXjVsA5HdBKPUHtL8haiqNN.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El Incidente[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.incidente.xml</externallink>
