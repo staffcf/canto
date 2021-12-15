@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] La cronica francesa [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.4[/COLOR]</title> 
+<genre>Comedia,Drama,Romance,Historia</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/5J6vw7S8y4wCydUkdzMv5kdiCOQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uFJQGGhF5IDejutBmo52XRuXjlo.jpg</fanart>
+<info>Una carta de amor al mundo del periodismo, ambientada en el contexto de la redacción de un periódico americano en el París del siglo XX, con tres historias interconectadas entre sí.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/TcPk2p0Zaw4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/q3nx0ie13416p43"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/l6rpoz00cqrn6nz"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/k4vjkxq3rfp6"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/wjci2g1cgzjm"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-0j3l01yi7jwr.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1CJO6d3rAvb_AWwhs54OcvoMi6PXands7/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] El medico de Budapest [/COLOR][COLOR yellow](2021) [COLOR aqua]*9.0[/COLOR]</title> 
 <genre>Drama</genre>
 <year>2021</year>
