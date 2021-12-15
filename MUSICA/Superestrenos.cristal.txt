@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Al unísono [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.9[/COLOR]</title> 
+<genre>Comedia,Drama</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/7cFawQz0urWvzsTbxTojbq11JJE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n12A9JlBKFYDOYdQjZnY1Rx1v3.jpg</fanart>
+<info>Cuando la joven solitaria Anna es contratada como sustituto de Matt, un hombre soltero de unos 40 años, los dos extraños se dan cuenta de que esta relación inesperada desafiará rápidamente sus percepciones de conexión, límites y los detalles del amor.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Ouq-Bjaiz3M"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/2r2j0i2wjdmyjry"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/gnxvq19rinnp3q"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/6syzeroightw"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/wjci2g1cgzjm"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-35l5nlfecsmu.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1FTinYKFS4616CIXxCfZsxyzD1a6EeNpP/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Ron da error [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.0[/COLOR]</title> 
 <genre>Animación,Comedia,Infantil,Robots</genre>
 <year>2021</year>
