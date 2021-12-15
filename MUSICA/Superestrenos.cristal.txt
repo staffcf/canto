@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Fue la mano de dios [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.2[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/u6m207hARVTifCHOuRebXRzRt43.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dTvGUMFc5WCziTzXZKZ2EfW2bEM.jpg</fanart>
+<info>La historia semiautobiográfica de la mayoría de edad de Fabietto Schisa, un niño del Nápoles de la década de 1980 cuyos años de adolescencia están marcados por alegrías inesperadas como la llegada de la leyenda del fútbol Diego Maradona, y una tragedia igualmente inesperada. El destino juega su papel, la alegría y la tragedia se entrelazan, y el futuro de Fabietto se pone en marcha en una historia de familia, deportes y cine, amor y pérdida.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/h6ucPDZsjEA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/kx4-1i361m6q537"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/n0rdkpxmfprpo6"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/6ujtlv7hz096"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/ca7o6bwraqad"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/8hlxke2ftimj"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1CJO6d3rAvb_AWwhs54OcvoMi6PXands7/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Juguetes de terror [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.7[/COLOR]</title> 
 <genre>Terror</genre>
 <year>2021</year>
