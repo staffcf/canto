@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Juguetes de terror [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.7[/COLOR]</title> 
+<genre>Terror</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/nlu8YdfUNRrxonk1fvgr2jyXkBm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/j6Er72CMHKiZgFr0HBMbuyj7Ssa.jpg</fanart>
+<info>Una gran familia se muda a una vieja casa polvorienta en los bosques nevados de Washington con la esperanza de que sea una escapada agradable para las vacaciones. Pero los niños pronto descubren un alijo de juguetes viejos que pertenecen a un espeluznante niño fantasma. A medida que comienzan a suceder cosas cada vez más extrañas, algunos niños comienzan a sentir que algo en la casa no está del todo bien ...<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/DUJnLpbiGl8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/kx4-1i361m6q537"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/l6rpo3qnapeg0m"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/38h2y8ztw9qp"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/5288xgbd042s"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-wll5pg0egejj.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1CJO6d3rAvb_AWwhs54OcvoMi6PXands7/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] La cronica francesa [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.4[/COLOR]</title> 
 <genre>Comedia,Drama,Romance,Historia</genre>
 <year>2021</year>
