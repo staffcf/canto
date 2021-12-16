@@ -68,6 +68,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Alex Rider[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Alex.Rider</externallink>
+<info>Serie de TV (2020-Actualidad). 2 temporadas. 16 episodios. Narra las aventuras de un espía adolescente y sus misiones para salvar al mundo. Basado en los libros de Anthony Horowitz.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/hvysEEVOP7ZP37PvDiQOkP2Ua7C.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iH5eDdw4BZa36WONcdxanuFYUsZ.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Alias Grace[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Alias.Grace</externallink>
