@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Navidades en California:Luces de la ciudad [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.0[/COLOR]</title> 
+<genre>Comedia,Romance,Drama, Navidad</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/iH3HZV19QlAuJUNk5SCn4k2RHO8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/YZwQQT9u1UGRFAVCcdppsk343v.jpg</fanart>
+<info>Callie y Joseph un año después de que se enamoraron, ahora dirigiendo una granja lechera y una bodega, pero su romance se ve amenazado cuando los negocios y las obligaciones familiares llaman a Joseph de regreso a la ciudad.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/eCIk2IwS-o0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/0d6j7clzg608qn1"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/zp0mxw0pig8k0ql"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/wchye79s5by0"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/iq073t2z5vgs"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/9him7q1szvsy"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1zMD6Y_R53KEaU6rVi-pdHtOFdIJtlO41/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Santos Criminales [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.3[/COLOR]</title> 
 <genre>Drama,Mafia,Familia,Crimen</genre>
 <year>2021</year>
