@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Santos Criminales [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.3[/COLOR]</title> 
+<genre>Drama,Mafia,Familia,Crimen</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/b9QPICVzPQWsG5k0R2eAhpBnWbr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bGGsQK2weS6bOnp4chzpig8GvrJ.jpg</fanart>
+<info>Precuela de la aclamada serie "Los Soprano", centrada en la juventud del gángster de Nueva Jersey Tony Soprano. El guión de la película ha sido escrito por David Chase, el creador de la serie original de HBO.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/cStqrNPgGiI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/nn2x6h20xg8yz7x"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/gnxvv89jfm41ej"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/6zs4330exlx2"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/0tlc8da6t4z9"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-59b58rmjfant.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1yFMd9XRw4whzS5vzmpAeNVxx44eQJ1vL/view"},{"titulo" : "[COLOR white]Drive 4K HDR[/COLOR]","url" : "https://drive.google.com/file/d/1dZiTtxi_2jKeRo9R5P6S1DQqj7jY37fj/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Fue la mano de dios [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.2[/COLOR]</title> 
 <genre>Drama</genre>
 <year>2021</year>
