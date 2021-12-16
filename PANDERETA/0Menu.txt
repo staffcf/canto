@@ -1351,6 +1351,15 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]La Fuga[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.Fuga</externallink>
+<info>Prisión de Basauri, País Vasco, España, 1976. Cinco reclusos organizan su fuga de la forma más inesperada.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/85dqQuhUK4hoe28pkbPXsdaCINK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zJNV1jum90co4n2vPgwm0TtXC6z.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]La guerra de los mundos[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.guerra.de.los.mundos.txt</externallink>
