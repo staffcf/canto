@@ -3,6 +3,18 @@
 ==========================================================================================
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
+
+<item>
+<title>[COLOR white] El canto del cisne [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.7[/COLOR]</title> 
+<genre>Drama,Ciencia ficción</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/4b65jVx7b0CZGkXX4nOUGvTvZ07.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/95TArONThHMM9MDTqIo7gia4YHz.jpg</fanart>
+<info>Ambientada en un futuro cercano, narra la historia de Cameron (Mahershala Ali), amante esposo y padre de familia al que diagnostican una enfermedad terminal, y a quien su médico (Glenn Close) ofrece una solución alternativa que podría evitarle a su familia el dolor del duelo. Mientras Cam decide sobre si debe alterar o no el destino de su familia, aprenderá más sobre la vida y el amor de lo que jamás hubiera imaginado.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/sP4-gs9v4No"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/dz3w4tx-rereez6"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/rw47gqg4swnl76"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "Falta poner"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/dgqcpeovcqu7"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "Falta poner"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1zYdJAN5xDLbf0ChmLxqCxFITrYxDm7eI/view"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] La familia Addams 2: La gran escapada [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.3[/COLOR]</title> 
 <genre>Animación,Aventura, Comedia,Familia,Fantasía,Terror</genre>
