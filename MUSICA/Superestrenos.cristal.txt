@@ -3,6 +3,18 @@
 ==========================================================================================
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
+<item>
+<title>[COLOR white] La familia Addams 2: La gran escapada [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.3[/COLOR]</title> 
+<genre>Animación,Aventura, Comedia,Familia,Fantasía,Terror</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/f8NrqVQPfCaAf4A3SKjZCZoSEY0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9e6wp707XMouPG939o2fHunXXJR.jpg</fanart>
+<info>Con la esperanza de acercarse como familia, Gómez, Morticia y el resto del clan Addams se embarcan en un aventurero viaje por carretera en una horrenda y gigantesca caravana.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ExhLv1rTqpQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/-46j3upj1p2y51k"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/6qgxql68c7pvx0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/qexzjozhc0au"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/2o2oxjwo6mqn"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/h402up1mxdcj"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Pey7SYB9bfIw3MyGqIf08-f7cuodDPnQ/view"}</urlsolve>
+</item>
+
+
+
 
 <item>
 <title>[COLOR white] Garcia y Garcia [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.5[/COLOR]</title> 
