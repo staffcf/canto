@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Con quien viajas [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.8[/COLOR]</title> 
+<genre>Comedia</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/7ylW4u3B0B2zBP4dlIm2Chdf8gU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dPIfkMXUWelOPPGiT7jNzjlBMmm.jpg</fanart>
+<info>Una aplicación de servicio de vehículo compartido reúne a cuatro desconocidos en un viaje que se convertirá en un confesionario en el que descubriremos las peculiaridades de Julián, un conductor que se comporta de manera extraña; Elisa, una chica apocada y tímida; Miguel, que parece estar de vuelta de todo menos del pasado; y Ana, de espíritu joven y dicharachero. En el trayecto aprenderán mucho de con quién viajan... y de ellos mismos.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/dbq2fH0Y0bI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/5knj1sdmjz0xkkm"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/mdrp4rx7h4dz9z"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/4sbsljw5knxu"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/5ccj10canex7"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "Falta Subir"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Hkfr9EwikNmYjmQoelHDEmbaP0ebzLEW/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] El canto del cisne [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.7[/COLOR]</title> 
 <genre>Drama,Ciencia ficción</genre>
 <year>2021</year>
