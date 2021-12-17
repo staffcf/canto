@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Garcia y Garcia [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.5[/COLOR]</title> 
+<genre>Comedia</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/8V8ctsflyc03T0gN5Sr79rAbIof.jpg</thumbnail>
+<fanart>https://i.imgur.com/Wk3772Z.jpg</fanart>
+<info>Hispavia, una aerolínea low cost de poca monta, se encuentra en graves dificultades. Ni sus números cuadran, ni sus aviones vuelan. En un intento desesperado por salvar la compañía, deciden contratar simultáneamente a un prestigioso consultor de aerolíneas y a un experto mecánico en paro. Los dos se llaman Javier García. La casualidad y la desorganización de la empresa harán que sean confundidos e intercambien sus papeles, y mientras el mecánico es atendido por el dueño de la compañía y alojado en hoteles de lujo, el ejecutivo acaba en el hangar, enfundado en un mono grasiento. Perplejos y sin saber qué está sucediendo, ambos se van enfrentando a los cometidos del otro, hasta que los dos Javier García se encuentran y descubren el error.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/h_qaqdkaS0Y"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/7mwj4sgel7l-q0q"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/vnrjl6n4cnkxoj"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ungjxjbbgijo"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/75qywhc7rcn0"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/qmu3i1pwugrv"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1ceh5yk_cFABYjf5em69vqFiZyMvdI4ax/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Navidades en California:Luces de la ciudad [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.0[/COLOR]</title> 
 <genre>Comedia,Romance,Drama, Navidad</genre>
 <year>2021</year>
