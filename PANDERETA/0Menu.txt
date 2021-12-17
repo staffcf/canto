@@ -2058,6 +2058,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Primeval:Invasión Jurásica[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Primeval.invasion.jurasica</externallink>
+<info>Serie de TV (2007-2011). 36 episodios. 5 temporadas. Unas inexplicables anomalías están abriendo agujeros en la barrera del tiempo, permitiendo a las criaturas más salvajes de la evolución, del pasado y del futuro, vagar por el mundo actual. Algunas son feroces, otras inofensivas y todas ellas extrañas, además de tener algo más en común: éste no es su sitio. ¿Sobrevivirá la humanidad a esta nueva amenaza?</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/pjRhnncEnTT8T5YsLbTb0A4msuQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iAKRoWeJWszf734oknirUUZTwBk.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Prodigal Son[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Prodigal.Son.txt</externallink>
