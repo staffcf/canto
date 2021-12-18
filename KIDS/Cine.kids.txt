@@ -3364,7 +3364,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://i.imgur.com/KaChmmr.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>El grupo vuelve a la accion para investigar un misterio en una isla infestada de zombies. </info>
-<urlsolve>https://ulozto.net/file/8YJaZxLls9eC/festakids-scooby-doo-return-to-zombie-island-2019-mkv</urlsolve> 
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/8YJaZxLls9eC/festakids-scooby-doo-return-to-zombie-island-2019-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://sbembed.com/e/vo6kdo27qgdo"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -3377,7 +3377,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://i.imgur.com/REUlOBr.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Scooby y la pandilla se enfrentan a su misterio más complicado: un complot para liberar al perro fantasma Cerbero. Mientras corren para detener el apocalipsis perruno, el grupo descubre que Scooby tiene un épico destino que nadie sospechó nunca</info>
-<urlsolve>https://ulozto.net/file/x4xv3djui1wA/festakids-scooby-2020-mkv</urlsolve> 
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/x4xv3djui1wA/festakids-scooby-2020-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://sbembed.com/e/4m3d0q11qevm"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= 5SuperTopo, 1Animacion, A2018, Letra S, Noruega, Familiar, Animales, Espacial, C720, "
@@ -3401,7 +3401,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://i.imgur.com/6YQJT5R.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Sonic, el descarado erizo azul basado en la famosa serie de videojuegos de Sega, vivira aventuras y desventuras cuando conoce a su amigo humano y policia, Tom Wachowski (James Marsden). Sonic y Tom uniran sus fuerzas para tratar de detener los planes del malvado Dr. Robotnik (Jim Carrey), que intenta atrapar a Sonic con el fin de emplear sus inmensos poderes para dominar el mundo. </info>
-<urlsolve>https://ulozto.net/file/PDGY0HIcMjP5/festakids-sonic-la-pelicula-2019-mkv</urlsolve> 
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/PDGY0HIcMjP5/festakids-sonic-la-pelicula-2019-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://sbembed.com/e/wpusz4w32lrn"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 <item> 
