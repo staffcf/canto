@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>[COLOR white] L.O.L Surprise: La pelicula [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.0[/COLOR]</title> 
+<genre>Animación,Familia</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/cHbgXVQk2t1taAUFC4RoP2fL6po.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pXLdhDTJmrmg0PMBvgpzl67cCST.jpg</fanart>
+<info>Las deslumbrantes hermanas muñecas Queen Bee y Royal Bee hacen su primera película con la ayuda de sus amigas de moda en esta aventura mágica única.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/1qv6nWFnk5g"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/42njphzx6nwr-z-"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/vnrjvwqxfgn398"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/pdxyxpvp6tv8"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/12ujlfnvd8g2"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/8di954gwpt4d"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1rB5eU9g-L-ePOD_IsTaNYu6m0eP_tpvw/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] La familia Addams 2: La gran escapada [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.3[/COLOR]</title> 
 <genre>Animación,Aventura, Comedia,Familia,Fantasía,Terror</genre>
 <year>2021</year>
