@@ -3791,7 +3791,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://i.imgur.com/jjvOYk9.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Despues del dia de Navidad, la pandilla de "Toy Story" se encuentra en territorio desconocido cuando Bonnie va a casa de un amigo a jugar a la consola. Alli, Woody y compañia se encuentran con todo un set de figuras de Accion que no sabe que en realidad son juguetes. Ahora todo depende de Trixie, el triceratops, para que las cosas no se vuelvan completamente locas. </info>
-<urlsolve>https://ulozto.net/file/ER6Tk7WcAGg6/festakids-toy-story-el-tiempo-perdido-2014-720-mkv</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/ER6Tk7WcAGg6/festakids-toy-story-el-tiempo-perdido-2014-720-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://sbembed.com/e/1geqp7kz5mjc"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
