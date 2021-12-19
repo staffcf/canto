@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>[COLOR white] Miraculous World:  Shanghái, la leyenda de Ladygragon [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.5[/COLOR]</title> 
+<genre>Animación,Comedia,Familia,Aventura</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/r6zthVPVoq1urTOsLgofPGel89d.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wRACb11diBNFudRWmKjZ3z2Lu4q.jpg</fanart>
+<info>Para unirse a Adrien en Shanghai, Marinette va a visitar a su tío Wang, quien celebra su cumpleaños. Pero tan pronto como llega a China, ¡le roban su bolso con Tikki!, lo que no le permite convertirse en una Ladybug en secreto! Privada y sola en la gran ciudad, Marinette acepta la ayuda de una joven muy ingeniosa, Fei. Las dos chicas se harán amigas y descubrirán la existencia de una nueva joya mágica, los Prodigios, que Hawk Moth, también presente en Shanghai, ha estado buscando durante mucho tiempo...<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/zneAgD5mHxw"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/0d6j7clzqy1pyem"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/1vjkxnqkir10dp"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/rghmynreifun"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/kx30hmxy0jwc"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-ch6iqrwdxnte.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Bvzmpp_IDY_KA0mAvT4SQdycgSSOobwE/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] L.O.L Surprise: La pelicula [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.0[/COLOR]</title> 
 <genre>Animación,Familia</genre>
 <year>2021</year>
