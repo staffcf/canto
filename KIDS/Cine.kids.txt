@@ -2099,13 +2099,23 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
+<title>[COLOR white]La muerte de Superman. Parte 1  [COLOR blue](2018)[/COLOR]</title> 
+<genre>Animacion,Ciencia ficcion,Accion,Fantastico</genre>
+<year>2018</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/43x9SbbiOIkJp6Sad3bvs7PHbaS.jpg</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<info>Adaptación del cómic 'The Death of Superman' que DC comics lanzó en los años 90s donde supuestamente Superman era asesinado por uno de los más temibles villanos a los que se ha enfrentado, una bestia llamada Doomsday. Tanto en Estados Unidos como en España fue lanzada directamente al mercado del vídeo y DVD.</info>
+<urlsolve>https://sbembed.com/e/252fbk0d8mq6</urlsolve>
+</item>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+<item>
 <title>[COLOR white]La muerte de Superman. Parte 2: El reinado de los superhombres  [COLOR pink](2019)[/COLOR]</title> 
 <genre>Animacion,Ciencia ficcion,Accion,Fantastico</genre>
 <year>2019</year>
 <thumbnail>https://i.imgur.com/ODoo24K.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Tras el sacrificio de Superman para derrotar a Doomsday, el mundo se ha llenado de nuevas versiones del superheroe que tratan de luchar contra el crimen, con personajes variopintos como Superboy, Steel, Cyborg Superman o Eradicator cuya funcion social es duramente criticada por los medios. Continuacion de la pelicula de 2018 "La muerte de Superman".</info>
-<urlsolve>https://ulozto.net/file/fGX7UaPwcDRz/festakids-la-muerte-de-superman-parte-2-el-reinado-de-los-superhombres-2019-mkv</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/fGX7UaPwcDRz/festakids-la-muerte-de-superman-parte-2-el-reinado-de-los-superhombres-2019-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://sbembed.com/e/fud7h9x7whyg"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, 1Animacion, 1Fantastico, 1Infantil, A1949, Letra L, EEUU, Disney, C720, "
@@ -2929,13 +2939,13 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, 1Animacion, 1Aventuras, 1Comedia, A2019, Letra O, Rusia, C720, "
 
 <item>
-<title>[COLOR white] Operacion Panda [/COLOR][COLOR pink](2019)[/COLOR]</title>    
+<title>[COLOR white]Operacion Panda [/COLOR][COLOR pink](2019)[/COLOR]</title>    
 <genre>Animacion, Aventuras, Comedia</genre>
 <year>2019</year>  
 <thumbnail>https://i.imgur.com/Fy8WrSw.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Por equivocacion, una torpe cigüeña entrega un panda bebe a la direccion incorrecta. Sera entonces cuando un oso y sus amigos se embarquen en una audaz aventura para ayudar al pequeño panda a conocer finalmente a su verdadera familia y devolverlo a su hogar. ¿Lo lograran?</info>
-<urlsolve>https://ulozto.net/file/BweJdooIIuQe/festakids-operacion-panda-2019-mkv</urlsolve> 
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/BweJdooIIuQe/festakids-operacion-panda-2019-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://sbembed.com/e/7kbf0tz1qq3u"}</urlsolve> 
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, 1Comedia, 1Fantastico, 1Infantil, A2017, Letra P, Reino Unido, Familiar, Amazon, Movistar, 
@@ -3065,7 +3075,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/i7toInI.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Cuando su hermano menor Charlie (Gabriel Bateman) desaparece inesperadamente y se introduce en el magico mundo animado de "Playmobil", Marla (Anya Taylor-Joy) se embarca en una aventura para traerlo de vuelta a casa. A medida que descubre los secretos que aguardan en su nuevo mundo, Marla conoce a una serie de heroicos nuevos amigos, como el conductor de camiones Del (Jim Gaffigan), el carismatico agente secreto Rex Dasher (Daniel Radcliffe), un hada madrina entrada en años (Meghan Trainor) e incluso a un robot un poco rebelde pero con un gran corazon. La aventura, ademas de llevarla directamente al corazon del mundo "Playmobil", le ayudara a conocerse mejor a si misma y a entender que, independientemente de que ofrezca la vida, todo es posible cuando creemos en nosotros mismos. </info>
-<urlsolve>https://ulozto.net/file/uTVZFdkfU7JQ/festakids-playmobil-la-pelicula-2019-mkv</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/uTVZFdkfU7JQ/festakids-playmobil-la-pelicula-2019-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://sbembed.com/e/vg1yhqw35tky"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -3136,7 +3146,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/hBVUjy2.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Cuando los investigadores descubren un fosil del Pokemon singular Mew, lo utilizan para llevar a cabo una creacion que va en contra de las leyes de la naturaleza: Mewtwo, un Pokemon legendario destinado a ser utilizado como una herramienta de destruccion. Pero a medida que Mewtwo toma conciencia de su existencia, comienza a sentir resentimiento hacia sus creadores humanos...</info>
-<urlsolve>https://ulozto.net/file/qtHEjh4JDpxU/festakids-pokemon-mewtwo-contraataca-2019-mkv</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/qtHEjh4JDpxU/festakids-pokemon-mewtwo-contraataca-2019-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://sbembed.com/e/if34amjp2jvf"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
