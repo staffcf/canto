@@ -2429,6 +2429,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]The Brave[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.Brave</externallink>
+<info>Serie de TV (2017). 13 episodios. El complejo mundo de valientes héroes militares que hacen sacrificios personales mientras ejecutan las misiones más desafiantes y peligrosas detrás de las líneas enemigas</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/jC5SzIJP8zk1sRroGM9v7nBx9xp.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vqZkGuLe8IolX1j2E3zyvuaPsKf.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]The Capture[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.Capture.xml</externallink>
