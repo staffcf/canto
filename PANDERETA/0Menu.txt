@@ -963,6 +963,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Estación 11[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Estacion.once</externallink>
+<info>10 episodios. Los supervivientes de una devastadora pandemia tratan de reconstruir sus vidas tras haber perdido todo lo que tenían.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/apsQAPYFOoRbQOSDUxC89b8tr3M.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8SeuXCkzOoHynPzOGJiuh3eOoSz.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Euphoria[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Euphoria</externallink>
