@@ -2901,7 +2901,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/6qFqQXo.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Santa Claus se jubila y su hija, Nicole, tiene que continuar con el negocio familiar.</info>
-<urlsolve>https://ulozto.net/file/i3TyO3GBLXxk/festakids-noelle-2019-1080-mkv</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/i3TyO3GBLXxk/festakids-noelle-2019-1080-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://sbembed.com/e/e5dm9rtk6bed"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
@@ -3679,7 +3679,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://i.imgur.com/8YCtq6l.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Timmy es un imaginativo niño de 11 años que es fundador, presidente y director general de la mejor agencia de detectives de la ciudad, probablemente del estado y quizas de la nacion: de nombre Total Failure. Timmy dirige la agencia junto a su mejor amigo, un imaginario oso polar de 1500 libras de peso cuyo mayor talento parece ser comer de la basura.</info>
-<urlsolve>https://ulozto.net/file/2bZuNLtV0Rsk/festakids-timmy-failure-2020-mkv</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/2bZuNLtV0Rsk/festakids-timmy-failure-2020-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://sbembed.com/e/epglb9sy94gs"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
