@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Mama o Papa [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.1[/COLOR]</title> 
+<genre>Comedia,Familia</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/mHIEk1nOMMCwB84MEFalys7OBGt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4VL5C8s3y2efpB03SvCD3eFxg1i.jpg</fanart>
+<info>Flora y Víctor son los padres que todo niño querría tener: modernos, divertidos y cariñosos. Sin embargo, todo se tuerce el día que deciden divorciarse y aparece la oportunidad laboral con la que llevan soñando toda la vida. Solo hay un problema: la custodia. Ninguno está dispuesto a ceder. Así que, por orden de la jueza, los niños tendrán que decidir con quién se quedan: con mamá, o con papá. A partir de este momento, los padres modélicos se declaran la guerra y no habrá tregua. Ambos harán todo lo posible por no obtener la custodia de sus hijos.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/j6l3u0at97o"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/2r2j0i2wldqe0z0"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.bz/e/j9gljmp0iq46ve"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/vk8s3y1fe5wb"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/78gk18qwt6jp"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/xp450bxsrvzf"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1bg4PCGLuZCtQrZSpH1lFb2ZFEZaA-voz/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Miraculous World:  Shanghái, la leyenda de Ladygragon [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.5[/COLOR]</title> 
 <genre>Animación,Comedia,Familia,Aventura</genre>
 <year>2021</year>
