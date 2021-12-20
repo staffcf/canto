@@ -1360,6 +1360,15 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]La chica de Oslo[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.chica.de.oslo</externallink>
+<info>Serie de TV (2021-). Cuando secuestran a su hija, una diplomática noruega viaja a Oriente Medio decidida a liberarla con la ayuda de unos viejos amigos.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/66COuJZta3DPBwDviazkEWkl5oY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gDSrDsX6xPyrUILEHdDNKJbrcKv.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]La cocinera de Castamar[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.cocinera.de.Castamar.txt</externallink>
