@@ -2877,7 +2877,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/SsA7Fch.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Ante la amenza de que el hogar de una familia de ratones de campo sea destruido, la madre, la señora Brisby, pide ayuda... Dibujos animados para los mas pequeños de la casa, con una de las partituras mas geniales del compositor de bandas sonoras Jerry Goldsmith.</info>
-<urlsolve>https://ulozto.net/file/WHMhc8768SSJ/festakids-nimh-el-mundo-secreto-de-la-sra-brisby-1982-mkv</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/WHMhc8768SSJ/festakids-nimh-el-mundo-secreto-de-la-sra-brisby-1982-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://sbembed.com/e/jpy1v590200b"}</urlsolve> 
 </item>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------- 
  
@@ -3361,7 +3361,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://i.imgur.com/MLwmmcR.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Scooby Doo y sus amigos deben encontrar el ultimo fantasma del grupo de trece que capturaron hace algunos años.</info>
-<urlsolve>https://ulozto.net/file/xl5vBVeIHg9P/festakids-scooby-doo-y-la-maldicion-del-fantasma-13-2019-mkv</urlsolve> 
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/xl5vBVeIHg9P/festakids-scooby-doo-y-la-maldicion-del-fantasma-13-2019-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://sbembed.com/e/irdlx7m57urr"}</urlsolve>  
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -3705,7 +3705,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://i.imgur.com/Uza60FH.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Tod y Toby siguen juntos como uña y carne, pero cuando Toby tiene la oportunidad de unirse a un extravagante grupo de perros aulladores, su amistad de pura raza se pondra a prueba.</info>
-<urlsolve>https://ulozto.net/file/Xr4DmolUdt3R/festakids-tod-y-toby-2-2006-720-mkv</urlsolve> 
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/Xr4DmolUdt3R/festakids-tod-y-toby-2-2006-720-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://sbembed.com/e/f4kyfx9uj8ut"}</urlsolve>  
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -3719,7 +3719,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://i.imgur.com/9afNoJH.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Cuenta la historia de Togo, un perro de trineos que gano la carrera mas importante de esta disciplina en 1925 pese a haber sido considerado incapaz de terminarla siquiera debido a su pequeño tamaño.</info>
-<urlsolve>https://ulozto.net/file/196xBmuB9trv/festakids-togo-2020-mkv</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/196xBmuB9trv/festakids-togo-2020-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://sbembed.com/e/mvcftth5kvmh"}</urlsolve> 
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
