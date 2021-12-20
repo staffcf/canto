@@ -9,137 +9,149 @@
 
 	ETIQUETAS:
 	
-	- 1SerieTitle:"EL MINISTERIO DEL TIEMPO", SerieTemp:"TEMPORADA 1", SerieID:"TEMDTTEMP1", SerieIDT:"TEMDTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/joPtv51g95Gb7kUCeoiWXAxEClY.jpg",
-	- 1SerieTitle:"EL MINISTERIO DEL TIEMPO", SerieTemp:"TEMPORADA 2", SerieID:"TEMDTTEMP2", SerieIDT:"TEMDTTEMP2", SerieThumbail:"https://i.imgur.com/KJKz71x.jpg",
-	- 1SerieTitle:"EL MINISTERIO DEL TIEMPO", SerieTemp:"TEMPORADA 3", SerieID:"TEMDTTEMP3", SerieIDT:"TEMDTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/5tGCRUSlBowLqctgA9s46wC0BCZ.jpg",
-	- 1SerieTitle:"EL MINISTERIO DEL TIEMPO", SerieTemp:"TEMPORADA 4", SerieID:"TEMDTTEMP4", SerieIDT:"TEMDTTEMP4", SerieThumbail:"https://www.themoviedb.org/t/p/original/9WzmfZnNWlwmTYWjZ92uBJqjDpZ.jpg",
+	- 1SerieTitle:"SERIE COMPLETA (4 TEMPORADAS)", SerieTemp:"CALIDAD 1080", SerieIDT:"TEMPTCOMPLETA", SerieThumbail:"https://www.themoviedb.org/t/p/original/joPtv51g95Gb7kUCeoiWXAxEClY.jpg",
+	
+	
+	- 1SerieTitle:"EL MINISTERIO DEL TIEMPO", SerieTemp:"TEMPORADA 1", SerieID:"TEMPTTEMP1", SerieIDT:"TEMPTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/joPtv51g95Gb7kUCeoiWXAxEClY.jpg",
+	- 1SerieTitle:"EL MINISTERIO DEL TIEMPO", SerieTemp:"TEMPORADA 2", SerieID:"TEMPTTEMP2", SerieIDT:"TEMPTTEMP2", SerieThumbail:"https://i.imgur.com/KJKz71x.jpg",
+	- 1SerieTitle:"EL MINISTERIO DEL TIEMPO", SerieTemp:"TEMPORADA 3", SerieID:"TEMPTTEMP3", SerieIDT:"TEMPTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/5tGCRUSlBowLqctgA9s46wC0BCZ.jpg",
+	- 1SerieTitle:"EL MINISTERIO DEL TIEMPO", SerieTemp:"TEMPORADA 4", SerieID:"TEMPTTEMP4", SerieIDT:"TEMPTTEMP4", SerieThumbail:"https://www.themoviedb.org/t/p/original/9WzmfZnNWlwmTYWjZ92uBJqjDpZ.jpg",
 	
 -->
 ======================================================================
-			"Tag= TEMDTTEMP1, "
+			"Tag= TEMPTCOMPLETA, "
+			<item>
+			<title>4 TEMPORADAS - Calidad 1080</title>
+			<torrent>magnet:?xt=urn:btih:66e69417aca3a80827d8173ebea74dc21ea3a815&dn=Ministerio.tiempo.completa.1080</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TEMPTTEMP1, "
 			<item>
 			<title>1x01 - El tiempo es el que es</title>  
-			<torrent>magnet:?xt=urn:btih:w42p24kz4tnht3jwbykko6dkddw4ha4y</torrent>
+			<torrent>https://cdn.pizza/torrents/series/El_Ministerio_Del_Tiempo_1_01.torrent</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP1, "
+			"Tag= TEMPTTEMP1, "
 			<item>
-			<title>1x02 - Tiempo de gloria</title>   
-			<torrent>magnet:?xt=urn:btih:oe5q5nzlzqz2cgosuseauelgseibmyhf</torrent>
+			<title>1x02 - Tiempo de gloria</title> 
+			<torrent>https://cdn.pizza/torrents/series/El_Ministerio_Del_Tiempo_1_02.torrent</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP1, "
+			"Tag= TEMPTTEMP1, "
 			<item>
 			<title>1x03 - Como se reescribe el tiempo</title>  
-			<torrent>magnet:?xt=urn:btih:5re7i3iv7mbhobossvbqa6ha5q6tmvyj</torrent>
+			<torrent>https://cdn.pizza/torrents/series/El_Ministerio_Del_Tiempo_1_03.torrent</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP1, "
+			"Tag= TEMPTTEMP1, "
 			<item>
 			<title>1x04 - Una negociacion a tiempo</title> 
-			<torrent>magnet:?xt=urn:btih:uwfhxqv6w2vokquehmw4wjxnj3fcq76e</torrent>
+			<torrent>https://cdn.pizza/torrents/series/El_Ministerio_Del_Tiempo_1_04.torrent</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP1, "
+			"Tag= TEMPTTEMP1, "
 			<item>
 			<title>1x05 - Cualquier tiempo pasado</title> 
-			<torrent>magnet:?xt=urn:btih:aolq5i3nnuyjiikf2xg7q4akbqqcc7vy</torrent>
+			<torrent>https://cdn.pizza/torrents/series/El_Ministerio_Del_Tiempo_1_05.torrent</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP1, "
+			"Tag= TEMPTTEMP1, "
 			<item>
-			<title>1x06 - Tiempo de picaros</title>     
-			<torrent>magnet:?xt=urn:btih:vgjbh67amcsc6kbaskv4w7a4s275fhge</torrent>
+			<title>1x06 - Tiempo de picaros</title>    
+			<torrent>https://cdn.pizza/torrents/series/El_Ministerio_Del_Tiempo_1_06.torrent</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP1, "
+			"Tag= TEMPTTEMP1, "
 			<item>
-			<title>1x07 - Tiempo de venganza</title>    
-			<torrent>magnet:?xt=urn:btih:xlsgqiauyzub2dhv2vvp7bxj5zri4zhn</torrent>
+			<title>1x07 - Tiempo de venganza</title> 
+			<torrent>https://cdn.pizza/torrents/series/El_Ministerio_Del_Tiempo_1_07.torrent</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP1, "
+			"Tag= TEMPTTEMP1, "
 			<item>
-			<title>1x08 - La leyenda del tiempo</title>  
-			<torrent>magnet:?xt=urn:btih:krndh62o2o66juqwchgn6qnwrsuxn6ya</torrent>
+			<title>1x08 - La leyenda del tiempo</title> 
+			<torrent>https://cdn.pizza/torrents/series/El_Ministerio_Del_Tiempo_1_08.torrent</torrent>
 			</item>
 ======================================================================
 ======================================================================
 ======================================================================
 ======================================================================
-			"Tag= TEMDTTEMP2, "
+			"Tag= TEMPTTEMP2, "
 			<item>
 			<title>2x01 - Tiempo de leyenda</title>    
 			<torrent>magnet:?xt=urn:btih:9F64400DB7FCF6CD9D832D38973DB8FBB3F4BB66</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP2, "
+			"Tag= TEMPTTEMP2, "
 			<item>
 			<title>2x02 - El tiempo en sus manos</title>    
 			<torrent>magnet:?xt=urn:btih:DBF75E0955E45B29AF5F5782B927DBD7C62BC379</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP2, "
+			"Tag= TEMPTTEMP2, "
 			<item>
 			<title>2x03 - Tiempo de hidalgos</title>   
 			<torrent>magnet:?xt=urn:btih:F3E1B367FB3438521A2CAF3F486F8F5612E9AE51</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP2, "
+			"Tag= TEMPTTEMP2, "
 			<item>
 			<title>2x04 - El monasterio del tiempo</title>  
 			<torrent>magnet:?xt=urn:btih:1A007D8FFFE7AB781405EDE45F228ADDDBD78384</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP2, "
+			"Tag= TEMPTTEMP2, "
 			<item>
 			<title>2x05 - Un virus de otro tiempo</title> 
 			<torrent>magnet:?xt=urn:btih:243C1236367A0F8EE2469E78F2842AD541ACAFA7</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP2, "
+			"Tag= TEMPTTEMP2, "
 			<item>
 			<title>2x06 - Tiempo de magia</title>     
 			<torrent>magnet:?xt=urn:btih:8A7B686CD94918945B8BADBF31AB930A0EC2B091</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP2, "
+			"Tag= TEMPTTEMP2, "
 			<item>
 			<title>2x07 - Tiempo de valientes I</title>     
 			<torrent>magnet:?xt=urn:btih:C433254A4B66B3A446CBAAAC8B4BC520A71AC9CB</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP2, "
+			"Tag= TEMPTTEMP2, "
 			<item>
 			<title>2x08 - Tiempo de valientes II</title>    
 			<torrent>magnet:?xt=urn:btih:94E2860DB79FAF83C63E4FE872E9EA391B398D4F</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP2, "
+			"Tag= TEMPTTEMP2, "
 			<item>
 			<title>2x09 - Óleo sobre tiempo</title>   
 			<torrent>magnet:?xt=urn:btih:90A5EAA78437E7F0FCA51240823D081FAF392548</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP2, "
+			"Tag= TEMPTTEMP2, "
 			<item>
 			<title>2x10 - Separadas en el tiempo</title>  
 			<torrent>magnet:?xt=urn:btih:2D0DB3F14C4E2A0B732B1A1E02A4ED1CDAD55682</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP2, "
+			"Tag= TEMPTTEMP2, "
 			<item>
 			<title>2x11 - Tiempo de lo oculto</title>   
 			<torrent>magnet:?xt=urn:btih:B9DB173EB91B535201B90A673CDFD134A2B5E857</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP2, "
+			"Tag= TEMPTTEMP2, "
 			<item>
 			<title>2x12 - Hasta que el tiempo nos separe</title> 
 			<torrent>magnet:?xt=urn:btih:9805DF6463DF12A2088D8E59D76036B3FD27FF12</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP2, "
+			"Tag= TEMPTTEMP2, "
 			<item>
 			<title>2x13 - Cambio de tiempo</title>      
 			<torrent>magnet:?xt=urn:btih:954750CA666704A347D0242D04B2381B26A8F13B</torrent>
@@ -148,79 +160,79 @@
 ======================================================================
 ======================================================================
 ======================================================================
-			"Tag= TEMDTTEMP3, "
+			"Tag= TEMPTTEMP3, "
 			<item>
 			<title>3x01 - Con el tiempo en los talones</title>  
 			<torrent>magnet:?xt=urn:btih:3E0A0EEB701E40A39980B236A97043DE79B23612</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP3, "
+			"Tag= TEMPTTEMP3, "
 			<item>
 			<title>3x02 - Tiempo de espías</title>      
 			<torrent>magnet:?xt=urn:btih:2515160CEE39F2669B72F2AA22EFD88EAF58D3AF</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP3, "
+			"Tag= TEMPTTEMP3, "
 			<item>
 			<title>3x03 - Tiempo de hechizos</title>   
 			<torrent>magnet:?xt=urn:btih:5967DC68CDDEF88CF430343F7850A9EB8A2C0587</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP3, "
+			"Tag= TEMPTTEMP3, "
 			<item>
 			<title>3x04 - Tiempo de ilustrados</title>    
 			<torrent>magnet:?xt=urn:btih:833844ED1B2A90E3304C50E42AABFC4AAF43E237</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP3, "
+			"Tag= TEMPTTEMP3, "
 			<item>
 			<title>3x05 - Tiempo de esplendor</title> 
 			<torrent>magnet:?xt=urn:btih:FFD875614DC06ED9A619A5605BB1C5A9253A4683</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP3, "
+			"Tag= TEMPTTEMP3, "
 			<item>
 			<title>3x06 - Tiempo de esclavos</title> 
 			<torrent>magnet:?xt=urn:btih:BE46CD11FF8C94A329A530779B9A8082DA77597D</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP3, "
+			"Tag= TEMPTTEMP3, "
 			<item>
 			<title>3x07 - Tiempo de censura</title> 
 			<torrent>magnet:?xt=urn:btih:F76F82F7F4F9EE52364A2B82F33BD1FDB37DE648</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP3, "
+			"Tag= TEMPTTEMP3, "
 			<item>
 			<title>3x08 - Tiempo de conquista</title>  
 			<torrent>magnet:?xt=urn:btih:A213C6F5321B2EC03174D43176383E801D3BADE0</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP3, "
+			"Tag= TEMPTTEMP3, "
 			<item>
 			<title>3x09 - El cisma del tiempo</title> 
 			<torrent>magnet:?xt=urn:btih:AA505E98D8121521EACAC0645917D01553711B88</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP3, "
+			"Tag= TEMPTTEMP3, "
 			<item>
 			<title>3x10 - Refugiados en el tiempo</title>  
 			<torrent>magnet:?xt=urn:btih:FD21E8E7EF7EBD3F07B160C1EF976E0A51614EE5</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP3, "
+			"Tag= TEMPTTEMP3, "
 			<item>
 			<title>3x11 - Tiempo de verbena</title>      
 			<torrent>magnet:?xt=urn:btih:482006F30CB6E23D503A9CE977D52C96157928AF</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP3, "
+			"Tag= TEMPTTEMP3, "
 			<item>
 			<title>3x12 - Contratiempos</title>   
 			<torrent>magnet:?xt=urn:btih:C4F82D46968CCB8F89DC238424D10FE36ABD7B6A</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP3, "
+			"Tag= TEMPTTEMP3, "
 			<item>
 			<title>3x13 - Entre dos tiempos</title>  
 			<torrent>magnet:?xt=urn:btih:3E0A0EEB701E40A39980B236A97043DE79B23612</torrent>
@@ -229,49 +241,49 @@
 ======================================================================
 ======================================================================
 ======================================================================
-			"Tag= TEMDTTEMP4, "
+			"Tag= TEMPTTEMP4, "
 			<item>
 			<title>4x01 - Perdido en el tiempo</title>   
 			<torrent>magnet:?xt=urn:btih:AC5373B4D1778285742E776CD962147EE495A17F</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP4, "
+			"Tag= TEMPTTEMP4, "
 			<item>
 			<title>4x02 - El laberinto del tiempo</title>  
 			<torrent>magnet:?xt=urn:btih:01E6A5DBEDE400E386A027934A6D1E38C7B6C91E</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP4, "
+			"Tag= TEMPTTEMP4, "
 			<item>
 			<title>4x03 - Bloody Mary Hour</title> 
 			<torrent>magnet:?xt=urn:btih:1CF0DA345DE47E3456C3B5CB78D1BB012D2EBC3A</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP4, "
+			"Tag= TEMPTTEMP4, "
 			<item>
 			<title>4x04 - La memoria del tiempo</title>  
 			<torrent>magnet:?xt=urn:btih:42BF340AC47400C33A531C5532EA416D9B77D0FD</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP4, "
+			"Tag= TEMPTTEMP4, "
 			<item>
 			<title>4x05 - Deshaciendo el tiempo</title> 
 			<torrent>magnet:?xt=urn:btih:A79268D1C8EE910BD59B63B4D0EC9CB5F6EB7337</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP4, "
+			"Tag= TEMPTTEMP4, "
 			<item>
 			<title>4x06 - El tiempo vuela</title>    
 			<torrent>magnet:?xt=urn:btih:7064510600034289C0F169F9DCEB1F71B1C07B73</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP4, "
+			"Tag= TEMPTTEMP4, "
 			<item>
 			<title>4x07 - Pretérito imperfecto</title>    
 			<torrent>magnet:?xt=urn:btih:346607D5354304674E93512F4D10AF9E8AFE3EA2</torrent>
 			</item>
 ======================================================================
-			"Tag= TEMDTTEMP4, "
+			"Tag= TEMPTTEMP4, "
 			<item>
 			<title>4x08 - Días de futuro pasado</title>  
 			<torrent>magnet:?xt=urn:btih:9B17BDAF870F128357652CD54F8B582CBB789972</torrent>

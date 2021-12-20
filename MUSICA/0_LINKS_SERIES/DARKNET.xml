@@ -3,98 +3,102 @@
 ======================================================================
 
 <!--
- BARBAROS
+ DARKNET
 -->
 <!--
 
 	ETIQUETAS:
 	
-	- 1SerieTitle:"BARBAROS", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/mF6yK510Y4lf7THc5xMD34RD5xi.jpg",
+	- 1SerieTitle:"DARKNET", SerieTemp:"MINI SERIE", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/8fe8wUkYzzVR1WBScwY9aA9wJUM.jpg",
 	
 -->
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - [COLOR yellow]CALIDAD 1080</title>      
+			<title> - [COLOR yellow]CALIDAD 720</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - </title>      
+			<title>1x0. - Capitulos 1 y 2</title>
+			<torrent>magnet:?xt=urn:btih:936275D2C5A3343AB54AF67066008F4298F24332&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 3 y 4</title>
+			<torrent>magnet:?xt=urn:btih:C2CDD060E2559A40190AA8D7554E96A3A8CADFE2&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 5 y 6</title>
+			<torrent>magnet:?xt=urn:btih:63E8FEC7F1BF44359462D2D21EAE96C917D7D315&dn=HD720</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
 			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x01 - El lobo y el águila</title>
-			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Barbaros/1x1.-Barbaros.-.1080.-.CristalAzul.mkv.torrent</torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title>1x02 - Venganza</title>
-			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Barbaros/1x2.-Barbaros.-.1080.-.CristalAzul.mkv.torrent</torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title>1x03 - Al límite</title>
-			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Barbaros/1x3.-Barbaros.-.1080.-.CristalAzul.mkv.torrent</torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title>1x04 - Un nuevo reik</title>
-			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Barbaros/1x4.-Barbaros.-.1080.-.CristalAzul.mkv.torrent</torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title>1x05 - Traición</title>
-			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Barbaros/1x5.-Barbaros.-.1080.-.CristalAzul.mkv.torrent</torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title>1x06 - La batalla</title>
-			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Barbaros/1x6.-Barbaros.-.1080.-.CristalAzul.mkv.torrent</torrent>
-			</item>
-======================================================================
-======================================================================
-======================================================================
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title> - [COLOR yellow]CALIDAD 720</title>      
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x0. - Capitulos 1 a 6</title>      
-			<torrent>magnet:?xt=urn:btih:12DA60A2765EA5EA0763839D479FA90A01278178</torrent>
+			<title>1x0. - Capitulos 1 y 2</title>
+			<torrent>magnet:?xt=urn:btih:4D01B3135D32318D03A86BEC6E8D634585328934&dn=HDTV</torrent>
 			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 3 y 4</title>
+			<torrent>magnet:?xt=urn:btih:3BEA281444514FFA03D7BEBC49D929E74DE2BFEA&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 5 y 6</title>
+			<torrent>magnet:?xt=urn:btih:7ADA18ECF79186BE721EDF591F39603ABA4220EC&dn=HDTV</torrent>
+			</item>
+======================================================================
 ======================================================================
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - </title>      
+			<title> - </title>
 			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - [COLOR yellow]CALIDAD HDTV</title>      
+			<title> - [COLOR yellow]CALIDAD 1080</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x0. - Capitulos 1 a 6</title>      
-			<torrent>magnet:?xt=urn:btih:DCCB305ADF2681FD881B702BD3DE5F6A9B158E48</torrent>
+			<title>1x0. - Capitulos 1 y 2</title>
+			<torrent>magnet:?xt=urn:btih:BA6A819A6E977EAA35DA83C685352E20F2F34993&dn=HD1080</torrent>
 			</item>
 ======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 3 y 4</title>
+			<torrent>magnet:?xt=urn:btih:1E5B2FD627EB9EAF3D0F3B78EA556D667BDE7C98&dn=HD1080</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 5 y 6</title>
+			<torrent>magnet:?xt=urn:btih:D84BCE1593DAE8692F3AD9951D8EB7D30C1387C7&dn=HD1080</torrent>
+			</item>
 ======================================================================
 ======================================================================
 ======================================================================

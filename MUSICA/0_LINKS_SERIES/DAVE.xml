@@ -3,71 +3,131 @@
 ======================================================================
 
 <!--
- THE GREAT
+ DAVE
 -->
 <!--
 
 	ETIQUETAS:
 	
-	- 1SerieTitle:"THE GREAT", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/27zEsfzGUBSPBcsBttISWg16oX8.jpg",
-	- 1SerieTitle:"THE GREAT", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/tpz9UQ3hUwYufNcKWVW00FCjWyc.jpg",
-
+	- 1SerieTitle:"DAVE", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/aV8n5PeD53Hoqyv6V4nlc3rvNjT.jpg",
+	- 1SerieTitle:"DAVE", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/qxjZp09DCBywLN7sQPYHk6nRyZu.jpg",
 	
 -->
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - [COLOR yellow]CALIDAD 720</title>      
+			<title> - [COLOR yellow]CALIDAD 720</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 1 a 3</title>      
-			<torrent>magnet:?xt=urn:btih:6EC9F21D24B2D26BB34464EAB80E60DEC3B72B65</torrent>
+			<title>1x0. - Capitulos 1 a 3</title>
+			<torrent>magnet:?xt=urn:btih:133F3032D6599BAA18722505D472879BB2D61951&dn=HD720</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulo 4</title>      
-			<torrent>magnet:?xt=urn:btih:BB38976558D031893BD7A24C22AD13C8614254BA</torrent>
+			<title>1x04 - Alguien...</title>
+			<torrent>magnet:?xt=urn:btih:308DFA9A7210140E5E65900E78D1F9400C2655C8&dn=HD720</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 5 a 10</title>      
-			<torrent>magnet:?xt=urn:btih:27ACA39F38543F4F5C027A0571E1EDB450138E22</torrent>
+			<title>1x05 - Hombre de bombo</title>
+			<torrent>magnet:?xt=urn:btih:EAADAFEC26305B9C81D600AD9192BC491DC96604&dn=HD720</torrent>
 			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x06 - Show de talentos</title>
+			<torrent>magnet:?xt=urn:btih:96E37A24368C5404C7EB5B4BF0A053329C60E715&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x07 - Que hierba fumas</title>
+			<torrent>magnet:?xt=urn:btih:7782C7263645F1AC82A793990F474D725BD74801&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x08 - PIBE</title>
+			<torrent>magnet:?xt=urn:btih:417BCF6DADBD733535FF450A73570668FD89F2ED&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x09 - El brindis de Ally</title>
+			<torrent>magnet:?xt=urn:btih:08874CCDE8EA25574225FF77C7CA80F193026C13&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x10 - La cárcel</title>
+			<torrent>magnet:?xt=urn:btih:EC24497645E8353475C8972D6C4A83E2990A3FD0&dn=HD720</torrent>
+			</item>
+======================================================================
 ======================================================================
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - </title>      
+			<title> - </title>
 			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - [COLOR yellow]CALIDAD HDTV</title>      
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 1 a 3</title>      
-			<torrent>magnet:?xt=urn:btih:51B04727C08AB933E57CC5422DF284F2055A3BEC</torrent>
+			<title>1x0. - Capitulos 1 a 3</title>
+			<torrent>magnet:?xt=urn:btih:85239F56783B3F62C44F362B5F1F6C16F4326D4B&dn=HDTV</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulo 4</title>      
-			<torrent>magnet:?xt=urn:btih:05231B2E0DD45E5FD809A682EBF857726572DF2F</torrent>
+			<title>1x04 - Alguien...</title>
+			<torrent>magnet:?xt=urn:btih:AE7D304563EF718FDE001245A80CB616934B1B79&dn=HDTV</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 5 a 10</title>      
-			<torrent>magnet:?xt=urn:btih:1BF463001FB1F58FEBAD2CB31FF0D25C6196EDE5</torrent>
+			<title>1x05 - Hombre de bombo</title>
+			<torrent>magnet:?xt=urn:btih:93E282DFF4AF5141C89405C5ECC6603B001C1186&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x06 - Show de talentos</title>
+			<torrent>magnet:?xt=urn:btih:3194A0B8072B6AD17B24190DFEFA933BBD130B10&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x07 - Que hierba fumas</title>
+			<torrent>magnet:?xt=urn:btih:002E766BCADF59DBC3C48C0AAF941394A864221C&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x08 - PIBE</title>
+			<torrent>magnet:?xt=urn:btih:E4275575F288E547F6AEEF8A7828C67F8CDCC382&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x09 - El brindis de Ally</title>
+			<torrent>magnet:?xt=urn:btih:FF518B044120996BCF11301F513444EE32B30C4F&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x10 - La cárcel</title>
+			<torrent>magnet:?xt=urn:btih:1FB79578538EB491552FAE72C55387C91B05931B&dn=HDTV</torrent>
 			</item>
 ======================================================================
 ======================================================================
@@ -80,64 +140,21 @@
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
-			<title>2x01 - Aquí mando yo</title>
-			<torrent>magnet:?xt=urn:btih:CE892F69766BB4D85624D3EFAC439B700E156AA7&dn=HD720</torrent>
+			<title>2x0. - Capitulos 1 a 4</title>
+			<torrent>magnet:?xt=urn:btih:16B313C9591E09299949884922E6E7D4ABD464E9&dn=HD720</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
-			<title>2x02 - Gilipollas [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
+			<title>2x0. - Capitulos 5 a 7</title>
+			<torrent>magnet:?xt=urn:btih:DFAD364EAABEA91C92C54414CD74B096987AFF96&dn=HD720</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
-			<title>2x03 - Al fin solo [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
+			<title>2x0. - Capitulos 8 a 10</title>
+			<torrent>magnet:?xt=urn:btih:FC88C4156799A26FFD67FE7873E04DB7632F73BB&dn=HD720</torrent>
 			</item>
-======================================================================
-			"Tag= TORRENTTEMP2, "
-			<item>
-			<title>2x04 - El almuerzo del diablo [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP2, "
-			<item>
-			<title>2x05 - Instintos animales [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP2, "
-			<item>
-			<title>2x06 - Una simple broma [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP2, "
-			<item>
-			<title>2x07 - Grapadora [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP2, "
-			<item>
-			<title>2x08 - Cinco días [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP2, "
-			<item>
-			<title>2x09 - Temporada de nueces [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP2, "
-			<item>
-			<title>2x10 - Boda [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
-			</item>
-======================================================================
 ======================================================================
 ======================================================================
 			"Tag= TORRENTTEMP2, "
@@ -154,63 +171,22 @@
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
-			<title>2x01 - Aquí mando yo</title>
-			<torrent>magnet:?xt=urn:btih:D5060DA5DCE22B10452C2F552FCAA1C899A35749&dn=HDTV</torrent>
+			<title>2x0. - Capitulos 1 a 4</title>
+			<torrent>magnet:?xt=urn:btih:541EB0AE31296B3C5474F482ABFDBC91B70A4EA5&dn=HDTV</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
-			<title>2x02 - Gilipollas [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
+			<title>2x0. - Capitulos 5 a 7</title>
+			<torrent>magnet:?xt=urn:btih:CC0FCDF8D4B8C26AEA8C40F892754204D3510F5B&dn=HDTV</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
-			<title>2x03 - Al fin solo [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
+			<title>2x0. - Capitulos 8 a 10</title>
+			<torrent>magnet:?xt=urn:btih:AD02CBD023518F1642E6A8B2875E956D8BF14391&dn=HDTV</torrent>
 			</item>
 ======================================================================
-			"Tag= TORRENTTEMP2, "
-			<item>
-			<title>2x04 - El almuerzo del diablo [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP2, "
-			<item>
-			<title>2x05 - Instintos animales [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP2, "
-			<item>
-			<title>2x06 - Una simple broma [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP2, "
-			<item>
-			<title>2x07 - Grapadora [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP2, "
-			<item>
-			<title>2x08 - Cinco días [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP2, "
-			<item>
-			<title>2x09 - Temporada de nueces [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP2, "
-			<item>
-			<title>2x10 - Boda [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
-			</item>
 ======================================================================
 ======================================================================
 ======================================================================

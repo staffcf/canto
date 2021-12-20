@@ -1,0 +1,128 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ MANHUNT
+-->
+<!--
+
+	ETIQUETAS:
+		
+	- 1SerieTitle:"MANHUNT: UNABOMBER", SerieTemp:"MINI SERIE", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/gmSOPIOenH39XHEdtfPwgi2lWNj.jpg",
+	- 1SerieTitle:"MANHUNT: DEADLY GAMES", SerieTemp:"MINI SERIE", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/2c4n6JZyRsQJFDb3sBSKlXnNX4N.jpg",
+	
+-->
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x01 - UNABOM</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Manhunt.Unabomber/1x01.-Manhunt-Unabomber.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x02 - Abua pura</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Manhunt.Unabomber/1x02.-Manhunt-Unabomber.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x03 - Fruto del árbol envenenado</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Manhunt.Unabomber/1x03.-Manhunt-Unabomber.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x04 - Publicar o perecer</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Manhunt.Unabomber/1x04.-Manhunt-Unabomber.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x05 - Refugio</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Manhunt.Unabomber/1x05.-Manhunt-Unabomber.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x06 - Ted</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Manhunt.Unabomber/1x06.-Manhunt-Unabomber.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x07 - Lincoln</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Manhunt.Unabomber/1x07.-Manhunt-Unabomber.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x08 - Estados Unidos contra Theodore J. Kaczynski</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Manhunt.Unabomber/1x08.-Manhunt-Unabomber.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= SERIETEMP2, TORRENTTEMP2, "
+			<item>
+			<title>2x01 - Centbom</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Manhunt.Unabomber/2x01.-Manhunt-Unabomber.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP2, TORRENTTEMP2, "
+			<item>
+			<title>2x02 - Unabobo</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Manhunt.Unabomber/2x02.-Manhunt-Unabomber.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP2, TORRENTTEMP2, "
+			<item>
+			<title>2x03 - Bombingham</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Manhunt.Unabomber/2x03.-Manhunt-Unabomber.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP2, TORRENTTEMP2, "
+			<item>
+			<title>2x04 - Corre Rudolph, corre</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Manhunt.Unabomber/2x04.-Manhunt-Unabomber.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP2, TORRENTTEMP2, "
+			<item>
+			<title>2x05 - La tierra del sol de mediodía</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Manhunt.Unabomber/2x05.-Manhunt-Unabomber.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP2, TORRENTTEMP2, "
+			<item>
+			<title>2x06 - El ejército de Dios</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Manhunt.Unabomber/2x06.-Manhunt-Unabomber.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP2, TORRENTTEMP2, "
+			<item>
+			<title>2x07 - Eric</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Manhunt.Unabomber/2x07.-Manhunt-Unabomber.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP2, TORRENTTEMP2, "
+			<item>
+			<title>2x08 - Únete o muere</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Manhunt.Unabomber/2x08.-Manhunt-Unabomber.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP2, TORRENTTEMP2, "
+			<item>
+			<title>2x09 - No me pisotees</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Manhunt.Unabomber/2x09.-Manhunt-Unabomber.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP2, TORRENTTEMP2, "
+			<item>
+			<title>2x10 - Se abre la veda</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Manhunt.Unabomber/2x10.-Manhunt-Unabomber.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+======================================================================

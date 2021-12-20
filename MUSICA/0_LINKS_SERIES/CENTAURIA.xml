@@ -10,6 +10,7 @@
 	ETIQUETAS:
 	
 	- 1SerieTitle:"CENTAURIA", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/3lek9khdgBxNipopFlk1e2POle9.jpg",
+	- 1SerieTitle:"CENTAURIA", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/2klp8BwNDbmV5pfBSWhNjr1MktC.jpg",
 	
 -->
 ======================================================================
@@ -21,19 +22,19 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 1 a 4</title>
+			<title>1x0. - Capitulos 1 a 4</title>
 			<torrent>magnet:?xt=urn:btih:3884F02D49667CD163B8444AC6FDA0B71096B5EF</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 5 a 8</title>
+			<title>1x0. - Capitulos 5 a 8</title>
 			<torrent>magnet:?xt=urn:btih:BE5DD0095B247D2A9EEDAA69A2C98B0D94DEAD78</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 9 y 10</title>
+			<title>1x0. - Capitulos 9 y 10</title>
 			<torrent>magnet:?xt=urn:btih:31205ECD72083F9B3D4B4FBCD7FEE76B64BB66C5</torrent>
 			</item>
 ======================================================================
@@ -52,21 +53,69 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 1 a 4</title>
+			<title>1x0. - Capitulos 1 a 4</title>
 			<torrent>magnet:?xt=urn:btih:EFFD801B823F232728A94E4CB61D0E881EE29867</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 5 a 8</title>
+			<title>1x0. - Capitulos 5 a 8</title>
 			<torrent>magnet:?xt=urn:btih:B7C931257DF1671F3C7677FC213BE610227FF616</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 9 y 10</title>
+			<title>1x0. - Capitulos 9 y 10</title>
 			<torrent>magnet:?xt=urn:btih:B1E2EDA77665F69CBB55EDF0A0A76FD9D8948482</torrent>
 			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x0. - Capitulos 1 a 4</title>
+			<torrent>magnet:?xt=urn:btih:7E1FECCA7FD5DFCC1CDD8FA3BFDBE49A4B3ECF27&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x0. - Capitulos 5 a 8</title>
+			<torrent>magnet:?xt=urn:btih:EDB7D36D96BFA25A9A4907C38B792EFE34C9E60D&dn=HD720</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x0. - Capitulos 1 a 4</title>
+			<torrent>magnet:?xt=urn:btih:3004EA364703F2543931F6F29B0E93B1CB3FE2B1&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x0. - Capitulos 5 a 8</title>
+			<torrent>magnet:?xt=urn:btih:FD1DBB44FA804A98038971465338BA7FF1FAFCA8&dn=HDTV</torrent>
+			</item>
+======================================================================
 ======================================================================
 ======================================================================
 ======================================================================

@@ -20,6 +20,9 @@ ELITE
 	- 1SerieTitle:"HISTORIAS BREVES", SerieTemp:"NADIA GUZMAN", SerieID:"SERIEHISTORIASCORTAS2", SerieIDT:"TORRENTHISTORIASCORTAS2", SerieThumbail:"https://www.themoviedb.org/t/p/original/9EnXOOBVRPydOJAUee1orifgQmI.jpg",
 	- 1SerieTitle:"HISTORIAS BREVES", SerieTemp:"OMAR ANDER ALEXIS", SerieID:"SERIEHISTORIASCORTAS3", SerieIDT:"TORRENTHISTORIASCORTAS3", SerieThumbail:"https://www.themoviedb.org/t/p/original/5VJ1eOISlE3N59ZQjJ1EQ1FNjxI.jpg",
 	- 1SerieTitle:"HISTORIAS BREVES", SerieTemp:"CARLA SAMUEL", SerieID:"SERIEHISTORIASCORTAS4", SerieIDT:"TORRENTHISTORIASCORTAS4", SerieThumbail:"https://www.themoviedb.org/t/p/original/xTcID7kgEa932O0BBqsJxRO67za.jpg",
+	- 1SerieTitle:"HISTORIAS BREVES", SerieTemp:"PHILLIPE CAYE FELIPE", SerieID:"SERIEHISTORIASCORTAS5", SerieIDT:"TORRENTHISTORIASCORTAS5", SerieThumbail:"https://i.imgur.com/JIzcogh.jpg",
+	- 1SerieTitle:"HISTORIAS BREVES", SerieTemp:"SAMUEL OMAR", SerieID:"SERIEHISTORIASCORTAS6", SerieIDT:"TORRENTHISTORIASCORTAS6", SerieThumbail:"https://www.themoviedb.org/t/p/original/osgUR4Z22ZAilyJivE708fhrRa4.jpg",
+	- 0SerieTitle:"HISTORIAS BREVES", SerieTemp:"PATRICK", SerieID:"SERIEHISTORIASCORTAS7", SerieIDT:"TORRENTHISTORIASCORTAS7", SerieThumbail:"",
 	
 -->
 
@@ -34,7 +37,7 @@ ELITE
 			"Tag= TORRENTTEMP1, "
 			<item>
 			<title> - Capitulos 1 a 8</title>      
-			<torrent>magnet:?xt=urn:btih:137B9903324C4E79CEC6BB54666A941765F1400F<</torrent>
+			<torrent>magnet:?xt=urn:btih:137B9903324C4E79CEC6BB54666A941765F1400F</torrent>
 			</item>
 ======================================================================
 ======================================================================
@@ -388,6 +391,30 @@ HISTORIAS CORTAS
 			<item>
 			<title>1x03 - Carla Samuel</title>
 			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Elite-Historias.breves/4x03.Carla.Samuel.1080.-.CristalAzul.mp4.torrent</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTHISTORIASCORTAS5, "
+			<item>
+			<title>1x0. - Capitulos 1 a 3</title>
+			<torrent>magnet:?xt=urn:btih:D7BD299967F1A99D9EBB5E62D112CEE01C5CAFC4&dn=HD720</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTHISTORIASCORTAS6, "
+			<item>
+			<title>1x0. - Capitulos 1 a 3</title>
+			<torrent>magnet:?xt=urn:btih:9CE40DAC38120E0D4FDB4AE6004DB5FD389FE9E6&dn=HD720</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTHISTORIASCORTAS7, "
+			<item>
+			<title>1x0. - Capitulos 1 a 3</title>
+			<torrent></torrent>
 			</item>
 ======================================================================
 ======================================================================

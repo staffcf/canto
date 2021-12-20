@@ -1,0 +1,276 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ AUGA SECA
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"AUGA SECA", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/luR79rfaThkkpLhpJGjdn87C5pi.jpg",
+	- 1SerieTitle:"AUGA SECA", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/8BE6eX73TrROYzw6pyaYa72XrSt.jpg",
+	
+-->
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 1 a 6</title>
+			<torrent>magnet:?xt=urn:btih:FFDEE5E8F58FF5A72BBE44296BEFF272BFA3970F&dn=HD720</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 1 a 6</title>
+			<torrent>magnet:?xt=urn:btih:73CC900CA51C00CB20581C20C222C082EF2B0877&dn=HDTV</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= SERIETEMP1, "
+			<item>
+			<title>1x01 - Capitulo 1</title>
+			<link>https://vidlox.me/NO_LINK</link>  
+			<link2>https://vidlox.me/NO_LINK</link2>  
+			<link3>https://vidlox.me/NO_LINK</link3>  
+			<link4>https://vidlox.me/NO_LINK</link4>  
+			<link5>https://vidlox.me/NO_LINK</link5>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP1, "
+			<item>
+			<title>1x02 - Capitulo 2</title>
+			<link>https://vidlox.me/NO_LINK</link>  
+			<link2>https://vidlox.me/NO_LINK</link2>  
+			<link3>https://vidlox.me/NO_LINK</link3>  
+			<link4>https://vidlox.me/NO_LINK</link4>  
+			<link5>https://vidlox.me/NO_LINK</link5>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP1, "
+			<item>
+			<title>1x03 - Capitulo 3</title>
+			<link>https://vidlox.me/NO_LINK</link>  
+			<link2>https://vidlox.me/NO_LINK</link2>  
+			<link3>https://vidlox.me/NO_LINK</link3>  
+			<link4>https://vidlox.me/NO_LINK</link4>  
+			<link5>https://vidlox.me/NO_LINK</link5>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP1, "
+			<item>
+			<title>1x04 - Capitulo 4</title>
+			<link>https://vidlox.me/NO_LINK</link>  
+			<link2>https://vidlox.me/NO_LINK</link2>  
+			<link3>https://vidlox.me/NO_LINK</link3>  
+			<link4>https://vidlox.me/NO_LINK</link4>  
+			<link5>https://vidlox.me/NO_LINK</link5>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP1, "
+			<item>
+			<title>1x05 - Capitulo 5</title>
+			<link>https://vidlox.me/NO_LINK</link>  
+			<link2>https://vidlox.me/NO_LINK</link2>  
+			<link3>https://vidlox.me/NO_LINK</link3>  
+			<link4>https://vidlox.me/NO_LINK</link4>  
+			<link5>https://vidlox.me/NO_LINK</link5>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP1, "
+			<item>
+			<title>1x06 - Capitulo 6</title>
+			<link>https://vidlox.me/NO_LINK</link>  
+			<link2>https://vidlox.me/NO_LINK</link2>  
+			<link3>https://vidlox.me/NO_LINK</link3>  
+			<link4>https://vidlox.me/NO_LINK</link4>  
+			<link5>https://vidlox.me/NO_LINK</link5>
+			<torrent></torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP2, TORRENTTEMP2, "
+			<item>
+			<title>2x01 - Capitulo 1</title>
+			<link>https://vidlox.me/NO_LINK</link>  
+			<link2>https://vidlox.me/NO_LINK</link2>  
+			<link3>https://vidlox.me/NO_LINK</link3>  
+			<link4>https://vidlox.me/NO_LINK</link4>  
+			<link5>https://vidlox.me/NO_LINK</link5>
+			<torrent>magnet:?xt=urn:btih:D63F5CEEAE70A3FCD7FB8BA2C6C4B5184D62D1C7&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP2, TORRENTTEMP2, "
+			<item>
+			<title>2x02 - Capitulo 2</title>
+			<link>https://vidlox.me/NO_LINK</link>  
+			<link2>https://vidlox.me/NO_LINK</link2>  
+			<link3>https://vidlox.me/NO_LINK</link3>  
+			<link4>https://vidlox.me/NO_LINK</link4>  
+			<link5>https://vidlox.me/NO_LINK</link5>
+			<torrent>magnet:?xt=urn:btih:EAEF156E156F71E87D7263FF00B66546C25FEC8B&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP2, TORRENTTEMP2, "
+			<item>
+			<title>2x03 - Capitulo 3</title>
+			<link>https://vidlox.me/NO_LINK</link>  
+			<link2>https://vidlox.me/NO_LINK</link2>  
+			<link3>https://vidlox.me/NO_LINK</link3>  
+			<link4>https://vidlox.me/NO_LINK</link4>  
+			<link5>https://vidlox.me/NO_LINK</link5>
+			<torrent>magnet:?xt=urn:btih:D46536841E1438476746EA664ABF29E042BE1BC3&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP2, TORRENTTEMP2, "
+			<item>
+			<title>2x04 - Capitulo 4</title>
+			<link>https://vidlox.me/NO_LINK</link>  
+			<link2>https://vidlox.me/NO_LINK</link2>  
+			<link3>https://vidlox.me/NO_LINK</link3>  
+			<link4>https://vidlox.me/NO_LINK</link4>  
+			<link5>https://vidlox.me/NO_LINK</link5>
+			<torrent>magnet:?xt=urn:btih:3620DA2DAA16471F0097C59E3FF7A96403580803&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP2, TORRENTTEMP2, "
+			<item>
+			<title>2x05 - Capitulo 5</title>
+			<link>https://vidlox.me/NO_LINK</link>  
+			<link2>https://vidlox.me/NO_LINK</link2>  
+			<link3>https://vidlox.me/NO_LINK</link3>  
+			<link4>https://vidlox.me/NO_LINK</link4>  
+			<link5>https://vidlox.me/NO_LINK</link5>
+			<torrent>magnet:?xt=urn:btih:6A34AFDDA2F835D026CF9B7719450933626D428C&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP2, TORRENTTEMP2, "
+			<item>
+			<title>2x06 - Capitulo 6</title>
+			<link>https://vidlox.me/NO_LINK</link>  
+			<link2>https://vidlox.me/NO_LINK</link2>  
+			<link3>https://vidlox.me/NO_LINK</link3>  
+			<link4>https://vidlox.me/NO_LINK</link4>  
+			<link5>https://vidlox.me/NO_LINK</link5>
+			<torrent>magnet:?xt=urn:btih:6D798C67A9DA9F502D679130B82AA7745DBB1D94&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP2, TORRENTTEMP2, "
+			<item>
+			<title>2x07 - Capitulo 7</title>
+			<link>https://vidlox.me/NO_LINK</link>  
+			<link2>https://vidlox.me/NO_LINK</link2>  
+			<link3>https://vidlox.me/NO_LINK</link3>  
+			<link4>https://vidlox.me/NO_LINK</link4>  
+			<link5>https://vidlox.me/NO_LINK</link5>
+			<torrent>magnet:?xt=urn:btih:9B0BDF694FFB0F63300C23546EF83452C7517725&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP2, TORRENTTEMP2, "
+			<item>
+			<title>2x08 - Capitulo 8 [COLOR orangered](PROXIMAMENTE)</title>
+			<link>https://vidlox.me/NO_LINK</link>  
+			<link2>https://vidlox.me/NO_LINK</link2>  
+			<link3>https://vidlox.me/NO_LINK</link3>  
+			<link4>https://vidlox.me/NO_LINK</link4>  
+			<link5>https://vidlox.me/NO_LINK</link5>
+			<torrent></torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x01 - Capitulo 1</title>
+			<torrent>magnet:?xt=urn:btih:040C613E2F2F907ECE57225B569408B8C6DF5D15&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x02 - Capitulo 2</title>
+			<torrent>magnet:?xt=urn:btih:E9D5131062B1A17AECC5627A3E8E5BDA7E83F8B8&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x03 - Capitulo 3</title>
+			<torrent>magnet:?xt=urn:btih:2FB70B0CD0C5F2C39EB70767DDC98DD1911DED64&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x04 - Capitulo 4</title>
+			<torrent>magnet:?xt=urn:btih:D53AFE3CB37278B1820918DCB91CC975B3388BE6&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x05 - Capitulo 5</title>
+			<torrent>magnet:?xt=urn:btih:444F0819BFBBE8A76DA3FED260857DAE40CCF760&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x06 - Capitulo 6</title>
+			<torrent>magnet:?xt=urn:btih:63F6B011B063CDEB98A8C70B411B56A2AB9EB9FC&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x07 - Capitulo 7</title>
+			<torrent>magnet:?xt=urn:btih:7D5CBB703479C09CB2E72D3F7C82E95EA3EC5106&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x08 - Capitulo 8 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
