@@ -1161,6 +1161,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Hatfields & McCoys[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Hatfields.y.macoys</externallink>
+<info>Popular miniserie que recrea la violenta e irresoluble rivalidad entre dos familias de West Virginia y Kentucky durante y después del fin de la Guerra Civil Americana (1861-1865). El enfrentamiento entre el patriarca de la familia Hatfield (Kevin Kostner) y los McCoy estuvo a punto de provocar un conflicto internacional. Las dos familias eran confederadas y lucharon a favor del Sur. La emisión de la miniserie coincide con el 150º aniversario de la lucha entre ambas familias.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/nFP18CyXJxWdsAuotYFlPWbF0Se.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1BW2Uvn3CX7R1FZKWoPGs4495Pv.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Hellbound Rumbo al infierno[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Hellbound.Rumbo.al.infierno</externallink>
