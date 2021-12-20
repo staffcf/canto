@@ -77,7 +77,9 @@ Title:ATTRACTION, SagaID:Attraction, Imagen:https://www.themoviedb.org/t/p/origi
 							-	0Saga, 1SagaTorrent, 
 Title:BATMAN, SagaID:Batman, Imagen:https://www.themoviedb.org/t/p/original/gmU7P3FzGFsl2wiSDhx9znZCNub.jpg,	
 							-	0Saga, 1SagaTorrent, 
-Title:BATTLE ROYALE, SagaID:BattleRoyale, Imagen:https://www.themoviedb.org/t/p/original/rUWyoYJ6y3c3ipKn6te4FWWypT3.jpg,	
+Title:BATTLE ROYALE, SagaID:BattleRoyale, Imagen:https://www.themoviedb.org/t/p/original/rUWyoYJ6y3c3ipKn6te4FWWypT3.jpg,		
+							-	0Saga, 1SagaTorrent, 
+Title:BEETHOVEN, SagaID:Beethoven, Imagen:https://www.themoviedb.org/t/p/original/804IunVngzLeVo0TjbxL89KbqJv.jpg,	
 							-	0Saga, 1SagaTorrent, 
 Title:BLADE, SagaID:Blade, Imagen:https://www.themoviedb.org/t/p/original/PDuKQeQkRHkdx7rY147VBVN5Ef.jpg,	
 							-	0Saga, 1SagaTorrent, 
@@ -487,6 +489,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Comedia, A2021, Letra NUM, EEUU, Netflix, ",
+			"name": "¡Nos volvemos a casa! (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/4koF8UkFbunoQKH6kqUbeqcU6Ir.jpg",
+			"info": "Cansados de estar encerrados en un terrario en el que los humanos los miran boquiabiertos como si fueran monstruos, un variado grupo de las criaturas más mortíferas de Australia trama una temeraria fuga del zoo al Outback, un lugar en el que encajarán sin ser juzgados por sus escamas y colmillos. A la cabeza del grupo está Maddie, una serpiente venenosa con un corazón de oro, que se une a un diablo espinoso llamado Zoe, muy seguro de sí mismo, una araña peluda con mal de amores y un sensible escorpión llamado Nigel. Pero cuando su archienemigo, Pretty Boy, un koala monísimo pero detestable, se une a su fuga de manera inesperada, Maddie y su pandilla no tienen más remedio que llevarlo con ellos. Así comienza un viaje por carretera espeluznante e hilarante a través de Australia, mientras son perseguidos por el cuidador del zoo y su mini-yo en busca de aventuras",
+			"genero": "Animacion, Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Nos.volvemos.a.casa.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Comedia, A2021, Letra NUM, EEUU, Netflix, ",
 			"name": "¡Que duro es el amor! (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/xYUmvSAQtwTiam9fs6HZBGWNQXm.jpg",
@@ -495,6 +510,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Que.duro.es.el.amor.-2021.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:A7EB5E0392BE23E8F04AC84ED09DB5C113A186A3&dn=BRRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Aventuras, A2021, Letra NUM, EEUU, Disney, ",
+			"name": "¿Navidad otra vez? (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/kZqdNOvQD6ov2zOMExJpp65sdhW.jpg",
+			"info": "Una alegre niña de 11 años debe agregar esperanza y coraje a sus celebraciones navideñas cuando el divorcio de sus padres no sea nada fácil",
+			"genero": "Comedia, Aventuras",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Navidad.otra.vez.-2021.-.1080.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""	
 				}		
 			]
@@ -574,6 +602,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:319D6511A03ECE07B1D10E18EC0C2DEB2721F2F0&dn=BRRip",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra A, EEUU, ",
+			"name": "Al unisono (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/nJMulmHew0HJ62noQbDCEksXivO.jpg",
+			"info": "Cuando Anna decide convertirse en la madre adoptiva gestacional de Matt, un diseñador de 'apps' de mediana edad, lo único que espera recibir a cambio es un poco de buen karma y algo de dinero para poder terminar su carrera universitaria. Sin embargo, el entusiasmo de Matt con respecto a su nueva aventura le lleva a querer adentrarse cada vez más en la vida de la joven. Aunque al principio Anna lo rechaza, poco a poco comienza a sentir una extraña atracción hacia él. Ambos son personas solitarias que deciden compartir una experiencia única que les llevará a forjar una amistad fuera de lo normal",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Al.unisono.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -691,6 +732,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Anni.da.Cane.-2021.-.1080.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Terror, 1Thriller, A2021, Letra A, EEUU, ",
+			"name": "Antlers: Criatura oscura (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/ht9BZCnIjVPMO20CSlnvPBR5h3J.jpg",
+			"info": "En Antlers, una pequeña ciudad de Oregón, una profesora (Keri Russel) y su hermano (Jesse Plemons), el sheriff de la localidad, se empiezan a interesar por un estudiante misterioso y distante. A medida que se van conociendo, descubren que el joven esconde un peligroso secreto que podría tener consecuencias fatales",
+			"genero": "Terror, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Antlers-Criatura.oscura.-2021.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": "magnet:?xt=urn:btih:B9F8774C58496D09A4FB2E74038ADA2ED3D1A2FC&dn=Web4K"	
 				}		
 			]
 			},
@@ -1149,6 +1203,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra C, Spain, ",
+			"name": "Con quien viajas (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/uYsMDBPynELYmri1SZlvDg8RGBi.jpg",
+			"info": "Cuatro desconocidos quedan en el centro de Madrid para ir en coche a Cieza, Murcia, gracias a una aplicación de viajes compartidos. Durante el trayecto los pasajeros charlan sobre aspectos de su vida para romper el hielo. Todo fluye con normalidad, pero el conductor parece ocultar algo y se comporta de forma extraña. El viaje resultará muy surrealista y más divertido de lo que esperaban.",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/.Con.quien.viajas.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, A2021, Letra C, Brasil, Netflix, ",
 			"name": "Confesiones de una chica invisible (2021)","coloryear": "cyan",
 			"image": "https://i.imgur.com/mMBSPJK.jpg",
@@ -1240,6 +1307,32 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Thriller, A2021, Letra C, EEUU, ",
+			"name": "Cuestion de sangre (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/cWOLiRa8t75keYVBew0BSTwCpAF.jpg",
+			"info": "Bill Baker (Matt Damon), un rudo operario de una plataforma petrolífera estadounidense, viaja a Marsella para visitar a su hija, que está en prisión por un asesinato que afirma no haber cometido. Lejos de casa, las cosas no serán nada fáciles para un padre dispuesto a todo para demostrar la inocencia de su hija",
+			"genero": "Drama, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Cuestion.de.sangre.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Fantastico, A2021, Letra C, Spain, ",
+			"name": "Cuidado con lo que deseas (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/4QmmlPcHctr3qXcC1AHCwhyWz5p.jpg",
+			"info": "Miguel (Rovira) y Laura (Suárez) deciden pasar las navidades, con sus hijos pequeños, en una cabaña en la montaña. El abuelo Benigno (Sacristán), dotado de poderes mágicos, finalmente no les puede acompañar, pero los niños le roban su bola mágica que concede deseos a quienes la poseen. Con sus deseos y la ayuda de la bola, los niños sin querer dan vida a unos muñecos de nieve, sembrando el caos en lo que iban a ser unas apacibles vacaciones familiares",
+			"genero": "Comedia, Fantastico",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Cuidado.con.lo.que.deseas.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, A2021, Letra C, EEUU, Netflix, ",
 			"name": "Culpable (The Guilty) (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/zcJMqcaMj7eAFwJ79h5SbwzKMh0.jpg",
@@ -1300,6 +1393,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Dark.Web-Cicada.3301.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:F4B2AE33DE0CF2AE8272A5248FA2A8483C874D73&dn=BRRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Fantastico, A2021, Letra D, Polonia, Netflix, ",
+			"name": "David y los elfos (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/AtpnwDfKBlcPokEGcaxWO2fmiNl.jpg",
+			"info": "Un elfo, harto y desbordado por su trabajo, huye al mundo real para tratar de vivir la magia de la Navidad con la ayuda de un nuevo y joven amigo",
+			"genero": "Comedia, Fantastico",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/David.y.los.elfos.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:BD419CCA8D60EFD99811F8E09D17AF5E67974035&dn=BRRip
 				"torrent4k": ""	
 				}		
 			]
@@ -1435,6 +1541,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2021, Letra D, Spain, ",
+			"name": "Dos (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/ArUPjsWP6LH0GceM9sNPt0ge6yB.jpg",
+			"info": "Un hombre y una mujer se despiertan pegados por el abdomen. David y Sara no se conocen. Ambos están desnudos. Ambos rondan los 35 años. Están en un lugar que no reconocen. Tras el susto inicial, tratan de mantener la calma e intentar pensar por qué están ahí. No recuerdan nada. David sugiere la posibilidad de que hayan sido drogados y secuestrados. Mientras intentan atar cabos, descubren que estar pegados dificulta en extremo hasta las actividades más mundanas. Ambos se ven obligados a compartir con un desconocido sus secretos más íntimos y vergonzosos para poder descifrar el misterio",
+			"genero": "Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Dos.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra D, Brasil, Netflix, ",
 			"name": "Dos sinvergüenzas (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/mRhFCdIexLi1ww948YyQbHGvYyC.jpg",
@@ -1526,6 +1645,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Drama, A2021, Letra E, EEUU, ",
+			"name": "El canto del cisne (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/6eZFP2oVOwt9n46XI7RL3rZvgi4.jpg",
+			"info": "Ambientada en un futuro cercano, narra la historia de Cameron (Mahershala Ali), amante esposo y padre de familia al que diagnostican una enfermedad terminal, y a quien su médico (Glenn Close) ofrece una solución alternativa que podría evitarle a su familia el dolor del duelo. Mientras Cam decide sobre si debe alterar o no el destino de su familia, aprenderá más sobre la vida y el amor de lo que jamás hubiera imaginado",
+			"genero": "Ciencia ficcion, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.canto.del.cisne.-2021.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": "magnet:?xt=urn:btih:C648E51BE13A45E2D8F30F3E8E7B38524A555232&dn=Web4K"	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Infantil, A2021, Letra E, Reino Unido, Netflix, ",
 			"name": "El chico que salvo la navidad (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/5JB1gpFCbVEJLeIlHQGMF8QZvIo.jpg",
@@ -1574,6 +1706,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:E2D4D617DD71B4BD99AB38CE89392F1098D57A91&dn=BRRip",  
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Comedia, 1Infantil, A2021, Letra E, EEUU, ",
+			"name": "El Diario de Greg (2021)","coloryear": "cyan",
+			"image": "https://i.imgur.com/2FmApLR.jpg",
+			"info": "Greg Heffley es un chico ambicioso con una imaginación activa y grandes planes para hacerse rico y famoso. El problema es que primero tiene que sobrevivir al colegio.",
+			"genero": "Animacion, Comedia, Infantil",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:D609ADA4EA0F30645EB4BC37898CE911EC414508&dn=HD720",	magnet:?xt=urn:btih:3DE100D3F34A7434B1AD5161A3225BD9C91E2BD6&dn=BRRip
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -1824,6 +1969,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, A2021, Letra E, EEUU, 1Hechos reales, ",
+			"name": "El ultimo dia de los Smiths (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/2ipOamF9JbPbmaIM9zEaektJwUp.jpg",
+			"info": "Denver, 1987. Cuatro amigos que tratan de recuperarse de la noticia de la separación de 'The Smiths', la icónica banda musical británica, deciden salir a la calle para superarlo con alcohol y drogas. Mientras tanto, un aficionado acérrimo del grupo entra a mano armada en una emisora de radio. Basado en hechos reales.",
+			"genero": "Comedia, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.ultimo.dia.de.los.Smiths.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Drama, 1Accion, A2021, Letra E, EEUU, ",
 			"name": "El ultimo duelo (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/tzW96vTfVUFLO5QAHFeCmMa6fLB.jpg",
@@ -1923,6 +2081,32 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/En.un.lugar.salvaje-Land-.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:7A0BC6324D9CBFFD3BA21A8C33E5B8D03691823F&dn=Lug4rTr4nqu1lo.m1080p.exclusivetorrent.net.mkv	magnet:?xt=urn:btih:0F3D525DFDE5AA12DB69B8CDA0FF9CCB2C83401C&dn=BRRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, 1Romance, A2021, Letra E, Italia, Netflix, ",
+			"name": "En un momento aun mejor (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/3Pv7IOKmbcnP5DkajyAlx2e4lPc.jpg",
+			"info": "Marta y Arturo se separaron. Marta está ahora envuelta en una relación con Gabriele, pero, por puro celo, comete un gran error. Mientras todo parece ir mal, llega una noticia inesperada: hay un donante compatible para Marta",
+			"genero": "Comedia, Drama, Romance",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/En.un.momento.aun.mejor.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Thriller, A2021, Letra E, Reino Unido, ",
+			"name": "Encounter (El Encuentro) (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/8rC6GjArIefWNfOXtUSdJm8KLEz.jpg",
+			"info": "Riz Ahmed interpreta a Malik Khan, un exmarine que, después de varios viajes a zonas de guerra, vuelve a casa y se entera de un siniestro secreto: una especie alienígena de insectos se está apoderando de los cuerpos de las personas con apariencia normal.",
+			"genero": "Ciencia ficcion, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Encounter-El.Encuentro-.-2021.-.1080.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""	
 				}		
 			]
@@ -2173,7 +2357,20 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"torrent4k": ""
 				}		
 			]
-			},
+			}
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Comedia, A2021, Letra F, Italia, 1Biografico, Netflix, ",
+			"name": "Fue la mano de Dios (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/u6m207hARVTifCHOuRebXRzRt43.jpg",
+			"info": "El oscarizado guionista y director Paolo Sorrentino presenta la historia de un chico, Fabietto Schisa (Filippo Scotti), en el turbulento Nápoles de los años ochenta. En 'Fue la mano de Dios', hay lugar para alegres sorpresas, como la llegada del legendario futbolista Diego Maradona, y para una tragedia igual de imprevista. El destino interpreta su papel, la alegría y la desdicha se entrelazan y el futuro de Fabietto echa a rodar. Sorrentino vuelve a la ciudad que lo vio nacer para contar su historia más personal: un relato sobre el destino y la familia, los deportes y el cine, el amor y la pérdida",
+			"genero": "Drama, Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Fue.la.mano.de.Dios.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},,
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, A2021, Letra F, Spain, Netflix, ",
 			"name": "Fuimos canciones (2021)","coloryear": "cyan",
@@ -2183,6 +2380,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Fuimos.canciones.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:9AEC74EEC905F0BF5781A5E099CA892B5EC1B04D&dn=BRRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra G, Spanish, ",
+			"name": "Garcia y Garcia (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/8V8ctsflyc03T0gN5Sr79rAbIof.jpg",
+			"info": "Hispavia, una aerolínea low cost de poca monta, se encuentra en graves dificultades. Ni sus números cuadran, ni sus aviones vuelan. En un intento desesperado por salvar la compañía, deciden contratar simultáneamente a un prestigioso consultor de aerolíneas y a un experto mecánico en paro. Los dos se llaman Javier García. La casualidad y la desorganización de la empresa harán que sean confundidos e intercambien sus papeles, y mientras el mecánico es atendido por el dueño de la compañía y alojado en hoteles de lujo, el ejecutivo acaba en el hangar, enfundado en un mono grasiento. Perplejos y sin saber qué está sucediendo, ambos se van enfrentando a los cometidos del otro, hasta que los dos Javier García se encuentran y descubren el error",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Garcia.y.Garcia.-2021.-.1080.-.Cristalazul.mkv.torrent",
 				"torrent4k": ""	
 				}		
 			]
@@ -2305,6 +2515,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra I, EEUU, ",
+			"name": "Ida Red: el precio de la libertad (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/A42q7SvdnmsuJDW6cvW0jzN2Zh4.jpg",
+			"info": "La delincuente habitual Ida 'Red' Walker está luchando contra una enfermedad terminal mientras cumple una condena de 25 años en el estado corrupto de Oklahoma. Le queda poco tiempo de vida. Su hijo, Wyatt Walker, se ha encargado del negocio familiar junto a su tío. Cuando un trato fracasa, el detective local y cuñado de Wyatt, Collier, se une a un agente del FBI para localizar al responsable.",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Ida.Red-el.precio.de.la.libertad.-2021.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Aventuras, A2021, Letra I, Rusia, ",
 			"name": "Igor Grom contra el Doctor Peste (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/t3sd3GemzTlejUmXfwlOQzqrwFA.jpg",
@@ -2327,6 +2550,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:3F44B7B0831D9865B1A492977BD83D0919C2CCB7&dn=BRRip",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Drama, A2021, Letra I, Reino Unido, Netflix, ",
+			"name": "Imperdonable (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/o1oIxdpevIdio3t4sskNVfp5HZ9.jpg",
+			"info": "Tras salir de prisión después de cumplir condena por un crimen violento, Ruth Slater (Bullock) se reinserta en una sociedad que se niega a perdonar su pasado. Tras enfrentarse a las duras opiniones del lugar que una vez fue su hogar, su única esperanza de redención es encontrar a su hermana pequeña a la que tuvo que dejar detrás.",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Imperdonable.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": "magnet:?xt=urn:btih:1F5697AD7F2FAD4754378F4A722821BCD60B9076&dn=Web4K"	
 				}		
 			]
 			},
@@ -2578,6 +2814,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, 1Romance, A2021, Letra L, EEUU, Netflix, ",
+			"name": "La cinta de musica (Mixtape) (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/31L36sAvyzzrJZjSa6ZosgaUmdR.jpg",
+			"info": "En la víspera del año 2000, Beverly Moody (Gemma Brooke Allen), una desgarbada huérfana de 12 años, descubre un casete roto en el que sus padres adolescentes grabaron canciones que les gustaban. Beverly se ha criado con su abuela Gail (Julie Bowen), quien también fue madre adolescente y a la que le resulta doloroso hablar de su difunta hija. Para Beverly, la cinta supone una oportunidad de conocer algo mejor a sus padres, y se propone encontrar todas esas canciones. Por el camino, se hace amiga de su peculiar vecina, Ellen (Audrey Hsieh); de Nicky (Olga Petsa), una chica dura e intimidante; y de Anti, el propietario de una tienda de discos declarado ‘antitodo’, que posee la clave para localizar las canciones... y para forjar un nuevo vínculo entre Gail y Beverly.",
+			"genero": "Comedia, Drama, Romance",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/La.cinta.de.musica-Mixtape-.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Drama, 1Thriller, A2021, Letra L, Italia, Netflix, ",
 			"name": "La clasica historia de terror (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/6P4azmmom77p7cVsmSuETl3Gr0v.jpg",
@@ -2591,6 +2840,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, A2021, Letra L, EEUU, ",
+			"name": "La cronica francesa (del Liberty, Kansas Evening Sun) (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/5J6vw7S8y4wCydUkdzMv5kdiCOQ.jpg",
+			"info": "Una carta de amor al mundo del periodismo, ambientada en la redacción de un periódico estadounidense en una ciudad francesa ficticia del siglo XX, con tres historias interconectadas entre sí",
+			"genero": "Comedia, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/La.cronica.francesa.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra L, Reino Unido, 1Biografico, Netflix, ",
 			"name": "La Excavacion (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/20nmI69ezUHIcg2NEfIQjL2HrKg.jpg",
@@ -2600,6 +2862,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:FAA0FD10E5769741C2B082E5BDE863C3138B204B&dn=BRRip",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Comedia, A2021, Letra L, EEUU, Sagas FamiliaAddams, ",
+			"name": "La familia Addams 2: La gran escapada (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/f8NrqVQPfCaAf4A3SKjZCZoSEY0.jpg",
+			"info": "Morticia y Gomez están angustiados porque sus hijos están creciendo, saltando las cenas familiares y totalmente consumidos por el 'tiempo de los gritos'. Para recuperar su vínculo, deciden meter a Miércoles, Pugsley, el tío Fester y el resto del equipo en su caravana embrujada y salir a la carretera para unas últimas y miserables vacaciones familiares. Su aventura por Estados Unidos los saca de su hábitat y los lleva a divertidos encuentros con su icónico primo, It, así como con muchos personajes nuevos y excéntricos.",
+			"genero": "Animacion, Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/La.familia.Addams.2-La.gran.escapada.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -2864,6 +3139,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Aventuras, 1Fantastico, 1Accion, A2021, Letra L, EEUU, Netflix, ",
+			"name": "L.O.L. Surprise! La pelicula (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/A2ltbgb7tUwUh30Uyioyso0wuH5.jpg",
+			"info": "Queen Bee está haciendo una película con su hermana mayor, Royal Bee. Pero el gran estreno está sucediendo esta misma noche. ¿Terminará el equipo su película a tiempo?",
+			"genero": "Animacion, Aventuras, Fantastico, Accion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/L.O.L.Surprise-La.pelicula.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Romance, A2021, Letra L, Canada, ",
 			"name": "Los colores del amor (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/ttaqg4cTMfSc40Mcde9gYAYtlJA.jpg",
@@ -2923,7 +3211,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Animacion, Aventuras, Comedia",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:9CE94A986F3374CDDAC6FC8A2A4E5BDF86C56910&dn=HD720",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Los.Mitchell.contra.las.maquinas.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:9CE94A986F3374CDDAC6FC8A2A4E5BDF86C56910&dn=HD720
 				"torrent4k": ""
 				}		
 			]
@@ -3055,6 +3343,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:31CCEC2AEF86A5DFFE928B60AE53B418FE656FC3&dn=HD1080",	magnet:?xt=urn:btih:9C3649766E734B938E67135F119036B8B3FA2B2C&dn=BR1080	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Maligno.-2021.-.1080.-.CristalAzul.mkv.torrent
 				"torrent4k": "magnet:?xt=urn:btih:248DD8624FB43DC091D78AA943F959D3536CB086&dn=Web4K"	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra M, Spain, ",
+			"name": "Mama o papa (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/mHIEk1nOMMCwB84MEFalys7OBGt.jpg",
+			"info": "Flora y Víctor son los padres que todo niño querría tener: modernos, divertidos y cariñosos. Sin embargo, todo se tuerce el día que deciden divorciarse y aparece la oportunidad laboral con la que llevan soñando toda la vida. Solo hay un problema: la custodia. Ninguno está dispuesto a ceder. Así que, por orden de la jueza, los niños tendrán que decidir con quién se quedan: con mamá, o con papá. A partir de este momento, los padres modélicos se declaran la guerra y no habrá tregua. Ambos harán todo lo posible por no obtener la custodia de sus hijos",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Mama.o.papa.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -3343,7 +3644,20 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"torrent4k": ""	
 				}		
 			]
-			},
+			}
+			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Romance, A2021, Letra N, EEUU, Netflix, ",
+			"name": "Navidades en California: Luces de la ciudad (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/bzlSEp9I8ANpeOJ1AgHGklKxDCT.jpg",
+			"info": "Un año después del inicio de su romance, Callie y Joseph dejan el rancho para atender asuntos familiares en San Francisco. Suenan campanas de boda...",
+			"genero": "Drama, Romance",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Navidades.en.California-Luces.de.la.ciudad.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},,
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Romance, A2021, Letra N, EEUU, ",
 			"name": "Needle In a Timestack (2021)","coloryear": "cyan",
@@ -3709,6 +4023,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Fantastico, 1Terror, A2021, Letra Q, Canada, ",
+			"name": "Queen of Spades (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/nRj25lhFjQB0ssNMZjwJLORpK6D.jpg",
+			"info": "Basada en el folclore ruso. Cuatro niños despiertan a un demonio femenino llamado Queen of Spades creyendo que sólo es un juego. Cuando a los pocos días dos de ellos mueren en un accidente, Anna intenta convencer a su madre de que la maldición es real. Con la ayuda de un experto cuyo hijo fue asesinado por esta entidad, intentarán deshacerse de la maldición",
+			"genero": "Fantastico, Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Queen.of.Spades.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra Q, Turquia, ",
 			"name": "Quiereme igualmente (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/A3TyrN5KFjCYuLvYSOcUxgcnsuy.jpg",
@@ -3827,6 +4154,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Comedia, 1Infantil, A2021, Letra R, Reino Unido, ",
+			"name": "Ron da error (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/1kkVXCAy11pZEyVn1BJsJTN2kOc.jpg",
+			"info": "Ambientada en un mundo donde los robots se han convertido en los mejores amigos de los niños, cuenta la historia de Barney, un niño de 11 años que descubre que su amigo robot no funciona del todo porque ha sido dañado durante el transporte para su entrega",
+			"genero": "Animacion, Comedia, Infantil",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Ron.da.Error.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Terror, A2021, Letra R, EEUU, ",
 			"name": "Ruega por nosotros (The Unholy) (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/ngY2DOOKm4iM5HvXqBGcoPbzTgJ.jpg",
@@ -3836,6 +4176,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{ 
 				"torrent": "magnet:?xt=urn:btih:85A3D4CED25377749D83B6BC52403B56654C282A&dn=HD1080",  magnet:?xt=urn:btih:CBD4B8FC2D54B85BD7FA50F4845BF6E423043F6F&dn=BRRip
 				"torrent4k": "magnet:?xt=urn:btih:E0B7208038326696A8F12B5B79204ADFEE8BFC83&dn=Web4K",  https://atomixhq.one/download/152532_-1623855075-Ruega-por-nosotros--4KWebrip.torrent
+				}		
+			]
+			},
+			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 1Torrent4k, 1Drama, A2021, Letra S, EEUU, ",
+			"name": "Santos Criminales (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/b9QPICVzPQWsG5k0R2eAhpBnWbr.jpg",
+			"info": "Precuela de la aclamada serie 'Los Soprano', centrada en la juventud del gángster de Nueva Jersey Tony Soprano. El guión de la película ha sido escrito por David Chase, el creador de la serie original de HBO",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Santos.Criminales.-2021.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": "magnet:?xt=urn:btih:69524758CBB247C4BEA14DF1A3D3C398923E8F40&dn=Web4K"	
 				}		
 			]
 			},
@@ -3866,14 +4219,14 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2021, Letra S, EEUU, ",
-			"name": "Separation (2021)","coloryear": "cyan",
-			"image": "https://www.themoviedb.org/t/p/original/inrqxeQjxgYtC2VmZzwhozm2pz6.jpg",
-			"info": "Una joven encuentra consuelo en su padre artista y en el fantasma de su madre muerta",
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2021, Letra S, EEUU, ",
+			"name": "Separacion (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/u97rvkruZxoIUio3r3ZySFETHB7.jpg",
+			"info": "Jenny es una niña de ocho años que lleva una vida solitaria pero imaginativa, rodeada de marionetas basadas en las obras de su padre. Pero cuando su madre muere trágicamente atropellada y su abuelo demanda la custodia, las marionetas y otros personajes empiezan a cobrar vida de repente de una forma terrorífica. Al principio, Jenny es la única persona que cree que son reales, sin embargo, las marionetas pondrán la vida de todos en peligro",
 			"genero": "Terror",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Separation.-2021.-.1080.-.CristalAzul.mkv.torrent",magnet:?xt=urn:btih:F4E5218EE54079FF7D06C52E3756519FFEEB4C0B&dn=BRRip
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Separacion.-2021.-.1080.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""	
 				}		
 			]
@@ -3926,7 +4279,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Sin.tiempo.para.morir.-2021.-.1080.-.CristalAzul.mkv.torrent",
-				"torrent4k": "magnet:?xt=urn:btih:44C51AF4BED2DB545DA6037CB47DAF7B05D7A694&dn=Web4K"	
+				"torrent4k": "magnet:?xt=urn:btih:F912745802C4B259437FEC6B2FAD3622035B2360&dn=UHDRip"	
 				}		
 			]
 			},
@@ -4295,6 +4648,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Drama, A2021, Letra U, Dinamarca, ",
+			"name": "Un bocado exquisito (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/adcSJBSKiNOfuKMYGszY5hEuMNg.jpg",
+			"info": "Maggi y Carsten dirigen el popular restaurante Malus en Copenhague. Se aman, tienen dos hijos y todo cuanto desean. O casi. Les falta la codiciada Estrella Michelin por la que estarán dispuestos a sacrificar cualquier cosa con tal de cumplir su sueño. En su continuo esfuerzo, pasión y búsqueda del máximo reconocimiento, olvidan que los bocados exquisitos de la vida se disfrutan mejor juntos",
+			"genero": "Romance, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Un.bocado.exquisito.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, A2021, Letra U, EEUU, Netflix, ",
 			"name": "Un castillo por Navidad (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/bTSA3B7Ytw7t3ghchFNN2umVebM.jpg",
@@ -4484,6 +4850,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Vivo.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:B5E8314B67231BD42B958D7D21C5BA5122867FA7&dn=HDRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra W, EEUU, ",
+			"name": "Wild Indian (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/6Eqfd773bNz6ZgpovMWImHvCdKs.jpg",
+			"info": "Makwa, un joven muchacho Anishinaabe, tiene una vida muy dura. Suele aparecer por su escuela con golpes que asegura haberse hecho por caídas o accidentes, pero nadie le cree. Su único amigo, Ted-O, se escapa habitualmente al bosque para jugar allí, hasta el día en el que inesperadamente Makwa asesina a un compañero de clase. Tras encubrir el crimen, los dos muchachos siguen con su vida como si nada hubiese pasado. Ahora, ya en su vida adultos, ambos deben afrontar la verdad de lo que han hecho y de en qué se han convertido",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Wild.Indian.-2021.-.1080.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""	
 				}		
 			]
@@ -5632,6 +6011,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2020, Letra B, Canada, ",
+			"name": "Butchers (2020)","coloryear": "coloryear",
+			"image": "https://www.themoviedb.org/t/p/original/9kqcXpAEgYYyVuDV0186QFFVoZY.jpg",
+			"info": "Un coche se estropea en mitad de la nada, dejando a cuatro jóvenes adolescentes a merced de un grupo de sadísticos carniceros",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Butchers.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Ciencia ficcion, 1Thriller, A2020, Letra C, EEUU, ",
 			"name": "Cajas Oscuras (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/wiAMeTBGB6ENqopAood5U5PY4vK.jpg",
@@ -5710,6 +6102,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Romance, A2020, Letra C, EEUU, ",
+			"name": "Carrusel de Navidad (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/1oqqPncrRREzk5D63YUL9CLbqVf.jpg",
+			"info": "Cuando Lila es contratada por la Familia Real de Marcadia para reparar un carrusel, debe trabajar con el Príncipe para completarlo antes de Navidad.",
+			"genero": "Drama, Romance",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Carrusel.de.Navidad.-.2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2020, Letra C, Reino Unido, Netflix, ",
 			"name": "Casa ajena (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/dL5VOkawCTIxirCjypdKj6uaFmb.jpg",
@@ -5784,6 +6189,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:459e2c78cb9a8e116695ca734f9c033d90072e25",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra C, Republica Checa, 1Hechos reales, 1Biografico, ",
+			"name": "Charlatan (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/ieNkSMJuJAnMPWAVP0u1PJx1lcV.jpg",
+			"info": "Desde muy joven, a Jan Mikolášek le fascinaron las plantas y sus propiedades medicinales. Pronto, se convirtió en uno de los mayores “sanadores" de su tiempo. En los años treinta, durante la época de la guerra y posguerra, dedicó su vida a tratar sin distinción a ricos y pobres, a los nazis durante la ocupación y a los comunistas después de la guerra. Su popularidad acabó por irritar a las autoridades políticas. Acusado de ser un curandero charlatán, Mikolášek tuvo que demostrar la validez de su ciencia durante su juicio.",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Charlatan.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -6881,6 +7299,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra E, Hungria, ",
+			"name": "El medico de Budapest (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/j91tTv5Cc2JKPEsZx5qdPrE8a2r.jpg",
+			"info": "Un cardiólogo es enviado a la jubilación, pero se siente perdido sin su trabajo. Regresa a su pueblo natal para trabajar como médico generalista. Este es el comienzo de su terrible experiencia: se enfrenta a la cruda realidad, que finalmente lo pone de rodillas. Pero la música tiene la última palabra",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.medico.de.Budapest.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Ciencia ficcion, 1Thriller, A2020, Letra T, EEUU, ",
 			"name": "El misterio de Block Island (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/g9m1iWhDtZHfvmQb7lwTe8AERpW.jpg",
@@ -7085,6 +7516,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:40D7F2BC808EF902152AE5C2421746F979C724D7",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Intriga, 1Ciencia ficcion, 1Terror, A2021, Letra E, Francia, ",
+			"name": "El tubo (Méandre) (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/2mErvCmba7CDtQBa9cogwDAikEs.jpg",
+			"info": "Una mujer se despierta dentro de un lugar con extraños conductos y con un brazalete que le va marcando el tiempo de las sucesivas pruebas que tiene que superar para salvar su vida",
+			"genero": "Thriller, Intriga, Ciencia ficcion, Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.tubo.-.2020.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -7347,6 +7791,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:4E37A4E31E5FCB08F5A75EDD9AD314C99C4CCCF4&dn=HD1080",  magnet:?xt=urn:btih:D9C44AA11A9FE26A2A78B6DCB7B07F95B235101C&dn=BRRip
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Intriga, A2020, Letra E, EEUU, ",
+			"name": "Especie oculta (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/l5pc6V6dPqnYwUBbuoAKJFWw3PT.jpg",
+			"info": "Liberty, una joven de 16 años, regresa a casa después de dos meses en un campamento y conoce al prometido de su madre, John Smith, cuyas cualidades parecen demasiado perfectas para ser humanas",
+			"genero": "Thriller, Intriga",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Especie.oculta.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -8077,7 +8534,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"torrent4k": ""
 				}		
 			]
-			}
+			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra I, Spain, ",
 			"name": "Isaac (2020)","coloryear": "magenta",
@@ -8090,7 +8547,20 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"torrent4k": ""	
 				}		
 			]
-			},,
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Comedia, 1Thriller, A2020, Letra J, Dinamarca, ",
+			"name": "Jinetes de la justicia (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/tFBAHlE7FUJZ4YIWPS573ThCobh.jpg",
+			"info": "El militar Markus debe regresar a casa con su hija adolescente, Mathilde, cuando su esposa muere en un trágico accidente de tren. Todo parece ser a causa de la mala suerte, hasta que Otto, experto en matemáticas y también pasajero de tren siniestrado, aparece con sus dos excéntricos colegas, Lennart y Emmenthaler. Otto está convencido de que alguien está detrás de todo esto",
+			"genero": "Accion, Comedia, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Jinetes.de.la.justicia.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Fantastico, A2020, Letra J, EEUU, ",
 			"name": "Jiu Jitsu (2020)","coloryear": "magenta",
@@ -8140,6 +8610,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:F8012F2AE8F1F75A69AFB4BB06523441A98ADD50&dn=HD1080",	magnet:?xt=urn:btih:2kw4sawje44duaq3vf7yut2kedeuynbh&dn=HD1080
 				"torrent4k": "magnet:?xt=urn:btih:CFCBE767C15094F10829F6C84AE40C18983E43B6",
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2020, Letra J, EEUU, ",
+			"name": "Juguetes de terror (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/nlu8YdfUNRrxonk1fvgr2jyXkBm.jpg",
+			"info": "Justo antes de Navidad, la joven Zoe, su hermano Franklin y su familia se mudan a una mansión apartada con un pasado oscuro. Mientras los adultos se concentran en renovar el lugar, los niños aburridos encuentran un baúl de juguetes escondido en el ático, y se deleitan cuando los juguetes del interior cobran vida mágicamente. Pero pronto comienzan a suceder eventos extraños, eventos que amenazan la vida de la familia.",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Juguetes.de.terror.-2020.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -9586,6 +10069,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, A2020, Letra M, Reino Unido, ",
+			"name": "Mi navidad con Bob (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/9kZ1KroFR5YcuFSEP0v0eaeTSHH.jpg",
+			"info": "Secuela de la película 'A Street Cat Named Bob' que narra nuevas aventuras de James y su gato Bob con ocasión de la Navidad.",
+			"genero": "Comedia, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Mi.navidad.con.Bob.-2020.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Romance, A2020, Letra M, EEUU, Netflix, Sagas Miprimerbeso, ",
 			"name": "Mi primer beso 2 (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/pwmtGo0mTjTqWZwk3k3VSWtygxj.jpg",
@@ -10687,6 +11183,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:755BA6017A21A1A36276900C88BA0572AB2C0B07&dn=HD1080",			magnet:?xt=urn:btih:D941A2B9BF6615BED9F7167CC6D1818DD82268D4&dn=BR1080	magnet:?xt=urn:btih:65DA00A6C3E9950BE2AF83A88FAD536776A2E9F7&dn=BRRip	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Shorta.El.peso.de.la.ley.-2020.-.1080.-.CristalAzul.mkv.torrent
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra S, Israel, ",
+			"name": "Siempre contigo (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/fQi7S0KRdsebY5f8FwHXzUvoSRO.jpg",
+			"info": "Aharon ha dedicado toda su vida a criar a su hijo Uri. Viven juntos en una rutina amable, lejos del mundo real. Pero Uri es autista y ya es lo suficientemente adulto para ir a un hogar especializado. En su camino a la institución, Aharon decide escaparse con su hijo y se lanzan a la carretera, sabiendo que Uri no está preparado para la separación. Aunque quizá sea el padre el que no está preparado",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Siempre.contigo.-2020.-.1080.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""	
 				}		
 			]
@@ -20011,6 +20520,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2019, Letra S, EEUU, ",
+			"name": "Sator (2019)","coloryear": "limegreen",
+			"image": "https://i.imgur.com/MZYwT8O.jpg",
+			"info": "Adam vive de manera tranquila y solitaria en una cabaña en el bosque hasta que se manifiesta un espíritu que atormentaba a su abuela",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Sator.-2019.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2019, Letra S, EEUU, Crimen, ",
 			"name": "Saving Zoe (2019)","coloryear": "limegreen",
 			"image": "https://m.media-amazon.com/images/M/MV5BZWUzYzJjYWItNzUxOC00MzI3LWIxMjQtMGVlZWM4MmI3YTZhXkEyXkFqcGdeQXVyNzc0MTgzMzU@.jpg",
@@ -24529,6 +25051,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Drama, A2018, Letra I, Rusia, 1Historico, ",
+			"name": "Indestructibles (2018)","coloryear": "aqua",
+			"image": "https://www.themoviedb.org/t/p/original/pUeLi4iVCnqJ1lQHxZv7g3He5Uh.jpg",
+			"info": "La película inspirada en eventos reales cuenta la historia de la heroica hazaña del equipo del tanque KV-1. Teniendo una pelea perdida, la tripulación de Semyon Konovalov destruyó 16 tanques enemigos, 2 vehículos blindados y 8 vehículos con personal enemigo cerca de la granja Nizhnemityakin en el distrito de Tarasovskoye de la región de Rostov. Esta es la historia de los héroes del cartel, pero de tipos rotos, alegres y muy diversos que solo querían vivir. En el momento decisivo, lograron hacer lo único correcto y realizaron el hecho digno de la leyenda",
+			"genero": "Accion, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Indestructibles.-2018.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Comedia, A2018, Letra I, EEUU, 1Hechos reales, 1Biografico, Racismo, Años 70, ",
 			"name": "Infiltrado En El KKKlan (2018)","coloryear": "aqua",
 			"image": "https://www.ecartelera.com/carteles/14200/14242/003_p.jpg",
@@ -26956,6 +27491,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:954C3DBEBC85B2A8BDDC8DEFC3E5B416CF82309E&dn=HD720",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Comedia, A2018, Letra S, Spain, ",
+			"name": "Segunda oportunidad (2018)","coloryear": "aqua",
+			"image": "https://i.imgur.com/XYoBGIh.jpg",
+			"info": "Cuenta la historia de un hombre que regresa a su pueblo, después de haber fracasado en su vida, y las dificultades ocasionadas a raíz del reencuentro con sus antiguos amigos del pasado",
+			"genero": "Drama, Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Segunda.oportunidad.-2018.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -32899,6 +33447,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Aventuras, A2014, Letra B, EEUU, Sagas Beethoven, ",
+			"name": "Beethoven: La busqueda del tesoro (2014)","coloryear": "turquoise",
+			"image": "https://www.themoviedb.org/t/p/original/lfDaMeq8vfH0oQbry6hrbSIXbbw.jpg",
+			"info": "Después de una desastrosa sesión de cine, el perro de gran corazón y su entrenador Eddie (Jonathan Silverman) se dirigen a casa cuando quedan varados en un pequeño pueblo costero. El perro Beethoven se hace amigo de un chico de la zona (Bretton Manley), y juntos se emprenden en una aventura por todo el pueblo tras encontrar un mapa pirata de un tesoro perdido",
+			"genero": "Comedia, Aventuras",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Beethoven-La.busqueda.del.tesoro.-2014.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Fantastico, 1Ciencia ficcion, 1Comedia, 1Accion, A2014, Letra B, EEUU, Robots, Superheroes, Familia, Comics, 1Cine familiar, ADinsey, ",
 			"name": "Big Hero (2014)","coloryear": "turquoise",
 			"image": "https://www.themoviedb.org/t/p/original/qVU0ag4i5BCmH5h4o04cdvUo0Zf.jpg",
@@ -33801,7 +34362,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, A2013, Letra E, EEUU, 1Biografico, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Comedia, 1Drama, A2013, Letra E, EEUU, 1Biografico, ",
 			"name": "El lobo de Wall Street (2013)","coloryear": "lawngreen",
 			"image": "https://www.themoviedb.org/t/p/original/utfEHZ9jG1emGdvJ4GgfMcHoznp.jpg",
 			"info": "Película basada en hechos reales del corredor de bolsa neoyorquino Jordan Belfort (Leonardo DiCaprio). A mediados de los años 80, Belfort era un joven honrado que perseguía el sueño americano, pero pronto en la agencia de valores aprendió que lo más importante no era hacer ganar a sus clientes, sino ser ambicioso y ganar una buena comisión. Su enorme éxito y fortuna le valió el mote de “El lobo de Wall Street”. Dinero. Poder. Mujeres. Drogas. Las tentaciones abundaban y el temor a la ley era irrelevante. Jordan y su manada de lobos consideraban que la discreción era una cualidad anticuada; nunca se conformaban con lo que tenían",
@@ -33809,7 +34370,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:kiypawj36douhxubiirgdzj2sddxfaki&dn=HD1080",
-				"torrent4k": ""	
+				"torrent4k": "magnet:?xt=urn:btih:A55112B9FBFACA3B8F2BD8EC89B41DE182E6B587&dn=UHDRip"	
 				}		
 			]
 			},
@@ -34965,6 +35526,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{ 
 				"torrent": "magnet:?xt=urn:btih:4415FFB16A3C9A11BF0A96775FE57FD305BA26D9&dn=DVDRip",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Infantil, A2011, Letra B, EEUU, Sagas Beethoven, ",
+			"name": "Beethoven: Aventura de navidad (2011)","coloryear": "blue",
+			"image": "https://www.themoviedb.org/t/p/original/y9lB7wV0TGsuKsDj3JrlgegyIdh.jpg",
+			"info": "Cuando el elfo Henry (Kyle Massey) vuela desde el Polo Norte con el trineo de Santa Claus y su bolsa mágica de juguetes, tiene un accidente y su preciada carga va a parar a un árbol de un vecindario. La bolsa cae en las manos equivocadas, y es la obligación del heroico Beethoven y de su amigo adolescente Mason, rescatar a Henry, repartir los juguetes y salvar las Navidades de los niños del mundo entero.",
+			"genero": "Comedia, Infantil",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Beethoven-Aventura.de.navidad.-2011.-.720.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""	
 				}		
 			]
@@ -36434,6 +37008,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{ 
 				"torrent": "magnet:?xt=urn:btih:1DF48D304ACFE0032A2786E299383EB313B80EA4&dn=BDRemux",  magnet:?xt=urn:btih:69ED415FCA6DDC409ABD9EC4CC15F4E47692CE7C&dn=HDRip
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Infantil, A2008, Letra B, EEUU, Sagas Beethoven, ",
+			"name": "Beethoven 6: La gran oportunidad (2008)","coloryear": "greenyellow",
+			"image": "https://www.themoviedb.org/t/p/original/n6BFaobIdGWQhYI1uiq9gmY4FBq.jpg",
+			"info": "Sexta película protagonizada por el perro Beethoven. En esta ocasión Eddie, un padre soltero que es entrenador de animales deberá hacerse cargo de un encantador San Bernardo que se hace famoso por el éxito de su película 'audition'. Sin embargo, unos malvados planean secuestrar al perro para pedir un rescate",
+			"genero": "Comedia, Infantil",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Beethoven.6-La.gran.oportunidad.-2008.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -38990,6 +39577,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Aventuras, 1Infantil, A2003, Letra B, EEUU, Sagas Beethoven, ",
+			"name": "Beethoven 5: El perro buscatesoros (2003)","coloryear": "darkviolet",
+			"image": "https://www.themoviedb.org/t/p/original/tyV3eGe7WmRr7Dai2BeWq33J1df.jpg",
+			"info": "Cuando Sarah se lleva a Beethoven a pasar las vacaciones de verano con el chalado de su tío Freddie en una vieja ciudad minera, el revoltoso perro 'desentierra' la pista para encontrar una legendaria fortuna oculta. Entonces todos quieren ser el mejor amigo del perro, momento en que su descubrimiento desencadena una frenética búsqueda del tesoro entre el elenco de estrambóticos personajes que componen la ciudad",
+			"genero": "Comedia, Aventuras, Infantil",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Beethoven.5-El.perro.buscatesoros.-2003.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Ciencia ficcion, A2003, Letra B, Spain, ",
 			"name": "Beyond Re-Animator (2003)","coloryear": "darkviolet",
 			"image": "https://www.themoviedb.org/t/p/original/7rPGsqp3UF6Gc5ObIfTYpqM7Dsn.jpg",
@@ -39316,6 +39916,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Intriga, 1Drama, A2003, Letra M, EEUU, ",
+			"name": "Mystic River (2003)","coloryear": "darkviolet",
+			"image": "https://www.themoviedb.org/t/p/original/67BenpG9l3a5Yw4zd7Kj4ntQWgc.jpg",
+			"info": "Cuando Jimmy Markum (Sean Penn), Dave Boyle (Tim Robbins) y Sean Devine (Kevin Bacon) eran unos niños que crecían juntos en un peligroso barrio obrero de Boston, pasaban los días jugando al hockey en la calle. Pero, un día, a Dave le ocurrió algo que marcó para siempre su vida y la de sus amigos. Veinticinco años más tarde, otra tragedia los vuelve a unir: el asesinato de Katie (Emmy Rossum), la hija de 19 años de Jimmy. A Sean, que es policía, le asignan el caso; pero también tiene que estar muy pendiente de Jimmy porque, en su desesperación, está intentando tomarse la justicia por su mano.",
+			"genero": "Intriga, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Mystic.River.-2003.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Thriller, 1Intriga, A2003, Letra O, Corea del Sur, 1Culto, ",
 			"name": "Oldboy (2003)","coloryear": "darkviolet",
 			"image": "https://www.themoviedb.org/t/p/original/xF14Liu2qQgagvAMK6l1UL1MKb8.jpg",
@@ -39526,6 +40139,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{ 
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/El.caso.Bourne.2002.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:D76255268F13A8B86340D0149F2DCA9A277AA125&dn=HD1080
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Intriga, 1Thriller, A2002, Letra E, EEUU, ",
+			"name": "El dragon rojo (2002)","coloryear": "skyblue",
+			"image": "https://www.themoviedb.org/t/p/original/qy91eXIet0TSRgsJWzT2wx8fLYM.jpg",
+			"info": "Un investigador del FBI especializado en analizar la mente y el comportamiento de los asesinos en serie se ve obligado a recurrir a Hannibal Lecter, a quien mandó a la cárcel, para que le ayude en el caso de un asesino de familias, cuyo patrón de conducta le resulta imposible desentrañar",
+			"genero": "Intriga, Thriller",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:53AA57235C2BC77E4490AD9F150F6A5CF7DA9EF8&dn=BR1080",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -39927,6 +40553,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Infantil, A2001, Letra B, EEUU, Sagas Beethoven, ",
+			"name": "Beethoven 4: Enredo en la familia (2001)","coloryear": "seagreen",
+			"image": "https://www.themoviedb.org/t/p/original/dvw8mJlEjxvBggoiAbiPkXfvbFO.jpg",
+			"info": "Cuando los malos modales de Beethoven llegan a hartar a los Newton, los niños le apuntan en secreto a una escuela de adiestramiento. Sin embargo, durante un paseo por el parque, Beethoven da rienda suelta, a su estilo, a una especie de versión canina del cuento del Príncipe y el Mendigo: se escapa y acaba confundiéndose con Michelangelo, un perro perfectamente amaestrado que es idéntico a él. Y así, mientras los newton no acaban de dar crédito a lo obediente que se ha vuelto su perro, el verdadero Beethoven se dedica a hacer estragos en el hogar de la acaudalada y estirada familia Sedgwick.",
+			"genero": "Comedia, Infantil",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Beethoven.4-Enredo.en.la.familia.-2001.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Belico, 1Accion, A2001, Letra B, EEUU, 1Hechos reales, ",
 			"name": "Black Hawk derribado (2001)","coloryear": "seagreen",
 			"image": "https://www.themoviedb.org/t/p/original/4uxu51U2wNuEnuQtlyDbCgS4IPI.jpg",
@@ -40027,6 +40666,24 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:vuwnipfthvhivdzneow7b2cr7h7koqek&dn=HD1080",
 				"torrent4k": "magnet:?xt=urn:btih:B60CAC04B963B851E5DF95ECB3C84A3EFEBCDDDD&dn=UHDRip"	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2001, Letra H, EEUU, ",
+			"name": "Hannibal (2001)","coloryear": "seagreen",
+			"image": "https://www.themoviedb.org/t/p/original/9Zm57AvUjweYBzZhDUiyRQ5PxwU.jpg",
+			"info": "Han pasado diez años desde que Lecter, tras su entrevista con la agente del FBI Clarice Starling, escapara del hospital de máxima seguridad en el que estaba recluido. Ahora vive en Italia, pero Starling no ha podido olvidarlo: su fría voz sigue resonando en sus sueños. Mason Verger también recuerda a Lecter: fue su sexta víctima y, pese a quedar horriblemente desfigurado, logró sobrevivir. Tras heredar una fortuna, Verger decide emplearla en satisfacer sus deseos de venganza, pero pronto se da cuenta de que, para sacar a Lecter de su escondrijo, debe ponerle delante un cebo irresistible: Clarice Starling.",
+			"genero": "Thriller",
+			"stations": [
+				{
+				"kodi1": "https://supervideo.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://supervideo.tv/NO_LINK",
+				"kodi3": "https://supervideo.tv/NO_LINK", 
+				"kodi4": "https://supervideo.tv/NO_LINK", 
+				"kodi5": "",
+				"torrent": "magnet:?xt=urn:btih:7479DDBB67ED16C80DB7D68D4EDF86EAEECC68C4&dn=BR1080",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -40337,6 +40994,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Battle.Royale.-2000.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:21400A4B70AFA6EBE0A5BC347AB59D617E52D602&dn=DVDRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Infantil, A2000, Letra B, EEUU, A2000-1991, Sagas Beethoven, ",
+			"name": "Beethoven 3: De excursion con la familia (2000)","coloryear": "gold",
+			"image": "https://www.themoviedb.org/t/p/original/1se0w1IwJj7APH94qwbnmgnHjI.jpg",
+			"info": "La familia Newton está de vacaciones en Europa, pero no quiere dejar de estar presente en una gran reunión familiar que prepara todo el clan. En representación de todos acudirá Richard Newton, el hermano de George, que se llevará consigo al gran perro Beethoven",
+			"genero": "Comedia, Infantil",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Beethoven.3-De.excursion.con.la.familia.-2000.-.1080.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""	
 				}		
 			]
@@ -42600,6 +43270,31 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A1993, Letra B, EEUU, B2000, A2000-1991, Sagas Beethoven, ",
+			"name": "Beethoven 2: la familia crece (1993)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/lMjoADYBQHNIy3UdufxayFwCB2S.jpg",
+			"info": "Como todas las mañanas la familia Newton sale al trabajo: los niños al colegio y los padres a la oficina. Beethoven aprovecha la ocasión para pasear por el parque, y allí se encuentra con Missy, una perra muy coqueta, y entre ellos surge un flechazo. Poco tiempo después tienen unos preciosos cachorros, pero entonces surgirán los problemas....",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Beethoven.2-la.familia.crece.-1993.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 1Peliscristal, 0Torrentcristal, 1Torrent4k, 1Accion, A1993, Letra B, EEUU, B2000, A2000-1991, ",
+			"name": "Blanco humano (1993)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/gSCKJCbwrS1WccphIRU2By7MMLW.jpg",
+			"info": "Dos hombres despiadados, Fouchon y Van Cleaf, han convertido Nueva Orleans en su particular coto de caza, donde organizan siniestros torneos que enfrentan a sus asesinos con veteranos de guerra, a quienes prometen 10.000 dólares si logran sobrevivir. Desde luego, ninguno de los infortunados que se atreve a probar suerte en tan sangriento juego llega a cobrar el premio. Las cosas cambiarán el día en que Chance Boudreaux (Jean Claude Van Damme) decide participar en el juego... Chance, sin embargo, no es un héroe noble y altruista, sino un solitario "cajun" que solamente quiere cobrar los 217 dólares que necesita para saldar sus deudas con el sindicato de marineros mercantes",
+			"genero": "Accion",
+			"links": [
+				"Trailer": "https://www.youtube.com/watch?v=Y9JVxNVQku4",
+				"Torrent 4K UHDRip": "magnet:?xt=urn:btih:A933877AF197481E75AC25AAED99096CE6ED5F6D&dn=UHDRip",
+				"Torrent 4K UHDRemux": "magnet:?xt=urn:btih:140FC43403329FD5D467AA8C55F9CE691A23D2A1&dn=UHDRemux",
+			"/links"]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Fantastico, 1Terror, A1993, Letra C, Mexico, B2000, A2000-1991, 1Culto, Cine Latino, ",
 			"name": "Cronos (1993)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/6vgjMO8lBc2L3qT8K1eoky49LBk.jpg",
@@ -42856,6 +43551,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Batman.vuelve.1992.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:5DE1BD7FCD74FD4FA21A34D2C9263C366A57A83A&dn=HD1080   magnet:?xt=urn:btih:39EA9C2B01F5477527BBAD779BEE01D99EDD633E
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A1992, Letra B, EEUU, B2000, A2000-1991, Sagas Beethoven, ",
+			"name": "Beethoven, uno mas de la familia (1992)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/7GdQs5bc8feiPhgLZYOZ8fs8gsu.jpg",
+			"info": "El pobre Beethoven, un perro San Bernardo, escapa milagrosamente de las garras de una banda de ladrones que ha robado la tienda de animales donde estaba. Después de pasar la noche oculto en un frío y húmedo cubo de basura despierta en el hogar de sus sueños: una casa maravillosa con un enorme jardín y niños",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Beethoven.uno.mas.de.la.familia.-1992.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},

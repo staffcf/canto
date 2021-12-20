@@ -224,6 +224,18 @@
 			},
 			{
 			"tag": " 1Torrent, 1Documental, A2021, Letra L, EEUU, C720, Netflix, ",
+			"name": "Los 14 ochomiles: No hay nada imposible (2021)","coloryear": "cyan",
+			"image": "https://i.imgur.com/3DOQNqG.jpg",
+			"info": "El intrépido escalador nepalí Nimsdai Purja emprende una misión aparentemente imposible: coronar los 14 picos del mundo que superan los 8000 metros en solo siete meses",
+			"genero": "Documental",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:58F7319D494D6CE316471AEE6BC317072D0772BC&dn=BR1080"
+				}		
+			]
+			},
+			{
+			"tag": " 1Torrent, 1Documental, A2021, Letra L, EEUU, C720, Netflix, ",
 			"name": "Los límites de nuestro planeta: Una mirada científica (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/wvTQ8OdaOOkGHGOEqDrnKJxESuT.jpg",
 			"info": "David Attenborough y el científico Johan Rockström examinan el colapso de la biodiversidad de la Tierra y cómo esta crisis aún puede evitarse",
@@ -507,6 +519,18 @@
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:6B170B6B44EB41436C679874382506312A5A61B8"
+				}		
+			]
+			},
+			{
+			"tag": " 1Torrent, 1Documental, A2020, Letra L, Reino Unido, C720, 1Biografico, ",
+			"name": "La ultima semana de John Lennon (2020)","coloryear": "magenta",
+			"image": "https://i.imgur.com/TXkplZm.jpg",
+			"info": "En diciembre de 1980, John Lennon y Yoko Ono llevaban cinco años sin hablar con los medios, pero con el lanzamiento de un nuevo disco, Lennon estaba preparado para hablar en Nueva York con D.J. Andy Peebles de la BBC. John sorprendió a todos hablando de muchas cosas de las que no había hablado antes",
+			"genero": "Documental",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:88cf01dd8925b064aa4e98aba59a40a41cd7db4c&dn=HD1080"
 				}		
 			]
 			},
