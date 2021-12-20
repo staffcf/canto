@@ -882,6 +882,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El príncipe de Bel-air:El reencuentro[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.principe.de.belair.el.reencuentro</externallink>
+<info>El reparto de El príncipe de Bel-Air se reúne para la celebración del 30 aniversario de la icónica serie. Una noche llena de risas, música, baile e invitados sorpresa.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/1FKVBZkIsRhAMDR5w317xKSBLi9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/s25fzb6kU14AI75a0t6idWzM1Sg.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El Pueblo[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.Pueblo</externallink>
