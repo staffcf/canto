@@ -193,6 +193,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Baghdad central[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Baghdad.central</externallink>
+<info>Serie de TV (2019). 6 episodios. En medio del caos, el crimen y la paranoia que suceden a la caída de Sadam, Muhsin al-Khafaji, un expolicía iraquí, intenta hacer todo lo posible por proteger a su hija enferma tras haber perdido su casa y a su mujer. Cuando su otra hija desaparece, Khafaji comienza a investigar, pero pronto descubre que sus pesquisas no están bien vistas ni en la universidad en la que ella estudiaba, ni en la Zona Verde, donde la desaparecida trabajaba como traductora.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/61ASRzboWIc5eVHddN93IM2Otm4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fKKD2nHMEnZH0mw7CwarLaCnfaO.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Beartown[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Beartown.txt</externallink>
