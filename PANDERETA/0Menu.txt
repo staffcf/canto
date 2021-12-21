@@ -855,6 +855,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El Milagro[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.milagro</externallink>
+<info>Serie de TV (2018). 8 episodios. Durante el robo en la guarida de un jefe de la 'ndrangheta, organización criminal de Calabria, se encuentra una estatua de plástico de la virgen llorando sangre. No hay explicación para este misterio, pero su poder enigmático volverá locos a todos aquellos directamente afectados por el evento.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/qiaAwTD2cwPaRMlxaGRq2rXsE3I.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hxuuaHFCwKcxe5kqMBhtPbn3c4S.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El niño ciervo[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.nino.ciervo</externallink>
