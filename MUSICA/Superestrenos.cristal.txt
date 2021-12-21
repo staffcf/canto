@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Being the Ricardos [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.8[/COLOR]</title> 
+<genre>Drama,Historia</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/oztBLWdRk5gApYmNdADXvXkLT5m.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4wfA61Mi6E8GncUn8ze4w0jz0Za.jpg</fanart>
+<info>Película sobre la pionera de la televisión Lucille Ball (1911-1989). La historia se desarrolla durante una semana concreta de la producción de la serie 'I Love Lucy' cuando Lucy y su marido Desi Arnaz se enfrentan a una crisis que podría terminar con sus carreras y también con su matrimonio.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/4MfG80SID6I"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/g51ndt-2y245yyg"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/vnrw7k9jbez77z"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ou5nkdntdi8y"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/0m4x3oc72hvr"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ao19cey76sz5"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Ed-Hguj_ZECYVhzrhRPaMLGszkQPd16v/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Mama o Papa [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.1[/COLOR]</title> 
 <genre>Comedia,Familia</genre>
 <year>2021</year>
