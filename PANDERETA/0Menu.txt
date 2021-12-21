@@ -518,6 +518,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Darknet[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Darknet</externallink>
+<info>Serie Online. 6 episodios. Adaptación de la serie de TV japonesa "Torihada". Cuenta cuatro historias entrecruzadas de terror urbano.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/dRMbr8VPXocg3ixGMQbSC6IUZ71.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zIuudnCA9qiSZt0XEZwL1aEuSV4.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Dark Woods[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Dark.woods.txt</externallink>
