@@ -15,6 +15,56 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
+			<title> - [COLOR yellow]CALIDAD 1080</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x01 - El unicornio</title>
+			<torrent>magnet:?xt=urn:btih:BBC9EF674936132282F0A457A2C10A32FE46E283&dn=HD1080</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x02 - Abra cadáver</title>
+			<torrent>magnet:?xt=urn:btih:CE3440C664625C6753F726EFDE8A8046616B879A&dn=HD1080</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x03 - La cita</title>
+			<torrent>magnet:?xt=urn:btih:154CB2E6264621822F40B5A5EF48C5281DE762C2&dn=HD1080</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x04 - La testigo</title>
+			<torrent>magnet:?xt=urn:btih:9EABC2B3F39CEEC63F3DD6B84D99ACC3322F73AE&dn=HD1080</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x05 - Intercambios</title>
+			<torrent>magnet:?xt=urn:btih:04DFCC0E01CA31B9A25DE6574AD62578E9F411DC&dn=HD1080</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x06 - La redada</title>
+			<torrent>magnet:?xt=urn:btih:BADFD5328EF6FC3C46BCA87B8FBE4555D4A9F483&dn=HD1080</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
 			<title> - [COLOR yellow]CALIDAD 720</title>
 			<torrent></torrent>
 			</item>
@@ -45,14 +95,14 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x05 - Intercambios [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
+			<title>1x05 - Intercambios</title>
+			<torrent>magnet:?xt=urn:btih:FC99955E8E0C7B7620070EE53989951142BBF241&dn=HD720</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x06 - La redada [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
+			<title>1x06 - La redada</title>
+			<torrent>magnet:?xt=urn:btih:BC686392E276619B211205B45B25545196379675&dn=HD720</torrent>
 			</item>
 ======================================================================
 ======================================================================
@@ -97,64 +147,14 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x05 - Intercambios [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
+			<title>1x05 - Intercambios</title>
+			<torrent>magnet:?xt=urn:btih:15250C94EA350545726C7D349CD23C58FE970A98&dn=HDTV</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x06 - La redada [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
-			</item>
-======================================================================
-======================================================================
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title> - </title>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title> - [COLOR yellow]CALIDAD 1080</title>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title>1x01 - El unicornio</title>
-			<torrent>magnet:?xt=urn:btih:BBC9EF674936132282F0A457A2C10A32FE46E283&dn=HD1080</torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title>1x02 - Abra cadáver</title>
-			<torrent>magnet:?xt=urn:btih:CE3440C664625C6753F726EFDE8A8046616B879A&dn=HD1080</torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title>1x03 - La cita</title>
-			<torrent>magnet:?xt=urn:btih:154CB2E6264621822F40B5A5EF48C5281DE762C2&dn=HD1080</torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title>1x04 - La testigo</title>
-			<torrent>magnet:?xt=urn:btih:9EABC2B3F39CEEC63F3DD6B84D99ACC3322F73AE&dn=HD1080</torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title>1x05 - Intercambios [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title>1x06 - La redada [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
+			<title>1x06 - La redada</title>
+			<torrent>magnet:?xt=urn:btih:665A9DA899CE9463D0C37DA292774AC15B01A0E5&dn=HDTV</torrent>
 			</item>
 ======================================================================
 ======================================================================
