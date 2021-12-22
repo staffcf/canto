@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Yo tampoco te quiero [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.8[/COLOR]</title> 
+<genre>Comedia,Romance</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/8eevR507AolRD8w45TnJKaRmyDm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3URFWy1jOYKW0IE5NesyVvDzZKx.jpg</fanart>
+<info>Nina y Dylan son mejores amigos desde la infancia, han compartido incluso los secretos más íntimos. Dylan siempre ha soñado con acabar junto a Nina, pero su sueño no se cumple. Tras la ruptura con su prometido, Nina regresa a Biarritz con sus dos mejores amigas, que pronto le harán ver que el amor de su vida es... Dylan.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/3JFmAIUbajU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/pwnxdtmppdz6l5q"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/3nxzxom9f183p3"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/g9pyhk8l399y"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/42e7g182iqr0"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-joo72vi7y4qa.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1oi_TrtDk_C6gtzFDMfZhv0t3HpCBg0pC/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] UglyDolls:Extraordinariamente feos [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.7[/COLOR]</title> 
 <genre>Familia,Animación,Comedia,Aventura,Música</genre>
 <year>2021</year>
