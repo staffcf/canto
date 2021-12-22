@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] UglyDolls:Extraordinariamente feos [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.7[/COLOR]</title> 
+<genre>Familia,Animación,Comedia,Aventura,Música</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/hpSUclx8IJ6yrDxG54JSP03JmPq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4v07pZGlIHveHCrU6rW236wnAyB.jpg</fanart>
+<info>Los juguetes perfectos están diseñados para hacer a cualquier niño del mundo feliz. Pero, ¿qué pasa con esos juguetes que no son tan perfectos como sus compañeros? Este grupo viaja a una ciudad llamada Uglyville, donde todos los juguetes rechazados viven en armonía, sin importar que su aspecto no sea tan bello como el del resto. Sin embargo, una intrépida peluche llamada Moxy está dispuesta a cruzar la frontera hasta nuestro mundo, "el mundo más allá", y encontrar al niño perfecto para ella. Sin embargo, los juguetes escogidos, liderados por el bellísimo Lou, no están dispuestos a permitirlo.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/MKbMFScHifY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/6znj3t0nndjpk8m"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/1vjwj13nbennpn"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/8j7qxszyppdo"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/7g3zy8ayrhc5"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-n4urtsm4j6e6.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1d3TPQN73-rig9mMP9i0Nfff2zqXoh_IS/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Being the Ricardos [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.8[/COLOR]</title> 
 <genre>Drama,Historia</genre>
 <year>2021</year>
