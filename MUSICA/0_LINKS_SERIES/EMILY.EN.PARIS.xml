@@ -10,6 +10,7 @@
 	ETIQUETAS:
 	
 	- 1SerieTitle:"EMILY EN PARIS", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/jNm1HJe7va2xPes8NckQEyxRo4T.jpg",
+	- 1SerieTitle:"EMILY EN PARIS", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/2xexlAAXCdRE9e3EG35oYlMHJq2.jpg",
 
 	
 -->
@@ -43,6 +44,26 @@
 			<item>
 			<title> - Capitulos 1 a 10</title>      
 			<torrent>magnet:?xt=urn:btih:6D136BED76B376B2EC940A56334BE2449BFC81C7</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>1x0. - Capitulos 1 a 4</title>
+			<torrent>magnet:?xt=urn:btih:804CBEE96C2FDBBE89A77CA1FA7C3838B9A4412E&dn=HD1080</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>1x0. - Capitulos 5 a 7</title>
+			<torrent>magnet:?xt=urn:btih:5B5F6C9865EE6B9882EC2CFA861E3467D07CFDD9&dn=HD1080</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>1x0. - Capitulos 8 a 10</title>
+			<torrent>magnet:?xt=urn:btih:DD83C5E91BE5E51879D9D04409E096E698D780DF&dn=HD1080</torrent>
 			</item>
 ======================================================================
 ======================================================================
