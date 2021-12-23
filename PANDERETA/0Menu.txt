@@ -157,6 +157,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Argel Confidencial[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Argel.confidencial</externallink>
+<info>Miniserie de TV. 4 episodios. Ralf Eley (Ken Duken), un inspector de policía de la embajada alemana en Argelia, mantiene una relación prohibida con Amel (Hania Amar), una fiscal argelina. El secuestro de un traficante de armas alemán los arroja a un conflicto de intereses: mientras encabezan cada lado de la investigación, descubren un escándalo de corrupción que pondrá a prueba su lealtad, tanto a su país como, en última instancia, a ellos mismos. Todo esto en un contexto insurrecto en el que la democracia está magullada por el terrorismo y la corruptela.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/iCUjRtMldbX78E8am13nQ0sNv5g.jpg</thumbnail>
+<fanart>https://i.imgur.com/C0Z0WhU.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Atracadores[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Atracadores</externallink>
