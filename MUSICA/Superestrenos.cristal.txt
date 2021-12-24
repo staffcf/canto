@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] A Mil Kilometros de la Navidad [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.0[/COLOR]</title> 
+<genre>Comedia,Romance</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/AmQCS5l9MZZsfLbNENExSkP1Myj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oFsAGxav2ux7AHjb9FGzec5vV2j.jpg</fanart>
+<info>Raúl (Tamar Novas) es un treintañero al que todas las desgracias de su vida le han sucedido en Navidad. Por eso odia los villancicos, los Reyes Magos y todo lo que huela a espíritu navideño. Todos los años pasa las fiestas en alguna playa remota... pero este año, su jefe tiene otros planes: tendrá que viajar para auditar una fábrica de turrones de Valverde, un pueblo que vive por y para la Navidad. Y por si fuera poco, tendrá que compartir casa con Paula (Andrea Ross), la profesora del pueblo, que sueña con batir el récord del belén viviente más grande del mundo. ¿Podrá este Grinch madrileño sobrevivir a su peor pesadilla?<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/CQG-6hpGvn4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/em4n6s-22p1-51z"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/3nko0je6b8j7qo"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/f1bn9j58se5i"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/bhdyu3cqk6pv"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/fxxwc8l3t9wj"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1aemcFg8ypHLIjLuCUsMkrN1-fxgd_4Yh/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Encanto [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.3[/COLOR]</title> 
 <genre>Animación,Comedia,Familia,Fantasía</genre>
 <year>2021</year>
