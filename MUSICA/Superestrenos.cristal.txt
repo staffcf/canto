@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] En tierras peligrosas [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.0[/COLOR]</title> 
+<genre>Acción,Suspense,Crimen</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/baaaEWhyGMMbkhysj17K7rpLJyo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lFRJRkQzxGRQgUQI90TshaDUUA9.jpg</fanart>
+<info>Cuando el policía David resulta herido en una redada de drogas que sale mal, su socio Cal persigue a los dos criminales que le dispararon. Todos aterrizan en una granja remota propiedad del atribulado veterinario Eric, y mientras Cal y Eric planean su defensa, llegan más miembros de la pandilla, junto con un David herido. Superados en número, los tres héroes deben usar el sigilo, la inteligencia y el buen tiro para acabar con la mafia del narcotráfico.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/AnDV2vSs7L0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/r4nxruekk5-38kx"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/n0j8m36qal147mo"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/oxmpzn1muffy"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/nbm7m3swody2"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/v4pntdr3yrgu"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/10icWCXtwMvG47L3QI_k9lFJtAtZi53jf/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] No mires arriba [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.0[/COLOR]</title> 
 <genre>Comedia,Drama,Ciencia ficción</genre>
 <year>2021</year>
