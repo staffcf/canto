@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] No mires arriba [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.0[/COLOR]</title> 
+<genre>Comedia,Drama,Ciencia ficción</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/qsI7AEaq7qr5h3z5dnG3QIS13Yk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nvxrQQspxmSblCYDtvDAbVFX8Jt.jpg</fanart>
+<info>Dos astrónomos mediocres deben emprender una gira mediática descomunal para avisar a la humanidad de la llegada de un cometa que va a destruir la Tierra.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/kWkUg22UbVg"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/jy3xpid448608qw"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/84x97kj3szzqqv"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/zapurrwxyc0r"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/geagzqjvkk8b"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/717rov2em2q1"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1AkbsRAIDnUXaIIrA8cyqvHeaGySI27Rq/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] A Mil Kilometros de la Navidad [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.0[/COLOR]</title> 
 <genre>Comedia,Romance</genre>
 <year>2021</year>
