@@ -23,7 +23,7 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 1 a 6</title>      
+			<title>1x0. - Capitulos 1 a 6</title>      
 			<torrent>magnet:?xt=urn:btih:40F693EC0A450BE06334749D4B1381B18130E9EE</torrent>
 			</item>
 ======================================================================
@@ -41,9 +41,16 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 1 a 6</title>      
+			<title>1x00 - La noche antes de navidad</title>      
+			<torrent>magnet:?xt=urn:btih:ACDFF3EEDE5297F808CA9732D41EE23EB6A443B1</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 1 a 6</title>      
 			<torrent>magnet:?xt=urn:btih:9E8AE4BE66BE694DAE0E16BFA62BA7048A6418A0</torrent>
 			</item>
+======================================================================
 ======================================================================
 ======================================================================
 ======================================================================
@@ -55,13 +62,19 @@
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
+			<title>2x00 - La Navidad perfecta</title>
+			<torrent>magnet:?xt=urn:btih:E3CDAE1747BF5176435215F069AB555129247E44&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
 			<title>2x01 - Donde está tu corazón</title>
 			<torrent>magnet:?xt=urn:btih:8E03403215CA91A64AC5B53C89427313A4FE13C9&dn=HD720</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
-			<title>2x02 - Siempre progresando</title>
+			<title>2x02 - Semper progrediens</title>
 			<torrent>magnet:?xt=urn:btih:A2AF511A83E397C375159B8CAF8D1F8C35FDE023&dn=HD720</torrent>
 			</item>
 ======================================================================
@@ -79,20 +92,14 @@
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
-			<title>2x05 - El último hombre en</title>
+			<title>2x05 - El último hombre</title>
 			<torrent>magnet:?xt=urn:btih:F87B2C3F5AB0E3441B647B5E5453CDD00B2AAD49&dn=HD720</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
-			<title>2x06 - Verdades</title>
+			<title>2x06 - Verdades caseras</title>
 			<torrent>magnet:?xt=urn:btih:25C43848BC8B391FD96430877197AD3201CB84E9&dn=HD720</torrent>
-			</item>
-======================================================================
-			Tag=  "
-			<item>
-			<title>2x07 - La Navidad perfecta</title>
-			<torrent></torrent>
 			</item>
 ======================================================================
 ======================================================================
@@ -111,13 +118,19 @@
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
+			<title>2x00 - La Navidad perfecta</title>
+			<torrent>magnet:?xt=urn:btih:E76D59B8D6E1E7ABEB17B1A37A57EFBCB57F249C&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
 			<title>2x01 - Donde está tu corazón</title>
 			<torrent>magnet:?xt=urn:btih:8F986B01BC36417517B0FA8F6B47ED100A59DB3A&dn=HDTV</torrent>
 			</item>
 ======================================================================
 			Tag= TORRENTTEMP2, "
 			<item>
-			<title>2x02 - Siempre progresando</title>
+			<title>2x02 - Semper progrediens</title>
 			<torrent>magnet:?xt=urn:btih:B133F48B165CABB47B78D75338CE33B291000889&dn=HDTV</torrent>
 			</item>
 ======================================================================
@@ -135,20 +148,14 @@
 ======================================================================
 			Tag= TORRENTTEMP2, "
 			<item>
-			<title>2x05 - El último hombre en</title>
+			<title>2x05 - El último hombre</title>
 			<torrent>magnet:?xt=urn:btih:E9E68DEAF72C76E2B2A856F58F3A3A8E6DDA16A5&dn=HDTV</torrent>
 			</item>
 ======================================================================
 			Tag= TORRENTTEMP2, "
 			<item>
-			<title>2x06 - Verdades</title>
+			<title>2x06 - Verdades caseras</title>
 			<torrent>magnet:?xt=urn:btih:DABB6A691338DBC1D3E4C5384740A87147BC89EF&dn=HDTV</torrent>
-			</item>
-======================================================================
-			Tag=  "
-			<item>
-			<title>2x07 - La Navidad perfecta</title>
-			<torrent></torrent>
 			</item>
 ======================================================================
 ======================================================================
