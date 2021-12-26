@@ -1424,6 +1424,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Aventuras, 1Comedia, 1Infantil, A2021, Letra D, Spain, ",
+			"name": "D'Artacan y los tres Mosqueperros (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/4wK28uvWTQmKU64IMxGo6QSY9yC.jpg",
+			"info": "Cuenta la historia de joven D'Artacán, un chico impetuoso e inocente que se va a París para cumplir su sueño de convertirse en Mosqueperro. Allí conocerá un fiel amigo, el ratón Pom; se unirá a los famosos mosqueperros (Athos, Portos y Aramis); se enamorará de Juliette; alucinará con Milady, la famosa gata espía; y se enfrentará al perverso Cardenal Richelieu. Sin olvidarar a Rofty, el corcel de D’Artacán, que lo salvará más de una vez.",
+			"genero": "Animacion, Aventuras, Comedia, Infantil",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/DArtacan.y.los.tres.Mosqueperros.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Fantastico, A2021, Letra D, Polonia, Netflix, ",
 			"name": "David y los elfos (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/AtpnwDfKBlcPokEGcaxWO2fmiNl.jpg",
