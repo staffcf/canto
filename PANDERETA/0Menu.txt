@@ -1742,6 +1742,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Mar de tranquilidad[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Mar.de.tranquilidad</externallink>
+<info>8 episodios. Una científica se une a una misión para recuperar unas muestras de una estación lunar, escenario de un accidente que acabó con todos, incluida su hermana.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/rxnfJEOwWlPaUdALv5YowGTD3Hd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Mare of Easttown[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Mare.of.Easttown.txt</externallink>
