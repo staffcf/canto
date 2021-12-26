@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2019, Letra T, Reino Unido, ",
+			"name": "The Jack In The Box (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/k9jjRRg9Ht7oYuMTBW0JTaXDfCj.jpg",
+			"info": "Cuando el antiguo muñeco de Jack-in-the-box es sacado de la tierra y se abre, sus nuevos propietarios pronto tienen razones para creer que el espeluznante muñeco de payaso tiene vida propia",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/The.Jack.In.The.Box.-2019.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Aventuras, 1Comedia, 1Infantil, A2021, Letra D, Spain, ",
 			"name": "D'Artacan y los tres Mosqueperros (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/4wK28uvWTQmKU64IMxGo6QSY9yC.jpg",
@@ -19,7 +32,7 @@
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Fantastico, 1Comedia, 1Drama, A2021, Letra E, EEUU, ADisney, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Animacion, 1Fantastico, 1Comedia, 1Drama, A2021, Letra E, EEUU, ADisney, ",
 			"name": "Encanto (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/pZc0GpA8jPTwqHuABnSW6XwvWAi.jpg",
 			"info": "Cuenta la historia de una familia extraordinaria, los Madrigal, que viven escondidos en las montañas de Colombia, en una casa mágica situada en un enclave maravilloso llamado Encanto. La magia de Encanto ha dotado a todos los niños de la familia un don único, desde la súperfuerza hasta el poder de curar... Pero se olvidó de un miembro de la familia: Mirabel. Cuando ésta descubre que la magia que rodea Encanto está en peligro, decide que ella, la única Madrigal normal, podría ser la última esperanza de su extraordinaria familia",
@@ -27,7 +40,7 @@
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Encanto.-2021.-.1080.-.CristalAzul.mkv.torrent",
-				"torrent4k": ""	
+				"torrent4k": "magnet:?xt=urn:btih:5db402175018f3cc6bdd94abbf6aa3a0c5da4f4d&dn=Encanto.2021.2160p.x265.HDR.4K-dual-lat-cinecalidad.lat.mkv"	
 				}		
 			]
 			},
