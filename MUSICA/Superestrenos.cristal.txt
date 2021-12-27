@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] D'Artacán y los tres mosqueperros [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.2[/COLOR]</title> 
+<genre>Animación,Comedia,Aventura,Familia</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/ifVLR4rvTQSs5he64gyBLeQWf41.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9Q7FnYEfFh2mY73hlvgbM6nrVOz.jpg</fanart>
+<info>Francia, siglo XVII, bajo el reinado de Luis XIII. D'Artacán es un impetuoso e inocente campesino de Gascuña, amén de un habilidoso espadachín, que viaja a París con el propósito de hacer realidad su sueño: ingresar en el Cuerpo de Mosqueperros de la Guardia Real.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/hBctiwC3bz0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "No Codifica se va a reponer"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/mdwvj0mzhx6e6lo"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/qpfcapuqzvkf"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/kzgewg04d43j"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-ren9e0bub8oa.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/16iye9ctck4pXxnHhByxlYvwV8zOWnSmG/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Lulli [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.9[/COLOR]</title> 
 <genre>Comedia,Romance,Fantasía</genre>
 <year>2021</year>
