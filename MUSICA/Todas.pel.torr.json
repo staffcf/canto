@@ -85,7 +85,7 @@ Title:BLADE, SagaID:Blade, Imagen:https://www.themoviedb.org/t/p/original/PDuKQe
 							-	0Saga, 1SagaTorrent, 
 Title:BOURNE, SagaID:Bourne, Imagen:https://www.themoviedb.org/t/p/original/ilaZC6JuYwGfOBexpo6U1redAgj.jpg,
 							-	0Saga, 1SagaTorrent, 
-Title:CAMINO SANGRIENTO, SagaID:CaminoSangriento, Imagen:https://www.themoviedb.org/t/p/original/hvBot3zZ1INsqm9zw8XibErXRY6.jpg,		
+Title:CAMINO SANGRIENTO, SagaID:KM666, Imagen:https://www.themoviedb.org/t/p/original/hvBot3zZ1INsqm9zw8XibErXRY6.jpg,		
 							-	0Saga, 1SagaTorrent, 
 Title:CAPITAN AMERICA, SagaID:CapitanAmerica, Imagen:https://www.themoviedb.org/t/p/original/bv0obAMTA55R0ecl0zSmGVipRnv.jpg,	
 							-	0Saga, 1SagaTorrent, 
@@ -3373,6 +3373,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Romance, A2021, Letra L, Brasil, Netflix, ",
+			"name": "Lulli (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/cccz8Rgl929rNoLm5lu2pCTAq32.jpg",
+			"info": "Una ambiciosa estudiante de Medicina empieza a oír los pensamientos ajenos después de electrocutarse con una máquina de resonancia magnética.",
+			"genero": "Comedia, Romance",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Lulli.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Romance, A2021, Letra M, Francia, 1Biografico, Netflix, ",
 			"name": "Madame Claude (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/iGIccLkDOx7cgaxTjBDNavAbIr7.jpg",
@@ -5011,7 +5024,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2021, Letra W, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2021, Letra W, EEUU, Sagas KM666, ",
 			"name": "Wrong Turn: Sendero al infierno (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/6cyLg724N7GLyiIHFQFsUyMsDWm.jpg",
 			"info": "Un grupo de amigos que hace senderismo por el Sendero de los Apalaches se ven cara a cara con los miembros de una comunidad de habitantes de las montañas llamados 'The Foundation'",
@@ -33668,6 +33681,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2014, Letra C, EEUU, Sagas KM666, ",
+			"name": "Camino sangriento 6 (2014)","coloryear": "turquoise",
+			"image": "https://www.themoviedb.org/t/p/original/ks5ehO11dNfc3SQyXigCKmg0TmP.jpg",
+			"info": "Una repentina herencia lleva a Danny y sus amigos a 'Hobb Springs', un inmenso hotel en lo profundo de las colinas de Virginia. El mismo que está a cargo de dos misteriosos e inquietantes parientes suyos : Jackson y Sally, quienes insisten en presentar a Danny a sus demás ocultos familiares... pronto él se verá obligado a elegir entre estos o sus amigos",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Camino.sangriento.6.-2014.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Fantastico, 1Infantil, A2014, Letra C, EEUU, ",
 			"name": "Campanilla y la leyenda de la bestia (2014)","coloryear": "turquoise",
 			"image": "https://www.themoviedb.org/t/p/original/14Yjf8xW2uWkZ3ZhagbrKMXbe70.jpg",
@@ -35109,6 +35135,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2012, Letra C, EEUU, Sagas KM666, ",
+			"name": "Camino sangriento 5 (2012)","coloryear": "lightcoral",
+			"image": "https://www.themoviedb.org/t/p/original/8rCVdIzSIDIALXArSjLyw44teD0.jpg",
+			"info": "En una pequeña ciudad de Virginia Occidental, tiene lugar el Mountain Man Festival el día de Halloween, donde una multitud de excursionistas acuden a la fiesta, disfrazados y listos para pasar una noche salvaje con música y diversión. Pero una familia endogámica de caníbales les aguará la fiesta. Quinta entrega de la saga KM 666.",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Camino.sangriento.5.-2012.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2012, Letra D, EEUU, Musica, Baile, Colegios, Universidad, Sagas DandoLaNota, ",
 			"name": "Dando la nota (2012)","coloryear": "lightcoral",
 			"image": "https://www.themoviedb.org/t/p/original/puHZCmgINRwhY0g8HCCJZ9IYVjK.jpg",
@@ -35415,7 +35454,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Fantastico, Accion, Ciencia ficcion, Aventuras",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Los.Vengadores.-2012.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:4mds346k45e33gpfxpw4g2vamwtqckjj&dn=HDRip
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Los.Vengadores.-2012.-.1080x265.-.CristalAzul.mkv.torrent",			https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Los.Vengadores.-2012.-.1080.-.CristalAzul.mkv.torrent	magnet:?xt=urn:btih:4mds346k45e33gpfxpw4g2vamwtqckjj&dn=HDRip
 				"torrent4k": "magnet:?xt=urn:btih:114A6F7C5EDA19E8860D85AEB5AAE8902AA33168"
 				}		
 			]
@@ -35687,6 +35726,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Accion, A2011, Letra A, EEUU, ",
+			"name": "Acero puro (2011)","coloryear": "blue",
+			"image": "https://www.themoviedb.org/t/p/original/9zT4v3PZ686ZV7TovzNtdcLqEWm.jpg",
+			"info": "En un futuro no muy lejano el boxeo es robótico: en los combates ya no se enfrentan seres humanos, sino robots humanoides, sofisticadas máquinas diseñadas para luchar. Charlie Kenton, un antiguo púgil que casi llegó a alcanzar la gloria, está pasando una mala racha como promotor de combates. Un día, encuentra un viejo robot desechado y, al comprobar que es un gran boxeador, decide entrenarlo",
+			"genero": "Ciencia ficcion, Accion",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:726FBC9CA4E824D9C3B6AA781714D84D3EEEBA2F&dn=BRRip",
+				"torrent4k": "magnet:?xt=urn:btih:9E49C3B794167520E6CA41E9DA06E0E1D48F743B&dn=UHDReescalado"	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Comedia, 1Romance, A2011, Letra A, EEUU, Crimen, Robos, Atracos, ",
 			"name": "Atraco por duplicado (2011)","coloryear": "blue",
 			"image": "https://www.themoviedb.org/t/p/original/20pVV5VO6zYBl3Yzus72pGt7COK.jpg",
@@ -35708,6 +35760,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Beethoven-Aventura.de.navidad.-2011.-.720.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2011, Letra C, EEUU, Sagas KM666, ",
+			"name": "Camino sangriento 4: El origen (2011)","coloryear": "blue",
+			"image": "https://www.themoviedb.org/t/p/original/u3mobjgAhf2q7MzsT0CTb73X7P2.jpg",
+			"info": "Un grupo de estudiantes universitarios se extravían mientras esquían en la nieve debido a una tormenta, viéndose forzados a refugiarse en un misterioso hospital abandonado, lo que ignoran es que allí habitan tres monstruosos caníbales. Precuela de la original 'Wrong Turn' (Km. 666 - Desvío al infierno) del 2003",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Camino.sangriento.4-El.origen.-2011.-.1080.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""	
 				}		
 			]
@@ -36681,6 +36746,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Thriller, A2009, Letra C, EEUU, Sagas KM666, ",
+			"name": "Camino sangriento 3 (2009)","coloryear": "hotpink",
+			"image": "https://www.themoviedb.org/t/p/original/8CGNZk2HJHHFpnLdCJEe6JI6Fsi.jpg",
+			"info": "Fonda y sus amigos van al bosque a pasar unos días. Sus amigos son víctimas del mutante asesino, Tres Dedos, convirtiéndose en su alimento. Mientras tanto algunos prisioneros peligrosos están siendo transferidos por Nate Wilson, un guardián de la prisión, que va a retirarse para convertirse en abogado. Durante el transporte su camión es atacado por Tres Dedos. Por lo que los prisioneros se fugan. Mientras huyen por los bosques, los prisioneros encuentran por casualidad un camión abandonado lleno de bolsas del dinero. Uno por uno Tres Dedos acaba con todos los prisioneros... Tercera y última entrega de la trilogía Km 666, lanzada (como la segunda parte) directa en DVD y Blu-Ray",
+			"genero": "Terror, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Camino.sangriento.3.-2009.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Fantastico, 1Aventuras, 1Infantil, A2009, Letra C, EEUU, ADisney, ",
 			"name": "Campanilla y el Tesoro Perdido (2009)","coloryear": "hotpink",
 			"image": "https://www.themoviedb.org/t/p/original/s5ggvZQMXhP3O2dQD8iQE46K6b6.jpg",
@@ -37318,8 +37396,21 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Thriller, Accion, Drama",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/El.caballero.oscuro.2008.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:22cdb15e497bc2ff408de21f9b57c9ff577aa7bc&DVDRip
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.caballero.oscuro.-2008x265.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:22cdb15e497bc2ff408de21f9b57c9ff577aa7bc&DVDRip
 				"torrent4k": "magnet:?xt=urn:btih:07A4D3D0792B22081AE1ACC758AC4EC9FE39E555"
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Thriller, 1Accion, 1Drama, A2008, Letra B, EEUU, Superheroes, DC, Comics, Sagas Batman, ",
+			"name": "El caballero oscuro [COLOR gold](IMAX) (2008)","coloryear": "greenyellow",
+			"image": "https://www.themoviedb.org/t/p/original/tSIH3DTA4oFQDhPaJgHxxQZoqHh.jpg",
+			"info": "Batman/Bruce Wayne (Christian Bale) regresa para continuar su guerra contra el crimen. Con la ayuda del teniente Jim Gordon (Gary Oldman) y del Fiscal del Distrito Harvey Dent (Aaron Eckhart), Batman se propone destruir el crimen organizado en la ciudad de Gotham. El triunvirato demuestra su eficacia, pero, de repente, aparece Joker (Heath Ledger), un nuevo criminal que desencadena el caos y tiene aterrados a los ciudadanos",
+			"genero": "Thriller, Accion, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.caballero.oscuro.2008.-.1080.-.CristalAzul.mkv.torrent",  
+				"torrent4k": ""
 				}		
 			]
 			},
@@ -37694,7 +37785,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 		"image": "",
 		"groups": [,
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Thriller, 1Intriga, A2007, Letra NUM, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Terror, 1Thriller, 1Intriga, A2007, Letra NUM, EEUU, ",
 			"name": "1408 (2007)","coloryear": "steelblue",
 			"image": "https://www.themoviedb.org/t/p/original/uSU6L34qLpn1Vx4MUkkfs0mCrQ8.jpg",
 			"info": "Basada en un relato de Stephen King, cuenta la historia de un escritor de novelas de terror (John Cusack) bastante escéptico. De hecho, se dedica a desacreditar fenómenos paranormales ocurridos en supuestas casas encantadas. Aunque no cree en la existencia de vida más allá de la muerte, sus ideas al respecto cambiarán cuando entre en la habitación 1408 del Hotel Dolphin",
@@ -37702,7 +37793,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/1408.-2007.-.1080.-.CristalAzul.mkv.torrent",
-				"torrent4k": ""	
+				"torrent4k": "magnet:?xt=urn:btih:8677499E0ADC1AE60C05BBF77B5DB8578A3829BE&dn=UHDReescalado"	
 				}		
 			]
 			},
@@ -37975,6 +38066,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Hostel.2.-2007.-.1080.-.CristalAzul.mkv.torrent",		magnet:?xt=urn:btih:E8E40AEFFA7F84C8A228911B633917A80F460A45&dn=HD1080
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Thriller, A2007, Letra K, EEUU, Sagas KM666, ",
+			"name": "Km. 666 II: Camino sangriento (2007)","coloryear": "steelblue",
+			"image": "https://www.themoviedb.org/t/p/original/chskPoHeqWIiWzeZLpuQSeXLBtM.jpg",
+			"info": "Dale Murphy es el presentador de The Apocalypse, un reality-show en el que los participantes son aislados en un remoto paraje y obligados a sobrevivir por sus propios medios. Lejos están de imaginar que el bosque donde acaban de instalarse es el hogar de un grupo de mutantes caníbales y que el juego no va a tardar en convertirse en terrorífica realidad. Secuela de KM. 666 (Wrong Turn), rodada en apenas 25 días y lanzada directamente al mercado del DVD",
+			"genero": "Terror, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Km.666.II-Camino.sangriento.-2007.-.1080.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""	
 				}		
 			]
@@ -39597,6 +39701,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 0Torrentcristal, 1Torrent4k, 1Animacion, 1Aventuras, 1Fantastico, 1Infantil, A2004, Letra P, EEUU, ",
+			"name": "Polar Express (El Expreso Polar) (2004)","coloryear": "yellow",
+			"image": "https://www.themoviedb.org/t/p/original/nFO4b8D4U051rBFhjKdgPwOJt5e.jpg",
+			"info": "En una nevada noche de Navidad, un niño emprende un extraordinario viaje en tren hacia el Polo Norte. A partir de ese momento empieza una aventura que le servirá para conocerse a sí mismo y que le enseñará que la magia puede estar siempre presente en la vida a condición de creer en ella",
+			"genero": "Animacion, Aventuras, Fantastico, Infantil",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:0147F258AFFB4D3106FF0743BAA1A39A8E7DDE0C&dn=BDRemux",
+				"torrent4k": "magnet:?xt=urn:btih:7DBD73822129CC1BEECD53A1EC955CE7ADAF8180&dn=UHDReescalado"	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia 1ficcion, Thriller, A2004, Letra P, EEUU, 1Culto, ",
 			"name": "Primer (2004)","coloryear": "yellow",
 			"image": "https://www.themoviedb.org/t/p/original/shv6eIIMUngW8qMnWJ7mI1FUgRi.jpg",
@@ -39942,6 +40059,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Fantastico, A2003, Letra E, EEUU, 1Peticion, ",
+			"name": "Elf (2003)","coloryear": "darkviolet",
+			"image": "https://www.themoviedb.org/t/p/original/gRosaGSZTOgagqmnAaIdNHDSsX8.jpg",
+			"info": "Una Nochebuena, en un orfanato, un bebé gatea dentro de un saco de regalos de Santa Claus y acaba en su taller del Polo Norte. Es adoptado y educado como un elfo pero 30 años después, al crecer, se hace tres veces más grande que los demás. Deciden entonces que lo mejor para él será encontrar a su familia. Con esa intención viaja a Nueva York, donde consigue primero encontrar a su padre (James Caan), un editor de libros infantiles, adicto al trabajo y al dinero, que figura en la lista negra de Santa Claus. Después encuentra una nueva madre (Mary Steenburgen) y descubre que su hermanastro de diez años (Daniel Tay) no cree en los elfos ni en Santa Claus ni en las Navidades. En realidad, todo el mundo parece haber olvidado el significado de esa fiesta. Cuando la Navidad se acerca, nuestro personaje decide aprovechar su conocimiento del mundo de los elfos para intentar ganarse el amor de su familia y, además, salvar el espíritu navideño tanto en Nueva York como en el resto del mundo",
+			"genero": "Comedia, Fantastico",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Elf.-2003.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Fantastico, A2003, Letra F, EEUU, Sagas Viernes13, Sagas ElmStreet, ",
 			"name": "Freddy contra Jason (2003)","coloryear": "darkviolet",
 			"image": "https://www.themoviedb.org/t/p/original/vVS44i49BswTvEuVCSe2p2o6df8.jpg",
@@ -40003,6 +40133,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Kill.Bill.Volumen.1.-2003.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:C635C118205DC670C5B8777F2A15108F4A8E13CF&dn=HDRip
 				"torrent4k": "magnet:?xt=urn:btih:4334EA87FDC8F3B3CFA3827C4EEF74762758A330"
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2003, Letra K, EEUU, Sagas KM666, ",
+			"name": "Km 666: Desvio al infierno (2003)","coloryear": "darkviolet",
+			"image": "https://www.themoviedb.org/t/p/original/o6IVGK3AGF1OHmAjOE7vonrUYkM.jpg",
+			"info": "Seis adolescentes viajan en coche cuando, de pronto, deben desviarse de su ruta al encontrar la carretera bloqueada por un accidente. Pero los jóvenes se pierden en los densos bosques de West Virginia, donde serán perseguidos por una raza humana de caníbales, horriblemente desfigurados por su antinatural alimentación a lo largo de generaciones...",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Km.666-Desvio.al.infierno.-2003.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -42163,6 +42306,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Lock.and.Stock.-1998.-.1080.-.CristalAzul.mkv.torrent",		magnet:?xt=urn:btih:66b4a7e3d79817208be00f8d48dcb94501c60093&HD1080
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Ciencia ficcion, A1998, Letra L, EEUU, B2000, A2000-1991, ",
+			"name": "Los vengadores (1998)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/rGsqxpnymFzvgD6D1ks8UEbjWaB.jpg",
+			"info": "El apuesto John Steed (Ralph Fiennes) y la sofisticada y astuta Emma Peel (Uma Thurman) son dos agentes secretos que despliegan estilo y elegancia en su lucha contra el crimen. Sir August de Wynter (Sean Connery), un antiguo miembro del Ministerio del Interior, es un hombre muy rico e inteligente que planea controlar el mundo por medio de una modernísima máquina del tiempo que representa una grave amenaza para la humanidad, que se verá expuesta a imprevisibles y violentas tormentas de hielo o a temperaturas abrasadoras. Pero nuestros héroes no pierden la calma ni siquiera en situaciones tan aparentemente irresolubles",
+			"genero": "Accion, Ciencia ficcion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Los.Vengadores.-2012.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -49791,7 +49947,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 		"torrent": "magnet:?xt=urn:btih:2DE90E727FB55C3C3BF41098140C46EFDD892E5C&dn=BR1080",
 		},
 		{
-		"tag": " 1Torrentcristal, Sagas CaminoSangriento, ",
+		"tag": " 0Torrentcristal, Sagas KM666, ",
 		"name": "Saga Completa [COLOR gold]Calidad (1080)","coloryear": "gold",
 		"image": "https://www.themoviedb.org/t/p/original/hvBot3zZ1INsqm9zw8XibErXRY6.jpg",
 		"info": "Las 6 películas de la Saga Camino Sangriento",
