@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] The Jack in the Box [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.5[/COLOR]</title> 
+<genre>Terror</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/k9jjRRg9Ht7oYuMTBW0JTaXDfCj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xFJmk6GvXPWtmeI5Nj9JvpqhU4r.jpg</fanart>
+<info>Cuando un Jack-in-the-box antiguo es desenterrado y abierto, sus nuevos dueños pronto tienen motivos para creer que la espeluznante muñeca de payaso tiene vida propia.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/BDLRWAya47Y"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/em4n6s-26y2pgyy"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/4nlko34nhww10q"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/1ibhuhmve0oq"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/353gs8qbgw2z"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/z03uxsmsjgls"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/13XIs390zlb5eubcKJCpPjjZDkc5GObGx/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] En tierras peligrosas [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.0[/COLOR]</title> 
 <genre>Acción,Suspense,Crimen</genre>
 <year>2021</year>
