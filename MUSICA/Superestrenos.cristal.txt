@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Lulli [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.9[/COLOR]</title> 
+<genre>Comedia,Romance,Fantasía</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/qYVTfANSspxMsx4Z5peBp1UIx9O.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yUJHUuzrUXlmGcJoVXTwJhRcxVC.jpg</fanart>
+<info>Después de electrocutarse con una máquina de resonancia magnética, un joven y ambicioso estudiante de medicina comienza a escuchar los pensamientos de los demás.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/pXVQfXDTVkA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/0d6j7clzp6z345x"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/n0j68708i98nzn"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ptape06np8sv"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/ykn28ak2m5j7"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ff6ofkv4agp6"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/12Di1tO-oTKRrXwAYuNKJY0oiL293PA9a/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] The Jack in the Box [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.5[/COLOR]</title> 
 <genre>Terror</genre>
 <year>2021</year>
