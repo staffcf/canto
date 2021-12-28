@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Quedate conmigo Doraemon 2 [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.6[/COLOR]</title> 
+<genre>Animación,Familia,Ciencia ficción</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/xJ4aa6ZDTMPdoZEqqtjXQrIiSeh.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fStC0dSCRQslE9NzXa36EyOom81.jpg</fanart>
+<info>Nobita viaja con Doraemon al pasado para reencontrarse con su abuela, ya fallecida en el presente. Secuela de la película «Stand by Me Doraemon» y a su vez, remake del mediometraje «Doraemon: Obāchan no Omoide».<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/IWmYJA9D6pg"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/pwnxdtmprdm4jlq"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/enq881dwtqxdemr"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/eeqheh0qttzm"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/6ptauahnorp8"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-ydy74do6h12d.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1xXQ_t5pt6PrL2HSF7Sk-uIcnP8A3BgGu/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] DArtacan y los tres mosqueperros [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.2[/COLOR]</title> 
 <genre>Animación,Comedia,Aventura,Familia</genre>
 <year>2021</year>
