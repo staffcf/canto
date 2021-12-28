@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Unas navidades junto a ti [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.6[/COLOR]</title> 
+<genre>Romance,Drama,Navidad</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/bDlKgyTZtd5T7sZidwndSxUAjgY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wdO4qhDw5ERSBD8xVci5ALyoaG1.jpg</fanart>
+<info>Con las fechas navideñas a la vuelta de la esquina, Frank le pide a su hija que lo acompañe en un viaje para reencontrarse con un amor de la infancia.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/agL8qtKOGMI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/q3nx0ie1q65y50l"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/enq80npnfg9op7"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/4h9xpz8193jg"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/oyaeiyou6ro9"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/4g2sbh4awlsz"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1SqcP3vwDZt9iSLLK8EvNkaTaWUXVp53r/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Quedate conmigo Doraemon 2 [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.6[/COLOR]</title> 
 <genre>Animación,Familia,Ciencia ficción</genre>
 <year>2021</year>
