@@ -846,6 +846,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El libro de Boba Fett[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.libro.de.boba.fett</externallink>
+<info>El legendario cazarrecompensas Boba Fett y la mercenaria Fennec Shand deben navegar por el inframundo de la galaxia cuando regresen a las arenas de Tatooine para reclamar el territorio que una vez gobernó Jabba el Hutt y su sindicato del crimen.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/gNbdjDi1HamTCrfvM9JeA94bNi2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fbRjF3buGA4cbNAgOYLWv8oFLvF.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El libro de los negros[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.libro.de.los.negros</externallink>
