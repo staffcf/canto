@@ -801,6 +801,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El huésped Americano[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.huesped.americano</externallink>
+<info>Principio del siglo XX. Después de una amarga derrota en la campaña presidencial de los Estados Unidos, Roosevelt parte en busca de su juventud perdida en la jungla brasileña, junto a un viejo amigo y su hijo Kermit, con el objetivo de explorar el último río inexplorado del país: el río de Duda, en Rondônia. En un viaje lleno de peligros mortales, el expresidente cuenta con el apoyo del especialista indígena, quien fue militar y responsable de conectar las regiones más remotas del país. En este viaje, los dos hombres de diferentes perfiles tendrán que poner a prueba sus límites físicos y morales, así como aprender a lidiar con sus personalidades conflictivas para poder sobrevivir.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/f4RYCEE0DuFBBbNMiaLqdKjRlrI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/61kW8oSYO8EWIGzPrzbt2i3kbiH.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El Incidente[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.incidente.xml</externallink>
