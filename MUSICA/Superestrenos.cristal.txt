@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Time is Up [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.0[/COLOR]</title> 
+<genre>Drama,Romance</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/eSmQuc2P2beWZJ55F80RErsUzr1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/poLzOfMBc2S4AroQPtzlaPRdEwn.jpg</fanart>
+<info>Un accidente obliga a Vivien y Royan a reajustar sus vidas poco a poco y a empezar a vivir en un presente que quizá se muestre más estimulante que todo lo predefinido.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/qZTPnLk11og"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/nn2x6h20g2p3e53"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/qlz89kx7i3mprp"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/fty4nog4fcc7"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/1ogczic3mwgt"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "Falta poner"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1lkLlib1gPN_BRmZRY9FmZzzfG8DIKsJI/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Unas navidades junto a ti [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.6[/COLOR]</title> 
 <genre>Romance,Drama,Navidad</genre>
 <year>2021</year>
