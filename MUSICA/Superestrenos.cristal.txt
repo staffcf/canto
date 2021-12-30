@@ -4,6 +4,18 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 
+
+<item>
+<title>[COLOR white] El refugio [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.0[/COLOR]</title> 
+<genre>Comedia</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/rqUUraBnCuGrLJQO6JVO52ezz4W.jpg</thumbnail>
+<fanart>https://i.imgur.com/J23KpQ3.jpg</fanart>
+<info>¿Qué sucedería si un temporal de nieve deja aisladas a un grupo de personas en un hotel de montaña durante un fin de semana navideño? Pues que, para bien o para mal, la locura está servida.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/u4HkKHPV9Q8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/wrn56inly0w6gmn"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/7r1wlmd7t6gn31"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/iqd2t9i8wewm"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/r4h87g8j7pa0"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ytcha17aivxx"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1mWUB0WJhEB0DLRDRyzGbXQVQ9LIwmC3O/view"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Hierve [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.5[/COLOR]</title> 
 <genre>Suspense,Drama</genre>
