@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Hierve [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.5[/COLOR]</title> 
+<genre>Suspense,Drama</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/3yghOYVOI9PEgbOaHpR4sZhklot.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hdx7y952Mn92wyZZnnkLQwou671.jpg</fanart>
+<info>En la noche más concurrida del año en uno de los restaurantes de moda en Londres, el carismático jefe de cocina Andy Jones trata de no derrumbarse ante una crisis personal y profesional que podría destruir todo aquello por lo que ha trabajado. La inesperada visita de un inspector de sanidad y seguridad alimentaria aumenta la presión sobre el personal mientras no dejan de llegar más y más clientes. Andy abronca y engatusa a su equipo indistintamente, haciendo todo lo posible para disipar las tensiones entre la gerencia y los trabajadores, mientras atiende a las ridículas demandas de sus clientes.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/aI9aJoe3MgE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/xpx57c5e7x1wpkm"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/l6ljk8v1a901qd"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/2s8e3g61i66o"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/4trlfp4gzcn9"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/efo0f39ufvwq"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1CZX0xcpMqs6acyyBqs8wSYyHebf92m1m/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Time is Up [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.0[/COLOR]</title> 
 <genre>Drama,Romance</genre>
 <year>2021</year>
