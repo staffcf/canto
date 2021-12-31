@@ -6,6 +6,18 @@
 
 
 <item>
+<title>[COLOR white] Equipo foca [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.0[/COLOR]</title> 
+<genre>Animación,Familia,Comedia</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/pnaylmArIbRJfvMAqBnxtYujnPy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vd73vTYjFpXoPmw5612ZHjEBI5J.jpg</fanart>
+<info>Después de que su mejor amigo muere en un ataque de tiburón, Quinn, una adorable pero tenaz foca, reúne un EQUIPO SEAL para luchar contra una banda de tiburones que se apodera del vecindario. Pero esta alegre banda de focas internacionales no está en absoluto entrenada para tal misión.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/FT6k3HoS_F8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/r4nxrueknp0l47e"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/o71qv71xcj8zk3"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ve5nq1hpba0q"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/pg4ydlt90e9o"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/q4rfzkkylr5n"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/19Rt3cYmgBpIZySioTLEpWVf8Cz_IOD32/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] El refugio [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.0[/COLOR]</title> 
 <genre>Comedia</genre>
 <year>2021</year>
