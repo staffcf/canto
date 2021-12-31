@@ -9,9 +9,10 @@
 
 	ETIQUETAS:
 	
-	- 1SerieTitle:"COBRA KAI", SerieTemp:"TEMPORADA 1", SerieID:"COBRAKAITEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/5qMupAz4A9EN5Rutrkmov45mNXZ.jpg",
-	- 1SerieTitle:"COBRA KAI", SerieTemp:"TEMPORADA 2", SerieID:"COBRAKAITEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/eTMMU2rKpZRbo9ERytyhwatwAjz.jpg",
-	- 1SerieTitle:"COBRA KAI", SerieTemp:"TEMPORADA 3", SerieID:"COBRAKAITEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/obLBdhLxheKg8Li1qO11r2SwmYO.jpg",
+	- 1SerieTitle:"COBRA KAI", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/5qMupAz4A9EN5Rutrkmov45mNXZ.jpg",
+	- 1SerieTitle:"COBRA KAI", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/eTMMU2rKpZRbo9ERytyhwatwAjz.jpg",
+	- 1SerieTitle:"COBRA KAI", SerieTemp:"TEMPORADA 3", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/obLBdhLxheKg8Li1qO11r2SwmYO.jpg",
+	- 1SerieTitle:"COBRA KAI", SerieTemp:"TEMPORADA 4", SerieID:"SERIETEMP4", SerieIDT:"TORRENTTEMP4", SerieThumbail:"https://www.themoviedb.org/t/p/original/yR9a9yZ1kAW0Xbl4NxQxPSMteEg.jpg",
 	
 -->
 
@@ -267,3 +268,68 @@
 ======================================================================
 ======================================================================
 ======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x01 - ¡Empezamos!</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Cobra.Kai/4x01.-Cobra.Kai.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x02 - Primero aprender sostener</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Cobra.Kai/4x02.-Cobra.Kai.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x03 - Luego aprender volar</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Cobra.Kai/4x03.-Cobra.Kai.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x04 - Bicefalia [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Cobra.Kai/4x04.-Cobra.Kai.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x05 - Punto de partido [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Cobra.Kai/4x05.-Cobra.Kai.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x06 - Zurrar ayuda a ligar [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Cobra.Kai/4x06.-Cobra.Kai.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x07 - Campos de minas [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Cobra.Kai/4x07.-Cobra.Kai.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x08 - Empieza la fiesta [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Cobra.Kai/4x08.-Cobra.Kai.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x09 - La caída [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Cobra.Kai/4x09.-Cobra.Kai.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x10 - El ascenso [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Cobra.Kai/4x10.-Cobra.Kai.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+
