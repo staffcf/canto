@@ -4,6 +4,17 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 
+<item>
+<title>[COLOR white] Instinto Peligroso [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.8[/COLOR]</title> 
+<genre>Acción,Suspense</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/vTtkQGC7qKlSRQJZYtAWAmYdH0A.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/88WIuUVfKEyIavkLC0X9uUcWu5D.jpg</fanart>
+<info>Un sociópata reformado se dirige a una isla remota después de la muerte de su hermano. Poco después de su llegada, la isla cae bajo el asedio de una pandilla mortal de mercenarios, y cuando descubre su papel en la desaparición de su hermano, se embarca en una incansable búsqueda de venganza.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/2_Q_UOjNvSo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/8ql36h8k4w4g-ye"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/3nk7z60zhxk1j7"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/uro9j8frjv5r"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/jyw0vu7zdopd"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-duu8shvbf8e0.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1SqYMCNJMTjslcTPZBQRg76ozMnAyHKtH/view"}</urlsolve>
+</item>
+
+
 
 <item>
 <title>[COLOR white] Equipo foca [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.0[/COLOR]</title> 
