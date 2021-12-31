@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Coctel explosivo [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.4[/COLOR]</title> 
+<genre>Acción,Crimen,Suspense</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/54rcNkxmG3EEBU5GuI3NL0W6gz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hugKriLPeBm3lErSCQiFOgQzpkC.jpg</fanart>
+<info>Eva (Karen Gillan) era lo más importante en la turbulenta vida de su madre, Scarlet (Lena Headey). Pero sus enemigos obligaron a Scarlet a huir abandonándolo todo, incluida a su hija. Años más tarde, Eva se convierte en una asesina a sangre fría siguiendo los pasos de su madre. Después de perder el control en una misión, poniendo a una inocente niña de 8 años en peligro, Eva no tiene más remedio que enfrentarse sin escrúpulos a sus antiguos compinches. Y Scarlet y su banda no tienen más remedio que volver para intentar ayudarla.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/NZ5AZG4zcqI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/-46j3upj85z3l24"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/o71qvrgwi1jze4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ack4qib8oz0c"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/y61pjwehman9"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/1ofhf6p9pcju"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Z4p4E7ztY1-E9rx9-8Q-vGouBeRTen6Q/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Instinto Peligroso [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.8[/COLOR]</title> 
 <genre>Acción,Suspense</genre>
 <year>2021</year>
