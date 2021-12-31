@@ -10,6 +10,7 @@
 	ETIQUETAS:
 	
 	- 1SerieTitle:"LOVE LIFE", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/yIlbPxb7KC4k112v8vattKwLsN7.jpg",
+	- 1SerieTitle:"LOVE LIFE", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/y39Qhqee8TV1JIag5xYxGosrf0Z.jpg",
 
 	
 -->
@@ -75,5 +76,24 @@
 			</item>
 ======================================================================
 ======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x0. - Capitulos 1 a 4</title>
+			<torrent>magnet:?xt=urn:btih:2EE162EC3071A3A30909191B0D0AFC097091A709&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x0. - Capitulos 5 a 7</title>
+			<torrent>magnet:?xt=urn:btih:03DEE6880FFB058B701B1EDDF71D69703D7416FB&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x0. - Capitulos 8 a 10</title>
+			<torrent>magnet:?xt=urn:btih:DF7129FFFB54C670FFC21325C0A5C168F0591152&dn=HD720</torrent>
+			</item>
 ======================================================================
 ======================================================================
