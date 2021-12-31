@@ -1134,6 +1134,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Gente Ansiosa[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Gente.ansiosa</externallink>
+<info>La desaparición repentina de un inepto ladrón de bancos que toma rehenes durante una jornada de puertas abiertas plantea todo un enigma para los investigadores del caso.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/6DYZQkpNNSoThayFnjbWz2RFEzr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gFWf4XRhKaspkocwZpkGRtLUZGH.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Ghost Theater[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Ghost.Theater</externallink>
