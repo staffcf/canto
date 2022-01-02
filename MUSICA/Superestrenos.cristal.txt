@@ -15,6 +15,17 @@
 </item>
 
 
+<item>
+<title>[COLOR white] La ultima cena [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.0[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/3z4iGRT5OcjJynf6YPnVCe8qMA.jpg</thumbnail>
+<fanart>https://i.imgur.com/hXQEJy8.jpg</fanart>
+<info>Una cena entre amigos en la que el alcohol, las drogas, un caso de corrupción y una visita inesperada convertirán la noche en un encuentro salvaje, donde el espectador será un invitado más.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/danuGwDIYKA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "No funciona la web"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/7r1qgg9muq61d7"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/0v0k19wvooe8"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/j1cp4q3sfzdt"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/o7bl5p3hzvz1"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Y4J6MfcwNkjfIvsNV3jvRFH4axJ8sIwm/view"}</urlsolve>
+</item>
+
+
 
 <item>
 <title>[COLOR white] Maixabel [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.8[/COLOR]</title> 
