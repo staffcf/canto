@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Harry Potter 20 aniversario: Regreso a Hogwarts VOSE [/COLOR][COLOR yellow](2022) [COLOR aqua]*8.7[/COLOR]</title> 
+<genre>Documental</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/zZJnBuMDYOS71p3o0CJDmXKYtVy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bmfuSOPwTdWLyEtNhGtTBh3T1oa.jpg</fanart>
+<info>Daniel Radcliffe, Rupert Grint y Emma Watson se unen al cineasta Chris Columbus y a otros miembros del reparto de las películas de Harry Potter para volver a Hogwarts por primera vez y celebrar el aniversario de la primera película de la saga.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/NMYRd7DvjrE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "No funciona la web"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/dqvj43wpco604k"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/p625yzt7wt4p"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/qrk2xposs4ss"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/g5vwuaaeebel"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/19ZopQLgLHYHvQpclDPiHdu0tJdFcV0Iq/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Maixabel [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.8[/COLOR]</title> 
 <genre>Drama</genre>
 <year>2021</year>
