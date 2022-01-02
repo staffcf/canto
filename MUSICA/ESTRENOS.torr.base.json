@@ -6,6 +6,201 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Documental, A2022, Letra H, Reino Unido, ",
+			"name": "Harry Potter 20 aniversario: Regreso a Hogwarts [COLOR gold](V.O.S.) (2022)","coloryear": "darkorange",
+			"image": "https://www.themoviedb.org/t/p/original/eEqy4buuj4hJfXvMQiwpl6GJzY9.jpg",
+			"info": "Daniel Radcliffe, Rupert Grint y Emma Watson se unen al cineasta Chris Columbus y a otros queridos miembros del reparto de las ocho películas de Harry Potter en su viaje de regreso a Hogwarts por primera vez para celebrar el aniversario de la primera película de la franquicia, Harry Potter y la piedra filosofal, que se estrenó hace 20 años. El especial retrospectivo Harry Potter 20th Anniversary: Return to Hogwarts contará una historia encantadora de cómo se hizo a través de nuevas entrevistas en profundidad y conversaciones con el elenco, invitando a los fanáticos a un viaje mágico en primera persona a través de una de las franquicias cinematográficas más queridas de todos los tiempos.",
+			"genero": "Documental",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Harry.Potter.20.aniversario-Regreso.a.Hogwarts.-.1080-VOS.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:ED391FF07B3A9F1BE5E3A882EFC6BECA916A2912&dn=Harry.Potter.20th.Anniversary.Return.to.Hogwarts.2022.1080p.WEB.H264-BIGDOC
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra P, EEUU, 1Hechos reales, ",
+			"name": "Pensamiento Critico (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/pqFAWe9tGS8NTHErabAk2i65eZ9.jpg",
+			"info": "Esta basada en la verdadera historia del equipo de ajedrez del instituto de Miami Jackson, que fueron los primeros en ganar el Campeonato de Ajedrez de Estados Unidos",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Pensamiento.Critico.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2019, Letra L, Rusia, ",
+			"name": "La maldicion de la reina de picas (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/czqmzGzdl72c0R8vhJnrVsvHczX.jpg",
+			"info": "Un siniestro fantasma se encuentra suelto. Su primer grupo de victimas reside en un internado que siempre ha estado rodeado de extraños rumores. Un dia, mientras investigan una de las zonas 'prohibidas' del colegio, una grupo de adolescentes descubre un cristal con una serie de misteriosas pinturas. Al recitar sus palabras, se les concede todo aquello que siempre han deseado... a costa de sus almas.",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/La.maldicion.de.la.reina.de.picas.-2019.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra L, Spain, ",
+			"name": "La ultima cena (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/3z4iGRT5OcjJynf6YPnVCe8qMA.jpg",
+			"info": "Una cena entre amigos en la que el alcohol, las drogas, un caso de corrupción y una visita inesperada convertirán la noche en un encuentro salvaje, donde el espectador será un invitado más.",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/La.ultima.cena.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Aventuras, 1Fantastico, A2021, Letra H, Reino Unido, Netflix, ",
+			"name": "Hilda y el rey de la montaña (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/3vm7LOe7DhkiA7umBhslQy9MdkY.jpg",
+			"info": "Cuando Hilda se despierta convertida en trol, debe usar todo su ingenio y valentía para volver a casa, transformarse en humana otra vez y salvar la ciudad de Trolberg",
+			"genero": "Animacion, Aventuras, Fantastico",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Hilda.y.el.rey.de.la.montana.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, A2021, Letra E, Sudafrica, Netflix, ",
+			"name": "Equipo foca (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/sQCMdk3l2XQMSQ07UOQpW9q9reu.jpg",
+			"info": "Después de que su mejor amigo muere en un ataque de tiburón, Quinn, una adorable pero tenaz foca, reúne un EQUIPO SEAL para luchar contra una banda de tiburones que se apodera del vecindario. Pero esta alegre banda de focas internacionales no está en absoluto entrenada para tal misión.",
+			"genero": "Animacion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Equipo.foca.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Thriller, A2021, Letra G, EEUU, ",
+			"name": "Gunpowder Milkshake (Coctel Explosivo) (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/kEbURPatbWfvUbvgEDfCpmK78Tt.jpg",
+			"info": "Eva (Karen Gillan) era lo más importante en la turbulenta vida de su madre, Scarlet (Lena Headey). Pero sus enemigos obligaron a Scarlet a huir abandonándolo todo, incluida a su hija. Años más tarde, Eva se convierte en una asesina a sangre fría siguiendo los pasos de su madre. Después de perder el control en una misión, poniendo a una inocente niña de 8 años en peligro, Eva no tiene más remedio que enfrentarse sin escrúpulos a sus antiguos compinches. Y Scarlet y su banda no tienen más remedio que volver para intentar ayudarla",
+			"genero": "Accion, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Gunpowder.Milkshake-Coctel.Explosivo.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra W, EEUU, 1Biografico, ",
+			"name": "Worth (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/rukf2HxdOcpL6hNswFmbHrrZJ5T.jpg",
+			"info": "Kenneth Feinberg (Michael Keaton), un poderoso abogado de Washington D. C. que recibe el reconocimiento de "Special Master" por la fundación 9/11, se dedica a luchar contra el cinismo, la burocracia y la política relacionada con la administración de fondos públicos. Su batalla le lleva a descubrir el verdadero significado de la vida. Basada en hechos reales",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Worth.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Thriller, A2021, Letra I, EEUU, ",
+			"name": "Instinto peligroso (Dangerous) (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/zG48yMURtIivDmxDczLQXqENyzx.jpg",
+			"info": "Un sociópata reformado viaja a una isla remota para investigar el misterio detrás de la desaparición de su hermano, pero pronto termina enfrentándose con más de lo que esperaba",
+			"genero": "Accion, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Instinto.peligroso.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra E, Spain, ",
+			"name": "El refugio (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/rqUUraBnCuGrLJQO6JVO52ezz4W.jpg",
+			"info": "Una estrella del cine en horas bajas y un galán emergente (muy bien acompañado) que amenaza con desplazar al anterior gracias a las artimañas del agente de ambos; la dueña del hotel de alta montaña y su alocada hermana, propulsora de una nueva y peculiar disciplina mezcla de yoga y fengshui; un grupo de niños con ganas de divertirse, pero también de descubrir secretos ocultos; un botones taciturno que todo lo ve; y un tremendo temporal que les dejará aislados días antes de Navidad... Un fin de semana en el que todo puede pasar... ¡y en el que pasará de todo!",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.refugio.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Thriller, A2021, Letra H, Reino Unido, ",
+			"name": "Hierve (Boiling Point) (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/s4HIJSLF072XCsqqEJk6JVT8rtC.jpg",
+			"info": "En la noche más concurrida del año en uno de los restaurantes de moda en Londres, el carismático jefe de cocina Andy Jones trata de no derrumbarse ante una crisis personal y profesional que podría destruir todo aquello por lo que ha trabajado. La inesperada visita de un inspector de sanidad y seguridad alimentaria aumenta la presión sobre el personal mientras no dejan de llegar más y más clientes. Andy abronca y engatusa a su equipo indistintamente, haciendo todo lo posible para disipar las tensiones entre la gerencia y los trabajadores, mientras atiende a las ridículas demandas de sus clientes.",
+			"genero": "Drama, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Hierve-Boiling.Point-.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Romance, A2021, Letra T, Italia, ",
+			"name": "Time Is Up (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/5KHZRU8SCKMfKyzJEMVcPk6DNY5.jpg",
+			"info": "Un accidente obliga a Vivien y Royan a reajustar sus vidas poco a poco y a empezar a vivir en un presente que quizá se muestre más estimulante que todo lo predefinido.",
+			"genero": "Drama, Romance",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Time.Is.Up.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Romance, A2021, Letra U, Canada, Telefilm, ",
+			"name": "Unas Navidades junto a ti (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/3EgflXFCqidYysiPD3cq8jQCS1I.jpg",
+			"info": "Durante la temporada navideña, Megan y su figura paterna Frank salen en un viaje por carretera para encontrar a un amor perdido hace mucho tiempo. ¿Encontrará Megan el amor de su vida en el camino?",
+			"genero": "Drama, Romance",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Unas.Navidades.junto.a.ti.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Fantastico, 1Ciencia ficcion, 1Comedia, 1Drama, 1Romance, A2020, Letra S, Japon, ",
+			"name": "Stand By Me Doraemon 2 (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/gyjhwst3SXH0jysklBbjyegQUxY.jpg",
+			"info": "Nobita viaja con Doraemon al pasado para reencontrarse con su abuela, ya fallecida en el presente. Secuela de la película 'Stand by Me Doraemon' y a su vez, remake del mediometraje 'Doraemon: Obachan no Omoide'.",
+			"genero": "Animacion, Fantastico, Ciencia ficcion, Comedia, Drama, Romance",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Stand.By.Me.Doraemon.2.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Romance, A2021, Letra L, Brasil, Netflix, ",
+			"name": "Lulli (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/cccz8Rgl929rNoLm5lu2pCTAq32.jpg",
+			"info": "Una ambiciosa estudiante de Medicina empieza a oír los pensamientos ajenos después de electrocutarse con una máquina de resonancia magnética.",
+			"genero": "Comedia, Romance",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Lulli.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2019, Letra T, Reino Unido, ",
 			"name": "The Jack In The Box (2019)","coloryear": "limegreen",
 			"image": "https://www.themoviedb.org/t/p/original/k9jjRRg9Ht7oYuMTBW0JTaXDfCj.jpg",
@@ -189,7 +384,7 @@
 			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2020, Letra B, Canada, ",
-			"name": "Butchers (2020)","coloryear": "coloryear",
+			"name": "Butchers (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/9kqcXpAEgYYyVuDV0186QFFVoZY.jpg",
 			"info": "Un coche se estropea en mitad de la nada, dejando a cuatro jóvenes adolescentes a merced de un grupo de sadísticos carniceros",
 			"genero": "Terror",
@@ -201,7 +396,7 @@
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Drama, A2021, Letra E, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Drama, A2021, Letra E, EEUU, ",
 			"name": "El canto del cisne (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/6eZFP2oVOwt9n46XI7RL3rZvgi4.jpg",
 			"info": "Ambientada en un futuro cercano, narra la historia de Cameron (Mahershala Ali), amante esposo y padre de familia al que diagnostican una enfermedad terminal, y a quien su médico (Glenn Close) ofrece una solución alternativa que podría evitarle a su familia el dolor del duelo. Mientras Cam decide sobre si debe alterar o no el destino de su familia, aprenderá más sobre la vida y el amor de lo que jamás hubiera imaginado",
@@ -214,7 +409,7 @@
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Aventuras, 1Fantastico, 1Accion, A2021, Letra L, EEUU, Netflix, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Aventuras, 1Fantastico, 1Accion, A2021, Letra L, EEUU, Netflix, ",
 			"name": "L.O.L. Surprise! La pelicula (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/A2ltbgb7tUwUh30Uyioyso0wuH5.jpg",
 			"info": "Queen Bee está haciendo una película con su hermana mayor, Royal Bee. Pero el gran estreno está sucediendo esta misma noche. ¿Terminará el equipo su película a tiempo?",
@@ -240,7 +435,7 @@
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Romance, A2021, Letra N, EEUU, Netflix, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Romance, A2021, Letra N, EEUU, Netflix, ",
 			"name": "Navidades en California: Luces de la ciudad (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/bzlSEp9I8ANpeOJ1AgHGklKxDCT.jpg",
 			"info": "Un año después del inicio de su romance, Callie y Joseph dejan el rancho para atender asuntos familiares en San Francisco. Suenan campanas de boda...",
@@ -253,7 +448,7 @@
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra S, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra S, EEUU, ",
 			"name": "Santos Criminales (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/b9QPICVzPQWsG5k0R2eAhpBnWbr.jpg",
 			"info": "Precuela de la aclamada serie 'Los Soprano', centrada en la juventud del gángster de Nueva Jersey Tony Soprano. El guión de la película ha sido escrito por David Chase, el creador de la serie original de HBO",
@@ -1774,7 +1969,7 @@
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 1Torrent4k, 1Terror, 1Suspense, A2021, Letra C, Estados Unidos, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Terror, 1Suspense, A2021, Letra C, Estados Unidos, ",
 			"name": "Candyman (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/40FuQAiHjCvh9fYFigGAVWJ6Czu.jpg",
 			"info": "Desde tiempos inmemoriales, los proyectos residenciales del barrio de Cabrini Green en Chicago se han visto amenazados por la historia de un supuesto asesino en serie con un gancho por mano al que se invoca fácilmente repitiendo su nombre cinco veces frente a un espejo. Hoy, una década después de que la última torre de Cabrini fuese derruída, el artista visual Anthony McCoy (Yahya Abdul-Mateen) y su novia Brianna Cartwright (Teyonah Parris), se mudan a un apartamento de lujo de un barrio ahora irreconocible, repleto de millennials y de personas que, por lo general, desconocen su oscuro pasado.",
@@ -1787,7 +1982,7 @@
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Crimen, 1Drama, 1Suspense, 1Misterio, A2021, Letra S, Estados Unidos, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Crimen, 1Drama, 1Suspense, 1Misterio, A2021, Letra S, Estados Unidos, ",
 			"name": "Ni un paso en falso (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/g6Ifj8RJY39luVKweFvhP9hDOfo.jpg",
 			"info": "Detroit, año 1954. Unos delincuentes de poca monta son contratados para robar lo que ellos creen que es un simple documento y será un trabajo fácil. Cuando su plan no sale como ellos esperaban, emprenden la búsqueda de quien los contrató y del propósito real para el que fueron contratados.",
@@ -1800,7 +1995,7 @@
 			]
 			},	
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra O, Spain, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra O, Spain, ",
 			"name": "Operacion Camaron (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/daZdqTxFj3lZjKPbouG9vbqVfkf.jpg",
 			"info": "Desconocido en el mundo del hampa, con aspecto de pringado y dotes de concertista clásico, Sebas, un policía novato, es perfecto para una peligrosa misión: infiltrarse como teclista en 'Los Lolos', una banda hortera de flamenco-trap que va a tocar en la boda de la hija de un traficante local...",
@@ -1813,7 +2008,7 @@
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Romance, A2021, Letra N, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Romance, A2021, Letra N, EEUU, ",
 			"name": "Needle In a Timestack (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/jC2aqSgxaBsZEQwtOc1eEkIufIG.jpg",
 			"info": "Nick y Janine viven en la felicidad conyugal hasta que el exmarido de Janine distorsiona el tiempo para intentar separarlos. A medida que los recuerdos de Nick desaparecen, debe decidir qué está dispuesto a sacrificar para conservar -o dejar ir- todo lo que ama.",
@@ -1826,7 +2021,7 @@
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, A2021, Letra B, Canada, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, A2021, Letra B, Canada, ",
 			"name": "Best Sellers (2021)","coloryear": "cyan",
 			"image": "https://i.imgur.com/xK8rT45.jpg",
 			"info": "La joven Lucy Standbridge (Aubrey Plaza) ha heredado la editorial de su padre, pero su ambición como editora la está hundiendo con varios títulos fallidos. Desesperada, un día Lucy descubre que el escritor Harris Shaw (Michael Caine), un autor solitario, cascarrabias y alcohólico que fue un gran éxito de ventas décadas antes, tiene por contrato con la editorial todavía un libro por entregar. En un último esfuerzo por salvar la empresa, Lucy obligará a Harris a lanzar un nuevo libro, embarcándose ambos en una gira de promoción que les cambiará de una manera que no esperaban",
@@ -1839,7 +2034,7 @@
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Aventuras, 1Drama, A2021, Letra D, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Aventuras, 1Drama, A2021, Letra D, EEUU, ",
 			"name": "Dune (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/cH8Meyut6Nt2J30NGc9SmHfFs6Z.jpg",
 			"info": "Arrakis, el planeta del desierto, feudo de la familia Harkonnen desde hace generaciones, queda en manos de la Casa de los Atreides después de que el emperador ceda a ésta la explotación de las reservas de especia, una de las materias primas más valiosas de la galaxia y también una droga capaz de amplificar la conciencia y extender la vida. El duque Leto (Oscar Isaac), la dama Jessica (Rebecca Ferguson) y el hijo de ambos, Paul Atreides (Timothée Chalamet), llegan al planeta con la esperanza de recuperar el renombre de su casa, pero pronto se verán envueltos en una trama de traiciones y engaños que les llevarán a cuestionar su confianza entre sus más allegados y a valorar a los lugareños, los Fremen, una estirpe de habitantes del desierto con una estrecha relación con la especia",
@@ -1852,7 +2047,7 @@
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Fantastico, 1Terror, A2021, Letra M, EEUU, Disney, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Fantastico, 1Terror, A2021, Letra M, EEUU, Disney, ",
 			"name": "¡Menuda momia! (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/bTlQchCU05xJZyn4Va8gHkTeayu.jpg",
 			"info": "Tres amigos intentan salvar a su amigo momificado, Harold, de los criminales codiciosos devolviéndolo a su lugar de descanso antes de la medianoche de Halloween",
@@ -1865,7 +2060,7 @@
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Romance, A2021, Letra E, Spain, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Romance, A2021, Letra E, Spain, ",
 			"name": "Este amor es de otro planeta (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/1bdjpX9l2tueek5gUOm7LntLXMX.jpg",
 			"info": "Iván, un joven empresario, decide pedirle matrimonio a su novia Natalia, con la que lleva saliendo solo desde hace unos meses. Ella, una creativa e inteligente artista, está dispuesta a decir que sí, pero con una condición: antes debe conocer a su familia y que ellos le den el visto bueno. Iván y Natalia viajan a un pequeño pueblo para hacer las presentaciones, pero hay sorpresas. Iván deberá luchar contra todo tipo de contratiempos para llegar a la conclusión de que, al fin y al cabo, todos estamos un poco locos.",
@@ -1878,7 +2073,7 @@
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Fantastico, A2020, Letra NUM, Reino Unido, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Fantastico, A2020, Letra NUM, Reino Unido, ",
 			"name": "4 chicos y 'Esto' (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/pJgb4D5oBpbczg8DdEip5Q6AmKP.jpg",
 			"info": "Un grupo de niños que pasa unos días de vacaciones en la ciudad de Cornwall descubren en la playa a un ser mágico con el poder de hacer sus sueños realidad",
@@ -1891,7 +2086,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Suspense, 1Terror, A2021, Letra C, Estados Unidos, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Suspense, 1Terror, A2021, Letra C, Estados Unidos, ",
      			"name": "Caged (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/gkBGXYNXWhcW7VI9POpeLLNgtSd.jpg",
       			"info": "Un hombre afroamericano es encarcelado y puesto en confinamiento solitario después de ser declarado culpable de asesinar a su esposa, ya que es perseguido por demonios internos y su esposa muerta, y empujado al límite por una guardia abusiva.",
@@ -1904,7 +2099,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Acción, 1Comedia, 1Crimen, A2020, Letra L, Estados Unidos, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Acción, 1Comedia, 1Crimen, A2020, Letra L, Estados Unidos, ",
      			"name": "La última gran estafa (2020)","coloryear": "magenta",
       			"image": "https://www.themoviedb.org/t/p/original/t8MS3MdQZa9UOdAcXx6lfCD7TiY.jpg",
       			"info": "Después de sus últimas bombas cinematográficas, el productor Max Barber crea una nueva película, todo para matar a su protagonista, Duke Montana, en un truco para el seguro. Pero cuando Duke no puede ser asesinado en un truco básico, Max lo pone en situaciones más peligrosas.",
@@ -1917,7 +2112,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Suspense, A2020, Letra C, Canadá, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Suspense, A2020, Letra C, Canadá, ",
      			"name": "Cazador contra cazador (2020)","coloryear": "magenta",
       			"image": "https://www.themoviedb.org/t/p/original/802FNSGXv4RUXZ9Jn3a9CnK3UGY.jpg",
       			"info": "Joseph y su familia viven en un lugar remoto como cazadores de pieles, hasta que su tranquilidad empieza a ser amenazada por un lobo.",
@@ -1930,7 +2125,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2021, Letra T, Francia, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2021, Letra T, Francia, ",
      			"name": "Bloodthirsty (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/5bGQYPGE4Ndb98XDRUJW25h0LFC.jpg",
       			"info": "Grey (Lauren Beatty) es una joven cantante cuya medicación no impide que sueñe cada noche que es un lobo. Al menos hasta que, tras el éxito de su primer disco, recibe la invitación por parte de un famoso productor de música para trabajar con él en su remota mansión en el bosque.",
@@ -1943,7 +2138,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Crimen, 1Drama, 1Historia, A2021, Letra T, Francia, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Crimen, 1Drama, 1Historia, A2021, Letra T, Francia, ",
      			"name": "Ted Bundy. En la mente del asesino (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/b3pqILrJUQpiA6Mzn17fqjVDMnn.jpg",
       			"info": "Basado en transcripciones de la vida real extraídas de conversaciones entre el analista del FBI Bill Hagmaier y el asesino en serie Ted Bundy que tuvieron lugar entre 1984 y 1989, No Man of God detalla la complicada relación que se formó entre los dos hombres durante los últimos años de Bundy en el corredor de la muerte.",
@@ -1956,7 +2151,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra C, Francia, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra C, Francia, ",
      			"name": "Calle de la Humanidad, 8 (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/tiV7YjF15hbqFW8rM4pYLbEo6pz.jpg",
       			"info": "Siete familias viven en el edificio de apartamentos parisino en el número 8 de la Rue de l’Humanite, y no escaparon al campo cuando llegó el coronavirus. Tres meses de vida bajo llave revelarán lo mejor y lo peor de estos vecinos.",
@@ -1969,7 +2164,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Suspense, 1Acción, 1Fantasía, A2021, Letra F, Estados Unidos, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Suspense, 1Acción, 1Fantasía, A2021, Letra F, Estados Unidos, ",
      			"name": "Fauces de la noche (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/kVEUyxlHidvk5K8viOwMKtPNCNf.jpg",
       			"info": "Un joven conductor recoge a dos mujeres misteriosas para una noche de fiesta. Pero cuando sus pasajeros revelan su verdadera naturaleza, debe luchar para mantenerse con vida.",
@@ -1982,7 +2177,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2021, Letra S, Estados Unidos, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2021, Letra S, Estados Unidos, ",
      			"name": "Separation (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/u97rvkruZxoIUio3r3ZySFETHB7.jpg",
       			"info": "Una joven encuentra consuelo en su padre artista y en el fantasma de su madre muerta.",
@@ -1995,7 +2190,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Comedia, A2021, Letra P, Estados Unidos, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Comedia, A2021, Letra P, Estados Unidos, ",
      			"name": "Popular (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/rT36y44YaNMdfpXeXsBBmfno53W.jpg",
       			"info": "Una joven encuentra un camino hacia el estrellato en Internet cuando comienza a hacer videos con un extraño carismático.",
@@ -2008,7 +2203,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Romance, A2021, Letra A, Estados Unidos, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Romance, A2021, Letra A, Estados Unidos, ",
      			"name": "Allí me encontrarás (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/nRR9d7g83shu1Cd4GhoIKloqmQR.jpg",
       			"info": "Finley, una talentosa y aspirante a violinista, conoce a Beckett, una famosa joven estrella de cine, de camino a su programa de semestre universitario en el extranjero en un pequeño pueblo costero de Irlanda. Un romance inesperado surge cuando el rompecorazones Beckett conduce al tenso Finley a un despertar aventurero, y ella lo anima a hacerse cargo de su futuro, hasta que las presiones de su estrellato se interponen en el camino.",
@@ -2021,7 +2216,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficción, 1Acción, A2021, Letra O, Australia, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficción, 1Acción, A2021, Letra O, Australia, ",
      			"name": "Ocupación: Proyecto Lluvia (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/w220_and_h330_face/vpq8XjZ3ZalcbqWOYIdqcV7FbIJ.jpg",
       			"info": "Dos años después de una invasión intergaláctica de la Tierra, los sobrevivientes en Sydney, Australia, luchan en una desesperada guerra terrestre. A medida que las bajas aumentan día a día, la resistencia y sus inesperados aliados descubren un complot que podría hacer que la guerra llegue a un final decisivo. Con los invasores alienígenas empeñados en hacer de la Tierra su nuevo hogar, comienza la carrera para salvar a la humanidad.",
@@ -2034,7 +2229,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Suspense, 1Misterio, A2019, Letra L, Indonesia, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Suspense, 1Misterio, A2019, Letra L, Indonesia, ",
      			"name": "La mujer del infierno (2019)","coloryear": "limegreen",
       			"image": "https://www.themoviedb.org/t/p/original/bYEhvqtNaphr2vS3uut6YxGCnT0.jpg",
       			"info": "Atraída por una promesa de herencia, una joven regresa a la aldea donde nació. Sin que ella lo supiera, los aldeanos esconden un plan siniestro, uno que puede requerir su propia muerte.",
@@ -2047,7 +2242,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra N, México, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra N, México, ",
      			"name": "Ni tuyo, Ni mía (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/6fFrpmf0mQtnQK9TUYCkfNkyIqO.jpg",
       			"info": "Amanda se da cuenta de que su perfecto marido está teniendo una aventura. En lugar de confrontarlo, se une al amante de su esposo para comprender qué salió mal y reconquistarlo.",
@@ -2060,7 +2255,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Suspense, 1Drama, A2021, Letra D, Perú, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Suspense, 1Drama, A2021, Letra D, Perú, ",
      			"name": "Distancia de rescate (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/wdnCBg9GdJfQ8GjILdMAi0cgEQ1.jpg",
       			"info": "Una mujer llamada Amanda pasa las vacaciones en un tranquilo pueblo argentino con su pequeña hija, Nina. Siempre preocupada por el bienestar de su hija, calcula constantemente la distancia de rescate necesaria para protegerla. Pronto descubre que las cosas que la rodean no son como parecen.",
@@ -2073,7 +2268,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Bélica, 1Historia, A2020, Letra L, Países Bajos, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Bélica, 1Historia, A2020, Letra L, Países Bajos, ",
      			"name": "La batalla olvidada (2020)","coloryear": "magenta",
       			"image": "https://www.themoviedb.org/t/p/original/fd201LAoF9WlhaOsuHMFMR6sDR0.jpg",
       			"info": "Noviembre de 1944. En la isla inundada de Walcheren, Zelanda, miles de soldados aliados luchan contra el ejército alemán. Tres vidas jóvenes están inextricablemente conectadas. Un niño holandés que lucha por los alemanes, un piloto de planeador inglés y una niña de Zelanda conectada a la resistencia contra su voluntad, se ven obligados a tomar decisiones cruciales que afectan tanto su propia libertad como la libertad de los demás.",
@@ -2086,7 +2281,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Romance, 1Drama, A2021, Letra C, Alemania, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Romance, 1Drama, A2021, Letra C, Alemania, ",
      			"name": "Cuatro por cuatro (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/aa6cxHyZpbczm4EekCVUHZH7lg0.jpg",
       			"info": "Después de que su intercambio de parejas da un giro, cuatro amigos llegan a una playa remota para afrontar las repercusiones y dejar salir las verdades más profundas.",
@@ -2099,7 +2294,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Acción, 1Comedia, 1Suspense, A2021, Letra E, Noruega, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Acción, 1Comedia, 1Suspense, A2021, Letra E, Noruega, ",
      			"name": "El viaje (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/5L3vyhkKqPC1tv9lja3VZMKS5n0.jpg",
       			"info": "A Lars (Aksel Hennie) y Lisa (Noomi Rapace) se les acabó el amor que los unió en un principio. Ahora, luchan por mantener su matrimonio y sus ambiciones. La carrera de Lars como director se ha estancado en las telenovelas y Lisa no ha conseguido ningún papel desde hace años. Lars se siente ignorado, sospecha que lo están engañando y está pasando por dificultades económicas. Lisa cree que Lars es un cobarde egocéntrico que se ha echado a perder. Nada en sus vidas ha acabado como pensaban; mucho menos su matrimonio. Es por eso por lo que un viaje de fin de semana a una cabaña familiar en el bosque parece brindarles una oportunidad para deshacerse del otro. Para siempre.",
@@ -2112,7 +2307,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Acción, 1Suspense, A2021, Letra L, Estados Unidos, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Acción, 1Suspense, A2021, Letra L, Estados Unidos, ",
      			"name": "La purga: infinita (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/5yvawJviOjb2nUFvHGXcCpGVTqy.jpg",
       			"info": "Para los miembros de un movimiento clandestino, ya no es suficiente una noche anual de anarquía y asesinatos, así que deciden devolver a Estados Unidos el caos y las masacres sin fin, donde nadie volverá a estar a salvo... jamás. Adela y su esposo Juan viven en Texas, donde él trabaja como peón en un rancho para la adinerada familia Tucker. En la mañana después de la tradicional purga, una banda de asesinos enmascarados ataca violenta e ilegalmente a la familia Tucker. Tras este hecho, la familia texana se ve obligada a unirse con Juan y su esposa para enfrentar un país entero a punto de colapsar, que se hunde en un mar de caos y de sangre. Quinta y última entrega de la saga 'The Purge'.",
@@ -2125,7 +2320,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, A2020, Letra B, Alemania, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, A2020, Letra B, Alemania, ",
      			"name": "Bésame Kosher (2020)","coloryear": "magenta",
       			"image": "https://www.themoviedb.org/t/p/original/rCYMC2QWFUraCezmqeeJ8at1hnO.jpg",
       			"info": "Las aventuras y desventuras de un amor que traspasa fronteras, culturas y prejuicios son las protagonistas de esta tierna y divertida comedia germanoisraelí en la que dos mujeres de la misma familia, pero de dos generaciones diferentes, tienen que enfrentarse a todo tipo de obstáculos para defender el amor por sus parejas.Una de ellas es Shira, una alocada joven israelí que decide presentarle a su familia, a la que está muy unida, a su novia María. La otra es la abuela de Shira, una mujer de ideas tan abiertas como para tener un novio palestino... pero no para aceptar que su nieta sea lesbiana.",
@@ -2138,7 +2333,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animación, 1Aventura, 1Familia, 1Western, A2021, Letra S, Estados Unidos, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animación, 1Aventura, 1Familia, 1Western, A2021, Letra S, Estados Unidos, ",
      			"name": "Spirit - Indomable (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/bSkqrecf1g2d0h9z0oJlgxXVHwt.jpg",
       			"info": "La vida de Lucky Prescott cambia para siempre cuando se muda de su casa en la gran ciudad a un pequeño pueblo fronterizo en el que entabla amistad con un caballo salvaje llamado Spirit.",
@@ -2151,7 +2346,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra S, España, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra S, España, ",
      			"name": "Solo una vez (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/xdUvxxTSzZYz2LeSbyEld7JZYmp.jpg",
       			"info": "Laura, una psicóloga del servicio de atención a las mujeres que sufren violencia de género, hace unas semanas que es acosada por el marido de una de sus pacientes. En esta situación, debe tratar una pareja que nunca ha puesto los pies en un centro de este tipo: Eva y Pablo. Por una serie de malentendidos él ha recibido una denuncia, pero afirma con contundencia no ser ningún maltratador.",
@@ -2164,7 +2359,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Suspense, A2021, Letra L, Estados Unidos, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Suspense, A2021, Letra L, Estados Unidos, ",
      			"name": "La interpretación de Rose (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/7jUp5ZCxVTapjMlL1JH0Qoy36LA.jpg",
       			"info": "Una niña adoptada de Dublín se propone encontrar a su madre biológica en Londres, a pesar de saber que la mujer no desea reunirse con ella.",
@@ -2177,7 +2372,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficción, 1Acción, 1Suspense, A2021, Letra I, Estados Unidos, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficción, 1Acción, 1Suspense, A2021, Letra I, Estados Unidos, ",
      			"name": "Infinite (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/niw2AKHz6XmwiRMLWaoyAOAti0G.jpg",
       			"info": "Evan McCauley tiene habilidades que nunca aprendió y recuerdos de lugares que nunca ha visitado. Automedicado y al borde de un colapso mental, un grupo secreto que se hace llamar "Infinitos" acuden a su rescate, revelando que sus recuerdos son reales.",
@@ -2190,7 +2385,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficción, 1Suspense, 1Misterio, A2021, Letra Z, Estados Unidos, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficción, 1Suspense, 1Misterio, A2021, Letra Z, Estados Unidos, ",
      			"name": "Zone 414 (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/vwkKtvsjI1l3jPFWQfzYpZ7WVUm.jpg",
       			"info": "En un futuro cercano, en una colonia de robots de última generación, el creador de la colonia contrata a un investigador privado para llevar a casa a su hija desaparecida.",
@@ -2203,7 +2398,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Bélica, 1Historia, 1Drama, 1Acción, A2020, Letra L, Estados Unidos, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Bélica, 1Historia, 1Drama, 1Acción, A2020, Letra L, Estados Unidos, ",
      			"name": "Los 800 (2020)","coloryear": "magenta",
       			"image": "https://www.themoviedb.org/t/p/original/8kwsdVNBTZyNQ8s4LFqR10fOvk1.jpg",
       			"info": "En 1937, ochocientos soldados chinos luchan bajo el asedio en Shanghai, desde un almacén en medio del campo de batalla, completamente rodeados por el ejército japonés.",  
@@ -2216,7 +2411,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Suspense, 1Misterio, A2021, Letra E, Estados Unidos, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Suspense, 1Misterio, A2021, Letra E, Estados Unidos, ",
      			"name": "Escape Room 2: Mueres por salir (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/hBD44n4mmcckzM7rDgB3CGi12f7.jpg",
       			"info": "Seis personas se encuentran encerradas de manera inesperada en una nueva serie de escape rooms, revelando paulatinamente aquello que tienen en común para sobrevivir… y descubriendo que todos ya habían jugado el juego con anterioridad.",  
@@ -2229,7 +2424,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Terror, A2021, Letra U, Estados Unidos, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Terror, A2021, Letra U, Estados Unidos, ",
      			"name": "Un hombre lobo entre nosotros (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/4RkdBAVn3hbNWiXWinvYtkqVXZB.jpg",
       			"info": "Cuando un oleoducto propuesto crea hostilidades entre los residentes de una pequeña ciudad, un guardabosques recién llegado debe mantener la paz después de que una tormenta de nieve confina a la gente del pueblo en un antiguo albergue. Pero cuando una criatura misteriosa comienza a aterrorizar al grupo, sus peores tendencias y prejuicios salen a la superficie, y el guardabosques debe mantener con vida a los residentes, tanto entre ellos como con el monstruo que los atormenta.",  
@@ -2242,7 +2437,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra E, Reino Unido, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra E, Reino Unido, ",
      			"name": "El Ingles Que Cogio La Maleta y Se Fue Al Fin Del Mundo (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/6aa7fT7qkXtFBXnW2FwwojwNHET.jpg",
       			"info": "Tom (Timothy Spall), un jubilado cuya esposa acaba de fallecer, viaja desde el punto más al norte de Gran Bretaña, John O'Groats, hasta su ciudad natal que se encuentra en el punto más al sur del país, utilizando su pase gratuito de autobús. Lleva consigo las cenizas de su esposa en una pequeña maleta, recorriendo todo el país para llevarla de regreso a casa. En el camino, sus aventuras son registradas por las personas que conoce y ayuda, y al final de su viaje, sin saberlo, se ha convertido en una celebridad de las redes sociales.",  
@@ -2255,7 +2450,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Crimen, A2021, Letra C, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Crimen, A2021, Letra C, Spain, ",
      			"name": "Cuñados (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/34mk9BfGmIjERETs4JLBhS6ifxr.jpg",
       			"info": "Después de sufrir un derrame cerebral, Judith Albright se muda a un histórico asilo de ancianos, donde comienza a sospechar que algo sobrenatural se está aprovechando de los residentes. Para escapar, tendrá que convencer a todos los que la rodean de que, después de todo, no pertenece allí.",  
@@ -2268,7 +2463,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2021, Letra T, EEUU, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2021, Letra T, EEUU, ",
      			"name": "The Manor (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/i4Nva627Xd5KDwUbeX4ilfzFWit.jpg",
       			"info": "Eduardo (Miguel de Lira) y su cuñado Sabonis (Xosé A. Touriñán) acaban de meter la pata en uno de sus negocios y necesitan dinero. Mucho dinero. Será Sabonis quien encuentre la solución al problema secuestrando a Modesto (Federico Pérez Rey), cuñado de Alicia Zamora, la empresaria que les engañó y dejó tirados. Solo hay un pequeño problema: Alicia no piensa pagar ni un euro por su cuñado. Sin embargo, es el propio Modesto quien urde un nuevo plan con el que Eduardo y Sabonis podrán salvar la bodega familiar. Estos tres cuñados lo tienen todo para fracasar, pero como diría Sabonis, malo será.",  
@@ -2281,7 +2476,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2021, Letra M, EEUU, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2021, Letra M, EEUU, ",
      			"name": "Madres (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/ouo2zyhk3mb7UXuIr0NUVmSaAVB.jpg",
       			"info": "Una pareja mexicano-estadounidense que espera su primer hijo se muda a una comunidad agrícola migrante en la California de 1970. Cuando la esposa comienza a experimentar síntomas extraños y visiones aterradoras, intenta determinar si está relacionado con una maldición legendaria o algo más nefasto.",  
@@ -2294,7 +2489,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Acción, 1Comedia, 1Suspense, A2021, Letra E, EEUU, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Acción, 1Comedia, 1Suspense, A2021, Letra E, EEUU, ",
      			"name": "El otro guardaespaldas 2 (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/lKAVUfLbRgjbhluFlXw6s2pcpoR.jpg",
       			"info": "La pareja más letal del mundo, el guardaespaldas Michael Bryce y el asesino a sueldo Darius Kincaid, están de vuelta en otra misión que amenaza su vida. Aún sin licencia y bajo escrutinio, Bryce se ve obligado a actuar por la esposa aún más volátil de Darius, la infame estafadora internacional Sonia Kincaid. Mientras Bryce es conducido al límite por sus dos protegidos más peligrosos, el trío se mete en la cabeza en una trama global y pronto descubre que son todo lo que se interpone entre Europa y un loco vengativo y poderoso.",  
@@ -2307,7 +2502,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Misterio, A2020, Letra T, EEUU, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Misterio, A2020, Letra T, EEUU, ",
      			"name": "The Night (Aan Shab) (2020)","coloryear": "magenta",
       			"image": "https://www.themoviedb.org/t/p/original/8jokpQWL2WVVvTU7aflvgjazrpE.jpg",
       			"info": "Una pareja iraní residente en Estados Unidos queda atrapada en el interior de un hotel cuando sucesos insidiosos les obligan a afrontar los secretos que se han interpuesto entre ellos, en una noche que nunca acaba.",  
@@ -2320,7 +2515,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Historia, A2019, Letra L, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Historia, A2019, Letra L, ",
      			"name": "La Leyenda de Tomiris (2019)","coloryear": "limegreen",
       			"image": "https://www.themoviedb.org/t/p/original/7sxgLlJpDqDvc6OGttUtaKGpaDO.jpg",
       			"info": "Esta es la historia de la vida de la gran reina de la estepa, la legendaria Tomiris. Ella está destinada a convertirse en una hábil guerrera, sobrevivir a la pérdida de personas cercanas y unir a las tribus escita / saka bajo su autoridad.",  
@@ -2333,7 +2528,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Historia, A2020, Letra T, Dinamarca, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Historia, A2020, Letra T, Dinamarca, ",
      			"name": "The Good Traitor (El embajador Kauffmann) (2020)","coloryear": "magenta",
       			"image": "https://www.themoviedb.org/t/p/original/qj20JudQ9Zv9XDGOGm4WlBF7W3y.jpg",
       			"info": "Henrik Kauffmann fue embajador de Dinamarca en Washington en 1939 cuando comenzó la Segunda Guerra Mundial y se declaró a sí mismo como el único verdadero representante de una Dinamarca libre en oposición a los nazis.",  
@@ -2346,7 +2541,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Romance, A2020, Letra H, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Romance, A2020, Letra H, Spain, ",
      			"name": "Helene (2020)","coloryear": "magenta",
       			"image": "https://www.themoviedb.org/t/p/original/ko1YlDMRaJZbkXFBcDGGA4mhJVa.jpg",
       			"info": "Año 1915. Helene Schjerfbeck vive como artista olvidada con su anciana madre en el campo. Han pasado años desde la última exhibición, y Helene continúa pintando solo por su pasión. Todo cambia cuando un marchante de arte encuentra a Helen y sus 159 maravillosas pinturas, y quiere organizar una gran exposición privada. Sin embargo, el punto de inflexión de Helen llega solo cuando le presentan a Einar Reuter. El joven Einar es un forestal, un entusiasta del arte y un apasionado admirador del trabajo de Helene. Se convierte en el amante y de confianza de Helen.",  
@@ -2359,7 +2554,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Suspense, 1Acción, 1Terror, A2021, Letra H, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Suspense, 1Acción, 1Terror, A2021, Letra H, Spain, ",
      			"name": "Hunted (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/zKFm6Kiq8icatgBCarkWTYeemh1.jpg",
       			"info": "Cuando Eve conoce a un chico en un bar, poco se espera lo que va a suceder esa noche. En realidad, se ha cruzado con un psicópata (y su muñeco), con el que se enzarza en una persecución nocturna y violenta. En medio del bosque, esta singular caperucita roja hará lo que sea para librarse de su particular lobo feroz.",  
@@ -2372,7 +2567,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animación, 1Acción, A2021, Letra T, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animación, 1Acción, A2021, Letra T, Spain, ",
      			"name": "The Seven Deadly Sins: Cursed By Light (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/k0ThmZQl5nHe4JefC2bXjqtgYp0.jpg",
       			"info": "Con la ayuda del Dragón Sin of Wrath Meliodas y los peores rebeldes de la historia, los Siete Pecados Capitales, la Guerra Santa, en la que cuatro razas, incluyendo Humanos, Diosas, Hadas y Gigantes lucharon contra los Demonios, finalmente se sobre. A costa de la vida de Escanor El pecado del orgullo del león, el Rey Demonio fue derrotado y el mundo recuperó la paz. Después de eso, cada uno de los pecados toma su propio camino.",  
@@ -2385,7 +2580,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Suspense, A2021, Letra A, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Suspense, A2021, Letra A, Spain, ",
      			"name": "A un paso de mí (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/sN8ER4M94v3qaKqTCngpNmAHXNg.jpg",
       			"info": "Tatiana, una periodista que atormentada por su realidad actual, decide emprender un viaje por Costa Rica para encontrar la paz y buscar la felicidad que tanto anhela.",  
@@ -2398,7 +2593,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Suspense, A2021, Letra H, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Suspense, A2021, Letra H, Spain, ",
      			"name": "Hay alguien en tu casa (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/qWvFtI8ivAqj0NXa8E8N0pK0LNr.jpg",
       			"info": "A medida que comienza la cuenta regresiva para la graduación, los estudiantes de Osborne High están siendo acosados por un maníaco que intenta exponer sus secretos más oscuros a toda la ciudad, aterrorizando a las víctimas mientras usan una máscara realista de su propio rostro. Con un pasado misterioso propio, Makani y sus amigos deben descubrir la identidad del asesino antes de que ellos mismos se conviertan en víctimas.",  
@@ -2411,7 +2606,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Suspense, A2021, Letra T, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Suspense, A2021, Letra T, Spain, ",
      			"name": "The Night House (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/rqs2CXpc4d5FzeP1EZCYItAVo81.jpg",
       			"info": "Mientras intenta superar la inesperada muerte de su marido, Beth (Rebecca Hall) se queda a solas en una casa cerca de un lago especialmente diseñada para ella. Aunque hace todo lo posible por no perder la cordura, los sueños no tardan en aparecer. Las perturbadoras visiones de una presencia que llama por ella en la casa comienzan a ser cada vez más frecuentes. Aunque a la luz del día todo parece normal, Beth empieza lentamente a desesperarse, por lo que decide ignorar el consejo de sus amigos e investiga en sus pertenencias tratando de encontrar alguna respuesta. Allí se topa no sólo con secretos tan extraños como terribles, sino también con un misterio que está dispuesta a resolver.",  
@@ -2424,7 +2619,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Historia, 1Música, 1Romance, 1Drama, A2021, Letra D, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Historia, 1Música, 1Romance, 1Drama, A2021, Letra D, Spain, ",
      			"name": "Diana: The Musical (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/d4TKGNC6rSSYgclfatBh2W45i3U.jpg",
       			"info": "Una princesa es lanzada al escenario mundial. Los medios sensacionalistas están cautivados por su belleza y vulnerabilidad. La monarquía más famosa del mundo se ve interrumpida. Esta es la historia de la mujer más princesa de la era moderna mientras lucha por soportar un foco de luz más brillante que cualquiera que el mundo haya conocido.",  
@@ -2437,7 +2632,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Acción, 1Comedia, 1Aventura, A2021, Letra M, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Acción, 1Comedia, 1Aventura, A2021, Letra M, Spain, ",
      			"name": "Matando Cabos 2, La Máscara del Máscara (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/ycKNJTFOLN5qRtA7uI2yk2cE3eU.jpg",
       			"info": "Ante la inesperada muerte de su padre separado -El Máscara- y el posterior robo de su preciosa máscara, Rubén -Mascarita- se verá confrontado con su pasado. Junto a su invencible guardaespaldas Tony El Caníbal y, un aliado inesperado, sólo tendrá un día para recuperarlo y hacer las paces con la memoria de su padre.",  
@@ -2450,7 +2645,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, A2019, Letra P, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, A2019, Letra P, Spain, ",
      			"name": "Planta permanente (2019)","coloryear": "limegreen",
       			"image": "https://www.themoviedb.org/t/p/original/nYZI5lg6r4QwdHpq1hkUJ57En4E.jpg",
       			"info": "Lila y Marcela trabajan desde siempre como personal de limpieza en una dependencia estatal. Conocen sus recovecos como nadie y se han inventado una forma de subsistencia –y un sueño– gestionando un comedor absolutamente irregular en un rincón abandonado del edificio. Pero los tiempos cambian: llega una nueva directora –con sus discursos cínicos, plagados de lugares comunes– y con ella las promesas vacías, el cierre del comedor y una ola de despidos que destruyen el precario equilibrio de la vida en el Estado y transforma las tareas cotidianas en una lucha por la supervivencia.",  
@@ -2463,7 +2658,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2018, Letra L, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2018, Letra L, Spain, ",
      			"name": "Leona (2018)","coloryear": "aqua",
       			"image": "https://www.themoviedb.org/t/p/original/mVPkcBOm0ZIScQVRgIBTqDzSowo.jpg",
       			"info": "Ariela, una judía tradicional, conoce a Iván, un joven que no es judío con quien comienza una relación secreta a pesar de sus creencias familiares. Esta nueva experiencia le permite a Ariela explorar el mundo que estaba fuera de la burbuja de su comunidad. Ariela es descubierta y amenazada. Mantener su relación significaría dejar su vida como judía y perder para siempre el contacto con su familia y amigos.",  
@@ -2476,7 +2671,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Suspense, A2021, Letra E, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Suspense, A2021, Letra E, Spain, ",
      			"name": "El prófugo (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/hNNgQ8hjUQoQzxJ4czaWPTLQJZn.jpg",
       			"info": "Una mujer se encuentra cara a cara con el hombre de sus sueños. Desde entonces, su vida se convierte literalmente en una pesadilla. Basada en la novela de terror “El Mal Menor” de C. E. Feiling.",  
@@ -2489,7 +2684,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2020, Letra T, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2020, Letra T, Spain, ",
      			"name": "Todo por Jackson (Anything for Jackson) (2020)","coloryear": "magenta",
       			"image": "https://www.themoviedb.org/t/p/original/iyJLny9ocTO1vORUyz7ec8txiCW.jpg",
       			"info": "Una pareja satanista en duelo secuestra a una mujer embarazada para que puedan usar un antiguo libro de hechizos para poner el espíritu de su nieto muerto en su hijo por nacer, pero terminan convocando más de lo que esperaban.",  
@@ -2502,7 +2697,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Thriller, 1Intriga, A2021, Letra M, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Thriller, 1Intriga, A2021, Letra M, Spain, ",
      			"name": "Maligno (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/5OVQKstdq0sVvvVJdbjZnjK0k1y.jpg",
       			"info": "Madison es una mujer que tiene unas macabras pesadillas que la dejan completamente paralizada. Aterrada por lo que ve en ellas, Madison no consigue dormir por las noches ni vivir por el día. Pero el terror cada vez se irá apoderando de ella cuando descubra que esas pesadillas no son sueños, sino que son hechos de la vida real.",  
@@ -2515,7 +2710,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Comedia, 1Romance, A2020, Letra L, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Comedia, 1Romance, A2020, Letra L, Spain, ",
      			"name": "Los secundarios (2020)","coloryear": "magenta",
       			"image": "https://www.themoviedb.org/t/p/original/tugnFnOu2recmPiSHug2T6tciHY.jpg",
       			"info": "Alfredo, actor italiano, vive en Madrid con la ilusión de protagonizar una serie española, y así cumplir el sueño de su madre. Pero las cosas no le salen como él espera y se ve obligado a sobrevivir entre sus sueños y la realidad.",  
@@ -2528,7 +2723,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra E, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra E, Spain, ",
      			"name": "En un lugar salvaje (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/3DSFrLFJeyh7GFgtkpooFWooncK.jpg",
       			"info": "Cuando su vida se ve sacudida por una serie de inesperados acontecimientos, Edee pierde la habilidad de conectar con el mundo y la gente que una vez la rodeó. Hastiada de su vida, decide retirarse a un bosque en las Montañas Rocosas con unos pocos víveres. Pese a que la belleza de su nuevo hogar es incontestable, Edee sufre para lograr ajustarse a su nueva vida y especialmente al duro invierno que le espera a la vuelta de la esquina. Un día es descubierta al borde de la muerte por un cazador local que logra salvarla, pero su mayor reto llegará cuando trate de volver a aprender a vivir de nuevo.",  
@@ -2541,7 +2736,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Suspense, A2019, Letra L, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Suspense, A2019, Letra L, Spain, ",
      			"name": "La Jauría (2019)","coloryear": "limegreen",
       			"image": "https://www.themoviedb.org/t/p/original/1fAR6Q5mrxq33VwXnBIIzzPw1HN.jpg",
       			"info": "Un hombre despierta encadenado en el interior de un coche inhalando monóxido de carbono. Junto a él, hay tres hombres más, aparentemente muertos. Es la imagen del perfecto suicidio colectivo... si fuera un suicidio.",  
@@ -2554,7 +2749,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Comedia, A2021, Letra E, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Comedia, A2021, Letra E, Spain, ",
      			"name": "Érase una vez en Queens (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/x0YSRcw3co1roXiyCFxILxw9ndt.jpg",
       			"info": "En la Nueva York contemporánea, un joven fenómeno del baloncesto chino-estadounidense lucha por equilibrar las expectativas de su familia inmigrante con sus propios sueños de convertirse en un jugador de la NBA.",  
@@ -2567,7 +2762,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Acción, 1Crimen, 1Suspense, A2021, Letra F, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Acción, 1Crimen, 1Suspense, A2021, Letra F, Spain, ",
      			"name": "Fast & Furious 9 (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/TX1T3c3CDBN0y8iDNvlQbtiA5Z.jpg",
       			"info": "Dom Toretto lleva una vida tranquila con Letty y su hijo, el pequeño Brian, pero saben que el peligro siempre acecha. Esta vez, esa amenaza obligará a Dom a enfrentarse a los pecados de su pasado si quiere salvar a quienes más quiere. El equipo se vuelve a reunir para impedir un complot a escala mundial, liderado por uno de los asesinos más peligrosos y mejor conductor a los que se han enfrentado; un hombre que además es el hermano desaparecido de Dom, Jakob. Novena entrega de la famosa franquicia.",  
@@ -2580,7 +2775,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Crimen, 1Comedia, 1Drama, A2021, Letra F, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Crimen, 1Comedia, 1Drama, A2021, Letra F, Spain, ",
      			"name": "Forever Rich (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/sVxRPDUkHdDXDDMCpBqaWEdxhkz.jpg",
       			"info": "Esta es la historia de Richie y su viaje para convertirse en el mejor artista de rap de los Países Bajos. Una noche es asaltado violentamente por un grupo de adolescentes y pierde su posesión más preciada: un reloj caro. Cuando las imágenes del humillante robo se vuelven virales, la reputación ganada con tanto esfuerzo de Richie se daña.",  
@@ -2593,7 +2788,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Crimen, 1Drama, 1Suspense, A2021, Letra C, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Crimen, 1Drama, 1Suspense, A2021, Letra C, Spain, ",
      			"name": "Culpable (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/l2X5hPbamzNeeaFEPdNIiaVBA2.jpg",
       			"info": "A lo largo de una mañana en una centralita del servicio de emergencias, el operador Joe Baylor intenta salvar a su interlocutora, que parece estar en grave peligro. Pero pronto descubre que las cosas no son lo que parecen y que solo tiene una escapatoria: afrontar la verdad.",  
@@ -2606,7 +2801,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Suspense, A2021, Letra B, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Suspense, A2021, Letra B, Spain, ",
      			"name": "Black as Night (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/mx6cgtUiEOVGSI3sb3SNQxAXqRa.jpg",
       			"info": "Una adolescente con problemas de autoestima encuentra confianza de la manera más improbable, pasando su verano luchando contra los vampiros que se aprovechan de los marginados de Nueva Orleans con la ayuda de su mejor amigo, el chico por el que siempre ha añorado, y una peculiar chica rica.",  
@@ -2619,7 +2814,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Crimen, 1Suspense, 1Drama, A2021, Letra S, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Crimen, 1Suspense, 1Drama, A2021, Letra S, Spain, ",
      			"name": "Silk Road (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/hXLv6E82v0WPzM67QYqnoDJejdA.jpg",
       			"info": "Relata la historia de Ross Ulbricht, creador de Silk Road, una página web de la darknet dedicada a la venta y tráfico de estupefacientes.",  
@@ -2632,7 +2827,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Suspense, A2021, Letra B, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Suspense, A2021, Letra B, Spain, ",
      			"name": "Bingo Hell (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/86VKuiaox9eVJTETel0ld7XZtiO.jpg",
       			"info": "En Oak Springs vive un grupo obstinado de amigos que se niegan a abandonar el barrio por culpa de la gentrificación. Su líder, Lupita (Barraza), los mantiene unidos como comunidad, como familia. Pero no saben que su amado Bingo Hall va a ser vendido a una fuerza mucho más poderosa que el propio dinero.",  
@@ -2645,7 +2840,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Suspense, 1Drama, A2021, Letra E, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Suspense, 1Drama, A2021, Letra E, Spain, ",
      			"name": "El año de la furia (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/Amg7FgfGvLtDqpIm94vfvPLQbQE.jpg",
       			"info": "En el convulso Montevideo de 1972, mientras el país se despeña hacia el precipicio de la dictadura, Diego y Leonardo, dos guionistas de un conocido programa de humor de televisión, luchan por mantener su integridad ante las presiones de sus superiores para que rebajen el tono de sus mordaces sátiras políticas y eviten ofender a los altos militares que se están apoderando del control del país. Mientras, en el lado de los opresores, Rojas, un teniente del ejército que ha sido presionado para torturar a militantes o simpatizantes de la guerrilla de los Tupamaros, exorciza sus demonios con Susana, una prostituta con la que encuentra una suerte de refugio emocional ante su fuerte sentimiento de culpabilidad.",  
@@ -2658,7 +2853,7 @@
 			]
 			},
 			{			
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Comedia, A2021, Letra E, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Comedia, A2021, Letra E, Spain, ",
      			"name": "El espacio entre nosotros (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/13rBVw00l9mxFkb6MCDQp9PyR6C.jpg",
       			"info": "Micky Adams (Kelsey Grammer), un excéntrico músico de rock, pierde el control de la realidad cuando su sello discográfico busca deshacerse de él y de sus nuevos álbumes "únicos". Con la esperanza de escapar de la sala de correo, el joven Charlie Porter (Jackson White) tiene la tarea de viajar a la extraña casa del músico y obligar a Micky a rescindir su contrato. Micky se da cuenta de que Charlie podría ser la clave para un avance artístico y la improbable amistad de la pareja crece. El vínculo extraño pero poderoso ayuda a ambos a obtener una perspectiva sobre la industria de la música, la vida, el amor ... y el espacio entre ellos.",  
@@ -2671,7 +2866,7 @@
       			]
 			},
 			{
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Acción, 1Aventura, 1Ciencia ficción, A2021, Letra F, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Acción, 1Aventura, 1Ciencia ficción, A2021, Letra F, Spain, ",
      			"name": "Free Guy (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/suaooqn1Mnv60V19MoGxneMupJs.jpg",
       			"info": "Guy (Ryan Reynolds) trabaja como cajero de un banco, y es un tipo alegre y solitario al que nada la amarga el día. Incluso si le utilizan como rehén durante un atraco a su banco, él sigue sonriendo como si nada. Pero un día se da cuenta de que Free City no es exactamente la ciudad que él creía. Guy va a descubrir que en realidad es un personaje no jugable dentro de un brutal videojuego.",  
@@ -2684,7 +2879,7 @@
       			]
 			},
 			{
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Suspense, 1Misterio, A2021, Letra N, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Suspense, 1Misterio, A2021, Letra N, Spain, ",
      			"name": "Nadie saldrá vivo de aquí (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/uKX11fIQSIdGtt9uXBlC0atY15Q.jpg",
       			"info": "Una inmigrante en busca del sueño americano se ve obligada a alquilar una habitación en una pensión y pronto se encuentra en una pesadilla de la que no puede escapar.",  
@@ -2697,7 +2892,7 @@
       			]
 			},
 			{
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Comedia, 1Drama, A2021, Letra F, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Comedia, 1Drama, A2021, Letra F, Spain, ",
      			"name": "Fuimos Canciones (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/vi7O7aHSultS7AcEpMVz30SAJw7.jpg",
       			"info": "Maca tiene 30 años. Malgasta su talento trabajando como asistente de una tirana influencer de moda, y pasa el rato con chicos con los que nunca llega a comprometerse emocionalmente. Junto a sus dos amigas, Jimena y Adriana, únicas, arrolladoras y siempre dispuestas a darlo todo para que sus problemas parezcan más livianos, Maca ha conseguido convertir a Madrid en una ciudad donde todo es posible. Todo parece ir bien, hasta que Leo, su gran amor y error, el hombre que le hizo trizas el corazón, aniquiló su autoestima y su fe en el género masculino, vuelve a su vida para ponerlo todo patas arriba.",  
@@ -2710,7 +2905,7 @@
       			]
 			},
 			{
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Romance, A2021, Letra F, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Romance, A2021, Letra F, Spain, ",
      			"name": "Friendzone (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/9f8ysQI4X0XLhUJqKOZy9XUfSUv.jpg",
       			"info": "Thibault, un romántico optimista, cree que su suerte podría cambiar cuando las chispas vuelan entre él y Rose. ¿Pero conseguirá pasar de mejor amigo a novio?",  
@@ -2723,7 +2918,7 @@
       			]
 			},
 			{
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Comedia, A2020, Letra B, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Comedia, A2020, Letra B, Spain, ",
      			"name": "Bloody Hell (2020)","coloryear": "magenta",
       			"image": "https://www.themoviedb.org/t/p/original/2y6Hrofezf5arK5fevRxz7t1DH1.jpg",
       			"info": "Un hombre con un pasado misterioso huye del país para escapar de su propio infierno personal ... solo para llegar a un lugar mucho peor. En un esfuerzo por sobrevivir a este nuevo horror, recurre a su conciencia personificada.",  
@@ -2736,7 +2931,7 @@
       			]
 			},
 			{
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, A2021, Letra C, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, A2021, Letra C, Spain, ",
      			"name": "Confesiones de una chica invisible (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/fRxz9cKaCOF5noUBvoA6cebOdUE.jpg",
       			"info": "Tetê solo quiere ser aceptada y divertirse, pero su vida cambiará por completo al mudarse con sus padres a la casa de sus abuelos y a una nueva escuela. Ahora, hará todo lo posible por huir del mismo bullying que ha enfrentado en el pasado.",  
@@ -2749,7 +2944,7 @@
       			]
 			},
 			{
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Suspense, 1Acción, 1Comedia, A2021, Letra D, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Suspense, 1Acción, 1Comedia, A2021, Letra D, Spain, ",
      			"name": "Dark Web: Cicada 3301 (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/kuifChNVxXCGwMIReJRtro5a3mY.jpg",
       			"info": "El genial hacker Connor descubre la Cicada 3301, una búsqueda del tesoro online que podría ser una herramienta de reclutamiento para una sociedad secreta. Pronto, Conner, su amigo Avi, experto en arte, y la secreta bibliotecaria Gwen se lanzan a descubrir pistas del mundo real desde los sitios de grafiti hasta las bibliotecas antiguas. Pero deben huir de los agresivos agentes de la NSA, que también están tras la pista de la Cicada y quieren la gloria para ellos.",  
@@ -2762,7 +2957,7 @@
       			]
 			},
 			{
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Suspense, 1Drama, A2021, Letra M, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Suspense, 1Drama, A2021, Letra M, Spain, ",
      			"name": "Comité de Dioses (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/950N13EaU8bqEJs9vTDTUy8Ks5U.jpg",
       			"info": "La medicina, el dinero y la moral chocan cuando el Comité de Selección de Trasplantes de Corazón de un hospital tiene solo unos minutos para decidir cuál de los tres pacientes en la lista de trasplantes recibirá un corazón que de repente estará disponible.",  
@@ -2775,7 +2970,7 @@
       			]
 			},
 			{
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Aventura, A2020, Letra M, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Aventura, A2020, Letra M, Spain, ",
      			"name": "Maldita jungla (2020)","coloryear": "magenta",
       			"image": "https://www.themoviedb.org/t/p/original/zGw0VVpI4R2X1peldQMkJV0GGi2.jpg",
       			"info": "Guyana francesa, no hace tanto tiempo. Eliott, un joven e ingenuo investigador de antropología, se embarca en una expedición para estudiar a los Otopis, una misteriosa tribu de la selva amazónica. También es una oportunidad para que se aleje de las garras de su posesiva madre, Chantal de Bellabre, una etnóloga odiada por la profesión por sus prácticas sesgadas y despiadadas. Al llegar al bosque, Elliot se da cuenta de que los Otopis no son los "buenos salvajes" que había imaginado. Alcohólico, violento, corrupto: convertirán su expedición en un verdadero infierno en la selva. Afortunadamente, Chantal, consumida por el remordimiento y preocupada por su hijo, decide abandonar su propia expedición y va a buscarlo a la selva, con la ayuda del no tan servicial Teniente-Comandante Raspailles y sus hombres.",  
@@ -2788,7 +2983,7 @@
       			]
 			},
 			{
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra L, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra L, Spain, ",
      			"name": "La vida de los demás (2020)","coloryear": "magenta",
       			"image": "https://www.themoviedb.org/t/p/original/85w8G2lVFUqUfLV1aVuzvFo3UI8.jpg",
       			"info": "Cuatro historias sobre fortaleza moral y pena de muerte que cuestionan hasta qué punto la libertad individual puede expresarse en un régimen despótico.",  
@@ -2801,7 +2996,7 @@
       			]
 			},
 			{
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra D, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra D, Spain, ",
      			"name": "Death of a Ladies' Man (2020)","coloryear": "magenta",
       			"image": "https://www.themoviedb.org/t/p/original/nus2BFKoYISHxVJgF4JapqnJPaH.jpg",
       			"info": "Un profesor universitario ve cómo su vida cambia por completo cuando empieza a tener alucinaciones y cree que va a morir pronto.",  
@@ -2814,7 +3009,7 @@
       			]
 			},
 			{
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Comedia, 1Fantasía, A2021, Letra U, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Comedia, 1Fantasía, A2021, Letra U, Spain, ",
      			"name": "Un pequeño contratiempo (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/bGkfOC0lVUWo9MMb8gEgTXOvwdt.jpg",
       			"info": "Teddy se despierta la mañana después de su boda para descubrir que ha avanzado un año en su vida hasta su primer aniversario. Atrapado en un ciclo interminable de saltos en el tiempo, transportado un año más cada pocos minutos, se enfrenta a una carrera contrarreloj mientras su vida se desmorona a su alrededor.",  
@@ -2827,7 +3022,7 @@
       			]
 			},
 			{
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficción, 1Suspense, 1Misterio, 1Romance, A2021, Letra R, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficción, 1Suspense, 1Misterio, 1Romance, A2021, Letra R, Spain, ",
      			"name": "Reminiscencia (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/eKDwVBpVkGRsDjhwhbBtsRWsPi5.jpg",
       			"info": "Nick Bannister, un investigador privado que se interna en el oscuro y seductor mundo del pasado, ayuda a sus clientes a recuperar recuerdos perdidos. Vive a orillas de la costa de Miami que se encuentra sumergida en gran parte bajo el mar. Un día, su vida cambia cuando aparece Mae, una nueva clienta. Aunque Mae solo acude a su consulta para encontrar un objeto perdido, se convertirá en una peligrosa obsesión. Mientras Bannister intenta encontrar el motivo de la desaparición de Mae, descubre una violenta conspiración y, al final, deberá responder a la gran pregunta: ¿Hasta dónde llegarías para aferrarte a tus seres queridos?",  
@@ -2840,7 +3035,7 @@
       			]
 			},
 			{
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Comedia, A2021, Letra B, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Comedia, A2021, Letra B, Spain, ",
      			"name": "Bajo las estrellas de Paris (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/aeWMWuM3YwySR5QQ4YcKADewUsC.jpg",
       			"info": "Christine (Catherine Frot) es una sintecho que vive en París. Una noche de invierno encuentra a Suli (Mahamadou Yaffa), un niño eritreo de 8 años, sollozando frente a su refugio. Unidos por sus condición de marginales, ambos se embarcarán en un viaje emocional para intentar encontrar en París a la madre del niño.",
@@ -2853,7 +3048,7 @@
       			]
 			},
       			{
-      			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra A, Spain, ",
+      			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra A, Spain, ",
      			"name": "A todo tren. Destino Asturias (2021)","coloryear": "cyan",
       			"image": "https://www.themoviedb.org/t/p/original/xsaGj4FsQ8IHN3zqwPuZzMaSsKO.jpg",
       			"info": "Cuando Ricardo, padre responsable volcado en su hijo, decide llevarle a un campamento en Asturias en tren nocturno, algunos padres proponen que sea él quien lleve a varios de sus hijos Sin embargo, no cuentan que en el último minuto le acompañe Felipe, abuelo de dos de los niños, un tipo extravagante e irresponsable. Cuando el tren arranca sin Ricardo ni Felipe pero con los niños solos dentro, comenzará una disparatada persecución por parte del padre y del abuelo para alcanzar al tren, y un alocado viaje por parte de los niños donde harán todas las travesuras que no se atrevían a hacer delante de los mayores",
@@ -2866,7 +3061,7 @@
       			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra E, EEUU, Netflix, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra E, EEUU, Netflix, ",
 			"name": "El estornino (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/yM6mDwGBXfGSuk68Zy38jnZhxA7.jpg",
 			"info": "Después de que un matrimonio pase por adversidades, Jack lidia con el dolor mientras Lilly permanece en el mundo real, lidiando con su propia culpabilidad y una lucha interna incapacitante al vivir con un oscuro secreto. Por si los problemas de Lilly no fueran suficientes, un estornino que ha anidado en su patio comienza a acosarla y a atacarla. Este estornino representa los problemas de Lilly y ella se obsesiona de manera absurda con matarlo. Finalmente, Lilly encuentra consejo en Larry, un peculiar psicólogo convertido en veterinario con su propio pasado problemático. Nace entre ambos una amistad única e improbable mientras se ayudan mutuamente a explorar, conocer y hacer frente a sus problemas.",
@@ -2879,7 +3074,7 @@
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Intriga, 1Fantastico, 1Thriller, 1Drama, A2021, Letra T, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Intriga, 1Fantastico, 1Thriller, 1Drama, A2021, Letra T, EEUU, ",
 			"name": "Tiempo [COLOR gold](Web-Scr) (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/ggXWPAIPz0LciOc4hwKIctP4xV2.jpg",
 			"info": "Durante unas vacaciones en un paraíso tropical, una familia empieza a percibir que en la recóndita playa elegida para relajarse unas horas suceden algunas anomalías temporales...",
@@ -2891,7 +3086,7 @@
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra A, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra A, EEUU, ",
 			"name": "Aves del paraiso (Birds of Paradise) (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/zwGUtqNI6aV0ESizG3BSlTrwO9f.jpg",
 			"info": "A dos chicas de una academia de ballet de élite parisina se les ponen a prueba sus vínculos y sus cuerpos mientras compiten por un contrato para unirse a la compañía de la Ópera Nacional de París",
@@ -2904,7 +3099,7 @@
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra S, Polonia, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra S, Polonia, ",
 			"name": "Sweat (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/tmiZRL4lTE1wtDT5FI0mp2PR8fg.jpg",
 			"info": "Describe tres días en la vida de la motivadora de fitness Sylwia Zając, una celebridad en las redes sociales con cientos de miles de followers. Aunque tiene tantos seguidores, está rodeada de empleados fieles y es admirada por sus conocidos, ella busca una intimidad verdadera",
@@ -2917,7 +3112,7 @@
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra J, Alemania, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra J, Alemania, ",
 			"name": "Je Suis Karl (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/jsZkLqSzMm2AcxOAAAGTlK0Giac.jpg",
 			"info": "Maxi, el superviviente de un ataque terrorista, se une a Karl, un encantador estudiante, para formar parte del movimiento europeo juvenil cuyo propósito es - nada menos - que hacerse con el poder",
@@ -2930,7 +3125,7 @@
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2019, Letra L, Francia, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2019, Letra L, Francia, ",
 			"name": "La chica del brazalete (2019)","coloryear": "limegreen",
 			"image": "https://www.themoviedb.org/t/p/original/ak34NPhsZkjFJSV5KvdMXPKE4dl.jpg",
 			"info": "Lise, de 16 años, está acusada de haber asesinado a su mejor amiga. Durante el juicio, sus padres la defienden de manera inquebrantable. Sin embargo, a medida que la vida desconocida de su hija comienza a desvelarse, aparece en ellos la sombra de la duda",
@@ -2943,7 +3138,7 @@
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Aventuras, A2021, Letra S, EEUU, Sagas GIJoe, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Aventuras, A2021, Letra S, EEUU, Sagas GIJoe, ",
 			"name": "Snake Eyes: El origen (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/6NPUjoz5BndKHOsu4hmBOeyoQDA.jpg",
 			"info": "Película de acción basada en la conocida línea de juguetes G.I. Joe. Este spin-off se centra en la historia de los orígenes de Snake Eyes (Henry Golding), el ninja silencioso siempre vestido de negro y del que no se conoce el rostro, y cómo intenta convertirse en miembro del clan Arashikage. Junto a él conoceremos otros personajes como La baronesa (Úrsula Corberó) y su archienemigo Storm Shadow (Andrew Koji).",
@@ -2956,7 +3151,7 @@
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2021, Letra I, EEUU, Netflix, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2021, Letra I, EEUU, Netflix, ",
 			"name": "Intrusion (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/a2Q3yI7E7kmlRW3c6z996JIOw2y.jpg",
 			"info": "Cuando un matrimonio se muda a una pequeña ciudad, un allanamiento deja a la mujer traumatizada y sospecha que los que la rodean podrían no ser lo que parecen.",
@@ -2969,7 +3164,7 @@
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Terror, 1Ciencia ficcion, A2018, Letra B, Reino Unido, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Terror, 1Ciencia ficcion, A2018, Letra B, Reino Unido, ",
 			"name": "Black Site (2018)","coloryear": "aqua",
 			"image": "https://www.themoviedb.org/t/p/original/kXaSLb7reKixWqujYqV8R4XybGo.jpg",
 			"info": "Una unidad militar de élite se encuentra con una entidad sobrenatural, conocida como The Elder Gods, que los obliga a luchar contra un ejército de otro mundo",
@@ -2982,7 +3177,7 @@
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1genero, A2021, Letra E, EEUU, 1Hechos reales, Piratas, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1genero, A2021, Letra E, EEUU, 1Hechos reales, Piratas, ",
 			"name": "El rey del fin del mundo (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/A1PrC0mVUcMNF1165I6yw2djuG3.jpg",
 			"info": "A mediados del siglo XIX, el gobierno británico comisiona al oficial Sir James Brooke para que termine con los piratas que asolan las costas de Malasia. Pero Brooke va más allá y una vez llega a su destino conseguirá no solo exterminar a los piratas sino que se convertirá en el rajah del Reino de Sarawak. Atesora tal poder que el gobierno británico empieza a temerle: ¿han creado un poderoso enemigo?",
@@ -2994,7 +3189,7 @@
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2019, Letra L, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2019, Letra L, EEUU, ",
 			"name": "La princesa de la fila (2019)","coloryear": "limegreen",
 			"image": "https://www.themoviedb.org/t/p/original/8ePU7cOFu71xtjBRfsuSMbiTFUE.jpg",
 			"info": "Una niña que vive con una familia de acogida se escapa para vivir con la única familia que conoce: su padre vagabundo, mentalmente trastornado, que vive en las calles de Los Ángeles, en el conflictivo barrio de Skid Row",
@@ -3007,7 +3202,7 @@
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra E, Rumania, Netflix, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra E, Rumania, Netflix, ",
 			"name": "El padre que mueve montañas (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/htIK4y0O748QIFGG0d4WOz3J7S8.jpg",
 			"info": "Mircea, antiguo agente de Inteligencia, recibe la noticia de que su hijo se ha perdido en las montañas y viaja al lugar para encontrarlo. Después de días de búsqueda, Mircea reúne a su propio equipo de rescate, generando un conflicto con la patrulla local",
@@ -3020,7 +3215,7 @@
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2021, Letra B, Francia, Netflix, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2021, Letra B, Francia, Netflix, ",
 			"name": "BAC Nord - Brigada de Investigacion Criminal (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/aGAglWnXocqBeCxBFiZwX9xEyOn.jpg",
 			"info": "Año 2012. Los distritos del norte de Marsella ostentan un triste récord: son el área con la tasa de criminalidad más alta de Francia. Impulsado por sus jefes, el BAC Nord, una brigada anticrimen que trabaja sobre el terreno, busca constantemente mejorar sus resultados. En un sector de alto riesgo, la policía adapta sus métodos, a veces cruzando difusas líneas rojas. Hasta el día en que el sistema legal se vuelva en su contra...",
@@ -3033,7 +3228,7 @@
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, A2021, Letra L, Francia, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, A2021, Letra L, Francia, ",
 			"name": "El baile de las locas (Le bal des folles) (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/bioH49GyKMBsmw8HAdDR1DIgBmq.jpg",
 			"info": "París. 1885. Eugénie, una mujer joven y apasionada descubre que tiene el poder especial de oír a los muertos. Cuando su familia descubre su secreto, la llevan al hospital Pitié Salpétrière, una clínica neurológica ubicada en París dirigida por el famoso profesor y pionero de la neurología Dr. Charcot, en la que se internan mujeres diagnosticadas de histeria, "locura", egomanía, epilepsia y otros tipos de enfermedades mentales. Su destino se entrelaza con el de Geneviève, una enfermera del hospital a quién la vida se le está pasando de largo. Su encuentro cambiará el futuro de ambas mientras se preparan para el "Bal des folles" que organiza anualmente el doctor Charcot en el hospital... Adaptación de la novela 'El baile de las locas' de Victoria Mas",
@@ -3046,7 +3241,7 @@
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra H, EEUU, 1Hechos reales, Nazismo, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra H, EEUU, 1Hechos reales, Nazismo, ",
 			"name": "Historia de una traicion (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/wqShvpAVjbKw7IYVjWJitkWuQm7.jpg",
 			"info": "Una mujer estadounidense llamada Mildred Gillars se dedica a emitir propaganda Nazi durante la II Guerra Mundial. Un grupo de chicas cercanas a ella la apodan 'Axis Sally' como muestra de la ambigua relación con mantiene con ellas, a medio camino entre el amor y el odio. El papel de Sally como promotora de la polìtica del Tercer Reich la llevará a ser capturada y posteriormente juzgada por traición en la ciudad de Washington D.C.",
@@ -3059,7 +3254,7 @@
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, A2019, Letra O, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, A2019, Letra O, EEUU, ",
 			"name": "Only (2019)","coloryear": "limegreen",
 			"image": "https://www.themoviedb.org/t/p/original/tRi9mnpackQwc3FrwaYyRdt2mMY.jpg",
 			"info": "Cuando un cometa libera un virus que aniquila lentamente a todas las mujeres que habitan el planeta, la relación entre dos jóvenes se pone a prueba. Ambos se esconden en su apartamento, totalmente esterilizado, tanto de la enfermedad como de los salvajes que tratan de cazar a las últimas mujeres que quedan con vida. Al final, y hastiados de vivir encerrados entre cuatro paredes, los amantes deciden dejar atrás su confinamiento para disfrutar de una última aventura en la naturaleza.",
@@ -3072,7 +3267,7 @@
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Musical, 1Drama, A2021, Letra T, Reino Unido, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Musical, 1Drama, A2021, Letra T, Reino Unido, ",
 			"name": "Todos hablan de Jamie (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/vCQfR8gqpM4rAtpD1jSXE4JhZVn.jpg",
 			"info": "Adaptación cinematográfica del exitoso musical sobre Jamie New, un joven de dieciséis años que no termina de encajar del todo y que sueña con convertirse en drag queen, en lugar de seguir una carrera universitaria propiamente dicha. Inseguro sobre su futuro, hay una sola cosa de la que Jamie no tiene dudas: él se convertirá en sensación. Con el apoyo de su querida mamá y sus increíbles amigos, Jamie intentará superar los prejuicios, vencer al acoso escolar y salir de la oscuridad para convertirse en el foco de atención",
@@ -3085,7 +3280,7 @@
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Thriller, 1Intriga, A2021, Letra M, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Thriller, 1Intriga, A2021, Letra M, EEUU, ",
 			"name": "Maligno [COLOR gold](Web-Scr) (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/9eo0feDgFvAV4rDrQw6TyNAjSes.jpg",
 			"info": "Madison está paralizada por visiones de asesinatos espeluznantes, y su tormento empeora cuando descubre que estos sueños de vigilia son, de hecho, realidades aterradoras",
