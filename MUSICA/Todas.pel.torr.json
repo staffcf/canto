@@ -61,6 +61,8 @@ Title:A 47 METROS, SagaID:A47m, Imagen:https://www.themoviedb.org/t/p/original/9
 							-	0Saga, 1SagaTorrent, 
 Title:ABIERTO HASTA EL AMANECER, SagaID:AHEAmanecer, Imagen:https://m.media-amazon.com/images/I/81KyXdyQODL._SY500_.jpg,	
 							-	0Saga, 1SagaTorrent, 
+Title:AFTER, SagaID:After, Imagen:https://www.themoviedb.org/t/p/original/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg,	
+							-	0Saga, 1SagaTorrent, 
 Title:AHORA ME VES, SagaID:Ahorameves, Imagen:https://www.themoviedb.org/t/p/original/do7T07TFfTtvy9oVkD9xedaq30I.jpg,
 							-	0Saga, 1SagaTorrent, 
 Title:ALIEN, SagaID:Alien, Imagen:https://www.themoviedb.org/t/p/original/1aE5SNdw1bTumGFVcsa2anvLI6l.jpg,	
@@ -601,6 +603,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/A.un.paso.de.mi.-2021.-.1080.-.CristalAzul.mkv.torrent",	
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Drama, A2021, Letra A, EEUU, Sagas After, ",
+			"name": "After. Almas perdidas (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/dC5iAftPyemqjPZRBjUKPr0ZiQ9.jpg",
+			"info": "Cuando Tessa (Josephine Langford) toma la decisión más importante de su vida, todo cambia. Los secretos que salen a la luz sobre su familia y la de Hardin (Hero Finnes-Tiffin) ponen en peligro su relación y su futuro juntos. La vida de Tessa empieza a romperse en pedazos y ya nada será como antes. Aunque sabe que Hardin la quiere, estas dos almas perdidas están rodeadas de celos, odio... y perdón. Hasta ahora, el amor era suficiente para mantener su relación a flote, pero ¿de verdad sigue mereciendo la pena?",
+			"genero": "Romance, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/After.Almas.perdidas.-2021.-.1080.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""	
 				}		
 			]
@@ -5465,14 +5480,14 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Drama, A2020, Letra A, EEUU, Sagas MilPedazos, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Drama, A2020, Letra A, EEUU, Sagas After, ",
 			"name": "After: En mil pedazos (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/5pg2rn4SM47B6Orc1xWXZ3MAVUc.jpg",
 			"info": "Ha pasado el tiempo, y Hardin (Hero Finnes Tiffin) todavia no se sabe si es realmente el chico profundo y reflexivo del que Tessa (Josephine Langford) se enamoro, o ha sido un extraño todo este tiempo. Ella quiere alejarse, pero no es tan facil. Tessa se ha centrado en sus estudios y comienza a trabajar como becaria en Vance Publishing. Alli conoce a Trevor (Dylan Sprouse), un nuevo y atractivo compañero de trabajo que es exactamente el tipo de persona con la que deberia estar. Pero Hardin sabe que cometio un error, posiblemente el mas grande de su vida y quiere corregir sus errores y vencer a sus demonios...",
 			"genero": "Romance, Drama",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:9A1E74D370B8795C1A15F71D5B3DDAB4F8F593A2",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/After.En.mil.pedazos.-2020.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:9A1E74D370B8795C1A15F71D5B3DDAB4F8F593A2
 				"torrent4k": ""
 				}		
 			]
@@ -9856,7 +9871,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{  
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Los.nuevos.mutantes.-2020.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:8181E7FC8F92B4793899DB045C53BA85D99DCF44
-				"torrent4k": "magnet:?xt=urn:btih:59343AB7A4D4E62E5E04AAE83277DD5DAB58E8DB"
+				"torrent4k": "magnet:?xt=urn:btih:CE17C7B6F7D28397DAD00C47437BB030586DCED8&dn=UHDRip"
 				}		
 			]
 			},
@@ -13443,14 +13458,14 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Romance, A2019, Letra A, EEUU, Adolescencia, Sagas MilPedazos, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Romance, A2019, Letra A, EEUU, Adolescencia, Sagas After, ",
 			"name": "After: Aqui Empieza Todo (2019)","coloryear": "limegreen",
 			"image": "https://www.themoviedb.org/t/p/original/fEb7qEascdqApzeysHwYlfpcBkC.jpg",
 			"info": "La joven Tessa Young (Josephine Langford) cursa su primer año en la universidad. Acostumbrada a una vida estable y ordenada, su mundo cambia cuando conoce a Hardin Scott (Hero Fiennes Tiffin), un misterioso joven de oscuro pasado. Desde el primer momento se odian, porque pertenecen a dos mundos distintos y son completamente opuestos. Sin embargo, estos dos polos opuestos pronto se uniran y nada volvera a ser igual. Tessa y Hardin deberan enfrentarse a dificiles pruebas para estar juntos. La inocencia, el despertar a la vida, el descubrimiento sexual y las huellas de un amor tan poderoso como la fuerza del destino",
 			"genero": "Drama, Romance",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:e2a75fea20dd435ac43ffd02c93f1c02428df650",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/After.Aqui.Empieza.Todo.-2019.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:e2a75fea20dd435ac43ffd02c93f1c02428df650
 				"torrent4k": ""
 				}		
 			]
@@ -16928,6 +16943,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"torrent": "magnet:?xt=urn:btih:9072B3650541AFCEE25CB73877254F99909B8B3E",
 				"torrent4k": ""
 				}			
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Fantastico, 1Accion, A2019, Letra G, Indonesia, ",
+			"name": "Gundala (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/ohONagShzXKYZ7H9wrwnwQcaF3k.jpg",
+			"info": "Sancaka es un ingeniero que un día recibe un descarga de un misterioso rayo en su lugar de trabajo, lo que le confiere un poder que usará para intentar ayudar a la humanidad.",
+			"genero": "Fantastico, Accion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Gundala.-2019.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
 			]
 			},
 			{
@@ -29594,6 +29622,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Belico, 1Drama, A2017, Letra E, Alemania, 1Hechos reales, ",
+			"name": "El capitan (2017)","coloryear": "green",
+			"image": "https://www.themoviedb.org/t/p/original/pcQkdpyXxYBJbDrB8P6rE880Ul3.jpg",
+			"info": "En los últimos momentos de la II Guerra Mundial, en plena caída del III Reich, Willi Herold, un soldado desertor de 19 años, andrajoso y hambriento, encuentra un uniforme de un capitán nazi. Haciéndose pasar por un oficial, Herold comenzará a transformarse usando la autoridad que le proporciona su nueva identidad, revelando la monstruosa esencia de aquellos de los que trata de escapar",
+			"genero": "Belico, Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:9E2EE007D7D541A7CBD068D1B1B5CD69282D2F73&dn=BRRip",
+				"torrent4k": "magnet:?xt=urn:btih:D3C4FB5639448D8DEEE244C95494D4B2413E47A0&dn=UHDRip"	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Thriller, A2017, Letra E, EEUU, ",
 			"name": "El circulo (2017)","coloryear": "green",
 			"image": "https://www.themoviedb.org/t/p/original/7SWuIePReXbQvUJGb104MHPXjSd.jpg",
@@ -35999,7 +36040,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Accion, 1Drama, A2011, Letra D, EEUU, 1Culto, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Thriller, 1Accion, 1Drama, A2011, Letra D, EEUU, 1Culto, ",
 			"name": "Drive (2011)","coloryear": "blue",
 			"image": "https://www.themoviedb.org/t/p/original/tQq9vJLmj01aA5gmXoBJ5lzypr2.jpg",
 			"info": "Durante el dia, Driver (Ryan Gosling) trabaja en un taller y es conductor especialista de cine, pero, algunas noches de forma esporadica, trabaja como chofer para delincuentes. Shannon (Brian Cranston), su jefe, que conoce bien su talento al volante, le busca directores de cine y television o criminales que necesiten al mejor conductor para sus fugas, llevandose la correspondiente comision. Pero el mundo de Driver cambia el dia en que conoce a Irene (Carey Mulligan), una guapa vecina que tiene un hijo pequeño y a su marido en la carcel.",
@@ -36007,7 +36048,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Drive.-2011.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:D50624F7BDEB902018ABDD68AE14109D9DC2D078&dn=HD1080
-				"torrent4k": ""
+				"torrent4k": "magnet:?xt=urn:btih:17F69925C756987D222B5C613C1DDD37A1B3DA41&dn=UHDRip"
 				}		
 			]
 			},
@@ -44539,7 +44580,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Eduardo.Manostijeras.-1990.-.1080.-.CristalAzul.mkv.torrent",			magnet:?xt=urn:btih:BB0F5572899668B2369E366A594A899DFE2B4017&dn=HD1080	magnet:?xt=urn:btih:A473A6F8E3BDD0F96F51C7052A691E641ECA0E4C&dn=DVDRip
-				"torrent4k": "magnet:?xt=urn:btih:3d983de75ac7869274c6e03b3eaf2dde68fd32f2"
+				"torrent4k": "magnet:?xt=urn:btih:F219B8E5022F5AD9A57500CE39D0106032861867&dn=UHDReescalado"
 				}		
 			]
 			},
