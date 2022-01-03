@@ -110,6 +110,12 @@
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
 			<title>2x01 - Capitulo 1</title>
 			<torrent>magnet:?xt=urn:btih:9CBD944A057DFF143AA5FB167D2F977824929C83&dn=HD720</torrent>
 			</item>
@@ -140,9 +146,60 @@
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
-			<title>2x06 - Capitulo 6 [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
+			<title>2x06 - Capitulo 6</title>
+			<torrent>magnet:?xt=urn:btih:4246F085C485CED2A38A62DAE9BADFDA0767BC67&dn=HD720</torrent>
 			</item>
 ======================================================================
 ======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x01 - Capitulo 1</title>
+			<torrent>magnet:?xt=urn:btih:AE33C697E9B38F278FD4B3754DE24CF79593C53F&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x02 - Capitulo 2</title>
+			<torrent>magnet:?xt=urn:btih:C902E52E3F9165D8B3BBFDF7ECFC35D4DB96DFE8&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x03 - Capitulo 3</title>
+			<torrent>magnet:?xt=urn:btih:3F1BB5FC4FB5FE842AE43FDB694F46F46E178970&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x04 - Capitulo 4</title>
+			<torrent>magnet:?xt=urn:btih:50BE5E2DC00E37DBB4D149C62548B27C0D619682&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x05 - Capitulo 5</title>
+			<torrent>magnet:?xt=urn:btih:5E28675BA7E775E564B1A11D416ED79B17F2C8D0&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x06 - Capitulo 6</title>
+			<torrent>magnet:?xt=urn:btih:C615AEBF24A7181D655779D42434932AABC24CF5&dn=HDTV</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+
 ======================================================================
