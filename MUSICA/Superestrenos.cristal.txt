@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] After: Almas perdidas [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.2[/COLOR]</title> 
+<genre>Romance,Drama</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/dC5iAftPyemqjPZRBjUKPr0ZiQ9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mxdiaM2tsx8M6W3zLgiPwAkhQfq.jpg</fanart>
+<info>Cuando Tessa toma la decisión más importante de su vida, todo cambia. Los secretos que salen a la luz sobre su familia y la de Hardin ponen en peligro su relación y su futuro juntos. La vida de Tessa empieza a romperse en pedazos y ya nada será como antes. Aunque sabe que Hardin la quiere, estas dos almas perdidas están rodeadas de celos, odio... y perdón. Hasta ahora, el amor era suficiente para mantener su relación a flote, pero ¿de verdad sigue mereciendo la pena?<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/speZejQwBQo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/zkp50sjxzjdlyxn"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/zplg6j6gcm61m8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/rstdfyq77xn3"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/6mo92dadbwz4"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/1jpv4nt9cbw5"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Xk7Bd3iF44gDlmeo6Ry8K0grYbo5LCBT/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Harry Potter 20 aniversario: Regreso a Hogwarts VOSE [/COLOR][COLOR yellow](2022) [COLOR aqua]*8.7[/COLOR]</title> 
 <genre>Documental</genre>
 <year>2022</year>
