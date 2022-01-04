@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Adios, Idiotas [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.4[/COLOR]</title> 
+<genre>Comedia,Drama</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/l25dvvzToxROeHyyKlLPxIxIfp7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sBtBtQ7DigbXx4o1rqp80Pzr1qa.jpg</fanart>
+<info>Cuando Suze Trappet se entera a los 43 años de que está gravemente enferma, decide ir en busca del hijo al que se vio obligada a abandonar cuando ella tenía 15 años. Su búsqueda administrativa le hará conocer a JB, un cincuentón en plena depresión, y al señor Blin, un archivero ciego con un entusiasmo impresionante. Los tres se embarcan en una búsqueda tan espectacular como improbable.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/KCT1nDxeD6I"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "No funciona la web"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/wn0pqqorbzqj0l"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/s8l78hourrrj"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/iwvzkuzqlpbj"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-r6c9plai4g89.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Mwi60LGcms1Uf9q0rwtfE1ug6IbJ05H7/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] After: Almas perdidas [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.2[/COLOR]</title> 
 <genre>Romance,Drama</genre>
 <year>2021</year>
