@@ -4,7 +4,20 @@
 	"name": "ESTRENOS EN ESPAÑOL",
 	"info": "ESTA LISTA HA SIDO CREADA CON EXCLUSIVO ANIMO DE TENER CONCENTRADOS LOS ACCESOS DIRECTOS A ENLACES DE MULTIPLES TERCEROS EN INTERNET, EL CREADOR NO CUENTA CON SERVIDORES QUE ALOJEN NINGUNO DE LOS CONTENIDOS NI OBTIENE NINGUN GENERO NI CLASE DE LUCRO DIRECTO O INDIRECTO POR SU UTILIZACION. DEL MISMO MODO NO SE AUTORIZA SU PUBLICACION NI CIRCULACION FUERA DEL AMBITO PERSONAL DEL CREADOR Y DEL GRUPO DE LOS GRUPOS DE TELEGRAM AUTORIZADOS POR EL , SI LO HAS OBTENIDO DE OTRO LUGAR ESTAS COLABORANDO ACTIVAMENTE A LA DESACTIVACION Y DESAPARICION DE LA LISTA, TODA VEZ QUE SOLO SE COMPARTE POR SU AUTOR CON LA FINALIDAD DE FACILITAR A SUS ALLEGADOS SIN CONOCIMIENTOS INFORMATICOS EL ACCESO A CONTENIDO QUE EL AUTOR CONSIDERA DE SU INTERES",
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
-	"groups": [
+	"groups": [		
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, A2020, Letra A, Francia, ",
+			"name": "Adios, idiotas (2020)","coloryear": "magenta",
+			"image": "Cuando Suze Trappet se entera a los 43 años de que está gravemente enferma, decide ir en busca del hijo al que se vio obligada a abandonar cuando ella tenía 15 años. Su búsqueda administrativa le hará conocer a JB, un cincuentón en plena depresión, y al señor Blin, un archivero ciego con un entusiasmo impresionante. Los tres se embarcan en una búsqueda tan espectacular como improbable",
+			"info": "https://www.themoviedb.org/t/p/original/l25dvvzToxROeHyyKlLPxIxIfp7.jpg",
+			"genero": "Comedia, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Adios.idiotas.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Drama, A2021, Letra A, EEUU, Sagas After, ",
 			"name": "After. Almas perdidas (2021)","coloryear": "cyan",
