@@ -4,7 +4,20 @@
 	"name": "ESTRENOS EN ESPAÑOL",
 	"info": "ESTA LISTA HA SIDO CREADA CON EXCLUSIVO ANIMO DE TENER CONCENTRADOS LOS ACCESOS DIRECTOS A ENLACES DE MULTIPLES TERCEROS EN INTERNET, EL CREADOR NO CUENTA CON SERVIDORES QUE ALOJEN NINGUNO DE LOS CONTENIDOS NI OBTIENE NINGUN GENERO NI CLASE DE LUCRO DIRECTO O INDIRECTO POR SU UTILIZACION. DEL MISMO MODO NO SE AUTORIZA SU PUBLICACION NI CIRCULACION FUERA DEL AMBITO PERSONAL DEL CREADOR Y DEL GRUPO DE LOS GRUPOS DE TELEGRAM AUTORIZADOS POR EL , SI LO HAS OBTENIDO DE OTRO LUGAR ESTAS COLABORANDO ACTIVAMENTE A LA DESACTIVACION Y DESAPARICION DE LA LISTA, TODA VEZ QUE SOLO SE COMPARTE POR SU AUTOR CON LA FINALIDAD DE FACILITAR A SUS ALLEGADOS SIN CONOCIMIENTOS INFORMATICOS EL ACCESO A CONTENIDO QUE EL AUTOR CONSIDERA DE SU INTERES",
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
-	"groups": [		
+	"groups": [	
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra S, Reino Unido, 1Biografico, ",
+			"name": "Stardust (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/x8zi02Yoptw0nXGhq3am7E26zq9.jpg",
+			"info": "Biopic sobre los orígenes del icónico David Bowie, centrado en la primera gira que el cantante hizo por los Estados Unidos en 1971",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Stardust.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},			
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, A2020, Letra A, Francia, ",
 			"name": "Adios, idiotas (2020)","coloryear": "magenta",
