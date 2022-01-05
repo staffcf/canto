@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] John y el Hoyo [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.3[/COLOR]</title> 
+<genre>Suspense,Drama,Misterio</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/d4q2RjUP0LiESQhRSAdnewXfh24.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ky4bep9wQPi225VRBnCySPz0sV.jpg</fanart>
+<info>Mientras explora los bosques vecinos, John, de 13 años, descubre un búnker sin terminar: un agujero profundo en el suelo. Aparentemente sin provocación, droga a sus padres ricos y a su hermana mayor y arrastra sus cuerpos inconscientes al búnker, donde los mantiene cautivos. Mientras esperan ansiosos a que John los libere del agujero, el niño regresa a casa, donde finalmente puede hacer lo que quiera.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/aKWbzaTbQ_s"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/3p1j2cmqn40yy4n"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/qlzpl398t3d1x7"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/93ztvvziulge"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/pe90y2w38s1b"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-jf1iipgxbhwv.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/14hTfYPcUzLQAZw4qCfrea8RdWWcAxrxT/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] 4 Mitades [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.5[/COLOR]</title> 
 <genre>Comedia,Romance</genre>
 <year>2022</year>
