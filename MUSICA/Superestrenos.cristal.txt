@@ -4,6 +4,18 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 
+<item>
+<title>[COLOR white] Worth [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.8[/COLOR]</title> 
+<genre>Historia,Drama</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/rukf2HxdOcpL6hNswFmbHrrZJ5T.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/A2tQrEbK8T9gxa6kLW7Fc65EXlO.jpg</fanart>
+<info>Kenneth Feinberg (Michael Keaton), un poderoso abogado de Washington D. C. que recibe el reconocimiento de "Special Master" por la fundación 9/11, se dedica a luchar contra el cinismo, la burocracia y la política relacionada con la administración de fondos públicos. Su batalla le lleva a descubrir el verdadero significado de la vida. Basada en hechos reales.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/HTLmtRyXjvg"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/y1r5dtegl5d1nmr"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/3nk4z4plcnn13r"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/j2uja9qxy5iy"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/8wgfai8n4p3l"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-44fyj9ayam1d.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Ye1LoNTopqJosnDe7lERFvekAwzgAfhb/view"}</urlsolve>
+</item>
+
+
+
 
 <item>
 <title>[COLOR white] Gundala [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.0[/COLOR]</title> 
