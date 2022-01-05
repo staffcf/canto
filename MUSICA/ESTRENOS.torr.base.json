@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [	
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Thriller, A2021, Letra E, EEUU, ",
+			"name": "El superviviente (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/uIUs7v0T6hIqr6iMpzsKeKzHI8L.jpg",
+			"info": "Año y medio después de la caída de la civilización debido a un brote viral, un ex agente del FBI se ve obligado a proteger a una joven inmune a la enfermedad de un peligroso líder de pandillas que la persigue.",
+			"genero": "Accion, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.superviviente.-2021.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra S, Reino Unido, 1Biografico, ",
 			"name": "Stardust (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/x8zi02Yoptw0nXGhq3am7E26zq9.jpg",
