@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [	
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Romance, A2022, Letra NUM, Italia, Netflix, ",
+			"name": "4 mitades (2022)","coloryear": "darkorange",
+			"image": "https://www.themoviedb.org/t/p/original/ure3El1LVLn3PSPTpXGcxVPbpUM.jpg",
+			"info": "Que para cada persona haya un alma gemela es una teoría muy romántica pero quizás poco científica, y para Luca y Sara la tentación de probarla es fuerte. Pero sobre todo, ¿cómo se hace esta alma gemela? ¿Se parece a nosotros o es nuestro contrario? Es así como, casi como un desafío, los dos invitan a cenar a cuatro amigos que, casualmente, están solteros: Chiara, Matteo, Giulia y Dario. ¿Quién se enamorará de quién?",
+			"genero": "Comedia, Romance",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/4.mitades.-2022.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, A2021, Letra E, Suecia, ",
 			"name": "El ultimo superviviente (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/zfJuG4Mp1olDXe4aCz3jOObRnwr.jpg",

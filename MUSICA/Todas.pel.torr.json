@@ -29,7 +29,7 @@
 	"image": "",
 	"stations": [
 		{					
-			year:A2021,year:A2020,year:A2019,year:A2018,year:A2017,year:A2016,year:A2015,year:A2014,year:A2013,year:A2012,year:A2011,year:A2010,year:A2009,year:A2008,year:A2007,year:A2006,year:A2005,year:A2004,year:A2003,year:A2002,year:A2001,year:A2000-1991,year:A1990-1981,year:A1980-1971,year:A1970-1961,year:A1960-1951,year:A1950-1941,year:A1940-1931,year:A1930-1921,year:A1920-1911,ear:A1910-1901,
+			year:A2022,year:A2021,year:A2020,year:A2019,year:A2018,year:A2017,year:A2016,year:A2015,year:A2014,year:A2013,year:A2012,year:A2011,year:A2010,year:A2009,year:A2008,year:A2007,year:A2006,year:A2005,year:A2004,year:A2003,year:A2002,year:A2001,year:A2000-1991,year:A1990-1981,year:A1980-1971,year:A1970-1961,year:A1960-1951,year:A1950-1941,year:A1940-1931,year:A1930-1921,year:A1920-1911,ear:A1910-1901,
  
 			genero:Accion,genero:Animacion,genero:Aventuras,genero:Belico,genero:Biografico,genero:Ciencia ficcion,genero:Comedia,genero:Drama,genero:Fantastico,genero:Hechos reales,genero:Infantil,genero:Intriga,genero:Musical,genero:Romance,genero:Terror,genero:Thriller,genero:Western,
 			letra:NUM,letra:A,letra:B,letra:C,letra:D,letra:E,letra:F,letra:G,letra:H,letra:I,letra:J,letra:K,letra:L,letra:M,letra:N,letra:O,letra:P,letra:Q,letra:R,letra:S,letra:T,letra:U,letra:V,letra:W,letra:X,letra:Y,letra:Z,
@@ -444,9 +444,28 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 ]
 },
 	{
-	"name": "2021 - ",
+	"name": "2021 A 2025",
 	"image": "",
 	"groups": [
+		{
+		"name": "2022",
+		"image": "",
+		"groups": [	
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Romance, A2022, Letra NUM, Italia, Netflix, ",
+			"name": "4 mitades (2022)","coloryear": "darkorange",
+			"image": "https://www.themoviedb.org/t/p/original/ure3El1LVLn3PSPTpXGcxVPbpUM.jpg",
+			"info": "Que para cada persona haya un alma gemela es una teoría muy romántica pero quizás poco científica, y para Luca y Sara la tentación de probarla es fuerte. Pero sobre todo, ¿cómo se hace esta alma gemela? ¿Se parece a nosotros o es nuestro contrario? Es así como, casi como un desafío, los dos invitan a cenar a cuatro amigos que, casualmente, están solteros: Chiara, Matteo, Giulia y Dario. ¿Quién se enamorará de quién?",
+			"genero": "Comedia, Romance",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/4.mitades.-2022.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			}
+		]
+		},
 		{
 		"name": "2021",
 		"image": "",
@@ -2036,6 +2055,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Thriller, A2021, Letra E, EEUU, ",
+			"name": "El superviviente (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/uIUs7v0T6hIqr6iMpzsKeKzHI8L.jpg",
+			"info": "Año y medio después de la caída de la civilización debido a un brote viral, un ex agente del FBI se ve obligado a proteger a una joven inmune a la enfermedad de un peligroso líder de pandillas que la persigue.",
+			"genero": "Accion, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.superviviente.-2021.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2021, Letra E, EEUU, ",
 			"name": "El traficante (Body Brokers) (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/AhihzVIxjGKT1FMmBhYRZzDVYZp.jpg",
@@ -2075,6 +2107,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Aventuras, A2021, Letra E, Rusia, ",
+			"name": "El ultimo guerrero. Las raices del mal (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/4qE7mvUYGY5epfcgeJpM6EfHgq5.jpg",
+			"info": "Belogorie vive un momento de paz y tranquilidad. El mal fue vencido e Ivan está disfrutando de su fama junto a su familia, sus amigos y el maravilloso mundo moderno que le ayuda a vivir de manera confortable. Por suerte, tiene una espada mágica para pasar de un mundo a otro, para coger algunas cosas de vez en cuando. Pero cuando el mal reaparece y la existencia del mundo mágico está en peligro, Ivan tendrá que enfrentarse a los enemigos para que la paz regrese a Belogorie",
+			"genero": "Aventuras",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/El.ultimo.guerrero.Las.raices.del.mal.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:77EA33452B0F89F56F04EBEB65307C16E02767AC&dn=BRRip
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Comedia, A2021, Letra E, Francia, Netflix, ",
 			"name": "El ultimo mercenario (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/jlpt3qLKULxjlxDs3KxZMsYpSoN.jpg",
@@ -2088,14 +2133,14 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Aventuras, A2021, Letra E, Rusia, ",
-			"name": "El ultimo guerrero. Las raices del mal (2021)","coloryear": "cyan",
-			"image": "https://www.themoviedb.org/t/p/original/4qE7mvUYGY5epfcgeJpM6EfHgq5.jpg",
-			"info": "Belogorie vive un momento de paz y tranquilidad. El mal fue vencido e Ivan está disfrutando de su fama junto a su familia, sus amigos y el maravilloso mundo moderno que le ayuda a vivir de manera confortable. Por suerte, tiene una espada mágica para pasar de un mundo a otro, para coger algunas cosas de vez en cuando. Pero cuando el mal reaparece y la existencia del mundo mágico está en peligro, Ivan tendrá que enfrentarse a los enemigos para que la paz regrese a Belogorie",
-			"genero": "Aventuras",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, A2021, Letra E, Suecia, ",
+			"name": "El ultimo superviviente (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/zfJuG4Mp1olDXe4aCz3jOObRnwr.jpg",
+			"info": "John Wood es un ex soldado que ha dejado atrás toda civilización después de que una pandemia azotara el mundo. Ahora ha encontrado refugio en una cabaña de bosque, pero un día llega María, una joven que ha escapado de un laboratorio y aparentemente lleva en su sangre una potencial cura para la enfermedad. Por ese motivo la persiguen un grupo de mercenarios y John une fuerzas con un grupo de soldados de alto rango para enfrentarse a ellos, hasta llegar al brutal enfrentamiento final.",
+			"genero": "Accion",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/El.ultimo.guerrero.Las.raices.del.mal.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:77EA33452B0F89F56F04EBEB65307C16E02767AC&dn=BRRip
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.ultimo.superviviente.-2021.-.1080x265.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""	
 				}		
 			]
