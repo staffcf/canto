@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [	
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Intriga, A2021, Letra J, EEUU, ",
+			"name": "John y el hoyo (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/tCeQIF1FZD6mif39WYoRDPtwHN2.jpg",
+			"info": "Mientras explora un bosque cercano a su casa, un niño de 13 años llamado John (Charlie Shotwell) descubre un búnker sin terminar; un enorme agujero en el suelo. El solitario John aprovecha el hallazgo y toma una decisión para poder pasar el tiempo en su casa, haciendo lo que le venga en gana",
+			"genero": "Intriga",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/John.y.el.hoyo.-2021.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Romance, A2022, Letra NUM, Italia, Netflix, ",
 			"name": "4 mitades (2022)","coloryear": "darkorange",
 			"image": "https://www.themoviedb.org/t/p/original/ure3El1LVLn3PSPTpXGcxVPbpUM.jpg",
