@@ -4,6 +4,18 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 
+
+<item>
+<title>[COLOR white] Gundala [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.0[/COLOR]</title> 
+<genre>Acción,Fantasía</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/hGHL3RpLdk2Y0BCdCaWLIPoIGQL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mlaX4c2M6usnhXHG5sYJcKVXflA.jpg</fanart>
+<info>Sancaka es un ingeniero que un día recibe un descarga de un misterioso rayo en su lugar de trabajo, lo que le confiere un poder que usará para intentar ayudar a la humanidad.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Tp9gidgPxyE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/xpx57c5e6n7d578"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/pkxpdr8ztgzm8l"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/1oz7s5snd301"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/zrbvj92svb5c"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-tagu0f4jqnoh.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1EW3wqCmDEFO59bXWmqQZ_uInCuaWrKJK/view"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] El superviviente [/COLOR][COLOR yellow](2021) [COLOR aqua]*3.7[/COLOR]</title> 
 <genre>Acción,Suspense</genre>
