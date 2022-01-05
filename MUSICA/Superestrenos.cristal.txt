@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] El superviviente [/COLOR][COLOR yellow](2021) [COLOR aqua]*3.7[/COLOR]</title> 
+<genre>Acción,Suspense</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/x7XhPGGtT8eIJnBuWoiB2TxjE9D.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2P7pGVJ5dGixxdmUyUvQBdkJNKR.jpg</fanart>
+<info>Un año y medio después de la caída de la civilización por un brote de virus, un ex agente del FBI se ve obligado a proteger a una joven, que es inmune a la enfermedad, de una peligrosa pandilla que la persigue dirigida por un psicópata que cree que va a usar ella para salvar el mundo.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/wb8uz9Ihc0w"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/g51ndt-23rmg0nd"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/o71p9mwdsp3n34"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/w07hwv2wk2c8"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/ecswpk2gzc7v"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-hqgbhf25izms.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/114c0p8OM2xQXIm6sbre-u7-qiWvdwXPd/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] El ultimo superviviente [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.6[/COLOR]</title> 
 <genre>Acción,Suspense</genre>
 <year>2021</year>
