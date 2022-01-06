@@ -4889,3 +4889,14 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=_vJltamBoy8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/5knj1sdy10w466j"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/l6r76lmnfvpkre"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/1wpi2ywkliq6"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/zwmjzpti5nq1.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-9nn2445v6ca0.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1l0YYXNq9tYBDdzuj2ZSnuHYjd3OjMSni/view"}</urlsolve>
 </item>
 
+
+<item>
+<title>[COLOR white] Lasa y Zabala [/COLOR][COLOR yellow](2014) [COLOR aqua]*6.1[/COLOR]</title> 
+<genre>Suspense,Crimen</genre>
+<year>2014</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/b1sDcn0fRn4piEoHapeZ54y4ohO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1F1a3J3z6EGdWdY3NJYxbs8osER.jpg</fanart>
+<info>El caso Lasa y Zabala fue el primer acto cometido por los GAL, en 1983. Felipe Bayo (Oriol Vila) y Enrique Dorado (Ricard Sales) son dos guardias civiles que, siguiendo las órdenes del general Rodríguez Galindo (Francesc Orella) secuestraron a dos miembros de la banda terrorista ETA, José Antonio Lasa y José Ignacio Zabala. Los guardias civiles llevaron a los terroristas al palacio de La Cumbre, en San Sebastián, donde los torturaron e interrogaron. Más tarde, los asesinaron y enterraron en una localidad de Alicante, siendo sus restos descubiertos en 1985.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/17pp7ctvBBY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/jy3xpid4824q46g"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/pkxzxwx6s7vmr"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "Subiendo"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/rh9dv5z7afhq"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "Se esta subiendo"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/13QUByDBbSYueE5XfnKWQW7XhBByJRe1D/view"}</urlsolve>
+</item>
+
