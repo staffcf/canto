@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] El paramo [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.2[/COLOR]</title> 
+<genre>Terror,Suspense,Drama,Misterio</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/hdi08iM9ClmtCAcnZP04QLAV2zz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3Od3nXgivw4uaNO6AMO1KjgpkBi.jpg</fanart>
+<info>Una familia que vive aislada de la civilización en un paraje desértico es acosada por una misteriosa bestia.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ehQ8dN1VI9g"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/0d6j7clzr-ge57w"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/3nkpk70kh86l49"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/gw73thrtnpqw"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/c6axlz4huxsq"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/9ney2ii9au34"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1h8nBI4zlxRuHAlB1hpnPw2jtfQwKJkFC/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Sevillanas de Brooklyn [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.8[/COLOR]</title> 
 <genre>Comedia</genre>
 <year>2021</year>
