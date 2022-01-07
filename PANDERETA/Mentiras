@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
 <item>
 <title>[COLOR gold]*[/COLOR][COLOR white]Temporada 1[/COLOR]</title>    
 <link>$doregex[c]</link>
@@ -92,9 +93,9 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 ]]></expres>
 <page></page>
 </regex>
-<info>Laura Munar, profesora de literatura en un instituto de Palma de Mallorca y recién separada de Iván, su novio de toda la vida, queda una noche a cenar con Xavier Vera, reputado cirujano en la isla y padre de uno de sus alumnos. A la mañana siguiente, Laura amanece sola en su cama con náuseas y un gran vacío en su memoria. Lo que empieza siendo un malestar físico se convierte pronto en una sospecha terrible: Xavier la ha drogado y violado. Con la ayuda de su hermana Cata, que trabaja de anestesista en el mismo hospital que Xavier, Laura acude a la policía para denunciar a Vera por violación. Los inspectores Daniela Bauzá y Víctor Silva se encargan de la investigación. La ausencia de otras pruebas más contundentes hace que el caso quede reducido a una cuestión de a quién creer: al respetable cirujano que dice que tuvieron una relación consentida o a la profesora de instituto con un historial de denuncias por acoso y trastornos psicológicos. Frustrada por la incapacidad del sistema judicial para encerrar a su violador, Laura emprende por su cuenta todo tipo de acciones contra Xavier Vera. El duelo entre Laura y Xavier irá subiendo de intensidad hasta llevarlos a situaciones extremas que ponen en riesgo sus respectivas vidas.</info>
-</thumbnail>https://i.imgur.com/Wfed66Q.jpg</thumbnail>
-<fanart>https://i.imgur.com/5tQvCOe.jpg</fanart>
+<info>Serie de TV (2020). 6 episodios. Laura Munar, profesora de literatura en un instituto de Palma de Mallorca y recién separada de Iván, su novio de toda la vida, queda una noche a cenar con Xavier Vera, reputado cirujano en la isla y padre de uno de sus alumnos. A la mañana siguiente, Laura amanece sola en su cama con náuseas y un gran vacío en su memoria. Lo que empieza siendo un malestar físico se convierte pronto en una sospecha terrible: Xavier la ha drogado y violado. Con la ayuda de su hermana Cata, que trabaja de anestesista en el mismo hospital que Xavier, Laura acude a la policía para denunciar a Vera por violación. Los inspectores Daniela Bauzá y Víctor Silva se encargan de la investigación. La ausencia de otras pruebas más contundentes hace que el caso quede reducido a una cuestión de a quién creer: al respetable cirujano que dice que tuvieron una relación consentida o a la profesora de instituto con un historial de denuncias por acoso y trastornos psicológicos. Frustrada por la incapacidad del sistema judicial para encerrar a su violador, Laura emprende por su cuenta todo tipo de acciones contra Xavier Vera. El duelo entre Laura y Xavier irá subiendo de intensidad hasta llevarlos a situaciones extremas que ponen en riesgo sus respectivas vidas.</info>
+<thumbnail>https://i.imgur.com/Wfed66Q.jpg</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 </item>
 
 
