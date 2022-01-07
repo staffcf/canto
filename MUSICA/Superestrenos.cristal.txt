@@ -11,7 +11,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/ihcdVX5WDOIKxdRqW9LtVduXm3Q.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/g3zExCIczAT2aU2vRUg6G3ySmWV.jpg</fanart>
 <info>Un niño que crece en Long Island, busca distintas figuras paternas entre todos los clientes que visitan el bar de su tío.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/8Uju-d8BpN4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/-46j3upjn37-8lq"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/gn6erglnak9v0w"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "Subiendo"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/yk8cyo7667a2"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/87fe9uv3cajt"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1m0vuH4WyxHFp7I6OY1LXBoIA_NtoxhmW/view"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/8Uju-d8BpN4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/-46j3upjn37-8lq"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/gn6erglnak9v0w"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/2mbpe8mclqab"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/yk8cyo7667a2"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/87fe9uv3cajt"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1m0vuH4WyxHFp7I6OY1LXBoIA_NtoxhmW/view"}</urlsolve>
 </item>
 
 
