@@ -6,6 +6,18 @@
 
 
 <item>
+<title>[COLOR white] Resident Evil: Bienvenidos a Raccoon City [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.0[/COLOR]</title> 
+<genre>Terror,Acción,Ciencia ficción</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/htpKy3nUBNtCsaTj2pWU9JwPKlj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dGS1iiF3AejfIgYiQHJr7CCtptN.jpg</fanart>
+<info>Nueva adaptación al cine de los videojuegos de Capcom. La que fue una pujante ciudad sede del gigante farmacéutico Umbrella Corporation, Raccoon City, es ahora un pueblo agonizante del Medio Oeste. El éxodo de la compañía dejó a la ciudad convertida en un erial… con un gran mal gestándose bajo la superficie. Cuando ese mal se desata, un grupo de supervivientes deben unirse para destapar la verdad detrás de Umbrella y sobrevivir a la noche.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/sKNQM7JmF-k"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/7mwj4sge01gln3m"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/6qjl8gd7sr8d8q"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ntaaw0fxw078"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/4phj40199wq6"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/d5s2mrc8kl53"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1fvK5ZcQIbr-wgCYEmfUrG1GOkOHTKvh2/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Dawn of War  [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.7[/COLOR]</title> 
 <genre>Drama,Acción,Historia</genre>
 <year>2021</year>
