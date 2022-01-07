@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Madre Androide [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.5[/COLOR]</title> 
+<genre>Ciencia ficción,Suspense</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/8GZ1QXvndqeXYmLNsmaAGFspKXC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2n63C2QQnOLWpeJZe8fY8XYs0RW.jpg</fanart>
+<info>Georgia y su novio Sam emprenden un viaje traicionero para escapar de su país, que está atrapado en una guerra inesperada con la inteligencia artificial. Días antes de la llegada de su primer hijo, la pareja debe enfrentarse a la Tierra de Nadie, un bastión del levantamiento de los androides, con la esperanza de llegar a un lugar seguro antes de dar a luz.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/-haNgds_qqA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/10rjdcj1lenjgj4"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/84x3ejgvuk70kr"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/3iinhlo31wgu"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/qqlof13l5dfu"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/poml9dldxsr7"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1ljI7Qj02xJvOBItXRfbWp3egA7qTvpuY/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] El bar de las grandes esperanzas [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.0[/COLOR]</title> 
 <genre>Drama</genre>
 <year>2021</year>
