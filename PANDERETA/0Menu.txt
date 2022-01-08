@@ -264,6 +264,15 @@
 <fanart>https://i.imgur.com/kxDx301.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR gold]* [COLOR white]Black Mirror[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Black.Mirror</externallink>
+<info>Serie de TV (2011-2019). 5 temporadas. 22 episodios. Serie antológica creada por Charlie Brooker ("Dead Set") que muestra el lado oscuro de la tecnología y cómo esta afecta y puede alterar nuestra vida, a veces con consecuencias tan impredecibles como aterradoras. "Black Mirror" comenzó su emisión en 2011 en el canal británico Channel 4, con dos temporadas de tres episodios cada una, y tras producirse un especial de Navidad la serie fue comprada y renovada por Netflix, que ya ha producido tres temporadas más.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/upFjswDl7vIP7vGvly49x2PkUXc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/b92npz1sZwvmjUfVIrWXehrk3pc.jpg</fanart>
+</item>
+
 
 <item>
 <title>[COLOR gold]* [COLOR white]Black Summer[/COLOR]</title>     
