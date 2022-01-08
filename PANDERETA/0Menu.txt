@@ -1923,6 +1923,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Moebius[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Moebius</externallink>
+<info>El cuerpo de un estudiante de secundaria aparece en un edificio abandonado donde los chicos solían andar en patineta, al parecer fue un accidente pero Mamen, su profesora de matemáticas, comienza a sospechar y comienza a investigar el hecho.</info>
+<thumbnail>https://i.imgur.com/MB3qg7c.jpg</thumbnail>
+<fanart>https://i.imgur.com/4kjpSxm.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Monsterland[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Monsterland</externallink>
