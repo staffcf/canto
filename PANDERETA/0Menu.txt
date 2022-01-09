@@ -311,6 +311,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Bordertown[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Bordertown</externallink>
+<info>Serie de TV (2016-2019). 3 temporadas. 31 episodios. Un extravagante detective de policía resuelve crímenes despreciables mientras intenta mantener unida a su familia.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/8f7uRP4HBfJ8TPb7HbCcEEFDHHf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tc7nHHGx8XCZjVvAZ0oUkExhidR.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Bosque adentro[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Bosque.adentro.xml</externallink>
