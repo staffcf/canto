@@ -2238,6 +2238,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Quédate a mi lado[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Quedate.a.mi.lado</externallink>
+<info>Tres personas parecen llevar una vida perfecta, pero ocultan oscuros secretos que ni siquiera sus más allegados sospecharían nunca. Megan es una madre trabajadora de tres hijos. Ray es un prometedor fotógrafo documental atrapado en un trabajo sin futuro. Y Broome, un detective que no puede dejar de lado un caso sin resolver de una persona desaparecida. Cuando llega una vieja amiga del pasado de Megan, llamada Lorraine, con una noticia bastante impactante, los tres protagonistas se ven afectados de una manera atroz, amenazando con arruinar sus vidas y la de quienes los rodean.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/dOxXkneHeiAVbdpkEbajgiwobO9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aJuzMo6v3xB62BHWTB0c2YB7h8Z.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]¿Quién mató a Sara?[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Quien.mato.a.Sara.txt</externallink>
