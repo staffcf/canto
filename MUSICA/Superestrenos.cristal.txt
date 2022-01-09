@@ -15,6 +15,17 @@
 </item>
 
 
+<item>
+<title>[COLOR white] Heredero [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.3[/COLOR]</title> 
+<genre>Terror,Suspense</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/rnZUG1B9c9GFSkRrDiKBz779Mna.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mRZDHjArYNWpOv06kxRK1cduQKh.jpg</fanart>
+<info>Cuando un joven cae enfermo por una misteriosa enfermedad, su madre tendrá que decidir hasta dónde está dispuesta a llegar para protegerle de unas aterradoras fuerzas que estuvieron presentes en su vida pasada.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/WJUuMSt-O8I"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/0d6j7clz1gpek3z"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/xo7jp101i6rwv0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/dsa9jqg42o73"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/i92mqu7wna4w"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/rzhdow9r55r7"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/18da-7QlIfaL9mEGUDY36kIaqhz3-rYtx/view"}</urlsolve>
+</item>
+
+
 
 <item>
 <title>[COLOR white] Como me enamore de un gangster [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.0[/COLOR]</title> 
