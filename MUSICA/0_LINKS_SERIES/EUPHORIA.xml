@@ -9,10 +9,10 @@
 
 	ETIQUETAS:
 	
-	- 1SerieTitle:"EUPHORIA", SerieTemp:"ESPECIALES", SerieID:"ERIEESPECIAL", SerieIDT:"TORRENTESPECIAL", SerieThumbail:"https://www.themoviedb.org/t/p/original/5mi3aRl16yKmfpQJMzvqN5TXkdA.jpg",
+	- 1SerieTitle:"EUPHORIA", SerieTemp:"ESPECIALES", SerieID:"ERIEESPECIAL", SerieIDT:"TORRENTESPECIAL", SerieThumbail:"https://www.themoviedb.org/t/p/original/bNsxPilhY9V72QsrnjP9eiuF30j.jpg",
 	- 1SerieTitle:"EUPHORIA", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/5mi3aRl16yKmfpQJMzvqN5TXkdA.jpg",
+	- 1SerieTitle:"EUPHORIA", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/jtnfNzqZwN4E32FGGxx1YZaBWWf.jpg",
 
-	
 -->
 ======================================================================
 			"Tag= TORRENTESPECIAL, "
@@ -76,6 +76,41 @@
 			<title>1x08 - Echar sal a tu paso</title>      
 			<torrent>magnet:?xt=urn:btih:ff5036e12e2075427328926b8dc911cd54203ecb</torrent>
 			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>1x01 - Intentando llegar al cielo antes de que cierren la puerta</title>
+			<torrent>magnet:?xt=urn:btih:5CE7C653F3162E1ABFA8390814DC13D465CDFD12&dn=HD720</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>1x01 - Intentando llegar al cielo antes de que cierren la puerta</title>
+			<torrent>magnet:?xt=urn:btih:597C6E9830B497CF479B4093D05E880A8F73D3A7&dn=HDTV</torrent>
+			</item>
+======================================================================
 ======================================================================
 ======================================================================
 ======================================================================
