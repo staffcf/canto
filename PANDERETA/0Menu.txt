@@ -455,6 +455,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Chucky[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Chucky</externallink>
+<info>Después de que un muñeco vintage de Chucky aparece en una venta de patio suburbana, una ciudad estadounidense se ve sumida en el caos, luego de que una serie de crímenes horribles comienzan a exponer las hipocresías y los secretos de la ciudad.Mientras tanto, la llegada de enemigos y aliados del pasado de Chucky amenaza con exponer la verdad detrás de los acontecimientos así como los orígenes no contados del malvado muñeco.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/6FVAOFq1Ln79wmvSFBsT6JjRCKM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xAKMj134XHQVNHLC6rWsccLMenG.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Ciudad Invisible[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Ciudad.Invisible.txt</externallink>
