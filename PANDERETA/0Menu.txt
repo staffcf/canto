@@ -1814,6 +1814,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Manhunt[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Manhunt</externallink>
+<info>Manhunt es la historia real de cómo el asesinato en 2004 de la ciudadana francesa Amelie Delagrange en Twickenham Green fue finalmente vinculado con el asesinato en 2003 de Marsha McDonnell y el secuestro y asesinato en 2002 de Milly Dowler mientras viajaba a casa de la escuela. Caminando a casa después de una noche con amigos, Amelie, de 22 años, fue atacada salvajemente y golpeada varias veces en la parte posterior de la cabeza con un martillo. Aunque relativamente experimentado en investigación de asesinato, el DCI Colin Sutton fue asignado al caso por la Policía Metropolitana de Londres. Trabajador e instintivo, Sutton se dedicó a encontrar al asesino de Amelie. A pesar de muy poca evidencia, su enfoque cuidadoso y la diligencia de sus compañeros oficiales gradualmente llevaron a avances en el caso.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/nLjUC3ze3WxCFhg4GDbcwLRSgvJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rBg4MGYEmVjaqU5380q2mx8j4cZ.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Mañanas de Septiembre[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Ma%C3%B1anas.septiembre</externallink>
