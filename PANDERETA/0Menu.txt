@@ -104,6 +104,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]American Rush[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/American.Rust</externallink>
+<info>En una ciudad del cinturón obrero del suroeste de Pensilvania, el jefe de policía (Jeff Daniels) se verá obligado a decidir hasta dónde está dispuesto a llegar en su dilema entre el deber y el corazón cuando el hijo de la mujer que ama (Maura Tierney) es acusado de asesinato.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/sTYqo79NEndA8IY8ZMjNeVaKpKo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1WpZ3xNMTgah2YuQhIfknuHei5X.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Amor en tiempo de Corona[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Amor en tiempo de Corona.xml</externallink>
