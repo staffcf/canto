@@ -1855,16 +1855,6 @@
 </item>
 
 
-<item>
-<title>[COLOR white] Libros de sangre [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.8[/COLOR]</title>    
-<genre>Terror</genre>
-<year>2021</year>
-<thumbnail>https://i.imgur.com/YiUU3o4.jpg</thumbnail>
-<fanart>https://i.imgur.com/u8RGmJy.jpg</fanart>
-<info>Un viaje hacia un territorio inexplorado y prohibido contado a través de tres historias en las que se mezcla el tiempo y el espacio.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=VYi_7fbV19A"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/y1r5dteg0k4kzpj"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/dqwllvpmu73vve8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/6ubh9k4tr7ul"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-3jqxnvbku7ap.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1bNmA7LuCiOcyDl-Qo13bsumhyRIvKqKo/view"}</urlsolve>
-</item>
-
 
 <item>
 <title>[COLOR white]  Ejército de ladrones [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.4[/COLOR]</title>    
@@ -1877,15 +1867,7 @@
 </item>
 
 
-<item>
-<title>[COLOR white] ¿Dónde está el truco [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.9[/COLOR]</title>    
-<genre>Comedia,Fantasia</genre>
-<year>2021</year>
-<thumbnail>https://i.imgur.com/2FWeUdb.jpg</thumbnail>
-<fanart>https://i.imgur.com/KsZaWjJ.jpg</fanart>
-<info>Arturo Maravilla, es un joven empresario que no está pasando por su mejor momento. Aunque heredó de su padre una compañía de teatro, afamada por sus espectáculos circenses, sus numerosas deudas le han llevado a la crisis y a contar únicamente con el peor de los comediantes del momento: Juanito Sin Blanca. La muerte de un tío lejano de Arturo, parece que será su salvación. Sin embargo, lejos recibir una herencia que le permita pagar sus deudas, deberá hacerse cargo de la familia de su difunto tío: sus hijos adoptivos Joel y Rebeca. Pero no todo es lo que parece, la suerte de Arturo está a punto de cambiar cuando descubre que Joel no habla pero está dotado con extraordinarios superpoderes. ¿Podrá Arturo salvar la compañía de teatro? ¿Y a su nueva familia?<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=I9nOw98z2g4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/pwnxdtmp3n-k2lg"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/l6r333xkuxxz4x"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/qrefh9q6yxxa"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-30m8ivbmh6bi.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/14XkWXkTIZd2p3b6czODbbEQYsLdHbwmM/view"}</urlsolve>
-</item>
+
 
 
 <item>
@@ -2063,15 +2045,7 @@
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=FH8kBW1Ho2c"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.to/f/enjemjxgfowqvk"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/xaidl9odv6bp"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/hk5j8jkvboue.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/lp6peqxf8ina"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1hihA5w6GX1IUC1Zq9R5oDFhGulghCnW3/view"}</urlsolve>
 </item>
 
-<item>
-<title>[COLOR white] The Manor (La Mansión) [/COLOR][COLOR yellow](2021) [COLOR aqua]*4.5[/COLOR]</title>    
-<genre>Terror</genre>
-<year>2021</year>
-<thumbnail>https://i.imgur.com/eKcXu0u.jpg</thumbnail>
-<fanart>https://i.imgur.com/tOcKiii.jpg</fanart>
-<info>Después de sufrir un derrame cerebral, Judith Albright se muda a un histórico asilo de ancianos, donde comienza a sospechar que algo sobrenatural se está aprovechando de los residentes. Para escapar, tendrá que convencer a todos los que la rodean de que, después de todo, no pertenece allí.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=kKIhdhesFTk"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.to/f/j9g3ngjoh76ej3z"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/gs23qa4inesa"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/80tbbbb7f4ld.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/qmqe8jgt8qzz"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Cj8dZ-c24m5X6VZ-_dYvYxX7GtvKUhDV/view"}</urlsolve>
-</item>
+
 
 <item>
 <title>[COLOR white] Escape Room 2: Mueres por salir [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.1[/COLOR]</title>    
@@ -2367,15 +2341,7 @@
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=wBq7XmKw2FI"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.to/f/wnr9e6o3h0q04po"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/v4w8f5gi5fm9"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/2mesugduddnz"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1FVKPAZkHjEgJwHejvQoOrNcrMPZUIQ48/view"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:CD0AC3B297B46AB616159C2A6BAC1D5D75F3318B"}</urlsolve>
 </item>
 
-<item>
-<title>[COLOR white] Sweat [/COLOR][COLOR yellow](2020) [COLOR aqua]*7.2[/COLOR]</title>    
-<genre>Drama</genre>
-<year>2020</year>
-<thumbnail>https://www.themoviedb.org/t/p/original/tmiZRL4lTE1wtDT5FI0mp2PR8fg.jpg</thumbnail>
-<fanart>https://i.imgur.com/ztwa0IO.jpg</fanart>
-<info>Describe tres días en la vida de la motivadora de fitness Sylwia Zając, una celebridad en las redes sociales con cientos de miles de followers. Aunque tiene tantos seguidores, está rodeada de empleados fieles y es admirada por sus conocidos, ella busca una intimidad verdadera<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=2NKoQwuuTug"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.to/f/zp09e78gfg8l104"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/pa5lp7o1qmdf"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/5mlsm6kus32d"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1OpmkABkyrpiCPUYHy6qRFB9dMNIOLM3t/view"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:73015d61ded13dbb4d60f2cad57410f9d32b8080&dn"}</urlsolve>
-</item>
+
 
 <item>
 <title>[COLOR white] Je Suis Karl  [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.5[/COLOR]</title>    
@@ -2387,15 +2353,7 @@
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=j2cwIs8U-x4"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.to/f/mdrjeod0hxdl00n"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/a4wwd665huoe"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/p85mm1q3plgj"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Ys8fqSMAIMOQML0weG4eTt3HVkoG6V59/view"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:2da997c13810e716a1a60a351f05e0c8d6ef39ea"}</urlsolve>
 </item>
 
-<item>
-<title>[COLOR white] La chica del brazalete  [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.5[/COLOR]</title>    
-<genre>Drama</genre>
-<year>2021</year>
-<thumbnail>https://www.themoviedb.org/t/p/original/ak34NPhsZkjFJSV5KvdMXPKE4dl.jpg</thumbnail>
-<fanart>https://i.imgur.com/Mcrf85a.jpg</fanart>
-<info>Lise, de 16 años, está acusada de haber asesinado a su mejor amiga. Durante el juicio, sus padres la defienden de manera inquebrantable. Sin embargo, a medida que la vida desconocida de su hija comienza a desvelarse, aparece en ellos la sombra de la duda<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=R5ZaupvCLHg"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.to/f/zp09e7qwigg37p1"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/m14hf1mrblok"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/mv33gsdi18ih"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1c8jlCHtzj7xk5socujyApqVvDlc-Gjl8/view"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:937e4785b24c148c020e419aa62f9afebc647fdf"}</urlsolve>
-</item>
+
 
 <item>
 <title>[COLOR white] Snake Eyes: El origen [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.0[/COLOR]</title>    
@@ -2408,15 +2366,7 @@
 </item>
 
 
-<item>
-<title>[COLOR white] Intrusión [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.2[/COLOR]</title>    
-<genre>Thriller</genre>
-<year>2021</year>
-<thumbnail>https://i.imgur.com/veus52y.jpg</thumbnail>
-<fanart>https://i.imgur.com/6N5yVOz.jpg</fanart>
-<info>Cuando un matrimonio se muda a una pequeña ciudad, un allanamiento deja a la mujer traumatizada y sospecha que los que la rodean podrían no ser lo que parecen.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=ByxxCNZ23W8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/5knj1sdy42dljz1"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.co/e/gn19993vhegvmo"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/dy22vwaktbpo"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/3abnw3bu6sc3.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-hmuvgiiwdvcr.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1I_HIUVEbPZWGCOgPyOCFp8yTFFdQwByz/view"}</urlsolve>
-</item>
+
 
 
 <item>
@@ -2452,15 +2402,6 @@
 </item>
 
 
-<item>
-<title>[COLOR white] BAC Nord - Brigada de Investigación Criminal [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.2[/COLOR]</title>    
-<genre>Thriller,Crimen,Policíaco</genre>
-<year>2021</year>
-<thumbnail>https://i.imgur.com/xWNFSJn.jpg</thumbnail>
-<fanart>https://i.imgur.com/Dnon5HO.jpg</fanart>
-<info>Año 2012. Los distritos del norte de Marsella ostentan un triste récord: son el área con la tasa de criminalidad más alta de Francia. Impulsado por sus jefes, el BAC Nord, una brigada anticrimen que trabaja sobre el terreno, busca constantemente mejorar sus resultados. En un sector de alto riesgo, la policía adapta sus métodos, a veces cruzando difusas líneas rojas. Hasta el día en que el sistema legal se vuelva en su contra...<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=u3no_1pTV_8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/kx4-1i348-58p87"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/3n8wv9l0hw7zoz"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/ekotqrghchjc"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/ijlz7iqd8xpy.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-clc30ms8p6tk.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1exyKLCfvtJ3cGlfU8JP7xejzpBv3sIf1/view"}</urlsolve>
-</item>
 
 
 <item>
@@ -2550,16 +2491,6 @@
 </item>
 
 
-<item>
-<title>[COLOR white] Borrar el Historial [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.7[/COLOR]</title>    
-<genre>Comedia,Internet,Informática,Redes sociales</genre>
-<year>2021</year>
-<thumbnail>https://i.imgur.com/7o0Whqj.jpg</thumbnail>
-<fanart>https://i.imgur.com/rAReoQ2.jpg</fanart>
-<info>Tres vecinos de un suburbio se ven superados por sus problemas con la tecnología y las redes sociales. Con la ayuda de un pirata informático, deciden declarar la guerra a los poderosos gigantes tecnológicos. Tal vez su batalla esté perdida desde el principio, pero nunca se sabe.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=XmtLY1tPoVM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/pwnxdtm15---x0m"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/7r8x78xesdelxwo"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/p67jgtfysa3o"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/7qlg257hqdc8.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/rtqmn4kog0zk"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1FvE6z6M1xqMSBVS38gQRGfwDmHE-GgLr/view"}</urlsolve>
-</item>
-
 
 <item>
 <title>[COLOR white] Tiburon blanco [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.8[/COLOR]</title>    
@@ -2638,15 +2569,7 @@
 </item>
 
 
-<item>
-<title>[COLOR white] Kate [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.5[/COLOR]</title>    
-<genre>Acción,Thriller,Venganza</genre>
-<year>2021</year>
-<thumbnail>https://i.imgur.com/c1AlWSj.jpg</thumbnail>
-<fanart>https://i.imgur.com/tL1j4At.jpg</fanart>
-<info>Tras ser envenenada sin remedio, una implacable criminal tiene menos de 24 horas para vengarse de sus enemigos y, durante el proceso, se forma un vínculo inesperado con la hija de una de sus víctimas anteriores.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=ZR25vIpxwmY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/6znj3t01z1pgzll"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/l630k0ejtg03me"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/hshi7cfcf6dm"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/tel3mhkb1v5p.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-ll9utcqtb0ga.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1n-b2wXp04E2T-w2_R5NMCyOv4bvu22ho/view"}</urlsolve>
-</item>
+
 
 
 <item>
@@ -2704,15 +2627,7 @@
 </item>
 
 
-<item>
-<title>[COLOR white] Hijos del Sol [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.5[/COLOR]</title>    
-<genre>Drama</genre>
-<year>2021</year>
-<thumbnail>https://i.imgur.com/hiHIylq.jpg</thumbnail>
-<fanart>https://i.imgur.com/mG5ucXz.jpg</fanart>
-<info>Alí, un niño de 12 años, y sus tres amigos trabajan para sobrevivir y ayudar a sus familias haciendo pequeños trabajos en un garaje y cometiendo pequeños delitos para conseguir dinero rápido. En un milagroso giro de los acontecimientos, Alí recibe el encargo de encontrar un tesoro oculto bajo tierra. Para ello recluta a sus amigos pero, antes de empezar la misión, deben unirse a la Escuela del Sol, una institución caritativa que intenta educar a niños sin hogar y que está ubicada cerca de donde supuestamente se halla el tesoro.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=jGOVT850d30"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/r265wse-6651-rk"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/848n63p3fpxx3l"},{"titulo" : "[COLOR white]VideoTape[/COLOR]","url" : "https://streamtape.com/v/RkowwM2BdQfdrXJ"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/iq284hqzk5nb.html"},{"titulo" : "[COLOR white]VideoLoad[/COLOR]","url" : "https://evoload.io/v/y71IGJvgI4VRe8"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1rAJD0KuQNF6D8Y8LohfgXHNc1vdu7T-b/view"}</urlsolve>
-</item>
+
 
 
 <item>
@@ -2726,15 +2641,7 @@
 </item>
 
 
-<item>
-<title>[COLOR white] Los 800 [/COLOR][COLOR yellow](2020) [COLOR aqua]*7.3[/COLOR]</title>    
-<genre>Bélica, Historia, Drama, Acción</genre>
-<year>2020</year>
-<thumbnail>https://i.imgur.com/Fczo5Yb.jpg</thumbnail>
-<fanart>https://i.imgur.com/hzGVPZv.jpg</fanart>
-<info>En 1937, ochocientos soldados chinos luchan bajo el asedio en Shanghai, desde un almacén en medio del campo de batalla, completamente rodeados por el ejército japonés.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=t3sDy1naeRA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/ygkplsem2lzk7ly"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/o738e0mpcjrw0k"},{"titulo" : "[COLOR white]VideoTape[/COLOR]","url" : "https://streamtape.com/v/g3j8d27WddI3zg"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/teqmiwt3miz8.html"},{"titulo" : "[COLOR white]VideoLoad[/COLOR]","url" : "https://evoload.io/v/ULvCOshKVkkItG"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:c94fa4a671b4994c7a8635151b0b68924cbec3f7"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1p2WgTSTqx1cs-aHSHcRTUQo6LXBgC5K5/view"}</urlsolve>
-</item>
+
 
 
 <item>
@@ -2869,15 +2776,7 @@
 </item>
 
 
-<item>
-<title>[COLOR white] La isla negra [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.7[/COLOR]</title>    
-<genre>Suspense</genre>
-<year>2021</year>
-<thumbnail>https://i.imgur.com/nuTlT5r.jpg</thumbnail>
-<fanart>https://i.imgur.com/6lD1eF1.jpg</fanart>
-<info>Los oscuros secretos de una isla aparentemente pacífica amenazan con devorarse a un estudiante cuando se acerca demasiado a su misteriosa profesora nueva.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=5T0N3tGup3c"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/r265wse-7wxz566"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/gn17gnv9tw0omp9"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/x4tgcj9eziih.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-bdot5cag76ox.html"},{"titulo" : "[COLOR white]VideoTape[/COLOR]","url" : "https://streamtape.com/e/A186MvOG3AfXV7p"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/156365_-1629656865-La-isla-negra--BluRay-MicroHD.torrent"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1HbU3tITAQspwX3tK2Ygv1B56vddJBrKW/view"}</urlsolve>
-</item>
+
 
 
 <item>
@@ -2890,27 +2789,6 @@
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=YrDHL2evhbo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/znz6lfj68-qlqn1"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/zpr4gj70tvzogq"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/94wk1krpo00a.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-jlea5l9dkjyz.html"},{"titulo" : "[COLOR white]VideoTape[/COLOR]","url" : "https://streamtape.com/e/aq266Zj7YyH0gp"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/156364_-1629656819-La-casa-del-caracol--BluRay-MicroHD.torrent"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1TCzW4HEQL7cubITQ2W8De8q8yE6J2rr_/view"}</urlsolve>
 </item>
 
-
-<item>
-<title>[COLOR white] Desaparicion en Niagara Falls [/COLOR][COLOR yellow](2020) [COLOR aqua]*5.5[/COLOR]</title>    
-<genre>Suspense</genre>
-<year>2020</year>
-<thumbnail>https://i.imgur.com/fq1WbAI.jpg</thumbnail>
-<fanart>https://i.imgur.com/MJ9M9v5.jpg</fanart>
-<info>Después de la muerte de su madre, una joven regresa a su hogar en las Cataratas del Niágara y se enreda en el recuerdo de un secuestro que afirma haber presenciado de niña.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=cgN3flgyno0&t=7s"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/dn2e0fx53qd0r5n"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/1v83ppwqb06r30"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/7d8juk18vvo7.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-opltt2mdx1iw.html"},{"titulo" : "[COLOR white]VideoTape[/COLOR]","url" : "https://streamtape.com/e/RXxeML0gVWhdz6D"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/156362_-1629656702-Desaparicion-en-Niagara-Falls--BluRay-MicroHD.torrent"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1TGX8gXMPAWupSI_dGDbyxiq_ay6E8D0H/view"}</urlsolve>
-</item>
-
-
-<item>
-<title>[COLOR white] Ciudad de mentiras [/COLOR][COLOR yellow](2018) [COLOR aqua]*6.4[/COLOR]</title>    
-<genre>Crimen, Suspense, Drama</genre>
-<year>2018</year>
-<thumbnail>https://i.imgur.com/s6YBr9L.jpg</thumbnail>
-<fanart>https://i.imgur.com/449vEcm.jpg</fanart>
-<info>El detective del Departamento de Policía de Los Ángeles, Russell Poole, ha pasado años tratando de resolver su caso más importante: los asesinatos de The Notorious B.I.G. y Tupac Shakur, pero después de dos décadas, la investigación permanece abierta. Jack Jackson, un reportero desesperado por salvar su reputación y su carrera, está decidido a averiguar por qué. En busca de la verdad, los dos se unen y desentrañan una red creciente de corrupción institucional y mentiras. Basada en el libro LAbyrinth de Randall Sullivan.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=TvcGePsA01w"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/5x4prudyrqq3nxx"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/3n8v7lrpbmmo7r0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/3inyqaytzsjq.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-8puhjne2xy34.html"},{"titulo" : "[COLOR white]VideoTape[/COLOR]","url" : "https://streamtape.com/e/WGkbxR4k2PCpqR"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/156361_-1629656606-Ciudad-de-mentiras--BluRay-MicroHD.torrent"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1smgmII7q5qOGQwgmlfVy0NAbQQVxGuwC/view"}</urlsolve>
-</item>
 
 
 <item>
@@ -2979,15 +2857,7 @@
 </item>
 
 
-<item>
-<title>[COLOR white] Barb y Star van a Vista Del Mar [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.0[/COLOR]</title>    
-<genre>Comedia</genre>
-<year>2021</year>
-<thumbnail>https://i.imgur.com/bpafuxL.jpg</thumbnail>
-<fanart>https://i.imgur.com/q4uBHjy.jpg</fanart>
-<info>Cuenta la historia de Barb y Star, dos mejores amigas que abandonan su pueblo en el medio oeste por primera vez en sus vidas en dirección a Vista Del Mar, en Florida, donde pronto se verán inmersos en una aventura que las llevará a descubrir el amor y a un terrible villano que planea matar a todo el mundo del pueblo.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=jmqgtQI8fg8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/kx4-1i3gxlge2py"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.to/f/enwjrm1gt6zvlw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/irn4nhfk11pq.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/zo230tvoz87x"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/155751_-1628702560-Barb-y-Star-van-a-Vista-Del-Mar--2021---BluRay-1080p.torrent"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1SPRCiot_M2v2aZxvWPnV8tSamGVNnjrT/view"}</urlsolve>
-</item>
+
 
 
 <item>
@@ -3023,15 +2893,7 @@
 </item>
 
 
-<item>
-<title>[COLOR white] Police [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.8[/COLOR]</title>    
-<genre>Drama,Policíaco</genre>
-<year>2021</year>
-<thumbnail>https://i.imgur.com/6HNlLVu.jpg</thumbnail>
-<fanart>https://i.imgur.com/gxv6E9d.jpg</fanart>
-<info>Virginie, Erik y Aristide, tres policías parisinos, se ven obligados a aceptar una misión poco habitual: reconducir a un extranjero a la frontera. Durante el camino al aeropuerto, Virginie entiende que si el prisionero pone un pie en su país de origen sufre el riesgo de morir. Frente a dilema moral, intenta convencer a sus colegas de que lo dejen escapar.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=1d9ABWMJzOg"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/mgzn4i5-grnlg1m"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.to/f/o73rqn4dslkp9eg"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "FALTA PONER"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-98i8x2nu394w.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1dCYucsHDqz13IkBDO9WvNcC5RyOaCN1z/view"}</urlsolve>
-</item>
+
 
 
 <item>
@@ -3267,16 +3129,6 @@
 </item>
 
 
-<item>
-<title>[COLOR white] Los Estados Unidos contra Billie Holiday [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.8[/COLOR]</title>    
-<genre>Música, Drama, Historia</genre>
-<year>2021</year>
-<thumbnail>https://i.imgur.com/R2frjqI.jpg</thumbnail>
-<fanart>https://i.imgur.com/9m9jTC3.jpg</fanart>
-<info>La legendaria Billie Holiday, una de las mejores intérpretes de jazz de todos los tiempos, pasó la mayor parte de su carrera siendo adorada por sus fans alrededor del globo. Todo mientras el Departamento Federal de Narcóticos de Estados Unidos la fijó como objetivo mediante una operación encubierta liderada por el Agente Federal Jimmy Fletcher, con quien Billie había tenido un tumultuoso romance.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=wrQl1hXA7Vg"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/0qy04blg-gmqwjl"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/pk34340gsow00j"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/qjotay2pn3rf"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/0v52yfeindhi"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/154426_-1626613857-Los-Estados-Unidos-contra-Billie-Holiday--BluRay-1080p.torrent"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Wx1KZqbS8JhQwLoGcOU5CV8nKYdibdPO/view"}</urlsolve>
-</item>
-
 
 <item>
 <title>[COLOR white] Come Play [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.4[/COLOR]</title>    
@@ -3466,15 +3318,6 @@
 </item>
 
 
-<item>
-<title>[COLOR white] El Hombre Agua [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.8[/COLOR]</title>    
-<genre>Aventuras,Drama</genre>
-<year>2021</year>  
-<thumbnail>https://i.imgur.com/xP3pnPj.jpg</thumbnail>
-<fanart>https://i.imgur.com/di68dl8.jpg</fanart>
-<info>Un niño emprende la misión para intentar salvar a su madre enferma buscando una figura mítica que se dice que tiene poderes curativos mágicos.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=GJ9Io1UdYHQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/10rjdcj2--rq8z4"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.to/f/wnoxn3p0b0gp4wg"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/bxdgdnmi3mto"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-5pjzjlykdeig.html"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:0e95cfb1c316b4d9dd41e4d2bfc09e7aca44c835"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1vf68FeUDCU_zLRECqOSrR_Gjbg_TMEbo/view"}</urlsolve>
-</item>
 
 
 <item>
@@ -3488,26 +3331,10 @@
 </item>
 
 
-<item>
-<title>[COLOR white] Igor Grom contra el Doctor Peste [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.3[/COLOR]</title>    
-<genre>Acción,Aventuras</genre>
-<year>2021</year>  
-<thumbnail>https://i.imgur.com/VuhUOsA.jpg</thumbnail>
-<fanart>https://i.imgur.com/rtsstgu.jpg</fanart>
-<info>El jefe de policía, Igor Grom, es conocido en San Petersburgo por su carácter incisivo y su actitud irreconciliable hacia los criminales. Pero todo cambia con la aparición de una persona con la máscara del Plague Doctor que asesina a gente que ha escapado de la justicia por dinero o estatus social.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=_oscpLg8ZqY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/jy3xpidgq-k81dd"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.to/f/o73p6ljnbl8ll98"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/pe558x6bhelw"},{"titulo" : "[COLOR white]VideoLoad[/COLOR]","url" : "https://evoload.io/e/G08FX2EEMqVr9T"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:26f467fac9d1199f1945671cea35d4623a85ab8f"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1fJZkB9i51dff7WqHvucETdJtj9h9iZOJ/view"}</urlsolve>
-</item>
 
 
-<item>
-<title>[COLOR white] El mundo que viene [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.1[/COLOR]</title>    
-<genre>Western,Drama,Romance,Siglo XIX,Homosexualidad,Drama romántico</genre>
-<year>2021</year>  
-<thumbnail>https://i.imgur.com/iwgZI2a.jpg</thumbnail>
-<fanart>https://i.imgur.com/eGRoRiL.jpg</fanart>
-<info>En algún lugar a lo largo de la frontera de la costa este estadounidense de mediados del siglo XIX, dos parejas vecinas luchan contra las dificultades y el aislamiento, en un entorno que les desafía tanto física como psicológicamente. En el norte del estado de Nueva York, en la década de 1850, Abigail comienza un nuevo año en la granja rural donde vive con su marido Dyer. Llega la primavera y Abigail conoce a Tallie, una recién llegada emocionalmente sincera y fascinantemente bella que alquila una granja vecina con su marido, Finney. Las dos entablan una relación incierta, y así llenan un vacío en sus vidas que ninguna sabía que existía.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=4j4UlO9lmWQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/10rjdcj2n1qlgzy"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.to/f/o73p07o7fqn8lo"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/201ualywmj9z"},{"titulo" : "[COLOR white]VideoLoad[/COLOR]","url" : "https://evoload.io/e/WH7gqg2HlkeIcQ"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:1144df141deefc28b39f11b3637138cb01537ce7"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1gs_NL0H1NGddM7tsjy3iEvX1mgHCF7Rg/view"}</urlsolve>
-</item>
+
+
 
 
 <item>
@@ -3544,15 +3371,7 @@
 </item>
 
 
-<item>
-<title>[COLOR white] Horizontes [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.8[/COLOR]</title>    
-<genre>Ciencia ficción,Acción,Aventuras,Extraterrestres</genre>
-<year>2021</year>  
-<thumbnail>https://i.imgur.com/YClavKi.jpg</thumbnail>
-<fanart>https://i.imgur.com/ttpo1lV.jpg</fanart>
-<info>Cuando un virus amenaza con convertir a los híbridos alienígenas amistosos que ahora habitan en la Tierra contra los humanos, la capitana Rose Corley debe liderar un equipo de mercenarios de élite en una misión al mundo alienígena para salvar lo que queda de la humanidad.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=8AGCLSycm94"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/5knj1sdjgw8jyq4"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/848o3x1xt9xrp3"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/qsf9lonaodc4"},{"titulo" : "[COLOR white]VideoLoad[/COLOR]","url" : "https://evoload.io/e/VTa7iMDRajkIiV"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Je1_bg2o-dVYIpvVrKe_V25F6Lc0SEsn/view"}</urlsolve>
-</item>
+
 
 
 <item>
@@ -3588,15 +3407,6 @@
 </item>
 
 
-<item>
-<title>[COLOR white] Los traductores [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.8[/COLOR]</title>    
-<genre>Intriga,Thriller,Literatura,Thriller psicológico</genre>
-<year>2021</year>  
-<thumbnail>https://i.imgur.com/qdfjKVr.jpg</thumbnail>
-<fanart>https://i.imgur.com/nViRaf4.jpg</fanart>
-<info>Nueve traductores de nueve nacionalidades diferentes son contratados para traducir el último libro de una trilogía que se ha convertido en un bestseller mundial. Con el máximo secretismo, y para llevar a cabo su misión, deberán permanecer en un búnker de lujo sin contacto con el mundo exterior. Pero cuando las primeras diez páginas del manuscrito aparecen publicadas online, el trabajo soñado se convierte en una pesadilla; se desvela que el filtrador es uno de ellos y pronto se comprueba que el editor está dispuesto a todo lo que sea necesario para intentar desenmascararle.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=8qHyHKW1tdc"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/q3nx0iegylemmxz"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/vn3p3we6c608kk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "FALTA PONER"},{"titulo" : "[COLOR white]VideoLoad[/COLOR]","url" : "https://evoload.io/e/bEtkuKT8F8ijUa"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1lsORf13h2fcgW7wx5XC7nke8FTn_ohHK/view"}</urlsolve>
-</item>
 
 
 <item>
@@ -3665,37 +3475,7 @@
 </item>
 
 
-<item>
-<title>[COLOR white]  Tenia buena pinta [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.4[/COLOR]</title>    
-<genre>Comedia romántica</genre>
-<year>2021</year>  
-<thumbnail>https://i.imgur.com/dj8R2tC.jpg</thumbnail>
-<fanart>https://i.imgur.com/1CkxdB7.jpg</fanart>
-<info>Después de años de darle más prioridad a su carrera que al amor, la comediante de stand up Andrea Singer se topa con el hombre perfecto. En teoría, parece cumplir con todos los requisitos, ¿pero es realmente tan ideal como aparenta?<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=BRlS26iX0dc"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/mgzn4i5-r30zz51"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/xov1j39rbl8d0ve"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/1rlr82dmdyrg"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/nv5f4tkrq8t6"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/14gMyRpHxsMnqnoiuQg_TK8dnhfSj5Gv4/view"}</urlsolve>
-</item>
 
-
-<item>
-<title>[COLOR white] Felizmente [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.3[/COLOR]</title>    
-<genre>Comedia,Thriller</genre>
-<year>2021</year>  
-<thumbnail>https://i.imgur.com/01vI8fl.jpg</thumbnail>
-<fanart>https://i.imgur.com/58i2H50.jpg</fanart>
-<info>Janet y Tom llevan años casados, pero su pasión mutua sigue siendo insaciable. Los dos son atractivos y con dinero: la pareja perfecta de vida feliz. Sin embargo, la visita de un misterioso extraño con una inusual propuesta les lleva a tener que lidiar con un cadáver, a muchas preguntas sin respuesta y a enfrentar las verdades con sus amigos, por llamar así a gente que tal vez podría desear cualquier cosa menos tu bienestar. <info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=JJ8616phBpw"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/zkp50sjg56q1nw-"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/9n84od9marrqk7"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/0tsmf0oj6fjj"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/xp673n60o3aa"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1FdH4qmcMOR0RfT3rK_lZGKEesM-_jT5k/view"}</urlsolve>
-</item>
-
-
-<item>
-<title>[COLOR white] Dating Amber [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.1[/COLOR]</title>    
-<genre>Drama,Comedia,Amistad,Homosexualidad-Años 80</genre>
-<year>2021</year>  
-<thumbnail>https://i.imgur.com/q1bnlON.jpg</thumbnail>
-<fanart>https://i.imgur.com/nrB7vMJ.jpg</fanart>
-<info>Eddie y Amber deciden organizar una relación para evitar que todos especulen sobre su sexualidad. Eddie está ansioso por seguir a su padre en el ejército, mientras que Amber sueña con mudarse al centro liberal de Londres. El plan parece sólido, pero a medida que su arreglo comienza a desmoronarse, la negación de Eddie se hace más profunda cuando Amber se da cuenta de que un futuro peligroso le espera a su mejor amiga a menos que ella intervenga.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=Wb0QGgDo_ZU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/q3nx0ieg20rzq2e"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/4n8o7e31i4nvq7"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/qedoy74icd6a"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/k1rxc36gxetv"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1_fhQZ70ltgd7m1JDDroDPiOmfOo4I0ew/view"}</urlsolve>
-</item>
 
 
 <item>
@@ -3788,15 +3568,7 @@
 </item>
 
 
-<item>
-<title>[COLOR white] Punto ciego [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.4[/COLOR]</title>    
-<genre>Comedia</genre>
-<year>2021</year>  
-<thumbnail>https://i.imgur.com/h7Bm69I.jpg</thumbnail>
-<fanart>https://i.imgur.com/ZzNaqrU.jpg</fanart>
-<info>Collin está en los últimos días de libertad condicional. Siempre a su lado está su mejor amigo, Miles, que tiene un don para buscar problemas. Cuando la oportunidad de Collin de empezar de cero se ve interrumpida por un toque de queda que pierde, su amistad con Miles será puesta a prueba.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=l2nhhjkttIs"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/3p1j2cmxdqe0l-r"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/dq0mpq89hm8q9g"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://upstream.to/hl9s6la2jotn"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/8j7mj5d0toac"},{"titulo" : "[COLOR white]VideoLoad[/COLOR]","url" : "FALTA PONER"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Od1vnQSD2teyfLmQBWkbx2VG7KVC3Dbs/view"}</urlsolve>
-</item>
+
 
 
 <item>
@@ -3997,16 +3769,6 @@
 </item>
 
 
-<item>
-<title>[COLOR white] Reinas del baile [/COLOR][COLOR yellow](2021) [COLOR aqua]*4.8[/COLOR]</title>    
-<genre>Drama,Comedia,Baile</genre>
-<year>2021</year>  
-<thumbnail>https://i.imgur.com/uGoRKa1.jpg</thumbnail>
-<fanart>https://i.imgur.com/uGoRKa1.jpg</fanart>
-<info>Una joven de un pueblecito sueña con ser bailarina y se disfraza de hombre para actuar en un club de drag queens que está de capa caída.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=RV_ikl5tEU0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/jy3xpid5rnkw8jx"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/o7e8zxnztvzg8p"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/kssvhws8gz4u"},{"titulo" : "[COLOR white]VideoLoad[/COLOR]","url" : "https://evoload.io/e/rSBU9RxfmV4U6i"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1urSlUUSPDEeRfVp-fjrrdzq_F-6gftMO/view"}</urlsolve>
-</item>
-
 
 <item>
 <title>[COLOR white] Medios hermanos [/COLOR][COLOR yellow](2020) [COLOR aqua]*7.8[/COLOR]</title>    
@@ -4041,15 +3803,6 @@
 </item>
 
 
-<item>
-<title>[COLOR white] Miss Juneteenth [/COLOR][COLOR yellow](2020) [COLOR aqua]*6.7[/COLOR]</title>    
-<genre>Drama,Familia</genre>
-<year>2020</year>  
-<thumbnail>https://i.imgur.com/4XdWxIs.jpg</thumbnail>
-<fanart>https://i.imgur.com/mn77uMl.jpg</fanart>
-<info>Turquoise, una antigua reina de la belleza en el instituto, se ha convertido ahora en una trabajadora y madre soltera que trata de preparar a su hija para el certamen de "Miss Juneteenth", con la esperanza puesta en que sea capaz de evitar los errores que ella cometió durante su adolescencia.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=Vb3oREG_DdA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/-46j3upl821g1yj"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/j9100w39cn840"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/vzs7nhtv86lo"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1pgWEmdNDLAeipbZlzWQW7uH7g_t4azFU/view"}</urlsolve>
-</item>
 
 
 <item>
@@ -4097,15 +3850,6 @@
 </item>
 
 
-<item>
-<title>[COLOR white] Un efecto optico [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.5[/COLOR]</title>    
-<genre>Comedia</genre>
-<year>2021</year>  
-<thumbnail>https://i.imgur.com/ECo6O9p.jpg</thumbnail>
-<fanart>https://i.imgur.com/GNxD91b.jpg</fanart>
-<info>Alfredo y Teresa son un matrimonio de Burgos que viaja a Nueva York con la intención de "desconectar" y hacer todos los planes que vienen en la guía. Pero nada más aterrizar empiezan a percibir señales, sutiles y no tanto, de que en realidad no están en la ciudad que les vendieron en la agencia. ¿Dónde están entonces?<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=WFvHxqtpmms"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/l86x2cnp6034pqj"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/6q6v3dzgs3ddm"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/dymz2aplxarj"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1exwAoX124raGDWayJv4UXyLHD7XdNnKs/view"}</urlsolve>
-</item>
 
 
 <item>
@@ -4184,36 +3928,7 @@
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=SNruQBLHnUM"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://www.fembed.com/v/e-k5rh-42kjy8k8"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/en7ddd80aqdj9rn"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/w27thmudrb9h"},{"titulo" : "[COLOR white]VideoLoad[/COLOR]","url" : "https://evoload.io/e/mVyOrL3urT4sPp"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1UZA-fz3cKx92-UHmsKGWGNxhDVggEJvL/view"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/151252_-1621760894-Lupin-III-The-First--2020---BluRayRip-AC3-5-1.torrent"},{"titulo" : "[COLOR white]Magnet[/COLOR]","url" : "magnet:?xt=urn:btih:010b70679334f1a9e0b53c1a78dcfcfab2aa1918"}</urlsolve>
 </item>
 
-<item>
-<title>[COLOR white]  Hope [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.4[/COLOR]</title>    
-<genre>Drama, Romance </genre>
-<year>2021</year>  
-<thumbnail>https://i.imgur.com/eBf5v89.jpg</thumbnail>
-<fanart>https://i.imgur.com/XPRadtl.jpg</fanart>
-<info>La relación entre los artistas-socios Tomas y Anja se pone a prueba después de que Anja recibe un diagnóstico que pone en peligro su vida.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=JZU8IALnnOg"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://www.fembed.com/v/znz6lfjkx32561x"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/dq06491ofm91r0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/uliqkiu12xy3"},{"titulo" : "[COLOR white]VideoLoad[/COLOR]","url" : "https://evoload.io/e/uHEsPIGoCCdlrY"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1_UWurlrEgh9m0psbR168qDt-Ur5nxbLC/view"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/150935_-1621238299-Hope--2021---BluRayRip-AC3-5-1.torrent"},{"titulo" : "[COLOR white]Magnet[/COLOR]","url" : "magnet:?xt=urn:btih:d60559a9dba8f6492b6ce9fb6a373520f798e8a6"}</urlsolve>
-</item>
 
-
-<item>
-<title>[COLOR white]  Level 16 [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.8[/COLOR]</title>    
-<genre>Ciencia ficción, Suspense</genre>
-<year>2021</year>  
-<thumbnail>https://i.imgur.com/aJZpQKg.jpg</thumbnail>
-<fanart>https://i.imgur.com/uY3kh0I.jpg</fanart>
-<info>Level 16 se centra en Vivian, una joven de 16 años atrapada en la academia Vestalis, un internado que es lo más parecido a una prisión. Solo mira por si misma hasta que se reúne con Sophia, una antigua amiga que la traicionó. Juntas, se embarcarán en una peligrosa búsqueda para descubrir la terrible verdad que hay en su confinamiento.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=xzn5N0fSA8o"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://www.fembed.com/v/lry15snp71g6zy3"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/7rd7grxos4x00z"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/rqpjtb4841nh"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/19qRNoLWzGqIXtTfvi-Yr0_nFmiaj1n4O/view"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/151051_-1621411904-Nivel-16--2021---BluRayRip-AC3-5-1.torrent"},{"titulo" : "[COLOR white]Magnet[/COLOR]","url" : "magnet:?xt=urn:btih:f586d61e8e888a48af24bcb537b14e7d20b474b0"}</urlsolve>
-</item>
-
-<item>
-<title>[COLOR white]  La maldicion de Lake Manor [/COLOR][COLOR yellow](2020) [COLOR aqua]*5.7[/COLOR]</title>    
-<genre>Terror,Casas encantadas</genre>
-<year>2020</year>  
-<thumbnail>https://i.imgur.com/P1IzHON.jpg</thumbnail>
-<fanart>https://i.imgur.com/hFBHzK3.jpg</fanart>
-<info>Samuel es un niño parapléjico que vive junto a su madre Elena en Lake Manor (Torino, Italia), dentro de una mansión alejada de la civilización. El chico ha recibido órdenes de no abandonar nunca su casa, por lo que se siente seguro pero algo frustrado y oprimido. Su situación cambia cuando llega Denise, una ayudante adolescente que le ayuda a cambiar su punto de vista sobre la relación que le une con su madre. Sin embargo, Elena hará todo lo posible por impedir que su hijo se vaya de su lado, algo que confunde tanto a Denise como al propio Samuel, que sospecha que su madre oculta algo.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=7TpVHcnnxSQ"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://www.fembed.com/v/em4n6s-4lkz3j7m"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/pkeodl63fggml6x"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/p43a5u1bu4n5"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1eSsahP-hmkiAN6EzHk5OanbUO0gfdw5Z/view"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/151413_-1622034438-La-maldicion-de-Lake-Manor--BluRay-MicroHD.torrent"},{"titulo" : "[COLOR white]Magnet[/COLOR]","url" : "magnet:?xt=urn:btih:DB82326BF0A8971FDE6CB64B10F1A3FF4714E034"}</urlsolve>
-</item>
 
 
 <item>
@@ -4260,15 +3975,7 @@
 </item>
 
 
-<item>
-<title>[COLOR white] Shiva Baby [/COLOR][COLOR yellow](2020) [COLOR aqua]*7.2[/COLOR]</title>    
-<genre>Comedia,Drama,Remake</genre>
-<year>2020</year>  
-<thumbnail>https://i.imgur.com/hWykFlJ.jpg</thumbnail>
-<fanart>https://i.imgur.com/OSCr5lG.jpg</fanart>
-<info>En un funeral judío con sus padres, una estudiante universitaria se encuentra con su amante.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=piNlRsaSbso"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://www.fembed.com/v/kx4-1i3143-megx"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/7rdmev99ad478jw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/847xwo1hkz87"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1ZbEpbt_7sj7N66T2ZNs5jHpsPOVXc1Lf/view"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/150981_-1621316322-Shiva-Baby--2020---BluRayRip-AC3-5-1.torrent"},{"titulo" : "[COLOR white]Magnet[/COLOR]","url" : "magnet:?xt=urn:btih:D9E9BE7840DF49C59E94EB9C15BC046B1D7CB5C9"}</urlsolve>
-</item>
+
 
 
 <item>
@@ -4337,26 +4044,6 @@
 </item>
 
 
-<item>
-<title>[COLOR white] Historias de creacion [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.3[/COLOR]</title>    
-<genre>Drama,Biográfico,Música,Años 80</genre>
-<year>2021</year>  
-<thumbnail>https://i.imgur.com/ubc1jr5.jpg</thumbnail>
-<fanart>https://i.imgur.com/n46Y3LE.jpg</fanart>
-<info>Cuenta la historia del director de sello "Creation Records", Alan McGee, y de cómo un muchacho de Glasgow cambió para siempre la historia de la música británica. Entre otras cosas, McGee fue el descubridor de Oasis, comenzó su andadura en 1983 con las bandas escocesas The Jesus and Mary Chain y Primal Scream, y puso el britpop en primera línea del panorama musical mundial.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=BvQcvNirYUk"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://www.fembed.com/v/3p1j2cm88471pz5"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/1vq09n9wcnpvj9"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1rUZ5ONKDnrUeFbLUFxP-9J1ojtTwbgiD/view"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/150891_-1621154988-Creation-Stories--2020---BluRayRip-AC3-5-1.torrent"},{"titulo" : "[COLOR white]Magnet[/COLOR]","url" : "magnet:?xt=urn:btih:39C39D53D83571F98E8B3BA7370C1988FE857439"}</urlsolve>
-</item>
-
-
-<item>
-<title>[COLOR white] Despues de la boda [/COLOR][COLOR yellow](2020) [COLOR aqua]*6.3[/COLOR]</title>    
-<genre>Drama,Remake,Familia,Melodrama</genre>
-<year>2020</year>  
-<thumbnail>https://i.imgur.com/p1nw7QZ.jpg</thumbnail>
-<fanart>https://i.imgur.com/z84u1T7.jpg</fanart>
-<info>La directora de un orfanato hindú (Michelle Williams) se encuentra al borde de la bancarrota. Cuando descubre que su organización está a punto de recibir una considerable donación por parte de una empresaria norteamericana (Julianne Moore), viaja a Nueva York para conocerla. Sin embargo, allí se verá obligada a confrontar un pasado del que huyó tiempo atrás. Remake de la película danesa "After the Wedding". <info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=I-fFMTf7RpY"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://www.fembed.com/v/-46j3upllwjlwzl"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/dq0v3qn6bk9rzr"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1VkLlHqo893cZSmyHD7AeuRGoWBLG6yiA/view"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/150893_-1621155098-Despues-de-la-boda--After-the-Wedding---2020---BluRayRip-AC3-5-1.torrent"},{"titulo" : "[COLOR white]Magnet[/COLOR]","url" : "magnet:?xt=urn:btih:64E6AE3DDC950A7A3E15D2280EB52F1C84CDA956"}</urlsolve>
-</item>
 
 
 <item>
@@ -4381,15 +4068,7 @@
 </item>
 
 
-<item>
-<title>[COLOR white] Paredes siniestras [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.3[/COLOR]</title>    
-<genre>Aventuras,Terror,Casas encantadas,Cine familiar</genre>
-<year>2021</year>  
-<thumbnail>https://i.imgur.com/w90xgmV.jpg</thumbnail>
-<fanart>https://i.imgur.com/17hecha.jpg</fanart>
-<info>Hendrik tiene 16 años y vive en la ciudad, pero está enfadado porque su madre ha decidido mudarse con él y con su hermano a un pequeño pueblo del sur de Austria. Para empeorar las cosas, los locales dicen que la casa está encantada. Cuando su hermano Eddi empieza a hacer símbolos extraños en las paredes, Hendrik decide averiguar qué es lo que pasa en la casa.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=_-5pjPxSENU"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://www.fembed.com/v/6znj3t0437-g0r7"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/wne09erzbrrqvn"},{"titulo" : "[COLOR white]VideoMy[/COLOR]","url" : "https://embed.mystream.to/575ydffdns7n"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1V2zY7_6QCAnKMgGjDDI_ayF5e5jghjwl/view"}</urlsolve>
-</item>
+
 
 
 <item>
@@ -4414,15 +4093,7 @@
 </item>
 
 
-<item>
-<title>[COLOR white] Hijo del sur [/COLOR][COLOR yellow](2020) [COLOR aqua]*5.7[/COLOR]</title>    
-<genre>Drama,Biográfico</genre>
-<year>2020</year>  
-<thumbnail>https://i.imgur.com/v5OIeIA.jpg</thumbnail>
-<fanart>https://i.imgur.com/u7XovUr.jpg</fanart>
-<info>El nieto de un miembro del Ku Klux Klan decide unirse al movimiento de lucha por los Derechos Civiles en los Estados Unidos al cumplir la mayoría de edad. Basada en la obra autobiográfica de Bob Zellner: "The Wrong Side of Murder Creek".<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=x0IjvDWw0i4"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://www.fembed.com/v/mgzn4i5l6mk0jpp"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/zpe06w6nsggz3ol"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/e1chkvid5yg6.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1iIc1mnbYFroQiRAKnPnKoEHGJ-GoTur6/view"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/150774_-1620978173-Hijos-del-Sur--Son-of-the-South---2020---BluRayRip-AC3-5-1.torrent"},{"titulo" : "[COLOR white]Magnet[/COLOR]","url" : "magnet:?xt=urn:btih:B221ED8734C522CF5802F6DB286366A78D388C7D"}</urlsolve>
-</item>
+
 
 
 <item>
@@ -4502,26 +4173,7 @@
 </item>
 
 
-<item>
-<title>[COLOR white] Los colores del amor [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.7[/COLOR]</title>    
-<genre>Drama,Romance</genre>
-<year>2021</year>  
-<thumbnail>https://i.imgur.com/8aMLLhu.jpg</thumbnail>
-<fanart>https://i.imgur.com/wcS02L3.jpg</fanart>
-<info>Cuando la bibliotecaria Taylor Harris pierde repentinamente su trabajo, regresa a su pequeña ciudad natal en Montana. Allí, se involucra en la lucha para ayudar a salvar el pequeño hotel de su hermano del magnate Joel Sheenan, que quiere renovarlo.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=ClQF03YtapM"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://www.fembed.com/v/10rjdcjzrr058q0"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/mde3n8xgcxvxoo"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/wvaro4vejdn8.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1qnSCYILD5tatPpUGq1aMXf9LwXPNKZf7/view"}</urlsolve>
-</item>
 
-
-<item>
-<title>[COLOR white] Panico Satanico [/COLOR][COLOR yellow](2020) [COLOR aqua]*6.2[/COLOR]</title>    
-<genre>Comedia,Terror</genre>
-<year>2020</year>  
-<thumbnail>https://i.imgur.com/6Nq5brW.jpg</thumbnail>
-<fanart>https://i.imgur.com/diMoNnA.jpg</fanart>
-<info>Una repartidora de pizza que sufre una importante crisis económica se ve obligada a luchar por su vida (y por sus propinas) cuando reparto su último pedido a una sociedad oculta de seguidores de Satán que andaban buscando a una virgen para realizar con ella un sacrificio humano.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=0gts3q4zz88"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://www.fembed.com/v/8ql36h87m80-p1q"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/6q64rmjoa4npqp"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/u5aiwjcg1lw5.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1gKDDYGE4k2NxyaWmCA-syV_xTgJHQzVH/view"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/150453_-1620404780-Satanic-Panic--2021---BluRay-MicroHD.torrent"},{"titulo" : "[COLOR white]Magnet[/COLOR]","url" : "magnet:?xt=urn:btih:6F69DD0B724E4C0967DDC6DF61B86616A44FB772"}</urlsolve>
-</item>
 
 
 <item>
@@ -4569,15 +4221,6 @@
 </item>
 
 
-<item>
-<title>[COLOR white] Truco o Trato [/COLOR][COLOR yellow](2020) [COLOR aqua]*4.9[/COLOR]</title>    
-<genre>Terror,Asesinos en serie</genre>
-<year>2020</year>  
-<thumbnail>https://i.imgur.com/dkfWKn2.jpg</thumbnail>
-<fanart>https://i.imgur.com/ZGUQZ3R.jpg</fanart>
-<info>Un asesino en serie acude todos los años a un pueblo pequeño de distintas comarcas para cometer una serie de horribles asesinatos. Al tratarse de distintos estados y jurisdicciones, no parecen tener relación entre sí. Aunque nadie cree que éstos puedan haber sido cometidos por la misma persona, el detective Mike Denver (Mulroney) ya se ha enfrentado a Trick antes. O al menos, así lo afirma todo el mundo que le conoce. <info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=kX87UogsuuE"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://www.fembed.com/v/7mwj4sg6k4e1gey"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/1vqqkxxwbkx3e4x"},{"titulo" : "[COLOR white]Drive 1[/COLOR]","url" : "https://drive.google.com/file/d/1WA-tKe4kdO_4o60IKw8049HT-hQkaTxI/view"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/150439_-1620385869-Trick--BluRay-MicroHD.torrent"},{"titulo" : "[COLOR white]Magnet[/COLOR]","url" : "magnet:?xt=urn:btih:E3BDDD798E365A702609BA4094026E47E6D07A27"}</urlsolve>
-</item>
 
 
 <item> 
@@ -4628,17 +4271,6 @@
 
 
 
-<item>
-<title>[COLOR white] Pelea de chicas [/COLOR][COLOR yellow](2020) [COLOR aqua]*4.6[/COLOR]</title>    
-<genre>Comedia,Accion</genre>
-<year>2020</year>  
-<thumbnail>https://i.imgur.com/JOYIXsQ.jpg</thumbnail>
-<fanart>https://i.imgur.com/UHckIfO.jpg</fanart>
-<info>Cuando Anna Wyncomb descubre un club de lucha underground de mujeres, se da cuenta de que está más conectada a la historia del club de lo que pensaba.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Q2PAssZruXQ"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://www.fembed.com/v/6znj3t040m0m5-1"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/gnl413dmcxe03g"},{"titulo" : "[COLOR white]Drive 1[/COLOR]","url" : "https://drive.google.com/file/d/1V52DHUFKqaMvxQd2WE-uUlGCifi-2pbr/view"}</urlsolve>
-</item>
-
-
 
 
 <item>
@@ -4686,48 +4318,7 @@
 </item>
 
 
-<item>
-<title>[COLOR white]  Dos sinverguenzas [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.0[/COLOR]</title>    
-<genre>Comedia,Crimen</genre>
-<year>2021</year>  
-<thumbnail>https://i.imgur.com/Fk8kVOv.jpg</thumbnail>
-<fanart>https://i.imgur.com/DvOV5bT.jpg</fanart>
-<info>Después de una estafa fallida, Clóvis se encuentra con Lohane, su hermana adoptiva. Cuando están en apuros, se dan cuenta de que la única salida es seguir juntos.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=MkGRWQMEYyw"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://www.fembed.com/v/7mwj4sg6x68nzdj"},{"titulo" : "[COLOR white]MixDrop[/COLOR]","url" : "https://mixdrop.sx/e/gnl4e0kmt47z1n"},{"titulo" : "[COLOR white]Drive 1[/COLOR]","url" : "https://drive.google.com/file/d/1itV-EYlcqb-OC_F1R3LKQypeLACnEvBO/view"}</urlsolve>
-</item>
 
-
-<item>
-<title>[COLOR white]  3 dias en Quiberon [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.5[/COLOR]</title>    
-<genre>Drama,Basado en hechos reales</genre>
-<year>2021</year>  
-<thumbnail>https://i.imgur.com/RJH6pE8.jpg</thumbnail>
-<fanart>https://i.imgur.com/rKOh38G.jpg</fanart>
-<info>Mayo de 1982. En una clínica de rehabilitación, Romy Schneider da su última entrevista a dos periodistas de la conocida revista alemana Stern. Tres días de deseo romántico, ambición profesional y urgencia de vivir.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=tR2cOh8z_sI"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://www.fembed.com/v/mgzn4i5l8lgm4q3"},{"titulo" : "[COLOR white]MixDrop[/COLOR]","url" : "https://mixdrop.sx/e/gnl4ewj8cw474km"},{"titulo" : "[COLOR white]Drive 1[/COLOR]","url" : "https://drive.google.com/file/d/1tL-kpxfYnNDi8S1fmUVC_34e6-DRhBHL/view"}</urlsolve>
-</item>
-
-
-<item>
-<title>[COLOR white]  Koko-di Koko-da [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.0[/COLOR]</title>    
-<genre>Drama,Fantástico,Terror</genre>
-<year>2021</year>  
-<thumbnail>https://i.imgur.com/uaFoMOo.jpg</thumbnail>
-<fanart>https://i.imgur.com/ovnU6Kv.jpg</fanart>
-<info>Tras el fallecimiento de su hija Maja en su octavo cumpleaños, Elin y Tobias se dirigen a un camping en su honor. Con la idea de su muerte aún pesándoles en la conciencia, se ven envueltos en un espiral de tormento, humillación y pesadillas a manos de una compañía de excéntricos perturbados<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=eqMEuLgPIpU"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://www.fembed.com/v/q3nx0ie363yygr7"},{"titulo" : "[COLOR white]MixDrop[/COLOR]","url" : "https://mixdrop.sx/e/n09gpnzvsq14lo"},{"titulo" : "[COLOR white]Drive 1[/COLOR]","url" : "https://drive.google.com/file/d/1BM0RqM5PKNav2lTl7OPL7-Xxp9UGNIUR/view"}</urlsolve>
-</item>
-
-
-<item>
-<title>[COLOR white]  La apariencia de las cosas [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.3[/COLOR]</title>    
-<genre>Terror,Thriller,Sobrenatural</genre>
-<year>2021</year>  
-<thumbnail>https://i.imgur.com/CSW2jQo.jpg</thumbnail>
-<fanart>https://i.imgur.com/0eQtpWQ.jpg</fanart>
-<info>Una pareja de Manhattan se muda a una aldea histórica en el valle del Hudson y acaba descubriendo que su matrimonio oculta una siniestra oscuridad que rivaliza con la historia de su nuevo hogar. <info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=TmcGxl_gIrs"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://www.fembed.com/v/dz3w4txdjdpge28"},{"titulo" : "[COLOR white]MixDrop[/COLOR]","url" : "https://mixdrop.sx/e/9n76vqkkiqxn97"},{"titulo" : "[COLOR white]Drive 1[/COLOR]","url" : "https://drive.google.com/file/d/1eT_4Hi9xLcCS3Alu4tteR59k8yenJUaK/view"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/150143_-1619809135-La-apariencia-de-las-cosas--BluRay-MicroHD.torrent"},{"titulo" : "[COLOR white]Magnet[/COLOR]","url" : "magnet:?xt=urn:btih:924F01A7C3A320495014074D4AE97EF7664C51EF"}</urlsolve>
-</item>
 
 
 <item>
@@ -4741,15 +4332,7 @@
 </item>
 
 
-<item>
-<title>[COLOR white] Terremoto [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.7[/COLOR]</title>    
-<genre>Drama,Supervivencia,Terremotos,Años 80</genre>
-<year>2021</year>  
-<thumbnail>https://i.imgur.com/rfAVhgB.jpg</thumbnail>
-<fanart>https://i.imgur.com/nsxeqCJ.jpg</fanart>
-<info>Basado en el Terremoto de 1988 que azotó al país de Armenia, cuenta la historia de un hombre de familia que tras un viaje al exterior, aterriza en el epicentro de la desastre, encontrando su ciudad natal devastada. Pronto, tendrá que encontrar a su familia. <info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=rXPqkjsxdD8"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/8njvv22wfee9"},{"titulo" : "[COLOR white]MixDrop[/COLOR]","url" : "https://mixdrop.sx/e/mde4nv3xs33n9n"},{"titulo" : "[COLOR white]Drive 1[/COLOR]","url" : "https://drive.google.com/file/d/1LNHHLHpihTzLChNTUwue31lBL03E-KDa/view"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/149995_-1619607685-Earthquake--2021---BluRayRip-AC3-5-1.torrent"},{"titulo" : "[COLOR white]Magnet[/COLOR]","url" : "magnet:?xt=urn:btih:6F59991F5CF6D0A0AC84FCE88EBFB1FC55D80A5F"}</urlsolve>
-</item>
+
 
 
 <item>
@@ -4763,27 +4346,6 @@
 </item>
 
 
-<item>
-<title>[COLOR white] Manual de la buena esposa [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.7[/COLOR]</title>    
-<genre>Drama,Comedia</genre>
-<year>2021</year>  
-<thumbnail>https://i.imgur.com/c4ese8H.jpg</thumbnail>
-<fanart>https://i.imgur.com/WFxFFMy.jpg</fanart>
-<info>Cuidar del hogar y plegarse a los deberes conyugales sin rechistar: es lo que enseña con fervor Paulette Van Der Breck en su escuela para muchachas. Sus certezas se tambalearán en el momento en que se encuentre viuda y arruinada. ¿Es el regreso de su primer amor o el viento de libertad del Mayo del 68? ¿Y si la buena esposa se convirtiese en una mujer libre? <info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=EXrZocnVOaE"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://www.fembed.com/v/wrn56inr74kzwml"},{"titulo" : "[COLOR white]MixDrop[/COLOR]","url" : "https://mixdrop.sx/e/0vl3wnr6ske78n"},{"titulo" : "[COLOR white]UpStream[/COLOR]","url" : "https://upstream.to/embed-25rd5r3x00wh.html"},{"titulo" : "[COLOR white]Drive 1[/COLOR]","url" : "https://drive.google.com/file/d/1cqFP9sCbt8YXHYfdfqO3IRiGJfvI4HmP/view"}</urlsolve>
-</item>
-
-
-<item>
-<title>[COLOR white] For the Sake of Vicious [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.1[/COLOR]</title>    
-<genre>Acción,Halloween</genre>
-<year>2021</year>  
-<thumbnail>https://i.imgur.com/dFY3WhX.jpg</thumbnail>
-<fanart>https://i.imgur.com/Kt90LR4.jpg</fanart>
-<info>Una enfermera inocente, un maníaco torturado y un rehén sospechoso se enfrentan a una ola de intrusos violentos mientras descienden a su lugar de refugio en la noche de Halloween.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=w6fyxeJbrRQ&t=4s"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://www.fembed.com/v/7mwj4sg65wlmw6w"},{"titulo" : "[COLOR white]MixDrop[/COLOR]","url" : "https://mixdrop.sx/f/vnekk099i3no97"},{"titulo" : "[COLOR white]Drive 1[/COLOR]","url" : "https://drive.google.com/file/d/1Swg9ukosrkugvdvZMc3Ou7KkC6x4WPvN/view"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/149925_-1619507094-For-the-Sake-of-Vicious--2020---BluRayRip-AC3-5-1.torrent"},{"titulo" : "[COLOR white]Magnet[/COLOR]","url" : "magnet:?xt=urn:btih:509F8D31B24815E90E40B4D3B293E54CC86BBFCF"}</urlsolve>
-</item>
-
 
 <item>
 <title>[COLOR white] Godzilla vs Kong [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.5[/COLOR]</title>    
@@ -4796,15 +4358,7 @@
 </item>
 
 
-<item>
-<title>[COLOR white] Polizon [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.2[/COLOR]</title>    
-<genre>Ciencia ficción,Aventura espacial</genre>
-<year>2021</year>  
-<thumbnail>https://i.imgur.com/8tpXkS1.jpg</thumbnail>
-<fanart>https://i.imgur.com/W4UnEGM.jpg</fanart>
-<info>La tripulación de una nave espacial que se dirige a Marte descubre inesperadamente la presencia de un polizón a bordo que provoca accidentalmente daños graves en los sistemas de soporte vital de la nave. Sin combustible para regresar a la Tierra y sin medios suficientes para sobrevivir mucho tiempo a la deriva, los tripulantes deciden "acabar" con la presencia del intruso a cualquier precio. Sólo una investigadora médica (Kendrick) que viaja con ellos se opone a una decisión que traerá consecuencias funestas para sus tripulantes.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=k4lBpjhwJsA"},{"titulo" : "[COLOR white]Drive 1[/COLOR]","url" : "https://drive.google.com/file/d/173RbaY5ng2GkhE8F9akScWT3GUynhQlc/view"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://www.fembed.com/v/6znj3t04xzdm0dk"},{"titulo" : "[COLOR white]UpStream[/COLOR]","url" : "https://upstream.to/embed-3i0ibpgh9jal.html"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/149867_-1619368415-Pennyworth---Temporada-2--HDTV.torrent"},{"titulo" : "[COLOR white]Magnet[/COLOR]","url" : "magnet:?xt=urn:btih:B325FA2B643B1BA2E949EDA616BBF1735FC7DB33"}</urlsolve>
-</item>
+
 
 
 <item>
@@ -4819,202 +4373,57 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 </item>
 
 
-<item>
-<title>[COLOR white] Mi amigo pony [/COLOR][COLOR yellow](2020) [COLOR aqua]*5.7[/COLOR]</title>    
-<genre>Aventuras,Cine familiar</genre>
-<year>2020</year>  
-<thumbnail>https://i.imgur.com/4BDaF37.jpg</thumbnail>
-<fanart>https://i.imgur.com/W4UnEGM.jpg</fanart>
-<info>Cécile, de 10 años, se traslada al sur de Francia con su madre, Louise. La integración con los demás niños del pueblo no es fácil. Cuando un circo ambulante se instala en la puerta de al lado, Cécile descubre que están maltratando a Poly, el poni estrella, y decide protegerlo y organizar su huida. Perseguidos por Brancalou, el inquietante director del circo, y el misterioso Victor, Cécile y Poly se embarcan en una carrera llena de obstáculos, un verdadero viaje iniciático y una increíble historia de amistad.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=LQRLQxExhBo"},{"titulo" : "[COLOR white]Drive 1[/COLOR]","url" : "https://drive.google.com/file/d/1oScYzattJu3oX9XfMGrm3jhsDMX3SBTt/view"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://www.fembed.com/v/jy3xpid512qgxd0"},{"titulo" : "[COLOR white]CloudVideo[/COLOR]","url" : "https://cloudvideo.tv/t3j4qn11sm63"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/149677_-1618984558-Mi-amigo-pony--2020---BluRayRip-AC3-5-1.torrent"},{"titulo" : "[COLOR white]Magnet[/COLOR]","url" : "magnet:?xt=urn:btih:96E380BE4F3F64DC330BA24573FBEC0CA50D0F66"}</urlsolve>
-</item>
-
-
-<item>
-<title>[COLOR white] Benny te quiere [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.9[/COLOR]</title>    
-<genre>Comedia,Terror</genre>
-<year>2021</year>  
-<thumbnail>https://i.imgur.com/0wi9RaJ.jpg</thumbnail>
-<fanart>https://i.imgur.com/W4UnEGM.jpg</fanart>
-<info>Jack está tratando desesperadamente de encontrar un nuevo comienzo en la vida. Pero cuando tira su querido juguete de la infancia, Benny, se da cuenta que eso solo puede terminar en muerte. <info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=Qb7IIUneYU8"},{"titulo" : "[COLOR white]Drive 1[/COLOR]","url" : "https://drive.google.com/file/d/1D7vglqV3Bom0VdnpzkaXn3AIvZWu0JMV/view"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://www.fembed.com/v/2r2j0i2jk3m-ngm"},{"titulo" : "[COLOR white]PlayTube[/COLOR]","url" : "https://cloudvideo.tv/kwr5zlffi1vw"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/149678_-1618991559-Benny-Loves-You--2021---BluRayRip-AC3-5-1.torrent"},{"titulo" : "[COLOR white]Magnet[/COLOR]","url" : "magnet:?xt=urn:btih:790555C8447CCD3010EF6330CBC2252C8457CFBE"}</urlsolve>
-</item>
-
-
-<item>
-<title>[COLOR white] El Armario [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.3[/COLOR]</title>    
-<genre>Terror,Intriga</genre>
-<year>2021</year>  
-<thumbnail>https://i.imgur.com/MpXrvhg.jpg</thumbnail>
-<fanart>https://i.imgur.com/W4UnEGM.jpg</fanart>
-<info>Después de que la hija de Sang-Won, Yi-Na, desaparezca sin dejar rastro de su nueva casa, un hombre misterioso contacta con la familia para sugerirle que la busque en el armario.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=_9AFcN_CNvs"},{"titulo" : "[COLOR white]Drive 1[/COLOR]","url" : "https://drive.google.com/file/d/1azmanWWIqGkDsphyciFxfHH-lo4Hn_kv/view"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://www.fembed.com/v/-46j3uplw2d7w4r"},{"titulo" : "[COLOR white]UpStream[/COLOR]","url" : "https://upstream.to/embed-n9mnctio9cco.html"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/149599_-1618838484-The-Closet--2021---BluRayRip-AC3-5-1.torrent"},{"titulo" : "[COLOR white]Magnet[/COLOR]","url" : "magnet:?xt=urn:btih:D1CF8A30C82E72ECCAE894B5821C5C352C6C4E9B"}</urlsolve>
-</item>
-
-
-<item>
-<title>[COLOR white] La leyenda de la daga  [/COLOR][COLOR yellow](2020) [COLOR aqua]*5.4[/COLOR]</title>    
-<genre>Aventuras,Comedia,Romance</genre>
-<year>2020</year>  
-<thumbnail>https://i.imgur.com/XBkA9Rb.jpg</thumbnail>
-<fanart>https://i.imgur.com/W4UnEGM.jpg</fanart>
-<info>Un cazador de tesoros engaña a su novia para que se vaya de vacaciones a Mallorca, con la esperanza de arreglar la relación y encontrar la legendaria Daga Fantasma.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=ip6Y93c-a_4"},{"titulo" : "[COLOR white]Drive 1[/COLOR]","url" : "https://drive.google.com/file/d/1R3Kjhq6VR9Fo6e3AMARjFAjW6UBWzB_g/view"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://femax20.com/v/0d6j7clnw7jx0jn"},{"titulo" : "[COLOR white]UpStream[/COLOR]","url" : "https://upstream.to/embed-xrahpc8phtm1.html"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/149570_-1618765945-La-leyenda-de-la-daga--2020---BluRayRip-AC3-5-1.torrent"},{"titulo" : "[COLOR white]Magnet[/COLOR]","url" : "magnet:?xt=urn:btih:4D92DE8475D1EA9BE5BF31C95C8A9D50E286732A"}</urlsolve>
-</item>
-
-
-<item>
-<title>[COLOR white] Muerte en la comunidad [/COLOR][COLOR yellow](2021) [COLOR aqua]*4.4[/COLOR]</title>    
-<genre>Drama,Thriller</genre>
-<year>2021</year>  
-<thumbnail>https://i.imgur.com/Ty2FT3k.jpg</thumbnail>
-<fanart>https://i.imgur.com/W4UnEGM.jpg</fanart>
-<info>Años después de la muerte de su esposo, Julie Caster se muda al otro lado del país para comenzar una nueva vida con su hijo pequeño y establecer una relación más estrecha con la hermana de su difunto esposo, Alison.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=Q_B0xzQyx4E"},{"titulo" : "[COLOR white]Drive 1[/COLOR]","url" : "https://drive.google.com/file/d/1AM4kghxd9XWQ_bYVq6Fd-KfxNa99CX6B/view"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://www.fembed.com/v/g51ndt-pdpkym7d"},{"titulo" : "[COLOR white]PlayTube[/COLOR]","url" : "https://playtube.ws/embed-d4cdow72l3mr.html"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/149596_-1618826183-Muerte-En-La-Comunidad--2021---BluRayRip-AC3-5-1.torrent"},{"titulo" : "[COLOR white]Magnet[/COLOR]","url" : "magnet:?xt=urn:btih:99435EB211D79C0EBD0F3C8FC96BBE668651F907"}</urlsolve>
-</item>
-
-
-<item>
-<title>[COLOR white] Entonces llegaste tu [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.1[/COLOR]</title>    
-<genre>Comedia,Romance</genre>
-<year>2021</year>  
-<thumbnail>https://i.imgur.com/t3zYHOv.jpg</thumbnail>
-<fanart>https://i.imgur.com/W4UnEGM.jpg</fanart>
-<info>Una viuda solitaria plantea realizar un viaje alrededor del mundo con las cenizas de su marido para visitar los sitios que ambos adoraban en sus películas favoritas.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=WAdjWtXKt9M"},{"titulo" : "[COLOR white]Drive 1[/COLOR]","url" : "https://drive.google.com/file/d/1a2pDMT-MRZLNey9sCrYcpTQmY9Hgu5WU/view"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://mixdrop.to/f/gnl0q43vuxvo1q"},{"titulo" : "[COLOR white]CloudVideo[/COLOR]","url" : "https://cloudvideo.tv/hx8ndlfw0he7"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/149604_-1618847005-Entonces-llegaste-tu--2020---BluRayRip-AC3-5-1.torrent"},{"titulo" : "[COLOR white]Magnet[/COLOR]","url" : "magnet:?xt=urn:btih:BC38548D86ACCCE913C397DB1702D24B2AD0DCEB"}</urlsolve>
-</item>
-
-
-<item>
-<title>[COLOR white] Rafael [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.7[/COLOR]</title>    
-<genre>Drama</genre>
-<year>2021</year>  
-<thumbnail>https://i.imgur.com/DS8tvN8.jpg</thumbnail>
-<fanart>https://i.imgur.com/W4UnEGM.jpg</fanart>
-<info>Las protestas de la Primavera Árabe obligan al tunecino Nazir, casado con su mujer holandesa Kimmy, a escapar hacia Europa. Al mismo tiempo, están esperando el nacimiento de su primer hijo.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=dFCRwTy16mU&t=10s"},{"titulo" : "[COLOR white]Drive 1[/COLOR]","url" : "https://drive.google.com/file/d/1IfnLHcfmfJCe-gBN0amEGyhPFNJQ5C0I/view"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://www.fembed.com/v/y1r5dte1wzpq7nq"},{"titulo" : "[COLOR white]MixDrop[/COLOR]","url" : "https://mixdrop.to/f/o7e4og66cl0lg8e"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/149608_-1618849647-Rafael--2021---BluRayRip-AC3-5-1.torrent"},{"titulo" : "[COLOR white]Magnet[/COLOR]","url" : "magnet:?xt=urn:btih:82FA0307842A025743A9A36C9DDE30FD5E3890B0"}</urlsolve>
-</item>
-
-
-<item>
-<title>[COLOR white] Into the Beat: Tu corazon baila [/COLOR][COLOR yellow](2020) [COLOR aqua]*5.3[/COLOR]</title>    
-<genre>Drama,Romance,Baile</genre>
-<year>2020</year>  
-<thumbnail>https://i.imgur.com/Qgofrni.jpg</thumbnail>
-<fanart>https://i.imgur.com/W4UnEGM.jpg</fanart>
-<info>Una joven bailarina de ballet descubre el hip-hop por casualidad y se enfrenta a un dilema imposible: seguir los pasos de sus padres o dedicarse a su nueva pasión.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=x9RwiM4WVIo"},{"titulo" : "[COLOR white]Drive 1[/COLOR]","url" : "https://drive.google.com/file/d/1IlZzB4MzUJTE8WWTHnGbf3NJGRSYgtVZ/view"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://www.fembed.com/v/y1r5dte1-r4mz2l"},{"titulo" : "[COLOR white]PlayTube[/COLOR]","url" : "https://playtube.ws/embed-zbz834fqy34k.html"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/149482_-1618587900-Into-the-Beat-Tu-corazon-baila--2020---BluRayRip-AC3-5-1.torrent"},{"titulo" : "[COLOR white]Magnet[/COLOR]","url" : "magnet:?xt=urn:btih:02E0055B2C81367781A394F1D0FCCE8C6F3718F3"}</urlsolve>
-</item>
-
-
-<item>
-<title>[COLOR white] Synchronic:Los limites del tiempo [/COLOR][COLOR yellow](2020) [COLOR aqua]*6.2[/COLOR]</title>    
-<genre>Ciencia ficción,Thriller,Drogas,Amistad</genre>
-<year>2020</year>  
-<thumbnail>https://i.imgur.com/7FkMObv.jpg</thumbnail>
-<fanart>https://i.imgur.com/W4UnEGM.jpg</fanart>
-<info>Dos paramédicos de Nueva Orleans ven cómo sus vidas cambian de la noche a la mañana tras descubrir una serie de terribles muertes, al parecer causadas por una nueva droga de diseño que está causando estragos en la ciudad.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=ILGezy8rMGM"},{"titulo" : "[COLOR white]Drive 1[/COLOR]","url" : "https://drive.google.com/file/d/1HBnt2Ya8L_IW4P3KEJSgQNGCy1Dhh_Po/view"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://www.fembed.com/v/y1r5dte1-r8q808"},{"titulo" : "[COLOR white]PlayTube[/COLOR]","url" : "https://playtube.ws/embed-askf1fxx4lo6.html"}</urlsolve>
-</item>
 
 
 
-<item>
-<title>[COLOR white] Dirt Music:Un amor salvaje [/COLOR][COLOR yellow](2020) [COLOR aqua]*5.4[/COLOR]</title>    
-<genre>Romance,Drama</genre>
-<year>2020</year>  
-<thumbnail>https://i.imgur.com/0ocEMkE.jpg</thumbnail>
-<fanart>https://i.imgur.com/W4UnEGM.jpg</fanart>
-<info>El impresionante paisaje del oeste de Australia es el telón de fondo para una apasionada historia de amor y dolor en la adaptación de la aclamada novela de Tim Winton <info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=ihH8L_8_VQc"},{"titulo" : "[COLOR white]Drive 1[/COLOR]","url" : "https://drive.google.com/file/d/1wwOz9AlkXIV-vcuo1Hv0Lik9a4VZBkWp/view"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://www.fembed.com/v/3p1j2cm8wk1r2yw"},{"titulo" : "[COLOR white]PlayTube[/COLOR]","url" : "https://playtube.ws/embed-fcs84pik500w.html"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/149446_-1618563646-Un-amor-salvaje--Dirt-Music---2020---BluRayRip-AC3-5-1.torrent"},{"titulo" : "[COLOR white]Magnet[/COLOR]","url" : "magnet:?xt=urn:btih:984C366A33BF13E7C7C808ED907F4EFE5FF63B18"}</urlsolve>
-</item>
-
-
-<item>
-<title>[COLOR white] Descuida,Yo te cuido [/COLOR][COLOR yellow](2020) [COLOR aqua]*6.3[/COLOR]</title>    
-<genre>Thriller,Drama,Comedia negra</genre>
-<year>2020</year>  
-<thumbnail>https://i.imgur.com/Emp7L8G.jpg</thumbnail>
-<fanart>https://i.imgur.com/W4UnEGM.jpg</fanart>
-<info>Marla Grayson (Rosamund Pike) no tiene escrúpulos a la hora de beneficiarse de los demás. Después de haberse aprovechado de docenas de jubilados como tutora legal, ella y su compañera Fran (Eiza González) ven a Jennifer Peterson (Dianne Wiest) como la nueva víctima: una gallina de los huevos de oro a la que pueden desplumar fácilmente. Pero mientras intentan llevar a cabo su plan, Marla y Fran descubren que la señora Peterson no es lo que creían, y que sus actos han entorpecido la labor de un importante criminal (Peter Dinklage). <info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=z0XKEXv8aMA"},{"titulo" : "[COLOR white]Drive 1[/COLOR]","url" : "https://drive.google.com/file/d/1bBzN62HHqfFh4_-U14lWIgDPudKVPJZ0/view"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://mixdrop.co/e/1vq4xwn4f4qoe3"},{"titulo" : "[COLOR white]PlayTube[/COLOR]","url" : "https://playtube.ws/embed-xvcj2z38z2m1.html"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://https://pctfenix.com/uploads/t/149440_-1618563244-I-Care-a-Lot--2020---BluRayRip-AC3-5-1.torrent"},{"titulo" : "[COLOR white]Magnet[/COLOR]","url" : "magnet:?xt=urn:btih:E84B7AC5E00D9B8CB55E8135119F37BBBE9924DC"}</urlsolve>
-</item>
-
-
-<item>
-<title>[COLOR white] Capone [/COLOR][COLOR yellow](2021) [COLOR aqua]*4.7[/COLOR]</title>    
-<genre>Drama,Biográfico,Mafia</genre>
-<year>2021</year>  
-<thumbnail>https://i.imgur.com/MT81nCV.jpg</thumbnail>
-<fanart>https://i.imgur.com/W4UnEGM.jpg</fanart>
-<info>Tras pasar 10 años en prisión, el gánster Al Capone, de 47 años, comienza a sufrir de demencia y su mente comienza a ser acosada por los recuerdos de su violento pasado.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=_o8nXX5LqIk"},{"titulo" : "[COLOR white]Drive 1[/COLOR]","url" : "https://drive.google.com/file/d/1eY90StdarXaCKQ2U-AeRWmmofU_8c-Zm/view"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://www.fembed.com/v/mgzn4i5l71g8n3w"},{"titulo" : "[COLOR white]PlayTube[/COLOR]","url" : "https://playtube.ws/embed-n0lyuf6hskso.html"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "https://pctfenix.com/uploads/t/149467_-1618565872-Capone--BluRay-MicroHD.torrent"},{"titulo" : "[COLOR white]Magnet[/COLOR]","url" : "magnet:?xt=urn:btih:53E34F0FF331E7EDAE2441274F58EB2867AED043"}</urlsolve>
-</item>
 
 
 
-<item>
-<title>[COLOR white] El Jardinero Fiel [/COLOR][COLOR red](2005) [COLOR aqua]*7.4[/COLOR]</title>    
-<genre>Thriller,Intriga,Drama,África,Política</genre>
-<year>2005</year>  
-<thumbnail>https://i.imgur.com/PMPgHKi.jpg</thumbnail>
-<fanart>https://i.imgur.com/aKKNkck.jpg</fanart>
-<info>Justin Quayle (Fiennes) es un diplomático británico destinado en Kenya cuya mujer es asesinada junto a un hombre sospechoso de ser su amante, un activista defensor de los derechos humanos de la región. Quayle decide entonces investigar los asesinatos, y comienza a descubrir mucho más de lo que esperaba...<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=DKVovBHgaP8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/r4nxrueg10enrxw"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/4nxgxzd8he66zg"}</urlsolve>
-</item>
 
 
-<item>
-<title>[COLOR white] Big [/COLOR][COLOR yellow](1988) [COLOR aqua]*6.3[/COLOR]</title>    
-<genre>Comedia,Fantástico,Infancia,Cine familiar</genre>
-<year>1988</year>  
-<thumbnail>https://i.imgur.com/dwXVyCo.jpg</thumbnail>
-<fanart>https://i.imgur.com/r4i4Z1B.jpg</fanart>
-<info>Josh Baskin tiene trece años pero, cansado de que las chicas no le hagan caso y de que sus padres le traten como a un niño, desea ser mayor. Una noche, encuentra, en una feria, una vieja máquina que concede un deseo a cambio de una moneda. Josh, sin dudarlo un instante, pide hacerse mayor. A la mañana siguiente, descubre en el espejo un cuerpo de adulto. La otra cara de la moneda serán los problemas y responsabilidades que debe asumir sin ninguna experiencia previa.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=YM8zgY7sG_g"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/2r2j0i20y-x5447"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/848ok381i7epg0"}</urlsolve>
-</item>
 
 
-<item>
-<title>[COLOR white] Despierto (Awake) [/COLOR][COLOR yellow](2007) [COLOR aqua]*6.5[/COLOR]</title>    
-<genre>Intriga,Thriller,Drama,Medicina</genre>
-<year>2007</year>
-<thumbnail>https://i.imgur.com/pkNzwPV.jpg</thumbnail>
-<fanart>https://i.imgur.com/WdAASRp.jpg</fanart>
-<info>Clay Beresford (Hayden Christensen) es un joven multimillonario que debe someterse a un transplante de corazón. Para ello, deja que su mejor amigo, el doctor Jack Harper (Terrence Howard), sea el encargado de realizar la operación. Durante la intervención, Clay experimenta un extraño fenómeno que le hace estar consciente y completamente paralizado mientras le operan. Mientras tanto, su novia, Sam (Jessica Alba) debe hacer frente a una serie de decisiones que serán determinantes para el futuro de Clay. Según transcurre la acción, todo da un vuelco, haciendo que nada sea lo que en principio parecía.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=r1RMhlanc18"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/wrn56ing3408ryz"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.to/f/gn11m997ijdvm6"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/e/stskaclyltm7.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/02tsdqmnu5p2"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1YRgN6-YpkYu7CZvNvRmmNtyXat2q-q-q/view"}</urlsolve>
-</item>
 
 
-<item>
-<title>[COLOR white] It (Eso) [/COLOR][COLOR yellow](1990) [COLOR aqua]*6.9[/COLOR]</title>    
-<genre>Terror, Fantastico, Misterio</genre>
-<year>1990</year>
-<thumbnail>https://i.imgur.com/oRcpKOK.jpg</thumbnail>
-<fanart>https://i.imgur.com/pLzsmqm.jpg</fanart>
-<info>Un tranquilo y pequeño pueblo de Maine está siendo aterrorizado por una fuerza malévola oculta tras la máscara de un payaso, y que tan sólo se la conoce como "Eso". Tras sus primeras víctimas, una pandilla formada por siete amigos de la infancia dedicen volver a reunirse para atacar el mal y destruirlo, intentando librar así del terror a su pueblo natal.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=8qW9lyAKg0s"},{"titulo" : "[COLOR white]VideoLoad[/COLOR]","url" : "https://evoload.io/v/VnjnIR4vqQm3EK"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/4n80mdpzbqkjkr"}</urlsolve>
-</item>
 
 
-<item>
-<title>[COLOR white] Black Hawk derribado [/COLOR][COLOR yellow](2001) [COLOR aqua]*7.7[/COLOR]</title>    
-<genre>Bélico,Acción,Ejército,África,Basado en hechos reales,Años 90</genre>
-<year>2001</year>
-<thumbnail>https://i.imgur.com/NXnoCTk.jpg</thumbnail>
-<fanart>https://i.imgur.com/a8FimoV.jpg</fanart>
-<info>Octubre de 1993. Soldados americanos de élite son enviados a Mogadiscio (Somalia) en una misión de paz de las Naciones Unidas, pero su principal objetivo es capturar al caudillo Aidid y acabar de raíz con la guerra. La misión se complica cuando dos helicópteros Black Hawk son derribados. Entonces lo único que importa es rescatar a los soldados que han quedado atrapados o han resultado heridos en el accidente.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=_vJltamBoy8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/5knj1sdy10w466j"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/l6r76lmnfvpkre"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/1wpi2ywkliq6"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbembed.com/zwmjzpti5nq1.html"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-9nn2445v6ca0.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1l0YYXNq9tYBDdzuj2ZSnuHYjd3OjMSni/view"}</urlsolve>
-</item>
 
 
-<item>
-<title>[COLOR white] Lasa y Zabala [/COLOR][COLOR yellow](2014) [COLOR aqua]*6.1[/COLOR]</title> 
-<genre>Suspense,Crimen</genre>
-<year>2014</year>
-<thumbnail>https://www.themoviedb.org/t/p/original/b1sDcn0fRn4piEoHapeZ54y4ohO.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/1F1a3J3z6EGdWdY3NJYxbs8osER.jpg</fanart>
-<info>El caso Lasa y Zabala fue el primer acto cometido por los GAL, en 1983. Felipe Bayo (Oriol Vila) y Enrique Dorado (Ricard Sales) son dos guardias civiles que, siguiendo las órdenes del general Rodríguez Galindo (Francesc Orella) secuestraron a dos miembros de la banda terrorista ETA, José Antonio Lasa y José Ignacio Zabala. Los guardias civiles llevaron a los terroristas al palacio de La Cumbre, en San Sebastián, donde los torturaron e interrogaron. Más tarde, los asesinaron y enterraron en una localidad de Alicante, siendo sus restos descubiertos en 1985.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/17pp7ctvBBY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/jy3xpid4824q46g"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/pkxzxwx6s7vmr"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/aw5rsgcrgagp"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/rh9dv5z7afhq"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/4247tkt0pejt"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/13QUByDBbSYueE5XfnKWQW7XhBByJRe1D/view"}</urlsolve>
-</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
