@@ -1,0 +1,72 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ THE DRIVER
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"THE DRIVER", SerieTemp:"MINI SERIE", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/jeveGKPiqqUbWptQLmsGpbDZk4c.jpg",
+	
+-->
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x01 - Capitulo 1</title>
+			<torrent>magnet:?xt=urn:btih:690FDF760AE14E5B11B818E1D8E9D7CE24AC3A5A&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x02 - Capitulo 2</title>
+			<torrent>magnet:?xt=urn:btih:6DC66FB674E4D52218EB9F3C58C7E8E5F90D3842&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x03 - Capitulo 3</title>
+			<torrent>magnet:?xt=urn:btih:600A4A871E69B91DC4F178C438F86BC7A39525E8&dn=HD720</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x01 - Capitulo 1</title>
+			<torrent>magnet:?xt=urn:btih:B62536F4218F4362B0DB81A623490D3F00AE6480&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x02 - Capitulo 2</title>
+			<torrent>magnet:?xt=urn:btih:F47343D338B90D8162E20A8A0C0A5065F097B6D1&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x03 - Capitulo 3</title>
+			<torrent>magnet:?xt=urn:btih:16DB4CF472AC5D1B364EC009ABE0E58A128535DD&dn=HDTV</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
