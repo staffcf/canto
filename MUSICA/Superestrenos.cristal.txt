@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Blue Bayou [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.7[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/nTzQMxyyd3tqf1eB2KijAV6uBGz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/c8CqVZJBLn8d94L8IzUV0JD7Fni.jpg</fanart>
+<info>En Luisiana, un hombre adulto de nombre Antonio, coreano adoptado y criado en Estados Unidos, se ve obligado a enfrentarse a su pasado -y lo que significa para su propio futuro y el de su familia- cuando de manera inesperada se enfrenta a la deportación.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/mKLtmh_1Mxg"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "Web no funciona"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/mdwz477rcn0ndw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/w34jy3creipz"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/xrubheo86ql6"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-fqtfb6ge9n0m.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1nxQ_hEIvzSs9_UCMQ34_TuArk7WWvq_e/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Hotel Transilvania: Transformania[/COLOR][COLOR yellow](2022) [COLOR aqua]*7.3[/COLOR]</title> 
 <genre>Familia,Animación,Fantasía,Comedia</genre>
 <year>2022</year>
