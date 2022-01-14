@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Matrix Resurrections [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.7[/COLOR]</title> 
+<genre>Ciencia ficción,Acción,Aventura,Suspense</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/xLNtaLaHudIzOqdEZ7R3lcDLrQQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3NiiRAKt2L5bUuAvSOkv6Yn7u6T.jpg</fanart>
+<info>Cuarta entrega de la franquicia "Matrix", que estará dirigida en solitario por Lana Wachowski. La producción del film arrancará en 2020, con Keanu Reeves y Carrie-Anne Moss interpretando de nuevo a sus personajes Neo y Trinity, respectivamente.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/33bLfwe74lE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "Web no funciona"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/l6l93xmnfv4vqk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/kz2n3sva3sda"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/2t0ohonaspne"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/lirotk16mgxh"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1FSRz31vS9v4ZHJRvOofNYtQQo5ekbZdE/view"},{"titulo" : "[COLOR white]Drive 4K HDR[/COLOR]","url" : "https://drive.google.com/file/d/"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Eternals[/COLOR][COLOR yellow](2021) [COLOR aqua]*7.1[/COLOR]</title> 
 <genre>Acción,Aventura,Fantasía,Ciencia ficción</genre>
 <year>2021</year>
