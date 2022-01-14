@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Sin Pudor [/COLOR][COLOR yellow](2022) [COLOR aqua]*4.4[/COLOR]</title> 
+<genre>Suspense,Misterio,Drama</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/wzOIlPIIeQGGPpxcb24NL7A1xi9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2Jp2RIwJ3Dt7vamkTt7llVJ7uY.jpg</fanart>
+<info>La novelista de misterio Grace Miller tiene instinto cuando hay que encontrar un motivo... y necesitará su experiencia para ayudar a resolver el asesinato de su hermana.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/O7b_oajJhUA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "Web no funciona"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/7r1jge9qsd4mp0d"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/qsoh7vaoq63n"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/msg9zqr5vas6"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-hbc4zkc9o3pd.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/19NdJ9UmjYBie9SBHxRoW4XYY1Ydd_mA8/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Blue Bayou [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.7[/COLOR]</title> 
 <genre>Drama</genre>
 <year>2021</year>
