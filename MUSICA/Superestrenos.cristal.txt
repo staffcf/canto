@@ -64,6 +64,17 @@
 
 
 <item>
+<title>[COLOR white] Chavalas [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.8[/COLOR]</title> 
+<genre>Comedia</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/dDeflaP53LakBE8ApcveqIewaZ8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5IV23WtrljABVNnNYjrcI780VjM.jpg</fanart>
+<info>Marta, Desi, Soraya y Bea, amigas inseparables en la adolescencia, vuelven a encontrarse en el barrio para revivir una auténtica y tragicómica amistad. Una realidad que las obligará a enfrentarse a aquellas adolescentes que fueron y a las mujeres que quieren ser. Casi sin darse cuenta, se ayudarán a tomar decisiones importantes en sus vidas. El paso del tiempo y lo distintas que son no será excusa para que su amistad prevalezca sobre todo lo demás.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/TH35O9iMp8I"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "Web no funciona"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/9nzx6m99fz64vd"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/g0glvahp6r8n"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/5q2f2ynzjw4l"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-bjgnw0rmwkbk.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1vyLiOd1ja_vpjTT1WZ6zfV-tBW1hQRQX/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Heredero [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.3[/COLOR]</title> 
 <genre>Terror,Suspense</genre>
 <year>2021</year>
