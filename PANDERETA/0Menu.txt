@@ -166,6 +166,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Archivo 81[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Archivo.81</externallink>
+<info>Contratado para restaurar una colección de cintas, un archivista terminó convirtiendo la obra y las investigaciones de una cineasta en el objeto de un peligroso culto.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/l1jeSEm6a88GFcLzlHQr60D0dOi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jKbCR35LlNyNTE72VDOMonJpJC6.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Argel Confidencial[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Argel.confidencial</externallink>
@@ -954,6 +963,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El Pacificador[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.Pacificador</externallink>
+<info>La historia de origen de Peacemaker, un hombre que cree en la paz a cualquier precio, no importa cuántas personas tenga que matar para conseguirla.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/hE3LRZAY84fG19a18pzpkZERjTE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8VElCi4ZthGwcr8YBfbD5qvHExX.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El padre de Cain[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.padre.de.cain</externallink>
@@ -1329,6 +1347,15 @@
 <info>Marco Mur es un empresario de éxito que arrastra un trauma desde la infancia, lo que le provoca una serie de problemas a la hora de relacionarse con las mujeres. Para satisfacer sus instintos, Marco acude con asiduidad a un club privado de sexo donde los miembros pueden dar rienda suelta a sus fantasías más inconfesables.</info>
 <thumbnail>https://i.imgur.com/PBVDTVu.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/y4vYdXPqD8NYWewrMq2p8UlltXd.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Intachable[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Intachable</externallink>
+<info>Chloé Fisher, brillante criminóloga parisina, es transferida a Lyon para investigar la muerte de Adeline Moreau, nuera del poderoso diputado local Damien Moreau. El asesino es Paul Brodsky, un ejemplar padre de familia libre de toda sospecha, quien ya está planeando su próximo crimen.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/pl2CCP0C7NHBvR0MqjCbXbZIL5t.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xjrC2Ea2SncRY4e2IDkeRBrTZw1.jpg</fanart>
 </item>
 
 <item>
