@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] El buen patron [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.2[/COLOR]</title> 
+<genre>Comedia</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/p5n51b1Bp74kzo6vD7gTGMdJYtW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/psjZg80xI2KP7xLZ1qKWwYpFzHU.jpg</fanart>
+<info>Blanco, un carismático propietario de una empresa que fabrica balanzas industriales en una ciudad española de provincias, espera la inminente visita de una comisión que decidirá su destino y la obtención de un premio local a la Excelencia Empresarial: todo tiene que estar perfecto para la visita. Sin embargo, todo parece conspirar contra él. Trabajando a contrarreloj, Blanco intenta resolver los problemas de sus empleados, cruzando para ello todas las líneas imaginables, dando lugar a una inesperada y explosiva sucesión de acontecimientos de imprevisibles consecuencias.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/o0iZkyB7c0I"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/e/p76xGwk7opIr6Qz"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/pkx67rd1cv7777"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ko4ek1no055h"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/97ee34kwdhwh"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/c1pw3a7z31xc"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1w2uThQx27hYX77KnOlUv8a388dQwPGxN/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Los Olchis [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.5[/COLOR]</title> 
 <genre>Animación,Drama,Aventura,Familia</genre>
 <year>2021</year>
