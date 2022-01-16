@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Way Down [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.1[/COLOR]</title> 
+<genre>Crimen,Acción,Suspense</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/mNfCgIIPo1efV4ACRL1tqd5bLrd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eBGKU0ZLJmxtVtzESTB1mfllX1J.jpg</fanart>
+<info>Hay un banco completamente distinto a cualquier otro, absolutamente inexpugnable. Nadie ha podido robar ese banco, no existen planos ni datos, y nadie sabe de qué manera se ha construido la cámara acorazada de su interior. El ingeniero Thom Laybrick no tiene miedo a nada, lo único que piensa es en entrar en esa cámara acorazada y robar un misterioso objeto que hay en su interior. Un objeto que sólo estará ahí durante 10 días. Durante este tiempo, una esperadísima final de fútbol se celebrará en España, por lo que Laybrick tendrá una oportunidad de oro para entrar en el banco sin que nadie lo vea.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/H6RhIXAv8oo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/e/yd8XyjVVqGcBx6"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/n0jxvn1xu3dzx4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://watchsb.com/e/cm9yceqnelch"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/pqx70de9fa2k"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/i47ysu7h9j17"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1HOtTHj-wlyy1H0Pg4pRdMg3fITnH6S9S/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] El buen patron [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.2[/COLOR]</title> 
 <genre>Comedia</genre>
 <year>2022</year>
