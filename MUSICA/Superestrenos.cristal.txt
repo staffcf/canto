@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] La hija del rey [/COLOR][COLOR yellow](2022) [COLOR aqua]*8.8[/COLOR]</title> 
+<genre>Fantasía,Drama,Romance</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/nCRfr3eOlwH7wfxaz6cU1bhMR1W.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1GrURa0tEBIBjJ2EbeRsMP65YPK.jpg</fanart>
+<info>La búsqueda desesperada de la inmortalidad del Rey Luis XIV le lleva a capturar una sirena para robarle su energía vital, un hecho que se complica todavía más cuando su hija ilegítima descubre a la criatura.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/vZkEozzeDAg"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/e/ybW6dkVRl1i1XXA"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/zplzg34mckmjvz"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://watchsb.com/e/05kig7tiug5i"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/pkrcxw09klxj"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-ayfdd6mt161c.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1xZIytt1f4It_ZF-funMx_HzPZZLRvsdq/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] La tragedia de Macbeth [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.2[/COLOR]</title> 
 <genre>Drama,Bélica</genre>
 <year>2021</year>
