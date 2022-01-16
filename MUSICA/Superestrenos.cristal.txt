@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] La tragedia de Macbeth [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.2[/COLOR]</title> 
+<genre>Drama,Bélica</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/iOW4dWoOvGpgj0Pld4sjMGkvK6L.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/x1d11fjOMGcAsi0ehxJ7l7u7HS2.jpg</fanart>
+<info>Macbeth, recibe una profecía de un trío de brujas de que algún día se convertirá en rey de Escocia. Consumido por la ambición y empujado a la acción por su esposa, Macbeth asesina a su rey y toma el trono para él.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/QlcwL9hn2ac"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/e/pgXylgp8rZUr6Zb"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/7r1pqx17td11w8q"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://watchsb.com/e/z3p3kccd2crb"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/ddmrmuc8w5nn"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-601r4qkfz50t.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/141rLSG-P3XbUEuGQqStKSOnSSnbJfAiZ/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Way Down [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.1[/COLOR]</title> 
 <genre>Crimen,Acción,Suspense</genre>
 <year>2021</year>
