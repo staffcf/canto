@@ -3,7 +3,7 @@
 
 
 <item>
-<title>[COLOR gold]*[/COLOR][COLOR white]Temporada 1[/COLOR]</title>    
+<title>[COLOR gold]*[/COLOR][COLOR purple]Zona de Pruebas[/COLOR]</title>    
 <link>$doregex[c]</link>
 <regex>
 <name>c</name>
@@ -94,8 +94,8 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <page></page>
 </regex>
 <info></info>
-<thumbnail></thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://i.imgur.com/3exCU8U.jpg</thumbnail>
+<fanart>https://i.imgur.com/P2ZEIlY.jpg</fanart>
 </item>
 
 
