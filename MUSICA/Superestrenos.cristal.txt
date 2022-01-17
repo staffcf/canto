@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] In the Earth [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.3[/COLOR]</title> 
+<genre>Terror,Ciencia ficción,Suspense</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/lzzUkcZyHbXJayCw8yNAPezdBhq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vviYFL6bT0p2AkXI1WIKC2y0rRl.jpg</fanart>
+<info>Mientras un virus mortal asola el mundo, el Dr. Martin Lowery se embarca en una misión para llegar al sitio de prueba ATU327A, un centro de investigación en las profundidades del Bosque Arbóreo. El arduo viaje, guiado por la exploradora de parques Alma, se ve retrasado por un ataque nocturno que deja a los dos magullados y descalzos. Cuando se encuentran con Zach, un hombre que vive fuera de la red, aceptan con gratitud su ayuda. Sin embargo, las intenciones de Zach no son exactamente lo que parecen, y un camino fuera del bosque hacia la seguridad se desvanece rápidamente a medida que la línea entre el mito y la ciencia se difumina.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/U5TkDh5LB30"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/OAqYK7ybG6iZPvw"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/6qj933xxtkk69r"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://watchsb.com/e/ka1wfh5cvve"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/bbhsk797qz3p"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/dyicszl9jix6"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1VEnUPBUYDnCZdStBnJ-rQnf6Zk9IQRJ8/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] La hija del rey [/COLOR][COLOR yellow](2022) [COLOR aqua]*8.8[/COLOR]</title> 
 <genre>Fantasía,Drama,Romance</genre>
 <year>2022</year>
