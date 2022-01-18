@@ -1116,6 +1116,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Express[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Express</externallink>
+<info>8 episodios. “Express” aborda la historia de una psicóloga criminal, Bárbara (Maggie Civantos), y su familia, tras convertirse en víctima de un secuestro express: una aterradora modalidad de extorsión que se está propagando por todo el mundo y, en la mayoría de los casos, termina con un violento asesinato. Tras su secuestro, Bárbara trabaja como negociadora en casos similares al suyo y su principal objetivo es comprender por qué ella se convirtió en la víctima y descubrir a las personas que resquebrajaron su vida y su familia.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/3rrPCr2Z4jbkZ6tvyeBEOFqVRFr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9rzqpw6Ner4GOUGllbMugjjMpVW.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Falcon y el soldado de invierno[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Falcon.y.el.soldado.de.invierno.txt</externallink>
@@ -1257,6 +1266,24 @@
 <info>Miniserie de TV (2017). 10 episodios. Jean Holloway (Naomi Watts) es una terapeuta que se ve involucrada en relaciones íntimas y peligrosas con personas relacionadas con la vida de sus pacientes.</info>
 <thumbnail>https://i.imgur.com/GHjsGgQ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/wrbaPpqAeHHPiYDcSwYTDPXBsiE.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Habitación 301[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Habitacion.301</externallink>
+<info>Miniserie de TV. 6 episodios. Verano de 2007. La familia Kurttis sufre una tragedia durante sus vacaciones anuales en una cabaña. Tommi, su hijo de dos años, muere de un disparo. Elías, un vecino adolescente, es culpado de la muerte del niño. Doce años más tarde, en el verano de 2019, el abuelo recibe una carta misteriosa y amenazante que despierta las sospechas sobre la muerte de Tommi. En el resort griego donde están disfrutando de sus vacaciones, encuentran a un hombre que se parece a Elías, que se aloja en la habitación 301. ¿Es realmente Elías? ¿Ha venido a tomar represalias contra la familia?</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/iKL9KqCn9YUoVU3OQxK7zjH6Ur3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/s37e5LTkbczZwwyL7U77Iqns4G3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Hackerville[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Hackerville</externallink>
+<info>Miniserie de TV (2018). 6 episodios. Thriller sobre una red de hackers y los investigadores encargados de perseguirles. Cuando descubre el origen de un ataque hacker a un gran banco alemán en una red en Rumanía, la experta en cibercrimen de la BKA, Lisa Metz, es destinada desde Frankfurt a Timisoara, su ciudad de origen, para trabajar mano a mano con los investigadores locales liderados por el policía rumano Adam Sandor.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/wE27FJKh4DMpwH41TOQFBKhULPG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7dtoV72minsLoTPgSsVkypa7iU9.jpg</fanart>
 </item>
 
 <item>
@@ -1901,6 +1928,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 <info>Roberto, ¿tú eres marica?. Bea, su mejor y única amiga, es la que pregunta a un Roberto de 12 años, desencadenando una búsqueda de identidad que se alargará hasta diez años más tarde, cuando en Chueca y con vocación de ser escritor, intentará reformular su vida intentando responderse a la pregunta de quién es y cómo ser feliz en un mundo tan hostil. Bob Pop realiza su primera incursión en la creación de series de ficción, inspirándose en episodios de su propia vida, pero con buenas dosis de ficción y fantasía.</info>
 <thumbnail>https://i.imgur.com/wYzyx95.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/x04J6b9ajI4fmrOYWgdsf4HkMqM.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Marvel's Agente Carter[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/KIDS/SERIES/Agente.Carter.xml</externallink>
+<info>Serie de TV (2015-2016). 2 temporadas. 18 episodios. En 1946, Peggy Carter debe equilibrar su rutinario trabajo de oficina que hace para la Reserva Científica Estratégico con ayudar secretamente a Howard Stark, que se ha visto involucrado en una trama de suministro de armas letales para el mejor postor.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/VkGalFD0CEvDM0Tprzm53BqxHj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6oDTpqIvHa9a7kkn79uEOpx7V9X.jpg</fanart>
 </item>
 
 <item>
