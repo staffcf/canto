@@ -9,8 +9,9 @@
 
 	ETIQUETAS:
 	
-	- 1SerieTitle:"EL DESCUBRIMIENTO DE LAS BRUJAS", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/fs5QP2Aefj5Ax1yzgzACRj44g7a.jpg",
-	- 1SerieTitle:"EL DESCUBRIMIENTO DE LAS BRUJAS", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://estatico.emisiondof6.com/recorte/n/dispficha/F3890438",
+	- 1SerieTitle:"EL DESCUBRIMIENTO DE LAS BRUJAS", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/3yZVNp46TlB4vpn5XNrFVlOrp4D.jpg",
+	- 1SerieTitle:"EL DESCUBRIMIENTO DE LAS BRUJAS", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/7kOzYkbKr0nlNt5WhNS6FH2ETIw.jpg",
+	- 1SerieTitle:"EL DESCUBRIMIENTO DE LAS BRUJAS", SerieTemp:"TEMPORADA 3", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/ckAKcdptFDGubrCoGaEFo4WPqcL.jpg",
 
 	
 -->
@@ -122,6 +123,52 @@
 			<title>2x10 - Capitulo 10</title>
 			<torrent>magnet:?xt=urn:btih:EECCB3D399DD27BC7F158EF6BC2A968E4762FF4A</torrent>
 			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x01 - Capitulo 1</title>
+			<torrent>magnet:?xt=urn:btih:CAF4CD12B3D53F5C3DB3021C4679B3C46CB6116C&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x02 - Capitulo 2</title>
+			<torrent>magnet:?xt=urn:btih:ECCEB04D7B878DF81B688D1B3D99FB30E8738CBE&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x03 - Capitulo 3 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x04 - Capitulo 4 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x05 - Capitulo 5 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x06 - Capitulo 6 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x07 - Capitulo 7 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
 ======================================================================
 ======================================================================
 ======================================================================
