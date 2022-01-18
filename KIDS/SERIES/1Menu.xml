@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-<item>
-<title>[COLOR darkgoldenrod]* [COLOR white]Agente Carter[/COLOR]</title>  
-<link>cristalazul</link>
-<externallink>https://raw.githubusercontent.com/staffcf/canto/main/KIDS/SERIES/Agente.Carter.xml</externallink>
-<info>Serie de TV (2015-2016). 2 temporadas. 18 episodios. En 1946, Peggy Carter debe equilibrar su rutinario trabajo de oficina que hace para la Reserva Científica Estratégico con ayudar secretamente a Howard Stark, que se ha visto involucrado en una trama de suministro de armas letales para el mejor postor.</info>
-<thumbnail>https://i.imgur.com/2Yqx1lQ.jpg</thumbnail>
-<fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLOR darkgoldenrod]* [COLOR white]American Dragon[/COLOR]</title>  
@@ -371,7 +364,25 @@
 </item>
 
 <item>
-<title>[COLOR darkgoldenrod]* [COLOR white]Marvel's Loki[/COLOR]</title>  
+<title>[COLOR darkgoldenrod]* [COLOR white]Marvel Agente Carter[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/KIDS/SERIES/Agente.Carter.xml</externallink>
+<info>Serie de TV (2015-2016). 2 temporadas. 18 episodios. En 1946, Peggy Carter debe equilibrar su rutinario trabajo de oficina que hace para la Reserva Científica Estratégico con ayudar secretamente a Howard Stark, que se ha visto involucrado en una trama de suministro de armas letales para el mejor postor.</info>
+<thumbnail>https://i.imgur.com/2Yqx1lQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Marvel Daredevil[/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Marvel.Daredevil.xml</externallink>
+<info>Adaptación del legendario héroe de cómic de Marvel -conocido como el Hombre sin Miedo-. El abogado Matt Murdock es ciego a causa de un residuo radioactivo, pero sus otros cuatro sentidos están especialmente agudizados. De día, Murdock representa a los oprimidos. Por la noche, es Daredevil, un héroe enmascarado que vigila las oscuras calles de la ciudad y lucha contra toda clase de injusticias.</info>
+<thumbnail>https://i.imgur.com/r3reFJJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/h5rz0FEtlE0ragSlTAT8rnhLfmo.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR darkgoldenrod]* [COLOR white]Marvel Loki[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/KIDS/SERIES/Marvel.loki.xml</externallink>
 <info>Loki es llevado ante la misteriosa organización llamada Autoridad de Variación Temporal después de robar el Cubo Cósmico durante los eventos de Avengers: Endgame (2019) y se le da a elegir enfrentarse a la eliminación de la realidad o ayudar contra una amenaza mayor,​ por lo cual Loki termina viajando a través del tiempo, alterando la historia humana.</info>
@@ -380,13 +391,23 @@
 </item>
 
 <item>
-<title>[COLOR gold]* [COLOR white]Marvel's M.o.d.o.k[/COLOR]</title>     
+<title>[COLOR gold]* [COLOR white]Marvel M.o.d.o.k[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA//Marvel.M.o.d.o.k.txt</externallink>
 <info>El supervillano M.O.D.O.K ha perseguido durante mucho tiempo su sueño de conquistar el mundo. Pero después de años de reveses y fracasos luchando contra los héroes más poderosos de la Tierra, Derrocado como líder de A.I.M mientras lidia con el matrimonio y una vida familiar que se desmorona, M.O.D.O.K está listo para enfrentarse a su mayor desafío hasta ahora: una crisis de la mediana edad. </info>
 <thumbnail>https://i.imgur.com/Q9maGAt.jpg</thumbnail>
 <fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
 </item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Marvel Ojo de Halcón[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Marvel.ojo.de.halcon</externallink>
+<info>Serie de TV (2021). 6 episodios. Narra las aventuras de Hawkeye desde el punto de vista de la sucesora de Clint Barton: Kate Bishop, una de las integrantes del grupo de "jóvenes vengadores".</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/ommKNzt6wmtz3mQS3e3rrDnISOM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rXAqfQ2UeoonpBZ73LFsT2H3FME.jpg</fanart>
+</item>
+
 
 <item>
 <title>[COLOR gold]* [COLOR white]Marvel The Fury Files[/COLOR]</title>     
