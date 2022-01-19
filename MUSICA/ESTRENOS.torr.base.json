@@ -4,7 +4,358 @@
 	"name": "ESTRENOS EN ESPAÑOL",
 	"info": "ESTA LISTA HA SIDO CREADA CON EXCLUSIVO ANIMO DE TENER CONCENTRADOS LOS ACCESOS DIRECTOS A ENLACES DE MULTIPLES TERCEROS EN INTERNET, EL CREADOR NO CUENTA CON SERVIDORES QUE ALOJEN NINGUNO DE LOS CONTENIDOS NI OBTIENE NINGUN GENERO NI CLASE DE LUCRO DIRECTO O INDIRECTO POR SU UTILIZACION. DEL MISMO MODO NO SE AUTORIZA SU PUBLICACION NI CIRCULACION FUERA DEL AMBITO PERSONAL DEL CREADOR Y DEL GRUPO DE LOS GRUPOS DE TELEGRAM AUTORIZADOS POR EL , SI LO HAS OBTENIDO DE OTRO LUGAR ESTAS COLABORANDO ACTIVAMENTE A LA DESACTIVACION Y DESAPARICION DE LA LISTA, TODA VEZ QUE SOLO SE COMPARTE POR SU AUTOR CON LA FINALIDAD DE FACILITAR A SUS ALLEGADOS SIN CONOCIMIENTOS INFORMATICOS EL ACCESO A CONTENIDO QUE EL AUTOR CONSIDERA DE SU INTERES",
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
-	"groups": [	
+	"groups": [
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Fantastico, 1Terror, 1Thriller, A2021, Letra J, Spain, ",
+			"name": "Johan (2021)","coloryear": "cyan",
+			"image": "https://i.imgur.com/oXSlT0V.jpg",
+			"info": "Johan se despierta perdido, sin recuerdos, incapaz de hablar y atormentado por visiones que no puede comprender. Su padre, comunicándose a través de una vieja radio, le dice que los demonios malvados que viven en su pueblo lo mantienen prisionero",
+			"genero": "Fantastico, Terror, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Johan.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2021, Letra I, Reino Unido, ",
+			"name": "In the Earth (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/yNqfTMlZBWGUJNrcip1RD9PHk8G.jpg",
+			"info": "Mientras el mundo busca una cura para un desastroso virus, un científico y un guardabosques se adentran en las profundidades de un bosque para realizar unas pruebas científicas. Conforme cae la noche, el viaje se convertirá en un aterrador viaje por el corazón de la más profunda oscuridad, con el bosque cobrando vida a su alrededor.",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:BC58EE7E53280DE3E2186363D2E84ABBEFFCA243&dn=BR1080",	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/In.The.Earth.-2021.-.1080.-.CristalAzul.mkv.torrent
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Accion, A2021, Letra W, Spain, ",
+			"name": "Way Down [COLOR gold](BR-Scr) (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/pmOGoU0dzGeQaNPP4UZchGPnhWu.jpg",
+			"info": "La leyenda de que el Banco de España es inexpugnable y no se puede atracar no asusta a Thom Johnson (Freddie Highmore), el brillante y joven ingeniero reclutado para averiguar como acceder a su interior. El objetivo es un pequeño tesoro que va a estar depositado en el banco solo diez dias. Diez dias para descubrir el secreto de la caja, diez dias para urdir un plan, diez dias para preparar el asalto, diez dias para aprovecharse de un plan de fuga irrepetible, cuando la esperada final del Mundial de Futbol de Sudafrica reuna a cientos de miles de aficionados a las puertas del propoi Banco. Diez dias para alcanzar la gloria… o para acabar en prision",
+			"genero": "Thriller, Accion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Way.Down.-2021.-.1080-Screener.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra C, Italia, ",
+			"name": "Cambio de turno (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/yTE6CKAjgccleOCrFBQ2zhd5hIX.jpg",
+			"info": "Bruselas. Eden y Abdel, dos chicos de 17 años, entran en su escuela para llevar a cabo un ataque terrorista, pero Abdel se inmola antes de lo previsto, arrastrando a Eden en la explosión. Isabel y Adamo, dos paramédicos que llegan al lugar, encuentran a Eden herido e inconsciente. Cumpliendo con su deber, lo cargan en la ambulancia ignorando que es uno de los terroristas.",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Cambio.de.turno.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Drama, 1Terror, A2022, Letra L, Reino Unido, Netflix, ",
+			"name": "La casa (The house) (2022)","coloryear": "darkorange",
+			"image": "https://www.themoviedb.org/t/p/original/qT0lfiL0WsKjUl6CJ5eu9Nz03Zv.jpg",
+			"info": "A lo largo de varias épocas, una familia pobre, un promotor inmobiliario y una casera hastiada están conectados a la misma casa misteriosa.",
+			"genero": "Animacion, Drama, Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/La.casa-The.house.-2022.-.1080.-.CristalAzul.mkv.torrent",		magnet:?xt=urn:btih:028BE59B93CCEE43DC7F8A44C25F5B06EECB42BC&dn=HD720
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, A2021, Letra E, Spain, ",
+			"name": "El buen patron (2021)","coloryear": "cyan",
+			"image": "https://i.imgur.com/t1h5Myl.jpg",
+			"info": "Julio Blanco, el carismático propietario de una empresa que fabrica balanzas industriales en una ciudad española de provincias, espera la inminente visita de una comisión que decidirá la obtención de un premio local a la excelencia empresarial. Todo tiene que estar perfecto para la visita. Sin embargo, todo parece conspirar contra él. Trabajando a contrarreloj, Blanco intenta resolver los problemas de sus empleados, cruzando para ello todas las líneas imaginables, y dando lugar a una inesperada y explosiva sucesión de acontecimientos de imprevisibles consecuencias",
+			"genero": "Comedia, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.buen.patron.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Fantastico, 1Aventuras, A2022, Letra L, EEUU, ",
+			"name": "La hija del rey (2022)","coloryear": "darkorange",
+			"image": "https://www.themoviedb.org/t/p/original/9LkMCVHleSw18gyP6ePaETszbte.jpg",
+			"info": "La búsqueda desesperada de la inmortalidad del Rey Luis XIV le lleva a capturar una sirena para robarle su energía vital, un hecho que se complica todavía más cuando su hija ilegítima descubre a la criatura",
+			"genero": "Drama, Fantastico, Aventuras",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/La.hija.del.rey.-2022.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Fantastico, A2021, Letra R, Reino Unido, Netflix, ",
+			"name": "Riverdance: La aventura animada (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/yn9DrhUBPrUTFEUHtdXSxgWcFTA.jpg",
+			"info": "Un niño irlandés llamado Keegan y una niña española llamada Moya viajan al mítico mundo de los Megaloceros Giganteus, quienes les enseñan a apreciar Riverdance como una celebración de la vida",
+			"genero": "Animacion, Fantastico",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Riverdance-La.aventura.animada.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Drama, A2021, Letra L, EEUU, ",
+			"name": "La tragedia de Macbeth (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/iOW4dWoOvGpgj0Pld4sjMGkvK6L.jpg",
+			"info": "Un lord escocés es convencido por unas brujas de que se convertirá en el futuro rey de Escocia. Adaptación de 'Macbeth' de William Shakespeare.",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/La.tragedia.de.Macbeth.-2021.-.1080x265.-.CristalAzul.mkv.torrent",	
+				"torrent4k": "magnet:?xt=urn:btih:13ED30453E73EF595F375C84B0FD484D060D8669&dn=Web4K"	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Animacion, 1Comedia, 1Fantastico, A2022, Letra H, EEUU, Sagas HTransilvania, ",
+			"name": "Hotel Transilvania: Transformania (2022)","coloryear": "darkorange",
+			"image": "https://www.themoviedb.org/t/p/original/pwSlzCAynIF6aEP7oxWddo7Kng2.jpg",
+			"info": "Drac se enfrentará a una de las situaciones más aterradoras vividas hasta el momento. Cuando el misterioso invento de Van Helsing, el 'Rayo Monstrificador', se vuelve totalmente fuera de control, Drac y sus monstruosos amigos se transforman en humanos, ¡y Johnny se convierte en un monstruo! Cuarta y última entrega de la franquicia animada 'Hotel Transilvania'",
+			"genero": "Animacion, Comedia, Fantastico",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:3a838f5806bef08874a08956b14649342c6545b0&dn=HD1080",	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Hotel.Transilvania-Transformania.-2022.-.1080x265.-.CristalAzul.mkv.torrent
+				"torrent4k": "magnet:?xt=urn:btih:86c2b5ecc5b60b07959ca146071981e8584be5bf&dn=Web4K"	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Accion, 1Drama, A2021, Letra M, EEUU, Sagas Matrix, ",
+			"name": "Matrix Resurrections (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/hNzmOOldBI90tuZHYGYfsgH6Z25.jpg",
+			"info": "Neo vive una vida normal y corriente en San Francisco mientras su terapeuta le prescribe pastillas azules. Hasta que Morfeo le ofrece la pastilla roja y vuelve a abrir su mente al mundo de Matrix",
+			"genero": "Ciencia ficcion, Accion, Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:D3B42CD3B297373E59AFC5CC66C70194D034DF61&dn=BR1080",	magnet:?xt=urn:btih:3D4C792386685DBB4FDF3ABFCDC897A7BDCEA780&dn=HD1080	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Matrix.Resurrections.-2021.-.1080x265.-.CristalAzul.mkv.torrent
+				"torrent4k": "magnet:?xt=urn:btih:4BF029E8A96433BE8C1FFD12B8B15CE5A67D727E&dn=Web4K"	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Romance, A2022, Letra S, EEUU, Netflix, ",
+			"name": "Sin pudor (Brazen) (2022)","coloryear": "darkorange",
+			"image": "https://www.themoviedb.org/t/p/original/CaievsSWmbVuznon1yhiQswVsZ.jpg",
+			"info": "La novelista de misterio Grace Miller tiene instinto cuando hay que encontrar un motivo, y necesitará su experiencia para ayudar a resolver el asesinato de su hermana.",
+			"genero": "Thriller, Romance",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:455ce5566fee32342571f16415b374870af9a17e&dn=HD1080",	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Sin.pudor-Brazen-.-2022.-.1080.-.CristalAzul.mkv.torrent
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra B, EEUU, ",
+			"name": "Blue Bayou (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/nTzQMxyyd3tqf1eB2KijAV6uBGz.jpg",
+			"info": "En Luisiana, un hombre adulto de nombre Antonio, coreano adoptado y criado en Estados Unidos, se ve obligado a enfrentarse a su pasado -y lo que significa para su propio futuro y el de su familia- cuando de manera inesperada se enfrenta a la deportación",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Blue.Bayou.-2021.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, A2021, Letra C, Spain, ",
+			"name": "Chavalas (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/dDeflaP53LakBE8ApcveqIewaZ8.jpg",
+			"info": "Marta, Desi, Soraya y Bea, amigas inseparables en la adolescencia, vuelven a encontrarse en el barrio para revivir una auténtica y tragicómica amistad. Una realidad que las obligará a enfrentarse a aquellas adolescentes que fueron y a las mujeres que quieren ser. Casi sin darse cuenta, se ayudarán a tomar decisiones importantes en sus vidas. El paso del tiempo y lo distintas que son no será excusa para que su amistad prevalezca sobre todo lo demás",
+			"genero": "Comedia, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Chavalas.-2021.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Fantastico, 1Accion, 1Ciencia ficcion, 1Drama, A2021, Letra E, EEUU, Comics, Marvel,",
+			"name": "Eternals (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/v2RltE8xIdK5zrQgNxxXh4OAvHO.jpg",
+			"info": "Hace millones de años, los seres cósmicos conocidos como los Celestiales comenzaron a experimentar genéticamente con los humanos. Su intención era crear individuos superpoderosos que hicieran únicamente el bien, pero algo salió mal y aparecieron los Desviantes, destruyendo y creando el caos a su paso. Ambas razas se han enfrentado en una eterna lucha de poder a lo largo de la historia. En medio de esta guerra, Ikaris y Sersi tratarán de vivir su propia historia de amor",
+			"genero": "Fantastico, Accion, Ciencia ficcion, Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:4B0FBCB7129F9AFCB17B9503D46FCB913C29B5B4&dn=BR1080",	magnet:?xt=urn:btih:55973200B65606279B3311D2DABF166983CB6C8E&dn=HD1080	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Eternals.-2021.-.1080x265.-.CristalAzul.mkv.torrent
+				"torrent4k": "magnet:?xt=urn:btih:30E156CEC1F58DB80F4AA96190A61E4ACC80C864&dn=Web4K"	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Terror, 1Thriller, A2021, Letra H, EEUU, Sagas Halloween, ",
+			"name": "Halloween Kills (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/q8VG5WbY3YrQsGAqPckr5gB4doJ.jpg",
+			"info": "La noche de Halloween en la que Michael Myers regresa no ha acabado todavía. Minutos después de que Laurie Strode, su hija Karen y su nieta Allyson dejen encerrado y ardiendo a este monstruo enmascarado, Laurie se dirige rápidamente al hospital para tratar sus heridas, creyendo que todo ha terminado. Pero cuando Michael consigue liberarse, su ritual sangriento continúa. Mientras Laurie lidia con su dolor y se prepara para defenderse, sirve de inspiración para que todo Haddonfield se levante contra este monstruo imparable",
+			"genero": "Terror, Thriller",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:6ECDEB22D2F63DF6B3897A359E287F3BF77BD94F&dn=BR1080",	magnet:?xt=urn:btih:7BE181CDFC13D615F984BC6A39ECE24418AE50D3&dn=HD1080	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Halloween.Kills.-2021.-.1080x265.-.CristalAzul.mkv.torrent
+				"torrent4k": "magnet:?xt=urn:btih:6DCDE53BA4E8D50C8F39E81AC6838621450332F0&dn=UHDRip"	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Thriller, A2021, Letra S, Irlanda, ",
+			"name": "Son (Heredero) (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/k8MqPlxZMcTu4nMaxg2JfXeOyDZ.jpg",
+			"info": "Cuando un joven cae enfermo por una misteriosa enfermedad, su madre tendrá que decidir hasta dónde está dispuesta a llegar para protegerle de unas aterradoras fuerzas que estuvieron presentes en su vida pasada.",
+			"genero": "Terror, Thriller",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:07B42F1AD8EF7ACEA774D12D23AB876D173C0649&dn=BR1080",	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Son-Heredero-.-2021.-.1080x265.-.CristalAzul.mkv.torrent
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Fantastico, 1Comedia, A2021, Letra C, EEUU, Sagas Cazafantasmas, ",
+			"name": "Cazafantasmas: Mas alla (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/9QRE6v3zuBSFK2b1pfw1PSEf3O7.jpg",
+			"info": "Una madre soltera y sus dos hijos llegan a una pequeña ciudad, descubriendo su conexión con los cazafantasmas originales y el legado secreto que dejó su abuelo tras de sí. Secuela directa de 'Cazafantasmas 2'",
+			"genero": "Fantastico, Comedia",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:2782BA26A0B8A2A17F0A7B1525EE49DF1605E19C&dn=BR1080",	magnet:?xt=urn:btih:6BA3C996AF50B5091A21F235AB5B772231CE99EE&dn=HD1080	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Cazafantasmas-Mas.alla.-2021.-.1080x265.-.CristalAzul.mkv.torrent
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Thriller, A2022, Letra C, Polonia, 1Hechos reales, Netflix, ",
+			"name": "Como me enamore de un ganster (2022)","coloryear": "darkorange",
+			"image": "https://www.themoviedb.org/t/p/original/mOPXksoNwfmiqJCgmik6w0xnVQS.jpg",
+			"info": "Una misteriosa mujer relata el ascenso y la caída de Nikodem 'Nikos' Skotarczak, uno de los mayores mafiosos de la historia de Polonia. Inspirada en una historia real.",
+			"genero": "Drama, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Como.me.enamore.de.un.ganster.-2022.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra E, Spain, ",
+			"name": "El club del paro (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/2VgCBqgnQdJaTIJu20ALvktlvE8.jpg",
+			"info": "Cada mañana, sea el día que sea, Fernando (Carlos Areces), el Negro (Eric Francés), Jesús (Fernando Tejero) y Benavente (Adriá Collado), cuatro amigos se reúnen en un bar a tomar unas cañas y arreglar el mundo a su manera: criticando y despotricando contra todo y contra todos. Tienen algo en común, están en paro, bueno… todos, menos uno.",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.Club.Del.Paro.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Drama, A2021, Letra E, EEUU, ",
+			"name": "El bar de las grandes esperanzas (The tender bar) (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/kQXEh2iXOCbZNM61sEOWe5plz5i.jpg",
+			"info": "Adaptación de las memorias de J.R. Moehringer que relata los años de adolescencia del escritor creciendo en Long Island en busca de una figura paterna entre los clientes del bar de su tío",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.bar.de.las.grandes.esperanzas-The.tender.bar-.-2021.-.1080x265.-.CristalAzul.mkv.torrent",	
+				"torrent4k": "magnet:?xt=urn:btih:E702ABB5F832A550A959E2D26D65846C570400E1&dn=Web4K"	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Terror, A2021, Letra R, EEUU, ",
+			"name": "Resident Evil: Bienvenidos a Raccoon City (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/htpKy3nUBNtCsaTj2pWU9JwPKlj.jpg",
+			"info": "Nueva adaptación al cine de los videojuegos de Capcom. La que fue una pujante ciudad sede del gigante farmacéutico Umbrella Corporation, Raccoon City, es ahora un pueblo agonizante del Medio Oeste. El éxodo de la compañía dejó a la ciudad convertida en un erial… con un gran mal gestándose bajo la superficie. Cuando ese mal se desata, un grupo de supervivientes deben unirse para destapar la verdad detrás de Umbrella y sobrevivir a la noche",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:61A1AC01CF2729AFD9A48EE003BA2F6E8588B4CB&dn=HD1080",	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Resident.Evil-Bienvenidos.a.Raccoon.City.-2021.-.1080x265.-.CristalAzul.mkv.torrent
+				"torrent4k": "magnet:?xt=urn:btih:7D7A60608E1D8386D66860A594BA8E777F6FC5A6&dn=Web4K"	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Thriller, A2021, Letra M, EEUU, ",
+			"name": "Madre/Androide (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/rw3rRLxVibrDhESLCsxlidwvuQ2.jpg",
+			"info": "Georgia, junto con su novio Sam, emprende un peligroso viaje para huir de su país, que se encuentra inmerso en una guerra contra la inteligencia artificial. Días antes de la llegada de su primer hijo, la pareja debe alcanzar la Tierra de Nadie, un bastión del levantamiento de los androides, con la esperanza de llegar a un lugar seguro antes de dar a luz.",
+			"genero": "Ciencia ficcion, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Madre-Androide.-2021.-.1080x265.-.CristalAzul.mkv.torrent",	
+				"torrent4k": "magnet:?xt=urn:btih:CA277A847FB6E5A2315AA60C4E44289B48473575&dn=Web4K"	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, A2020, Letra D, Estonia, ",
+			"name": "Dawn of War (O2) (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/AdfRkHPYo7aj6d6sxCzeE1ZApL5.jpg",
+			"info": "Un oficial de inteligencia estonio debe rastrear a un misterioso agente doble soviético en los albores de la Segunda Guerra Mundial.",
+			"genero": "Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Dawn.of.War.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra S, Spain, ",
+			"name": "Sevillanas de Brooklyn (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/fT8ZaFDRJWq1hXfHqT5rKhNnsvq.jpg",
+			"info": "Ana es una joven sevillana harta de su familia y del conflictivo barrio en el que viven. Todo irá a peor cuando su madre, para evitar el desahucio, decide engañar a una agencia para acoger en su casa a Ariel Brooklyn, un estudiante afroamericano de familia adinerada, a cambio de 700 euros. A pesar de sus diferencias y de las situaciones esperpénticas que provoca el fraude, Ana y Ariel se verán obligados a convivir bajo el mismo techo. Y ya se sabe que el roce hace cariño.",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Sevillanas.de.Brooklyn.-2021.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Drama, A2021, Letra E, Spain, Netflix, ",
+			"name": "El paramo (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/hdi08iM9ClmtCAcnZP04QLAV2zz.jpg",
+			"info": "El páramo narra la historia de una familia que vive aislada del resto de la sociedad y cuya tranquilidad se ve perturbada por la presencia de una criatura aterradora que pondrá a prueba los lazos que les unen.",
+			"genero": "Terror, Drama",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:E5139A880AA1D7BB059174EEB2843B9570BD371C&dn=HD1080",	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.paramo.-2021.-.1080x265.-.CristalAzul.mkv.torrent
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra M, Spain, 1Hechos reales, ",
+			"name": "Maixabel (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/e10KzNn9fGbDrsdWGEn2E5SnHXu.jpg",
+			"info": "Maixabel Lasa pierde en el año 2000 a su marido, Juan María Jaúregui, asesinado por ETA. Once años más tarde, recibe una petición insólita: uno de los asesinos ha pedido entrevistarse con ella en la cárcel de Nanclares de la Oca /Álava), en la que cumple condena tras haber roto sus lazos con la banda terrorista. A pesar de las dudas y del inmenso dolor, Maixabel accede a encontrarse cara a cara con las personas que acabaron a sangre fría con la vida de quien había sido su compañero desde los dieciséis años",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Maixabel.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Intriga, A2021, Letra J, EEUU, ",
 			"name": "John y el hoyo (2021)","coloryear": "cyan",
@@ -73,8 +424,8 @@
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, A2020, Letra A, Francia, ",
 			"name": "Adios, idiotas (2020)","coloryear": "magenta",
-			"image": "Cuando Suze Trappet se entera a los 43 años de que está gravemente enferma, decide ir en busca del hijo al que se vio obligada a abandonar cuando ella tenía 15 años. Su búsqueda administrativa le hará conocer a JB, un cincuentón en plena depresión, y al señor Blin, un archivero ciego con un entusiasmo impresionante. Los tres se embarcan en una búsqueda tan espectacular como improbable",
-			"info": "https://www.themoviedb.org/t/p/original/l25dvvzToxROeHyyKlLPxIxIfp7.jpg",
+			"image": "https://www.themoviedb.org/t/p/original/l25dvvzToxROeHyyKlLPxIxIfp7.jpg",
+			"info": "Cuando Suze Trappet se entera a los 43 años de que está gravemente enferma, decide ir en busca del hijo al que se vio obligada a abandonar cuando ella tenía 15 años. Su búsqueda administrativa le hará conocer a JB, un cincuentón en plena depresión, y al señor Blin, un archivero ciego con un entusiasmo impresionante. Los tres se embarcan en una búsqueda tan espectacular como improbable",
 			"genero": "Comedia, Drama",
 			"stations": [
 				{

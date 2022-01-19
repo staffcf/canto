@@ -2824,6 +2824,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra H, Reino Unido, ",
+			"name": "Help (2021)","coloryear": "cyan",
+			"image": "https://i.imgur.com/5HCuHfU.jpg",
+			"info": "Sarah parece haber encontrado su vocación trabajando en un hogar de ancianos de Liverpool, donde tiene un talento especial para conectarse con los residentes. Luego, en marzo de 2020, llega la pandemia de Coronavirus.",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Help.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Thriller, A2021, Letra H, EEUU, Netflix, ",
 			"name": "Herida (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/eRxQ6pf5AUZVU7ICiA86j358i5q.jpg",
@@ -3722,7 +3735,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Comedia, 1Fantastico, A2021, Letra L, EEUU, ",
-			"name": "Los Simpson: La buena, el malo y Loki [COLOR orangered](Cortometraje) (2021)","coloryear": "cyan",
+			"name": "Los Simpson: La buena, el malo y Loki [COLOR gold](Corto) (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/rtMdtzywcAGOrF6t8fbxJBqpdcq.jpg",
 			"info": "Loki es desterrado de Asgard una vez mas y debe enfrentarse a sus oponentes mas duros hasta el momento: Los Simpson y los heroes mas poderosos de Springfield. El Dios del engaño se une a Bart Simpson en el evento crossover definitivo que rinde homenaje al universo cinematografico de superheroes y villanos de Marvel",
 			"genero": "Animacion, Comedia, Fantastico",
@@ -3832,7 +3845,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Drama",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Maixabel.-2021.-.720.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Maixabel.-2021.-.1080.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""	
 				}		
 			]
@@ -6581,7 +6594,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Fantastico, A2020, Letra B, Spain, ",
-			"name": "Blue & Malone: Casos imposibles [COLOR orangered](Cortometraje) (2020)","coloryear": "magenta",
+			"name": "Blue & Malone: Casos imposibles [COLOR gold](Corto) (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/kfnuAz9WuXbLgb6cNfeKuuaGwZB.jpg",
 			"info": "Berta (Aura Garrido), una joven periodista aplastada por el estrés, visita el viejo teatro en el que trabajaba su abuela la noche antes de que lo derriben, pero no está del todo abandonado. Mortando Malone (Alex O´Dogherty) y Big Blue Cat, sus antiguos amigos imaginarios, le ayudarán a resolver un caso imposible: recuperar sus ganas de soñar",
 			"genero": "Animacion, Fantastico",
