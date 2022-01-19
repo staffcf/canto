@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Benedetta [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.7[/COLOR]</title> 
+<genre>Drama,Historia,Romance,Suspense</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/gFromMkeTlIMGqGbYikD0k8ZaRg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/voi88IfoNAykXAEd0zrnczNM8LF.jpg</fanart>
+<info>Adaptación de la novela "Immodest Acts: The Life of a Lesbian Nun in Renaissance Italy (Studies in the History of Sexuality)" de Judith C. Brown, que gira en torno a la sexualidad en un convento y la homosexualidad de una de sus monjas, que desde joven comenzó a tener visiones sin conocer el motivo. Ambientada en el siglo XVII e inspirada en hechos reales, narra la vida de la monja Benedetta Carlini, abadesa en el Convento de la Madre de Dios en Pescia, Italia, y de cómo empezó a tener extrañas visiones que la llevaron a recluirse en sí misma. Es cuando la jerarquía católica decide investigar y pronto encontrará que la abadesa Benedetta está teniendo relaciones sexuales con otra monja del convento, la hermana Bartolomea. Esto provocará un gran enfrentamiento con la Iglesia, en un momento muy complicado de la historia, en el que el protestantismo avanza con fuerza.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/NxnZhq0W7G8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/e/dKXjvDx82yUGdL"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/7r194q0xhd19xx9"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/2j9wuch84i1t.html"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/igv710kvylx4"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/tzht4ke7mn05"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1yJlOXxm3QysrhaOMeQdYCPWuN5TnDbIH/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] In the Earth [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.3[/COLOR]</title> 
 <genre>Terror,Ciencia ficción,Suspense</genre>
 <year>2021</year>
