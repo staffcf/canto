@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Help [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.4[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/33Z4AmHQYUpMWiM0T1jYq3xPdKI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lX0u1Qa0bcTgxZbypTHu78FE0Pc.jpg</fanart>
+<info>Sarah parece haber encontrado su vocación trabajando en un hogar de ancianos de Liverpool, donde tiene un talento especial para conectarse con los residentes. Luego, en marzo de 2020, llega la pandemia de Coronavirus.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/5Z2ufAl2lko"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/e/jVZd4R10GehzPYa"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/mdw18owkhedn3d"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/91cn52pvz8b4"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/nwav3x2mztl9"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-jsybm39y86at.html"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1q4JRaEjCkL5jKQob1XKMVKeRSkIWvN73/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Benedetta [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.7[/COLOR]</title> 
 <genre>Drama,Historia,Romance,Suspense</genre>
 <year>2021</year>
