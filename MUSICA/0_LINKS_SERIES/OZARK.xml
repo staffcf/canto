@@ -12,6 +12,7 @@
 	- 1SerieTitle:"OZARK", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/tNDZavjaXfO8poyBY6zpO54aL2e.jpg",
 	- 1SerieTitle:"OZARK", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/niUR6Ob6O61E5Cbik3Qg8jy0NV4.jpg",
 	- 1SerieTitle:"OZARK", SerieTemp:"TEMPORADA 3", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/oy7Peo5iFIt9sNM59lN6csbJeX2.jpg",
+	- 1SerieTitle:"OZARK", SerieTemp:"TEMPORADA 4 - PARTE 1", SerieID:"SERIETEMP4PARTE1", SerieIDT:"TORRENTTEMP4PARTE1", SerieThumbail:"https://www.themoviedb.org/t/p/original/pPaM8yO7gHRRqHSqAsY6EL1qoXq.jpg",
 
 	
 -->
@@ -158,6 +159,114 @@
 			<title>3x10 - A por todas</title>     
 			<torrent>magnet:?xt=urn:btih:FB9A241A3385C98867265D842631682632C467A9</torrent>
 			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP4PARTE1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4PARTE1, "
+			<item>
+			<title>4x01 - El principio del fin</title>
+			<torrent>magnet:?xt=urn:btih:B508071844103635FC365990677EFFFB3C664547&dn=HD720</torrent>	magnet:?xt=urn:btih:F105B2DDF57227F1974BE61452AA5C9B2F8B62A1&dn=HD1080
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4PARTE1, "
+			<item>
+			<title>4x02 - Que el vasto mundo siga girando</title>
+			<torrent>magnet:?xt=urn:btih:78619C81E26D8FDD77C0396E8C32C316980E16AF&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4PARTE1, "
+			<item>
+			<title>4x03 - Una ciudad en ciernes</title>
+			<torrent>magnet:?xt=urn:btih:B4F10C4A730D9542C182358AB8A9674BAF804FF0&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4PARTE1, "
+			<item>
+			<title>4x04 - La suerte en los dados</title>
+			<torrent>magnet:?xt=urn:btih:8421800200A60287AA06A2CE403B0C454E774D4A&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4PARTE1, "
+			<item>
+			<title>4x05 - Explicacion probable</title>
+			<torrent>magnet:?xt=urn:btih:22CC3A50A4CF35B3F48F16508211D35CC364EC3A&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4PARTE1, "
+			<item>
+			<title>4x06 - Sangre sobre todo</title>
+			<torrent>magnet:?xt=urn:btih:9C50E48DD578A9425F4C123238ED65226613AFF6&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4PARTE1, "
+			<item>
+			<title>4x07 - Sanctified</title>
+			<torrent>magnet:?xt=urn:btih:7E666088CBE6B849C9E0A7B4501690E1FA591A2F&dn=HD720</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP4PARTE1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4PARTE1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4PARTE1, "
+			<item>
+			<title>4x01 - El principio del fin</title>
+			<torrent>magnet:?xt=urn:btih:E52D6A54BFDAD1CA56B1EB9ECCEDF95E2CBE0C95&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4PARTE1, "
+			<item>
+			<title>4x02 - Que el vasto mundo siga girando</title>
+			<torrent>magnet:?xt=urn:btih:341E9A8BFD2554BD1F2A6B202AD8183C05629AA2&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4PARTE1, "
+			<item>
+			<title>4x03 - Una ciudad en ciernes</title>
+			<torrent>magnet:?xt=urn:btih:F71DB5B93FF8560B5A3C6CF2CDF71E715E820116&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4PARTE1, "
+			<item>
+			<title>4x04 - La suerte en los dados</title>
+			<torrent>magnet:?xt=urn:btih:06C60899D8C737E9BCC7AB0FC37072BBE5AA01D7&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4PARTE1, "
+			<item>
+			<title>4x05 - Explicacion probable</title>
+			<torrent>magnet:?xt=urn:btih:8FFA0DB4D73CF340F269BF14B4EB95FCF940ABD6&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4PARTE1, "
+			<item>
+			<title>4x06 - Sangre sobre todo</title>
+			<torrent>magnet:?xt=urn:btih:DA0D9C4760457CB9B87EAAD8524A794D41E643EC&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4PARTE1, "
+			<item>
+			<title>4x07 - Sanctified</title>
+			<torrent>magnet:?xt=urn:btih:6526E1896D7025E9F029F0D39398BDB176E3A62A&dn=HDTV</torrent>
+			</item>
+======================================================================
 ======================================================================
 ======================================================================
 ======================================================================
