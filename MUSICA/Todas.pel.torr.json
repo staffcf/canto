@@ -2942,13 +2942,13 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Thriller, A2021, Letra I, EEUU, ",
-			"name": "Ice Road [COLOR gold](Web-Scr) (2021)","coloryear": "cyan",
+			"name": "Ice Road (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/lzJlE1mlHY2ISm9gUt75bXdGJom.jpg",
 			"info": "Una remota mina de diamantes ha colapsado dejando atrapados a un grupo de mineros en una región lejana y helada de Canadá. Como parte de un equipo contratado para rescatarlos, el experimentado conductor de una quitahielos emprende un rescate imposible, teniendo que luchar contra una carretera helada, contra las aguas que están descongelándose y contra una amenaza que no ve venir",
 			"genero": "Accion, Thriller",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Ice.Road.-2021.-.Web1080-Scr.-.CristalAzul.mkv.torrent",		magnet:?xt=urn:btih:AC6CFD2E7198893F7E51C40CD87CEC14C5AD6B1C&dn=BR-Scr
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Ice.Road.-2021.-.1080x265.-.CristalAzul.mkv.torrent",		
 				"torrent4k": ""	
 				}		
 			]
@@ -4890,7 +4890,20 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"torrent4k": "magnet:?xt=urn:btih:AD9189243081D331E86C5EB4C60903805A1F02BD&dn=UHDRip"	
 				}		
 			]
-			},
+			}
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Accion, A2021, Letra S, EEUU, ",
+			"name": "Sin escapatoria (Out of Death) (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/bpZ7Zi9wiJ53d92uO38O2Vjhz25.jpg",
+			"info": "Un departamento del Sheriff corrupto de un pequeño pueblo de montaña queda al descubierto cuando un testigo involuntario pone en peligro la operación.",
+			"genero": "Thriller, Accion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Sin.escapatoria-Out.of.Death-.-2021.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},,
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Accion, 1Drama, A2021, Letra S, EEUU, ",
 			"name": "Sin remordimientos (2021)","coloryear": "cyan",
