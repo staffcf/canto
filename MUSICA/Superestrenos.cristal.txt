@@ -4,6 +4,18 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 
+<item>
+<title>[COLOR white] Sin escapatoria [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.2[/COLOR]</title> 
+<genre>Crimen,Aventura,Suspense</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/of2o1X7fgxWpux2fVjk4iqsqTvh.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uJGKgKBXkOgWwzt8wxc9U1zXDN6.jpg</fanart>
+<info>Una mujer que camina por un bosque es testigo de que cuatro hombres cometen un crimen e intenta escapar, uniéndose a un guardabosques en el camino.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/oJUYwj3izT8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/bQjWxGlAQJhPzm9"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/o714gz4nfowpgm"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/bn236nff09yg"};,{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/yc7psx2nzek6"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/4e05mlt1wuk3"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1-IoAgf232qaR-vNSJpmPOcet_CslD-V_/view"}</urlsolve>
+</item>
+
+
+
 
 <item>
 <title>[COLOR white] Riesgo bajo cero [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.2[/COLOR]</title> 
