@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Frente al Tornado [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.2[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/7e2BuOfD6jFQm4IPMJWubsFXdUo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2JDPl5iW9ggSUwxM8UAQv6KL3er.jpg</fanart>
+<info>A medida que comienza un nuevo día en la pequeña ciudad estadounidense de Minninnewah, los residentes comienzan su día tan ordinario como el siguiente. La madre naturaleza, sin embargo, tiene otros planes para ellos. Los habitantes tienen solo 13 minutos para buscar refugio antes de que el tornado más grande registrado asole la ciudad, dejándolos luchando por proteger a sus seres queridos y luchando por sus vidas. Dejados para lidiar con las secuelas, cuatro familias deben superar sus diferencias y encontrar fuerzas entre sí para poder sobrevivir.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/TR-dhj2QQAw"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/RpKxPzgwmRIdGbW"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/4nlv3nnxb8q6ko"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/b8gdrqf9k12a"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/5klfp4e0gefm"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/1dmbn2qim62n"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1qzD5gTnDIE7XdZfEVc3uozMBY1Pny1l3/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Sin escapatoria [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.2[/COLOR]</title> 
 <genre>Crimen,Aventura,Suspense</genre>
 <year>2021</year>
