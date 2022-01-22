@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Una amistad para siempre [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.6[/COLOR]</title> 
+<genre>Familia,Romance</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/3S3Mz9OD5SUwKy7kaqXcWAKUGXY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cBhk01ZSfvkFGhSYxrUwWRAoCrj.jpg</fanart>
+<info>La película está inspirada en la increíble historia de un perro pastor llamado Palm que fue dejado inadvertidamente en el aeropuerto por su dueño. Se hace amiga de Nicholas, de nueve años, cuya madre muere, dejándolo con un padre al que apenas conoce, un piloto que encuentra al perro en el aeropuerto. Es una historia de aventuras asombrosas, verdadera amistad y amor incondicional.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/rwEdruJofGQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/q7y7211Bg3IaXO"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/o714j11nb17l60"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/b3sb5kdjun4g"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/vv0otj6ryv4b"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ty3plxtfakgm"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Sf1OptRoNKVwDVyt6RVvhMVdgRt76-px/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] El violin de mi padre [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.0[/COLOR]</title> 
 <genre>Drama,Música</genre>
 <year>2022</year>
