@@ -2941,7 +2941,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Thriller, A2021, Letra I, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Accion, 1Thriller, A2021, Letra I, EEUU, ",
 			"name": "Ice Road (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/lzJlE1mlHY2ISm9gUt75bXdGJom.jpg",
 			"info": "Una remota mina de diamantes ha colapsado dejando atrapados a un grupo de mineros en una región lejana y helada de Canadá. Como parte de un equipo contratado para rescatarlos, el experimentado conductor de una quitahielos emprende un rescate imposible, teniendo que luchar contra una carretera helada, contra las aguas que están descongelándose y contra una amenaza que no ve venir",
@@ -2949,7 +2949,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Ice.Road.-2021.-.1080x265.-.CristalAzul.mkv.torrent",		
-				"torrent4k": ""	
+				"torrent4k": "magnet:?xt=urn:btih:69A1970D81DB69B19BDEC992BD7A56B78C4CE021&dn=UHDRip"	
 				}		
 			]
 			},
@@ -34596,7 +34596,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/El.Hobbit.La.batalla.de.los.cinco.ejercitos-V.Ext.2014.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:496ACB211D40B95315B10809C49F807DF2A54214	magnet:?xt=urn:btih:ECF88DE810092CD9D63109E18FEE97D9DC14BECB
-				"torrent4k": "magnet:?xt=urn:btih:F9999440264DED22FBE79E4EC50679568B35A2FF" magnet:?xt=urn:btih:88016152077FF392D41A4B61F8977C4F8B8FD2D7
+				"torrent4k": "magnet:?xt=urn:btih:77AFBDA027A6F6C2B789228F51A3E1541C148DB4&dn=UHDRemux"
 				}		
 			]
 			},
@@ -35289,8 +35289,8 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Fantastico, Aventuras, Accion",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/El.Hobbit.La.desolacion.de.Smaug-V.Ext.2013.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:E3C4B1DF0150655FC8D0DE34AAED8544376425D9	magnet:?xt=urn:btih:633CAE8812277AD447F68E0C63D9049D6309A1C2
-				"torrent4k": "magnet:?xt=urn:btih:32A14CDD02914A1334D31933E5F8C673717DB4F1"  magnet:?xt=urn:btih:CB7613D1637403AECBFAB0C1651558206838CD71
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/El.Hobbit.La.desolacion.de.Smaug-V.Ext.2013.-.1080.-.CristalAzul.mkv.torrent"
+				"torrent4k": "magnet:?xt=urn:btih:4DD2A88FEF64FF457A1513BA65BBE468DBA1F2A7&dn=UHDReescalado" 
 				}		
 			]
 			},
@@ -35984,8 +35984,8 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Fantastico, Aventuras, Accion",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/El.Hobbit.Un.viaje.inesperado-V.Ext.2012.-.1080.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:08FEF0F201EF61BADE7E5A83A90422B477891705	magnet:?xt=urn:btih:F69F855D7503182F28C0E4C806E4AF6C07F3BAD1
-				"torrent4k": "magnet:?xt=urn:btih:463CCE11AE3428B612A8ECC84CD1E6F3D9158BCD" magnet:?xt=urn:btih:B5E234009ABBCD5501CCF4C9D0369A5203A079B9
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/El.Hobbit.Un.viaje.inesperado-V.Ext.2012.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": "magnet:?xt=urn:btih:A93CA7D110ECD9A4F57A62B0D5D811A3B582B1B2&dn=UHDReescalado"
 				}		
 			]
 			},
