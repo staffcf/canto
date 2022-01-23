@@ -18,6 +18,31 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
+			<title> - [COLOR yellow]CALIDAD 1080</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 1 a 10</title>
+			<torrent>magnet:?xt=urn:btih:e3e5595b52afee72d8a5b8de7f1de09498fbe4c5&dn=HD1080</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
 			<title>1x01 - Celebracion</title>
 			<torrent>magnet:?xt=urn:btih:C785FD59B79839FCC462184F932379E7B5B945B0</torrent>
 			</item>
@@ -81,6 +106,31 @@
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
+			<title> - [COLOR yellow]CALIDAD 1080</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x0. - Capitulos 1 a 10</title>
+			<torrent>magnet:?xt=urn:btih:13e1da40f17b5481b0466e27c29a6ee0faee4a39&dn=HD1080</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
 			<title>2x01 - El palacio de verano</title>
 			<torrent>magnet:?xt=urn:btih:496E85E1B751DD4A9AC7D79353080B7EBC3B3C2F</torrent>
 			</item>
@@ -141,6 +191,81 @@
 ======================================================================
 ======================================================================
 ======================================================================
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 1080</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x01 - Secesión</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Succession/3x01.-Succession.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x02 - Misa en tiempo de guerra</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Succession/3x02.-Succession.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x03 - La disrupción</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Succession/3x03.-Succession.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x04 - León en la pradera</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Succession/3x04.-Succession.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x05 - Conserjes jubilados de Idaho</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Succession/3x05.-Succession.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x06 - Lo que se necesita</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Succession/3x06.-Succession.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x07 - Demasiados cumpleaños</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Succession/3x07.-Succession.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x08 - Chiantishire</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Succession/3x08.-Succession.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= SERIETEMP3, TORRENTTEMP3, "
+			<item>
+			<title>3x09 - Todas las campanas dicen</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Succession/3x09.-Succession.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
 ======================================================================
 			"Tag= TORRENTTEMP3, "
 			<item>
