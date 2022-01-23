@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Mediterraneo [/COLOR][COLOR yellow](2021) [COLOR aqua]*4.7[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/zIGcFSNuBsuG91QZabSW4BfdFc0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/o8oyEaFiYPQNQiRin4fxbNUZv0y.jpg</fanart>
+<info>Otoño 2015. Dos socorristas, Oscar (Eduard Fernández) y Gerard (Dani Rovira), viajan hasta Lesbos (Grecia) impactados por la fotografía de un niño ahogado en las aguas del Mediterráneo. Al llegar descubren una realidad sobrecogedora: miles de personas arriesgan su vida cada día cruzando el mar en precarias embarcaciones y huyendo de conflictos armados. Sin embargo, nadie ejerce labores de rescate. Junto a Esther (Anna Castillo), Nico (Sergi López) y otros miembros del equipo, lucharán por cumplir un cometido, dando apoyo a personas que lo necesitan. Para todos ellos, este viaje inicial supondrá una odisea que cambiará sus vidas.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ec30QOnDHBA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/9PJAVVQgyzi6Zg"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/4nlvgdzpuq3q441"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/wvopzqzvae96"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/0qell4vhxjpz"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/m7oadw8ly6x4"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1RUy_gaBUiRxsoMKTu9i3Zcu2n8jD0Aub/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Una amistad para siempre [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.6[/COLOR]</title> 
 <genre>Familia,Romance</genre>
 <year>2021</year>
