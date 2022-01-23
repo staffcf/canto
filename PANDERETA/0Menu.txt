@@ -167,6 +167,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Apple Tree Yard[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Apple.tree.yard</externallink>
+<info>Miniserie de TV (2017). 4 episodios. Yvonne Carmichael (Emily Watson) es una mujer de mediana edad, madre de hijos ya crecidos y con una vida rutinaria, que un día comienza una aventura con un enigmático hombre (Ben Chaplin)... Adaptación de un famoso best-seller de Louise Doughty.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/7eNIjuiLyAGZx6ILVGWWouon4YU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zLQSHlR1wENLxye6CYEX2nIWR0V.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR orange]* [COLOR white]ARCANE League Of Legends[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/LILIANIME/Series/Arcane.league.of.legends</externallink>
@@ -1098,12 +1107,21 @@
 </item>
 
 <item>
-<title>[COLOR gold]* [COLOR white]En eEl Corredor De La Muerte[/COLOR]</title>     
+<title>[COLOR gold]* [COLOR white]En El Corredor De La Muerte[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/En.el.corredor.de.la.muerte.txt</externallink>
 <info>Miniserie de TV (2019). 4 episodios. 27 de enero de 1994. Los cuerpos de un hombre y dos modelos de 25 años aparecen acribillados a tiros en casa del dueño de un club nocturno. La policía encuentra una cámara instalada en el salón de la víctima que ha grabado el asesinato. Esas imágenes son la pista principal de la policía. Se decide distribuir el rostro borroso de uno de los asaltantes. Tres semanas más tarde, en una comisaría de otro distrito, un agente cree reconocer a uno de los asesinos: es Pablo Ibar, un hombre de nacionalidad española al que acababan de detener junto a unos amigos por un robo menor. Pablo asegura que es inocente. Ninguna de las pruebas halladas en el lugar del crimen lo inculpan… Pero de nada sirve. Pablo es condenado y enviado al corredor de la muerte. Esta es la historia de lucha de un hombre por demostrar su inocencia. La historia de una familia que nunca se ha rendido.</info>
 <thumbnail>https://i.imgur.com/VhPRKIL.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/7OfmsxNt6SrtHQ0jhRB8MO0uzJa.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]El Mismo Dia A La Misma Hora[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.mismo.dia.a.la.misma.hora</externallink>
+<info>Barcelona, hora punta. Marc (35) camina decidido, acompañado por su amigo Raúl (37). A pesar de que tiempo atrás sufrió un infarto y está siendo tratado con un fármaco experimental, Marc está preocupado sólo por una cosa. En los últimos meses ha conocido a una mujer, Lucía. Después de dos intentos frustrados, está decidido a declararse a las 15:45. Ahora mismo se dirige hacia donde trabaja ella. Raúl cuestiona de forma divertida el valor de Marc. Está convencido de que, una vez más, fracasará.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/oDY8uW0VTeW3IMois3TfZ9TcD7j.jpg</thumbnail>
+<fanart>https://i.imgur.com/dD8IE8S.jpg</fanart>
 </item>
 
 <item>
@@ -1528,6 +1546,15 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 <info>Serie de TV (2019-2020). 2 temporadas. 12 episodios. Un apocalipsis zombie en la era de la dinastía medieval Joseon. El Príncipe Heredero de Joseon investiga una misteriosa enfermedad epidémica y descubre una cruel verdad que amenaza al país. </info>
 <thumbnail>https://i.imgur.com/SCmjppK.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jTOVOjANSaFNRCXYC809FIExiSr.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Kitz[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Kitz</externallink>
+<info>Un año después de la trágica muerte de su hermano, la joven Lisi entra en el decadente mundo de una pandilla de Munich que llega a la lujosa estación de esquí de Kitzbühel para celebrar cada temporada. Pero pronto se desencadena una avalancha que revela la verdad detrás de la fachada llena de glamour, dinero y hedonismo, con consecuencias incontrolables.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/xS5wsChD13N4MHhVZiQq29yUSBg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iErNFZiMKlJadcAJyYii2TJFwmA.jpg</fanart>
 </item>
 
 <item>
@@ -2409,6 +2436,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Punta Escarlata[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Punta.escarlata</externallink>
+<info>Miniserie de TV (2011). 9 episodios. Bosco Ruiz (Carles Francino) y Max Vila (Antonio Hortelano) son dos jóvenes policías a quienes les asignan la misión de esclarecer un crimen ocurrido ocho años atrás en un pequeño pueblo de la costa. Allí se encontrarán con que las cosas no son realmente lo que parecen. A medida que avanzan en sus pesquisas tienen lugar una serie de nuevos e inquietantes asesinatos que podrían estar relacionados con el caso. También conocerán a Carla (Kira Miró), una audaz y atractiva guardia civil, y a Eva (Elena Ballesteros), la dueña del camping en el que se alojan ambos policías.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/r9BPTUyF9ozcmh82eG5wXvaADSr.jpg</thumbnail>
+<fanart>https://i.imgur.com/4634DaF.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Que Viene El Lobo[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Que.viene.el.lobo.txt</externallink>
@@ -2606,6 +2642,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 <info>A causa de una fuerte sequía, el pueblo de Campomediano emerge de las aguas en el fondo del pantano que también lleva su nombre. En una de las antiguas casas aparecen unos restos humanos que pertenecen a dos hombres. La inspectora de la policía Daniela Yanes se hace cargo del caso. Las víctimas, con orificios de balas, evidencian que se trata de un crimen que ha permanecido oculto durante muchos años. La identificación de los dos cuerpos hace que dos familias separadas por la frontera entre España y Portugal vayan hacia un destino común que arranca en los últimos años de la década de los 90 y a una trama en la que diferentes personajes entrecruzan sus caminos con consecuencias imprevisibles.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/4Sq0JyUxZDOxs1gkaLbFtuVPh31.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/7iyxyl6DxaorQ4KdVDYFGdV1Sbe.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Servant[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Servant</externallink>
+<info>Serie de TV (2019-). 2 temporadas. Una acaudalada pareja de Philadelphia, de luto tras suceder una horrible tragedia, crea una grieta en su matrimonio que abre la puerta a una misteriosa fuerza que entra en su hogar.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/VE8M8nFftWkrx5o9WIMl2MDJkR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7nsRpSCYcDGLcDmFAISHC8zMQ0D.jpg</fanart>
 </item>
 
 <item>
