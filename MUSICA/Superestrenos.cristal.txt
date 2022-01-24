@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Lazos [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.9[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/yJTAshi3panmtpLnvT3denMy3UT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ldHHn2VoFEiQF5yTCsYil3W8lR4.jpg</fanart>
+<info>Nápoles, principios de los 80. Aldo y Vanda pasan por una separación, después de que él revela su aventura. Sus dos hijos pequeños se debaten entre sus padres, en un torbellino de resentimiento. Pero los lazos que mantienen unidas a las personas son ineludibles, incluso sin amor. Ahora, 30 años después, Aldo y Vanda todavía están casados.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/D74ODINXqHI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/gjqWXDlDzyfYj9"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/rwmwppzxiwqxj1"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/woqm8e7dqg3r"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/0fs8n34p7to9"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/9eiwonvwi7sv"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1tRZ2ZkXaroatH-yy8rGHfjR2Gm93uwdX/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Al sur del cielo [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.4[/COLOR]</title> 
 <genre>Crimen,Suspense,Drama</genre>
 <year>2021</year>
