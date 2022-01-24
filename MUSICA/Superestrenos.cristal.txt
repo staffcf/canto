@@ -4,15 +4,7 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 
-<item>
-<title>[COLOR white] Al sur del cielo [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.4[/COLOR]</title> 
-<genre>Crimen,Suspense,Drama</genre>
-<year>2021</year>
-<thumbnail>https://www.themoviedb.org/t/p/original/sUdlWpnpNIWPIvXDnucLRjDHOvQ.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/4lTi5kiXexS879daDRbTcroWECl.jpg</fanart>
-<info>El criminal convicto Jimmy obtiene libertad condicional anticipada después de cumplir doce años por robo a mano armada. Tras su liberación, promete darle a Annie, su amor de la infancia, que ahora muere de cáncer, el mejor último año de su vida; desafortunadamente, no es tan simple.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/N82EH3GXbiU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/038waeJPAeIb9dp"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/dqvqevd6b8o8nq"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/3vr08vlyygtk"};,{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/y7g0ci6zkhje"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/yixubv3fk4cm"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1UmdNUz-AyeNhbps1cEapd1deO60k1GOb/view"}</urlsolve>
-</item>
+
 
 
 
