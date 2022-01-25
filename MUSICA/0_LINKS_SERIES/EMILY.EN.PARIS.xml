@@ -17,68 +17,36 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - [COLOR yellow]CALIDAD 720</title>      
+			<title> - [COLOR yellow]CALIDAD 720</title>     
 			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 1 a 10</title>      
+			<title>1x0. - Capitulos 1 a 10</title>     
 			<torrent>magnet:?xt=urn:btih:595CB45249810A81BA8E607344CF801E2BB6287E</torrent>
 			</item>
 ======================================================================
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - </title>      
+			<title> - </title>     
 			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - [COLOR yellow]CALIDAD HDTV</title>      
+			<title> - [COLOR yellow]CALIDAD HDTV</title>     
 			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 1 a 10</title>      
+			<title>1x0. - Capitulos 1 a 10</title>     
 			<torrent>magnet:?xt=urn:btih:6D136BED76B376B2EC940A56334BE2449BFC81C7</torrent>
 			</item>
 ======================================================================
 ======================================================================
-======================================================================
-			"Tag= TORRENTTEMP2, "
-			<item>
-			<title> - [COLOR yellow]CALIDAD 1080</title>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP2, "
-			<item>
-			<title>1x0. - Capitulos 1 a 4</title>
-			<torrent>magnet:?xt=urn:btih:804CBEE96C2FDBBE89A77CA1FA7C3838B9A4412E&dn=HD1080</torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP2, "
-			<item>
-			<title>1x0. - Capitulos 5 a 7</title>
-			<torrent>magnet:?xt=urn:btih:5B5F6C9865EE6B9882EC2CFA861E3467D07CFDD9&dn=HD1080</torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP2, "
-			<item>
-			<title>1x0. - Capitulos 8 a 10</title>
-			<torrent>magnet:?xt=urn:btih:DD83C5E91BE5E51879D9D04409E096E698D780DF&dn=HD1080</torrent>
-			</item>
-======================================================================
-======================================================================
-======================================================================
-			"Tag= TORRENTTEMP2, "
-			<item>
-			<title> - </title>
-			<torrent></torrent>
-			</item>
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
@@ -88,19 +56,19 @@
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
-			<title>1x0. - Capitulos 1 a 4</title>
+			<title>2x0. - Capitulos 1 a 4</title>
 			<torrent>magnet:?xt=urn:btih:8BEE2BF50AA9F81EC8F681E2C33EB2BACF5DDCBA&dn=HD720</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
-			<title>1x0. - Capitulos 5 a 7</title>
+			<title>2x0. - Capitulos 5 a 7</title>
 			<torrent>magnet:?xt=urn:btih:1D3E60B6A115520C351A103BFCB4E83619E533DA&dn=HD720</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
-			<title>1x0. - Capitulos 8 a 10</title>
+			<title>2x0. - Capitulos 8 a 10</title>
 			<torrent>magnet:?xt=urn:btih:9432D0177E5A82EADB2187DD5F183E728AA96935&dn=HD720</torrent>
 			</item>
 ======================================================================
@@ -119,19 +87,19 @@
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
-			<title>1x0. - Capitulos 1 a 4</title>
+			<title>2x0. - Capitulos 1 a 4</title>
 			<torrent>magnet:?xt=urn:btih:5AA33318576760BE721D4555F791194D9AE89E09&dn=HDTV</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
-			<title>1x0. - Capitulos 5 a 7</title>
+			<title>2x0. - Capitulos 5 a 7</title>
 			<torrent>magnet:?xt=urn:btih:8C96900F095500DAE4EA0A1274AFF9473458EF3B&dn=HDTV</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
-			<title>1x0. - Capitulos 8 a 10</title>
+			<title>2x0. - Capitulos 8 a 10</title>
 			<torrent>magnet:?xt=urn:btih:B75B71554FE92DE81F9C290B755EF5E42D797373&dn=HDTV</torrent>
 			</item>
 ======================================================================
