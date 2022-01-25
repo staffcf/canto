@@ -11,9 +11,9 @@
 	
 	- 0SerieTitle:"OZARK", SerieTemp:"TEMP. 1 a 3 - [COLOR gold]Calidad 1080", SerieID:"", SerieIDT:"TORRENT1-3", SerieThumbail:"https://www.themoviedb.org/t/p/original/vbiy84IkwuUpoXGC9cGXaXykc45.jpg",
 	
-	- 1SerieTitle:"OZARK", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/tNDZavjaXfO8poyBY6zpO54aL2e.jpg",
-	- 1SerieTitle:"OZARK", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/niUR6Ob6O61E5Cbik3Qg8jy0NV4.jpg",
-	- 1SerieTitle:"OZARK", SerieTemp:"TEMPORADA 3", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/oy7Peo5iFIt9sNM59lN6csbJeX2.jpg",
+	- 1SerieTitle:"OZARK", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/x7M93pIs7spQRLjtcNra1dDemxx.jpg",
+	- 1SerieTitle:"OZARK", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/pXAR26dF40FTJc6TkfALlnRGxcT.jpg",
+	- 1SerieTitle:"OZARK", SerieTemp:"TEMPORADA 3", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/ptRaE7lPLbrM0cuwoDKHHisZPMi.jpg",
 	- 1SerieTitle:"OZARK", SerieTemp:"TEMPORADA 4 - PARTE 1", SerieID:"SERIETEMP4PARTE1", SerieIDT:"TORRENTTEMP4PARTE1", SerieThumbail:"https://www.themoviedb.org/t/p/original/pPaM8yO7gHRRqHSqAsY6EL1qoXq.jpg",
 
 	
@@ -27,6 +27,79 @@
 ======================================================================
 ======================================================================
 ======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 1080</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x01 - Caña de azúcar</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/1x01.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x02 - Gato Azul</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/1x02.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x03 - Noches en blanco</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/1x03.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x04 - Esta noche improvisamos</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/1x04.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x05 - Días decisivos</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/1x05.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x06 - Libro de Ruth</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/1x06.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x07 - Casa para pájaros</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/1x07.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x08 - Caleidoscopio</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/1x08.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x09 - Café, solo</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/1x09.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x10 - Las campanadas</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/1x10.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>      
+			<torrent></torrent>
+			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
@@ -77,6 +150,79 @@
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
+			<title> - [COLOR yellow]CALIDAD 1080</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x01 - Arreglos</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/2x01.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x02 - a Preciosísima Sangre de Cristo</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/2x02.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x03 - Un Langmore de por vida</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/2x03.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x04 - En soledad</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/2x04.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x05 - El gran día</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/2x05.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x06 - Las tinieblas de afuera</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/2x06.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x07 - Una salida</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/2x07.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x08 - El sueño eterno</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/2x08.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x09 - El tejón</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/2x09.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x10 - La Costa de Oro</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/2x10.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - </title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
 			<title> - [COLOR yellow]CALIDAD 720</title>      
 			<torrent></torrent>
 			</item>
@@ -110,6 +256,85 @@
 ======================================================================
 ======================================================================
 ======================================================================
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 1080</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x01 - Tiempos de guerra</title>   
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/3x01.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x02 - Enlace civil</title> 
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/3x02.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x03 - Kevin Cronin estuvo aquí</title> 
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/3x03.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x04 - Pelea entre jefes</title>   
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/3x04.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x05 - Vino de Michoacán</title> 
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/3x05.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x06 - Su casa es mi casa</title> 
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/3x06.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x07 - En caso de emergencia</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/3x07.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x08 - Una amistad inquebrantable</title> 
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/3x08.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x09 - Fire Pink</title>   
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/3x09.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x10 - A por todas</title>   
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/3x10.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - </title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
 ======================================================================
 			"Tag= TORRENTTEMP3, "
 			<item>
@@ -173,6 +398,61 @@
 ======================================================================
 ======================================================================
 ======================================================================
+======================================================================
+			"Tag= TORRENTTEMP4PARTE1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 1080</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4PARTE1, "
+			<item>
+			<title>4x01 - El principio del fin</title> 
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/4x01.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4PARTE1, "
+			<item>
+			<title>4x02 - Que el vasto mundo siga girando</title> 
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/4x02.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4PARTE1, "
+			<item>
+			<title>4x03 - Una ciudad en ciernes</title> 
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/4x03.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4PARTE1, "
+			<item>
+			<title>4x04 - La suerte en los dados</title> 
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/4x04.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4PARTE1, "
+			<item>
+			<title>4x05 - Explicacion probable</title> 
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/4x05.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4PARTE1, "
+			<item>
+			<title>4x06 - Sangre sobre todo</title> 
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/4x06.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4PARTE1, "
+			<item>
+			<title>4x07 - Sanctified</title> 
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/4x07.-Ozark.-.1080x265.-.CristaAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP4PARTE1, "
+			<item>
+			<title> - </title>      
+			<torrent></torrent>
+			</item>
 ======================================================================
 			"Tag= TORRENTTEMP4PARTE1, "
 			<item>
