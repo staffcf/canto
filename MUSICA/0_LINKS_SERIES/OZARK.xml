@@ -9,6 +9,8 @@
 
 	ETIQUETAS:
 	
+	- 0SerieTitle:"OZARK", SerieTemp:"TEMP. 1 a 3 - [COLOR gold]Calidad 1080", SerieID:"", SerieIDT:"TORRENT1-3", SerieThumbail:"https://www.themoviedb.org/t/p/original/vbiy84IkwuUpoXGC9cGXaXykc45.jpg",
+	
 	- 1SerieTitle:"OZARK", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/tNDZavjaXfO8poyBY6zpO54aL2e.jpg",
 	- 1SerieTitle:"OZARK", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/niUR6Ob6O61E5Cbik3Qg8jy0NV4.jpg",
 	- 1SerieTitle:"OZARK", SerieTemp:"TEMPORADA 3", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/oy7Peo5iFIt9sNM59lN6csbJeX2.jpg",
@@ -17,6 +19,14 @@
 	
 -->
 ======================================================================
+			"Tag= TORRENT1-3, "
+			<item>
+			<title>TEMPORADAS 1 A 3 - [COLOR yellow]CALIDAD 1080</title>     
+			<torrent>magnet:?xt=urn:btih:0BD49A5DCB879D57231DE3C3E5C36F09A859A7C7</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
@@ -26,29 +36,15 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulo 1 [COLOR red](SIN ENLACE)</title>      
-			<torrent></torrent>
+			<title>1x01 - Caña de azúcar</title>      
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ozark/1x01.-Ozark.-.720.-.CristaAzul.mkv.torrent</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 2 a 10</title>      
+			<title>1x0. - Capitulos 2 a 10</title>      
 			<torrent>magnet:?xt=urn:btih:6D65334EA47F8FB8044175CC8CF0B095A78CE19F</torrent>
 			</item>
-======================================================================
-======================================================================
-			"Tag= TORRENTTEMP2, "
-			<item>
-			<title> - [COLOR yellow]CALIDAD 720</title>      
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP2, "
-			<item>
-			<title> - Capitulos 1 a 10</title>      
-			<torrent>magnet:?xt=urn:btih:746ACB2FA5E2BE6204216F01EF960B6104C4B4EA</torrent>
-			</item>
-======================================================================
 ======================================================================
 ======================================================================
 			"Tag= TORRENTTEMP1, "
@@ -66,14 +62,29 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulo 1</title>      
+			<title>1x01 - Caña de azúcar</title>      
 			<torrent>magnet:?xt=urn:btih:7FCD4DDB57A8E747C1A19638705B33D29DD34F70</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 2 a 10</title>      
+			<title>1x0. - Capitulos 2 a 10</title>      
 			<torrent>magnet:?xt=urn:btih:83CD202622C8927E0B607D88B4A5D05A22DDA276</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>      
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x0. - Capitulos 1 a 10</title>      
+			<torrent>magnet:?xt=urn:btih:746ACB2FA5E2BE6204216F01EF960B6104C4B4EA</torrent>
 			</item>
 ======================================================================
 ======================================================================
@@ -92,7 +103,7 @@
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
-			<title> - Capitulos 1 a 10</title>      
+			<title>2x0. - Capitulos 1 a 10</title>      
 			<torrent>magnet:?xt=urn:btih:47F8BD54D57445A45F6628097283387309D27644</torrent>
 			</item>
 ======================================================================
