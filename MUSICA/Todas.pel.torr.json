@@ -49,9 +49,9 @@ Title:[COLOR gold]COLECCION [COLOR white]BRUCE LEE, SagaID:BruceLee, Imagen:http
 Title:[COLOR gold]COLECCION [COLOR white]CLINT EASTWOOD, SagaID:ClintEastwood, Imagen:https://e00-elmundo.uecdn.es/especiales/cultura/clint-eastwood/img/tit-portada.png,	https://dbdzm869oupei.cloudfront.net/img/sticker/preview/5457.png
 
 							-	0Saga, 1SagaTorrent, 
-Title:101 DALMATAS, SagaID:P101Dalmatas, Imagen:https://www.themoviedb.org/t/p/original/iGJgy1rCO81LBKbEJabb0jlSWuj.jpg,
+Title:101 DALMATAS, SagaID:P101Dalmatas, Imagen:https://www.themoviedb.org/t/p/original/2Tkm98zzzZvu2ClOvJc0K3l25x9.jpg,
 							-	0Saga, 1SagaTorrent, 
-Title:3 METROS SOBRE EL CIELO, SagaID:3MSEC, Imagen:https://www.themoviedb.org/t/p/original/zVNxqJfzw9MCtkLuFxXo4KL3ye1.jpg,
+Title:3 METROS SOBRE EL CIELO, SagaID:3MSEC, Imagen:https://www.themoviedb.org/t/p/original/1BoqfofJALuCJJ8zUeesQVimoxH.jpg,
 							-	1Saga, 1SagaTorrent, 
 Title:30 DIAS DE OSCURIDAD, SagaID:30diasoscuridad, Imagen:https://www.themoviedb.org/t/p/original/uWVEjJ6wIjg6jVR2LtwVRHkpJAn.jpg,
 							-	0Saga, 1SagaTorrent, 
@@ -189,7 +189,7 @@ Title:JOHN WICK, SagaID:JohnWick, Imagen:https://coolpapaesreviews.files.wordpre
 							-	0Saga, 1SagaTorrent, 
 Title:JUMANJI, SagaID:Jumanji, Imagen:https://www.dafont.com/forum/attach/orig/7/8/780442.png,		
 							-	0Saga, 1SagaTorrent, 
-Title:JUNGLA DE CRISTAL, SagaID:JunglaCristal, Imagen:https://1.bp.blogspot.com/_WpbYQNloSNM/RvT83oFYBiI/AAAAAAAAAvk/nt7eVES129E/s400/Jungla01.png,	
+Title:JUNGLA DE CRISTAL, SagaID:JunglaCristal, Imagen:https://www.themoviedb.org/t/p/original/rfAYgRKlxQ7LarlHfXg8zqL7NnB.jpg,	
 							-	0Saga, 1SagaTorrent, 
 Title:KARATE KID, SagaID:KarateKid, Imagen:https://fanart.tv/detailpreview/fanart/movies/8580/movieposter/the-karate-kid-collection-5ccad9bfb0a65.jpg,	
 							-	0Saga, 1SagaTorrent, 
@@ -2291,7 +2291,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Aventuras, A2021, Letra E, Rusia, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Aventuras, A2021, Letra E, Rusia, Sagas UltimoGuerrero, ",
 			"name": "El ultimo guerrero. Las raices del mal (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/4qE7mvUYGY5epfcgeJpM6EfHgq5.jpg",
 			"info": "Belogorie vive un momento de paz y tranquilidad. El mal fue vencido e Ivan está disfrutando de su fama junto a su familia, sus amigos y el maravilloso mundo moderno que le ayuda a vivir de manera confortable. Por suerte, tiene una espada mágica para pasar de un mundo a otro, para coger algunas cosas de vez en cuando. Pero cuando el mal reaparece y la existencia del mundo mágico está en peligro, Ivan tendrá que enfrentarse a los enemigos para que la paz regrese a Belogorie",
@@ -30459,6 +30459,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"torrent": "magnet:?xt=urn:btih:767FD7E3BC8D0B63A03038026F82DDD1210D994B",
 				"torrent4k": ""
 				}
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Fantastico, A2017, Letra E, Rusia, Disney, Sagas UltimoGuerrero, ",
+			"name": "El ultimo guerrero (2017)","coloryear": "green",
+			"image": "https://www.themoviedb.org/t/p/original/kWQh4iIt3WQvWrhMoukPCshzNsh.jpg",
+			"info": "Ivan emprende un alucinante viaje desde Moscú a Belogorye, un mundo de fantasía habitado por personajes de cuentos de hadas y magia rusos. Sin saber muy bien cómo, se encuentra en el centro mismo de la batalla entre las fuerzas de la luz y la oscuridad, donde todos creen que poner fin a la guerra depende únicamente de él",
+			"genero": "Accion, Fantastico",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.ultimo.guerrero.-2017.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
 			]
 			},
 			{
