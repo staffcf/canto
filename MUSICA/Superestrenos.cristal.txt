@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] La tierra de los hijos [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.7[/COLOR]</title> 
+<genre>Drama,Ciencia ficción</genre>
+<year>2021</year>
+<thumbnail>https://i.imgur.com/A981jkF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vBNFWfc4jd3V613zJWd3gL9m73B.jpg</fanart>
+<info>El final de la civilización ha llegado. Un padre y su hijo se encuentran entre los supervivientes. El hijo es criado como un niño salvaje, pues su padre considera que es la única forma de sobrevivir. Cuando el padre muere, el hijo decide emprender un viaje a lo largo del río, en busca de alguien que pueda leer el diario que su padre escribió a lo largo de su vida.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Y0AxGQ8LyYg"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/qyMp7Pgx0QSw1o"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/n0j011d7clo0dml"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/fvxx01q5vvgm"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/2u34i57vv1kq"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-7egd29axp2g4.html"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/tl63vyik5iol"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1JwVgpqhorGtCTx4Go6VvSNCc0pczLEJA/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Presencias inexplicables [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.7[/COLOR]</title> 
 <genre>Suspense,Terror</genre>
 <year>2021</year>
