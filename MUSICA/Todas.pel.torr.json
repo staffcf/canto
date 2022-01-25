@@ -30449,6 +30449,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Aventuras, A2017, Letra E, Rusia, ",
+			"name": "El ultimo guerrero (2017)","coloryear": "green",
+			"image": "https://www.themoviedb.org/t/p/original/hDZIGCeooFN8QDd1A5LpQhdF6D8.jpg",
+			"info": "Una nueva era está a punto de comenzar en Europa del Este. Los escitas, guerreros orgullosos, casi han desaparecido, y los pocos descendientes restantes se han convertido en despiadados asesinos mercenarios. Lutobor, es un guerrero que se ha involucrado en conflictos intertribales y que emprende un peligroso viaje para intentar salvar a su familia",
+			"genero": "Aventuras",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:eeae564a92720e05a415bbe5ee45561fae255a08&dn=HD1080",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2017, Letra E, Argentina, Cine Latino, Holocausto, Vejez, ",
 			"name": "El Ultimo Traje (2017)","coloryear": "green",
 			"image": "https://www.ecartelera.com/carteles/11800/11874/001_p.jpg",
@@ -35191,6 +35204,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Thriller, 1Romance, A2013, Letra A, Spanish, ",
+			"name": "Alacran enamorado (2013)","coloryear": "lawngreen",
+			"image": "https://www.themoviedb.org/t/p/original/nA9YI2PEsiiJ4paaOg0LCkPEKnA.jpg",
+			"info": "Julián (Álex González) y su amigo Luis (Miguel Ángel Silvestre) son dos chicos de barrio que forman parte de una banda de violentos neonazis liderada por Solís (Javier Bardem). Julián frecuenta un gimnasio, donde, gracias a la disciplina del boxeo, a la nobleza de su entrenador (Carlos Bardem) y al amor de una joven mulata (Judith Diakhate), irá cambiando poco a poco de mentalidad. Entonces empieza a alejarse del grupo, pero Luis no está dispuesto a consentirlo",
+			"genero": "Drama, Thriller, Romance",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Alacran.enamorado.-2013.-.1080x265.-.CristalAzul.mp4.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Accion, 1Thriller, A2013, Letra A, EEUU, ",
 			"name": "Asalto al poder (2013)","coloryear": "lawngreen",
 			"image": "https://www.themoviedb.org/t/p/original/npm7FxHilvxsPbo72iK35HD84GN.jpg",
@@ -37870,6 +37896,18 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{ 
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Sherlock.Holmes.-2009.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:guhhyqfmyhbd35urd6tmdeppyr24jsea
 				"torrent4k": "magnet:?xt=urn:btih:7619F0032AB8E637D55824A2C7BF613591992126"
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2009, Letra S, EEUU, 1Hechos reales, ",
+			"name": "Siempre a tu lado (Hachiko) (2009)","coloryear": "hotpink",
+			"image": "https://www.themoviedb.org/t/p/original/rLPMD8BOHjvvjjCX7BZQdqNWBm2.jpg",
+			"info": "Parker Wilson, un profesor universitario que da clases de música, recoge un día a un perro de origen japonés y raza Akita, al que encuentra abandonado en una estación. Como nadie lo reclama, se lo lleva a su casa. Parker va descubriendo entonces los entrañables lazos que pueden unir a una persona y a un animal. Remake de la película japonesa 'Hachiko monogatari' (1987) dirigida por Seijirô Kôyama y basada en la historia real de un perro tan fiel a su dueño que iba todos los días a esperarlo a la estación. Actualmente, en esa estación, existe una estatua de bronce erigida en su honor",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:f7f08eca3d1dbd6313c4297ba061f9578fcccefc&dn=HD1080",
+				"torrent4k": ""	
 				}		
 			]
 			},
