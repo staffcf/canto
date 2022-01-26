@@ -1422,6 +1422,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Insania[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Insania</externallink>
+<info>Una tragedia personal le provoca a Paula, una joven policía científica, una crisis que la lleva a ingresar en un hospital psiquiátrico. Allí se verá arrastrada hasta los rincones más oscuros y terroríficos de su mente de la mano de un misterioso doctor.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/hFYCcL7UenTEf8YYqehwRvm1WIO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fkMt7VjoVAQmM5qczdq3MTOc0wK.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Instinto[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Instinto</externallink>
