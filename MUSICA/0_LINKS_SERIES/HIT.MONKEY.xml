@@ -15,6 +15,12 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
 			<title>1x0. - Capitulos 1 a 4</title>
 			<torrent>magnet:?xt=urn:btih:5DB288759944C1865523F59E29E193182C18F497&dn=HD720</torrent>
 			</item>
@@ -30,5 +36,37 @@
 			<title>1x0. - Capitulos 8 a 10</title>
 			<torrent>magnet:?xt=urn:btih:795F064CE4E16F87C43E8309B7E8A7EDC9B8CB60&dn=HD720</torrent>
 			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 1 a 4</title>
+			<torrent>magnet:?xt=urn:btih:023801C82597C36AB3EFD6E1442CE2EACB187B86&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 5 a 7</title>
+			<torrent>magnet:?xt=urn:btih:75662E37F42943B5A0F04B99373D6CB9FB927534&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 8 a 10</title>
+			<torrent>magnet:?xt=urn:btih:EF0017DF84B539BB877E5AF75D3487359F7C6580&dn=HDTV</torrent>
+			</item>
+======================================================================
 ======================================================================
 ======================================================================
