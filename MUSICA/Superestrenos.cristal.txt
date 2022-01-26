@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Sharkwater [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.0[/COLOR]</title> 
+<genre>Suspense</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/obGFd3rHNrXVWyewflMx0FkOmNd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oodY6W2E3lRLLHkHHA1C5CZjS6F.jpg</fanart>
+<info>Una pareja de escapada romántica se encuentra en el mar cuando una tormenta tropical arrasa su villa. Para sobrevivir se ven obligados a luchar contra los elementos mientras los tiburones les rodean.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/gt6niWvJxHQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/bgw0JWy7r3fPMq1"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/84x4wjrlf48edo"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/tk5kd7xzwj7b"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/28f9a4c9ghsj"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/x1ynhe7asabe"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/74pd6nhiizuy"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1jVnU1_7cxt5ChTVFGSzLILkLbPONkT9s/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] La tierra de los hijos [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.7[/COLOR]</title> 
 <genre>Drama,Ciencia ficción</genre>
 <year>2021</year>
