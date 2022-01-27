@@ -5826,6 +5826,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Fantastico, A2020, Letra NUM, Francia, ",
+			"name": "¿Quien es quien? (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/31HE6Hba1pX1SjPWtQzdswWaCaM.jpg",
+			"info": "Una mañana, los Morel se despiertan con un gran problema. ¡Descubren que sus mentes se han intercambiado y que cada uno de ellos está atrapado en el cuerpo de otro miembro de la familia! Chacha, de 6 años, está en el cuerpo del padre, el padre en el cuerpo de su hijo adolescente, el hijo en el cuerpo de la hermana mayor, la hermana mayor en el cuerpo de la madre y la madre en el cuerpo de Chacha... ¿Te has perdido? Ellos también. Y esto es solo el principio.",
+			"genero": "Comedia, Fantastico",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Quien.es.quien.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Comedia, A2020, Letra NUM, EEUU, Netflix, ",
 			"name": "(Re)cambio de princesa (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/cxtwDFKYyj4EuS95zpGfap9yZiP.jpg",
@@ -8502,6 +8515,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"torrent": "magnet:?xt=urn:btih:A430AB0B2E2FD86904447C2974A8A6AD24B89BC2&dn=BRRip",  magnet:?xt=urn:btih:A430AB0B2E2FD86904447C2974A8A6AD24B89BC2&dn=BRRip
 				"torrent4k": ""
 				"
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Thriller, A2020, Letra E, Suecia, ",
+			"name": "En la casa de al lado (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/sDG3yRMyZoBtMI4vGs1BQalN0NN.jpg",
+			"info": "Shirin se acaba de mudar a una casa adosada en las afueras de la ciudad con su compañero Fredrik y el hijo de este, Lucas. Cuando Fredrik está fuera del trabajo, comienzan a llegar sonidos extraños desde la otra parte deshabitada de la casa. Y Lucas de repente de la nada tiene un nuevo 'mejor amigo'",
+			"genero": "Terror, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/En.la.casa.de.al.lado.-2020.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
