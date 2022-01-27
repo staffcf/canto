@@ -692,6 +692,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Devs[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Devs</externallink>
+<info>Lily Chan, una joven ingeniera de software que, tras el aparente suicido de su novio, comienza a investigar al CEO de la empresa para la que trabaja, Forest. En su búsqueda, descubre una conspiración tecnológica que podría cambiar el mundo.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/uv63iNWOh69bSJYJQZjiX6n8B3m.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gAskg0Dh44n2w4cyprWDjtyoUP3.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Dexter:New Blood[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Dexter.new.blood</externallink>
