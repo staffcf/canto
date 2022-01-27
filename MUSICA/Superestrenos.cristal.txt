@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] ¿Quien es Quien? [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.9[/COLOR]</title> 
+<genre>Comedia,Fantasía</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/31HE6Hba1pX1SjPWtQzdswWaCaM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/joAPpEwIGbc48DQdfemIUxKH1FC.jpg</fanart>
+<info>Una mañana, los Morel se despiertan con un gran problema. ¡Descubren que sus mentes se han intercambiado y que cada uno de ellos está atrapado en el cuerpo de otro miembro de la familia! Chacha, de 6 años, está en el cuerpo del padre, el padre en el cuerpo de su hijo adolescente, el hijo en el cuerpo de la hermana mayor, la hermana mayor en el cuerpo de la madre y la madre en el cuerpo de Chacha... ¿Te has perdido? Ellos también. Y esto es solo el principio.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/-vGwbSSTJ_g"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/yxV46JL6YQF1QvX"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/enqlr796c3z911"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/41txgv19t2mk"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/viqe4kbp7q8b"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-227unyhrftm0.html"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/njflob3h3iko"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1aIMf7hMpI-KACrmJj8LSu0ZN2OnWRIZ1/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] The Fallout [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.8[/COLOR]</title> 
 <genre>Drama</genre>
 <year>2022</year>
