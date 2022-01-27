@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] En la casa de al lado [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.8[/COLOR]</title> 
+<genre>Terror,Misterio,Suspense</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/tFZI9YHElePikKqhJ26sBASempW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bdHD3jiz20rkrDvt7Vw3ncU0agi.jpg</fanart>
+<info>Sarah, su novio y su hijo Lucas de cinco años se mudan a una casa adosada. Pero el otro lado está perseguido por algo maligno, que quiere a Lucas a toda costa. Inspirado en hechos reales.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Irxx8nqBLX8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/gqoAapmwzVTGJx"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/dqvqn434b7jxwx3"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/sgagt0b0h0sq"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/alo9wne32m89"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-h0d9t0d85nuv.html"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/j5sb89hfb0fm"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1_u0lqrXgDaJuRj0HXwN0cMbwyPaH0gKF/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] ¿Quien es Quien? [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.9[/COLOR]</title> 
 <genre>Comedia,Fantasía</genre>
 <year>2021</year>
