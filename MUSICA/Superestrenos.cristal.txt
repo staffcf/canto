@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Jugar en casa [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.9[/COLOR]</title> 
+<genre>Familia,Comedia</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/zTwfMV1hm1DIrMo8BGyZKskhSPr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/c8Woa2lNy3RuWW2IVEiOud3kevh.jpg</fanart>
+<info>Historia sobre el entrenador de los New Orleans Saints, Sean Payton, entrenando al equipo de fútbol de sexto curso de su hijo, cuando fue suspendido durante toda la temporada 2012 a consecuencia de su papel en el escándalo Bountygate de los Saints.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/wJNA1_TRSfo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/OxzB9jJ4kKSZlvG"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/dqvkq431f1owwx"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/aijgbwo7vjhu"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/avpvmssfdrj1"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/l8da3z96ef04"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/u2e2n1yycfkz"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/0d6j7cl2w08xqqn"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1AEJnuOkqzoXhMqlDM7BbCDtcybe98SQl/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Ice Age Las aventuras de Buck[/COLOR][COLOR yellow](2022) [COLOR aqua]*8.0[/COLOR]</title> 
 <genre>Animación,Comedia,Aventura,Familia</genre>
 <year>2022</year>
