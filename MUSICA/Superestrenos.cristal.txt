@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Mi hijo [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.3[/COLOR]</title> 
+<genre>Crimen,Drama,Misterio</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/8d4q6bf1PS6OX6F3syWnfBzFZg9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nqPDhVKKWsATdXHTnYJ1rKfzd0w.jpg</fanart>
+<info>Edmond Murray recibe una llamada de su ex esposa, llorando. Su hijo de 7 años ha desaparecido de un campamento. Pronto queda claro que el niño ha sido secuestrado y los padres entran en una espiral de angustia y desesperación.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/wR6YmXA3M4s"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/e4Dxk1e346cY0bB"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.bz/e/pkxjknzxhqj740"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/7u26zsz3ai5u"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/ywjb7uepso82"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-kx8x4y72aznv.html"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/m25sa67ig1ob"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/em4n6s-7018ejz5"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1OMzaV6n_kJN9WxSPMJzqhMwRYMBpncVa/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Jugar en casa [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.9[/COLOR]</title> 
 <genre>Familia,Comedia</genre>
 <year>2022</year>
