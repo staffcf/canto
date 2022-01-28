@@ -149,6 +149,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Anna[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Anna</externallink>
+<info>6 episodios. Una chica siciliana de 13 años tiene que luchar contra un virus que ha matado a todos los adultos de la isla.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/tSWL1oeWphuSDm8YkEBvJXJFQyn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vsTXj3me3bt38gCqeZsFMkALLlg.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Antidisturbios[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Antidisturbios.xml</externallink>
