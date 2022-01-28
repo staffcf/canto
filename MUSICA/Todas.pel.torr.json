@@ -506,6 +506,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Comedia, 1Fantastico, A2022, Letra I, EEUU, Sagas IceAge, ",
+			"name": "Ice Age: Las aventuras de Buck (2022)","coloryear": "darkorange",
+			"image": "https://www.themoviedb.org/t/p/original/m9PxoZYHjHk7xozMA0oa2g41W2d.jpg",
+			"info": "Continúa contando las hilarantes aventuras de uno de los mamíferos favoritos de la prehistoria. Tras un distanciamiento con su hermana mayor, Ellie, los hermanos Crash y Eddie parten a la búsqueda de un lugar propio, pero rápidamente acaban atrapados en una caverna subterránea. El aventurero Buck Wild acudirá a su rescate y juntos, tendrán que enfrentarse a los dinosaurios del Mundo Perdido",
+			"genero": "Animacion, Comedia, Fantastico",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Ice.Age-Las.aventuras.de.Buck.-2022.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Drama, 1Terror, A2022, Letra L, Reino Unido, Netflix, ",
 			"name": "La casa (The house) (2022)","coloryear": "darkorange",
 			"image": "https://www.themoviedb.org/t/p/original/qT0lfiL0WsKjUl6CJ5eu9Nz03Zv.jpg",
