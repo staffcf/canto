@@ -4,15 +4,7 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 
-<item>
-<title>[COLOR white] Ice Age: Las aventuras de Buck[/COLOR][COLOR yellow](2022) [COLOR aqua]*8.0[/COLOR]</title> 
-<genre>Animación,Comedia,Aventura,Familia</genre>
-<year>2022</year>
-<thumbnail>https://www.themoviedb.org/t/p/original/iJDPnoZ7IafVxrxq0qRUsoBINoR.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/c9B8nBGoLyGqc10imX0sD51JaB3.jpg</fanart>
-<info>Continúa contando las hilarantes aventuras de uno de los mamíferos favoritos de la prehistoria. Tras un distanciamiento con su hermana mayor, Ellie, los hermanos Crash y Eddie parten a la búsqueda de un lugar propio, pero rápidamente acaban atrapados en una caverna subterránea. El aventurero Buck Wild acudirá a su rescate y juntos, tendrán que enfrentarse a los dinosaurios del Mundo Perdido<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/RkJJoGhSo78"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/lwZxOgGR4eHbkj"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/zpl1j73ougo1ork"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" "https://sbvideo.net/e/84pvys4kxjat"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/0a9ud4ph9zn6"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/syzmmersgfge"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/myfat7miwo4q"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/42njphzdl4l0nl0"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1yAAIPH7z2sy_q3gTLJ0sh2USAXi6Cgto/view"}</urlsolve>
-</item>
+
 
 
 
