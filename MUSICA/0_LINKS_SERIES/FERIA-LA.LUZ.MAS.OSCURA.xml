@@ -15,6 +15,26 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
+			<title> - [COLOR yellow]CALIDAD 1080</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 1 a 8</title>
+			<torrent>magnet:?xt=urn:btih:EC5BF9962611EB8B951832D453655799EA954ABE&dn=HD1080</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
 			<title> - [COLOR yellow]CALIDAD 720</title>
 			<torrent></torrent>
 			</item>
@@ -78,32 +98,6 @@
 			<item>
 			<title>1x0. - Capitulos 7 y 8</title>
 			<torrent>magnet:?xt=urn:btih:594A9AA6DD94ABF1945BDF49B0907D6A3B36F36A&dn=HDTV</torrent>
-			</item>
-======================================================================
-======================================================================
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title> - </title>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title> - [COLOR yellow]CALIDAD 1080</title>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title>Opc. 1 - Capitulos 1 a 8</title>
-			<torrent>magnet:?xt=urn:btih:EC5BF9962611EB8B951832D453655799EA954ABE&dn=HD1080</torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title>Opc. 2 - Capitulos 1 a 8</title>
-			<torrent>magnet:?xt=urn:btih:29112CF7A3E5395A60599252B4929615B60DB3CB&dn=HD1080x265</torrent>
 			</item>
 ======================================================================
 ======================================================================
