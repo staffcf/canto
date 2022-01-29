@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Intriga, 1Drama, A2020, Letra E, Reino Unido, 1Hechos reales, ",
+			"name": "El espia ingles (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/2vgvbxnN72CjTvmvXforxGFLjBV.jpg",
+			"info": "Durante la Guerra Fría entre Estados Unidos y Rusia, el ingeniero Greville Wynne (Benedict Cumberbatch) se infiltra como espía en el MI6, servicio de inteligencia británico. Cuando la crisis de los misiles cubanos promete inclinar la balanza a favor del país soviético, Wynne comenzará a trabajar con la CIA para filtrar información sobre el plan que tienen en marcha los rusos y así evitar una catástrofe.",
+			"genero": "Intriga, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.Espia.Ingles.-2020.-.m1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Intriga, 1Drama, A2021, Letra M, Reino Unido, ",
 			"name": "Mi Hijo (My Son) (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/ows3R8yKPWniuxQJ9NrogqyBrX3.jpg",
