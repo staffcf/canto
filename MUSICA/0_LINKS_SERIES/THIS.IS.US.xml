@@ -15,6 +15,9 @@
 	- 1SerieTitle:"THIS IS US", SerieTemp:"TEMPORADA 4", SerieID:"SERIETEMP4", SerieIDT:"TORRENTTEMP4", SerieThumbail:"https://www.themoviedb.org/t/p/original/AptefJe8UWuZrRIeM8TI3cMHy6K.jpg",
 	- 1SerieTitle:"THIS IS US", SerieTemp:"TEMPORADA 5", SerieID:"SERIETEMP5", SerieIDT:"TORRENTTEMP5", SerieThumbail:"https://www.themoviedb.org/t/p/original/tZDcEfue6fDUcRJ6WxI1hhKPZrH.jpg",
 	
+	
+	- 0SerieTitle:"THIS IS US", SerieTemp:"TEMPORADA 6", SerieID:"SERIETEMP6", SerieIDT:"TORRENTTEMP5", SerieThumbail:"https://www.themoviedb.org/t/p/original/i1bL5HG7DltwjNjhEgrJ3UxgPwt.jpg",
+	
 -->
 ======================================================================
 			"Tag= TORRENTTEMP1, "
@@ -463,25 +466,25 @@
 ======================================================================
 			"Tag= TORRENTTEMP5, "
 			<item>
-			<title>5x0. - CapituloS 1 a 4</title>
+			<title>5x0. - Capitulos 1 a 4</title>
 			<torrent>magnet:?xt=urn:btih:DCBA84D8D086C78D3261D1272581A80E5A987514&dn=HD720</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP5, "
 			<item>
-			<title>5x0. - CapituloS 5 a 8</title>
+			<title>5x0. - Capitulos 5 a 8</title>
 			<torrent>magnet:?xt=urn:btih:CD9B2732238CD122D88F2FBD81D4B6F622C4DFE5&dn=HD720</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP5, "
 			<item>
-			<title>5x0. - CapituloS 9 a 12</title>
+			<title>5x0. - Capitulos 9 a 12</title>
 			<torrent>magnet:?xt=urn:btih:AD5D00D2459D5ED7DD791AFF412D93AD05862842&dn=HD720</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP5, "
 			<item>
-			<title>5x0. - CapituloS 13 a 16</title>
+			<title>5x0. - Capitulos 13 a 16</title>
 			<torrent>magnet:?xt=urn:btih:5E398A6E4A53ABFC195FFB1C51B5ECFD57DB9860&dn=HD720</torrent>
 			</item>
 ======================================================================
