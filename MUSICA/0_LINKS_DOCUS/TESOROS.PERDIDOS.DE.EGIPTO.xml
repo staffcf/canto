@@ -16,91 +16,84 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - [COLOR yellow]CALIDAD 720</title><titleGdrive></titleGdrive>      
+			<title> - [COLOR yellow]CALIDAD 720</title>     
 			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 1 a 6</title><titleGdrive></titleGdrive>      
+			<title>1x0. - Capitulos 1 a 6</title>     
 			<torrent>magnet:?xt=urn:btih:75894D7E37C30E8BDA42A88300C2369D2C20515D</torrent>
 			</item>
 ======================================================================
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - </title><titleGdrive></titleGdrive>      
+			<title> - </title>     
 			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - [COLOR yellow]CALIDAD HDTV</title><titleGdrive></titleGdrive>      
+			<title> - [COLOR yellow]CALIDAD HDTV</title>     
 			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 1 a 6</title><titleGdrive></titleGdrive>      
+			<title>1x0. - Capitulos 1 a 6</title>     
 			<torrent>magnet:?xt=urn:btih:B4DF98D4CB63A0F0A154E5312FE571E5327C5C1B</torrent>
 			</item>
 ======================================================================
 ======================================================================
 ======================================================================
 ======================================================================
-			"Tag= SERIETEMP2, TORRENTTEMP2, "
+			"Tag= TORRENTTEMP2, "
 			<item>
-			<title>2x01 - Capitulo 1</title><titleGdrive></titleGdrive>      
+			<title>2x01 - Capitulo 1</title>  
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x02 - A la caza de la reina Nefertiti</title>  
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x03 - Capitulo 3</title>  
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x04 - En busca de Cleopatra</title>  
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x05 - Capitulo 5</title>
 			<GDRIVE></GDRIVE>
 			<torrent></torrent>
 			</item>
 ======================================================================
-			"Tag= SERIETEMP2, TORRENTTEMP2, "
+			"Tag= TORRENTTEMP2, "
 			<item>
-			<title>2x02 - A la caza de la reina Nefertiti</title><titleGdrive></titleGdrive>      
-			<GDRIVE></GDRIVE>
+			<title>2x06 - Los secretos de las pirámides</title>  
 			<torrent></torrent>
 			</item>
 ======================================================================
-			"Tag= SERIETEMP2, TORRENTTEMP2, "
+			"Tag= TORRENTTEMP2, "
 			<item>
-			<title>2x03 - Capitulo 3</title><titleGdrive></titleGdrive>      
-			<GDRIVE></GDRIVE>
+			<title>2x07 - Capitulo 7</title>  
 			<torrent></torrent>
 			</item>
 ======================================================================
-			"Tag= SERIETEMP2, TORRENTTEMP2, "
+			"Tag= TORRENTTEMP2, "
 			<item>
-			<title>2x04 - En busca de Cleopatra</title><titleGdrive></titleGdrive>      
-			<GDRIVE></GDRIVE>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag= SERIETEMP2, TORRENTTEMP2, "
-			<item>
-			<title>2x05 - Capitulo 5</title><titleGdrive></titleGdrive> 
-			<GDRIVE></GDRIVE>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag= SERIETEMP2, TORRENTTEMP2, "
-			<item>
-			<title>2x06 - Los secretos de las pirámides</title><titleGdrive></titleGdrive>      
-			<GDRIVE></GDRIVE>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag= SERIETEMP2, TORRENTTEMP2, "
-			<item>
-			<title>2x07 - Capitulo 7</title><titleGdrive></titleGdrive>      
-			<GDRIVE></GDRIVE>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag= SERIETEMP2, TORRENTTEMP2, "
-			<item>
-			<title>2x08 - Capitulo 8</title><titleGdrive></titleGdrive>      
-			<GDRIVE></GDRIVE>
+			<title>2x08 - Capitulo 8</title>  
 			<torrent></torrent>
 			</item>
 ======================================================================
