@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] El espía Inglés [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.1[/COLOR]</title> 
+<genre>Suspense,Historia,Drama</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/2vgvbxnN72CjTvmvXforxGFLjBV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3WavVoLKSK31x31nTnzhckWSxhh.jpg</fanart>
+<info>Durante la Guerra Fría entre Estados Unidos y Rusia, el ingeniero Greville Wynne (Benedict Cumberbatch) se infiltra como espía en el MI6, servicio de inteligencia británico. Cuando la crisis de los misiles cubanos promete inclinar la balanza a favor del país soviético, Wynne comenzará a trabajar con la CIA para filtrar información sobre el plan que tienen en marcha los rusos y así evitar una catástrofe.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/dDlykuRRcbQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/YqZKX2QydgtvP6V"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/gn6j3x34twd9oj4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/it3tci3ygq0p"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/a85wu18gm5x5"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/o3nsj8ljboxx"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/1oal9zr415hi"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/pwnxdtmqx-mk74r"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1rjixe3MoSfckgSP42GYhKZJ8INQfYvlo/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Swan Song [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.0[/COLOR]</title> 
 <genre>Comedia,Drama</genre>
 <year>2021</year>
