@@ -1317,7 +1317,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Fantastico, 1Comedia, A2021, Letra C, EEUU, Sagas Cazafantasmas, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Fantastico, 1Comedia, A2021, Letra C, EEUU, Sagas Cazafantasmas, ",
 			"name": "Cazafantasmas: Mas alla (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/9QRE6v3zuBSFK2b1pfw1PSEf3O7.jpg",
 			"info": "Una madre soltera y sus dos hijos llegan a una pequeña ciudad, descubriendo su conexión con los cazafantasmas originales y el legado secreto que dejó su abuelo tras de sí. Secuela directa de 'Cazafantasmas 2'",
@@ -1325,7 +1325,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Cazafantasmas-Mas.alla.-2021.-.1080.-.CristalAzul.mkv.torrent",		magnet:?xt=urn:btih:6BA3C996AF50B5091A21F235AB5B772231CE99EE&dn=HD1080
-				"torrent4k": ""	
+				"torrent4k": "magnet:?xt=urn:btih:76299B72F0D85E7914D241B0A764E06603F38F00&dn=UHDRip"	
 				}		
 			]
 			},
