@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Swan Song [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.0[/COLOR]</title> 
+<genre>Comedia,Drama</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/tf63pGGx3qdCj11xqJ8Ae3scTb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sSinyqGb3sXrOeYWjjJM8RG1iPs.jpg</fanart>
+<info>Un peluquero anciano escapa de su hogar de ancianos para embarcarse en una odisea por su pequeña ciudad para peinar el cabello de una mujer muerta para su funeral, redescubriendo su brillo en el camino.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/gAXlyINoQ8A"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/mDALd8QR7BHbJM7"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/xo7wdnjdi16ml6"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/te9hh4fm8thp"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/427bj30dadsn"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ghfhuyfzk66e"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/ucsro8373ife"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/42njphzdldrn75l"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1QxOwJg68mSkFiCDc7I6tJVoJt_5qRq9y/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Mi hijo [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.3[/COLOR]</title> 
 <genre>Crimen,Drama,Misterio</genre>
 <year>2021</year>
