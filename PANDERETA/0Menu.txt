@@ -1080,6 +1080,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El Regreso De La Espia[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.regreso.de.la.espia</externallink>
+<info>Tras ser descubierta, una ex-espía rusa debe compaginar su vida familiar como madre soltera y sus habilidades únicas de transformación para vencer a un insidioso enemigo.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/mND3MZbnOIasM3XaL2mXOVMvBw6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eU9y0T1gB2ts8g1gysK2PiRjtyY.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El Simbolo Perdido[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.simbolo.perdido</externallink>
