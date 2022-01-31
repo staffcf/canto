@@ -321,6 +321,79 @@
 ======================================================================
 			"Tag= TORRENTTEMP5, "
 			<item>
+			<title> - [COLOR yellow]CALIDAD 1080</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x01 - Capitulo 1</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Gomorra/5x01.-Gomorra.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x02 - Capitulo 2</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Gomorra/5x02.-Gomorra.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x03 - Capitulo 3</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Gomorra/5x03.-Gomorra.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x04 - Capitulo 4</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Gomorra/5x04.-Gomorra.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x05 - Capitulo 5</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Gomorra/5x05.-Gomorra.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x06 - Capitulo 6</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Gomorra/5x06.-Gomorra.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x07 - Capitulo 7</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Gomorra/5x07.-Gomorra.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x08 - Capitulo 8</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Gomorra/5x08.-Gomorra.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x09 - Capitulo 9</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Gomorra/5x09.-Gomorra.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x10 - Capitulo 10</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Gomorra/5x10.-Gomorra.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
 			<title> - [COLOR yellow]CALIDAD 720</title>
 			<torrent></torrent>
 			</item>
@@ -358,19 +431,22 @@
 			"Tag= TORRENTTEMP5, "
 			<item>
 			<title>5x08 - Capitulo 8</title>
-			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Gomorra/5x08.-Gomorra.-.720.-.CristalAzul.mkv.torrent</torrent>
+			<torrent>magnet:?xt=urn:btih:241C04090CF7302AD20302C4AEB2B4C9DEE80F70&dn=HD720</torrent>
+			<torrent_B>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Gomorra/5x08.-Gomorra.-.720.-.CristalAzul.mkv.torrent</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP5, "
 			<item>
 			<title>5x09 - Capitulo 9</title>
-			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Gomorra/5x09.-Gomorra.-.720.-.CristalAzul.mkv.torrent</torrent>
+			<torrent>magnet:?xt=urn:btih:83D43AF25662AC852947FD06473D7AF22E7CD38B&dn=HD720</torrent>
+			<torrent_B>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Gomorra/5x09.-Gomorra.-.720.-.CristalAzul.mkv.torrent</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP5, "
 			<item>
-			<title>5x10 - Capitulo 10</title>
-			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Gomorra/5x10.-Gomorra.-.720.-.CristalAzul.mkv.torrent</torrent>
+			<title>5x10 - Capitulo 10</title>	
+			<torrent>magnet:?xt=urn:btih:B2AC556DAC735D7097C3593BA35A811DD6ECD78C&dn=HD720</torrent>
+			<torrent_B>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Gomorra/5x10.-Gomorra.-.720.-.CristalAzul.mkv.torrent</torrent>
 			</item>
 ======================================================================
 ======================================================================
@@ -416,22 +492,22 @@
 			<torrent>magnet:?xt=urn:btih:048FEAE7D25E301DDF63571DF6C02BD39D619CB8&dn=HDTV</torrent>
 			</item>
 ======================================================================
-			"Tag=  "
+			"Tag= TORRENTTEMP5, "
 			<item>
 			<title>5x08 - Capitulo 8</title>
-			<torrent></torrent>
+			<torrent>magnet:?xt=urn:btih:FAECE9FCE22C125BBCC8A6AA54ADE8AEE518C41F&dn=HDTV</torrent>
 			</item>
 ======================================================================
-			"Tag=  "
+			"Tag= TORRENTTEMP5, "
 			<item>
 			<title>5x09 - Capitulo 9</title>
-			<torrent></torrent>
+			<torrent>magnet:?xt=urn:btih:6EBE606B811F3C33020564EA151F61E9DF9C95CE&dn=HDTV</torrent>
 			</item>
 ======================================================================
-			"Tag=  "
+			"Tag= TORRENTTEMP5, "
 			<item>
 			<title>5x10 - Capitulo 10</title>
-			<torrent></torrent>
+			<torrent>magnet:?xt=urn:btih:3306C6A7448B4A9DBE6BAF34BE07E07F793DD615&dn=HDTV</torrent>
 			</item>
 ======================================================================
 ======================================================================
