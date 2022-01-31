@@ -296,20 +296,6 @@ https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_DOCUS/.xml
 </item>
 
 ===============================================================================================================================================
-"Tag= 0Torrent, "
-
-<item>
-<title>CRIMS</title>
-<genre>Documental</genre>
-<year>2020</year>
-<info>“Crímenes” es una serie de “true crime” que relata crímenes reales que han pasado hace pocos años en Cataluña. Carles Porta presenta los casos desde el estudio de Catalunya Ràdio con una breve introducción antes de dar a cada capítulo. Su voz en off acompaña todo el capítulo. En “Crímenes” no hay “expertos” hablando de su trabajo, hay “protagonistas” -directos o indirectos- de cada historia, que relatan su participación en los hechos, bien porque lo vivieron o bien porque lo investigaron. La serie tiene 11 capítulos que recrean secuencias y construyen personajes con los cuales el espectador vivirá un cóctel de tensión y emociones: historias reales explicadas con elementos y recursos de ficción. Once capítulos que tratan 7 casos recientes –enjuiciados o archivados judicialmente- que han tenido un importante eco mediático, que forman parte del imaginario del espectador y que, sobre todo, están llenos de giros dramáticos que enriquecen el relato. Casos como Brito y Picatoste, el celador de Olot, la bibliotecaria Helena Jubany o el asesino del Putxet, entre otros</info>
-<thumbnail>https://image.tmdb.org/t/p/original/rEMZ4B0H9MvEtBgdMWdhaUySloe.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/rEMZ4B0H9MvEtBgdMWdhaUySloe.jpg</fanart>
-<enlaceslink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_DOCUS/CRIMS.xml</enlaceslink>
-<estado></estado>
-</item>
-
-===============================================================================================================================================
 "Tag= 1Torrent, "
 
 <item>
@@ -417,6 +403,20 @@ https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_DOCUS/.xml
 <thumbnail>https://image.tmdb.org/t/p/original/cH3HIvjW3TrsMeH4fXBoRdVtoZG.jpg</thumbnail>
 <fanart>https://www.65ymas.com/uploads/s1/10/96/09/el-caso-alcasser-netflix.jpeg</fanart>
 <enlaceslink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_DOCUS/EL.CASO.ALCASSER.xml</enlaceslink>
+<estado></estado>
+</item>
+
+===============================================================================================================================================
+"Tag= 1Torrent, "
+
+<item>
+<title>EL CRIMEN DE LA GUARDIA URBANA</title>
+<genre>Documental</genre>
+<year>2022</year>
+<info>El 4 de mayo de 2017 los Mossos encontraron un coche quemado en uno de los caminos del Pantano de Foix, en Barcelona. En el interior del vehículo localizaron los restos de un cuerpo calcinado. El coche pertenecía a Pedro Rodríguez, un agente de la Guardia Urbana de Barcelona. Oficialmente, no constaba como desaparecido. Al reconstruir sus últimas horas de vida, los mossos comenzaron a encontrar incongruencias en las declaraciones de las personas más cercanas al desaparecido... "El crimen de la guardia urbana" forma parte de "Crímenes", una serie de 'true crime' que relata sucesos reales ocurridos en la historia reciente de Cataluña. A lo largo de los cuatro episodios, encontramos el estilo narrativo y el sello del periodista catalán Carles Porta que dirige, narra e introduce los espectadores en los laberintos de esta historia.</info>
+<thumbnail>https://i.imgur.com/NoUnar3.jpg</thumbnail>
+<fanart>https://i.imgur.com/poHNekE.jpg</fanart>
+<enlaceslink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_DOCUS/CRIMENES.xml</enlaceslink>
 <estado></estado>
 </item>
 
