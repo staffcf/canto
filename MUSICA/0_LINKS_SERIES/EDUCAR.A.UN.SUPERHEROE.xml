@@ -1,0 +1,74 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ EDUCAR A UN SUPERHEROE
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"EDUCAR A UN SUPERHEROE", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/bTgghUCnmWTFTAHWqBD70jARkiZ.jpg",
+	- 0SerieTitle:"EDUCAR A UN SUPERHEROE", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/nydKXBiLn4vpL1d5o1utbPKYdii.jpg",
+	
+-->
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 1 a 9</title>
+			<torrent>magnet:?xt=urn:btih:7778D94DE03DED9E2C7B28B38079258307602FC9&dn=HD720</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 1 a 9</title>
+			<torrent>magnet:?xt=urn:btih:755C8656E5DC643A762408B4A27A6881652C4398&dn=HDTV</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x0. - Capitulos 1 y 2</title>
+			<torrent>magnet:?xt=urn:btih:D9E44FD1C940B10B41FAC770FBD4981E231C0558&dn=HD1080</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x0. - Capitulos 3 y 4</title>
+			<torrent>magnet:?xt=urn:btih:9EAC7571A17349B1282EDAB8201B8A0043217709&dn=HD1080</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x0. - Capitulos 5 y 6</title>
+			<torrent>magnet:?xt=urn:btih:AAB1C9F87D63801AFB486E52E83B0923E582E385&dn=HD1080</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x0. - Capitulos 7 y 8</title>
+			<torrent>magnet:?xt=urn:btih:8D30E12D1168709FB4BDC286B514B1304AA6627E&dn=HD1080</torrent>
+			</item>
+======================================================================
+======================================================================
