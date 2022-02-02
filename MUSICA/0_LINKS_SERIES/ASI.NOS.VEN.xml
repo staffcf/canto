@@ -15,6 +15,12 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
 			<title>1x01 - 1ª Parte</title>
 			<torrent>magnet:?xt=urn:btih:5270D8516206B936340FE1699695E41FDF5EBD33</torrent>
 			</item>
@@ -35,5 +41,23 @@
 			<item>
 			<title>1x04 - 4ª Parte</title>   
 			<torrent>magnet:?xt=urn:btih:AD21C9521CCFD55FC700D882282183C04D4378C7</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 1 a 4</title>
+			<torrent>magnet:?xt=urn:btih:598C01E3B72D5E2A5B5DA0E84E14FC62033B7831&dn=HDTV</torrent>
 			</item>
 ======================================================================
