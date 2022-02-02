@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>[COLOR white] Clifford El gran perro rojo [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.3[/COLOR]</title> 
+<genre>Animación,Comedia,Familia</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/kW5JBtCGnIwBS1SD4sMXu8gee4U.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zBkHCpLmHjW2uVURs5uZkaVmgKR.jpg</fanart>
+<info>Cuando Emily Elizabeth conoce a un rescatador mágico de animales que le regala un pequeño cachorro rojo, nunca se hubiera imaginado que al despertarse se encontraría un sabueso gigante de tres metros en su pequeño apartamento de Nueva York. Mientras su madre soltera se encuentra de viaje de negocios, Emily y su divertido pero impulsivo tío Casey se embarcan en una gran aventura.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/HU3PtgrtaM4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/BAqZQOOeXKhyeD9"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/4nl41zexcn7x6o" },{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/r9r00mqmp4d8"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/ttnllmymotxd"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/r3e43b9dqcrd"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/pu5wgoe906h5"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/em4n6s-7qwzqz3p"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1KSb72SmUURdTgQpj114E0GBkvOfkYu-f/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Ice Age Las aventuras de Buck[/COLOR][COLOR yellow](2022) [COLOR aqua]*8.0[/COLOR]</title> 
 <genre>Animación,Comedia,Aventura,Familia</genre>
 <year>2022</year>
