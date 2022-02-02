@@ -5,6 +5,19 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Mi gran amiga Ana Frank [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.9[/COLOR]</title> 
+<genre>Drama,Historia,Bélica</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/g29QpiCRIT0sGspcoCAulxjUC0g.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mbXhaf6UZ8OnXdJT3aTW9pNYP7.jpg</fanart>
+<info>Película basada en las memorias de la mejor amiga de Anna Frank, Hannah Goslar.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/YdvoyTdLWRA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/oAQaLQJKJgsJeml"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/vndvkzddb6x8dn"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/qsujeljlknur"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/yj9cf8t9mk6g"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-kqna3orx78ms.html"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/180jk6lbp5ps"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/r4nxruerw5kjw-w"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1_xUno4giZykhnsDJyvft9NYsQwhrWQ1m/view"}</urlsolve>
+</item>
+
+
+
+
+<item>
 <title>[COLOR white] Un romance con figaro [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.0[/COLOR]</title> 
 <genre>Romance,Comedia,Música</genre>
 <year>2022</year>
