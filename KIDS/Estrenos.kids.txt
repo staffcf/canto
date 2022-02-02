@@ -891,3 +891,15 @@ https://mixdrop.co/f/7rkxn3xwaxwq71
 <info>Ivan emprende un alucinante viaje desde Moscú a Belogorye, un mundo de fantasía habitado por personajes de cuentos de hadas y magia rusos. Sin saber muy bien cómo, se encuentra en el centro mismo de la batalla entre las fuerzas de la luz y la oscuridad, donde todos creen que poner fin a la guerra depende únicamente de él.</info>
 <urlsolve>https://streamtape.com/v/1pppMjm212H0Vr</urlsolve>
 </item>
+
+
+
+<item>
+<title>[COLOR white] Clifford El gran perro rojo [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.3[/COLOR]</title> 
+<genre>Animación,Comedia,Familia</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/kW5JBtCGnIwBS1SD4sMXu8gee4U.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zBkHCpLmHjW2uVURs5uZkaVmgKR.jpg</fanart>
+<info>Cuando Emily Elizabeth conoce a un rescatador mágico de animales que le regala un pequeño cachorro rojo, nunca se hubiera imaginado que al despertarse se encontraría un sabueso gigante de tres metros en su pequeño apartamento de Nueva York. Mientras su madre soltera se encuentra de viaje de negocios, Emily y su divertido pero impulsivo tío Casey se embarcan en una gran aventura.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/HU3PtgrtaM4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/BAqZQOOeXKhyeD9"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/4nl41zexcn7x6o" },{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/r9r00mqmp4d8"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/ttnllmymotxd"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/r3e43b9dqcrd"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/180jk6lbp5ps"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/em4n6s-7qwzqz3p"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1KSb72SmUURdTgQpj114E0GBkvOfkYu-f/view"}</urlsolve>
+</item>
