@@ -2427,6 +2427,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Pam y Tommy[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Pam.Y.Tommy</externallink>
+<info>Ambientada en los primeros días del Lejano Oeste de Internet, “Pam & Tommy” se basa en la increíble historia real del video sexual de Pamela Anderson y Tommy Lee. Robado de la casa de la pareja por un contratista descontento, el video pasó de ser una curiosidad clandestina de VHS de contrabando a una verdadera sensación mundial cuando llegó a la Web en 1997. La serie limitada original explora la intersección de la privacidad, la tecnología y la celebridad, rastreando los orígenes de nuestra era actual de televisión de realidad hasta una cinta robada vista por millones pero destinada a tener una audiencia de solo dos.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/ovhQDQ4mcvZ0f7MNIpBuKPqPSrq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/d8O3d9XxlbwBs6oGURmKrzg2eDp.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Pandora[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Pandora</externallink>
