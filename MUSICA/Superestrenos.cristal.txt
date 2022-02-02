@@ -5,6 +5,19 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Collider [/COLOR][COLOR yellow](2022) [COLOR aqua]*4.0[/COLOR]</title> 
+<genre>Ciencia ficción</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/4VMHLhqxwtx3zbE7CmQE5mhUTAq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/o99i9Mkb7EWLjFdyxQ91i8mIAOn.jpg</fanart>
+<info>En el año 2033, una joven atrapada en un misterioso orfanato viaja imprudentemente hacia atrás en el tiempo para encontrar a sus padres y enmendar su pasado.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/dZD3CeODo-w"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/DzPgzXVX9WHk04M"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/knkgm8e1ixnxv0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/x3yqyjlk3167"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/nhtu2v9czzdp
+"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/embed-sswrkzks1e3o.html"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/6gnm6i0psidu"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/0d6j7cl2xn68pq3"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1wjt0g56ewN7YiAgU-bxd51183pZAc1y7/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] El espía Inglés [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.1[/COLOR]</title> 
 <genre>Suspense,Historia,Drama</genre>
 <year>2021</year>
