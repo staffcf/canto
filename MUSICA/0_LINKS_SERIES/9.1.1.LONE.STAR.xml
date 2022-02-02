@@ -10,7 +10,8 @@
 	ETIQUETAS:
 	
 	- 1SerieTitle:"9-1-1: LONE STAR", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/cKZ15eWIPj11oVL7kFvScAbhuxx.jpg",
-	- 1SerieTitle:"9-1-1: LONE STAR", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/mrzE6bXc8g9NQd8IBKB25louWq8.jpg",
+	- 1SerieTitle:"9-1-1: LONE STAR", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/mrzE6bXc8g9NQd8IBKB25louWq8.jpg",",
+	- 1SerieTitle:"9-1-1: LONE STAR", SerieTemp:"TEMPORADA 3", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/fyW4ex9owJcUU9VNel64l1tvXgF.jpg",
 	
 -->
 ======================================================================
@@ -347,6 +348,39 @@
 			<item>
 			<title>2x14 - Polvo al polvo</title>
 			<torrent>https://cdn.pizza/torrents/series/154072_-1626144656-9-1-1-Lone-Star---Temporada-2--HDTV-720p-AC3-5-1.torrent</torrent>	magnet:?xt=urn:btih:F3C97949A9E330F2EC6CE0487291A002A0BA0D7D&dn=HD720
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x01 - La gran helada</title>
+			<torrent>magnet:?xt=urn:btih:4E024D52A32C881FE122F398231CBA29F019031E&dn=HD720</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x01 - La gran helada</title>
+			<torrent>magnet:?xt=urn:btih:09E62066597F63609D900C7FFAA25BB707F5C97C&dn=HDTV</torrent>
 			</item>
 ======================================================================
 ======================================================================
