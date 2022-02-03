@@ -810,6 +810,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Educar A Un Superheroe[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Educar.a.un.superheroe</externallink>
+<info>Un niño que lucha por controlar sus poderes. Una madre soltera que hace hasta lo imposible por mantenerlo a salvo. Una familia acechada por secretos, misterios y conspiraciones</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/mo1yulKm1pDvL6NBA4PdVe8lYVc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/i5rWu2uuS1kIkTXAE7B1Y6KkjGS.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El Baile De Las Luciernagas[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.baile.de.las.Luciernagas.txt</externallink>
@@ -1194,6 +1203,15 @@
 <info>Serie de TV (2018). 5 episodios. A principios de los 80, una prostituta y el líder de una asociación juvenil son asesinados en un pequeño pueblo polaco. Dos periodistas no se fían de la investigación policial y deciden indagar por su cuenta.</info>
 <thumbnail>https://i.imgur.com/5L2hVrQ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/5nmV9o1rrCpqKK8LDV8uXlJI2bn.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Entrevias[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Entrevias</externallink>
+<info>La historia de Tirso Abantos, un hombre de principios cuya existencia sosegada y rutinaria da un vuelco cuando su nieta adolescente irrumpe de lleno en su vida.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/flHgD6YyZ6MGY64nAmCtK5pXrBd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/i1e8mmRruXUIekpEZE5LIbw827g.jpg</fanart>
 </item>
 
 <item>
@@ -2298,6 +2316,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 <info>Serie de TV (2018-Actualidad). Ray Shoesmith es un impasible sicario que combina su peligroso negocio mientras trata de mantener a su círculo de amistades, sus responsabilidades como padre y su vida sentimental, algo complicado cuando eres un asesino a sueldo.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/cXviefgSi6KNhbbEjwOHqgpNQ0o.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/2INMEKxee4z0mVYpHCS4AdPxgOb.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Murderville[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Murderville</externallink>
+<info>6 episodios. Nueva serie protagonizada por Will Arnett que se pone en la piel de un detective que, en cada episodio, debe resolver un asesinato con una nueva estrella invitada famosa.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/6GFg5BLWkPZilFWZt5AbnzegOAD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kipoZvrWRb45WoZxyO15TuKHH4i.jpg</fanart>
 </item>
 
 <item>
