@@ -6450,6 +6450,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Thriller, A2020, Letra A, Australia, ",
+			"name": "Años de sequia (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/i6ZO6cvFmVNRToFwWcSIFIk5qGT.jpg",
+			"info": "Un policía regresa a su ciudad natal para enfrentarse a los demonios de su pasado tras perder a su mejor amigo de la infancia en un terrible accidente de tráfico.",
+			"genero": "Drama, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Anhos.de.sequia.-2020.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, A2020, Letra A, EEUU, ",
 			"name": "Apocalipsis de hielo (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/m5QfB7CdOlif45KoEX79kjaasJb.jpg",
@@ -30033,7 +30046,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, A2017, Letra B, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, A2017, Letra B, EEUU, ",
 			"name": "Blade Runner 2049 (2017)","coloryear": "green",
 			"image": "https://www.themoviedb.org/t/p/original/cOt8SQwrxpoTv9Bc3kyce3etkZX.jpg",
 			"info": "Treinta años despues de los eventos del primer film, un nuevo blade runner, K (Ryan Gosling) descubre un secreto profundamente oculto que podria acabar con el caos que impera en la sociedad. El descubrimiento de K le lleva a iniciar la busqueda de Rick Deckard (Harrison Ford), un blade runner al que se le perdio la pista hace 30 años",
@@ -30041,7 +30054,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{ 
 				"torrent": "magnet:?xt=urn:btih:7894efa5c2330d277784b6b96ed35ee768a5f1db",
-				"torrent4k": ""
+				"torrent4k": "magnet:?xt=urn:btih:798A809BB4CEEC092D2F8835C9993D494B9D10B2&dn=UHDRip"
 				}		
 			]
 			},

@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Thriller, A2020, Letra A, Australia, ",
+			"name": "Años de sequia (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/i6ZO6cvFmVNRToFwWcSIFIk5qGT.jpg",
+			"info": "Un policía regresa a su ciudad natal para enfrentarse a los demonios de su pasado tras perder a su mejor amigo de la infancia en un terrible accidente de tráfico.",
+			"genero": "Drama, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Anhos.de.sequia.-2020.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Infantil, A2021, Letra C, EEUU, ",
 			"name": "Clifford, el gran perro rojo (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/rQOcobECwehCoqfoHTizfrWsuXj.jpg",
