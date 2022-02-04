@@ -589,7 +589,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Thriller, Terror",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Sharkwater-The.Requin-.-2022.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Sharkwater-The.Requin-.-2022.-.1080x265.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""	
 				}		
 			]
@@ -3453,7 +3453,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Thriller",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:6A68705C2C1587DBF9444D42D4CD468FBCEDE436&dn=HD1080",	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/La.casa.del.caracol.-2021.-.1080.-.CristalAzul.mkv.torrent
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/La.casa.del.caracol.-2021.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:6A68705C2C1587DBF9444D42D4CD468FBCEDE436&dn=HD1080
 				"torrent4k": ""	
 				}		
 			]
@@ -5059,6 +5059,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Drama, A2021, Letra S, Italia, ",
+			"name": "Se termino el tiempo (Time Is Up) (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/5KHZRU8SCKMfKyzJEMVcPk6DNY5.jpg",
+			"info": "Vivien es una estudiante apasionada por la los números y la física que sueña con entrar a una universidad prestigiosa. Obsesionada con las matemáticos, éstas rigen su vida la empujan a posponer su felicidad para un momento futuro. Por otro lado, Roy es un mal estudiante y un joven problemático a causa de un trauma que vivió cuando era niño. Un día ambos se conocen... ",
+			"genero": "Romance, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Se.termino.el.tiempo-Time.Is.Up-.-2021.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2021, Letra S, EEUU, ",
 			"name": "Separacion (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/u97rvkruZxoIUio3r3ZySFETHB7.jpg",
@@ -5458,19 +5471,6 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:DBC376294FC53F2F4EED6C40F86BA89D0FF7FC2D",  
 				"torrent4k": ""
-				}		
-			]
-			},
-			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Romance, A2021, Letra T, Italia, ",
-			"name": "Time Is Up (2021)","coloryear": "cyan",
-			"image": "https://www.themoviedb.org/t/p/original/5KHZRU8SCKMfKyzJEMVcPk6DNY5.jpg",
-			"info": "Un accidente obliga a Vivien y Royan a reajustar sus vidas poco a poco y a empezar a vivir en un presente que quizá se muestre más estimulante que todo lo predefinido.",
-			"genero": "Drama, Romance",
-			"stations": [
-				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Time.Is.Up.-2021.-.1080x265.-.CristalAzul.mkv.torrent",
-				"torrent4k": ""	
 				}		
 			]
 			},
@@ -43340,6 +43340,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Toy.Story.2.-1999.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:87e537face199c036de3bb2a80b50293f4c5b1f0&dn=HD1080
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Belico, A1999, Letra T, EEUU, B2000, A2000-1991, ",
+			"name": "Tres reyes (1999)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/6hTm8qOF3IpetkbJTjtPZYu9aDk.jpg",
+			"info": "En marzo de 1991, el capitán Archie Gates, los sargentos Troy Barlow y Chief Elgin y el soldado Conrad Vig matan el tiempo en el desierto iraquí mientras aguardan el fin de la guerra y la vuelta a la aburrida y desesperanzada vida civil. Pero la monotonía se rompe cuando descubren un mapa que indica el lugar donde se encuentra una reserva de oro kuwaití robada por los iraquíes. Inmediatamente, los cuatro deciden buscar el tesoro. Pero, mientras lo hacen, van descubriendo cuáles son las condiciones de vida del pueblo iraquí y, a partir de entonces, la búsqueda del tesoro se convertirá en una historia de redención que los cambiará profundamente y pondrá a prueba su humanidad.",
+			"genero": "Belico",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:FA431439EBFE4E165B652A73BB46E5195616A1A8&dn=HD1080",
+				"torrent4k": "magnet:?xt=urn:btih:65E1210EFC1CFE2220F29E16DC1DC25F1E703771&dn=UHDRip"	
 				}		
 			]
 			},
