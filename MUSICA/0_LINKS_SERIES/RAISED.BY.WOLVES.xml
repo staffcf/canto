@@ -10,6 +10,7 @@
 	ETIQUETAS:
 	
 	- 1SerieTitle:"RAISED BY WOLVES", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/ggjBxNZOgmvQDASprmG7lw8YkHI.jpg",
+	- 1SerieTitle:"RAISED BY WOLVES", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/j10Ztxyfxp7zqYI6GvaWO3HFnxO.jpg",
 
 	
 -->
@@ -157,4 +158,40 @@
 ======================================================================
 ======================================================================
 ======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x01 - El colectivo</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Raised.by.Wolves/2x01.-Raised.by.Wolves.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x02 - Siete</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Raised.by.Wolves/2x02.-Raised.by.Wolves.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x03 - Capitulo 3 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Raised.by.Wolves/2x03.-Raised.by.Wolves.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x04 - Capitulo 4 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Raised.by.Wolves/2x04.-Raised.by.Wolves.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x05 - Capitulo 5 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Raised.by.Wolves/2x05.-Raised.by.Wolves.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x06 - Capitulo 6 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Raised.by.Wolves/2x06.-Raised.by.Wolves.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
 ======================================================================
