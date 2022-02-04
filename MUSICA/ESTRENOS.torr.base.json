@@ -6,6 +6,57 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra L, EEUU, 1Hechos reales, ",
+			"name": "La casa Gucci (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/riewaQKkUlPzBvaaFRTPAp9IOZM.jpg",
+			"info": "Drama criminal en torno al asesinato, en 1995, de Maurizio Gucci, nieto del fundador del imperio de la moda Gucci, que apareció asesinado por orden de su exmujer Patrizia Reggiani, conocida como 'la viuda negra de Italia'. Adaptación del libro de Sara Gay Forden, publicado en 2001, 'The House of Gucci: A Sensational Story of Murder, Madness, Glamour, and Greed'.",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/La.casa.Gucci.-2021.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Comedia, A2022, Letra A, Spain, Netflix, ",
+			"name": "A traves de mi ventana (2022)","coloryear": "darkorange",
+			"image": "https://www.themoviedb.org/t/p/original/o4ra6aYqhwqqcddgzKMbkKjD8GV.jpg",
+			"info": "Raquel lleva toda la vida loca por Ares, su atractivo y misterioso vecino. Lo observa sin ser vista y es que, muy a su pesar, no han intercambiado ni una palabra. Raquel tiene muy claro su objetivo: conseguir que Ares se enamore de ella. Pero ella no es una niña inocente y no está dispuesta a perderlo todo por el camino, y mucho menos a sí misma.",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:1db6fa8936b704060391b880b01f83bd26ecfc54&dn=HD1080",	
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra L, EEUU, 1Biografico, ",
+			"name": "Los ojos de Tammy Faye (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/iBjkm6oxTPrvNkzr63cmnrpsQPR.jpg",
+			"info": "Biopic del extraordinario ascenso, caída y redención de la telepredicadora evangelista Tammy Faye Bakker. En los años 70 y 80, Tammy Faye y su marido, Jim Bakker, pusieron en pie prácticamente de la nada la red de cadenas religiosas más grande del mundo, así como un parque temático, y gozaron de una inmensa popularidad gracias a sus mensajes de amor, aceptación y prosperidad. Tammy Faye era legendaria por sus pestañas indestructibles, su original forma de cantar y su generosidad a la hora de acoger a personas de todo tipo. Pero no pasó mucho tiempo antes de que las irregularidades financieras, las rivalidades e intrigas y los escándalos derrocaran un imperio construido con gran meticulosidad",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Los.ojos.de.Tammy.Faye.-2021.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Fantastico, A2021, Letra F, Francia, ",
+			"name": "Flashback (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/dTTIk3FlEqQsyc6rsYXFIs87osf.jpg",
+			"info": "La historia de Charlie, una abogada talentosa, cínica y narcisista que, tras ganar un nuevo juicio, conoce a Hubert, un conductor privado inconformista que se embarcará en una carrera inesperada en los pasillos del tiempo. En este viaje que la llevará desde la prehistoria hasta la Revolución Francesa, se cruzará con quienes lucharon por los derechos de las mujeres y será testigo de hechos históricos que nunca debió haber olvidado. Para salir de este ciclo temporal, deberá comprender su papel como mujer en la sociedad y aprender a ayudar a aquellos cuyas voces no se escuchan ni siquiera hoy.",
+			"genero": "Comedia, Fantastico",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Flashback.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Thriller, A2020, Letra A, Australia, ",
 			"name": "Años de sequia (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/i6ZO6cvFmVNRToFwWcSIFIk5qGT.jpg",
