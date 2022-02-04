@@ -4,6 +4,18 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 
+
+<item>
+<title>[COLOR white] La casa Gucci  [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.6[/COLOR]</title> 
+<genre>Drama,Crimen,Suspense</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/88d8OAdtfvuo4dDU1eJxhjhdxZe.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wTxUNxAjzG4ic3kzPlVNbuotoF7.jpg</fanart>
+<info>Drama criminal en torno al asesinato en 1995 de Maurizio Gucci, nieto del fundador del imperio de la moda Gucci, que apareció asesinado por orden de su exmujer Patrizia Reggiani, conocida como la "viuda negra de Italia".</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/DTdxse1MP90"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/r3Oj6ZVLWbC3jV"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/6qj6orlkfle430x" },{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/5b1uzejbyp9n"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/f9cqi455w6ms"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/s5fjqjrlk27f"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/e2oncwpuukhv"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "No funciona web fembed"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1G6nHh-cv3Qkdkdq-Z7JhKo_VpjX8caZP/view"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Clifford El gran perro rojo [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.3[/COLOR]</title> 
 <genre>Animación,Comedia,Familia</genre>
