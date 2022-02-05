@@ -29,6 +29,17 @@
 
 
 <item>
+<title>[COLOR white] Traicionados [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.4[/COLOR]</title> 
+<genre>Drama,Historia,Bélica</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/q9TkmFYN01FVXiYcPaTgtbNGcoe.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fKMyBpyY89dfYwpIF5gixFPOgkN.jpg</fanart>
+<info>Durante la Segunda Guerra Mundial, millones de judíos de toda Europa son deportados y asesinados en campos de concentración.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/6f3ApU6C5Xw"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/RXr3pqOk26i0zg"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/rwmqvmddt3wokn"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/w4mxppja8eax"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/49t0u2fchj2n"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ez5y5woagmf7"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/pnh28zlgfdun"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1EA6oWmPi9sUkIgpDgNKdcKQQnmdIV38H/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Anos de sequia [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.8[/COLOR]</title> 
 <genre>Suspense</genre>
 <year>2022</year>
