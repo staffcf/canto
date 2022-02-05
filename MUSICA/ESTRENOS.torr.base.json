@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra U, China, 1Historico, ",
+			"name": "Un segundo (One Second) (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/38JILv0O2jiFFXhUgc0XQ6J9lYG.jpg",
+			"info": "Un convicto es enviado a un campo de trabajo en el desolado noroeste de China durante la Revolución Cultural del país. Utilizando su ingenio, y con el único fin de ver a su hija, quien ha sido filmada en una película, logra escapar y huye en dirección al cine de un pueblo cercano. Allí espera encontrar esa cinta de película y hacerse con ella. Sin embargo, en dicho lugar se cruza con una vagabunda desesperada por conseguir el mismo carrete de película y que logra robarlo. Curiosamente, este enigmático objeto, que ambos anhelan por motivos muy distintos, se convertirá en la raíz de una inesperada amistad",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Un.segundo-One.Second-.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra L, EEUU, 1Hechos reales, ",
 			"name": "La casa Gucci (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/riewaQKkUlPzBvaaFRTPAp9IOZM.jpg",
@@ -13,7 +26,7 @@
 			"genero": "Drama",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/La.casa.Gucci.-2021.-.m1080x265.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/La.casa.Gucci.-2021.-.1080x265.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""	
 				}		
 			]
