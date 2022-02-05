@@ -4,6 +4,18 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 
+<item>
+<title>[COLOR white] Harry Potter 20 aniversario: Regreso a Hogwarts [/COLOR][COLOR yellow](2022) [COLOR aqua]*8.7[/COLOR]</title> 
+<genre>Documental</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/zZJnBuMDYOS71p3o0CJDmXKYtVy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bmfuSOPwTdWLyEtNhGtTBh3T1oa.jpg</fanart>
+<info>Daniel Radcliffe, Rupert Grint y Emma Watson se unen al cineasta Chris Columbus y a otros miembros del reparto de las películas de Harry Potter para volver a Hogwarts por primera vez y celebrar el aniversario de la primera película de la saga.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/NMYRd7DvjrE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/Q1aQd3A1oYH0P9p"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/6qj69mvkcdopjr"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/v4l3cy94n017"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/v687b0fwd5s1"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ax6jci0mkt5k"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/s0x3udrf15kc"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/124Led-zNL-2Mq8wV-7geYiBmFalxahhb/view"}</urlsolve>
+</item>
+
+
+
 
 <item>
 <title>[COLOR white] La casa Gucci  [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.6[/COLOR]</title> 
@@ -13,6 +25,28 @@
 <fanart>https://www.themoviedb.org/t/p/original/wTxUNxAjzG4ic3kzPlVNbuotoF7.jpg</fanart>
 <info>Drama criminal en torno al asesinato en 1995 de Maurizio Gucci, nieto del fundador del imperio de la moda Gucci, que apareció asesinado por orden de su exmujer Patrizia Reggiani, conocida como la "viuda negra de Italia".</info>
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/DTdxse1MP90"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/r3Oj6ZVLWbC3jV"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/6qj6orlkfle430x" },{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/5b1uzejbyp9n"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/f9cqi455w6ms"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/s5fjqjrlk27f"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/e2oncwpuukhv"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "No funciona web fembed"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1G6nHh-cv3Qkdkdq-Z7JhKo_VpjX8caZP/view"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Anos de sequia [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.8[/COLOR]</title> 
+<genre>Suspense</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/i6ZO6cvFmVNRToFwWcSIFIk5qGT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ozE5xQLq3xLVakzrpnemGJndbrm.jpg</fanart>
+<info>El agente federal Aaron Falk regresa a su ciudad natal afectada por la sequía para asistir al trágico funeral de un amigo de la infancia. Pero su regreso abre una herida de décadas: la muerte sin resolver de una adolescente.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/vh0fODBxYd4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/l2p4bpjrDDi7Yxd"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/zple9l9qiqxeqp"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/9y72vmvgbvy8"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/o4e47lok14l5"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/gxy06feyk563"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/6te64beaoeho"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1z1eU3Fx8efXuPQKXplI0GOxZ4bf5QNbb/view"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El asesinato de Kenneth Chamberlain [/COLOR][COLOR yellow](2022) [COLOR aqua]*8.1[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/kbPFlxvYaVL6VTJPFsmVP853gUV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hJY0YVvWG4q9SpChahhAV4I495.jpg</fanart>
+<info>Basado en la historia real de los eventos que llevaron a la muerte de Kenneth Chamberlain Sr., un anciano veterano afroamericano con trastorno bipolar, que murió durante un conflicto con los oficiales de policía que fueron enviados a ver cómo estaba.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/HI1XGFx4Vbc"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/3qVdlRLbXbSdWoq"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/o71edr1ec4n8nq"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/otplrzado1l7"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/302tq34e7hty"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/jnyjfsiqwoaa"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/2oil1qco8yqt"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1yRi0BxtDu2uVTbNCPtyZKIsh8yxxdNXj/view"}</urlsolve>
 </item>
 
 
