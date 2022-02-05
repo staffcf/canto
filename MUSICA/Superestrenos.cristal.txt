@@ -29,6 +29,17 @@
 
 
 <item>
+<title>[COLOR white] Los ojos de Tammy Faye [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.6[/COLOR]</title> 
+<genre>Historia,Drama,Música</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/iBjkm6oxTPrvNkzr63cmnrpsQPR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dj0XwgWSWKZ1YfoRpbggvMdeSYq.jpg</fanart>
+<info>Biopic sobre el fulgurante ascenso y posterior descenso a los infiernos de la pareja de telepredicadores, Tammy Faye y Jim Bakker, en la década de los 70 y 80. Desde sus humildes comienzos hasta la creación de todo un imperio en torno a "The PTL Club", el exitoso programa de televisión que estuvo en antena 15 años y les hizo famosos en todo el país.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/OWldnOQ70XU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/ReljMQJXJPcd1zl"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/1v0qmjv3skwpzjk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/p28ic3wpx5ph"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/zkowswl72f3n"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/q3h1a9t6okuh"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/w3415e978stu"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Tl6_H3zHifsf9HOZ5HvqlsxlXqPBIDyC/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El estudiante de intercambio [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.8[/COLOR]</title> 
 <genre>Comedia</genre>
 <year>2021</year>
