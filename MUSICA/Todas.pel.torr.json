@@ -3168,7 +3168,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:CC6BEAB12F3AB62EDD2E899542C6209AF5F1F1A2&dn=HD1080",	magnet:?xt=urn:btih:1CDF14D602A62B74D1E78F1756A8D73D25EA9D6C&dn=BR1080	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Infinito.-2021.-.1080.-.CristalAzul.mkv.torrent
-				"torrent4k": "magnet:?xt=urn:btih:27B0625E40F6178DD4328B2B4AFD97A3E85DF23C&dn=Web4K"	
+				"torrent4k": "magnet:?xt=urn:btih:5AC3D331E4DAEE7199A376CECDF9230B78FC8733&dn=UHDRip"	magnet:?xt=urn:btih:27B0625E40F6178DD4328B2B4AFD97A3E85DF23C&dn=Web4K
 				}		
 			]
 			},
@@ -3459,7 +3459,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra L, EEUU, 1Hechos reales, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Drama, A2021, Letra L, EEUU, 1Hechos reales, ",
 			"name": "La casa Gucci (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/riewaQKkUlPzBvaaFRTPAp9IOZM.jpg",
 			"info": "Drama criminal en torno al asesinato, en 1995, de Maurizio Gucci, nieto del fundador del imperio de la moda Gucci, que apareció asesinado por orden de su exmujer Patrizia Reggiani, conocida como 'la viuda negra de Italia'. Adaptación del libro de Sara Gay Forden, publicado en 2001, 'The House of Gucci: A Sensational Story of Murder, Madness, Glamour, and Greed'.",
@@ -3467,7 +3467,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/La.casa.Gucci.-2021.-.1080x265.-.CristalAzul.mkv.torrent",
-				"torrent4k": ""	
+				"torrent4k": "magnet:?xt=urn:btih:4982A9A41EC937ABF8FEDBDB6F7C48D720085D89&dn=Web4K"	
 				}		
 			]
 			},
