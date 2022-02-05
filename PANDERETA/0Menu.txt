@@ -95,6 +95,24 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]All Or Nothing:Manchester City Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/All.or.nothing.manchester.city</externallink>
+<info>El legendario entrenador Pep Guardiola lidera su equipo de fútbol de primera división durante la temporada 2017/18.</info>
+<thumbnail>https://i.imgur.com/4jjWSJy.jpg</thumbnail>
+<fanart>https://i.imgur.com/PsrqlyD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]All Or Nothing:New Zealand All Blacks Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/All.or.nothing.new.zealand.all.blacks</externallink>
+<info>Sigue al equipo de rugby de los All Blacks de Nueva Zelanda durante el año 2017, analizando en profundidad a los jugadores y entrenadores dentro y fuera del campo.</info>
+<thumbnail>https://i.imgur.com/qe48cxl.jpg</thumbnail>
+<fanart>https://i.imgur.com/Sewwbdk.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]American Gods[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/American.gods</externallink>
@@ -311,6 +329,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Bienvenidos A La Tierra Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Bienvenidos.a.la.Tierra</externallink>
+<info>Desde volcanes en activo hasta las profundidades del océano, Will Smith viaja a los confines de la Tierra, emprendiendo una aventura alrededor del mundo para explorar las grandes maravillas de nuestro planeta.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/lW8GyURQXYCLn1ydX39wm99SYh1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5V2TGcU92spIJo6jCPQ8H3G3yCT.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Big Sky[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Big.Sky</externallink>
@@ -474,6 +501,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Carolina Marin:Puedo Porque Pienso Que Puedo Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Carolina.marin</externallink>
+<info>>Miniserie documental de 4 episodios que sigue la vida y carrera de la campeona mundial de bádminton y una de las atletas más icónicas del deporte español actual. El documental sigue a Carolina en su camino a la recuperación tras una importante lesión en su rodilla, y el duro entrenamiento para volver a la cancha. A través de este acceso único, la leyenda del bádminton comparte el enorme trabajo que implica el convertirse en una atleta de élite, y las alegrías y decepciones de la competición de alto rendimiento.</info>
+<thumbnail>https://i.imgur.com/KOwJSAU.jpg</thumbnail>
+<fanart>https://i.imgur.com/HzLWqYB.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Castillo De Naipes (House of Cards)[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Castillo.de.naipes.txt</externallink>
@@ -552,6 +588,15 @@
 <info>Serie de TV (2018-Actualidad). 3 temporadas. 30 episodios. Secuela de "Karate Kid". 30 años después de su enfrentamiento final en 1984 en el torneo de karate All Valley, Johnny Lawrence (William Zabka) está en un momento malo de su vida. Sin embargo, tras ayudar a Miguel (Xolo Maridueña), un niño que sufre bullying, Johnny decide volver a abrir el dojo Cobra Kai. El problema es que esto vuelve a desatar la rivalidad con Daniel LaRusso (Ralph Macchio), que ahora es un hombre de negocios felizmente casado, pero al que le falta algo tras la muerte de su mentor, el Sr. Miyagi. </info>
 <thumbnail>https://i.imgur.com/px0eOZ0.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/xWmDBmsabRm6IE5FcfU9CTQCPtl.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Colgar Las Alas:Iker Casillas Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Colgar.las.alas</externallink>
+<info>Iker Casillas no ha sido solo un portero, es una leyenda para todos los aficionados al fútbol, para todos los amantes del deporte. El guardameta madrileño paró el tiempo cuando despejó con la bota aquel mano a mano a Robben, contuvimos la respiración cuando nos salvó en los penaltis contra Italia, nos dejamos llevar por el éxtasis cuando levantó la Copa del Mundo al cielo de Sudáfrica y nos puso el corazón en un puño cuando hizo público su infarto.</info>
+<thumbnail>https://i.imgur.com/GXSEBv1.jpg</thumbnail>
+<fanart>https://i.imgur.com/SAcdMjo.jpg</fanart>
 </item>
 
 <item>
@@ -747,12 +792,30 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Dolores:La Verdad Sobre El Caso Wanninkhof Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Dolores.la.verdad.sobre</externallink>
+<info>Por primera vez en 20 años, Dolores Vázquez, víctima de una de los mayores errores judiciales de la historia reciente de España, habla públicamente sobre su doloroso pasado y aborda preguntas que aún no han sido respondidas.</info>
+<thumbnail>https://i.imgur.com/ZEljFvt.jpg</thumbnail>
+<fanart>https://i.imgur.com/zyLJ9A0.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Dom[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Dom</externallink>
 <info>8 episodios. Narra la historia real de Víctor, un oficial de policía que dedicó su vida a la guerra contra el narcotráfico, y de su hijo Pedro, un chico de clase media de Río de Janeiro que descubrió la cocaína en su adolescencia, se convirtió en un adicto, y eso lo llevó a alzarse finalmente como el líder de una banda criminal que dominó los tabloides de Río de Janeiro a principios de los 2000. </info>
 <thumbnail>https://i.imgur.com/0mImHUd.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/yfYwQDJjY5d2bU1NyC4g165PXW1.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Donde Esta Marta? Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Donde.esta.Marta</externallink>
+<info>Miniserie de TV (2021). 3 episodios. La desaparición de la adolescente Marta del Castillo acaparó todos los titulares. Familiares, amigos y policías, entre otros, opinan sobre un caso que sigue sin resolver.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/uaoy8Bd5MxSzOQIpESTDgziChvw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kMbHFMI81Pi3MPQ3DAQ0oBPapiF.jpg</fanart>
 </item>
 
 <item>
@@ -828,6 +891,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El Caso Alcasser Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/El.caso.alcasser</externallink>
+<info>Miniserie de TV (2019). 5 episodios. Relato documental que analiza e investiga uno de los crímenes más mediáticos de la historia de España. Este triple asesinato convulsionó en 1992 los cimientos de la sociedad española y cruzó fronteras, no solo por su brutalidad sino también por la impactante retransmisión y cobertura que los medios hicieron de él. Producida por Bambú Producciones, equipo responsable de "Lo que la verdad esconde: El caso Asunta".</info>
+<thumbnail>https://i.imgur.com/cFYFBNW.jpg</thumbnail>
+<fanart>https://i.imgur.com/rxFcBJx.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El Caso Hartung[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.caso.hartung</externallink>
@@ -882,6 +954,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El Crimen De La Guardia Urbana Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/El.crimen.de.la.guardia.urbana</externallink>
+<info>4 episodios. El 4 de mayo de 2017 los Mossos encontraron un coche quemado en uno de los caminos del Pantano de Foix, en Barcelona. En el interior del vehículo localizaron los restos de un cuerpo calcinado. El coche pertenecía a Pedro Rodríguez, un agente de la Guardia Urbana de Barcelona. Oficialmente, no constaba como desaparecido. Al reconstruir sus últimas horas de vida, los mossos comenzaron a encontrar incongruencias en las declaraciones de las personas más cercanas al desaparecido... "El crimen de la guardia urbana" forma parte de "Crímenes", una serie de 'true crime' que relata sucesos reales ocurridos en la historia reciente de Cataluña. A lo largo de los cuatro episodios, encontramos el estilo narrativo y el sello del periodista catalán Carles Porta que dirige, narra e introduce los espectadores en los laberintos de esta historia.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/gxTBhcJd6mUR0Zhwkqz6TBCM0Ul.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/o20Xs7LhxmdcUJGTcA8UA7wzG1u.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El Cuento De La Criada[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.cuento.de.la.criada.txt</externallink>
@@ -927,6 +1008,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El Dia Menos Pensado Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/Cristalazul/Cristalazul.io/main/SERIES/Series.Docu/El.dia.menos.pensado</externallink>
+<info>El equipo ciclista profesional Movistar Team quiere hacerse con la victoria. Pero la carrera está llena de retos, polémicas y conflictos internos.</info>
+<thumbnail>https://i.imgur.com/hjxrpw5.jpg</thumbnail>
+<fanart>https://i.imgur.com/bIOKJHb.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El Ferrocarril Subterraneo[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.ferrocarril.subterráneo.txt</externallink>
@@ -942,6 +1032,15 @@
 <info>Miniserie de TV (2019). 6 episodios. Serie basada en la vida del espía israelí Eli Cohen. En la década de 1960, Cohen se convirtió en agente secreto del Mossad para espiar a Siria bajo el nombre ficticio de Kamel Amin Thaabet. Una larguísima misión que, a lo largo de los años, le llevó a cuestionarse si su lealtad a la patria era más importante que vivir una segunda vida en peligro constante y lejos de su familia. </info>
 <thumbnail>https://i.imgur.com/8MJDY3P.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/48Tim0KJy3hjoM29dhGnE8Suqba.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]El Estado Contra Pablo Ibar Docuserie[/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/El.estado.contra.pablo.ibar</externallink>
+<info>Miniserie documental de seis episodios. En 1994 el español Pablo Ibar es arrestado y sentenciado a muerte por un triple asesinato ocurrido en el sur de Florida. El atroz crimen es recogido por una cámara de seguridad oculta en una estantería de la vivienda donde se produjeron los hechos. En las imágenes se puede ver a dos personas perpetrando a sangre fría los asesinatos. El parecido de uno de los asesinos con Pablo Ibar sirve para sentarlo en el banquillo de los acusados, aunque la baja calidad de las imágenes impide asegurar que sea él. En 2016 y tras 16 años en el corredor de la muerte, los abogados de Ibar consiguen reabrir el caso alegando numerosas irregularidades durante el proceso además de la debilidad e inconsistencia de las pruebas. De nuevo en la casilla de salida, Pablo Ibar se prepara para un nuevo juicio en el que la fiscalía continúa pidiendo para él la pena máxima. Esta será su última oportunidad.</info>
+<thumbnail>https://i.imgur.com/28dYSEX.jpg</thumbnail>
+<fanart>https://i.imgur.com/I8ceKgt.jpg</fanart>
 </item>
 
 <item>
@@ -1086,6 +1185,15 @@
 <info>Cuenta la historia real del gángster Bumpy Johnson (Forest Whitaker), que se abre camino en Harlem durante los años 60 después de pasar diez años en prisión. Cuando vuelve al barrio que una vez fue suyo se lo encuentra prácticamente en ruinas. Con las calles controladas por la mafia italiana, Bumpy debe imponerse a la mafia genovesa para recuperar el control de la ciudad. Durante una brutal batalla forma una inesperada alianza con el radical Malcolm X, aprovechándose de su discurso político para tratar de evitar el caos social y la guerra entre clanes que se avecina. </info>
 <thumbnail>https://i.imgur.com/33pJlh3.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/7xzsjZZFDP10MNpjMFybicozJnQ.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]El Pionero Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/El.pionero</externallink>
+<info>Miniserie de TV (2019). 4 capítulos. Documental sobre el empresario Jesús Gil, una de las figuras políticas más populares en España durante la década de los años 90.</info>
+<thumbnail>https://i.imgur.com/aaLMsIk.jpg</thumbnail>
+<fanart>https://i.imgur.com/omG0XHA.jpg</fanart>
 </item>
 
 <item>
@@ -1260,6 +1368,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]F1: La Emocion De Un Gran Prix Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/Cristalazul/Cristalazul.io/main/SERIES/Series.Docu/La.emocion.de.un.G.P</externallink>
+<info>Los pilotos, representantes y propietarios de escuderías viven con el pie pegado al acelerador, dentro y fuera de la pista, durante la dura temporada de carreras.</info>
+<thumbnail>https://i.imgur.com/RSksBnd.jpg</thumbnail>
+<fanart>https://i.imgur.com/qDh0IKA.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Falcon Y El Soldado De Invierno[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Falcon.y.el.soldado.de.invierno.txt</externallink>
@@ -1275,6 +1392,15 @@
 <info>¿Y si dos hermanas adolescentes descubren que sus padres son unos monstruos? Eva (Ana Tomeno) y Sofía (Carla Campra) tendrán que enfrentarse al horrible crimen que parece que han cometido sus padres quienes, antes de desaparecer, han dejado atrás 23 víctimas. ¿Cómo van a sobrevivir estas hermanas en un pueblo que las odia? ¿Es posible que conocieran tan poco a sus padres o existe algún motivo para que estuvieran implicados en este suceso? Este es el viaje que emprenderán Eva y Sofía en Feria, un pueblo donde la realidad esconde un universo fantástico.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/m8mxgGK8z9t8pkCCpatP4XjDpLM.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/nWLC2KYYzlpVmKEotZcU9za5Vc.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Fernando Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Fernando</externallink>
+<info>Serie de TV (2020-2021). 2 temporadas. Docuserie que muestra un retrato íntimo del bicampeón mundial de la Fórmula 1, el español Fernando Alonso. La primera temporada muestra la pasión de Alonso por competir al más alto nivel y su absoluta determinación por ganar.En la 2T, las cámaras acompañan al piloto español Fernando Alonso desde el período de confinamiento en su casa en Suiza y los diferentes escenarios de alta competición como las 500 Millas de Indianápolis hasta los preparativos para su regreso a la F1.</info>
+<thumbnail>https://i.imgur.com/aatRxqg.jpg</thumbnail>
+<fanart>https://i.imgur.com/o6hBqD8.jpg</fanart>
 </item>
 
 <item>
@@ -1311,6 +1437,15 @@
 <info>Serie de TV. Adaptación de la famosa saga de novelas científicas de Isaac Asimov. Cuando el revolucionario Dr. Hari Seldon predice la inminente caída del Imperio, él y un grupo de leales seguidores viajan a los últimos confines de la galaxia para establecer La Fundación, en un intento de reconstruir y preservar el futuro de la civilización. Enfurecidos por las teorías de Hari, los Cleons (una larga línea sucesoria de emperadores clónicos que ostentan el poder) temen que su control sobre la galaxia se pueda debilitar y deben reconocer la posibilidad, muy real, de perder su legado para siempre.</info>
 <thumbnail>https://i.imgur.com/777M1DD.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/cugTdbFpxOgEH8EAlymLIOvRo5g.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Futbolistas Por El Mundo Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Futbolistas.por.el.mundo</externallink>
+<info>4 episodios. Tras sus logros como parte de la Selección Española y algunos de los mejores equipos del mundo, Xavi Hernández, David Villa, Javi Martínez y Juan Mata enfrentan ahora una nueva etapa en sus carreras fuera de España. Junto a sus familias, estos cuatro futbolistas afrontan su día a día en el extranjero y descubren lo que más añoran de España ahora que están lejos de casa.</info>
+<thumbnail>https://i.imgur.com/mBOa7Hq.jpg</thumbnail>
+<fanart>https://i.imgur.com/QDMP1wo.jpg</fanart>
 </item>
 
 <item>
@@ -1512,6 +1647,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]High Score El Mundo De Los Videojuegos Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/High.score</externallink>
+<info>6 episodios. Historia de los videojuegos clásicos, desde Pac-Man hasta Doom, narrada por Charles Martinet.</info>
+<thumbnail>https://i.imgur.com/nXsbD6A.jpg</thumbnail>
+<fanart>https://i.imgur.com/utYL4gx.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Hightown[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Hightown</externallink>
@@ -1702,6 +1846,15 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]La Casa De Papel: De Tokio A Berlin Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/De.Tokio.a.Berlin.xml</externallink>
+<info>En el documental, fans podrán ver contenido especial y no incluido en la primera parte de la temporada cinco. Muerte del personaje principal también es explicado.</info>
+<thumbnail>https://i.imgur.com/0XYAlWS.jpg</thumbnail>
+<fanart>https://i.imgur.com/n5Ibql2.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]La Chica De Oslo[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.chica.de.oslo</externallink>
@@ -1756,6 +1909,15 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]La Familia Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/Cristalazul/Cristalazul.io/main/SERIES/Series.Docu/La.Familia</externallink>
+<info>Documental sobre los veinte años de éxitos de una de las mejores generaciones del baloncesto y del deporte español. </info>
+<thumbnail>https://i.imgur.com/X2DG4C8.jpg</thumbnail>
+<fanart>https://i.imgur.com/xl72CGU.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]La Fuga[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.Fuga</externallink>
@@ -1783,7 +1945,7 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 </item>
 
 <item>
-<title>[COLOR gold]* [COLOR white]La Leyenda De Sergio Ramos[/COLOR]</title>     
+<title>[COLOR gold]* [COLOR white]La Leyenda De Sergio Ramos Docuserie[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.leyenda.de.Sergio.Ramos.txt</externallink>
 <info>6 episodios. Nueva entrega sobre la vida del futbolista internacional que sigue la historia de "El Corazón de Sergio Ramos" (2019). La serie recorre los hitos que han escrito, escriben y aún escribirán la leyenda de Sergio Ramos, tomando como punto de partida los momentos más determinantes de su vida y su carrera profesional durante la pasada temporada. La Leyenda de Sergio Ramos mostrará imágenes inéditas de la conquista de la liga, reflexiones sobre las decisiones más relevantes de su carrera, recuerdos de grandes momentos y planes de futuro, todo ello con el testimonio de aquellos que han compartido su vida personal y profesional. Una historia que hablará de épica y de gloria, pero también de dolor y de decepción, porque el camino de un héroe exige sacrificio y, después de más de 15 años en la élite, Sergio Ramos sigue entregándose al deporte que ama como el primer día. </info>
@@ -1929,12 +2091,30 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Las Peliculas Que Vimos Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Las.peliculas.que.vimos</externallink>
+<info>Las personas detrás de las películas inolvidables que marcaron un antes y un después en el mundo del cine, cuentan todos los secretos de la producción.Temporada 1: Dirty Dancing, Home Alone, Ghostbusters, Die Hard.Temporada 2: Back to the Future, Pretty Woman, Jurassic Park, Forrest Gump.</info>
+<thumbnail>https://i.imgur.com/OvzMK56.jpg</thumbnail>
+<fanart>https://i.imgur.com/Cg4CTyD.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Leonardo[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Leonardo.xml</externallink>
 <info>Serie de TV (2021). 8 episodios. Superproducción europea que explora los secretos y dramas detrás del genial artista italiano del Renacimiento. A lo largo de ocho capítulos y ocho de sus principales obras, desde la ‘Mona Lisa’ y su enigmática sonrisa al simbolismo de ‘La última cena’, la serie cuenta la historia del hombre y del genio, a través de una desconocida historia de misterio y pasión.</info>
 <thumbnail>https://i.imgur.com/8afsjGP.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/eu7Bicrl7M3T6MlTbov3IgOZzRh.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Leyendas Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Leyendas</externallink>
+<info>Fernando Torres, Pau Gasol, Alberto Contador y Carolina Marín son los protagonistas de ‘Leyendas’, una serie presentada por Quique Peinado en la que estos deportistas, sus seres queridos y colegas del mundo del deporte, relatarán las historias de superación, los sacrificios y satisfacciones, las anécdotas y los momentos más difíciles que les han convertido en lo que son hoy: leyendas del deporte.</info>
+<thumbnail>https://i.imgur.com/WRXypdv.jpg</thumbnail>
+<fanart>https://i.imgur.com/gIwhnwx.jpg</fanart>
 </item>
 
 <item>
@@ -1957,6 +2137,15 @@ En paralelo a la serie, Enrique Urbizu realizó un montaje para cines en formato
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Lo LLevamos En La Sangre Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Lo.llevamos.en.la.sangre</externallink>
+<info>Un trabajo que loa los logros del motociclismo español en la categoría reina a través de tres generaciones distintas. Estas tres generaciones están representadas por nuestros tres campeones: Àlex Crivillé, Marc Márquez y Jorge Lorenzo.</info>
+<thumbnail>https://i.imgur.com/uIn3GKQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/4H4kOAt.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]LOL Si Te Ries Pierdes[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/LOL.Si.te.ries.pierdes.txt</externallink>
@@ -1966,21 +2155,30 @@ En paralelo a la serie, Enrique Urbizu realizó un montaje para cines en formato
 </item>
 
 <item>
-<title>[COLOR gold]* [COLOR white]Long Way Down[/COLOR]</title>  
+<title>[COLOR gold]* [COLOR white]Lola Docuserie[/COLOR]</title>  
 <link>cristalazul</link>
-<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Long.way.down</externallink>
-<info>Miniserie de 6 episodios. Documental sobre un viaje en motocicleta por Europa y África. La aventura empieza en Escocia y termina en el punto más meridional de Sudáfrica: el Cabo Agulhas. El trayecto de 15.000 millas incluye países como Libia, el Sudán, Etiopía, Uganda, Ruanda, Tanzania, Botswana y los salvajes paisajes de la costa del Esqueleto en Namibia.</info>
-<thumbnail>https://i.imgur.com/W93Uion.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Lola</externallink>
+<info>Serie documental de 4 episodios que revisa la vida y la carrera de "La Faraona" a través de momentos inolvidables y frases que ya forman parte del imaginario colectivo de nuestro país. Lola Flores fue una mujer libre, fuerte, valiente y que seguiría siendo moderna hoy en día, con un estilo y una forma de vivir que rompió todo tipo de barreras. Se convirtió en el mayor icono pop del siglo XX en España y traspasó todo tipo de fronteras. Su arte es inmortal y su estela estará siempre entre nosotros.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/5yt1DO2CELH3gqF15Ve2hvuCvhO.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR gold]* [COLOR white]Long Way Round[/COLOR]</title>  
+<title>[COLOR gold]* [COLOR white]Long Way Down Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Long.way.down</externallink>
+<info>Miniserie de 6 episodios. Documental sobre un viaje en motocicleta por Europa y África. La aventura empieza en Escocia y termina en el punto más meridional de Sudáfrica: el Cabo Agulhas. El trayecto de 15.000 millas incluye países como Libia, el Sudán, Etiopía, Uganda, Ruanda, Tanzania, Botswana y los salvajes paisajes de la costa del Esqueleto en Namibia.</info>
+<thumbnail>https://i.imgur.com/W93Uion.jpg</thumbnail>
+<fanart>https://i.imgur.com/ZQRPq6T.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Long Way Round Docuserie[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Long.way.round</externallink>
 <info>Miniserie de 7 episodios. Documental de siete episodios que sigue a los actores Ewan McGregor y Charley Boorman en una moto viajando por todo el mundo. En su largo trayecto recorrieron Francia, Bélgica, Alemania, República Checa, Eslovaquia, Ucrania, Rusia, Kazakstán, Mongolia, Siberia, Alaska y Canadá para llegar tres meses después a su destino final: Nueva York, USA.</info>
 <thumbnail>https://i.imgur.com/KspUy2x.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<fanart>https://i.imgur.com/v9SheFF.jpg</fanart>
 </item>
 
 <item>
@@ -2017,6 +2215,15 @@ En paralelo a la serie, Enrique Urbizu realizó un montaje para cines en formato
 <info>Serie de TV. Serie política de época que relata el ascenso al poder de la familia Medici y las consecuencias de la transformación económica, cultural y social que iniciaron. Una revolución que desafió el pensamiento tradicional y cambió la historia, pero que también les hizo labrarse numerosos enemigos. La primera temporada se centra en los años de ascenso de Cosimo Medici (Richard Madden), quien se ve obligado a suceder a su padre Giovanni (Dustin Hoffman) como cabeza de los Medici, después de que éste sea inesperadamente asesinado. Rodeado de adversarios, Cosimo se topa entonces con el reto de mantener a flote el banco de los Medici y preservar la influencia y el poder de su familia en Florencia, mientras no cesa en su empeño por averiguar quién asesinó a su padre.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/u9cIJH2AWMeBxQMEal4q5Rlgrtu.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/7hvvNS52ConVZFvZtgy1j0NeCCO.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Los Millones De Escobar Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Los.millones.de.escobar</externallink>
+<info>Pablo Escobar, el hombre más buscado del planeta a comienzos de los 90, enterró su fortuna, compuesta por miles de millones de dólares, en suelo colombiano, donde, según la leyenda, aún sigue escondida la mayor parte.</info>
+<thumbnail>https://i.imgur.com/J0vEu2K.jpg</thumbnail>
+<fanart>https://i.imgur.com/mDks0Qn.jpg</fanart>
 </item>
 
 <item>
@@ -2071,6 +2278,15 @@ En paralelo a la serie, Enrique Urbizu realizó un montaje para cines en formato
 <info>Serie de TV (2012). 9 episodios. Serie de HBO que se centra en el mundo de las carreras de caballos, los hipódromos y las apuestas.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/288q0JefZUuTfqUG2qzPTCZYuAL.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/bLeoEkOOdcGUaXbOPU4ammBfV0R.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Luis El Sabio Del Exito Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Luis.el.sabio.del.exito</externallink>
+<info>Un documental con imágenes inéditas de las charlas de Luis Aragonés durante la Eurocopa de 2008. Claves que ayudaron a conformar un espíritu ganador entre un grupo muy joven, que terminó llevando al éxito a la selección española después de más de 40 años de sequía de títulos en fútbol. Producido íntegramente por el Departamento de Comunicación de la RFEF, el documento ha supuesto el visionado de más de 40 horas de grabaciones. Con una duración de poco más de una hora, desvela imágenes inéditas y las charlas del seleccionador a los jugadores - en algunos casos sin saber que estaban siendo grabados- que llevaron al combinado español al éxito.</info>
+<thumbnail>https://i.imgur.com/gp5pi4W.jpg</thumbnail>
+<fanart>https://i.imgur.com/n5c51gh.jpg</fanart>
 </item>
 
 <item>
@@ -2147,6 +2363,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Marvel 616 Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/FESTAKIDS/festakids/main/DPLUS/SERIES/Marvel.616</externallink>
+<info>Serie de TV (2015-2016). 2 temporadas. 18 episodios. En 1946, Peggy Carter debe equilibrar su rutinario trabajo de oficina que hace para la Reserva Científica Estratégico con ayudar secretamente a Howard Stark, que se ha visto involucrado en una trama de suministro de armas letales para el mejor postor.</info>
+<thumbnail>https://i.imgur.com/QDGQyib.jpg</thumbnail>
+<fanart>https://i.imgur.com/M3XK1rU.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Marvel Agente Carter[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/KIDS/SERIES/Agente.Carter.xml</externallink>
@@ -2189,6 +2414,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 <info>Serie de TV (2021). 6 episodios. Narra las aventuras de Hawkeye desde el punto de vista de la sucesora de Clint Barton: Kate Bishop, una de las integrantes del grupo de "jóvenes vengadores".</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/ommKNzt6wmtz3mQS3e3rrDnISOM.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/rXAqfQ2UeoonpBZ73LFsT2H3FME.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Marvel Studios: Reunidos Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/Cristalazul/Cristalazul.io/main/SERIES/Series.Docu/Marvel.estudios.reunidos</externallink>
+<info>Serie documental que explora el proceso creativo detrás de algunas de las series y producciones de Marvel Studios para la plataforma Disney+.</info>
+<thumbnail>https://i.imgur.com/VfdJtew.jpg</thumbnail>
+<fanart>https://i.imgur.com/jyb1keq.jpg</fanart>
 </item>
 
 <item>
@@ -2364,6 +2598,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Nevenka Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Nevenka</externallink>
+<info>Miniserie documental de 3 episodios. 20 años después de los hechos, Nevenka Fernández habla por primera vez de cuando denunció haber sido acosada sexualmente y tuvo que enfrentarse a su agresor y a toda una sociedad machista. Documental que reconstruye la historia de la primera vez que se juzgó en España a un político por acoso sexual.</info>
+<thumbnail>https://i.imgur.com/mMDC0x2.jpg</thumbnail>
+<fanart>https://i.imgur.com/OtUKQsf.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]New Amsterdam[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/New.amsterdam.xml</externallink>
@@ -2445,6 +2688,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]OVNIS Proyectos De Alto Secreto Desclasificados Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/OVNIS</externallink>
+<info>Miniserie (6 episodios) que presenta la información y las pruebas más recientes que exponen los proyectos gubernamentales más secretos que manejaron contactos y encubrimientos de presencia extraterrestre en la Tierra. Aunque las afirmaciones de encuentros extraterrestres han sido desestimadas durante mucho tiempo, muchos creen que la existencia de OVNIS no solo es probable, sino una certeza.</info>
+<thumbnail>https://i.imgur.com/UHh5YCq.jpg</thumbnail>
+<fanart>https://i.imgur.com/ui2C3ph.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Palomares[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Palomares.txt</externallink>
@@ -2460,6 +2712,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 <info>Ambientada en los primeros días del Lejano Oeste de Internet, “Pam y Tommy” se basa en la increíble historia real del video sexual de Pamela Anderson y Tommy Lee. Robado de la casa de la pareja por un contratista descontento, el video pasó de ser una curiosidad clandestina de VHS de contrabando a una verdadera sensación mundial cuando llegó a la Web en 1997. La serie limitada original explora la intersección de la privacidad, la tecnología y la celebridad, rastreando los orígenes de nuestra era actual de televisión de realidad hasta una cinta robada vista por millones pero destinada a tener una audiencia de solo dos.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/ovhQDQ4mcvZ0f7MNIpBuKPqPSrq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/d8O3d9XxlbwBs6oGURmKrzg2eDp.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Pandemia Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/Cristalazul/Cristalazul.io/main/SERIES/Series.Docu/Pandemia</externallink>
+<info>6 episodios. Conoce a los héroes que luchan contra la gripe y aprende qué es lo que hacen para evitar la próxima epidemia.</info>
+<thumbnail>https://i.imgur.com/sA6vJVu.jpg</thumbnail>
+<fanart>https://i.imgur.com/ori6b00.jpg</fanart>
 </item>
 
 <item>
@@ -2535,6 +2796,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Peliculas Malditas Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/Cristalazul/Cristalazul.io/main/SERIES/Series.Docu/Peliculas.malditas</externallink>
+<info>Serie documental de cinco partes que explora los mitos y leyendas detrás de algunas de las producciones de películas de terror notoriamente malditas de Hollywood.</info>
+<thumbnail>https://i.imgur.com/Ht8omX2.jpg</thumbnail>
+<fanart>https://i.imgur.com/YYpoNPg.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Perdida[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Perdida.xml</externallink>
@@ -2550,6 +2820,33 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 <info>Serie de TV (2015-2019). 5 temporadas. 43 episodios. Ross Poldark regresa a Inglaterra después de luchar en la Revolución Americana. Su familia y amigos pensaban que estaba muerto. La mujer con que esperaba casarse está ahora comprometida con su primo. Su padre está muerto, y la propiedad que ha heredado ha empezado a deteriorarse. Son los finales de 1700 en Cornwall, Inglaterra. </info>
 <thumbnail>https://i.imgur.com/R0k20Se.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/1uuFYYFcE63Yh5KAUNnl8xOmO39.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Pongamos Que Hablo De Almodovar Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Pongamos.Almodovar</externallink>
+<info>Miniserie documental en 3 partes sobre el cineasta Pedro Almodóvar, que repasa su carrera y su vida, desde los orígenes en la Movida Madrileña hasta su exitoso trabajo en el cine.</info>
+<thumbnail>https://i.imgur.com/dIF7vgH.jpg</thumbnail>
+<fanart>https://i.imgur.com/qKHIG3L.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Pongamos Que Hablo De Mecano Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Pongamos.mecano</externallink>
+<info>Miniserie documental en 3 partes sobre el grupo musical Mecano, que repasa su trayectoria artística en torno a 3 años claves en la historia del grupo: 1981, el año del nacimiento del grupo; 1992, su retirada cuando estaban en lo más alto y 2005, año de su última aparición juntos con motivo del musical ‘Hoy no me puedo levantar’.</info>
+<thumbnail>https://i.imgur.com/TuI83NS.jpg</thumbnail>
+<fanart>https://i.imgur.com/344V7ew.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Pongamos Que Hablo De Sabina Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Pongamos.sabina</externallink>
+<info>Miniserie documental en 3 partes sobre Joaquín Sabina, que repasa su carrera y su vida tanto encima como fuera de los escenarios, con entrevistas al artista y a gente de su entorno que aporta una mirada personal al autor.</info>
+<thumbnail>https://i.imgur.com/53hZ4sq.jpg</thumbnail>
+<fanart>https://i.imgur.com/RKzj6ZW.jpg</fanart>
 </item>
 
 <item>
@@ -2879,6 +3176,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Simeone Vivir Partido A Partido Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Simeone.vivir</externallink>
+<info>6 episodios. Diego Pablo Simeone ha creado a lo largo de casi tres décadas como jugador y entrenador, una manera única y mundialmente reconocible de entender el fútbol. El “cholismo” es más una filosofía de vida que una estrategia de juego: es un conjunto de valores y herramientas que Simeone ha reunido a lo largo de su carrera a base de observación y mucho trabajo para poder enfrentar las dificultades, aprendiendo de las victorias y, sobre todo, de las derrotas. La docuserie muestra una temporada única (2020/21) al lado de Diego Pablo Simeone y desvela el secreto de un éxito que ha empezado a escribir la historia de su legado.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/fzEBdUc51cZXZIWpXEuyltCvozB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3PfKn80lZ97VB5eC39k3wu0MRmj.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Sin Novedad[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Sin.novedad</externallink>
@@ -2993,6 +3299,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 <info>Serie de TV (2020-Actualidad). 6 episodios. Soulmates está ambientada 15 años en el futuro, cuando la ciencia ha hecho un descubrimiento que cambia la vida de todos en el planeta: una prueba que te dice de manera inequívoca quién es tu alma gemela. Cada uno de los seis episodios contará con un elenco diferente y explorará una historia completamente nueva en torno a descubrir (u optar por no descubrir) los resultados de esta nueva prueba y el impacto de esos resultados en una miríada de relaciones. </info>
 <thumbnail>https://i.imgur.com/BtUthjf.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/7bpQnv93kbYhbhzmJnEjbE8aMof.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Soy Georgina Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Soy.georgina</externallink>
+<info>Esta es Georgina Rodríguez: madre, influencer, empresaria y pareja de Cristiano Ronaldo. Un retrato emotivo y exhaustivo de su vida cotidiana.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/qv3PAKsQinkNrGZU6WlbyCrrQP6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1Jyf7UbD6e7pw9MO0pRewN9LHex.jpg</fanart>
 </item>
 
 <item>
@@ -3149,6 +3464,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]The Goop Lab Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/Cristalazul/Cristalazul.io/main/SERIES/Series.Docu/The.Goop.Lab</externallink>
+<info>Goop, la web de estilo de vida de Gwyneth Paltrow, ayuda a los más curiosos a descubrir temas innovadores sobre salud y bienestar.</info>
+<thumbnail>https://i.imgur.com/U8If4Dg.jpg</thumbnail>
+<fanart>https://i.imgur.com/iPn9nO6.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]The Hot Zone[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.hot.zone</externallink>
@@ -3165,6 +3489,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 <info>Miniserie de TV (2020). 6 episodios. Copenhague, agosto de 2017. La policía recibe la denuncia de desaparición de una periodista sueca llamada Kim Wall. Lo último que se sabe de ella es que subió a bordo de un submarino casero con la intención de entrevistar a su constructor y propietario. Pocas horas después, encuentran el submarino hundido y consiguen rescatar a su capitán, a quien interrogan sobre los hechos. Pero no hay rastro de la periodista ni pruebas concluyentes, y las declaraciones son contradictorias. Jens Møller, jefe de la unidad de homicidios de la policía, se hace cargo del retorcido caso, que no para de complicarse a cada paso. Una investigación que avanza bajo la presión de un fiscal que necesita pruebas para construir un caso sólido, unos padres en busca de respuestas y unos medios de comunicación hambrientos de titulares. </info>
 <thumbnail>https://i.imgur.com/HjDs40J.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/aOR4pBWWFYQnyzoUZtRrhLfgTv8.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]The Last Dance Michael Jordan Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/The.last.dance.michael.jordan</externallink>
+<info>Miniserie de TV (2020). 10 episodios. Docuserie repleta de material inédito de la temporada 1997-98 , que muestra la carrera del legendario baloncestista Michael Jordan, uno de los mayores iconos del deporte de todos los tiempos, y su trayectoria con los Chicago Bulls en los años 90.</info>
+<thumbnail>https://i.imgur.com/YXapE4o.jpg</thumbnail>
+<fanart>https://i.imgur.com/NxKgZxJ.jpg</fanart>
 </item>
 
 <item>
@@ -3482,6 +3815,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 Sexta temporada (SPOILER DE LA 5ª): La temporada 6 de Vikings regresa tras la batalla entre hermanos que ha dejado a Bjorn victorioso y considerado un héroe para las personas que han estado bajo el gobierno tiránico de Ivar durante tanto tiempo. Como nuevo líder de Kattegat, Bjorn lucha por llenar el hueco de su difunto padre como rey, mientras se enfrenta varios dilemas y lucha con la idea de que el poder eclipsa la moral. </info>
 <thumbnail>https://i.imgur.com/CkEAFZh.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/hQ6YamcpaTr2AR3GCDsgO2NevcU.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Vitals Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Vitals</externallink>
+<info>Documental de tres episodios que sigue a pacientes y trabajadores del Hospital Parc Taulí de Sabadell entre marzo y junio de 2020, durante la pandemia del COVID-19.</info>
+<thumbnail>https://i.imgur.com/a2hLqd8.jpg</thumbnail>
+<fanart>https://i.imgur.com/yaDyza5.jpg</fanart>
 </item>
 
 <item>
