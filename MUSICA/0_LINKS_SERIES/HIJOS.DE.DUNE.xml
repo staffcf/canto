@@ -1,0 +1,33 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ HIJOS DE DUNE
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"HIJOS DE DUNE", SerieTemp:"MINI SERIE", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/A8Latvc44NtbhecZTwcjbYxsLcn.jpg",
+	
+-->
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x01 - El Mesías</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Hijos.de.Dune/1x01.-Hijos.de.Dune.-.1080x265.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x02 - Los niños</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Hijos.de.Dune/1x02.-Hijos.de.Dune.-.1080x265.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x03 - La senda dorada</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Hijos.de.Dune/1x03.-Hijos.de.Dune.-.1080x265.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
