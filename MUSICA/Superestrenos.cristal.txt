@@ -29,6 +29,18 @@
 
 
 <item>
+<title>[COLOR white] A traves de mi ventana [/COLOR][COLOR yellow](2022) [COLOR aqua]*8.6[/COLOR]</title> 
+<genre>Romance,Drama</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/o4ra6aYqhwqqcddgzKMbkKjD8GV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rlxYDekulLYDgU6vUIkI0NW5yFR.jpg</fanart>
+<info>Raquel, quien lleva toda la vida loca por Ares, su atractivo y misterioso vecino. Lo observa sin ser vista y es que, muy a su pesar, no han intercambiado ni una palabra. Raquel tiene muy claro su objetivo: conseguir que Ares se enamore de ella. Pero ella no es una niña inocente y no está dispuesta a perderlo todo por el camino, y mucho menos a sí misma...<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/E9god6TR8L4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/q9OK14VQoecYL1"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/o71ep3ojsdz709"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/49w0qyp0nb7b"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/w3180sicyh6z"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/wgx0s3gdofqm"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/ljmijs8wnuma"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1_PZstSpH_JcorI5OsBDBqXuffZC17t99/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Los ojos de Tammy Faye [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.6[/COLOR]</title> 
 <genre>Historia,Drama,Música</genre>
 <year>2021</year>
