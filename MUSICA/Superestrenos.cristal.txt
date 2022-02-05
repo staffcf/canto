@@ -39,6 +39,17 @@
 </item>
 
 
+<item>
+<title>[COLOR white] Flashback [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.0[/COLOR]</title> 
+<genre>Comedia</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/wLJEwWOUmHHBW2HxkP8LEoqvq1L.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/j1KApJ0xeKSBV7FooOAGxfF21FS.jpg</fanart>
+<info>La historia de Charlie, una abogada talentosa, cínica y narcisista que, tras ganar un nuevo juicio, conoce a Hubert, un conductor privado inconformista que se embarcará en una carrera inesperada en los pasillos del tiempo. En este viaje que la llevará desde la prehistoria hasta la Revolución Francesa, se cruzará con quienes lucharon por los derechos de las mujeres y será testigo de hechos históricos que nunca debió haber olvidado. Para salir de este ciclo temporal, deberá comprender su papel como mujer en la sociedad y aprender a ayudar a aquellos cuyas voces no se escuchan ni siquiera hoy.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/MgCbPq5p8EM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/jORbwJaWYmU27B"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/j971pmpxa7oz06v"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/7kxmj030rp3a"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/ujmn5cux8n7c"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/owz5pwdekh53"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/i5ezrjbkz4wi"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1mhNtsZVLXztGPJOhAGpF98NvPSct03dq/view"}</urlsolve>
+</item>
+
+
 
 <item>
 <title>[COLOR white] Los ojos de Tammy Faye [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.6[/COLOR]</title> 
