@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Agentes 355 [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.2[/COLOR]</title> 
+<genre>Acción,Suspense</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/kgU2aIuDdPyKtEi8oZ6yzohpfVF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bszIonbq5lxRJGNQiIpRZLHvI01.jpg</fanart>
+<info>Thriller de espionaje -ideado y producido por Jessica Chastain- sobre cinco mujeres que se unen, superando sus rencillas y conflictos personales, para usar sus respectivos talentos y experiencia con un objetivo: intentar evitar que una poderosa organización adquiera un arma que empuje al tambaleante mundo al caos total. En el camino, estas mujeres se convertirán en camaradas y amigas, formando un nuevo grupo cuyo nombre en clave es "355", nombre que adoptan de la primera mujer espía en la Revolución Americana.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/MclHl3PT2V4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/LyjAq2zvw2uRdPa"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/knkx9461f3r4p94"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/62r6w51uj2gm"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/8mvpfmgjl4an"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/jnl2sc45b40r"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/sk9b1vc21s3z"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1jgIO532Vmy2-UWl1VIYL-9SQqwMJjrah/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Espana, La primera globalizacion [/COLOR][COLOR yellow](2021) [COLOR aqua]*9.3[/COLOR]</title> 
 <genre>Documental,Historia</genre>
 <year>2021</year>
