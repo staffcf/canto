@@ -3440,14 +3440,15 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 
 
 "Tag= MAlu3, 1Ciencia Ficcion, 1Aventuras, 1Fantastico, 1Accion, A2019, Letra S, EEUU, Espacial, Star Wars,Disney, C720, "
- <item>
-<title>[COLOR white]Star Wars. El Ascenso De Skywalker [COLOR blue](2019)[/COLOR]</title>    
-<genre>Ciencia Ficcion, Aventuras, Fantastico, Accion</genre>
-<year>2019</year>  
-<thumbnail>https://i.imgur.com/EMnV848.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
-<info>Un año despues de los eventos de "Los ultimos Jedi", los restos de la Resistencia se enfrentaran una vez mas a la Primera Orden, involucrando conflictos del pasado y del presente. Mientras tanto, el antiguo conflicto entre los Jedi y los Sith llegara a su climax, lo que llevara a la saga de los Skywalker a un final definitivo. Final de la trilogia iniciada con "El despertar de la Fuerza". </info>
-<urlsolve>https://watchsb.com/e/l15c4zg9uzub</urlsolve>
+
+<item>
+<title>[COLOR white]Star Wars Episodio IX:El ascenso de Skywalker [/COLOR][COLOR coral](2019)[/COLOR]</title>    
+<genre>Star Wars,acción,ciencia ficción,aventuras</genre>
+<year>2019</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/5VkWbuQ1YyrWKkYGilmIYheQUh0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dCB7d4l0mfpsISZvr6aPE2z5QF6.jpg</fanart>
+<info>La Resistencia sobreviviente se enfrenta a la Primera Orden una vez más mientras continúa el viaje de Rey, Finn y Poe Dameron. Con el poder y el conocimiento de las generaciones detrás de ellos, comienza la batalla final.</info>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/nsd3s9i5ycx2.html"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD[/COLOR]","url" : "https://streamtape.com/v/QeGa3dMzLkH01gp"},{"titulo" : "[COLOR white]Opcion 3[COLOR red]1080[/COLOR]","url" : "https://www.fembed.com/v/5zxg0td0wqpxn8p"}</urlsolve>
 </item>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
