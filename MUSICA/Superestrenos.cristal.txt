@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Espana, La primera globalizacion [/COLOR][COLOR yellow](2021) [COLOR aqua]*9.3[/COLOR]</title> 
+<genre>Documental,Historia</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/cF5EEHNzLeR9bmVsxCJJnOsgN5i.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mRrVWojeQqnKoBL6Mr8qyX2S3dd.jpg</fanart>
+<info>Una nueva lectura del período histórico iniciado con el reinado de los Reyes Católicos (1479-1516) y el descubrimiento de América (1492), así como un análisis de su innegable influencia en el posterior devenir de la historia de España y del mundo.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Re8_vdJfPZA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/Y1kXJ8QAOxcv7Yx"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/vnderv0mh0vgqp"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/aoqq5u1vveqh"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/t1az9m8tpjcd"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/sktoxzc27tj2"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/nw3yoy5b7f3o"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1skv9hwGgqjLe52o6waIIK1Wkge9EXAP5/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Old Henry [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.4[/COLOR]</title> 
 <genre>Western,Suspense</genre>
 <year>2021</year>
