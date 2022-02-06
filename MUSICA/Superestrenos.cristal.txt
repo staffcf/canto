@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Old Henry [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.4[/COLOR]</title> 
+<genre>Western,Suspense</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/eE1SL0QoDsvAMqQly56IkRtlN1W.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/obqdKxmRk4KqrmLtWLduc0g283e.jpg</fanart>
+<info>Un granjero viudo y su hijo acogen con cautela a un hombre misterioso y herido con una bolsa de dinero en efectivo. Cuando un grupo de hombres que dicen ser la ley viene por el dinero, el agricultor debe decidir en quién confiar. Al defender un asedio a su granja, el granjero revela un talento para el uso de armas que sorprende a todos y cuestionan su verdadera identidad.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/BZc4PVVd-0w"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/ZzdbBb8OyAuqQqR"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/zple0mvetgrrrln"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/g0lhxvcwwemg"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/6qesncy9rakp"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/8ynfef5oisif"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/8d15wnkbrqoz"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1TqjWSKbX-Uy--TcpPgiYIUOumnrlgfNN/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] La casa de las profundidades [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.5[/COLOR]</title> 
 <genre>Terror</genre>
 <year>2021</year>
