@@ -17,6 +17,17 @@
 
 
 <item>
+<title>[COLOR white] El metodo Williams [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.1[/COLOR]</title> 
+<genre>Drama,Historia</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/x00vke4nfZahwSKoSyfJlDwveTi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xGCssorXMKotqqSufnE2m9HIggK.jpg</fanart>
+<info>Biopic sobre Richard Williams, un padre inasequible al desaliento que ayudó a criar a dos de las deportistas más extraordinarias de todos los tiempos, dos atletas que acabarían cambiando para siempre el deporte del tenis. Richard tenía una visión muy clara del futuro de sus hijas y sirviéndose de métodos poco convencionales, elaboró un plan que llevaría a Venus y Serena Williams de las calles de Compton, California, al olimpo de deporte convirtiéndolas en iconos legendarios.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/NHvWx5kp8js"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/AQ8DLJMeYPtX6g8"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/4nlx6o1ecvkp7l"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/z9jhx6fkcm2k"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/6vvcwlj8tuhq"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/5x015r8gex5x"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/8wyta88z9b3b"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1StosiUFWnBqCJASfIl9BXrj94K5t5O8J/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Espana, La primera globalizacion [/COLOR][COLOR yellow](2021) [COLOR aqua]*9.3[/COLOR]</title> 
 <genre>Documental,Historia</genre>
 <year>2021</year>
