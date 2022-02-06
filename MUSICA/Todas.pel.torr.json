@@ -478,6 +478,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"/links"]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Intriga, 1Accion, A2022, Letra A, EEUU, ",
+			"name": "Agentes 355 (2022)","coloryear": "darkorange",
+			"image": "https://www.themoviedb.org/t/p/original/7CfVolLMmv4T885H2ysl158t04e.jpg",
+			"info": "Cuando un arma ultra secreta cae en manos de unos peligrosos mercenarios, la agente especial de la CIA, Mason 'Mace' Brown (Jessica Chastain) debe unir fuerzas con la agente alemana Marie (Diane Kruger), la ex aliada del MI6 y especialista en informática Khadijah (Lupita Nyong'o), y la experta psicóloga colombiana Graciela (Penélope Cruz), en una misión letal y vertiginosa para recuperarla. Mientras, una misteriosa mujer, Lin Mi Sheng (Fan Bingbing), sigue todos sus pasos. Juntas deberán superar sus conflictos personales y utilizar sus talentos y experiencia para salvar el mundo. En el camino, se convertirán en camaradas y amigas, formando un nuevo grupo letal: 355. Nombre que adoptan de la primera mujer espía en la Revolución Americana",
+			"genero": "Thriller, Intriga, Accion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Agentes.355.-.2022.-.1080x265.-.CristalAzul.mkv",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Thriller, A2022, Letra C, Polonia, 1Hechos reales, Netflix, ",
 			"name": "Como me enamore de un ganster (2022)","coloryear": "darkorange",
 			"image": "https://www.themoviedb.org/t/p/original/mOPXksoNwfmiqJCgmik6w0xnVQS.jpg",
@@ -2234,6 +2247,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:F5636E0E63AAFFBBCD829183D1B816E5D32A871D&dn=BRRip",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra E, EEUU, 1Biografico, ",
+			"name": "El metodo Williams (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/tSo03iJbMZRumWPA8o1UBAi9DJP.jpg",
+			"info": "Biopic sobre Richard Williams, un padre inasequible al desaliento que ayudó a formar a dos de las deportistas más extraordinarias de todos los tiempos, dos atletas que acabarían marcando época en el deporte del tenis. Richard tenía una visión muy clara del futuro de sus hijas, y sirviéndose de métodos arriesgados y poco convencionales, elaboró un plan que llevaría a Venus y Serena Williams de las calles de Compton, California, al olimpo del deporte, convirtiéndolas en iconos del tenis",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.metodo.Williams.-.2021.-.1080x265.-.CristalAzul.mkv",
+				"torrent4k": ""	
 				}		
 			]
 			},
