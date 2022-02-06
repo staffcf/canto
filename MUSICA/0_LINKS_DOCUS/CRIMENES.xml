@@ -10,11 +10,17 @@
 	ETIQUETAS:
 	
 	
-	- 1SerieTitle:"EL CRIMEN DE LA GUARDIA URBANA", SerieTemp:"MINI SERIE", SerieID:"ENLACESTEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://i.imgur.com/NoUnar3.jpg",
+	- 1SerieTitle:"EL CRIMEN DE LA GUARDIA URBANA", SerieTemp:"MINI SERIE", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://i.imgur.com/NoUnar3.jpg",
 
 
 	
 -->
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 1080</title>
+			<torrent></torrent>
+			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
@@ -39,4 +45,57 @@
 			<title>1x04 - La versión del jurado</title>
 			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Crimenes/1x04.-Crimenes-E.C.D.L.G.U.-.1080.-.CristalAzul.mkv.torrent</torrent>
 			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 1 y 2</title>
+			<torrent>magnet:?xt=urn:btih:4023296138AF9B8379D0216DAFA72BCC5A1017E4&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 3 y 4</title>
+			<torrent>magnet:?xt=urn:btih:984141E443CD5EAFD13CC05A019CF4D006A3C34E&dn=HD720</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 1 y 2</title>
+			<torrent>magnet:?xt=urn:btih:22AD2023FCDEEEAEA74B07C84A4DC179FBD8BDED&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 3 y 4</title>
+			<torrent>magnet:?xt=urn:btih:1FE32FC6CACB33B5973F64CE06B3AC653F135C5B&dn=HDTV</torrent>
+			</item>
+======================================================================
+======================================================================
 ======================================================================
