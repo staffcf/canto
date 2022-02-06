@@ -4577,6 +4577,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Western, A2021, Letra O, EEUU, ",
+			"name": "Old Henry (2021)","coloryear": "cyan",
+			"image": "https://i.imgur.com/TepKSj6.jpg",	https://www.themoviedb.org/t/p/original/oZ9DtoH8qqOmKQwz6HzdTS49EWc.jpg
+			"info": "Un wéstern de acción sobre un granjero que acoge a un hombre herido con una bolsa de dinero. Cuando una patrulla viene a por el dinero, debe decidir en quién confiar. Al defender un asedio, revela un talento de pistolero que pone en duda su verdadera identidad",
+			"genero": "Western",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Old.Henry.-.2021.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra O, Spain, ",
 			"name": "Operacion Camaron (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/daZdqTxFj3lZjKPbouG9vbqVfkf.jpg",
@@ -7984,7 +7997,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, A2020, Letra E, EEUU, 1Hechos reales, ",
 			"name": "El asesinato de Kenneth Chamberlain (2020)","coloryear": "magenta",
-			"image": "https://www.themoviedb.org/t/p/original/u9fhiXtWwMAHnwOvR6QfCOtmmxe.jpg",
+			"image": "https://www.themoviedb.org/t/p/original/kbPFlxvYaVL6VTJPFsmVP853gUV.jpg",
 			"info": "Basada en la historia real de los sucesos que desencadenaron la muerte de Kenneth Chamberlain Sr., un veterano afroamericano con desorden bipolar que fue asesinado durante un conflicto con unos oficiales de policía que le vigilaban",
 			"genero": "Thriller, Drama",
 			"stations": [
