@@ -20,7 +20,7 @@
 ======================================================================
 ======================================================================
 ======================================================================
-			"Tag= TORRENTTEMP1, TORRENTTEMP2, TORRENTTEMP3, TORRENTTEMP4, TORRENTTEMP5, "
+			"Tag= TORRENTTEMP1, TORRENTTEMP2, TORRENTTEMP3, TORRENTTEMP4, "
 			<item>
 			<title> - [COLOR yellow]CALIDAD 1080</title>
 			<torrent></torrent>
@@ -382,6 +382,57 @@
 ======================================================================
 			"Tag= TORRENTTEMP4, "
 			<item>
+			<title> - [COLOR yellow]CALIDAD 1080</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x01 - La horca</title>      
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Peaky.Blinders/4x01.-Peaky.Blinders.-.1080x265.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x02 - Paganos</title>        
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Peaky.Blinders/4x02.-Peaky.Blinders.-.1080x265.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x03 - Mirlo</title>      
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Peaky.Blinders/4x03.-Peaky.Blinders.-.1080x265.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x04 - Peligrosa</title>     
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Peaky.Blinders/4x04.-Peaky.Blinders.-.1080x265.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x05 - El Duelo</title>        
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Peaky.Blinders/4x05.-Peaky.Blinders.-.1080x265.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x06 - La Compañia</title>     
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Peaky.Blinders/4x06.-Peaky.Blinders.-.1080x265.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title> -</title>      
+			<torrent>magnet:?xt=urn:btih:</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
 			<title> - [COLOR yellow]CALIDAD 720</title>
 			<torrent></torrent>
 			</item>
@@ -477,7 +528,53 @@
 ======================================================================
 			"Tag= TORRENTTEMP5, "
 			<item>
-			<title> - [COLOR yellow]CALIDAD 720</title>      
+			<title> - [COLOR yellow]CALIDAD 1080</title>      
+			<torrent>magnet:?xt=urn:btih:</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x01 - Martes negro</title>     
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Peaky.Blinders/5x01.-Peaky.Blinders.-.1080x265.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x02 - Gatos negros</title>      
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Peaky.Blinders/5x02.-Peaky.Blinders.-.1080x265.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x03 - Estrategias</title>      
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Peaky.Blinders/5x03.-Peaky.Blinders.-.1080x265.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x04 - El bucle</title>     
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Peaky.Blinders/5x04.-Peaky.Blinders.-.1080x265.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x05 - Conmoción</title>    
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Peaky.Blinders/5x05.-Peaky.Blinders.-.1080x265.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title>5x06 - Sr. Jones</title>    
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Peaky.Blinders/5x06.-Peaky.Blinders.-.1080x265.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
+			<title> -</title>      
 			<torrent>magnet:?xt=urn:btih:</torrent>
 			</item>
 ======================================================================
