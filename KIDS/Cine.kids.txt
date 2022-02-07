@@ -3686,7 +3686,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://www.themoviedb.org/t/p/original/amZfOzdfZDA3XMGSZOBzy0neIJj.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/tz1f72pS6nOCl9Ac3WgElU3zFbw.jpg</fanart>
 <info>Count Dooku usa su nuevo y mejorado Clone-a-Matic para crear un ejército de clones Jek, pero el original Jek-14 no quiere participar en este plan siniestro. Ahora, con la ayuda de algunos viejos amigos y dos Droids familiares, el profesor sustituto Anakin Skywalker debe conducir a la clase de los Padawan de Yoda a la victoria.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/vpet40l3m1e8"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD[/COLOR]","url" : "https://streamtape.com/v/bQad9AXlOlhPwbM"},{"titulo" : "[COLOR white]Opcion 3[COLOR red]1080[/COLOR]","url" : "https://streamtape.com/v/yl6xe4DZf3vK"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/vpet40l3m1e8"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD720[/COLOR]","url" : "https://streamtape.com/v/bQad9AXlOlhPwbM"},{"titulo" : "[COLOR white]Opcion 3[COLOR red]1080[/COLOR]","url" : "https://streamtape.com/v/yl6xe4DZf3vK"}</urlsolve>
 </item>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
