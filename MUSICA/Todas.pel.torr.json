@@ -5514,6 +5514,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, 1Ciencia ficcion, A2021, Letra T, Francia, ",
+			"name": "Titane (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/A9hn97x78cIJbJL1EjXsqYjR7k6.jpg",
+			"info": "Un joven con la cara magullada es descubierto en un aeropuerto. Dice llamarse Adrien Legrand, un niño que desapareció hace 10 años. Para su padre, Vincent, esto supone el final de una larga pesadilla y lo lleva a casa. Por otra parte, en la región se han sucedido una serie de horribles asesinatos",
+			"genero": "Thriller, Drama, Ciencia ficcion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Titane.-2021.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2021, Letra T, Spain, ",
 			"name": "Todas las lunas (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/q8iif5xiCIq8uBXxHvhXjH72Bp8.jpg",
@@ -43760,6 +43773,24 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Terror, 1Comedia, A1998, Letra U, EEUU, B2000, A2000-1991, ",
+			"name": "Un hombre lobo americano en Paris (1998)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/49qfumITDLKoqfaovwVKujczpFf.jpg",
+			"info": "Un joven americano, Andy, se encuentra de vacaciones en París, junto a dos amigos, Brad y Chris. Una noche en la que se disponen a hacer jumping en la Torre Eiffel, Andy rescata a una chica, Serafine, que trata de suicidarse. La joven se marcha y él, que queda prendado de ella, trata de localizarla. Serafine oculta un oscuro secreto, un secreto que el americano va descubrir muy pronto....",
+			"genero": "Terror, Comedia",
+			"stations": [
+				{
+				"kodi1": "https://supervideo.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://supervideo.tv/NO_LINK",
+				"kodi3": "https://supervideo.tv/NO_LINK", 
+				"kodi4": "https://supervideo.tv/NO_LINK", 
+				"kodi5": "magnet:?xt=urn:btih:916A5E1429CB97D1DB963CF8D2B8673531577F0F&dn=HD1080",
+				"torrent": "magnet:?xt=urn:btih:09D4AD51396F99696FB9531F90D474B29E201C65&dn=UHDRip",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Intriga, 1Terror, A1997, Letra NUM, Spain, B2000, A2000-1991, ",
 			"name": "99.9 La frecuencia del terror (1997)","coloryear": "tomato",
 			"image": "https://i.imgur.com/fOJlcR5.jpg",
@@ -47003,7 +47034,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{ 
 				"torrent": "magnet:?xt=urn:btih:9a18fa86aedc9feb47f633ed615d4666ef8e72ac",
-				"torrent4k": "magnet:?xt=urn:btih:23fc104c6029516455d9e56439e4149e02d028e6"
+				"torrent4k": "magnet:?xt=urn:btih:05AB9769D6D8522D03CE42D653FC194630027DE1&dn=UHDRip"
 				}		
 			]
 			},
