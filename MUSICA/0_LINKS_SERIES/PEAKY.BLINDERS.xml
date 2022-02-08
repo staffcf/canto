@@ -705,6 +705,12 @@
 ======================================================================
 			"Tag= TORRENTTEMP5, "
 			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>      
+			<torrent>magnet:?xt=urn:btih:</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP5, "
+			<item>
 			<title>5x01 - Capitulo 1 [COLOR red](HDTV)</title>      
 			<torrent>magnet:?xt=urn:btih:1D0BDFD50317B89B64966C72335A698AFB3E1B3F&dn=HDTV</torrent>
 			</item>
