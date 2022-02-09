@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2022, Letra E, Alemania, Netflix, ",	
+			"name": "El privilegio (2022)","coloryear": "darkorange",
+			"image": "https://www.themoviedb.org/t/p/original/4AMLEymHvOgYJYBhKufvfsyPrwU.jpg",
+			"info": "Un adolescente acomodado y sus amigos, alumnos de un instituto de élite, destapan una siniestra conspiración mientras investigan una serie de extraños eventos sobrenaturales",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.privilegio.-.2022.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Accion, 1Comedia, A2021, Letra T, Reino Unido, Sagas Kingsman, ",
 			"name": "The King's Man: La primera mision (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/st9X9hGfMTs8VhwMmeHJOQ7vrUw.jpg",
