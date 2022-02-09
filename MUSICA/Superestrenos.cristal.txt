@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Titane [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.5[/COLOR]</title> 
+<genre>Drama,Suspense,Terror</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/A9hn97x78cIJbJL1EjXsqYjR7k6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zEddiBK6yZNUGVnmBJzmnYcEWiR.jpg</fanart>
+<info>Un joven con la cara magullada es descubierto en un aeropuerto. Dice llamarse Adrien Legrand, un niño que desapareció hace 10 años. Para su padre, Vincent, esto supone el final de una larga pesadilla y lo lleva a casa. Simultáneamente, se suceden una serie de horribles asesinatos en la región.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/iGetrw_4OPs"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/zGPYoWKGg1TYqmP"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/84x8jrn1aqwxwg"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/1xic0q4gjrgy"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/3rr4npwqqi9m"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/5v7vnxiotrvf"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/izm85onide78"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1uRtJWI_PvCyVFu14OtQvDxPou_g5Wwxj/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Agentes 355 [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.2[/COLOR]</title> 
 <genre>Acción,Suspense</genre>
 <year>2021</year>
