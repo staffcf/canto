@@ -2659,6 +2659,20 @@ https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_SERIES/.xml
 "Tag= 1Torrent, "
 
 <item>
+<title>(DES)ENCANTO</title>
+<genre>Animacion, Comedia, Fantastico</genre>
+<year>2018</year>
+<info>"(Des)encanto" narra las desventuras de Bean, una princesa aficionada a la bebida en el mundo medieval en ruinas de Dreamland. Ahí viaja acompañada por Elfo, su enérgico acompañante, y Luci, su demonio personal. En el camino, este trío disfuncional se encontrará con ogros, arpías, trolls, duendecillos, diabillos, morsas y muchos humanos tontos</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/jREoudMNIhrlDUUO3iy3HmVHwmX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aNtpELO5QKUnd6Q5EIFTa9opceA.jpg</fanart>
+<enlaceslink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_SERIES/DES-ENCANTO.xml</enlaceslink>
+<estado></estado>
+</item>
+
+===============================================================================================================================================
+"Tag= 1Torrent, "
+
+<item>
 <title>DESPIERTATE (OPEN YOUR EYES)</title>
 <genre>Drama, Thriller</genre>
 <year>2021</year>
@@ -4016,7 +4030,7 @@ https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_SERIES/.xml
 "Tag= 1Torrent, "
 
 <item>
-<title>EN LOS BOXES</title>   THE CREW
+<title>EN LOS BOXES (THE CREW)</title>
 <genre>Comedia</genre>
 <year>2021</year>
 <info>El jefe del equipo técnico de un taller de NASCAR choca con los jóvenes expertos en tecnología puntera contratados para modernizar el equipo.</info>
