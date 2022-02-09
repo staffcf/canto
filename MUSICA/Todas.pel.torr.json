@@ -5410,6 +5410,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Accion, 1Comedia, A2021, Letra T, Reino Unido, Sagas Kingsman, ",
+			"name": "The King's Man: La primera mision (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/st9X9hGfMTs8VhwMmeHJOQ7vrUw.jpg",
+			"info": "Cuando un grupo formado por los tiranos y las mentes criminales más malvadas de la historia se une para desencadenar una guerra que matará a millones de personas, un hombre tendrá que luchar a contrarreloj para detenerlos. Tercera entrega de la saga 'Kingsman', ambientada muchos años antes de las anteriores y explicando el origen de la agencia.",
+			"genero": "Thriller, Accion, Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/The.kings.man-La.primera.mision.-.2021.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra T, Reino Unido, 1Hechos reales, ",
 			"name": "The Mauritanian (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/A1AstzD18wogGYUgWjXPPvn8GSr.jpg",
@@ -48905,6 +48918,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				}		
 			]
 			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Terror, A1974, Letra E, EEUU, B2000, A1980-1971, 1Culto, ",
+			"name": "El jovencito Frankenstein (1974)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/dIs7qLoqPvO3yxvoB6rUPXjRYn3.jpg",
+			"info": "El joven doctor Frederick Frankenstein, un neurocirujano norteamericano, trata de escapar del estigma legado por su abuelo, quien creó años atrás una horrible criatura. Pero, cuando hereda el castillo de Frankenstein y descubre un extraño manual científico en el que se explica paso a paso cómo devolverle la vida a un cadáver, comienza a crear su propio monstruo",
+			"genero": "Comedia, Terror",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:71E75CDADCA54956F511EF32633DA4F1938917E6&dn=BR1080",	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.Jovencito.Frankenstein.-1974.-.1080x265.-.CristalAzul.mkv.torrent
+				"torrent4k": ""	
+				}		
+			]
+			},,
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A1974, Letra E, EEUU, Mafia, Crimen, Sagas ElPadrino, B2000, A1980-1971, 1Oscars, ",
 			"name": "El Padrino II (1974)","coloryear": "tomato",
