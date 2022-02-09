@@ -6,6 +6,18 @@
 	"url": "",
 	"staions": [
 			{
+			"tag": " 1Torrent, 1Documental, A2022, Letra E, Reino Unido, C720, Netflix, ",
+			"name": "El timador de Tinder (2022)","coloryear": "darkorange",
+			"image": "https://www.themoviedb.org/t/p/original/5hfqk20C5Lz0peAlu9chN6APuh0.jpg",
+			"info": "Un estafador se hacía pasar por magnate y seducía a mujeres en Internet para estafarles millones de dólares. Ahora sus víctimas planean vengarse.",
+			"genero": "Documental",
+			"stations": [
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/El.timador.de.Tinder.-.2022.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 1Torrent, 1Documental, A2022, Letra H, Reino Unido, C720, ",
 			"name": "Harry Potter 20 aniversario: Regreso a Hogwarts (2022)","coloryear": "darkorange",
 			"image": "https://www.themoviedb.org/t/p/original/eEqy4buuj4hJfXvMQiwpl6GJzY9.jpg",
