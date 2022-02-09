@@ -15,6 +15,17 @@
 </item>
 
 
+<item>
+<title>[COLOR white] El privilegio [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.4[/COLOR]</title> 
+<genre>Terror</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/4AMLEymHvOgYJYBhKufvfsyPrwU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tN5Ws9NXR6N3LR2S39rHfCXrFkN.jpg</fanart>
+<info>Un adolescente acomodado y sus amigos, alumnos de un instituto de élite, destapan una siniestra conspiración mientras investigan una serie de extraños eventos sobrenaturales.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/YVPpwFiaKgs"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/j6W48P39rBCzZ6D"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/0vd8oennhkovpwe"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/hz2smqykup92"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/3vm67ysxxxnn"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/cjdm6eieuvro"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/9v8zpq3nwknb"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1nEmfZWxBixizEWjXVxhew6yn-NQ5ja-Q/view"}</urlsolve>
+</item>
+
+
 
 <item>
 <title>[COLOR white] Titane [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.5[/COLOR]</title> 
