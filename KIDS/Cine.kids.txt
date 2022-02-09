@@ -3361,7 +3361,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://i.imgur.com/MLwmmcR.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Scooby Doo y sus amigos deben encontrar el ultimo fantasma del grupo de trece que capturaron hace algunos años.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/xl5vBVeIHg9P/festakids-scooby-doo-y-la-maldicion-del-fantasma-13-2019-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/irdlx7m57urr"}</urlsolve>  
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/xl5vBVeIHg9P/festakids-scooby-doo-y-la-maldicion-del-fantasma-13-2019-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/irdlx7m57urr"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/03qg2il2lxem68q"}</urlsolve>  
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -3411,7 +3411,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://i.imgur.com/6YQJT5R.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Sonic, el descarado erizo azul basado en la famosa serie de videojuegos de Sega, vivira aventuras y desventuras cuando conoce a su amigo humano y policia, Tom Wachowski (James Marsden). Sonic y Tom uniran sus fuerzas para tratar de detener los planes del malvado Dr. Robotnik (Jim Carrey), que intenta atrapar a Sonic con el fin de emplear sus inmensos poderes para dominar el mundo. </info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/PDGY0HIcMjP5/festakids-sonic-la-pelicula-2019-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/wpusz4w32lrn"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/PDGY0HIcMjP5/festakids-sonic-la-pelicula-2019-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/wpusz4w32lrn"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/y6g7ziexe5jj2le"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 <item> 
@@ -3421,7 +3421,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://i.imgur.com/TMVVvVd.jpg</thumbnail> 
 <fanart>https://i.imgur.com/5N4e29A.jpg</fanart> 
 <info>Sigue las aventuras de un corcel mustang salvaje e ingobernable que recorre la indomita frontera norteamericana. Cuando encuentra a un hombre por primera vez, un joven de la tribu de los Lakota llamado Little Creek, Spirit se niega a dejarse domar por el pero si se hace amigo suyo. El valiente corcel tambien encuentra el amor con una hermosa yegua llamada Rain. Spirit se conviertira en uno de los grandes heroes anonimos del Viejo Oeste.</info>
-<urlsolve>https://watchsb.com/e/vw6alysnspeb</urlsolve> 
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/vw6alysnspeb"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/jndqjsdzd71g7w8"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -3434,7 +3434,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://i.imgur.com/9uCMWN3.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>La Agente 00-Cat, Marnie, es una divertida gata domestica, muy querida por su familia, que jamas ha salido de su casa. Aunque es muy curiosa, lo unico que conoce del mundo es lo que ha visto por television y cree que todas las historias que aparecen en la pantalla son reales. Admirando las grandes aventuras que les pasan a los protagonistas de las peliculas, Marnie desea vivir una propia y alejarse de su rutina: dormir, comer, volver a dormir.... Un dia, el hermanastro de su dueña, que quiere deshacerse de Marnie, decide asignarle una importante mision, que la llevara al mundo exterior. Durante el viaje, la caja donde viajaba Marnie, se queda “accidentalmente” abandonada en medio de una carretera desierta. Aunque no conoce el mundo, Marnie se propone cumplir la mision.</info>
-<urlsolve>https://watchsb.com/e/8ria1ujuv5r6</urlsolve> 
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/8ria1ujuv5r6"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/wwx41hn3n58m150"}</urlsolve>
 </item>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
