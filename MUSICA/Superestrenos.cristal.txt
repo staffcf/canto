@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] The Kings Man: La primera mision[/COLOR][COLOR yellow](2021) [COLOR aqua]*6.8[/COLOR]</title> 
+<genre>Acción,Aventura,Suspense,Bélica</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/euaYmyoNEr3SKl5YumLIBnzUL8n.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5OmwmsqQoWxPT5v9Vnqnb0egzLx.jpg</fanart>
+<info>Cuando un grupo formado por los tiranos y las mentes criminales más malvadas de la historia se une para desencadenar una guerra que matará a millones de personas, un hombre tendrá que luchar a contrarreloj para detenerlos. Tercera entrega de la saga 'Kingsman', ambientada muchos años antes de las anteriores y explicando el origen de la agencia.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/3t6uJabIReA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/vPvpPr6Be0IYVM"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/zplrpxmrbqove"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/xhn9on00o5r2"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/f22kwobp97t6"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/h81wamjjbvwi"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/tnfq7nliibgd"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1K39pMbj7_V9krEv1aGlRI4gNc6jbZuFm/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Titane [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.5[/COLOR]</title> 
 <genre>Drama,Suspense,Terror</genre>
 <year>2021</year>
