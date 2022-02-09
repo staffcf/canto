@@ -5423,7 +5423,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Accion, 1Comedia, A2021, Letra T, Reino Unido, Sagas Kingsman, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Thriller, 1Accion, 1Comedia, A2021, Letra T, Reino Unido, Sagas Kingsman, ",
 			"name": "The King's Man: La primera mision (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/st9X9hGfMTs8VhwMmeHJOQ7vrUw.jpg",
 			"info": "Cuando un grupo formado por los tiranos y las mentes criminales más malvadas de la historia se une para desencadenar una guerra que matará a millones de personas, un hombre tendrá que luchar a contrarreloj para detenerlos. Tercera entrega de la saga 'Kingsman', ambientada muchos años antes de las anteriores y explicando el origen de la agencia.",
@@ -5431,7 +5431,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/The.kings.man-La.primera.mision.-.2021.-.1080x265.-.CristalAzul.mkv.torrent",
-				"torrent4k": ""	
+				"torrent4k": "magnet:?xt=urn:btih:960923392B436CE68EE324044155DF21C8FAAEDD&dn=Web4K"	
 				}		
 			]
 			},
