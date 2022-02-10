@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, 1Romance, A2022, Letra A, Polonia, Netflix, ",
+			"name": "Al viento (Into the Wind) (2022)","coloryear": "darkorange",
+			"image": "https://www.themoviedb.org/t/p/original/y2lylZT9Czehopiln1D9hc1Bb84.jpg",
+			"info": "Una joven privilegiada disfruta de las olas, el sol y la pasión mientras vive su primer amor con un desenfadado monitor de kitesurf en un complejo turístico junto al mar.",
+			"genero": "Comedia, Drama, Romance",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Al.viento-Into.the.Wind-.-2022.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Terror, 1Fantastico, A2021, Letra U, Reino Unido, ",
 			"name": "Ultima noche en el Soho (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/wqwvXEq9FTnwlZtNjVfhlOagvo3.jpg",
