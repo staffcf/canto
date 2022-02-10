@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Kimi [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.6[/COLOR]</title> 
+<genre>Ciencia ficción,Suspense</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/okNgwtxIWzGsNlR3GsOS0i0Qgbn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e5yBUFUTNcHFijOpZ2WNfiYkxTQ.jpg</fanart>
+<info>Durante la pandemia de COVID-19 en Seattle, una trabajadora tecnológica agorafóbica descubre evidencia de un crimen violento mientras revisa un flujo de datos, y se encuentra con resistencia y burocracia cuando intenta informarlo a su empresa. Para involucrarse, se da cuenta de que debe enfrentar su mayor miedo y aventurarse a salir de su apartamento y adentrarse en las calles de la ciudad, que están llenas de manifestantes luego de que el ayuntamiento aprobara una ley que restringe los movimientos de la población sin hogar.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/_Gr2zXuEBL0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/qDKXY0JM0yCArJ"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/l6l3degrtokxl7"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/i4egna626duc"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/svcoj1b21wkb"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/anl7a64mltyg"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/a2u1v0ws1ddo"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Cl6GksCKiaeL6qeb0JQTWqiBmFVcnY0s/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Ultima noche en el soho [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.5[/COLOR]</title> 
 <genre>Suspense,Terror,Misterio</genre>
 <year>2021</year>
