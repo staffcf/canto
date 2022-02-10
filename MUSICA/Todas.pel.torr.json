@@ -105,6 +105,8 @@ Title:DANDO LA NOTA, SagaID:DandoLaNota, Imagen:https://www.themoviedb.org/t/p/o
 							-	0Saga, 1SagaTorrent, 
 Title:DEADPOOL, SagaID:Deadpool, Imagen:https://www.themoviedb.org/t/p/original/3E53WEZJqP6aM84D8CckXx4pIHw.jpg,	
 							-	0Saga, 1SagaTorrent, 
+Title:DEATH RACE, SagaID:DeathRace, Imagen:https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gdtiLzRSKXJtS0xkcmTt8aqZ5AC.jpg,	
+							-	0Saga, 1SagaTorrent, 
 Title:DEPREDADOR, SagaID:Depredador, Imagen:https://www.themoviedb.org/t/p/original/vDkSL7WtWjAlTac8gqgff3GpGXQ.jpg,
 							-	0Saga, 1SagaTorrent, 
 Title:DESTINO FINAL, SagaID:DestinoFinal, Imagen:https://www.themoviedb.org/t/p/original/8LQJAuAnDCspYTVYk8ce7ZuZqWp.jpg,	
@@ -564,6 +566,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Jugar.en.casa.-2022.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Thriller, A2022, Letra K, EEUU, ",
+			"name": "Kimi (2022)","coloryear": "darkorange",
+			"image": "https://www.themoviedb.org/t/p/original/hDs7vb6DDEpIRiaCARVm7OPWVJC.jpg",
+			"info": "La historia se centra en una trabajadora de tecnología agorafóbica que descubre evidencia registrada de un violento crimen durante una revisión del flujo de datos. Después de ser golpeada con resistencia y burocracia por el cambio de mando de su compañía, determina combatir sus miedos para involucrarse",
+			"genero": "Drama, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Kimi.-2022.-.1080x265.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""	
 				}		
 			]
@@ -5627,6 +5642,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:5DE82FBE68B7EB980234D4A3A8D95A60E8E96F34&dn=BRRip",  magnet:?xt=urn:btih:832997BB34E79D3535303A4083D1E9AA3386E960&dn=Tw1stHDR.exclusivetorrent.net.avi
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Terror, 1Fantastico, A2021, Letra U, Reino Unido, ",
+			"name": "Ultima noche en el Soho (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/wqwvXEq9FTnwlZtNjVfhlOagvo3.jpg",
+			"info": "Thriller psicológico sobre una joven apasionada por la moda que, misteriosamente, es capaz de trasladarse a los años 60 y conocer a su ídolo, una deslumbrante aspirante a cantante. Pero el Londres de la época no es lo que parece y el tiempo parece desmoronarse con oscuras consecuencias...",
+			"genero": "Thriller, Terror, Fantastico",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Ultima.noche.en.el.Soho.-2021.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -30486,6 +30514,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Comedia, 1Ciencia ficcion, A2017, Letra D, EEUU, Sagas DeathRace, ",
+			"name": "Death Race 2050 (2017)","coloryear": "green",
+			"image": "https://www.themoviedb.org/t/p/original/lEieVCgbVCs3ww6AAvbyLrqoMiz.jpg",
+			"info": "Para el año 2050 el planeta se ha convertido en uno demasiado poblado, para ayudar al control de población, el gobierno desarrolla una carrera. La carrera de la muerte. Anualmente compiten a través del país acumulando puntos y matando gente con sus vehículos",
+			"genero": "Accion, Comedia, Ciencia ficcion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Death.Race.2050.-2017.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Infantil, 1Comedia, A2017, Letra D, Spain, Cine familiar, ",
 			"name": "Deep (2017)","coloryear": "green",
 			"image": "https://www.ecartelera.com/carteles/12900/12967/004_p.jpg",
@@ -35800,15 +35841,15 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Accion, 1Ciencia ficcion, A2013, Letra D, EEUU, Sagas DeathRace, ",
-			"name": "Death Race 3. La carrera de la muerte: inferno (2013)","coloryear": "lawngreen",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Accion, 1Ciencia ficcion, A2013, Letra L, EEUU, Sagas DeathRace, ",
+			"name": "La carrera de la muerte: inferno (Death Race 3) (2013)","coloryear": "lawngreen",
 			"image": "https://www.themoviedb.org/t/p/original/p7NEoMmv6fcMk4Hea3S7eIgssjH.jpg",
-			"info": "Condenado por asesinar policias, Carl Lucas -tambien conocido como Frankenstein- es el nuevo piloto estrella de Death Race, una carrera mortal en la que se juega salir libre de prision junto a su equipo de mecanicos. Por ello, Lucas se sumerge en un nuevo concurso mas cruel que cualquier cosa que haya experimentado antes. Se enfrentara con los adversarios mas despiadados en una carrera en el desierto de Kalahari, en el sur de Africa",
+			"info": "Condenado por asesinar policías, Carl Lucas -también conocido como Frankenstein- es el nuevo piloto estrella de Death Race, una carrera mortal en la que se juega salir libre de prisión junto a su equipo de mecánicos. Por ello, Lucas se sumerge en un nuevo concurso más cruel que cualquier cosa que haya experimentado antes. Se enfrentará con los adversarios más despiadados en una carrera en el desierto de Kalahari, en el sur de África",
 			"genero": "Accion, Ciencia ficcion",
 			"stations": [
-				{ 
-				"torrent": "magnet:?xt=urn:btih:12FCC395E6CE0838518742F08CBFEA1381F49604&dn=BR1080",  magnet:?xt=urn:btih:871DC4AED8F1F4A0C95B717F593312188B4057D2&dn=DVDRip
-				"torrent4k": "magnet:?xt=urn:btih:726DE74A66A8BD47895977E372610DA4A61B5072"
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/La.carrera.de.la.muerte-inferno-Death.Race.3-.-2013.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:12FCC395E6CE0838518742F08CBFEA1381F49604&dn=BR1080	magnet:?xt=urn:btih:871DC4AED8F1F4A0C95B717F593312188B4057D2&dn=DVDRip
+				"torrent4k": "magnet:?xt=urn:btih:726DE74A66A8BD47895977E372610DA4A61B5072"	
 				}		
 			]
 			},
@@ -37618,15 +37659,15 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Accion, 1Thriller, A2010, Letra L, Sudafrica, Sagas DeathRace, ",
-			"name": "Death Race 2. La carrera de la muerte: el origen (2010)","coloryear": "springgreen",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Accion, 1Thriller, A2010, Letra L, EEUU, Sagas DeathRace, ",
+			"name": "La carrera de la muerte: el origen (Death Race 2) (2010)","coloryear": "springgreen",
 			"image": "https://www.themoviedb.org/t/p/original/uKBrGJENTZHc0yuCIf1ZWMo6wiZ.jpg",
-			"info": "Death Race 2 tiene lugar en un futuro muy proximo, cuando la economia de Estados Unidos comienza a declinar y la delincuencia violenta inicia una espiral fuera de control. Para contener a la poblacion penal, se crea una serie de carceles privadas, gobernadas por bandas, asesinos a sangre fria y sociopatas. La peor de estas carceles es Terminal Island, donde condenado por el asesinato de unos policias llega Carl Lucas, el que sera el autentico protagonista del ultimo reality show de la Carrera de la Muerte. El ganador, si es que alguien logra sobrevivir, tiene como premio la libertad",
+			"info": "Death Race 2 tiene lugar en un futuro muy próximo, cuando la economía de Estados Unidos comienza a declinar y la delincuencia violenta inicia una espiral fuera de control. Para contener a la población penal, se crea una serie de cárceles privadas, gobernadas por bandas, asesinos a sangre fría y sociópatas. La peor de estas cárceles es Terminal Island, donde condenado por el asesinato de unos policías llega Carl Lucas, el que será el auténtico protagonista del último reality show de la Carrera de la Muerte. El ganador, si es que alguien logra sobrevivir, tiene como premio la libertad",
 			"genero": "Ciencia ficcion, Accion, Thriller",
 			"stations": [
-				{ 
-				"torrent": "magnet:?xt=urn:btih:BB564630FB200A767ED23D09F4159FF694356FB8&dn=DVDRip",
-				"torrent4k": "magnet:?xt=urn:btih:92EFC7E280EE3CFA0A0AC03C038DC935C6C8BB6A"
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/La.carrera.de.la.muerte-el.origen-Death.Race.2-.-2010.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:BB564630FB200A767ED23D09F4159FF694356FB8&dn=DVDRip
+				"torrent4k": "magnet:?xt=urn:btih:92EFC7E280EE3CFA0A0AC03C038DC935C6C8BB6A"	
 				}		
 			]
 			},
@@ -38672,13 +38713,13 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Accion, 1Aventuras, 1Ciencia ficcion, 1Thriller, A2008, Letra D, EEUU, Sagas DeathRace, ",
 			"name": "Death Race: La carrera de la muerte (2008)","coloryear": "greenyellow",
-			"image": "https://www.themoviedb.org/t/p/original/5KiWhOMNiKIq2mwmpnMCWvraupJ.jpg",
-			"info": "En un futuro proximo. Una penitenciaria atestada de presos inspiro a los carceleros para crear un pasatiempo tan cruel como lucrativo. Presos capaces de todo, un publico global hambriento de violencia televisada y un ruedo espectacular se unen en DEATH RACE. El tricampeon de velocidad Jensen Ames (Jason Statham) es todo un experto a la hora de sobrevivir en el desertico paisaje en el que se ha convertido el pais. Cree haber cambiado de vida, pero el ex convicto es acusado de un terrible crimen que no ha cometido. La directora de Terminal Island (Joan Allen) le obliga a ponerse la mascara de Frankenstein, un favorito del publico al que parece imposible matar, y le da dos opciones: competir o pudrirse en una celda. Con el rostro escondido detras de la mascara metalica, el preso debera sobrevivir a los tres dias mas terribles de su vida, enfrentandose a los peores criminales procedentes de las carceles mas duras del pais si quiere salir libre. Al volante de un monstruoso coche armado con ametralladoras, lanzallamas y lanzagranadas, este hombre desesperado sera capaz de destruir todo lo que se interponga en su camino para ganar el juego de masas mas retorcido de la Tierra",
+			"image": "https://www.themoviedb.org/t/p/original/1Cr1T2RA3CGKg10somwhks9HdVN.jpg",
+			"info": "En un futuro próximo. Una penitenciaría atestada de presos inspiró a los carceleros para crear un pasatiempo tan cruel como lucrativo. Presos capaces de todo, un público global hambriento de violencia televisada y un ruedo espectacular se unen en DEATH RACE. El tricampeón de velocidad Jensen Ames (Jason Statham) es todo un experto a la hora de sobrevivir en el desértico paisaje en el que se ha convertido el país. Cree haber cambiado de vida, pero el ex convicto es acusado de un terrible crimen que no ha cometido. La directora de Terminal Island (Joan Allen) le obliga a ponerse la máscara de Frankenstein, un favorito del público al que parece imposible matar, y le da dos opciones: competir o pudrirse en una celda. Con el rostro escondido detrás de la máscara metálica, el preso deberá sobrevivir a los tres días más terribles de su vida, enfrentándose a los peores criminales procedentes de las cárceles más duras del país si quiere salir libre. Al volante de un monstruoso coche armado con ametralladoras, lanzallamas y lanzagranadas, este hombre desesperado será capaz de destruir todo lo que se interponga en su camino para ganar el juego de masas más retorcido de la Tierra.",
 			"genero": "Accion, Aventuras, Ciencia ficcion, Thriller",
 			"stations": [
-				{ 
-				"torrent": "magnet:?xt=urn:btih:1605F6F3748518A49A182AB32619CCB2AAD3FF7A&dn=DVDRip",
-				"torrent4k": "magnet:?xt=urn:btih:365F5A65759C19074EA3511AA6F853B45D20754D"
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Death.Race-La.carrera.de.la.muerte.-2008.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:1605F6F3748518A49A182AB32619CCB2AAD3FF7A&dn=DVDRip
+				"torrent4k": "magnet:?xt=urn:btih:365F5A65759C19074EA3511AA6F853B45D20754D"	
 				}		
 			]
 			},
