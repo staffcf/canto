@@ -11,7 +11,7 @@
 	
 	- 1SerieTitle:"WELLINGTON PARANORMAL", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/uBMYDVbiFY7nm0YVg3N5FYzkjvX.jpg",
 	- 1SerieTitle:"WELLINGTON PARANORMAL", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/sDrsjMsydpsFkKjQ4XCu7tOaVQa.jpg",
-	- 0SerieTitle:"WELLINGTON PARANORMAL", SerieTemp:"TEMPORADA 3", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/Ao0QsQVt59dqHXv92rOyRWnBfGo.jpg",
+	- 1SerieTitle:"WELLINGTON PARANORMAL", SerieTemp:"TEMPORADA 3", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/Ao0QsQVt59dqHXv92rOyRWnBfGo.jpg",
 	
 -->
 ======================================================================
@@ -141,7 +141,6 @@
 ======================================================================
 ======================================================================
 ======================================================================
-
 			"Tag= TORRENTTEMP3, "
 			<item>
 			<title> - [COLOR yellow]CALIDAD 720</title>
@@ -151,19 +150,19 @@
 			"Tag= TORRENTTEMP3, "
 			<item>
 			<title>3x0. - Capitulos 1 y 2</title>
-			<torrent></torrent>
+			<torrent>magnet:?xt=urn:btih:AB49D7A7004E8FA84A2D5370172F8DC28860A7F2&dn=HD720</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP3, "
 			<item>
 			<title>3x0. - Capitulos 3 y 4</title>
-			<torrent></torrent>
+			<torrent>magnet:?xt=urn:btih:7F7BF596427E2B0B1F57E4FCF3F2C320F8F090A9&dn=HD720</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP3, "
 			<item>
 			<title>3x0. - Capitulos 5 y 6</title>
-			<torrent></torrent>
+			<torrent>magnet:?xt=urn:btih:1054C9D3EE4814FD1CCE627028FFFEF471E625AB&dn=HD720</torrent>
 			</item>
 ======================================================================
 ======================================================================
@@ -182,19 +181,19 @@
 			"Tag= TORRENTTEMP3, "
 			<item>
 			<title>3x0. - Capitulos 1 y 2</title>
-			<torrent></torrent>
+			<torrent>magnet:?xt=urn:btih:5FF044B6C30DA32B414E6313467B32F1B4343A0A&dn=HDTV</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP3, "
 			<item>
 			<title>3x0. - Capitulos 3 y 4</title>
-			<torrent></torrent>
+			<torrent>magnet:?xt=urn:btih:BF763ADC172ACC70A93FC29BCBBE726E6571A139&dn=HDTV</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP3, "
 			<item>
 			<title>3x0. - Capitulos 5 y 6</title>
-			<torrent></torrent>
+			<torrent>magnet:?xt=urn:btih:761AD178F7A6292505F134462F185F6E1C5E9F8A&dn=HDTV</torrent>
 			</item>
 ======================================================================
 ======================================================================
