@@ -48867,6 +48867,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Ciencia ficcion, A1975, Letra L, EEUU, Sagas DeathRace, B2000, A1980-1971, ",
+			"name": "La carrera de la muerte del año 2000 (1975)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/6DxmJfvgxDdhTWDlvyy1uvYn7MJ.jpg",
+			"info": "En las Provincias Unidas de America sus habitantes, cansados ya de tantas guerras y de la gran depresión económica que sufren, celebran todos los años una popular y brutal carrera automovilística trascontinental considerada por muchos, como un deporte nacional donde todos los participantes obtienen una puntuación al ir atropellando a las personas, y ganando aquel que obtenga una mayor puntuación quien más personas haya atropellado.Uno de sus participantes, el legendario campeón Frankenstein, se enfrenta en esta ocasión contra Joe "Ametralladora" Biterbo, peligroso rival dispuesto a todo con tal de ganar.Al margen de esta confrontación, Frankenstein tiene otro objetivo muy diferente que el simple hecho de obtener una nueva victoria en esta peligrosa competición.",
+			"genero": "Accion, Ciencia ficcion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/La.carrera.de.la.muerte.del.anho.2000.-1975.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Intriga, A1975, Letra L, EEUU, B2000, A1980-1971, ",
 			"name": "Los tres dias del condor (1975)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/yY8jRlCXgxBkG2FZjpp1DIFr0TW.jpg",
@@ -48939,7 +48952,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Comedia, Terror",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:71E75CDADCA54956F511EF32633DA4F1938917E6&dn=BR1080",	https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.Jovencito.Frankenstein.-1974.-.1080x265.-.CristalAzul.mkv.torrent
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.Jovencito.Frankenstein.-1974.-.1080x265.-.CristalAzul.mkv.torrent",		magnet:?xt=urn:btih:71E75CDADCA54956F511EF32633DA4F1938917E6&dn=BR1080
 				"torrent4k": ""	
 				}		
 			]
