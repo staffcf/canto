@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Ultima noche en el soho [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.5[/COLOR]</title> 
+<genre>Suspense,Terror,Misterio</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/4eSJJsBZ00qMyoWLe98ulNGvGbC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eTUFS0aj81tdtz464wgGXDt7lm2.jpg</fanart>
+<info>Thriller psicológico sobre una joven apasionada por la moda que misteriosamente puede entrar en la década de 1960, donde se encuentra con su ídolo, un atractivo aspirante a cantante. Pero el Londres de los sesenta no es lo que parece, y el tiempo comenzará a desmoronarse con sombrías consecuencias.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/CB2AOk1qJj4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/XBJOBrxpV7UDpRv"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/knk396posglq8l"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/3ebs7hpw9sii"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/taryrhjjfqbj"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/mb2xbcfvcsid"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/in3bz9kgj0vm"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1ZnLehHD_-2U_M0xWhpUGzLZmo5qRENDp/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] The Kings Man: La primera mision[/COLOR][COLOR yellow](2021) [COLOR aqua]*6.8[/COLOR]</title> 
 <genre>Acción,Aventura,Suspense,Bélica</genre>
 <year>2021</year>
