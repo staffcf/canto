@@ -3021,6 +3021,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Quien es Anna[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Quien.es.anna</externallink>
+<info>Una periodista investiga el caso de Anna Delvey, la legendaria heredera y estrella de Instagram que le robó el corazón y el dinero a la élite social de Nueva York.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/jzCnl9wACp0eUMa3IG5e0aSJIXD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fiKQKFsjahOr8qj7QsUUHO9E70t.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]¿Quien Mato A Sara?[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Quien.mato.a.Sara.txt</externallink>
@@ -3943,6 +3952,15 @@ Ruawai Maaka consiguen deshacerse del demonio y así nace la Unidad Paranormal d
 <info>Serie de TV (2016-Actualidad). Westworld es un parque de atracciones futurista y controlado por alta tecnología dirigido por el Dr. Robert Ford (Anthony Hopkins). Las instalaciones cuentan con androides cuya apariencia física es humana, y gracias a ellos los visitantes pueden dar rienda suelta a sus instintos y vivir cualquier tipo de aventura o fantasía, por muy oscura o peligrosa que sea, sabiendo que los robots no les harán daño. </info>
 <thumbnail>https://i.imgur.com/IVoXcEA.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/6BMoX4mZsIw0x4RoKTuHg939HrV.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Whit Love[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Whit.Love</externallink>
+<info>Sigue las historias de los hermanos Díaz, Lily y Jorge, quienes tienen la misión de encontrar el amor y un propósito en su vida. Mientras lo hacen, se encontrarán con residentes aparentemente sin parentesco durante algunos de los días más intensos del año: las vacaciones</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/qVPwlroqBpcMD0pj3OncMZtsNlB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eYBn1gWyHKnZusL40Vu9Po5jPKb.jpg</fanart>
 </item>
 
 <item>
