@@ -727,6 +727,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Des Encanto[/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Des.encanto</externallink>
+<info>El deber llama a Bean, pero ella solo piensa en beber. La rebelde princesa enfurece al rey y siembra el caos con sus amigos, un demonio y un elfo.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/jREoudMNIhrlDUUO3iy3HmVHwmX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/quI4WZt8iSDAzIoZad24C4MBfh4.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Desde Otro Lugar[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Desde.otro.lugar</externallink>
@@ -2694,6 +2703,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 <info>Miniserie (6 episodios) que presenta la información y las pruebas más recientes que exponen los proyectos gubernamentales más secretos que manejaron contactos y encubrimientos de presencia extraterrestre en la Tierra. Aunque las afirmaciones de encuentros extraterrestres han sido desestimadas durante mucho tiempo, muchos creen que la existencia de OVNIS no solo es probable, sino una certeza.</info>
 <thumbnail>https://i.imgur.com/UHh5YCq.jpg</thumbnail>
 <fanart>https://i.imgur.com/ui2C3ph.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Ozark[/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Des.encanto</externallink>
+<info>El deber llama a Bean, pero ella solo piensa en beber. La rebelde princesa enfurece al rey y siembra el caos con sus amigos, un demonio y un elfo.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/jREoudMNIhrlDUUO3iy3HmVHwmX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/quI4WZt8iSDAzIoZad24C4MBfh4.jpg</fanart>
 </item>
 
 <item>
