@@ -2708,10 +2708,10 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 <item>
 <title>[COLOR gold]* [COLOR white]Ozark[/COLOR]</title>     
 <link>cristalazul</link>
-<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Des.encanto</externallink>
-<info>El deber llama a Bean, pero ella solo piensa en beber. La rebelde princesa enfurece al rey y siembra el caos con sus amigos, un demonio y un elfo.</info>
-<thumbnail>https://www.themoviedb.org/t/p/original/jREoudMNIhrlDUUO3iy3HmVHwmX.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/quI4WZt8iSDAzIoZad24C4MBfh4.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Ozark</externallink>
+<info>Un asesor financiero arrastra a su familia de Chicago hasta Misuri con la misión de lavar 500 millones de dólares en cinco años para apaciguar a un capo de la droga.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/niUR6Ob6O61E5Cbik3Qg8jy0NV4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mGfbs8fGWoesxPsMQioVtNB7V2l.jpg</fanart>
 </item>
 
 <item>
@@ -3524,6 +3524,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 <info>Serie de TV (2016). 10 episodios. Una serie de misterio creada por el autor Harlan Coben. Jesse, un niño de cinco años de edad despaarece, 20 años más tarde, su ADN aparece en la escena de un crimen. </info>
 <thumbnail>https://i.imgur.com/nngd1F9.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/aI4i2n4yUA2jiYIVO6MH3rynLnd.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]The Gifted:Los Elegidos[/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.gifted</externallink>
+<info>En un mundo en el que los humanos con mutaciones son tratados con miedo y falta de confianza, un instituto de mutantes nace para combatir esta situación y lograr la coexistencia pacífica con la humanidad.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/nshCqszjTNuqhrB53vrSqWO18sE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kCLrziwqtSEwpivhMplNRwcGc33.jpg</fanart>
 </item>
 
 <item>
