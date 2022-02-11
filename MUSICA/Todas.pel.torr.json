@@ -59,6 +59,8 @@ Title:28, SagaID:28dias, Imagen:https://i.imgur.com/k1THtZd.jpg,
 							-	0Saga, 1SagaTorrent, 
 Title:A 47 METROS, SagaID:A47m, Imagen:https://www.themoviedb.org/t/p/original/9XupsXE6vFjR8qvy6WaR46ScrIw.jpg,
 							-	0Saga, 1SagaTorrent, 
+Title:A MI ALTURA, SagaID:TallGirl, Imagen:https://www.themoviedb.org/t/p/original/5fxqAfPmtwHu3Bfln56SetLCCy3.jpg,	
+							-	0Saga, 1SagaTorrent, 
 Title:ABIERTO HASTA EL AMANECER, SagaID:AHEAmanecer, Imagen:https://m.media-amazon.com/images/I/81KyXdyQODL._SY500_.jpg,	
 							-	0Saga, 1SagaTorrent, 
 Title:AFTER, SagaID:After, Imagen:https://www.themoviedb.org/t/p/original/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg,	
@@ -469,6 +471,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Drama, A2022, Letra A, EEUU, Netflix, Sagas TallGirl, ",
+			"name": "A mi altura 2 (Tall Girl 2) (2022)","coloryear": "darkorange",
+			"image": "https://i.imgur.com/LpTHR4T.jpg",
+			"info": "Después de que Jodi Kreyman ganara popularidad, sus problemas de comunicación comienzan a causar rupturas con quienes la rodean y ahora realmente necesita 'mantenerse firme'.",
+			"genero": "Comedia, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/A.mi.altura.2-Tall.Girl.2-.-2022.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Comedia, A2022, Letra A, Spain, Netflix, ",
 			"name": "A traves de mi ventana (2022)","coloryear": "darkorange",
 			"image": "https://www.themoviedb.org/t/p/original/o4ra6aYqhwqqcddgzKMbkKjD8GV.jpg",
@@ -506,6 +521,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Ciencia ficcion, A2022, Letra B, Francia, Netflix, ",
+			"name": "BigBug (2022)","coloryear": "darkorange",
+			"image": "https://i.imgur.com/CLhJGMS.jpg",
+			"info": "Un grupo de habitantes de las afueras de una ciudad se quedan atrapados cuando una rebelión de robots provoca que su robot les encierre en su propia casa por su propio bien",
+			"genero": "Comedia, Ciencia ficcion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/BigBug.-2022.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Thriller, A2022, Letra C, Polonia, 1Hechos reales, Netflix, ",
 			"name": "Como me enamore de un ganster (2022)","coloryear": "darkorange",
 			"image": "https://www.themoviedb.org/t/p/original/mOPXksoNwfmiqJCgmik6w0xnVQS.jpg",
@@ -514,6 +542,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Como.me.enamore.de.un.ganster.-2022.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Drama, A2022, Letra E, EEUU, ",
+			"name": "El cielo esta en cualquier lugar (2022)","coloryear": "darkorange",
+			"image": "https://www.themoviedb.org/t/p/original/4MxAZp6PybpwzwS5hzqyhlV9ORP.jpg",
+			"info": "Escondida entre las mágicas secuoyas del norte de California y rodeada de las gigantescas rosas de su abuela, Lennie Walker, de 17 años y todo un prodigio musical, lucha con un dolor aplastante tras la repentina muerte de su hermana mayor, Bailey. Cuando Joe Fontaine, el carismático chico nuevo del instituto, entra en la vida de Lennie, ella se siente atraída por él. Pero su complicada relación con el devastado novio de su hermana, Toby, afectará a su incipiente amor con Joe. Con una vívida imaginación y un corazón honesto y confundido, Lennie tendrá que navegar por el primer amor y la primera pérdida para escribir su propia canción.",
+			"genero": "Romance, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.cielo.esta.en.cualquier.lugar.-2022.-.1080x265.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""	
 				}		
 			]
@@ -631,6 +672,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Mi.gran.amiga.Ana.Frank.-2022.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2022, Letra Q, EEUU, Amazon, ",
+			"name": "Quiero que vuelvas (2022)","coloryear": "darkorange",
+			"image": "https://www.themoviedb.org/t/p/original/hKUJ3RFRe1nCXOQlsHMrg7ln5eO.jpg",
+			"info": "Peter y Emma, de treinta y tantos años, se unen para sabotear las nuevas relaciones de sus ex y recuperarlos para siempre",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Quiero.que.vuelvas.-2022.-.1080x265.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""	
 				}		
 			]
@@ -14360,6 +14414,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"torrent": "magnet:?xt=urn:btih:826E45007C28D2EE60521A792361C9FF8F69B3D4",
 				"torrent4k": ""
 				}			
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1genero, A2019, Letra A, Pais, Sagas TallGirl, ",
+			"name": "A mi altura (Tall Girl) (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/bPj9ItNt7UJjL87tziCsBZ2rJYY.jpg",
+			"info": "Jodi lleva años acomplejada por su estatura (1,91 m). Siendo con mucho la chica más alta del instituto, nunca se ha sentido a gusto con su cuerpo. Después de años andando encorvada, aguantando burlas e intentando pasar desapercibida, por fin decide que ya es hora de superar sus inseguridades y se enreda en un trío amoroso en el instituto",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/A.mi.altura-Tall.Girl-.-2019.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
 			]
 			},
 			{
