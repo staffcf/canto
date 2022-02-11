@@ -15,7 +15,7 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <thumbnail>https://i.imgur.com/h29zqZK.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Pongo y Perdita, los dalmatas protagonistas, son una feliz pareja canina que vive rodeada de sus cachorros y con sus amos Roger y Anita. Pero su felicidad esta amenazada. Cruella de Ville, una perfida mujer que vive en una gran mansion y adora los abrigos de pieles, se entera de que los protagonistas tienen quince cachorros dalmatas. Entonces, la idea de secuestrarlos para hacerse un exclusivo abrigo de pieles se convierte en una obsesion enfermiza. Para hacer realidad su sueño contrata a dos ladrones.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://sendvid.com/vt9tcicj"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]1080[/COLOR]","url" : "https://www.fembed.com/v/2dlg6t26kw8kzyz"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://sendvid.com/vt9tcicj"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/2dlg6t26kw8kzyz"}</urlsolve>
 </item>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Infantil, A2003, Letra 1, EEUU, Secuela. Perros, Disney, Dalmatas, C720, "
@@ -163,7 +163,7 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, 1Familiar, Fox, Letra A, A2007, 1Ardillas, "
 <item>
-<title>[COLOR white]Alvin Y Las Ardillas [COLOR blue](2007)[/COLOR]</title> 
+<title>[COLOR white]Alvin Y Las Ardillas [COLOR coral](2007)[/COLOR]</title> 
 <genre>Animacion, Aventuras, Comedia, Fantastico</genre>
 <year>2007</year>
 <thumbnail>https://i.imgur.com/bWAiRWa.jpg</thumbnail>
@@ -174,7 +174,7 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, 1Familiar, Fox, Letra A, A2007, 1Ardillas, "
 <item>
-<title>[COLOR white]Alvin Y Las Ardillas 2 [COLOR blue](2009)[/COLOR]</title> 
+<title>[COLOR white]Alvin Y Las Ardillas 2 [COLOR coral](2009)[/COLOR]</title> 
 <genre>Animacion, Aventuras, Comedia, Fantastico</genre>
 <year>2009</year>
 <thumbnail>https://i.imgur.com/JEXJBac.jpg</thumbnail>
@@ -185,7 +185,7 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, 1Familiar, Fox, Letra A, A2011, 1Ardillas, "
 <item>
-<title>[COLOR white]Alvin Y Las Ardillas 3 [COLOR blue](2011)[/COLOR]</title> 
+<title>[COLOR white]Alvin Y Las Ardillas 3 [COLOR coral](2011)[/COLOR]</title> 
 <genre>Animacion, Aventuras, Comedia, Fantastico</genre>
 <year>2011</year>
 <thumbnail>https://i.imgur.com/KY7sptE.jpg</thumbnail>
@@ -196,7 +196,7 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, 1Familiar, Fox, Letra A, A2015, 1Ardillas, "
 <item>
-<title>[COLOR white]Alvin Y Las Ardillas 4: Fiesta Sobre Ruedas [COLOR blue](2015)[/COLOR]</title> 
+<title>[COLOR white]Alvin Y Las Ardillas 4: Fiesta Sobre Ruedas [COLOR coral](2015)[/COLOR]</title> 
 <genre>Animacion, Aventuras, Comedia, Fantastico</genre>
 <year>2015</year>
 <thumbnail>https://3.bp.blogspot.com/-qj2SPW-PpB4/WhmL9esNiNI/AAAAAAAAB5Q/8Il79iN3oEgLxGSXCj2htaIjVFzvER1kACLcBGAs/s1600/Alvin_y_las_ardillas_Fiesta_sobre_ruedas-643775590-large.jpg</thumbnail>
@@ -447,7 +447,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Accion, 1Fantastico, A2019, Letra B, EEUU, Superheroes, Comics, Warner Bros, C720, "
 
 <item>
-<title>[COLOR white]Batman Vs. Las Tortugas Ninja [COLOR blue](2019)[/COLOR]</title>    
+<title>[COLOR white]Batman Vs. Las Tortugas Ninja [COLOR coral](2019)[/COLOR]</title>    
 <genre>Animacion, Accion, Fantastico</genre>
 <year>2019</year>  
 <thumbnail>https://i.imgur.com/kI6HFDV.jpg</thumbnail>
@@ -561,7 +561,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/r6UNbzr.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Merida, la indomita hija del Rey Fergus y de la Reina Elinor, es una habil arquera que decide romper con una antigua costumbre, que es sagrada para los señores de la tierra: el gigantesco Lord MacGuffin, el malhumorado Lord Macintosh y el cascarrabias Lord Dingwall. Las acciones de Merida desencadenan el caos y la furia en el reino. Ademas, pide ayuda a una sabia anciana que le concede un deseo muy desafortunado. La muchacha tendra que afrontar grandes peligros antes de aprender que es la autentica valentia.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://sendvid.com/id7hrojg"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/mzz5s2nq6vsa"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://www.fembed.com/v/nd1ejt24q72qpyl"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://sendvid.com/id7hrojg"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://watchsb.com/e/mzz5s2nq6vsa"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/nd1ejt24q72qpyl"}</urlsolve>
 </item>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, A2016, Letra B, EEUU, Pixar, "
@@ -675,7 +675,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/Tj5bWgw.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>En esta aventura, todas las hadas competirán en una carrera difícil y tradicional a través de las cuatro estaciones. Pero cuando Campanilla nesesite ayuda, Clank y Bobble entrarán en la carrera.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/fiNVuHM5Y8Qu/campanilla-los-juegos-de-la-hondonada-de-las-hadascampanilla-hadas-y-piratas-2014-1080-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/b9e1e0gjg1nk"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/fiNVuHM5Y8Qu/campanilla-los-juegos-de-la-hondonada-de-las-hadascampanilla-hadas-y-piratas-2014-1080-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/b9e1e0gjg1nk"}</urlsolve>
 </item>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Comedia, 1Drama, A2018, Letra C, EEUU, Movistar+ "
@@ -893,7 +893,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/YO1GdhP.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Ambientada en el mitico mundo de los rudos vikingos y los dragones salvajes, y basada en el libro infantil de Cressida Cowell, esta comedia de accion narra la historia de Hipo, un vikingo adolescente que no encaja exactamente en la antiquisima reputacion de su tribu como cazadores de dragones. El mundo de Hipo se trastoca al encontrar a un dragon que le desafia a el y a sus compañeros vikingos, a ver el mundo desde un punto de vista totalmente diferente. </info>
-<urlsolve>{"titulo" : "[COLOR white]720p[/COLOR]","url" : "https://sendvid.com/bzog2dh1"},{"titulo" : "[COLOR red]1080p[/COLOR]","url" : "https://watchsb.com/e/ri25eabmul2j"},{"titulo" : "[COLOR gold]4k[/COLOR]","url" : "https://streamlare.com/v/7GWaolEOvQpDdPVQ"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]720p[/COLOR]","url" : "https://sendvid.com/bzog2dh1"},{"titulo" : "[COLOR red]HD 1080[/COLOR]","url" : "https://watchsb.com/e/ri25eabmul2j"},{"titulo" : "[COLOR gold]4k[/COLOR]","url" : "https://streamlare.com/v/7GWaolEOvQpDdPVQ"}</urlsolve>
 </item>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Infantil, Dreamworks, A2014"
@@ -917,7 +917,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/fwuCJxw.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Lo que comenzo como la inesperada amistad entre un joven vikingo y un temible dragon Furia Nocturna se ha convertido en una epica trilogia que ha recorrido sus vidas. En esta nueva entrega, Hipo y Desdentao descubriran finalmente su verdadero destino: para uno, gobernar Isla Mema junto a Astrid; para el otro, ser el lider de su especie. Pero, por el camino, deberan poner a prueba los lazos que los unen, plantando cara a la mayor amenaza que jamas hayan afrontado... y a la aparicion de una Furia Nocturna hembra.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/O7ETKpQ9mpws/festakids-como-entrenar-a-tu-dragon-3-2019-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/j2u0ijrkrngg"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/O7ETKpQ9mpws/festakids-como-entrenar-a-tu-dragon-3-2019-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/j2u0ijrkrngg"}</urlsolve>
 </item>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Infantil, 1Animacion, 1Comwdia,Letra C, A2019, Belgica,  "
@@ -941,7 +941,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://1.bp.blogspot.com/-W0JDnEO0p0Q/WibTTF4_dZI/AAAAAAAAC1A/LVka6GpLrcA7PnKfiNdKYpfw3nCWPyfOgCLcBGAs/s1600/Del_reves_Inside_Out-770027206-large.jpg</thumbnail>
 <fanart>https://1.bp.blogspot.com/-iuSdwi4nkJA/WibTS07fICI/AAAAAAAAC08/WtTnqMd56MoVH13xaVbVSmC4yJkS1zeVgCLcBGAs/s1600/Del_reves_Inside_Out-284556114-large.jpg</fanart>
 <info>Riley es una chica que disfruta o padece toda clase de sentimientos. Aunque su vida ha estado marcada por la Alegria, tambien se ve afectada por otro tipo de emociones. Lo que Riley no entiende muy bien es por que motivo tiene que existir la Tristeza en su vida. Una serie de acontecimientos hacen que Alegria y Tristeza se mezclen en una peligrosa aventura que dara un vuelco al mundo de Riley.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/w8u7UHFK7AsD/festakids-del-reves-inside-out-2015-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/c5gdy4b06b7w"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/w8u7UHFK7AsD/festakids-del-reves-inside-out-2015-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/c5gdy4b06b7w"}</urlsolve>
 </item>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Ciencia Ficcion, 1Comedia, 1Infantil, A2007, Letra D, EEUU, Adopcion, Disney, C1080, "
@@ -993,7 +993,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Aventuras, 1Fantastic,o 1Infantil, Japon, Doraemon, "
 <item>
-<title>[COLOR white]Doraemon En Busca Del Escarabajo Dorado [COLOR blue](2012)[/COLOR]</title> 
+<title>[COLOR white]Doraemon En Busca Del Escarabajo Dorado [COLOR coral](2012)[/COLOR]</title> 
 <genre>Animacion</genre>
 <year>2012</year>  
 <thumbnail>https://i.imgur.com/M20rRUd.jpg</thumbnail>
@@ -1026,7 +1026,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Aventuras, 1Fantastic,o 1Infantil, A2014, Japon, Doraemon, "
 <item>
-<title>[COLOR white]Doraemon: Stand by Me Doraemon [COLOR blue](2014)[/COLOR]</title> 
+<title>[COLOR white]Doraemon: Stand by Me Doraemon [COLOR coral](2014)[/COLOR]</title> 
 <genre>Animacion,Comedia,Aventuras,Fantastico,Infantil</genre>
 <year>2014</year>  
 <thumbnail>https://i.imgur.com/dDDSk9y.jpg</thumbnail>
@@ -1056,7 +1056,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/9ZMCH8u.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Luca sigue los pasos de su padre para rescatar a su madre del malvado obispo Ladja. Su unica esperanza es dar con el heroe celestial que esgrime la Espada de los Cielos. Pelicula de animacion 3D basada en videojuego de Square Enix "Dragon Quest V: Hand of the Heavenly Bride"</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/mxE2254zX9B3/festakids-dragon-quest-your-story-2020-720-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/hmccvceng6xj"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/mxE2254zX9B3/festakids-dragon-quest-your-story-2020-720-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/hmccvceng6xj"}</urlsolve>
 </item>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, Disney, A1941, "
@@ -1096,7 +1096,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, A2017, DreamWorks, "
 <item>
-<title>[COLOR white]El Bebe Jefazo [COLOR blue](2017)[/COLOR]</title>    
+<title>[COLOR white]El Bebe Jefazo [COLOR coral](2017)[/COLOR]</title>    
 <genre>Animacion</genre>
 <year>2017</year>  
 <thumbnail>https://i.imgur.com/4ODCsIZ.jpg</thumbnail>
@@ -1113,7 +1113,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/ZGmeqx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Conocemos a Sam, una princesa nacida en segundo lugar. No es la tipica princesa y no encaja en ese mundo. Cuando su madre, la reina, la envia a clases de verano en un internado, Sam averigua que es una tapadera: ella y los demas alumnos descubren que tienen superpoderes y que estan ahi para entrenar y entrar a formar parte del club secreto de los no herederos al trono. ¿Seran capaces de aprender a usar sus poderes para salvar sus reinos?</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/Fb08Url9dyWz/festakids-el-club-secreto-de-los-no-herederos-al-trono-2020-1080-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/sofr607y8l5o"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/Fb08Url9dyWz/festakids-el-club-secreto-de-los-no-herederos-al-trono-2020-1080-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/sofr607y8l5o"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Drama, A2020, Letra E, EEUU, Racismo, " 
@@ -1154,7 +1154,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 "Tag= Malu3, Disney,1Animacion, 1Infantil,Disney, "
 <item>
-<title>[COLOR white]El emperador y sus locuras 2 [COLOR blue](2005)[/COLOR]</title>    
+<title>[COLOR white]El emperador y sus locuras 2 [COLOR coral](2005)[/COLOR]</title>    
 <genre>Animacion,Infantil</genre>
 <year>2005</year>  
 <thumbnail>https://i.imgur.com/zIsb77l.jpg</thumbnail>
@@ -1167,7 +1167,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, 1Musical, 1Fantastico, A2018, Letra E, Canada, Dragones, Cuentos, C720, "
 
 <item>
-<title>[COLOR white]El Dragon De Hielo. La Leyenda De Las Margaritas [COLOR blue](2018)[/COLOR]</title>    
+<title>[COLOR white]El Dragon De Hielo. La Leyenda De Las Margaritas [COLOR coral](2018)[/COLOR]</title>    
 <genre>Animacion, Infantil, Musical, Fantastico</genre>
 <year>2018</year>  
 <thumbnail>https://i.imgur.com/Xj7eVi1.jpg</thumbnail>
@@ -1181,7 +1181,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Comedia,1Infantil, A2017, Letra G, Navidad, EEUU, Universal Pictures, "
 
 <item>
-<title>[COLOR white]El Gato [COLOR blue](2003)[/COLOR]</title>   
+<title>[COLOR white]El Gato [COLOR coral](2003)[/COLOR]</title>   
 <genre>Animacion,Comedia,Infantil</genre>
 <year>2003</year>
 <thumbnail>https://i.imgur.com/0EF6HUs.jpg</thumbnail>
@@ -1194,7 +1194,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, 1Western, A2011, Letra E, EEUU, DreamWorks, "
 
 <item>
-<title>[COLOR white]El Gato con botas [COLOR blue](2011)[/COLOR]</title>   
+<title>[COLOR white]El Gato con botas [COLOR coral](2011)[/COLOR]</title>   
 <genre>Animacion,Aventuras,Comedia,Western</genre>
 <year>2011</year>
 <thumbnail>https://i.imgur.com/Y54v60J.jpg</thumbnail>
@@ -1305,7 +1305,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/n9Z9JRT.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Un gorila llamado Ivan trata de unir las piezas que conforman el puzle de su pasado con la ayuda de Stella, un elefante con el que urde un plan para huir de la cautividad.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/8GaPOmO4UnwW/festakids-el-magnifico-ivan-2020-720-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/vm1r5w3clnug"}</urlsolve> 
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/8GaPOmO4UnwW/festakids-el-magnifico-ivan-2020-720-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/vm1r5w3clnug"}</urlsolve> 
 </item>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Familiar, Valores "
@@ -1344,7 +1344,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Drama, A2017, Letra E, Irlanda, "
 <item>
-<title>[COLOR white]El Pan De La Guerra [COLOR blue](2017)[/COLOR]</title>
+<title>[COLOR white]El Pan De La Guerra [COLOR coral](2017)[/COLOR]</title>
 <genre>Animacion, Drama</genre>
 <year>2017</year>
 <thumbnail>https://4.bp.blogspot.com/--ev2uZ-nYE8/WxwdjxZCn5I/AAAAAAAAHlQ/94JBu3C08DoGPjWRe_iKGbodhqJ88k-VwCLcBGAs/s1600/El_pan_de_la_guerra-717386349-large.jpg</thumbnail>
@@ -1373,12 +1373,12 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/5P64iHW.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Rudolph es un chico de trece años que ademas es vampiro. La vida del joven se complica en el momento en el que un prestigioso cazavampiros comienza a perseguirles a el y al resto de su clan.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/ka8E3zepMwy6/festakids-el-pequeno-vampiro-2017-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/bpnbji8c8hrk"}</urlsolve> 
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/ka8E3zepMwy6/festakids-el-pequeno-vampiro-2017-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/bpnbji8c8hrk"}</urlsolve> 
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, Disney, A2002, "
 <item>
-<title>[COLOR white]El Planeta del tesoro [COLOR blue](2002)[/COLOR]</title>    
+<title>[COLOR white]El Planeta del tesoro [COLOR coral](2002)[/COLOR]</title>    
 <genre>Animacion</genre>
 <year>2002</year>  
 <thumbnail>https://i.imgur.com/2bM8ALy.jpg</thumbnail>
@@ -1411,7 +1411,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, Disney, A1994 "
 <item>
-<title>[COLOR white]El Rey Leon [COLOR blue](1994)[/COLOR]</title>    
+<title>[COLOR white]El Rey Leon [COLOR coral](1994)[/COLOR]</title>    
 <genre>Animacion</genre>
 <year>1994</year>  
 <thumbnail>https://i.imgur.com/KQtZWDD.jpg</thumbnail>
@@ -1435,7 +1435,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 "Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Romance, 1Musical, 1Infantil, A1998, Letra E, EEUU, Secuela, Africa, Animales, Disney, C720, "
 <item>
-<title>[COLOR white]El Rey Leon 2. El Tesoro De Simba [COLOR blue](1998)[/COLOR]</title>    
+<title>[COLOR white]El Rey Leon 2. El Tesoro De Simba [COLOR coral](1998)[/COLOR]</title>    
 <genre>Animacion, Comedia, Romance, Musical, Infantil</genre>
 <year>1998</year>  
 <thumbnail>https://i.imgur.com/rDu1ZTZ.jpg</thumbnail>
@@ -1448,7 +1448,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Musical, 1Comedia, A2014, Letra E, EEUU, Marionetas, Familiar, Secuela, Disney, C720, "
 
 <item>
-<title>[COLOR white]El Tour De Los Muppets [COLOR blue](2014)[/COLOR]</title>    
+<title>[COLOR white]El Tour De Los Muppets [COLOR coral](2014)[/COLOR]</title>    
 <genre>Musical, Comedia</genre>
 <year>2014</year>  
 <thumbnail>https://i.imgur.com/SbQGgTl.jpg</thumbnail>
@@ -1467,7 +1467,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://3.bp.blogspot.com/-XFL6pqUnVEM/WjgTPB2vNeI/AAAAAAAADF4/BIg00grBV9EsM72bVMAHznlCbu5BOQBCwCLcBGAs/s1600/El_viaje_de_Arlo-932927779-large.jpg</thumbnail>
 <fanart>https://4.bp.blogspot.com/-AEqGtZzn2cc/WjgTPImfQCI/AAAAAAAADF0/ffIhONK2siU1-MJZiaHXkhn2eajM8vdVQCLcBGAs/s1600/El_viaje_de_Arlo-637657978-large.jpg</fanart>
 <info>¿Que hubiera pasado si el asteroide que cambio para siempre la vida en la Tierra hubiera esquivado el planeta y los dinosaurios no se hubieran extinguido nunca? Un viaje al mundo de los dinosaurios donde un Apatosaurus llamado Arlo se hace amigo de un humano, aunque resulte asombroso. Mientras viaja por un paisaje desolado y misterioso, Arlo aprende a enfrentarse a sus temores y descubre de lo que es capaz.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/NNNphSS4L6u0/festakids-viaje-de-arlo-2015-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/boyit46dfhs6"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/NNNphSS4L6u0/festakids-viaje-de-arlo-2015-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/boyit46dfhs6"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1479,7 +1479,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/Rjptx0d.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Pelicula inspirada en una de las aventuras mas emocionantes de la historia, un viaje a lo desconocido que comenzo en 1519 en Sevilla y concluyo tres años despues en el mismo sitio, completando asi una aventura alrededor de un planeta cuya redondez quedo demostrada por primera vez. En 1519 cinco naves partieron desde Sevilla con 240 hombres a bordo. Solo una consiguio volver con 18 marineros al borde de la muerte. Los protagonistas de aquella expedicion financiada por el Reino de Castilla fueron el portugues Fernando de Magallanes, comandante de la expedicion, y el vasco Juan Sebastian Elcano, el hombre que consiguio concluir la mision.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/9UiUmDvyr9HH/festakids-elcano-y-magallanes-la-primera-vuelta-al-mundo-2019-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/m2u94kztttvb"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/9UiUmDvyr9HH/festakids-elcano-y-magallanes-la-primera-vuelta-al-mundo-2019-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/m2u94kztttvb"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1508,7 +1508,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Infantil, 1Animacion, A2012, Letra E, Francia, Cuentos, Amistad, Roedores, Osos, Familiar, Mediometraje, Secuela, C720, "
 <item>
-<title>[COLOR white]Ernest Y Celestine. Cuentos De Invierno [COLOR blue](2012)[/COLOR]</title>   
+<title>[COLOR white]Ernest Y Celestine. Cuentos De Invierno [COLOR coral](2012)[/COLOR]</title>   
 <genre>Infantil, Animacion</genre>
 <year>2012</year>  
 <thumbnail>https://i.imgur.com/487xTlG.jpg</thumbnail>
@@ -1527,7 +1527,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/PDgORpl.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>El superespia Lance Sterling y el cientifico Walter Beckett son casi polos opuestos. Lance es tranquilo, afable y caballeroso. Walter no. Pero lo que le falta a Walter de habilidades sociales lo compensa con ingenio e inventiva, con los que crea increibles artilugios que Lance usa en sus epicas misiones. Pero cuando los eventos dan un giro inesperado, Walter y Lance de repente tienen que confiar el uno en el otro de una manera completamente nueva. Y si esta extraña pareja no puede aprender a trabajar en equipo, todo el mundo estara en peligro. Adaptacion al largometraje del corto de animacion homonimo, dirigido y escrito por Lucas Martell en 2009.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/RV5RpXXl9Xu0/festakids-espias-con-disfraz-2019-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/3ibgn11bst23"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/RV5RpXXl9Xu0/festakids-espias-con-disfraz-2019-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/3ibgn11bst23"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------
@@ -1556,7 +1556,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Infantil, A2017, Letra F, EEUU, Animales, Toros, "
 
 <item>
-<title>[COLOR white]Ferdinand [COLOR blue](2017)[/COLOR]</title>
+<title>[COLOR white]Ferdinand [COLOR coral](2017)[/COLOR]</title>
 <genre>Animacion, Comedia, Infantil</genre>
 <year>2017</year>
 <thumbnail>https://3.bp.blogspot.com/-VG-ViNy26OY/WqmfoqL1tQI/AAAAAAAAG1o/BZcFCVzTRWcikvz15gmShv2670tAkfAZgCLcBGAs/s1600/Ferdinand-301462952-large.jpg</thumbnail>
@@ -1578,7 +1578,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Fantastico, 1Musical, 1Aventuras, 1Comedia, 1Infantil, Disney, LetraF, A2013, Princesas,  "
 <item>
-<title>[COLOR white]Frozen:el reino de hielo [COLOR blue](2013)[/COLOR]</title>   
+<title>[COLOR white]Frozen:el reino de hielo [COLOR coral](2013)[/COLOR]</title>   
 <genre>Animacion,Fantastico,Musical,Aventuras,Comedia,Infantil</genre>
 <year>2013</year>  
 <thumbnail>https://i.imgur.com/uXnsYCU.jpg</thumbnail>
@@ -1622,7 +1622,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, Disney, LetraF, A2017, Princesas, "
 <item>
-<title>[COLOR white]Frozen: Una aventura de Olaf [COLOR blue](2017)[/COLOR]</title>   
+<title>[COLOR white]Frozen: Una aventura de Olaf [COLOR coral](2017)[/COLOR]</title>   
 <genre>Animacion. Fantastico. Comedia</genre>
 <year>2017</year>  
 <thumbnail>https://i.imgur.com/LtUqleM.jpg</thumbnail>
@@ -1644,7 +1644,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, 1Musical, 1Infantil, A1995, Letra G, EEUU, Familia, Road Movie, Adolescencia, Perros, Disney, C720, "
 <item>
-<title>[COLOR white]Goofy E Hijo [COLOR blue](1995)[/COLOR]</title>    
+<title>[COLOR white]Goofy E Hijo [COLOR coral](1995)[/COLOR]</title>    
 <genre>Animacion, Aventuras, Comedia, Musical, Infantil</genre>
 <year>1995</year>  
 <thumbnail>https://i.imgur.com/vXvW6kF.jpg</thumbnail>
@@ -1688,7 +1688,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Ficcion, 1Accion, 1Aventuras, 1Comedia, Marvel, "
 <item>
-<title>[COLOR white]Guardianes de la galaxia [COLOR blue](2014)[/COLOR]</title> 
+<title>[COLOR white]Guardianes de la galaxia [COLOR coral](2014)[/COLOR]</title> 
 <genre>Ficcion,Accion,Aventuras,Comedia</genre>
 <year>2014</year>
 <thumbnail>https://i.imgur.com/yYjlBSF.jpg</thumbnail>
@@ -1700,7 +1700,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 "Tag= Malu3, Disney, 1Ficcion, 1Aventuras, 1Accion, 1Comedia, Marvel, Disney, "
 <item>
-<title>[COLOR white]Guardianes de la galaxia vol.2 [COLOR blue](2017)[/COLOR]</title> 
+<title>[COLOR white]Guardianes de la galaxia vol.2 [COLOR coral](2017)[/COLOR]</title> 
 <genre>Ficcion,Aventuras,Accion,Comedia</genre>
 <year>2017</year>
 <thumbnail>https://i.imgur.com/wuPSAb0.jpg</thumbnail>
@@ -1723,7 +1723,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Fantastico, 1Infantil, A2003, Letra H, EEUU, Osos, Disney, C720, "
 
 <item>
-<title>[COLOR white]Hermano Oso [COLOR blue](2003)[/COLOR]</title>    
+<title>[COLOR white]Hermano Oso [COLOR coral](2003)[/COLOR]</title>    
 <genre>Animacion, Aventuras, Fantastico, Infantil</genre>
 <year>2003</year>  
 <thumbnail>https://i.imgur.com/i0QC1TQ.jpg</thumbnail>
@@ -1737,7 +1737,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Infantil, A2006, Letra H, EEUU, Osos, Disney, C720, "
 
 <item>
-<title>[COLOR white]Hermano Oso 2 [COLOR blue](2006)[/COLOR]</title>    
+<title>[COLOR white]Hermano Oso 2 [COLOR coral](2006)[/COLOR]</title>    
 <genre>Animacion, Aventuras,Infantil</genre>
 <year>2006</year>  
 <thumbnail>https://i.imgur.com/lIjskMK.jpg</thumbnail>
@@ -1754,7 +1754,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://2.bp.blogspot.com/-1zhdk3seTlk/WlYWEzVlirI/AAAAAAAAEBk/BEaQuWgL9cQgdAxHP_Dc7hX0Fjn96cpMgCLcBGAs/s1600/home242395.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Cuando el alienigena mas irritantemente optimista de la galaxia se encuentra huyendo de su propia raza, se vera forzado a formar equipo con una chica adolescente muy testaruda. Estos extraños fugitivos acabaran salvando el planeta. Adaptacion del popular libro "The True Meaning of Smekday", de Adam Rex. Voces originales: Jim Parsons, Rihanna, Jennifer Lopez y Steve Martin.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/u0J3T8Vk3af2/festakids-home-hogar-dulce-hogar-2015-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/rvcwzsleq3oj"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/u0J3T8Vk3af2/festakids-home-hogar-dulce-hogar-2015-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/rvcwzsleq3oj"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1798,7 +1798,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Fantastico, 1Comedia, 1Aventuras, A2018, Letra I, EEUU, Perros, "
 
 <item>
-<title>[COLOR white]Isla De Perros [COLOR blue](2018)[/COLOR]</title>
+<title>[COLOR white]Isla De Perros [COLOR coral](2018)[/COLOR]</title>
 <genre>Animacion</genre>
 <year>2018</year>  
 <thumbnail>https://i.imgur.com/Cnsmu38.jpg</thumbnail>
@@ -1823,7 +1823,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Infantil, A2015, Letra J, EEUU, Simios, Familiar, "
 
 <item>
-<title>[COLOR white]Jorge El Curioso 3: Vuelta A La Jungla [COLOR blue](2015)[/COLOR]</title> 
+<title>[COLOR white]Jorge El Curioso 3: Vuelta A La Jungla [COLOR coral](2015)[/COLOR]</title> 
 <genre>Animacion, Aventuras, Infantil</genre>
 <year>2015</year>
 <thumbnail>https://1.bp.blogspot.com/-9s-XS9lg31k/WlelhbbJMWI/AAAAAAAAEF4/1VFqxAvNIWIGRdhFeUE1sPSffxGFTvlzgCLcBGAs/s1600/jorge2576585.jpg</thumbnail>
@@ -1834,7 +1834,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney,1Drama, 1Deporte, 1Karate,Columbia Pictures, A1984 "
 <item>
-<title>[COLOR white]Karate kid [COLOR blue](1984)[/COLOR]</title>    
+<title>[COLOR white]Karate kid [COLOR coral](1984)[/COLOR]</title>    
 <genre>Drama, Deporte, Karate</genre>
 <year>1984</year>  
 <thumbnail>https://i.imgur.com/tp2oB2C.jpg</thumbnail>
@@ -1849,7 +1849,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney,1Drama, 1Deporte, 1Karate,Columbia Pictures, A1986 "
 
 <item>
-<title>[COLOR white]Karate kid II [COLOR blue](1986)[/COLOR]</title>    
+<title>[COLOR white]Karate kid II [COLOR coral](1986)[/COLOR]</title>    
 <genre>Drama, Deporte, Karate</genre>
 <year>1986</year>  
 <thumbnail>https://i.imgur.com/1lrfjtM.jpg</thumbnail>
@@ -1862,7 +1862,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney ,1Drama, 1Deporte, 1Karate,Columbia Pictures, A1989 "
 
 <item>
-<title>[COLOR white]Karate kid III [COLOR blue](1989)[/COLOR]</title>    
+<title>[COLOR white]Karate kid III [COLOR coral](1989)[/COLOR]</title>    
 <genre>Drama, Deporte, Karate</genre>
 <year>1986</year>  
 <thumbnail>https://i.imgur.com/VwmCldA.jpg</thumbnail>
@@ -1877,7 +1877,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, A2017, Letra K, Rusia, Secuela, C720, "
 
 <item>
-<title>[COLOR white]Kikoriki. La Leyenda Del Dragon Dorado [COLOR blue](2017)[/COLOR]</title>      
+<title>[COLOR white]Kikoriki. La Leyenda Del Dragon Dorado [COLOR coral](2017)[/COLOR]</title>      
 <genre>Animacion, Aventuras, Comedia</genre>
 <year>2017</year>  
 <thumbnail>https://i.imgur.com/byDBrj0.jpg</thumbnail>
@@ -1895,13 +1895,13 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/Tu38NPc.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Kim Possible (Sadie Stanley) es una chica normal y corriente que se dedica a salvar al mundo en su tiempo libre. Con la ayuda de su mejor amigo, Ron Stoppable (Sean Giambrone), pelea contra villanos y hace frente a un sinfin de amenazas. Se preve que la pelicula se estrene en 2019. </info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/Q0C5JCB3ovSr/festakids-kim-possible-2019-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/qm7rzuez1s8a"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/Q0C5JCB3ovSr/festakids-kim-possible-2019-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/qm7rzuez1s8a"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 "Tag= Malu3, Disney, 1Animacion, 1Fantastico, 1Comedia, 1Drama, A2019, Letra K, Spain, Navidad, Netflix, C720, "
 <item>
-<title>[COLOR white]Klaus  [COLOR blue](2019)[/COLOR]</title>    
+<title>[COLOR white]Klaus  [COLOR coral](2019)[/COLOR]</title>    
 <genre>Animacion,Fantastico,Comedia,Drama</genre>
 <year>2019</year>  
 <thumbnail>https://i.imgur.com/G6EIGdG.jpg</thumbnail>
@@ -1913,7 +1913,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, 1Fantastico, A2020, Letra L, EEUU, Pixar, Disney, C720, "
 
 <item>
-<title>[COLOR white]Lamp Life [COLOR blue](2020)[/COLOR]</title>    
+<title>[COLOR white]Lamp Life [COLOR coral](2020)[/COLOR]</title>    
 <genre>Animacion, Aventuras, Comedia, Fantastico</genre>
 <year>2020</year>  
 <thumbnail>https://i.imgur.com/FrP599U.jpg</thumbnail>
@@ -1944,7 +1944,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/RzKwbQX.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Hodja es un niño de Pjort, que toma prestada una alfombra voladora para ver el mundo. A cambio, tiene que encontrar y devolver el "diamante" a su abuelo.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/aGiOIBWut2Lc/festakids-la-alfombra-magica-2019-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/vds6qxx4zomw"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/aGiOIBWut2Lc/festakids-la-alfombra-magica-2019-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/vds6qxx4zomw"}</urlsolve>
 </item>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, Disney, Princesas, "
@@ -1960,7 +1960,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 ---------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, Disney, Princesas,  "
 <item>
-<title>[COLOR white]La Bella y la Bestia [COLOR blue](1991)[/COLOR]</title>    
+<title>[COLOR white]La Bella y la Bestia [COLOR coral](1991)[/COLOR]</title>    
 <genre>Animacion</genre>
 <year>1991</year>  
 <thumbnail>https://i.imgur.com/eKglx5I.jpg</thumbnail>
@@ -1978,12 +1978,12 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/XHT8GyM.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>La excentrica Eglantine Price (Angela Lansbury) es una bruja aficionada que tiene que hacerse cargo, muy a su pesar, de tres niños londinenses que han sido evacuados al pequeño pueblo costero donde ella vive. Juntos lucharan contra el invasor aleman, empleando para ello un truco magistral de Eglantine. CS.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/piWaYHVTippq/festakids-la-bruja-novata-1971-1080-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/bdk5d7p0h0de"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/piWaYHVTippq/festakids-la-bruja-novata-1971-1080-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/bdk5d7p0h0de"}</urlsolve>
 </item>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, Disney,  "
 <item>
-<title>[COLOR white]La Dama y el Vagabundo [COLOR blue](1955)[/COLOR]</title>    
+<title>[COLOR white]La Dama y el Vagabundo [COLOR coral](1955)[/COLOR]</title>    
 <genre>Animacion</genre>
 <year>1955</year>  
 <thumbnail>https://i.imgur.com/GCy8IlI.jpg</thumbnail>
@@ -2021,7 +2021,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Fantastico, 1Musical, 1Infantil, A1998, Letra L, EEUU, Medieval, Dragones, Warner Bros, C720, "
 
 <item>
-<title>[COLOR white]La Espada Magica. En Busca De Camelot [COLOR blue](1998)[/COLOR]</title>    
+<title>[COLOR white]La Espada Magica. En Busca De Camelot [COLOR coral](1998)[/COLOR]</title>    
 <genre>Animacion, Aventuras, Fantastico, Musical, Infantil</genre>
 <year>1998</year>  
 <thumbnail>https://i.imgur.com/7ArFAVi.jpg</thumbnail>
@@ -2039,7 +2039,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/33VLxUM.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Gomez y Morticia preparan la visita de su numerosa familia para celebrar la ''Mazurka con sable'' en honor a Pugsley, un rito de iniciacion para convertirse en un hombre digno de la familia Addams. Pero, mientras estan inmersos en los preparativos, los Addams ignoran que su vecina, el fenomeno televisivo Margaux Needler, planea construir una comunidad prefabricada y perecta justo debajo de la suya. Y cuando por fin se levanta la niebla, Margaux entra en panico al descubrir la mansion de la familia Addams, un claro impedimento en su sueño de vender todas las casas del barrio a personas selectas. Por otro lado, mientras Pugsley se esfuerza en aprenderse al pie de la letra la complicada ''Mazurka con sable'', Miercoles se enfrenta a la adolescencia. Se hace amiga de Parker, la hija de Margaux, e intenta ir mas alla de los limites impuestos por Morticia, sacandola de quicio al volverse ''normal'', ir al instituto, ser animadora y querer vestir cosas que, sin duda, no son propias de un Addams.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/xEIEzxKs10ge/festakids-la-familia-addams-2019-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/t7d5dn2qtpw1"}</urlsolve> 
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/xEIEzxKs10ge/festakids-la-familia-addams-2019-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/t7d5dn2qtpw1"}</urlsolve> 
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -2060,7 +2060,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, 1Comedia, A2003, Letra L, EEUU, Disney, C720, "
 
 <item>
-<title>[COLOR white]La Gran Pelicula De Piglet [COLOR blue](2003)[/COLOR]</title>    
+<title>[COLOR white]La Gran Pelicula De Piglet [COLOR coral](2003)[/COLOR]</title>    
 <genre>Animacion, Infantil, Comedia</genre>
 <year>2003</year>  
 <thumbnail>https://i.imgur.com/IH1n5oa.jpg</thumbnail>
@@ -2073,7 +2073,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Infantil, A2015, Letra L, EEUU, Disney, "
 <item>
-<title>[COLOR white]La Guardia Del Leon: El Regreso Del Rugido [COLOR blue](2015)[/COLOR]</title> 
+<title>[COLOR white]La Guardia Del Leon: El Regreso Del Rugido [COLOR coral](2015)[/COLOR]</title> 
 <genre>Animacion, Aventuras, Infantil</genre>
 <year>2015</year>
 <thumbnail>https://3.bp.blogspot.com/-APpZ3JWM2uI/WlyH41AxxII/AAAAAAAAELQ/DEX2Y8E5noIq6cPnKib7nfzN3LITjkMFQCLcBGAs/s1600/La_Guardia_del_Le_n_El_regreso_del_rugido_TV-210852886-large.jpg</thumbnail>
@@ -2087,7 +2087,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Aventuras, 1Drama, 1Fantastico, 1Intriga, 1Familiar, A2011, Letra L, EEUU, Paramount Pictures, "
 
 <item>
-<title>[COLOR white]La Invencion de Hugo [COLOR blue](2011)[/COLOR]</title> 
+<title>[COLOR white]La Invencion de Hugo [COLOR coral](2011)[/COLOR]</title> 
 <genre>Aventuras,Drama,Fantastico,Intriga,Familiar</genre>
 <year>2011</year>
 <thumbnail>https://i.imgur.com/XZfaeKR.jpg</thumbnail>
@@ -2100,7 +2100,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Infantil, A1977, Letra L, EEUU, Roedores, Disney, C720, "
 
 <item>
-<title>[COLOR white]La LEGO pelicula 2 [COLOR blue](2019)[/COLOR]</title>    
+<title>[COLOR white]La LEGO pelicula 2 [COLOR coral](2019)[/COLOR]</title>    
 <genre>Animacion, Aventuras, Comedia</genre>
 <year>2019</year>  
 <thumbnail>https://i.imgur.com/hOUaTJZ.jpg</thumbnail>
@@ -2113,7 +2113,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Infantil, A1977, Letra L, EEUU, Roedores, Disney, C720, "
 
 <item>
-<title>[COLOR white]La muerte de Superman. Parte 1  [COLOR blue](2018)[/COLOR]</title> 
+<title>[COLOR white]La muerte de Superman. Parte 1  [COLOR coral](2018)[/COLOR]</title> 
 <genre>Animacion,Ciencia ficcion,Accion,Fantastico</genre>
 <year>2018</year>
 <thumbnail>https://www.themoviedb.org/t/p/original/43x9SbbiOIkJp6Sad3bvs7PHbaS.jpg</thumbnail>
@@ -2132,13 +2132,13 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/ODoo24K.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Tras el sacrificio de Superman para derrotar a Doomsday, el mundo se ha llenado de nuevas versiones del superheroe que tratan de luchar contra el crimen, con personajes variopintos como Superboy, Steel, Cyborg Superman o Eradicator cuya funcion social es duramente criticada por los medios. Continuacion de la pelicula de 2018 "La muerte de Superman".</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/fGX7UaPwcDRz/festakids-la-muerte-de-superman-parte-2-el-reinado-de-los-superhombres-2019-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/fud7h9x7whyg"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/fGX7UaPwcDRz/festakids-la-muerte-de-superman-parte-2-el-reinado-de-los-superhombres-2019-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/fud7h9x7whyg"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Fantastico, 1Infantil, A1949, Letra L, EEUU, Disney, C720, "
 
 <item>
-<title>[COLOR white]La Leyenda De Sleepy Hollow Y El Señor Sapo [COLOR blue](1949)[/COLOR]</title>    
+<title>[COLOR white]La Leyenda De Sleepy Hollow Y El Señor Sapo [COLOR coral](1949)[/COLOR]</title>    
 <genre>Animacion, Fantastico, Infantil</genre>
 <year>1949</year>  
 <thumbnail>https://i.imgur.com/ANEUih7.jpg</thumbnail>
@@ -2149,7 +2149,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, 1Accion, A2015, Letra L, EEUU, Superheroes, Comic, Lego, Warner Bros, "
 <item>
-<title>[COLOR white]La Liga De La Justicia Contra La Liga De Bizarro [COLOR blue](2015)[/COLOR]</title> 
+<title>[COLOR white]La Liga De La Justicia Contra La Liga De Bizarro [COLOR coral](2015)[/COLOR]</title> 
 <genre>Animacion, Aventuras, Comedia, Accion</genre>
 <year>2015</year>
 <thumbnail>https://3.bp.blogspot.com/-whvLT-TaLwY/WlyIBs5OJuI/AAAAAAAAENQ/d92eKCItt9IYaOKRopxYnS4y0k2JO9-9gCLcBGAs/s1600/la_liga_bizarro.jpg</thumbnail>
@@ -2160,7 +2160,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Accion, 1Comedia, A2015, Letra L, EEUU, Superheroes, Comic, Lego, Warner Bros, "
 <item>
-<title>[COLOR white]La Liga De La Justicia: El Ataque De La Legion Del Mal [COLOR blue](2015)[/COLOR]</title> 
+<title>[COLOR white]La Liga De La Justicia: El Ataque De La Legion Del Mal [COLOR coral](2015)[/COLOR]</title> 
 <genre>Animacion, Aventuras, Accion, Comedia</genre>
 <year>2015</year>
 <thumbnail>https://4.bp.blogspot.com/-YVFOaw4_fYI/WlyICHokfjI/AAAAAAAAENY/W3u7pfT-8EsOnYDOQXxBwjTXKJZHubOVACLcBGAs/s1600/la_liga_cataque2.jpg</thumbnail>
@@ -2172,7 +2172,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, A2017, Letra L,Warner Bros "
 
 <item>
-<title>[COLOR white]La novia cadaver  [COLOR blue](2005)[/COLOR]</title>
+<title>[COLOR white]La novia cadaver  [COLOR coral](2005)[/COLOR]</title>
 <genre>Animacion, Infantil</genre>
 <year>2005</year>
 <thumbnail>https://i.imgur.com/nyJHJSs.jpg</thumbnail>
@@ -2184,7 +2184,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Accion, 1Aventuras, 1Ciencia Ficcion, A2018, Letra L, China, Robots, Netflix, "
 
 <item>
-<title>[COLOR white]La Nueva Generacion [COLOR blue](2018)[/COLOR]</title> 
+<title>[COLOR white]La Nueva Generacion [COLOR coral](2018)[/COLOR]</title> 
 <genre>Animacion</genre>
 <year>2018</year>  
 <thumbnail>https://i.imgur.com/9WilEBT.jpg</thumbnail>
@@ -2195,7 +2195,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Infantil, A2005, Letra L, EEUU, Animales, Osos, Disney, C720, "
 <item>
-<title>[COLOR white]La Pelicula De Heffalump. Winnie Pooh Y El Pequeño Efelante [COLOR blue](2005)[/COLOR]</title>    
+<title>[COLOR white]La Pelicula De Heffalump. Winnie Pooh Y El Pequeño Efelante [COLOR coral](2005)[/COLOR]</title>    
 <genre>Animacion, Aventuras, Infantil</genre>
 <year>2005</year>  
 <thumbnail>https://i.imgur.com/fN7xPCb.jpg</thumbnail>
@@ -2207,7 +2207,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Infantil, A2000, Letra L, EEUU, Animales, Disney, C720, "
 
 <item>
-<title>[COLOR white]La Pelicula De Tigger. Las Nuevas Aventuras De Winnie The Pooh [COLOR blue](2000)[/COLOR]</title>    
+<title>[COLOR white]La Pelicula De Tigger. Las Nuevas Aventuras De Winnie The Pooh [COLOR coral](2000)[/COLOR]</title>    
 <genre>Animacion, Comedia, Infantil</genre>
 <year>2000</year>  
 <thumbnail>https://i.imgur.com/kN2F9LE.jpg</thumbnail>
@@ -2237,7 +2237,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://4.bp.blogspot.com/-HXD1kv5fiFY/WpKxQnoUvZI/AAAAAAAAGk8/s7xHBBVeFlEhxN7mv7HHA_Emb6suebxnwCLcBGAs/s1600/la_princesa_cisne.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Poco despues de que la familia real adopte una joven llamada Alise, ella se adentra en el bosque. La princesa Odette, Derek y sus amigos del bosque deben trabajar juntos para encontrar una manera de traer a Alise de vuelta al castillo. </info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/ydlkRM09OLzL/festakids-la-princesa-cisneuna-boda-real-2020-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/1a38vyjuryu8"}</urlsolve> 
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/ydlkRM09OLzL/festakids-la-princesa-cisneuna-boda-real-2020-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/1a38vyjuryu8"}</urlsolve> 
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, A2020, Letra L, EEUU, Sony, C720, "
@@ -2255,7 +2255,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Fantastico, 1Infantil, A2012, Letra L, EEUU, Telefilm, Disney, C720, Princesas, "
 
 <item>
-<title>[COLOR white]La Princesa Sofia. Erase Una Vez Una Princesa [COLOR blue](2012)[/COLOR]</title>    
+<title>[COLOR white]La Princesa Sofia. Erase Una Vez Una Princesa [COLOR coral](2012)[/COLOR]</title>    
 <genre>Animacion, Fantastico, Infantil</genre>
 <year>2012</year>  
 <thumbnail>https://i.imgur.com/xwSr2Nr.jpg</thumbnail>
@@ -2267,7 +2267,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Fantastico, 1Musical, 1Infantil,Disney, C1080, "
 
 <item>
-<title>[COLOR white]La Sirenita [COLOR blue](1989)[/COLOR]</title>  
+<title>[COLOR white]La Sirenita [COLOR coral](1989)[/COLOR]</title>  
 <genre>Animacion,Fantastico,Musical,Infantil</genre>
 <year>1989</year>  
 <thumbnail>https://i.imgur.com/gEbN9vP.jpg</thumbnail>
@@ -2279,7 +2279,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Fantastico, 1Musical, 1Infantil,Disney, C1080, "
 
 <item>
-<title>[COLOR white]La sirenita 2: Regreso al mar [COLOR blue](2000)[/COLOR]</title>  
+<title>[COLOR white]La sirenita 2: Regreso al mar [COLOR coral](2000)[/COLOR]</title>  
 <genre>Animacion,Fantastico,Musical,Infantil</genre>
 <year>2000</year>  
 <thumbnail>https://i.imgur.com/xfetjhG.jpg</thumbnail>
@@ -2291,7 +2291,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Fantastico, 1Comedia, 1Aventuras, 1Comedia, 1Infantil, 1Familiar, Disney, C720, "
 
 <item>
-<title>[COLOR white]La Sirenita 3: El origen de La Sirenita [COLOR blue](2008)[/COLOR]</title>  
+<title>[COLOR white]La Sirenita 3: El origen de La Sirenita [COLOR coral](2008)[/COLOR]</title>  
 <genre>Animacion,Fantastico,Comedia,Infantil</genre>
 <year>2008</year>  
 <thumbnail>https://i.imgur.com/uHCZrFX.jpg</thumbnail>
@@ -2304,7 +2304,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Infantil, A1977, Letra L, EEUU, Roedores, Disney, C720, "
 
 <item>
-<title>[COLOR white]La Vida de Calabacin [COLOR blue](2016)[/COLOR]</title>    
+<title>[COLOR white]La Vida de Calabacin [COLOR coral](2016)[/COLOR]</title>    
 <genre>Animacion,Drama,Comedia</genre>
 <year>2016</year>
 <thumbnail>https://i.imgur.com/fIWqTlw.jpg</thumbnail>
@@ -2315,7 +2315,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Aventuras, 1Comedia, A1956, Letra L, EEUU, Clasico, Familiar, Warner Bros, "
 <item>
-<title>[COLOR white]La Vuelta Al Mundo En 80 Dias [COLOR blue](1956)[/COLOR]</title>    
+<title>[COLOR white]La Vuelta Al Mundo En 80 Dias [COLOR coral](1956)[/COLOR]</title>    
 <genre>Aventuras, Comedia</genre>
 <year>1956</year>
 <thumbnail>https://i.imgur.com/XZ7qkYN.jpg</thumbnail>
@@ -2351,7 +2351,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Aventuras, 1Comdeia, 1Familiar, "
 
 <item>
-<title>[COLOR white]Las aventuras del Doctor Dolittle [COLOR blue](2020)[/COLOR]</title>    
+<title>[COLOR white]Las aventuras del Doctor Dolittle [COLOR coral](2020)[/COLOR]</title>    
 <genre>Aventuras,Comdeia,Familiar</genre>
 <year>2020</year>
 <thumbnail>https://i.imgur.com/8RvEJm7.jpg</thumbnail>
@@ -2363,7 +2363,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Aventuras, 1Fantastico, 1Familiar, Disney, "
 
 <item>
-<title>[COLOR white]Las cronicas de Narnia: El leon, la bruja y el armario [COLOR blue](2005)[/COLOR]</title>  
+<title>[COLOR white]Las cronicas de Narnia: El leon, la bruja y el armario [COLOR coral](2005)[/COLOR]</title>  
 <genre>Fantastico,Aventuras,Familiar</genre>
 <year>2005</year>  
 <thumbnail>https://i.imgur.com/FhIOoJT.jpg</thumbnail>
@@ -2376,7 +2376,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Infantil, A1977, Letra L, EEUU, Roedores, Disney, C720, "
 
 <item>
-<title>[COLOR white]Las cronicas de Narnia: El principe Caspian  [COLOR blue](2008)[/COLOR]</title>  
+<title>[COLOR white]Las cronicas de Narnia: El principe Caspian  [COLOR coral](2008)[/COLOR]</title>  
 <genre>Fantastico,Aventuras,Familiar</genre>
 <year>2008</year>  
 <thumbnail>https://i.imgur.com/oQFDc3O.jpg</thumbnail>
@@ -2389,7 +2389,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Infantil, A1977, Letra L, EEUU, Roedores, Disney, C720, "
 
 <item>
-<title>[COLOR white]Las cronicas de Narnia: La travesia del viajero del alba  [COLOR blue](2010)[/COLOR]</title>  
+<title>[COLOR white]Las cronicas de Narnia: La travesia del viajero del alba  [COLOR coral](2010)[/COLOR]</title>  
 <genre>Fantastico,Aventuras,Familiar</genre>
 <year>2010</year>  
 <thumbnail>https://i.imgur.com/USiGyMV.jpg</thumbnail>
@@ -2411,7 +2411,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/VhGqsKH.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Con el estilo de animacion de los bloques de juguete favoritos de todos, ‘LEGO DC Shazam: Magia y Monstruos’ sigue al joven protagonista, el nuevo heroe sensacion invitado a unirse a la Liga de la Justicia, con la condicion de revelar su identidad como el niño Billy Batson. Sin embargo, todo se complica cuando los heroes son transformados en niños por la Monstruosa Sociedad del Mal.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/8RbDjSRVM2xr/festakids-lego-dc-shazam-magia-y-monstruos-2020-720-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/xuba9dodxn9w"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/8RbDjSRVM2xr/festakids-lego-dc-shazam-magia-y-monstruos-2020-720-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/xuba9dodxn9w"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -2419,7 +2419,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, 1Aventuras, 1Comedia, A2018, Letra L, Italia, Piratas, "
 
 <item>
-<title>[COLOR white]Leo Da Vinci: Mision Mona Lisa [COLOR blue](2018)[/COLOR]</title> 
+<title>[COLOR white]Leo Da Vinci: Mision Mona Lisa [COLOR coral](2018)[/COLOR]</title> 
 <genre>Animacion</genre>
 <year>2018</year>  
 <thumbnail>https://i.imgur.com/oHtsCnV.jpg</thumbnail>
@@ -2434,7 +2434,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 "Tag= Malu3, Disney,1Animacion, 1Infantil,Disney "
 <item>
-<title>[COLOR white]Lilo y Stich [COLOR blue](2002)[/COLOR]</title>    
+<title>[COLOR white]Lilo y Stich [COLOR coral](2002)[/COLOR]</title>    
 <genre>Animacion</genre>
 <year>2002</year>  
 <thumbnail>https://i.imgur.com/iGXlAIX.jpg</thumbnail>
@@ -2447,7 +2447,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 "Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Ciencia Ficcion, 1Infantil, A2005, Letra L, EEUU, Extraterrestres, Secuela, Precuela, Disney, C720, "
 <item>
-<title>[COLOR white]Lilo & Stitch 2. El Efecto Del Defecto [COLOR blue](2005)[/COLOR]</title>    
+<title>[COLOR white]Lilo & Stitch 2. El Efecto Del Defecto [COLOR coral](2005)[/COLOR]</title>    
 <genre>Animacion, Comedia, Ciencia Ficcion, Infantil</genre>
 <year>2005</year>  
 <thumbnail>https://i.imgur.com/iTVk9CE.jpg</thumbnail>
@@ -2460,7 +2460,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, 1Comedia, A1977, Letra L, EEUU, Animales, Osos, Disney, C720, "
 
 <item>
-<title>[COLOR white]Lo Mejor De Winnie The Pooh [COLOR blue](1977)[/COLOR]</title>    
+<title>[COLOR white]Lo Mejor De Winnie The Pooh [COLOR coral](1977)[/COLOR]</title>    
 <genre>Animacion, Infantil, Comedia</genre>
 <year>1977</year>  
 <thumbnail>https://i.imgur.com/2vg1vQj.jpg</thumbnail>
@@ -2483,7 +2483,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney,1Familiar, 1Ado,Warner Bros "
 <item>
-<title>[COLOR white]Los Goonies [COLOR blue](1985)[/COLOR]</title>    
+<title>[COLOR white]Los Goonies [COLOR coral](1985)[/COLOR]</title>    
 <genre> Adolescencia, Comedia juvenil, Amistad</genre>
 <year>1985</year>  
 <thumbnail>https://i.imgur.com/2s46NfW.jpg</thumbnail>
@@ -2535,7 +2535,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 "Tag= Malu3, Disney , 1venturas, 1Familiar, Francia, A2015, "
 <item>
-<title>[COLOR white]Los Minions [COLOR blue](2015)[/COLOR]</title>    
+<title>[COLOR white]Los Minions [COLOR coral](2015)[/COLOR]</title>    
 <genre>Familia,Animacion,Aventuras</genre>
 <year>2015</year>  
 <thumbnail>https://i.imgur.com/oXXvSig.jpg</thumbnail>
@@ -2547,7 +2547,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 "Tag= Malu3, Disney, 1Animacion,1Fantastico,1Terror, A2009, Letra L, "
 <item>
-<title>[COLOR white]Los mundos de Coraline  [COLOR blue](2009)[/COLOR]</title>     
+<title>[COLOR white]Los mundos de Coraline  [COLOR coral](2009)[/COLOR]</title>     
 <genre>Animacion,Fantastico,Terror</genre>
 <year>2009</year>  
 <thumbnail>https://i.imgur.com/p0zzjqe.jpg</thumbnail>
@@ -2559,7 +2559,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 "Tag= Malu3, Disney, 1Animacion,1Infantil, A2009, Letra L, Disney, "
 <item>
-<title>[COLOR white]Los Muppets en el espacio  [COLOR blue](1999)[/COLOR]</title>     
+<title>[COLOR white]Los Muppets en el espacio  [COLOR coral](1999)[/COLOR]</title>     
 <genre>Comedia,Infantil</genre>
 <year>1999</year>  
 <thumbnail>https://i.imgur.com/1UmkInC.jpg</thumbnail>
@@ -2574,7 +2574,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 "Tag= Malu3, Disney, 1Animacion, 1Fantastico, 1Comedia, 1Aventuras, 1Infantil, Pitufos, C1080,  "
 <item>
-<title>[COLOR white]Los pitufos: La aldea escondida [COLOR blue](2017)[/COLOR]</title>    
+<title>[COLOR white]Los pitufos: La aldea escondida [COLOR coral](2017)[/COLOR]</title>    
 <genre>Animacion,Fantastico,Comedia,Aventuras,Infantil</genre>
 <year>2017</year>  
 <thumbnail>https://i.imgur.com/jXaeNDc.jpg</thumbnail>
@@ -2599,7 +2599,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Infantil, A1977, Letra L, EEUU, Roedores, Disney, C720, "
 
 <item>
-<title>[COLOR white]Los Rescatadores [COLOR blue](1977)[/COLOR]</title>    
+<title>[COLOR white]Los Rescatadores [COLOR coral](1977)[/COLOR]</title>    
 <genre>Animacion, Aventuras, Infantil</genre>
 <year>1977</year>  
 <thumbnail>https://i.imgur.com/O1HFAcj.jpg</thumbnail>
@@ -2612,7 +2612,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Infantil, A1977, Letra L, EEUU, Roedores, Disney, C720, "
 
 <item>
-<title>[COLOR white]Los tres caballeros [COLOR blue](1944)[/COLOR]</title>    
+<title>[COLOR white]Los tres caballeros [COLOR coral](1944)[/COLOR]</title>    
 <genre>Animacion, Infantil, Comedia, Musical</genre>
 <year>1944</year>  
 <thumbnail>https://i.imgur.com/gvOfBB7.jpg</thumbnail>
@@ -2625,7 +2625,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Comedia, A2018, Letra L, Alemania, Extraterrestres, "
 
 <item>
-<title>[COLOR white]Luis Y Los Alienigenas [COLOR blue](2018)[/COLOR]</title>    
+<title>[COLOR white]Luis Y Los Alienigenas [COLOR coral](2018)[/COLOR]</title>    
 <genre>Animacion, Comedia</genre>
 <year>2018</year>  
 <thumbnail>https://i.imgur.com/nRkQgdq.jpg</thumbnail>
@@ -2648,7 +2648,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Fantastico, A2019, Letra M, EEUU, Secuela, Disney, C720, "
 <item>
-<title>[COLOR white]Malefica: Maestra del mal [COLOR blue](2019)[/COLOR]</title>   
+<title>[COLOR white]Malefica: Maestra del mal [COLOR coral](2019)[/COLOR]</title>   
 <genre>Fantastico</genre>
 <year>2019</year>  
 <thumbnail>https://i.imgur.com/sSm67mW.jpg</thumbnail>
@@ -2672,7 +2672,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, A2019, Letra M, Alemania, Animales, Netflix, C720, "
 <item>
-<title>[COLOR white]Maquia, una historia de amor inmortal [COLOR blue](2018)[/COLOR]</title>    
+<title>[COLOR white]Maquia, una historia de amor inmortal [COLOR coral](2018)[/COLOR]</title>    
 <genre>Animacion</genre>
 <year>2018</year>  
 <thumbnail>https://i.imgur.com/D4goSvx.jpg</thumbnail>
@@ -2683,7 +2683,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion,1Comedia, 1Infantil,Universal Pictures "
 <item>
-<title>[COLOR white]Mary Poppins [COLOR blue](1964)[/COLOR]</title>    
+<title>[COLOR white]Mary Poppins [COLOR coral](1964)[/COLOR]</title>    
 <genre>Musical, Infantil, Fantastico, Comedia</genre>
 <year>1964</year>  
 <thumbnail>https://i.imgur.com/SDyHDSb.jpg</thumbnail>
@@ -2694,7 +2694,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion,1Comedia, 1Infantil,Universal Pictures "
 <item>
-<title>[COLOR white]Mascotas [COLOR blue](2016)[/COLOR]</title>    
+<title>[COLOR white]Mascotas [COLOR coral](2016)[/COLOR]</title>    
 <genre>Animacion, Comedia</genre>
 <year>2016</year>  
 <thumbnail>https://i.imgur.com/6QSaxrT.jpg</thumbnail>
@@ -2706,7 +2706,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, A2019, Letra M, Alemania, Animales, Netflix, C720, "
 <item>
-<title>[COLOR white]Mascotas 2 [COLOR blue](2019)[/COLOR]</title>    
+<title>[COLOR white]Mascotas 2 [COLOR coral](2019)[/COLOR]</title>    
 <genre>Animacion</genre>
 <year>2019</year>  
 <thumbnail>https://i.imgur.com/aHUEjj1.jpg</thumbnail>
@@ -2719,7 +2719,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, A2019, Letra M, Alemania, Animales, Netflix, C720, "
  
 <item>
-<title>[COLOR white]Mascotas Unidas [COLOR blue](2019)[/COLOR]</title>    
+<title>[COLOR white]Mascotas Unidas [COLOR coral](2019)[/COLOR]</title>    
 <genre>Animacion, Aventuras, Comedia</genre>
 <year>2019</year>  
 <thumbnail>https://i.imgur.com/ddh8Mhw.jpg</thumbnail>
@@ -2731,7 +2731,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, Disney, "
 <item>
-<title>[COLOR white]Merlin el encantador [COLOR blue](1963)[/COLOR]</title>    
+<title>[COLOR white]Merlin el encantador [COLOR coral](1963)[/COLOR]</title>    
 <genre>Animacion</genre>
 <year>1963</year>  
 <thumbnail>https://i.imgur.com/WUDFe0G.jpg</thumbnail>
@@ -2743,7 +2743,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 "Tag= Malu3, Disney, 1Ficcion, 1Infantil, A2019, Letra M, Croacia, "
 <item>
-<title>[COLOR white]Mi abuelo es un extraterrestre [/COLOR][COLOR blue](2019)[/COLOR]</title>    
+<title>[COLOR white]Mi abuelo es un extraterrestre [/COLOR][COLOR coral](2019)[/COLOR]</title>    
 <genre>Ficcion,Infantil</genre>
 <year>2019</year>  
 <thumbnail>https://i.imgur.com/OXm001H.jpg</thumbnail>
@@ -2768,7 +2768,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 "Tag= Malu3, Disney , 1Animacion, 1Fantastico, 1Infantil, Japon, A1988 "
 <item>
-<title>[COLOR white]Mi vecino Totoro [COLOR blue](1988)[/COLOR]</title>    
+<title>[COLOR white]Mi vecino Totoro [COLOR coral](1988)[/COLOR]</title>    
 <genre>Animacion,Fantastico,Infantil</genre>
 <year>1988</year>  
 <thumbnail>https://i.imgur.com/MP6b4Cw.jpg</thumbnail>
@@ -2782,7 +2782,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 "Tag= Malu3, Disney , 1venturas, 1Familiar, Francia, A2018, "
 <item>
-<title>[COLOR white]Mia y el leon blanco [COLOR blue](2018)[/COLOR]</title>    
+<title>[COLOR white]Mia y el leon blanco [COLOR coral](2018)[/COLOR]</title>    
 <genre>Aventuras</genre>
 <year>2018</year>  
 <thumbnail>https://i.imgur.com/FrqzQVG.jpg</thumbnail>
@@ -2794,7 +2794,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, A2019, Letra S, EEUU, Paramount Pictures, C720, "
 <item>
-<title>[COLOR white]Mirai, mi hermana pequeña  [COLOR blue](2018)[/COLOR]</title>    
+<title>[COLOR white]Mirai, mi hermana pequeña  [COLOR coral](2018)[/COLOR]</title>    
 <genre>Animacion,Drama, Fantastico</genre>
 <year>2018</year>  
 <thumbnail>https://i.imgur.com/BI6LH0i.jpg</thumbnail>
@@ -2806,7 +2806,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, A2019, Letra S, EEUU, Paramount Pictures, C720, "
 <item>
-<title>[COLOR white]Mision Katmandu  [COLOR blue](2017)[/COLOR]</title>    
+<title>[COLOR white]Mision Katmandu  [COLOR coral](2017)[/COLOR]</title>    
 <genre>Animacion,Comedia</genre>
 <year>2017</year>  
 <thumbnail>https://i.imgur.com/XEtTOEr.jpg</thumbnail>
@@ -2825,7 +2825,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/xfxYUiO.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Sir Lionel Frost se considera a si mismo el mayor investigador de mitos, monstruos y leyendas. Estos calificativos han sido cuestionados por su circulo mas cercano, lo que le anima a comenzar una investigacion por el noroeste americano en busca del Eslabon Perdido, una misteriosa criatura mitad humano, mitad bestia.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/KxBhRjihpiH9/festakids-mr-link-el-origen-perdido-2019-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/omufb3hyi9ck"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/KxBhRjihpiH9/festakids-mr-link-el-origen-perdido-2019-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/omufb3hyi9ck"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -2835,7 +2835,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 "Tag= Malu3, Disney,1Animacion, 1Infantil, Disney, "
 <item>
-<title>[COLOR white]Mulan [/COLOR][COLOR blue](1998)[/COLOR]</title>    
+<title>[COLOR white]Mulan [/COLOR][COLOR coral](1998)[/COLOR]</title>    
 <genre>Animacion, Aventuras, Accion, Comedia, Musical</genre>
 <year>1998</year>  
 <thumbnail>https://i.imgur.com/KPIZSgL.jpg</thumbnail>
@@ -2847,7 +2847,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, 1Musical, 1Infantil, A2004, Letra M, EEUU, Secuela, Disney, C720, "
 <item>
-<title>[COLOR white]Mulan 2 [COLOR blue](2004)[/COLOR]</title>    
+<title>[COLOR white]Mulan 2 [COLOR coral](2004)[/COLOR]</title>    
 <genre>Animacion, Aventuras, Comedia, Musical, Infantil</genre>
 <year>2004</year>  
 <thumbnail>https://i.imgur.com/RMmOJeD.jpg</thumbnail>
@@ -2870,7 +2870,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
  
  "Tag= Malu3, Disney, 1Animacion, 1Musical, 1Infantil, A1946, Letra M, EEUU, Disney, C720, "
 <item>
-<title>[COLOR white]Musica, Maestro [COLOR blue](1946)[/COLOR]</title>    
+<title>[COLOR white]Musica, Maestro [COLOR coral](1946)[/COLOR]</title>    
 <genre>Animacion, Musical, Infantil</genre>
 <year>1946</year>  
 <thumbnail>https://i.imgur.com/oic1MB2.jpg</thumbnail>
@@ -2895,7 +2895,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, 1Fantastico, 1Infantil, A2017, Letra M, EEUU, Caballos, "
 
 <item>
-<title>[COLOR white]My Little Pony: La Pelicula [COLOR blue](2017)[/COLOR]</title> 
+<title>[COLOR white]My Little Pony: La Pelicula [COLOR coral](2017)[/COLOR]</title> 
 <genre>Animacion, Aventuras, Comedia, Fantastico, Infantil</genre>
 <year>2017</year>
 <thumbnail>https://3.bp.blogspot.com/-wDqAchOxxsw/WsjWRyBkNqI/AAAAAAAAHL8/7oCsejBY6fMDEVNyMkuoyoSYX040HjVRgCLcBGAs/s1600/My_Little_Pony_La_Pel_cula-835036306-large.jpg</thumbnail>
@@ -2913,7 +2913,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/SsA7Fch.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Ante la amenza de que el hogar de una familia de ratones de campo sea destruido, la madre, la señora Brisby, pide ayuda... Dibujos animados para los mas pequeños de la casa, con una de las partituras mas geniales del compositor de bandas sonoras Jerry Goldsmith.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/WHMhc8768SSJ/festakids-nimh-el-mundo-secreto-de-la-sra-brisby-1982-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/jpy1v590200b"}</urlsolve> 
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/WHMhc8768SSJ/festakids-nimh-el-mundo-secreto-de-la-sra-brisby-1982-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/jpy1v590200b"}</urlsolve> 
 </item>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------- 
  
@@ -2938,13 +2938,13 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/6qFqQXo.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Santa Claus se jubila y su hija, Nicole, tiene que continuar con el negocio familiar.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/i3TyO3GBLXxk/festakids-noelle-2019-1080-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/e5dm9rtk6bed"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/i3TyO3GBLXxk/festakids-noelle-2019-1080-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/e5dm9rtk6bed"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, A2019, Letra S, EEUU, Paramount Pictures, C720, "
 <item>
-<title>[COLOR white]Okko, el hostal y sus fantasmas [COLOR blue](2018)[/COLOR]</title>    
+<title>[COLOR white]Okko, el hostal y sus fantasmas [COLOR coral](2018)[/COLOR]</title>    
 <genre>Animacion,Fantastico,Drama</genre>
 <year>2018</year>  
 <thumbnail>https://i.imgur.com/hJdybLq.jpg</thumbnail>
@@ -2955,7 +2955,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, 1Musical, A1988, Letra O, EEUU, Animales, Gatos, Perros, Disney, C720, "
 <item>
-<title>[COLOR white]Oliver Y Su Pandilla [COLOR blue](1988)[/COLOR]</title>    
+<title>[COLOR white]Oliver Y Su Pandilla [COLOR coral](1988)[/COLOR]</title>    
 <genre>Animacion, Infantil, Musical</genre>
 <year>1988</year>  
 <thumbnail>https://i.imgur.com/foZ910r.jpg</thumbnail>
@@ -2966,7 +2966,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, 1Fantastico, 1Infantil, Pixar, "
 <item>
-<title>[COLOR white]Onward [COLOR blue](2020)[/COLOR]</title>    
+<title>[COLOR white]Onward [COLOR coral](2020)[/COLOR]</title>    
 <genre>Animacion,Aventuras,Comedia,Fantastico</genre>
 <year>2020</year>  
 <thumbnail>https://i.imgur.com/SSr0WNA.jpg</thumbnail>
@@ -2984,13 +2984,13 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/Fy8WrSw.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Por equivocacion, una torpe cigüeña entrega un panda bebe a la direccion incorrecta. Sera entonces cuando un oso y sus amigos se embarquen en una audaz aventura para ayudar al pequeño panda a conocer finalmente a su verdadera familia y devolverlo a su hogar. ¿Lo lograran?</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/BweJdooIIuQe/festakids-operacion-panda-2019-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/7kbf0tz1qq3u"}</urlsolve> 
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/BweJdooIIuQe/festakids-operacion-panda-2019-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/7kbf0tz1qq3u"}</urlsolve> 
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Comedia, 1Fantastico, 1Infantil, A2017, Letra P, Reino Unido, Familiar, Amazon, Movistar, 
 
 <item>
-<title>[COLOR white]Paddington 2  [COLOR blue](2017)[/COLOR]</title> 
+<title>[COLOR white]Paddington 2  [COLOR coral](2017)[/COLOR]</title> 
 <genre>Comedia, Fantastico, Infantil</genre>
 <year>2017</year>
 <thumbnail>https://1.bp.blogspot.com/-WT9FeAxBJfY/WtRnIAMmaFI/AAAAAAAAHQg/qQGk104OxmMpGTE4XCD9iuCQlbOU16I9QCLcBGAs/s1600/Paddington_2-165757938-large.jpg</thumbnail>
@@ -3002,7 +3002,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Fantastico, 1Infantil, A1990, Letra P, EEUU, Disney, C720, "
 
 <item>
-<title>[COLOR white]Patoaventuras. La Pelicula. El Tesoro De La Lampara Perdida [COLOR blue](1990)[/COLOR]</title>    
+<title>[COLOR white]Patoaventuras. La Pelicula. El Tesoro De La Lampara Perdida [COLOR coral](1990)[/COLOR]</title>    
 <genre>Animacion, Aventuras, Fantastico, Infantil</genre>
 <year>1990</year>  
 <thumbnail>https://i.imgur.com/E0gqjNQ.jpg</thumbnail>
@@ -3026,7 +3026,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney,1Animacion, 1Infantil, Disney, "
 
 <item>
-<title>[COLOR white]Peter Pan [COLOR blue](1953)[/COLOR]</title>    
+<title>[COLOR white]Peter Pan [COLOR coral](1953)[/COLOR]</title>    
 <genre>Animacion</genre>
 <year>1953</year>  
 <thumbnail>https://i.imgur.com/mtNGhjq.jpg</thumbnail>
@@ -3038,7 +3038,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Fantastico, 1Musical, 1Infantil, A2002, Disney, "
 
 <item>
-<title>[COLOR white]Peter Pan en Regreso al pais de Nunca Jamas [COLOR blue](2002)[/COLOR]</title>    
+<title>[COLOR white]Peter Pan en Regreso al pais de Nunca Jamas [COLOR coral](2002)[/COLOR]</title>    
 <genre>Animacion,Fantastico,Musical,Infantil</genre>
 <year>2002</year>  
 <thumbnail>https://i.imgur.com/BJeAaUj.jpg</thumbnail>
@@ -3050,7 +3050,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Fantastico, 1Aventuras, 1Infantil,Disney, A2016 "
 
 <item>
-<title>[COLOR white]Peter y el dragon  [COLOR blue](2016)[/COLOR]</title>    
+<title>[COLOR white]Peter y el dragon  [COLOR coral](2016)[/COLOR]</title>    
 <genre>Fantastico, Aventuras, Infantil</genre>
 <year>2016</year>  
 <thumbnail>https://i.imgur.com/TwsdYN2.jpg</thumbnail>
@@ -3062,7 +3062,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, A2019, Letra S, EEUU, Paramount Pictures, C720, "
 <item>
-<title>[COLOR white]Pequenos Gigantes [COLOR blue](1994)[/COLOR]</title>    
+<title>[COLOR white]Pequenos Gigantes [COLOR coral](1994)[/COLOR]</title>    
 <genre>Comedia, Deportes</genre>
 <year>1994</year>  
 <thumbnail>https://i.imgur.com/gwdhNqy.jpg</thumbnail>
@@ -3074,7 +3074,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney,1Animacion, 1Infantil,Disney, "
 
 <item>
-<title>[COLOR white]Pinocho [COLOR blue](1940)[/COLOR]</title>    
+<title>[COLOR white]Pinocho [COLOR coral](1940)[/COLOR]</title>    
 <genre>Animacion, Fantastico, Infantil, Drama, Musical</genre>
 <year>1940</year>  
 <thumbnail>https://i.imgur.com/INukdNb.jpg</thumbnail>
@@ -3086,7 +3086,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney,1Fantastico, 1Aventuras, 1Musical, 1Infantil,Savoy Pictures, "
 
 <item>
-<title>[COLOR white]Pinocho la leyenda [COLOR blue](1996)[/COLOR]</title>    
+<title>[COLOR white]Pinocho la leyenda [COLOR coral](1996)[/COLOR]</title>    
 <genre>Fantastico, Aventuras, Musical, Infantil</genre>
 <year>1996</year>  
 <thumbnail>https://i.imgur.com/J1j1viS.jpg</thumbnail>
@@ -3098,7 +3098,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney,1Animacion, 1Aventuras, 1Comedia, "
 
 <item>
-<title>[COLOR white]Planeta 51 [COLOR blue](2009)[/COLOR]</title>    
+<title>[COLOR white]Planeta 51 [COLOR coral](2009)[/COLOR]</title>    
 <genre>Animacion</genre>
 <year>2009</year>  
 <thumbnail>https://i.imgur.com/Zd04HGQ.jpg</thumbnail>
@@ -3116,13 +3116,13 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/i7toInI.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Cuando su hermano menor Charlie (Gabriel Bateman) desaparece inesperadamente y se introduce en el magico mundo animado de "Playmobil", Marla (Anya Taylor-Joy) se embarca en una aventura para traerlo de vuelta a casa. A medida que descubre los secretos que aguardan en su nuevo mundo, Marla conoce a una serie de heroicos nuevos amigos, como el conductor de camiones Del (Jim Gaffigan), el carismatico agente secreto Rex Dasher (Daniel Radcliffe), un hada madrina entrada en años (Meghan Trainor) e incluso a un robot un poco rebelde pero con un gran corazon. La aventura, ademas de llevarla directamente al corazon del mundo "Playmobil", le ayudara a conocerse mejor a si misma y a entender que, independientemente de que ofrezca la vida, todo es posible cuando creemos en nosotros mismos. </info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/uTVZFdkfU7JQ/festakids-playmobil-la-pelicula-2019-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/vg1yhqw35tky"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/uTVZFdkfU7JQ/festakids-playmobil-la-pelicula-2019-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/vg1yhqw35tky"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 "Tag= Malu3, Disney,1Animacion, 1Infantil,Disney "
 <item>
-<title>[COLOR white]Ploey. Nunca volaras solo [COLOR blue](2019)[/COLOR]</title>    
+<title>[COLOR white]Ploey. Nunca volaras solo [COLOR coral](2019)[/COLOR]</title>    
 <genre>Animacion</genre>
 <year>2019</year>  
 <thumbnail>https://i.imgur.com/04D5fdS.jpg</thumbnail>
@@ -3133,7 +3133,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Romance, 1Musical, 1Aventuras, 1Infantil, A1995, Letra P, EEUU, Disney, C720, "
 <item>
-<title>[COLOR white]Pocahontas [COLOR blue](1995)[/COLOR]</title>    
+<title>[COLOR white]Pocahontas [COLOR coral](1995)[/COLOR]</title>    
 <genre>Animacion, Romance, Musical, Aventuras, Infantil</genre>
 <year>1995</year>  
 <thumbnail>https://i.imgur.com/1Ujh8l7.jpg</thumbnail>
@@ -3145,7 +3145,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 "Tag= Malu3, Disney, 1Animacion, 1Romance, 1Aventuras, 1Infantil, A1998, Letra P, EEUU, Secuela, Disney, C720, "
 <item>
-<title>[COLOR white]Pocahontas 2. Viaje A Un Nuevo Mundo [COLOR blue](1998)[/COLOR]</title>    
+<title>[COLOR white]Pocahontas 2. Viaje A Un Nuevo Mundo [COLOR coral](1998)[/COLOR]</title>    
 <genre>Animacion, Romance, Aventuras, Infantil</genre>
 <year>1998</year>  
 <thumbnail>https://i.imgur.com/5TNjVUL.jpg</thumbnail>
@@ -3157,7 +3157,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, A2019, Letra S, EEUU, Paramount Pictures, C720, "
 <item>
-<title>[COLOR white]Pokemon: Detective Pikachu [COLOR blue](2019)[/COLOR]</title>    
+<title>[COLOR white]Pokemon: Detective Pikachu [COLOR coral](2019)[/COLOR]</title>    
 <genre>comedia, Fantastico, Aventuras</genre>
 <year>2019</year>  
 <thumbnail>https://i.imgur.com/QGqWaMw.jpg</thumbnail>
@@ -3170,7 +3170,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Fantastico, 1Aventuras, A2018, Letra P, Japon, Videojuego, "
 
 <item>
-<title>[COLOR white]Pokemon: El Poder De Todos [COLOR blue](2018)[/COLOR]</title>    
+<title>[COLOR white]Pokemon: El Poder De Todos [COLOR coral](2018)[/COLOR]</title>    
 <genre>Animacion, Fantastico, Aventuras</genre>
 <year>2018</year>  
 <thumbnail>https://i.imgur.com/NXYYG0A.jpg</thumbnail>
@@ -3188,14 +3188,14 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/hBVUjy2.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Cuando los investigadores descubren un fosil del Pokemon singular Mew, lo utilizan para llevar a cabo una creacion que va en contra de las leyes de la naturaleza: Mewtwo, un Pokemon legendario destinado a ser utilizado como una herramienta de destruccion. Pero a medida que Mewtwo toma conciencia de su existencia, comienza a sentir resentimiento hacia sus creadores humanos...</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/qtHEjh4JDpxU/festakids-pokemon-mewtwo-contraataca-2019-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/if34amjp2jvf"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/165g4ij4j5lydgd"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/qtHEjh4JDpxU/festakids-pokemon-mewtwo-contraataca-2019-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/if34amjp2jvf"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/165g4ij4j5lydgd"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 "Tag= Malu3, Disney, 1Comedia, 1Drama, 1Romance, Disney, "
 <item>
-<title>[COLOR white]Princesa por sorpresa [COLOR blue](2001)[/COLOR]</title>    
+<title>[COLOR white]Princesa por sorpresa [COLOR coral](2001)[/COLOR]</title>    
 <genre>Comedia,Drama,Romance</genre>
 <year>2001</year>  
 <thumbnail>https://i.imgur.com/OgM2LaZ.jpg</thumbnail>
@@ -3206,7 +3206,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Comedia, 1Drama, 1Romance, Disney, "
 <item>
-<title>[COLOR white]Princesa por sorpresa 2 [COLOR blue](2004)[/COLOR]</title>    
+<title>[COLOR white]Princesa por sorpresa 2 [COLOR coral](2004)[/COLOR]</title>    
 <genre>Comedia,Romance</genre>
 <year>2004</year>  
 <thumbnail>https://i.imgur.com/WJXedI1.jpg</thumbnail>
@@ -3234,7 +3234,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, 1Fantastico, A2016, Letra Q, Rusia, Familiar, C720, "
 
 <item>
-<title>[COLOR white]Quackers. La Leyenda De Los Patos [COLOR blue](2016)[/COLOR]</title>    
+<title>[COLOR white]Quackers. La Leyenda De Los Patos [COLOR coral](2016)[/COLOR]</title>    
 <genre>Animacion, Aventuras, Comedia, Fantastico</genre>
 <year>2016</year>  
 <thumbnail>https://i.imgur.com/ifcnKcS.jpg</thumbnail>
@@ -3246,7 +3246,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, A2019, Letra S, EEUU, Paramount Pictures, C720, "
 <item>
-<title>[COLOR white]Querido diario tonto [COLOR blue](2013)[/COLOR]</title>    
+<title>[COLOR white]Querido diario tonto [COLOR coral](2013)[/COLOR]</title>    
 <genre>Comedia,Infantil</genre>
 <year>2013</year>  
 <thumbnail>https://i.imgur.com/k7O98l1.jpg</thumbnail>
@@ -3258,7 +3258,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, A2019, Letra S, EEUU, Paramount Pictures, C720, "
 <item>
-<title>[COLOR white]Quiero comerme tu pancreas [COLOR blue](2018)[/COLOR]</title>    
+<title>[COLOR white]Quiero comerme tu pancreas [COLOR coral](2018)[/COLOR]</title>    
 <genre>Animacion,Rama,Romance</genre>
 <year>2018</year>  
 <thumbnail>https://i.imgur.com/sUPFY2r.jpg</thumbnail>
@@ -3270,7 +3270,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney,1Animacion, 1Infantil,Disney, "
 
 <item>
-<title>[COLOR white]Ralph rompe Internet [COLOR blue](2018)[/COLOR]</title>    
+<title>[COLOR white]Ralph rompe Internet [COLOR coral](2018)[/COLOR]</title>    
 <genre>Animacion</genre>
 <year>2018</year>  
 <thumbnail>https://i.imgur.com/kPbxlfm.jpg</thumbnail>
@@ -3282,7 +3282,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Infantil, A2007, Pixar, "
 
 <item>
-<title>[COLOR white]Ratatouille  [COLOR blue](2007)[/COLOR]</title>    
+<title>[COLOR white]Ratatouille  [COLOR coral](2007)[/COLOR]</title>    
 <genre>Animacion,Comedia,Infantil</genre>
 <year>2007</year>  
 <thumbnail>https://i.imgur.com/TfsgyIm.jpg</thumbnail>
@@ -3295,7 +3295,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Infantil, A1973, Letra R, EEUU, Disney, "
 
 <item>
-<title>[COLOR white]Robin Hood [COLOR blue](1973)[/COLOR]</title>     
+<title>[COLOR white]Robin Hood [COLOR coral](1973)[/COLOR]</title>     
 <genre>Animacion, Aventuras, Infantil</genre>
 <year>1973</year>  
 <thumbnail>https://i.imgur.com/1dAJ1VN.jpg</thumbnail>
@@ -3308,7 +3308,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, 1Aventuras, A2017, Letra S, Francia, Mandarin Production, "
 
 <item>
-<title>[COLOR white]Sahara [COLOR blue](2017)[/COLOR]</title> 
+<title>[COLOR white]Sahara [COLOR coral](2017)[/COLOR]</title> 
 <genre>Animacion,Comedia,Aventuras</genre>
 <year>2017</year>
 <thumbnail>https://i.imgur.com/Nl8gwiA.jpg</thumbnail>
@@ -3321,7 +3321,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Aventuras, 1Infantil, A2006, Letra S, EEUU, Animales, Disney, C720, "
 
 <item>
-<title>[COLOR white]Salvaje. The Wild [COLOR blue](2006)[/COLOR]</title>    
+<title>[COLOR white]Salvaje. The Wild [COLOR coral](2006)[/COLOR]</title>    
 <genre>Animacion, Comedia, Aventuras, Infantil</genre>
 <year>2006</year>  
 <thumbnail>https://i.imgur.com/xToabi7.jpg</thumbnail>
@@ -3334,7 +3334,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 "Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Musical, 1Infantil, A1942, Letra S, EEUU, Disney, C720, "
 
 <item>
-<title>[COLOR white]Saludos Amigos [COLOR blue](1942)[/COLOR]</title>    
+<title>[COLOR white]Saludos Amigos [COLOR coral](1942)[/COLOR]</title>    
 <genre>Animacion, Comedia, Musical, Infantil</genre>
 <year>1942</year>  
 <thumbnail>https://i.imgur.com/uEnfdHG.jpg</thumbnail>
@@ -3355,14 +3355,14 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>En el Instituto Mica de Arizona, todo es siempre lo mismo, hasta que un dia llega Susan 'Stargirl' Caraway, una joven que siempre habia estudiado en casa y revoluciona las aulas con su aura colorida y su continua musica de ukelele.
 Su singularidad parece no gustar mucho a los chavales del instituto, pero todo es diferente para Leo que no puede evitar su fascinacion por la joven.
 Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion adaptado de Kristin Hahn y Jordan Horowitz (Miss Stevens), a partir de los comics de Jerry Spinelli. Los protagonistas son Grace VanderWaal y Graham Verchere (Verano del 84).</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/8GpZTxlfCgqV/festakids-stargirl-2020-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/lql1nz1vswd3"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/8GpZTxlfCgqV/festakids-stargirl-2020-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/lql1nz1vswd3"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Fantastico, A2017, Letra S, EEUU, Animales, Navidad, Religion, Sony, "
 <item>
-<title>[COLOR white]Se Armo El Belen [COLOR blue](2017)[/COLOR]</title> 
+<title>[COLOR white]Se Armo El Belen [COLOR coral](2017)[/COLOR]</title> 
 <genre>Animacion</genre>
 <year>2017</year>
 <thumbnail>https://4.bp.blogspot.com/-KATiGuX_Dg8/WygQ9jeDaZI/AAAAAAAAHqQ/RwO4f-PA9BAV7N0OI1OcpsjxOttVuH4yACLcBGAs/s1600/Se_arm_el_bel_n-472223649-large.jpg</thumbnail>
@@ -3374,7 +3374,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, A2019, Letra S, EEUU, Paramount Pictures, C720, "
 <item>
-<title>[COLOR white]Seleccion Canina [COLOR blue](2014)[/COLOR]</title> 
+<title>[COLOR white]Seleccion Canina [COLOR coral](2014)[/COLOR]</title> 
 <genre>Animacion</genre>
 <year>2014</year>
 <thumbnail>https://i.imgur.com/DicB3e2.jpghttps://i.imgur.com/DicB3e2.jpg</thumbnail>
@@ -3387,7 +3387,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 "Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Aventuras, 1Fantastico, 1Intriga, A2018, Letra S, EEUU, Warner Bros, C720, "
 
 <item>
-<title>[COLOR white]Scooby Doo! Y El Fantasma Gourmet [COLOR blue](2018)[/COLOR]</title>    
+<title>[COLOR white]Scooby Doo! Y El Fantasma Gourmet [COLOR coral](2018)[/COLOR]</title>    
 <genre>Animacion, Comedia, Aventuras, Fantastico, Intriga</genre>
 <year>2018</year>  
 <thumbnail>https://i.imgur.com/dnrvqlf.jpg</thumbnail>
@@ -3406,7 +3406,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://i.imgur.com/MLwmmcR.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Scooby Doo y sus amigos deben encontrar el ultimo fantasma del grupo de trece que capturaron hace algunos años.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/xl5vBVeIHg9P/festakids-scooby-doo-y-la-maldicion-del-fantasma-13-2019-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/irdlx7m57urr"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/03qg2il2lxem68q"}</urlsolve>  
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/xl5vBVeIHg9P/festakids-scooby-doo-y-la-maldicion-del-fantasma-13-2019-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/irdlx7m57urr"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/03qg2il2lxem68q"}</urlsolve>  
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -3419,7 +3419,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://i.imgur.com/KaChmmr.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>El grupo vuelve a la accion para investigar un misterio en una isla infestada de zombies. </info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/8YJaZxLls9eC/festakids-scooby-doo-return-to-zombie-island-2019-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/vo6kdo27qgdo"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/ez-djt-7-1dewm7"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/8YJaZxLls9eC/festakids-scooby-doo-return-to-zombie-island-2019-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/vo6kdo27qgdo"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/ez-djt-7-1dewm7"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -3432,13 +3432,13 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://i.imgur.com/REUlOBr.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Scooby y la pandilla se enfrentan a su misterio más complicado: un complot para liberar al perro fantasma Cerbero. Mientras corren para detener el apocalipsis perruno, el grupo descubre que Scooby tiene un épico destino que nadie sospechó nunca</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/x4xv3djui1wA/festakids-scooby-2020-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/4m3d0q11qevm"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/-8kl2bpdp5z2pkn"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/x4xv3djui1wA/festakids-scooby-2020-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/4m3d0q11qevm"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/-8kl2bpdp5z2pkn"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, A2018, Letra S, Noruega, Familiar, Animales, Espacial, C720, "
 
 <item>
-<title>[COLOR white]Solan And Eri. Mision A La Luna [COLOR blue](2018)[/COLOR]</title>    
+<title>[COLOR white]Solan And Eri. Mision A La Luna [COLOR coral](2018)[/COLOR]</title>    
 <genre>Animacion</genre>
 <year>2018</year>  
 <thumbnail>https://i.imgur.com/hmemtBS.jpg</thumbnail>
@@ -3456,13 +3456,13 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://i.imgur.com/6YQJT5R.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Sonic, el descarado erizo azul basado en la famosa serie de videojuegos de Sega, vivira aventuras y desventuras cuando conoce a su amigo humano y policia, Tom Wachowski (James Marsden). Sonic y Tom uniran sus fuerzas para tratar de detener los planes del malvado Dr. Robotnik (Jim Carrey), que intenta atrapar a Sonic con el fin de emplear sus inmensos poderes para dominar el mundo. </info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/PDGY0HIcMjP5/festakids-sonic-la-pelicula-2019-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/wpusz4w32lrn"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/y6g7ziexe5jj2le"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/PDGY0HIcMjP5/festakids-sonic-la-pelicula-2019-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/wpusz4w32lrn"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/y6g7ziexe5jj2le"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, A2019, Letra S, EEUU, Paramount Pictures, C720, "
 <item> 
-<title>[COLOR white]Spirit, El Corcel Indomable [COLOR blue](2002)[/COLOR]</title> 
+<title>[COLOR white]Spirit, El Corcel Indomable [COLOR coral](2002)[/COLOR]</title> 
 <genre>Valor de la amistad, respeto a los animales</genre> 
 <year>2002</year> 
 <thumbnail>https://i.imgur.com/TMVVvVd.jpg</thumbnail> 
@@ -3475,7 +3475,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 "Tag= Malu3, Disney, 1Animacion, 1Comedia, A2018, Letra S, Alemania, C720, "
 
 <item>
-<title>[COLOR white]Spy Cat [COLOR blue](2018)[/COLOR]</title>    
+<title>[COLOR white]Spy Cat [COLOR coral](2018)[/COLOR]</title>    
 <genre>Animacion, Comedia</genre>
 <year>2018</year>  
 <thumbnail>https://i.imgur.com/9uCMWN3.jpg</thumbnail>
@@ -3495,7 +3495,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://www.themoviedb.org/t/p/original/q81EQKN0ZsqZ1z8gMbhR6Vvtdr3.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/qXulRWB56gUgW5LCBDg1asTlEXq.jpg</fanart>
 <info>La Federación de Comercio ha bloqueado el pequeño planeta de Naboo, gobernado por la joven Reina Amidala, como parte de un plan ideado por Sith Darth Sidious, que manteniéndose en el anonimato dirige a los neimoidianos, que están al mando de la Federación. Amidala es convencida por los Jedis Qui-Gon Jinn y su aprendiz, o padawan, Obi-Wan Kenobi a viajar hasta Coruscant, capital de la República y sede del Consejo Jedi para intentar mediar esta amenaza. Pero esquivando el bloqueo, la nave real resulta dañada, obligando a la tripulación a aterrizar en el desértico y remoto planeta de Tatooine...</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/a958bu2ho11r.html"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD1080[/COLOR]","url" : "https://streamtape.com/v/yl6xe4DLyZf3vK"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD1080[/COLOR]","url" : "https://www.fembed.com/v/6q8grh0re4ylmpl"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/a958bu2ho11r.html"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://streamtape.com/v/yl6xe4DLyZf3vK"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/6q8grh0re4ylmpl"}</urlsolve>
 </item>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -3509,7 +3509,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://www.themoviedb.org/t/p/original/4eGOfhR51bXFuSEYGoagP1nylSb.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pXnNSeyTCUebjpHTiZt7v6FZId0.jpg</fanart>
 <info>Corren tenebrosos tiempos para la República. Ésta continúa envuelta en luchas y sumida en el caos. Un movimiento separatista, formado por centenares de planetas y poderosas alianzas y y lideradas por el misterioso conde Dooku, abre nuevas amenazas para la galaxia, a la que ni siquiera los Jedi parecen poder poner freno. Estas maniobras, planeadas hace mucho por una poderosa fuerza, conducen al estallido de las guerras clones y al principio del fin de la República. Para allanar el camino, los separatistas intentan asesinar a la senadora Padme Amidala. Para evitar futuros atentados, su seguridad es encomendada a dos caballeros Jedi...</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/zx84qbw184gf.html"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD1080[/COLOR]","url" : "https://streamtape.com/v/GkZ78K43jVcAdX"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD1080[/COLOR]","url" : "https://www.fembed.com/v/03qg2il20g65xw4"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/zx84qbw184gf.html"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://streamtape.com/v/GkZ78K43jVcAdX"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/03qg2il20g65xw4"}</urlsolve>
 </item>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -3523,7 +3523,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://www.themoviedb.org/t/p/original/5V9FSD99zBTbnNPhAOfRgderOAG.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/wLoU4R13A1NXPem6Tt5lvbmsU1H.jpg</fanart>
 <info>Último capítulo de la saga de Star Wars, en el que Anakin Skywalker definitivamente se pasa al lado oscuro. En el Episodio III aparecerá el General Grievous, un ser implacable mitad-alien mitad-robot, el líder del ejército separatista Droid. Los Sith son los amos del lado oscuro de la Fuerza y los enemigos de los Jedi. Ellos fueron prácticamente exterminados por los Jedi hace mil años, pero la orden del mal sobrevivió en la clandestinidad.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/27n9c4k1pcv6.html"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD1080[/COLOR]","url" : "https://streamtape.com/v/DWLm0rvOkdckaVk"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD1080[/COLOR]","url" : "https://www.fembed.com/v/6q8grh0rewqqqg7"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/27n9c4k1pcv6.html"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://streamtape.com/v/DWLm0rvOkdckaVk"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/6q8grh0rewqqqg7"}</urlsolve>
 </item>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -3537,7 +3537,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://www.themoviedb.org/t/p/original/ahT4ObS7XKedQkOSpGr1wQ97aKA.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/zqkmTXzjkAgXmEWLRsY4UpTWCeo.jpg</fanart>
 <info>La princesa Leia, líder del movimiento rebelde que desea reinstaurar la República en la galaxia en los tiempos ominosos del Imperio, es capturada por las malévolas Fuerzas Imperiales, capitaneadas por el implacable Darth Vader, el sirviente más fiel del emperador. El intrépido Luke Skywalker, ayudado por Han Solo, capitán de la nave espacial "El Halcón Milenario", y los androides, R2D2 y C3PO, serán los encargados de luchar contra el enemigo y rescatar a la princesa para volver a instaurar la justicia en el seno de la Galaxia.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/zhz8q44cz6ej.html"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD1080[/COLOR]","url" : "https://streamtape.com/v/Xqwz1D7g9kiDYVq"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD1080[/COLOR]","url" : "https://www.fembed.com/v/5zxg0td0wxgrqqz"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/zhz8q44cz6ej.html"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://streamtape.com/v/Xqwz1D7g9kiDYVq"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/5zxg0td0wxgrqqz"}</urlsolve>
 </item>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -3551,7 +3551,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://www.themoviedb.org/t/p/original/zsZwahm4ktZPKX0B494CxqhbBhu.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/xYqTM4X1GZATxA7VHQTQ4TNLrUt.jpg</fanart>
 <info>Tras un ataque sorpresa de las tropas imperiales a las bases camufladas de la alianza rebelde, Luke Skywalker, en compañía de R2D2, parte hacia el planeta Dagobah en busca de Yoda, el último maestro Jedi, para que le enseñe los secretos de la Fuerza. Mientras, Han Solo, la princesa Leia, Chewbacca, y C3PO esquivan a las fuerzas imperiales y piden refugio al antiguo propietario del Halcón Milenario, Lando Calrissian, en la ciudad minera de Bespin, donde les prepara una trampa urdida por Darth Vader.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/cln7fzhiabst.html"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD1080[/COLOR]","url" : "https://streamtape.com/v/lqVYozqvwPI7JWe"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD1080[/COLOR]","url" : "https://www.fembed.com/v/3ren7im7j38rpl0"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/cln7fzhiabst.html"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://streamtape.com/v/lqVYozqvwPI7JWe"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/3ren7im7j38rpl0"}</urlsolve>
 </item>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -3565,7 +3565,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://www.themoviedb.org/t/p/original/rKMmXzdm7eRgmlwYo7iq3klT7wJ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/iP2tEA2A77qhbhRfcFkiD6WFOqH.jpg</fanart>
 <info>Luke Skywalker y la princesa Leia deben viajar a Tatooine para liberar a Han Solo. Para conseguirlo, deben infiltrarse en la peligrosa guarida de Jabba the Hutt, el gángster más temido de la galaxia. Una vez reunidos, el equipo recluta a tribus de Ewoks para combatir a las fuerzas imperiales en los bosques de la luna de Endor. Mientras tanto, el Emperador y Darth Vader conspiran para convertir a Luke al lado oscuro, pero el joven Skywalker, por su parte, está decidido a reavivar el espíritu del Jedi en su padre. La guerra civil galáctica culmina en un último enfrentamiento entre las fuerzas rebeldes unificadas y una segunda Estrella de la Muerte, indefensa e incompleta, en una batalla que decidirá el destino de la galaxia.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/wnbuhu0gu5jo.html"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD1080[/COLOR]","url" : "https://streamtape.com/v/3o4OGlGp6BtdgL2"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD1080[/COLOR]","url" : "https://www.fembed.com/v/7lg1pigpx31xkxk"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/wnbuhu0gu5jo.html"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://streamtape.com/v/3o4OGlGp6BtdgL2"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/7lg1pigpx31xkxk"}</urlsolve>
 </item>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -3579,7 +3579,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://www.themoviedb.org/t/p/original/tnBvD3IRx3lOPTzkdPKUC4XgXB8.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/8BTsTfln4jlQrLXUBquXJ0ASQy9.jpg</fanart>
 <info>Treinta años después de la victoria de la Alianza Rebelde sobre la segunda Estrella de la Muerte (hechos narrados en el Episodio VI: El retorno del Jedi), la galaxia está todavía en guerra. Una nueva República se ha constituido, pero una siniestra organización, la Primera Orden, ha resurgido de las cenizas del Imperio Galáctico. A los héroes de antaño, que luchan ahora en la Resistencia, se suman nuevos héroes: Poe Dameron, un piloto de caza, Finn, un desertor de la Primera Orden, Rey, una joven chatarrera, y BB-8, un androide rodante. Todos ellos luchan contra las fuerzas del Mal: el Capitán Phasma, de la Primera Orden, y Kylo Ren, un temible y misterioso personaje que empuña un sable de luz roja.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/2nods97pq9kw.html"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD1080[/COLOR]","url" : "https://streamtape.com/v/AXpYlGZlgjuXOV1"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD1080[/COLOR]","url" : "https://www.fembed.com/v/5zxg0td0wzewdkk"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/2nods97pq9kw.html"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://streamtape.com/v/AXpYlGZlgjuXOV1"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/5zxg0td0wzewdkk"}</urlsolve>
 </item>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -3593,7 +3593,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://www.themoviedb.org/t/p/original/7SNzh1fY3YJ8Y8MX93pZF5cJHaH.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/5Iw7zQTHVRBOYpA0V6z0yypOPZh.jpg</fanart>
 <info>La fuerza siente un cambio y los Maestros Jedi saben que es el momento de regresar. La galaxia se encuentra perdida y separada, y deberán unir fuerzas si no quieren que sea el fin de la paz. Con el rumor de una guerra, los pocos aliados que quedan emprenderán la búsqueda para aumentar sus aliados, mientras se enfrentan a la desconfianza y el temor de aquellos que no olvidan ni perdonan. Mundos casi olvidados, personajes misteriosos y viejas caras conocidas, una nueva aventura está a punto de comenzar para mantener la frágil supervivencia de La República, mientras se preparan para lo que está por llegar.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/gc8v607cslx9.html"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD1080[/COLOR]","url" : "https://streamtape.com/v/YGmBzRmvbLTL3A"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD1080[/COLOR]","url" : "https://www.fembed.com/v/m6pqji5w8xykdxw"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/gc8v607cslx9.html"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://streamtape.com/v/YGmBzRmvbLTL3A"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/m6pqji5w8xykdxw"}</urlsolve>
 </item>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -3607,7 +3607,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://www.themoviedb.org/t/p/original/5VkWbuQ1YyrWKkYGilmIYheQUh0.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/dCB7d4l0mfpsISZvr6aPE2z5QF6.jpg</fanart>
 <info>La Resistencia sobreviviente se enfrenta a la Primera Orden una vez más mientras continúa el viaje de Rey, Finn y Poe Dameron. Con el poder y el conocimiento de las generaciones detrás de ellos, comienza la batalla final.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/nsd3s9i5ycx2.html"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD1080[/COLOR]","url" : "https://streamtape.com/v/QeGa3dMzLkH01gp"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD1080[/COLOR]","url" : "https://www.fembed.com/v/5zxg0td0wqpxn8p"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/nsd3s9i5ycx2.html"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://streamtape.com/v/QeGa3dMzLkH01gp"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/5zxg0td0wqpxn8p"}</urlsolve>
 </item>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -3621,7 +3621,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://www.themoviedb.org/t/p/original/qZ9Dd7l72IhW6zbLEyArBkqss7s.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/j1l9zqe5ZQPEHGsz91FyZxMldq4.jpg</fanart>
 <info>Precuela de la saga Star Wars, en la que se conocerán los primeros pasos que dio el personaje de Han Solo, desde joven hasta convertirse en el antihéroe que vimos en "Una nueva esperanza", antes de que se encontrase con Luke y Obi-Wan en la cantina de Mos Eisley.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/je9pj77afvbb.html"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD1080[/COLOR]","url" : "https://streamtape.com/v/aVMV0GReqzSxVQz"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD1080[/COLOR]","url" : "https://www.fembed.com/v/2dlg6t26pmqe87q"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/je9pj77afvbb.html"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://streamtape.com/v/aVMV0GReqzSxVQz"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/2dlg6t26pmqe87q"}</urlsolve>
 </item>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -3635,7 +3635,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://www.themoviedb.org/t/p/original/6mRusUjLxCojgbsQc7pLY4isenw.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/uBCTm4BQJdEbq73HotAEZn2foTZ.jpg</fanart>
 <info>Los miembros de la familia Towani se ven separados cuando su nave choca en la superficie de la luna de Endor. Los padres no tardan en ser capturados por el gigante Gorax, mientras que su hijo Mace y su hija Cincel están desaparecidos. Los Ewoks encuentran a los niños en los restos de la nave, y éstos deberán ganarse la confianza de los pequeños habitantes de Endor para iniciar la aventura de rescatar a sus padres</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/j60p82xyiwnd.html"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD720[/COLOR]","url" : "https://streamtape.com/v/Y1zgrpa47GCvDj4"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD720[/COLOR]","url" : "https://www.fembed.com/v/ez-dj7160182e"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/j60p82xyiwnd.html"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 720[/COLOR]","url" : "https://streamtape.com/v/Y1zgrpa47GCvDj4"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 720[/COLOR]","url" : "https://www.fembed.com/v/ez-dj7160182e"}</urlsolve>
 </item>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -3649,7 +3649,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://www.themoviedb.org/t/p/original/or2IqyxJiaGL3AFGK45JQjXdlL2.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/xdH8k2O6mpLv4szeLkQGiM1aSOC.jpg</fanart>
 <info>Un ejército de merodeadores, bajo las órdenes del Rey Terak y la bruja Charal, atacan el Poblado Ewok. Cindel y Wicket huyen al bosque, donde se encuentran con Teek y el ermitaño Noa. Cindel y Wicket necesitarán la ayuda de Noa para derrotar a los merodeadores...</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/5ltf97i4zcid.html"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD720[/COLOR]","url" : "https://streamtape.com/v/b169V2lOAdFRKk"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD720[/COLOR]","url" : "https://www.fembed.com/v/nd1e24-gp3w1n"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/5ltf97i4zcid.html"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 720[/COLOR]","url" : "https://streamtape.com/v/b169V2lOAdFRKk"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 720[/COLOR]","url" : "https://www.fembed.com/v/nd1e24-gp3w1n"}</urlsolve>
 </item>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -3663,7 +3663,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://www.themoviedb.org/t/p/original/p8cPUCexDTFZxHI3ooqHYi6AUgL.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/2G0NbH3HqOdDSqJNylx1lHlU4VM.jpg</fanart>
 <info>Tras aterrizar de emergencia en el planeta volcánico Mustafar, Poe y BB-8 buscan ayuda en el escalofriante castillo de Darth Vader. Allí encuentran a un intrigante Hutt, un intrépido mecánico y el antiguo asistente de Darth Vader, Vaneé, que les obsequia con tres relatos aterradores ligados a antiguos artefactos y a villanos icónicos de todas las épocas de Star Wars.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/y8bb33hzuit7.html"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD1080[/COLOR]","url" : "https://streamtape.com/v/yd2gPqja1pF1q0v"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD1080[/COLOR]","url" : "https://www.fembed.com/v/-8kl2bpd53pl22d"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/y8bb33hzuit7.html"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://streamtape.com/v/yd2gPqja1pF1q0v"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/-8kl2bpd53pl22d"}</urlsolve>
 </item>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -3677,7 +3677,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://www.themoviedb.org/t/p/original/ApYuiyKtkyA1SMC6UgvKZczPwUj.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/1Lhc32P0a62BgMFgd20wXR1osR3.jpg</fanart>
 <info>Tras la derrota de la Primera Orden en 'Star Wars: El Ascenso de Skywalker', la galaxia se encuentra en un momento de paz y libertad, un instante de merecido descanso para nuestros héroes que, como bien narra el querido Maestro Yoda, se dispone a girar en torno a la celebración del Día de la Vida. Así, en esta fecha señalada dedicada a disfrutar de amigos y familia, Rey, Finn, Poe, Rose y compañía planean organizar una fiesta de la que formará parte la familia de Chewbacca y otros conocidos galácticos como Lando Calrissian o Maz Kanata.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/vqyccl2bdikx.html"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD1080[/COLOR]","url" : "https://streamtape.com/v/B7pDe2k3pMhyyeK"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD1080[/COLOR]","url" : "https://www.fembed.com/v/jndqjsdzkr6wepe"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/vqyccl2bdikx.html"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://streamtape.com/v/B7pDe2k3pMhyyeK"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/jndqjsdzkr6wepe"}</urlsolve>
 </item>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -3691,7 +3691,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://www.themoviedb.org/t/p/original/bCDa9memHnETeRrJWXzImTZdMal.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/hVl0qfLZ5loznDgQ0HxCTZqvZhz.jpg</fanart>
 <info>La historia muestra a Yoda dejando a un grupo de Padawans a cargo de C-3PO y R2-D2 durante un ataque al Senado Galáctico, presentando varios lugares conocidos de la saga y personajes interesantes como “Ian”. Especial televisivo de Star Wars emitido por el canal Cartoon Network el 22 de julio de 2011.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/9bp0tybkaftr"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD720[/COLOR]","url" : "https://streamtape.com/v/AKljMDAQ1MuZMR"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD1080[/COLOR]","url" : "https://streamtape.com/v/yl6xe4yZf3vK"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/9bp0tybkaftr"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 720[/COLOR]","url" : "https://streamtape.com/v/AKljMDAQ1MuZMR"}</urlsolve>
 </item>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -3705,7 +3705,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://www.themoviedb.org/t/p/original/aEmRUyA3q5SqKtKTnHA8Smpm6X0.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/6f17DgTdrNaQS1VSpKwfLBxLKB9.jpg</fanart>
 <info>Los rebeldes tienen motivos para celebrar su victoria sobre la temible Estella de la Muerte, pero no pueden dormirse en los laureles, el imperio les perseguirá por haber roto su juguete favorito y deberán evacuar sus tropas al inhóspito planeta de Hoth. Mientras tanto Luke Skywalker tendrá que localizar la base imperial en Naboo e informar a la princesa Leia y a Han, que la destruirán con la ayuda de las tropas Gungan. Pero las cosas no pueden ser tan fáciles¿ Un grupo de jóvenes y enfervorecidas fans acosarán a Luk en Naboo, poniéndole muy difícil su tarea de pasar inadvertido y localizar la base militar imperial. Mientras tanto, Darth Vader tratará de localizarles y su maestro Darth Sidious ha ideado un malvado y original plan para terminar con los rebeldes: ¡construir otra Estrella de la Muerte! ¿Conseguirá Luke deshacerse de sus fans a tiempo para localizar la base imperial? ¿Logrará Darth Vader localizar a los rebeldes?</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/zak2obttxmox"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD720[/COLOR]","url" : "https://streamtape.com/v/6aojJaZ148S9G2O"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD1080[/COLOR]","url" : "https://streamtape.com/v/6xe4DLyZf3vK"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/zak2obttxmox"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 720[/COLOR]","url" : "https://streamtape.com/v/6aojJaZ148S9G2O"}</urlsolve>
 </item>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -3719,7 +3719,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://www.themoviedb.org/t/p/original/amZfOzdfZDA3XMGSZOBzy0neIJj.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/tz1f72pS6nOCl9Ac3WgElU3zFbw.jpg</fanart>
 <info>Comienza cuando Darth Sidious desvela su plan para crear una súper arma (un clon Sith mejorado cuyo nombre es Jek-14) para ayudarle a derrotar a la República de una vez por todas. Corresponde al Jedi Master Yoda y a sus jóvenes estudiantes Padawan trabajar juntos y ¡salvar la galaxia!.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/pdmhhsw0dh84"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD[/COLOR]","url" : "https://streamtape.com/v/3aWO3LxaLOs21G"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD1080[/COLOR]","url" : "https://streamtape.com/v/yl6xeLyZf3vK"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/pdmhhsw0dh84"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 720[/COLOR]","url" : "https://streamtape.com/v/3aWO3LxaLOs21G"}</urlsolve>
 </item>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -3733,7 +3733,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://www.themoviedb.org/t/p/original/amZfOzdfZDA3XMGSZOBzy0neIJj.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/tz1f72pS6nOCl9Ac3WgElU3zFbw.jpg</fanart>
 <info>Count Dooku usa su nuevo y mejorado Clone-a-Matic para crear un ejército de clones Jek, pero el original Jek-14 no quiere participar en este plan siniestro. Ahora, con la ayuda de algunos viejos amigos y dos Droids familiares, el profesor sustituto Anakin Skywalker debe conducir a la clase de los Padawan de Yoda a la victoria.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/vpet40l3m1e8"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD720[/COLOR]","url" : "https://streamtape.com/v/bQad9AXlOlhPwbM"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD1080[/COLOR]","url" : "https://streamtape.com/v/yl6xe4DZf3vK"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/vpet40l3m1e8"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 720[/COLOR]","url" : "https://streamtape.com/v/bQad9AXlOlhPwbM"}</urlsolve>
 </item>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -3747,7 +3747,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://www.themoviedb.org/t/p/original/mAqgFQxaBaLkcQBRQf9YnAz9sNQ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/tWWmyD7ObPlFxVg88wLFed0QWLI.jpg</fanart>
 <info>El Imperio Galáctico ha terminado de construir el arma más poderosa de todas, la Estrella de la muerte, pero un grupo de rebeldes decide realizar una misión de muy alto riesgo: robar los planos de dicha estación antes de que entre en operaciones, mientras se enfrentan también al poderoso Lord Sith conocido como Darth Vader, discípulo del despiadado Emperador Palpatine.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/9q3rr1gk938b.html"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD1080[/COLOR]","url" : "https://streamtape.com/v/reryVa0OaKubZlv"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD1080[/COLOR]","url" : "https://www.fembed.com/v/6q8grh0reypzy00"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/9q3rr1gk938b.html"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://streamtape.com/v/reryVa0OaKubZlv"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/6q8grh0reypzy00"}</urlsolve>
 </item>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -3756,25 +3756,25 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 "Tag= Malu3, Disney, 1Fantastico, 1Accion, 1Ciencia Ficcion, A2019, Letra S, EEUU, Superheroes, Adolescencia, Secuela, Comic, Marvel, Comics, Columbia, Sony, "
  
 <item>
-<title>[COLOR white]Spider Man: Lejos De Casa [COLOR blue](2019)[/COLOR]</title>    
+<title>[COLOR white]Spider Man: Lejos De Casa [COLOR coral](2019)[/COLOR]</title>    
 <genre>Fantastico, Accion, Ciencia Ficcion</genre>
 <year>2019</year>  
 <thumbnail>https://i.imgur.com/bEXtioK.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Peter Parker decide irse junto a MJ, Ned y el resto de sus amigos a pasar unas vacaciones a Europa. Sin embargo, el plan de Parker por dejar de lado sus superpoderes durante unas semanas se ven truncados cuando Nick Fury contacta con el para solicitarle ayuda para frenar el ataque de unas criaturas elementales que estan causando el caos en el continente. En ese momento, Parker vuelve a ponerse el traje de Spider-Man para cumplir con su labor.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/k0ybw2tc8pu5"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]1080p[/COLOR]","url" : "https://www.fembed.com/v/kw0qjh328z-68g2"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/k0ybw2tc8pu5"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/kw0qjh328z-68g2"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 "Tag= Malu3, Disney, 1Fantastico, 1Accion, 1Aventuras, A2018, Letra S, EEUU, Superheroes, Marvel, "
 <item>
-<title>[COLOR white]Spider-Man: Un nuevo universo  [COLOR blue](2018)[/COLOR]</title>    
+<title>[COLOR white]Spider-Man: Un nuevo universo  [COLOR coral](2018)[/COLOR]</title>    
 <genre>Fantastico, Accion,Aventuras</genre>
 <year>2018</year>  
 <thumbnail>https://i.imgur.com/5NP9ZpH.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>En un universo paralelo donde Peter Parker ha muerto, un joven de secundaria llamado Miles Morales es el nuevo Spider-Man. Sin embargo, cuando el lider mafioso Wilson Fisk (a.k.a Kingpin) construye el "Super Colisionador" trae a una version alternativa de Peter Parker que tratara de enseñarle a Miles como ser un mejor Spider-Man. Pero no sera el unico Spider Man en entrar a este universo, 4 versiones alternas de Spidey apareceran y buscaran regresar a su universo antes de que toda la realidad colapse.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/pa6lgtzbmh1j"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]1080p[/COLOR]","url" : "https://www.fembed.com/v/wwx41hn3-qkw-xm"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/pa6lgtzbmh1j"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/wwx41hn3-qkw-xm"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -3804,18 +3804,18 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion ,1Aventuras, 1 Familiar, Letra S, EEUU, "
 <item>
-<title>[COLOR white]Stubby, un heroe muy especial  [COLOR blue](2018)[/COLOR]</title> 
+<title>[COLOR white]Stubby, un heroe muy especial  [COLOR coral](2018)[/COLOR]</title> 
 <genre>Animacion,Aventuras </genre>
 <year>2018</year>
 <thumbnail>https://i.imgur.com/VBgwc1U.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>El joven militar Robert Conroy ve como su vida cambia cuando encuentra a un pequeño perro en el campamento donde entrena para la guerra. A pesar de no tener formacion militar, el perro se embarca en la aventura, donde luchara junto a Robert y las tropas francesas antes de hacer historia.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/eiig2pgqys1w"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]1080p[/COLOR]","url" : "https://www.fembed.com/v/kw0qjh32j2xr0y2"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/eiig2pgqys1w"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/kw0qjh32j2xr0y2"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion,  A2019, Letra S,  "
 <item>
-<title>[COLOR white]Super Bear  [COLOR blue](2019)[/COLOR]</title> 
+<title>[COLOR white]Super Bear  [COLOR coral](2019)[/COLOR]</title> 
 <genre>Animacion</genre>
 <year>2019</year>
 <thumbnail>https://i.imgur.com/pe68Yix.jpg</thumbnail>
@@ -3826,19 +3826,19 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Fantastico, A2018, Letra S, Netflix,  Halloween"
 <item>
-<title>[COLOR white]Super Monsters Save Halloween  [COLOR blue](2018)[/COLOR]</title> 
+<title>[COLOR white]Super Monsters Save Halloween  [COLOR coral](2018)[/COLOR]</title> 
 <genre>Animacion,Comedia,Fantastico</genre>
 <year>2018</year>
 <thumbnail>https://i.imgur.com/BxiQ5Hw.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Los supermonstruos usan sus poderes para contagiar el espiritu de Halloween entre sus vecinos y le hacen ver a un amigo que no hay nada que temer.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/rljbegv441yf"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]1080p[/COLOR]","url" : "https://www.fembed.com/v/kw0qjh328l76x18"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/rljbegv441yf"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/kw0qjh328l76x18"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, A2018, Letra S, China, "
 
 <item>
-<title>[COLOR white]Super Papa Oso [COLOR blue](2018)[/COLOR]</title>    aqui
+<title>[COLOR white]Super Papa Oso [COLOR coral](2018)[/COLOR]</title>    aqui
 <genre>Animacion, Infantil</genre>
 <year>2018</year>  
 <thumbnail>https://i.imgur.com/PksSO3F.jpg</thumbnail>
@@ -3850,7 +3850,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 
 "Tag= Malu3, Disney, 1Animacion, 1Ficcion, 1Accion, A2010, Letra S, EEUU, Warner, 1DC, Superheroes, "
 <item>
-<title>[COLOR white]Superman/Shazam!: El regreso de Black Adam  [COLOR blue](2010)[/COLOR]</title> 
+<title>[COLOR white]Superman/Shazam!: El regreso de Black Adam  [COLOR coral](2010)[/COLOR]</title> 
 <genre>Animacion,Ficcion,Accion</genre>
 <year>2010</year>
 <thumbnail>https://i.imgur.com/kZeLakz.jpg</thumbnail>
@@ -3863,42 +3863,42 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Fantastico, 1Infantil, A1985, Letra T, EEUU, Medieval, Brujerias, Disney, C720, "
 <item>
-<title>[COLOR white]Taron Y El Caldero Magico [COLOR blue](1985)[/COLOR]</title>    
+<title>[COLOR white]Taron Y El Caldero Magico [COLOR coral](1985)[/COLOR]</title>    
 <genre>Animacion, Aventuras, Fantastico, Infantil</genre>
 <year>1985</year>  
 <thumbnail>https://i.imgur.com/UvSOt8M.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Taron es un valeroso joven que debe impedir que el malvado Rey Horned se apodere del Caldero Magico, cuya fuerza misteriosa es capaz de crear un autentico ejercito de invencibles guerreros sobrenaturales. En su lucha contra el mal, Taron cuenta con la ayuda de su maestro, Dallben, la princesa Eilonwy, un animal con aspecto de osito de peluche llamada Gurgi, un juglar que se hace llamar Fflewddur Fflam, un cerdito con dotes de clarividente y un trio de brujas excentricas.CS.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/ft3fo3secrxn"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]1080p[/COLOR]","url" : "https://www.fembed.com/v/wwx41hn3-k06pl8"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/ft3fo3secrxn"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/wwx41hn3-k06pl8"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Drama, A1999, Letra T, EEUU, Africa, Naturaleza, Simios, Animales, Disney, C1080, "
 <item>
-<title>[COLOR white]Tarzan [COLOR blue](1999)[/COLOR]</title>    
+<title>[COLOR white]Tarzan [COLOR coral](1999)[/COLOR]</title>    
 <genre>Animacion, Aventuras, Drama</genre>
 <year>1999</year>  
 <thumbnail>https://i.imgur.com/bKOj739.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Cuando Kala, una gorila hembra, encuentra un niño huerfano en la jungla, decide adoptarlo como su propio hijo a pesar de la oposicion de Kerchak, el jefe de la manada. Junto a Terk, un gracioso mono y Tantor, un elefante algo neurotico, Tarzan crecera en la jungla desarrollando los instintos de los animales y aprendiendo a deslizarse entre los arboles a velocidad de vertigo. Pero cuando una expedicion se adentra en la jungla y Tarzan conoce a Jane, descubrira quien es realmente y cual es el mundo al que pertenece...</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/0zr5x1vo9cms"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]1080p[/COLOR]","url" : "https://www.fembed.com/v/y6g7ziex780477e"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/0zr5x1vo9cms"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/y6g7ziex780477e"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, 1Aventuras, 1Comedia, A2005, Letra T, EEUU, Disney, C720, "
 <item>
-<title>[COLOR white]Tarzan 2 [COLOR blue](2005)[/COLOR]</title>    
+<title>[COLOR white]Tarzan 2 [COLOR coral](2005)[/COLOR]</title>    
 <genre>Animacion, Infantil, Aventuras, Comedia</genre>
 <year>2005</year>  
 <thumbnail>https://i.imgur.com/57xqsDR.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Antes de ser el Rey de la Selva, Tarzan era un niño inquieto que intentaba encontrar su papel en el mundo. Cuando una de sus travesuras pone a su familia en peligro, Tarzan decide que ellos estaran mejor sin el. Asi se embarca en un emocionante viaje que le llevara a encontrarse cara a cara con el misterioso Zugor, la fuerza mas poderosa del planeta. Juntos, Tarzan y Zugor descubren que ser diferentes no es una debilidad y que los amigos y la familia son el mayor apoyo de todos.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/vk3jb8sribjq"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]1080p[/COLOR]","url" : "https://www.fembed.com/v/ez-djt-7q7jzr4r"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/vk3jb8sribjq"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/ez-djt-7q7jzr4r"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 "Tag= Malu3, Disney, 1Musical, 1Comedia, 1Fantastico, A2013, Letra T, EEUU, Magia, Disney, "
 <item>
-<title>[COLOR white]Teen Beach Movie 1 [COLOR blue](2013)[/COLOR]</title> 
+<title>[COLOR white]Teen Beach Movie 1 [COLOR coral](2013)[/COLOR]</title> 
 <genre>Musical, Comedia, Fantastico</genre>
 <year>2013</year>
 <thumbnail>https://i.imgur.com/Dw1qyOi.jpg</thumbnail>
@@ -3910,7 +3910,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 
 "Tag= Malu3, Disney, 1Musical, 1Comedia, 1Fantastico, A2015, Letra T, EEUU, Magia, Disney, "
 <item>
-<title>[COLOR white]Teen Beach 2 [COLOR blue](2015)[/COLOR]</title> 
+<title>[COLOR white]Teen Beach 2 [COLOR coral](2015)[/COLOR]</title> 
 <genre>Musical, Comedia, Fantastico</genre>
 <year>2015</year>
 <thumbnail>https://1.bp.blogspot.com/-uCXDzyXdp2w/Wm8JyHkHJGI/AAAAAAAAFEs/B1eLJritpaMsXA_V7kDtcr2jUWsBY1orQCLcBGAs/s1600/Teen_Beach_2_TV-273959269-large.jpg</thumbnail>
@@ -3923,24 +3923,24 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 "Tag= Malu3, Disney, 1Animacion, 1Accion, 1Comedia, A2018, Letra T, EEUU, Superheroes, Comic, Warner Bros, "
 
 <item>
-<title>[COLOR white]Teen Titans Go! La Pelicula [COLOR blue](2018)[/COLOR]</title> 
+<title>[COLOR white]Teen Titans Go! La Pelicula [COLOR coral](2018)[/COLOR]</title> 
 <genre>Animacion</genre>
 <year>2018</year>  
 <thumbnail>https://i.imgur.com/X6GKr85.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Cuando los Jovenes Titanes se enteran de que otros superheroes de DC han realizado sus propias peliculas, estos buscaran encontrar en un viaje epico un director perfecto para su debut en la gran pantalla, pero un viejo enemigo tiene otras ideas planeadas para ellos. </info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/r52ct7nvrscb"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]1080p[/COLOR]","url" : "https://www.fembed.com/v/qzmw6te5wjqd8e-"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/r52ct7nvrscb"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/qzmw6te5wjqd8e-"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Fantastico, 1Infantil, A2019, Letra T, Spain, CValores, "
 <item> 
-<title>[COLOR white]Teresa y Tim [COLOR blue](2016)[/COLOR]</title>  
+<title>[COLOR white]Teresa y Tim [COLOR coral](2016)[/COLOR]</title>  
 <genre>Animacion,Fantastico,Infantil</genre>
 <year>2016</year>  
 <thumbnail>https://i.imgur.com/IQ3BPUE.jpg</thumbnail>
 <fanart>https://i.imgur.com/5N4e29A.jpg</fanart>
 <info>Cada año los duendes traen una nueva primavera. Tim es uno que llega por primera vez. Despistado por el atractivo sonido de la feria, se separara del resto de los duendes y sera atrapado por los malvados Samuel y Vlad para ser explotado como atraccion en el circo. Teresa, una niña de 6 años, lo descubrira alli y se encaprichara de el. Tim, a su vez, vera en ella la oportunidad de escapar. Tras huir se escondera en casa de Teresa y, protegido por ella, correran diversas aventuras, convirtiendose en amigos inseparables. Sin embargo, con el paso del tiempo Tim comenzara a transformarse. Lleva demasiado tiempo lejos de su mundo y de los suyos. Tan solo ayudandolo en su regreso a casa podra salvar a Tim.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/j93lcsnzwoe4"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]1080p[/COLOR]","url" : "https://www.fembed.com/v/-8kl2bpd26dg40l"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/j93lcsnzwoe4"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/-8kl2bpd26dg40l"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -3952,14 +3952,14 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://i.imgur.com/REbDy0m.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Despues de que su nave quedase reducida a cenizas, el joven Willy pierde el contacto con sus padres, con los que habia viajado a traves del espacio. Su capsula aterriza en un planeta salvaje a inexplorado. Con la ayuda de Buck, un robot de supervivencia, Willy trata de salvaguardarse hasta que alguien acuda a su rescata. Mientras tanto, tanto el como Buck y un nuevo amigo alienigena llamado Flash descubren la flora y la fauna del planeta... y algunos de sus multiples peligros.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/2ccQC6zgKqOg/festakids-terra-willi-2019-1080-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/qhlpxe1wt62t"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]1080[/COLOR]","url" : "https://www.fembed.com/v/rq217herpy8y0wz"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/2ccQC6zgKqOg/festakids-terra-willi-2019-1080-mkv"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/qhlpxe1wt62t"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/rq217herpy8y0wz"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, 1Musical, A1948, Letra T, EEUU, Disney, C720, "
 <item>
-<title>[COLOR white]Tiempo De Melodia [COLOR blue](1948)[/COLOR]</title>    
+<title>[COLOR white]Tiempo De Melodia [COLOR coral](1948)[/COLOR]</title>    
 <genre>Animacion, Infantil, Musical</genre>
 <year>1948</year>  
 <thumbnail>https://i.imgur.com/ezsNx8G.jpg</thumbnail>
@@ -3979,19 +3979,19 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://i.imgur.com/8YCtq6l.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Timmy es un imaginativo niño de 11 años que es fundador, presidente y director general de la mejor agencia de detectives de la ciudad, probablemente del estado y quizas de la nacion: de nombre Total Failure. Timmy dirige la agencia junto a su mejor amigo, un imaginario oso polar de 1500 libras de peso cuyo mayor talento parece ser comer de la basura.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/2bZuNLtV0Rsk/festakids-timmy-failure-2020-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/epglb9sy94gs"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]1080[/COLOR]","url" : "https://www.fembed.com/v/2dlg6t26qd0lwnk"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/2bZuNLtV0Rsk/festakids-timmy-failure-2020-mkv"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/epglb9sy94gs"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/2dlg6t26qd0lwnk"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 "Tag= Malu3, Disney, 1Animacion, A1981, Letra T, EEUU , Disney, "
 <item>
-<title>[COLOR white]Tod y Toby [COLOR blue](1981)[/COLOR]</title>    
+<title>[COLOR white]Tod y Toby [COLOR coral](1981)[/COLOR]</title>    
 <genre>Animacion</genre>
 <year>1981</year>  
 <thumbnail>https://i.imgur.com/LvigisJ.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>La aventura y la diversion de este clasico de la Disney comienzan cuando una adorable viuda adopta un precioso cachorro de zorro llamado Tod. El travieso zorro pronto se encuentra con Toby, un adorable cachorro de perro de caza. Asi se hace los dos inseparables amigos... sin saber que por su naturaleza deberian ser enemigos. Bajo la mirada vigilante de Mama Buho, Tod y Toby juegan y se divierten en el bosque, inconscientes de que en el futuro tendran que enfrentarse y poner su amistad a prueba.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/0g73eyvp9k0z"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]1080p[/COLOR]","url" : "https://www.fembed.com/v/3ren7im766z7erx"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/0g73eyvp9k0z"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/3ren7im766z7erx"}</urlsolve>
 </item>  
 
 
@@ -4005,7 +4005,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://i.imgur.com/Uza60FH.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Tod y Toby siguen juntos como uña y carne, pero cuando Toby tiene la oportunidad de unirse a un extravagante grupo de perros aulladores, su amistad de pura raza se pondra a prueba.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/Xr4DmolUdt3R/festakids-tod-y-toby-2-2006-720-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/f4kyfx9uj8ut"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]1080[/COLOR]","url" : "https://www.fembed.com/v/3ren7im76mndedj"}</urlsolve>  
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/Xr4DmolUdt3R/festakids-tod-y-toby-2-2006-720-mkv"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/f4kyfx9uj8ut"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/3ren7im76mndedj"}</urlsolve>  
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -4019,7 +4019,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://i.imgur.com/9afNoJH.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Cuenta la historia de Togo, un perro de trineos que gano la carrera mas importante de esta disciplina en 1925 pese a haber sido considerado incapaz de terminarla siquiera debido a su pequeño tamaño.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/196xBmuB9trv/festakids-togo-2020-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/mvcftth5kvmh"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]1080[/COLOR]","url" : "https://www.fembed.com/v/03qg2il2dl1yzg4"}</urlsolve> 
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/196xBmuB9trv/festakids-togo-2020-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/mvcftth5kvmh"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/03qg2il2dl1yzg4"}</urlsolve> 
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -4027,51 +4027,51 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 
 "Tag= Malu3, Disney, 1Ficcion, 1Aventuras, A2015, Letra T, EEUU, Robots, Disney, "
 <item>
-<title>[COLOR white]Tomorrowland: El Mundo Del Mañana [COLOR blue](2015)[/COLOR]</title> 
+<title>[COLOR white]Tomorrowland: El Mundo Del Mañana [COLOR coral](2015)[/COLOR]</title> 
 <genre>Ficcion, Aventuras</genre>
 <year>2015</year>
 <thumbnail>https://4.bp.blogspot.com/-FwDp6fcIIz0/WnMNwCzj_MI/AAAAAAAAFNQ/aXME2paSho06ch-AGkEArs_ie6lJt-9sACLcBGAs/s1600/Tomorrowland_El_mundo_del_ma_ana-906188596-large.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Unidos por el mismo destino, una adolescente inteligente y optimista, llena de curiosidad cientifica, y un antiguo niño prodigio inventor, hastiado por las desilusiones, se embarcan en una peligrosa mision para desenterrar los secretos de un enigmatico lugar localizado en algun lugar del tiempo y el espacio, conocido en la memoria colectiva como “Tomorrowland”, y asi salvar a la humanidad. </info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/lsjy7mj8uwo3"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]1080p[/COLOR]","url" : "https://www.fembed.com/v/8yng1a81wjjylqg"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/lsjy7mj8uwo3"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/8yng1a81wjjylqg"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 "Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Fantastico, 1Aventuras, 1Infantil, A1995, Letra T, EEUU, Muñecos, Pixar, 1Familiar, ToyStory, "
 <item>
-<title>[COLOR white]Toy Story [COLOR blue](1995)[/COLOR]</title>    
+<title>[COLOR white]Toy Story [COLOR coral](1995)[/COLOR]</title>    
 <genre>Animacion</genre>
 <year>1995</year>  
 <thumbnail>https://i.imgur.com/cy5jjuO.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Los juguetes de Andy, un niño de 6 años, temen que haya llegado su hora y que un nuevo regalo de cumpleaños les sustituya en el corazon de su dueño. Woody, un vaquero que ha sido hasta ahora el juguete favorito de Andy, trata de tranquilizarlos hasta que aparece Buzz Lightyear, un heroe espacial dotado de todo tipo de avances tecnologicos. Woody es relegado a un segundo plano. Su constante rivalidad se transformara en una gran amistad cuando ambos se pierden en la ciudad sin saber como volver a casa. </info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/cmretu6eqfm2"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]1080p[/COLOR]","url" : "https://www.fembed.com/v/rq217herp1lkqmy"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/cmretu6eqfm2"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/rq217herp1lkqmy"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 "Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Fantastico, 1Aventuras, 1Infantil, A1999, Letra T, EEUU, Muñecos, Pixar, 1Familiar, ToyStory, "
 <item>
-<title>[COLOR white]Toy Story 2 [COLOR blue](1999)[/COLOR]</title> 
+<title>[COLOR white]Toy Story 2 [COLOR coral](1999)[/COLOR]</title> 
 <genre>Animacion, Comedia, Fantastico, Aventuras, Infantil</genre>
 <year>1999</year>  
 <thumbnail>https://i.imgur.com/aYCRYtB.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Cuando Andy se va de campamento dejando solos a los juguetes, Al McWhiggin, un compulsivo coleccionista de juguetes valiosos, secuestra a Woody. Buzz Lightyear y los demas juguetes tendran que actuar con rapidez si quieren rescatarlo. Durante la operacion de rescate no solo tendran que afrontar multiples peligros, sino que tambien viviran divertidas situaciones.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/8k7c5foq2kt2"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]1080p[/COLOR]","url" : "https://www.fembed.com/v/165g4ij4ngpgqy1"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/8k7c5foq2kt2"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/165g4ij4ngpgqy1"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 "Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Aventuras, A2010, Letra T, EEUU, Navidad, Munecos, Dinosaurios, Pixar, ToyStory, "
 
 <item>
-<title>[COLOR white]Toy Story 3 [COLOR blue](2010)[/COLOR]</title> 
+<title>[COLOR white]Toy Story 3 [COLOR coral](2010)[/COLOR]</title> 
 <genre>Animacion, Comedia, Aventuras</genre>
 <year>2010</year>   
 <thumbnail>https://i.imgur.com/oVYnody.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Cuando su dueño Andy se prepara para ir a la universidad, el vaquero Woody, el astronauta Buzz y el resto de sus amigos juguetes comienzan a preocuparse por su incierto futuro. Efectivamente todos acaban en una guarderia, donde por ejemplo la muñeca Barbie conocera al guapo Ken. Esta reunion de nuestros amigos con otros nuevos juguetes no sera sino el principio de una serie de trepidantes y divertidas aventuras.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/rkepeh5sobg4"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]1080p[/COLOR]","url" : "https://www.fembed.com/v/zdn2mtj42m3rmj6"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/rkepeh5sobg4"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/zdn2mtj42m3rmj6"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -4080,13 +4080,13 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 "Tag= Malu3, Disney, 1Animacion, A2019, Letra T, EEUU, 1Fantastico, 1Aventuras, 1Comedia, 1Infantil, Muñecos, 1Familiar, Pixar, ToyStory, "
  
 <item>
-<title>[COLOR white]Toy Story 4 [COLOR blue](2019)[/COLOR]</title>    
+<title>[COLOR white]Toy Story 4 [COLOR coral](2019)[/COLOR]</title>    
 <genre>Fantastico, Accion, Ciencia Ficcion</genre>
 <year>2019</year>  
 <thumbnail>https://i.imgur.com/ltmYatQ.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Woody siempre ha tenido claro cual es su labor en el mundo y su prioridad: cuidar a su dueño, ya sea Andy o Bonnie. Pero cuando Bonnie añade a Forky, un nuevo juguete de fabricacion propia, a su habitacion, arranca una nueva aventura que servira para que los viejos y nuevos amigos le enseñen a Woody lo grande que puede ser el mundo para un juguete. </info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/hvhcwku9h1wy"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]1080p[/COLOR]","url" : "https://www.fembed.com/v/kw0qjh32jyrm1m-"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/hvhcwku9h1wy"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/kw0qjh32jyrm1m-"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -4101,41 +4101,41 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://i.imgur.com/jjvOYk9.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Despues del dia de Navidad, la pandilla de "Toy Story" se encuentra en territorio desconocido cuando Bonnie va a casa de un amigo a jugar a la consola. Alli, Woody y compañia se encuentran con todo un set de figuras de Accion que no sabe que en realidad son juguetes. Ahora todo depende de Trixie, el triceratops, para que las cosas no se vuelvan completamente locas. </info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/ER6Tk7WcAGg6/festakids-toy-story-el-tiempo-perdido-2014-720-mkv"},{"titulo" : "[COLOR blue]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/1geqp7kz5mjc"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]1080p[/COLOR]","url" : "https://www.fembed.com/v/jndqjsdzjlj70xy"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/ER6Tk7WcAGg6/festakids-toy-story-el-tiempo-perdido-2014-720-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/1geqp7kz5mjc"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red] HD1080[/COLOR]","url" : "https://www.fembed.com/v/jndqjsdzjlj70xy"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 "Tag= Malu3, Disney, 1Drama, 1Comedia, 1Familiar, 1Infantil, A2019, Letra T, EEUU, C1080, "
 <item>
-<title>[COLOR white]Troupe Zero [COLOR blue](2019)[/COLOR]</title>    
+<title>[COLOR white]Troupe Zero [COLOR coral](2019)[/COLOR]</title>    
 <genre>Comedia,Drama,Familiar</genre>
 <year>2019</year>  
 <thumbnail>https://i.imgur.com/R0AtxCO.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>En la Georgia rural de 1977, una chica problematica (Mckenna Grace) sueña con vivir en el espacio exterior. Cuando una competicion nacional le ofrece la posibilidad de ver su sueño cumplido, esta se propone reclutar a un improvisado grupo de "Birdie Scouts", forjando una amistad que durara para toda la eternidad. </info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/el140mtjdc6x"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]1080p[/COLOR]","url" : "https://www.fembed.com/v/3ren7im7lyjx63n"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/el140mtjdc6x"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/3ren7im7lyjx63n"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, 1Familiar, A2019, EEUU, C1080, "
 <item>
-<title>[COLOR white]UglyDolls: Extraordinariamente feos  [COLOR blue](2019)[/COLOR]</title>    
+<title>[COLOR white]UglyDolls: Extraordinariamente feos  [COLOR coral](2019)[/COLOR]</title>    
 <genre>Animacion, Aventuras,Comedia</genre>
 <year>2019</year>  
 <thumbnail>https://i.imgur.com/oJxDvJh.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Hace muchos años, se crearon los muñecos para dar felicidad a todos los niños del mundo. Pero, ¿alguna vez te has preguntado de donde vienen? Viven en una ciudad magica donde todo es perfecto. Por el contrario, los UglyDolls, los muñecos de peluche imperfectos, viven en Feolandia, un mundo en el que nadie los juzga y en el que se sienten felices y protegidos. Pero...¿que pasaria si estos dos mundos se unieran?</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/emfeeyzop9bl"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]1080p[/COLOR]","url" : "https://www.fembed.com/v/41ygdszdw-yp3pg"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/emfeeyzop9bl"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/41ygdszdw-yp3pg"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Comedia, 1Familiar, A2005, EEUU, Disney, C1080, "
 <item>
-<title>[COLOR white]Un canguro superduro  [COLOR blue](2005)[/COLOR]</title>    
+<title>[COLOR white]Un canguro superduro  [COLOR coral](2005)[/COLOR]</title>    
 <genre>Comedia</genre>
 <year>2005</year>  
 <thumbnail>https://i.imgur.com/QR4CLRH.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Un marine estadounidense debe proteger a cinco niños de un cientifico asesinado que trabajaba en proyectos secretos del gobierno. Ahora, Shane, un Navy Seal acostumbrado a peligrosas misiones de rescate, debe enfrentarse a dos trabajos completamente incompatibles: luchar contra los malos mientras cuida de la casa y se hace cargo de las revoltosas criaturas; ademas de intentar vencer al enemigo. Shane debe enfrentarse a la rebelde adolescente Zoe, y a sus hermanos Seth, Lulu, Peter y el bebe Tyler. </info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/9c4howtit3uv"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]1080p[/COLOR]","url" : "https://www.fembed.com/v/41ygdszdp03472p"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/9c4howtit3uv"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/41ygdszdp03472p"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Comedia, 1Familiar, A2005, EEUU, Disney, C1080, "
@@ -4153,44 +4153,44 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Musical, A2016, Letra V, EEUU, Disney, C1080, "
 
 <item>
-<title>[COLOR white]Vaiana [COLOR blue](2016)[/COLOR]</title>  
+<title>[COLOR white]Vaiana [COLOR coral](2016)[/COLOR]</title>  
 <genre>Animacion, Aventuras, Musical</genre>
 <year>2016</year>  
 <thumbnail>https://1.bp.blogspot.com/-D2Vf246yMVI/WgiGGSzhrwI/AAAAAAAAAtA/_LcWeLzw1sYqYRtLW1CLRvETqTejRHw0ACLcBGAs/s1600/Vaiana-890482402-large.jpg</thumbnail>
 <fanart>https://3.bp.blogspot.com/-ngYVYtz1fPY/WgiGGT5rLUI/AAAAAAAAAs8/E8dsa3f0y3AMYDYc26xtHs9-r16Ywf0MACLcBGAs/s1600/Vaiana-735852899-large.jpg</fanart>
 <info>La historia se desarrolla hace dos milenios en unas islas del sur del Pacifico. La protagonista es Vaiana Waialiki, una joven que desea explorar el mundo navegando por el oceano. Ella es la unica hija de un importante capitan que pertenece a una familia con varias generaciones de marinos.CS.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/p3mn71zdvtgq"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]1080[/COLOR]","url" : "https://www.fembed.com/v/ez-djt-7e662znx"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/p3mn71zdvtgq"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/ez-djt-7e662znx"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 "Tag= Malu3, Disney, 1Animacion, 1Ficcion, 1Romance, 1Infantil, A2008, Letra W, EEUU, Pixar, C1080, "
 <item>
-<title>[COLOR white]Wall-e  [COLOR blue](2008)[/COLOR]</title>Leia 
+<title>[COLOR white]Wall-e  [COLOR coral](2008)[/COLOR]</title>Leia 
 <genre>Animacion,Ficcion,Romance,Infantil</genre>
 <year>2008</year>
 <thumbnail>https://i.imgur.com/rZhTJVb.jpg</thumbnail>
 <fanart>https://i.imgur.com/5N4e29A.jpg</fanart>
 <info>En el año 2800, en un planeta Tierra devastado y sin vida, tras cientos de solitarios años haciendo aquello para lo que fue construido -limpiar el planeta de basura- el pequeño robot WALL•E (acronimo de Waste Allocation Load Lifter Earth-Class) descubre una nueva mision en su vida (ademas de recolectar cosas inservibles) cuando se encuentra con una moderna y lustrosa robot exploradora llamada EVE. Ambos viajaran a lo largo de la galaxia y viviran una emocionante e inolvidable aventura...</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/p090gwisawb6"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]1080p[/COLOR]","url" : "https://www.fembed.com/v/6q8grh0rx14-xx7"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/p090gwisawb6"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/6q8grh0rx14-xx7"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, 1Comedia, A2005, Letra W, Reino Unido, Dreamworks, C720, "
 <item>
-<title>[COLOR white]Wallace Y Gromit. La Maldicion De Las Verduras [COLOR blue](2005)[/COLOR]</title>   
+<title>[COLOR white]Wallace Y Gromit. La Maldicion De Las Verduras [COLOR coral](2005)[/COLOR]</title>   
 <genre>Animacion, Infantil, Comedia</genre>
 <year>2005</year>  
 <thumbnail>https://i.imgur.com/TCxxo4Y.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Se acerca el Concurso Anual de Verduras Gigantes y se desata una autentica “vegetalmania” en el pueblo donde residen Wallace y Gromit. Los dos amigos, tan emprendedores como siempre, se estan haciendo de oro con su nuevo invento, el sistema “Anti-Pesto”, una forma humanitaria de controlar a los conejos que intentan invadir los preciados huertos. De pronto, todo se viene abajo cuando una enorme, misteriosa y voraz “bestia” empieza a aterrorizar al vecindario, atacando los huertos de noche y destrozandolo todo a su paso. </info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/0xfg1f3wnunw"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]1080p[/COLOR]","url" : "https://www.fembed.com/v/x386ki5jr48zyr-"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/0xfg1f3wnunw"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/x386ki5jr48zyr-"}</urlsolve>
 </item>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, 1Comedia, A2008, Letra W, Reino Unido, Dreamworks, C720, "
 <item>
-<title>[COLOR white]Wallace Y Gromit. Un asunto de pan o muerte[COLOR blue](2008)[/COLOR]</title>   
+<title>[COLOR white]Wallace Y Gromit. Un asunto de pan o muerte[COLOR coral](2008)[/COLOR]</title>   
 <genre>Animacion, Infantil, Comedia</genre>
 <year>2008</year>  
 <thumbnail>https://www.themoviedb.org/t/p/original/wdG2EktvIzly26qtAihfgpkfliM.jpg</thumbnail>
@@ -4202,7 +4202,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, A1999, Letra W, EEUU, Secuela, Navidad, Disney, C720, "
 <item>
-<title>[COLOR white]Winnie The Pooh. Una Navidad Para Dar [COLOR blue](1999)[/COLOR]</title>    
+<title>[COLOR white]Winnie The Pooh. Una Navidad Para Dar [COLOR coral](1999)[/COLOR]</title>    
 <genre>Animacion, Infantil</genre>
 <year>1999</year>  
 <thumbnail>https://i.imgur.com/He8MxwM.jpg</thumbnail>
@@ -4214,7 +4214,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, A2005, Letra W, EEUU, Animales, Halloween, Disney, C720, "
 <item>
-<title>[COLOR white]Winnie The Pooh Y Heffalump En Halloween. La Pelicula [COLOR blue](2005)[/COLOR]</title>    
+<title>[COLOR white]Winnie The Pooh Y Heffalump En Halloween. La Pelicula [COLOR coral](2005)[/COLOR]</title>    
 <genre>Animacion, Infantil</genre>
 <year>2005</year>  
 <thumbnail>https://i.imgur.com/2LYWBMP.jpg</thumbnail>
@@ -4225,62 +4225,62 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Drama, 1Comedia, 1Familiar, A2017, Letra W, EEUU, CValores, C1080, "
 <item>
-<title>[COLOR white]Wonder [COLOR blue](2017)[/COLOR]</title>Leia 
+<title>[COLOR white]Wonder [COLOR coral](2017)[/COLOR]</title>Leia 
 <genre>Drama,Comedia,Familiar</genre>
 <year>2017</year>
 <thumbnail>https://i.imgur.com/a5192rE.jpg</thumbnail>
 <fanart>https://i.imgur.com/5N4e29A.jpg</fanart>
 <info>Un niño de 10 años (Jacob Tremblay, conocido por 'La habitacion') nacido con una deformidad facial que le ha obligado a ser operado 27 veces de cirugia, se esfuerza por encajar en su nuevo colegio.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/vuevfxt1nc83"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]1080p[/COLOR]","url" : "https://www.fembed.com/v/3ren7im7lmllgxd"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/vuevfxt1nc83"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/3ren7im7lmllgxd"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, A2004, Letra Z, EEUU, C1080, Disney, "
 <item>
-<title>[COLOR white]Zafarrancho en el rancho [COLOR blue](2004)[/COLOR]</title>    
+<title>[COLOR white]Zafarrancho en el rancho [COLOR coral](2004)[/COLOR]</title>    
 <genre>Animacion</genre>
 <year>2004</year>  
 <thumbnail>https://www.themoviedb.org/t/p/original/gDCyGYOfz1BuyDFyh1IXsLtoZeV.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Un avaricioso proscrito llamado Alameda Slim planea apoderarse de la vaquería “Patch of Heaven”, pero tres decididas vacas, un caballo karateka llamado Buck y un alegre corral lleno de criaturas unen sus fuerzas para salvar la granja en una aventura loca y frenética. Esta extraña mezcla de animales pondrá su vida en constante peligro para capturar al malvado Slim, y cobrar la recompensa con la ayuda de un misterioso cazarrecompensas llamado Rico.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/m682cn3r4qew"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]1080p[/COLOR]","url" : "https://www.fembed.com/v/wwx41hn3q7r0-7-"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/m682cn3r4qew"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/wwx41hn3q7r0-7-"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 "Tag= Malu3, Disney, 1Aventuras, 1Fantastico, 1Infantil, A2019, Letra Z, EEUU, C1080, "
 <item>
-<title>[COLOR white]Zapatos rojos y los siete trolls  [COLOR blue](2019)[/COLOR]</title>    
+<title>[COLOR white]Zapatos rojos y los siete trolls  [COLOR coral](2019)[/COLOR]</title>    
 <genre>Aventuras,Fantastico,Infantil</genre>
 <year>2019</year>  
 <thumbnail>https://i.imgur.com/fJvblpT.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Unos enanos hechizados se encuentran a una chica con un poder misterioso: sus zapatos rojos. Deberán emprender una misión junto a ella para volver a ser humanos y salvar el reino.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/6kmxglwx3s7m"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]1080p[/COLOR]","url" : "https://www.fembed.com/v/rq217herwppjew0"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/6kmxglwx3s7m"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/rq217herwppjew0"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, 1Familiar, A2005, Letra Z, CoreaS, C1080, "
 <item>
-<title>[COLOR white]Zathura, una aventura espacial [COLOR blue](2005)[/COLOR]</title>    
+<title>[COLOR white]Zathura, una aventura espacial [COLOR coral](2005)[/COLOR]</title>    
 <genre>Aventuras,Fantastico, Animacion</genre>
 <year>2005</year>  
 <thumbnail>https://i.imgur.com/tLRDpPB.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Walter y Danny son dos hermanos de 6 y 10 años que con frecuencia andan envueltos en riñas fraternales. Un dia, tras la marcha de su padre al trabajo, se quedan al cuidado de su hermana mayor. En medio de una de sus multiples peleas los chicos descubren en el sotano de su casa un juego de mesa llamado Zathura. Desde la primera jugada se dan cuenta de que no es un juego de mesa normal: la ficha de la nave espacial se mueve sola y lanza mensajes que se cumplen. Zathura los transportara entonces, en el mas estricto de los sentidos, a una enorme aventura en el espacio sideral. Y alli se veran obligados a trabajar juntos si quieren volver a casa antes de que acabe la partida</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/h793q8649cgh"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]1080p[/COLOR]","url" : "https://www.fembed.com/v/165g4ij4qnq5j2n"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/h793q8649cgh"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/165g4ij4qnq5j2n"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 "Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Infantil, A2016, Letra Z, EEUU, C1080, Disney, "
 <item>
-<title>[COLOR white]Zootropolis [/COLOR][COLOR blue](2016)[/COLOR]</title>    
+<title>[COLOR white]Zootropolis [/COLOR][COLOR coral](2016)[/COLOR]</title>    
 <genre>Animacion</genre>
 <year>2016</year>  
 <thumbnail>https://i.imgur.com/aSwjUn4.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>La moderna metropoli mamifera de Zootropolis es una ciudad absolutamente unica. Esta compuesta de barrios con diferentes habitats como la lujosa Sahara Square y la gelida Tundratown. Es un crisol donde los animales de cada entorno conviven, un lugar donde no importa lo que seas. De hecho puedes ser cualquier cosa, desde un elefante enorme hasta la musaraña mas diminuta. Pero cuando llega la optimista agente Judy Hopps, descubre que ser la primera conejita de un cuerpo policial compuesto de animales duros y enormes no es nada facil. Pero esta decidida a demostrar su valia y se mete de cabeza en un caso, a pesar de que eso significa trabajar con Nick Wilde, un zorro parlanchin y estafador, para resolver el misterio.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/7h8jxheszzfl"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]1080p[/COLOR]","url" : "https://www.fembed.com/v/2dlg6t26yqqwzkg"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/7h8jxheszzfl"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/2dlg6t26yqqwzkg"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
