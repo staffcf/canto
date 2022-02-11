@@ -4251,7 +4251,7 @@ https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_SERIES/.xml
 </item>
 
 ===============================================================================================================================================
-"Tag= 0SeriesLuar, 1Torrent, "
+"Tag= 1Torrent, "
 
 <item>
 <title>EXPRESS</title>
@@ -5017,6 +5017,20 @@ https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_SERIES/.xml
 <thumbnail>https://www.themoviedb.org/t/p/original/qyEtuIIEpUHNMhmdvcvID7oQGYu.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pDGk8l44bAv590M9oJdnr9w3bsd.jpg</fanart>
 <enlaceslink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_SERIES/HARLEM.xml</enlaceslink>
+<estado></estado>
+</item>
+
+===============================================================================================================================================
+"Tag= 1Torrent, "
+
+<item>
+<title>HASTA QUE LA VIDA NOS SEPARE</title>
+<genre>Drama</genre>
+<year>2021</year>
+<info>La familia Paixão regentan un salón de bodas, pero el negocio no va bien. Tres generaciones que ven el amor de distinta manera se enfrentan al desamor personal y a los cambios de tendencia en las relaciones de pareja.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/tvCBmTciaIzesiUIxzNtqWdAc3i.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9JTzzMuHaOR7oNg3HK4woP8CMcy.jpg</fanart>
+<enlaceslink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_SERIES/HASTA.QUE.LA.VIDA.NOS.SEPARE.xml</enlaceslink>
 <estado></estado>
 </item>
 
@@ -12516,6 +12530,20 @@ https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_SERIES/.xml
 <thumbnail>https://www.themoviedb.org/t/p/original/9qqLWKitz6s5BvJswA88EWheEX4.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/gcd7tt6qXKSe4tylURRoHs4dygY.jpg</fanart>
 <enlaceslink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_SERIES/WHITE.LINES.xml</enlaceslink>
+<estado></estado>
+</item>
+
+===============================================================================================================================================
+"Tag= 1Torrent, "
+
+<item>
+<title>WITH LOVE</title>
+<genre>Romance, Comedia</genre>
+<year>2021</year>
+<info>Sigue a los hermanos Díaz, Lily y Jorge, que tienen la misión de encontrar el amor y un propósito. Los hermanos Díaz se cruzan con residentes aparentemente sin parentesco durante algunos de los días más intensos del año: las vacaciones.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/igZDpZ4QTL2K6nbfSuVES6PBJHQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tHyNkRzoc18x6MaZzLSAVUodtIj.jpg</fanart>
+<enlaceslink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_SERIES/WITH.LOVE.xml</enlaceslink>
 <estado></estado>
 </item>
 
