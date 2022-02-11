@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] BigBug [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.2[/COLOR]</title> 
+<genre>Ciencia ficción</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/eh6OYVImLCHKMjtBQZRH4hauaND.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uQUquwEvPuCg0ACRxU5NiCGgJLN.jpg</fanart>
+<info>En el año 2045, la humanidad ha cedido la mayoría de las tareas a loa robots, incluso en la casa de la anticuada Alice. Cuando los robots se rebelan contra la humanidad, sus androides cierran las puertas de la casa y la encierran con todos los que están dentro, para protegerlos.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/PtvNMYV-1z4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/kvZaB2aPxMhQaQ"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/6qj4nqpjf33x77"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/t7e01tvs3etx"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/8bt3fgm7dt6p"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/7ab63m7jcmwy"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/ykx513m3w9z4"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1wHqHW5Hi8HdEYvi0UhBqn4icpt3Fmfcp/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] El cielo esta en cualquier lugar[/COLOR][COLOR yellow](2022) [COLOR aqua]*6.5[/COLOR]</title> 
 <genre>Drama,Romance,Música</genre>
 <year>2022</year>
