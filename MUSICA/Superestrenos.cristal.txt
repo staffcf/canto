@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Anne+ La pelicula [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.0[/COLOR]</title> 
+<genre>Drama,Romance</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/ch6G66SUe80YWEvTFe6mAKAwmdt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uYJPGiVlh3Dc3LUIFscz01MHxRU.jpg</fanart>
+<info>Justo antes de que Anne emigre con su gran amor Sara a Montreal, su editor rechaza el manuscrito que envió para su primer libro. Por lo tanto, Anne se ve obligada a buscar lo que realmente quiere en la vida, porque parece haberse estancado. Más adelante, conoce a Lou, de género no binario, quien tiene una perspectiva diferente de la vida. Lentamente, Anne irá encontrando el camino a seguir y más claridad en su vida. Película basada en la exitosa serie de TV neerlandesa "Anne+".<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/CDHMCThVNV0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/BYap6W1jzjSyXXR"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/n0j43790c0xkzd"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/gbh4cu1q7bz7"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/fotsg8x2ut84"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/4h7dpcmf45re"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/nlineyuou0lc"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1x3B4U5v1AOoA-p5Aiak4OZhFDJV7fKaR/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] A mi altura 2 [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.0[/COLOR]</title> 
 <genre>Comedia,Drama,Romance</genre>
 <year>2022</year>
