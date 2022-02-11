@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Quiero que vuelvas [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.7[/COLOR]</title> 
+<genre>Comedia,Romance</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/qTSL3t6yYyICUxBTMhHQhdygPIt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qfKVvAjIKCocpjTAjxT6WkAA3MG.jpg</fanart>
+<info>Peter y Emma, de treinta y tantos años, se unen para sabotear las nuevas relaciones de sus ex y recuperarlos para siempre.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/AJ_Zry9KLb8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/Yp3lbwW8zRivbOZ"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/pkx3rkjjbgdklx3"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/sulo7zpjefda"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/1y1xrornvj7p"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/z830wdctj0ku"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/xanj1842aeek"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1aqZlcQVPD7uiq8LcSK7uyF_6T8Zxj-PG/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] BigBug [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.2[/COLOR]</title> 
 <genre>Ciencia ficción</genre>
 <year>2022</year>
