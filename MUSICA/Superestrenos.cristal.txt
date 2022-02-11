@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] A mi altura 2 [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.0[/COLOR]</title> 
+<genre>Comedia,Drama,Romance</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/eyKkLdst2vFRjCC89C3NqGCLpNE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dCMP6ARQzr2ZsV2ere0jiCs9GeG.jpg</fanart>
+<info>Después de que Jodi Kreyman ganara popularidad, sus problemas de comunicación comienzan a causar rupturas con quienes la rodean y ahora realmente necesita 'mantenerse firme'.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/BAn-0j2E_dU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/LvBv6yPdLqCR2xj"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/pkx3r4rntwwwl8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/etgi6eitwvg8"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/t3s3d0wr2kfg"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/fq71qql8lpbn"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/dlrb1657tbiw"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1LWRA1AzZxzafJ3-0KEDzO30BRwm1cr9A/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Quiero que vuelvas [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.7[/COLOR]</title> 
 <genre>Comedia,Romance</genre>
 <year>2022</year>
