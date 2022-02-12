@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Eiffel [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.3[/COLOR]</title> 
+<genre>Drama,Historia</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/o55rQ68NAwCON1Xlcj14NwpzPbR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qFwVp1IBcP9GhWwJlzYxZKO0lXd.jpg</fanart>
+<info>Habiendo finalizado su colaboración en la Estatua de la Libertad, el célebre ingeniero Gustave Eiffel (Romain Duris) está en la cima del mundo. Ahora, el gobierno francés le está presionando para diseñar algo espectacular para la Exposición Universal de París de 1889, pero Eiffel no está interesado. De repente, todo cambia cuando en su camino se cruza una misteriosa mujer de su pasado (Emma Mackey) y el fuego de su pasión prohibida se reaviva, inspirándole a cambiar la imagen de París para siempre.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/r_KXg6W3hm4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/4DZgg7kWZyIKPL2"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/0vdwzd4zc36n1o"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/l0bq7s0rpcma"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/r4tsoors03lc"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/5r8fsr6l4jgp"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/cdfpq6mkvwji"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1F-fWq4EFeg0TVpCxXt9KEIMuSCwCld5C/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Anne+ La pelicula [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.0[/COLOR]</title> 
 <genre>Drama,Romance</genre>
 <year>2021</year>
