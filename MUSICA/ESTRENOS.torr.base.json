@@ -6,6 +6,19 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra S, Reino Unido, ",
+			"name": "Supernova (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/pfV940JmTJBhhBzQYfSPgGn7d1q.jpg",
+			"info": "Sam y Tusker son pareja desde hace 20 años. Sam (Firth) es pianista. Tusker (Tucci), escritor. Viajan a través de Inglaterra en su vieja furgoneta visitando a amigos, familiares y lugares de su pasado. Desde que a Tusker hace dos años le diagnosticaran alzheimer en su fase temprana, el tiempo que pasan juntos es lo más importante que tienen",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Supernova.-2020.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra A, Paises Bajos, Netflix, ",
 			"name": "Anne+: La pelicula (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/finlEpYDbdVVYYzTd5mYxe7PDjP.jpg",
