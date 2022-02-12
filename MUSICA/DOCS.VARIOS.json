@@ -79,6 +79,19 @@
 			]
 			},
 			{
+			"tag": " 0DocusLuar, 1TorrentLuar, 0Torrent4k, 1Documental, A2021, Letra C, Reino Unido, C720, ",
+			"name": "Chernobyl: 35 años despues  (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/eHXOptfCgcygXIiR2A0A52aHjpI.jpg",
+			"info": "Ben Fogle pasa una semana entera viviendo en la zona de exclusión de Chernobyl, lo que le otorga una entrada exclusiva a la Sala de Control 4, epicentro del desastre nuclear",
+			"genero": "Documental",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Chernobyl.-.35.anhos.despues..-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 1Torrent, 1Documental, A2021, Letra C, EEUU, C720, Drogas, Netflix, ",
 			"name": "Crack: Cocaina, corrupcion y conspiracion (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f7x1RoKXEkYtw175m7sN4emUrXl.jpg",
@@ -156,8 +169,8 @@
 			"info": "El elenco de la mitica serie 'Friends' -que duro 10 temporadas (1994-2004)- se reune para un especial en la nueva plataforma HBO Max en la que recuerdan numerosas anecdotas del rodaje, reciben a celebridades y a algunos invitados que pasaron por la serie, y reflexionan sobre la importancia para ellos del show y las consecuencias de su enorme fama sobre sus vidas",
 			"genero": "Documental, Comedia",
 			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:A25659CFEF9FCA17E70E31B7F436E7D11D67ADA4&dn=BRRip"
+				{	
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Friends.The.Reunion.-2021.-.1080x265.-.CristalAzul.mkv.torrent"	magnet:?xt=urn:btih:A25659CFEF9FCA17E70E31B7F436E7D11D67ADA4&dn=BRRip
 				}		
 			]
 			},
@@ -338,7 +351,7 @@
 			"genero": "Documental",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:21270140222610B23C03CFB75BDDF1D8E45056D6&dn=BRRip"	
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Schumacher.-2021.-.1080x265.-.CristalAzul.mkv.torrent"		magnet:?xt=urn:btih:21270140222610B23C03CFB75BDDF1D8E45056D6&dn=BRRip
 				}		
 			]
 			},
