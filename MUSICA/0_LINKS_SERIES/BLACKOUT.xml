@@ -3,13 +3,13 @@
 ======================================================================
 
 <!--
- PAM AND TOMMY
+ BLACKOUT
 -->
 <!--
 
 	ETIQUETAS:
 	
-	- 1SerieTitle:"PAM & TOMMY", SerieTemp:"MINI SERIE", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/ovhQDQ4mcvZ0f7MNIpBuKPqPSrq.jpg",
+	- 1SerieTitle:"BLACKOUT", SerieTemp:"MINI SERIE", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/lUAyh9AjQ5zth0cUYRgREnRdeL1.jpg",
 	
 -->
 ======================================================================
@@ -21,26 +21,26 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x01 - Taladrando y aporreando</title>
-			<torrent>magnet:?xt=urn:btih:E4926E2357D6DC3091A7E42FE7C8D62361C48C05&dn=HD720</torrent>
+			<title>1x01 - Capitulo 1</title>
+			<torrent>magnet:?xt=urn:btih:1471F0605A9A310B90635AEAB875EF48971CC2E5&dn=HD720</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x02 - Te quiero, Tommy</title>
-			<torrent>magnet:?xt=urn:btih:073A286BE66DE109034D09722475B485F31200B5&dn=HD720</torrent>
+			<title>1x02 - Capitulo 2 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x03 - Jane Fonda</title>
-			<torrent>magnet:?xt=urn:btih:20564D1CBAC079FA4F9D3767EDABC24AE97144F5&dn=HD720</torrent>
+			<title>1x03 - Capitulo 3 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x04 - La beta maestra</title>
-			<torrent>magnet:?xt=urn:btih:D14A1F19381ABB89ECEC0228EC4D650C99DB9C8E&dn=HD720</torrent>
+			<title>1x04 - Capitulo 4 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
@@ -52,18 +52,6 @@
 			"Tag= TORRENTTEMP1, "
 			<item>
 			<title>1x06 - Capitulo 6 [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title>1x07 - Capitulo 7 [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title>1x08 - Capitulo 8 [COLOR orangered](PROXIMAMENTE)</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
@@ -82,26 +70,26 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x01 - Taladrando y aporreando</title>
-			<torrent>magnet:?xt=urn:btih:E9011DD2696C2651FBDE929518C9DA9450566E47&dn=HDTV</torrent>
+			<title>1x01 - Capitulo 1</title>
+			<torrent>magnet:?xt=urn:btih:A8CE4A403757A421491896095A4CCEAF86D3F733&dn=HDTV</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x02 - Te quiero, Tommy</title>
-			<torrent>magnet:?xt=urn:btih:E497FA3B02A18D72E95E0E2E0D6C33DED192DE7E&dn=HDTV</torrent>
+			<title>1x02 - Capitulo 2 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x03 - Jane Fonda</title>
-			<torrent>magnet:?xt=urn:btih:3AE1063D5BA7688928B7B2F093192C7DF348B77B&dn=HDTV</torrent>
+			<title>1x03 - Capitulo 3 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x04 - La beta maestra</title>
-			<torrent>magnet:?xt=urn:btih:BA136D05F3880CC460DB4833AC75FAF02E8B3F34&dn=HDTV</torrent>
+			<title>1x04 - Capitulo 4 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
@@ -113,18 +101,6 @@
 			"Tag= TORRENTTEMP1, "
 			<item>
 			<title>1x06 - Capitulo 6 [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title>1x07 - Capitulo 7 [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title>1x08 - Capitulo 8 [COLOR orangered](PROXIMAMENTE)</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
