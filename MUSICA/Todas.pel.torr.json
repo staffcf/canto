@@ -71,7 +71,9 @@ Title:ALIEN, SagaID:Alien, Imagen:https://www.themoviedb.org/t/p/original/1aE5SN
 							-	0Saga, 1SagaTorrent, 
 Title:ANIMALES FANTASTICOS, SagaID:AnimalesFantasticos, Imagen:https://www.themoviedb.org/t/p/original/9eM0qvA1iHARvtOMBMMbpOgtEJw.jpg,	
 							-	0Saga, 1SagaTorrent, 
-Title:ANT-MAN, SagaID:Ant-Man, Imagen:https://www.themoviedb.org/t/p/original/hD3beDh0V82y9BJHdiXpoBsw6vS.jpg,	
+Title:ANT-MAN, SagaID:Ant-Man, Imagen:https://www.themoviedb.org/t/p/original/hD3beDh0V82y9BJHdiXpoBsw6vS.jpg,		
+							-	0Saga, 0SagaTorrent, 
+Title:ANTES DEL..., SagaID:AntesDel, Imagen:https://www.themoviedb.org/t/p/w600_and_h900_bestv2/giaxAC74fht0LVQ4WKVoDzLM2Iy.jpg,
 							-	0Saga, 1SagaTorrent, 
 Title:ARMA LETAL, SagaID:ArmaLetal, Imagen:https://www.themoviedb.org/t/p/original/bOmKVohi6yjxBnoP7XvX6tpXR56.jpg,
 							-	0Saga, 1SagaTorrent, 
@@ -159,7 +161,9 @@ Title:GRINDHOUSE, SagaID:Grindhouse, Imagen:https://www.themoviedb.org/t/p/origi
 							-	0Saga, 1SagaTorrent, 
 Title:GUARDIANES DE LA GALAXIA, SagaID:GDLG, Imagen:https://www.themoviedb.org/t/p/original/rzEmtM8qrvRKNdJUUiizdNHTccV.jpg,
 							-	0Saga, 1SagaTorrent, 
-Title:HALLOWEEN, SagaID:Halloween, Imagen:https://i.imgur.com/AOEbvzh.jpg,			
+Title:HALLOWEEN, SagaID:Halloween, Imagen:https://i.imgur.com/AOEbvzh.jpg,		
+							-	0Saga, 1SagaTorrent, 
+Title:HARRY EL SUCIO, SagaID:HarrySucio, Imagen:https://www.themoviedb.org/t/p/original/ffZKx4IIZuhVcLgObX0HiMgnaCB.jpg,		
 							-	0Saga, 1SagaTorrent, 
 Title:HARRY POTTER, SagaID:HarryPotter, Imagen:https://i.imgur.com/neYAvmk.jpg,	
 							-	0Saga, 1SagaTorrent, 
@@ -625,7 +629,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Thriller, A2022, Letra K, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Drama, 1Thriller, A2022, Letra K, EEUU, ",
 			"name": "Kimi (2022)","coloryear": "darkorange",
 			"image": "https://www.themoviedb.org/t/p/original/hDs7vb6DDEpIRiaCARVm7OPWVJC.jpg",
 			"info": "La historia se centra en una trabajadora de tecnología agorafóbica que descubre evidencia registrada de un violento crimen durante una revisión del flujo de datos. Después de ser golpeada con resistencia y burocracia por el cambio de mando de su compañía, determina combatir sus miedos para involucrarse",
@@ -633,7 +637,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Kimi.-2022.-.1080x265.-.CristalAzul.mkv.torrent",
-				"torrent4k": ""	
+				"torrent4k": "magnet:?xt=urn:btih:D7E4E18E723EFE76D1CCD79EC69543E6BCA8EFFE&dn=Web4K"	
 				}		
 			]
 			},
@@ -677,7 +681,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2022, Letra Q, EEUU, Amazon, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Comedia, A2022, Letra Q, EEUU, Amazon, ",
 			"name": "Quiero que vuelvas (2022)","coloryear": "darkorange",
 			"image": "https://www.themoviedb.org/t/p/original/hKUJ3RFRe1nCXOQlsHMrg7ln5eO.jpg",
 			"info": "Peter y Emma, de treinta y tantos años, se unen para sabotear las nuevas relaciones de sus ex y recuperarlos para siempre",
@@ -685,7 +689,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Quiero.que.vuelvas.-2022.-.1080x265.-.CristalAzul.mkv.torrent",
-				"torrent4k": ""	
+				"torrent4k": "magnet:?xt=urn:btih:4822AD00B2B30CA2E216A2F1FCA0A8A9000731BA&dn=Web4K"	
 				}		
 			]
 			},
@@ -4711,7 +4715,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Western, A2021, Letra O, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Western, A2021, Letra O, EEUU, ",
 			"name": "Old Henry (2021)","coloryear": "cyan",
 			"image": "https://i.imgur.com/TepKSj6.jpg",	https://www.themoviedb.org/t/p/original/oZ9DtoH8qqOmKQwz6HzdTS49EWc.jpg
 			"info": "Un wéstern de acción sobre un granjero que acoge a un hombre herido con una bolsa de dinero. Cuando una patrulla viene a por el dinero, debe decidir en quién confiar. Al defender un asedio, revela un talento de pistolero que pone en duda su verdadera identidad",
@@ -4719,7 +4723,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Old.Henry.-.2021.-.1080x265.-.CristalAzul.mkv.torrent",
-				"torrent4k": ""	
+				"torrent4k": "magnet:?xt=urn:btih:E05A498DE43A17AC6BDD4DF7E32609DF64A508B2&dn=Web4K"	
 				}		
 			]
 			},
@@ -35869,6 +35873,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Romance, 1Drama, A2013, Letra A, EEUU, ",
+			"name": "Antes del anochecer (2013)","coloryear": "lawngreen",
+			"image": "https://www.themoviedb.org/t/p/original/w7CDeX1nEPHnc8JXZs3uWbt1czk.jpg",
+			"info": "La tercera parte de la trilogía se desarrolla en Grecia. Nueve años después de su segundo encuentro romántico, el destino vuelve a unir las vidas de Celine (Julie Delpy) y Jesse (Ethan Hawke)",
+			"genero": "Romance, Drama",
+			"stations": [
+				{
+				"torrent": "",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Accion, 1Thriller, A2013, Letra A, EEUU, ",
 			"name": "Asalto al poder (2013)","coloryear": "lawngreen",
 			"image": "https://www.themoviedb.org/t/p/original/npm7FxHilvxsPbo72iK35HD84GN.jpg",
@@ -40791,6 +40808,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Romance, 1Drama, A2004, Letra A, EEUU, ",
+			"name": "Antes del atardecer (2004)","coloryear": "yellow",
+			"image": "https://www.themoviedb.org/t/p/original/qim3tyqmY2NzoVfdjxYW9MsZSLm.jpg",
+			"info": "Jesse y Celine se conocieron en un tren y pasaron juntos una noche inolvidable paseando por Viena. Aunque prometieron encontrarse de nuevo seis meses más tarde, esa cita nunca llegó a producirse. Nueve años después, se vuelven a ver, pero esta vez en París. Jesse, que está de gira promocionando una novela, la ve en la librería donde está firmando ejemplares. Ella vive desde hace tiempo en París; él, en Nueva York. Jesse inmediatamente decide dejarlo todo para pasar el tiempo con Celine. Así pasan el día en los cafés, en los parques, recordando aquella tarde en la capital austriaca y hablando de sus vidas",
+			"genero": "Romance, Drama",
+			"stations": [
+				{
+				"torrent": "",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Fantastico, 1Terror, 1Accion, A2004, Letra B, EEUU, Vampiros, Superheroes, Comic, Marvel, Sagas Blade, ",
 			"name": "Blade Trinity (2004)","coloryear": "yellow",
 			"image": "https://www.themoviedb.org/t/p/original/zIkhgzbxoMiv3RF1Jmr3juglAQG.jpg",
@@ -44620,6 +44650,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Romance, 1Drama, A1995, Letra A, EEUU, B2000, A2000-1991, Sagas AntesDel, ",
+			"name": "Antes de amanecer (1995)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/mlj6CeLqcbap4babkT9Bqi3vZUe.jpg",
+			"info": "Céline (Julie Delpy), una estudiante francesa, y Jesse (Ethan Hawke), un joven estadounidense que viaja por Europa tras ser abandonado por su novia, se conocen en un tren con destino a París. Cuando llegan a Viena, Jesse debe bajar porque al día siguiente regresa a su país, pero logra convencer a Céline para que pase la noche con él en la ciudad. En el curso de esa noche, se conocen a fondo, discuten sobre diversas cuestiones como la vida, la muerte y el sexo",
+			"genero": "Romance, Drama",
+			"stations": [
+				{
+				"torrent": "",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Accion, 1Thriller, A1995, Letra A, EEUU, B2000, A2000-1991, ",
 			"name": "Asesinos (1995)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/56CjAhLlMwtcITYbS61ql3DbmkW.jpg",
@@ -47069,6 +47112,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Thriller, A1988, Letra L, EEUU, B2000, A1990-1981, Sagas HarrySucio, ",
+			"name": "La lista negra (1988)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/7MxSnI2ck7pE8HTFWpV1dkP0CW3.jpg",
+			"info": "Quinta y última entrega de la serie policíaca iniciada con 'Harry, el sucio'. El protagonista vuelve a ser Harry Callahan, un controvertido inspector de la policía de Los Ángeles. Una lista de ocho personas célebres circula por San Francisco y se hacen macabras apuestas sobre cuál de ellas morirá primero. Uno de los nombres que figura en la lista es precisamente el del inspector que investiga el caso: Callahan",
+			"genero": "Accion, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/La.lista.negra.-1988.-.1080x265.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:C6ED68A9445E00667D285F81931CC3F0A03A21CA&dn=HD1080
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Comedia, A1986, Letra L, EEUU, B2000, A1990-1981, Sagas MatanzaTexas, ",
 			"name": "La matanza de Texas 2 (1986)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/a7QoeFXsjG9NAEhScEcYQ23AIlv.jpg",
@@ -47744,6 +47800,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{ 
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Halloween.III-El.dia.de.la.bruja.-1983.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:E464D37287217E3B7DAE3D9D4905BF3CD852524A
 				"torrent4k": "magnet:?xt=urn:btih:44CFB661D86B32DE1370C22EB621DC8559B060BC&dn=UHDRip"
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Thriller, A1983, Letra I, EEUU, B2000, A1990-1981, Sagas HarrySucio, ",
+			"name": "Impacto subito (1983)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/b3IAUovTpy1pH7nuvyYvcLgosyy.jpg",
+			"info": "Callahan es un experimentado detective de policía del departamento de homicidios de San Francisco, famoso por sus drásticos métodos, que provocan fuertes enfrentamientos con sus superiores. Tiene que desplazarse a San Paulo, pequeño pueblo situado al norte de California, donde sigue la pista del autor de la muerte de unos hombres, a los que han encontrado con unos disparos en la frente y en los genitales. Allí conoce a una solitaria artista llamada Jennifer Spencer",
+			"genero": "Accion, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Impacto.subito.-1983.-.1080x265.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:476DF41B6A2AC401F8C2B7FB362F2C9444F4C969&dn=HD1080
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -48915,6 +48984,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, A1976, Letra H, EEUU, B2000, A1980-1971, Sagas HarrySucio, ",
+			"name": "Harry el ejecutor (1976)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/2fSc1FdVb9HO1qNCGiLMiBFQDif.jpg",
+			"info": "Tercera entrega de las andanzas del controvertido y duro policía de San Francisco, Harry Callahan, de nuevo interpretado por Clint Eastwood. Esta vez, se enfrenta a un grupo de sádicos terroristas que se hacen llamar 'Acción Revolucionaria del Pueblo' y que tratan de dominar la ciudad. Callahan y su nueva ayudante, Kate Moore, deberán rescatar al alcalde, a quien los terroristas han secuestrado.",
+			"genero": "Accion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Harry.el.ejecutor.-1976.-.1080x265.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:00ABA0A29F14D32B426B0FB6DFC3BA1E3806A29A&dn=HD1080
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Aventuras, 1Drama, A1976, Letra K, EEUU, B2000, A1980-1971, Sagas KingKong, ",
 			"name": "King Kong (1976)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/8gzYrv34zaQ8U2yxShjmb50Pz1Y.jpg",
@@ -49261,6 +49343,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1genero, A1973, Letra H, EEUU, B2000, A1980-1971, Sagas HarrySucio, ",
+			"name": "Harry el fuerte (1973)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/jp6FD4mYCVpkVcd3aTicmUMhs5R.jpg",
+			"info": "Los principales asesinos de la ciudad están siendo asesinados en San Francisco. Uno a uno, los criminales que han escapado de una acción judicial están recibiendo la justicia que merecen, un tipo de justicia que haría pensar que el detective de homicidios Harry Callahan está utilizando sus métodos implacables. Pero los asesinos han juzgado mal a Harry, que deberá enfrentarse esta vez a un inesperado escuadrón de la muerte que lleva placa policial. Su enemigo verdadero es el sistema. Pero Harry ha jurado proteger el sistema con su Magnum 44.",
+			"genero": "Accion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Harry.el.fuerte.-1973.-.1080x265.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:202F89B1614E280C756F729A9937BEDED1486E2D&dn=HD1080
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A1973, Letra M, EEUU, B2000, A1980-1971, 1Hechos reales, 1Culto, ",
 			"name": "Malas tierras (1973)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/4kwW4ABllKu4xGlq664HdKtGZ6A.jpg",
@@ -49404,14 +49499,14 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Accion, A1971, Letra H, EEUU, B2000, A1980-1971, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Accion, A1971, Letra H, EEUU, B2000, A1980-1971, Sagas HarrySucio, ",
 			"name": "Harry el sucio (1971)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/mDW2pmFSIy5ppQBCBjD4b0rFSXy.jpg",
 			"info": "Harry Callahan (Clint Eastwood) es un duro policia que se ha criado en la calles de San Francisco. Sus compañeros le llaman Harry el Sucio por sus particulares metodos de lucha contra el crimen y porque siempre se encarga de los trabajos mas desagradables. Cuando un francotirador que se hace llamar 'Scorpio' asesina a una mujer desde una azotea y promete matar a mas personas si la ciudad no le paga 100.000 dolares, el inspector Callahan sera el encargado de intentar resolver el caso",
 			"genero": "Thriller, Accion",
 			"stations": [
 				{ 
-				"torrent": "magnet:?xt=urn:btih:A911242E73578CF3EAA9A948C0E021FEA1BFB1DC&dn=HD1080",  magnet:?xt=urn:btih:1BE51D6D898999B78D63037AAF8972E7C44D3045&dn=BR1080
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Harry.el.sucio.-1971.-.1080x265.-.CristalAzul.mkv.torrent",  magnet:?xt=urn:btih:A911242E73578CF3EAA9A948C0E021FEA1BFB1DC&dn=HD1080	magnet:?xt=urn:btih:1BE51D6D898999B78D63037AAF8972E7C44D3045&dn=BR1080
 				"torrent4k": ""
 				}		
 			]
