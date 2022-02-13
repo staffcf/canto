@@ -72,7 +72,7 @@ Title:ALIEN, SagaID:Alien, Imagen:https://www.themoviedb.org/t/p/original/1aE5SN
 Title:ANIMALES FANTASTICOS, SagaID:AnimalesFantasticos, Imagen:https://www.themoviedb.org/t/p/original/9eM0qvA1iHARvtOMBMMbpOgtEJw.jpg,	
 							-	0Saga, 1SagaTorrent, 
 Title:ANT-MAN, SagaID:Ant-Man, Imagen:https://www.themoviedb.org/t/p/original/hD3beDh0V82y9BJHdiXpoBsw6vS.jpg,		
-							-	0Saga, 0SagaTorrent, 
+							-	0Saga, 1SagaTorrent, 
 Title:ANTES DEL..., SagaID:AntesDel, Imagen:https://www.themoviedb.org/t/p/w600_and_h900_bestv2/giaxAC74fht0LVQ4WKVoDzLM2Iy.jpg,
 							-	0Saga, 1SagaTorrent, 
 Title:ARMA LETAL, SagaID:ArmaLetal, Imagen:https://www.themoviedb.org/t/p/original/bOmKVohi6yjxBnoP7XvX6tpXR56.jpg,
@@ -35873,14 +35873,14 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Romance, 1Drama, A2013, Letra A, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Drama, A2013, Letra A, EEUU, Sagas AntesDel, ",
 			"name": "Antes del anochecer (2013)","coloryear": "lawngreen",
 			"image": "https://www.themoviedb.org/t/p/original/w7CDeX1nEPHnc8JXZs3uWbt1czk.jpg",
 			"info": "La tercera parte de la trilogía se desarrolla en Grecia. Nueve años después de su segundo encuentro romántico, el destino vuelve a unir las vidas de Celine (Julie Delpy) y Jesse (Ethan Hawke)",
 			"genero": "Romance, Drama",
 			"stations": [
 				{
-				"torrent": "",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Antes.del.anochecer.-2013.-.1080x265.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""	
 				}		
 			]
@@ -40808,14 +40808,14 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Romance, 1Drama, A2004, Letra A, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Drama, A2004, Letra A, EEUU, Sagas AntesDel, ",
 			"name": "Antes del atardecer (2004)","coloryear": "yellow",
 			"image": "https://www.themoviedb.org/t/p/original/qim3tyqmY2NzoVfdjxYW9MsZSLm.jpg",
 			"info": "Jesse y Celine se conocieron en un tren y pasaron juntos una noche inolvidable paseando por Viena. Aunque prometieron encontrarse de nuevo seis meses más tarde, esa cita nunca llegó a producirse. Nueve años después, se vuelven a ver, pero esta vez en París. Jesse, que está de gira promocionando una novela, la ve en la librería donde está firmando ejemplares. Ella vive desde hace tiempo en París; él, en Nueva York. Jesse inmediatamente decide dejarlo todo para pasar el tiempo con Celine. Así pasan el día en los cafés, en los parques, recordando aquella tarde en la capital austriaca y hablando de sus vidas",
 			"genero": "Romance, Drama",
 			"stations": [
 				{
-				"torrent": "",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Antes.del.atardecer.-2004.-.1080x265.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""	
 				}		
 			]
@@ -44650,14 +44650,14 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Romance, 1Drama, A1995, Letra A, EEUU, B2000, A2000-1991, Sagas AntesDel, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Drama, A1995, Letra A, EEUU, B2000, A2000-1991, Sagas AntesDel, ",
 			"name": "Antes de amanecer (1995)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/mlj6CeLqcbap4babkT9Bqi3vZUe.jpg",
 			"info": "Céline (Julie Delpy), una estudiante francesa, y Jesse (Ethan Hawke), un joven estadounidense que viaja por Europa tras ser abandonado por su novia, se conocen en un tren con destino a París. Cuando llegan a Viena, Jesse debe bajar porque al día siguiente regresa a su país, pero logra convencer a Céline para que pase la noche con él en la ciudad. En el curso de esa noche, se conocen a fondo, discuten sobre diversas cuestiones como la vida, la muerte y el sexo",
 			"genero": "Romance, Drama",
 			"stations": [
 				{
-				"torrent": "",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Antes.del.amanecer.-1995.-.1080x265.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""	
 				}		
 			]
