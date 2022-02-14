@@ -2751,7 +2751,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/WUDFe0G.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Encantador relato de dibujos animados para los mas pequeños sobre la leyenda del rey Arturo (aqui siendo todavia joven), el mago Merlin y la espada Excalibur. Aventuras mil, magia y fantasia para otro gran exito de la Disney.</info>
-<urlsolve>https://watchsb.com/e/dk301470lnkg</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/dk301470lnkg"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/zdn2mtj4lrg34q0"}</urlsolve>
 </item> 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -2763,7 +2763,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/OXm001H.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Una, acompañada de un robot alienígena, tienen 24 horas para encontrar a su abuelo que fue secuestrado por extraterrestres.</info>
-<urlsolve>https://watchsb.com/e/te8wpuqx4r7m</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/te8wpuqx4r7m"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/l3rqjin60d53qyg"}</urlsolve>
 </item>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -2788,7 +2788,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/MP6b4Cw.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>En los años 50, una familia japonesa se traslada al campo. Las dos hijas, Satsuki y Mei, entablan amistad con Totoro, un espiritu del bosque. El padre es un profesor universitario que estimula la imaginacion de sus hijas relatandoles fabulas e historias magicas sobre duendes, fantasmas y espiritus protectores de los hogares, mientras la madre se encuentra enferma en el hospital.</info>
-<urlsolve>https://watchsb.com/e/le8xn0qvhke3</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/le8xn0qvhke3"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/8yng1a81mr8jd84"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -2802,7 +2802,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/FrqzQVG.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Una joven que se ha trasladado con sus padres desde Londres a africa desarrolla un vinculo sorprendente y especial con un leon salvaje. Su increible amistad la impulsa a viajar por la sabana para salvar a su mejor amigo.</info>
-<urlsolve>https://watchsb.com/e/au3yr0krw3w5</urlsolve>  
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/au3yr0krw3w5"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/6q8grh0rke16dmm"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -2814,7 +2814,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/BI6LH0i.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Kun, un niño mimado y consentido de cuatro años al que sus padres dejan de prestar atencion cuando nace su hermana Mirai, empieza a sufrir situaciones en casa que nunca habia vivido. Pero entonces, la version adolescente de su hermana viaja en el tiempo desde el futuro para vivir junto a Kun una aventura extraordinaria mas alla de lo imaginable.</info>
-<urlsolve>https://watchsb.com/e/j9ot2byu9x98</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/j9ot2byu9x98"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/41ygdszd8j7ngrk"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -2839,7 +2839,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/xfxYUiO.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Sir Lionel Frost se considera a si mismo el mayor investigador de mitos, monstruos y leyendas. Estos calificativos han sido cuestionados por su circulo mas cercano, lo que le anima a comenzar una investigacion por el noroeste americano en busca del Eslabon Perdido, una misteriosa criatura mitad humano, mitad bestia.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/KxBhRjihpiH9/festakids-mr-link-el-origen-perdido-2019-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/omufb3hyi9ck"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/KxBhRjihpiH9/festakids-mr-link-el-origen-perdido-2019-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/omufb3hyi9ck"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/03qg2il2e0pwl-n"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
