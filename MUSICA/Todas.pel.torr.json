@@ -229,6 +229,8 @@ Title:LAS COLINAS TIENEN OJOS, SagaID:LCTO, Imagen:https://i.ytimg.com/vi/HS9Uyy
 							-	0Saga, 1SagaTorrent, 
 Title:LAS CRONICAS DE NARNIA, SagaID:LCDN, Imagen:https://upload.wikimedia.org/wikipedia/ms/5/52/Narnia_title.png,			
 							-	0Saga, 1SagaTorrent, 
+Title:LOCA ACADEMIA DE POLICIA, SagaID:LocaAcademia, Imagen:https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fKYioUeHRlKtrIx2bzx37OgxW0p.jpg,		
+							-	0Saga, 1SagaTorrent, 
 Title:LOS 4 FANTASTICOS, SagaID:Los4Fantasticos, Imagen:https://1.bp.blogspot.com/--8aQlP6goj8/VsRJ6mLoE7I/AAAAAAAAVrQ/ouxaLzqRQDknKdwkaXxPCuIIJYp58_HbwCCo/s225/logo_fantasticfour.png,	
 							-	0Saga, 1SagaTorrent, 
 Title:LOS CASOS DEL DEPARTAMENTO Q, SagaID:DepartmentQ, Imagen:https://www.themoviedb.org/t/p/original/i8H4xtfPVx6OYPgixSF41Envzhl.jpg,		
@@ -5078,7 +5080,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Resident.Evil-Bienvenidos.a.Raccoon.City.-2021.-.1080x265.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:61A1AC01CF2729AFD9A48EE003BA2F6E8588B4CB&dn=HD1080	
-				"torrent4k": "magnet:?xt=urn:btih:7D7A60608E1D8386D66860A594BA8E777F6FC5A6&dn=Web4K"	
+				"torrent4k": magnet:?xt=urn:btih:76A94260BE6391E5BB0E82112FDDD7EC9A736EF0&dn=UHDRip"	
 				}		
 			]
 			},
@@ -45122,6 +45124,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A1994, Letra L, EEUU, B2000, A2000-1991, Sagas LocaAcademia, ",
+			"name": "Loca Academia de Policia 7: Mision en Moscu (1994)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/9UgBYBsx5gYl109Xegrwf0tk4Yu.jpg",
+			"info": "Ahora, los agentes más famosos y peculiares de Florida viajan hasta Rusia para colaborar con la policía soviética. El objetivo es atrapar a un criminal llamado Konali, que se ha hecho con un programa informático capaz de controlar sofisticados sistemas de seguridad de todo el mundo, cometiendo robos en todo el planeta.",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Loca.academia.de.policia.7-Mision.en.Moscu.-1994.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Comedia, A1994, Letra M, EEUU, B2000, A2000-1991, ",
 			"name": "Mentiras arriesgadas (1994)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/pynP0ajBFofEWBwQWXTxjpRMZM9.jpg",
@@ -46323,6 +46338,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A1989, Letra L, EEUU, B2000, A1990-1981, Sagas LocaAcademia, ",
+			"name": "Loca academia de policia 6: Ciudad sitiada (1989)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/hB4qarPxjdfpqKoiTv1eRnQN2BS.jpg",
+			"info": "El comandante Lassard y su variopinto equipo de policías son asignados a la difícil misión de detener a una banda de ladrones de bancos y joyerías que tiene aterrorizada a la ciudad. La banda, formada por tres delincuentes, cuyo éxito criminal es inversamente proporcional a su inteligencia, son también la pesadilla del capitán Harris que, junto al comandante, no parará hasta detener al responsable último de los robos, el malvado Mr. Big",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Loca.academia.de.policia.6-Ciudad.sitiada.-1989.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Comedia, 1Fantastico, A1989, Letra L, EEUU, Sobrenatural, Fantasmas, 1Cine Familiar, B2000, A1990-1981, Sagas Cazafantasmas, ",
 			"name": "Los Cazafantasmas II (1989)","coloryear": "tomato",
 			"image": "https://www.ecartelera.com/carteles/5900/5961/001_p.jpg",
@@ -46553,6 +46581,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/La.jungla.de.cristal.-1988.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:CEFC7CBDD4DF308F1390682EC5529772B7A997F2	  magnet:?xt=urn:btih:383F2DC1B655C84B4DAAFE3711F68977A252C474
 				"torrent4k": "magnet:?xt=urn:btih:227B0503C25F9E0589E0D80855DD262ABA3938A4"
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A1988, Letra L, EEUU, B2000, A1990-1981, Sagas LocaAcademia, ",
+			"name": "Loca academia de policia 5: Operacion Miami Beach (1988)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/9S73LkNaNdku4lJ7aPTqeA8W96B.jpg",
+			"info": "El viejo capitán Lassard, el jefe de la academia de policía, vuela a Miami para recibir un galardón. Con él también viaja el cínico capitán Harris, que desea ocupar su puesto. Harris quiere ocupar un buen sitio durante el evento, delante de toda la jerarquía policial. Al llegar al aeropuerto, Lassard confunde su bolsa de viaje...",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Loca.academia.de.policia.5-Operacion.Miami.Beach.-1988.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -46813,6 +46854,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{ 
 				"torrent": "magnet:?xt=urn:btih:8D439463B18B8A868797869F436738E2DFD86222&dn=HD1080",
 				"torrent4k": "magnet:?xt=urn:btih:04E45A0D6738071DAA404F301527FEC606C5A55A&dn=microHD"  magnet:?xt=urn:btih:1893AD78858C3D1CED07DCA1A6A7A7559D9501C3&dn=UHDRip
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A1987, Letra L, EEUU, B2000, A1990-1981, Sagas LocaAcademia, ",
+			"name": "Loca academia de policia 4: Los ciudadanos se defienden (1987)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/1wR4dH5b8a0EqDhOOt6X524HZEq.jpg",
+			"info": "Reclutado por el comandante Lassard, un grupo de voluntarios llega a la Academia para ser formados en un programa de patrullas civiles",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Loca.academia.de.policia.4-Los.ciudadanos.se.defienden.-1987.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -47207,6 +47261,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A1986, Letra L, EEUU, B2000, A1990-1981, Sagas LocaAcademia, ",
+			"name": "Loca academia de policia 3: De vuelta a la escuela (1986)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/12QtTMLU7GcNOJavU0vb1xC3WUr.jpg",
+			"info": "La academia está a punto de desaparecer. Para evitarlo, la única solución es luchar por su supervivencia contra su competidora, la academia del comandante Mauser.",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Loca.academia.de.policia.3-De.vuelta.a.la.escuela.-1986.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Fantastico, 1Aventuras, A1986, Letra L, Reino Unido, B2000, A1990-1981, Sagas Inmortales, 1Culto, ",
 			"name": "Los inmortales (1986)","coloryear": "tomato",
 			"image": "https://www.themoviedb.org/t/p/original/8af3tPdbKd9iDUqWb8R5dOXShtH.jpg",
@@ -47404,6 +47471,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Las.colinas.tienen.ojos.2.-1985.-.720.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A1985, Letra L, EEUU, B2000, A1990-1981, Sagas LocaAcademia, ",
+			"name": "Loca academia de policia 2: Su primera mision (1985)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/h589HkY2zWuK9PfWgANyDPXOhLH.jpg",
+			"info": "Mahoney y sus amigos se han graduado ya en la academia de policía y se les asigna su primera misión. ¿Estarán preparados para enfrentarse a una peligrosa banda callejera de gamberros?",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Loca.academia.de.policia.2-Su.primera.mision.-1985.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -47677,6 +47757,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/La.historia.interminable-Ver.Ext.-1984.-.1080.-.CristalAzul.mp4.torrent",	magnet:?xt=urn:btih:2433ED57048E3943B82FFB9EF8DC210C70474D38&dn=HDRip
 				"torrent4k": "magnet:?xt=urn:btih:D0E5D5D79798C90E14C8A307D9B7ED1C1851B7FC&dn=UHDRip"	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A1984, Letra L, EEUU, B2000, A1990-1981, Sagas LocaAcademia, ",
+			"name": "Loca academia de policia (1984)","coloryear": "tomato",
+			"image": "https://www.themoviedb.org/t/p/original/f5z6K9As8T8YAMXznGL0YEQzD1s.jpg",
+			"info": "Las nuevas normas dictadas por la alcaldesa significan que el sexo, el peso, la altura y la inteligencia ya no serán factores decisivos para alistarse en las fuerzas del orden. Esto abre las puertas de toda clase de chusma, para disgusto de los instructores, si bien es cierto que no todo el mundo estará ahí por elección, como es el caso de Mahoney cuya alternativa era la prisión, y que intentará por todos los medios que le expulsen hasta que se da cuenta de que le gusta ser cadete de la academia",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Loca.academia.de.policia.-1984.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
 				}		
 			]
 			},
@@ -51672,6 +51765,14 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 		"info": "Coleccion de peliculas de Clint Eastwood",
 		"genero": "Variedad de generos",
 		"torrent": "magnet:?xt=urn:btih:2DE90E727FB55C3C3BF41098140C46EFDD892E5C&dn=BR1080",
+		},
+		{
+		"tag": " 1Torrentcristal, Sagas LocaAcademia, ",
+		"name": "Saga Completa [COLOR gold]Calidad (1080)","coloryear": "gold",
+		"image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fKYioUeHRlKtrIx2bzx37OgxW0p.jpg",
+		"info": "Las 7 películas de la Saga Loca Academia de Policia",
+		"genero": "Comedia",
+		"torrent": "magnet:?xt=urn:btih:E06CC1215BCE0B9B97AE9A6FCA67C0A433B9631A&dn=HD1080",
 		},
 		{
 		"tag": " 0Torrentcristal, Sagas KM666, ",
