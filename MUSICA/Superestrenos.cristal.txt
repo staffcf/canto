@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] La familia monster 2 [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.4[/COLOR]</title> 
+<genre>Animación,Familia</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/eReiljCm4Z6v9LgcWlA2Qsfa54U.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9OE62lhp5FPNJMfKXodegVLjHUA.jpg</fanart>
+<info>Para rescatar a Baba Yaga y Renfield de las garras de la cazadora de monstruos Mila Starr, la familia Wishbone se transforma una vez más en, un vampiro, Frankenstein, la momia y el hombre lobo. Con la ayuda de sus tres murciélagos mascota, nuestra Familia Monstruo vuelve a recorrer el mundo para salvar a sus amigos, hacer nuevos mountruo-conocidos y finalmente darse cuenta que “Nadie es perfecto”… incluso aquellos con defectos pueden encontrar la felicidad.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/sNvz1JoUatM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/Oo63V3bYXKHkgZ"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/0vdd4d1xa70z9r"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/yqcly8te0isp"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/h7b32k0y1ded"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/pk8g2zbjc5gs"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/ojc3mszuhp4t"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/18yF6CAzaf_HYVVYhXIVwhcK6hZ4kt0nM/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Eiffel [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.3[/COLOR]</title> 
 <genre>Drama,Historia</genre>
 <year>2021</year>
