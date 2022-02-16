@@ -9857,14 +9857,14 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, A2020, Letra I, EEUU, Robos, Atracos, ",
+			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Accion, A2020, Letra I, EEUU, Robos, Atracos, ",
 			"name": "Infamous (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/q2lkJf1TAjImTHCEO7XvbqPtnPb.jpg",
 			"info": "Arielle (Thorne) es una chica de un pueblo pequeño que sueña con hacerse famosa a toda costa. Un dia conoce a Dean (Manley), un joven ex convicto, y ambos tienen una conexion instantanea. Tras un accidente fatal ambos se ven obligados a huir. ¿Su plan para financiar su viaje? Robar gasolineras y pequeñas tiendas. Pero el ansia de notoriedad de Arielle la llevara a transmitir en vivo sus robos por Internet, y las dos se convierten en una sensacion viral en las redes sociales a medida que su sueño se vuelve sangriento y violento",
 			"genero": "Accion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:02B04C558825BBFFCCADF2C5C1A2304E9E0C15FA&dn=HD1080",  magnet:?xt=urn:btih:36584AACF2388D760146B41D371D0D5C67015B2F&BRRip
+				"torrent": "magnet:?xt=urn:btih:02B04C558825BBFFCCADF2C5C1A2304E9E0C15FA&dn=HD1080",  magnet:?xt=urn:btih:36584AACF2388D760146B41D371D0D5C67015B2F&dn=BRRip
 				"torrent4k": ""
 				}		
 			]
@@ -9876,8 +9876,8 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"info": "Año 2024. Han pasado dos años desde que una pandemia mundial asolo el mundo. El virus COVID23 ha sufrido una nueva y peligrosa mutacion con un 50% de mortalidad que obligo a los Gobiernos a ordenar un nuevo confinamiento mundial. Nico (KJ Apa) es un repartidor que ha desarrollado una poco comun inmunidad al virus, lo que le permite seguir trabajando. Nico quiere estar junto a su novia Sara (Sofia Carson), pero para ello debera superar la ley marcial y enfrentarse a gente peligrosa, poderosa y muy desesperada",
 			"genero": "Drama, Romance, Intriga",
 			"stations": [
-				{
-				"torrent": "magnet:?xt=urn:btih:00F80A2AAD57A6CCF1DA4E992E71D74C1FB3D00D&dn=HD1080",  magnet:?xt=urn:btih:2BF14A78D64C6649A646749697FC487771D887FA&dn=BRRip
+				{		
+				"torrent": "magnet:?xt=urn:btih:4cdd5d09012acdc5da1ae491d2f5b09f5e60c902&dn=BR1080",	magnet:?xt=urn:btih:2BF14A78D64C6649A646749697FC487771D887FA&dn=BRRip  magnet:?xt=urn:btih:00F80A2AAD57A6CCF1DA4E992E71D74C1FB3D00D&dn=HD1080
 				"torrent4k": "magnet:?xt=urn:btih:8098D965EA13C8A3DD3890DC9417CD4BC3FF631B&dn=Web4K",
 				}		
 			]
