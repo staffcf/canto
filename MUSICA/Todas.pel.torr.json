@@ -453,6 +453,8 @@ Title:TOY STORY, SagaID:ToyStory, Imagen:https://acironline.mx/wp-content/upload
 							-	0SagaINFANTIL, 1SagaTINFANTIL,
 Title:TROLLS, SagaID:Trolls, Imagen:https://www.rotoscopers.com/wp-content/uploads/2016/01/12466039_1263729356987157_1103798837878556801_o.png,	
 							-	0SagaINFANTIL, 1SagaTINFANTIL,
+Title:UNA FAMILIA FELIZ, SagaID:FamiliaFeliz, Imagen:https://www.themoviedb.org/t/p/original/wHxd3v5k6icbHJP0DR0ESmJVkqn.jpg,	
+							-	0SagaINFANTIL, 1SagaTINFANTIL,
 Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5BuvMdptVoMS1TdWOdYu5.jpg,	
 
 	]
@@ -5983,6 +5985,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Comedia, A2021, Letra U, Alemania, Sagas FamiliaFeliz, ",
+			"name": "Una familia feliz 2 (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/jrdWxWLA8EWIqZkUOlWG9PSsC7b.jpg",
+			"info": "Para rescatar a Baba Yaga y Renfield de las garras de la cazadora de monstruos Mila Starr, la familia Wishbone se transforma una vez más en, un vampiro, Frankenstein, la momia y el hombre lobo. Con la ayuda de sus tres murciélagos mascota, nuestra Familia Monstruo vuelve a recorrer el mundo para salvar a sus amigos, hacer nuevos mountruo-conocidos y finalmente darse cuenta que 'Nadie es perfecto'… incluso aquellos con defectos pueden encontrar la felicidad.",
+			"genero": "Animacion, Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Una.familia.feliz.2.-2021.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra U, Mexico, Netflix, Cine Latino, ",
 			"name": "Una navidad no tan padre (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/qLldLAaAXZPX2KFzTDbIQwVPbS4.jpg",
@@ -9857,14 +9872,14 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 0Torrentcristal, 0Torrent4k, 1Accion, A2020, Letra I, EEUU, Robos, Atracos, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, A2020, Letra I, EEUU, Robos, Atracos, ",
 			"name": "Infamous (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/q2lkJf1TAjImTHCEO7XvbqPtnPb.jpg",
 			"info": "Arielle (Thorne) es una chica de un pueblo pequeño que sueña con hacerse famosa a toda costa. Un dia conoce a Dean (Manley), un joven ex convicto, y ambos tienen una conexion instantanea. Tras un accidente fatal ambos se ven obligados a huir. ¿Su plan para financiar su viaje? Robar gasolineras y pequeñas tiendas. Pero el ansia de notoriedad de Arielle la llevara a transmitir en vivo sus robos por Internet, y las dos se convierten en una sensacion viral en las redes sociales a medida que su sueño se vuelve sangriento y violento",
 			"genero": "Accion",
 			"stations": [
 				{
-				"torrent": "magnet:?xt=urn:btih:02B04C558825BBFFCCADF2C5C1A2304E9E0C15FA&dn=HD1080",  magnet:?xt=urn:btih:36584AACF2388D760146B41D371D0D5C67015B2F&dn=BRRip
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Infamous.-2020.-.1080x265.-.CristalAzul.mkv.torrent",  
 				"torrent4k": ""
 				}		
 			]
@@ -30149,6 +30164,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, A2017, Letra NUM, Nueva Zelanda, 1Hechos reales, ",
+			"name": "6 dias (2017)","coloryear": "green",
+			"image": "https://www.themoviedb.org/t/p/original/hz3gpUqya5QSZmW7ewvlonw3BAm.jpg",
+			"info": "En abril de 1980, un grupo de terroristas armados toma la embajada iraní en Londres con 26 rehenes, exigiendo que su secuestro se retransmita en directo y que se libere a 91 presos. Comienza así una tensa cuenta atrás de 6 días mientas un grupo de Operaciones Especiales del ejército, altamente entrenados, se prepara para asaltar la embajada en el caso de que las negociaciones entre las autoridades y los secuestradores no lleguen a un acuerdo",
+			"genero": "Accion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/6.dias.-2017.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Terror, A2017, Letra NUM, EEUU, ",
 			"name": "60 Minutos Para Morir (Escape Room) (2017)","coloryear": "green",
 			"image": "https://www.ecartelera.com/carteles/13300/13398/001_p.jpg",
@@ -33023,7 +33051,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			},
 			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Intriga, 1Thriller, A2017, Letra U, EEUU, Sectas, ",
-			"name": "Una De Nosotras (2017)","coloryear": "green",
+			"name": "Una de nosotras (2017)","coloryear": "green",
 			"image": "https://www.themoviedb.org/t/p/original/zmXRi0hj7mNmOEjMNZbY6mwXpVQ.jpg",
 			"info": "Una joven periodista se infiltra en una comuna de una montaña, pero acaba siendo manipulada por el lider de una secta",
 			"genero": "Terror, Intriga, Thriller",
@@ -33032,6 +33060,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				"torrent": "magnet:?xt=urn:btih:B006DB4C619D1AD612CF575521A102C282CCAAAB", 
 				"torrent4k": ""
 				}				
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Comedia, A2017, Letra U, Alemania, Sagas FamiliaFeliz, ",
+			"name": "Una familia feliz (2017)","coloryear": "green",
+			"image": "https://www.themoviedb.org/t/p/original/k8sg3lab2gjqGUue3pVaYx1Uhf1.jpg",
+			"info": "La familia Wünschmann no es exactamente una familia feliz pero mamá Emma animará a todos a dejar sus diferencias de lado e ir juntos a un parque temático. Luego de una broma inocente con una muñeca, que resulta ser la bruja Babayaga, los Wünschmann son convertidos en monstruos. Mamá Emma en un vampiro, papá Frank en Frankenstein, la hijita Fee en una momia e hijito Max en un lobo. Y así es como un viaje normal a través de un tren fantasma se transforma una aventura ridículamente espeluznante. ¿Encontrará la familia Wünschmann su final feliz?",
+			"genero": "Animacion, Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Una.familia.feliz.-2017.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
 			]
 			},
 			{
