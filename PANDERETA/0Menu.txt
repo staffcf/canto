@@ -1116,6 +1116,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El Joven Wallander[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.joven.wallander</externallink>
+<info>Ambientada en la Suecia contemporánea, donde el icónico detective investigará su primer caso. La historia se centrará en las experiencias formativas, profesionales y personales a las que Kurt se enfrentó siendo un oficial de policía recién graduado.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/7NNX8BeHxOv94E5NMmxtovzrDdO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tp1eXQudn4Z47MyHsjRAxmjxGVX.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El Juego De Las LLaves[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.juego.de.las.llaves.txt</externallink>
@@ -1680,6 +1689,15 @@
 <info>Serie de TV (2019-). 6 episodios. La presidenta de la Confederación Suiza, Kathy Kunz, está en el apogeo de su poder y se dispone a intercambiar bombas ilegales por rehenes retenidos en Yemen. La situación amenaza con agravarse cuando Tina, una limpiadora del Palacio Federal, decide infiltrarse en los pasillos del poder para salvar a su familia.</info>
 <thumbnail>https://i.imgur.com/EJWx7WQ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/lQSYFDzfnYkkJkn7jHU1xZLn0z6.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Heroes Reborn[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Heroes.reborn</externallink>
+<info>Heroes Reborn se centrará en una nueva generación de superhéroes que irán descubriendo sus diferentes habilidades extraordinarias a medida que se van desarrollando los acontecimientos. Se trata del mismo preámbulo que tenía lugar en la primera temporada de la serie original. Esta nueva etapa seguirá a los nuevos y viejos personajes en una batalla épica entre las fuerzas del bien y las fuerzas del mal. Se trata de la secuela de Heroes, serie de éxito que estuvo en antena en NBC entre 2006 y 2010 con un total de cuatro temporadas. 'Heroes Reborn' contará de nuevo con Tim Krink como creador y tendrá su propio \'spin off\' online en el que se presentarán a los nuevos personajes.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/63dqSCyfnGaA6FmiObYuccg0pHA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uPoPcVwRbHG34p0VwzGQ4aXb8n2.jpg</fanart>
 </item>
 
 <item>
