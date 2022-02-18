@@ -1840,7 +1840,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/tp2oB2C.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Daniel Larusso llega a Los angeles procedente de la costa Este de Estados Unidos dispuesto a hacer nuevos amigos. Sin embargo, se convierte en el blanco de los ataques de los Cobras, un hostil grupo de estudiantes de karate, cuando comienza a salir con Ali, la antigua novia del cabecilla del grupo. En tal situacion, no tiene mas remedio que pedirle ayuda a Miyagi, un maestro de artes marciales, para que le enseñe karate. Bajo la tutela de Miyagi, Daniel desarrolla no solo sus aptitudes fisicas, sino tambien la seguridad en si mismo que necesita para superar todos los obstaculos.</info>
-<urlsolve>https://watchsb.com/e/yyaznn2y50wh</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/yyaznn2y50wh"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/-8kl2bpdgyq8k-8"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1855,7 +1855,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/1lrfjtM.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Daniel acompaña a Miyagi a su tierra, Okinawa. Para Daniel es un viaje a un mundo nuevo y exotico, donde aprendera cosas sobre el pasado secreto de su maestro. Para Miyagi es la oportunidad de ver a su padre por ultima vez y de reanudar su romance con el amor de su infancia. Pero el regreso de Miyagi tambien reaviva su vieja enemistad son Sato, una enemistad que arrastrara a Daniel a un choque de culturas y combates. Ahora, lejos de los torneos, la energia del publico y la seguridad del hogar, Daniel se enfrentara a su mayor desafio cuando el maestro se convierte en aprendiz y el precio del honor es la propia vida.</info>
-<urlsolve>https://watchsb.com/e/2eabnutj5td7</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/2eabnutj5td7"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/m6pqji5wm6k1wx8"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1864,7 +1864,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <item>
 <title>[COLOR white]Karate kid III [COLOR coral](1989)[/COLOR]</title>    
 <genre>Drama, Deporte, Karate</genre>
-<year>1986</year>  
+<year>1989</year>  
 <thumbnail>https://i.imgur.com/VwmCldA.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>El joven karateka Daniel Larusso libra su batalla mas dificil cuando el malvado Kreese le arrastra a una complicada situacion, al obligarle a defender su titulo de campeon del torneo del Valley. Su maestro, Miyagi, no esta de acuerdo... </info>
