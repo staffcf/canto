@@ -113,6 +113,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Amber[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Amber</externallink>
+<info>Serie de TV (4 episodios). Los padres de Amber, Ben y Sarah, se han divorciado hace poco y rehacen de nuevo sus vidas. Pero todo cambia bruscamente cuando Amber no regresa a casa tras pasar la tarde en casa de una amiga.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/tM3BZW3tlqEmvZLJUpHbdpXvsXX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/teYN6NiaRWm2opLrNyPOfd8rjcp.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]American Gods[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/American.gods</externallink>
@@ -272,6 +281,15 @@
 <info>Un hombre que necesita un riñón desarrolla un vínculo atípico con una doctora al que conoce por casualidad</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/kpahHIuvaUJgTSiNMhz3yjgsAtq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/xpjjbFH2PkJZJSByAPP8tCAkqFA.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Back To Life[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Back.to.life</externallink>
+<info>Después de 18 años en prisión, una mujer regresa a su pequeña ciudad natal preguntándose si alguien la dejará seguir adelante.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/cHJUxgP4KZYVlynN34vu4IDh1t5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4EZKfTcQD4TGF7ysqn7KVKfai0V.jpg</fanart>
 </item>
 
 <item>
@@ -1413,6 +1431,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Fidelidad[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Fidelidad</externallink>
+<info>Carlo (Michele Riondino) y Margherita (Lucrezia Guidone) están enamoradísimos, pero algo interfiere en su relación que les hace dudar de todo, hasta de ellos mismos. ¿Podrán gestionar las consecuencias de sus decisiones?</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/2RdEzEl8TrLeJpTOsKdfsky64y7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ziUEkxnPZtJPmm7JbSuFupP9oNT.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]FlashForward[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/FlashForward.xml</externallink>
@@ -1446,6 +1473,15 @@
 <info>Serie de TV. Adaptación de la famosa saga de novelas científicas de Isaac Asimov. Cuando el revolucionario Dr. Hari Seldon predice la inminente caída del Imperio, él y un grupo de leales seguidores viajan a los últimos confines de la galaxia para establecer La Fundación, en un intento de reconstruir y preservar el futuro de la civilización. Enfurecidos por las teorías de Hari, los Cleons (una larga línea sucesoria de emperadores clónicos que ostentan el poder) temen que su control sobre la galaxia se pueda debilitar y deben reconocer la posibilidad, muy real, de perder su legado para siempre.</info>
 <thumbnail>https://i.imgur.com/777M1DD.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/cugTdbFpxOgEH8EAlymLIOvRo5g.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Furia[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Furia</externallink>
+<info>En Furia, un impactante asesinato en un idílico pueblo noruego lleva al investigador de la policía Asgeir a la policía encubierta Ragna, mientras se infiltra en una subcultura nacionalista. Sigue un viaje a un horrible inframundo de odio, y se revela un complot terrorista que se extiende desde las montañas de Noruega hasta el mismo corazón de Europa. Pero, ¿son todos realmente quienes parecen ser?</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/pKDKoxcfaYLbhH7PXZ9ZZqgLo9s.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gph8YhPCb0fz5IcmQFyH3rk8f8Q.jpg</fanart>
 </item>
 
 <item>
@@ -2173,6 +2209,15 @@ En paralelo a la serie, Enrique Urbizu realizó un montaje para cines en formato
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]London Kills[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/London.kills</externallink>
+<info>Con una entrega de estilo documental, este drama cuenta la historia de un equipo de los mejores detectives de asesinatos con cada episodio que presenta un asesinato diferente al mismo tiempo que sigue una historia serializada que involucra a la esposa desaparecida del detective líder.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/yPANm0nWZ6hMZTv6tGn92V3bPM7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/u8dxtoKqcfT9GlZPZDAf30PcQcZ.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Long Way Down [COLOR gold]Docuserie[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Long.way.down</externallink>
@@ -2676,6 +2721,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 <info>Serie de TV (2021). 8 episodios. Lisa Nova, una aspirante a directora de cine en el Los Ángeles de 1990, se embarca en un viaje de venganza sobrenatural que se le va de las manos.</info>
 <thumbnail>https://i.imgur.com/xCDOOEX.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/8zlzJ8sSXsn2Xiq3vVwkyGUXMSj.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Operacion Bufalo[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Operacion.bufalo</externallink>
+<info>Australia, año 1956. El Gobierno de la nación acaba de dar la bienvenida a las pruebas de bombas atómicas británicas en Maralinga, en el interior de Australia. El mayor Leo Carmichael, un héroe de la Segunda Guerra Mundial, se encarga de mantener funcionando sin problemas la base nuclear ultrasecreta. Pero probar el arma más peligrosa del mundo no será un paseo por el parque con un oficial al mando que no es apto para el trabajo; un nuevo meteorólogo que empieza a hacer demasiadas preguntas; un violador suelto en el campamento; una gran cantidad de filtraciones en la prensa, y el gobierno observando cada uno de sus movimientos.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/iK8AdLXaoWn0GfqD1w3uzflpodo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/c076WPgApnmgcvP7SwFSkKK1PVc.jpg</fanart>
 </item>
 
 <item>
@@ -3726,6 +3780,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]This Is Us[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/This.is.us</externallink>
+<info>Esta provocativa y honesta serie sigue a un grupo de personas bastante particular que, de pronto, ven cómo sus vidas se entrelazan unas con otras de las maneras más curiosas posibles, explorando sus propios conflictos, privaciones y dificultades. Pronto descubren que muchos de ellos comparten elementos comunes en sus vidas (algunos de ellos cumplen año el mismo día), incluso más de lo que cualquiera de ellos podrían esperar. This is Us es una serie que mezcla elementos de comedia y drama, y en la que los personajes deben lidiar con los aspectos difíciles de la vida, demostrando que el amor es una fuerza imparable y que los humanos son capaces de resistir más de lo que creen.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/nbKEJpUJP2ZTQxUdG8FvPYAa8wC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/frNEERYvgDAThEcCR5FKzggktsR.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Time Condena[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Time.Condena</externallink>
@@ -4017,6 +4080,14 @@ Ruawai Maaka consiguen deshacerse del demonio y así nace la Unidad Paranormal d
 <fanart>https://www.themoviedb.org/t/p/original/bnzdMWL9IgrdQjwvH4zw5D33dTD.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR gold]* [COLOR white]Yellowstone[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Yellowstone</externallink>
+<info>John Dutton (Costner) es el propietario del rancho más grande de Estados Unidos. Él y sus hijos entablarán una lucha sin cuartel contra una reserva india y contra el Gobierno federal de Estados Unidos que intenta expandir el parque nacional contiguo a la propiedad de los Dutton.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/3ePlESS6eyUj9W7yPEbzhwWaiFo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2Erj4Oav9EHAtqLI354VM7ULDqu.jpg</fanart>
+</item>
 
 <item>
 <title>[COLOR gold]* [COLOR white]You[/COLOR]</title>     
