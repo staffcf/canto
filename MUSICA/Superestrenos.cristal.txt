@@ -7,6 +7,23 @@
 
 
 
+
+<item>
+<notitle>[COLOR white] Este no aparece [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.4[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/eq2JtD4oWJG82zWMaJvzwsV7whK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5tqkP8NNWdteskVBYPRXE6h82ts.jpg</fanart>
+<info>La joven Jessica deja atrás su vida en un pueblo sueco para ir a Los Angeles y convertirse en la próxima gran estrella porno. El camino hacia su objetivo será más accidentado de lo que había imaginado.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/OOnoGHHF8Z8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/8DLLPkweAxso7k0"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/pkxxqjoragg39o1"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/tbog7azt9hh6"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/jbkrl21bbffn"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/htcl3lvi03cl"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/qnyspn55cnn6"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1WRW2xyxUuaq_uMSwJp6KEr1LhYo8dzim/view"}</urlsolve>
+</item>
+
+
+
+
+
+
+
 <item>
 <title>[COLOR white] Pleasure [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.4[/COLOR]</title> 
 <genre>Drama</genre>
