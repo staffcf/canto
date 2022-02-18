@@ -12,38 +12,39 @@
 	- 1SerieTitle:"LA MARAVILLOSA SEÑORA MAISEL", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/5tFpzekjIIzrVCt03bIvsZz9Og.jpg",
 	- 1SerieTitle:"LA MARAVILLOSA SEÑORA MAISEL", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/cHh97iZj8EH0zpgSu8Nt7iZWagL.jpg",
 	- 1SerieTitle:"LA MARAVILLOSA SEÑORA MAISEL", SerieTemp:"TEMPORADA 3", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/zx5dm6oYVuWDxBxSyBdOz2wjYNP.jpg",
+	- 1SerieTitle:"LA MARAVILLOSA SEÑORA MAISEL", SerieTemp:"TEMPORADA 4", SerieID:"SERIETEMP4", SerieIDT:"TORRENTTEMP4", SerieThumbail:"https://www.themoviedb.org/t/p/original/yxO0WKUwvk1w1Dvg5uuEmEyyr1.jpg",
 
 	
 -->
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - Capitulos 1 a 8</title>      
+			<title>1x0. - Capitulos 1 a 8</title>      
 			<torrent>magnet:?xt=urn:btih:7983FA0175E640EAC7FF48EDD96C98FC6AA0879D</torrent>
 			</item>
 ======================================================================
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
-			<title> - Capitulos 1 y 2</title>      
+			<title>2x0. - Capitulos 1 y 2</title>      
 			<torrent>magnet:?xt=urn:btih:722A3AEA354A163CA2C8227C32DAEA247B05F5FF</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
-			<title> - Capitulos 3 y 4</title>      
+			<title>2x0. - Capitulos 3 y 4</title>      
 			<torrent>magnet:?xt=urn:btih:CAC47D262A6BEE272F7BCAEC33C01268920A34BF</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
-			<title> - Capitulo 5</title>      
+			<title>2x0. - Capitulo 5</title>      
 			<torrent>magnet:?xt=urn:btih:DAC78168BF258CCF5D6240F0676D3CAC624476C6</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP2, "
 			<item>
-			<title> - Capituloa 6 a 8</title>      
+			<title>2x0. - Capituloa 6 a 8</title>      
 			<torrent>magnet:?xt=urn:btih:7F688F0CF6F3055EF54F464DF290D7D5D75F9BBD</torrent>
 			</item>
 ======================================================================
@@ -56,21 +57,75 @@
 ======================================================================
 			"Tag= TORRENTTEMP3, "
 			<item>
-			<title> - Capitulo 1</title>      
+			<title>3x0. - Capitulo 1</title>      
 			<torrent>magnet:?xt=urn:btih:D8A24BF88E11E8DC97207D565C603A9F7604F50C</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP3, "
 			<item>
-			<title> - Capitulo 2</title>      
+			<title>3x0. - Capitulo 2</title>      
 			<torrent>magnet:?xt=urn:btih:F61D2C3622B511D71AFEC8850D516E4C46D41BF0</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP3, "
 			<item>
-			<title> - Capitulos 3 a 8</title>      
+			<title>3x0. - Capitulos 3 a 8</title>      
 			<torrent>magnet:?xt=urn:btih:0F7A2148E0D830087A68D0D8E7886CFF2EA14AEC</torrent>
 			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x01 - Rumble en la rueda de las maravillas</title>
+			<torrent>magnet:?xt=urn:btih:5941831FE7ED58DA20FC160283CC71409E3E77C5&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x02 - Billy Jones y las lámparas de la orgía</title>
+			<torrent>magnet:?xt=urn:btih:36C3B4CB00896A283C769DFFD16046115AE27BEE&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x03 - Capitulo 3 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x04 - Capitulo 4 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x05 - Capitulo 5 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x06 - Capitulo 6 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x07 - Capitulo 7 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x08 - Capitulo 8 [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
 ======================================================================
 ======================================================================
 ======================================================================
