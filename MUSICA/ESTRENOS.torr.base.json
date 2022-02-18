@@ -6,6 +6,136 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Accion, 1Drama, A2022, Letra V, EEUU, Netflix, ",
+			"name": "Venganza a golpes (2022)","coloryear": "cyan",
+			"image": "https://i.imgur.com/FDScdIt.jpg",
+			"info": "Kai Jin, un joven chef de Chinatown en la actual San Francisco, se ve envuelto en la búsqueda de la Tríada China de poderes ancestrales mortales conocidos como el 'Wu Xing'",
+			"genero": "Accion, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Vengaza.a.golpes.-2022.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Comedia, A2021, Letra U, Alemania, Sagas FamiliaFeliz, ",
+			"name": "Una familia feliz 2 (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/jrdWxWLA8EWIqZkUOlWG9PSsC7b.jpg",
+			"info": "Para rescatar a Baba Yaga y Renfield de las garras de la cazadora de monstruos Mila Starr, la familia Wishbone se transforma una vez más en, un vampiro, Frankenstein, la momia y el hombre lobo. Con la ayuda de sus tres murciélagos mascota, nuestra Familia Monstruo vuelve a recorrer el mundo para salvar a sus amigos, hacer nuevos mountruo-conocidos y finalmente darse cuenta que 'Nadie es perfecto'… incluso aquellos con defectos pueden encontrar la felicidad.",
+			"genero": "Animacion, Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Una.familia.feliz.2.-2021.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra P, Suecia, ",
+			"name": "Pleasure (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/duYCyy0TEGBNmuM5cgUA8v79hN3.jpg",
+			"info": "La joven Jessica deja atrás su vida en un pueblo sueco para ir a Los Angeles y convertirse en la próxima gran estrella porno. El camino hacia su objetivo será más accidentado de lo que había imaginado",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Pleasure.-2021.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Romance, 1Comedia, A2022, Letra T, Turquia, Netflix, ",
+			"name": "Tacticas en el amor (2022)","coloryear": "darkorange",
+			"image": "https://www.themoviedb.org/t/p/original/vKlw8J7qJxOFyQYkLIPCAb1iYUp.jpg",
+			"info": "Un ejecutivo de publicidad y una bloguera de modas sin fe en el amor apuestan que lograrán que la otra persona se enamore perdidamente de ellos",
+			"genero": "Romance, Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Tacticas.en.el.amor.-2022.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra E, Spanish, 1Hechos reales, ",
+			"name": "El sustituto (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/xhc51WA0R8kHF0C0RJ9w5Gc5wct.jpg",
+			"info": "Año 1982. Un joven policia curtido en los barrios más duros de Madrid acepta un destino en un pueblo de mar con la esperanza de curar a su hija y, de paso, ganar algo de tranquilidad. Una vez alli, se ve envuelto en la investigacion del extraño asesinato del inspector al que ha de sustituir. Las pesquisas le llevarán hasta un hotel playero donde una comunidad de ancianos nazis, reclamados por muchos paises por crimenes contra la humanidad, vive un retiro paradisiaco y feliz",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.sustituto.-2021.-.1080.-.byLuar.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra T, Francia, ",
+			"name": "Tokyo Shaking (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/gPjeENcoQjtSzF67YMWAO8PBnjn.jpg",
+			"info": "11 de marzo de 2011. El mayor terremoto que ha experimentado Tokio desencadena el desastre de Fukushima. Alexandra acaba de llegar al pais procedente de Francia para trabajar en un banco y tiene que afrontar esta crisis nuclear.",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Tokyo.Shaking.-2021.-.1080.-.byLuar.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, 1Romance, A2022, Letra A, Corea del Sur, Netflix, ",
+			"name": "Amarrados al amor (2022)","coloryear": "darkorange",
+			"image": "https://www.themoviedb.org/t/p/original/p0ZJmVKsvIRHX4s0i8Eupz14Z3l.jpg",
+			"info": "Una mujer y su compañero de trabajo desarrollan un vínculo atrevido y romántico cuando ella descubre su secreto por accidente. Basada en un webcómic",
+			"genero": "Comedia, Romance",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Amarrados.al.amor.-2022.-.1080.-.byLuar.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2020, Letra E, Francia, ",
+			"name": "Entre rosas (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/k5SOA4ewxgZvj917PDhzJCXrHgf.jpg",
+			"info": "Eve creaba las rosas más famosas del mundo, pero ahora está pasada de moda, amargada y al borde de la bancarrota. A Vera, su fiel asistente, se le ocurre una idea brillante y loca que podría cambiar sus vidas para siempre…",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Entre.rosas.-2020.-.1080.-.byLuar.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Romance, A2021, Letra E, Francia, 1Biografico, ",
+			"name": "Eiffel (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/o55rQ68NAwCON1Xlcj14NwpzPbR.jpg",
+			"info": "Habiendo finalizado su colaboración en la Estatua de la Libertad, el célebre ingeniero Gustave Eiffel (Romain Duris) está en la cima del mundo. Ahora, el gobierno francés le está presionando para diseñar algo espectacular para la Exposición Universal de París de 1889, pero Eiffel no está interesado. De repente, todo cambia cuando en su camino se cruza una misteriosa mujer de su pasado (Emma Mackey) y el fuego de su pasión prohibida se reaviva, inspirándole a cambiar la imagen de París para siempre.",
+			"genero": "Drama, Romance",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Eiffel.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Fantastico, 1Drama, A2021, Letra K, Japon, ",
+			"name": "Kanna y los dioses de octubre (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/4RYwzjb8QcVXOIKcQtezoQxstE.jpg",
+			"info": "Kanna pierde las ganas de correr profesionalmente tras la muerte de su madre. Con la ayuda de un conejo de una oreja mensajero de los dioses, y de Yato, un joven Oni, empezará un viaje personal con tintes mágicos",
+			"genero": "Animacion, Fantastico, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Kanna.y.los.dioses.de.octubre.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra S, Reino Unido, ",
 			"name": "Supernova (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/pfV940JmTJBhhBzQYfSPgGn7d1q.jpg",
@@ -752,7 +882,7 @@
 			"genero": "Comedia, Drama",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.buen.patron.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.buen.patron.-2021.-.1080x265.-.CristalAzul.mkv.torrent",
 				"torrent4k": ""	
 				}		
 			]
