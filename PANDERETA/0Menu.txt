@@ -2681,9 +2681,9 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 <item>
 <title>[COLOR gold]* [COLOR white]Orphan Black[/COLOR]</title>  
 <link>cristalazul</link>
-<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Orphan.Black.xml</externallink>
-<info>Serie de TV (2013-2017). 5 temporadas. 50 episodios. Sarah (Tatiana Maslany) es una mujer huérfana que es testigo del suicidio de una chica que es idéntica a ella. Sarah decidirá asumir su identidad, cuenta bancaria, hogar y demás… sólo para encontrarse en medio de una tremenda conspiración con clones de por medio.</info>
-<thumbnail>https://i.imgur.com/Mkxf5oO.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Orphan.black</externallink>
+<info>Orphan Black es una serie americana emitida en el año 2013, de género ciencia ficción, drama y acción. Nos encontramos con Sarah (Tatiana Maslany), una joven huérfana sin ningún sitio donde caerse muerta que es testigo del suicidio de una chica que es idéntica a ella. Sarah decidirá asumir su identidad, cuenta bancaría, hogar y demás solo para encontrarse en medio de una tremenda conspiración con clones de por medio.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/5sfJOpwnkuXmXK7K1YDcRY4rTE.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/2YCv1rIWIy63dJsC4y8BjoI4l8L.jpg</fanart>
 </item>
 
