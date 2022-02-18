@@ -5634,6 +5634,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, A2021, Letra T, EEUU, ",
+			"name": "The hunting (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/e0AbOA60znmfzHxY11h6of0Jdpz.jpg",
+			"info": "Cuando un misterioso ataque de un animal deja un cuerpo mutilado en el bosque, un detective conservador de una pequeña ciudad debe contar con la ayuda de un ansioso especialista en vida silvestre para descubrir la oscura e inquietante verdad que amenaza a la ciudad.",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:96EE8AAFBFDF4A1DA9D505F17ECDC52F662F3A0D&dn=HD1080",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Thriller, 1Accion, 1Comedia, A2021, Letra T, Reino Unido, Sagas Kingsman, ",
 			"name": "The King's Man: La primera mision (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/st9X9hGfMTs8VhwMmeHJOQ7vrUw.jpg",
@@ -33154,7 +33167,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Accion, 1Romance, A2017, Letra V, Francia, Comic, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Accion, 1Romance, A2017, Letra V, Francia, Comic, ",
 			"name": "Valerian Y La Ciudad De Los Mil Planetas (2017)","coloryear": "green",
 			"image": "https://www.ecartelera.com/carteles/10300/10305/013_p.jpg",
 			"info": "En el siglo XXVIII, Valerian (Dane DeHaan) y Laureline (Cara Delevingne) son un equipo de agentes espaciales encargados de mantener el orden en todos los territorios humanos. Bajo la asignacion del Ministro de Defensa, se embarcan en una mision hacia la asombrosa ciudad de Alpha, una metropolis en constante expansion, donde especies de todo el universo han convergido durante siglos para compartir conocimientos, inteligencia y culturas. Pero hay un misterio en el centro de Alpha, una fuerza oscura amenaza la paz en la Ciudad de los Mil Planetas. Valerian y Laureline deben luchar para identificar la amenaza y salvaguardar el futuro, no solo el Alfa, sino del universo",
@@ -33162,7 +33175,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:ef72374b1b03d089a420976312f5b8dd2f1663e4",
-				"torrent4k": ""
+				"torrent4k": "magnet:?xt=urn:btih:E9152B8CF380A131F73F635B43913F161293CEA9&dn=UHDRip"
 				}
 			]
 			},
@@ -49012,8 +49025,8 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Musical, Romance, Comedia",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Grease.-1978.-.1080.-.CristalAzul.mkv.torrent", 	magnet:?xt=urn:btih:AA991A77A924EBCBE78E3D25CD1F7CCE27DA645F&dn=HD720	 magnet:?xt=urn:btih:720666BA88034EAD5AC3C0B442AAEDC19BA8472D&dn=HDRip,
-				"torrent4k": "magnet:?xt=urn:btih:3FC13020183DDF149A4FA793FD10DA926C925829"
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Grease.-1978.-.1080x265.-.CristalAzul.mkv.torrent", 	magnet:?xt=urn:btih:AA991A77A924EBCBE78E3D25CD1F7CCE27DA645F&dn=HD720	 magnet:?xt=urn:btih:720666BA88034EAD5AC3C0B442AAEDC19BA8472D&dn=HDRip,
+				"torrent4k": "magnet:?xt=urn:btih:4ACA7A3240761549E30F46ADB84F07ABA366E736&dn=UHDRip"
 				}		
 			]
 			},
