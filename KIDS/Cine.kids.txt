@@ -1868,7 +1868,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/VwmCldA.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>El joven karateka Daniel Larusso libra su batalla mas dificil cuando el malvado Kreese le arrastra a una complicada situacion, al obligarle a defender su titulo de campeon del torneo del Valley. Su maestro, Miyagi, no esta de acuerdo... </info>
-<urlsolve>https://watchsb.com/e/yivre6zp26pk</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/yivre6zp26pk"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/7lg1pigp33jky3q"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1883,7 +1883,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/byDBrj0.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Los habitantes de la pacifica isla de Kikoriki se ven envueltos en una gran aventura cuando su cientifico residente inventa un sorprendente dispositivo: un casco llamado "el mejorador", que toma rasgos de personalidad de una persona y los cambia con rasgos de otra persona.</info>
-<urlsolve>https://watchsb.com/e/aov8txqql9vx</urlsolve> 
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/aov8txqql9vx"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/x386ki5jqqx3lem"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1895,7 +1895,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/Tu38NPc.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Kim Possible (Sadie Stanley) es una chica normal y corriente que se dedica a salvar al mundo en su tiempo libre. Con la ayuda de su mejor amigo, Ron Stoppable (Sean Giambrone), pelea contra villanos y hace frente a un sinfin de amenazas. Se preve que la pelicula se estrene en 2019. </info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/Q0C5JCB3ovSr/festakids-kim-possible-2019-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/qm7rzuez1s8a"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/Q0C5JCB3ovSr/festakids-kim-possible-2019-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/qm7rzuez1s8a"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/41ygdszden72pdx"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1907,7 +1907,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/G6EIGdG.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Un cartero es enviado a una ciudad congelada en el norte, donde descubre que Papa Noel esta escondido. A Jesper (voz de Quim Gutierrez), el peor estudiante de la academia postal, le destinan a Smeerensburg, una gelida isla mas alla del Circulo Polar artico, donde sus conflictivos habitantes apenas intercambian palabras y, mucho menos, cartas. Jesper esta a punto de rendirse cuando encuentra una aliada, Alva (Belen Cuesta), la profesora del pueblo. Tambien descubre a Klaus (Luis Tosar), un misterioso carpintero que vive aislado en una cabaña repleta de juguetes hechos a mano. Estas improbables amistades traeran la alegria de nuevo a Smeerensburg, y crearan un nuevo legado de vecinos generosos, leyendas magicas y calcetines colgados con cariño en las chimeneas.</info>
-<urlsolve>https://watchsb.com/e/ur8o9oymj5c7</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/ur8o9oymj5c7"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/nd1ejt24138r3qy"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1933,7 +1933,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/FrP599U.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Bo Peep vuelve por la puerta grande a Toy Story 4 de Disney y Pixar y protagoniza el nuevo cortometraje de animacion de Pixar, Las aventuras de Bo Peep. Este corto relata que fue de la vida de Bo desde que la vimos por ultima vez en Toy Story 2.</info>
-<urlsolve>https://watchsb.com/e/j8nevptl18hc</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/j8nevptl18hc"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/jndqjsdz3mx7pkl"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1945,7 +1945,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://3.bp.blogspot.com/-d0dGyHcSpPY/Wxwdk0zLzMI/AAAAAAAAHlk/E521-2yBiqIiyuwS-bB95zLhg1bfVL43wCLcBGAs/s1600/La_abeja_Maya_Los_juegos_de_la_miel-694197929-large.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>La entusiasta abeja Maya mete la pata con la Emperatriz de Buzztropolis y debera unirse a un equipo de rebeldes insectos para competir en los Juegos de la Miel y salvar asi a su Reina y a sus compañeras de panal.</info>
-<urlsolve>https://watchsb.com/e/t5upm5qqpdhs</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/t5upm5qqpdhs"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD[/COLOR]","url" : "https://www.fembed.com/v/8yng1a810m3nj70"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1958,7 +1958,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/RzKwbQX.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Hodja es un niño de Pjort, que toma prestada una alfombra voladora para ver el mundo. A cambio, tiene que encontrar y devolver el "diamante" a su abuelo.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/aGiOIBWut2Lc/festakids-la-alfombra-magica-2019-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/vds6qxx4zomw"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/aGiOIBWut2Lc/festakids-la-alfombra-magica-2019-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/vds6qxx4zomw"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/zdn2mtj4dlgr0zw"}</urlsolve>
 </item>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, Disney, Princesas, "
@@ -1969,7 +1969,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/jrbn9Fq.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Habia una vez dos reyes que esperaban con alegria el nacimiento de su primera hija, a la que llamarian Aurora. Para celebrarlo, organizaron una fiesta a la que invitaron a todos los habitantes del reino. Pero olvidaron invitar a la malvada bruja Malefica que, enfurecida, lanzo un terrible hechizo sobre la princesa: el dia de su decimosexto cumpleaños, se pincharia con el uso de una rueca y moriria. Pero sus tres divertidas hadas madrinas descubren una forma de romper el maleficio: no morira, permanecera dormida hasta que un valiente principe la bese...</info>
-<urlsolve>https://sendvid.com/n661510r</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://sendvid.com/n661510r"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/m6pqji5wmxdk614"}</urlsolve>
 </item> 
 ---------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, Disney, Princesas,  "
@@ -1980,7 +1980,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/eKglx5I.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Una hermosa joven llamada Bella acepta alojarse en un castillo con una bestia a cambio de la libertad de su padre. La bestia es, en realidad, un principe encantado. Para romper el hechizo, debera ganarse el amor de una preciosa dama antes de que caiga el ultimo petalo de una rosa encantada.</info>
-<urlsolve>https://watchsb.com/e/h2jbv8hh0kvr</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/h2jbv8hh0kvr"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/rq217herzz2pze2"}</urlsolve>
 </item>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Fantastico, 1Comedia, 1Infantil, 1Animacion, 1Aventuras, A1971, Letra L, EEUU, Familiar, Magia, Guerra, Disney, "
@@ -1992,7 +1992,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/XHT8GyM.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>La excentrica Eglantine Price (Angela Lansbury) es una bruja aficionada que tiene que hacerse cargo, muy a su pesar, de tres niños londinenses que han sido evacuados al pequeño pueblo costero donde ella vive. Juntos lucharan contra el invasor aleman, empleando para ello un truco magistral de Eglantine. CS.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/piWaYHVTippq/festakids-la-bruja-novata-1971-1080-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/bdk5d7p0h0de"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/piWaYHVTippq/festakids-la-bruja-novata-1971-1080-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/bdk5d7p0h0de"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/wwx41hn3zmx56n4"}</urlsolve>
 </item>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, Disney,  "
@@ -2014,7 +2014,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/LXxRcrS.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Los encantadores perritos Reina y Golfo han sido padres de cuatro cachorros: Anette, Colette, Daniela y Golfillo. Este ultimo es el mas travieso de todos y se ve atraido por la libertad del mundo exterior lejos de las normas domesticas. Una noche escapa de casa y conoce a angela, una preciosa perrita huerfana que vive en las calles. Junto a ella y un grupo de nuevos amigos descubrira un mundo desconocido para el. ¿Encontrara Golfillo la aventura de su vida en las calles, o aprendera a valorar el amor que le brinda la familia que dejo atras?</info>
-<urlsolve>https://sendvid.com/fv6sfd5x</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://sendvid.com/fv6sfd5x"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/qzmw6te5jnqy3rw"}</urlsolve>
 </item>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Comedia, A2019, Letra L, EEUU, FAmiliar, Disney, C720, Dplus, "
