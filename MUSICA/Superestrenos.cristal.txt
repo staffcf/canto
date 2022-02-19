@@ -61,6 +61,15 @@
 </item>
 
 
+<item>
+<title>[COLOR white] El sustituto [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.7[/COLOR]</title> 
+<genre>Suspense</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/xhc51WA0R8kHF0C0RJ9w5Gc5wct.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/auA4hdWtSosGAJopvDbJkgFm9Kh.jpg</fanart>
+<info>España, años 80. Andrés Expósito es un joven inspector que se traslada a Denia por motivos personales para ocupar allí una vacante en la comisaría. Investigando un caso de asesinato archivado, comienza a encontrar cosas extrañas relacionadas con la presencia de antiguos nazis que huyeron de Alemania tras la II Guerra Mundial y que viven escondidos en la Costa Blanca.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/z5NhB9vYeCs"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/LOyOp2z3JMCZJ4"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/6qjjgqnntl896xv"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/c9hq7xqzqr86"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/q0358n94ogyx"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/j5g079l90u00"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/nw0nt8g61mck"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Mlp7bR8uaV6A8rnY4MOvqB2GBbJzY2LK/view"}</urlsolve>
+</item>
 
 
 
