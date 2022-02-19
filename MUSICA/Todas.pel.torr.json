@@ -4983,6 +4983,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Fantastico, A2021, Letra P, Francia, ",
+			"name": "Petite maman (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/olnyyF671yxpZagYfnvfpI3TGft.jpg",
+			"info": "Nelly tiene 8 años y acaba de perder a su abuela. Mientras ayuda a sus padres a vaciar la casa en la que su madre creció, explora intrigada el bosque que la rodea, donde su mamá solía jugar de pequeña. Allí Nelly conoce a otra niña de su edad, y la inmediata conexión entre ambas da paso a una preciosa amistad. Juntas construyen una cabaña en el bosque y, entre juegos y confidencias, desvelarán un fascinante secreto",
+			"genero": "Drama, Fantastico",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Petite.maman.-2021.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Drama, A2021, Letra P, Alemania, 1Hechos reales, ",
 			"name": "Plan A (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/9NuYDoBu1Wy7HgKmZKvO99CVBlU.jpg",
@@ -44698,7 +44711,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Ciencia ficcion, Accion",
 			"stations": [
 				{ 
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Independence.Day.-1996.-.1080.-.CristalAzul.mkv.torrent",	
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Independence.Day-V.Ext.-1996.-.1080x265.-.CristalAzul.mkv.torrent",	
 				"torrent4k": "magnet:?xt=urn:btih:C049F834B84959F98DB1F4DADDCC4DA4DE04C460"
 				}		
 			]
