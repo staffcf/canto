@@ -86,6 +86,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Alguien Esta Mintiendo[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Alguien.esta.mintiendo</externallink>
+<info>Un castigo reúne a cinco alumnos de instituto muy diferentes. Pero un asesinato (y varios secretos) los mantendrán unidos durante un misterioso juego del gato y el ratón.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/hKMpbHY7xqFKaBR8W7jE61JlQB6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tn8bg1KDNX74slOCytA5xnqzi2W.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Alias Grace[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Alias.Grace</externallink>
@@ -1341,6 +1350,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El Rey De Varsovia[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.rey.de.varsovia</externallink>
+<info>Narra los altibajos de un grupo mafioso que causaba miedo a la población polaca varios años antes del estallido de la II Guerra Mundial. Jakub Szapiro, un boxeador judío, se ve inmerso en una conspiración política que decidirá el futuro de la nación. Serie basada en la novela homónima escrita por Szczepan Twardoch.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/gmm8Pl2FOd8BKGJZeqLiXjrL93P.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/riVMPu8q8Drdt9bROJRrcOv3wjF.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]En La Cienaga[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/En.la.cienaga.txt</externallink>
@@ -2314,6 +2332,16 @@ En paralelo a la serie, Enrique Urbizu realizó un montaje para cines en formato
 <info>Serie de TV (8 episodios). Cuenta la historia real de Marco Merani (nombre ficticio), un mecánico especializado en motores de embarcaciones náuticas, algo que lo vincula sin saberlo a una banda de narcotráfico. Se acabará convirtiéndo en un infiltrado de la policía en la organización criminal. </info>
 <thumbnail>https://i.imgur.com/Jtn9tho.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/Rh9mKoN786vNvohp1jjqwSeI11.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Los Ultimos Asesinatos De Agatha Christie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Los%20ultimos.asesinatos.de.Agatha.Christie</externallink>
+<info>Ambientada en Francia a finales de los años 50, esta serie policial está inspirada en las novelas de Agatha Christie y ha tenido un enorme éxito en Francia.
+La periodista Alice Avril, el comisario Swan Laurence y su secretaria, Marlène Leroy deben hacer frente a una serie de crímenes sin resolver entre los que encontramos a un diseñador de moda exitoso que se autoinculpa por un asesinato que presumiblemente no ha cometido, o el supuesto asesinato cometido por un hombre disfrazado de Santa Claus que han presenciado dos niños huérfanos en un mercado navideño.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/pqQGLGo00HLd22DBpY9Sdxdc2dw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zsgPtHcdSNevzWWU0LXGatNjm2R.jpg</fanart>
 </item>
 
 <item>
@@ -3434,6 +3462,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 <info>10 episodios. Cuando Evan, de 12 años, no es seleccionado para el equipo de hockey, su madre le anima a formar un nuevo equipo con Gordon Bombay, el entrenador original de los Ducks. </info>
 <thumbnail>https://i.imgur.com/HYIfgfA.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/mq2ifAAdtILxcTCJ4qbsiFVRO9K.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Sospechosas Inseperadas[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Sospechosas.inesperadas</externallink>
+<info>Cuando un collar millonario es robado de la casa de la empresaria Roxanne Water en un elaborado atraco, la investigación policial saca a relucir las grietas de la reluciente fachada del este de Sidney.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/oPaKesb1Yoiszpp0aLmUTQJujTl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pKsGhz47gXl8VyNzuOaDvnuaG3q.jpg</fanart>
 </item>
 
 <item>
