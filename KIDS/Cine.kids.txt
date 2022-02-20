@@ -1503,7 +1503,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/Z4jtOt1.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>¡Mientras Rapunzel se prepara para su coronacion como Princesa de Corona, una noche inolvidable cambiara su pelo otra vez!</info>
-<urlsolve>https://sendvid.com/hlmlro7d</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://sendvid.com/hlmlro7d"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/p1zq4smq8726x1-"}</urlsolve>
 </item>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Infantil, 1Animacion, A2012, Letra E, Francia, Cuentos, Amistad, Roedores, Osos, Familiar, Mediometraje, Secuela, C720, "
