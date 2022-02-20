@@ -1,0 +1,54 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+======================================================================
+
+<!--
+ HEROES
+-->
+<!--
+
+	ETIQUETAS:
+	
+	- 1SerieTitle:"HEROES", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/hRTV9fqwtbCx5wvIHuBpg4gYAx8.jpg",
+	- 1SerieTitle:"HEROES", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/bE8i9IhG7kZeMRpeRfHuXvuM6gH.jpg",
+	- 1SerieTitle:"HEROES", SerieTemp:"TEMPORADA 3", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/fXwR7yGtX2nRJGdIjhOZ0Fppwb2.jpg",
+	- 1SerieTitle:"HEROES", SerieTemp:"TEMPORADA 4", SerieID:"SERIETEMP4", SerieIDT:"TORRENTTEMP4", SerieThumbail:"https://www.themoviedb.org/t/p/original/rEkZnVnA61A2PBdOotATolubASd.jpg",
+	
+-->
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x0. - Capitulos 1 a 23</title>
+			<torrent>magnet:?xt=urn:btih:CE4B24370805F777E82599FB99C79BE77A701CCA&dn=HD720</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title>2x0. - Capitulos 1 a 11</title>
+			<torrent>magnet:?xt=urn:btih:E107BE2C43E82B092403D6426A0B113B4A57C256&dn=HD720</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>3x0. - Capitulos 1 a 25</title>
+			<torrent>magnet:?xt=urn:btih:9A13BB850474C4BA5C3BF74298E6D6483F39786A&dn=HD720</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x0. - Capitulos 1 a 18</title>
+			<torrent>magnet:?xt=urn:btih:64198985A7FC76B28C4D56B79984FABE7BF32DBD&dn=HD720</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
