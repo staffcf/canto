@@ -15,6 +15,16 @@
 </item>
 
 
+<item>
+<title>[COLOR white] En el limbo [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.0[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/6eNu5Bg1MIcUPPeyM6rQHn2jzYD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/34WCiFkM53KDZehfTAMGVQR1LsJ.jpg</fanart>
+<info>Narra la lucha de Anthony Bryan para ser aceptado como ciudadano británico durante el escándalo de inmigración de Windrush.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/kYotRmOWj7s"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/xvO0mQ02lQUwYx"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/4nl1zqe3agpwml"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/zlhokjoir9gg"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/dmf27wgul49s"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/zur1xmyezmft"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/k7xqpk6a3hpz"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1c0-gjXYXUiBjBqb4xtK8-UwNcFdwteJ6/view"}</urlsolve>
+</item>
+
 
 
 <item>
