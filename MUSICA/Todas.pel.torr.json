@@ -728,6 +728,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Thriller, 1Intriga, A2022, Letra S, EEUU, Sagas Scream, ",
+			"name": "Scream (2022)","coloryear": "darkorange",
+			"image": "https://www.themoviedb.org/t/p/original/cIgmdAhesIqn2ykJfbNFMQYdxkO.jpg",
+			"info": "Veinticinco años después de que una serie de brutales asesinatos conmocionara al tranquilo pueblo de Woodsboro, un nuevo asesino se ha puesto la máscara de Ghostface y comienza a perseguir a un grupo de adolescentes para resucitar los secretos del mortífero pasado del pueblo",
+			"genero": "Terror, Thriller, Intriga",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Scream.-2022.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Thriller, 1Terror, A2022, Letra S, EEUU, ",
 			"name": "Sharkwater (The Requin) (2022)","coloryear": "darkorange",
 			"image": "https://www.themoviedb.org/t/p/original/obGFd3rHNrXVWyewflMx0FkOmNd.jpg",
