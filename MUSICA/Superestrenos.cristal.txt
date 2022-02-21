@@ -4,7 +4,15 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 
-
+<item>
+<title>[COLOR white] Oscura Verdad [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.1[/COLOR]</title> 
+<genre>Terror,Misterio,Suspense</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/3HSov8EW2fI3oQbUJxOvnf684ej.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8FHQFJGCuIuSQ8hC7Iyrd8fPdy7.jpg</fanart>
+<info>Después de meses de intentar y no conseguir embarazarse, Lucy y Adrian finalmente encuentran el doctor de fertilidad de sus sueños en el ilustre Dr. Hindle. Pero después de quedar embarazada de una niña sana, Lucy comienza a notar algo siniestro a través del reluciente encanto de Hindle, y se propone descubrir la inquietante verdad sobre él y su propia "historia de nacimiento". Como si quedar embarazada no fuera lo suficientemente complicado ...<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/I3ZjQqmhzhM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/aZZAD4POGktxLmD"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/j97e4gertrdm3g"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/6fzrq03f3b6u"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/1o9jhrhyo8ng"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/dvauom5r2md6"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/ley43j1g5ht8"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/12hXOg0oINOaiSaRKQMYzjgsdRUs6v9Y2/view"}</urlsolve>
+</item>
 
 
 
