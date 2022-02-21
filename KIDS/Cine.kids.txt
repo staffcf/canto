@@ -869,7 +869,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/LFyYuMn.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Boog, Elliot y todos sus amigos del bosque viven una nueva aventura; la mas divertida y peluda de todas las aventuras y esta vez, ¡en un circo! Como sus amigos no pueden ir al viaje anual "solo para chicos", Boog decide viajar por su cuenta. Y al encontrarse con un circo itinerante, Boog se hace pasar por un oso pardo que se le parece mucho y le sustituye en su actuacion circense. Pero cuando el circo decide volver a Rusia, Elliot, McSquizzy, Mr. Weenie y el resto de la pandilla se embarcan en una carrera contrarreloj para rescatar a Boog ¡antes de que sea demasiado tarde! Tercera entrega de la saga Colegas en el bosque, que como la segunda sera lanzada directamente al mercado domestico.</info>
-<urlsolve>http://ok.ru/video/299194190470</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "http://ok.ru/video/299194190470"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/kw0qjh325pq433m"}</urlsolve>
 </item>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Infantil, A2016, "
