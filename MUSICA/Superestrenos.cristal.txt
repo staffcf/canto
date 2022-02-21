@@ -5,6 +5,19 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] El viaje de sus vidas [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.9[/COLOR]</title> 
+<genre>Drama,Comedia</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/owUh6JogsKFvGfTDsEiwTbTB77i.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fmrailqJhD2uWzq633M5YvbR1VU.jpg</fanart>
+<info>Tres amigas en la cincuentena recrean un viaje en tren a través de Europa, pero esta vez Maddie, de 17 años, ocupa el lugar de su madre, cumpliendo su último deseo. Con pasaportes perdidos, huelgas de trenes y enredos románticos en su camino, deben dejar a un lado las viejas disputas para completar el viaje en cinco días y recordarse a sí mismas que todavía están en la flor de la vida.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/piENKCiLWzk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/gLRV22DpaeIxvy"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/84xg8kqdf64xme1"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/114xuovwycxn"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/0illj6dg10xm"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/v906vdf9vnm8"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/9ur94ut3358r"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1hQ4zQB_VWiL59x1USpy3Dsj5s_-GG_Sn/view"}</urlsolve>
+</item>
+
+
+
+
+<item>
 <title>[COLOR white] Una noche a tope [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.6[/COLOR]</title> 
 <genre>Comedia</genre>
 <year>2021</year>
