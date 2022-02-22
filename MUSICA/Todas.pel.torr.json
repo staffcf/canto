@@ -507,7 +507,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"/links"]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Intriga, 1Accion, A2022, Letra A, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Thriller, 1Intriga, 1Accion, A2022, Letra A, EEUU, ",
 			"name": "Agentes 355 (2022)","coloryear": "darkorange",
 			"image": "https://www.themoviedb.org/t/p/original/7CfVolLMmv4T885H2ysl158t04e.jpg",
 			"info": "Cuando un arma ultra secreta cae en manos de unos peligrosos mercenarios, la agente especial de la CIA, Mason 'Mace' Brown (Jessica Chastain) debe unir fuerzas con la agente alemana Marie (Diane Kruger), la ex aliada del MI6 y especialista en informática Khadijah (Lupita Nyong'o), y la experta psicóloga colombiana Graciela (Penélope Cruz), en una misión letal y vertiginosa para recuperarla. Mientras, una misteriosa mujer, Lin Mi Sheng (Fan Bingbing), sigue todos sus pasos. Juntas deberán superar sus conflictos personales y utilizar sus talentos y experiencia para salvar el mundo. En el camino, se convertirán en camaradas y amigas, formando un nuevo grupo letal: 355. Nombre que adoptan de la primera mujer espía en la Revolución Americana",
@@ -515,7 +515,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Agentes.355.-.2022.-.1080x265.-.CristalAzul.mkv.torrent",
-				"torrent4k": ""	
+				"torrent4k": "magnet:?xt=urn:btih:C934F75C5F6ABF3400E945274553BB8B073E2EA9&dn=Web4K"	
 				}		
 			]
 			},
@@ -1344,6 +1344,24 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Drama, A2021, Letra B, Reino Unido, ",
+			"name": "Belfast (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/7eUyUe3yLWsvx9yYfqwg4wQXeng.jpg",
+			"info": "Drama ambientado en la tumultuosa Irlanda del Norte de finales de los años 60. Sigue al pequeño Buddy mientras crece en un ambiente de lucha obrera, cambios culturales, odio interreligioso y violencia sectaria. Buddy sueña con un futuro que le aleje de los problemas, pero, mientras tanto, encuentra consuelo en su pasión por el cine, en la niña que le gusta de su clase, y en sus carismáticos padres y abuelos.",
+			"genero": "Drama",
+			"stations": [
+				{
+				"kodi1": "https://supervideo.tv/NO_LINK", "colorserver1": "lime",
+				"kodi2": "https://supervideo.tv/NO_LINK",
+				"kodi3": "https://supervideo.tv/NO_LINK", 
+				"kodi4": "https://supervideo.tv/NO_LINK", 
+				"kodi5": "",
+				"torrent": "magnet:?xt=urn:btih:715AB88715C81B95537828E07E9399B4983AF517&dn=BR1080",
+				"torrent4k": "magnet:?xt=urn:btih:E15BC8659CE3AE422D21DE6A2EF13D8500747661&dn=Web4K"	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra B, Francia, 1Biografico, ",
 			"name": "Benedetta (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/gFromMkeTlIMGqGbYikD0k8ZaRg.jpg",
@@ -2085,7 +2103,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Romance, A2021, Letra E, Francia, 1Biografico, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Drama, 1Romance, A2021, Letra E, Francia, 1Biografico, ",
 			"name": "Eiffel (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/o55rQ68NAwCON1Xlcj14NwpzPbR.jpg",
 			"info": "Habiendo finalizado su colaboración en la Estatua de la Libertad, el célebre ingeniero Gustave Eiffel (Romain Duris) está en la cima del mundo. Ahora, el gobierno francés le está presionando para diseñar algo espectacular para la Exposición Universal de París de 1889, pero Eiffel no está interesado. De repente, todo cambia cuando en su camino se cruza una misteriosa mujer de su pasado (Emma Mackey) y el fuego de su pasión prohibida se reaviva, inspirándole a cambiar la imagen de París para siempre.",
@@ -2093,7 +2111,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Eiffel.-2021.-.1080.-.CristalAzul.mkv.torrent",
-				"torrent4k": ""	
+				"torrent4k": "magnet:?xt=urn:btih:E3F56F04FF8EDD5FC457E00EDA2C45725D4A7522&dn=UHDRip"	
 				}		
 			]
 			},
@@ -40487,7 +40505,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Underworld-Evolution.-2006.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:519469D97AF279B5434352262FA73B8295F5262D
-				"torrent4k": "magnet:?xt=urn:btih:409A9B982C6479A681FDD1156E141578D1B3E885"
+				"torrent4k": "magnet:?xt=urn:btih:DA2C12B30736F6FB361E2E9225E8433E03CC1DE9&dn=UHDRip"
 				}		
 			]
 			},
