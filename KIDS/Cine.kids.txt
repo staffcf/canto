@@ -881,7 +881,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/gXyqXYo.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Cuando por una confusion de identidad tanto humanos como animales creen que hay un hombre lobo suelto en el Bosque Timberline, el ex cazador Shaw aprovecha la oportunidad para reabrir la temporada de caza. Shaw anda suelto y todos los animales corren peligro, asi que Boog, Elliot y Mr. Weenie tendran que enfrentarse a sus miedos, perseguir al esquivo hombre lobo y cerrar la temporada de caza permanentemente, antes de que Shaw pueda hacerles daño. </info>
-<urlsolve>https://sendvid.com/iy39uody</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://sendvid.com/iy39uody"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/2dlg6t263z8yq3e"}</urlsolve>
 </item>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Infantil, Dreamworks, A2010, "
