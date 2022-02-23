@@ -32730,15 +32730,15 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Ciencia ficcion, 1Aventuras, 1Accion, 1Fantastico, A2017, Letra S, EEUU, Sagas StarWars, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Ciencia ficcion, 1Aventuras, 1Accion, 1Fantastico, A2017, Letra S, EEUU, Sagas StarWars, ",
 			"name": "Star Wars Ep. VIII: Los Ultimos Jedi (2017)","coloryear": "green",
 			"image": "https://www.ecartelera.com/carteles/8100/8168/011_p.jpg",
 			"info": "La malvada Primera Orden se ha vuelto mas poderosa y tiene contra las cuerdas a la Resistencia, liderada por la General Leia Organa (Carrie Fisher). El piloto Poe Dameron (Oscar Isaac) encabeza una mision para intentar destruir un acorazado de la Primera Orden. Mientras tanto, la joven Rey (Daisy Ridley) tendra que definir su futuro y su vocacion, y el viejo jedi Luke Skywalker (Mark Hamill) revaluar el significado de su vida.",
 			"genero": "Ciencia ficcion, Aventuras, Accion, Fantastico",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Star.Wars.Ep.VIII-Los.Ultimos.Jedi.-2017.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:3D036CDC10481581740D793CD6C24B40517E6664&HD1080
-				"torrent4k": ""
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Star.Wars.Ep.VIII-Los.Ultimos.Jedi.-2017.-.1080x265.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:3D036CDC10481581740D793CD6C24B40517E6664&HD1080
+				"torrent4k": "magnet:?xt=urn:btih:58929BF2FAB1DCCB0F8F1333DED56788027C938E&dn=UHDRemux"
 				}
 			]
 			},
@@ -35141,7 +35141,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"genero": "Ciencia ficcion, Aventuras",
 			"stations": [
 				{
-				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films/Star.Wars.Ep..VII-El.Despertar.De.La.Fuerza.-2015.-.1080.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:25088DB6CDDE4989AE45A6E5300DDD8AF20434ED&HD1080
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Star.Wars.Ep..VII-El.Despertar.De.La.Fuerza.-2015.-.1080x265.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:25088DB6CDDE4989AE45A6E5300DDD8AF20434ED&HD1080
 				"torrent4k": "magnet:?xt=urn:btih:3F02AB46707A766574AF649DF5AECB73764EA9A5"
 				}		
 			]
