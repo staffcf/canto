@@ -658,7 +658,7 @@ https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_SERIES/.xml
 </item>
 
 ===============================================================================================================================================
-"Tag= 0SeriesLuar, 1Torrent, "
+"Tag= 1Torrent, "
 
 <item>
 <title>AMBER</title>
@@ -9849,7 +9849,7 @@ https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_SERIES/.xml
 </item>
 
 ===============================================================================================================================================
-"Tag= 0SeriesLuar, 1Torrent, "
+"Tag= 1Torrent, "
 
 <item>
 <title>¿QUIEN ES ANNA?</title>
@@ -11458,7 +11458,7 @@ https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_SERIES/.xml
 </item>
 
 ===============================================================================================================================================
-"Tag= 0SeriesLuar, 1Torrent, "
+"Tag= 1Torrent, "
 
 <item>
 <title>THE DROWNING</title>
@@ -12880,6 +12880,20 @@ https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_SERIES/.xml
 <thumbnail>https://www.themoviedb.org/t/p/original/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg</thumbnail>
 <fanart>https://2.bp.blogspot.com/-NBuxAaupOXk/Xa9IptlFtRI/AAAAAAAAIOs/7SQQSLWZlb0W487dMuzz3WRgMBrcCLiZgCLcBGAsYHQ/s1600/watchmen-hbo-640x360.jpg</fanart>
 <enlaceslink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_SERIES/WATCHMEN.xml</enlaceslink>
+<estado></estado>
+</item>
+
+===============================================================================================================================================
+"Tag= 1Torrent, "
+
+<item>
+<title>WEEKEND FAMILY</title>
+<genre>Comedia</genre>
+<year>2022</year>
+<info>Narra la vida de una nueva familia reconstituida que se reúne todos los fines de semana. Pero cuando el padre entabla una relación con una nueva pareja, los fines de semana toman un giro completamente diferente.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/3KWIsrtZIGhuAtdWAmkkSpReGQF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/j5C1AMOy2zUuyQBU8ytYu8kZMtg.jpg</fanart>
+<enlaceslink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_SERIES/WEEKEND.FAMILY.xml</enlaceslink>
 <estado></estado>
 </item>
 
