@@ -9,7 +9,9 @@
 
 	ETIQUETAS:
 	
-	- 1SerieTitle:"CRIMS", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMPTEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/rEMZ4B0H9MvEtBgdMWdhaUySloe.jpg",
+	- 1SerieTitle:"1", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://i.imgur.com/DMEEcFH.jpg",
+	- 1SerieTitle:"2", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://i.imgur.com/DMEEcFH.jpg",
+	- 1SerieTitle:"3", SerieTemp:"EL CRIMEN DE LA GUARDIA URBANA", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://i.imgur.com/NoUnar3.jpg",
 	
 
 
@@ -77,6 +79,113 @@
 			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Crims/1x10.-Crims.-.1080.-.CristalAzul.mkv.torrent</torrent>
 			</item>
 ======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - Permanyer (I)</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Crims/2x06.-Crims.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP2, "
+			<item>
+			<title> - Permanyer (II)</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Crims/2x07.-Crims.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 1080</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>1x01 - Los hechos</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Crimenes/1x01.-Crimenes-E.C.D.L.G.U.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>1x02 - La versión de Rosa</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Crimenes/1x02.-Crimenes-E.C.D.L.G.U.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>1x03 - La versión de Albert</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Crimenes/1x03.-Crimenes-E.C.D.L.G.U.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>1x04 - La versión del jurado</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Docs/Crimenes/1x04.-Crimenes-E.C.D.L.G.U.-.1080.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD 720</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>1x0. - Capitulos 1 y 2</title>
+			<torrent>magnet:?xt=urn:btih:4023296138AF9B8379D0216DAFA72BCC5A1017E4&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>1x0. - Capitulos 3 y 4</title>
+			<torrent>magnet:?xt=urn:btih:984141E443CD5EAFD13CC05A019CF4D006A3C34E&dn=HD720</torrent>
+			</item>
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>1x0. - Capitulos 1 y 2</title>
+			<torrent>magnet:?xt=urn:btih:22AD2023FCDEEEAEA74B07C84A4DC179FBD8BDED&dn=HDTV</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP3, "
+			<item>
+			<title>1x0. - Capitulos 3 y 4</title>
+			<torrent>magnet:?xt=urn:btih:1FE32FC6CACB33B5973F64CE06B3AC653F135C5B&dn=HDTV</torrent>
+			</item>
 ======================================================================
 ======================================================================
 ======================================================================
