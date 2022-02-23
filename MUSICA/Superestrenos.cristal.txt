@@ -4,6 +4,18 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 
+
+<item>
+<title>[COLOR white] El lobo y el leon [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.2[/COLOR]</title> 
+<genre>Aventura,Familia</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/6gVO98lUJuzEbdlM5zV5iPwQr8a.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vYAuEi9NO23JeutE1REn6RkZUTj.jpg</fanart>
+<info>A la muerte de su abuelo, Alma, un joven pianista de 20 años, regresa a la casa de su infancia, perdida en una isla desierta de Canadá. Allí, todo cambia cuando un cachorro de lobo y un cachorro de león en peligro aparecen en su vida. Ella decide quedarse con ellos para salvarlos y sucede algo poco probable: crecen juntos y se quieren como hermanos. Pero su mundo ideal se desmorona cuando se descubre su secreto. El felino va a un circo y el lobo a un etnólogo. Esto es sin contar con la fuerza del amor que los une y les dará alas .<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/nL5ftV_m0ek"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/zwzj6KgZByHk8Z"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/4nl1gmgztko36g"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ld6y8crfnfwg"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/tq6stgzvig1r"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/6t8n49pj4o7i"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/jxki0bpmgt14"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1W3GTyrgsO-erlcWoWiYecs_6aWtZFYl_/view"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Belfast [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.0[/COLOR]</title> 
 <genre>Drama</genre>
