@@ -4,6 +4,18 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 
+
+<item>
+<title>[COLOR white] La prueba beta [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.4[/COLOR]</title> 
+<genre>Suspense,Terror,Comedia</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/biRxGAHSPNdJwJB7l5796pDtVph.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cu2BcfS5hXo3PiL5RUyFaP9ue57.jpg</fanart>
+<info>Un agente de Hollywood casado recibe una misteriosa carta para un encuentro sexual anónimo y se ve envuelto en un mundo siniestro de mentiras, infidelidad y datos digitales.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/f3oiBEHOzeU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/ewMBalDo4ksYMG3"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/vnd4o6exuqwmklg"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/alexqx9kggbq"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/8yc83ucm0pe8"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/x3lnue3u5swj"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/y73fgx3z6quj"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/5knj1sd0jgpjxxg"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1-MH99iUFzHkre5osiry-vChGrynZSuS5/view"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] El regreso a casa de Madea [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.0[/COLOR]</title> 
 <genre>Comedia</genre>
