@@ -2217,6 +2217,15 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]La Vuelta Al Mundo En 80 Dias[/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.vuelta.al.mundo.en.80.dias</externallink>
+<info>El caballero aventurero Phileas Fogg emprende una búsqueda para viajar alrededor del mundo y regresar a casa en un período de 80 días. Adaptación épica del clásico de Jules Verne, Around the World in 80 Days.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/j8Np9NZlkzrSdEmpLSgoUkoyJeh.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/j5sIOmex1oMY7jYoz9SE2sXfUWb.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Leonardo[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Leonardo.xml</externallink>
@@ -2821,6 +2830,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 <info>Australia, año 1956. El Gobierno de la nación acaba de dar la bienvenida a las pruebas de bombas atómicas británicas en Maralinga, en el interior de Australia. El mayor Leo Carmichael, un héroe de la Segunda Guerra Mundial, se encarga de mantener funcionando sin problemas la base nuclear ultrasecreta. Pero probar el arma más peligrosa del mundo no será un paseo por el parque con un oficial al mando que no es apto para el trabajo; un nuevo meteorólogo que empieza a hacer demasiadas preguntas; un violador suelto en el campamento; una gran cantidad de filtraciones en la prensa, y el gobierno observando cada uno de sus movimientos.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/iK8AdLXaoWn0GfqD1w3uzflpodo.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/c076WPgApnmgcvP7SwFSkKK1PVc.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Operacion Marea Negra[/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Operacion.marea.negra</externallink>
+<info>Ambientada en noviembre de 2019, un semisumergible de construcción artesanal atraviesa el océano Atlántico con tres toneladas de cocaína en su interior. Dentro, tres hombres sobreviven a tormentas, corrientes, averías, hambre, peleas y un constante acoso policial. Al frente de los mandos va Nando, un joven gallego campeón de España de boxeo amateur y marino experto sin recursos económicos, que se ve obligado a buscar otros medios para ganarse la vida.</info>
+<thumbnail>https://i.imgur.com/y7fRKDD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fXs8FCiVqJsmLENvaKl9r3RYUNz.jpg</fanart>
 </item>
 
 <item>
