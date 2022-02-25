@@ -5,6 +5,15 @@
 
 
 <item>
+<title>[COLOR gold]* [COLOR white]4 Blocks[/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/4.blocks</externallink>
+<info>La serie está ambientada en el entorno de un clan árabe en Berlín. La atención se centra en Ali Hamady, que en realidad quiere dejar atrás sus actividades delictivas y renunciar a sus "4 bloques" por el bien de su mujer y su hija. Pero entonces su cuñado es detenido en una redada. Y Ali se encuentra en una espiral de crímenes, intrigas y traiciones de la que parece no haber escapatoria...</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/dv7UXRAHx0Vpy7puGoqsvArD3zg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/g1HEe2L1BnQJqP2KRAor43wxyiD.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]11 22 63[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/11.22.63.txt</externallink>
@@ -924,6 +933,15 @@
 <info>10 episodios. Tully y Kate son amigas íntimas desde pequeñas, cuando eran vecinas, y han sido inseparables durante treinta años de altibajos. Una obtuvo fama y fortuna. La otra, amor y familia. Son las mejores amigas más dispares, pero también las más fieles. </info>
 <thumbnail>https://i.imgur.com/XzoFewp.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/mmEYJl6nXrBrtu8IBl1GJrcVbcx.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]El Bosque Infinito[/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.bosque.infinito</externallink>
+<info>Un grupo dispar de marginados y soñadores luchan por escapar de su pasado mientras navegan por las brutales dificultades fronterizas, intereses en competencia y lealtades enredadas en la encrucijada de la civilización: el Nuevo Mundo. Basado en la novela de la ganadora de Pulitzer Annie Proulx.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/eRCk4CwQoN6EXBpUfVEvosnSBGN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4phXdxtys3wHezx3eJqqkcUh7y7.jpg</fanart>
 </item>
 
 <item>
@@ -1873,6 +1891,15 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Killing Eve[/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Killing.eve</externallink>
+<info>Basada en las novelas de Luke Jennings, Killing Eve se centra en dos mujeres muy diferentes. Eve es una ingeniosa agente del MI5 cuyo aburrido trabajo se aleja de su sueño de ser espía. Villanelle es una asesina experta que disfruta de los lujos que su violento trabajo le brinda. Estas dos inteligentes e intensas mujeres se enfrentarán en un épico juego del gato y el ratón.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/sZtvoLweW4RYIforPYszjJANar5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/foiErjstCldPVaM30ggAmlWegdI.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Kingdom[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Kingdom</externallink>
@@ -2160,6 +2187,15 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 <info>Serie de TV (2017). 8 episodios. El inspector Héctor Uría (Eduard Fernández) regresa al servicio tres años después del grave accidente de un reactor nuclear al norte de España como el único superviviente del primer grupo que acudió en socorro de la central. Ahora debe investigar el brutal asesinato de un hombre en la Zona de Exclusión. </info>
 <thumbnail>https://i.imgur.com/E99IdkS.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/5GbIYujizGFbpfPGuS3HnCQd532.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Larry David Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Larry.david</externallink>
+<info>Larry David sits down with friend/director Larry Charles for a peek behind the proverbial curtain, as David gets candid about his personal and professional highs and lows, from his humble beginnings as an unfunny Brooklyn kid to becoming America's favorite misanthrope. In between reflecting on his bumpy road to success – and hit series “Seinfeld” and “Curb Your Enthusiasm” – David shares his thoughts on everything from metaphysics to parenthood.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/kWQDOnLs5DK0ta8xQZLsaienIHp.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qK0dCFdBgL6NBvmIrjxEDKywhSQ.jpg</fanart>
 </item>
 
 <item>
@@ -2716,6 +2752,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Neymar:El Caos Perfecto Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Neymar.el.caos.perfecto</externallink>
+<info>Amado en todo el mundo, pero también vilipendiado por sus críticos, Neymar comparte los altibajos de su vida personal y su brillante carrera como futbolista.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/nZNd2kJMNg2qz89pQ0gVvPP064z.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rAk6KbD8aeCcf3KnoLSTSUoOYMW.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Nightflyers[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Nightflyers</externallink>
@@ -3157,6 +3202,14 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 <fanart>https://www.themoviedb.org/t/p/original/zKQEziaFUIalby5rnjXygPTkeqh.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR gold]* [COLOR white]Race:Bubba Wallace Docuserie[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Race.bubba.wallace</externallink>
+<info>Esta docuserie sigue a Bubba Wallace, el único piloto negro actualmente en la Serie de la Copa de NASCAR, mientras usa su voz y talento para cambiar el deporte.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/6SUFevLHu1nvZpP9Srfv8hZY0ar.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/u14PFVJpulWMCsNbRJWlhVprSlL.jpg</fanart>
+</item>
 
 <item>
 <title>[COLOR gold]* [COLOR white]Ragnarok[/COLOR]</title>     
@@ -3646,6 +3699,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]The Drowning[/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.Drowning</externallink>
+<info>Desde que perdió a su hijo hace ocho años, Jodie ha estado reconstruyendo su vida, pero cuando ve a Daniel, está convencida de que ha encontrado a su hijo desaparecido.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/7jdOyS9OXbtobEYDl8Z4V4iWaH3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6nIrjBrB1FmaFetIJYpXskuHSY1.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]The First[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.First</externallink>
@@ -4078,6 +4140,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 Sexta temporada (SPOILER DE LA 5ª): La temporada 6 de Vikings regresa tras la batalla entre hermanos que ha dejado a Bjorn victorioso y considerado un héroe para las personas que han estado bajo el gobierno tiránico de Ivar durante tanto tiempo. Como nuevo líder de Kattegat, Bjorn lucha por llenar el hueco de su difunto padre como rey, mientras se enfrenta varios dilemas y lucha con la idea de que el poder eclipsa la moral. </info>
 <thumbnail>https://i.imgur.com/CkEAFZh.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/hQ6YamcpaTr2AR3GCDsgO2NevcU.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Vikingos Valhalla[/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Vikingos.valhalla</externallink>
+<info>Secuela de 'Vikingos' ambientada 100 años después y centrada en las aventuras de Leif Erikson, Freydis, Harald Hardrada y el rey normando Guillermo el Conquistador.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/jd19Pt0cwC84tiydokVxK9ETrS2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nzIWPo9eSkpr68EEGimq0Pzi0GV.jpg</fanart>
 </item>
 
 <item>
