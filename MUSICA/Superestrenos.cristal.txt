@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] En la tormenta [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.7[/COLOR]</title> 
+<genre>Suspense,Misterio,Drama</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/5cnLoWq9o5tuLe1Zq4BTX4LwZ2B.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/53In8wfmFdrcZHteYGE2rZjLZcl.jpg</fanart>
+<info>Darby Thorne, una joven que va a una emergencia familiar, queda atrapada en una ventisca y se refugia en un área de descanso de la autopista con unos desconocidos. Cuando encuentra a una chica secuestrada en una furgoneta, se ve en una aterradora lucha a vida o muerte para descubrir quién es el secuestrador.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/2cOJZikhFig"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/XPwZ4mrOa7iDe1B"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/wn0408xdh0q7k8q"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/qvq1yb2b2d1a"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/iolz4zvtyh2f"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/fj7378uxi1zz"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/bibwcyb1thzz"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/6znj3t0rwz3z4yl"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d1-JF47YH_pW3rqm3UQhM1QeVSz8DJ_CEE/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Un espiritu burlon [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.6[/COLOR]</title> 
 <genre>Comedia,Fantasía,Romance</genre>
 <year>2022</year>
