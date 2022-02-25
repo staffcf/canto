@@ -6,6 +6,279 @@
 	"url": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/ESTRENOS.torr.base.json",
 	"groups": [
 			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, 1Accion, A2022, Letra S, Francia, Netflix, ",
+			"name": "Sin respiro (2022)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/A7tmTT5cqcmJ2wUgZHvmombf2oA.jpg",
+			"info": "Después de hacer lo indecible para encubrir un accidente, un policía corrupto pierde el control de su vida cuando comienza a recibir amenazas de un misterioso testigo.",
+			"genero": "Thriller, Accion",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Sin.respiro.-2022.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Thriller, 1Drama, A2022, Letra E, EEUU, ",
+			"name": "En la tormenta (2022)","coloryear": "cyan",
+			"image": "https://i.imgur.com/GMWoBi8.jpg",
+			"info": "Durante una tormenta de nieve y varado en una parada de descanso de una carretera aislada en las montañas, un estudiante universitario descubre a un niño secuestrado escondido en un automóvil que pertenece a una de las personas que se encuentran adentro",
+			"genero": "Thriller, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/En.la.tormenta.-2022.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": "magnet:?xt=urn:btih:9A0C10D0600E53D6670FD2CFB473E8FD6D7F53F8&dn=Web4K"	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Thriller, A2021, Letra T, Pais, ",
+			"name": "The Beta Test (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/nyrrWazTjclIrGKlDThajJF5xuS.jpg",
+			"info": "Un agente de Hollywood casado recibe una misteriosa carta para un encuentro sexual anónimo y se ve envuelto en un mundo siniestro de mentiras, infidelidad y datos digitales",
+			"genero": "Terror, Thriller",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/The.Beta.Test.-2021.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2022, Letra E, EEUU, Netflix, ",
+			"name": "El regreso a casa de Madea (2022)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/eZ2KfVIGjBiCsw0mVB0ct5Zc6Cq.jpg",
+			"info": "El polifacético magnate de los medios Tyler Perry recupera a su entrañable personaje Madea.",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.regreso.a.casa.de.Madea.-2022.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2020, Letra U, Reino Unido, ",
+			"name": "Un espiritu burlon (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/tTUJ0TUaCptLRWRcDnqvWGCCw0W.jpg",
+			"info": "Charles es un famoso escritor de novela negra que sufre un bloqueo creativo. Para ayudar a que lo supere, Ruth, su mujer, organiza un encuentro con una médium, que acaba convocando a la fallecida primera esposa de Charles, la hermosa y celosa Elvira. Para pasar toda la eternidad con él, Elvira quiere matar a Charles, pero es Ruth la que muere. Los espíritus de Elvira y Ruth se unen para convertir la vida de Charles en un infierno",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Un.espiritu.burlon.-2020.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Comedia, A2020, Letra C, Reino Unido, 1Hechos reales, ",
+			"name": "Caballo soñador (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/f8pl8xxIqDM8nYXdUuRdr5Ye9Le.jpg",
+			"info": "Narra la historia real de Jan Vokes (Toni Colette), una camarera de Gales que decidió comprar y criar un caballo de carreras. Jan convenció a sus vecinos y amigos para que contribuyeran financieramente al proyecto. El improbable plan de inversión comenzó a valer la pena a medida que el caballo mejoró y comienzó a ganar, luchando por el campeonato nacional",
+			"genero": "Drama, Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Caballo.sonhador-Dream.Horse-.-2020.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Romance, A2022, Letra O, Turquia, Netflix, ",
+			"name": "OVNI (2022)","coloryear": "darkorange",
+			"image": "https://www.themoviedb.org/t/p/original/dMtKov3q8stWGcy7UFuRzpMliUy.jpg",
+			"info": "Cuando la música en ciernes y estudiante Deniz pierde la cabeza por un rudo piloto de motos, la tragedia y la oposición de su familia dificultan su camino hacia el amor",
+			"genero": "Drama, Romance",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/OVNI-UFO.-2022.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Aventuras, 1Drama, A2021, Letra E, Francia, ",
+			"name": "El lobo y el leon (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/6gVO98lUJuzEbdlM5zV5iPwQr8a.jpg",
+			"info": "Tras la muerte de su abuelo, Alma (Molly Kunz), una pianista de 20 años, regresa a la casa de su infancia en una isla de Canadá. En la isla, su vida da un vuelco cuando rescata a un cachorro de lobo y a un cachorro de león. A medida que los animales crecen, los tres forman un vínculo inseparable, pero su mundo pronto se derrumba cuando se descubre su idilio secreto. El león es capturado y enviado a un circo ambulante y al lobo se lo llevan unos científicos para investigar. El lobo está decidido a encontrar a su hermano león y a reunir a su familia. Una vez juntos, emprenden una extraordinaria aventura a través de Canadá contra viento y marea para encontrar a Alma.",
+			"genero": "Aventuras, Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.lobo.y.el.leon.-2021.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra U, Alemania, ",
+			"name": "Una noche a tope (One Night Off) (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/zINuncP9q37y7LluN2OA72Ne3Ue.jpg",
+			"info": "Noah, un fanático de la música de 24 años, cuida a su bebé durante la noche por primera vez",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Una.noche.a.tope-One.Night.Off-.-2021.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra L, EEUU, ",
+			"name": "Los consejos del doctor Bird para poetas tristes (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/ecLCqD6niiqzqb4L3QTSxptqkx7.jpg",
+			"info": "James Whitman es un joven de 16 años que vive en un mundo imaginario y complejo. Para tratar de superar sus crisis de ansiedad y un severo caso de depresión, pide ayuda al doctor Bird, una paloma terapeuta que sólo existe en su mente y que le ayuda a sobrellevar la desaparición de su hermana.",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Los.consejos.del.doctor.Bird.para.poetas.tristes.-2020.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Drama, A2021, Letra B, Reino Unido, ",
+			"name": "Belfast (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/7eUyUe3yLWsvx9yYfqwg4wQXeng.jpg",
+			"info": "Drama ambientado en la tumultuosa Irlanda del Norte de finales de los años 60. Sigue al pequeño Buddy mientras crece en un ambiente de lucha obrera, cambios culturales, odio interreligioso y violencia sectaria. Buddy sueña con un futuro que le aleje de los problemas, pero, mientras tanto, encuentra consuelo en su pasión por el cine, en la niña que le gusta de su clase, y en sus carismáticos padres y abuelos.",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Belfast.-2021.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": "magnet:?xt=urn:btih:E15BC8659CE3AE422D21DE6A2EF13D8500747661&dn=Web4K"	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Romance, A2021, Letra N, Italia, ",
+			"name": "No me mates (Non mi uccidere) (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/t6pqtU5mTsgzTCplw3O4zyHn9wK.jpg",
+			"info": "Mirta, una adolescente de 19 años, muere de sobredosis junto a Robin, su novio. Entonces, resucita sola y se da cuenta de que para seguir viviendo necesita devorar a otras personas",
+			"genero": "Terror, Romance",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/No.me.mates.-2021.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Thriller, 1Intriga, A2022, Letra S, EEUU, Sagas Scream, ",
+			"name": "Scream (2022)","coloryear": "darkorange",
+			"image": "https://www.themoviedb.org/t/p/original/cIgmdAhesIqn2ykJfbNFMQYdxkO.jpg",
+			"info": "Veinticinco años después de que una serie de brutales asesinatos conmocionara al tranquilo pueblo de Woodsboro, un nuevo asesino se ha puesto la máscara de Ghostface y comienza a perseguir a un grupo de adolescentes para resucitar los secretos del mortífero pasado del pueblo",
+			"genero": "Terror, Thriller, Intriga",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Scream.-2022.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, Terror, A2021, Letra O, EEUU, ",
+			"name": "Oscura verdad (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/2RyEtLhbEAWWw1YmKvRFkCNgCvk.jpg",
+			"info": "Lucy y Adrian llevan tiempo intentando tener un hijo. Finalmente, recurren al doctor Hindle, especialista en fertilidad. Lucy se somete a una inseminación artificial y queda embarazada de trillizos. Días después, el doctor les informa de que un embarazo de estas características puede poner en riesgo la salud tanto de los niños como de la madre, por lo que deberán tomar una difícil decisión. A medida que avanza el embarazo, el mundo de Lucy se va transformando en una terrorífica pesadilla.",
+			"genero": "Thriller, Terror",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Oscura.verdad.-2021.-.1080x265.-.CristalAzul..mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Intriga, 1Drama, 1Romance, A2020, Letra P, Hungria, ",
+			"name": "Preparativos para estar juntos un periodo de tiempo desconocido (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/5TGM5KiT3RTGCaTntTlOGnDk6Os.jpg",
+			"info": "Márta, una neurocirujana de 40 años, se enamora. Deja atrás su brillante carrera en los Estados Unidos y regresa a Budapest para comenzar una nueva vida con el hombre que ama. Pero el que para ella es el amor de su vida afirma nunca haberla conocido antes",
+			"genero": "Intriga, Drama, Romance",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/P.P.E.J.U.P.D.T.D.-2020.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Comedia, A2021, Letra E, Reino Unido, ",
+			"name": "El viaje de sus vidas (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/eU0VsrsqQUNtM72b5FlUmvZQUn2.jpg",
+			"info": "Tres amigas en la cincuentena recrean un viaje en tren a través de Europa, pero esta vez Maddie, de 17 años, ocupa el lugar de su madre, cumpliendo su último deseo. Con pasaportes perdidos, huelgas de trenes y enredos románticos en su camino, deben dejar a un lado las viejas disputas para completar el viaje en cinco días y recordarse a sí mismas que todavía están en la flor de la vida",
+			"genero": "Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.viaje.de.sus.vidas.-2021.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Comedia, 1Romance, A2020, Letra G, Palestina, ",
+			"name": "Gaza mon amour (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/teJQPWuLDfrEDnNVHIZBY55KEK8.jpg",
+			"info": "Gaza, hoy. Issa, un pescador de sesenta años, está secretamente enamorado de Siham, una mujer que trabaja en el mercado con su hija Leila. Cuando descubre una antigua estatua fálica de Apolo en sus redes de pesca, Issa la esconde, sin saber qué hacer con este misterioso y poderoso tesoro. Sin embargo, en el fondo, siente que este descubrimiento cambiará su vida para siempre. Curiosamente, su confianza comienza a crecer y finalmente decide acercarse a Siham.",
+			"genero": "Drama, Comedia, Romance",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Gaza.mon.amour.-2020.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2020, Letra E, Reino Unido, ",
+			"name": "En el limbo (2020)","coloryear": "magenta",
+			"image": "https://www.themoviedb.org/t/p/original/6eNu5Bg1MIcUPPeyM6rQHn2jzYD.jpg",
+			"info": "Narra la lucha de Anthony Bryan para ser aceptado como ciudadano británico durante el escándalo de inmigración de Windrush",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/En.el.limbo.-2020.-.1080x265.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Animacion, 1Comedia, A2021, Letra R, Francia, ",
+			"name": "Rabbids, la invasion: Especial Mision a Marte (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/7arpOTIATZAcSzTLWhYyyGPGf5v.jpg",
+			"info": "Podrían haber enviado robots, pero mandaron rabbids en su lugar. Un equipo muy peculiar emprende una alocada misión a Marte durante la que nada sale como estaba previsto.",
+			"genero": "Animacion, Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Rabbids.la.invasion-Especial.Mision.a.Marte.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, A2021, Letra E, Spain, 1Hechos reales, ",
+			"name": "El vientre del mar (2021)","coloryear": "cyan",
+			"image": "https://i.imgur.com/kimqM6z.jpg",
+			"info": "Junio de 1816. La fragata Alliance, de la Marina francesa, embarranca ante las costas de Senegal. Como los botes disponibles para la evacuación no son suficientes para acoger a todos los tripulantes, se construye una precaria embarcación en la que obligan a subir a 147 hombres: soldados, marineros, algún pasajero y unos pocos oficiales. El plan previsto es que los botes remolquen la balsa hasta la orilla pero el pánico y la confusión se apoderan del convoy y cortan la soga de remolque, abandonando la balsa a su suerte. El hambre, la inclemencia del mar, la locura y una lucha encarnizada se desatan en aquella balsa a la deriva",
+			"genero": "Drama",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/El.vientre.del.mar.-2021.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Comedia, A2021, Letra P, Bulgaria, ",
+			"name": "Pequeños milagros en Peckham Street (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/xWqrHWl3Z8MKlqHrVHyGCSrxtTg.jpg",
+			"info": "La vida en una comunidad de viviendas municipales en el Londres del Brexit se ve agravada debido a la gentrificación. Irina, una madre soltera de origen búlgaro que intenta triunfar como arquitecta y se niega a vivir de los subsidios como la mayoría de sus vecinos, lucha sin éxito para convencer a éstos de luchar contra el sistema. Cuando un gato aparece atrapado en su pared, la familia de Irina y algunos de sus vecinos entrarán en conflicto. Entonces Irina toma una decisión drástica para cambiar su vida",
+			"genero": "Drama, Comedia",
+			"stations": [
+				{
+				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Pequenhos.milagros.en.Peckham.Street.-2019.-.1080.-.CristalAzul.mkv.torrent",
+				"torrent4k": ""	
+				}		
+			]
+			},
+			{
 			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Fantastico, A2021, Letra P, Francia, ",
 			"name": "Petite maman (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/olnyyF671yxpZagYfnvfpI3TGft.jpg",
@@ -446,7 +719,7 @@
 			]
 			},
 			{
-			"tag": " 1Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Thriller, A2020, Letra A, Australia, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Drama, 1Thriller, A2020, Letra A, Australia, ",
 			"name": "Años de sequia (2020)","coloryear": "magenta",
 			"image": "https://www.themoviedb.org/t/p/original/i6ZO6cvFmVNRToFwWcSIFIk5qGT.jpg",
 			"info": "Un policía regresa a su ciudad natal para enfrentarse a los demonios de su pasado tras perder a su mejor amigo de la infancia en un terrible accidente de tráfico.",
