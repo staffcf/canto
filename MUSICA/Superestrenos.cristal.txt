@@ -6,6 +6,18 @@
 
 
 <item>
+<title>[COLOR white] El vientre del mar [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.0[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/AuqOo6reradu9xrvK7kRkIhIaGR.jpg</thumbnail>
+<fanart>https://i.imgur.com/XfvKuti.jpg</fanart>
+<info>Junio de 1816. La fragata Alliance, de la Marina francesa, embarranca ante las costas de Senegal. Como los botes disponibles para la evacuación no son suficientes para acoger a todos los tripulantes, se construye una precaria embarcación en la que obligan a subir a 147 hombres: soldados, marineros, algún pasajero y unos pocos oficiales. El plan previsto es que los botes remolquen la balsa hasta la orilla pero el pánico y la confusión se apoderan del convoy y cortan la soga de remolque, abandonando la balsa a su suerte. El hambre, la inclemencia del mar, la locura y una lucha encarnizada se desatan en aquella balsa a la deriva.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/AcNXy3JQHzY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/BPQmKeAGJpIy4KD"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/xo747powhloz8e6"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/0t42lz5bqdtw"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/zvvx1jhvitnf"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/etcny1syskx5"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/cvxxqevr8vrc"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/r4nxruergj8mzd5"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1KYZDTzGNaJlx-CkDLyb1o1xulD2XG67h/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] El lobo y el leon [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.2[/COLOR]</title> 
 <genre>Aventura,Familia</genre>
 <year>2021</year>
