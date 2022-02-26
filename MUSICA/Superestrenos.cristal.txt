@@ -5,6 +5,18 @@
 =======================================================================================
 
 
+
+<item>
+<title>[COLOR white] Las fantasias [/COLOR][COLOR yellow](2021) [COLOR aqua]*4.9[/COLOR]</title> 
+<genre>Comedia,Romance</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/9KAV8Djljk3fR1FQ17oC6LgfkCW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/g6SsWJWuGUyr5BY29D4BnwHEc9N.jpg</fanart>
+<info>Enfrentadas a sus fantasías más ocultas, seis parejas intentan explorar las facetas más oscuras de su vida íntima. Seis puestas en cuestión sobre el acceso al placer. Desde los juegos de rol a la abstinencia, pasando por el exhibicionismo, seis historias distintas alrededor del mismo cuestionamiento sobre lo que es el deseo hoy en día.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/R-NiRNj3Gao"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/2B0ALaQQkksQpd"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/1v03rg3es6m9e1"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/t6jk7bah5d7u"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/dva5ccl4bv05"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/fukzkhe1of5g"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/pi0e8co241b6"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/zkp50sj4gpl-xzd"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1VSnAudh_bZF1Ra2TxcQNDzMtDk2TgNBo/view"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] La prueba beta [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.4[/COLOR]</title> 
 <genre>Suspense,Terror,Comedia</genre>
