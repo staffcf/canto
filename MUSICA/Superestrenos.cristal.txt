@@ -6,6 +6,18 @@
 
 
 <item>
+<title>[COLOR white] Paranormal Activity: Next of Kin [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.5[/COLOR]</title> 
+<genre>Terror,Misterio,Suspense</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/bXAVveHiLotZbWdg3PKGhAzxYKP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/39EQTf94Lckdo8yzS1CdWQSgmen.jpg</fanart>
+<info>La película sigue a una joven que intenta descubrir qué sucedió con su madre, que la dejó abandonada en la puerta de un hospital cuando nació, hasta que descubre una verdad aterradora sobre el pasado de su progenitora.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/3BeJQWVLEAo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/8KWG7wX0KqT6pK"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/dqv6g406uvwe9v"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/oq9iw7zeu5g6"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/z1tm32up8ez4"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/jkyjqw0m963g"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/4hw9bwpwb860"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/nn2x6h24jxjj0z3"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1suPqFRPkK8-MBLXfQvOdDPYeXOEsqy9H/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Ovni [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.2[/COLOR]</title> 
 <genre>Drama,Romance</genre>
 <year>2022</year>
