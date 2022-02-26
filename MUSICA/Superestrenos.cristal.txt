@@ -5,6 +5,17 @@
 =======================================================================================
 
 
+<item>
+<title>[COLOR white] Ovni [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.2[/COLOR]</title> 
+<genre>Drama,Romance</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/m7mNjsZKuLpBWYNGSTLmWKOYkvl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5HnVrSMsSxeR3RisIpBCUzVgrgT.jpg</fanart>
+<info>Cuando la música en ciernes y estudiante Deniz pierde la cabeza por un rudo piloto de motos, la tragedia y la oposición de su familia dificultan su camino hacia el amor.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/47twotW_HuA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/rADayBazpoub28v"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/9nzlj0j6iwrmn0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/is4ct37cbhbs"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/lc5bl8glea2k"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/b15yr9xjs08m"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/rbwag8apbl40"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/7mwj4sgplnlxe65"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1p8SPvaH_feHsr9DizofV_q55SO-4bhdD/view"}</urlsolve>
+</item>
+
+
 
 <item>
 <title>[COLOR white] Las fantasias [/COLOR][COLOR yellow](2021) [COLOR aqua]*4.9[/COLOR]</title> 
