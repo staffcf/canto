@@ -6,6 +6,18 @@
 	"url": "",
 	"staions": [
 			{
+			"tag": " 1Torrent, 1Documental, A2022, Letra NUM, Spain, C720, Netflix, ",
+			"name": "11M (2022)","coloryear": "darkorange",
+			"image": "https://i.imgur.com/wSPfACn.jpg",
+			"info": "Supervivientes y expertos analizan el atentado terrorista de Madrid del 11 de marzo de 2004, desde la crisis política que desencadenó hasta la búsqueda de los culpables.",
+			"genero": "Documental",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:A60638583D43134C14D246F450F1FDC40DAFEC8C&dn=BRRip",	
+				}		
+			]
+			},
+			{
 			"tag": " 1Torrent, 1Documental, A2022, Letra E, Reino Unido, C720, Netflix, ",
 			"name": "El timador de Tinder (2022)","coloryear": "darkorange",
 			"image": "https://www.themoviedb.org/t/p/original/5hfqk20C5Lz0peAlu9chN6APuh0.jpg",
