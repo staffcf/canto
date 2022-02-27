@@ -4970,7 +4970,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Thriller, Terror, A2021, Letra O, EEUU, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Thriller, Terror, A2021, Letra O, EEUU, ",
 			"name": "Oscura verdad (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/2RyEtLhbEAWWw1YmKvRFkCNgCvk.jpg",
 			"info": "Lucy y Adrian llevan tiempo intentando tener un hijo. Finalmente, recurren al doctor Hindle, especialista en fertilidad. Lucy se somete a una inseminación artificial y queda embarazada de trillizos. Días después, el doctor les informa de que un embarazo de estas características puede poner en riesgo la salud tanto de los niños como de la madre, por lo que deberán tomar una difícil decisión. A medida que avanza el embarazo, el mundo de Lucy se va transformando en una terrorífica pesadilla.",
@@ -4978,7 +4978,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Oscura.verdad.-2021.-.1080x265.-.CristalAzul..mkv.torrent",
-				"torrent4k": ""	
+				"torrent4k": "magnet:?xt=urn:btih:BF3C42A40735B5FD368CBC6D53CD4725F22F1DD1&dn=Web4K"	
 				}		
 			]
 			},
@@ -5070,6 +5070,19 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 				{
 				"torrent": "magnet:?xt=urn:btih:5C9AD96559AA22FC494EE75EADA5C4A3D170FA6B&dn=BRRip",
 				"torrent4k": ""
+				}		
+			]
+			},
+			{
+			"tag": " 0Peliscristal, 0Torrentcristal, 1Torrent4k, 1Terror, A2021, Letra P, EEUU, Sagas ParanormalActivity, ",
+			"name": "Paranormal Activity: Allegados (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/yX1B6N9IOGSLiHTLBOkCBMwHuSN.jpg",
+			"info": "Una joven está intentando averiguar lo que sucedió con su madre, que desapareció hace unos años, hasta que descubre una verdad aterradora sobre el pasado de su madre",
+			"genero": "Terror",
+			"stations": [
+				{
+				"torrent": "",
+				"torrent4k": "magnet:?xt=urn:btih:E9BC37EF0B351C703B3121AEC7C81BCD97901086&dn=Web4K"	
 				}		
 			]
 			},
@@ -5790,7 +5803,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 0Torrent4k, 1Terror, 1Thriller, A2021, Letra T, Pais, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Terror, 1Thriller, A2021, Letra T, Pais, ",
 			"name": "The Beta Test (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/nyrrWazTjclIrGKlDThajJF5xuS.jpg",
 			"info": "Un agente de Hollywood casado recibe una misteriosa carta para un encuentro sexual anónimo y se ve envuelto en un mundo siniestro de mentiras, infidelidad y datos digitales",
@@ -5798,7 +5811,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/The.Beta.Test.-2021.-.1080x265.-.CristalAzul.mkv.torrent",
-				"torrent4k": ""	
+				"torrent4k": "magnet:?xt=urn:btih:F1853F307D91DDA686D8D02FE83DB13C663AF5AB&dn=Web4K"	
 				}		
 			]
 			},
