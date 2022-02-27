@@ -12,6 +12,7 @@
 	- 1SerieTitle:"KILLING EVE", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/9n9C8svtcIY5BV8JDWqh26IA4HT.jpg",
 	- 1SerieTitle:"KILLING EVE", SerieTemp:"TEMPORADA 2", SerieID:"SERIETEMP2", SerieIDT:"TORRENTTEMP2", SerieThumbail:"https://www.themoviedb.org/t/p/original/zDrxMoFwKejwK2ifxz2YrRhrkfX.jpg",
 	- 1SerieTitle:"KILLING EVE", SerieTemp:"TEMPORADA 3", SerieID:"SERIETEMP3", SerieIDT:"TORRENTTEMP3", SerieThumbail:"https://www.themoviedb.org/t/p/original/68pWzkhyjB0TobpYAQQKRwpaDW.jpg",
+	- 1SerieTitle:"KILLING EVE", SerieTemp:"TEMPORADA 4", SerieID:"SERIETEMP4", SerieIDT:"TORRENTTEMP4", SerieThumbail:"https://www.themoviedb.org/t/p/original/4wKhTVw8aGq5AZMa0Q1spERdi7n.jpg",
 
 	
 -->
@@ -166,6 +167,56 @@
 			<torrent>magnet:?xt=urn:btih:C85C1DDD65E7B444EAF723939835B85AB828216C</torrent>
 			</item>
 ======================================================================
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x01 - Solo Sumérgeme</title>
+			<torrent>magnet:?xt=urn:btih:CD87AF28E3389CB2F762CBCF66A6FA0DDEFC1F2A&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x02 - No te dejes Comer</title>
+			<torrent>magnet:?xt=urn:btih:400376A8F0D4B0DF35471C12DACF47F0AC7C646E&dn=HD720</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x03 - Un Arcoíris con Botas Beige [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x04 - Esto es una Agonía y estoy Hambrienta [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x05 - No te Acerques [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x06 - Oh cariño, soy la ganadora [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x07 - Hacer que las Cosas Muertas se vean bien [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP4, "
+			<item>
+			<title>4x08 - Hola, Perdedores [COLOR orangered](PROXIMAMENTE)</title>
+			<torrent></torrent>
+			</item>
 ======================================================================
 ======================================================================
 ======================================================================
