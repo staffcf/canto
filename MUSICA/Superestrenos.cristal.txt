@@ -6,6 +6,18 @@
 
 
 <item>
+<title>[COLOR white] 11M: Terror en Madrid [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.0[/COLOR]</title> 
+<genre>Documental</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/3yEVCvU9EDEmuM7KcqXxB6eY5E2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yn0NWzynRGvgNnT7hhPV8Vbnip.jpg</fanart>
+<info>Supervivientes y expertos analizan el atentado terrorista de Madrid del 11 de marzo de 2004, desde la crisis política que desencadenó hasta la búsqueda de los culpables.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Mtle6aG0S0k"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/6BQmyp3aZ7U9z1D"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/xo73e3kzsl1pqg"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/6ov5ox7fky5e"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/pv3y37cpqzj0"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ajiayqc0pxh2"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/ecfnugaab9ma"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/r4nxruergn063l-"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1AyC99OQ7FwSfMZLm8UdWQPYJ5eEZRFY5/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Mi amigo Enzo [/COLOR][COLOR yellow](2019) [COLOR aqua]*8.3[/COLOR]</title> 
 <genre>Comedia,Drama,Romance</genre>
 <year>2019</year>
