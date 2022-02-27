@@ -6,6 +6,17 @@
 
 
 <item>
+<title>[COLOR white] Mi amigo Enzo [/COLOR][COLOR yellow](2019) [COLOR aqua]*8.3[/COLOR]</title> 
+<genre>Comedia,Drama,Romance</genre>
+<year>2019</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/10DEBjRtAH7ocGHYufecnGZOEq0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/96sS0woEzf0zFSWjHVblOhsBfGd.jpg</fanart>
+<info>El argumento está basado en la novela publicada por Garth Stein, la cual responde al mismo nombre que el filme. La historia combina diferentes sentimientos y situaciones comprometidas para la sociedad como son el dolor, la liberación, el cariño o el riesgo. Enzo, un perro que ha experimentado muchas aventuras interesantes a lo largo de su vida, es el personaje que pone voz a la película. Pese a no ser una persona de carne y hueso, este entrañable animal será capaz de dar diferentes lecciones a los seres humanos sobre cuál tendría que ser la manera adecuada de actuar sea cual sea la situación en la que se encuentren.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/h-q2arC6HAs"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/Ry240ZwW4jSdrzO"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/dqvzxkjna13grw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/rtgbx8ycpwx7"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/6k0zn8rj0k7x"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/scs7neu67w0l"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/bpngbtgwwfzv"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/42njphzd6qw3qx-"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/14_smGUNAqtBY1qxCuGHt8cc5loB75zXT/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Paranormal Activity: Next of Kin [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.5[/COLOR]</title> 
 <genre>Terror,Misterio,Suspense</genre>
 <year>2021</year>
