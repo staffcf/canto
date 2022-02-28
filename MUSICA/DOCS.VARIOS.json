@@ -128,6 +128,19 @@
 			]
 			},
 			{
+			"tag": " 1Torrent, 1Documental, A2021, Letra D, Francia, C720, ",
+			"name": "Daniel Day-Lewis, el genio de Hollywood (2021)","coloryear": "cyan",
+			"image": "https://www.themoviedb.org/t/p/original/p7yxgGq9lF544KYRB7K4seaufPq.jpg",
+			"info": "Daniel Day-Lewis es el único actor de la historia que ha ganado tres premios Oscar. A lo largo de su carrera ha interpretado personajes muy diversos pero todos ellos tienen una cosa en común: la intensidad dramática de sus papeles.",
+			"genero": "Documental",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:8c61cbf36047944648c51ed4aff5f08a790938da&dn=HD720",
+				"torrent4k": ""
+				}		
+			]
+			},
+			{
 			"tag": " 1Torrent, 1Documental, A2021, Letra D, Argentina, C720, ",
 			"name": "Diego, el ultimo adios (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/7OoFWIv9RzPhcKspB10wnW2gKgM.jpg",
@@ -640,6 +653,19 @@
 			"stations": [
 				{
 				"torrent": "magnet:?xt=urn:btih:815E859C3DB0152B48B0F4B495DFC032FCD7D4C6"
+				}		
+			]
+			},
+			{
+			"tag": " 1Torrent, 1Documental, A2019, Letra E, Alemania, C720, ",
+			"name": "El precio de la dignidad. La historia de Colin Kaepernick (2019)","coloryear": "limegreen",
+			"image": "https://www.themoviedb.org/t/p/original/eajDFN88gJBmDqkXncLoMvKPm2y.jpg",
+			"info": "Documental que aborda la llegada a la máxima liga del fútbol americana de la denuncia antirracista de Colin Kaepernik y sus consecuencias. El jugador, uno de los más populares de la NFL, se arrodilló durante el himno estadounidense para protestar contra la violencia racista por las continuadas muertes de afroamericanos desarmados. Para muchos, el héroe se convirtió de inmediato en villano.",
+			"genero": "Documental",
+			"stations": [
+				{
+				"torrent": "magnet:?xt=urn:btih:e3807df455f2cd74833747756435e5e0ee4fa841&dn=HD720",
+				"torrent4k": ""
 				}		
 			]
 			},
