@@ -3,13 +3,13 @@
 ======================================================================
 
 <!--
- LA CHICA DE ANTES
+ COUNTRYMEN
 -->
 <!--
 
 	ETIQUETAS:
 	
-	- 1SerieTitle:"LA CHICA DE ANTES", SerieTemp:"MINI SERIE", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://i.imgur.com/Uh1ok9H.jpg",
+	- 1SerieTitle:"COUNTRYMEN", SerieTemp:"TEMPORADA 1", SerieID:"SERIETEMP1", SerieIDT:"TORRENTTEMP1", SerieThumbail:"https://www.themoviedb.org/t/p/original/n1F8OfFYW5Ic2bIfX72mDYMbVCe.jpg",
 	
 -->
 ======================================================================
@@ -21,26 +21,20 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x01 - Capitulo 1</title>
-			<torrent>magnet:?xt=urn:btih:6033C141B5AE5C7F5A7A97F280D1C2B00DB5C0DC&dn=HD720</torrent>
+			<title>1x0. - Capitulos 1 a 3</title>
+			<torrent>magnet:?xt=urn:btih:2C873D7EB00F6B456DB23DD430D4D48FB744E258&dn=HD720</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x02 - Capitulo 2</title>
-			<torrent>magnet:?xt=urn:btih:62B476703F7F2DEA80AE70182F02065C9ACEB785&dn=HD720</torrent>
+			<title>1x0. - Capitulos 4 a 6</title>
+			<torrent>magnet:?xt=urn:btih:71DE5FF3E4877291DA81A6F6986351D87893973E&dn=HD720</torrent>	magnet:?xt=urn:btih:53811D6B9A4920EAAEFB2134911C74BF599760E4&dn=HD1080
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x03 - Capitulo 3</title>
-			<torrent>magnet:?xt=urn:btih:4BD21B1501BDF16FCE75E08741C0D2196B3E78D9&dn=HD720</torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title>1x04 - Capitulo 4 [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
+			<title>1x0. - Capitulos 7 Y 8</title>
+			<torrent>magnet:?xt=urn:btih:1AE9155B6A76AD9848783A58D76AB531FE0F0D93&dn=HD720</torrent>
 			</item>
 ======================================================================
 ======================================================================
@@ -58,26 +52,20 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x01 - Capitulo 1</title>
-			<torrent>magnet:?xt=urn:btih:79484CA53290CAA5373F1B8EB2D04C1BD5D63A7D&dn=HDTV</torrent>
+			<title>1x0. - Capitulos 1 a 3</title>
+			<torrent>magnet:?xt=urn:btih:3DF1C1D0644AE509E145D128D85AF98E753F8299&dn=HDTV</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x02 - Capitulo 2</title>
-			<torrent>magnet:?xt=urn:btih:189C017B4502B843AA41E86D20A4341081576097&dn=HDTV</torrent>
+			<title>1x0. - Capitulos 4 a 6</title>
+			<torrent>magnet:?xt=urn:btih:BA03F24C60701CB44D0990DDC2E57963D65196D1&dn=HDTV</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x03 - Capitulo 3</title>
-			<torrent>magnet:?xt=urn:btih:4FB58355EE4B8CED9AF5F95FB4DF06FCFAA6D6AD&dn=HDTV</torrent>
-			</item>
-======================================================================
-			"Tag= TORRENTTEMP1, "
-			<item>
-			<title>1x04 - Capitulo 4 [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
+			<title>1x0. - Capitulos 7 Y 8</title>
+			<torrent>magnet:?xt=urn:btih:1AE9155B6A76AD9848783A58D76AB531FE0F0D93&dn=HDTV</torrent>
 			</item>
 ======================================================================
 ======================================================================
