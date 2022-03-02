@@ -4,6 +4,18 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 
+<item>
+<title>[COLOR white] Amor sin barreras [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.5[/COLOR]</title> 
+<genre>Drama,Romance, Musical,Crimen</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/zzF4FS20N7UZUMHw7dsfPk8dS8Q.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/exnFsbb9c3fDutTsgtJSWcDmZm0.jpg</fanart>
+<info>Nueva versión del legendario musical 'West Side Story' sobre el enfrentamiento entre dos bandas callejeras de Nueva York. Adaptación de una famosa obra de teatro de Broadway que modernizaba el relato de "Romeo y Julieta" de Shakespeare.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/tkb_cAdc0EI"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/0urskjxsripi"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1L4IxYniFTzM8yGINsSvEjKYnZFPy5XYI/view"}</urlsolve>
+</item>
+
+
+
 
 <item>
 <title>[COLOR white] Refugiado americano [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.1[/COLOR]</title> 
