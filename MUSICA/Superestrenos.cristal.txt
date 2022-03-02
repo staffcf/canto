@@ -4,6 +4,18 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 
+<item>
+<title>[COLOR white] La casa sobre el pantano [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.1[/COLOR]</title> 
+<genre>Terror,Suspense</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/3qCUy997QKgZDieby5sF6mMHAsB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xb4NEMXNBbWcdb3kygitvc8cPCJ.jpg</fanart>
+<info>En un esfuerzo por reconectarse y reparar su relación, una pareja con problemas y su hija preadolescente buscan una escapada idílica a una mansión remota en la zona rural de Louisiana. Pero cuando llegan visitantes inesperados, su fachada de unidad familiar comienza a desmoronarse, a medida que salen a la luz secretos aterradores.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/yRn0dDrKfpE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/QAr7ab6eoGiko8"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/7r1nzd3jcp6p06"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/hy4ct6dgs83h"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/34q325cz9yng"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/gs5fbty489fk"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/i3q6i9ee3req"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/nn2x6h24m8606rn"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1n7dLj_xynqRRDWzYIJAnH9zXctq0zmfm/view"}</urlsolve>
+</item>
+
+
+
 
 <item>
 <title>[COLOR white] Amor sin barreras [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.5[/COLOR]</title> 
