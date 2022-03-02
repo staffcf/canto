@@ -31,7 +31,7 @@ https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_SERIES/.xml
 "Tag= 1Torrent, "
 
 <item>
-<title>#BlackAF</title>
+<title>#blackAF</title>
 <genre>Comedia</genre>
 <year>2020</year>
 <info>Kenya Barris y su familia lidian con las relaciones y las cuestiones de raza y culturales mientras se van haciendo a su nueva y acomodada vida.</info>
@@ -45,7 +45,7 @@ https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_SERIES/.xml
 "Tag= 1Torrent, "
 
 <item>
-<title>¡Se Feliz Con Marie Kondo! [COLOR gold]Docuserie[/COLOR]</title>
+<title>¡SE FELIZ CON MARIE KONDO! DOCUSERIE</title>
 <genre>Documental</genre>
 <year>2021</year>
 <info>Marie Kondo comparte su propio mundo y muestra su método para poner orden y hacer felices a personas que intentan compaginar el trabajo con la vida familiar.</info>
@@ -59,7 +59,7 @@ https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_SERIES/.xml
 "Tag= 1Torrent, "
 
 <item>
-<title>¿Donde Esta Marta? [COLOR gold]Docuserie[/COLOR]</title>
+<title>¿DONDE ESTA MARTA? DOCUSERIE</title>
 <genre>Documental</genre>
 <year>2021</year>
 <info>La desaparición de la adolescente Marta del Castillo acaparó todos los titulares. Familiares, amigos y policías, entre otros, opinan sobre un caso que sigue sin resolver.</info>
@@ -73,7 +73,7 @@ https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_SERIES/.xml
 "Tag= 1Torrent, "
 
 <item>
-<title>¿Quien Mato a Sara?</title>
+<title>¿QUIEN MATO A SARA?</title>
 <genre>Drama, Crimen, Misterio</genre>
 <year>2021</year>
 <info>Tras 18 años de encarcelamiento injusto, Alex Guzmán es liberado con el plan perfecto para descubrir quién mató a su hermana Sara y por qué la familia Lazcano lo culpó del crimen. Lo que no sabe, es que la búsqueda de pruebas lo llevará por un desvío mucho más peligroso de lo que imaginaba. Cuando finalmente se enfrente al verdadero culpable, Alex deseará no haber buscado su venganza</info>
@@ -3932,13 +3932,27 @@ https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_SERIES/.xml
 "Tag= 1Torrent, "
 
 <item>
+<title>EL PEOR COMPAÑERO DE PISO IMAGINABLE DOCUSERIE</title>
+<genre>Documental</genre>
+<year>2022</year>
+<info>Presenta cuatro historias tremendas sobre compañeros de piso aparentemente inofensivos que se convierten en una pesadilla para sus desprevenidas víctimas cuando se desvelan sus intenciones, siempre malvadas y a veces violentas. Estas inquietantes historias reales narran el peligro que puede acechar en el cuarto de al lado.</info>
+<thumbnail>EL PEOR COMPAÑERO DE PISO IMAGINABLE</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wiealHkCguQkcnrnteCIfK9lr9M.jpg</fanart>
+<enlaceslink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_DOCUS/EL.PIONERO.xml</enlaceslink>
+<estado></estado>
+</item>
+
+===============================================================================================================================================
+"Tag= 1Torrent, "
+
+<item>
 <title>EL PIONERO DOCUSERIE</title>
 <genre>Documental</genre>
 <year>2019</year>
 <info>Documental sobre el empresario Jesús Gil, una de las figuras políticas más populares en España durante la década de los años 90</info>
 <thumbnail>https://image.tmdb.org/t/p/original/lz4y5GCBmxMwiZUHvodQfiD1yqJ.jpg</thumbnail>
 <fanart>https://elcierredigital.com/images/carpeta_relacionados/2019/07/07/md/6012_pionero-serie-documental-sobre-vida-jesus-gil-hbo-.jpg</fanart>
-<enlaceslink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_DOCUS/EL.PIONERO.xml</enlaceslink>
+<enlaceslink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/0_LINKS_DOCUS/EL.PEOR.COMPANHERO.DE.PISO.xml</enlaceslink>
 <estado></estado>
 </item>
 
