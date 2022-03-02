@@ -4,6 +4,18 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 
+
+<item>
+<title>[COLOR white] Perdidos en el Artico [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.3[/COLOR]</title> 
+<genre>Aventura,Historia,Drama</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/6FSGYvPEhIx3ThOikGqHmKxeyNN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qkebbnSXnRccdMaBIzQU8cESR4m.jpg</fanart>
+<info>Basada en hechos reales. 1909. La expedición danesa Alabama, liderada por el Capitán Ejnar Mikkelsen (Coster-Waldau) emprende una misión para demostrar que Groenlandia no está dividida en dos trozos de tierra y refutar el reclamo de Estados Unidos sobre el territorio. Dejando atrás a su tripulación, le acompañará en el viaje, que llegarán a realizar incluso a pie por el hielo, el inexperto Iver Iversen (Joe Cole).<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/wMM3Y0Vhgx4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/q8mpD0KGYetLJJ"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/qlzwkv7nt4q444"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/e04m1k5w8sd1"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/u12f8m1jhs2f"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/kfm7xp8b1sk3"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/mx18ppn9ogp4"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/2r2j0i26l5d5-57"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1COko8wcDzMxHBmsAn9E61fUQP-EnU_gE/view"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] La casa sobre el pantano [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.1[/COLOR]</title> 
 <genre>Terror,Suspense</genre>
