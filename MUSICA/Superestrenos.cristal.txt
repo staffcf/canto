@@ -6,6 +6,18 @@
 
 
 <item>
+<title>[COLOR white] Refugiado americano [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.1[/COLOR]</title> 
+<genre>Terror,Suspense</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/isAGLrCGprcmYrpFLX0Amr4g6AS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uKqfucnku5Cm63SDhgp4LEQzyW2.jpg</fanart>
+<info>Una familia busca refugio en el búnker de su vecino, cuando la economía estadounidense está colapsando y el peligro adentro es mayor que afuera.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Qv_n6xQ4q1o"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/3GmL1ZGBxkudZxb"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/1v0zgvl1u99nkx"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/suuof5imfylb"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/3qzswbrvsnj2"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/qjn6insim5y1"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/9cm0iqb4m5en"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/dz3w4txk5wgregm"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Tm_3kLHf72i0QN8ijiCZv-xkRR5Cj77k/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] 11M: Terror en Madrid [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.0[/COLOR]</title> 
 <genre>Documental</genre>
 <year>2022</year>
