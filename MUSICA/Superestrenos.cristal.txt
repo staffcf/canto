@@ -4,6 +4,7 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 
+
 <item>
 <title>[COLOR white] Amor sin barreras [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.5[/COLOR]</title> 
 <genre>Drama,Romance, Musical,Crimen</genre>
@@ -11,9 +12,8 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/zzF4FS20N7UZUMHw7dsfPk8dS8Q.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/exnFsbb9c3fDutTsgtJSWcDmZm0.jpg</fanart>
 <info>Nueva versión del legendario musical 'West Side Story' sobre el enfrentamiento entre dos bandas callejeras de Nueva York. Adaptación de una famosa obra de teatro de Broadway que modernizaba el relato de "Romeo y Julieta" de Shakespeare.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/tkb_cAdc0EI"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/0urskjxsripi"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1L4IxYniFTzM8yGINsSvEjKYnZFPy5XYI/view"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/tkb_cAdc0EI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/D0BpZA74aQSdAy"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/4nl3ee6qf4eqm9"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/yclk9v1enljb"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/h84hhjsnimke"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/hdr5j2ucvyp2"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/zc91zp4501b2"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/dz3w4txk5gz4q3w"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1L4IxYniFTzM8yGINsSvEjKYnZFPy5XYI/view"}</urlsolve>
 </item>
-
 
 
 
