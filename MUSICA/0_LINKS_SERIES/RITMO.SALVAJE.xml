@@ -19,17 +19,55 @@
 			<torrent></torrent>
 			</item>
 ======================================================================
-			"Tag= TORRENTTEMP1, "
+			"Tag=  TORRENTTEMP1, "
 			<item>
-			<title>1x0. - Capitulos 1 a 8</title>
-			<torrent>magnet:?xt=urn:btih:793e1a8ecdc053e814093a3a40803e563b1d08d1&dn=HD1080</torrent>
+			<title>1x01 - Al garete</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ritmo.Salvaje/1x01.-Ritmo.salvaje.-.1080x265.-.CristalAzul.mkv.torrent</torrent>
 			</item>
 ======================================================================
-			"Tag= TORRENTTEMP1, "
+			"Tag=  TORRENTTEMP1, "
 			<item>
-			<title>1x0. - Capitulos 1 a 8</title>
-			<torrent>magnet:?xt=urn:btih:bed98b550e2ee6c6136633fbca3c7ac42ba5d67f&dn=HD1080x265</torrent>
+			<title>1x02 - El barrio</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ritmo.Salvaje/1x02.-Ritmo.salvaje.-.1080x265.-.CristalAzul.mkv.torrent</torrent>
 			</item>
+======================================================================
+			"Tag=  TORRENTTEMP1, "
+			<item>
+			<title>1x03 - El Royal</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ritmo.Salvaje/1x03.-Ritmo.salvaje.-.1080x265.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag=  TORRENTTEMP1, "
+			<item>
+			<title>1x04 - Intrusos</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ritmo.Salvaje/1x04.-Ritmo.salvaje.-.1080x265.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag=  TORRENTTEMP1, "
+			<item>
+			<title>1x05 - La elegida</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ritmo.Salvaje/1x05.-Ritmo.salvaje.-.1080x265.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag=  TORRENTTEMP1, "
+			<item>
+			<title>1x06 - La despedida</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ritmo.Salvaje/1x06.-Ritmo.salvaje.-.1080x265.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag=  TORRENTTEMP1, "
+			<item>
+			<title>1x07 - La traición</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ritmo.Salvaje/1x07.-Ritmo.salvaje.-.1080x265.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag=  TORRENTTEMP1, "
+			<item>
+			<title>1x08 - Sabotaje</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/Ritmo.Salvaje/1x08.-Ritmo.salvaje.-.1080x265.-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+======================================================================
 ======================================================================
 ======================================================================
 			"Tag= TORRENTTEMP1, "
@@ -40,19 +78,31 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title> - [COLOR yellow]CALIDAD HDTV</title>
+			<title> - [COLOR yellow]OTRAS OPCIONES</title>
 			<torrent></torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x0. - Capitulos 1 a 8</title>
+			<title>Calidad 1080 - Capitulos 1 a 8</title>
+			<torrent>magnet:?xt=urn:btih:793e1a8ecdc053e814093a3a40803e563b1d08d1&dn=HD1080</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>Calidad 1080x265 - Capitulos 1 a 8</title>
+			<torrent>magnet:?xt=urn:btih:bed98b550e2ee6c6136633fbca3c7ac42ba5d67f&dn=HD1080x265</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>Calidad HDTV - Capitulos 1 a 8</title>
 			<torrent>magnet:?xt=urn:btih:4e23a9ab26cb94f9888bb78e7a4a7a24f66a3be2&dn=HDTV</torrent>
 			</item>
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x0. - Capitulos 1 a 8</title>
+			<title>Calidad HDTVx265 - Capitulos 1 a 8</title>
 			<torrent>magnet:?xt=urn:btih:9cce662e64bab3aa80eb176e0df50a424c01afb7&dn=HDTVx265</torrent>
 			</item>
 ======================================================================
