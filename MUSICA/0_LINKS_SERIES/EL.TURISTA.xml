@@ -65,6 +65,56 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
+			<title> - [COLOR yellow]CALIDAD 1080</title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x01 - Capitulo 1</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/El.Turista/1x01.-El.Turista.-.1080x265i-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x02 - Capitulo 2</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/El.Turista/1x02.-El.Turista.-.1080x265i-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x03 - Capitulo 3</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/El.Turista/1x03.-El.Turista.-.1080x265i-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x04 - Capitulo 4</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/El.Turista/1x04.-El.Turista.-.1080x265i-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x05 - Capitulo 5</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/El.Turista/1x05.-El.Turista.-.1080x265i-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title>1x06 - Capitulo 6</title>
+			<torrent>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Series/El.Turista/1x06.-El.Turista.-.1080x265i-.CristalAzul.mkv.torrent</torrent>
+			</item>
+======================================================================
+======================================================================
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
+			<title> - </title>
+			<torrent></torrent>
+			</item>
+======================================================================
+			"Tag= TORRENTTEMP1, "
+			<item>
 			<title> - [COLOR yellow]CALIDAD 720</title>
 			<torrent></torrent>
 			</item>
@@ -101,8 +151,8 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x06 - Capitulo 6 [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
+			<title>1x06 - Capitulo 6</title>
+			<torrent>magnet:?xt=urn:btih:B3168F18B5BE876545A3535F634327C987BD60AD&dn=HD720</torrent>
 			</item>
 ======================================================================
 ======================================================================
@@ -150,8 +200,8 @@
 ======================================================================
 			"Tag= TORRENTTEMP1, "
 			<item>
-			<title>1x06 - Capitulo 6 [COLOR orangered](PROXIMAMENTE)</title>
-			<torrent></torrent>
+			<title>1x06 - Capitulo 6</title>
+			<torrent>magnet:?xt=urn:btih:BFA77DF2257C2A2B24A07A95390CA26EA59156E6&dn=HDTV</torrent>
 			</item>
 ======================================================================
 ======================================================================
