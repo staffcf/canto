@@ -6,6 +6,18 @@
 
 
 <item>
+<title>[COLOR white] Till Death: Hasta que la muerte nos separe [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.6[/COLOR]</title> 
+<genre>Terror,Suspense</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/4qVUEoUsp3oqgR4poWJgUFlI6fG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hdipd5i72V9Poz4x7jZQrMq1XZP.jpg</fanart>
+<info>Después de una velada romántica en su apartada casa del lago, una mujer se despierta esposada a su difunto esposo. Atrapada y aislada en pleno invierno, debe luchar contra asesinos a sueldo para escapar del retorcido plan de su difunto cónyuge.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/rLQk6tIZc3o"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/gaP8ZYxeWpCg72"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/1v0rqd7wf4evk3"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/q4oxgiha52xd"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/bvs4j67wlann"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/evqnis0r3yf8"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/7ehhxf4pbdfj"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/zkp50sj4xx0r-0g"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1BPPU-YRGYfKNfCwNYR6JsuNl7ejMApD5/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Fin de semana en Croacia [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.5[/COLOR]</title> 
 <genre>Suspense,Misterio</genre>
 <year>2022</year>
