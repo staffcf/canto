@@ -6,6 +6,18 @@
 
 
 <item>
+<title>[COLOR white] Fin de semana en Croacia [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.5[/COLOR]</title> 
+<genre>Suspense,Misterio</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/6MS0QEl7UK2gdFFbHfNwuYlsq4H.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ogBxTYI7TDSnkUONkwK4R8hM1lE.jpg</fanart>
+<info>Cuando su mejor amiga desaparece durante una escapada de fin de semana de chicas a Croacia, Beth se empeña en descubrir qué pasó. Pero cada pista revela una nueva e inquietante mentira, y sus esfuerzos por descubrir la verdad sacan a la luz amargos secretos.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/WPW0qo5dc-E"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/bVd3opVPVZTRXa"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/9nzj6qq0bqwvog"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/3h188uorec5w"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/aqjaxrvw6oqv"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/x05nwbzkk8bg"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/yqohukm8alp9"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/10rjdcj415lrml0"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1wd7FIo4schRpVq909gleNBQvSNxl_mcX/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Perdidos en el Artico [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.3[/COLOR]</title> 
 <genre>Aventura,Historia,Drama</genre>
 <year>2022</year>
