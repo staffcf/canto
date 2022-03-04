@@ -383,6 +383,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Bilardo El Doctor Del Futbol [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Bilardo</externallink>
+<info>Una docuserie reveladora e íntima que narra la vida y la carrera del entrenador de la selección argentina de fútbol, el Dr. Carlos Bilardo, a través de las opiniones de familiares, amigos, exjugadores y rivales.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/bgeyUyXGVHHlCfQR1FIPl8CEHke.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1rSLoRz1gZ5OizXIs4WZzErpenx.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Black Mirror[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Black.Mirror</externallink>
@@ -391,6 +400,14 @@
 <fanart>https://www.themoviedb.org/t/p/original/b92npz1sZwvmjUfVIrWXehrk3pc.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR gold]* [COLOR white]Black Narcissus[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Black.narcissus</externallink>
+<info>Himalaya, 1934. Un remoto palacio en lo alto de un acantilado, una vez conocido como la "Casa de las mujeres", guarda muchos secretos oscuros. Cuando las jóvenes monjas de Santa Fe intentan establecer una misión allí, sus inquietantes misterios despiertan deseos prohibidos que parecen destinados a repetir una terrible tragedia. Adaptación de la novela de 1939 de Rumer Godden.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/3eYusIhAodlw2Lgoh1k8npejW8Z.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cltd2GoEIC87eNjzpUHWa1gfsqt.jpg</fanart>
+</item>
 
 <item>
 <title>[COLOR gold]* [COLOR white]Black Summer[COLOR white][/COLOR]</title>     
@@ -654,6 +671,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Countrymen[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Countrymen</externallink>
+<info>Tras la muerte repentina de su novia, Marwan secuestra a su hija de casa de sus padres para huir a Irán, pero problemas con el pasaporte le llevan a esconderse en una granja de montaña donde terminará fundando la primera lechería halal de Noruega.</info>
+<thumbnail>https://i.imgur.com/RJ5ROIj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n4DhGdTrB7j2CJb4ZMcB0u9Mf8T.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Coyote[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Coyote.txt</externallink>
@@ -699,6 +725,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Crimenes [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Crimenes</externallink>
+<info>"Crims" es una serie de "true crime" que relata crímenes reales que han pasado hace pocos años en Cataluña: pura realidad para entretener. Carles Porta presenta los casos desde el estudio de Catalunya Ràdio con una breve introducción antes de dar paso a cada capítulo. Su voz en off acompaña todo el capítulo, con un tono y un estilo que atrapan y conectan con el espectador.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/rEMZ4B0H9MvEtBgdMWdhaUySloe.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/52Neq4oADWNfsi41oneMgyNVRxx.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Cronicas Vampiricas[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Cronicas.Vampiricas</externallink>
@@ -712,8 +747,8 @@
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Dark</externallink>
 <info>Tras la desaparición de un joven, cuatro familias desesperadas tratan de entender lo ocurrido a medida que van desvelando un retorcido misterio que abarca tres décadas... Saga familiar con un giro sobrenatural, "Dark" se sitúa en un pueblo alemán, donde dos misteriosas desapariciones dejan al descubierto las dobles vidas y las relaciones resquebrajadas entre estas cuatro familias.</info>
-<thumbnail>https://i.imgur.com/SYuVS1v.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/51z0nVsJ42kxvlb0ITXdAvmaAqu.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/original/5LoHuHWA4H8jElFlZDvsmU2n63b.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/57jxJRWWQVY3J1ZA9m09QfL1Ttt.jpg</fanart>
 </item>
 
 <item>
@@ -1359,6 +1394,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El Turista[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.turista</externallink>
+<info>Cuando un hombre se despierta en el interior de Australia sin memoria, debe usar las pocas pistas que tiene para descubrir su identidad antes de que su pasado lo alcance.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/sxZHAk74Oq0Uxh5KLJGo1u133SU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9zky6V388S5fI98rrVyqSbCQ2wW.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El Vecino[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.Vecino</externallink>
@@ -1455,6 +1499,15 @@
 <info>Miniserie de TV. 6 episodios. Hace 20 años, Astrid presenció la desaparición de un autobús lleno de estudiantes. Ahora, acaba de encontrarse con una de las víctimas y decide investigar qué pasó. </info>
 <thumbnail>https://i.imgur.com/UvDfjl0.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/25MojPDXASQAmyJ8ItnX3zKxe24.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Eran 10[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Eran.10</externallink>
+<info>Un pequeño avión deja a siete personas en Devil Island, un paraíso tropical con un hotel de lujo. Malik, Nina, Eve, Xavier, Kelly (y su perro), Victoria y Gilles son recibidos por dos empleados del hotel llamados Eddy y Myriam. Poco después, aterriza un helicóptero, pilotado por un gurú de los medios llamado Vincent. En poco tiempo, los diez invitados descubren que Internet no funciona y que el motor del helicóptero ha sido saboteado. ¡Están separados del resto del mundo! Esa noche, mientras todos se sientan a la mesa, se oye una voz por los altavoces anunciando que todos y cada uno de ellos son asesinos. Y ha llegado el momento de que paguen por sus crímenes.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/2ASOaoZV6pJ5R90W4WVYTP795Go.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5UKRV5QQYpxYRX1zigeHkrA6cBG.jpg</fanart>
 </item>
 
 <item>
@@ -1818,6 +1871,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]In The Dark[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/In.the.dark</externallink>
+<info>Mientras lidia con un embarazo inesperado, DI Helen Weeks debe regresar a la ciudad natal que detesta para ayudar a su mejor amiga de la infancia, que se encuentra en el centro de un frenesí de los medios tras el secuestro de dos adolescentes.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/ecUKYm6Pf8dEHk2IZiNaLtbprRQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sb68JRR5x9Rd9pjT7qcm4PJIpfH.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Insania[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Insania</externallink>
@@ -2050,6 +2112,15 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 <info>Adaptación televisiva de la novela homónima de Paul Theroux -tío de Justin Theroux-, 'La costa de los mosquitos' sigue a Allie Fox, un hombre visionario, idealista y genio autodidacta que un buen día, harto de la civilización, decide dejar Estados Unidos y mudarse con su mujer y sus cuatro hijos a una aldea indígena en mitad de la selva nicaragüense con el fin de construir de cero una nueva sociedad utópica. La novela fue adaptada al cine en 1986 por Peter Weir con Harrison Ford, Helen Mirren y River Phoenix. </info>
 <thumbnail>https://i.imgur.com/015ydKQ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/cJz2F54TJiFIG8LRPpcvxG04wbW.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]La Desaparicion De Anthony[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.desaparicion.de.anthony</externallink>
+<info>En su décimo cumpleaños, mientras juegan a la búsqueda del tesoro, Anthony Sullivan desaparece inexplicablemente. Durante la investigación, se descubren secretos familiares ocultos desde hace mucho tiempo con devastadoras consecuencias.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/bigDHvntPOl49N0HsvSq67vfMj2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bb8KzmIgpKqX6yYnu0S0BfDJvfM.jpg</fanart>
 </item>
 
 <item>
@@ -3419,12 +3490,30 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El Turista[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.turista</externallink>
+<info>Cuando un hombre se despierta en el interior de Australia sin memoria, debe usar las pocas pistas que tiene para descubrir su identidad antes de que su pasado lo alcance.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/sxZHAk74Oq0Uxh5KLJGo1u133SU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9zky6V388S5fI98rrVyqSbCQ2wW.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Roadkill[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Roadkill.txt</externallink>
 <info>Serie de TV (2020). 4 episodios. Peter Laurence (Hugh Laurie) es un político hecho a sí mismo, energético y carismático, que ocupa un alto cargo en el gobierno conservador del Reino Unido. Pero su vida pública y privada se está cayendo a pedazos o, más bien, sus enemigos están intentando hacerle caer. Cuando comienzan a aparecer historias comprometedoras suyas, Peter, con una vergonzante falta de culpabilidad o remordimiento, echa a caminar por la cuerda floja que separa la ruina de la gloria. Mientras todos tratan de hundirlo, él intentará culminar sus propios planes. Sin embargo, los acontecimientos dejarán claro lo difícil que resulta dejar atrás el pasado, tanto para el ciudadano de a pie como para una nación. </info>
 <thumbnail>https://i.imgur.com/YeCnUbf.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/uoUSXKSBPgrp1Z3v5ztzp1H7Pdl.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Sabes Quien Es?[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Sabes.quien.es</externallink>
+<info>Cuando un ataque violento en su pueblo saca a la luz amenazas y secretos mortales, una mujer empieza a encajar las piezas del oscuro pasado de su madre.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/yPTlbfrDv9asnHlCCd3XzM5noF1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wVHERV24BUkVpH1tbM5EYLywRMt.jpg</fanart>
 </item>
 
 <item>
@@ -4057,6 +4146,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 <info>Si la policía es incapaz de proteger Manila de amenazas sobrenaturales, Alexandra Trese será la encargada de hacerlo. Basada en un galardonado cómic filipino.</info>
 <thumbnail>https://i.imgur.com/WzNgdsm.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/isTQeaP6kp4lc9OBLKYGqK3ncu2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Tribunal De Menores[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Tribunal.de.menores</externallink>
+<info>Una irritable jueza que desprecia a los criminales juveniles llega al tribunal de menores, en donde tiene la ardua tarea de examinar las penas para jóvenes delincuentes.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/1Wfv04HjCoJLjNLi1tG1PrVofix.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eW6CqrGSRUk6xMbdCjreMQiP5W8.jpg</fanart>
 </item>
 
 <item>
