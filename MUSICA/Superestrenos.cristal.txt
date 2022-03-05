@@ -5,6 +5,19 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Core y dispara [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.0[/COLOR]</title> 
+<genre>Acción,Suspense</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/h0AKLEk4XCajdav1hSHIR71cU66.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tf39k41yXR9npDiz3KT94VqQesP.jpg</fanart>
+<info>Ray, un ex criminal que evade una serie de asesinos despiadados liderados por el excéntrico jefe de la mafia, Grayson, encuentra refugio con un misterioso buen samaritano, pero pronto se hace evidente, sin embargo, que ha entrado en el nido de alguien incluso más peligroso que los asesinos que lo persiguen.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/OPoSaES2ja8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/VdlRKobjbeFKBjw"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/6qjk39nntd33z6"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/mysyzyhvc2qo"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/ltxr7dqlvygk"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/l9uxz9cdm18f"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/j4ck1s9lu68j"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/mgzn4i5wjj7q41m"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1hmSCiAAxF1k5I1U6aU6lelXv7jqc0cPh/view"}</urlsolve>
+</item>
+
+
+
+
+<item>
 <title>[COLOR white] Contra [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.8[/COLOR]</title> 
 <genre>Comedia</genre>
 <year>2021</year>
