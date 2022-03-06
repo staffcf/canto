@@ -770,6 +770,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Dates[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Dates</externallink>
+<info>Cada episodio de esta serie se centra en una cita entre dos personas que se han conocido en una página web de contactos.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/cc4hP9Mr8C9TLcVRw8QNcxj0GkV.jpg</thumbnail>
+<fanart>https://i.imgur.com/66u3VEr.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Dead Still[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Dead.Still</externallink>
@@ -2739,6 +2748,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 <info>Serie de TV creada por Kevin Smith, cuyo argumento girará entorno a diversas líneas temporales sin resolver de la serie original de 1983.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/jccO17zIjB6lWUmRNCwzEs0QwA2.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/eOLKWXXbcZJg91Jf1Fn7odUirl3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Medianoche En El Pera Palace[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Medianoche.en.el.pera.palace</externallink>
+<info>En un hotel histórico de Estambul, una periodista viaja inesperadamente al pasado y debe detener un complot que podría cambiar el destino de la Turquía moderna.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/mCQ3t6jjzekcWt2OCsIawpm1KDi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9NcK8ah3RwmswRQaalQnLTR8yvj.jpg</fanart>
 </item>
 
 <item>
