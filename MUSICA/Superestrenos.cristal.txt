@@ -4,6 +4,18 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 
+<item>
+<title>[COLOR white] El hilo invisible [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.8[/COLOR]</title> 
+<genre>Comedia,Drama</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/bHukHtEKdXoHdd3AOY65PsBdT4X.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uouDZk79SVDyW4HuTVO108zmLbW.jpg</fanart>
+<info>Un hijo adolescente con dos padres hace un documental sobre ellos, pero un giro argumental en la vida real de su familia le sorprende.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/HgbKrAYJIIM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/o1JRpw0JzLUxA8"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/l6lko98lbzgm3g"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/xjq1slaeyi2a"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/hqkcn0shud9d"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/6av62c27mpd7"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/9up6m38ow45o"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/y1r5dtexg48xz70"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Qapo5XNgkffh8xfJg-XV4-QHYZ_sSYu9/view"}</urlsolve>
+</item>
+
+
+
 
 <item>
 <title>[COLOR white] La infeliz [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.3[/COLOR]</title> 
