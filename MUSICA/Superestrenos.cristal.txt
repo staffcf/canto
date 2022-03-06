@@ -4,6 +4,19 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 
+
+
+<item>
+<title>[COLOR white] El contador de cartas [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.4[/COLOR]</title> 
+<genre>Drama,Crimen,Suspense</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/vZeUGzmkoTM0tZF6vGryi1gdDtd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/r7dJqfmspzVlHYWXBiKn7NP8ZBw.jpg</fanart>
+<info>William Tell (Oscar Isaac) es un exmilitar y jugador profesional de póker. Su meticulosa vida se trastoca cuando se le acerca Cirk, un joven que busca ayuda en Tell para ejecutar su plan de venganza contra un coronel militar.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ilsHRhu6XDM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/Bz8Xw24gykhyapB"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/9nzjgm4ntgd1m0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/7gelwemtcsxd"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/87981tgnavmg"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/gtt4qhu4cpyr"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/xlzgjyseubhi"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/0d6j7cl22lnp3mr"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1vOe_oyiVnrV8FvFvT6NiMfvJO3PtVAhQ/view"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Margrete reina del norte [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.3[/COLOR]</title> 
 <genre>Historia,Drama</genre>
