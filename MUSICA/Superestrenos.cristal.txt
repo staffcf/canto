@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Margrete, La reina del norte [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.3[/COLOR]</title> 
+<genre>Historia,Drama</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/zYP2Scxw0PQSuTUZqBWIfxgHHCP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iclsTzHaof6TaotkFjvHfmdwiT6.jpg</fanart>
+<info>La producción danesa más cara de la historia es este drama histórico ambientado a principio del siglo XV, una historia de poder, intrigas y juego político con una impresionante ambientación y unas no menos espectaculares actuaciones.Aunque con algunas libertades narrativas (no se puede saber con certeza qué ocurrió tras las puertas del castillo de Kalmar hace más de 600 años), la película narra los hechos ocurridos en el año 1402, cuando la reina Margrete de Dinamarca, que había conseguido unir a las monarquías nórdicas de Noruega, Suecia y Dinamarca en un estado conocido como Unión de Kalmar, ve cómo la paz y la estabilidad de los pueblos nórdicos está amenazada por los alemanes.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/JfjI-D335U4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/Q3Z8X2ebk6C066J"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/6qjkepe0tpnp8z"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/mhzmz56zb2qj"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/yjsoq69k3h8e"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/08a33yrfidtq"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/q4xpm5vdfhx6"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/g51ndt-884n5ep8"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1laQXjaYJ3Zw2kSW7TdDcP82sXOgXPQhP/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] El hilo invisible [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.8[/COLOR]</title> 
 <genre>Comedia,Drama</genre>
 <year>2022</year>
