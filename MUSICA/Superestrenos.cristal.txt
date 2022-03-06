@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] El bucle de Latham [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.0[/COLOR]</title> 
+<genre>Drama,Misterio</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/vfpplWAbl50qHU1sO2C6Kd1lv6M.jpg</thumbnail>
+<fanart>https://i.imgur.com/PbvnD3F.jpg</fanart>
+<info>Marcos hereda una casa de un padre que nunca conoció. Esta herencia le hará conocer un pasado que ignora por completo. A medida que descubre problemas familiares no resueltos, todo comienza a volverse confuso.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/vKg24G0qbGM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/ApYZoQpYyBUv6p"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/7r1lmjwpu4w4m"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/6ng0nfbypxr0"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/061ivqpfussd"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/6nd0t3lw65ft"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/gm1quuuskpic"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/l86x2cn674835me"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/15tGAIa10enUua2fh7y4s58N5ejth_Oci/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Core y dispara [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.0[/COLOR]</title> 
 <genre>Acción,Suspense</genre>
 <year>2022</year>
