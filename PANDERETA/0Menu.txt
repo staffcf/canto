@@ -3741,6 +3741,14 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 <fanart>https://www.themoviedb.org/t/p/original/aGuX4z8FPiC9oObQWXRai7TTtej.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR gold]* [COLOR white]Star Trek Picard[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Star.trek.picard</externallink>
+<info>Serie ambientada 18 años después de la última aparición de Jean-Luc Picard en "Star Trek: Nemesis", y encuentra al personaje profundamente afectado por la destrucción de Romulus como se muestra en la película "Star Trek" (2009).</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/qGrHmHbMvodVTyxRDIxljyg4f4T.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1Ub0dpudjYZzKKBh3jw5PMLczmn.jpg</fanart>
+</item>
 
 <item>
 <title>[COLOR gold]* [COLOR white]Star Wars: La Remesa Mala[COLOR white][/COLOR]</title>  
