@@ -4,6 +4,19 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 
+
+<item>
+<title>[COLOR white] La infeliz [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.3[/COLOR]</title> 
+<genre>Comedia,Romance</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/1qP4A0ivvWzGJjeOkQ7tBHW1eOE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/w9NlKdnCdCjz46YmCHoKOQStI9n.jpg</fanart>
+<info>Leyla, una treintañera con el corazón roto y en el paro, decide reinventarse a sí misma y buscar la felicidad mientras su familia se empeña en buscarle novio.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/OaRx991mp0o"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/6q12kwrK3ZT93aA"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/dqvpwpkwc9vgg7"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/x6vt3knj7j83"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/mqi9ciz986hq"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/65tvphokr0ux"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/q6mzsnj5ltyi"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/l86x2cn67m-2476"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1MgWBo3TYpnTYMBjQgA-wY82xdWiUmAPK/view"}</urlsolve>
+</item>
+
+
+
 <item>
 <title>[COLOR white] El bucle de Latham [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.0[/COLOR]</title> 
 <genre>Drama,Misterio</genre>
