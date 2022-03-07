@@ -23,6 +23,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]11 M [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/11m</externallink>
+<info>Supervivientes y expertos analizan el atentado terrorista de Madrid del 11 de marzo de 2004, desde la crisis política que desencadenó hasta la búsqueda de los culpables.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/jLAJ6w1dtTz8cosvDh8lHMFLdEN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yn0NWzynRGvgNnT7hhPV8Vbnip.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]22 De Julio[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/22.de.julio.txt</externallink>
@@ -284,6 +293,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Avicii True Stories [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Avicii.true.histories</externallink>
+<info>Documental que sigue los pasos del famoso DJ desde sus comienzos hasta sus éxitos mundiales, y su posterior lucha contra la enfermedad. True Stories, que incluye comentarios de compañeros artistas como Tiesto, David Guetta y Nile Rodgers, es un testimonio de investigación acerca del coste y la intensa presión que supone la fama para los artistas.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/wLUMbMGCvc4YxhWzJBnhdgO1tSw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eiBXqcjxrw9osXatNfqTGmibhTC.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Away[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Away.xml</externallink>
@@ -470,6 +488,16 @@
 <info>3 temporadas. 27 episodios. Relata el intento del ejércio imperial romano de conquistar las salvajes tierras británicas dominadas por clanes y druidas. Es el año 43 a.C. y Kerra (Reilly), la hija del rey de los Cantii, se ve forzada a dejar a un lado sus diferencias con su archi enemiga, la reina Antedia (Wanamaker) para combatir juntas a los invasores. Los romanos, liderados por el General Aulus Plautius (Morrisey), llegan con la determinación de triunfar donde Julio César fracasó, y conquistar esta tierra mítica en los límites del Imperio Romano. Aulus es un líder fuerte, pero esconde un oscuro secreto que amenaza su misión. Mientras las tribus y los druidas se unen para combatir a los romanos, Kerra se enfrenta al mayor reto de su vida como líder de la resistencia.</info>
 <thumbnail>https://i.imgur.com/SWtCMYw.jpg</thumbnail>
 <fanart>https://i.imgur.com/YRqQO5M.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Bruce Springsteen Memorias [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Bruce.springsteen.memorias</externallink>
+<info>Bruce Springsteen, 'The Boss', lleva en la carretera desde finales de la década de 1960 y ha vendido más de 160 millones de discos en todo el mundo. A lo largo de todos estos años ha sido el responsable de muchas de las canciones preferidas de varias generaciones de fans y de algunas de las más aclamadas por la crítica musical. Éstas son sus memorias.
+Con material de archivo procedente de películas caseras y grabaciones de sus primeras actuaciones en el Greenwich Village de Nueva York, esta historia ofrece una imagen única y llena de matices de un Bruce Springsteen con una personalidad magnética y absorbente.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/b8SZrJH3Sv1VyxKLgtAfOBuO2Xk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yTbLCky8MAqe4PuFiFSykKh9zAQ.jpg</fanart>
 </item>
 
 <item>
@@ -662,6 +690,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Connor MacGregor The Notorious [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Connor.macgregor</externallink>
+<info>En el deporte de más rápido crecimiento en el mundo, un irlandés de Crumlin está a punto de convertirse en su próxima superestrella mundial.  Este documental especial se adentra en el mundo de alto riesgo de la UFC mientras sigue a 'The Notorious' Conor McGregor durante los seis meses más importantes de su carrera como luchador.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/2nw0XGeKGsjleLp86SIyNV4Wa49.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8O7yXvNAdeAZ9hlwxreE1P88hcB.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Conquistadores Adventvm[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Conquistadores.Adventvm</externallink>
@@ -740,6 +777,15 @@
 <info>Siguiendo la estela de Crepúsculo y True Blood, narra la historia de una adolescente que se enamora de dos hermanos vampiros (uno bueno y otro malo), que se disputan el alma de la chica y la de sus amigos y familiares.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/rKNnzmOA1REgxODY5wVe5UEr70w.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/cJYLon9ejKJV7ua03ab8Tj9u067.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Cuando Figo Volvio Al Camp Nou [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Cuando.figo.volvio.al.camp.nou</externallink>
+<info>El 21 de octubre se cumplen 20 años de la vuelta de Figo al Camp Nou con la camiseta del Real Madrid. La marcha del portugués creó un gran trauma en la afición azulgrana, que le tenía como uno de sus mayores ídolos. La historia de desamor tuvo su punto</info>
+<thumbnail>https://i.imgur.com/97BKEMQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/Eir0DRc.jpg</fanart>
 </item>
 
 <item>
@@ -1610,6 +1656,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Freddy Mercury The Great Pretender [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Freddy.mercury.the.great.pretender</externallink>
+<info>Freddie Mercury: The Great Pretender es un galardonado Emmy / Rose d'Or 2012 documental sobre el cantante de Queen Freddie Mercury y su intento de forjar una carrera en solitario.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/8UNZjJfh9SOYK8yBACfLpU9z6ao.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/k4uh2jcZKgiPFbrbCeK45fBHOnk.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Freud[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Freud.txt</externallink>
@@ -1877,6 +1932,24 @@
 <info>Serie de TV (2020-Actualidad). 2 temporadas. Primera temporada: 8 episodios. Jackie Quiñones (Monica Raymund) es una atormentada agente del Servicio Nacional de Pesca, adicta al alcohol y las drogas, que ve cómo su vida se complica al descubrirse un cadáver en la bahía, en lo que parece ser otra víctima de la epidemia de drogas que asola la zona de Cape Cod.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/kR46u9HNJJSe2yXrw9mfU8z4Oyz.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jBXk5dPH9JJMwabbIdbuyv2bMIk.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]I Am Bolt [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/I.am.bolt</externallink>
+<info>Documental sobre la historia de Usain Bolt, su vida y los problemas que superó por completo, para llegar a ser el hombre más rápido en la historia.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/ak7IufApenKjfbe2Xbg0NsuPPRa.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yw0exjFMEMROAD5Xrrp32GM0gjw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Ibañez [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Ibanhez</externallink>
+<info>La vida y obra del legendario Francisco Ibáñez, brillante dibujante, creador de Mortadelo y Filemón y de muchos otros personajes a través de los cuales ha retratado la sociedad española durante más de siete décadas, con humor salvaje, sutil crueldad y mucha ternura.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/xoC52S7IcTP7KYSyqpWqQP0KUIo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/j6q4lhYEb54eNMqQLXpUaVjTqPS.jpg</fanart>
 </item>
 
 <item>
@@ -2787,6 +2860,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Michael Robinson Good Better Best [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Michael.robinson</externallink>
+<info>La edición de Informe Robinson más especial en sus trece años en la plataforma: un reportaje dedicado íntegramente a la figura de su presentador Michael Robinson, fallecido el 28 de abril del 2020 a los 61 años tras una dura batalla contra el cáncer.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/kEsMUeg2Yj36WysVjT5iCFt8k6G.jpg</thumbnail>
+<fanart>https://i.imgur.com/moWq73v.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Mindhunter[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Mindhunter.xml</externallink>
@@ -2982,6 +3064,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 <info>Serie de TV (2021). 8 episodios. Lisa Nova, una aspirante a directora de cine en el Los Ángeles de 1990, se embarca en un viaje de venganza sobrenatural que se le va de las manos.</info>
 <thumbnail>https://i.imgur.com/xCDOOEX.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/8zlzJ8sSXsn2Xiq3vVwkyGUXMSj.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Odio De Dani Rovira [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Odio.de.dani.rovira</externallink>
+<info>Sobre el escenario del Teatro del Soho de Málaga, el actor Dani Rovira aporta su visión más sincera, delirante y sin filtros sobre el ser humano en estos tiempos.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/d7rumAlTcFuNdqolUQDH9ZdjQcA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/grsvxOWsRVmlp0mgAuZLC5Tg3pi.jpg</fanart>
 </item>
 
 <item>
@@ -3306,6 +3397,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 <info>El descubrimiento de una conexión entre el asesinato de un ladrón de poca monta y la muerte de un contable corrupto, despierta el interés del periodista de investigación Terry Corcoran. Las nuevas indagaciones le conducen a un sórdido escándalo relacionado con el tráfico de personas, las altas finanzas y la política de alto riesgo en esta explosiva serie de televisión irlandesa.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/tLrtD7rC0hpR0II14bnC4mXG9uO.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/IHwU6H1NlrWmrmj5WtrlaqNDaM.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Puyol Mas Que Un Capitan [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Puyol.mas.que.un.capitan</externallink>
+<info>Carles Puyol se retira como el mejor capitán de la historia del Barça y el que más títulos ha levantado, 21. Pero es mucho más que eso: es integridad, lealtad, esfuerzo, nobleza. Cada uno de sus actos es un ejemplo para sus compañeros, rivales y afición</info>
+<thumbnail>https://i.imgur.com/vkLWB3p.jpg</thumbnail>
+<fanart>https://i.imgur.com/ZIVtVjI.jpg</fanart>
 </item>
 
 <item>
