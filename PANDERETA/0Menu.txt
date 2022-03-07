@@ -68,15 +68,6 @@
 </item>
 
 <item>
-<title>[COLOR gold]* [COLOR white]Al Otro Lado Del Instituto[COLOR white][/COLOR]</title>  
-<link>cristalazul</link>
-<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Al.otro.lado.del.instituto</externallink>
-<info>Inspirada en las obras de R. L. Stine, «Al otro lado del instituto» es una serie antológica de 8 episodios que narra historias increíbles que nos harán reflexionar sobre una realidad que está al otro lado de la que conocemos. Cada episodio les presenta a los espectadores un nuevo elenco de personajes que han de adentrarse en una sorprendente aventura de autodescubrimiento en un mundo sobrenatural de brujas, alienígenas, fantasmas y universos alternativos.</info>
-<thumbnail>https://i.imgur.com/UoYMZ8F.jpg</thumbnail>
-<fanart>https://i.imgur.com/EwoOrh8.jpg</fanart>
-</item>
-
-<item>
 <title>[COLOR gold]* [COLOR white]Adele[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Adele.xml</externallink>
@@ -92,6 +83,15 @@
 <info>Serie de TV (2019-2022). 3 temporadas. 18 episodios. Tony llevaba una vida perfecta. Pero tras el repentino fallecimiento de su esposa, en vez de suicidarse decide llevar al límite lo que se puede o no hacer y empieza a hacer y decir todo lo que le da la gana. Algo que será complicado cuando todo el mundo decide intentar salvar a la buena persona que conocían.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/6eJf4h9XcvqK64vbx27EFlLVURm.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/vIU5RpxJFPqM6poPBCLfBvSDwqc.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Al Otro Lado Del Instituto[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Al.otro.lado.del.instituto</externallink>
+<info>Inspirada en las obras de R. L. Stine, «Al otro lado del instituto» es una serie antológica de 8 episodios que narra historias increíbles que nos harán reflexionar sobre una realidad que está al otro lado de la que conocemos. Cada episodio les presenta a los espectadores un nuevo elenco de personajes que han de adentrarse en una sorprendente aventura de autodescubrimiento en un mundo sobrenatural de brujas, alienígenas, fantasmas y universos alternativos.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/guT5qPGQOhvA5A4dAaEaFzj0oNN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3blhBgryGG9iIw0eSeo2xtXsiXB.jpg</fanart>
 </item>
 
 <item>
@@ -1197,15 +1197,6 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
-<title>[COLOR gold]* [COLOR white]El Ferrocarril Subterraneo[COLOR white][/COLOR]</title>     
-<link>cristalazul</link>
-<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.ferrocarril.subterráneo.txt</externallink>
-<info>Serie de TV (2020). 10 episodios. Cora es una joven esclava de una plantación de algodón en Georgia. Abandonada por su madre, vive sometida a la crueldad de sus amos. Cuando César, un joven de Virginia, le habla del ferrocarril subterráneo, ambos deciden iniciar una arriesgada huida hacia el Norte para conseguir la libertad. El ferrocarril subterráneo convierte en realidad una fábula de la época e imagina una verdadera red de estaciones clandestinas unidas por raíles bajo tierra que cruzan el país. En su huida, Cora recorrerá los diferentes estados, y en cada parada se encontrará un mundo completamente diferente, mientras acumulan decepciones en el transcurso de una bajada a los infiernos de la condición humana. Aun así, también habrá destellos de humanidad que le harán mantener la esperanza... Adaptación de la aclamada novela de 2017 "El ferrocarril subterráneo" escrita por Colson Whitehead, por la que recibió el Premio Pulitzer 2017 y el National Book Award.</info>
-<thumbnail>https://i.imgur.com/Qfh5Czu.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/kUVhAaBlpy98WIdvqjuzMNyKMVi.jpg</fanart>
-</item>
-
-<item>
 <title>[COLOR gold]* [COLOR white]El Equipo A [COLOR gold]Retroserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.equipo.A.retroserie</externallink>
@@ -1230,6 +1221,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 <info>Miniserie documental de seis episodios. En 1994 el español Pablo Ibar es arrestado y sentenciado a muerte por un triple asesinato ocurrido en el sur de Florida. El atroz crimen es recogido por una cámara de seguridad oculta en una estantería de la vivienda donde se produjeron los hechos. En las imágenes se puede ver a dos personas perpetrando a sangre fría los asesinatos. El parecido de uno de los asesinos con Pablo Ibar sirve para sentarlo en el banquillo de los acusados, aunque la baja calidad de las imágenes impide asegurar que sea él. En 2016 y tras 16 años en el corredor de la muerte, los abogados de Ibar consiguen reabrir el caso alegando numerosas irregularidades durante el proceso además de la debilidad e inconsistencia de las pruebas. De nuevo en la casilla de salida, Pablo Ibar se prepara para un nuevo juicio en el que la fiscalía continúa pidiendo para él la pena máxima. Esta será su última oportunidad.</info>
 <thumbnail>https://i.imgur.com/28dYSEX.jpg</thumbnail>
 <fanart>https://i.imgur.com/I8ceKgt.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]El Ferrocarril Subterraneo[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.ferrocarril.subterráneo.txt</externallink>
+<info>Serie de TV (2020). 10 episodios. Cora es una joven esclava de una plantación de algodón en Georgia. Abandonada por su madre, vive sometida a la crueldad de sus amos. Cuando César, un joven de Virginia, le habla del ferrocarril subterráneo, ambos deciden iniciar una arriesgada huida hacia el Norte para conseguir la libertad. El ferrocarril subterráneo convierte en realidad una fábula de la época e imagina una verdadera red de estaciones clandestinas unidas por raíles bajo tierra que cruzan el país. En su huida, Cora recorrerá los diferentes estados, y en cada parada se encontrará un mundo completamente diferente, mientras acumulan decepciones en el transcurso de una bajada a los infiernos de la condición humana. Aun así, también habrá destellos de humanidad que le harán mantener la esperanza... Adaptación de la aclamada novela de 2017 "El ferrocarril subterráneo" escrita por Colson Whitehead, por la que recibió el Premio Pulitzer 2017 y el National Book Award.</info>
+<thumbnail>https://i.imgur.com/Qfh5Czu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kUVhAaBlpy98WIdvqjuzMNyKMVi.jpg</fanart>
 </item>
 
 <item>
@@ -2623,6 +2623,15 @@ En paralelo a la serie, Enrique Urbizu realizó un montaje para cines en formato
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Los Secretos De Sulphur Springs[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Los.secretos.de.sulphur.springs</externallink>
+<info>Griffin Campbell, de 12 años, y su familia se trasladan a la pequeña ciudad de Sulphur Springs y se hacen con la propiedad de un hotel abandonado del que se rumorea que está embrujado por el fantasma de una niña que desapareció hace décadas. Griffin se hace amigo de Harper, una compañera de clase de ojos brillantes y obsesionada con el misterio, y juntos descubren un portal secreto que les permite viajar en el tiempo. En el pasado, intentarán descubrir la clave para resolver este misterio sin resolver, un misterio que afecta a todos sus allegados.</info>
+<thumbnail>https://www.themoviedb.org/tv/114547</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gqSVaxzgWVZwYxDne06YAdhpbA1.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Los Ultimos Asesinatos De Agatha Christie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Los%20ultimos.asesinatos.de.Agatha.Christie</externallink>
@@ -3154,6 +3163,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 <info>Miniserie de TV (2019). 10 episodios. Miniserie de TV sobre los hechos que conllevaron la escalada de violencia en Gaza en 2014. Tres adolescentes judíos fueron secuestrados y asesinados por militantes de Hamas durante el verano de 2014 y, en respuesta, se asesinó al palestino Muhammad Abu Khdeir, de 16 años. Esta cadena de acontecimientos cambió las vidas de muchas personas. </info>
 <thumbnail>https://i.imgur.com/dWlIf86.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/dsWM7CwA9uQ7c4Oc9y8ZH5KWoQE.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Outlander[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Outlander</externallink>
+<info>Sigue la historia de Claire Randall, una enfermera de combate casada en los años 40, que misteriosamente es arrastrada atrás en el tiempo hasta 1743, donde se lanza de inmediato a un mundo desconocido, viéndose amenazada su propia vida. Cuando se ve obligada a casarse con Jamie Fraser, un joven guerrero escocés caballeroso y romántico, Claire comienza un pasional triángulo entre dos hombres muy diferentes con dos vidas irreconciliables.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/wwxKbrMlwMrC06B7aCIkDy3SAo6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/x8KSQGSccPpcU5ffyfF7u62gPAK.jpg</fanart>
 </item>
 
 <item>
