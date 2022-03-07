@@ -6,6 +6,18 @@
 
 
 <item>
+<title>[COLOR white] Querido Evan Hansen [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.4[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/vhkBAcAmQRkyzmmbAcG3OjLdBq8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3hvHSPhFq4tAQydpnbXm8TvVrh8.jpg</fanart>
+<info>Una carta que nunca debió ser vista, una mentira que nunca debió ser contada, una vida que nunca soñó que pudiera tener. Evan Hansen está a punto de obtener lo que siempre ha querido: una oportunidad para finalmente encajar.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/irFUMHjDPWs"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/opYM7RG2PjfJ6x9"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/l6lm97o9cq11dx9"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/o3p5to7ztsbe"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/vet2zh0ync1h"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/iedditao703r"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/9gh8dr6sfjn3"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/em4n6s-777pg-2z"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Nf0gYl9KSUfvsgJG04TjaWZfzK7c3TdA/view"},{"titulo" : "[COLOR white]Drive 4K Dolby Vision [/COLOR]","url" : "https://drive.google.com/file/d/14n6P1vO4FHALizSIDMRvemtLm9mVsBfT/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Gold [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.5[/COLOR]</title> 
 <genre>Suspense,Acción</genre>
 <year>2022</year>
