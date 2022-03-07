@@ -1026,6 +1026,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El Atleti Del Doblete [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/El.atleti.del.doblete</externallink>
+<info>Después de dos temporadas coqueteando con el descenso, el At Madrid afronta el curso 95/96 con Radomir Antic como nuevo entrenador y una limitada inversión en fichajes, alguno de ellos completamente desconocido para el aficionado español. Con estos mimbres, la entidad rojiblanca se suma al reducido club de elegidos, aquellos que han conseguido en una misma temporada los dos títulos más importantes del fútbol español.</info>
+<thumbnail>https://i.imgur.com/97BKEMQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/FiuKZeq.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El Baile De Las Luciernagas[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.baile.de.las.Luciernagas.txt</externallink>
@@ -1176,6 +1185,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 <info>El equipo ciclista profesional Movistar Team quiere hacerse con la victoria. Pero la carrera está llena de retos, polémicas y conflictos internos.</info>
 <thumbnail>https://i.imgur.com/hjxrpw5.jpg</thumbnail>
 <fanart>https://i.imgur.com/bIOKJHb.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]El Drogas [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/El.drogas</externallink>
+<info>En los años 80, el músico Enrique Villarroel tiene una visión: va a crear un grupo que se va a llamar Barricada. 30 años más tarde, y tras una carrera llena de éxitos, Villarroel abandona el grupo, acusando a sus compañeros de querer echarle. Por si esto fuera poco, la madre del artista acaba de ser diagnosticada con alzhéimer. Lejos de desanimarse, el artista adopta un nuevo nombre, "El Drogas", con una misión en mente: volver a triunfar en el mundo de la música, esta vez en solitario. El documental, dirigido por Ignacio Leuza, trata de encontrar el lado personal e íntimo que se esconde tras la vida profesional del intérprete.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/kA9MylzwD3Q5ZUYUX9rYcjer1iK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kNBHWxlaUIkBcujr6KpRlMTJvJ3.jpg</fanart>
 </item>
 
 <item>
@@ -1566,6 +1584,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Eso Que Tu Me Das [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Eso.que.tu.me.das</externallink>
+<info>En 2015 al cantante Pau Donés de Jarabe de Palo le diagnostican un cáncer contra el que lucha durante 5 años. Veinte días antes de morir llama a su amigo Jordi Évole desde el hospital, y le dice: "Me quedan muy poquitos días de vida y quiero pasarlos en mi casa de la Vall d'Aran. Me gustaría que subieses, pudiésemos tener una charla, que la grabes y hagas con ella lo que quieras". Eso que tú me das es el resultado de esa charla.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/9ce7nx1un8VoE7kJqFDfezubUw3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vuRJr8rZmWjseJXVkDOzSszioUg.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Estacion 11[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Estacion.once</externallink>
@@ -1905,6 +1932,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 <info>Heroes Reborn se centrará en una nueva generación de superhéroes que irán descubriendo sus diferentes habilidades extraordinarias a medida que se van desarrollando los acontecimientos. Se trata del mismo preámbulo que tenía lugar en la primera temporada de la serie original. Esta nueva etapa seguirá a los nuevos y viejos personajes en una batalla épica entre las fuerzas del bien y las fuerzas del mal. Se trata de la secuela de Heroes, serie de éxito que estuvo en antena en NBC entre 2006 y 2010 con un total de cuatro temporadas. 'Heroes Reborn' contará de nuevo con Tim Krink como creador y tendrá su propio \'spin off\' online en el que se presentarán a los nuevos personajes.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/63dqSCyfnGaA6FmiObYuccg0pHA.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/uPoPcVwRbHG34p0VwzGQ4aXb8n2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Heroes Silencio Y Rock And Roll [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Heroes.silencio.y.rock.roll</externallink>
+<info>La historia del exitoso ascenso al estrellato de Héroes del Silencio, seminal banda de rock española de los años ochenta, liderada por Enrique Bunbury.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/zDUtJIr4lPeMnF7vXHyAqCXkR4s.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hl02jzJ80MozdW71Naf5Ee2881n.jpg</fanart>
 </item>
 
 <item>
@@ -2760,6 +2796,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Marvel Detras De La Mascara [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Marvel.detras.de.la.mascara</externallink>
+<info>Un documental especial que explora el poder de la identidad detrás de los superhéroes icónicos que conocemos y amamos hoy. Estas creaciones e historias legendarias de Marvel no solo han reflejado el mundo fuera de nuestra ventana, se han convertido en un reflejo de nuestras propias identidades y quiénes somos realmente.</info>
+<thumbnail>https://www.fembed.com/v/p1nm3umqg1dw1yk</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dVokiRQdxJdklFk2RONGZIQBN7j.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Marvel Loki[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Marvel.loki.txt</externallink>
@@ -3400,6 +3445,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]PSG Ciudad De La Luz [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Psg.la.ciudad.de.luz</externallink>
+<info>PSG Ciudad de la luz, 50 años de legenda te adentrará en el día a día del París Saint-Germain, el club más laureado de Francia, al final de la temporada 2019/20 afectado por el Covid-19 y con una carrera heroica en la Liga de Campeones. Junto con Mbappé, Neymar, Kimpembe, Thiago Silva, Marquinhos y todo el equipo, esta película es retrato íntimo, sensible y poderoso de estas estrellas del fútbol.</info>
+<thumbnail>https://www.themoviedb.org/tv/110225</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4JnPtRh4KkZdgNqrtHHW4fjOtEM.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Puyol Mas Que Un Capitan [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Puyol.mas.que.un.capitan</externallink>
@@ -3608,21 +3662,30 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 </item>
 
 <item>
-<title>[COLOR gold]* [COLOR white]El Turista[COLOR white][/COLOR]</title>     
-<link>cristalazul</link>
-<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.turista</externallink>
-<info>Cuando un hombre se despierta en el interior de Australia sin memoria, debe usar las pocas pistas que tiene para descubrir su identidad antes de que su pasado lo alcance.</info>
-<thumbnail>https://www.themoviedb.org/t/p/original/sxZHAk74Oq0Uxh5KLJGo1u133SU.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/9zky6V388S5fI98rrVyqSbCQ2wW.jpg</fanart>
-</item>
-
-<item>
 <title>[COLOR gold]* [COLOR white]Roadkill[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Roadkill.txt</externallink>
 <info>Serie de TV (2020). 4 episodios. Peter Laurence (Hugh Laurie) es un político hecho a sí mismo, energético y carismático, que ocupa un alto cargo en el gobierno conservador del Reino Unido. Pero su vida pública y privada se está cayendo a pedazos o, más bien, sus enemigos están intentando hacerle caer. Cuando comienzan a aparecer historias comprometedoras suyas, Peter, con una vergonzante falta de culpabilidad o remordimiento, echa a caminar por la cuerda floja que separa la ruina de la gloria. Mientras todos tratan de hundirlo, él intentará culminar sus propios planes. Sin embargo, los acontecimientos dejarán claro lo difícil que resulta dejar atrás el pasado, tanto para el ciudadano de a pie como para una nación. </info>
 <thumbnail>https://i.imgur.com/YeCnUbf.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/uoUSXKSBPgrp1Z3v5ztzp1H7Pdl.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Ronaldinho El Mago Fugaz [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Ronaldinho.el.mago.fugaz</externallink>
+<info>Ronaldinho es sinónimo de sonrisa, de alegría, de fiesta. De ser feliz y hacer felices a los demás. Cuando el Barcelona fichó al brasileño, en el verano de 2003, los azulgrana estaban pasando por momentos complicados. Ronaldinho, con su fútbol y su manera de ser, transformó el club. Dos ligas, una Champions, un Balón de Oro y varias noches para la historia forman parte de su legado. Frank Rijkaard, Leo Messi o Sandro Rosell son también personajes fundamentales de aquel lustro inolvidable por su relación con Ronaldinho. Pero esa historia de amor fue, tal vez, demasiado corta. Cinco temporadas de azulgrana, las dos últimas cuestionado. Después, varias experiencias en diferentes equipos y un periplo vital que le llevó a una cárcel de Paraguay. Ronaldinho estaba llamado a marcar una época, pero no lo hizo. ¿Duró demasiado poco? ¿O, simplemente, eligió vivir a su manera?</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/s5gmKhHFWdIaoTzxiriCtZBHDTr.jpg</thumbnail>
+<fanart>https://i.imgur.com/gRTR5fR.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Ruiz Mateos El Primer Fenomeno Viral [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Ruiz.mateos.el.primer.fenomeno</externallink>
+<info>La fascinante vida del empresario que levantó dos imperios, se enfrentó al Estado y protagonizó una de las mayores estafas de nuestra historia.</info>
+<thumbnail>https://www.themoviedb.org/tv/138341</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 </item>
 
 <item>
@@ -3902,6 +3965,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 <info>Serie de TV (2016-Actualidad). Homenaje a los clásicos misterios sobrenaturales de los años 80, "Stranger Things" es la historia de un niño que desaparece en el pequeño pueblo de Hawkins, Indiana, sin dejar rastro en 1983. En su búsqueda desesperada, tanto sus amigos y familiares como el sheriff local se ven envueltos en un enigma extraordinario: experimentos ultrasecretos, fuerzas paranormales terroríficas y una niña muy, muy rara... </info>
 <thumbnail>https://i.imgur.com/MZUrpsv.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/8zbAoryWbtH0DKdev8abFAjdufy.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Sudafrica 2010 [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Sudafrica2010</externallink>
+<info>"Diez años después de nuestra estrella" es un relato con imágenes inéditas sobre el título más importante del fútbol español. Durante 30 días, la Selección sufrió y ganó en Sudáfrica su primera Copa del Mundo y una cámara fue su sombra. Una década después, los protagonistas ven y recuerdan cómo fueron todos esos momentos.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/oR3600qxhbNEz54PYmEY8v4lfUW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vEM26yALwbKayVcR5STOLrOtMPb.jpg</fanart>
 </item>
 
 <item>
@@ -4537,6 +4609,15 @@ Ruawai Maaka consiguen deshacerse del demonio y así nace la Unidad Paranormal d
 <info>Sigue las historias de los hermanos Díaz, Lily y Jorge, quienes tienen la misión de encontrar el amor y un propósito en su vida. Mientras lo hacen, se encontrarán con residentes aparentemente sin parentesco durante algunos de los días más intensos del año: las vacaciones</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/qVPwlroqBpcMD0pj3OncMZtsNlB.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/eYBn1gWyHKnZusL40Vu9Po5jPKb.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Whitney [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Whitney</externallink>
+<info>Whitney Houston (1963-2012) rompió más récords en la industria musical que ninguna otra cantante en la historia. Con más de 200 millones de álbumes vendidos en todo el mundo, fue la única artista en conseguir siete números 1 consecutivos en los Estados Unidos. Protagonizó varias películas taquilleras antes de que su brillante carrera diera paso a comportamientos erráticos, escándalos y a su muerte repentina a los 48 años. "Whitney" es un retrato auténtico, íntimo y sincero de la artista y su familia, que sondea más allá de titulares sensacionalistas y arroja luz a la fascinante trayectoria de la vida de Houston. Usando material de archivo inédito, grabaciones exclusivas, actuaciones insólitas, archivos de audio y entrevistas originales con las personas que mejor la conocieron, el ganador del Oscar Kevin Macdonald desentraña el misterio detrás de "The Voice", quien emocionó a millones de personas y luchó por hacer las paces con su problemático pasado.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/vhjHbVoGxjUXDxSlttGgayDw7MR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yuQ87BG3qefAyiPcEPFs86YTl36.jpg</fanart>
 </item>
 
 <item>
