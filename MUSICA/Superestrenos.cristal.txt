@@ -5,6 +5,17 @@
 =======================================================================================
 
 
+<item>
+<title>[COLOR white] Gold [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.5[/COLOR]</title> 
+<genre>Suspense,Acción</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/ejXBuNLvK4kZ7YcqeKqUWnCxdJq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yzH5zvuEzzsHLZnn0jwYoPf0CMT.jpg</fanart>
+<info>Cuando dos hombres que viajan por el desierto descubren el pedrusco de oro más grande que han visto en su vida, empiezan a soñar con la riqueza que les traerá, pero la avaricia toma las riendas. Tienen que extraer el oro de la tierra y para ello trazan un plan en el que uno de ellos tiene que ir a por el equipo necesario y el otro se tiene que quedar allí solo a su suerte.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/9UHxMBhFy88"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/2z4AwR0pVbUQaA"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/vnd0qowqc6e1pe"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ji9grd866ue4"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/wjuh0qf6keif"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/z6he0lam763e"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/snpzpeg33vb0"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/wrn56in3347px1r"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1c-wzpQA_VqEZ1V4LkaBr5DbK3HKV45po/view"}</urlsolve>
+</item>
+
+
 
 <item>
 <title>[COLOR white] El contador de cartas [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.4[/COLOR]</title> 
