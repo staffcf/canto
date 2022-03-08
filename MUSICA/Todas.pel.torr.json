@@ -5368,7 +5368,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			"stations": [
 				{
 				"torrent": "https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Torrents/Films2/Resident.Evil-Bienvenidos.a.Raccoon.City.-2021.-.1080x265.-.CristalAzul.mkv.torrent",	magnet:?xt=urn:btih:61A1AC01CF2729AFD9A48EE003BA2F6E8588B4CB&dn=HD1080	
-				"torrent4k": magnet:?xt=urn:btih:76A94260BE6391E5BB0E82112FDDD7EC9A736EF0&dn=UHDRip"	
+				"torrent4k": "magnet:?xt=urn:btih:76A94260BE6391E5BB0E82112FDDD7EC9A736EF0&dn=UHDRip"	
 				}		
 			]
 			},
@@ -5803,7 +5803,7 @@ Title:UPS!, SagaID:Uuups, Imagen:https://www.themoviedb.org/t/p/original/2Y85qX5
 			]
 			},
 			{
-			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Terror, 1Thriller, A2021, Letra T, Pais, ",
+			"tag": " 0Peliscristal, 1Torrentcristal, 1Torrent4k, 1Terror, 1Thriller, A2021, Letra T, EEUU, ",
 			"name": "The Beta Test (2021)","coloryear": "cyan",
 			"image": "https://www.themoviedb.org/t/p/original/nyrrWazTjclIrGKlDThajJF5xuS.jpg",
 			"info": "Un agente de Hollywood casado recibe una misteriosa carta para un encuentro sexual anónimo y se ve envuelto en un mundo siniestro de mentiras, infidelidad y datos digitales",
