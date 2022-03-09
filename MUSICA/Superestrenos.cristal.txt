@@ -6,6 +6,18 @@
 
 
 <item>
+<title>[COLOR white] Desperate Riders [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.8[/COLOR]</title> 
+<genre>Western,Acción</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/7pYYGm1dWZGkbJuhcuaHD6nE6k7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lXicAUySdt7O6WKSUSsrjWxBBdX.jpg</fanart>
+<info>Después de que Kansas Red rescata al joven Billy de un tiroteo en un juego de cartas, el niño le pide ayuda a Red para proteger a su familia del forajido Thorn, que acaba de secuestrar a la madre de Billy, Carol. Mientras Red y Billy cabalgan para rescatar a Carol, se encuentran con la hermosa y dura Leslie, que logró escapar de los hombres de Thorn. Los tres corren para detener la boda de Thorn con Carol con las armas encendidas, pero ¿ella quiere ser rescatada?<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/5ribxheJCUo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/JW60o1aBQdsjdY0"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/vnd08k0vfnl1z7"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/p3q73d5zm25i"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/q6yn9d1md7cp"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/gh1cvxzma34z"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/rb4euuz2ojyn"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/42njphzdrejgg58"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/147G46LhQPwWtZX2NnWUdCLou_TP4FJkC/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Querido Evan Hansen [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.4[/COLOR]</title> 
 <genre>Drama</genre>
 <year>2021</year>
