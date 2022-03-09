@@ -1971,6 +1971,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Homecoming[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Homecoming</externallink>
+<info>Heidi Bergman es asistente social en Homecoming, una instalación de Geist Group que ayuda a los soldados a hacer la transición a la vida civil. Años más tarde, comenzó una nueva vida, viviendo con su madre y trabajando como camarera, cuando un auditor del Departamento de Defensa cuestiona por qué abandonó las instalaciones de Homecoming. Heidi se da cuenta rápidamente de que hay otra historia detrás de la historia que ella misma se ha estado contando.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/bvlnWCYDiGdCUYUGPrmjHVrrj9N.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2AQSZW1gSKSIRFW9gD8Tj63mGBT.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]I Am Bolt [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/I.am.bolt</externallink>
@@ -4067,6 +4076,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]The Boys[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.boys</externallink>
+<info>La serie tiene lugar en un mundo en el que los superhéroes representan el lado oscuro de la celebridad y la fama. Un grupo de vigilantes que se hacen llamar "The Boys" decide hacer todo lo posible por frenar a los superhéroes que están perjudicando a la sociedad, independientemente de los riesgos que ello conlleva.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/22cq85ZsAA0UzLq2uRf9MXf4OIx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3DLeOz8h2EScua1U0kPz0XPi4W2.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]The Brave[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.Brave</externallink>
@@ -4479,6 +4497,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 <info>7 episodios. Después de una noche en Filadelfia con su hermano que amenaza con sabotear algo más que su éxito, un famoso humorista busca desesperadamente una escapatoria.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/8Ld8RjI0rYX1ucZRtSh82MADG11.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/chvF1VNHrIgBE7DDuIodSC0Z9jB.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Upload[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Upload</externallink>
+<info>En un futuro en el que los humanos pueden 'cargarse' a su elección preferida de la otra vida, Nathan se encuentra con su muerte temprana y Nora lo saluda en su versión del cielo. La serie sigue a los dos a medida que Nathan se acostumbra a la vida lejos de sus seres queridos, y la vivaracha Nora lucha por mantenerse a flote trabajando en su trabajo en el más allá.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/6ZOrnmj7Hs9eaWBFazF6g6N8knP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gNzjidU7rL3LGzAItURzji2CQjF.jpg</fanart>
 </item>
 
 <item>
