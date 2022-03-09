@@ -6,6 +6,19 @@
 
 
 <item>
+<title>[COLOR white] Pan de limon con semillas de amapola [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.5[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/1QJQ7QZBou9r6iE5bIcom1VFiPL.jpg</thumbnail>
+<fanart>https://i.imgur.com/N2TuUH8.jpg</fanart>
+<info>En Valldemossa, un pequeño pueblo del interior de Mallorca, Anna (Eva Martín) y Marina (Elia Galera), dos hermanas que fueron separadas en su adolescencia, se encuentran de nuevo para vender una panadería que han heredado de una misteriosa mujer a la que creen no conocer. Las hermanas son dos mujeres con vidas muy diferentes. Anna apenas ha salido de la isla y sigue casada con un hombre al que ya no ama. Marina viaja por el mundo trabajando como doctora para una ONG. Mientras intentan descubrir los secretos que encierra su enigmática herencia, Anna y Marina tendrán que hacer frente a viejos conflictos familiares e intentar recuperar los años perdidos.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/p_YhfCQ22Oo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/28Bm3bWy3kcZbag"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/vnd08n9oix94ge"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/6h5emsvtblx6"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/2zl2rypng2rx"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/p9vro9hh1ioz"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/sya4q979rr8f"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/-46j3updegmwpyd"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/18Pn5oa82Pidnv6xczV2Sjzg5oe-9qwv2/view"}</urlsolve>
+</item>
+
+
+
+
+<item>
 <title>[COLOR white] Desperate Riders [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.8[/COLOR]</title> 
 <genre>Western,Acción</genre>
 <year>2022</year>
