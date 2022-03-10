@@ -6,6 +6,18 @@
 
 
 <item>
+<title>[COLOR white] El escondite [/COLOR][COLOR yellow](2021) [COLOR aqua]*4.3[/COLOR]</title> 
+<genre>Terror,Suspense</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/4osu6px7spCjIP8ZkS4IJ8K0ZyW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/444gIv4PAWC82O22ey1vdlA3xza.jpg</fanart>
+<info>Cuando un rico hombre de negocios sigue una pista para encontrar a su hermano desaparecido, se sumerge de cabeza en un retorcido inframundo de ocupantes ilegales y vagabundos que amenaza con destrozar a su familia mientras lucha por mantener la cordura.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/6i9UINS2_MU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/O74by9rdVxtZ3Xl"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/j9768jexfn448k"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/bfsydny5samo"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/pilkxhs1junz"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/vpzd3b9re24k"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/w0kj6jvtfboj"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/5knj1sd0p3lw5mz"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/17D4fDHsfuOwjaqFaxOoZez17fvQJYu-S/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] El callejon de las almas perdidas [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.1[/COLOR]</title> 
 <genre>Crimen,Drama,Suspense</genre>
 <year>2022</year>
