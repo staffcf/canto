@@ -16,6 +16,17 @@
 </item>
 
 
+<item>
+<title>[COLOR white] Spin [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.8[/COLOR]</title> 
+<genre>Familia,Drama,Música</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/9aRzuvaUT7XrUyf207hwrbxocGJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/N2hQIOhPyGU9MpkS9xUGK4LVVS.jpg</fanart>
+<info>Rhea descubre su pasión por crear mezclas de DJ que combinan las ricas texturas de su cultura del sur de Asia y el mundo que la rodea.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ASk0xMNQlJA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/kbyq9wrWOMSOwKR"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/4nleonvpa8d99v"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ramzubxaqbwj"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/9zms0spku5oc"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/06j64w1jh2df"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/9hvqhqsgh5oi"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/xpx57c5jl7jpx5x"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/12EiIfdfjNBPlsCksDEJemDy41efbLUIq/view"}</urlsolve>
+</item>
+
+
 
 <item>
 <title>[COLOR white] Rescate en las profundidades [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.0[/COLOR]</title> 
