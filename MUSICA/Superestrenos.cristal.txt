@@ -6,6 +6,18 @@
 
 
 <item>
+<title>[COLOR white] Una sombra en mi ojo [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.8[/COLOR]</title> 
+<genre>Bélica,Drama,Historia</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/wZ64CPxqoAeM043s7JaDMC94m6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qv4CLNenW69UOZYhSP7YohXzyzy.jpg</fanart>
+<info>El 21 de marzo de 1945, la Real Fuerza Aérea Británica emprendió una misión para bombardear el cuartel general de la Gestapo en Copenhague. La incursión tuvo consecuencias fatales, ya que algunos de los bombarderos apuntaron accidentalmente a una escuela y murieron más de 120 personas, 86 de las cuales eran niños.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/uSZNLlo05tE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/6ekdq7xvyauxBl"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/7r1ewq71c6m014"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/x06vd2qoax4n"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/s3bvruttn625"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/gidpjvjmrh6p"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/uy3z5l6xvr1p"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/2r2j0i26x44800q"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1WtXc06IdDtU--1sLdOx0LYX8Wp-KQPQM/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] El escondite [/COLOR][COLOR yellow](2021) [COLOR aqua]*4.3[/COLOR]</title> 
 <genre>Terror,Suspense</genre>
 <year>2021</year>
