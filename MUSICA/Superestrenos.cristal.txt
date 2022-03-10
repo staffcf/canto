@@ -17,6 +17,17 @@
 
 
 <item>
+<title>[COLOR white] El chicano [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.0[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/oBbVv45gZfe8N44uxhwGcpiEZEY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/r16dQUuZK61sRi8R8SpG8cOcJIt.jpg</fanart>
+<info>Un par de hermanos gemelos del este de Los Ángeles eligen vivir sus vidas de manera diferente y terminan en lados opuestos de la ley.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/GIdMa8geCB4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/P8r4kxlKdzsDwp"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/4nleo486ij00wp"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/an40d5zqj0nu"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/o8gi27lr0f2d"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/joig7w9uokl0"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/a4gpx8997thg"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/42njphzdrqmxd1y"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1m8iKSs1a3iqClVX9U00k1uhwce4GoBMB/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Spin [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.8[/COLOR]</title> 
 <genre>Familia,Drama,Música</genre>
 <year>2021</year>
