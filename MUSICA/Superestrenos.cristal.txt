@@ -6,6 +6,18 @@
 
 
 <item>
+<title>[COLOR white] El callejon de las almas perdidas [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.1[/COLOR]</title> 
+<genre>Crimen,Drama,Suspense</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/vH5rh852MByFzEwEIQ7Us7dJhy1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mqDnDhG5N6fn1H4MKQqr8E5wfeK.jpg</fanart>
+<info>Un buscavidas se compincha con una pitonisa para engañar a la gente y conseguir dinero... Remake del film "El callejón de las almas perdidas" (Nightmare Alley) de 1947.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/T7xVZXf-GrA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/8zzk7kb6alu66Y"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/l6lmx3olcx0d7"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/j0htyd9m5nh4"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/xfddec9l76oq"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/p4gfcayjhlto"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/vfr0q5yk75ct"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/xpx57c5jllq44rl"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1ShsXNpKKCpo5ItfRHlqLWZ-0gaVVbiIO/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Rescate en las profundidades [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.0[/COLOR]</title> 
 <genre>Documental</genre>
 <year>2021</year>
