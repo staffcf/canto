@@ -1026,6 +1026,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El Alpinista [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/El.alpinista</externallink>
+<info>Marc-André Leclerc escala solo, lejos de los focos. En lugares alpinos remotos, el joven espíritu libre canadiense de 23 años lleva a cabo algunos de los ascensos en solitario más atrevidos de la historia. Aun así, apenas llama la atención. Sin cámaras, sin cuerdas y sin margen para el error, el enfoque de Leclerc es la esencia de la aventura en solitario</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/287j2MdTQbtxsmBz2yJuhgc39HC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7rWUnNEhG3JWVeTWodMSYYZtuIJ.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El Atleti Del Doblete [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/El.atleti.del.doblete</externallink>
