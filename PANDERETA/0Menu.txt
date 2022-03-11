@@ -3058,6 +3058,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Nasdrovia[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Nasdrovia</externallink>
+<info>Edurne y Julián son dos abogados de éxito profundamente estirados y algo esnobs. Su pequeño universo cínico se tambalea cuando irrumpe en sus vidas la crisis de los 40 y Franky, un acabado y excepcional cocinero especializado en comida rusa. No se les ocurre otra manera de superar sus problemas que dejar sus trabajos y abrir un restaurante de comida rusa. Lo que no esperaban es que se convirtiera en el favorito de la mafia, y que su antes aburrida vida acabara siendo un delirante y peligroso thriller.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/4AVuqQ6wlv7YQeNqYeCgaKV6p4G.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9GgMurlp3nOylk65El9l9f9ucRC.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Neandertal[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Neandertal</externallink>
