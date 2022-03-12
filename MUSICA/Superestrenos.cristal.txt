@@ -6,6 +6,30 @@
 
 
 <item>
+<title>[COLOR white] Asalto al hospital [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.9[/COLOR]</title> 
+<genre>Acción,Suspense</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/7pQDAf4CGLPX7R8SczdRlEwb1dX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jE6MFk8uhE3xFkHwbNQOXmDjuvk.jpg</fanart>
+<info>Jason Hill es un veterano de guerra condecorado y con traumas propios del pasado, conoce a Jennifer, que trabaja en el hospital de veteranos de guerra. Pero durante una emergencia, el hospital es atacado y todos los que se encuentran en él son tomados como rehenes por terroristas muy bien entrenados y armados. El veterano Jason Hill es la última esperanza en el lugar, y además de enfrentarse a los terroristas, deberá luchar con sus propios demonios para salvar a la mujer que ama y a todos los rehenes del hospital.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/MJZ1DESg5JY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/JpV1xQ7a2vIjK8z"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/zplnenw7apzz1j"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/51fpppgyjaim"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/j302h90s8b30"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/i90qhdn5vbn1"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/i519x5m7u1qh"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/y1r5dtex8p0l-mr"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1SKxYxPoGw8E5VRwrzqNcabrb-DYYjgyE/view"}</urlsolve>
+</item>
+
+
+
+<item>
+<title>[COLOR white] Al abordaje [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.8[/COLOR]</title> 
+<genre>Comedia</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/25wQXqstc5NpJwqPEvrMelKwLDC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1tSevVyPWxthbdXdSPuDtgT7Z45.jpg</fanart>
+<info>Una cálida tarde de verano en París, Félix conoce a Alma por casualidad. Ríen, bailan y pasan la noche en un parque. Pero su tiempo juntos se acaba abruptamente cuando ella debe marcharse de vacaciones con su familia. En un arrebato, Félix decide sorprenderla yendo al lugar donde esta pasando las vacaciones, y convence a un amigo para que lo acompañe en la aventura. Recogen por el camino a un joven desconocido que acaba uniéndose también al alocado plan en el que nada parece salir como lo habían planeado.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/LuNcohcpiZs"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/JWZdlYDyBqFVew"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/qlzjekglcxlopkq"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/2hsh8al2utm0"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/sn27fztg6iao"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/um1tw8e03i2k"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/7hfbzgo2i7b6"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/-46j3upd8g4l5r2"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/19aO7L9fVJhFLE11SxSN_8PEcAnMbRlxf/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Red [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.6[/COLOR]</title> 
 <genre>Animación,Familia,Comedia,Fantasía</genre>
 <year>2022</year>
