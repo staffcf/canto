@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
- <items>
+ 
 
     
 
 
 <item>
-<title>[COLOR white]Iron Man [/COLOR][COLOR yellow](2008)[/COLOR]</title>    
-<genre>Marvel,acción,ciencia ficción,aventuras</genre>
-<year>2008</year>
-<thumbnail>https://www.themoviedb.org/t/p/original/8XcipM0vNdIGrQ3c7sVYF5zagWs.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/rZ9N585XWwWZU7j9vaPzLAH0Yp5.jpg</fanart>
-<info>El multimillonario fabricante de armas Tony Stark debe enfrentarse a su turbio pasado después de sufrir un accidente con una de sus armas. Equipado con una armadura de última generación tecnológica, se convierte en 'El hombre de hierro' para combatir el mal a escala global.</info>
+<title>[COLOR white]The Punisher [/COLOR][COLOR yellow](1989)[/COLOR]</title>    
+<genre>Marvel,acción,suspense</genre>
+<year>1989</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/5rdn37u3OEpAhjWAyJvsJnTPIay.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iLuwhWdfmLOkxpuEN8x3XZhS9MN.jpg</fanart>
+<info>Frank Castle, un agente secreto del FBI con un historial intachable, decide un día abandonar una profesión tan peligrosa para poder tener una vida familiar normal. Pero, precisamente entonces, su vida se hace añicos al cumplirse el peor de sus temores: su familia es asesinada como venganza por su último trabajo. Ahora vive aislado en las alcantarillas. Cuando llegue el momento, saldrá de su refugio para hacer pagar una cuenta muy cara a quienes en su día asesinaron a su mujer e hijo.</info>
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://www.fembed.com/v/p1zq4smq6dn217n"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://streamtape.com/v/bq7Lk6MMzwFow8"}</urlsolve>
 </item>
 
@@ -21,4 +21,4 @@
 
 
 
-</items>
+
