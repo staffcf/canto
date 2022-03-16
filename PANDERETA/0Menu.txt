@@ -798,6 +798,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Cuatro Horas En El Capitolio [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Cuatro.horas.en.el.capitolio</externallink>
+<info>Crónica de la insurrección en el Capitolio de los Estados Unidos, cuando miles de ciudadanos de todo el país, seguidores de Donald Trump, se reunieron en Washington D.C., muchos con la intención de interrumpir la confirmación de Joe Biden como presidente.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/2GrMvDDIvST5lwRYwsDm8W5x7pN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mTxMko5ve4pe0xmij1vL0z889zH.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Dark[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Dark</externallink>
@@ -2676,6 +2685,15 @@ En paralelo a la serie, Enrique Urbizu realizó un montaje para cines en formato
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Los Mercenarios De Putin [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Los.mercenarios.de.putin</externallink>
+<info>El grupo Wagner es una milicia privada rusa que actúa de forma clandestina. Putin niega que represente al estado ruso. Mientras, algunos de sus líderes han sido condecorados por el Kremlin.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/l9GvB7hoZPJhoMwijoYxCSghZfT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8qEItr9w4tZg3wqjdFkeDiNQE4T.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Los Millones De Escobar [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Los.millones.de.escobar</externallink>
@@ -3063,6 +3081,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 <info>Miniserie de TV (2018). 6 episodios. Salió como aplicación para móvil en noviembre de 2017. Con la app de Mosaic, el público puede decidir cómo quiere que se desarrolle un misterio sobre una autora para niños (Sharon Stone) que aparece muerta en un pueblo con un resort de ski. Al final de cada capítulo los espectadores tienen que elegir entre dos personajes para que la historia continúe. HBO estrenó la serie, sin las opciones interactivas, el 22 de enero de 2018. </info>
 <thumbnail>https://i.imgur.com/Tu9nfhT.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/4gBwu0XknAtfVcLr4FDPJHThL3S.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Moto GP Unlimited [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Motogp.unlimited</externallink>
+<info>La serie de ocho episodios, filmada por The Mediapro Studio durante la temporada 2021 de MotoGP™, siguió a los pilotos dentro y fuera de la pista.  Presenta a las estrellas durante algunos momentos espectaculares, así como algunos de los momentos más difíciles a los que se enfrenta un piloto de MotoGP™ cuando dedica su vida a un deporte tan exigente.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/r6EYUEOBHu2haKq5q6KE1bsXgIU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iradn0z9ojGoPtalNN4p807IvCQ.jpg</fanart>
 </item>
 
 <item>
@@ -3811,6 +3838,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 <info>La fascinante vida del empresario que levantó dos imperios, se enfrentó al Estado y protagonizó una de las mayores estafas de nuestra historia.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/zQy4rmAqT7T5mJ83JlP85EVS7K5.jpg</thumbnail>
 <fanart>https://i.imgur.com/M4Ys7lu.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Rusia El Veneno Autoritario [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Rusia.el.veneno.autoritario</externallink>
+<info>En los 20 años que lleva Putin en el poder, Rusia ha endurecido la represión contra toda una generación que sueña con la justicia y la libertad. Una docena de opositores han sido envenenados: el último conocido, el principal opositor a Putin, Alexei Navalny.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/z0u41aJ8cfaWiGCSqDUUnHQ6Xty.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vuZAnnVv6yaXEdy0UMRqkhKjtOK.jpg</fanart>
 </item>
 
 <item>
