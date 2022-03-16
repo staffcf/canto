@@ -29,6 +29,70 @@
 
 
 
+<item>
+<title>[COLOR white]ESPECIAL [COLOR red]Marvel[/COLOR]</title>
+<link>cristalazul</link>
+<externallink>$doregex[c]</externallink>
+<regex>
+<name>c</name>
+<expres><![CDATA[#$pyFunction
+from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
+import time
+#import urllib, re, requests, xbmcgui, xbmc, xbmcaddon, time
+#import os
+def GetLSProData(page_data,Cookie_Jar,m):
+
+    xbmc.executebuiltin('PlayMedia("$doregex[azar_musica]",1)')
+    time.sleep( 1 )
+    return '$doregex[distancia]'
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>distancia</name>
+<expres><![CDATA[#$pyFunctiona
+import re,requests,base64,shutil,random
+from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
+from six.moves import urllib_request
+import six
+TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
+def GetLSProData(page_data,Cookie_Jar,m):
+      pasta = requests.get('http://bit.ly/cristal_menus_distancia', headers={'User-Agent': 'Mozilla/5.0'}).text
+      pasta = six.ensure_str(pasta)
+      return re.findall('="(.*?)"', pasta)[0]
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>azar_musica</name>
+<expres><![CDATA[#$pyFunction
+import re,requests,base64,shutil,random
+from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
+from six.moves import urllib_request
+import six
+TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
+def GetLSProData(page_data,Cookie_Jar,m):
+ opcion = ["https://ia801400.us.archive.org/30/items/back.-in.-black/Back.In.Black.mp3", "https://ia801400.us.archive.org/30/items/back.-in.-black/Back.In.Black.mp3", "https://ia801400.us.archive.org/30/items/back.-in.-black/Back.In.Black.mp3"]
+ azar = random.choice(opcion)
+ return azar
+]]></expres>
+<page></page>
+</regex>
+<info>[COLOR lightblue]ESPECIAL, 'CRISTAL AZUL'
+[COLOR white]
+"Cristal azul solo contiene regex de webs que se encuentran en internet,
+este addon no se apropia, copia, ni distribuye contenido con derechos de autor,
+asi como no se lucra ni se considera que sea prestador de servicios de intermediacion,
+solo da acesso a esas webs, estas son las responsables de los contenidos"[/COLOR]</info>
+<thumbnail>https://i.imgur.com/v3WIrrn.jpg</thumbnail>
+<fanart>https://i.imgur.com/19PWNbd.jpg</fanart>
+</item>
+
+
+
+
+
+
 
 
 <item>
