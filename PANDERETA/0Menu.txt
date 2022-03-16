@@ -1693,7 +1693,7 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 <item>
 <title>[COLOR gold]* [COLOR white]F1: La Emocion De Un Gran Prix [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
-<externallink>https://raw.githubusercontent.com/Cristalazul/Cristalazul.io/main/SERIES/Series.Docu/La.emocion.de.un.G.P</externallink>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/La.emocion.de.un.G.P</externallink>
 <info>Los pilotos, representantes y propietarios de escuderías viven con el pie pegado al acelerador, dentro y fuera de la pista, durante la dura temporada de carreras.</info>
 <thumbnail>https://i.imgur.com/RSksBnd.jpg</thumbnail>
 <fanart>https://i.imgur.com/qDh0IKA.jpg</fanart>
