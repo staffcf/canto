@@ -6,6 +6,18 @@
 
 
 <item>
+<title>[COLOR white] La abuela [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.4[/COLOR]</title> 
+<genre>Terror</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/kwW0Dl0pl50Uq1MHuWuIwTehjsm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/62qpSaHKjtIAPrlhiKT9d0uoZjK.jpg</fanart>
+<info>Susana tiene que dejar su vida en París trabajando como modelo para regresar a Madrid. Su abuela Pilar acaba de sufrir un derrame cerebral. Años atrás, cuando los padres de Susana murieron, su abuela la crió como si fuese su propia hija. Susana necesita encontrar a alguien que cuide de Pilar, pero lo que deberían ser solo unos días con su abuela, se acabarán convirtiendo en una terrorífica pesadilla.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/JhCWvpZbw9k"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/yGXdBgmQ14UdL6"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/vndxgznduq868jz"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/mhnnbwmis5wd"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/2kfv558l9dnl"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/o778nl5xo0g7"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/c35mcyxxtsqn"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/8ql36h813w3qxg5"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1tmkbPHrxdkqgtkSbb7TKlLS2yDRYoPXV/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] El rescate de Ruby [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.4[/COLOR]</title> 
 <genre>Familia,Drama</genre>
 <year>2022</year>
