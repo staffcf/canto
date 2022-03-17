@@ -6,6 +6,18 @@
 
 
 <item>
+<title>[COLOR white] Joe Bell [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.9[/COLOR]</title> 
+<genre>Drama,Aventura</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/uNuV4ILmD2ewG9Tr086nDW7AVdA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zKD0XxAjtK0VYX7j1elDtSNSNbR.jpg</fanart>
+<info>La historia real de un padre de clase trabajadora de un pueblo pequeño, que se embarca en una caminata en solitario por los Estados Unidos, para hacer una cruzada contra el acoso escolar, después de que su hijo es atormentado en la escuela secundaria por ser gay.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/3e3_iOsIRfY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/Wqer2RKDGLtbKgY"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/0vd0x4vjbl11ln"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/6uehse4yw2up"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/ypwairs2pphf"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/35rrc0jru1j0"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/zzml5vimiz3n"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/10rjdcj4lxn42e7"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/16ohwlp-Bv-vHl1qbNFQlJvQKohCfs9Z8/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Marilyn tiene los ojos negros [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.9[/COLOR]</title> 
 <genre>Comedia</genre>
 <year>2022</year>
