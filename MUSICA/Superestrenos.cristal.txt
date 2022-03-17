@@ -6,6 +6,31 @@
 
 
 <item>
+<title>[COLOR white] El rescate de Ruby [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.4[/COLOR]</title> 
+<genre>Familia,Drama</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/tPlJEodEn0SSV4avo8KSawtlTlN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4IlL2MybO3DAMfC0Nq89EGhUeld.jpg</fanart>
+<info>Ruby tiene mucha energía. Su dueño original la entregó a la Sociedad de Rhode Island para la Prevención de la Crueldad hacia los Animales debido a su personalidad generalmente "ingobernable".<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/h5NffRxpvHY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/zbdYdZM4qvIYd47"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/xo7mklrmiz7gvl"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/2j0l1nttduxk"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/ytipnbowf5wq"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ahqm3o3vrrs7"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/7uk1q8wvniz4"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/8ql36h813zypnzw"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1OoPXLiIHSFKPl6PaZNnfhr1GdgiYuZFV/view"}</urlsolve>
+</item>
+
+
+
+<item>
+<title>[COLOR white] Drones [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.1[/COLOR]</title> 
+<genre>Ciencia ficción</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/rSszYwFRIpsJ1qSYnRt8nLjKTDl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/k6X28uLDPDAkAG0oFgLpDlW9OyM.jpg</fanart>
+<info>"Hover" está ambientada en un futuro cercano en el que hay escasez de comida. La tecnología ayuda a la producción con drones agrícolas. Claudia y su mentor John asisten a la gente enferma de las granjas que quiere morir. Después de que John muera de forma sospechosa, un grupo de locales ayuda a Claudia a buscar la verdad.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Ahzf1Q0qb3M"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/BeVo0zj7KKtyglk"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/7r1xl7n1srqz1k"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/qpnegc1vkd5a"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/emynmzr6q72d"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/osj9erxks0wa"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/g0g7thh8m855"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/42njphzd1ly3wqk"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1ezMB7GanJKyx9DYl311KhN5hbBysRU2d/view"}</urlsolve>
+</item>
+
+
+
+
+<item>
 <title>[COLOR white] Joe Bell [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.9[/COLOR]</title> 
 <genre>Drama,Aventura</genre>
 <year>2021</year>
