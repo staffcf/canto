@@ -717,6 +717,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Como Conoci A Vuestra Madre[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Como.conoci.a.vuestra.madre</externallink>
+<info>How I Met Your Mother. Exitosa serie de la CBS que, en su primera temporada, obtuvo excelentes índices de audiencia además de ganar dos premios Emmy: uno a la dirección artística y otro a la fotografía. En el año 2030, Ted (Josh Radnor) relata a sus dos hijos adolescentes cómo conoció a su madre y cómo fue su vida hasta que, por fin, encontró el amor verdadero. Todo empezó cuando Marshall (Jason Segel), su mejor amigo, decidió casarse con Lily (Alyson Hannigan), su novia de toda la vida. Entonces Ted decidió lanzarse a la búsqueda del amor verdadero y formar una familia. Para conseguirlo contó con el apoyo de su amigo Barney (Neil Patrick Harris), un joven algo extravagante y muy hábil para conocer mujeres. Cuando, por fin, Ted conoce a Robin (Cobie Smulders), una impresionante joven canadiense que acaba de mudarse a Nueva York, está completamente seguro de que es amor a primera vista, pero el destino aún puede depararle muchas sorpresas.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/2MG62Uxko98NRE9nvkLtkiAZDpR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/y9IbkXUcY3QsbdNFuFQWLdYw32n.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Connor MacGregor The Notorious [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Connor.macgregor</externallink>
@@ -825,6 +834,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]D.P. El Cazadesertores[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/D.P.el.cazadesertores</externallink>
+<info>La misión de un joven soldado de capturar a desertores militares revela la dolorosa realidad a la que se enfrenta cada recluta obligado a cumplir con su deber.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/45ZwrPZ9NXOmPL1wTYxWuto6ZZk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yFNGc3OR81NGdJL3yZCBrjDIluf.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Dark[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Dark</externallink>
@@ -916,6 +934,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Desplazados[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Desplazados</externallink>
+<info>Cuatro desconocidos: una azafata que escapa de un culto suburbano, un refugiado afgano que huye de la persecución, un joven padre australiano que escapa de un trabajo sin salida y un burócrata atrapado en un escándalo nacional, están atrapados en un centro de detención de inmigrantes en el desierto australiano. Inspirado en hechos reales.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/wS2BIKnQJnaV37Zje4Q1iePmWXs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fxmxCcVmleN0MVTLgOJOoGeuBYB.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Destino: La Saga Winx[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Destino.La.saga.Winx.txt
@@ -968,6 +995,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 <info>A veces hay una fina línea entre el desastre y la maravilla: Para - We are King, sigue a cuatro mujeres jóvenes en Berlín-Wedding que buscan la felicidad en un mundo en el que la luz y la oscuridad se tocan.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/z4gUYZXBzCw9FvaalYuI7RiZnrG.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/fYZqOQYddz5tROSzmEZvRFQdpe5.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]DMZ[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/DMZ</externallink>
+<info>En un futuro cercano, después de que una amarga guerra civil dejara a Manhattan como una zona desmilitarizada (DMZ), destruida y aislada del resto del mundo, la feroz médica Alma Ortega emprende un angustioso viaje para encontrar al hijo que perdió en la evacuación de Nueva York al inicio del conflicto. En su camino se interponen bandas, milicias, demagogos y señores de la guerra, incluido Parco Delgado, el popular y letal líder de una de las bandas más poderosas de la DMZ.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/wnug9DhsenurS5dWCypjZSRFnH6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9qL0VYmRxwIQp32E5K9GuaLBUdt.jpg</fanart>
 </item>
 
 <item>
@@ -2540,6 +2576,15 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]La Unidad[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.unidad</externallink>
+<info>Carla, jefa de la Unidad de Investigación Policial contra el terrorismo yihadista, detiene en una operación al líder más buscado del mundo, Salah Al Garheeb. Pero este éxito provoca que España se ponga en el punto de mira de sus seguidores, encabezados por su hijo y que se suman por miles. Muchos, dispuestos a atentar con su vida.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/gCcR7YiIiBab2HP5lC5ZH6q4eDh.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xs0J9Mz5s3dKSRO7aFfZDCi4UpF.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]La Valla[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.valla.txt</externallink>
@@ -2564,6 +2609,15 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 <info>Serie que gira en torno a cuatro compañeras de habitación y estudiantes de la prestigiosa universidad New England Essex. Kimberly es la mejor estudiante de instituto de un humilde suburbio de Arizona. Ella puede ser cariñosa, ambiciosa y estar preparada para lo que la universidad le depara académicamente, pero allí se dará cuenta de que realmente no está preparada para lo que el New England Essex le tiene reservado socialmente hablando.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/vd5mzLjb131jLHar3jxnj5ItYJH.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/xU8GGzgQlSoRgjhek9gnUJw62VX.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]La Vuelta Al Mundo En 80 Dias[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.vuelta.al.mundo.en.80.dias</externallink>
+<info>El caballero aventurero Phileas Fogg emprende una búsqueda para viajar alrededor del mundo y regresar a casa en un período de 80 días. Adaptación épica del clásico de Jules Verne, Around the World in 80 Days.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/j8Np9NZlkzrSdEmpLSgoUkoyJeh.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/j5sIOmex1oMY7jYoz9SE2sXfUWb.jpg</fanart>
 </item>
 
 <item>
@@ -2600,15 +2654,6 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 <info>Las personas detrás de las películas inolvidables que marcaron un antes y un después en el mundo del cine, cuentan todos los secretos de la producción.Temporada 1: Dirty Dancing, Home Alone, Ghostbusters, Die Hard.Temporada 2: Back to the Future, Pretty Woman, Jurassic Park, Forrest Gump.</info>
 <thumbnail>https://i.imgur.com/OvzMK56.jpg</thumbnail>
 <fanart>https://i.imgur.com/Cg4CTyD.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR gold]* [COLOR white]La Vuelta Al Mundo En 80 Dias[COLOR white][/COLOR]</title>     
-<link>cristalazul</link>
-<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.vuelta.al.mundo.en.80.dias</externallink>
-<info>El caballero aventurero Phileas Fogg emprende una búsqueda para viajar alrededor del mundo y regresar a casa en un período de 80 días. Adaptación épica del clásico de Jules Verne, Around the World in 80 Days.</info>
-<thumbnail>https://www.themoviedb.org/t/p/original/j8Np9NZlkzrSdEmpLSgoUkoyJeh.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/j5sIOmex1oMY7jYoz9SE2sXfUWb.jpg</fanart>
 </item>
 
 <item>
@@ -2975,6 +3020,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Marvel Capa y Puñal[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Capa.y.punhal</externallink>
+<info>Tandy Bowen y Tyrone Johnson eran dos chicos que habían huido de casa. Fueron secuestrados junto con otros jóvenes y usados como conejillos de indias de una potente nueva droga, por un grupo de traficantes liderada por Cabello de Plata, que les dio sus poderes: a Tyrone lo envolvió la oscuridad y Tandy recibió el don de la luz. Con sus poderes, prometieron proteger a la gente de las drogas y se convirtieron en los vigilantes conocidos como Cloak and Dagger.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/3wwzrBxn8nUBO4Hj24FYJuYS0rm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dfpcuzzTa2FdAy7de4g8hGCs6Gv.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Marvel Daredevil[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Marvel.Daredevil.xml</externallink>
@@ -2991,6 +3045,8 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 <thumbnail>https://www.themoviedb.org/t/p/original/e0U9S7zKfWIHUWBtvUGRFCFDhz9.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/dVokiRQdxJdklFk2RONGZIQBN7j.jpg</fanart>
 </item>
+
+
 
 <item>
 <title>[COLOR gold]* [COLOR white]Marvel Loki[COLOR white][/COLOR]</title>     
@@ -3351,6 +3407,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 <info>Australia, año 1956. El Gobierno de la nación acaba de dar la bienvenida a las pruebas de bombas atómicas británicas en Maralinga, en el interior de Australia. El mayor Leo Carmichael, un héroe de la Segunda Guerra Mundial, se encarga de mantener funcionando sin problemas la base nuclear ultrasecreta. Pero probar el arma más peligrosa del mundo no será un paseo por el parque con un oficial al mando que no es apto para el trabajo; un nuevo meteorólogo que empieza a hacer demasiadas preguntas; un violador suelto en el campamento; una gran cantidad de filtraciones en la prensa, y el gobierno observando cada uno de sus movimientos.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/iK8AdLXaoWn0GfqD1w3uzflpodo.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/c076WPgApnmgcvP7SwFSkKK1PVc.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Operacion Extasis[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Operacion.extasis</externallink>
+<info>Dos agentes encubiertos se infiltran en la operación de un traficante de drogas, haciéndose pasar por una pareja. Inspirado en hechos reales.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/vrGSsLo8URgXa17fqNSJ7aIUBpS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wehEMmqra801vioLigmyH1IeSiJ.jpg</fanart>
 </item>
 
 <item>
@@ -4876,6 +4941,15 @@ Sexta temporada (SPOILER DE LA 5ª): La temporada 6 de Vikings regresa tras la b
 <info>Un padre viudo regresa a Austin después de dos años, intenta reconectar con sus hijos, se enfrenta a conflictos con su familia y encuentra puntos en común con su nueva pareja, mientras sospecha cada vez más de la muerte de su esposa.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/fjRCZ1SGSxj9Y3KGhnxGqC7gRfc.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/s2IXx944vnZUtAxC2nPydOfqakh.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Wecrashed[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Wecrashed</externallink>
+<info>Inspirada en hechos reales, se desarrolla en torno a la historia de amor de sus protagonistas. En menos de una década, WeWork pasó de ser una empresa de coworking a convertirse en una marca global valorada en 47 000 millones de dólares. Solo un año después, su valoración descendió en 40 000 millones. ¿Qué pasó?</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/rFlYeo84b5YtzNkN0IonN6ZCPic.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qZczFemFqgA7WdRISdmbkb7i5wa.jpg</fanart>
 </item>
 
 <item>
