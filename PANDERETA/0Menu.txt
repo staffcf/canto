@@ -68,6 +68,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]A Los Gatos ni Tocarlos:Un Asesino En Internet [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/A.los.gatos.ni.tocarlos</externallink>
+<info>Los brutales vídeos de un retorcido criminal llevan a un grupo de investigadores internautas a una arriesgada búsqueda que los adentra en un siniestro submundo.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/gGpiW7vtLZ9RA8Zxh8Ywu6QeQs0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xzKQitLT69tqj7K6wBBHH6wVk9.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Adele[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Adele.xml</externallink>
@@ -1601,6 +1610,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El Timador De Tinder [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/El.timador.de.tinder</externallink>
+<info>Un estafador se hacía pasar por magnate y seducía a mujeres en Internet para estafarles millones de dólares. Ahora sus víctimas planean vengarse.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/e9nRmgoxc0gQkTmKbtIJL9imvq1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6kiYivbx1bgx51xdfmcu53Tsjy8.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]En La Cienaga[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/En.la.cienaga.txt</externallink>
@@ -1742,6 +1760,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 <info>Basada en una novela del escritor Robert J. Sawyer, cuenta la historia de lo que ocurre después de que, el 6 de octubre de 2009, los 7.000 millones de personas que habitan la Tierra se desmayan a la vez y tienen una visión sobre lo que -parece ser- les ocurrirá a cada uno de ellos en el futuro, en concreto el 29 de abril de 2010. Cuando se despiertan, todos comienzan a preguntarse si lo que han visto les ocurrirá realmente...</info>
 <thumbnail>https://i.imgur.com/lxje05T.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/AblCFHttrvZvHEFV0uXm3a1VqVJ.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Flee [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Flee</externallink>
+<info>Un refugiado afgano acepta contar su historia personal con la condición de que no se revele su identidad. Para lograr tal propósito, el director decide emplear un estilo de animación que no sólo protege al narrador, sino que potencia su historia, combinando el tiempo y la memoria de forma visceral y poética.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/24DJO27BlzJXJgYe4ny1O8lUXYn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yT4NWhy4i5SKSGSmwrflzR2iHyb.jpg</fanart>
 </item>
 
 <item>
@@ -2522,6 +2549,15 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]La Verdadera Historia De Ed Y Lorraine Warren [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/La.verdadera.historia.de.ed.y.lorraine.warren</externallink>
+<info>A lo largo de sus 50 años de carrera, Ed y Lorraine Warren investigan miles de apariciones. Algunos de sus casos más famosos incluyen la casa Amityville Horror y la casa real de Rhode Island detrás de las películas "The Conjuring".</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/l9GvB7hoZPJhoMwijoYxCSghZfT.jpg</thumbnail>
+<fanart>https://i.imgur.com/lOu12EC.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]La Vida Sexual De Las Universitarias[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.vida.sexual.de.las.universitarias</externallink>
@@ -2664,6 +2700,15 @@ En paralelo a la serie, Enrique Urbizu realizó un montaje para cines en formato
 <info>Miniserie de 7 episodios. Documental de siete episodios que sigue a los actores Ewan McGregor y Charley Boorman en una moto viajando por todo el mundo. En su largo trayecto recorrieron Francia, Bélgica, Alemania, República Checa, Eslovaquia, Ucrania, Rusia, Kazakstán, Mongolia, Siberia, Alaska y Canadá para llegar tres meses después a su destino final: Nueva York, USA.</info>
 <thumbnail>https://i.imgur.com/KspUy2x.jpg</thumbnail>
 <fanart>https://i.imgur.com/v9SheFF.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]los Diarios De Andy Warhol [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Los.diarios.de.Andy.Warhol</externallink>
+<info>Tras ser disparado en 1968, Andy Warhol empieza a documentar su vida y sentimientos. Esos diarios, y esta miniserie, revelan los secretos del hombre más allá del personaje.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/nXvYu52ewlo3hu1Y8MRbm3Wp2rW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/22mG0oB7VRBqMuhgiYctdNOUDMo.jpg</fanart>
 </item>
 
 <item>
@@ -3693,6 +3738,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 <info>Serie de TV (2021-). Tras 18 años de encarcelamiento injusto, Alex Guzmán es liberado con el plan perfecto para descubrir quién mató a su hermana Sara y por qué la familia Lazcano lo culpó del crimen. Lo que no sabe, es que la búsqueda de pruebas lo llevará por un desvío mucho más peligroso de lo que imaginaba. Cuando finalmente se enfrente al verdadero culpable, Alex deseará no haber buscado su venganza. </info>
 <thumbnail>https://i.imgur.com/qA6ox4l.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pLG4ihU1d2XkQbASQDjsFu9U7d9.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Quince [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Quince</externallink>
+<info>Un recorrido por la época dorada del rugby español, de finales de los años ochenta a principios de los noventa: la increíble historia de unos hombres que, con trabajo, esfuerzo y perseverancia, demostraron que cualquier meta puede ser alcanzada.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/hQyTGcGftx7pl65BF1lZLhejAD6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n610sJuqscx7AGJvAMKX0wObvQl.jpg</fanart>
 </item>
 
 <item>
