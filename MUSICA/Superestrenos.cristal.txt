@@ -6,6 +6,18 @@
 
 
 
+
+<item>
+<title>[COLOR white] Aguas profundas [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.9[/COLOR]</title> 
+<genre>Suspense,Romance,Drama</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/2Z2GA7Ph8z5YsDNUJ6h1HJsP4a4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qswImgf57wBf2i8Fv6K2O2BdMoe.jpg</fanart>
+<info>Un marido adinerado, que permite que su esposa tenga relaciones extramatrimoniales para evitar el divorcio, se convierte en el principal sospechoso de la desaparición de los amantes de ella... Adaptación de la novela de Patricia Highsmith.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/MuPVioiR7D0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/1BYorleZeBTevA2"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/84xmo613hd41rl"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/5snocktu84fy"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/mzfjr690fiqt"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/zq5p3d7xpim6"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/vo7pvlga7wfy"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/web no funciona"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1juI1D-WLBvpyGt2dFsEaDfuiFZ0Szme-/view"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Spencer [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.2[/COLOR]</title> 
 <genre>Drama</genre>
