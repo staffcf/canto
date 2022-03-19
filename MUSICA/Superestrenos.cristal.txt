@@ -6,6 +6,18 @@
 
 
 <item>
+<title>[COLOR white] Master [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.2[/COLOR]</title> 
+<genre>Terror,Suspense,Drama,Misterio</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/gxbwRHsQ2v6DQv28ttp7pIx7Utj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bW0zTTdvc9zafc6hDEG1pMDuMCW.jpg</fanart>
+<info>Dos mujeres afroamericanas comienzan a compartir experiencias inquietantes en una universidad predominantemente blanca en Nueva Inglaterra.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Uix83IvvKWs"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/LvQGPjmQxwHRdwl"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/3nkw4v6pfmw41pr"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/1v4d25cjjgv5"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/izh9ohlt3y3x"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/1hp9hkuiigda"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/hfywb03vwsv3"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/web no funciona"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1ldUdLV0aL4bZfF0muBHyQlsaYfWVARmE/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Fruto del viento [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.7[/COLOR]</title> 
 <genre>Crimen,Drama,Suspense</genre>
 <year>2022</year>
