@@ -5,6 +5,19 @@
 =======================================================================================
 
 
+
+<item>
+<title>[COLOR white] Doce en casa [/COLOR][COLOR yellow](2022) [COLOR aqua]*8.1[/COLOR]</title> 
+<genre>Comedia,Familia,Drama</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/wGYAfIqMiTtNUMrtOPgWLxYKTrE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7PZlpdoIOyyFurOyfyBAfYelDFQ.jpg</fanart>
+<info>Remake. Un padre está muy ocupado con sus doce hijos.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/xEcT31pRUog"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/vWq7aa647JF4e39"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/dqvmj64nh7j49go"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/xok1wd0knnrp"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/0p329za4gfuk"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/fg2jlc5n5yf5"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/29w5s8bygikf"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/web no funciona"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Zwsy3G28aovMcR-V3e8UKIV5dlwoy8n6/view"}</urlsolve>
+</item>
+
+
+
 <item>
 <title>[COLOR white] Master [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.2[/COLOR]</title> 
 <genre>Terror,Suspense,Drama,Misterio</genre>
