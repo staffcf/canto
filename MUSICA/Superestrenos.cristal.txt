@@ -6,6 +6,18 @@
 
 
 <item>
+<title>[COLOR white] Fruto del viento [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.7[/COLOR]</title> 
+<genre>Crimen,Drama,Suspense</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/r3eGUCijDCNqwcP1Ri8AZyTbPzI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cc7Nmid20lcfNh1eucWdLKidi7s.jpg</fanart>
+<info>Un hombre irrumpe en la casa de vacaciones vacía de un multimillonario, pero todo se tuerce cuando él y su esposa llegan en un plan de última hora.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/93MxuXa_0PI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/LqVJ3vObevSvmD"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/4nljp6zwbmrr1k"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/zayskoyh57b2"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/1nbfqknlb9sb"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/zgrvat6qs8jt"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/yqxzqr3yokl0"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/web no funciona"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1VO5iEGqMj6PaMBsxQUBMNDpULHrXw0DG/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] The Jack in the Box: El despertar [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.8[/COLOR]</title> 
 <genre>Terror</genre>
 <year>2022</year>
