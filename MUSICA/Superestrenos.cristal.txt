@@ -6,6 +6,18 @@
 
 
 <item>
+<title>[COLOR white] The Jack in the Box: El despertar [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.8[/COLOR]</title> 
+<genre>Terror</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/xm6N21UjaUSK9LF7kfDSaGJU7fx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xHRabofjmMGoIV3mb6xgy4nwOcS.jpg</fanart>
+<info>Cuando una mujer moribunda abre un Jack-in-the-box antiguo, entra en un trato con el demonio interno que curaría su enfermedad a cambio de ayudarla a reclamar seis víctimas inocentes.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/_M2sQYGnlrs"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/4o27b4BkpWFKve8"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/6qjxovdxbk16k4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/83cai2kcuwwh"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/pavw4obkxl3t"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/hxjnahf2odg8"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/xkgxytkjdkgq"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/em4n6s-7pnml-z5"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1OTv56kTCwkkV6_dJH53h_RaT-YE_CMrC/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Lamb [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.5[/COLOR]</title> 
 <genre>Drama,Misterio,Fantasía,Terror</genre>
 <year>2021</year>
