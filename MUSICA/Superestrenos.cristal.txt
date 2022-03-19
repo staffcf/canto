@@ -7,6 +7,18 @@
 
 
 <item>
+<title>[COLOR white] Spencer [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.2[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/oR6BmF4Jotg8VbsUGR5wG4TikD2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tFwuQaHSFlb6mMDre3zruuux5Vk.jpg</fanart>
+<info>Biopic de Lady Di que cuenta la historia de un fin de semana crucial a principios de los años 90, cuando la princesa Diana -de nombre Diana Frances Spencer- decidió que su matrimonio con el príncipe Carlos no estaba funcionando, y que necesitaba desviarse de un camino que la había puesto en primera fila para algún día ser reina... El drama tiene lugar durante tres días, en una de sus últimas vacaciones de Navidad en la Casa de Windsor en su finca de Sandringham en Norfolk, Inglaterra.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/byKIBTxMkpg"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/xZQeXdm62osqyX"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/o716p131b7rxxv"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/te43sayhlduy"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/yspgxyy7n9gi"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/y1uu33vymc4e"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/t09djctc2s3w"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/web no funciona"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/11f4vd41qUVkY0PfkH-fwdJJktwLQ-QOk/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Cangrejo negro [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.9[/COLOR]</title> 
 <genre>Acción,Suspense</genre>
 <year>2022</year>
