@@ -6,6 +6,18 @@
 
 
 <item>
+<title>[COLOR white] Lamb [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.5[/COLOR]</title> 
+<genre>Drama,Misterio,Fantasía,Terror</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/dQ9TOgcTpVuhEwXEyS2OOaPZndG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/m5HXtgHjHqpYtRCr9hSXVqle871.jpg</fanart>
+<info>Una pareja islandesa vive con su rebaño de ovejas en una hermosa pero remota granja. Cuando descubren un misterioso recién nacido en su tierra, deciden quedárselo y criarlo como propio. Este acontecimiento inesperado, y la perspectiva de una nueva familia, les trae mucha alegría antes de destruirlos en última instancia.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/IFSQoEcaTm0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/eowQxaekVOsY4VX"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/pkxdzq83bgwjvk0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/wftaamkakft9"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/e1ul5u8y6lx8"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/4k1f0zwwbc65"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/lnhktbnrhtes"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/q3nx0ie5r5xy5xg"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1QhQMbFwIyO4jd_4k6bQM62TfWedA0eqy/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] La abuela [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.4[/COLOR]</title> 
 <genre>Terror</genre>
 <year>2022</year>
