@@ -7,6 +7,18 @@
 
 
 <item>
+<title>[COLOR white] Cangrejo negro [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.9[/COLOR]</title> 
+<genre>Acción,Suspense</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/mcIYHZYwUbvhvUt8Lb5nENJ7AlX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/t7I942V5U1Ggn6OevN75u3sNYH9.jpg</fanart>
+<info>Para poner fin a una guerra apocalíptica y salvar a su hija, una soldado emprende una misión desesperada: transportar un cargamento ultrasecreto por un mar helado.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/w3MXBceDCAo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/pY6KAj4Q81Ir3v0"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/vndjpx3jcnxpmp"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ntfvs41ppx3z"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/9auzp1uptznp"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/4g6y6l47aj2q"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/ieunukhr910m"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/web no funciona"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1kdWGq9WUFJCLw6HkEMzqPupVrkvUWSPp/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Doce en casa [/COLOR][COLOR yellow](2022) [COLOR aqua]*8.1[/COLOR]</title> 
 <genre>Comedia,Familia,Drama</genre>
 <year>2022</year>
@@ -37,7 +49,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/r3eGUCijDCNqwcP1Ri8AZyTbPzI.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/cc7Nmid20lcfNh1eucWdLKidi7s.jpg</fanart>
 <info>Un hombre irrumpe en la casa de vacaciones vacía de un multimillonario, pero todo se tuerce cuando él y su esposa llegan en un plan de última hora.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/93MxuXa_0PI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/LqVJ3vObevSvmD"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/4nljp6zwbmrr1k"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/zayskoyh57b2"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/1nbfqknlb9sb"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/zgrvat6qs8jt"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/yqxzqr3yokl0"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/web no funciona"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1VO5iEGqMj6PaMBsxQUBMNDpULHrXw0DG/view"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/93MxuXa_0PI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/LqVJ3vObevSvmD"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/4nljp6zwbmrr1k"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/zayskoyh57b2"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/1nbfqknlb9sb"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ppvokvcx8xxg"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/yqxzqr3yokl0"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/web no funciona"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1VO5iEGqMj6PaMBsxQUBMNDpULHrXw0DG/view"}</urlsolve>
 </item>
 
 
