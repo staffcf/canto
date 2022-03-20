@@ -6,6 +6,16 @@
 
 
 
+<item>
+<title>[COLOR white] Hombre muerto no sabe vivir [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.7[/COLOR]</title> 
+<genre>Acción,Crimen,Suspense</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/8kLXDh37BmR2FJulE21YUF74vPs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kmUR43ltGCecwybhXLFELwfrPxg.jpg</fanart>
+<info>Tano ha trabajado toda su vida para Manuel, un empresario de la construcción que en épocas mejores controló toda la ciudad. Ahora, ya en la vejez, Tano ve cómo Manuel no puede llevar la empresa, y toda la estructura se enfrenta a un cambio generacional, a nueva gente, nuevos negocios, nueva forma de llevar la empresa... pero la misma violencia de siempre.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/hVCNbuCCFqM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/4yW0W4PmMVuKKMD"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/0vd7l0dgs8k4qo"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/nqir722mufez"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/5b8fcewnv8oq"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/x0npy8f17dc5"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/m69149xspprr"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/pwnxdtmqjxn0g17"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1LemAym3i9YJHupnO9H-79sW_h9GBpBvQ/view"}</urlsolve>
+</item>
+
 
 <item>
 <title>[COLOR white] Aguas profundas [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.9[/COLOR]</title> 
