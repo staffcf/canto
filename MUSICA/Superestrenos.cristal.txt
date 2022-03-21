@@ -743,6 +743,7 @@
 
 
 
+
 <item>
 <title>[COLOR white] Scream [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.0[/COLOR]</title> 
 <genre>Terror,Misterio,Familia</genre>
@@ -750,9 +751,8 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/cIgmdAhesIqn2ykJfbNFMQYdxkO.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/usaZV7KB6Man9Rm9TyDAeQf7uVD.jpg</fanart>
 <info>Una nueva entrega de la saga de terror 'Scream' que seguirá a una mujer que regresa a su ciudad natal para intentar descubrir quién ha estado cometiendo una serie de crímenes atroces.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/-Ccp4Kd4N88"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/6eX4bg2qAYI9GdQ"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/wn06o979fg3ovg"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/1814fgnr6deu"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/gmacvdrqydmn"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ox7umatsdo93"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/suq9hxgfx22h"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/18OOGfYaOHjckuRTF2flqHda4wtYZSp6R/view"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/-Ccp4Kd4N88"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/BL6roJav3rIygZL"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/qlz0j3grt0rlme"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/gr6dz7lqbui5"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/6gq9wvxptiza"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/0lwgcrwc9jnv"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/e45woebked7r"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1g9IGDHgHEV6LNJPBkliaxt8L_LNuHre4/view"}</urlsolve>
 </item>
-
 
 
 <item>
