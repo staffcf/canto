@@ -6,6 +6,18 @@
 
 
 <item>
+<title>[COLOR white] La colonia [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.7[/COLOR]</title> 
+<genre>Ciencia ficción</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/nX7ZUYwgGOCe5nXXwpNg4hAf1xB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8Bvrvqwl5Iva0l8OtW8h90PiaDJ.jpg</fanart>
+<info>En un futuro no muy lejano: después de que una catástrofe global haya acabado con casi toda la humanidad en la Tierra, un astronauta de élite de la colonia espacial Kepler debe tomar una decisión que sellará el destino de las personas en ambos planetas.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/i0lYLZXJ9gs"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/2oJYlZGxQQtZ0bz"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/0vd70qx0ako4lp1"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/pnhjk75i8x7l"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/jyeh8sutts0m"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/4495lpu6lcv8"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/ijp8e598oe0l"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/mgzn4i5wkwg78m-"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1w6kLyHso5swYBssZLYYDB-chg54IRfKB/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Criaturas [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.0[/COLOR]</title> 
 <genre>Terror,Acción,Comedia,Ciencia ficción</genre>
 <year>2021</year>
