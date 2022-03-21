@@ -6,6 +6,18 @@
 
 
 <item>
+<title>[COLOR white] Un lugar seguro [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.2[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/eymTgzHgYretvL5mT7pwznX4p34.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mbxPR3VtGXIRIX5jEUfulJd9A0J.jpg</fanart>
+<info>Una madre soltera que padece una enfermedad terminal conoce a un encantador soltero mientras lidia con el futuro de su testarudo hijo de seis años.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/YuBbzFcf4ek"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/1JQQ7vmgAJfekzq"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/wn0qzrx6c0qql0w"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/zwstzph3251l"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/z9ff88csierd"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/w4rpbv0088gn"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/b2y0frmneefa"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/wrn56in3x3jmw0x"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1rdmtI4JvUevEbwTixO3kw32JF-GgKbCq/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Competencia oficial [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.4[/COLOR]</title> 
 <genre>Comedia,Drama</genre>
 <year>2022</year>
