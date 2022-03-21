@@ -2,8 +2,20 @@
 <items>
 
 
+
+
 <item>
-<title>[COLOR white]La muerte de Superman. Parte 1 [COLOR gold](Animacion)(2018)[/COLOR]</title> 
+<title>[COLOR white]Batman:Gotham a luz de gas [COLOR gold](2018)[/COLOR]</title> 
+<genre>Animacion,Ciencia ficcion,Accion,Suspense</genre>
+<year>2018</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/tGDDCskQyTkbIyD5P6i7qD6cpHl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/o1c4eXxW4BFXtk1CB80NzYmbQDD.jpg</fanart>
+<info>Adaptación de la novela gráfica creada por Brian Augustyn y Mike Mignola, que sitúa a Batman en el siglo XIX con Jack el Destripador como villano.</info>
+<urlsolve>https://www.fembed.com/v/jndqjsdzlm3x-72</urlsolve>
+</item>
+
+<item>
+<title>[COLOR white]La muerte de Superman. Parte 1 [COLOR gold](2018)[/COLOR]</title> 
 <genre>Animacion,Ciencia ficcion,Accion,Drama</genre>
 <year>2018</year>
 <thumbnail>https://www.themoviedb.org/t/p/original/2eTqYQ2g0hKOuYfIazgy2EdH1SS.jpg</thumbnail>
@@ -13,7 +25,7 @@
 </item>
 
 <item>
-<title>[COLOR white]La muerte de Superman. Parte 2: El reinado de los superhombres [COLOR gold](Animacion)(2019)[/COLOR]</title> 
+<title>[COLOR white]La muerte de Superman. Parte 2: El reinado de los superhombres [COLOR gold](2019)[/COLOR]</title> 
 <genre>Animacion,Ciencia ficcion,Accion</genre>
 <year>2019</year>
 <thumbnail>https://www.themoviedb.org/t/p/original/vkpysKRxELppiBohAlVeruvsCoP.jpg</thumbnail>
@@ -23,13 +35,23 @@
 </item>
 
 <item>
-<title>[COLOR white]Superman:Hijo Rojo [COLOR gold](Animacion)(2020)[/COLOR]</title> 
+<title>[COLOR white]Superman:Hijo Rojo [COLOR gold](2020)[/COLOR]</title> 
 <genre>Animacion,Ciencia ficcion,Accion</genre>
 <year>2020</year>
 <thumbnail>https://www.themoviedb.org/t/p/original/p55DBjjWnU421XqEDQhnP512UiK.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/dzDLtgP77nV6klje5yI4g3daPDy.jpg</fanart>
 <info>Ambientada en la Guerra Fría, Red Son nos presenta a un Superman que aterrizó en la URSS durante la década de 1950 y crece para convertirse en un símbolo soviético que lucha por la preservación de la marca del comunismo de Stalin.</info>
 <urlsolve>https://www.fembed.com/v/qzmw6te5r1m2y5y</urlsolve>
+</item>
+
+<item>
+<title>[COLOR white]Superman y Batman:Enemigos Publicos [COLOR gold](2009)[/COLOR]</title> 
+<genre>Animacion,Ciencia ficcion,Accion,Aventura,Familia</genre>
+<year>2009</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/qYckc7dwtuIUlFEx1lallXFfYka.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2GIA8FKNxI69RnytQquoDbrAJ7L.jpg</fanart>
+<info>Largometraje que adapta el cómic homónimo de Jeph Loeb y Ed McGuinness. La historia presenta a Lex Luthor como presidente de los Estados Unidos. Con su poder, decide inculpar al hombre de acero (Superman) y al murciélago (Batman) en un crimen, provocando cacería por sus cabezas.</info>
+<urlsolve>https://www.fembed.com/v/nd1ejt24w3mp0-p</urlsolve>
 </item>
 
 
