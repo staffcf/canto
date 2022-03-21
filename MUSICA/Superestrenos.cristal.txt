@@ -5,6 +5,17 @@
 =======================================================================================
 
 
+<item>
+<title>[COLOR white] La aspirante [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.5[/COLOR]</title> 
+<genre>Drama,Suspense</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/zIkGGiQBNITG9vVxgmf6MXQ1gT1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ic8h5oYQWwqQWPyfpZUSomZTdao.jpg</fanart>
+<info>Una estudiante de primer año de la universidad queer se une al equipo de remo de su universidad y emprende un viaje físico y psicológico obsesivo para llegar al mejor bote universitario, sin importar el costo.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/xlTISOW7bvc"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/eKO9KKKOq4cYaPz"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/dqvm8zq4u3mjg0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/c13ipulx4spc"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/n7676okodqlv"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/pdqv599hpv3f"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/riph60iqmt5d"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/xpx57c5j0eql6z7"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1i7XfDunDVggQJfwjyW4cAn8-DIgTtgdi/view"}</urlsolve>
+</item>
+
+
 
 <item>
 <title>[COLOR white] Hombre muerto no sabe vivir [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.7[/COLOR]</title> 
