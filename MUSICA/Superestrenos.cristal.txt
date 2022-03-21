@@ -6,6 +6,18 @@
 
 
 <item>
+<title>[COLOR white] Competencia oficial [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.4[/COLOR]</title> 
+<genre>Comedia,Drama</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/aTS9GzhfHbof7LeR9GYZWKi8L5F.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wXqSdL5rKPySTA2RTWdoA7kiXBI.jpg</fanart>
+<info>Dos actores de muy diferentes trayectorias chocarán por sus métodos contrapuestos durante la preparación de una película financiada por un millonario ávido de notoriedad y dirigida por una prestigiosa y algo excéntrica directora.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Lutwmc_xT48"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/4yW0W4PmMVuKKMD"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/xo7x8nrrbmel6d"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/12lf5ca6oidx"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/uryxib8z1ut3"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/al41u4900s19"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/6t8i2bigtait"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/8ql36h81ek74-78"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/14H2gsYuNYu0WrQmtxlyD4iAp9Rfn4S72/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] La aspirante [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.5[/COLOR]</title> 
 <genre>Drama,Suspense</genre>
 <year>2021</year>
