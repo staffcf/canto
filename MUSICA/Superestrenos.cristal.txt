@@ -6,6 +6,18 @@
 
 
 <item>
+<title>[COLOR white] Criaturas [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.0[/COLOR]</title> 
+<genre>Terror,Acción,Comedia,Ciencia ficción</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/f0mO09HUkeYv6DGU51vouK33rCt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rVm29NXZGoPrsBGfAbr8kUtbk0X.jpg</fanart>
+<info>Un grupo de estudiantes de astronomía obtienen más de lo que esperaban después de encontrar a un extraterrestre herido que está siendo atacado por un grupo de Criaturas sedientas de sangre.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/v1X452DvNjU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/aoVZDVgb7yTxvOz"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/7r1zx66likx6j8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/orsxla9749zk"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/fgz09l42497f"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/twcyutwuxkw7"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/kib8ubd5cpn8"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/42njphzd0dxxqxn"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1WACLwx8KgA7X6BxOzpQV-zpbx0M329vN/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Un lugar seguro [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.2[/COLOR]</title> 
 <genre>Drama</genre>
 <year>2022</year>
