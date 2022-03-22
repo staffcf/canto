@@ -2114,6 +2114,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Hit[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Hit</externallink>
+<info>Hugo Ibarra Toledo es un profesional de la educación al que recurre Ester, la directora de un centro de educación secundaria en el que la convivencia escolar se ha vuelto insostenible. HIT, el acrónimo del nombre del protagonista, es un personaje polémico, marcado por un traumático pasado, que selecciona a un grupo de alumnos y les ofrece unas clases nada convencionales. A través del original método de trabajo de HIT, cada capítulo aborda temas como la soledad de los jóvenes en la era de las redes sociales, el sexo y las adicciones, o la falta de apoyo al trabajo de los docentes.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/oICH30CjmrTYkbr3hya7pd4RVrp.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iZsLkD1Pa9FLQj0jHsaW6lBdsVm.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Homecoming[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Homecoming</externallink>
@@ -3209,6 +3218,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 <info>Los encuentros con monstruos góticos, incluyendo ángeles y hombres-lobo, llevan a las personas que los sufren a hacer cualquier cosa con tal de reparar sus vidas, demostrando de este modo la delgada línea que separa al hombre de las bestias.</info>
 <thumbnail>https://i.imgur.com/j5dPexl.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/8l2Yww7XGCBXIXllloQin0zLhwR.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Monstruos de Cracovia[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Monstruos.de.cracovia</externallink>
+<info>Una joven atormentada por su pasado se une a un profesor enigmático y a su grupo de prodigiosos alumnos que investigan sucesos paranormales... y luchan contra demonios.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/bBzkreVliFn18zFBjysanZnC3Yq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3vOh84wLx47L1vhNTUuf1Z0zv2i.jpg</fanart>
 </item>
 
 <item>
