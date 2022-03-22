@@ -6,6 +6,17 @@
 
 
 <item>
+<title>[COLOR white] Sex Appeal [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.3[/COLOR]</title> 
+<genre>Comedia,Romance</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/mpwXOeSSQdBjUpyQqf6YHYbSTFO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sqLNgWTMBhLBRY26SwwfWcSI5qq.jpg</fanart>
+<info>Avery, una adolescente con tendencia al perfeccionismo, recluta a su amiga Larson para que la ayude a prepararse para su primera vez con su novio a larga distancia.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/715iY_3O3hg"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/wV9joWMdZ6TWdP"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/mdwmvo61fo4vvm"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/8kdprcvro4t8"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/cpbqbq9pbwpf"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/m1nlvso7sz5d"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/dznsd50q2gnb"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/42njphzr--ez1jz"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1c3oP36Agkp3tcVLEaph6ZDqreV1tMIX_/view"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] La colonia [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.7[/COLOR]</title> 
 <genre>Ciencia ficción</genre>
 <year>2021</year>
