@@ -1961,6 +1961,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Guerreras[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Guerreras</externallink>
+<info>Septiembre de 1939. Polonia está siendo bombardeada. Irka huye del hospital donde trabaja y Ewka sale de la cárcel. Marysia, por su parte, consigue escapar del gueto. Esta es la realidad de tres jóvenes en la Polonia ocupada por los nazis.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/dWYpYUs0EgRNExQomCZM6IBxvdA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lOxQBXfQgh63krLe9wmdTBnSfX1.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Guilt[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Guilt</externallink>
@@ -3191,6 +3200,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 <info>Serie de TV (2017-2019). 2 temporadas. 19 episodios. Año 1977. Dos agentes del FBI (Jonathan Groff y Holt McCallany) revolucionan las técnicas de investigación para encontrar las respuestas a cómo atrapar a asesinos en serie y mentes psicópatas. Adaptación del libro "Mind Hunter: Inside FBI’s Elite Serial Crime Unit", escrito por Mark Olshaker y John E. Douglas.</info>
 <thumbnail>https://i.imgur.com/SgjqGl2.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/5hn1nitcqaWU6Hm06yDHA9Bdcly.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Miracle Workers[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Miracle.workers</externallink>
+<info>Una comedia ambientada en las oficinas de Heaven Inc. Cuando Dios planea destruir la Tierra, dos ángeles de bajo nivel deben convencer a su jefe de salvar a la humanidad. Le apuestan a que pueden lograr su milagro más imposible: ayudar a dos humanos a enamorarse.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/2rTZrFxEXAb6y2Fwj5oHP2jOwhx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ljIfVx7z5OWxFfxzXUN3ftTwJv9.jpg</fanart>
 </item>
 
 <item>
@@ -4528,7 +4546,7 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 </item>
 
 <item>
-<title>[COLOR darkgoldenrod]* [COLOR white]The Mandalorian[COLOR white][/COLOR]</title>  
+<title>[COLOR gold]* [COLOR white]The Mandalorian[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/KIDS/SERIES/The.mandalorian.xml</externallink>
 <info>Ambientada tras la caída del Imperio y antes de la aparición de la Primera Orden, la serie sigue los pasos de Mando, un cazarrecompensas perteneciente a la legendaria tribu de los mandalorianos, un pistolero solitario que trabaja en los confines de la galaxia, donde no alcanza la autoridad de la Nueva República.</info>
@@ -4687,6 +4705,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 <info>Esta provocativa y honesta serie sigue a un grupo de personas bastante particular que, de pronto, ven cómo sus vidas se entrelazan unas con otras de las maneras más curiosas posibles, explorando sus propios conflictos, privaciones y dificultades. Pronto descubren que muchos de ellos comparten elementos comunes en sus vidas (algunos de ellos cumplen año el mismo día), incluso más de lo que cualquiera de ellos podrían esperar. This is Us es una serie que mezcla elementos de comedia y drama, y en la que los personajes deben lidiar con los aspectos difíciles de la vida, demostrando que el amor es una fuerza imparable y que los humanos son capaces de resistir más de lo que creen.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/nbKEJpUJP2ZTQxUdG8FvPYAa8wC.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/frNEERYvgDAThEcCR5FKzggktsR.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Tierra Natal[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Tierra.natal</externallink>
+<info>Dos hermanos belgas creen haber encontrado un filón: un negocio de importación de tierra de Marruecos para enterrar a musulmanes fallecidos en Bélgica.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/2Cum0U2yTrRxBNYJJRUuo6nJ0P4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sOhofNXcbWE2Y2UjHQxmEvQVKG5.jpg</fanart>
 </item>
 
 <item>
