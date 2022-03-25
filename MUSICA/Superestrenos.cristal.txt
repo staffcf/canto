@@ -6,6 +6,18 @@
 
 
 <item>
+<title>[COLOR white] ¡Canta! 2 [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.2[/COLOR]</title> 
+<genre>Comedia,Animación,Familia,Música</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/gR2o0LBWq32oGdIVqeIloO3KDxY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ba0Q30XDjJnfnZjFr1PfCaIj0qZ.jpg</fanart>
+<info>Buster Moon y sus amigos deben persuadir a la estrella del rock Clay Calloway para que se una a ellos en el estreno de un nuevo espectáculo.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/pWtR3ZvfOxY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/LO3qr68lWwIRrVG"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/9nz9dq98ce37zj"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/y4oqrje27sci"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/9tzmntu3ya3i"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/9d3fwbg8ugiv"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/a4e8jc1y44un"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/7mwj4sgwm-znkgd"},{"titulo" : "[COLOR white]Drive 4K Dolby Vision [/COLOR]","url" : "https://drive.google.com/file/d/1XHeU8zTaDgOqBb6JM3JsYqkG4j2as1Vr/view"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1VZaIaYKxpWwLRRc6_4Z2BLU1p46u9N_R/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Sex Appeal [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.3[/COLOR]</title> 
 <genre>Comedia,Romance</genre>
 <year>2022</year>
