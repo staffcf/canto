@@ -16,6 +16,16 @@
 </item>
 
 
+<item>
+<title>[COLOR white] Licorice Pizza [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.2[/COLOR]</title> 
+<genre>Drama,Comedia</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/5ASO5vN6tImSLqw2BhLBxnrwVPd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hB4ibOHXm1Xl0IbuYVioktDGUWJ.jpg</fanart>
+<info>Años 70 en el valle de San Fernando. Un estudiante de instituto lucha por compaginar su vida estudiantil con su faceta de prometedor actor juvenil.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/f_-BmqjQJME"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/3ooMWMK1Ajsdey0"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/mdwmllrntl0v0r"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/f8mry94nsrix"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/qdqn8dzwk2wo"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/vpp0hl9fh9vm"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/evll4f6ifxan"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/kx4-1i3kdkx5gk0"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1iLFLGRyAUj2WcmQT4QtBKsFFR3fA7kLT/view"}</urlsolve>
+</item>
+
 
 <item>
 <title>[COLOR white] Sex Appeal [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.3[/COLOR]</title> 
