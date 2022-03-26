@@ -509,6 +509,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Bridge And Tunnel[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Bridge.and.tunnel</externallink>
+<info>Ambientada en los años 80. Un grupo de graduados universitarios quieren perseguir sus sueños en Manhattan, pero no se desapegan del todo de su vida en Long Island.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/shfisDZ45uRBg35NuDRfIrLfcKX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7rVTIfwi2Pl8mlpd61qrS1xsceE.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Britannia[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Britannia.xml</externallink>
@@ -714,6 +723,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 <info>Serie de TV (2018-Actualidad). 3 temporadas. 30 episodios. Secuela de "Karate Kid". 30 años después de su enfrentamiento final en 1984 en el torneo de karate All Valley, Johnny Lawrence (William Zabka) está en un momento malo de su vida. Sin embargo, tras ayudar a Miguel (Xolo Maridueña), un niño que sufre bullying, Johnny decide volver a abrir el dojo Cobra Kai. El problema es que esto vuelve a desatar la rivalidad con Daniel LaRusso (Ralph Macchio), que ahora es un hombre de negocios felizmente casado, pero al que le falta algo tras la muerte de su mentor, el Sr. Miyagi. </info>
 <thumbnail>https://i.imgur.com/px0eOZ0.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/xWmDBmsabRm6IE5FcfU9CTQCPtl.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Colapso En El Canal De Suez [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Colapso.en.el.canal.de.suez</externallink>
+<info>En marzo de 2021, el Canal de Suez estuvo bloqueado durante seis días después de la encalladura del Ever Given, un buque portacontenedores de 20.000 TEU más grande que el Empire State Building.  ¡Con cientos de barcos atascados en ambos lados, se crea un atasco catastrófico con un precio diario asombroso de $ 10 mil millones!  Este nuevo documental investiga los orígenes de este percance épico, narrando cada paso del rescate dramático con el uso de imágenes de archivo dramáticas, CGI y entrevistas clave con expertos y testigos presenciales.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/fOUhfHqRYh518a9S9ZvcFEQUkXP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gFKzk8vhtMfwnnKMEaaLkjdChdf.jpg</fanart>
 </item>
 
 <item>
@@ -1673,6 +1691,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]En La piel De James Bond [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/En.la.piel.de.james.bond</externallink>
+<info>Documental de 45 minutos que repasa la carrera de Daniel Craig y su asociación al personaje de James Bond a lo largo de 15 años, incluyendo escenas nunca vistas detrás de las cámaras.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/kKG9gieki5wgEcVXLfnX1lbOcrO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gckT7aXbXNaeLGmGvbsPKrKLosT.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Entrevias[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Entrevias</externallink>
@@ -2292,6 +2319,15 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 <info>Serie de TV (2021-). 8 episodios. "Jupiter's Legacy" sigue la historia de los primeros superhéroes del mundo, que recibieron sus poderes allá por la década de 1930. Tras dedicar casi un siglo a proteger a la humanidad, ahora esta primera generación debe pasar el testigo a sus hijos para que continúen con su legado. Pero las tensiones van en aumento cuando los jóvenes, ansiosos por demostrar su valía, no logran estar a la altura ni de la legendaria reputación pública de sus progenitores ni tampoco de los exigentes estándares personales de estos. </info>
 <thumbnail>https://i.imgur.com/65RgbDy.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/4YKkS95v9o9c0tBVA46xIn6M1tx.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Justicia[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Justicia</externallink>
+<info>Liverpool, 1989. Anne Williams está devastada por la pérdida de su hijo Kevin, de 15 años, quien murió trágicamente durante la semifinal de fútbol entre el Liverpool y el Nottingham Forest a causa de una avalancha. Anne, junto a otros padres y familiares de las 96 víctimas que perdieron la vida en el estadio de Hillsborough, lucha incansablemente por conocer la verdad y que se haga justicia.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/b2KyKiDUNHS2mKkvYVWukzJbNz0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fdcEhFM7F8HOVEswtVnBl43E4Q5.jpg</fanart>
 </item>
 
 <item>
