@@ -2811,6 +2811,15 @@ En paralelo a la serie, Enrique Urbizu realizó un montaje para cines en formato
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Los Bridgerton[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Los.bridgerton</externallink>
+<info>Inspirada en las exitosas novelas, esta serie presenta a los ocho inseparables hermanos de la poderosa familia Bridgerton y sus intentos por encontrar el amor.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/qaewZKBKmXjb4ZfFBb1LCug6BE8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uRiRwUYILexXlYBg39eaglOdgcl.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]los Diarios De Andy Warhol [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Los.diarios.de.Andy.Warhol</externallink>
