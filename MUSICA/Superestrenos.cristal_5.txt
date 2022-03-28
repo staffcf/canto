@@ -1174,5 +1174,16 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 
 
 
+<item>
+<title>[COLOR white] ¿Que invadimos ahora? [/COLOR][COLOR yellow](2015) [COLOR aqua]*7.3[/COLOR]</title> 
+<genre>Documental</genre>
+<year>2015</year>
+<thumbnail>https://i.imgur.com/NMr1rCe.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/u0MkKzk3WwfrV7GgRTXVoFTP5TA.jpg</fanart>
+<info>Sátira en la que Moore se embarca en una "invasión" por Europa para encontrar soluciones que se puedan aplicar a los problemas internos de Estados Unidos.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/v05y4re_tuM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/Bb87ALMx8pIykOW"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/xod16l98s8jv4j"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/x3gtd91part5"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/m58wcvdee71m"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ji3e6hktq1jl"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/tcv01u5sxqmo"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/r4nxrue017xnnl8"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1ULdHoahEvCEJQdGzIE8Rl2qOZOSAWCfA/view"}</urlsolve>
+</item>
+
+
 
 Pagina actual=>5<
