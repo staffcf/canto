@@ -1943,6 +1943,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Genius [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Genius</externallink>
+<info>La primera temporada se centra en el famoso físico Albert Einstein y está basada en la biografía de Einstein escrita por Walter Isaacson: Einstein: His Life and Universe, en la que podemos conocer la vida del físico, desde la cara oculta tras sus grandes logros científicos hasta su extraña vida familiar y las relaciones personales que van surgiendo a su alrededor.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/vWkaIc2TxCA6N0Fg63g2yNFUKe1.jpg</thumbnail>
+<fanart>https://i.imgur.com/IYe35U2.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Gente Ansiosa[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Gente.ansiosa</externallink>
