@@ -7,6 +7,18 @@
 
 
 <item>
+<title>[COLOR white] Juntos [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.2[/COLOR]</title> 
+<genre>Drama,Comedia</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/rLLB9RT9zVZ004ebuAe99J51Wlk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/g2xbutVPtv65Y5izhOrDqTkkNyq.jpg</fanart>
+<info>Un esposo y una esposa se ven obligados a reevaluarse a sí mismos y a su relación a través de la realidad del bloqueo de Covid-19.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/LrLI7-btZzU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/zK1b1QJb8WcGmb"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/6qzwzdxwux34n1"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/9k4dr18pkpbe"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/w4pebgqgz8nf"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/87o0o53axygj"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/vqeocgnnzbjv"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/g51ndt-k1r2rz16"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1Cj0-W_1-eufQ1oRpxz1ESjdDBqgeSrSv/view"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Prisioneros de Ghostland [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.0[/COLOR]</title> 
 <genre>Acción,Suspense</genre>
 <year>2022</year>
