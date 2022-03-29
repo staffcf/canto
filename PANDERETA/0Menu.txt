@@ -68,6 +68,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]800 Metros [COLOR gold]Docuserie[COLOR white][COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/800.metros</externallink>
+<info>El 17 de agosto de 2017, en Barcelona, una furgoneta recorrió a toda velocidad los 800 metros que separan la plaza Cataluña del mosaico de Joan Miró, atropellando a una multitud de personas. Unas horas después, tuvo lugar otro atentado en Cambrils (Tarragona). Estos ataques terroristas fueron perpetrados por jóvenes supuestamente integrados en la sociedad española. ¿Cómo pudo suceder algo así?</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/pJvuejEloJBrsg42V495mVbNxlf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6mxXwNeH2EJD7bLpJtbtWG9erak.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]A Los Gatos ni Tocarlos:Un Asesino En Internet [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/A.los.gatos.ni.tocarlos</externallink>
@@ -633,6 +642,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 <info>Tras la caída de Margaret Thatcher, los que ambicionan su puesto como líder de los conservadores ingleses (tories) se enfrentan entre sí como buitres. Francis Urquhart, es el jefe de organización de los Tories, la persona encargada de dirigir a los parlamentarios para que sigan la línea del partido. Es un personaje poderoso que se mueve entre bambalinas y que ejerce su poder desde la sombra, es el prototipo del inglés de clase alta: educado, tradicionalista y clasista hasta la médula. Para su desgracia, el candidato elegido es un liberal que pone más énfasis del que a él le gustaría en la política social. No sólo eso: es elegido Primer Ministro por una escasa mayoría y pronto resulta evidente que va a ser un líder bienintencionado y popular, pero débil. Además, a la hora de repartir los ministerios, no sólo desoye los consejos de Urquhart, sino que incumple su promesa de darle un ministerio. Desde ese mismo momento, Urquhart planea el acoso y derribo del Primer Ministro, tarea para la que está muy bien dotado, pues posee un ingenio absolutamente pasmoso para la intriga y la doblez. </info>
 <thumbnail>https://i.imgur.com/caMHX4w.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Catalina La Grande[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Catalina.la.grande</externallink>
+<info>Un relato del reinado de Catalina II de Rusia (1729-1796), llamada la Grande, y su apasionada relación con el tempestuoso líder militar ruso Grigory Potemkin (1739-1791), que le ayudó a rechazar las incursiones del Imperio Otomano, conquistar la península de Crimea y moldear el imperio para que en el futuro se convirtiera en una verdadera potencia mundial.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/2u3zDA65QecbkTGhVOCtHT7WUCO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xSfb3QuuIWhlbSX8rOeY9l8WkES.jpg</fanart>
 </item>
 
 <item>
