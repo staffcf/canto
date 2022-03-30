@@ -2069,6 +2069,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Habitacion Perdida[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Habitacion.perdida</externallink>
+<info>Narra las investigaciones de un detective en una misteriosa habitación de un hotel, que aparentemente es un portal a una dimensión o universo paralelo. Protagonizada por Peter Krause (A dos metros bajo tierra) y Julianna Margulies (Urgencias). </info>
+<thumbnail>https://www.themoviedb.org/t/p/original/vUF8NoYm8ck0nthQoypMbTjLs4f.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5GJj4MeRT0QEjwLk7T1iM0m9sKr.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Hackerville[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Hackerville</externallink>
@@ -3524,6 +3533,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 <info>Sobre el escenario del Teatro del Soho de Málaga, el actor Dani Rovira aporta su visión más sincera, delirante y sin filtros sobre el ser humano en estos tiempos.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/d7rumAlTcFuNdqolUQDH9ZdjQcA.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/grsvxOWsRVmlp0mgAuZLC5Tg3pi.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]On my Block[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/On.my.block</externallink>
+<info>On My Block, co-creado por Lauren Iungerich (creador de Awkward) y Eddie Gonzalez y Jeremy Haft, es una comedia sobre la madurez de cuatro amigos brillantes y conocedores de la calle que navegan a través del triunfo, el dolor y la novedad de la alta escuela ubicada en el áspero centro de la ciudad.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/aFHmGVDNLFmhLjDNbFuMSBOxUv5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uGYSKa349qWpNV6WgcdOhSTmX1P.jpg</fanart>
 </item>
 
 <item>
@@ -5159,6 +5177,15 @@ Ruawai Maaka consiguen deshacerse del demonio y así nace la Unidad Paranormal d
 <info>Un chef de San Francisco se convierte en el último elegido de una larga tradición de asesinos y debe evitar que los poderes místicos del Wu caigan en malas manos.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/amZBsaFhwe9wILpBfJenwU9KdCV.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/f0rWmWBn7lxDkx58ZdMZoYtcO1E.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Wu-tang[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Wu.tang</externallink>
+<info>A principios de la década de 1990 en Nueva York, durante el apogeo de la epidemia de crack, un músico visionario llamado Bobby Diggs, también conocido como The RZA, comienza a formar un súper grupo de una docena de jóvenes negros que eventualmente se convertirán en uno de los más improbables. Historias de éxito en la historia de la música estadounidense.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/kbZFfquhFg2EOUnKbZedWCs1kWO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wJuuGJ8d0rYQOljJ4alhvEgkFAl.jpg</fanart>
 </item>
 
 <item>
