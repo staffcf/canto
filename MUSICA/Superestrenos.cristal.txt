@@ -13,7 +13,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/nchaDv1TpVNAATnYoW2mrncGsKV.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/76gkn7aip0VWSJw36j7IBTGzlDe.jpg</fanart>
 <info>Una mujer persigue a su novio que se ha mudado a Marte.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/fau-7v8sRrc"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/DGPdRayp8gFkryG"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/6qzm3vv6frdp3g"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/w9mln34ueicc"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/0vmjsuh5zyw2"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/mhm8rwb092zl"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/enuag8uj26gc"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/6znj3t0lmzzykyy"},</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/fau-7v8sRrc"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/DGPdRayp8gFkryG"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/6qzm3vv6frdp3g"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/w9mln34ueicc"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/0vmjsuh5zyw2"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/mhm8rwb092zl"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/enuag8uj26gc"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/6znj3t0lmzzykyy"}</urlsolve>
 </item>
 
 
