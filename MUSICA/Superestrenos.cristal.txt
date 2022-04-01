@@ -6,6 +6,18 @@
 
 
 <item>
+<title>[COLOR white] La burbuja [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.0[/COLOR]</title> 
+<genre>Comedia</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/edYk5TSowZIDv138bCpF5ls3XI5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fDX5Y78yAOQvCYYjG0X4nvljbdj.jpg</fanart>
+<info>Para relanzar su carrera, una actriz se apunta a una secuela de gran éxito llena de cómicos percances y aprietos durante la pandemia.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/GhJ7JVgAdjw"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/zPX0r1prZ1Typ8"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/84gr6jj3u7prvl"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/s99o4p44fmc6"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/6a0bjp8oazpu"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/l2irsyycgkte"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/xfaukujs3y8f"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/zkp50sjy5kjmq0l"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] El sueno de Nate [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.6[/COLOR]</title> 
 <genre>Música,Familia,Comedia</genre>
 <year>2022</year>
