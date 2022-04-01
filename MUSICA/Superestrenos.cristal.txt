@@ -5,6 +5,17 @@
 =======================================================================================
 
 
+<item>
+<title>[COLOR white] El sueno de Nate [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.6[/COLOR]</title> 
+<genre>Música,Familia,Comedia</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/55gkFbie2Nbudo21rDpi6zG0XvC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aOaMvd3a5GUOZiHJRF5qgDttijp.jpg</fanart>
+<info>Un joven tiene grandes sueños de actuar en Broadway (Musicales), solo hay un problema: ni siquiera puede conseguir un papel en una obra de la escuela, pero cuando sus padres se van de la ciudad, Nate y su mejor amiga se escapan a Nueva York para tener una oportunidad única en la vida de demostrar que todos están equivocados.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/UTR0vHrGtx8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/0zVZqddp9pubqX8"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/9n3pdo1zarvpx4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/miotcydd1amr"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/omkfvkdiigml"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/qfo8fkx401p8"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/pmghrwh1pub4"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/jy3xpid-p5d3er0"}</urlsolve>
+</item>
+
+
 
 <item>
 <title>[COLOR white] Moonfall [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.1[/COLOR]</title> 
