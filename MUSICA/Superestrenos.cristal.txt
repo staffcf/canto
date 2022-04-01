@@ -5,6 +5,18 @@
 =======================================================================================
 
 
+
+<item>
+<title>[COLOR white] La familia Bloom [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.1[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/6uUxLmLeVb0UNa44T8dloNJba0R.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2dWWf6qjVU0TklCUKCUra1Yqfz3.jpg</fanart>
+<info>Sam Bloom es una madre que vive feliz con su marido y sus tres hijos. Un día un accidente la deja paralítica. Mientras ella y su familia luchan por adaptarse a su nueva situación, un aliado improbable se presenta en sus vidas en forma de un pájaro herido al que llaman Penguin por el color de su plumaje. La llegada de este animal es una bienvenida distracción para la familia Bloom, que finalmente marca una gran diferencia en Sam, enseñándola a vivir de nuevo.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/THHngCa5IH0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/p77Xb90JyYsrm3O"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/1vl1znokspq3k7"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/o1meo9dtm5q1"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/bkuq5jqscgh2"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/kb1o3hrxtpbs"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/8izh2zgcyf7q"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/em4n6s-6w47e3pl"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] La burbuja [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.0[/COLOR]</title> 
 <genre>Comedia</genre>
