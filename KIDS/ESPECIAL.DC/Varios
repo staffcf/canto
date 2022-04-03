@@ -23,6 +23,24 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://i.imgur.com/cfLe70t.jpg</fanart>
 </item>
 
+<item>
+ <title>[COLOR white]Actores de Superman [/COLOR]</title>
+ <link>$doregex[resolve]</link>
+<regex>
+<name>resolve</name>
+<expres><![CDATA[#$pyFunction
+import resolveurl
+def GetLSProData(page_data,Cookie_Jar,m):
+ url = 'https://www.youtube.com/watch?v=PXVjCkYOJz8'
+ streamLink = resolveurl.resolve(url)
+ return streamLink
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://i.imgur.com/3ebze9f.jpg</thumbnail>
+<fanart>https://i.imgur.com/cfLe70t.jpg</fanart>
+</item>
+
 
 <item>
  <title>[COLOR white]Calendario DCEU [/COLOR]</title>
@@ -145,6 +163,24 @@ import resolveurl
 def GetLSProData(page_data,Cookie_Jar,m):
   url = 'https://www.youtube.com/watch?v=[link_inteligente.param2]'
   return resolveurl.resolve(url)
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://i.imgur.com/3ebze9f.jpg</thumbnail>
+<fanart>https://i.imgur.com/cfLe70t.jpg</fanart>
+</item>
+
+<item>
+ <title>[COLOR white]Superman VS.[/COLOR]</title>
+ <link>$doregex[resolve]</link>
+<regex>
+<name>resolve</name>
+<expres><![CDATA[#$pyFunction
+import resolveurl
+def GetLSProData(page_data,Cookie_Jar,m):
+ url = 'https://www.youtube.com/watch?v=PXVjCkYOJz8'
+ streamLink = resolveurl.resolve(url)
+ return streamLink
 ]]></expres>
 <page></page>
 </regex>
