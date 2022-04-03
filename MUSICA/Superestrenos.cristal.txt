@@ -8,11 +8,11 @@
 
 <item>
 <title>[COLOR white] Gala de los Oscar [/COLOR][COLOR yellow](2022)[/COLOR]</title> 
-<genre>Programa,Espectaculo</genre>
+<genre>Programa,Espectaculo,Violencia</genre>
 <year>2022</year>
 <thumbnail>https://www.themoviedb.org/t/p/original/8BjJPRw1fbfgvUsdm0F82bSDiXh.jpg</thumbnail>
 <fanart>https://i.imgur.com/UFnlPac.jpg</fanart>
-<info>gala de los premios Oscar 2022</info>
+<info>Gala de los premios Oscar 2022</info>
 <urlsolve>https://www.fembed.com/v/w0dyjwsn4wgn6dy3</urlsolve>
 </item>
 
