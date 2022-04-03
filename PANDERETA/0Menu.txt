@@ -3248,6 +3248,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]McMillions [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Mcmillions</externallink>
+<info>Una descripción detallada de la estafa del juego McDonald's Monopoly durante la década de 1990 según lo dicho por los participantes en el caso, incluidos los ganadores del premio y los agentes del FBI que atraparon al oficial de seguridad que orquestó todo el esquema.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/xyUciqZC5hGYJqefmbGbTy5fxYh.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jfBxBOGZX1hqpVHvLM3J571PPAy.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Medianoche En El Pera Palace[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Medianoche.en.el.pera.palace</externallink>
