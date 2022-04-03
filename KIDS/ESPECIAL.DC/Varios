@@ -32,7 +32,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres><![CDATA[#$pyFunction
 import resolveurl
 def GetLSProData(page_data,Cookie_Jar,m):
- url = 'https://www.youtube.com/watch?v=TpsLgKtbqj4&t'
+ url = 'https://www.youtube.com/watch?v=p5iBmZ5bErM'
  streamLink = resolveurl.resolve(url)
  return streamLink
 ]]></expres>
@@ -43,7 +43,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
- <title>[COLOR gold]*[COLOR white]Curiosidades[/COLOR]</title>
+ <title>[COLOR white]Curiosidades[/COLOR]</title>
 <link>$doregex[link_inteligente]</link>
 <regex>
 <name>link_inteligente</name>
@@ -89,7 +89,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
- <title>[COLOR gold]*[COLOR white]Las Mejores Canciones de DC[/COLOR]</title>
+ <title>[COLOR white]Las Mejores Canciones de DC[/COLOR]</title>
 <link>$doregex[link_inteligente]</link>
 <regex>
 <name>link_inteligente</name>
