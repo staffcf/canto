@@ -110,7 +110,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://i.imgur.com/zMg28gY.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[#$pyFunction
-url = 'https://www.youtube.com/watch?v=TJIQcmI9Btk&list=PL7NXu9RqOGYUrVEkK2-47E6eE9X1bPg-g'
+url = 'https://youtube.com/playlist?list=PLrGwZ5BUq8sRxgVQxIx1MU9L9VazqtzmV'
 import re,six
 $doregex[conector_youtube]
 
