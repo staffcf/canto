@@ -178,7 +178,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres><![CDATA[#$pyFunction
 import resolveurl
 def GetLSProData(page_data,Cookie_Jar,m):
- url = 'https://www.youtube.com/watch?v=PXVjCkYOJz8'
+ url = 'https://www.youtube.com/watch?v=LK81YFQlSt8'
  streamLink = resolveurl.resolve(url)
  return streamLink
 ]]></expres>
