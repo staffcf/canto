@@ -1637,6 +1637,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El Ultimo Autobus[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.ultimo.autobus</externallink>
+<info>Tras embarcarse en una excursión capaz de cambiar vidas, un grupo de avispados estudiantes luchan para salvar a la humanidad de un ejército de implacables drones.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/tv1jyfYC0ZClQod9v6IbhwP6ak.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wJ7F26oy8jsE8E3KwaBYO0jTtaa.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El Vecino[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.Vecino</externallink>
@@ -4780,6 +4789,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]The Spectacular[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.spectacular</externallink>
+<info>A fines de la década de 1980, un detective antiterrorista holandés se propone acabar con una célula del IRA que ataca despiadadamente al personal militar inglés de permiso en el sur de los Países Bajos.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/cnafZTDqtOErbZdKwqiSuRS7JmX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xAbeE2HDM0Bbj6DtVs8I17Vt56Q.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]The South Westerlies[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.south.westerlies</externallink>
@@ -4993,6 +5011,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 <info>Richard Altman, un juez honrado y respetado, ve su vida patas arriba cuando su hijo Lucas comete un atropello y se da a la fuga, dejando a un motociclista por muerto. Richard empuja a su hijo a denunciarse, pero se da cuenta de que la víctima no es otra que el hijo de un poderoso mafioso y que Lucas firmaría su sentencia de muerte entregándose a las autoridades. Listo para hacer cualquier cosa por salvar a su hijo, el juez negará todos sus ideales, pondrá su dedo en una marcha infernal y comenzará un verdadero descenso a los infiernos.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/7rZtWkCscTiSEOT7G9FymYG5JSY.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/46nzmVjKQbL4b7xVT8h2OImzO3z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Un Lobo Como Yo[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Un.lobo.como.yo</externallink>
+<info>Gary (Josh Gad) vive con su hija Emma (Ariel Donoghue) en los suburbios de Adelaida, en el sur de Australia. Ambos se están recuperando de la pérdida de la madre de Emma y luchan por conectar entre sí. Una mañana, el coche en el que van Gary y Emma es embestido por un Jeep que se salta un semáforo en rojo. Emma sufre un ataque de pánico y es consolada por Mary (Isla Fisher), la dueña del Jeep, que, para asombro de Gary, es capaz de calmar a Emma de una manera que él no es capaz. Esa misma semana, Gary y Mary empiezan a conocerse durante una cita, pero Mary se muestra reacia a compartir más sobre ella, sin saber ninguno de los dos que sus universos seguirán chocando y una fuerza mayor parece querer unirlos.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/8eZerQDLDkdvQ7vrv6Slkr36sHX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hs2iSxAit1yOmlBgRuQlQxmpt0t.jpg</fanart>
 </item>
 
 <item>
