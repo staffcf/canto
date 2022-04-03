@@ -18,7 +18,7 @@
 <fanart>https://i.imgur.com/zMg28gY.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[#$pyFunction
-url = 'https://youtu.be/rtWdkdpFgio'
+url = 'https://www.youtube.com/watch?v=TpsLgKtbqj4&t'
 import re,six
 $doregex[conector_youtube]
 
