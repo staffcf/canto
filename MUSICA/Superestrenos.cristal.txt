@@ -7,6 +7,18 @@
 
 
 <item>
+<title>[COLOR white] La protegida [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.6[/COLOR]</title> 
+<genre>Acción</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/IRdFT8ikE5HDWwQjEpZqnY9o7P.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nWIbeFVu29cWUkQ90ckCeNhhqEL.jpg</fanart>
+<info>Un hacker y sus socios roban millones de dólares accidentalmente a un jefe del crimen, y se verán obligados a esconderse para evitar las consecuencias.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/TgLRx6nPWiI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/1JOxbZ0kZ8I6v4"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/l6o87jgxs0rxr7"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/jd6flgfo4ioj"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/i6nqrc7osddo"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ni67tu05ahu8"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/5dn3eplcecte"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/3p1j2cm-2r5l5yj"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Demonic [/COLOR][COLOR yellow](2022) [COLOR aqua]*4.8[/COLOR]</title> 
 <genre>Terror,Suspense</genre>
 <year>2022</year>
