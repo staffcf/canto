@@ -5,6 +5,18 @@
 =======================================================================================
 
 
+
+<item>
+<title>[COLOR white] Black Box [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.2[/COLOR]</title> 
+<genre>Ciencia ficción,Misterio</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/4uE9pODBs3YAywu3Fl9mM1njuAV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nD4mdmBWku8iRoInzTYLhU9hsLg.jpg</fanart>
+<info>¿Qué pasó a bordo del vuelo Dubai-París antes de que se estrellara en los Alpes? Mathieu Vasseu, un técnico de la BEA, la autoridad responsable de las investigaciones de seguridad en la aviación civil, es el investigador jefe en este desastre aéreo sin precedentes. ¿Error del piloto? ¿Fallo técnico? ¿Acto terrorista? El cuidadoso análisis de las cajas negras empujará a Mathieu a realizar su propia investigación en secreto. Aún no sabe hasta dónde le llevará su búsqueda de la verdad.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/jdUQtCr3AlM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/XP7ZbwoPVWtZxk"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/n0op8vpmtljvee7"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/dy1ak1rifurp"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/4331ld9h6yng"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/za85njbyfu4b"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/jrfj7f8dd0f4"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "poner"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Tres Pisos [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.2[/COLOR]</title> 
 <genre>Drama</genre>
