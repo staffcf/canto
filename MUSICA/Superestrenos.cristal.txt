@@ -7,6 +7,18 @@
 
 
 <item>
+<title>[COLOR white] El triangulo del diablo [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.3[/COLOR]</title> 
+<genre>Ciencia Ficción,Fantasía,Acción</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/j5ErORq2j7yzr2vNZ7GFXTrEKPm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qJOVfk6snrK5tdc6FBcpBv6LJF1.jpg</fanart>
+<info>Cuando un grupo de biólogos marinos aterriza en el Triángulo de las Bermudas, se dan cuenta de que han tropezado con la ciudad perdida de Atlántida. Pero rápidamente descubren que la ciudad no es amigable, y sus habitantes humanoides están planeando la dominación mundial utilizando las pilas de armas y tecnología que han caído a través del Triángulo a lo largo de los siglos.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/HEj0DNNLTpA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/bkzM4ePjJWUxAD"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/o7op4ew8io8nx1"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/pypp1xil9wh5"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/88vhir9032mg"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/88tkovqrsu1a"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/3jtdnhxekqrs"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "poner"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Furia [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.2[/COLOR]</title> 
 <genre>Drama,Acción,Crimen</genre>
 <year>2022</year>
