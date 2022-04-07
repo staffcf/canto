@@ -3338,6 +3338,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Missing[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Missing</externallink>
+<info>Becca Winstone se entera de que su hijo, Michael, desaparece mientras estudia en el extranjero, y es una carrera contrarreloj cuando ella viaja a Europa para localizarlo. Un giro sorprendente de los acontecimientos revela cuán lejos irá una madre para proteger a su familia. Lugares exóticos y giros emocionantes te mantendrán atrapado en "Missing".</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/m6vmCXWDU5iNPxDag5Wi0nmUoU0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oeXlxuE1jWF0YQ2iTjlhWi4MT20.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Missions[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Missions.txt</externallink>
@@ -3416,6 +3425,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 <info>6 episodios. Nueva serie protagonizada por Will Arnett que se pone en la piel de un detective que, en cada episodio, debe resolver un asesinato con una nueva estrella invitada famosa.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/6GFg5BLWkPZilFWZt5AbnzegOAD.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/kipoZvrWRb45WoZxyO15TuKHH4i.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Mystery Road[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Mystery.road</externallink>
+<info>Cuando hay una misteriosa desaparición en una estación de ganado interior, el detective Jay Swan es asignado para investigar. Trabajando con la policía local Emma James, la investigación de Jay descubre una injusticia pasada que amenaza la estructura de toda la comunidad.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/7QXRJG5G7AvFZAl2j6OfruwTJFa.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/s9RsbhmuwDcLoIY5i5b6cBBnGgZ.jpg</fanart>
 </item>
 
 <item>
@@ -3578,6 +3596,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 <info>On My Block, co-creado por Lauren Iungerich (creador de Awkward) y Eddie Gonzalez y Jeremy Haft, es una comedia sobre la madurez de cuatro amigos brillantes y conocedores de la calle que navegan a través del triunfo, el dolor y la novedad de la alta escuela ubicada en el áspero centro de la ciudad.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/aFHmGVDNLFmhLjDNbFuMSBOxUv5.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/uGYSKa349qWpNV6WgcdOhSTmX1P.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]One Lane Bridge[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/One.lane.bridge</externallink>
+<info>Durante una investigación de asesinato en Queenstown, un joven detective ambicioso despierta un don espiritual que pone en peligro el caso, su carrera y su vida. Dominic Ona-Ariki y Joel Tobeck protagonizan este drama criminal local con un giro oscuro y sobrenatural. Hecho con el apoyo de NZ On Air.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/AcTx0BxYuzk3cvf4YL0OSG27DHk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/boUUrICZYpmcocu05Ome7UkuBXi.jpg</fanart>
 </item>
 
 <item>
