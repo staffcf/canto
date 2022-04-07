@@ -7,6 +7,18 @@
 
 
 <item>
+<title>[COLOR white] Furia [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.2[/COLOR]</title> 
+<genre>Drama,Acción,Crimen</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/tFURJnWv5qW58x4OOrXt1GQEyr1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4G7216ezKodauyP7cvNswiEf33k.jpg</fanart>
+<info>Una mujer policía le hace a su exnovio una oferta que no puede rechazar: O se infiltra e informa sobre una banda de gamberros, o su hermano va a la cárcel.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/SwJ6HeZxV08"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/YZXXgeRdkjTvbq7"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/zp7kk8l9hgq83l"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/o0fnfdd787gc"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/96j80chawerv"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/lzbpgqjqjwcb"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/eunj06ute41l"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "poner"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Black Box [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.2[/COLOR]</title> 
 <genre>Ciencia ficción,Misterio</genre>
 <year>2021</year>
