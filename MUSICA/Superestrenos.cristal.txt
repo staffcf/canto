@@ -30,6 +30,18 @@
 </item>
 
 
+
+<item>
+<title>[COLOR white] Granizo [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.0[/COLOR]</title> 
+<genre>Comedia,Drama</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/pnTp17HCwQ6EhsWfqzgwnUfhSym.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4RmqPPEJR5wa8rDRs2DO27lSH4g.jpg</fanart>
+<info>Después de que le llueven críticas por fallar en el pronóstico de una tormenta, un meteorólogo se refugia en la casa de su hija e inicia un viaje de autodescubrimiento.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/-F2watcvQQs"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/9O8ZGkWj4KsB0k"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/j9ep4p0nsdneej"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ulrxfwpq2lgt"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/gwtgaiotqqrw"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/87ep024yl8p8"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/suki8jqdcb1p"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/kx4-1i3kq7w37pl"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Medianoche en el Switchgrass [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.1[/COLOR]</title> 
 <genre>Crimen,Misterio,Suspense,Acción</genre>
