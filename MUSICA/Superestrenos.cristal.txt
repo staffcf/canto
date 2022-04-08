@@ -6,6 +6,30 @@
 
 
 
+
+
+<item>
+<title>[COLOR white] Metal Lords [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.5[/COLOR]</title> 
+<genre>Comedia,Drama,Música</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/uvCmMvlDvReOawCkkZ6JN5GEfAn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gc3QFVNWeTCk2J7XuDIPPoGUWNx.jpg</fanart>
+<info>Para Hunter y Kevin, dos adolescentes marginados, el camino a la gloria está claro: entregarse al metal, ganar la Batalla de Bandas y ser adorados como si fueran dioses.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/7UkGcrNz6K4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/vwJp2Jer3msP9X"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/gnqelqwqf8dnw8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/0uxbpnv7hq6v"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/liurmmmo0n3e"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/boka9mee7dbo"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/97likfk9ynrd"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/wrn56in485g4zqe"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Las niñas de cristal [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.0[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/ppF495JNP6poCCEAm4xM1nJEZzD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iCltUggpq3F8AAJT4zxJY7OVYFl.jpg</fanart>
+<info>Irene es una bailarina que trabaja en el Ballet Clásico Nacional como sustituta de la estrella protagonista. Sin embargo, un día esta fallece y es cuando la joven tendrá que estar bajo las órdenes del coreógrafo Antonio Ruz.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/6sVclyJpOEc"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/l7gg3L61a1i7PX1"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/0vqplq8vsl8kmo"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/fcgmcmwm49iw"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/amzzdt3z6c5w"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/qzoq6hoda0ms"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/cxua8n4irpsa"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/kx4-1i3k-d57klq"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Medianoche en el Switchgrass [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.1[/COLOR]</title> 
 <genre>Crimen,Misterio,Suspense,Acción</genre>
