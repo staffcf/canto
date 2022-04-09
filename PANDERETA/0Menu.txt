@@ -4735,6 +4735,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]The Last Narc[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.last.narc</externallink>
+<info>En 1985, el agente estadounidense de la DEA Enrique "Kiki" Camarena fue secuestrado, torturado y asesinado por los narcotraficantes más notorios de México. Treinta y cinco años después, tres ex integrantes del cartel comparten detalles sin precedentes. Esta es la historia de Camarena, el cartel de drogas en el que se infiltró y el narco que arriesgó todo para descubrir la verdad.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/s8Jw1Z4VppYC78enToW0fHG4Bk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wxj5ldVIFFX9NEXUi7jt3Ab1WKI.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]The Mandalorian[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/KIDS/SERIES/The.mandalorian.xml</externallink>
