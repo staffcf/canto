@@ -7,6 +7,16 @@
 
 
 
+<item>
+<title>[COLOR white] Steve y la liga de los monstruos [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.9[/COLOR]</title> 
+<genre>Familia,Comedia,Animación</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/sP2KYsRWbWNpviJ99ZzhwNwX5Vm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vbcjMsuQs1BbM9vjAY3rjBvhPlg.jpg</fanart>
+<info>En un mundo en el que los monstruos están domesticados y la lucha de monstruos es un deporte popular, Winnie quiere seguir los pasos de su padre convirtiendo a un monstruo en un luchador.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/cxW4KaTkmWE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/Y14RMJaLKAhv9WB"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/en91kpnwcwldrm"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/o2ch7rkvoa4d"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/jd7cxrha9wok"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/a7fwlybqr6ku"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/v0qtanqa86ab"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/jy3xpid-1m06dye"}</urlsolve>
+</item>
+
 
 <item>
 <title>[COLOR white] Metal Lords [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.5[/COLOR]</title> 
