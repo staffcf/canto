@@ -6,6 +6,16 @@
 
 
 
+<item>
+<title>[COLOR white] Entre dos mundos [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.2[/COLOR]</title> 
+<genre>Romance,Ciencia ficción,Drama</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/7RcyjraM1cB1Uxy2W9ZWrab4KCw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/i9rEpTqC6aIQOWOc4PDEEAE3hFe.jpg</fanart>
+<info>Después de sobrevivir a un accidente automovilístico que le quitó la vida a su novio, una adolescente cree que él está intentando reconectarse con ella desde el más allá.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/jk_Pvl0qx6k"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/MrBRw0RlMMTmpr8"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/pkozr9p6up8qmo"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/9rtpnoxcqc7x"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/3ha889745zfb"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/asn3peijcl3g"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/89pyh00oxce5"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/q3nx0ieqy0pdk2q"}</urlsolve>
+</item>
+
 
 <item>
 <title>[COLOR white] Steve y la liga de los monstruos [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.9[/COLOR]</title> 
