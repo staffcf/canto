@@ -6,6 +6,18 @@
 
 
 
+
+<item>
+<title>[COLOR white] HeatWave [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.0[/COLOR]</title> 
+<genre>Suspense</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/AeeXeyiiPOyybnjSnJoSTixOZQq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wdcSkdKRwiABA5SdNth1uAnErzw.jpg</fanart>
+<info>Claire, una joven ambiciosa, comienza a trabajar para un exitoso y rico hombre de negocios, pero sin saberlo, se involucra en una aventura con su esposa.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/WYdJTunjxYA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/dAkyLGpO8WCbwJ"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/n0omxv6jsd6qv1"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/3jip8s8hr8gj"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/p2mt2p565cf4"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/k3mab225bywu"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/x52h2fz2gfl2"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/zkp50sjy-76-d66"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Entre dos mundos [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.2[/COLOR]</title> 
 <genre>Romance,Ciencia ficción,Drama</genre>
