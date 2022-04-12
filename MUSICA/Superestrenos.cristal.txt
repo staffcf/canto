@@ -8,6 +8,17 @@
 
 
 <item>
+<title>[COLOR white] El amor en su lugar [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.4[/COLOR]</title> 
+<genre>Drama,Romance,Música</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/1mcKinvK1ohfqxyTJdkLSMQof1s.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gEFVc7FWY476ZuiCaAUg7uasgoH.jpg</fanart>
+<info>Enero de 1942, 400.000 judíos de toda Polonia llevan más de un año confinados por los nazis en un estrecho gueto en mitad de la ciudad. Fuera del muro, la vida sigue adelante. Dentro, sus habitantes luchan por sobrevivir. Sin embargo, el alto muro de ladrillos no consigue parar la creación de un grupo de actores judíos que, en una helada noche invernal, interpreta una comedia musical en el teatro Fémina, 'El amor busca apartamento', obra de teatro escrita por el dramaturgo Jerzy Jurandot durante su reclusión en el gueto de Varsovia. Los espectadores ríen y se emocionan ante una historia de amor, olvidando por un momento su difícil situación.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/n9PMlHlG0bw"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/PDlX2DkO0xU00aX"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/en9ewopesj9g98"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/j5h3ajcxnsr6"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/lepon5tw04rq"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/nmiy2kc6adgm"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/9ds2nq94kud5"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/g51ndt-k400kwe8"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Cerca de ti [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.1[/COLOR]</title> 
 <genre>Drama</genre>
 <year>2022</year>
