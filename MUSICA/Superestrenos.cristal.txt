@@ -7,6 +7,16 @@
 
 
 
+<item>
+<title>[COLOR white] Cerca de ti [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.1[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/rGpFQl4G3HCUKakL6rYFxT8sCq7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wSCygJhMGT7cErw2MpbQ6ACohTl.jpg</fanart>
+<info>John, un limpiador de ventanas de 35 años, dedica su vida a criar a su hijo Michael, un niño de cuatro años a quien su madre abandonó justo después de nacer. Ambos llevan una vida simple, elaborada a través de rituales diarios, en una relación de amor sin fisuras. Por desgracia, a John sólo le quedan unos cuantos meses de vida. Dado que no tiene familia, decide invertir los días que le quedan en buscar una nueva familia que adopte a Michael con el fin de salvar a su hijo de descubrir la terrible realidad de la vida.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/iNb91eamuAc"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/mvWY6z6vPPUbPb1"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/o7onerrwtjvjmp"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/1x8ru6c8p3p3"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/wwyjrhfr0wcb"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/rhmhgcbpkmpo"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/2oi9frfs4yv9"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/wrn56in4q-r520n"}</urlsolve>
+</item>
+
 
 <item>
 <title>[COLOR white] Drive my Car [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.4[/COLOR]</title> 
