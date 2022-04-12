@@ -7,6 +7,18 @@
 
 
 
+
+<item>
+<title>[COLOR white] Drive my Car [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.4[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/iGm0oHpKzFo7z73z82KL1cy9iMX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/r6aqhlmJmu8Dv5E7QYEruaEXKYm.jpg</fanart>
+<info>Pese a no ser capaz de recuperarse de un drama personal, Yusuke Kafuku, actor y director de teatro, acepta montar la obra 'Tío Vania' en un festival de Hiroshima. Allí, conoce a Misaki, una joven reservada que le han asignado como chófer. A medida que pasan los trayectos, la sinceridad creciente de sus conversaciones les obliga a enfrentarse a su pasado.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/-ofCqXmgx0E"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/dAb3zVleKQfkq4r"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/qlo6eqp4c7e6pn"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/p0wvp3jc8f67"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/9xrwoblm2m6x"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/sj1ruvcfayaq"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/r8apow6spsdm"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/0d6j7clpx0mjexy"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] HeatWave [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.0[/COLOR]</title> 
 <genre>Suspense</genre>
