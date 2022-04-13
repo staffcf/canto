@@ -2475,6 +2475,15 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]La Brea[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.brea</externallink>
+<info>Un agujero gigantesco, de origen inexplicable, destruye Los Ángeles y separa a una familia en dos mundos distintos: la madre y el hijo quedan atrapados en una tierra salvaje, mientras que, en la superficie, el padre y la hija intentan rescatarlos.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/73ngr14gLlIXqWHPJjFgBfbhpSC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lPRvb8PdcrhJmzN0WaObuBH5AJb.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]La Fortuna[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.Fortuna</externallink>
