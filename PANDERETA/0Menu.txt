@@ -834,6 +834,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Creepshow[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Creepshow</externallink>
+<info>Basándose en la icónica antología de películas escritas por Stephen King y dirigidas por George Romero, cada episodio de la serie consta de dos capítulos con historias originales dirigidos por diferentes directores.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/Dol4u98RsYEQeDOMh56Qt6JRXF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aV2Iu1KmNFXhKxQkPXn6FEQTI6e.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Crematorio[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Cronicas.Vampiricas</externallink>
@@ -2030,6 +2039,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 <info>Serie de TV (2014-Actualidad). 5 temporadas.Los protagonistas forman el clan de los Savastano, que impone su ley en Secondigliano. El temible "capo", don Pietro Savastano (Cerlino) está casado con la implacable Imma (Maria Pia Calzone) y tiene un hijo de 20 años (Esposito), pero es demasiado joven y débil para suceder a su padre. Su mano derecha es el inteligente y ambicioso Ciro di Marzio (D`Amore), y su gran rival en el tráfico de drogas es el temible Salvatore Conte (Palvetti). La serie describe el enfrentamiento entre los clanes, las traiciones, las venganzas y la vida personal de los miembros de la camorra.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/wWxMYrClgTYlZt4hDPxy5eA9EKd.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/iYbw4mLCOSz22bFsDBtP6Ycsu9d.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Gone[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Gone</externallink>
+<info>Kit "Kick" Lannigan (Leven Rambin) es una mujer que fue secuestrada durante cinco años cuando era una niña y que fue rescatada por el agente del FBI Agent Frank Novak (Chris Noth). Años después, convertida en una experta en artes marciales y el uso de armas, Kit se une a un grupo de trabajo especial dedicado a resolver secuestros y casos de personas desaparecidas.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/fN3I7ly9XUCXJabIpn9hadJIpca.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ul8Y9F7NGeImg9avbiFM9U8pfMA.jpg</fanart>
 </item>
 
 <item>
