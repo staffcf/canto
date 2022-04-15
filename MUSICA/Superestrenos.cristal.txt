@@ -4,7 +4,15 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 
-
+<item>
+<title>[COLOR white] Huida de Mogadiscio [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.2[/COLOR]</title> 
+<genre>Bélica,Drama,Acción</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/grFDK4ddh2IMn464Ve4ke4uz2ao.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5lxs92IwlmU9m2tzHL05pqxZsht.jpg</fanart>
+<info>En 1991, Mogadiscio, capital y ciudad más poblada de Somalia, estaba pasando por una guerra civil. El personal y las familias de la embajada de Corea del Sur, aislados sin poder comunicarse, aguantaron como pudieron. Una noche, el personal de la embajada de Corea del Norte llamó a la puerta pidiendo ayuda. El objetivo de ambas embajadas era huir de la ciudad<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/a0EvHrSBiLw"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/k0opL3lrLGirL6"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/6qzr3ojrtjpz8j"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/gawhdiyzdr7f"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/la4t0aat5vc5"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/kh9zvvsj3lg1"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/xebt0pxinhkl"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/em4n6s-6qn-rryw"}</urlsolve>
+</item>
 
 
 <item>
