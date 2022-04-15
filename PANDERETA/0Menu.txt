@@ -1106,6 +1106,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Donetsk La Batalla De Ucrania [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Donetsk.la.batalla.de.ucrania</externallink>
+<info></info>
+<thumbnail>https://www.themoviedb.org/t/p/original/rHgl54Z2TukVabwkF03eGPYy1ET.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zkJiofJyd7svNMCU9WioU8ln6LQ.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Doom Patrol[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Doom.Patrol</externallink>
@@ -1400,6 +1409,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 <info>6 episodios. El sultán otomano Mehmed II lleva a cabo una épica campaña para apoderarse de Constantinopla, la capital bizantina, y cambia el curso de la historia.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/nkvdPFYo7o2IQWooJvA9UE0nvAp.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/aFU4sXjVsA5HdBKPUHtL8haiqNN.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]El Guernica Sirio [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/El.guernica.sirio</externallink>
+<info>En febrero de 2012, el barrio sirio de Baba Amr (ciudad de Homs) llevado por la ola de entusiasmo de las revueltas árabes se levantó en armas contra el régimen para pedir libertad y el fin de la dictadura de los Assad. Como castigo, la población sufrió una de las peores masacres de la guerra: un bombardeo masivo sobre la población donde murieron miles de mujeres y niños. Unos hechos tan graves que los juristas lo llamaron 'El Guernica sirio'.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/eZH72wiYAdgHX0pMeAKxRdNdGEE.jpg</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 </item>
 
 <item>
@@ -2729,6 +2747,15 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]La Story De Zelenski [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/La.story.de.zelenski</externallink>
+<info>La guerra en Ucrania ha cambiado el orden mundial y ha puesto en el foco a Volodymyr Zelensky: un cómico que pasó al estrellato con la serie de televisión "Servidor del pueblo", que fue elegido como presidente del gobierno y erigido en héroe de la resistencia ucraniana.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/wgyyh2edpGuf9xvowGGObCqE4cv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mAoKx10leUjA1Ju4dnsHpCHZ1GE.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]La Unidad[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.unidad</externallink>
@@ -4005,6 +4032,15 @@ Este caso se convierte en parte importante de la vida de ambos detectives, llega
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Putin:Camino A La Guerra [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Putin.camino.a.la.guerra</externallink>
+<info>A medida que se intensifica la brutal invasión de Ucrania ordenada por el Kremlin, más de cuatro millones de ucranianos han tenido que huir de su país. Esta es la historia, a lo largo de veinte años, de lo que ha llevado a Putin a declarar la guerra. Los hechos que han dado forma al líder ruso, los agravios que lo impulsan y cómo un creciente conflicto con Occidente ha estallado en una guerra en Europa.Este documental de PBS analiza cómo Putin pasó de ser un agente de la KGB de bajo rango a convertirse en el presidente de Rusia con la capacidad de llevar a Europa al borde de un conflicto nuclear.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/7fKqYrwNv9ith0dqfG3gBVPIECE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/veWF3vKTmc75jIRBve6S7aZqqCi.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Puyol Mas Que Un Capitan [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Puyol.mas.que.un.capitan</externallink>
@@ -5003,6 +5039,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 <info>Un relato de primera mano del golpe a la Policía Metropolitana de Tokio siguiendo a Jake Adelstein, un periodista estadounidense que se integra en el escuadrón policial de Tokio Vice para revelar la corrupción. Basado en el libro de no ficción del mismo nombre de Jake Adelstein.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/za5QWRfCLwgRLLVXUkx3NUSAm6G.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/fiHmQoTKlu6mmE7seQMo8RVmT6E.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Tony Hawk:Hasta Que Las Ruedas Aguanten [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Tony.hawk</externallink>
+<info>La vida personal del famoso skater Tony Hawk, su carrera y su relación con el skateboarding, incluyendo imágenes nunca vistas y un acceso sin precedentes a Hawk, junto con entrevistas con figuras del mundo del skate.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/namFh1FM7BkCkiljALtgMXOoANI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/11XPRWcMqVV7752E0PHudTW5pXF.jpg</fanart>
 </item>
 
 <item>
