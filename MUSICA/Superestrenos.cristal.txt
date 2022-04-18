@@ -4,6 +4,18 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 
+
+<item>
+<title>[COLOR white] The Batman [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.9[/COLOR]</title> 
+<genre>Crimen,Misterio,Suspense</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/hME3AVfVT3dCaHgNSEAeLCORZBm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/j2zyoYrWjWyraHMdkqAkSG1MISJ.jpg</fanart>
+<info>Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/IqRRLA6pZvo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/WrjQevBGVmTbdKD"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/kn9m8ek1u31z67k"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/poner"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/sufsx21voh71"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/poner"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/ysf57roze8xr"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/poner"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/17Vz7htXwC60s3hTKQ7QLjX7BgDhe0f-t/view"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Huida de Mogadiscio [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.2[/COLOR]</title> 
 <genre>Bélica,Drama,Acción</genre>
