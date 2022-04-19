@@ -291,7 +291,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 </item>
 
 <item>
-<title>[COLOR gold]*[/COLOR][COLOR white]Temporada 4 [COLOR red]Subiendo[/COLOR]</title>    
+<title>[COLOR gold]*[/COLOR][COLOR white]Temporada 4[/COLOR]</title>    
 <link>$doregex[c]</link>
 <regex>
 <name>c</name>
@@ -387,7 +387,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 </item>
 
 <item>
-<title>[COLOR gold]*[/COLOR][COLOR white]Temporada 5 [COLOR red]Subiendo[/COLOR]</title>    
+<title>[COLOR gold]*[/COLOR][COLOR white]Temporada 5[/COLOR]</title>    
 <link>$doregex[c]</link>
 <regex>
 <name>c</name>
