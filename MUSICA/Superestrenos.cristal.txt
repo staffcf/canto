@@ -5,6 +5,30 @@
 =======================================================================================
 
 
+
+<item>
+<title>[COLOR white] Wyrmwood: Apocalypse [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.9[/COLOR]</title> 
+<genre>Terror,Aventura,Acción,Comedia</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/b1OSwHDIflDSbirMr6k3Ivqf2yu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4xIDNawZ8TLCOpS6G4CUtxC429n.jpg</fanart>
+<info>Zombis, científicos locos, soldados malvados y héroes en busca de una cura para la humanidad son los protagonistas de esta secuela de la cinta de culto australiana "Wyrmwood: La carretera de los muertos".Con más presupuesto y mejores medios.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/qKNDEeBEeOQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/AJpoWRGW21uXKgL"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/mdonk3jeildmlz"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/9z18th3bs7lu"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/bw5tfwxk2y3z"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/iu7vugvuhts3"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/y8e66u935y8j"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/3p1j2cm-jypr56k"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Raging fire [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.1[/COLOR]</title> 
+<genre>Acción,Crimen</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/oS2oELplwNVo2jFCySQzo3x3S8d.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9If9T6RcR05OW01UmOCbIplx70V.jpg</fanart>
+<info>Shan es un policía honrado que es admirado por todo el cuerpo por haber resuelto muchos casos. Un día, su pasado regresa para atormentarle; en plena operación es atacado por un misterioso grupo de criminales liderado por Ngo, que fue su discípulo.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/tGgvkrO4X2c"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/ydP0MAVjl7sk39"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/zp7z1pkph18v9l"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/werw6gi2ynq8"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/jm9ubbc4fji6"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/l116b5wurywg"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/uwikg17cq21p"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/pwnxdtmr0j4dyd8"}</urlsolve>
+</item>
+
+
+
 <item>
 <title>[COLOR white] The Batman [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.9[/COLOR]</title> 
 <genre>Crimen,Misterio,Suspense</genre>
