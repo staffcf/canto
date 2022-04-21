@@ -7,6 +7,17 @@
 
 
 <item>
+<title>[COLOR white] Vuelta a casa de mi hija [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.7[/COLOR]</title> 
+<genre>Comedia</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/w3VVyUp6pm4pgJZvalI3wWrWZTr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/z6oEYuTx75d8txxjaoqtK2AbnsZ.jpg</fanart>
+<info>Esta vez, es ella quien llega. Jacqueline está de obras en su casa, así que se ve alegremente obligada a irse a vivir algunos días a casa de su hija mayor, Carole y de su yerno, ambos en plena terapia de pareja. Los "algunos días" se acaban convirtiendo en "algunos meses". Jacqueline se siente como en su casa, prepara las cenas, acapara la tele, cambia la cocina...<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/g_RJZGXy4wQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/69jbqDR7ZpC92Ax"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/3nj3mr60aqx7x7"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/yna3d9p7xu8v"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/x09565r5dlgt"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/nhrj1sqma3dd"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/ypq0bixnvoez"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/dz3w4tx1xeeq0eq"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Punto de inflexion  [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.8[/COLOR]</title> 
 <genre>Drama</genre>
 <year>2021</year>
