@@ -18,6 +18,17 @@
 
 
 <item>
+<title>[COLOR white] Invocacion mortal [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.2[/COLOR]</title> 
+<genre>Terror</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/roYaaPorqPvazR0sh1aTl64Fjsu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aL3CHP3poRSipr6apWS3Vd8gzBG.jpg</fanart>
+<info>Camille Meadows llega a la prestigiosa Academia Edelvine para chicas. Nada más llegar, un grupo de jóvenes le invitan a hacer un ritual nocturno, llamando al espíritu de una estudiante fallecida. Al día siguiente descubren que una de las chicas ha muerto.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/rSmqBJzeJRI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/kPqVeqKeY7i6gK"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/84g19pdlt7vpj6"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/7bc0ai2jzvib"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/we6mby1h4o0n"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/hd7u168552r6"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/999yhnau0zm1"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/kx4-1i3k3x8nzkd"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Vuelta a casa de mi hija [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.7[/COLOR]</title> 
 <genre>Comedia</genre>
 <year>2021</year>
