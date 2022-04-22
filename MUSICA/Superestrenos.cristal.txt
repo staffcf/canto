@@ -6,6 +6,17 @@
 
 
 
+
+<item>
+<title>[COLOR white] Todo es Gila [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.7[/COLOR]</title> 
+<genre>Comedia</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/c6eEr6kp4tIqF6u7EZQnPDpe9w8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wGW4joZZbLTC5AcXK5bL6UqUreG.jpg</fanart>
+<info>Especial de comedia que conmemora el 20 aniversario de la muerte del maestro Gila. El teléfono. La camisa roja y el traje negro. El humor subversivo: 16 humoristas españoles vuelven a traer al escenario los chistes de Gila 20 años después de su muerte en este recorrido de más de una hora de risas.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/3ZFfOEPiso0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/y022XMK340tm0R"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/6qzplqmzuzlxvz"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ypkijb5p1kam"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/nkz0w2w1lexy"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/yamf92whvkfh"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/x8l7wkj858rb"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/3p1j2cm-myx-r4y"}</urlsolve>
+</item>
+
 <item>
 <title>[COLOR white] Jackass Forever [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.1[/COLOR]</title> 
 <genre>Acción,Documental,Comedia</genre>
