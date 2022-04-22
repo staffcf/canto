@@ -7,6 +7,17 @@
 
 
 <item>
+<title>[COLOR white] Jackass Forever [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.1[/COLOR]</title> 
+<genre>Acción,Documental,Comedia</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/3drKDbiGXA8LVpDAkqhLXnwgcRP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uCDXCSet5nwV9HdVwcvfaoB5UA2.jpg</fanart>
+<info>Celebre la alegría de un tiro perfectamente ejecutado en la ingle cuando Johnny Knoxville, Steve-O y el resto de la pandilla regresan junto con algunos recién llegados para una ronda final de exhibiciones de acrobacias y comedia hilarantes, tremendamente absurdas y, a menudo, peligrosas.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/G3L9SfJ64Ko"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/xovJxDPwwyukrwj"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/qlov7k79hdw6zo"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/sr8tq0nquzwn"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/bz5qn21fx4h8"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/u3hcp1ubrv64"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/4b9vqzr04r4o"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/6znj3t0l02pyx8x"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Vuelta a casa de mi hija [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.7[/COLOR]</title> 
 <genre>Comedia</genre>
 <year>2021</year>
