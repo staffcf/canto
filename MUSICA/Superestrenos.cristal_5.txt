@@ -1230,4 +1230,15 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 </item>
 
 
+<item>
+<title>[COLOR white] Le mans 66  [/COLOR][COLOR yellow](2019) [COLOR aqua]*8.0[/COLOR]</title> 
+<genre>Drama,Acción,Historia</genre>
+<year>2019</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/kFkZFPBU7vnDDu4m9eOgk7w9W7O.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2vq5GTJOahE03mNYZGxIynlHcWr.jpg</fanart>
+<info>Se centra en un excéntrico y decidido equipo americano de ingenieros y diseñadores liderados por el visionario automovilístico Carroll Shelby y su conductor británico Ken Miles. Henry Ford II y Lee Iacocca les dan la misión de construir desde cero un nuevo automóvil con el fin de derrocar el dominio de Ferrari en el Campeonato del Mundo de Le Mans de 1966.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ldw5mVcbtnQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/xgb1zdlWZvCkgVz"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/9n31qp1qi3lkqq8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/a9215hhwso3s"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/ck6txiehwbqc"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/z2i2xzzffp6r"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/eyns12lsu99k"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/42njphzr53e24gk"}</urlsolve>
+</item>
+
+
 Pagina actual=>5<
