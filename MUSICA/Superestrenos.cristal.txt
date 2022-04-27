@@ -6,6 +6,18 @@
 
 
 
+
+<item>
+<title>[COLOR white] 365 Dias: Aquel dia [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.0[/COLOR]</title> 
+<genre>Drama,Romance</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/7qU0SOVcQ8BTJLodcAlulUAG16C.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3uykFIMNMeI3XqT5Z9I02lV4vP6.jpg</fanart>
+<info>Secuela de '365 días' (2020). Vuelven Laura y Massimo más apasionados que nunca. Pero la nueva vida de la pareja se complica por culpa de los lazos familiares de Massimo y de un hombre misterioso dispuesto a ganarse el corazón y la confianza de Laura, cueste lo que cueste.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/3N1jJqJ9Ziw"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/6WQ0y49VOOu90Jv"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/6qzq3q4dtk788j"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/2hqzeaokyfvs"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/qp2jh8767w3m"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/83x3bfff1s54"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/afmoxaajeivr"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/p6rl2gsmrkpy3wqm"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Uncharted [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.0[/COLOR]</title> 
 <genre>Acción,Aventura</genre>
