@@ -17,6 +17,17 @@
 </item>
 
 
+
+<item>
+<title>[COLOR white] I love america [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.3[/COLOR]</title> 
+<genre>Comedia,Romance</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/kWfKfD8ibJq8SewQqP8deboiIhg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lh0CfkckuBvQZUUJgwMU0lygPW5.jpg</fanart>
+<info>Una mujer soltera que decide volver a apostar por el amor catapultando su vida de París a Los Ángeles. Desde citas incómodas hasta conmovedores encuentros sorpresa, entiende que el viaje hacia el amor es un viaje hacia dentro de ella misma.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/dFVbJe-TA90"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/P8ej6Xy73Di0VAL"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "Web no funciona"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ukfkf40hg5yd"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/nrj8efuyrvit"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/f3lsnkavqw0x"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/039x4way36mf"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/nz7qrgu2g1-ng7-k"}</urlsolve>
+</item>
+
 <item>
 <title>[COLOR white] Hazme volar [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.0[/COLOR]</title> 
 <genre>Comedia,Drama</genre>
