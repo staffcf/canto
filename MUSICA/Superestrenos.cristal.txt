@@ -18,6 +18,17 @@
 
 
 <item>
+<title>[COLOR white] Hazme volar [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.0[/COLOR]</title> 
+<genre>Comedia,Drama</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/Aviebr72gvK9I73m68Go3K4hq1r.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lPJHnDI5mIRDiLCFn26u4XdLXi8.jpg</fanart>
+<info>El juerguista Thomas (Victor Belmondo) se pasa las noches en discotecas y el día en la cama, hasta el día en que su padre, el Doctor Reinhard (Gerard Lanvin), cansado de su vagancia, decide cortar por lo sano y le obliga a cuidar de uno de sus jóvenes pacientes: Marcus (Yoann Eloundou), un niño de solo 12 años que vive solo con su madre. Marcus ha padecido desde su nacimiento una grave enfermedad. Este encuentro trastornará el día a día de unos y otros, y cambiará sus vidas.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/7SB12RlcCHA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/mlw61kYARDIbwP9"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "Web no funciona"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/93sx6jelq8fu"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/7q010wbwo43o"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/eytvgunjz37i"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/97cftgyahzjk"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/8mwx70c820r76grm"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Sweetheart[/COLOR][COLOR yellow](2021) [COLOR aqua]*5.4[/COLOR]</title> 
 <genre>Comedia,Drama,Romance</genre>
 <year>2021</year>
