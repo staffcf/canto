@@ -72,6 +72,17 @@
 </item>
 
 <item>
+<title>[COLOR white] 365 Dias [/COLOR][COLOR yellow](2020) [COLOR aqua]*7.0[/COLOR]</title> 
+<genre>Drama,Romance</genre>
+<year>2020</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/jz8T3hrU6GuMqSuQ4Rbd4MJUeaq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e8b2F4eg6ansZhaQQN8iXfzZtz7.jpg</fanart>
+<info>Massimo es miembro de la mafia siciliana y Laura es una directora de ventas. Ella no espera que un viaje a Sicilia salve su relación, pero Massimo la secuestrará durante 365 días para que se enamore de él.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/f_HX4gtxDb4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/R6LOOlQv76UJyr"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/j9e9o4x0id76jv"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/tftquhog8dej"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/3lhu06hpl1wz"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/4h3li5u5tndt"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/qu8ufzdslweh"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/deq685ax1ejw3855"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Uncharted [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.0[/COLOR]</title> 
 <genre>Acción,Aventura</genre>
 <year>2022</year>
