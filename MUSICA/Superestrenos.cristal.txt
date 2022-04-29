@@ -7,6 +7,17 @@
 
 
 <item>
+<title>[COLOR white] Amor de madre [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.0[/COLOR]</title> 
+<genre>Comedia</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/mJnldu7WjrGdZnFZMacaoguKX48.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nVyHX9DE8hUZVVOK772FTOaj5i1.jpg</fanart>
+<info>A José Luis (Quim Gutiérrez) acaban de dejarlo plantado en el altar, y por si esto fuera poco, Mari Carmen (Carmen Machi), su madre, se ha empeñado en acompañarlo a la luna de miel con la excusa de no perder el dinero. Cada minuto que pasan en Mauricio, José Luis se siente más infeliz y fracasado, mientras que Mari Carmen se lo pasa como nunca, viviendo todas las experiencias que siempre había deseado y revelándose como la maravillosa mujer que es en realidad, y que su familia no ve.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/EbvcANcE3Gc"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/3Go314p0mBSXRd"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://sbvideo.net/e/omjghouv5e12"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/omjghouv5e12"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/nfyakfblvur2"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/u95frh9t9auz"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/vqlhr79amtb6"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/8mwx70c8208eje--"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El asedio de Silverton [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.4[/COLOR]</title> 
 <genre>Acción,Crimen,Drama</genre>
 <year>2022</year>
