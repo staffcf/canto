@@ -18,6 +18,17 @@
 
 
 <item>
+<title>[COLOR white] Sweetheart[/COLOR][COLOR yellow](2021) [COLOR aqua]*5.4[/COLOR]</title> 
+<genre>Comedia,Drama,Romance</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/e6ZYz8hdMAYngjy75R9gS7CO1Bz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tUvVXswPHBTmAj7MhIvGSeTC6B2.jpg</fanart>
+<info>Una adolescente socialmente torpe y preocupada por el medio ambiente llamada AJ es arrastrada a un parque de vacaciones costero por su familia dolorosamente "normal", donde se ve inesperadamente cautivada por una socorrista con olor a cloro y amante del sol, llamada Isla.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/78T65ONm_PA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/mgYglxgGO7sQgd"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "Web no funciona"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/4n2flukx4mke"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/7i63wn5ue8ox"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/l2aow23sa8ju"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/u4240zr5u6pv"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/17nmwyajwm-z1e3w"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Barbacoa [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.8[/COLOR]</title> 
 <genre>Comedia,Terror</genre>
 <year>2021</year>
