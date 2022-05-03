@@ -7,6 +7,18 @@
 
 
 
+
+<item>
+<title>[COLOR white] France [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.2[/COLOR]</title> 
+<genre>Comedia,Drama</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/tcNS4ekl6EovnzvVivCRMhYFQWB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7x3pmbvgzgP0R9OuSwmrhaK1uBc.jpg</fanart>
+<info>París, hoy. France de Meurs es una periodista estrella que corre entre un televisor, una guerra lejana y el ajetreo y el bullicio de su ajetreada vida familiar. Su mundo frenético de alto perfil se vuelve repentinamente patas arriba después de un accidente de tráfico en el que hiere a un peatón. Esta irrupción inesperada de la realidad pone todo en cuestión. Mientras Francia intenta desacelerar y retirarse a una vida anónima simple, su fama continúa persiguiéndola hasta que una historia de amor desconcertada parece poner fin a su búsqueda<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/sdJ2dk1S4bY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/M7zZpXQ8BDFmZAV"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/1vlg18mdcpdljg"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/0ef4j1jtbqaz"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/eynjjeq4qt8u"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/rs0rnevxaq82"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/42vcj29jeqke"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/8mwx70c82y8prkpx"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Black Friday [/COLOR][COLOR yellow](2021) [COLOR aqua]*4.9[/COLOR]</title> 
 <genre>Terror,Comedia,Ciencia ficción</genre>
