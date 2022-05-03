@@ -6,6 +6,18 @@
 
 
 
+
+<item>
+<title>[COLOR white] Black Friday [/COLOR][COLOR yellow](2021) [COLOR aqua]*4.9[/COLOR]</title> 
+<genre>Terror,Comedia,Ciencia ficción</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/vf9Ex4EwSPlwbva4ZJdljsQQOML.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8RzFDrncOcpgo0w45MYF3BbeFC5.jpg</fanart>
+<info>Un grupo de empleados de una tienda de juguetes debe protegerse unos a otros de un montón de compradores infectados por parásitos.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/M3H5Ye2BvUk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/Xz0AdypY9lfgRd"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/zp7qxrd3bdzev3"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/zos8febavqqk"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/oc6ri7sb4qw4"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/g9hwcjzzasup"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/h0jtba2dnbi0"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/4xrlw4uzrn0-rp2e"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] The Penthouse [/COLOR][COLOR yellow](2021) [COLOR aqua]*3.3[/COLOR]</title> 
 <genre>Suspense</genre>
