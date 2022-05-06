@@ -7,6 +7,28 @@
 
 
 <item>
+<title>[COLOR white] Incompatibles 2 [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.5[/COLOR]</title> 
+<genre>Comedia,Acción</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/j7zgYVBSy9kMld31cOEpNLPPcVG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wtbRUVxQVvU6QIJH1oGLDThJLib.jpg</fanart>
+<info>Ousmane Diakité (Omar Sy) y François Monge (Laurent Lafitte) son dos policías de estilo, origen y trayectoria muy distintos. Hace muchos años trabajaron juntos, pero la vida los separó. Ahora, esta insólita pareja vuelve a coincidir en una nueva investigación que los lleva a los Alpes franceses. Lo que parecía una simple operación de narcotráfico se convierte en un caso criminal de dimensiones, peligros y situaciones cómicas inesperadas.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/uNkp38SCgrM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/W1qv04X6zwubJeA"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/vnovmgzpboqrgx"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/qdt65nttt4cq"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/opqo45gbcdly"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/c1rn5736rdqj"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/tzbj9e3x3bq8"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/w0djeghn4ree0wn3"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] OSS 117: Desde Africa con amor [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.7[/COLOR]</title> 
+<genre>Comedia,Aventura,Acción</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/8KZun0DjBSVJtAEb7ytNKIKO0SL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zpvxxzLS0uGgq0v4ahODMiDQm0p.jpg</fanart>
+<info>La tercera entrada en las aventuras de espías paródicas del agente secreto OSS 117.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/haCLFkjwrq0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/Dl7879vYO7ukeJp"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/9n36dmpjfop7wv"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/kqoioiq19jjd"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/8330s1ez7lca"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/qje793vw7uul"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/vl37ikk9rn38"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/5pyw36adpx33gg1r"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El dia de la bandera [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.1[/COLOR]</title> 
 <genre>Drama,Crimen</genre>
 <year>2021</year>
