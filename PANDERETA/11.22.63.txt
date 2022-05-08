@@ -2,7 +2,7 @@
 <items>
 
 <item>
-<title>[COLOR gold]*[/COLOR][COLOR white]Temporada 1[/COLOR]</title>    
+<title>[COLOR gold]*[/COLOR][COLOR white]Temporada 1 p[/COLOR]</title>    
 <link>$doregex[c]</link>
 <regex>
 <name>c</name>
@@ -58,10 +58,6 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <expres><![CDATA[#$pyFunction
 url = '$doregex[multi]'
 $doregex[importar]
-try:
-    from resolveurl.plugins.lib import jsunpack
-except:
-    from resolveurl.lib import jsunpack
 $doregex[reparar_conectores]
 
 ]]></expres>
