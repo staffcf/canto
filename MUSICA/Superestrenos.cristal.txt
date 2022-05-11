@@ -5,6 +5,18 @@
 =======================================================================================
 
 
+
+<item>
+<title>[COLOR white] Un amor intranquilo [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.0[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/7AKDGyQ45sjCTSqZ66It9qN6AtB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/g824vEAUHZasNvmszymuhFRAwnU.jpg</fanart>
+<info>Leïla y Damien se quieren con locura. Ambos luchan por mantener unida a la familia a pesar de la bipolaridad de Damien. Ninguno se rinde, aunque él sabe que nunca podrá ofrecerle lo que ella desea.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/bG7HVbqxYz4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/z7B6l28MAXSkwJ"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/84g83jwxhgrr16"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/fyluzibqc86p"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/0obf6ml76ygs"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ls22fas298cb"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/t0o56451flsg"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/g7e08ya-kykgd1yr"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] La familia perfecta [/COLOR][COLOR yellow](2021) [COLOR aqua]*8.0[/COLOR]</title> 
 <genre>Comedia,Drama,Familia</genre>
