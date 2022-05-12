@@ -798,6 +798,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Como Conoci A Tu Padre[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Como.conoci.a.tu.padre</externallink>
+<info>En un futuro cercano, Sophie le cuenta a su hijo la historia de cómo conoció a su padre: una historia que nos catapulta al año 2022, donde Sophie y su grupo de amigos muy unidos están en medio de descubrir quiénes son, qué quieren salir de la vida y cómo enamorarse en la era de las aplicaciones de citas y las opciones ilimitadas.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/yi47zRMA8afA4c4GwlSUF7qnvxE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9YWLYqPW9PC1KJyACTFULmlLbSW.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Como Conoci A Vuestra Madre[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Como.conoci.a.vuestra.madre</externallink>
