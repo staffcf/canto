@@ -6,6 +6,18 @@
 
 
 
+
+<item>
+<title>[COLOR white] Casate conmigo [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.9[/COLOR]</title> 
+<genre>Romance,Comedia,Música</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/sYdE3X33TZgZQHI4Nf4b66kaUNg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ym5YWxNSiUJVk7lxvwzNXYDSS8G.jpg</fanart>
+<info>Una estrella del pop es abandonada por su prometido, una estrella del rock, momentos antes de su boda en el Madison Square Garden, por lo que decide casarse con un hombre que selecciona aleatoriamente entre el público.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/xU4ATpAgadw"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/lPrAgDLO36I7qz3"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/o7o300zmulok3r"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/247z1bpfp2lh"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/12na9vzgifck"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/0zm9lzvph91r"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/81xuwvzmmedx"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/nz7qrgu2g0gg2q77"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Un amor intranquilo [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.0[/COLOR]</title> 
 <genre>Drama</genre>
