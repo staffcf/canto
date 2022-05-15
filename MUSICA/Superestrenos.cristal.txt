@@ -5,6 +5,15 @@
 =======================================================================================
 
 
+<item>
+<title>[COLOR white] Festival Eurovision 2022 [/COLOR][COLOR yellow](2022) [COLOR aqua]*(Sin Nota) [/COLOR]</title> 
+<genre>Tv Show</genre>
+<year>2022</year>
+<thumbnail>https://i.imgur.com/oHYdUn5.jpg</thumbnail>
+<fanart>https://i.imgur.com/47OGs67.jpg</fanart>
+<info>La LXVI edición del Festival de la Canción de Eurovisión se celebró en el Pala Alpitour de Turín, Italia, el 10, 12 y 14 de mayo de 2022, tras la victoria de la banda de rock Måneskin en la edición de 2021 en Róterdam (Países Bajos), con la canción «Zitti e buoni», que llevó al país transalpino con 524 puntos a organizar esta edición. Será el tercer certamen referente a Eurovisión que se celebre en Italia, después de los festivales realizados en 1965 y 1991.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/zCPVUh1yypc"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/dQJ9lX7eqyIkdP6"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/kn9rl3qdf6ommo"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/2scfely1gtbe"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/3ci3plfkecg5"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/th2euatmyp26"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/26dvbpmsn9i9"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/001zwehlp2k8xq-z"}</urlsolve>
+</item>
 
 
 <item>
