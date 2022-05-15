@@ -94,7 +94,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <page></page>
 </regex>
 <info>Narra la historia épica e íntima que comienza con un amor prohibido y va creciendo hasta convertirse en una saga que viaja entre Corea, Japón y los Estados Unidos para contar un relato de guerra y paz, amor y pérdida, triunfo y ajuste de cuentas.</info>
-<thumbnail></thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/cSjS8EPwG39mw0xpcp50Sey89VO.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/kjYTpYG6U549D7BrMyuqhU2So5M.jpg</fanart>
 </item>
 
