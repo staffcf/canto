@@ -437,6 +437,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Bienvenidos A Eden[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Bienvenidos.a.eden</externallink>
+<info>Unos jóvenes asisten a una fiesta exclusiva en una isla remota. Pero el tentador paraíso con el que se encuentran oculta secretos y trampas muy peligrosos.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/iZSmq8iOupIIirR7rsvLqp5Ghi2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hkj4U6azwlC6GO9j7Md1XUDVEBA.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Bienvenidos A La Tierra [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Bienvenidos.a.la.Tierra</externallink>
@@ -3794,6 +3803,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 <info>Miniserie de TV (2019). 10 episodios. Miniserie de TV sobre los hechos que conllevaron la escalada de violencia en Gaza en 2014. Tres adolescentes judíos fueron secuestrados y asesinados por militantes de Hamas durante el verano de 2014 y, en respuesta, se asesinó al palestino Muhammad Abu Khdeir, de 16 años. Esta cadena de acontecimientos cambió las vidas de muchas personas. </info>
 <thumbnail>https://i.imgur.com/dWlIf86.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/dsWM7CwA9uQ7c4Oc9y8ZH5KWoQE.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Outer Range[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Outer.range</externallink>
+<info>Un ranchero que lucha por su tierra y su familia se topa con un misterio insondable al borde del desierto de Wyoming, lo que lo obliga a enfrentarse con lo Desconocido de manera íntima y cósmica en el indómito oeste americano.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/nO2qkja0cYBlx59fJ89TnrzDvHe.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wJXbt0aEWIAALbZZFABlbsjNaZA.jpg</fanart>
 </item>
 
 <item>
