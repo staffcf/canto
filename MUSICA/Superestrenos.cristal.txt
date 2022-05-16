@@ -6,6 +6,17 @@
 
 
 <item>
+<title>[COLOR white] El lodo [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.0[/COLOR]</title> 
+<genre>Suspense</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/sxFvHBntCaigUaY3CbHZOEUmcJh.jpg</thumbnail>
+<fanart>https://imgur.com/tgsibGN</fanart>
+<info>Una fuerte sequía castiga las vastas extensiones de arrozales en el Levante español. Ricardo, un prestigioso biólogo, después de viajar por todo el mundo, tiene la oportunidad de volver a sus raíces para cumplir una misión, proteger el paraje natural donde vivía de niño. Las medidas que debe tomar le enfrentarán radicalmente a los lugareños, que ven atacada su forma de vida y subsistencia, un enfrentamiento que tendrá consecuencias inesperadas.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/WO_xZAE4AKg"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/7jxjgpZAgyUAkQj"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/xod6lo6ktll3rzo"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/j4wqevwveiy2"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/m1kipa12qym4"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/yygq4iel10v4"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/lot3gxqzfh4k"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/17nmwyajw4-x3xd-"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Festival Eurovision 2022 [/COLOR][COLOR yellow](2022) [COLOR aqua]*(Sin Nota) [/COLOR]</title> 
 <genre>Tv Show</genre>
 <year>2022</year>
