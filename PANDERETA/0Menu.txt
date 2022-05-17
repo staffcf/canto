@@ -1286,6 +1286,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El Caso Oussekine[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.caso.oussekine</externallink>
+<info>Un examen de los terribles hechos reales del 5 de diciembre de 1986, que llevaron a la muerte de un joven estudiante, Malik Oussekine. Centrada en la lucha de su familia por la justicia, la serie explora el enorme impacto que este caso de alto perfil tuvo en la sociedad francesa.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/yU97KbyAFCu4hlSjpOcLQmnqf2D.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/c5CVmd80sak994fzn0FHcJQJccR.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El Cid[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.cid</externallink>
@@ -1643,6 +1652,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 <info>Cuenta la historia real del gángster Bumpy Johnson (Forest Whitaker), que se abre camino en Harlem durante los años 60 después de pasar diez años en prisión. Cuando vuelve al barrio que una vez fue suyo se lo encuentra prácticamente en ruinas. Con las calles controladas por la mafia italiana, Bumpy debe imponerse a la mafia genovesa para recuperar el control de la ciudad. Durante una brutal batalla forma una inesperada alianza con el radical Malcolm X, aprovechándose de su discurso político para tratar de evitar el caos social y la guerra entre clanes que se avecina. </info>
 <thumbnail>https://i.imgur.com/33pJlh3.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/7xzsjZZFDP10MNpjMFybicozJnQ.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]El Pentavirato[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.pentavirato</externallink>
+<info>¿Y si una sociedad secreta que trabaja por el bien común ha estado controlando grandes sucesos mundiales desde la peste negra?</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/n5Tlm2zCgXCYSqZbWQNE9hMwkWd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/a1QPQJLo8xq6irw7ErCHAfC3Dqn.jpg</fanart>
 </item>
 
 <item>
