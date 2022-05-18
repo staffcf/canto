@@ -5006,6 +5006,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]The Quest[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.quest</externallink>
+<info>The Quest es una innovadora serie de competencia inmersiva que sumerge a 8 jóvenes en el mundo fantástico y ficticio de Everrealm, donde deben salvar un reino cumpliendo una antigua profecía.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/nNQvnKK6TZNF6ibEzuCo6OLNdKz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ou58AwVhf613CwIT960SjdG89AL.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]The River[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.River</externallink>
