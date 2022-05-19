@@ -1461,7 +1461,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 "Tag= Malu3, Disney,1Animacion, 1Aventuras, 1Fantasia, 1Familia, Letra E, A2018 "
 <item>
-<title>[COLOR white] El Ultimo Guerrero [/COLOR][COLOR yellow](2017)[/COLOR]</title>    
+<title>[COLOR white]El Ultimo Guerrero [/COLOR][COLOR yellow](2017)[/COLOR]</title>    
 <genre>Acción,Familia,Fantasia,Aventuras,Comedia</genre>
 <year>2018</year>  
 <thumbnail>https://www.themoviedb.org/t/p/original/fl2PXvS9Ugl5UweXgnZgRFtQLPQ.jpg</thumbnail>
@@ -1475,7 +1475,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 "Tag= Malu3, Disney,1Animacion, 1Aventuras, 1Fantasia, 1Familia, Letra E, A2021 "
 <item>
-<title>[COLOR white] El Ultimo Guerrero:Las Raices Del Mal  [/COLOR][COLOR yellow](2021)[/COLOR]</title>    
+<title>[COLOR white]El Ultimo Guerrero:Las Raices Del Mal  [/COLOR][COLOR yellow](2021)[/COLOR]</title>    
 <genre>Acción,Familia,Fantasia,Aventuras,Comedia</genre>
 <year>2021</year>  
 <thumbnail>https://www.themoviedb.org/t/p/original/fXjYpt5VfShntmwieXtUli8r1My.jpg</thumbnail>
