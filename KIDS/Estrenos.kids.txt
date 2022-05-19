@@ -906,15 +906,7 @@ https://mixdrop.co/f/7rkxn3xwaxwq71
 <urlsolve>{"titulo" : "[COLOR red]YouTube[/COLOR]","url" : "https://www.youtube.com/watch?v=V2PN5XfnhpI"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://www.fembed.com/v/kx4-1i31glp7rpk"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://mixdrop.sx/e/knxkorj4fj1mzj"}</urlsolve>
 </item>
 
-<item>
-<title>[COLOR white] El Ultimo Guerrero [/COLOR][COLOR yellow](2017)[/COLOR]</title>    
-<genre>Acción,Familia,Fantasia,Aventuras,Comedia</genre>
-<year>2017</year>  
-<thumbnail>https://www.themoviedb.org/t/p/original/fl2PXvS9Ugl5UweXgnZgRFtQLPQ.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/ut1D236gVPwqjg95gvksAm6YCtv.jpg</fanart>
-<info>Ivan emprende un alucinante viaje desde Moscú a Belogorye, un mundo de fantasía habitado por personajes de cuentos de hadas y magia rusos. Sin saber muy bien cómo, se encuentra en el centro mismo de la batalla entre las fuerzas de la luz y la oscuridad, donde todos creen que poner fin a la guerra depende únicamente de él.</info>
-<urlsolve>https://streamtape.com/v/1pppMjm212H0Vr</urlsolve>
-</item>
+
 
 
 
