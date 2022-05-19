@@ -1512,6 +1512,18 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+"Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Familia, Disney, "
+<item>
+<title>[COLOR white]Encanto [/COLOR][COLOR gold](2021)[/COLOR]</title> 
+<genre>Animación,Comedia,Familia,Fantasía</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/7M8bMABEbhGkC6z36WEsDttDk6F.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n7chLrNRGvFE0UrvpxtotZLUjgd.jpg</fanart>
+<info>"Encanto" relata la historia de los Madrigal, una familia extraordinaria que vive en una casa mágica de un pueblo vibrante en las montañas de Colombia escondidas en un “Encanto”. La magia del Encanto ha bendecido a cada niño de la familia con un don único, desde la superfuerza hasta el poder de sanar. A todos, excepto Mirabel, quien desea ser tan especial como el resto de su familia. Pero cuando la magia que rodea al Encanto está en peligro, Mirabel decide que ella, la única Madrigal sin ningún tipo de don único, puede ser la única esperanza de su excepcional familia.<info>
+<urlsolve>https://www.fembed.com/v/zdn2mtjyy28d8-x</urlsolve>
+</item>
+
+
 -----------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, Disney, A2010, C1080, Princesas, "
 <item>
