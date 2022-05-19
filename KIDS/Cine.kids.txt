@@ -1459,7 +1459,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-"Tag= Malu3, Disney,1Animacion, 1Aventuras, 1Fantasia, 1Familia, Letra E A2018 "
+"Tag= Malu3, Disney,1Animacion, 1Aventuras, 1Fantasia, 1Familia, Letra E, A2018 "
 <item>
 <title>[COLOR white] El Ultimo Guerrero [/COLOR][COLOR yellow](2017)[/COLOR]</title>    
 <genre>Acción,Familia,Fantasia,Aventuras,Comedia</genre>
@@ -1473,7 +1473,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-"Tag= Malu3, Disney,1Animacion, 1Aventuras, 1Fantasia, 1Familia, Letra E A2018 "
+"Tag= Malu3, Disney,1Animacion, 1Aventuras, 1Fantasia, 1Familia, Letra E, A2021 "
 <item>
 <title>[COLOR white] El Ultimo Guerrero:Las Raices Del Mal  [/COLOR][COLOR yellow](2021)[/COLOR]</title>    
 <genre>Acción,Familia,Fantasia,Aventuras,Comedia</genre>
@@ -1512,7 +1512,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-"Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Familia, Disney, "
+"Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Familia, Letra E, A2021 Disney, "
 <item>
 <title>[COLOR white]Encanto [/COLOR][COLOR gold](2021)[/COLOR]</title> 
 <genre>Animación,Comedia,Familia,Fantasía</genre>
@@ -1963,16 +1963,16 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-"Tag= Malu3, Disney, Artes marciales, 1Fantastico, 1Comedia, A1986, Letra K, Japan, C720, "
+"Tag= Malu3, Disney, 1Animacion, 1Fantastico, 1Aventuras, A2018, Letra K, C720, "
 
 <item>
-<title>[COLOR white]Kung-Fu Kids [COLOR gold](1986)[/COLOR]</title>    
-<genre>Comedia</genre>
-<year>1986</year>  
-<thumbnail>https://www.themoviedb.org/t/p/original/iJ9ST9KYcPplyI8ceNYmt5L0q88.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/lrepV6dAypXAw7zFVBHVC89XFXX.jpg</fanart>
-<info>Tres niños aprenden el arte del kung fu de su abuelo, un experto en artes marciales, y son capaces de defenderse en un viaje a la ciudad.
-<urlsolve>https://streamtape.com/v/AwVO169vLdCXpvj/Kung_fu_kids_%28WEB-DL-HD-VHS%29.%281986%29.mp4</urlsolve>
+<title>[COLOR white] Kubo y las dos cuerdas magicas [/COLOR][COLOR gold](2018)[/COLOR]</title>    
+<genre>Animación,Fantástico,Aventuras</genre>
+<year>2018</year>  
+<thumbnail>https://www.themoviedb.org/t/p/original/b9L5BomkYAHwiRaVNp14WibZhHs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/AfYtIbyattunmLoTBnGCSMCqpGf.jpg</fanart>
+<info>Kubo vive tranquilamente en un pequeño y normal pueblo hasta que un espíritu del pasado vuelve su vida patas arriba, al reavivar una venganza. Esto causa en Kubo multitud de malos tragos al verse perseguido por dioses y monstruos. Si de verdad Kubo quiere sobrevivir, antes debe localizar una armadura mágica que una vez fue vestida por su padre, un legendario guerrero samurái.<info>
+<urlsolve>https://www.fembed.com/v/kx4-1i31glp7rpk</urlsolve>
 </item>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
