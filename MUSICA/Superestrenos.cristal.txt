@@ -18,6 +18,17 @@
 
 
 <item>
+<title>[COLOR white] Toscana [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.8[/COLOR]</title> 
+<genre>Comedia,Romance,Drama</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/orOHMxqgZjnb1dOZGGrXO7xOn6z.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6OVV95xVpj8ZcNGVcj40AXdiltM.jpg</fanart>
+<info>Cuando un chef danés viaja a la Toscana para vender el negocio de su padre, conoce a una mujer local que lo inspira a repensar su enfoque de la vida y el amor.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/wTyv6mvBLMk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/XjDzJxv9O8cDJqV"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/4n1lx1n1bqqzrge"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/redder7xlcdc"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/on3xd9tuc4b8"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/gvzmysceci60"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/1eigi2e6rtzk"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/nz7qrgu2gnzzej7e"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Chip y Dale al rescate [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.3[/COLOR]</title> 
 <genre>Comedia,Animación,Familia,Aventura,Fantasía</genre>
 <year>2022</year>
