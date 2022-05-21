@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+
+
+<item>
+<title>[COLOR white] Chip y Dale al rescate [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.3[/COLOR]</title> 
+<genre>Comedia,Animación,Familia,Aventura,Fantasía</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/nyTMafB63m9m8npz4tZPKibRDtp.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qK7Ssnrfvrt65F66A1thvehfQg2.jpg</fanart>
+<info>Treinta años después de sus aventuras originales, Chip y Chop viven en Los Ángeles entre dibujos animados y humanos. Chip (voz original de John Mulaney) lleva una vida rutinaria y hogareña como vendedor de seguros, mientras que Chop (voz original de Andy Sandberg) se ha hecho la cirugía 3D y se dedica a explotar la nostalgia de convención en convención, desesperado por revivir sus días de gloria. Cuando un antiguo compañero de reparto desaparece misteriosamente, Chip y Chop se ven obligados a recuperar la amistad perdida y a hacer de detectives una vez más como Guardianes Rescatadores para salvar a su amigo.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/CAuVHTpxv8o"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/We8vBAe0GjI0Xw"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/en9q414whvvv86"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/3brf1v7az6ng"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/hukt6sphscl5"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ve3m1qgv0la1"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/rq13ri925ia0"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/r5djzgte00q14rl3"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] La familia monster 2 [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.4[/COLOR]</title> 
 <genre>Animación,Familia</genre>
