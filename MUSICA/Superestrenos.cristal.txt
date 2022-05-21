@@ -5,6 +5,17 @@
 =======================================================================================
 
 
+
+<item>
+<title>[COLOR white] La ciudad perdida [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.8[/COLOR]</title> 
+<genre>Acción,Aventura,Comedia,Romance</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/grEVYkBAVIzQ4JmZ7ydceN9DFQR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/azh6RcsReOFF6J97ztWuiqvLjBj.jpg</fanart>
+<info>Una solitaria novelista romántica de gira con el modelo de la portada de su último libro se ve envuelta en un intento de secuestro que llevará a ambos a una feroz aventura en la jungla.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/VPOLHCJkLw0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/ap1azVwky7sxwaO"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/poner"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/vad9z5w9sag3"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/l58nirghpnnp"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/mf7gchvbo6a4"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/qxtpksly2i7u"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/jzw16gud-ykewznx"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1nwf4eiJGtECi7b4zRycOrMibTgsBeSSE/view"}</urlsolve>
+</item>
+
 <item>
 <title>[COLOR white] Sonic 2: La pelicula [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.8[/COLOR]</title> 
 <genre>Acción,Ciencia ficción, Comedia,Familia,Aventura</genre>
