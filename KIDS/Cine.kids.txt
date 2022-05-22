@@ -238,6 +238,20 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <info>Artemis Fowl, un joven criminal irlandes, rapta a Holly Short, un hada, con la intencion de pedir un rescate que le permita salvar a su padre. Una vez logra cumplir sus intenciones, se embarca en una aventura que le llevara a luchar contra el malefico hada Opal Koboi. Adaptacion del libro de Eoin Colfer. </info>
 <urlsolve>https://upstream.to/k3havamk53qd</urlsolve>
 </item>
+
+----------------------------------------------------------------------------------------------------------------------
+ 
+"Tag= Malu3, Disney,1Animacion, 1Infantil, 1Familiar, A2011, Letra A " 
+
+<item>
+<title>[COLOR white]Arthur Christmas Operacion Regalo [COLOR gold](2011)[/COLOR]</title>    
+<genre>Animacion,Familia,Comedia </genre>
+<year>2011</year>  
+<thumbnail>https://www.themoviedb.org/t/p/original/xP70Ue7gqD9xrjj5ly55Mhx3HQ1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9iBfNsWAIk7Yth9lv9RV5dhCLnl.jpg</fanart>
+<info>Santa Claus cree que su reinado está llegando a su fin y que se acerca ya la hora de jubilarse. Confía en que su hijo Steven, que es muy eficiente y responsable, aunque no muy alegre, esté preparado para tomar el relevo inmediatamente. Sin embargo, esa Navidad surge un problema: uno de los 600 millones de niños a los que había que visitar se queda sin su regalo.</info>
+<urlsolve>https://www.fembed.com/v/rq217he00g2qwqy</urlsolve>
+</item>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Fantastico, 1Animacion, 1Infantil, Letra A, A2009, Francia, "
 
@@ -455,17 +469,32 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Batman, Batgirl y Robin forjan una alianza con Las Tortugas Ninja para luchar contra el gran enemigo de estas ultimas, Shredder, quien aparentemente ha formado equipo con Ra's Al Ghul y la Liga de Asesinos para poner en jaque a Gotham.</info>
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/5cp1svgjui0d"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/7lg1pigp68qdpll"}</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Ficcion, A2009, Letra B, EEUU, Superheroes, C720, "
+----------------------------------------------------------------------------------------------------------------------
+ 
+"Tag= Malu3, Disney,1Aventura 1Familiar, A2009, Letra B " 
 
 <item>
 <title>[COLOR white]Ben 10 Alien Swarm [COLOR gold](2009)[/COLOR]</title>    
-<genre>Ciencia ficcion</genre>
+<genre>Familiar,Aventura,Fantasia</genre>
 <year>2009</year>  
-<thumbnail>https://i.imgur.com/YHQzv16.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
-<info>Este filme se trata de que la nave de una misteriosa chica alenigena (Elena) se estrella sobre la Tierra, y el equipo, conformado por Ben, su prima Gwen, y su amigo Kevin, tendra que defender el planeta del padre de la extraña visitante. Ben tendra que romper sus propios records, hablando sobre plomeros, para ayudar a Elena y para descubrir una amenaza alienigena para el planeta Tierra. Ahora, el equipo debe confiar en sus instintos para ayudar a salvar el dia y detener todo esto. "Ben 10: Alien Swarm" es la segunda pelicula live-action de Cartoon Network basada de la serie Ben 10: Alien Force, tras "Ben 10: Carrera Contra El Tiempo"</info>
-<urlsolve>https://sendvid.com/62rvx0j8</urlsolve>
+<thumbnail>https://www.themoviedb.org/t/p/original/9D1KSrLM9RnpcKWV7SeNEfDOWIn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pZ7PasDyWIafGYTxzzlSWWl6ZgK.jpg</fanart>
+<info>Este filme se trata de que la nave de una misteriosa chica alenígena (Elena) se estrella sobre la Tierra, y el equipo, conformado por Ben, su prima Gwen, y su amigo Kevin, tendrá que defender el planeta del padre de la extraña visitante. Ben tendrá que romper sus propios récords, hablando sobre plomeros, para ayudar a Elena y para descubrir una amenaza alienígena para el planeta Tierra. Ahora, el equipo debe confiar en sus instintos para ayudar a salvar el día y detener todo esto. "Ben 10: Alien Swarm" es la segunda película live-action de Cartoon Network basada de la serie Ben 10: Alien Force, tras "Ben 10: Carrera Contra El Tiempo".</info>
+<urlsolve>https://www.fembed.com/v/gl4rji-kkpgwdyx</urlsolve>
+</item>
+
+----------------------------------------------------------------------------------------------------------------------
+ 
+"Tag= Malu3, Disney,1Aventura 1Animacion, A2020, Letra B " 
+
+<item>
+<title>[COLOR white]Ben 10 Contra El Universo [COLOR gold](2020)[/COLOR]</title>    
+<genre>Animacion,Aventura,Accion,Ciencia Ficcion</genre>
+<year>2020</year>  
+<thumbnail>https://www.themoviedb.org/t/p/original/irkcFSVhPuqDw6ZtJ4Mb26eVboa.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/shosup359YHUBuuVBkssbIrk155.jpg</fanart>
+<info>La historia de esta nueva cinta animada, narra la odisea por la que Ben 10 tendrá que pasar en el espacio exterior, pues uno de los villanos más aterradores de la galaxia intenta acabar con la humanidad por lo que se verá en la necesidad de luchar contra él y cuando lo hace se convertirá en la batalla más importante y grande de su vida.</info>
+<urlsolve>https://www.fembed.com/v/d1n7jsx115317yx</urlsolve>
 </item>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 "Tag= Malu3, Disney, 1Comedia, 1Familiar, Universal Studios, Letra B, A2018, "
@@ -539,6 +568,50 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Nueva version en clave de comedia del cuento de Blancanieves, esta vez narrado desde el punto de vista de la malvada madrastra. Siete valerosos y rebeldes enanitos ayudaran a Blancanieves a reclamar sus derechos al trono que le pertenece por nacimiento y a conquistar al Principe con el que pretende casarse la temible Reina. </info>
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://upstream.to/ojeg5bwp6cfp"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/8yng1a817j51l-7"}</urlsolve>
 </item> 
+
+----------------------------------------------------------------------------------------------------------------------
+ 
+"Tag= Malu3, Disney,1Animacion, 1Infantil, 1Familiar, A2004, Letra B " 
+
+<item>
+<title>[COLOR white]Bob Esponja:La Pelicula [COLOR gold](2004)[/COLOR]</title>    
+<genre>Familia,Animacion,Comedia,Fantasia</genre>
+<year>2004</year>  
+<thumbnail>https://www.themoviedb.org/t/p/original/j4Sqs3SKNaJ4chdKXS1qqUlaWyW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/y8emTndyl9OF9BnuGkLuJ7V2Ubk.jpg</fanart>
+<info>Hay problemas en Bikini Bottom: la corona del Rey Neptuno ha desaparecido y las sospechas recaen en el Sr. Krabs. Junto a Patrick, su mejor amigo, Bob Esponja marcha a la peligrosa Ciudad de Shell para rescatar la corona de Neptuno y salvar al Sr. Krabs.</info>
+<urlsolve>https://www.fembed.com/v/y6g7ziedd1qry5g</urlsolve>
+</item>
+
+
+----------------------------------------------------------------------------------------------------------------------
+ 
+"Tag= Malu3, Disney,1Animacion, 1Infantil, 1Familiar, A2015, Letra B " 
+
+<item>
+<title>[COLOR white]Bob Esponja:Un Heroe Fuera Del Agua [COLOR gold](2015)[/COLOR]</title>    
+<genre>Familia,Animacion,Comedia,Fantasia</genre>
+<year>2015</year>  
+<thumbnail>https://www.themoviedb.org/t/p/original/z5aphafm6OEcAq4jwOs5Ml9F384.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hBhphEE2pih8gvqqNcF6BQ6WAJ1.jpg</fanart>
+<info>El argumento gira en torno a Bob Esponja y sus inseparables amigos del mar, como son Patricio y la ardilla Arenita, y otros personajes de la serie en la que se basa, como Calamardo y Don Cangrejo. En esta ocasión Bob Esponja y cía se embarcan en una aventura en la que deberán encontrar una receta robada, lo que llevará a los personajes de Fondo Bikini hasta nuestra dimensión. Por lo que la película mezcla animación y escenas de acción real. Las escenas de animación están hechas tanto con CGI (imagen generada por ordenador) como en dibujo a mano.</info>
+<urlsolve>https://www.fembed.com/v/qzmw6teqq8krgq2</urlsolve>
+</item>
+
+
+----------------------------------------------------------------------------------------------------------------------
+ 
+"Tag= Malu3, Disney,1Animacion, 1Infantil, 1Familiar, A2020, Letra B " 
+
+<item>
+<title>[COLOR white]Bob Esponja:Un Heroe Al Rescate [COLOR gold](2020)[/COLOR]</title>    
+<genre>Familia,Animacion,Comedia,Fantasia</genre>
+<year>2020</year>  
+<thumbnail>https://www.themoviedb.org/t/p/original/fi2pg2mtAZwhq3qVuAs6PztjnHT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cDjKDI9kE3lrO6okJQYLhRtsohV.jpg</fanart>
+<info>Cuando desaparece su amigo Gary, Bob Esponja se embarca en una alocada misión con Patricio muy lejos de Fondo de Bikini para rescatarlo.</info>
+<urlsolve>https://www.fembed.com/v/gl4rji-kkpnqm00</urlsolve>
+</item>
 -------------------------------------------------------------------------------------------------------------------------- 
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, Disney, Letra B, A2008, C1080, "
 
@@ -811,6 +884,19 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Ha transcurrido un año desde el "desafortunado incidente de la bellota", cuando Chicken Little causo un gran revuelo en su pueblo natal de Oakey Oaks al proclamar que el cielo se estaba cayendo tras ser golpeado en la cabeza por lo que aparentemente era una bellota. Sin contemplaciones, el valiente pollito se une al equipo local de beisbol con la esperanza de restablecer su reputacion y ganarse el respeto de su padre, Buck Cluck. Cuando el conduce al pueblo a una inesperada victoria, se convierte en el centro de toda la atencion. Pero tan pronto como el pollito campeon es redimido, vuelve a recibir otro golpe en la cabeza. ¡Y esta vez el cielo si se esta cayendo! Temeroso de ser tachado una vez mas de loco, se niega a decirle a nadie lo que ha sucedido. En lugar de eso, recluta la ayuda de sus amigos mas cercanos - Runt el benjamon, Abby Patosa (alias Patito Feo), y Pez fuera del agua - en un intento por salvar el mundo sin hacer que todo el pueblo entre nuevamente en panico.</info>
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://sendvid.com/ro5x9kdx"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD[/COLOR]","url" : "https://www.fembed.com/v/03qg2il271678pl"}</urlsolve>
 </item>
+----------------------------------------------------------------------------------------------------------------------
+ 
+"Tag= Malu3, Disney,1Aventura, 1Comedia, 1Familiar,1Fantasia A2018, Letra C, Disney" 
+
+<item>
+<title>[COLOR white]Christopher Robin [COLOR gold](2018)[/COLOR]</title>    
+<genre>Aventura,Comedia,Familia,Fantasia</genre>
+<year>2018</year>  
+<thumbnail>https://www.themoviedb.org/t/p/original/yFTnOaszS1xnnnx2jOTPwIsQIqk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qHtTsM4FLeevsD0TJryukY68MWV.jpg</fanart>
+<info>En esta nueva aventura de acción real, el niño que se embarcó en innumerables aventuras en el bosque de los Cien Acres con su banda de animales de peluche, ha crecido y… ha perdido el rumbo. Ahora les toca a sus amigos de la infancia aventurarse en nuestro mundo y ayudar a Christopher Robin a recordar al niño cariñoso y juguetón que aún tiene dentro.</info>
+<urlsolve>https://www.fembed.com/v/wwx41hn44mk6r8e</urlsolve>
+</item>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Infantil, A2016, Letra C, EEUU, Pajaros, Warner Bros, "
 
@@ -822,6 +908,20 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>En Montaña Cigüeña, viven las cigüeñas que hace tiempo enviaban bebes a los padres de todo el mundo. Ahora distribuyen los paquetes de una compañia mundial de Internet. Junior, la mejor cigüeña repartidora de la compañia, esta a punto de conseguir un ascenso, pero accidentalemete activa la Maquina de Produccion de Bebes y el resultado es una adorable niña ilegal. Para evitar que su jefe se entere, Junior y su amiga Tulip, el unico ser humano de Montaña Cigüeña, se apresuran a entregar el bebe en un viaje salvaje que podria afectar a la integridad de mas de una familia y restablecer la verdadera mision de las cigüeñas en el mundo. Debut en el largometraje de Doug Sweetland, responsable del corto de Pixar "Presto" (2008).</info>
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://sendvid.com/d7q66uoj"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/d1n7jsxk70m8653"}</urlsolve>
+</item>
+
+----------------------------------------------------------------------------------------------------------------------
+ 
+"Tag= Malu3, Disney,1Musical, 1Drama, 1Familiar,1Romance A2020, Letra C," 
+
+<item>
+<title>[COLOR white]Clouds [COLOR gold](2020)[/COLOR]</title>    
+<genre>Musica,Drama,Romance</genre>
+<year>2020</year>  
+<thumbnail>https://www.themoviedb.org/t/p/original/qviAuTXZ6H9Yk0OUQ7VJII1IcjD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cCwYJkz07MKowlacYUDe7LaCv2M.jpg</fanart>
+<info>En esta inspiradora historia basada en hechos reales, el joven músico Zach Sobiech descubre que su cáncer se ha extendido y que le quedan pocos meses de vida. A pesar de eso, decide cumplir su sueño de grabar un álbum, sin saber que pronto se convertirá en un fenómeno viral. Al final, la música le da un nuevo sentido a la vida de Zach y le ayuda a despedirse de todos... con una canción que acabará escuchándose en todo el mundo.</info>
+<urlsolve>https://www.fembed.com/v/qzmw6teqq8kgewx</urlsolve>
 </item>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Infantil, 1Familiar, Pixar,Letra C, A2017, "
@@ -1103,6 +1203,20 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <fanart>https://i.imgur.com/4Qgvf8A.jpg</fanart>
 <info>La llegada de un hermanito trastoca por completo la idilica vida del pequeño Tim, hasta entonces hijo unico de 7 años y el ojito derecho de sus padres. Su nuevo hermano es un peculiar bebe, que viste traje y corbata y lleva maletin. Tim comienza a sospechar de el, hasta que descubre que puede hablar.</info>
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/9c8e01k5o6qx"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/l3rqjin6eplrz3x"}</urlsolve>
+</item>
+
+----------------------------------------------------------------------------------------------------------------------
+ 
+Tag= Malu3, Disney,1Animacion, 1Aventura, 1Familiar,1Fantasia,1Accion,1Romance A1986, Letra E," 
+
+<item>
+<title>[COLOR white]El Castillo En El Cielo [COLOR gold](1986)[/COLOR]</title>    
+<genre>Animacion,Aventura,Accion,Familia,Romance</genre>
+<year>1986</year>  
+<thumbnail>https://www.themoviedb.org/t/p/original/nMrXfZNxz74g3D58cpRh5AamSrO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6ICcmfEYUwMO7iW2owcHDHdzLJG.jpg</fanart>
+<info>La huérfana Sheeta ha heredado un misterioso cristal que la une al mítico reino de las nubes de Laputa. Con la ayuda del ingenioso Pazu y una graciosa banda de piratas del cielo, dirige su camino hacia las ruinas de la que fué, una gran civilización. Sheeta y Pazu deben ser más listos que el malvado Muska, quien planea usar la tecnología de Laputa para dominar el mundo.</info>
+<urlsolve>{"titulo" : "[COLOR white]Castellano[/COLOR]","url" : "https://www.fembed.com/v/ez-djt-66njyeqk"},{"titulo" : "[COLOR white]Catalan[/COLOR]","url" : "https://www.fembed.com/v/ez-djt-66njrd2d"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Fantastico, 1Accion, 1Aventuras, A2020, Letra E, EEUU, Superheroes, Disney, C720, " 
@@ -1545,6 +1659,22 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>¡Mientras Rapunzel se prepara para su coronacion como Princesa de Corona, una noche inolvidable cambiara su pelo otra vez!</info>
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://sendvid.com/hlmlro7d"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/p1zq4smq8726x1-"}</urlsolve>
+</item>
+
+----------------------------------------------------------------------------------------------------------------------
+ 
+
+ 
+"Tag= Malu3, Disney,1Animacion, 1Infantil, 1Familiar,1Comedia,1Fantasia A2020, Letra E, Disney" 
+
+<item>
+<title>[COLOR white]Erase Una Vez Un Munheco De Nieve [COLOR gold](2020)[/COLOR]</title>    
+<genre>Animacion,Familia,Comedia,Fantasia</genre>
+<year>2020</year>  
+<thumbnail>https://www.themoviedb.org/t/p/original/yckfWcCTKEplBCilRdE4d43xowl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xkTbd3OW4wgJagyeq6XC869iFxv.jpg</fanart>
+<info>Los primeros días de vida del pequeño Olaf, cuándo y por qué cobra vida y cómo empieza a buscar su propia identidad, después de la huída de Elsa del palacio de Arendelle.</info>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://sendvid.com/vt9tcicj"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/y6g7zieddpn5k6q"}</urlsolve>
 </item>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Infantil, 1Animacion, A2012, Letra E, Francia, Cuentos, Amistad, Roedores, Osos, Familiar, Mediometraje, Secuela, C720, "
@@ -2769,6 +2899,20 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Reinado de Eduardo VII (1901-1910). La vida de una familia inglesa formada por un padre banquero, una madre sufragista y dos niños rebeldes -que pretenden llamar la atencion de sus padres haciendo la vida imposible a todas las niñeras-, se vera alterada con la llegada de Mary Poppins, una extravagante institutriz que baja de las nubes empleando su paraguas como paracaidas. Debut y Oscar para Julie Andrews en este clasico del cine familiar que en su dia batio records de taquilla. Una niñera magica y canciones pegadizas que haran las delicias de los niños de la casa. CS.</info>
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/ek0nxzfsmceb"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/m6pqji5wx671ql5"}</urlsolve>
 </item>
+
+----------------------------------------------------------------------------------------------------------------------
+ 
+"Tag= Malu3, Disney,1Animacion, 1Aventura, 1Familiar,1Fantasia A2020, Letra M," 
+
+<item>
+<title>[COLOR white]Mas Alla De La Luna [COLOR gold](2020)[/COLOR]</title>    
+<genre>Animacion,Aventura,Familia,Fantasia</genre>
+<year>2020</year>  
+<thumbnail>https://www.themoviedb.org/t/p/original/u7wYZzjhBzhfS6QsvrjVKi7v0MO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oZ2aOYhYIbfLbuT5UQpRKy30htb.jpg</fanart>
+<info>Una niña inteligente, decidida y enamorada de la ciencia construye un cohete para viajar a la Luna y demostrar la existencia de una legendaria diosa. Allí la pequeña, de nombre Fei Fei, se verá envuelta en una inesperada aventura y descubrirá un enigmático mundo de criaturas fantásticas.</info>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://sendvid.com/vt9tcicj"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/rq217he008wp2-p"}</urlsolve>
+</item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion,1Comedia, 1Infantil,Universal Pictures "
 <item>
@@ -3172,6 +3316,20 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Geppetto vive solo en una pequeña ciudad italiana. Su unica compañia son las marionetas que fabrica con la madera de un bosque cercano, el mismo en el que un dia tallo en un tronco un corazon con su inicial y la de su amada Leone. Precisamente con ese tronco, Geppetto decide hacer su obra mas bella: un muñeco tan perfecto que cobra vida y se convierte en su hijo, el travieso Pinocho.</info>
 <urlsolve>https://watchsb.com/e/esqnqvmsky9y</urlsolve>
+</item>
+
+----------------------------------------------------------------------------------------------------------------------
+ 
+"Tag= Malu3, Disney,1Fantasia, 1Aventura, 1Drama, A2019, Letra P, Disney" 
+
+<item>
+<title>[COLOR white]Pinocho [COLOR gold](2019)[/COLOR]</title>    
+<genre>Fantasia,Aventura,Drama</genre>
+<year>2019</year>  
+<thumbnail>https://www.themoviedb.org/t/p/original/6kKrB0HNe7hRFFpB3QCWEd1ilY8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1K1SEQ0BnG8DnZu6JlrFuER6fv7.jpg</fanart>
+<info>En esta adaptación en vivo del amado cuento de hadas, el viejo tallador de madera Geppetto da forma a un títere de madera, Pinocho, que mágicamente cobra vida. Pinocho anhela la aventura y se extravía fácilmente, encontrándose con bestias mágicas, espectáculos fantásticos, mientras hace amigos y enemigos a lo largo de su viaje. Sin embargo, su sueño es convertirse en un niño de verdad, lo que solo puede hacerse realidad si finalmente cambia de rumbo.</info>
+<urlsolve>https://www.fembed.com/v/3ren7im--34q88q</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney,1Animacion, 1Aventuras, 1Comedia, "
