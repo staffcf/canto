@@ -1220,7 +1220,8 @@ Tag= Malu3, Disney,1Animacion, 1Aventura, 1Familiar,1Fantasia,1Accion,1Romance A
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Fantastico, 1Accion, 1Aventuras, A2020, Letra E, EEUU, Superheroes, Disney, C720, " 
-                                                                          <item>
+ 
+<item>
 <title>[COLOR white] El Club Secreto De Los No Herederos Al Trono [COLOR pink](2020)[/COLOR]]</title>    
 <genre>Fantastico, Accion, Aventuras</genre>
 <year>2020</year>  
