@@ -1207,7 +1207,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 ----------------------------------------------------------------------------------------------------------------------
  
-Tag= Malu3, Disney,1Animacion, 1Aventura, 1Familiar,1Fantasia,1Accion,1Romance A1986, Letra E," 
+Tag= Malu3, Disney,1Animacion, 1Aventura, 1Familiar,1Fantasia,1Accion,1Romance A1986, Letra E, " 
 
 <item>
 <title>[COLOR white]El Castillo En El Cielo [COLOR gold](1986)[/COLOR]</title>    
