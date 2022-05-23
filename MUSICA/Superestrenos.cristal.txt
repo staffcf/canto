@@ -16,6 +16,8 @@
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/VPOLHCJkLw0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/ap1azVwky7sxwaO"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/poner"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/vad9z5w9sag3"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/l58nirghpnnp"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/mf7gchvbo6a4"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/qxtpksly2i7u"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/jzw16gud-ykewznx"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1nwf4eiJGtECi7b4zRycOrMibTgsBeSSE/view"}</urlsolve>
 </item>
 
+
+
 <item>
 <title>[COLOR white] Sonic 2: La pelicula [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.8[/COLOR]</title> 
 <genre>Acción,Ciencia ficción, Comedia,Familia,Aventura</genre>
@@ -23,11 +25,8 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/sJiHVM0A3OXDVxl4Z6a7ihMPHfm.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/50DSlLDTB9l99A26vpEeyjWic14.jpg</fanart>
 <info>Después de establecerse en Green Hills, Sonic se muere por demostrar que tiene madera de auténtico héroe, pero Robotnik regresa con nuevo compañero Knuckles, en busca de una esmeralda que tiene el poder de destruir civilizaciones, pero Sonic no esta solo lo ayudara Tails.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Mw64Q2bUCGo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/O2dXbq3YJYHZ0Qj"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/poner"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ab17071u3031
-"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/ztkp3z7wsdk2"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/19cq84uhdoam"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/dw39rxvbj66h"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/z6-j4gsjyqrpm--3"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1hgJfymsVzSuiy8S7zmfSO8bDzwB_b0u8/view"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Mw64Q2bUCGo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/O2dXbq3YJYHZ0Qj"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/poner"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ab17071u3031"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/ztkp3z7wsdk2"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/19cq84uhdoam"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/dw39rxvbj66h"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/z6-j4gsjyqrpm--3"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1hgJfymsVzSuiy8S7zmfSO8bDzwB_b0u8/view"}</urlsolve>
 </item>
-
-
 
 <item>
 <title>[COLOR white] El aparcacoches [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.3[/COLOR]</title> 
