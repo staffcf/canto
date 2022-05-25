@@ -688,18 +688,6 @@
 
 
 
-"Tag= 5SuperTopo, 1Animacion, A2020, Letra E, EEUU, Navidad, Netflix, "
-
-<item>
-<title>[COLOR white] El deseo de Navidad de Angela [/COLOR][COLOR yellow](2020) [COLOR aqua][/COLOR]</title>    
-<genre>Animacion</genre>
-<year>2020</year>  
-<thumbnail>https://i.imgur.com/LqVFGVF.jpg</thumbnail>
-<fanart>https://i.imgur.com/W4UnEGM.jpg</fanart>
-<info>El padre de Ángela trabaja lejos, en Australia. Para cumplir su deseo de reunir a su familia a tiempo para Navidad, ella traza un plan.</info>
-<urlsolve>{"titulo" : "[COLOR white]Cloudvideo[/COLOR]","url" : "https://cloudvideo.tv/72j1hq5l6pjv"},{"titulo" : "[COLOR white] Mixdrop[/COLOR]","url" : "https://mixdrop.to/e/wn89rk9zs0z9l4v"}</urlsolve> 
-</item>
-
 "Tag= 5SuperTopo, 1Ciencia ficción, 1Aventuras, A2020, Letra W, EEUU, Superheroes, Netflix, "
 
 <item>
@@ -714,19 +702,6 @@
 
 
 <item>
-<title>[COLOR white]Soul [COLOR cyan](2020)[/COLOR]</title>  
-<genre>Animacion</genre>
-<year>2020</year>  
-<thumbnail>https://i.imgur.com/zgKBZm4.jpg</thumbnail>
-<fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
-<info>¿Alguna vez te has preguntado de dónde provienen tu pasión, tus sueños y tus intereses? ¿Qué es lo que te hace ser... tú? Pixar te lleva en un viaje desde las calles de Nueva York a los reinos cósmicos para descubrir las respuestas a las preguntas más importantes de la vida.</info>
-<urlsolve>{"titulo" : "[COLOR cyan]Opcion 1 [/COLOR]","url" : "https://cloudvideo.tv/3sfo3ty08oay"},{"titulo" : "[COLOR yellow]Opcion 2[/COLOR]","url" : "https://mixdrop.to/e/vnv9kwrls71jnj"}</urlsolve>
-</item>
-
-
-
-
-<item>
 <title>[COLOR white]Safety [COLOR pink](2020)[/COLOR]</title>  
 <genre>Drama</genre>
 <year>2020</year>  
@@ -734,17 +709,6 @@
 <fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
 <info>Ray-Ray McElrathbey es un jugador principiante de fútbol americano para la Universidad de Clemson que cría en secreto a su hermano menor después de que la vida en su casa familiar se convirtiese en una locura.</info>
 <urlsolve>https://ulozto.net/file/ShlqGVCpREo1/festakids-safety-la-ultima-linea-de-defensa-2020-720-mkv</urlsolve>
-</item>
-https://mixdrop.co/f/7rkxn3xwaxwq71
-
-<item>
-<title>[COLOR white]El arbol de los deseos [COLOR cyan](2020)[/COLOR]</title>  
-<genre>Animacion</genre>
-<year>2020</year>  
-<thumbnail>https://i.imgur.com/j7UvdXI.jpg</thumbnail>
-<fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
-<info>Una joven zarigüeya se equivoca a la hora de pedir un deseo y congela toda su ciudad natal de Sanctuary City, amenazando así la vida de todos sus habitantes. </info>
-<urlsolve>https://mixdrop.co/f/rw6ljmqdhrq4n8</urlsolve>
 </item>
 
 
@@ -759,34 +723,7 @@ https://mixdrop.co/f/7rkxn3xwaxwq71
 <urlsolve>https://mixdrop.co/f/kn0zxr1wu3rp0l6</urlsolve> 
 </item>
 
-<item>
-<title>[COLOR white] (Re)cambio De Princesa [/COLOR][COLOR yellow](2020) [COLOR aqua][/COLOR]</title>    
-<genre>Comedia, Drama, Romance, Familia</genre>
-<year>2020</year>  
-<thumbnail>https://i.imgur.com/dziJOhs.jpg</thumbnail>
-<fanart>https://i.imgur.com/Qcfsx6V.jpg</fanart>
-<info>Se acerca la coronación de Margaret, pero su relación con Kevin está pasando por una mala racha. Ahora le toca a Stacy ayudarla antes de que otra doble lo fastidie todo.</info>
-<urlsolve>https://mixdrop.to/e/mdkxn7glhjez7w</urlsolve> 
-</item>
-
-<item>
-<title>[COLOR white] Crónicas De Navidad 2 [/COLOR][COLOR yellow](2020) [COLOR chartreuse][/COLOR]</title>    
-<genre>Familia, Fantasía, Aventura</genre>
-<year>2020</year>  
-<thumbnail>https://i.imgur.com/eIaReup.jpg</thumbnail>
-<fanart>https://i.imgur.com/Vbdn0A8.jpg</fanart>
-<info>Kate Pierce (Darby Camp), que ahora es una cínica adolescente, se reúne inesperadamente con Santa Claus (Kurt Russell) cuando un misterioso malhechor amenaza con destruir la Navidad para siempre.</info>
-<urlsolve>https://mixdrop.to/e/xown8nnvune0vv</urlsolve> 
-</item>
 
 
-<item>
-<title>[COLOR white] La Navidad mágica de los Jangle [/COLOR][COLOR yellow](2020) [COLOR aqua][/COLOR]</title>    
-<genre>Familia, Fantasía, Música</genre>
-<year>2020</year>  
-<thumbnail>https://i.imgur.com/rL7rB57.jpg</thumbnail>
-<fanart>https://i.imgur.com/d5HoFNt.jpg</fanart>
-<info>Un mundo imaginario cobra vida en la historia de un excéntrico creador de juguetes, su aventurera nieta y una invención mágica que tiene el poder de cambiar sus vidas para siempre.</info>
-<urlsolve>https://mixdrop.to/e/9nw3o08lhkm9ro</urlsolve> 
-</item>
+
 
