@@ -744,6 +744,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Cielo Nocturno[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Cielo.nocturno</externallink>
+<info>Franklin e Irene York son una pareja que hace años descubrió una cámara enterrada en su patio trasero que inexplicablemente conduce a un extraño planeta desierto. Han guardado cuidadosamente su secreto desde entonces, pero cuando un joven enigmático entra en sus vidas, la tranquila existencia de los Yorks cambia rápidamente... y la misteriosa cámara que pensaban conocer tan bien resulta ser mucho más de lo que jamás podrían haber imaginado.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/wQAOmJvPsjlmsDTjeOHQikczY1K.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8zZ6to3gwkmduhahjy7aXJ83Vfj.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Ciudad Invisible[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Ciudad.Invisible.txt</externallink>
