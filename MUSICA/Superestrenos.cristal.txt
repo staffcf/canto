@@ -5,6 +5,17 @@
 =======================================================================================
 
 
+<item>
+<title>[COLOR white] Camera cafe: La pelicula [/COLOR][COLOR yellow](2022) [COLOR aqua]*4.8[/COLOR]</title> 
+<genre>Comedia</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/wlHZV96gSY5UOmqPDlsFZ4ABWHy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fh5N9m1ZKiSiT1T1kPzV3rbeARs.jpg</fanart>
+<info>Jesús Quesada, un incompetente ejecutivo, es nombrado nuevo director de una empresa en decadencia cuya supervivencia dependerá a partir de ahora tanto del ingenio como de la ambición de sus antiguos compañeros.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/EGsRt4Huthk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/ZKpy1M8zXvhq9BG"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/kn999qrrhdeen"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/oxxkhs3piedq"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/b6ejbv5g68dw"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/dyi1939qsg20"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/jujpqnpu2ldd"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/2p1qwxa2x41zz0pg"}</urlsolve>
+</item>
+
+
 
 <item>
 <title>[COLOR white] La ciudad perdida [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.8[/COLOR]</title> 
