@@ -2141,6 +2141,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Gigantes[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Gigantes</externallink>
+<info>Miniserie de seis episodios que narra la historia de los Guerrero, una familia que ha encontrado en el negocio de la compraventa de muebles en el rastro de Madrid la tapadera perfecta para el desarrollo de sus actividades criminales. Una policía que lleva años siguiendo a este clan intentará detener su poder, que se extiende por Andalucía y por la alta sociedad europea.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/bn1IyyEPyQaIbpqUlUBp1Ce94Wb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2SVLIzgM5uDxTqc68gFCcTOsNbL.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Gomorra[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Gomorra</externallink>
