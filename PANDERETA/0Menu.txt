@@ -3272,6 +3272,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Manayek[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Manayek</externallink>
+<info>Serie de TV (2020-). Izzy Bachar, un investigador de asuntos internos de la policía, descubre justo antes de jubilarse que su viejo amigo Barak, un alto oficial del cuerpo, está acusado de corrupción. La vida como él la conocía se romperá en pedazos.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/dfKz6TqrhYPRWNjtrklkIQL0cCT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fAaR6jYplDCdIaq4JBgJlZLggLZ.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Manhunt[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Manhunt</externallink>
@@ -4029,6 +4038,15 @@ Este caso se convierte en parte importante de la vida de ambos detectives, llega
 <info>Un padre hará lo indecible para descubrir lo que ha pasado con su hija, Soledad, que desapareció hace más de una década en una playa, cuando sólo tenía 5 años.</info>
 <thumbnail>https://i.imgur.com/lKiSlgb.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/mDFaLok5GsXLIkenRFbw6uQULeV.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Planeta Prehistorico [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Planeta.prehistorico</externallink>
+<info>Experimenta las maravillas de nuestro mundo como nunca antes en esta docuserie épica de Jon Favreau y los productores de Planet Earth. Viaja 66 millones de años atrás, cuando los majestuosos dinosaurios y las criaturas extraordinarias vagaban por las tierras, los mares y los cielos.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/yMdFsHKp4YX2CUkAQcZswxXDuoe.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rkpZKtpLR01r1lv8T1ggJuahLf1.jpg</fanart>
 </item>
 
 <item>
