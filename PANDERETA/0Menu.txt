@@ -275,6 +275,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Arcadeologia [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Arcadeologia</externallink>
+<info>Los 80 y los 90 definieron una “edad de oro” del arcade en España, que ahora estamos reviviendo en multitud de eventos y actividades alrededor del videojuego clásico. Pero, ¿quién se encarga de preservar este legado cultural en nuestro país? ¿quién está afrontando esta labor de recuperación de las máquinas recreativas? Arcadeología sigue los pasos de la asociación valenciana Arcade Vintage, pionera en el campo de la restauración de arcades, y responsable, durante los meses de rodaje de este documental, de la creación del primer Museo del Videojuego en España</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/v6ADbz9zhDguB6nscxT6RaIEnDf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/s4No6UDXdPRask0Dt08T728DBUV.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR orange]* [COLOR white]ARCANE League Of Legends[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/LILIANIME/Series/Arcane.league.of.legends</externallink>
@@ -627,6 +636,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Caida En Picado:El Caso Contra Boeing  [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Caida.en.picado</externallink>
+<info>Los investigadores revelan cómo la supuesta prioridad de las ganancias de Boeing sobre la seguridad podría haber contribuido a dos accidentes catastróficos con meses de diferencia.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/r5chhS32USKj7andCo8z9HgbSWE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ltZyYAmYAlpf0GzR9GiIzf3S6k9.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Calls[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Calls.txt</externallink>
@@ -741,6 +759,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 <info>Después de que un muñeco vintage de Chucky aparece en una venta de patio suburbana, una ciudad estadounidense se ve sumida en el caos, luego de que una serie de crímenes horribles comienzan a exponer las hipocresías y los secretos de la ciudad.Mientras tanto, la llegada de enemigos y aliados del pasado de Chucky amenaza con exponer la verdad detrás de los acontecimientos así como los orígenes no contados del malvado muñeco.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/6FVAOFq1Ln79wmvSFBsT6JjRCKM.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/xAKMj134XHQVNHLC6rWsccLMenG.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Ciberinfierno:La Investigacion Que Destapo El Horror [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Ciberinfierno</externallink>
+<info>Unos delincuentes campan a sus anchas en una red de salas de chat online cometiendo delitos sexuales. Para cazarlos, hizo falta una gran dosis de agallas y tenacidad.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/fcMRcTNNnvNRXVgOxEjFssU6QOe.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/okUGREWC4LN2TSjFX0AOiNJhzdN.jpg</fanart>
 </item>
 
 <item>
@@ -2592,6 +2619,15 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]La Alhambra [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/La.Alhambra</externallink>
+<info>En el corazón de Andalucía, se encuentra la Fortaleza de la Alhambra. Este documental revela los increíbles logros arquitectónicos que esconde este antiguo monumento construido hace más de 800 años por los nazaríes.</info>
+<thumbnail>https://imgur.com/TybvPAL</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]La Brea[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.brea</externallink>
@@ -4375,6 +4411,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Regreso Al Espacio [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Regreso.al.espacio</externallink>
+<info>Elon Musk y el equipo de SpaceX tienen una misión: llevar a varios astronautas de la NASA hasta la Estación Espacial Internacional y revolucionar los viajes espaciales.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/uyatxKGACzSNqDzTe5sv5YHAY30.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5DJaUn1l9w1OaRYXzEkJBuFO5C2.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Rellik[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Rellik.txt</externallink>
@@ -4489,6 +4534,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 <info>Carlos Sainz ha cumplido 59 años. Mientras los rivales de su generación ya han colgado el casco, él sigue al máximo nivel, año tras año. Su historia es un ejemplo de perseverancia. Bicampeón del mundo de rallyes, y tres veces ganador del Dakar, su ambición no tiene límites. Vivimos junto a él su año más trepidante, que además ha supuesto el debut de su hijo, Carlos, como piloto de Ferrari.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/hFdchgR9Xbo34DNSM4bAEjel7Wt.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/wATnhAPx0Hk71F2ScsZJtNjoil6.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Santo Atraco [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Santo.atraco</externallink>
+<info>Sigue a un policía, un boxeador, un soldado del IRA y un sacerdote mientras se involucran en uno de los robos más grandes de Estados Unidos. En una revelación exclusiva, entrevistas nunca antes vistas revelan millones desaparecidos, terrorismo y asesinatos en el atraco de Brinks que se llevó $7.4 millones de un depósito de vehículos blindados.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/zpU82wLma2kNPVSP8oxTsHTLG3r.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rl8KwuA994AuIy3o5CnuxFSkcDx.jpg</fanart>
 </item>
 
 <item>
