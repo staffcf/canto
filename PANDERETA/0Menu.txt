@@ -3815,6 +3815,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Obi-Wan Kenobi[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Obiwan.kenobi</externallink>
+<info>Se centra en Obi-Wan Kenobi 10 años después del final de las Guerras Clon, donde enfrentó su mayor derrota; la caída y corrupción de su mejor amigo y aprendiz de Jedi, Anakin Skywalker se convirtió en el malvado Lord Sith Darth Vader.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/qJRB789ceLryrLvOKrZqLKr2CGf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gwmm1SlZdYbcTY0iJPyhgNXdVyk.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Odio De Dani Rovira [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Odio.de.dani.rovira</externallink>
