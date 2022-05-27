@@ -6,6 +6,18 @@
 
 
 <item>
+<title>[COLOR white] Veneciafrenia [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.6[/COLOR]</title> 
+<genre>Terror</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/nJOIuWZdN5byYXWYDO1uX4w3FO2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yWIofLaqM4dV4muelcLF3kzsqQA.jpg</fanart>
+<info>En la naturaleza existe vínculo indisoluble entre la belleza y la muerte. El ser humano, deudor de su entorno, imita lo que observa. Como mosquitos atraídos por el faro más brillante, los turistas están apagando la luz de la ciudad más hermosa del planeta. La agonía de las últimas décadas ha desatado la ira entre los venecianos. Para frenar la invasión, algunos se han organizado, dando rienda suelta a su instinto de supervivencia. Nuestros protagonistas, un sencillo grupo de turistas españoles, viajan a Venecia con la intención de divertirse, ajenos a los problemas que les rodean. Allí se verán obligados a luchar por salvar sus propias vidas.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/461FVcTzmFk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/a7l6woXa3QFxgL4"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/dq96e3mmu613np"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/x4b3bqnru9pf"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/w4ygra06de3m"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/byqjbt4m3r91"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/osi774anx5l5"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/001zwehlprw3z155"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Camera cafe: La pelicula [/COLOR][COLOR yellow](2022) [COLOR aqua]*4.8[/COLOR]</title> 
 <genre>Comedia</genre>
 <year>2022</year>
