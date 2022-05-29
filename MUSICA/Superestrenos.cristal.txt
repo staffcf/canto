@@ -7,6 +7,29 @@
 
 
 <item>
+<title>[COLOR white] Conspiracion en Hollywood [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.6[/COLOR]</title> 
+<genre>Suspense,Crimen,Misterio</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/g9PcWL7xkqX0od1HEr0fgLsjTb0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3RQccmgJDybIdLivf4aNCJj5fVO.jpg</fanart>
+<info>Un hombre implicado en el triple homicidio de tres estrellas de Hollywood comienza su propia investigación. Necesitando ayuda, recluta a dos detectives para exponer una conspiración más explosiva de lo que cualquiera de ellos imaginó.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/FEjNmfAo81o"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/aRYLeqboDKIxrVY"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/n0oz7xvlil66q3"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/bt5f8zos7r7t"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/k78ss75r8f8i"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/paox9li5q3op"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/tjjo1w0l1fhr"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/001zwehlpr1wj656"}</urlsolve>
+</item>
+
+
+
+<item>
+<title>[COLOR white] En el silencio [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.7[/COLOR]</title> 
+<genre>Drama,Crimen</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/2z0OKA3AmrDDpYuSzgSYbMaBY3p.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uXX9EW4u7bKdD1RCwTkAhZawZLg.jpg</fanart>
+<info>Una pareja de amigos bien avenida que, de vez en cuando, se encarga de limpiar escenas de asesinatos cometidos por la mafia. Más allá de ese trabajo, que realizan con gran eficiencia, no tienen más relación con el mundo del crimen... hasta que reciben un insólito encargo: cuidar de una niña secuestrada.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ViG8qEKTMy0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/Xw9XWwK6z8uDDXj"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/n0oz7nqxuene0z"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/vbgxfbxfrnwr"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/jdxy323xyn7t"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/b2ic6d1zmb9u"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/kbhpu1pn2r9b"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/nz7qrgu2g8w71xpz"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Amor redentor [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.7[/COLOR]</title> 
 <genre>Drama,Historia,Romance</genre>
 <year>2022</year>
