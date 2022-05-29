@@ -8,6 +8,17 @@
 
 
 <item>
+<title>[COLOR white] Que tengas un buen viaje [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.0[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/jfDxr9uDIOK5QZDsO76Y7ATs0kF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qJu5OXe8toQq4cjZ7h6zkDXRtRK.jpg</fanart>
+<info>Un excapitán del ejército viaja a Dalyan para impedir que la amada de su amigo se case con otro hombre, pero el dolor y el trauma de una tragedia en combate estropean su viaje.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/5K19s6GTKOA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/XPJR6V9VvOUD6xj"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/9n3ldx98f3z7l03"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/maj3h525bw7w"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/g8rehaqkut28"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/7uptmtxv8xe3"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/qgs6674kwpr0"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/e5078lt-63w0mgx1"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Todo ha ido bien [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.7[/COLOR]</title> 
 <genre>Drama,Comedia</genre>
 <year>2022</year>
