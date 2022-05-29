@@ -5222,6 +5222,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]The Staircase[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.staircase</externallink>
+<info>Basada en una historia real, The Staircase explora la vida de Michael Peterson, su familia de Carolina del Norte y la sospechosa muerte de su esposa, Kathleen Peterson.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/jiAcdCyf1UbWYBImcNtVeLW0pRj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wM2ztiXmOFa8isuklXYAAzVL60c.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]The Stand[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.Stand.txt</externallink>
@@ -5237,6 +5246,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 <info>Miniserie de TV (2020). 6 episodios. Grace Sachs (Nicole Kidman) es una mujer que ha cumplido todos los sueños de su vida: es una psicóloga que está a punto de publicar su primer libro, tiene un marido devoto, Jonathan Fraser (Hugh Grant), oncólogo pediatra de prestigio, y un hijo que va a uno de los colegios más importantes de Nueva York. Sin embargo, pocas semanas antes de que su libro se publique, la vida de Grace cambia por completo. Una trágica muerte y la desaparición de su marido Jonathan alteran drásticamente su forma de ver el mundo, y la obligan a comenzar de cero. Su única preocupación ahora es garantizar que su hijo pueda vivir la vida que se merece. Por desgracia para ambos, la tarea es mucho más complicada de lo que parece. </info>
 <thumbnail>https://i.imgur.com/XxY4M40.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ftfk65f8HQl7ADpXuJb6rDhoe1Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]The Wilds Salvajes[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.wilds</externallink>
+<info>Un grupo de adolescentes de diferentes orígenes debe duchar para sobrevivir después de que un accidente aéreo las deje abandonadas en una isla desierta. Las náufragas se enfrentan y se unen a medida que se van conociendo entre ellas, así como los secretos que guardan y los traumas que todas han sufrido. Solo hay un giro en este emocionante drama... esas chicas no acabaron en la isla por accidente.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/fJLfcjjZF6vhSFntfOnpirow6ub.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gtPDhBp0MeooTDJn3up73QSn4H2.jpg</fanart>
 </item>
 
 <item>
