@@ -8,6 +8,17 @@
 
 
 <item>
+<title>[COLOR white] R.I.A (Override) [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.5[/COLOR]</title> 
+<genre>Aventura,Ciencia ficción,Suspense</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/zzDGXbFU8VIbT8V6skOFn3nGn0i.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6oROWsv2YDD2j4OkDZ5xYUIyVB2.jpg</fanart>
+<info>En 2040, una mujer humanoide A.I. es pirateada por su esposo y obligada a secuestrar al hijo del vicepresidente de Estados Unidos y ejecutarlo en la televisión en vivo, mientras el culpable busca venganza por la muerte de su propio hijo.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/vVTg891FlhI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/MrlDZZbwgOima1O"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/vno40z77i6nkn9"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/0hqnnlngzmhe"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/27bohfwdc745"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/kqpn1aag68sp"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/yachcqhzhoib"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/2p1qwxa2xz5l5rpl"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Que tengas un buen viaje [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.0[/COLOR]</title> 
 <genre>Drama</genre>
 <year>2022</year>
