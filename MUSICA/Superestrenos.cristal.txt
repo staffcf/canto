@@ -7,6 +7,17 @@
 
 
 <item>
+<title>[COLOR white] Emergencia [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.5[/COLOR]</title> 
+<genre>Comedia,Drama,Suspense</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/jAvMlX3n9Fme3k1yFIVyqbLv2Nv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jGewHtKKtGteplS0rlCZ4sSyAtr.jpg</fanart>
+<info>Listos para una noche de fiesta legendaria, tres estudiantes universitarios deben sopesar los pros y los contras de llamar a la policía cuando se enfrentan a una situación inesperada.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/FVi9hlvQOrg"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/12O1JjJg7Qhdox"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/rwo8j9kltv9o8mx"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ididq7fxh965"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/lpao8fs73qus"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/dfwewc77eo2o"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/w0cpfsompxut"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/deq685ax1g08rn4d"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Conspiracion en Hollywood [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.6[/COLOR]</title> 
 <genre>Suspense,Crimen,Misterio</genre>
 <year>2022</year>
