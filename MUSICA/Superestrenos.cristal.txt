@@ -6,6 +6,16 @@
 
 
 
+<item>
+<title>[COLOR white] Capitan Carver [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin Puntuación[/COLOR]</title> 
+<genre>Suspense</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/up0fm0GmK8LbEmw4OBBFDEC65uu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5fb7sEjHFF9ANmNsWSJNyzPvQQx.jpg</fanart>
+<info>Ernesto es guardia de seguridad en un supermercado donde pasa todos los días mirando a los clientes a través de las cámaras de vigilancia. Por las noches, cambia su uniforme de guardia por el traje de Carver y patrulla el barrio hasta que Alicia le propone un caso de verdad: cazar al narcotraficante que ha matado a su hermano.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/KMoRckX_9u4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/x3X0DV3odXtv2l"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/wn643ongh1elk3"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/e99purcw4yrn"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/erfufuskzyn4"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/4za38yivf7d8"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/478v49s607dg"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/qqrjkgueq-m5d3yp"}</urlsolve>
+</item>
+
 
 <item>
 <title>[COLOR white] Herederas [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.1[/COLOR]</title> 
