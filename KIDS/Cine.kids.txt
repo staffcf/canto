@@ -5269,6 +5269,20 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+"Tag= Malu3, Disney, 1Romance, 1Comedia, 1Fantasia, 1Musica A2018, Letra Z, EEUU, C1080, Disney, "
+<item>
+<title>[COLOR white]Z-O-M-B-I-E-S [/COLOR][COLOR gold](2018)[/COLOR]</title>    
+<genre>Comedia,Romance,Fantasia,Musica</genre>
+<year>2018</year>  
+<thumbnail>https://www.themoviedb.org/t/p/original/6S9O5U7Ietqh6zTtZhGbhbA3Pze.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bsYaNGrjJuJbkeD0Z9luivsRXRQ.jpg</fanart>
+<info>Seabrook es una ciudad pequeña preocupada por la uniformidad, las tradiciones y los espectáculos de animadoras, hasta que llegan alumnos de Ciudad Zombi a su instituto. Los estudiantes humanos y zombis se esfuerzan por coexistir y surge una amistad entre una animadora llamada Addison y un zombi llamado Zed que puede acabar uniendo al instituto y a la comunidad.</info>
+<urlsolve>https://www.fembed.com/v/2dlg6t2x5e42ql2</urlsolve>
+</item>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 "Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Infantil, A2016, Letra Z, EEUU, C1080, Disney, "
 <item>
 <title>[COLOR white]Zootropolis [/COLOR][COLOR coral](2016)[/COLOR]</title>    
@@ -5279,6 +5293,8 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>La moderna metropoli mamifera de Zootropolis es una ciudad absolutamente unica. Esta compuesta de barrios con diferentes habitats como la lujosa Sahara Square y la gelida Tundratown. Es un crisol donde los animales de cada entorno conviven, un lugar donde no importa lo que seas. De hecho puedes ser cualquier cosa, desde un elefante enorme hasta la musaraña mas diminuta. Pero cuando llega la optimista agente Judy Hopps, descubre que ser la primera conejita de un cuerpo policial compuesto de animales duros y enormes no es nada facil. Pero esta decidida a demostrar su valia y se mete de cabeza en un caso, a pesar de que eso significa trabajar con Nick Wilde, un zorro parlanchin y estafador, para resolver el misterio.</info>
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/7h8jxheszzfl"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/2dlg6t26yqqwzkg"}</urlsolve>
 </item>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
