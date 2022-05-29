@@ -7,6 +7,17 @@
 
 
 
+<item>
+<title>[COLOR white] Herederas [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.1[/COLOR]</title> 
+<genre>Terror,Drama</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/xzRKGUOoTkfmcszkujH4cHu8hZJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2L9ZdhfqGaU7ODOXts3oXKpAL2F.jpg</fanart>
+<info>Tras la muerte de su marido, Elena y su hija Celia afrontan una nueva etapa en sus vidas. Una noche Elena va a una cena a la que ha sido invitada dejando a Celia sola en casa. A partir de ese momento, sus vidas dan un giro inesperado por las terribles consecuencias de sus actos.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Kc3dHsIKXVQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/DXp8WQGMrDSkyJq"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/poner"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/oytavnjjbgem"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/5led9ghthww2"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ygmyy6af6eks"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/pc5ewhg866sc"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/17nmwyajwpx52j70"}</urlsolve>
+</item>
+
+
 
 <item>
 <title>[COLOR white] El brindis [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.5[/COLOR]</title> 
