@@ -158,6 +158,24 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Alien Endgame [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Alien.endgame</externallink>
+<info>Ex-militares rompen su silencio sobre sus aterradores encuentros con ovnis.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/UFdM8UDa9oSZrgSpQRORLH1Zqb.jpg</thumbnail>
+<fanart>https://i.imgur.com/zTCbnQk.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Alimentando Al mundo [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Alimentando.al.mundo</externallink>
+<info>Una crónica de cómo José Andrés y su organización sin fines de lucro reconstruyen naciones tras un desastre, brindando alimentos saludables a los afectados.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/tg6Q5I3UWdVVQ9t2WLh76F8OiGS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/orKPinNLXEGBULsZItrls7zBYvc.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]All Or Nothing:Manchester City [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/All.or.nothing.manchester.city</externallink>
@@ -750,6 +768,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 <info>Miniserie de TV (2019). 5 episodios. El 26 de abril de 1986, la Central Nuclear de Chernóbil, en Ucrania (por entonces perteneciente a la Unión Soviética), sufrió una explosión masiva que liberó material radioactivo en Ucrania, Bielorrusia, Rusia, así como en zonas de Escandinavia y Europa Central. La serie relata, desde múltiples puntos de vista, lo que aconteció en torno a una de las mayores tragedias en la historia reciente, así como los sacrificios realizados para salvar al continente de un desastre sin precedentes. </info>
 <thumbnail>https://i.imgur.com/eHv98AX.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/uL6Ad12W09L1sfuOE2pcTeak7bt.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Chernobyl Las Nuevas Evidencias [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Chernobyl.las.nuevas.evidencias</externallink>
+<info>El 26 de abril de 1986 explotó el reactor 4 de la planta de energía nuclear de Chernobyl, liberando nubes de lluvia radiactiva a la atmósfera.  Con acceso a cientos de documentos desclasificados de la KGB, Chernobyl: The New Evidence revela las serias preocupaciones de la KGB, los sacrificios que los líderes soviéticos estaban dispuestos a hacer para mantener la historia en secreto y la valentía que salvó al mundo de un desastre aún más mortal.</info>
+<thumbnail>https://i.imgur.com/H3HTHqa.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fuGxh3ai0ptdZS6l3OXQK2294wi.jpg</fanart>
 </item>
 
 <item>
