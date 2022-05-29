@@ -7,6 +7,18 @@
 
 
 
+
+<item>
+<title>[COLOR white] El brindis [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.5[/COLOR]</title> 
+<genre>Comedia</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/xPkG92HzThH9fudXHIj5wTjhRFu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/w3sqSIZDQLthCPpOCkcN5CkLRYM.jpg</fanart>
+<info>Adrien tiene 35 años, es neurótico e hipocondríaco y está estancado en una crisis de madurez. Durante una cena con su extensa familia, su novia no contesta sus mensajes y su estúpido cuñado le pide que se encargue de hacer el discurso de su boca. ¿Qué podría ir peor?<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/x6EUh_vjsT4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/oD0aVm8JAquJkjj"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/wn647zx6c7xl7l"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/h0dbaewld16w"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/hbrzhiokzwuo"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/vyeejfxxz38v"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/p6y71mo2tvua"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/2p1qwxa2x5e31w5g"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Ariaferma [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.2[/COLOR]</title> 
 <genre>Drama</genre>
