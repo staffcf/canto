@@ -7,6 +7,17 @@
 
 
 <item>
+<title>[COLOR white] La voz de la resistencia [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.7[/COLOR]</title> 
+<genre>Drama,Historia,Bélica</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/8fYcxClKnQvMQFDKf54OZPhQSTO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kJous4TWttBudD4MCk4FHQ0qCpf.jpg</fanart>
+<info>La película sigue a un grupo de locutores de radio de la resistencia en la Francia ocupada por los nazis mientras evaden la captura junto a una familia judía.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/IlRL3vOq1eI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/8V4zBzXd8yh2oG"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/dq9674m3b33zor"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/iacwndl0641z"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/ply0g2064dor"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/dsxrvdv3h1l0"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/vcaasb5zma4o"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/61mx47s0lyj51lye"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Emergencia [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.5[/COLOR]</title> 
 <genre>Comedia,Drama,Suspense</genre>
 <year>2022</year>
