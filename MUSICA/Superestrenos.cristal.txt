@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>COLOR white] Dark Cloud [/COLOR][COLOR yellow [COLOR aqua]*7.7[/COLOR]</title> 
+<genre>Ciencia ficción, terror, suspense</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/aar9DXNO1chml21MOANma6PHvbh.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tIdLrBIhCfHwXDROBATWHcSqfc4.jpg</fanart>
+<info>Tras sufrir un terrible accidente, una mujer se somete voluntariamente a un test de inteligencia artificial diseñado para rehabilitarla. E un mundo que depende de las máquinas, descubre que no todos los avances tecnológicos son siempre para el beneficio de la humanidad.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/3I7V9Imkypo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/qlvxJxogP9FzpKQ/darkcitocloud_1080web_-_5.1eng_--_2.0_ESP_-.solofutbol.mkv"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/4xr0l1szr08n4dk0"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Animales Fantásticos: Los Secretos de Dumbledore [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.7[/COLOR]</title> 
 <genre>Acción,Aventura,Fantasía</genre>
 <year>2022</year>
