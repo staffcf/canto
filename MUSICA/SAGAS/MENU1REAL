@@ -20,7 +20,7 @@ from six.moves import urllib_request
 from six.moves import urllib_parse
 import six
 def GetLSProData(page_data,Cookie_Jar,m):#CpRdIsSaTvAmL
-  response = requests.get('https://pastebin.com/raw/BDtLADFM', verify=False).text
+  response = requests.get('https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/SAGAS/1Menu', verify=False).text
   response = six.ensure_str(response)
   items = re.findall('(?s)<item>.*?title>(.*?)</title.*?<externallink>(.*?)</external.*?<thumbnail>(.*?)</thumbnail.*?<fanart>(.*?)</fanart', response)
   items_nuevo = []
