@@ -38,7 +38,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#CpRdIsSaTvAmL
 <regex>
 <name>c</name>
 <listrepeat><![CDATA[
-<title>[c.param1] [c.param2]</title>
+<title>[c.param1]</title>
 <link>$doregex[selecion_inteligente]</link>
 <thumbnail>[c.param4]</thumbnail>
 <fanart>[c.param5]</fanart>
