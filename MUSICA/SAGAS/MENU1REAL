@@ -3,7 +3,7 @@
 
 
 <item>
-<title>[COLOR gold]*[/COLOR] [COLOR lightsalmon]Supercine [COLOR white] Sagas[/COLOR]</title>
+<title>[COLOR gold]**[/COLOR] [COLOR lightsalmon]Supercine [COLOR white] Sagas[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -44,7 +44,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#CpRdIsSaTvAmL
 <fanart>[makelist.param4]</fanart>
 ]]></listrepeat>
 <expres><![CDATA[#$pyFunction
-imagen_saga = '[makelist.param]'
+imagen_saga = '[makelist.param3]'
 url = '[makelist.param2]'
 titulo_saga = '[makelist.param1]'
 import re,requests,base64,shutil,random
