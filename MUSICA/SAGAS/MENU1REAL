@@ -3,7 +3,7 @@
 
 
 <item>
-<title>[COLOR gold]**[/COLOR] [COLOR lightsalmon]Supercine [COLOR white] Sagas[/COLOR]</title>
+<title>[COLOR gold]*[/COLOR] [COLOR lightsalmon]Supercine [COLOR white] Sagas[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -63,7 +63,7 @@ def GetLSProData(page_data,Cookie_Jar,m,titulo_saga=titulo_saga,url=url):#CpRdIs
       fanart = item[3]
       items_nuevo += [(titulo, url, imagen, fanart)]
   numero_total = len(items)
-  return [('[COLOR aqua]Cristal Azul,:[COLOR white] + titulo_saga, ' ', 'https://i.imgur.com/Ge0iWOq.jpg', 'https://i.imgur.com/Ge0iWOq.jpg')] + sorted(items_nuevo) + [('[COLOR white]No hay mas resultados...', ' ', 'https://i.imgur.com/Ge0iWOq.jpg', 'https://i.imgur.com/Ge0iWOq.jpg')]
+  return [('[COLOR aqua]Cristal Azul,:[COLOR white]' + titulo_saga, ' ', 'https://i.imgur.com/Ge0iWOq.jpg', 'https://i.imgur.com/Ge0iWOq.jpg')] + sorted(items_nuevo) + [('[COLOR white]No hay mas resultados...', ' ', 'https://i.imgur.com/Ge0iWOq.jpg', 'https://i.imgur.com/Ge0iWOq.jpg')]
 ]]></expres>
 <page></page>
 </regex>
