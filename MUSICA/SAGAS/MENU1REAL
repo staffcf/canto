@@ -40,8 +40,8 @@ def GetLSProData(page_data,Cookie_Jar,m):#CpRdIsSaTvAmL
 <listrepeat><![CDATA[
 <title>[c.param1]</title>
 <link>$doregex[selecion_inteligente]</link>
-<thumbnail>[c.param4]</thumbnail>
-<fanart>[c.param5]</fanart>
+<thumbnail>[c.param3]</thumbnail>
+<fanart>[makelist.param4]</fanart>
 ]]></listrepeat>
 <expres><![CDATA[#$pyFunction
 url = '[makelist.param2]'
