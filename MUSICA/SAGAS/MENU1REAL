@@ -44,14 +44,8 @@ def GetLSProData(page_data,Cookie_Jar,m):#CpRdIsSaTvAmL
 <fanart>[c.param5]</fanart>
 ]]></listrepeat>
 <expres><![CDATA[#$pyFunction
-import re,requests,base64,shutil,random
-from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
-from six.moves import urllib_request
-import six
-TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
 url = '[makelist.param2]'
 titulo_saga = '[makelist.param1]'
-<expres><![CDATA[#$pyFunction
 import re,requests,base64,shutil,random
 from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
