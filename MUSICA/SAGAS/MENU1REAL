@@ -3,7 +3,7 @@
 
 
 <item>
-<title>[COLOR gold]**[/COLOR] [COLOR lightsalmon]Supercine [COLOR white] Sagas[/COLOR]</title>
+<title>[COLOR gold]*[/COLOR] [COLOR lightsalmon]Supercine [COLOR white] Sagas[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -44,6 +44,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#CpRdIsSaTvAmL
 <fanart>[makelist.param4]</fanart>
 ]]></listrepeat>
 <expres><![CDATA[#$pyFunction
+imagen_saga = '[makelist.param]'
 url = '[makelist.param2]'
 titulo_saga = '[makelist.param1]'
 import re,requests,base64,shutil,random
@@ -51,7 +52,7 @@ from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
 from six.moves import urllib_parse
 import six
-def GetLSProData(page_data,Cookie_Jar,m,titulo_saga=titulo_saga,url=url):#CpRdIsSaTvAmL
+def GetLSProData(page_data,Cookie_Jar,m,titulo_saga=titulo_saga,url=url,imagen_saga=imagen_saga):#CpRdIsSaTvAmL
   response = requests.get(url, verify=False).text
   response = six.ensure_str(response)
   items = re.findall('(?s)title>(.*?)</title.*?urlsolve>(.*?)</urlsolve.*?<thumbnail>(.*?)</thumbnail.*?<fanart>(.*?)</fanart', response)
@@ -63,7 +64,7 @@ def GetLSProData(page_data,Cookie_Jar,m,titulo_saga=titulo_saga,url=url):#CpRdIs
       fanart = item[3]
       items_nuevo += [(titulo, url, imagen, fanart)]
   numero_total = len(items)
-  return [('[COLOR aqua]Cristal Azul: [COLOR white]' + titulo_saga + '[/COLOR]', ' ', 'https://i.imgur.com/Ge0iWOq.jpg', 'https://i.imgur.com/Ge0iWOq.jpg')] + items_nuevo + [('[COLOR white]No hay mas resultados...[/COLOR]', ' ', 'https://i.imgur.com/Ge0iWOq.jpg', 'https://i.imgur.com/Ge0iWOq.jpg')]
+  return [('[COLOR aqua]Cristal Azul: [COLOR white]' + titulo_saga + '[/COLOR]', ' ', imagen_saga, imagen_saga)] + items_nuevo + [('[COLOR white]No hay mas resultados...[/COLOR]', ' ', imagen_saga, imagen_saga)]
 ]]></expres>
 <page></page>
 </regex>
