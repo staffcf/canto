@@ -57,7 +57,7 @@ from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
 from six.moves import urllib_parse
 import six
-def GetLSProData(page_data,Cookie_Jar,m):#CpRdIsSaTvAmL
+def GetLSProData(page_data,Cookie_Jar,m,titulo_saga=titulo_saga,url=url):#CpRdIsSaTvAmL
   response = requests.get(url, verify=False).text
   response = six.ensure_str(response)
   items = re.findall('(?s)title>(.*?)</title.*?urlsolve>(.*?)</urlsolve.*?<thumbnail>(.*?)</thumbnail.*?<fanart>(.*?)</fanart', response)
@@ -70,8 +70,6 @@ def GetLSProData(page_data,Cookie_Jar,m):#CpRdIsSaTvAmL
       items_nuevo += [(titulo, url, imagen, fanart)]
   numero_total = len(items)
   return [('[COLOR aqua]Cristal Azul,:[COLOR white] + titulo_saga, ' ', 'https://i.imgur.com/Ge0iWOq.jpg', 'https://i.imgur.com/Ge0iWOq.jpg')] + sorted(items_nuevo) + [('[COLOR white]No hay mas resultados...', ' ', 'https://i.imgur.com/Ge0iWOq.jpg', 'https://i.imgur.com/Ge0iWOq.jpg')]
-]]></expres>
-
 ]]></expres>
 <page></page>
 </regex>
