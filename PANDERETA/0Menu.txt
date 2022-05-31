@@ -1772,6 +1772,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El Salto Del Diablo[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.salto.del.diablo</externallink>
+<info>Paul Vilar es especialista en deportes extremos. Espera estar más cerca de su hija de 17 años, Sarah, durante una caminata por la montaña. Pero sin querer, Sarah es testigo de un asesinato.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/Aalcyy12I6T9hPVNcz8uLJx4m6V.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n96gH4Wr9YAL5sNVvNRqH6cKuI5.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El Simbolo Perdido[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.simbolo.perdido</externallink>
@@ -2444,6 +2453,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 <info>La vida y obra del legendario Francisco Ibáñez, brillante dibujante, creador de Mortadelo y Filemón y de muchos otros personajes a través de los cuales ha retratado la sociedad española durante más de siete décadas, con humor salvaje, sutil crueldad y mucha ternura.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/xoC52S7IcTP7KYSyqpWqQP0KUIo.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/j6q4lhYEb54eNMqQLXpUaVjTqPS.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]In My Skin[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/In.my.skin</externallink>
+<info>Una historia oscuramente cómica sobre la mayoría de edad que sigue a Bethan, de 16 años, mientras lidia con las ansiedades e inseguridades de la vida adolescente, junto con la cruda realidad de una vida hogareña que está muy lejos de lo que proyecta para sus amigos.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/kpahHIuvaUJgTSiNMhz3yjgsAtq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zyoAaQxQiUqpOOg5E7mWxobRWQW.jpg</fanart>
 </item>
 
 <item>
@@ -5656,6 +5674,15 @@ Sexta temporada (SPOILER DE LA 5ª): La temporada 6 de Vikings regresa tras la b
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Visitantes[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Visitantes</externallink>
+<info>El primer día de Richard como agente de policía dos naves espaciales se estrellan en un pueblo perdido de Pointe-Claire. Este accidente es el inicio de una serie de misteriosos acontecimientos…</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/dAfJo5dgzAxzeGr7UcDYUE8GSLw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/o3zun3GhbTcRwncg8MwSZyIdD8j.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Vitals [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Vitals</externallink>
@@ -5793,12 +5820,30 @@ Ruawai Maaka consiguen deshacerse del demonio y así nace la Unidad Paranormal d
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Yo Mate A Mi Marido[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Yo.mate.a.mi.marido</externallink>
+<info>Anna, bajo la influencia de su esposo violento durante varios años, comete un asesinato durante otra discusión. El día de su acusación, su vida vuelve a cambiar cuando descubre que él sigue vivo y que su hijo corre peligro. Entonces ella escapa.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/4XUUXZxHzb8IW9yVO25eqX6ZTlB.jpg</thumbnail>
+<fanart>https://i.imgur.com/upXUE2K.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]You[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/You.xml</externallink>
 <info>Se trata de un thriller basado en el amor y en las redes sociales. ... You es una historia de amor ambientada en el siglo XXI sobre un veinteañero obsesivo pero brillante que usa la híper conectividad que ofrece la tecnología moderna para hacer que la mujer de sus sueños se enamore de él.</info>
 <thumbnail>https://i.imgur.com/32EY5I9.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/cdsUf8jlL1HVUY1FZDigdvXh0lZ.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]You Are Wanted[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/You.are.wanted</externallink>
+<info>Serie de TV. (2017) Lukas Franke (Matthias Schweighöfer) es una víctima de un ataque informático, su información en la red es alterada para implicarlo como el autor intelectual de un ataque cibernético en Berlín que causo un apagón en toda la ciudad. Se sospecha de el como terrorista, Lukas trabaja para averiguar por que y quien le ha implicado, ya que incluso su familia y amigos comienzan a dudar de su inocencia.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/aFLWk6TUhHLzru92oNEVQ4nfFea.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xXuPyZsWnbNYteNjc6qfeK4FHPF.jpg</fanart>
 </item>
 
 <item>
