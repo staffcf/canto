@@ -19,7 +19,7 @@ from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
 import six
 TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
-url = 'https://pastebin.com/raw/'
+url = 'https://pastebin.com/raw/WUmGMqhK'
 titulo = 'Indiana Jones En Busca Del Arca Perdida'
 import base64, codecs
 
@@ -116,7 +116,7 @@ from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
 import six
 TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
-url = 'https://pastebin.com/raw/'
+url = 'https://pastebin.com/raw/ZYLsbBV8'
 titulo = 'Indiana Jones Y El Templo Maldito'
 import base64, codecs
 
@@ -213,7 +213,7 @@ from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
 import six
 TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
-url = 'https://pastebin.com/raw/'
+url = 'https://pastebin.com/raw/dA2fwCMM'
 titulo = 'Indiana Jones Y La Ultima Cruzada'
 import base64, codecs
 
@@ -310,7 +310,7 @@ from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
 import six
 TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
-url = 'https://pastebin.com/raw/'
+url = 'https://pastebin.com/raw/hitJDUNa'
 titulo = 'Indiana Jones Y El Reino De La Calavera De Cristal'
 import base64, codecs
 
