@@ -97,10 +97,19 @@
 <item>
 <title>[COLOR white]Spiderman[/COLOR]</title>  
 <link>cristalazul</link>
-<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/SAGAS/Shrek</externallink>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/SAGAS/Spiderman</externallink>
 <info></info>
-<thumbnail>https://www.themoviedb.org/t/p/original/8IgJFvU8kut9a6St74oTchHCK6J.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/gMWrKQjoTIpYjhc8SxZF20EDIES.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/original/kw2qCxKWqI9h5VKqdThnZT8VOLf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iIKOzyArPxXhK45tqIJzkUdbCs.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Spiderman (Vengadores)[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/SAGAS/Spiderman.vengadores</externallink>
+<info></info>
+<thumbnail>https://www.themoviedb.org/t/p/original/2E7Jukg8JvyJgKlql7UIWqVwOMU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/AvnqpRwlEaYNVL6wzC4RN94EdSd.jpg</fanart>
 </item>
 
 
@@ -114,12 +123,39 @@
 </item>
 
 <item>
+<title>[COLOR white]The Amazing Spiderman[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/SAGAS/The.amazing.spiderman</externallink>
+<info></info>
+<thumbnail>https://www.themoviedb.org/t/p/original/iveVHOVfsy074rbz71yetM3Hb1f.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aLrNTcLN2kDu9jAJ4tS5haiWGc6.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR white]The Mighty Ducks[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/SAGAS/The.mighty.ducks</externallink>
 <info></info>
 <thumbnail>https://www.themoviedb.org/t/p/original/oy0LKsDn4T8JPcR8azA1UTOqeeC.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/qBFCtw5EKBj3ILFbRgXtCfCjmb8.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Thor[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/SAGAS/Thor</externallink>
+<info></info>
+<thumbnail>https://www.themoviedb.org/t/p/original/1EKxInH3WeW5FIOb6um1ng5fnoe.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7wYSWpt7LX9J9UzOPPWftindNkl.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]X-Men[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/SAGAS/Xmen</externallink>
+<info></info>
+<thumbnail>https://www.themoviedb.org/t/p/original/o4iMA0nGBq9mWS762uivcnFrzKH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dDkwTTgNeQ2DGePPIaEVrw9zm46.jpg</fanart>
 </item>
 
 
