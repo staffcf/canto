@@ -5,6 +5,16 @@
 =======================================================================================
 
 
+<item>
+<title>[COLOR white] Red Rocket [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.7[/COLOR]</title> 
+<genre>Comedia,Drama</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/c93ImFIQqRjkZmGEo546xfsRSO3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/moVfWiuL0R4vQWlQwU761qL1Hg4.jpg</fanart>
+<info>Mikey Saber es una estrella del porno pasada de moda que vuelve a su pequeño pueblo de Texas, aunque nadie le echa de menos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/TIyu8ruFcUk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/613PoAYOLWf9Jy4/R3dR0ch3t.m1080p.yamil_%281%29.mkv"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/deq061uxz36eq43j"}</urlsolve>
+</item>
+
 
 <item>
 <title>[COLOR white] Parallel Minds [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.7[/COLOR]</title> 
