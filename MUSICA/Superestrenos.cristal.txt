@@ -6,6 +6,18 @@
 
 
 <item>
+<title>[COLOR white] Mira por mi [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.0[/COLOR]</title> 
+<genre>Suspense</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/bh5V0ICTw8UqNaJf70CVYpO22CZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tF8ia7uHqCPQf0ilcJlctJCXgJk.jpg</fanart>
+<info>Cuando la exesquiadora y ciega Sophie cuida de un gato en una recóndita mansión, unos ladrones de árboles la invaden en busca de la caja fuerte escondida. La única defensa de Sophie es Kelly, una veterana del ejército. Kelly ayuda a Sophie a defenderse de los invasores y a sobrevivir.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/mHyndpGsE3c"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/J9lzwzOyGoHj10r"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/j9ennqv6bgm7g1"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/drmxy72co7lr"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/9j4tjxz8v9el"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/24xvq49ko9bo"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/2rzo83se5ow5"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/z6-j4gsjq8r023gd"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Red Rocket [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.7[/COLOR]</title> 
 <genre>Comedia,Drama</genre>
 <year>2021</year>
