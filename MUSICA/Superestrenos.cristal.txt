@@ -6,6 +6,17 @@
 
 
 <item>
+<title>[COLOR white] Luz Negra [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.2[/COLOR]</title> 
+<genre>Acción,Suspense</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/iy4d5alFd7UOW0Gyqc8Fl3aDIZC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2hGjmgZrS1nlsEl5PZorn7EsmzH.jpg</fanart>
+<info>Travis Block, un agente del gobierno en la sombra que se especializa en eliminar operativos cuyas coberturas han sido expuestas, descubre una conspiración mortal dentro de sus propias filas que alcanza los niveles más altos del poder.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/JoqKX671qg4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/X2Xql9xKaWuDDBx"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/poner"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/4z72f1f3q80x"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/dumqav1iuyda"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/9yzfhj5bem4s"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/v2yuqaawn6ri"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/ypmj3wae85gmw7w-"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Mira por mi [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.0[/COLOR]</title> 
 <genre>Suspense</genre>
 <year>2021</year>
