@@ -6,6 +6,39 @@
 
 
 <item>
+<title>[COLOR white] El pacto [/COLOR][COLOR yellow] (2021) [COLOR aqua]*7.6[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/z8veIxmRN7IRNkEeaHxxiP2aXpN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6JkX7jptHjr8li34k0OxAKfxECR.jpg</fanart>
+<info>Karen Blixen de 63 años está en la cima del éxito y parece ser la próxima en ganar el Premio Nobel de Literatura. Tras dejar atrás su renuncia a la famosa granja en África para regresar a su Dinamarca natal y habiendo perdido al amor de su vida, ahora Karen se ha reinventado a sí misma como una sensación literaria. Ella sigue siendo un genio aislado. Sin embargo, su vida se tambaleará el día que conoce a un talentoso poeta de 30 años. Karen le promete el estrellato literario si él a cambio la obedece incondicionalmente, incluso a costa de perderlo todo en su vida...</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/pr9pN54fjaY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/eaqeqAYKexSjxJ/ElP4cto.m1080p.yamil.mkv"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/2p17qdc2mgmjmw-4"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Enamórate de mí [/COLOR][COLOR yellow] (2020) [COLOR aqua]*7.1[/COLOR]</title> 
+<genre>Fantasia,comedia,romance</genre>
+<year>2020</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/7xrM4gYONyvHMXaH6N0aLOSqwEC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oGBjakMv2SephrRlsmEEG61wPOW.jpg</fanart>
+<info>Cuando Michael es levantado de la escena de su accidente automovilístico y se encuentra en una habitación muy luminosa con una dama muy extraña, se entera de que para que su alma llegue al próximo avión, necesita encontrar un compañero. Si crees que tener citas en la vida fue difícil, en la muerte es más difícil.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ysNUlKaY0WY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/Qb6GLwqgv3c03Oo/En4m0r4teM1.m1080p.yamil.mkv"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/nz75qdu2nzn8pxg7"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Interceptor [/COLOR][COLOR yellow] (2022) [COLOR aqua]*7.9[/COLOR]</title> 
+<genre>Acción,suspense</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/nSI3RslMvXz8My6sK2dPWpyOsDG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aewFpsg9AnWls0PJz4G9Bxz9p7W.jpg</fanart>
+<info>Una teniente del ejército usa sus años de entrenamiento táctico para salvar a la humanidad de dieciséis misiles nucleares lanzados contra los EE. UU. mientras un violento ataque coordinado amenaza simultáneamente su estación remota de interceptores de misiles.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/SO-86QoQfDo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/K7Ragd4MGBU01X6/Int3rc3pt0r.m1080p.yamil.mkv"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/k3nz5ph3xdpjyz-m"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Luz Negra [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.2[/COLOR]</title> 
 <genre>Acción,Suspense</genre>
 <year>2021</year>
