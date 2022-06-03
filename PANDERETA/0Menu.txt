@@ -563,6 +563,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Borgen:Reino Poder Y Gloria[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Bordertown</externallink>
+<info>La carrera de Birgitte Nyborg, ministra de Asuntos Exteriores, peligra cuando la pugna por el petróleo de Groenlandia amenaza con convertirse en una crisis internacional.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/4lWlsYjsDQeRqCrYhDDgmtTjBPk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2ba7EoIBnNhRx9EhqjiYHoK9RxR.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Bosque Adentro[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Bosque.adentro.xml</externallink>
@@ -2727,6 +2736,15 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]La Ciudad Es Nuestra[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.ciudad.es.nuestra</externallink>
+<info>Relata el auge y la caída de la Fuerza Especial de Rastreo de Armas del Departamento de Policía de Baltimore y la corrupción y el colapso moral que sufrieron en una ciudad estadounidense en la que las políticas de prohibición de las drogas y los arrestos masivos se defendieron a expensas del trabajo policial real.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/gWlZRCE9ttL99UK1aIOq8GvKL0Y.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yUeEKdmfoUVy4hyTrYrxtuGW16l.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]La Cocinera De Castamar[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.cocinera.de.Castamar.txt</externallink>
@@ -3014,6 +3032,15 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 <info>Larry David sits down with friend/director Larry Charles for a peek behind the proverbial curtain, as David gets candid about his personal and professional highs and lows, from his humble beginnings as an unfunny Brooklyn kid to becoming America's favorite misanthrope. In between reflecting on his bumpy road to success – and hit series “Seinfeld” and “Curb Your Enthusiasm” – David shares his thoughts on everything from metaphysics to parenthood.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/kWQDOnLs5DK0ta8xQZLsaienIHp.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/qK0dCFdBgL6NBvmIrjxEDKywhSQ.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Las Alas De La Ambicion[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Las.alas.de.la.ambicion</externallink>
+<info>Una joven becaria que comienza a trabajar para una veterana presentadora de informativos se enfrenta al lado oscuro de la ambición, la envidia y el deseo por ser vista.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/2JyzndMufaXyJn4nXLe0JP5cf8G.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6H7eS2peOKEzsmhUYxzpnLpNgSV.jpg</fanart>
 </item>
 
 <item>
@@ -5543,6 +5570,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 <info>7 episodios. Después de una noche en Filadelfia con su hermano que amenaza con sabotear algo más que su éxito, un famoso humorista busca desesperadamente una escapatoria.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/8Ld8RjI0rYX1ucZRtSh82MADG11.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/chvF1VNHrIgBE7DDuIodSC0Z9jB.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Una Madre Perfecta[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Una.historia.muy.real</externallink>
+<info>Una madre convencida de la inocencia de su hija empieza a descubrir inquietantes verdades a medida que la línea que separa a la víctima del verdugo se desdibuja.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/5PsNNxqfG2s8CRQhdd4HCFynPMa.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5YlfxBfLfyU1ARigWlSNiIL26oq.jpg</fanart>
 </item>
 
 <item>
