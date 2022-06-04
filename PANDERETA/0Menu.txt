@@ -3053,6 +3053,15 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Las Luminosas[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Las.luminosas</externallink>
+<info>Años después de que un ataque brutal la dejara en una realidad en constante cambio, Kirby Mazrachi se entera de que un asesinato reciente es un reflejo de su propio caso. Hace equipo con el reportero veterano Dan Velázquez para comprender su presente en constante cambio y confrontar su pasado.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/j5KRj1junA9L6fg02L01uMGpGPB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mOmt3i6xfURBsUxtfjLp0HSRcL9.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Las Peliculas Que Vimos [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Las.peliculas.que.vimos</externallink>
