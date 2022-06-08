@@ -6,6 +6,17 @@
 
 
 
+<item>
+<title>[COLOR white] Fanatico [/COLOR][COLOR yellow](2022) [COLOR aqua]*4.6[/COLOR]</title> 
+<genre>Crimen,Suspense</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/4YWmawysH1Cy1uaQ4iT0BaHA1I3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/c4UbjY6n3YvsRLbAPd8gK04Ag7Q.jpg</fanart>
+<info>Un fanático al cine (John Travolta) desarrolla una peculiar obsesión con su héroe favorito de acción, Hunter Dunbar (Devon Sawa), que le lleva a averiguar su paradero y, posteriormente, a destruir su vida profesional y personal.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/_W_AkGNAwYk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/r3vqeXqA19TbrDP"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/o7o8ggxpuzndnx"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/d84n1vzddbqh"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/0nt5r2gz0qud"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/3rn3gp9v6exp"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/4xdht7xad39l"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/ypmj3wae8rmzxr6m"}</urlsolve>
+</item>
+
+
 
 <item>
 <title>[COLOR white] La pasajera [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.0[/COLOR]</title> 
