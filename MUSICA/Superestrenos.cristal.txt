@@ -7,6 +7,16 @@
 
 
 <item>
+<title>[COLOR white] La travesia [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.7[/COLOR]</title> 
+<genre>Familia,Bélica,Suspense</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/dz8IBmxEu4h40OZwtlar5f5oruu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ooATGkHxlPXE1CTSAdeaHscuon6.jpg</fanart>
+<info>Segunda Guerra Mundial, diciembre de 1942, cuatro niños huyendo. Sarah y Daniel son judíos a punto de ser deportados, pero se esconden en el sótano de Otto y Gerda, hasta que los descubren y sus padres son arrestados. Con la misión de llegar a la lejana Suecia neutral emprenden para ello un viaje muy largo lleno de peligros.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : ""},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/X2x7b3xMWLT078"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/3njmmvv9twlrd4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/9rga7ie844xe"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/q0rb5mzqc2m3"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/pms2x711s2zc"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/glksjtfx9upa"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/nz7qrgu2neyp-gd-"}</urlsolve>
+</item>
+
+<item>
 <title>[COLOR white] Hive (La Colmena) [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.9[/COLOR]</title> 
 <genre>Drama</genre>
 <year>2021</year>
