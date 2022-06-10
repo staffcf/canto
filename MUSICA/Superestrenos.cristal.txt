@@ -8,6 +8,17 @@
 
 
 <item>
+<title>[COLOR white] Arboles de paz [/COLOR][COLOR yellow](2022) [COLOR aqua]*8.5[/COLOR]</title> 
+<genre>Historia,Drama</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/qPtYJ72lOnZqs5B842MC0KfCEZh.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lua3FuiWsdVFLi5vBuguDkUMwnv.jpg</fanart>
+<info>En abril de 1994, cuatro mujeres de diferentes orígenes y creencias se encuentran atrapadas y escondidas durante el genocidio contra los tutsis en Ruanda. Su lucha por la supervivencia contra todo pronóstico une a las mujeres en una hermandad inquebrantable.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/TTqHwOts_lY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/y0gZLKyLRlTOdv"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/6qz81e80tonwvm"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/zeib2p5d1vsg"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/n186u6fuoc64"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/lwkurutthyzy"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/ivhgo6t095sa"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/p6rl2gsm634yym1d"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Gran tiburon blanco [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.9[/COLOR]</title> 
 <genre>Terror,Acción,Suspense</genre>
 <year>2022</year>
