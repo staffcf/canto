@@ -1304,6 +1304,24 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El Abogado Del Lincoln[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.abogado.del.lincoln</externallink>
+<info>Después de un accidente, el famoso abogado de Los Ángeles Mickey Haller vuelve a arrancar su carrera (y su coche de marca) cuando acepta un caso de asesinato.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/4jSaIqEU8CPBBNn4iVCK6wzPjSx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/spGByFCjJamYfI0XA1yimAeYLkI.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]El Accidente[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.accidente</externallink>
+<info>Gabriel Cauvy se enfrenta a la muerte repentina de su esposa, Rebecca, en un accidente automovilístico sospechoso. Cuando la policía culpa a Rebecca del accidente por conducir ebria, Gabriel se propone limpiar su nombre, pero su búsqueda de la verdad es más peligrosa de lo que podría haber imaginado.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/h8vIBqXvnMBKHvftTjRAYc59jqM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5ofoCf7XBYcxPxn2Pf9ABw6osSm.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El Alpinista [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/El.alpinista</externallink>
@@ -2908,6 +2926,15 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]La Primera Muerte[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.primera.muerte</externallink>
+<info>Enamorarse es complicado para los adolescentes Juliette y Calliope: uno es un vampiro, el otro es un cazador de vampiros, y ambos están listos para cometer su primera muerte.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/70yK1hRyyQiwqstpMTHZCpcnP7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/abFQcEO0UJVfUQPmhgjaKeLxRwy.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]La Proxima Gran Aventura De Archibald[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.prox.gran.av.de.Archibald</externallink>
@@ -4022,6 +4049,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]P-Valley[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/P.valley</externallink>
+<info>En el fondo del Delta del Mississippi, un áspero lugar para la existencia humana donde la belleza puede ser difícil de encontrar, se halla un oasis de arena y brillo. Este drama sureño cuenta la historia caleidoscópica de un pequeño club de striptease que podría llegar a ser algo y de los personajes que entran por sus puertas: los esperanzados, los perdidos, los rotos, los jugadores, los guapos y los condenados. La música trap y el cine negro se fusionan en esta serie que se pregunta qué sucede cuando la gente de un pueblo pequeño sueña más allá de los límites marcados por los típicos supermercados y las casas de empeños.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/qAuKjGNbcwdhbpxSciak8BFjQ5F.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/d9PkFpwEdbPYNgeXORDFuS01Ebs.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Pachinko[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Pachinko</externallink>
@@ -5034,6 +5070,15 @@ Una vez allí, se encontrarán con un enemigo mucho peor que los Goaul'd; los Wr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]The Affair[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.affair</externallink>
+<info>Noah es escritor y profesor de instituto, está casado con Helen y es padre de cuatro hijos. Durante un verano de vacaciones en Montauk conoce a Allison, una mujer que intenta recomponer su vida tras haber sufrido una tragedia. Al instante se siente atraído por ella, y ambos comienzan una aventura extramatrimonial. La serie cuenta cómo afecta a una relación sentimental el hecho de que uno de ellos haya sido infiel. Muestra dos versiones de la misma trama por separado, una desde el punto de vista masculino y otra desde el femenino.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/27OIsNrr7Hm8RdjMJIkmCdXVUzx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bkoi52bZXplSxQTMOoLhI35VQFb.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]The Blacklist[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.Blacklist.txt</externallink>
@@ -5458,6 +5503,15 @@ Una vez allí, se encontrarán con un enemigo mucho peor que los Goaul'd; los Wr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Totems[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Totems</externallink>
+<info>Ambientada en 1965 en medio de la Guerra Fría, Totems sigue a un científico francés, Francis Mareuil, que comienza a trabajar como espía. Mientras trabajaba para el Servicio Secreto francés y la CIA, Mareuil conoce a Lyudmila Goloubeva, una pianista obligada a trabajar para la KGB. Un romance florece entre ellos, pero ninguno puede estar seguro de cuál es la expresión de sus verdaderos sentimientos y cuál es el fruto de travesuras políticas...</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/aa3WeVK1goLYOazsPNmg0mDQSTF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/JTVdyfExpXPvbH2cqhVMJChqDe.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Toy Boy[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Toy.Boy</externallink>
@@ -5563,6 +5617,15 @@ Una vez allí, se encontrarán con un enemigo mucho peor que los Goaul'd; los Wr
 <info>Miniserie de 3 episodios. Sobre el divorcio del duque y la duquesa de Argyll: Ian Campbell (Paul Bettany) y Margaret Campbell (Claire Foy). Las consecuencias públicas de su relación llevaron a uno de los casos legales más notorios del siglo XX. Famosa por su carisma, belleza y estilo, Margaret dominó las portadas como una divorciada que enfrentaba acusaciones de falsificación, robo, violencia, consumo de drogas, grabación secreta y soborno. Una fotografía polaroid explícita se convirtió en el elemento clave en el escandaloso divorcio que se desarrolló bajo la atenta mirada de los medios de comunicación de la década de los sesenta.</info>
 <thumbnail>https://i.imgur.com/JKjNyPN.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/vwpw5rh4kopsSg7xnklL2VbBr9k.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Un Hijo Tuyo[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Un.hijo.tuyo</externallink>
+<info>Una comedia romántica centrada en la vida de la médica de fertilidad Nana y los clientes que conoce y trata.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/tXGd6hBT7luufhZCpAgADyKIFIE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mXOesA4JposTlWrAARAIQnesU5U.jpg</fanart>
 </item>
 
 <item>
