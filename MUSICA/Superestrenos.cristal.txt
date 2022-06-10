@@ -6,6 +6,17 @@
 
 
 
+<item>
+<title>[COLOR white] El cuarto de Mona [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.4[/COLOR]</title> 
+<genre>Comedia</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/fhRWeJ8WXQu71UMLpnOhSb8rVBl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9T8Uvt4hT5kVbFPBNIz7OZSUjCy.jpg</fanart>
+<info>Mona (Sabela Hermida) es una mujer a la que todo le va mal. En plena crisis de los cuarenta, sin trabajo, sin pareja, sin dinero y con el sueño de ser actriz decide terminar sus días tirándose por un puente, sin embargo, unas llamadas en el último momento le recordarán que queda poco para su cumpleaños. Lo que parece que puede ser un intento de volver a la normalidad en su vida desencadenará en una semana frenética con todo tipo de situaciones disparatadas.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/qixvgkvxxlk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/3rG9oYadKWHdo9d"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/3njmmr9lil78r4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/tjp9opdakr3z"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/58hmsp5www4"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/4d566lzdhrym"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/579xbmqaj792"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/17nmwyaj7d8e5200"}</urlsolve>
+</item>
+
+
 
 <item>
 <title>[COLOR white] Comprometida hasta la muerte [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.4[/COLOR]</title> 
