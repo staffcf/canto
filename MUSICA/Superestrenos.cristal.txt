@@ -7,6 +7,17 @@
 
 
 <item>
+<title>[COLOR white] Panama [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.0[/COLOR]</title> 
+<genre>Acción,Suspense</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/lnCO4dJqNkHi1QYJifYI92igpYa.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lOr1JVHigusOOMwAJnKTH3WLbdw.jpg</fanart>
+<info>Un ex marine es contratado por un contratista de defensa para viajar a Panamá para completar un trato de armas. En el proceso, se involucra con la invasión estadounidense de Panamá y aprende una lección importante sobre la verdadera naturaleza del poder político.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/O_FWx79_GNs"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/KQJelbWoQah0rG3"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/n0oqk1n4ije94m"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/5kcfjyga2kce"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/yetn7ayzu986"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/mm6v1mmw3a61"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/rd77bxm47vzc"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/w0djeghnyw8-g47e"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El cuarto de Mona [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.4[/COLOR]</title> 
 <genre>Comedia</genre>
 <year>2022</year>
