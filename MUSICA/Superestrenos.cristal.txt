@@ -6,6 +6,16 @@
 
 
 
+<item>
+<title>COLOR white] Puppet Master: The Littlest [/COLOR][COLOR yellow [COLOR aqua]*5.7[/COLOR]</title> 
+<genre>Comedia,Terror</genre>
+<year>2018</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/fKEoTrLRsb6mDR1J1fRhaFjMMWc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mNMihAjehWEZQDNXLno1af2sLp4.jpg</fanart>
+<info>Edgar, deprimido y recién divorciado, regresa a la casa de su infancia para poner orden en su vida. Halla un títere de aspecto diabólico en la habitación de su difunto hermano y decide ponerlo en venta. Para venderlo deberá acudir a una subasta en la convención de conmemoración del 30º Aniversario de los horribles crímenes de Toulon. El mal se desatará en ese lugar.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/b5hCC5MbOt8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/e39vjQoK8JfYRvx/Puppet_Master_The_Littlest_Reich-kiniko%26xusman_para_exploradoresp2p_.mkv"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/17nq2laj7d7dxdx1"}</urlsolve>
+</item>
+
 
 <item>
 <title>[COLOR white] Arboles de paz [/COLOR][COLOR yellow](2022) [COLOR aqua]*8.5[/COLOR]</title> 
