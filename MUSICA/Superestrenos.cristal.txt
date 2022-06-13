@@ -4,6 +4,19 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 
+
+
+<item>
+<title>[COLOR white] Eraser: Renacer [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.0[/COLOR]</title> 
+<genre>Acción</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/lWE48knKsaPGqVoANXoWraiub2d.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ovfWTGl7X2bEwWLaXUjIoJryldf.jpg</fanart>
+<info>Se basa en el alguacil estadounidense Mason Pollard, que está especializado en diseñar las muertes falsas de testigos que no dejan rastro de su existencia.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/1M8IKHJtQiU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/jqv7OW122xhzPxj"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/qloj3ogjbxkljxo"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/y3zuku9nz8td"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/yvm5ehu221zj"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/k7yxgpkt0dui"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/iisqek94y89d"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/e5078lt-mg-pk48w"}</urlsolve>
+</item>
+
+
 <item> <title>[COLOR white] Ambulancia: Plan de huida [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.0[/COLOR]</title> <genre>Acción,Suspense,Crimen</genre> <year>2022</year> <thumbnail>https://www.themoviedb.org/t/p/original/jRr2wRLMfVzQ0f8jfTmGNWjSzSJ.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/9ubWGUvyfBeiCQEjV36g8CDsBWL.jpg</fanart> <info>Dos hermanos roban una ambulancia tras un atraco que sale mal y deberán de trabajar juntos para escapar de la policía que los persigue.<info> <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/1k7o3GUDsiQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/eqkGpK6MA6uY0d3"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/xod8dex0uz9pj8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/7gbku5q5a2a6"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/ne3hk7h1g4ec"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/qdxuhulhlq5p"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/o88ccn12f4s6"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/ypmj3wae8264q0j2"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1JYpIbdSHd5LnXndRibrf-TU6vB6Lg79J/view"}</urlsolve> </item>
 
 
