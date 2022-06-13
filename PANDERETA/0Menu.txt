@@ -410,6 +410,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Bang Bang Baby[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Bang.bang.baby</externallink>
+<info>Serie ambientada en Milán a finales de los años ochenta. Cuenta la historia de Alice, una adolescente tímida e insegura que se convierte en el miembro más joven de una organización mafiosa, no por dinero, ambición o deseo de poder, sino para ganarse el amor de su padre.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/7nuEdV5L60JlYnyFFPPR9NxZnUF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jQvO5oxCfeENSfTQXrDdSrFOlgL.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Beartown[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Beartown.txt</externallink>
