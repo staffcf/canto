@@ -2348,6 +2348,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Harry palmer[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Harry.palmer</externallink>
+<info>A medida que avanza la Guerra Fría, el ex contrabandista convertido en espía reacio Harry Palmer se encuentra en el centro de una peligrosa misión encubierta, en la que debe usar sus vínculos para encontrar a un científico nuclear británico desaparecido. Una adaptación televisiva de la novela de espías de Len Deighton The Ipcress File, que inspiró la película de Michael Caine de 1965 del mismo nombre.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/kuRxrUKmMBxkdXqRtkoibCljZFM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ysE5ljRVerGZLPAt6QM8uh4r3rg.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Harry Potter:El Torneo De Las Casas De Hogwarts[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Harry.Potter.el.torneo</externallink>
