@@ -933,6 +933,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Cousteau:Pasado Y Futuro [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Cousteau.pasado.y.futuro</externallink>
+<info>Se centrará en la revolución inventor-explorador-ecologista-cineasta, por ejemplo, en dar al ser humano los recursos para explorar el océano con Aqua Lung, poniendo el foco en la contaminación oceánica y en su larga colaboración.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/osZurOq3nwkF4S2u1bGzoWHW3qP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mwiLeSh0Y5GG4tliO0cyZYGSOU5.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Coyote[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Coyote.txt</externallink>
@@ -2384,6 +2393,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Hawking:Mas Alla De La Ciencia [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Hawking.mas.alla.de.la.ciencia</externallink>
+<info>Todo el mundo conoce al científico Stephen Hawking pero este no es un documental sobre ciencia, es un documental sobre la persona que se escondía tras ella. Un retrato que va más allá de estereotipos y muestra a un hombre profundamente humano, divertido y testarudo, capaz de mostrar a los suyos un inmenso amor, pero también una dolorosa indiferencia.Por primera vez, sus más allegados (incluidos sus hijos, su exmujer Jane y su hermana) hablan sin tapujos del genio, de la persona real que había detrás de su imagen pública. Estas entrevistas y un increíble material de archivo familiar nunca antes visto ponen el foco en la vida personal de Stephen Hawking, mostrando el tremendo impacto que su fama y su discapacidad han tenido en las relaciones con los suyos. Un recorrido por la vida del físico de la mano de los que mejor lo conocieron. Un retrato fascinante y honesto de una de las figuras más respetadas y conocidas de la historia.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/tv8sCYtlpk2z3EN9oYdWbQ7PZ75.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lupnbxwxE6EImRLh45w9Llog76c.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Hellbound Rumbo Al Infierno[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Hellbound.Rumbo.al.infierno</externallink>
@@ -3342,6 +3360,19 @@ En paralelo a la serie, Enrique Urbizu realizó un montaje para cines en formato
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Los Secretos De Las Ballenas [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Los.secretos.de.las.ballenas</externallink>
+<info>"Los secretos de las ballenas" es una oportunidad única de sumergirse en la cultura de estos grandes cetáceos.
+
+Descubre la extraordinaria capacidad de comunicación y las sofisticadas organizaciones sociales de cinco especies de ballenas: orcas, ballenas jorobadas, belugas, narvales y cachalotes.
+
+Este maravilloso viaje se ha grabado en 24 localizaciones distintas a lo largo de tres años. Gracias a él, aprenderemos que las ballenas son más complejas y más parecidas a nosotros de lo que imaginábamos.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/sBAPb55egrXe5ohD1lUolar1K01.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tBfOgNNasCh0xMoJu8D8JbeCOLL.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Los Secretos De Sulphur Springs[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Los.secretos.de.sulphur.springs</externallink>
@@ -4230,6 +4261,15 @@ Este caso se convierte en parte importante de la vida de ambos detectives, llega
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Pau Gasol:Lo Importante Es El Viaje [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Pau.gasol.lo.importante.es.el.viaje</externallink>
+<info>Lo más difícil de dedicarte al deporte que amas es despedirte de él. Este documental muestra el final de la carrera de leyenda de uno de los mejores deportistas españoles de todos los tiempos. Podremos ver la lucha y el esfuerzo para volver a las pistas y poder poner fin a su carrera jugando a baloncesto. Además, también veremos la manera de afrontar el futuro y los nuevos retos que le deparan a Pau una vez colgadas las zapatillas.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/gptizswdiBvQsLPc7Soye94VHvs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vlslExuxjLkWTY4FjitgPsQ7VrH.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Peaky Blinders[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Peaky.blinders</externallink>
@@ -4726,6 +4766,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Schumacher [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Schumacher</externallink>
+<info>Documental sobre el legendario piloto Michael Schumacher (Alemania, 1969), siete veces campeón del mundo de Fórmula 1. El film contiene grabaciones privadas de la familia de Schumacher, escenas de las carreras de F1 y numerosas entrevistas.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/gVCNU1mMj4Cc9wIJRVUBvStukzz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lqEjBR3osI3Ezup9onTXYz7RyNZ.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Screw[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Screw</externallink>
@@ -4993,6 +5042,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 <info>Comedia que reúne a Steve Carell (también como creador) con el guionista de 'The Office' Greg Daniels basada en la idea de crear una división espacial de Donald Trump en el ejército de EEUU. Junto a Carell, un reparto de lujo con nombres como los de John Malkovich, Lisa Kudrow, Noah Emmerich y Fred Willard.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/ta2c5gJWqdIMDdc30ufacchffjC.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/aGuX4z8FPiC9oObQWXRai7TTtej.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Spice Girls:El Precio Del Exito [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Spice.girls.el.precio.del.exito</externallink>
+<info>A mediados de los años 90, cinco mujeres británicas se hicieron tan famosas que ni siquiera la muerte de la princesa Diana pudo alejarlas de los principales titulares de la prensa. Las Spice Girls se convirtieron en estrellas mundiales, se codearon con personalidades como Nelson Mandela o el príncipe Carlos, alcanzaron el número 1 en ventas en 35 países y se convirtió en el grupo pop femenino que más discos ha vendido en la historia. Después de su éxito y tras la salida de Geri Halliwell del grupo, cada una de ellas tuvo que averiguar cómo continuar en solitario. 25 años después de 'Wannabe' este documental de BBC muestra cómo les ha cambiado la vida a Victoria, Geri, Emma, Mel B y Mel C, cinco mujeres que confluyeron en un momento de la vida para arrasar, cinco versiones distintas sobre cómo madurar mientras se está bajo el gran escrutinio mediático.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/zGwrKpIh7he1dOEfnFUexmuPp2O.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bWiQpr1lht67ZtKl5ouSYlQUBNd.jpg</fanart>
 </item>
 
 <item>
