@@ -6,6 +6,18 @@
 
 
 <item>
+<title>[COLOR white] Más allá del infinito: Buzz y el viaje hacia Lightyear [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.4[/COLOR]</title> 
+<genre>Documental</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/3dhQksZrIeRYP8jbB0J1SLW6HVW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mBJ995JUssgh2hhm4JxNj8hyVVM.jpg</fanart>
+<info>Explora la evolución de Buzz Lightyear de juguete a humano en la realización de Lightyear de Pixar. Sumérgete en el origen y el impacto cultural del Space Ranger favorito de todos, el arte de diseñar un nuevo "Buzz humano" y los desafíos que enfrentó el equipo de Lightyear en el camino.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/nc2_O-cjSxc"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/r48PG6wAPYFbvm1"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/9n3moq4qs3qpv0z"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/2l0eeo0cwyjj"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/8apwrju90zp4"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/tawoeah6g2kc"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/3h821bxjx0xm"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/r5djzgten61p0qgw"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Centauro [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin puntuación[/COLOR]</title> 
 <genre>Acción,Crimen,Suspense</genre>
 <year>2022</year>
