@@ -1367,6 +1367,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El Bebe[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.bebe</externallink>
+<info>Un examen explícitamente oscuro y divertido de la maternidad, desde la perspectiva de una mujer que no quiere ser madre.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/itkd3eEcWDSQHqWfapRhoATOlKs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xFyJjnKqndId2Z1FJgHVw4HpvL4.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El Bosque Infinito[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.bosque.infinito</externallink>
