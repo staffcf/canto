@@ -6,6 +6,18 @@
 
 
 <item>
+<title>[COLOR white] El mundo es vuestro [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.3[/COLOR]</title> 
+<genre>Comedia</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/mokgVpYI5UzfovVI2rWlcoUkqE8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rN4SV1I4o3OY76BgTwO0AXY44kW.jpg</fanart>
+<info>Rafi se cuela en la cacería de la marquesa, que reúne a toda la alta sociedad española, para venderles su negocio. Él y Fali descubrirán que la caza no es lo que parece, y que el futuro de España se decide en la granja.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Z70jbAI99mk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/bRgbL0VJb6IPVZA"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/poner"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/q411klwqxz9e"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/q46hzm0kd9te"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/wj4qkt1tyidx"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/h95y3mn23gqc"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/xm0jygc57-j5d0g4"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Super... ¿quién? [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.1[/COLOR]</title> 
 <genre>Comedia,Acción</genre>
 <year>2022</year>
