@@ -2105,6 +2105,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Firebite[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Firebite</externallink>
+<info>Siguie a dos cazadores australianos indígenas para luchar contra la última colonia de vampiros en el desierto del sur de Australia.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/wMFLGQ6dQ5V4pPp62hN2FCbpe0E.jpg</thumbnail>
+<fanart>https://imgur.com/wRsaHNs.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]FlashForward[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/FlashForward.xml</externallink>
