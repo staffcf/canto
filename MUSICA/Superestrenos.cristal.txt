@@ -16,6 +16,17 @@
 </item>
 
 <item>
+<title>[COLOR white] Catwoman: Hunted  [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.0[/COLOR]</title> 
+<genre>Animación,Acción,Crimen</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/oS0iKblZSNfQscOJb7IAEt0ZnhS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/35CkOX4O7TXT97qYiwspaEw5tld.jpg</fanart>
+<info>El intento de Catwoman de robar una joya invaluable la pone directamente en la mira de un poderoso consorcio de villanos y de la siempre ingeniosa Interpol, sin mencionar a Batwoman.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/AoRxVEWZtQw"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/JKvYGYBdmMsgg4"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/l6opvp71alm977"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/k99kaap9yp6t"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/70as4fxix788"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ne42oxe49typ"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/tw7ahjnlslks"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/5pyw36adl-llx27r"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El abismo [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.3[/COLOR]</title> 
 <genre>Suspense</genre>
 <year>2022</year>
