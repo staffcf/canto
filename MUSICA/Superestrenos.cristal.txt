@@ -5,6 +5,18 @@
 =======================================================================================
 
 
+
+<item>
+<title>[COLOR white] Dual [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.3[/COLOR]</title> 
+<genre>Ciencia ficción,Comedia,Suspense</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/1rIKVkq99YBnTWheL1jGDrUUKgI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5ps2H3srzXZgmpI0yPv2xH6gc2W.jpg</fanart>
+<info>Una mujer con una enfermedad terminal opta por un procedimiento de clonación para aliviar la pérdida de sus amigos y familiares. Cuando se recupera milagrosamente, sus intentos de desmantelar su clon fallan y conducen a un duelo a muerte ordenado por la corte.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/oN-kd_LWj0k"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/mOpdRo34moiQe4"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/poner"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/9bt30pfcbify"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/wavfjy1npk8y"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/1vof3mhr6yc8"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/r27m729nv4zn"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/5pyw36adlqqd17p5"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Los tipos malos [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.8[/COLOR]</title> 
 <genre>Animación,Comedia,Familia</genre>
