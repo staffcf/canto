@@ -18,6 +18,17 @@
 
 
 <item>
+<title>[COLOR white] Amor y helado [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.4[/COLOR]</title> 
+<genre>Romance,Comedia,Drama</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/9o4JJYW5AZB714Sa39i5Tj9fILT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eUwnVr8Z6kJFBP8NzOU4GORzVtb.jpg</fanart>
+<info>Para cumplir el último deseo de su difunta madre, Lina pasa el verano en Roma antes de empezar la carrera. Allí encuentra amor, aventuras y una nueva pasión: el helado.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/rjFGifzScpY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/eL08GVRAJ6sYlzg"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/j9el4m0qa7744d6"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/6x9xmx2am0ml"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/o9f8772btklo"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ok6siri6mrkq"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/7c745n4b2t84"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/-n7pwqap824418-w"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Doula [/COLOR][COLOR yellow](2022) [COLOR aqua]*4.3[/COLOR]</title> 
 <genre>Comedia</genre>
 <year>2022</year>
