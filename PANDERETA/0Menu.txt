@@ -1610,6 +1610,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El Hombre Contra La Abeja [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.hombre.contra.la.abeja</externallink>
+<info>Un hombre se encuentra en guerra con una abeja mientras cuida una lujosa mansión. ¿Quién ganará y qué daño irreparable sucederá en el proceso?</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/7cCFIwFWH2lN2cT2VbW9dHTeEfQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/diMdrlQbx4TRBSJCx375Wp8jKED.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El Huesped Americano[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.huesped.americano</externallink>
