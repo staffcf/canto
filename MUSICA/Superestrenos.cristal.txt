@@ -17,6 +17,17 @@
 </item>
 
 
+<item>
+<title>[COLOR white] Doula [/COLOR][COLOR yellow](2022) [COLOR aqua]*4.3[/COLOR]</title> 
+<genre>Comedia</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/4v6zhPBZuuxuFGN2CwMu97Z8u3l.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9rEvJdEHb7WEOO0N3Hqpu653sCc.jpg</fanart>
+<info>Tras la repentina muerte de su comadrona, una pareja de Los Ángeles contrata al hijo de esta para que sea su doula.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/q8ZUkdTjlFg"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/wJJZlyAXZBHlYR"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/gnq90w69s9kp3o"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/bvzmzvmpmg8o"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/uv8nhu4yzumn"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/4q6tzqjui6fx"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/tp0qa9t9tc8l"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/m72m0-a5g4p4ndj7"}</urlsolve>
+</item>
+
+
 
 <item>
 <title>[COLOR white] Dual [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.3[/COLOR]</title> 
