@@ -17,6 +17,17 @@
 </item>
 
 
+
+<item>
+<title>[COLOR white] Un heroe [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.4[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/8NIAwBz3vlnYeuAwNF6l3aqHqkm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dlKxI3ZKJaQ7mSDjVXvhxyvvDqQ.jpg</fanart>
+<info>Rahim (Amir Jadidi) está en la cárcel por una deuda que no ha podido reembolsar. Durante un permiso de dos días, trata de convencer a su acreedor para que retire su reclamación de desembolso de una parte del pago. Pero las cosas no irán como tenía previsto.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/cUdc4gExC1M"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/78L197y1qqURPX"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/wn61g6keiv3o06"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/9deooy2jqi9w"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/vyynub3ida0u"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ncralunwx3j7"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/ui8q2rs1wg5c"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/8mwx70c84w0yjym0"}</urlsolve>
+</item>
+
 <item>
 <title>[COLOR white] Doctor Strange en el multiverso de la locura  [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.5[/COLOR]</title> 
 <genre>Fantasía,Acción,Aventura</genre>
