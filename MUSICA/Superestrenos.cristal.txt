@@ -5,6 +5,17 @@
 =======================================================================================
 
 
+<item>
+<title>[COLOR white] El hombre de toronto [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.9[/COLOR]</title> 
+<genre>Acción,Comedia,Suspense</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/ogLJ4HZUsRZlydxldhNGJVcBm5c.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/v1qxK4kSMAdE2HICDh637vGETVD.jpg</fanart>
+<info>El asesino más mortal del mundo es conocido como "El hombre de Toronto", y Teddy es el mayor desastre de Nueva York. Ambos se encontrarán en un Airbnb y el destino les obliga a formar equipo para salvarse. ¿Conseguirán aguantarse el uno al otro?<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/CIxa5XFxl0I"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/jAl1wr2DwWczp3e"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/9n39dep4sr4xej"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ip3esbt4sv2r"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/ifwn19jlz4ih"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/44uwyzr4sluf"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/2v89tz7w7i1r"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/7nyx6dag153lry5-"}</urlsolve>
+</item>
+
+
 
 <item>
 <title>[COLOR white] Rise: Superación, la historia de la familia Antetokounmpo [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.6[/COLOR]</title> 
@@ -13,7 +24,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/pBrjWoIKhkOhCyBI4To0CIbUgiC.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/5vyV7KxkejZYJliI98rAVUotua5.jpg</fanart>
 <info>Después de emigrar a Grecia desde Nigeria, Vera y Charles Antetokounmpo lucharon por sobrevivir y mantener a sus cinco hijos, mientras vivían bajo la amenaza diaria de la deportación. Desesperados por obtener la ciudadanía griega pero socavados por un sistema que los bloqueaba en todo momento, la visión, la determinación y la fe de la familia los sacaron de la oscuridad para lanzar las carreras de tres campeones de la NBA.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Zx9kaA-kMAs"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/pjgKKJ4VdbsrvRA"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/0vqkx80man4mz0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/wpufxbeif5nb"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/jcoekacidb7x"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/yn6mbvgbpv10"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/yotwmzovcjsh"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/001zwehl3d-86j7y"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Zx9kaA-kMAs"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/pjgKKJ4VdbsrvRA"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/6qznvzz4swpj1m"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/wpufxbeif5nb"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/jcoekacidb7x"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/yn6mbvgbpv10"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/yotwmzovcjsh"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/001zwehl3d-86j7y"}</urlsolve>
 </item>
 
 
