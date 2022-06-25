@@ -30,6 +30,17 @@
 
 
 <item>
+<title>[COLOR white] A Olivia [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.5[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/iBq0sXKGfkT9ljDmvRIvAMM6iH5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/x6cnsqVTNeNqbSftsxWQkPttPOL.jpg</fanart>
+<info>Cuenta la historia del tumultuoso matrimonio entre la actriz Patricia Neal y el escritor de renombre Doald Dahl.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/IJm_lDh8Sog"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/9Rqbre22K8SawR1"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/poner"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/bl4zs23ac5me"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/pfb3msv0fvpo"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/acqeb6t79zyj"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/2y0nm202qp1i"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/7nyx6dag157ngj73"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Amor y helado [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.4[/COLOR]</title> 
 <genre>Romance,Comedia,Drama</genre>
 <year>2022</year>
