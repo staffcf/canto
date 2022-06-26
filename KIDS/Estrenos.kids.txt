@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+
+
+
+<item>
+<title>[COLOR white]Ainbo: La Guerrera Del Amazonas [/COLOR][COLOR yellow](2022)[/COLOR]</title> 
+<genre>Aventura,Animación,Familia,Fantasía</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/eOPt6zKy8p61z2K6IUbImhrfvr5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/teE3gAWhkrT2YwGxUahKkOpiFMY.jpg</fanart>
+<info>Una niña nació y creció en la selva más profunda del Amazonas, Colonia, que descansa sobre el lomo del Espíritu Materno más poderoso del Amazonas, Turtle Motelo Mama. Un día descubre que su tierra natal está siendo amenazada y se da cuenta de que hay otros humanos en el mundo además de su gente. Mientras lucha por salvar su paraíso contra la codicia y la explotación de los niños, la tala y la minería ilegal, comienza a luchar para revertir esta destrucción y el mal inminente de Yucuruna, la oscuridad que vive en el Amazonas. Guiada por el espíritu de su madre, Ainbo está decidida a salvar su tierra y salvar a su gente antes de que sea demasiado tarde.</info>
+<urlsolve>https://www.fembed.com/v/z6-j4gsjqr83w484</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white]Los tipos malos [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.8[/COLOR]</title> 
 <genre>Animación,Comedia,Familia</genre>
