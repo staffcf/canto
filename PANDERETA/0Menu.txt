@@ -942,6 +942,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Cowboy Bebop[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Cowboy.bebop</externallink>
+<info>Un grupo ecléctico de cazarrecompensas persigue a los criminales más peligrosos de la galaxia. Por el precio justo, hasta podrían salvar el mundo.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/7ZXLP3h9FzSyUhQ1Xu8TrugYKDs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4FBwrTdBVAHcoTuiIStb3ujNj45.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Coyote[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Coyote.txt</externallink>
