@@ -6,6 +6,17 @@
 
 
 
+<item>
+<title>[COLOR white] The medium [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.0[/COLOR]</title> 
+<genre>Terror,Suspense</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/Apcam37mf2VegRfSwDF4Hi4rwai.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9SISFlf6SEiIb7CMk8h0Gu3NYow.jpg</fanart>
+<info>Una historia espantosa sobre la herencia de un chamán en la región de Isan en Tailandia. Pero la diosa que parece haber tomado posesión de un miembro de la familia resulta no ser tan benevolente como parece.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/bPNT9gefMk4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/rrx768KdY8ibPZR"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/endrwro4crexm6"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/z2jag6r4loxz"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/87s0o8n5m0qi"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ualvn9ul4tvu"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/e2q8nrv8u8lz"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/8mwx70c84r7wkg81"}</urlsolve>
+</item>
+
+
 
 <item>
 <title>[COLOR white] 9 Balas [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.3[/COLOR]</title> 
