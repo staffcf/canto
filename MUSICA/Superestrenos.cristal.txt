@@ -19,6 +19,17 @@
 
 
 <item>
+<title>[COLOR white] Spiritwalker [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.2[/COLOR]</title> 
+<genre>Misterio,Acción,Fantasía</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/ekq41ruhqNv5170I7qwLb3FOxjH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/g0l3uRbi1YyRxXTZVjZc2mNkAHQ.jpg</fanart>
+<info>Un hombre cada doce horas despierta en el cuerpo de una persona distinta, pero sin ser capaz de recordar quién es y dónde está. De esta manera comienza una búsqueda desesperada de su identidad original en un mundo en el que todo le resulta extraño, incluyendo a una mujer misteriosa que le conoce y una organización secreta que le persigue sin descanso.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/f7hPyx0koyc"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/96zD3YKAWWcaG6k"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/j9wvg8zpu7env4n"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/px5segtqh8zs"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/a2oac1b6zjfo"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/3uhqaxqywgrb"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/e2f2fpdyk6if"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/4xrlw4uzqj6-l6ed"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] 9 Balas [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.3[/COLOR]</title> 
 <genre>Acción,Suspense</genre>
 <year>2022</year>
