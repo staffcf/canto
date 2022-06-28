@@ -6,6 +6,18 @@
 
 
 
+<item>
+<title>[COLOR white] Amenaza en el espacio [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.9[/COLOR]</title> 
+<genre>Acción,Ciencia ficción</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/cCcJucr01T9bgE1eKDS7IOWRbJO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hY81dmXRFXweWlLqcvH3ThpLRSs.jpg</fanart>
+<info>Un rudo mecánico es elegido para estar despierto y dar mantenimiento al arca interestelar de una nave espacial que mantiene con vida a unos pocos miles de supervivientes de una Tierra moribunda. El peligro llega cuando un alien capaz de cambiar de forma aparece en la nave para acabar con todos los supervivientes.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/HFvvWd1jcSk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/wllamzJxXzsJ7ZY"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/wn49od8nag6x4o"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/qfez14sf0i17"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/0dq7i6oq3or5"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/poner"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/i6z1c63y4mwj"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/8mwx70c84ryleeq0"}</urlsolve>
+</item>
+
+
+
 
 <item>
 <title>[COLOR white] Ainbo: La Guerrera Del Amazonas [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.0[/COLOR]</title> 
