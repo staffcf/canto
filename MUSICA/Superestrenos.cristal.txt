@@ -6,16 +6,28 @@
 
 
 
+
 <item>
-<title>[COLOR white] Amenaza en el espacio [/COLOR][COLOR yellow](2022) [COLOR aqua]*4.3[/COLOR]</title> 
+<title>[COLOR white] 9 Balas [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.3[/COLOR]</title> 
+<genre>Acción,Suspense</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/hNaLkaWYN5eeNwnxHnhGgQPr2aT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/o31kGDH9GbAZjVLwPYno8XvQGV2.jpg</fanart>
+<info>Una exbailarina de burlesque convertida en autora (Lena Headey) descubre una segunda oportunidad en la vida y la redención cuando arriesga todo para rescatar a su joven vecino después de que presencia el asesinato de sus padres. Ahora, huyendo del jefe del crimen local (Sam Worthington), quien resulta ser su ex de toda la vida, hace un intento desesperado por poner al niño a salvo.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/IZbOTXcVKmo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/239a3vBJv4fZ8Dr"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/vn41ejkntqmqzp"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/7q0rr1vphjvy"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/78fbep9g6jfw"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/75bbrh99pzxv"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/dc25yjmhmax2"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/deq685axzjdymrk-"}</urlsolve>
+</item>
+
+
+
+<item>
+<title>[COLOR white] Amenaza en el espacio [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.9[/COLOR]</title> 
 <genre>Acción,Ciencia ficción</genre>
 <year>2022</year>
 <thumbnail>https://www.themoviedb.org/t/p/original/cCcJucr01T9bgE1eKDS7IOWRbJO.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/hY81dmXRFXweWlLqcvH3ThpLRSs.jpg</fanart>
 <info>Un rudo mecánico es elegido para estar despierto y dar mantenimiento al arca interestelar de una nave espacial que mantiene con vida a unos pocos miles de supervivientes de una Tierra moribunda. El peligro llega cuando un alien capaz de cambiar de forma aparece en la nave para acabar con todos los supervivientes.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/HFvvWd1jcSk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/wllamzJxXzsJ7ZY"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/wn49od8nag6x4o"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/qfez14sf0i17"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/0dq7i6oq3or5"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/poner"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/i6z1c63y4mwj"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/8mwx70c84ryleeq0"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/HFvvWd1jcSk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/wllamzJxXzsJ7ZY"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/wn49od8nag6x4o"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/qfez14sf0i17"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/0dq7i6oq3or5"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/63cu4ie0kkgc"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/i6z1c63y4mwj"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/8mwx70c84ryleeq0"}</urlsolve>
 </item>
-
 
 
 
