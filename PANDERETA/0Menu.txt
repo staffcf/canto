@@ -2393,6 +2393,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Hannibal[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Hannibal</externallink>
+<info>Hannibal es una serie de televisión estadounidense desarrollada por Bryan Fuller para la NBC. La serie trata sobre personajes de la novela Dragón Rojo de Thomas Harris y se centra en la relación amistosa entre el investigador especial del FBI Will Graham y el Dr. Hannibal Lecter, un psiquiatra forense destinado a ser el némesis de Graham.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/imzvb941su6uhQ158GGurk7vF28.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zXuLehGmXLAt4jtEICgfkFO2p4F.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Harlem[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Harlem</externallink>
