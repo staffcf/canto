@@ -184,15 +184,6 @@
 </item>
 
 <item>
-<title>[COLOR white]Jungla De Cristal [/COLOR]</title>  
-<link>cristalazul</link>
-<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/SAGAS/Jungla.de.cristal</externallink>
-<info>Una serie de películas de acción centrado en el personaje de John McClane, un detective de policía de la ciudad de Nueva York, que se encuentra luchando contra un grupo de terroristas en cada película.</info>
-<thumbnail>https://www.themoviedb.org/t/p/original/rfAYgRKlxQ7LarlHfXg8zqL7NnB.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/1MaeSHwV4WWcx6MyfbqYPaBF9z9.jpg</fanart>
-</item>
-
-<item>
 <title>[COLOR white]El Caballero Oscuro[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/SAGAS/El.caballero.oscuro</externallink>
@@ -336,6 +327,15 @@ La película tuvo una secuela: Gremlins 2 en 1990.</info>
 <info>El agente James Bond 007, al servicio de su majestad, siempre dispuesto a cumplir con su misión como agente doble cero</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/gI1KU134ZdKW0zQIkRdXOadQP2O.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/tdIO3Cb7p1RISo1CSqRuT6CH8Ph.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Jungla De Cristal [/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/SAGAS/Jungla.de.cristal</externallink>
+<info>Una serie de películas de acción centrado en el personaje de John McClane, un detective de policía de la ciudad de Nueva York, que se encuentra luchando contra un grupo de terroristas en cada película.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/rfAYgRKlxQ7LarlHfXg8zqL7NnB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1MaeSHwV4WWcx6MyfbqYPaBF9z9.jpg</fanart>
 </item>
 
 <item>
