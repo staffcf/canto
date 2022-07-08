@@ -5,7 +5,15 @@
 =======================================================================================
 
 
-
+<item>
+<title>[COLOR white] Hola, adiós y todo lo que pasó [/COLOR][COLOR yellow] (2022) [COLOR aqua]*5,4[/COLOR]</title> 
+<genre>Romance</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/47G6RFyjg9KoTkAtl3JDoPV5DSC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oFgeXAGn9ndqKyfgBmxzxv6Lsqo.jpg</fanart>
+<info>Tras pactar que romperían antes de la universidad, Clare (Talia Ryder) y Aidan (Jordan Fisher) viven una cita épica en su última noche como pareja. Mientras rememoran su relación, desde que se conocieron hasta el primer beso y la primera pelea, se acercan a un punto de inflexión en busca de respuestas: ¿deberían seguir juntos o despedirse para siempre? ‘Hola, adiós y todo lo que pasó’ es una entrañable comedia romántica de los productores de la popular franquicia ‘A todos los chicos’, basada en el bestseller de Jennifer E. Smith.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/uL-O2PWVJf8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/W8Gvg9ZdBbfA4b/H0laAd1osP4s0.m1080p.yamil.mkv"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/k3n5kwh3xerln8ex"}</urlsolve>
+</item>
 
 
 <item>
