@@ -1637,6 +1637,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El Hombre Que Cayo A La Tierra [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.hombre.que.cayo.a.la.tierra</externallink>
+<info>Un extraterrestre llega a la Tierra en un punto de inflexión en la evolución humana y debe enfrentarse a su propio pasado para determinar nuestro futuro.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/p1aBjGkyG25ADy4xu69joNMV3eQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2jvzHOxHdFVHgvrayJ8k2RhH6ES.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El Huesped Americano[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.huesped.americano</externallink>
@@ -3357,6 +3366,15 @@ En paralelo a la serie, Enrique Urbizu realizó un montaje para cines en formato
 <info>Tras la muerte de su esposo en un accidente automovilístico, Antonia descubre que él estaba teniendo una aventura homosexual con un hombre llamado Michele. Al principio devastada por la noticia, se encuentra construyendo una amistad inesperada con este hombre del que nunca había oído hablar. Ambos aprenden a conocerse, a aceptarse, a entenderse. Antonia descubre así a la otra familia de su marido formada por amigos con estilos de vida inusuales e identidades sexuales diferentes.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/73ngr14gLlIXqWHPJjFgBfbhpSC.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/qDJfuVBvp5y4ECYQHbpC5Z2Erkf.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Los Borbones:Una Familia Real [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Los.borbones.una.familia.real</externallink>
+<info>'Los Borbones: una familia real' cuenta la historia reciente de la corona española, una de las monarquías más antiguas de Europa y pone el foco en la sucesión y en el reinado de Juan Carlos I, que concluyó con la abdicación del monarca. 'Los Borbones: una familia real' muestra una mirada única y sin precedentes sobre la Familia Real Española, con imágenes y testimonios de gran impacto e interés público. El relato de 'Los Borbones: una familia real' se construye a partir del archivo histórico, imágenes y documentos inéditos, recreaciones y los testimonios de historiadores, escritores, periodistas, colaboradores y personas cercanas a la Casa Real.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/qISSENUWqr5S0ZVacTMOMpeVVTZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dTZsoI9nreHwc1pV83D1h2igK4D.jpg</fanart>
 </item>
 
 <item>
