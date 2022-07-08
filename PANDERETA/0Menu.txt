@@ -1286,6 +1286,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Dos Años Y Un Dia[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Dos.anhos.y.un.dia</externallink>
+<info>Carlos Ferrer es un actor y presentador que lleva doce años disfrutando del cariño de todo el país, pero cuando es elegido para dar el pregón de Carnaval en un pequeño pueblo de Sevilla, hace una broma que le provoca una demanda por delito contra los sentimientos religiosos admitida a trámite por un juez devoto y que acaba con Carlos en la cárcel. Una vez en prisión, comprobará que los clichés no son tan acertados y que en el fondo no se está tan mal… Una vez dentro, Carlos es la celebridad, el preso con el que todo el mundo quiere hacerse selfies.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/acAdmI0lIABc6nXY7jFaqfh2Lzf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4MsbIp6b7bUzeNqa4Tg8DEJPhii.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Dota Sangre De Dragon[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Dota.sangre.de.dragon</externallink>
@@ -1994,6 +2003,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 <info>Documental de 45 minutos que repasa la carrera de Daniel Craig y su asociación al personaje de James Bond a lo largo de 15 años, incluyendo escenas nunca vistas detrás de las cámaras.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/kKG9gieki5wgEcVXLfnX1lbOcrO.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/gckT7aXbXNaeLGmGvbsPKrKLosT.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Encerrado Con El Diablo[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Encerrado.con.el.diablo</externallink>
+<info>Basada en hechos reales. Cuando Jimmy Keene comienza una condena de 10 años de cárcel, recibe una oferta increíble: si puede obtener una confesión del presunto asesino Larry Hall, Jimmy será liberado. Completar esta misión se convierte en el reto de su vida.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/lAIGChfdlgSPYyV5AMYlmlAeHio.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/87S8t5RMIbCcquFyOzTN2dln3sV.jpg</fanart>
 </item>
 
 <item>
