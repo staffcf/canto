@@ -5,6 +5,18 @@
 =======================================================================================
 
 
+
+<item>
+<title>[COLOR white] El monstruo marino [/COLOR][COLOR yellow] (2022) [COLOR aqua]*7,5[/COLOR]</title> 
+<genre>Animación, aventuras</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/wEdvvT8js6qhdVvxGkeYqr6gayP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6RfBSOWJ1UVZ03y55rpL4pc0GnU.jpg</fanart>
+<info>Una decidida joven se une a un famoso cazador de monstruos marinos para perseguir a una bestia legendaria.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Ol2XYzaJrOo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/26LA8xvPlmiZ8QJ/M0ustr0M4r1no.m1080p.yamil.mkv"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/3kqd5rbm1g8w3nq2"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Hola, adiós y todo lo que pasó [/COLOR][COLOR yellow] (2022) [COLOR aqua]*5,4[/COLOR]</title> 
 <genre>Romance</genre>
