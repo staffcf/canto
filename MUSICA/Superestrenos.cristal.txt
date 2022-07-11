@@ -5,9 +5,21 @@
 =======================================================================================
 
 
+
+
 <item>
-<title>[COLOR white] El milagro del padre Stu [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.6
-[/COLOR]</title> 
+<title>[COLOR white] Malnazidos[/COLOR][COLOR yellow] (2022) [COLOR aqua]*5.9[/COLOR]</title> 
+<genre>Comedia, Terror, Belica</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/8eOgpzYUV4PxbDl64vrWpWTEAqb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/h6XfgbzQEV4sitsIVY63pawLI0s.jpg</fanart>
+<info>Durante la Guerra Civil Española, meses de sangrientos combates han dejado tras de sí miles de muertos en las trincheras. Jan Lozano, capitán de la quinta brigada, cae prisionero. La única posibilidad de escapar a la sentencia de muerte es hacer frente a una misión imposible en campo enemigo. Pero un peligro mayor del esperado obligará a los bandos rivales a unirse contra un nuevo y desconocido adversario. Tendrán que dejar de lado el odio mutuo y así evitar convertirse en infectados.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/MGnCUnJVse4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/erg90xYev8T9dx/M4ln4zs1d0s.m1080p.yamil.mkv"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/r5dwjqben8p3kxj5"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El milagro del padre Stu [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.6[/COLOR]</title> 
 <genre>Drama</genre>
 <year>2022</year>
 <thumbnail>https://www.themoviedb.org/t/p/original/ood1lF08nkNBV69x3MGh2g8buF4.jpg</thumbnail>
