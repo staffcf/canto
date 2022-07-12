@@ -13,7 +13,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/rdx0bIkwxW3EHvWn5kxZBFUT1Am.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/xOMLQ0NypqxlEge75I7prBRvRbc.jpg</fanart>
 <info>El príncipe Amleth está a punto de convertirse en hombre pero, en ese momento, su tío asesina brutalmente a su padre y secuestra a la madre del niño. Dos décadas después, Amleth es un vikingo que tiene la misión de salvar a su madre.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/7HZ4tBQEiB0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/YVVZxkqXyghOvg/El_hombre_del_norte-canibales%26xusman_para_exploradoresp2p_.mkv"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/wwnkpbnydg8w5jp"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/7HZ4tBQEiB0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/YVVZxkqXyghOvg"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/wwnkpbnydg8w5jp"}</urlsolve>
 </item>
 
 
