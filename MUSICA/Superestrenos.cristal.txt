@@ -19,13 +19,14 @@
 
 
 <item>
-<title>[COLOR white] El milagro del padre Stu [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.6[/COLOR]</title> 
+<title>[COLOR white] El milagro del padre Stu [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.6
+[/COLOR]</title> 
 <genre>Drama</genre>
 <year>2022</year>
 <thumbnail>https://www.themoviedb.org/t/p/original/ood1lF08nkNBV69x3MGh2g8buF4.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/a23OZ1Py4HbosimAYwsqq2783HL.jpg</fanart>
 <info>La historia real de un boxeador convertido en sacerdote. Cuando una lesión pone fin a su carrera como boxeador amateur, Stuart Long se muda a Los Ángeles en busca de dinero y fama. Mientras se las arregla como empleado de un supermercado, conoce a Carmen, una maestra de escuela dominical que parece inmune a su encanto de chico malo. Decidido a ganársela, el agnóstico de toda la vida comienza a ir a la iglesia para impresionarla. Sin embargo, un accidente de motocicleta lo deja preguntándose si puede usar su segunda oportunidad para ayudar a otros, lo que lo lleva a darse cuenta de que está destinado a ser un sacerdote católico.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/8qDJXJctjG8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/KQGQAwWOxbi02R3/P4dr3St.m1080pFix.yamil.mkv"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/n0zpdrokbr74em"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ibug57mpzmgo"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/hyajnd0o7ejc"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/rirtl12maxrj"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/352vzpggvzpv"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/0014z3sl370pg-y7"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/8qDJXJctjG8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/xqygXobYPockGlD"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/4n67owxqa7xz99"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/5ucztl7k6emc"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/p8uisyiebizr"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/bdpc1cr24mme"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/5d44jwpsrtb5"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/nz7qrgu2np223w7z"}</urlsolve>
 </item>
 
 
