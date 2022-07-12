@@ -7,13 +7,13 @@
 
 
 <item>
-<title>[COLOR white] El Hombre Del Norte[/COLOR][COLOR yellow] (2022) [COLOR aqua]*7,7[/COLOR]</title> 
-<genre>Accion, Aventura, Fantasia</genre>
+<title>[COLOR white] El hombre del norte [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.7[/COLOR]</title> 
+<genre>Acción,Aventura,Fantasía,Drama</genre>
 <year>2022</year>
-<thumbnail>https://www.themoviedb.org/t/p/original/rdx0bIkwxW3EHvWn5kxZBFUT1Am.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/xOMLQ0NypqxlEge75I7prBRvRbc.jpg</fanart>
-<info>El príncipe Amleth está a punto de convertirse en hombre pero, en ese momento, su tío asesina brutalmente a su padre y secuestra a la madre del niño. Dos décadas después, Amleth es un vikingo que tiene la misión de salvar a su madre.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/7HZ4tBQEiB0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/YVVZxkqXyghOvg"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/wwnkpbnydg8w5jp"}</urlsolve>
+<thumbnail>https://www.themoviedb.org/t/p/original/tzzukuu2v99m6aJecqagUGUZHhb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cqnVuxXe6vA7wfNWubak3x36DKJ.jpg</fanart>
+<info>The Northman es una próximapelícula de venganza histórica estadounidensedirigida por Robert Eggers , quien coescribió el guión con Sjón . Ambientada a principios del siglo X en Islandia , está protagonizada por Alexander Skarsgård como el príncipe nórdico Amleth , que busca venganza después del asesinato de su padre.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/p5RIXThyVwg"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/YOZLy8jeyvCvMWZ"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/xo4jqq14tlmrd7j"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/c8407fyypu2t"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/oeo00lid6y7y"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/voecvch5c4e5"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/p3t4b5aabihi"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/k3nk7gs3x54-yrkd"},{"titulo" : "[COLOR white]Drive 4K[/COLOR]","url" : "https://drive.google.com/file/d/183natw7yN9laOxVwfB2zymhwkbvN-2bM/view"}</urlsolve>
 </item>
 
 
