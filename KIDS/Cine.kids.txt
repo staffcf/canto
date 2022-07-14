@@ -3439,10 +3439,37 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <info>Nelly es una detective novata y Simon es un investigador de ciencia que deben trabajar juntos en una loca aventura para probar la existencia del Monstruo de las Nieves. Para lograr este objetivo Simon sigue el diario de un explorador desaparecido donde da la ubicacion de la guarida secreta de la criatura. Acompañados de Tenzig el guia y Jazzmin un pajaro parlanchin, estos heroes se enfrentan a una serie de peligros en los Himalayas mientras buscan a el legendario monstruo.</info>
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/swb7cxsthjik"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/d1n7jsxklqmj5y0"}</urlsolve>
 </item>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Familiar A2001, Letra M, Pixar, C1080, "
+<item>
+<title>[COLOR white]Monstruos S.A. [COLOR gold](2001)[/COLOR]</title>    
+<genre>Animacion,Comedia,Familia</genre>
+<year>2001</year>  
+<thumbnail>https://www.themoviedb.org/t/p/original/2TQyk1ycU2zSNakBg1A98kgYfZK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/t40nkG0EkX0pzpZzElomyzEYe7v.jpg</fanart>
+<info>Monsters Inc. es la mayor empresa de miedo del mundo, y James P. Sullivan es uno de sus mejores empleados. Asustar a los niños no es un trabajo fácil, ya que todos creen que los niños son tóxicos y no pueden tener contacto con ellos. Pero un día una niña se cuela sin querer en la empresa, provocando el caos.</info>
+<urlsolve>https://www.fembed.com/v/jndqjsdy56qyk53</urlsolve>
+</item>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Familiar A2013, Letra M, Pixar, C1080, "
+<item>
+<title>[COLOR white]Monstruos University [COLOR gold](2013)[/COLOR]</title>    
+<genre>Animacion,Comedia,Familia</genre>
+<year>2013</year>  
+<thumbnail>https://www.themoviedb.org/t/p/original/4rLfeHGIyDEQsqR22iajGSLFNME.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vumvjhBipZlCLF2rbscf647oi8P.jpg</fanart>
+<info>Desde que era pequeño, Mike Wazowski ha soñado con ser asustador y sabe que los mejores asustadores estudian en Monstruos University (MU). Pero durante su primer semestre en MU, los planes de Mike se desmoronan cuando se cruza con el listillo de James P. Sullivan, un asustador nato. El descontrolado espíritu competitivo de la pareja hace que los dos sean expulsados del programa de asustadores de la Universidad. Entonces se dan cuenta de que si quieren cumplir sus sueños, tienen que trabajar en equipo junto con un grupo de monstruos marginados.</info>
+<urlsolve>https://www.fembed.com/v/165g4ij7z3m4gq0</urlsolve>
+</item>
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-"Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, A2019, Letra S, EEUU, Paramount Pictures, C720, "
+"Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, A2019, Letra M, EEUU, Paramount Pictures, C720, "
 <item>
 <title>[COLOR white]Mr. Link. El origen perdido [COLOR pink](2019)[/COLOR]</title>    
 <genre>Animacion,Comedia</genre>
