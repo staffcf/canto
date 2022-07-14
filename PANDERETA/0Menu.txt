@@ -4793,6 +4793,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Resident Evil[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Resident.evil</externallink>
+<info>Casi treinta años después del descubrimiento del Virus T, un nuevo brote revela los secretos más oscuros de la Corporación Umbrella. Basada en la franquicia de terror.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/xdPpH7W1qYrMjAM02JxQkEY1g0f.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1k50DmtZCMlRnGWmEK5pRYT0dZ1.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Resident Evil: Oscuridad Infinita[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Resident.evil.oscuridad.infinita.txt</externallink>
