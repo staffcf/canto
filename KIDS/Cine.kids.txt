@@ -3231,6 +3231,19 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <info>El gallo Panchito, el loro Jose Carioca y el pato Donald protagonizan esta comedia musical en la que se combinan personajes reales con dibujos animados. Mucho ritmo, chicas guapas y diversion son los principales ingredientes. CS.</info>
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/c7qgih1cg9zq"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/gl4rji-8wqw426d"}</urlsolve>
 </item>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+"Tag= Malu3, Disney, 1Animacion, 1Familia, 1Accion, 1Aventura, 1Fantasia A2021, Letra L, Pixar, C1080, "
+
+<item>
+<title>[COLOR white]Luca [COLOR gold](2021)[/COLOR]</title>    
+<genre>Animacion,Familia,Fantasia,Comedia</genre>
+<year>2021</year>  
+<thumbnail>https://www.themoviedb.org/t/p/original/hP7wrk156euKSB2gGoPDBZijUoc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zdT9pVcXEKo2wpQb4HDPRWMQXvp.jpg</fanart>
+<info>Ambientada en un precioso pueblo costero de la Riviera italiana, narra la historia sobre el paso a la edad adulta de un chico que vive un verano inolvidable lleno de helados, pasta e infinitos paseos en scooter. Luca comparte estas aventuras con su nuevo mejor amigo, pero toda la diversión se ve amenazada por un secreto muy profundo: él es un monstruo marino de un mundo que yace bajo la superficie del agua.</info>
+<urlsolve>https://www.fembed.com/v/-46j3upd84nnyy5</urlsolve> 
+</item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 "Tag= Malu3, Disney, 1Animacion, 1Comedia, A2018, Letra L, Alemania, Extraterrestres, "
@@ -4256,7 +4269,7 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 </item>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Familia, 1Accion, 1Aventura, 1Fantasia A2021, Letra R, Disney, C720, "
+"Tag= Malu3, Disney, 1Animacion, 1Familia, 1Accion, 1Aventura, 1Fantasia A2021, Letra R, Disney, C1080, "
 
 <item>
 <title>[COLOR white]Raya Y El Ultimo Dragon [COLOR coral](2021)[/COLOR]</title>    
@@ -4266,6 +4279,19 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <fanart>https://www.themoviedb.org/t/p/original/97F4ZwxOW8aRm2fEqjDINq7J4iN.jpg</fanart>
 <info>Raya, una niña de gran espíritu aventurero, se embarca en la búsqueda del último dragón del mundo con el objetivo de devolver el equilibrio a Kumandra, un lejano y recóndito territorio habitado por una civilización milenaria.</info>
 <urlsolve>https://www.fembed.com/v/-8kl2bp86krx34-</urlsolve> 
+</item>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+"Tag= Malu3, Disney, 1Animacion, 1Familia, 1Accion, 1Aventura, 1Fantasia A2022, Letra R, Pixar, C1080, "
+
+<item>
+<title>[COLOR white]Red [COLOR gold](2022)[/COLOR]</title>    
+<genre>Animacion,Familia,Fantasia,Comedia</genre>
+<year>2022</year>  
+<thumbnail>https://www.themoviedb.org/t/p/original/hUupIkIKPpNLYniPGRxRpEQFrX3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iLe3xmol3XQeH1Devw3AydKIyYk.jpg</fanart>
+<info>Mei Lee, una niña de 13 años un poco rara pero segura de sí misma, se debate entre ser la hija obediente que su madre quiere que sea y el caos propio de la adolescencia. Ming, su protectora y ligeramente exigente madre, no se separa nunca de ella lo que es una situación poco deseable para una adolescente. Y por si los cambios en su vida y en su cuerpo no fueran suficientes, cada vez que se emociona demasiado (lo que le ocurre prácticamente todo el tiempo), se convierte en un panda rojo gigante.</info>
+<urlsolve>https://www.fembed.com/v/-46j3upd84nnyy5</urlsolve> 
 </item>
 
 ----------------------------------------------------------------------------------------------------------------------
