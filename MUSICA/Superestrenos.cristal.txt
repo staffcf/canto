@@ -5,6 +5,20 @@
 =======================================================================================
 
 
+
+
+
+<item>
+<title>[COLOR white] Escape Room: La Pel-licula  [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.9
+[/COLOR]</title> 
+<genre>Terror,Comedia,Suspense</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/bsT3usCK8nTFa6MMiysx2A6gTZX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7WcwKFjhHjMobnlsfFUIpj3b4F7.jpg</fanart>
+<info>Dos parejas de amigos de toda la vida quedan para ir a un escape room en el barrio de Lavapiés, donde recientemente ha aparecido en un contenedor el cadáver de un hombre descuartizado. Los cuatro amigos piensan que les espera un juego divertido para pasar la tarde, poner a prueba su inteligencia y echarse unas risas. Pero según entran, la puerta de la habitación se cierra herméticamente, comieza la cuenta atrás y empiezan a pasar cosas extrañas.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/D_wICHWhYSI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/deq685axzr61jqj8"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/l6197z9waed9np"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/cqt1dibarciu"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/984muf7kerls"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/g5y93s5t8520"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/banned"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/zX2W8Lpgomueqv"}</urlsolve>
+</item>
+
 <item>
 <title>[COLOR white]Catalan Version Escape Room: La Pellicula [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.9[/COLOR]</title> 
 <genre>Terror,Comedia,Suspense</genre>
