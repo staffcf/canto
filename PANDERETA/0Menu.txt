@@ -1068,6 +1068,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Dark money[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Dark.money</externallink>
+<info>La familia de un niño abusado, acepta el soborno de un famoso director de cine, para permanecer en silencio.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/sYCOQbb7bXra6BMgV8HQfNO1YNu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xnDlsAAZdf4OhcYcd6yjww6OVAH.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Darknet[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Darknet</externallink>
@@ -2642,6 +2651,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 <info>Chloé Fisher, brillante criminóloga parisina, es transferida a Lyon para investigar la muerte de Adeline Moreau, nuera del poderoso diputado local Damien Moreau. El asesino es Paul Brodsky, un ejemplar padre de familia libre de toda sospecha, quien ya está planeando su próximo crimen.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/pl2CCP0C7NHBvR0MqjCbXbZIL5t.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/xjrC2Ea2SncRY4e2IDkeRBrTZw1.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Intergalactic[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Intergalactic</externallink>
+<info>La historia de Ash Harper, un joven policía valiente y piloto galáctico, a quien le arrebatan su brillante carrera después de haber sido condenada por error por un crimen de traición y exiliada a una lejana colonia carcelaria.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/pxtylIr9GtwjdFamhMQzi9go8TO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jPOyHYEy1a5HV1nRvioUWY8lh83.jpg</fanart>
 </item>
 
 <item>
@@ -4477,6 +4495,15 @@ Este caso se convierte en parte importante de la vida de ambos detectives, llega
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Por Mandato Del Cielo[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Por.mandato.del.cielo</externallink>
+<info>La fe de un devoto detective se pone a prueba mientras investiga un brutal asesinato que parece estar relacionado con la espiral de una estimada familia de Utah hacia el fundamentalismo SUD y su desconfianza en el gobierno.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/gKyXUkyKRg9LdZzZWRzk0eKD5HJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hCGCI1JHG0Rtp3mshQsMDnAhUZc.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Por que Matan Las Mujeres[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Por.que.matan.a.las.mujeres.xml</externallink>
@@ -6147,6 +6174,15 @@ Ruawai Maaka consiguen deshacerse del demonio y así nace la Unidad Paranormal d
 <info>6 episodios. Bill Hixon ha sido el mejor jefe de policía metropolitana de Estados Unidos durante tres años consecutivos. Buscando un nuevo reto, se establece en Boston, en el condado de Lincolnshire (Inglaterra), con su hija Kelsey, de 14 años, y la esperanza de poder huir de su doloroso pasado reciente. Pero esta comunidad para él desconocida obligará a Bill a cuestionarse todo sobre sí mismo y le hará preguntarse si es Boston quien necesita a Bill, o si es Bill quien necesita de Boston.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/qIvBbZ1yq3tzIXKqhU3VxYPbizF.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/odsxbvsSi0tv3bI37b5gtU0BWen.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Whos By Your Side[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Whos.by.your.side</externallink>
+<info>La historia se centra en los problemas que enfrentan tanto hombres como mujeres en la vida matrimonial.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/2S9zXxgX2op0mSyFiEvnTeA3KUQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mJqI5I96blPkslNHVzhAkHoXFtd.jpg</fanart>
 </item>
 
 <item>
