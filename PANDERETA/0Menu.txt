@@ -1934,6 +1934,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El Vikingo:Historia De Un Narco[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.vikingo.historia.de.un.narco</externallink>
+<info>4 episodios. Cuenta la historia real del traficante de drogas más grande de Europa. Un hombre que lo tenía todo pero lo pagó con aún más, perdiendo lo que más le importaba: su familia. Cuando era niño, Claus Malmqvist era un chico hambriento de una vida fuera de lo común. Acostumbrado a ver a su padre contador trabajar incansablemente a través de años de monotonía de cuello blanco solo para mantener a la familia. Malmqvist vio otro camino, otro mundo y otra vida, una ilimitada con posibilidades.</info>
+<thumbnail>https://i.imgur.com/wwdxIyt.jpg</thumbnail>
+<fanart>https://i.imgur.com/oP1vKcM.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El Visitante[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.visitante</externallink>
