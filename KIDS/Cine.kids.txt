@@ -518,6 +518,18 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/5cp1svgjui0d"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/7lg1pigp68qdpll"}</urlsolve>
 </item>
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+"Tag= Malu3, Disney, 1Aventura, 1Animacion 1Familia, 1Comedia, DreamWorks Letra B, A2007 "
+<item>
+<title>[COLOR white]Bee Movie [COLOR gold](2007)[/COLOR]</title>    
+<genre>Aventura,Animacion,Comedia,Familia</genre>
+<year>2007</year>  
+<thumbnail>https://www.themoviedb.org/t/p/original/AiaVAIc9KsYsNkAFNGiHtmmoZ2d.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hcGPrl9xIvS75IYxcqpeYiIUmSF.jpg</fanart>
+<info>Una abeja llamada Barry B. Benson (Jerry Seinfeld) acaba de graduarse en la Universidad, pero le invade la desilusión cuando comprende que solo tiene una opción profesional, la miel. Sale por primera vez de la colmena y transgrede una de las reglas cardinales del mundo de las abejas al hablar con un ser humano, una florista de Nueva York llamada Vanessa (Renée Zellweger). Se queda atónito al descubrir que los humanos llevan siglos robando la miel de las abejas y entiende que su auténtica vocación es restablecer el orden de las cosas y demandar a las raza humana por robar la miel.</info>
+<urlsolve>https://www.fembed.com/v/165g4ij7565ndmx</urlsolve>
+</item>
+
 ----------------------------------------------------------------------------------------------------------------------
  
 "Tag= Malu3, Disney, 1Familiar, 1Drama, Disney, A2020, Letra B " 
@@ -2475,13 +2487,50 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 "Tag= Malu3, Disney, 1Animacion, 1Fantastico, 1Aventuras, A2018, Letra K, C720, "
 
 <item>
-<title>[COLOR white] Kubo y las dos cuerdas magicas [/COLOR][COLOR gold](2018)[/COLOR]</title>    
+<title>[COLOR white]Kubo y las dos cuerdas magicas [/COLOR][COLOR gold](2018)[/COLOR]</title>    
 <genre>Animación,Fantástico,Aventuras</genre>
 <year>2018</year>  
 <thumbnail>https://www.themoviedb.org/t/p/original/b9L5BomkYAHwiRaVNp14WibZhHs.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/AfYtIbyattunmLoTBnGCSMCqpGf.jpg</fanart>
 <info>Kubo vive tranquilamente en un pequeño y normal pueblo hasta que un espíritu del pasado vuelve su vida patas arriba, al reavivar una venganza. Esto causa en Kubo multitud de malos tragos al verse perseguido por dioses y monstruos. Si de verdad Kubo quiere sobrevivir, antes debe localizar una armadura mágica que una vez fue vestida por su padre, un legendario guerrero samurái.<info>
 <urlsolve>https://www.fembed.com/v/kx4-1i31glp7rpk</urlsolve>
+</item>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+"Tag= Malu3, Disney, 1Aventura, 1Animacion 1Familia, 1Comedia, DreamWorks Letra K, A2008 "
+<item>
+<title>[COLOR white]Kung-Fu Panda [COLOR gold](2008)[/COLOR]</title>    
+<genre>Accion,Aventura,Animacion,Comedia,Familia</genre>
+<year>2008</year>  
+<thumbnail>https://www.themoviedb.org/t/p/original/wzOERnvuM3c2mbAvCu5pw1QIaZX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e45Z6QREa3PptqUfApiqaMoK2dq.jpg</fanart>
+<info>El protagonista es un oso panda llamado Po, el más vago de todas las criaturas del Valle de la Paz. Con poderosos enemigos acercándose, la esperanza es depositada en una antigua profecía que dice que un héroe se alzará para salvarles. Voces originales de Jack Black, Angelina Jolie, Dustin Hoffman, Lucy Liu & Jackie Chan.</info>
+<urlsolve>https://www.fembed.com/v/zdn2mtjq6557rdq</urlsolve>
+</item>
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+"Tag= Malu3, Disney, 1Aventura, 1Animacion 1Familia, 1Comedia, DreamWorks Letra K, A2012 "
+<item>
+<title>[COLOR white]Kung-Fu Panda 2 [COLOR gold](2012)[/COLOR]</title>    
+<genre>Accion,Aventura,Animacion,Comedia,Familia</genre>
+<year>2012</year>  
+<thumbnail>https://www.themoviedb.org/t/p/original/oDoxqekgain7WEHjoBN8BZIY6dY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1CIdVBqPLQYWhrZWP8RjVFRh7WV.jpg</fanart>
+<info>Po está ahora viviendo su sueño como el Guerrero del Dragón, protegiendo el Valle de la Paz junto a sus amigos y sus compañeros maestros del kung fu. Los Cinco Furiosos. Pero su nueva e impresionante vida se encuentra amenazada por la aparición de un villano formidable, que planea usar un arma secreta imparable para conquistar China y destruir el kung fu. Po debe volver la vista a su pasado para descubrir los secretos de su misterioso origen; solo entonces podrá adquirir la fuerza que necesita para vencer.</info>
+<urlsolve>https://www.fembed.com/v/m6pqji5g3rrlxg4</urlsolve>
+</item>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+"Tag= Malu3, Disney, 1Aventura, 1Animacion 1Familia, 1Comedia, DreamWorks Letra K, A2012 "
+<item>
+<title>[COLOR white]Kung-Fu Panda 3 [COLOR gold](2012)[/COLOR]</title>    
+<genre>Accion,Aventura,Animacion,Comedia,Familia</genre>
+<year>2012</year>  
+<thumbnail>https://www.themoviedb.org/t/p/original/vqHsSYIof8UHoOGCzEqGg89Zbtj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/AlOBVOjEZh1YvpYojcLCAVZqBkT.jpg</fanart>
+<info>Cuando el durante mucho tiempo perdido padre de Po aparece de repente, el dúo ya reunido viaja a un paraíso secreto de pandas para conocer a montones de nuevos e hilarantes osos. Pero cuando el villano sobrenatural Kai comienza a recorrer toda China venciendo a todos los maestros de kung fu, Po deberá hacer lo imposible: aprender a entrenar a una comunidad repleta de divertidos y torpes hermanos para formar el equipo definitivo de Kung Fu Pandas.</info>
+<urlsolve>https://www.fembed.com/v/ez-djt-ml06x7p2</urlsolve>
 </item>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -3316,6 +3365,43 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Cuenta la historia de un niño de 11 años que hace amistad con tres adorables alienigenas, que estrellan su OVNI en su casa. A cambio de la ayuda de Luis para encontrar el material que compraron para buscar volver a su hogar, salvan a Luis de un internado, siguiendo una emocionante aventura.</info>
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/of2chw2vin1y"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/x386ki5j2j68dmx"}</urlsolve>
+</item>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+"Tag= Malu3, Disney, 1Animacion 1Familia 1Aventura, 1Comedia, DreamWorks Letra M, A2005 "
+<item>
+<title>[COLOR white]Madagascar [COLOR gold](2005)[/COLOR]</title>    
+<genre>Aventura,Animacion,Comedia,Familia</genre>
+<year>2005</year>  
+<thumbnail>https://www.themoviedb.org/t/p/original/a4SnZNmNR4NfRe26Nj9IzaESZoz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2WLZi8563nJGSF8O3ay6cUT7L6e.jpg</fanart>
+<info>Cuenta la historia de cuatro divertidos animales del zoo de Central Park, Nueva York, (Alex el león, Marty la cebra, Gloria la hipopótamo y Melman la jirafa). Llevan toda su vida encerrados en cautividad sin poder experiemtnar el sabor de la libertad y se han propuesto idear un plan para salir de allí juntos. Un día, una serie de casualidades les llevan a lograr lo que tanto ansiaban y huyen de aquel lugar. Terminan en plena naturaleza, concretamente en la idílica isla de Madagascar. Allí descubrirán, a base de apasionantes aventuras, que la vida salvaje es muy diferente a lo que ellos pensaban y que vivir en libertad no es tan fácil como imaginaban.</info>
+<urlsolve>https://www.fembed.com/v/41ygdszqyg1k8lr</urlsolve>
+</item>
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+"Tag= Malu3, Disney, 1Animacion 1Familia 1Aventura, 1Comedia, DreamWorks Letra M, A2008 "
+<item>
+<title>[COLOR white]Madagascar 2 [COLOR gold](2008)[/COLOR]</title>    
+<genre>Aventura,Animacion,Comedia,Familia</genre>
+<year>2008</year>  
+<thumbnail>https://www.themoviedb.org/t/p/original/9lfNdHVfd37R1GszeH5ZcWzkb14.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/BwQhyfwuuOsq7mwvRaEX4rJQTV.jpg</fanart>
+<info>Alex, Marty, Melman, Gloria, el rey Julien, Maurice, los pingüinos y los chimpancés se encuentran abandonados en las remotas playas de Madagascar. Para superar este obstáculo, los neoyorquinos han ideado un plan tan loco que puede que funcione. Con precisión militar, los pingüinos han reparado (bueno, casi) un viejo aeroplano accidentado. Una vez que despega el primer vuelo de la compañía Aerolíneas Pingüino, la insólita tripulación consigue permanecer en vuelo el tiempo suficiente como para llegar al lugar más salvaje de todos: las inmensas llanuras africanas, en donde los miembros de nuestro grupo de animales criados en el zoo de Nueva York se encontrarán por primera vez con miembros de su especie. África parece un sitio genial, pero… ¿es mejor que su hogar en Central Park?</info>
+<urlsolve>https://www.fembed.com/v/-8kl2bp8kz-rrem</urlsolve>
+</item>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+"Tag= Malu3, Disney, 1Animacion 1Familia 1Aventura, 1Comedia, DreamWorks Letra M, A2012 "
+<item>
+<title>[COLOR white]Madagascar 3:De Marcha Por Europa [COLOR gold](2012)[/COLOR]</title>    
+<genre>Aventura,Animacion,Comedia,Familia</genre>
+<year>2012</year>  
+<thumbnail>https://www.themoviedb.org/t/p/original/l7d5JCkwvGrqiQcppobohXYnjxt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dN2euH7H9XXHeieeExRwpVtf7KB.jpg</fanart>
+<info>En su tercera aventura fuera del zoológico de Nueva York, Alex, Marty, Melman y Gloria viajan a Europa con el propósito de encontrar a los monos y a los pingüinos en Monte Carlo; sin embargo, ellos terminan formando parte de un circo rodante en el que hacen nuevos amigos mientras tratan de escapar de Chantal Dubois, jefa de la policía de Control de Animales en Europa, quien desea obtener la cabeza de Alex para su colección.</info>
+<urlsolve>https://www.fembed.com/v/8yng1a84ln8zp6x</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Fantastico, A2020, Letra M, EEUU, Secuela, Disney, C720, "
@@ -4326,6 +4412,18 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Remy es una simpatica rata que sueña con convertirse en un gran chef frances a pesar de la oposicion de su familia y del problema evidente que supone ser una rata en una profesion que detesta a los roedores. El destino lleva a Remy a las alcantarillas de Paris, donde su situacion no puede ser mejor, ya que se encuentra justo debajo de un restaurante que se ha hecho famoso gracias a Auguste Gusteau, una estrella de la nouvelle cuisine. A pesar del peligro que representa ser un visitante poco comun (y desde luego nada deseado) en los fogones de un exquisito restaurante frances, la pasion de Remy por la cocina pone patas arriba el mundo culinario parisino en una trepidante y emocionante aventura. </info>
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/bv9x7o3aebtl"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/nd1ejt242p7817w"}</urlsolve>
+</item>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+"Tag= Malu3, Disney, 1Aventura, 1Animacion 1Familia, 1Comedia, DreamWorks Letra R, A2006 "
+<item>
+<title>[COLOR white]Ratonpolis [COLOR gold](2006)[/COLOR]</title>    
+<genre>Aventura,Animacion,Comedia,Familia</genre>
+<year>2006</year>  
+<thumbnail>https://www.themoviedb.org/t/p/original/r7l8CUoSsXP2N1KUndZzVsrpXrd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/b1LDW85L0K48np6K7fkEiFsViYk.jpg</fanart>
+<info>No cabe duda de que Roddy es una "rata de la alta sociedad" que vive como un rey en un piso de Kensington atendido por dos mayordomos, los hámsteres Gilbert y Sullivan. Pero cuando una vulgar rata de alcantarilla llamada Sid aparece por la pila de la cocina y decide que esto es jauja, a Roddy no le queda más remedio que deshacerse del intruso atrayéndole hacia el "remolino".</info>
+<urlsolve>https://www.fembed.com/v/l3rqjin8wd1rmkn</urlsolve>
 </item>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -5481,6 +5579,18 @@ https://watchsb.com/e/42jjco93zb4v
 <fanart>https://3.bp.blogspot.com/-ngYVYtz1fPY/WgiGGT5rLUI/AAAAAAAAAs8/E8dsa3f0y3AMYDYc26xtHs9-r16Ywf0MACLcBGAs/s1600/Vaiana-735852899-large.jpg</fanart>
 <info>La historia se desarrolla hace dos milenios en unas islas del sur del Pacifico. La protagonista es Vaiana Waialiki, una joven que desea explorar el mundo navegando por el oceano. Ella es la unica hija de un importante capitan que pertenece a una familia con varias generaciones de marinos.CS.</info>
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/p3mn71zdvtgq"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/ez-djt-7e662znx"}</urlsolve>
+</item>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+"Tag= Malu3, Disney, 1Animacion 1Familia, 1Comedia, DreamWorks Letra V, A2006 "
+<item>
+<title>[COLOR white]Vecinos Invasores [COLOR gold](2006)[/COLOR]</title>    
+<genre>Animacion,Comedia,Familia</genre>
+<year>2006</year>  
+<thumbnail>https://www.themoviedb.org/t/p/original/5lHMB2jwlQV43RBfT5g3BRGN0Tm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5M6PpkYz9DDqLaDRt7hoZ6dbJJm.jpg</fanart>
+<info>Cuando R.J. (un travieso mapache estafador), Verne (una tímida tortuga), y sus amigos del bosque descubren que alguien ha construido unas casas en su territorio, la primera reacción de la tortuga es meterse en su caparazón y retroceder, pero el mapache oportunista se da cuenta de las posibilidades que ofrecen sus nuevos e ingenuos vecinos. Verne y R.J. formarán una inesperada asociación mientras aprenden a coexistir con este extraño mundo llamado “urbanización”, e incluso a explotarlo.</info>
+<urlsolve>https://www.fembed.com/v/41ygdszqyj41nnx</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
