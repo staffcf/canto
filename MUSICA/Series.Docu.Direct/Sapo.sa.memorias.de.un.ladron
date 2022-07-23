@@ -19,7 +19,7 @@ from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
 import six
 TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
-url = 'https://pastebin.com/raw/'
+url = 'https://pastebin.com/raw/HnYUUUsM'
 titulo = 'Sapo SA Memorias De Un Ladron'
 import base64, codecs
 
