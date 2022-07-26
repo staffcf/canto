@@ -2311,7 +2311,7 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://watchsb.com/e/mfqhdas2gpqs"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/y6g7ziexpmx2727"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Fantastico, A2018, Letra H, EEUU, "
+"Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Fantastico, A2022, Letra H, EEUU, "
 <item>
 <title>[COLOR white]Hotel Transilvania 4 Transformania [COLOR gold](2022)[/COLOR]</title> 
 <genre>Animacion, Comedia,Fantastico</genre>
@@ -2320,6 +2320,30 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <fanart>https://www.themoviedb.org/t/p/original/ur19n7Zabzf7wfhK4MrlFDJiZPI.jpg</fanart>
 <info>Drac y la pandilla vuelven, como nunca los habías visto antes en Hotel Transilvania: Transformanía. Volveremos a encontrarnos con nuestros monstruos favoritos en una aventura completamente nueva en la que Drac se enfrentará a una de las situaciones más aterradoras vividas hasta el momento. Cuando el misterioso invento de Van Helsing, el "Rayo Monstrificador", se vuelve totalmente fuera de control, Drac y sus monstruosos amigos se transforman en humanos, ¡y Johnny se convierte en un monstruo!</info>
 <urlsolve>https://www.fembed.com/v/6q8grh0r8ldj1ln</urlsolve>
+</item>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+"Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Familia, 1Aventura A2002, Letra I, EEUU, "
+<item>
+<title>[COLOR white]Ice Age:La Edad De Hielo [COLOR gold](2002)[/COLOR]</title> 
+<genre>Animacion,Comedia,Familia,Aventura</genre>
+<year>2002</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/7u2LiFrV0wJ4heTMh5HjeCkII3f.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bPBiJSwVH0aLmESTkA8DBWshVxj.jpg</fanart>
+<info>Hace muchos, muchos años, tantos como 20.000, una pequeña ardirata de nombre Scrat quería esconder una bellota en el hielo. Pero lo que hace es provocar una semicatástrofe que provoca que todos los animales migren hacia el sur, hacia tierras más cálidas. Bueno, lo que se dice todos, todos, no. Porque hay uno que lleva la contraria: se trata del mamut Manfred, un auténtico lobo solitario vagabundo y soberbio que va hacia el norte sólo porque los demás están yendo hacia el sur.</info>
+<urlsolve>https://www.fembed.com/v/ez-djt-m7n8nyl2</urlsolve>
+</item>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+"Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Familia, 1Aventura A2006, Letra I, EEUU, "
+<item>
+<title>[COLOR white]Ice Age 2:El Deshielo [COLOR gold](2006)[/COLOR]</title> 
+<genre>Animacion,Comedia,Familia,Aventura</genre>
+<year>2006</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/s0GVfNjiPixSVctc4TLowUqZiCa.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gIEkfAMdIXU6inZdHyt5HXqeMMy.jpg</fanart>
+<info>¡Tus héroes favoritos han vuelto con otra magnífica aventura en esta gélida secuela del magnífico éxito mundial Ice Age! Y esta vez la cosa se calienta como la temperatura ambiente para Manny, Sid, Diego y Scrat, que abandonan su valle para escapar a una auténtica inundación de problemas y emprenden un divertidísimo viaje por un paisaje en pleno deshielo durante el cual conocen a Ellie.</info>
+<urlsolve>https://www.fembed.com/v/jndqjsdyzgm5l8q</urlsolve>
 </item>
 
 ----------------------------------------------------------------------------------------------------------------------
