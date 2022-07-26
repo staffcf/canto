@@ -2325,7 +2325,7 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Familia, 1Aventura A2002, Letra I, EEUU, "
 <item>
-<title>[COLOR white]Ice Age:La Edad De Hielo [COLOR gold](2002)[/COLOR]</title> 
+<title>[COLOR white]Ice Age: La Edad De Hielo [COLOR gold](2002)[/COLOR]</title> 
 <genre>Animacion,Comedia,Familia,Aventura</genre>
 <year>2002</year>
 <thumbnail>https://www.themoviedb.org/t/p/original/7u2LiFrV0wJ4heTMh5HjeCkII3f.jpg</thumbnail>
@@ -2337,13 +2337,25 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Familia, 1Aventura A2006, Letra I, EEUU, "
 <item>
-<title>[COLOR white]Ice Age 2:El Deshielo [COLOR gold](2006)[/COLOR]</title> 
+<title>[COLOR white]Ice Age 2: El Deshielo [COLOR gold](2006)[/COLOR]</title> 
 <genre>Animacion,Comedia,Familia,Aventura</genre>
 <year>2006</year>
 <thumbnail>https://www.themoviedb.org/t/p/original/s0GVfNjiPixSVctc4TLowUqZiCa.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/gIEkfAMdIXU6inZdHyt5HXqeMMy.jpg</fanart>
 <info>¡Tus héroes favoritos han vuelto con otra magnífica aventura en esta gélida secuela del magnífico éxito mundial Ice Age! Y esta vez la cosa se calienta como la temperatura ambiente para Manny, Sid, Diego y Scrat, que abandonan su valle para escapar a una auténtica inundación de problemas y emprenden un divertidísimo viaje por un paisaje en pleno deshielo durante el cual conocen a Ellie.</info>
 <urlsolve>https://www.fembed.com/v/jndqjsdyzgm5l8q</urlsolve>
+</item>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+"Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Familia, 1Aventura A2006, Letra I, EEUU, "
+<item>
+<title>[COLOR white]Ice Age 3: El Origen De Los Dinosaurios [COLOR gold](2009)[/COLOR]</title> 
+<genre>Animacion,Comedia,Familia,Aventura</genre>
+<year>2009</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/7BAJh4R1pdSxvZO7JeV4PmDXjcY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gVz9Rg8GwmPa2ANCrTWVKrtgqZl.jpg</fanart>
+<info>Tercera parte de las aventuras de Diego, Scrat y compañía. En esta ocasión, les tocará lidiar con varios dinosaurios. Scrat sigue intentando apoderarse de la muy escurridiza bellota; Manny y Ellie esperan el nacimiento de su mini-mamut; Sid, el perezoso, se mete en un buen lío al formar de repente una familia propia tras encontrarse unos huevos de dinosaurio.</info>
+<urlsolve>https://www.fembed.com/v/nd1ejt2n4m23ee2</urlsolve>
 </item>
 
 ----------------------------------------------------------------------------------------------------------------------
