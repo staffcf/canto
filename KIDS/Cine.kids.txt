@@ -2347,7 +2347,7 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 </item>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Familia, 1Aventura A2006, Letra I, EEUU, "
+"Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Familia, 1Aventura A2009, Letra I, EEUU, "
 <item>
 <title>[COLOR white]Ice Age 3: El Origen De Los Dinosaurios [COLOR gold](2009)[/COLOR]</title> 
 <genre>Animacion,Comedia,Familia,Aventura</genre>
@@ -2356,6 +2356,44 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <fanart>https://www.themoviedb.org/t/p/original/gVz9Rg8GwmPa2ANCrTWVKrtgqZl.jpg</fanart>
 <info>Tercera parte de las aventuras de Diego, Scrat y compañía. En esta ocasión, les tocará lidiar con varios dinosaurios. Scrat sigue intentando apoderarse de la muy escurridiza bellota; Manny y Ellie esperan el nacimiento de su mini-mamut; Sid, el perezoso, se mete en un buen lío al formar de repente una familia propia tras encontrarse unos huevos de dinosaurio.</info>
 <urlsolve>https://www.fembed.com/v/nd1ejt2n4m23ee2</urlsolve>
+</item>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+"Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Familia, 1Aventura A2012, Letra I, EEUU, "
+<item>
+<title>[COLOR white]Ice Age 4: La Formacion De Los Continentes [COLOR gold](2012)[/COLOR]</title> 
+<genre>Animacion,Comedia,Familia,Aventura</genre>
+<year>2012</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/qYiZOCXkOYtYfolUUdJKoZ8xPsL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kyTlMMVWo1GffYoQctZwLqJcwaj.jpg</fanart>
+<info>La loca persecución de Scrat por su escurridiza bellota desde el principio de los tiempos, tiene consecuencias que cambiarán el mundo: un cataclismo continental que desencadenará la mayor de las aventuras para Manny, Diego y Sid. En medio de estas agitaciones, Sid se reencuentra con su Abuelita Gruñona y la manada tropieza con una extraña cuadrilla de piratas de altamar decididos a impedirles su regreso a casa.</info>
+<urlsolve>https://www.fembed.com/v/ez-djt-m72002q4</urlsolve>
+</item>
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+"Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Familia, 1Aventura A2016, Letra I, EEUU, "
+<item>
+<title>[COLOR white]Ice Age: El Gran Cataclismo [COLOR gold](2016)[/COLOR]</title> 
+<genre>Animacion,Comedia,Familia,Aventura</genre>
+<year>2016</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/wjgvznDSs2YZI0pr0dEe0NzDI7d.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rouLl5x50P6FUwmLkE8HWJrhR6n.jpg</fanart>
+<info>En la nueva historia veremos a Scrat y su mítica bellota en el espacio, donde accidentalmente desencadenará una serie de acontecimientos que amenazarán la Edad de Hielo. Para salvarse, Sid, Manny, Diego y el resto de la manada deberán salir de su hogar y embarcarse en una aventura llena de comedia y aventuras, viajando por tierras exóticas donde se encontrarán con nuevos y peculiares personajes.</info>
+<urlsolve>https://www.fembed.com/v/41ygdszqdxe1gjy</urlsolve>
+</item>
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+"Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Familia, 1Aventura A2022, Letra I, EEUU, "
+<item>
+<title>[COLOR white]Ice Age: Las Aventuras De Buck [COLOR gold](2022)[/COLOR]</title> 
+<genre>Animacion,Comedia,Familia,Aventura</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/iJDPnoZ7IafVxrxq0qRUsoBINoR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eG0oOQVsniPAuecPzDD1B1gnYWy.jpg</fanart>
+<info>Continúa contando las hilarantes aventuras de uno de los mamíferos favoritos de la prehistoria. Tras un distanciamiento con su hermana mayor, Ellie, los hermanos Crash y Eddie parten a la búsqueda de un lugar propio, pero rápidamente acaban atrapados en una caverna subterránea. El aventurero Buck Wild acudirá a su rescate y juntos, tendrán que enfrentarse a los dinosaurios del Mundo Perdido.</info>
+<urlsolve>https://www.fembed.com/v/ez-djt-m774l8-m</urlsolve>
 </item>
 
 ----------------------------------------------------------------------------------------------------------------------
@@ -4930,7 +4968,7 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-"Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, A2019, Letra S, EEUU, Paramount Pictures, C720, "
+"Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, A2012, Letra S, EEUU, Paramount Pictures, C720, "
 <item> 
 <title>[COLOR white]Spirit, El Corcel Indomable [COLOR coral](2002)[/COLOR]</title> 
 <genre>Valor de la amistad, respeto a los animales</genre> 
