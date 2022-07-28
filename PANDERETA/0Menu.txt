@@ -59,6 +59,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]61st Street[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/61st.street</externallink>
+<info>Moses Johnson es un atleta de secundaria prometedor con un futuro brillante que está acusado de asesinar a un oficial de policía durante una redada de drogas que salió mal. Arrastrado al infamemente corrupto sistema de justicia penal de Chicago, el caso de Moses es asumido por el anciano defensor público Franklin Roberts, quien ve esta como su oportunidad de desafiar finalmente el racismo institucional en el corazón del sistema judicial.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/4Y0979GAXgFNsIxN2jsXokb8o5e.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jz1LLeDhBCZFRQwh9J5cqz6PQmZ.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]9-1-1[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/9-1-1.xml</externallink>
@@ -903,6 +912,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 <info>How I Met Your Mother. Exitosa serie de la CBS que, en su primera temporada, obtuvo excelentes índices de audiencia además de ganar dos premios Emmy: uno a la dirección artística y otro a la fotografía. En el año 2030, Ted (Josh Radnor) relata a sus dos hijos adolescentes cómo conoció a su madre y cómo fue su vida hasta que, por fin, encontró el amor verdadero. Todo empezó cuando Marshall (Jason Segel), su mejor amigo, decidió casarse con Lily (Alyson Hannigan), su novia de toda la vida. Entonces Ted decidió lanzarse a la búsqueda del amor verdadero y formar una familia. Para conseguirlo contó con el apoyo de su amigo Barney (Neil Patrick Harris), un joven algo extravagante y muy hábil para conocer mujeres. Cuando, por fin, Ted conoce a Robin (Cobie Smulders), una impresionante joven canadiense que acaba de mudarse a Nueva York, está completamente seguro de que es amor a primera vista, pero el destino aún puede depararle muchas sorpresas.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/2MG62Uxko98NRE9nvkLtkiAZDpR.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/y9IbkXUcY3QsbdNFuFQWLdYw32n.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Como Mandarlo Todo A La Mierda[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Como.mandarlo.todo.a.la.mierda</externallink>
+<info>Un grupo de amigos se lanzan a la carretera sin rumbo fijado. El viaje no tiene destino, pero en ese trayecto puede que acaben encontrándose a sí mismos.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/8GLjiInqDKL65aikTOIcOkdIzUN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qvfV4npLGPySyBpyDaIMcA8x7vC.jpg</fanart>
 </item>
 
 <item>
@@ -2609,6 +2627,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Impuros[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Impuros</externallink>
+<info>Río de Janeiro, durante la década de los 90. Evandro sueña con convertirse en un gran hombre de negocios, pero termina ingresando al mundo del crimen y haciendo de su organización criminal un imperio. Sus habilidades comerciales y de liderazgo llaman la atención de Morello, un policía federal con un comportamiento autodestructivo que ve en Evandro a un digno enemigo. Dos estrategas que comparten el amor por el peligro. Comienza la cacería.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/leHugSOjrC26eZJmOLu9mUnAlai.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/h2NRVsBUD8bBHhpOF8KAodo5A97.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]In My Skin[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/In.my.skin</externallink>
@@ -2714,6 +2741,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 <info>10 episodios. Un ataque alienígena que afecta a toda la Tierra se muestra desde el punto de vista de personajes desperdigados por diferentes continentes.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/y02TXn2JjP77Bszc3ffEstwfZ2E.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/xYztm6m1ct8A7MVoNoJ6vSV50km.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Irma Vep[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Irma.vep</externallink>
+<info>Una estrella del cine estadounidense, desilusionada por su carrera y por una reciente ruptura, llega a Francia para protagonizar el papel de 'Irma Vep' en un remake del clásico de cine mudo 'Les Vampires'.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/8zVLgSofSRs8ZeS3RaA7H6eyXVK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rjuGk0WlFIxtyJu2A22MC97Y18q.jpg</fanart>
 </item>
 
 <item>
@@ -4176,6 +4212,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 <info>On My Block, co-creado por Lauren Iungerich (creador de Awkward) y Eddie Gonzalez y Jeremy Haft, es una comedia sobre la madurez de cuatro amigos brillantes y conocedores de la calle que navegan a través del triunfo, el dolor y la novedad de la alta escuela ubicada en el áspero centro de la ciudad.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/aFHmGVDNLFmhLjDNbFuMSBOxUv5.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/uGYSKa349qWpNV6WgcdOhSTmX1P.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]On The Job[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/On.the.job</externallink>
+<info>La serie se centra en los sindicatos del crimen que liberan temporalmente a los presos contratados para llevar a cabo asesinatos políticos para quienes están en el poder, excepto que los sindicatos del crimen están dirigidos por políticos. La serie también pone de relieve la situación del mundo real con respecto a las noticias falsas y la facilidad con la que se puede fabricar y difundir la verdad al público en la era actual de la información.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/9rsOWD147HMtwbnUV4kI0vge1iD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3JDSZi9Byeigi3b3UX7gjFJXce3.jpg</fanart>
 </item>
 
 <item>
