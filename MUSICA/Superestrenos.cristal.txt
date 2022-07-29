@@ -9,6 +9,18 @@
 
 
 <item>
+<title>[COLOR white] Todo A La Vez En Todas Partes [/COLOR][COLOR yellow] (2022) [COLOR aqua]*8,3[/COLOR]</title> 
+<genre>Accion,Aventura,Ciencia Ficcion</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/9FHEtQPiWw979Vws99OKDUKzS30.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/c96Ut9dzCm2PTGTxtA9JlvCbhj3.jpg</fanart>
+<info>Una anciana inmigrante china se ve envuelta en una loca aventura, donde solo ella puede salvar lo que es importante para ella al conectarse con las vidas que podría haber llevado en otros universos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/U3cKYWgl2dU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/wV93yKPy14iJ3qL/Todo_a_la_vez_en_todas_partes.1080.%282022%29_.mkv
+"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/61mepka02lk5rn4w"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Ojos De Fuego [/COLOR][COLOR yellow] [COLOR aqua]*6,0[/COLOR]</title> 
 <genre>Suspense,Ciencia Ficcion</genre>
 <year>2022</year>
