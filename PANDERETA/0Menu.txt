@@ -293,6 +293,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Apariencias[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Apariencias</externallink>
+<info>A causa de un grave traumatismo en la cabeza, Sophie sufre pérdida de memoria. En su intento por recomponer su vida, con ayuda de su marido y amigos, Sophie empieza a cuestionarse si, de verdad, su vida era tan perfecta.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/tCNSMrxP1KqGxjec7EMFbot6fha.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1mp7gWvrLMZ9cqMN1lJFAhUPJId.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Apple Tree Yard[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Apple.tree.yard</externallink>
@@ -1174,6 +1183,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 <info>Cuatro personas normales y corrientes, que sienten que algo falta en sus vidas sin saber exactamente de qué se trata, coinciden de forma accidental -o tal vez por los avatares del destino- cuando se encuentran con un puzle que se esconde tras la apariencia rutinaria del día a día. A medida que empiezan a aceptar los misteriosos retos provenientes de "algún lugar desconocido", abren sus ojos a un mundo completamente nuevo, repleto de magia y oportunidades.</info>
 <thumbnail>https://i.imgur.com/VrmkbYP.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ihQZnWgsTUzgm1Cjr94y7sdwlDl.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Desparejado[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Desparejado</externallink>
+<info>Un agente inmobiliario de Nueva York no da crédito cuando su novio de siempre se va de casa. Ahora, se enfrenta a la idea de volver a empezar (y a ligar) a los cuarenta.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/ckwIGJghs2AuUcjyhByRlXNMBYZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/SYj0F3cmJzx4qlgsBWfLB5oaWP.jpg</fanart>
 </item>
 
 <item>
@@ -3030,6 +3048,15 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 <info>Serie de TV (2019-Actualidad). 2 temporadas. 16 episodios. Ambientada en la actualidad. Cuando los astrónomos detectan una transmisión desde otra galaxia, es una prueba definitiva de la existencia de vida extraterrestre inteligente. La población mundial espera un futuro contacto con la respiración contenida. Sin embargo, no tendrán que esperar mucho. En cuestión de días, la humanidad queda prácticamente aniquilada en un ataque devastador; los supervivientes se encontrarán un mundo misteriosamente desierto. Mientras los extraterrestres cazan y matan a los que quedan vivos, los supervivientes se preguntan quiénes son estos atacantes y por qué están empeñados en nuestra destrucción. </info>
 <thumbnail>https://i.imgur.com/pGp0MHW.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/fFuSKaUfafbNikHSXzDjwes70GB.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]La Hora De La Justicia[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.hora.de.la.justicia</externallink>
+<info>Una banda de luchadores por la libertad invade el juicio de un oficial de policía blanco que le disparó a un hombre negro, y una situación de rehenes se desarrolla en las pantallas de todo el país.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/gOXZns3CxiPh5DN6CxWEKtML3Yw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wng1Vvh62AS8IdzbScFl9Tm3R1P.jpg</fanart>
 </item>
 
 <item>
