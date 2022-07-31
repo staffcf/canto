@@ -1025,7 +1025,7 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 <item>
 <title>[COLOR gold]* [COLOR white]Crematorio[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
-<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Cronicas.Vampiricas</externallink>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Crematorio.xml</externallink>
 <info>Serie de TV (2011). 8 episodios. Primera serie de producción propia de Canal+, basada en la novela homónima de Rafael Chirbes. En los años 90, un constructor sin escrúpulos (Pepe Sancho), que ha amasado una gran fortuna con empresas agrícolas, se dedica a hacer negocios en el litoral español. Tras la muerte de su hermano, crea un gran entramado empresarial y urbanístico que lo convierte en el hombre más poderoso de Misent, una ciudad imaginaria del Levante español.</info>
 <thumbnail>https://i.imgur.com/S0uW15Y.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/yEo43WrWZQepXN0zKSgzGCldVBi.jpg</fanart>
