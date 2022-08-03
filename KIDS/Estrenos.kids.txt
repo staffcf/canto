@@ -6,7 +6,7 @@
 
 
 <item>
-<title>[COLOR white] Lightyear [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.4[/COLOR]</title> 
+<title>[COLOR white] Lightyear [/COLOR][COLOR yellow](2022)[/COLOR]</title> 
 <genre>Animación,Ciencia ficción,Aventura,Acción</genre>
 <year>2022</year>
 <thumbnail>https://www.themoviedb.org/t/p/original/4sBbVik86fOuyRY4kFGbn2sooQk.jpg</thumbnail>
@@ -17,7 +17,7 @@
 
 
 <item>
-<title>[COLOR white]Z-O-M-B-I-E-S 3 [/COLOR][COLOR gold](2022)[/COLOR]</title>    
+<title>[COLOR white] Z-O-M-B-I-E-S 3 [/COLOR][COLOR gold](2022)[/COLOR]</title>    
 <genre>Comedia,Romance,Fantasia,Musica</genre>
 <year>2022</year>  
 <thumbnail>https://www.themoviedb.org/t/p/original/qFSJ0qOe4j7p2KkEBHjYM3htNr8.jpg</thumbnail>
@@ -28,7 +28,7 @@
 
 
 <item>
-<title>[COLOR white]Ainbo: La Guerrera Del Amazonas [/COLOR][COLOR yellow](2022)[/COLOR]</title> 
+<title>[COLOR white] Ainbo: La Guerrera Del Amazonas [/COLOR][COLOR yellow](2022)[/COLOR]</title> 
 <genre>Aventura,Animación,Familia,Fantasía</genre>
 <year>2022</year>
 <thumbnail>https://www.themoviedb.org/t/p/original/eOPt6zKy8p61z2K6IUbImhrfvr5.jpg</thumbnail>
@@ -39,7 +39,7 @@
 
 
 <item>
-<title>[COLOR white]Los tipos malos [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.8[/COLOR]</title> 
+<title>[COLOR white] Los tipos malos [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.8[/COLOR]</title> 
 <genre>Animación,Comedia,Familia</genre>
 <year>2022</year>
 <thumbnail>https://www.themoviedb.org/t/p/original/wFdwJh3fbhp5aiRbQelVz1mbbwP.jpg</thumbnail>
@@ -50,7 +50,7 @@
 
 
 <item>
-<title>[COLOR white]Sonic 2:La Pelicula [COLOR gold](2022)[/COLOR]</title>    
+<title>[COLOR white] Sonic 2:La Pelicula [COLOR gold](2022)[/COLOR]</title>    
 <genre>Animacion</genre>
 <year>2022</year>  
 <thumbnail>https://www.themoviedb.org/t/p/original/sJiHVM0A3OXDVxl4Z6a7ihMPHfm.jpg</thumbnail>
