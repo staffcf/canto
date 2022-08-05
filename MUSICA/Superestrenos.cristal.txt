@@ -6,6 +6,18 @@
 
 
 <item>
+<title>[COLOR white] Luck [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.3
+[/COLOR]</title> 
+<genre>Animación,Aventura,Comedia,Fantasía</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/1HOYvwGFioUFL58UVvDRG6beEDm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/AvmR6b1iEI4QCeQVI47ozRtoO9r.jpg</fanart>
+<info>Sam Greenfield es la persona con menos suerte del mundo. Cuando de repente se encuentra en la desconocida Tierra de la Suerte, debe aliarse con los seres mágicos que la habitan para que su suerte cambie.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/PKCADnzxDHo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/17nmwyaj7ly6y26j"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/4n644lepixrop9"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/7ko1olgskptf"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/n7szx5dptf3y"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/fpcs2t5f4u2a"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://www.fembed.com/v/17nmwyaj7ly6y26j"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/JXmRVGmjV6fZr3"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Predator: La presa [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.0[/COLOR]</title> 
 <genre>Acción,Suspense</genre>
 <year>2022</year>
