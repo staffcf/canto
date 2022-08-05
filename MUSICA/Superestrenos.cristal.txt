@@ -5,7 +5,15 @@
 =======================================================================================
 
 
-
+<item>
+<title>[COLOR white] Predator: La presa [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.0[/COLOR]</title> 
+<genre>Acción,Suspense</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/6x4OtFoFJ13VChiGzU7v91R78E7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sNhzcUw5cg4JwICjnHZ5XhTKNrU.jpg</fanart>
+<info>Ambientada hace 300 años en la Nación Comanche. Naru es una joven guerrera, feroz y altamente hábil, que se crió a la sombra de algunos de los cazadores más legendarios que deambulan por las Grandes Llanuras. Cuando el peligro amenaza su campamento, se dispone a proteger a su gente. La presa a la que acecha y, en última instancia, se enfrenta, resulta ser un depredador alienígena evolucionado con un arsenal técnicamente avanzado, lo que deriva en un enfrentamiento cruel y aterrador entre los dos adversarios.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/7AWRZuYlEFU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/4xrlw4uzq122-mw5"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/dq644l33c9r3n"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/1cmnraygknts"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/qfpi1v8waa50"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/yafqczqsfl1g"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://www.fembed.com/v/4xrlw4uzq122-mw5"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/XdbjlZL7zBhzV1"}</urlsolve>
+</item>
 
 
 <item>
