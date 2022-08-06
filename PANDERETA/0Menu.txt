@@ -1286,6 +1286,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Doll y Em[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Doll.y.em</externallink>
+<info>Doll & Em es una comedia británica protagonizada por las amigas de la vida real Emily Mortimer (Em) y Dolly Wells (Doll), filmada al estilo de un reality show. Tras una ruptura, Doll se dirige a Hollywood para estar con su mejor amiga de la infancia, Em, que ahora es una actriz de éxito.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/2dAOqvp04iGFnSsVsUCUgRQdiHO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wm2yFLTM4gubcvhQUr7xkBTbYBz.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Dolores:La Verdad Sobre El Caso Wanninkhof [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Dolores.la.verdad.sobre</externallink>
@@ -3735,6 +3744,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Manifest[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Manifest</externallink>
+<info>Cuando el vuelo 828 de Montego Air aterriza de manera segura después de un vuelo turbulento pero de rutina, la tripulación y los pasajeros se sienten aliviados. Sin embargo, aunque para ellos han pasado pocas horas, el mundo ha envejecido cinco años y sus amigos, familias y colegas, después de llorar su pérdida, han perdido la esperanza y están intentando seguir adelante. Ahora, frente a lo imposible, a todos se les da una segunda oportunidad. Pero, a medida que se aclaran sus nuevas realidades, se enfrentan a un misterio más profundo y algunos de los pasajeros pronto se dan cuenta de que pueden estar destinados a algo más grande de lo que alguna vez creyeron posible.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/oRM98LENegR9LfPpLH5BaWH1tjz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kozCFYPgvzORBzZBz9nJttOpHuc.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Mañanas De Septiembre[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Ma%C3%B1anas.septiembre</externallink>
@@ -4459,6 +4477,15 @@ Este caso se convierte en parte importante de la vida de ambos detectives, llega
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Paralelos Desconocidos[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Paralelos.desconocidos</externallink>
+<info>La vida de cuatro adolescentes, Bilal, Romane, Sam y Victor, se ve gravemente alterada cuando un misterioso suceso los separa y los envía a dimensiones paralelas. Ellos intentan entender qué ha pasado y hacen lo posible para volver atrás en el tiempo para recuperar su vida anterior.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/iBVzJTc953SErZxFfOUPaWlD1O1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sKCgf0HJZO5dZQN6lzAQlKDTk72.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Para Toda La Humanidad[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Para.toda.la.humanidad</externallink>
@@ -5024,6 +5051,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 <info>Carlos Sainz ha cumplido 59 años. Mientras los rivales de su generación ya han colgado el casco, él sigue al máximo nivel, año tras año. Su historia es un ejemplo de perseverancia. Bicampeón del mundo de rallyes, y tres veces ganador del Dakar, su ambición no tiene límites. Vivimos junto a él su año más trepidante, que además ha supuesto el debut de su hijo, Carlos, como piloto de Ferrari.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/hFdchgR9Xbo34DNSM4bAEjel7Wt.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/wATnhAPx0Hk71F2ScsZJtNjoil6.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Sandman[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Sandman</externallink>
+<info>El señor de los sueños ha sido invocado y capturado por unos mortales. Cuando escape de su cautiverio, descubrirá que sus problemas no han hecho más que empezar. Sandman es una serie de Netflix basada en los rompedores cómics de Neil Gaiman para DC. Con la producción ejecutiva de Neil Gaiman, Allan Heinberg y David S. Goyer.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/b7EIwmXtQBEyrLHcUEyuJxPoARk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6KyJeOW7vTW0czdR0S6wzXAcfmw.jpg</fanart>
 </item>
 
 <item>
