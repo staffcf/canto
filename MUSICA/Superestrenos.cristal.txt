@@ -5,6 +5,20 @@
 =======================================================================================
 
 
+
+
+<item>
+<title>[COLOR white] Elvis [/COLOR][COLOR yellow] (2022) [COLOR aqua]*7,8[/COLOR]</title> 
+<genre>Drama,Historia,Musica</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/b6UjAGzPzOnXhPIASUaSX1BUbXD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ozITmX7xKnQzcWEgf61UFvEW2mb.jpg</fanart>
+<info>La película explora la vida y la música de Elvis Presley (Butler) a través del prisma de su relación con el coronel Tom Parker (Hanks), su enigmático manager. La historia profundiza en la compleja dinámica que existía entre Presley y Parker que abarca más de 20 años, desde el ascenso de Presley a la fama hasta su estrellato sin precedentes, en el contexto de la revolución cultural y la pérdida de la inocencia en Estados Unidos. Y en el centro de ese periplo está Priscilla Presley (Olivia DeJonge), una de las personas más importantes e influyentes en la vida de Elvis.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/HOAj7xO1zDI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://sbthe.com/6n4lxqmobfrt.html"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/036myil3rjnl083"}</urlsolve>
+</item>
+
+
+
 <item>
 <title>[COLOR white] Luck [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.3
 [/COLOR]</title> 
