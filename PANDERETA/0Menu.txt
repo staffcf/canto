@@ -960,6 +960,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Conversaciones[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Conversaciones</externallink>
+<info>a raíz de un problema o un hecho que ocurre en sus vidas, mantienen una conversación que tiene relación con lo ocurrido y que les hará reflexionar sobre lo que han vivido y la forma en la que se sienten. A pesar de que cada historia son independientes y autoconclusivas, todos los personajes están conectados de alguna manera: buscan crecer y acostumbrarse a la vida adulta y lo que ello conlleva.</info>
+<thumbnail>https://i.imgur.com/EKekDtN.jpg</thumbnail>
+<fanart>https://i.imgur.com/2Ff0CA6.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Countrymen[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Countrymen</externallink>
