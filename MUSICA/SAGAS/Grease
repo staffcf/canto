@@ -11,7 +11,8 @@
 
 
 
-itle>[COLOR white]Las Mejores Canciones de DC[/COLOR]</title>
+<item>
+ <title>[COLOR white]Las Mejores Canciones de DC[/COLOR]</title>
 <link>$doregex[link_inteligente]</link>
 <regex>
 <name>link_inteligente</name>
