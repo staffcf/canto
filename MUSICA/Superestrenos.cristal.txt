@@ -5,6 +5,18 @@
 =======================================================================================
 
 
+
+<item>
+<title>[COLOR white] Código emperador [/COLOR][COLOR yellow] (2022) [COLOR aqua]*7,0[/COLOR]</title> 
+<genre>Accion,Crimen,Suspense</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/iquqqSxLdMdHcohCr01TVTZzgPk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1U5zz2Jvt2L7hXHf1ZN1n74Zx8j.jpg</fanart>
+<info>Un agente de inteligencia español encargado de prevenir ataques terroristas descubrirá que otra unidad de su mismo servicio está involucrada en actividades ilegales. Cuanto más investigue, más se verá atrapado en un mundo de corrupción que lo obligará a cruzar la línea roja.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/mKYYJEnRrpE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/zkmQ4Z2KlmTYYmV/C0d1g0Emp3r4d0r.m1080p.yamil.mkv"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/k3n5kwh3pd1nd07g"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Elvis [/COLOR][COLOR yellow](2022) [COLOR aqua]*7,8[/COLOR]</title> 
 <genre>Drama,Historia,Musica</genre>
