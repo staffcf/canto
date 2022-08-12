@@ -95,6 +95,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]A Model Family[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/A.model.family</externallink>
+<info>Sumido en problemas económicos, un cabeza de familia encuentra una gran cantidad de dinero y acaba cayendo en las redes de una organización de narcotráfico.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/1dUBBqv3NjET1lKVVHV6QAPZxrq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5T5DZyn5aatu8qaXwA6wb0K32WY.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Adele[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Adele.xml</externallink>
@@ -5488,6 +5497,15 @@ Una vez allí, se encontrarán con un enemigo mucho peor que los Goaul'd; los Wr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Tabu De Jon Sistiaga [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Tabu.de.jon.sistiaga</externallink>
+<info>Programa documental que busca arrojar luz sobre los tabúes que subyacen en nuestra sociedad. Jon Sistiaga aborda cada tema en distintas series de varios episodios, lo que permite al espectador profundizar al máximo en esas zonas oscuras a las que no siempre resulta agradable asomarse pero cuyo descubrimiento constituye un ejercicio necesario en la evolución de cualquier sociedad.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/uusl39gLYn6tnMVlccJnf83dAbk.jpg</thumbnail>
+<fanart>https://i.imgur.com/MqlX6FQ.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Tampa La Bahia Del Oro[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Tampa.la.bahia.del.oro</externallink>
@@ -5693,6 +5711,15 @@ Una vez allí, se encontrarán con un enemigo mucho peor que los Goaul'd; los Wr
 <info>Miniserie de TV (2016). 8 episodios. Después de pasar la noche con una desconocida a la que recoge con el taxi de su padre en Manhattan, el joven paquistaní Naz se despierta y la encuentra apuñalada en la cama. Asustado, el joven huye pero poco después es arrestado y se convierte en el único sospechoso del asesinato... Remake de la serie británica del mismo título. </info>
 <thumbnail>https://i.imgur.com/ywRKMDm.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/szxeyhCWt7C4hTdq60QYbrslGXn.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]The Old Man[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.old.man</externallink>
+<info>Dan Chase se fugó de la CIA hace décadas y ahora vive fuera de la red. Cuando llega un asesino e intenta eliminar a Chase, el viejo operativo descubre que para asegurar su futuro ahora debe reconciliar su pasado.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/p4vvl1YQYcKNWne42zzSbDmMLDO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pOGn8hQZmb9vuAeO4zgSsWnbcRM.jpg</fanart>
 </item>
 
 <item>
