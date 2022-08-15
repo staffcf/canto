@@ -8,6 +8,18 @@
 
 
 <item>
+<title>[COLOR white] Contando ovejas [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.0
+[/COLOR]</title> 
+<genre>Comedia,Crimen</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/tJ1BmUzBlk4PFcj7jTpRQoWjqGd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dO7ngwqyiGf5L4W6vyTNXePAzQ8.jpg</fanart>
+<info>Ernesto es un joven solitario, menospreciado por la gente de su entorno. Aun así, la vida de Ernesto dará un giro cuando sus compañeros de piso le ayudan a recuperar la autoestima y confianza en sí mismo que tanto necesita. Para conseguirla, sus amigos tratarán de cumplir todos sus sueños sin medir las consecuencias de los actos, algo que hará que la vida de Ernesto cambie para siempre.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/HBqwCXqtCmw"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/2p1qwxa24-0ry5zd"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/xo46e739b6d93w"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/tgo9jcmxfmmg"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/h84smk1qlbtd"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/quhevinf3m5v"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Y6pmxGRZZbC24P"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Callejon de la muerte [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.8
 [/COLOR]</title> 
 <genre>Western</genre>
