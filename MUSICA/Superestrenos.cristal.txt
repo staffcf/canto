@@ -8,6 +8,18 @@
 
 
 <item>
+<title>[COLOR white] El Engaño [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.9
+[/COLOR]</title> 
+<genre>Suspense</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/elMqsTLjDGLG3nrapBlOtRcsfnI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cXwvuCQIaSLGlAR4tGEWZKITDGw.jpg</fanart>
+<info>Chris (Cameron Monaghan) se acaba de divorciar y vive en Montana, en una mansión en la montaña. Conoce a la imponente Sky (Lilly Krug) en un centro comercial de la zona y sienten una gran conexión. No obstante, Chris empieza a sospechar que algo no va bien cuando la compañera de piso de Sky aparece muerta. La verdad no tarda en salir a la luz: Sky es una estafadora que le ha tendido una trampa. Lo tenía todo pensado, incluso su encuentro 'fortuito' en el centro comercial. Chris se queda atrapado dentro su casa y cuando su exmujer Jamie y su hija Willow le visitan, acaban siendo víctimas del mismo engaño. Los tres tendrán que poner a trabajar su ingenio si quieren salir con vida de la mansión.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/avZet_JN5Tc"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/8mwx70c8d5lr61-5"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/xo46gq1qign7dl"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/gkrb7rl1lx0t"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/6b77a9a5px9y"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/vbxpmuh2cr35"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/dA6xjvBqWaHkvxp"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Hasta el final  [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.2
 [/COLOR]</title> 
 <genre>Crimen,Suspense,Drama</genre>
