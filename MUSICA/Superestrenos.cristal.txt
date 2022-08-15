@@ -8,6 +8,18 @@
 
 
 <item>
+<title>[COLOR white] Beneath the Surface [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.4
+[/COLOR]</title> 
+<genre>Terror,Suspense,Misterio</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/A8ZjxIJci0H6FYybeuPbPYSCf3A.jpg</thumbnail>
+<fanart>https://z.faresko.net/wp-content/uploads/2022/06/Beneath-the-Surface-2022.jpg</fanart>
+<info>Después de sobrevivir al ataque de un tiburón en el que murieron su padre y su hermana, la vida de Lexy se convierte en una pesadilla continúa. Sin embargo, con la ayuda de un psicólogo, profundiza en los inquietantes flashbacks y gradualmente descubre la verdad de lo que sucedió esa fatídica noche...<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/j_bpFleB2yM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/m72m0-a5qy-l22q5"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/dq6wx690f731o8g"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/meaj9busspp1"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/ygefm64gdom4"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/uoj9yesydm9a"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/do7qPGQpQbIkkYO"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Contando ovejas [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.0
 [/COLOR]</title> 
 <genre>Comedia,Crimen</genre>
