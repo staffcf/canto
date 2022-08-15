@@ -8,6 +8,18 @@
 
 
 <item>
+<title>[COLOR white] She Will [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.7
+[/COLOR]</title> 
+<genre>Suspense,Terror,Drama</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/cCtIXBwcJzyhcTRybhR0OK8TWqM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yiaJ5ReLXpWDjqLUZx6fXK8NM2m.jpg</fanart>
+<info>Veronica, una estrella de cine envejecida, se retira a la campiña escocesa con su enfermera Desi para recuperarse de una doble mastectomía. Mientras está allí, fuerzas misteriosas le dan a Veronica el poder de vengarse en sus sueños.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/HX8wlaLEeC8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/r5djzgteq2-7wd1-"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/wn4rj17ltep360"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/0yh6bryzcupu"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/ef2xfqqam7tz"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/tir67f9sryp1"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/mD1D744VObcb3dA"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Vivo (Version Castellano) [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.5
 [/COLOR]</title> 
 <genre>Animación,Familia,Comedia</genre>
