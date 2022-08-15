@@ -7,6 +7,18 @@
 
 
 <item>
+<title>[COLOR white] Temporada de bodas [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.3
+[/COLOR]</title> 
+<genre>Romance,Comedia</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/lL2zALWUDdp2JiATGLeQoVUkA35.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/s6yix9d48ZYy9mmTd1eOH14vhaO.jpg</fanart>
+<info>En un intento por mantener alejados a sus padres obsesionados con el matrimonio, una mujer indio-estadounidense consigue un novio falso para la temporada de bodas, pero al final, tiene el coraje de dejar de vivir una doble vida.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/xqqTL91J1lo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/z6-j4gsjz7kw7p6r"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/84kdrqooc96eed"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ecqd2uhtvz45"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/gsrqr0auc3rw"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/5946zm7lxzgj"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/xMxoyQ0020HkaLq"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Buba [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.6
 [/COLOR]</title> 
 <genre>Comedia,Drama</genre>
