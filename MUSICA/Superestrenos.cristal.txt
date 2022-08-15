@@ -6,6 +6,17 @@
 
 
 
+<item>
+<title>[COLOR white] En su punto  [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.0
+[/COLOR]</title> 
+<genre>Romance,Comedia</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/pDK8YrMDLQWqicoSJYjYrbDT6e3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pGYjXajoHbBhEz3xdHpTHvrrE6i.jpg</fanart>
+<info>Charly es el editor en jefe de una revista de moda. Cuando muere su padre, ella hereda el negocio familiar: una carnicería, que no es exactamente su pasión en la vida. Está a punto de venderlo cuando Marcial, que trabajaba para su padre, quiere hacerse cargo, pero ella se lo está pensando mejor. Estos dos personajes opuestos tendrán que acostumbrarse el uno al otro.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/39bF629K73g"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/001zwehlj6q8zp4l"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/ql3rmvzqhz373v"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/1inllbzit360"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/s7snv8upfm5q"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/pb3xca9yubfu"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/GpgObAgABDu1Jd0"}</urlsolve>
+</item>
+
 
 <item>
 <title>[COLOR white] El Engaño [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.9
