@@ -8,6 +8,18 @@
 
 
 <item>
+<title>[COLOR white] Vivo (Version Castellano) [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.5
+[/COLOR]</title> 
+<genre>Animación,Familia,Comedia</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/eRLlrhbdYE7XN6VtcZKy6o2BsOw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/geH3OleGoAagN7kiDkP9fTwSLfZ.jpg</fanart>
+<info>Narra la vida de Vivo, un kinkajú («oso de la miel» de la selva tropical) dotado de un brillante talento para la música, que busca la forma de viajar desde La Habana hasta Miami para entregarle una canción al antiguo amor de su adorado dueño.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/rSPm6MLIfq8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/r5djzgteq2gql6gj"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/zp40xm1zbe8plk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ov2zh2c2woc3"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/oarvxpagfdex"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/sdggfyk4wqlr"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/LdaoGxLOPjHaAe"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Mass [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.8
 [/COLOR]</title> 
 <genre>Drama</genre>
