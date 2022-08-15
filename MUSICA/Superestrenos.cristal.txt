@@ -6,6 +6,19 @@
 
 
 
+
+<item>
+<title>[COLOR white] Arthur Rambo  [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.3
+[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/rH7mTFzwOn2Qsxnfblfsn0rFedh.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9hYaZs1jUK60UBndbTpOu3F2z63.jpg</fanart>
+<info>¿Quién es Karim D.? ¿El nuevo escritor, joven y comprometido, del que los medios nunca tienen suficiente? ¿O su alias, Arthur Rambo, autor de mensajes alimentados por el odio que se escribieron hace tiempo y que se extrajeron, un día, de los sitios web de las redes sociales?<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ksdvtcJHC50"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/m72m0-a5qy3l-d-p"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/endjx4q3hqdwvw3"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/i8s3qrkk0pfw"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/fgizk5z17s7r"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/2urm300evv3q"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/djRopZoY3ohk47x"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Compartimento numero 6 [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.1
 [/COLOR]</title> 
