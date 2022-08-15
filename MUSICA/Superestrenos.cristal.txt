@@ -8,6 +8,18 @@
 
 
 <item>
+<title>[COLOR white] Callejon de la muerte [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.8
+[/COLOR]</title> 
+<genre>Western</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/iIKYK9mdapWlJ21YNRGB57WKErK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/G56AzECyTDp63sE7CbJ6AEBKhF.jpg</fanart>
+<info>En 1892, Dalton Gang se propuso convertirse en los forajidos más famosos de Estados Unidos. Ese sueño se convertiría en una pesadilla.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/VVX8j0kUBPs"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/17nmwyajeg2jx017"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/vn4r9requ37r1j"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/exl35opugehm"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/31mn2ygzlv4p"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/6gfbqd5za0ti"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/V7gdlqxAklczRB"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Escalera al infierno [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.5
 [/COLOR]</title> 
 <genre>Terror,Misterio</genre>
