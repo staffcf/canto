@@ -8,6 +8,18 @@
 
 
 <item>
+<title>[COLOR white] Hasta el final  [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.2
+[/COLOR]</title> 
+<genre>Crimen,Suspense,Drama</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/4POHMXUtpZp0NSthj8yDsPz2zWB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9kA50q8UBBOSGUe1WIEKOkL7adS.jpg</fanart>
+<info>Una excampeona de boxeo lleva a cabo la misión de su vida cuando decide buscar a su hermana desaparecida.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/lITIDvp1_o8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/m72m0-a5qy3nk-7y"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/j9wgjk8qtxprrn"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/383t8njaomqf"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/woi3g0kafk3m"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/0bc1c5pozsh5"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/3Dxdwaj2vesdKeg"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] She Will [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.7
 [/COLOR]</title> 
 <genre>Suspense,Terror,Drama</genre>
