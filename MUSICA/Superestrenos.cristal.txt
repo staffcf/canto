@@ -6,6 +6,19 @@
 
 
 
+
+<item>
+<title>[COLOR white] Escalera al infierno [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.5
+[/COLOR]</title> 
+<genre>Terror,Misterio</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/3GHtFZrP5es8jK2VYRDyF3FvXME.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xPMWQMUQclYi4Ao5g06ZPqNLzyO.jpg</fanart>
+<info>Cuando la hija de Keira Woods desaparece misteriosamente en el sótano de su nueva casa en el campo, pronto descubre que hay una entidad antigua y poderosa que controla su hogar a la que tendrá que enfrentarse o arriesgarse a perder el alma de su familia para siempre.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/YLy6L8I15Ik"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/3kq5w3fm5dxlnzxq"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/dq6wxlxgiwl761"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/3crt6ncei9r5"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/ob5tuoywvrf7"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/yas9chnfvmi9"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/D0w4gM4m9rukyBB"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Kung-Fu Zohra [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.6
 [/COLOR]</title> 
