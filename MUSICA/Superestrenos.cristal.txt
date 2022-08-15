@@ -8,6 +8,18 @@
 
 
 <item>
+<title>[COLOR white] Mass [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.8
+[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/uwanwS7C7M9y5JxDGEEpbZFHFMU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4kqmdx6OLZp8hSCI1RCAVgGD0XC.jpg</fanart>
+<info>Años después de que el hijo de Richard (Reed Birney) y Linda (Ann Dowd) causase una enorme tragedia, Jay (Jason Isaacs), y Gail (Martha Plimpton) están por fin dispuestos a hablar en un intento por tratar de seguir adelante con sus vidas.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/xq3aUx1uSUI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/8mwx70c8d5xlxerz"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/zp40xwgob78907"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/wp4w1tip80fq"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/1ay9e0hs3rm6"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/9ci5hpuutn2w"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/d7eJ6V41dVtkrXB"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Beneath the Surface [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.4
 [/COLOR]</title> 
 <genre>Terror,Suspense,Misterio</genre>
