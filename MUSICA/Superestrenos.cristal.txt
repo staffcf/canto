@@ -10,6 +10,18 @@
 
 
 <item>
+<title>[COLOR white] Mis dos vidas [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.3
+[/COLOR]</title> 
+<genre>Romance,Drama,Comedia</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/jq8IGJgg16mJ95a5OPyS7eGJaam.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1Pr0kUhvEb2Zo5FYQZdnvXts6Zk.jpg</fanart>
+<info>En la víspera de su graduación de la universidad, la vida de Natalie se bifurca en dos realidades paralelas: en una de ellas, queda embarazada y debe enfrentar los desafíos de ser una madre joven en su Texas natal; en la otra, se muda a Los Ángeles para emprender su carrera profesional. A lo largo de ambas vivencias en la flor de sus veinte años, Natalie experimenta el amor transformador, la devastadora desilusión y se redescubre a sí misma.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/JCj99ptjxPU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/001zwehljk033n12"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/9nl0zz3xcnw0rd"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/3yhzds5d9rbq"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/n0com38433tc"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/62qhv6evb080"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/vBlbxA7pW4c40dY"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Royalteen: El heredero [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin Puntuacion
 [/COLOR]</title> 
 <genre>Drama,Romance</genre>
