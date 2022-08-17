@@ -2195,6 +2195,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Extras[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Extras</externallink>
+<info>Telecomedia alrededor de un amargado aspirante a actor que deja su empleo fijo para seguir su sueño de convertirse en un famoso actor de cine; y se encuentra con la triste realidad de no conseguir un papel importante para lograr su objetivo.
+Entre las estrellas que han aparecido en la serie, interpretando versiones satíricas y cínicas de sí mismos, están Robert de Niro, Kate Winslet, Samuel L. Jackson, David Bowie, Ian McKellen, Clive Owen, David Tennant, Orlando Bloom, Patrick Stewart, Ben Stiller, Daniel Radcliffe o Vinnie Jones.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/oxiA2O4wRBCOzvfxYjNKZQuitQc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vn8Z6lh795Q8vX0F82gzBcgXxUa.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]F1: La Emocion De Un Gran Prix [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/La.emocion.de.un.G.P</externallink>
