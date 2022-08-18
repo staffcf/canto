@@ -102,7 +102,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 
 
 <item>
-<title>[COLOR gold]*[/COLOR][COLOR white]Temporada 2 - Parte 2[/COLOR]</title>    
+<title>[COLOR gold]*[/COLOR][COLOR white]Temporada 1 - Parte 2[/COLOR]</title>    
 <link>$doregex[c]</link>
 <regex>
 <name>c</name>
