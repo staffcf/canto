@@ -6,6 +6,19 @@
 
 
 
+
+<item>
+<title>[COLOR white] Llenos de gracia [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.4
+[/COLOR]</title> 
+<genre>Comedia</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/iqiPnS2Co4pE2nDeXlSLQYLSfyb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bgTiQ6bOVoNNtcCSRHq0dS3mUxj.jpg</fanart>
+<info>La hermana Marina es enviada a principios de los años noventa a El Parral, un orfanato amenazado de cierre. A su llegada al colegio, los niños están fuera de control, pero Marina capta su atención con su carisma y desparpajo. Los chicos comienzan a mirar con curiosidad a esta nueva monja inmune a sus gamberradas. Sobre todo Valdo, con el que Marina conecta de una manera especial. Cuando Marina descubre las escapadas nocturnas de los chavales, algo terminantemente prohibido, da con la idea que cambiará para siempre El Parral: formar un equipo de fútbol. Con la ayuda de la hermana Angelines (una monja inocente y frágil) y de la hermana Tatiana (una monja un poco más bruta), y a través del fútbol, crean algo parecido a una familia de verdad.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/sps60Ul90uw"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/k3nk7gs3pyk22mn-"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/0vgw796wido7ee"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/k20f4vzkntqk"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/g2ggjlnjrf6x"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/w40mbh8wd4w4"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/YyPxDyR12kHLgW"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Juego de asesinos [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.2
 [/COLOR]</title> 
