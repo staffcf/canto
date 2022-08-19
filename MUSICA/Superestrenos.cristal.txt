@@ -6,6 +6,17 @@
 
 
 
+<item>
+<title>[COLOR white] 365 Dias Mas [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.2
+[/COLOR]</title> 
+<genre>Drama,Romance</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/8AWm7iMcsCI3DdGz4YEJtiMDp8Z.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qATVdZdqtKUpO4D78wNCejsfp5S.jpg</fanart>
+<info>La relación de Laura y Massimo pende de un hilo mientras intentan superar los problemas de confianza y los celos, mientras que un tenaz Nacho trabaja para separarlos.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/LclKBtW3zn0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/8mwx70c8dn-gzd43"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/wn40pv46crgwev"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/77bwlaqomhe4"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/85ir6tslz4ae"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ryqepgzzdxst"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/LqbAyxzpK9HRozj"}</urlsolve>
+</item>
+
 
 <item>
 <title>[COLOR white] Alcarras [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.3
