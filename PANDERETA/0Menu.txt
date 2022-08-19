@@ -212,6 +212,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Alma[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Alma</externallink>
+<info>Tras perder la memoria en un extraño accidente que mató a muchos de sus compañeros de clase, Alma intenta averiguar qué ocurrió ese día... y recuperar su identidad.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/q2DYvuiXdSwUOEIXzflxbIP8MkX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/smoEikTBxyuBLO1UF31M1ulqRj8.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Almost Fly[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Almost.fly</externallink>
@@ -1400,6 +1409,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 <info>Miniserie de TV (2020). 3 episodios. Inspirada en el personaje de Bram Stoker, el conde Drácula, que viaja de Transilvania a Londres para saciar su sed de sangre.</info>
 <thumbnail>https://i.imgur.com/g58ZRZJ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/oU0QZRhdnDbaxnjRZJ23yTlOmuN.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Dualidad[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Dualidad</externallink>
+<info>Las gemelas idénticas Leni y Gina han cambiado de lugar en secreto durante años. Pero cuando una hermana desaparece, las vidas de ambas comienzan a desmoronarse.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/hz8YGIZETHJhXYWGaHsFPVwU4YU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lCr3tMHv1VwFktNytvAML5dLBMK.jpg</fanart>
 </item>
 
 <item>
