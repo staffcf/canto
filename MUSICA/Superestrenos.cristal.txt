@@ -8,6 +8,18 @@
 
 
 <item>
+<title>[COLOR white] Alcarras [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.3
+[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/uQYR7MNLtLWN1WdbITOqzA28eH9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5bRY1KDMY7uKrMWNzknQuO3QEFk.jpg</fanart>
+<info>El abuelo ha dejado de hablar, pero nadie de la extensa familia Solé sabe la razón. Como cada verano, en Alcarràs, una pequeña localidad rural de Cataluña, la familia cultiva una gran extensión de melocotoneros.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/XacARMle0ZY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/8mwx70c8dng8wnnn"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/7r71w7npuddz1ej"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/8okrwrsemmc8"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/sn2014or685e"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/7pw3fukpsxkz"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/qJMk461x2RCz3OJ"},{"titulo" : "[COLOR white]Version Catalan[/COLOR]","url" : "https://sbvideo.net/e/g3pji09g4gdd"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Primer Amor [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.5
 [/COLOR]</title> 
 <genre>Romance,Drama</genre>
@@ -28,18 +40,6 @@
 <fanart>https://www.themoviedb.org/t/p/original/l9jk6xKwbUi7VnwnKcv2rYCGH3t.jpg</fanart>
 <info>Stéphane decide mudarse a una bonita región montañosa del centro de Francia para retomar la relación con su hija de 8 años, Victoria, que ha perdido el habla desde que murió su madre. Durante un paseo por el bosque, un pastor le regala a la niña un cachorro llamado "Mystère". Con este regalo, la niña empieza a abrirse al exterior. Pero, en seguida, Stéphane descubre que el cachorro es en realidad un lobo...A pesar de las advertencias y del peligro de la situación, a Stéphane no le queda más remedio que separar a su hija de esta bola de pelo, en apariencia inofensiva.<info>
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/cJS3eFV-v68"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/jzw16gudrp75dekz"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/gn76z30ktl6x41"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/u9750xlrmwwq"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/hucscgww8wqs"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/fj4w2ytt65qs"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/pjl3P7j9adiWll"}</urlsolve>
-</item>
-
-
-<item>
-<title>[COLOR white] Alcarras [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.3
-[/COLOR]</title> 
-<genre>Drama</genre>
-<year>2022</year>
-<thumbnail>https://www.themoviedb.org/t/p/original/uQYR7MNLtLWN1WdbITOqzA28eH9.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/5bRY1KDMY7uKrMWNzknQuO3QEFk.jpg</fanart>
-<info>El abuelo ha dejado de hablar, pero nadie de la extensa familia Solé sabe la razón. Como cada verano, en Alcarràs, una pequeña localidad rural de Cataluña, la familia cultiva una gran extensión de melocotoneros.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/XacARMle0ZY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/8mwx70c8dng8wnnn"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/7r71w7npuddz1ej"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/8okrwrsemmc8"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/sn2014or685e"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/7pw3fukpsxkz"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/qJMk461x2RCz3OJ"},{"titulo" : "[COLOR white]Version Catalan[/COLOR]","url" : "https://www.fembed.com/v/deq685ax2y387r0z"}</urlsolve>
 </item>
 
 
