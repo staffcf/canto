@@ -4631,6 +4631,15 @@ Este caso se convierte en parte importante de la vida de ambos detectives, llega
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Pistol[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Pistol</externallink>
+<info>La historia de una banda de niños de clase trabajadora ruidosos y llenos de granos sin “futuro”, que sacudieron el centro del aburrido y corrupto Establecimiento, amenazaron con derrocar al gobierno y cambiaron la música y la cultura para siempre.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/qHswJ2FXpN9jJIqNlxgc5ZooFb4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/h12csjvCvsXPt4kjHDvWoXmvHGr.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Planeta Prehistorico [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Planeta.prehistorico</externallink>
@@ -5576,6 +5585,24 @@ Una vez allí, se encontrarán con un enemigo mucho peor que los Goaul'd; los Wr
 <info>Las divertidas y ambiciosas agentes de Allure Realty, formada solo por mujeres negras, compiten por liderar el ostentoso mundo de los inmuebles costeros de lujo.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/mhGFKTVl9AgsjebD4HySkNleB5O.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/3OJrpvfbjjNXj9rO6FnFHSeoBsD.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Teenage Euthanasia[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Teenage.euthanasia</externallink>
+<info>Ambientada en un futuro no muy lejano, en el interior de Florida, Teenage Euthanasia se centra en la excéntrica vida de la familia Fantasy, propietarios de la funeraria Tiernos Finales.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/f0g3CYX31s5LUAw882h6r4QbpeT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/l3xGYwRnZipi0WIkgqbgXKIGuDe.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Tekken: Linaje[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Tekken.linaje</externallink>
+<info>De muy joven, Jin Kazama aprendió de su madre las artes marciales tradicionales en su familia. Sin embargo, no pudo hacer nada cuando una fuerza malvada destruyó lo que más quería y cambió su vida para siempre. Enfadado consigo mismo, Jin promete vengarse. Para conseguirlo, buscará el poder absoluto y emprenderá una odisea que lo llevará a la batalla más grande de todos los tiempos.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/nBkG310la4XzjwnFkG3ffaZDrPB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/a2cbbuXVzHIwWM50q977sEwqhfq.jpg</fanart>
 </item>
 
 <item>
