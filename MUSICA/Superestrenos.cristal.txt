@@ -7,6 +7,18 @@
 
 
 <item>
+<title>[COLOR white] El mundo de ayer [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.7
+[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/iytAdU2U7l951ihsIuNNokm1LZG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hKl2pudWtmNTqmy0lD02D1FTagm.jpg</fanart>
+<info>Mientras se prepara para dejar la política, Elisabeth de Raincy, presidenta de Francia, descubre que un escándalo afectará a su sucesor designado y dará la victoria al candidato de extrema derecha. Ella y su equipo tienen tres días para cambiar el curso de la historia por todo tipo de medios y estrategias.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/1QMgRXK08OU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/g7e08ya-7ry3rdg7"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/ql3zr4pdcr4omj"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/lwly7bhuo5sb"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/qpxcfsf3z2k6"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ubsnpaa9y7w9"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/46PgM6wb66SK0za"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El secreto de Sinchanee [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.6
 [/COLOR]</title> 
 <genre>Terror</genre>
