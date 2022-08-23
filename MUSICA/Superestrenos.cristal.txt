@@ -6,6 +6,18 @@
 
 
 <item>
+<title>[COLOR white] DC Liga de supermascotas [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.1
+[/COLOR]</title> 
+<genre>Animacion,Accion,Familia,Ciencia ficcion,Comedia</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/onNG2gCLdbwBz50acjeXkoDWt3E.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dUEKZZQ8BxFZuD1n87LjYLnNRUn.jpg</fanart>
+<info>Krypto el Superperro y Superman son amigos inseparables que comparten los mismos superpoderes y luchan juntos contra el crimen en Metrópolis. Cuando Superman y el resto de la Liga de la Justicia son secuestrados, Krypto debe convencer a un variopinto grupo de un albergue –Ace el sabueso, PB la cerdita barrigona, Merton la tortuga y Chip la ardilla– de dominar sus nuevos poderes y ayudarlo a rescatar a los superhéroes.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/SAhqhDLSNqk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/5pyw36ad3-eq6plj"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/vn4oq9r6spg4qz"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/cf96fvqeyuv0"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/7s1a79vmoxa5"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/fjjlvnjgw6i7"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/M9JOwpDdAlTmPz6"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Top Gun: Maverick [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.7
 [/COLOR]</title> 
 <genre>Accion,Drama</genre>
