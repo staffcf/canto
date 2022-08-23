@@ -19,6 +19,18 @@
 
 
 <item>
+<title>[COLOR white] Carter [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.2
+[/COLOR]</title> 
+<genre>Accion,Suspense</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/uzAh3Ub2YttCz13cnyB9PvhpmIL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gt7ekbyM4q6N8aAZN0Oct3xY8tm.jpg</fanart>
+<info>Representa la impresionante persecución del agente 'Carter', introducido en una operación misteriosa en la península de Corea donde estaba brotando un virus.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/HCNbD-Q0zCE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/m72m0-a5qzekrl8e"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/xo4d06jduwnn1j"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/f48c4hawdd7b"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/phx09je80nt7"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/zs6zjgvy8js7"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/pMxDpLQ2Xziry0Y"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El mundo de ayer [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.7
 [/COLOR]</title> 
 <genre>Drama</genre>
