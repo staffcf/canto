@@ -94,7 +94,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 </regex>
 <info>Se centra en las vidas y las carreras de los que reciben las llamadas de emergencia: policías, paramédicos, bomberos, gente que arriesga su vida para salvar a otros.</info>
 <thumbnail>https://i.imgur.com/O2aRx67.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<fanart>https://www.themoviedb.org/t/p/original/9wd83uuN4CK5XmMu0BugHmiukE2.jpg</fanart>
 </item>
 
 
@@ -190,7 +190,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 </regex>
 <info>Se centra en las vidas y las carreras de los que reciben las llamadas de emergencia: policías, paramédicos, bomberos, gente que arriesga su vida para salvar a otros.</info>
 <thumbnail>https://i.imgur.com/O2aRx67.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<fanart>https://www.themoviedb.org/t/p/original/9wd83uuN4CK5XmMu0BugHmiukE2.jpg</fanart>
 </item>
 
 
@@ -287,7 +287,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 </regex>
 <info>Se centra en las vidas y las carreras de los que reciben las llamadas de emergencia: policías, paramédicos, bomberos, gente que arriesga su vida para salvar a otros.</info>
 <thumbnail>https://i.imgur.com/O2aRx67.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<fanart>https://www.themoviedb.org/t/p/original/9wd83uuN4CK5XmMu0BugHmiukE2.jpg</fanart>
 </item>
 
 
@@ -383,7 +383,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 </regex>
 <info>Se centra en las vidas y las carreras de los que reciben las llamadas de emergencia: policías, paramédicos, bomberos, gente que arriesga su vida para salvar a otros.</info>
 <thumbnail>https://i.imgur.com/O2aRx67.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<fanart>https://www.themoviedb.org/t/p/original/9wd83uuN4CK5XmMu0BugHmiukE2.jpg</fanart>
 </item>
 
 
@@ -404,7 +404,7 @@ from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
 import six
 TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
-url = 'https://pastebin.com/raw/sg1qWHLf'
+url = 'https://pastebin.com/raw/5CyFesac'
 titulo = '9-1-1'
 import base64, codecs
 
@@ -479,7 +479,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 </regex>
 <info>Se centra en las vidas y las carreras de los que reciben las llamadas de emergencia: policías, paramédicos, bomberos, gente que arriesga su vida para salvar a otros.</info>
 <thumbnail>https://i.imgur.com/O2aRx67.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<fanart>https://www.themoviedb.org/t/p/original/9wd83uuN4CK5XmMu0BugHmiukE2.jpg</fanart>
 </item>
 
 
