@@ -6,6 +6,18 @@
 
 
 <item>
+<title>[COLOR white] Juntos son dinamita [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.1
+[/COLOR]</title> 
+<genre>Accion,Comedia</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/1dyD79pPLELCxjJBKXiFDC7df8s.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/k3ZAsPxKNo8mbBrnpTnnWFX5wjX.jpg</fanart>
+<info>Remake de "...Y si no, nos enfadamos" de Terence Hill y Bud Spencer. En esta versión de la película de los 70 con Bud Spencer y Terence Hill, dos hermanos que llevan 25 años sin hablarse se reúnen para recuperar el minibólido de su padre.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/sqR5KTcNS3s"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/nz7qrgu25ye6mmq0"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/vn4odwe6iqg1wv9"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/6m8x96d2lrnf"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/m90ke8mduo68"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/35s54dvkwxrk"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Oq9PPl2JLvIGML"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] DC Liga de supermascotas [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.1
 [/COLOR]</title> 
 <genre>Animacion,Accion,Familia,Ciencia ficcion,Comedia</genre>
