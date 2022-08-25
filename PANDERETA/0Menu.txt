@@ -293,6 +293,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Angel Nieto Cuatro Vidas [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Angel.nieto.cuatro.vidas</externallink>
+<info>Miniserie documental de 4 episodios. A través de documentos inéditos y testimonios de familiares, compañeros de circuito y amigos, el documental aborda la faceta familiar del piloto, su trayectoria profesional, su labor como director de equipo y comentarista televisivo y su alto concepto de la amistad.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/wWoVJM5lho3s88zgY2LVcxkS6aE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/50dHOrpIs6p6NzJFh9y4USYeceK.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Anna[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Anna</externallink>
