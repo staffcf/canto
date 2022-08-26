@@ -6,6 +6,19 @@
 
 
 
+
+<item>
+<title>[COLOR white] Seul a toda pastilla [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.8
+[/COLOR]</title> 
+<genre>Crimen,Accion,Comedia</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/ffX0TL3uKerLXACkuZGWhAPMbAq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rHzoz94bRfyfNLjiIB26Wt5KDHE.jpg</fanart>
+<info>Unos pilotos en busca de velocidad y dinero se ven envueltos en la investigación de un fondo fraudulento de una figura importante durante las Olimpiadas de Seúl de 1988.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/EIy7KYdZJvA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/p6rl2gsm-28m0q6q"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/9nl3gjzour3709"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/aw0j1nt8zcfl"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/cixy7i3094eb"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/aop34e3vbxhu"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/GAZx1O4Bgvt1Kr6"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Amor para adultos [/COLOR][COLOR yellow](2022) [COLOR aqua]*8.7
 [/COLOR]</title> 
