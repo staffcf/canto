@@ -9,6 +9,18 @@
 
 
 <item>
+<title>[COLOR white] Rodando hacia ti [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.8
+[/COLOR]</title> 
+<genre>Comedia,Romance</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/vWgcIHKARoGFtbEPP9Ut7y2fmoP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ljYHyD0ZOQqIKDjRyxHYzlmvY2t.jpg</fanart>
+<info>Gianni es un seductor en serie, pero su vida está destinada a cambiar cuando conoce a Chiara, una bella mujer parapléjica.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/zZPeGRZcSis"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/-n7pwqap30ylxd75"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/n0zoe3lounpxmq"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/r4cglwb2tjoz"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/264sjpq15aup"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/jh90ulzlbzk0"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/02RwOVkQx8UbXX6"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Tiempo para mi [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.8
 [/COLOR]</title> 
 <genre>Comedia</genre>
