@@ -1520,6 +1520,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El Caso Figo: El Fichaje Del Siglo [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/El.caso.figo</externallink>
+<info>Este documental se centra en uno de los fichajes más polémicos de la historia del fútbol y en el extraordinario jugador en pleno ojo del huracán: Luís Figo.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/wQoKTS6kTZalk30Wh9zBSO6yN1y.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qg09RLrrGHhAlku7nONOTXlllOS.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El Caso Hartung[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.caso.hartung</externallink>
