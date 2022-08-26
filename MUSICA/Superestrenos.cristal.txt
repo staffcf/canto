@@ -4,6 +4,19 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 
+
+<item>
+<title>[COLOR white] El ultimo dia en la tierra [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.3
+[/COLOR]</title> 
+<genre>Ciencia ficcion,Aventura</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/9tfeF5zGQt94tRmaq2Wrh8Phkj2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8tMgRjafAokCj8zHzixzHQklr85.jpg</fanart>
+<info>La luna roja amenaza nuestra existencia en la tierra. Nuestra única esperanza es el enigmático Paul WR, el astronauta más talentoso de su generación. Pero pocas horas antes del inicio de la Gran misión, Paul desaparece.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/pp-GZfC2WTE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/4xrlw4uzm4nk5yl1"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/3nvjwkjjbdz7n4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/veqih9nnuriw"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/806wobpw5hgk"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/wvob4lzusgi0"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/k9Jgz8oqpaFOKAW"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Samaritan [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.1
 [/COLOR]</title> 
