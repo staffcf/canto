@@ -4,6 +4,18 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE DR     ESTRENOS CRISTAL AZUL   MULTIENLACE DR
 =======================================================================================
 
+<item>
+<title>[COLOR white] Samaritan [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.1
+[/COLOR]</title> 
+<genre>Ciencia ficcion,Drama,Accion,Fantasía</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/zgH8Ej50n2cvJCMJrxd4twEwSqz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ub0G0YQFH3WAjvqJTKkZd2WXbNV.jpg</fanart>
+<info>La película, protagonizada por Stallone en el papel del superhéroe, seguirá los pasos de un joven que descubre que el superhéroe al que todos admiraban, y al que creían muerto, podría seguir vivo...<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ZmCrptWNGfM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/e5078lt-j586derz"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/poner"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/k7vuxhiszp67"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/t9aaqeo18231"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/p1jq87z6wvct"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/gY4bdlLzYZTqWxm"}</urlsolve>
+</item>
+
+
 
 <item>
 <title>[COLOR white] Juntos son dinamita [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.1
