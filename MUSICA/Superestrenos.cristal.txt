@@ -8,6 +8,18 @@
 
 
 <item>
+<title>[COLOR white] Luzzu [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.9
+[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/jpXl330KCZaRdyIgiVv7FB0VBdu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9oC70PYq2CiAwuhXUWdPwTnP98D.jpg</fanart>
+<info>Jesmark, un pescador en apuros en la isla de Malta, se ve obligado a dar la espalda a generaciones de tradición y arriesgarlo todo al ingresar al mundo de la pesca en el mercado negro para mantener a su novia y a su bebé recién nacido.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/XuxyjZuqPQ0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/2p1qwxa24y210r61"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/knq6w0q3srqvx0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/b4dmnwpjeorn"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/3q472wy7p02y"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/niy771nidanu"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/6w2Q3Adl80Ixle"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Inexorable [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.6
 [/COLOR]</title> 
 <genre>Suspense</genre>
