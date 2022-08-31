@@ -8,6 +8,18 @@
 
 
 <item>
+<title>[COLOR white] Pasaba por aqui [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.5
+[/COLOR]</title> 
+<genre>Suspense,Crimen</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/jqz49sjN4fOha1MFwl4fv7kN9ub.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/14wIOjYCtfbO9EHTqCbiU9wncMz.jpg</fanart>
+<info>Un grafitero que tiene como objetivo las casas de la élite descubre un retorcido secreto en un sótano oculto y desata acontecimientos que ponen en peligro a sus seres queridos.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/PEy3RJDthIc"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/deq685ax2qx5-zz4"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/mdx01ejwsxdz79o"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/u50jgqj9j4kp"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/nuwo5wfqkqyl"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/byaxv9ehe8lt"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/LMYK9Jao34IRwVo"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Luzzu [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.9
 [/COLOR]</title> 
 <genre>Drama</genre>
