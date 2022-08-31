@@ -8,6 +8,18 @@
 
 
 <item>
+<title>[COLOR white] La jefa [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.5
+[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/zeaGzDvDY0DYmGeSLN6tA4JTrxO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4pWQoCHCprGEGQjaF1QKxTdPdm5.jpg</fanart>
+<info>Sofía, una ambiciosa trabajadora de una multinacional de moda nupcial, se queda embarazada sin haberlo planeado. Sin familia en España e incapaz de abortar, dadas sus convicciones católicas, Sofía parece abocada a volver a su país y abandonar la prometedora carrera profesional por la que tanto ha luchado. Sin embargo, su jefa, una mujer hecha a sí misma a la que Sofía admira por encima de todo le hace una inusual proposición: Darle el hijo en adopción a ella, y a cambio poder continuar con su promoción dentro de la empresa. Sofía acepta la oferta, sin saber que no todo es como su jefa le ha contado...<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/HvEhaD42-Bg"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/5pyw36ad3qdyz456"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/endm6wzdfqxvend"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/xbw9dx0ifig8"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/5lgosvm5v8ci"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/tuv3c696pqh8"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/OA6m3Moe9oFZPqV"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Pasaba por aqui [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.5
 [/COLOR]</title> 
 <genre>Suspense,Crimen</genre>
