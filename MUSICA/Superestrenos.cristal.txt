@@ -8,6 +8,18 @@
 
 
 <item>
+<title>[COLOR white] Inexorable [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.6
+[/COLOR]</title> 
+<genre>Suspense</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/6vErEr2uuIugCIYA4erSrTyzo1x.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qwtT5a7ZiLtUyjGggHmHw958OxT.jpg</fanart>
+<info>Un escritor de éxito que disfruta de una cómoda existencia junto a su familia. Sin embargo, la llegada de una chica joven a la casa provoca un terremoto en el que se desvelarán terribles secretos del pasado y que desencadenará el miedo y la violencia.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Y_VR0J8dGfY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/deq685ax2qx82118"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/7r7n9r8qcd1v7kx"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/4aoc9f17o4r7"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/3ybq8svaosv1"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/hhriq6czfvy2"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/poner"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Las cartas de amor no existen [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.4
 [/COLOR]</title> 
 <genre>Drama,Romance</genre>
