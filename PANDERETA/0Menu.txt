@@ -1988,6 +1988,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El señor de los anillos: Los anillos de poder[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.senhor.de.los.anillos</externallink>
+<info>Serie de televisión basada en El señor de los anillos, ambientada durante el período de 3.441 años, conocida como la Era de Númenor, o la Segunda Edad.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/6BfHzCdPBEiTYwOI4atmbWTrV3G.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pdfCr8W0wBCpdjbZXSxnKhZtosP.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El Simbolo Perdido[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.simbolo.perdido</externallink>
