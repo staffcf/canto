@@ -6,6 +6,9 @@ https://friendpaste.com/6mAegBV5kEtQF7KbdyZYBM
 BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS               BASE PELIS KIDS
 ----------------------------------------------------------------------------------------------------------------------
  
+
+
+
 "Tag= Malu3, Disney,1Animacion, 1Infantil, 1Familiar, A1961, Letra A, Disney, Dalmatas, " 
 
 <item>
@@ -2804,15 +2807,29 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-"Tag= Malu3, Disney, 1Animacion, 1Comedia, Letra L, EEUU, Medieval, C720, "
+"Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Aventura, 1Familia, A2019, Letra L, C1080 "
 <item>
 <title>[COLOR white]La Familia Adams [COLOR pink](2019)[/COLOR]</title>   
-<genre>Animacion,Comedia</genre>
+<genre>Animacion,Comedia,Aventura,Familia</genre>
 <year>2019</year>  
-<thumbnail>https://i.imgur.com/33VLxUM.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/original/307Y96L1iJ6gujCfuGPWNTqgbBd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xS89uFXPKKwyWJgM7ljAmuAtDMh.jpg</fanart>
 <info>Gomez y Morticia preparan la visita de su numerosa familia para celebrar la ''Mazurka con sable'' en honor a Pugsley, un rito de iniciacion para convertirse en un hombre digno de la familia Addams. Pero, mientras estan inmersos en los preparativos, los Addams ignoran que su vecina, el fenomeno televisivo Margaux Needler, planea construir una comunidad prefabricada y perecta justo debajo de la suya. Y cuando por fin se levanta la niebla, Margaux entra en panico al descubrir la mansion de la familia Addams, un claro impedimento en su sueño de vender todas las casas del barrio a personas selectas. Por otro lado, mientras Pugsley se esfuerza en aprenderse al pie de la letra la complicada ''Mazurka con sable'', Miercoles se enfrenta a la adolescencia. Se hace amiga de Parker, la hija de Margaux, e intenta ir mas alla de los limites impuestos por Morticia, sacandola de quicio al volverse ''normal'', ir al instituto, ser animadora y querer vestir cosas que, sin duda, no son propias de un Addams.</info>
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/xEIEzxKs10ge/festakids-la-familia-addams-2019-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/t7d5dn2qtpw1"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/6q8grh0r8ezzw48"}</urlsolve> 
+</item>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Aventura, 1Familia, A2021, Letra L, C1080 "
+
+<item>
+<title>[COLOR white]La Familia Adams 2: La Gran Escapada [COLOR gold](2021)[/COLOR]</title>   
+<genre>Animacion,Comedia,Aventura,Familia</genre>
+<year>2021</year>  
+<thumbnail>https://www.themoviedb.org/t/p/original/ld7YB9vBRp1GM1DT3KmFWSmtBPB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qsQn1dMeMQIcYSkcLfO7XwNJ5um.jpg</fanart>
+<info>Con la esperanza de acercarse como familia, Gómez, Morticia y el resto del clan Addams se embarcan en un aventurero viaje por carretera en una horrenda y gigantesca caravana.</info>
+<urlsolve>https://www.fembed.com/v/jndqjsdrqky-mwd</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
