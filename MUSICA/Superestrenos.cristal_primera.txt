@@ -22,3 +22,30 @@
 
 
 
+
+
+<item>
+<title>[COLOR red] Jurassic World: Dominion [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.1
+[/COLOR]</title> 
+<genre>Aventura,Acción,Ciencia ficcion</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ruBdVcj63fJhWOHSYEjyAqNUQ1K.jpg</fanart>
+<info>Cuatro años después de la destrucción de Isla Nublar, los dinosaurios conviven – y cazan – con los seres humanos en todo el mundo. Este frágil equilibrio cambiará el futuro y decidirá, de una vez por todas, si los seres humanos seguirán en la cúspide de los depredadores en un planeta que comparten con los animales más temibles de la creación.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/pF4iC_e_qW8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/r5djzgteqpqp2kj1"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/pkg1jjx8u8ll3q"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/5g6vdogu20lg"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/g4jsprvmc9lv"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/l3rx9kk7hv66"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/0JPqO4PxPOIb7lQ"}</urlsolve>
+</item>
+
+
+
+
+
+<NOitem>
+<title>[COLOR white] Jurassic World: Dominion [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.1
+[/COLOR]</title> 
+<genre>Aventura,Acción,Ciencia ficcion</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ruBdVcj63fJhWOHSYEjyAqNUQ1K.jpg</fanart>
+<info>Cuatro años después de la destrucción de Isla Nublar, los dinosaurios conviven – y cazan – con los seres humanos en todo el mundo. Este frágil equilibrio cambiará el futuro y decidirá, de una vez por todas, si los seres humanos seguirán en la cúspide de los depredadores en un planeta que comparten con los animales más temibles de la creación.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/pF4iC_e_qW8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/r5djzgteqpqp2kj1"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/pkg1jjx8u8ll3q"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/5g6vdogu20lg"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/g4jsprvmc9lv"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/l3rx9kk7hv66"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/0JPqO4PxPOIb7lQ"}</urlsolve>
+</item>
