@@ -8,7 +8,7 @@
 
 
 <item> 
-<title>COLOR white] Pinocho [/COLOR][COLOR yellow [COLOR aqua]*7.4
+<title>[COLOR white] Pinocho [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.4
 [/COLOR]</title>  
 <genre>Fantasia,Aventura,Familia</genre> 
 <year>2022</year> 
@@ -20,7 +20,7 @@
 </item>
 
 <item> 
-<title>COLOR white] Thor: Amor y Trueno [/COLOR][COLOR yellow [COLOR aqua]*6.8
+<title>[COLOR white] Thor: Amor y Trueno [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.8
 [/COLOR]</title>  
 <genre>Accion,Aventura,Fantasía</genre> 
 <year>2022</year> 
@@ -33,7 +33,7 @@
 
 
 <item> 
-<title>COLOR white] Hollyblood [/COLOR][COLOR yellow [COLOR aqua]*6.0
+<title>[COLOR white] Hollyblood [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.0
 [/COLOR]</title>  
 <genre>Comedia,Romance,Terror,Fantasía</genre> 
 <year>2022</year> 
