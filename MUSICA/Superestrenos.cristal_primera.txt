@@ -6,6 +6,19 @@
 
 
 
+
+<item> 
+<title>COLOR white] Pinocho [/COLOR][COLOR yellow [COLOR aqua]*7.4
+[/COLOR]</title>  
+<genre>Fantasia,Aventura,Familia</genre> 
+<year>2022</year> 
+<tmdb>532639</tmdb> 
+<thumbnail>https://www.themoviedb.org/t/p/original/371C5XVl0D0CQgjQLnKkqrFTI4s.jpg</thumbnail> 
+<fanart>https://www.themoviedb.org/t/p/original/nnUQqlVZeEGuCRx8SaoCU4XVHJN.jpg</fanart> 
+<info>Adaptación de imagen real del clásico animado de Disney 'Pinocho'.<info> 
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/nEen1QOYKug"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/w0djeghnen12d1y7"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/6q08qwxead4nrv"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/q65y7hc34day"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/oqpace0u4byg"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/1cfyjn1zdlky"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/poner"}</urlsolve> 
+</item>
+
 <item> 
 <title>COLOR white] Thor: Amor y Trueno [/COLOR][COLOR yellow [COLOR aqua]*6.8
 [/COLOR]</title>  
