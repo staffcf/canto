@@ -5,6 +5,20 @@
 =======================================================================================
 
 
+
+<item> 
+<title>COLOR white] Thor: Amor y Trueno [/COLOR][COLOR yellow [COLOR aqua]*6.8
+[/COLOR]</title>  
+<genre>Accion,Aventura,Fantasía</genre> 
+<year>2022</year> 
+<tmdb>616037</tmdb> 
+<thumbnail>https://www.themoviedb.org/t/p/original/ehSQcx7fYCRe92FPRdOjVjlgM3W.jpg</thumbnail> 
+<fanart>https://www.themoviedb.org/t/p/original/zEBJ4jmTrqMevB5xCKSDaa7QUqV.jpg</fanart> 
+<info>Cuarta película sobre "Thor" del MCU, en la que el Dios del trueno contará con Lady Thor como acompañante, personaje que interpretará Natalie Portman.<info> 
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/gsAUx4OL4rg"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/8mwx70c8d8qzzpd2"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/4n6qvg4dflkrv8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/t9lrwob8i4uu"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/hhj5nva9cxgf"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/9ltd5rw2xo6e"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/VBap6RxzLZtKKmM"}</urlsolve> 
+</item>
+
+
 <item> 
 <title>COLOR white] Hollyblood [/COLOR][COLOR yellow [COLOR aqua]*6.0
 [/COLOR]</title>  
