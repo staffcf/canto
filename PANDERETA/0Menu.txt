@@ -4063,6 +4063,15 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Mike[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Mike</externallink>
+<info>Explore la vida y la carrera salvajes, trágicas y controvertidas del campeón de peso pesado Mike Tyson, una de las figuras más polarizadoras de la cultura deportiva.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/dF997CwJNM1953E45BfWPB5MffY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fz3CBbctBSFKCjap3I8j4Qb8qKQ.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Mindhunter[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Mindhunter.xml</externallink>
