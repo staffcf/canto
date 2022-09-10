@@ -6,6 +6,18 @@
 
 
 
+<item>
+<title>[COLOR white] Canallas [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.5
+[/COLOR]</title> 
+<genre>Comedia,Drama</genre>
+<year>2022</year>
+<tmdb>939892</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/dGI03IHODnhodXtoL3dXU6ebesQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7d4fz9NyO56c5CmvgvSNt0DqULt.jpg</fanart>
+<info>Joaquín, Brujo y Luismi, tres canallas de barrio, vuelven a encontrarse después de veinte años. Brujo y Luismi siguen sin oficio pero con algún que otro beneficio, mientras que Joaquín se ha convertido en un importante empresario. O eso cree él. A sus 47 primaveras sigue viviendo en Orcasitas, en casa de Esther, su madre, junto a Brenda, su hija, campeona de yo-yó, y Chema, su hermano, soldador y maestro ¨Wing-chun¨. Joaquín vive en un 9ºB, a nueve pisos de su realidad, y un día recibe la notificación del juzgado informándoles del embargo de la casa por un préstamo de Joaquín que Esther avaló. Intentará conseguir el dinero necesario para evitar el desahucio, pero las brillantes ideas de Brujo y Luismi acabarán hundiendo a Joaquín aún más en la miseria. Los tres amigos iniciarán entonces una aventura desesperada para solucionar el problema, arrastrando con ello a toda la familia.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/RJvMTFXt4Vs"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/k3nk7gs3p32p8xdq"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/3nvmdznpumk9ovp"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/17kjiekpgkvt"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/brejbounsdyw"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ifibd675tiis"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/WDwGjz2Z02ibdVX"}</urlsolve>
+</item>
+
 
 <item>
 <title>[COLOR white] American Night [/COLOR][COLOR yellow](2021) [COLOR aqua]*4.3
