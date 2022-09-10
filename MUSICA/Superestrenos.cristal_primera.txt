@@ -5,6 +5,18 @@
 =======================================================================================
 
 
+<item>
+<title>[COLOR white] Cinco lobitos [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.1
+[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2022</year>
+<tmdb>835504</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/7Iacor1r5Z4aj4SlGpW8HceyM7C.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ikr6ujf5hPDyLKFdxnHQR6KpvJ8.jpg</fanart>
+<info>Amaia (Laia Costa) acaba de ser madre y se da cuenta de que no sabe muy bien cómo serlo. Al ausentarse su pareja por trabajo unas semanas, decide volver a casa de sus padres, en un bonito pueblo costero del País Vasco y así compartir la responsabilidad de cuidar a su bebé. Lo que no sabe Amaia es que, aunque ahora sea madre, no dejará de ser hija.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/xBuqdeNtXp4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/ypmj3waeyedk5w40"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/ql3nn8qwbnpzll"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/zdxlxlnwlb54"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/vlxootag8p7z"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/qxomfbm1in77"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Vxe10ZrGJMSKrPG"}</urlsolve>
+</item>
+
 
 <item>
 <title>[COLOR white] Canallas [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.5
