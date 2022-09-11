@@ -5834,9 +5834,9 @@ Una vez allí, se encontrarán con un enemigo mucho peor que los Goaul'd; los Wr
 <item>
 <title>[COLOR gold]* [COLOR white]The Mandalorian[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
-<externallink>https://raw.githubusercontent.com/staffcf/canto/main/KIDS/SERIES/The.mandalorian.xml</externallink>
-<info>Ambientada tras la caída del Imperio y antes de la aparición de la Primera Orden, la serie sigue los pasos de Mando, un cazarrecompensas perteneciente a la legendaria tribu de los mandalorianos, un pistolero solitario que trabaja en los confines de la galaxia, donde no alcanza la autoridad de la Nueva República.</info>
-<thumbnail>https://i.imgur.com/XhkYISa.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/KIDS/ESPECIAL.STAR.WARS/Series.Animadas/The.mandalorian</externallink>
+<info>En el anárquico período tras el hundimiento del Imperio Galáctico, un cazarrecompensas con armadura conocido solo como El Mandaloriano emprende una misión bien remunerada aunque enigmática.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/t1bABypVV8TKj1wdOkK18iAoKi5.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/vhFz3kvzDBqgJlrvMWFQiwJyYGE.jpg</fanart>
 </item>
 
