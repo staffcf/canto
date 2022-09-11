@@ -5,6 +5,24 @@
 =======================================================================================
 
 
+
+
+
+
+<item>
+<title>[COLOR white] Las Trece Rosas [/COLOR][COLOR yellow](2007) [COLOR aqua]*6.5
+[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2007</year>
+<tmdb>27605</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/yJqoY3chXofJBSINBaf3tdIJX6e.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/263koDAEckD9nZFw4ESBUht5gz3.jpg</fanart>
+<info>Narra la historia de unas jóvenes condenadas a muerte por un Tribunal Militar por un delito que no habían cometido. Detenidas al mes de acabar la contienda, sufrieron duros interrogatorios y fueron a parar a la cárcel madrileña de Ventas. Las reclusas las bautizaron como 'las menores', que pensaban que sólo pasarían unos años en la cárcel y acabaron siendo acusadas de un delito de "adhesión a la rebelión", por reorganizar la JSU y por intentar un atentado contra Franco. Un Tribunal Militar las condenó a muerte y fueron fusiladas en la madrugada del 5 de agosto de 1939.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/NB_4fAB03fI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/g7e08ya-70g6rl34"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/j9w68gdpuvr93j"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/zcrnjkcn5tj5"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/noc8xp9gn0wu"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/vzllfm0y6xke"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Dz27dwvkqoFAXq"}</urlsolve>
+</item>
+
+
+
 <item>
 <title>[COLOR white] American Underdog [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.4
 [/COLOR]</title> 
