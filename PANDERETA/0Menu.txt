@@ -2700,6 +2700,15 @@ Entre las estrellas que han aparecido en la serie, interpretando versiones satí
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Historias De UPA Next[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Historias.de.upa.next</externallink>
+<info>Seis relatos de ficción cortos que servirán, así, como anticipo y enlace, antes del gran estreno de ‘UPA Next’. Beatriz Luengo, Miguel Ángel Muñoz, Mónica Cruz, Lola Herrera, Lucas Velasco y Marta Guerras protagonizan estas historias, junto a varios de los intérpretes que dan vida a los nuevos alumnos de la escuela de Carmen Arranz, como Almudena Salort, Nuno Gallego Karina Soro y Alex Medina.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/1VxhfMVir07wmN5W9flqTSm4FUE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/glrXK5ZmF4jiJRGHphR5dnArFMi.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Hit[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Hit</externallink>
