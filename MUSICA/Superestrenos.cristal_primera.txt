@@ -6,6 +6,19 @@
 
 
 <item>
+<title>[COLOR white] American Underdog [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.4
+[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2021</year>
+<tmdb>673309</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/bzWkU9E1wUEywduYg3cX6iXGMk9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vAYKFgLPJaX32nv2YRzLyaQhuLz.jpg</fanart>
+<info>La increíble trayectoria del que fuera MVP (jugador más valioso) de la NFL y quarterback del Salón de la Fama Kurt Warner, quien pasó de abastecer los estantes de un supermercado a convertirse en una estrella del fútbol americano.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/koqQnyGeKbs"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/g7e08ya-70g6rl34"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/j9w68gdpuvr93j"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/zcrnjkcn5tj5"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/noc8xp9gn0wu"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/vzllfm0y6xke"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Dz27dwvkqoFAXq"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Cinco lobitos [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.1
 [/COLOR]</title> 
 <genre>Drama</genre>
