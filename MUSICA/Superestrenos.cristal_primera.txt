@@ -19,6 +19,19 @@
 
 
 <item>
+<title>[COLOR white] Hinterland [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.2
+[/COLOR]</title> 
+<genre>Crimen,Suspense,Misterio,Terror,Historia</genre>
+<year>2021</year>
+<tmdb>843338</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/zaA5ql3oI0ZImO57QP1I1sqbqaV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/52fzENNAdLaypndoHolkQpysKPy.jpg</fanart>
+<info>Cuando un exprisionero de la Primera Guerra Mundial vuelve a casa y se encuentra con que sus camaradas han sido brutalmente asesinados, está decidido a conseguir que se haga justicia con el asesino en serie.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/7-VF-VLBmNM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/e5078lt-j85060pw"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/4n6epmgkbq3gk70"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ithlnnalcnx1"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/ycp4ak2tpmgz"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/iwqv7zocraja"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/V0epejVQX0tkMd"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Cinco lobitos [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.1
 [/COLOR]</title> 
 <genre>Drama</genre>
