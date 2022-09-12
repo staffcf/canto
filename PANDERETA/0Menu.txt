@@ -5181,6 +5181,15 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Salvar Al Rey [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Salvar.al.rey</externallink>
+<info>Una historia de espías y pactos silenciosos, esta fascinante docuserie, contada en primera persona por testigos y expertos, expone cómo la maquinaria del estado está dispuesta a proteger al ex rey de España, Juan Carlos I, y ocultar sus escándalos.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/nppXYeNwKrVRva4b6qLbBcGr8Im.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zJee5mPCPEFob0zs1m7HomA4X3l.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Sandman[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Sandman</externallink>
