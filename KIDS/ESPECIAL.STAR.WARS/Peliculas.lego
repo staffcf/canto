@@ -1,6 +1,6 @@
 <item>
 <title>[COLOR white]Cuentos escalofriantes [/COLOR][COLOR gold](2021)[/COLOR]</title>    
-<genre>Star Wars,acción,ciencia ficción,aventuras</genre>
+<genre>Familia,Fantasia,Ciencia ficción,Animacion</genre>
 <year>2021</year>
 <thumbnail>https://www.themoviedb.org/t/p/original/p8cPUCexDTFZxHI3ooqHYi6AUgL.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/2G0NbH3HqOdDSqJNylx1lHlU4VM.jpg</fanart>
@@ -11,7 +11,7 @@
 
 <item>
 <title>[COLOR white]Especial Felices Fiestas [/COLOR][COLOR gold](2020)[/COLOR]</title>    
-<genre>Star Wars,acción,ciencia ficción,aventuras</genre>
+<genre>Familia,Fantasia,Ciencia ficción,Animacion</genre>
 <year>2020</year>
 <thumbnail>https://www.themoviedb.org/t/p/original/ApYuiyKtkyA1SMC6UgvKZczPwUj.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/1Lhc32P0a62BgMFgd20wXR1osR3.jpg</fanart>
@@ -22,7 +22,7 @@
 
 <item>
 <title>[COLOR white]01 La amenaza Padawan [/COLOR][COLOR gold](2011)[/COLOR]</title>    
-<genre>Star Wars,acción,ciencia ficción,aventuras</genre>
+<genre>Familia,Fantasia,Ciencia ficción,Animacion</genre>
 <year>2011</year>
 <thumbnail>https://www.themoviedb.org/t/p/original/bCDa9memHnETeRrJWXzImTZdMal.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/hVl0qfLZ5loznDgQ0HxCTZqvZhz.jpg</fanart>
@@ -34,7 +34,7 @@
 
 <item>
 <title>[COLOR white]02 El imperio contra todos [/COLOR][COLOR gold](2012)[/COLOR]</title>    
-<genre>Star Wars,acción,ciencia ficción,aventuras</genre>
+<genre>Familia,Fantasia,Ciencia ficción,Animacion</genre>
 <year>2012</year>
 <thumbnail>https://www.themoviedb.org/t/p/original/aEmRUyA3q5SqKtKTnHA8Smpm6X0.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/6f17DgTdrNaQS1VSpKwfLBxLKB9.jpg</fanart>
@@ -43,27 +43,51 @@
 </item>
 
 
+<item>
+<title>[COLOR white]La Busqueda De R2D2 [/COLOR][COLOR gold](Corto)(2009)[/COLOR]</title>    
+<genre>Familia,Ciencia ficción,Animacion</genre>
+<year>2009</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/4YUElULnVseXNRuUgP1jZZJFSAJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aM1dP91YFVPsgq1WG8vMwip9zLe.jpg</fanart>
+<info>Cortometraje de animación oficial de Lucasfilm, estrenado en Cartoon Network para conmemorar el 10º aniversario de la licencia Lego Star Wars.</info>
+<urlsolve>https://www.fembed.com/v/kw0qjh3pm3drl7g</urlsolve>
+</item>
+
+
 
 <item>
-<title>[COLOR white]Las crónicas de Yoda-El clon fantasma [/COLOR][COLOR gold](2013)[/COLOR]</title>    
-<genre>Star Wars,acción,ciencia ficción,aventuras</genre>
-<year>2013</year>
-<thumbnail>https://www.themoviedb.org/t/p/original/amZfOzdfZDA3XMGSZOBzy0neIJj.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/tz1f72pS6nOCl9Ac3WgElU3zFbw.jpg</fanart>
-<info>Comienza cuando Darth Sidious desvela su plan para crear una súper arma (un clon Sith mejorado cuyo nombre es Jek-14) para ayudarle a derrotar a la República de una vez por todas. Corresponde al Jedi Master Yoda y a sus jóvenes estudiantes Padawan trabajar juntos y ¡salvar la galaxia!.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/pdmhhsw0dh84"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 720[/COLOR]","url" : "https://streamtape.com/v/3aWO3LxaLOs21G"}</urlsolve>
+<title>[COLOR white]La Venganza Del Bloque [/COLOR][COLOR gold](Corto)(2005)[/COLOR]</title>    
+<genre>Familia,Fantasia,Ciencia ficción,Animacion</genre>
+<year>2005</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/klEna4rKkShbjXGzJa6Dcjt5ftA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pmKhN5SsjI67OMbyMS4zaalGkk1.jpg</fanart>
+<info>Cortometraje realizado con piezas de LEGO y que adapta libremente "Star Wars III: La venganza de los Sith". Animado por Treehouse Animation, contó con Mark Hamill (el Luke Skywalker de la trilogía original) como narrador, y se trata de un proyecto oficial, no un fanfilm. Se estrenó a través del canal Cartoon Network y posteriormente fue incluido como extra en la edición para coleccionistas de 2 DVD de la serie "Las Guerras Clon".</info>
+<urlsolve>https://www.fembed.com/v/kw0qjh3pm3drl7g</urlsolve>
 </item>
 
 
 <item>
-<title>[COLOR white]Las crónicas de Yoda-La amenaza de los Sith [/COLOR][COLOR gold](2013)[/COLOR]</title>    
-<genre>Star Wars,acción,ciencia ficción,aventuras</genre>
-<year>2013</year>
-<thumbnail>https://www.themoviedb.org/t/p/original/amZfOzdfZDA3XMGSZOBzy0neIJj.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/tz1f72pS6nOCl9Ac3WgElU3zFbw.jpg</fanart>
-<info>Count Dooku usa su nuevo y mejorado Clone-a-Matic para crear un ejército de clones Jek, pero el original Jek-14 no quiere participar en este plan siniestro. Ahora, con la ayuda de algunos viejos amigos y dos Droids familiares, el profesor sustituto Anakin Skywalker debe conducir a la clase de los Padawan de Yoda a la victoria.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/vpet40l3m1e8"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 720[/COLOR]","url" : "https://streamtape.com/v/bQad9AXlOlhPwbM"}</urlsolve>
+<title>[COLOR white]Recompensa Bombad [/COLOR][COLOR gold](Corto)(2010)[/COLOR]</title>    
+<genre>Familia,Ciencia ficción,Animacion,Comedia</genre>
+<year>2010</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/a4rWxqNs9s8tAWHkBnrEJIwAKVd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jTB8BKStGgIktED2yVMA6U6mppl.jpg</fanart>
+<info>Corto de animación realizado por la productora danesa M2Film para Lego y con la colaboración de Lucas Film. Realizado por Peder Pedersen, que ya había desarrollado un año antes "Lego Star Wars: The Quest for R2-D2". Como en el caso anterior, tuvo su premiere en el canal Cartoon Network.</info>
+<urlsolve>https://www.fembed.com/v/165g4ije3jg5zqk</urlsolve>
 </item>
+
+
+<item>
+<title>[COLOR white]Vacaciones De Verano [/COLOR][COLOR gold](2022)[/COLOR]</title>    
+<genre>Familia,Ciencia ficción,Animacion,Comedia</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/vUL5UXsL5DaYgGVd2GSeqIvMKfK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mpnw4cRrk4RQPdIQXsjeOldz7fm.jpg</fanart>
+<info>Finn ha organizado unas vacaciones sorpresa para sus amigos a bordo del Crucero estelar galáctico Halcyon. Pero el plan de Finn pronto se tuerce cuando se ve separado del grupo. Solo a bordo del Halcyon, Finn se encuentra con tres Espíritus de la Fuerza -Obi-Wan Kenobi, Anakin Skywalker y la Princesa Leia-, que comparten sus inesperados relatos de vacaciones que salieron mal.</info>
+<urlsolve>https://www.fembed.com/v/gl4rji-70m236w1</urlsolve>
+</item>
+
+
 
 
 
