@@ -8,6 +8,19 @@
 
 
 <item>
+<title>[COLOR white] Buenas noches,mama [/COLOR][COLOR yellow](2022) [COLOR aqua]*8.0
+[/COLOR]</title> 
+<genre>Drama,Terror,Misterio</genre>
+<year>2022</year>
+<tmdb>814800</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/oHhD5jD4S5ElPNNFCDKXJAzMZ5h.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7p7O806YpHibq9wyUZcX8LmyhkM.jpg</fanart>
+<info>Este remake de la película austriaca de 2014 del mismo nombre, sigue a una madre y sus dos hijos. En una casa solitaria en el campo, entre bosques y maizales, viven dos hermanos gemelos de nueve años que esperan a su madre. Cuando llega a casa, vendada tras la cirugía estética, nada es como antes. Los niños empiezan a dudar de que esta mujer sea realmente su madre. De esta forma, surge una lucha existencial por la identidad y la confianza en el seno de la familia.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/a4-74YunFMY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/p6rl2gsm-enx82pr"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/vn4xv8q3sdj0xm"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/07a8ipuz6hgy"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/sjz1g6pjg4qe"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/6kzmjil2od51"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/YZvYkqRyVqSvlwQ"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Maigret [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.7
 [/COLOR]</title> 
 <genre>Misterio,Drama</genre>
