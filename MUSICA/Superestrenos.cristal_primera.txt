@@ -21,6 +21,19 @@
 
 
 <item>
+<title>[COLOR white] The Alpha Test [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.4
+[/COLOR]</title> 
+<genre>Ciencia ficcion,Suspense</genre>
+<year>2022</year>
+<tmdb>679548</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/ozbvCucRf3ZXUH5oQSdAayjLVdg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8gL8uQI50n2MDq6mIAENhyIzze7.jpg</fanart>
+<info>Una familia de ciudad lleva a su nuevo dispositivo, The Alpha Home Assistant, a una espiral asesina después de maltratarlo y abusar de él, lo que lleva al I.A. al levantamiento.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/j8JHvSy3hEE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/3kq5w3fm5r5j5jwe"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/4n6wnkd1an6g4o"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/nsg2un5cri68"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/481gcpo3b9bc"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/poner"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/6pxQKDQVryC9yLv"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Espejo,Espejo [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.5
 [/COLOR]</title> 
 <genre>Comedia</genre>
