@@ -7,6 +7,18 @@
 
 
 
+<item>
+<title>[COLOR white] Maigret [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.7
+[/COLOR]</title> 
+<genre>Misterio,Drama</genre>
+<year>2022</year>
+<tmdb>752564</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/xKYqbzwnLNvHtxGpR8dWGw03Sa0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lmNQb7nW88nDYlAbDoHqy6QxZhj.jpg</fanart>
+<info>En París, encuentran el cadáver de una joven con un vestido de noche. El inspector Maigret tratará de identificar al responsable y entender qué le ocurrió a la víctima.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/nxuvN-X1BvQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/jzw16gudrmr2d636"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/o7m07nm7h38k7l"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/796siub8hfl9"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/6obsnbmo3j3w"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/poner"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/wkjV0WYg70CWPd"}</urlsolve>
+</item>
+
 
 <item>
 <title>[COLOR white] Espejo,Espejo [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.5
