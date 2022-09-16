@@ -34,6 +34,19 @@
 
 
 <item>
+<title>[COLOR white] Broad Peak [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.8
+[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2022</year>
+<tmdb>999127</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/n7eiUpUb27Vpd3MBfLro9rkUo0F.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vW2oUgMX3ZhKMPTwYbGnkYDxdUq.jpg</fanart>
+<info>Maciej Berbeka realiza la primera ascensión invernal del Broad Peak en 1988, escapando de la muerte por centímetros. Andrzej Zawada, el líder de la expedición, anuncia un gran éxito. Una vez que regresan a Polonia, resulta que Maciej "solo" alcanzó la Cumbre Rocosa, situada veintitrés metros más abajo que el pico real.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/SFlv1Y4pnnw"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/r5djzgteqdqw-3ee"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/1v37v683i4xxk3"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/m1uxol1y3jyc"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/akhj1bqgseh9"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/poner"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/0JAbBGXkdpH6al"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Espejo,Espejo [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.5
 [/COLOR]</title> 
 <genre>Comedia</genre>
