@@ -8,6 +8,19 @@
 
 
 <item>
+<title>[COLOR white] La batalla del lago Changjin [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.1
+[/COLOR]</title> 
+<genre>Drama,Belica</genre>
+<year>2021</year>
+<tmdb>779029</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/iXvAlIo4DPLBiraC2KLu4977Wo2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dwNeWkccTWJCgfc6yqpkuH93nSu.jpg</fanart>
+<info>Los soldados chinos ganaron la batalla en el lago Changjin, también conocida como la batalla del embalse de Chosin, en condiciones climatológicas extremas. La lucha entre Estados Unidos y China, que tuvo lugar desde el 27 de noviembre al 24 de diciembre de 1950, es considerada como una de las batallas más violentas de la Guerra de Corea.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Dx4Kj7AhPP0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/nz7qrgu251qwk7yr"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/dq6gv8qra730nkn"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/4pd3u8gj2rgw"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/5d2jkam599nb"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/bl2xoffredox"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Gkx9yexvKaFdv7"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Buenas noches,mama [/COLOR][COLOR yellow](2022) [COLOR aqua]*8.0
 [/COLOR]</title> 
 <genre>Drama,Terror,Misterio</genre>
