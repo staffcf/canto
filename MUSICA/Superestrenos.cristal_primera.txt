@@ -8,6 +8,19 @@
 
 
 <item>
+<title>[COLOR white] Revancha ya [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.7
+[/COLOR]</title> 
+<genre>Comedia</genre>
+<year>2022</year>
+<tmdb>762968</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/b1nQDXdZhIS0HgidCPPGyGjKZ7j.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fXPKbQ2ZWYjR2oomVBpfdDVtnJA.jpg</fanart>
+<info>La popular Drea quiere vengarse de su novio por filtrar su vídeo sexual y la estudiante transferida Eleanor es perseguida por un rumor. Tras un encuentro inesperado, las dos deciden ayudarse mutuamente buscando vengarse de los acosadores de la otra.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/rK-JQU_bShc"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/jzw16gudr3jdze7d"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/wn4z6xdrb0g1xw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/k11nw7n6rh3n"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/bbglt7ur6pct"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/uh2syg2dmuge"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/rJGXgJay9qHb6W2"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Visitante [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.5
 [/COLOR]</title> 
 <genre>Terror</genre>
