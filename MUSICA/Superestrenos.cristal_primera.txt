@@ -223,7 +223,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/gQrjtU0B8nGu9fB3ZDkxcXA4lLE.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/iX4wnQu1mPOFDM2pppo7tLyUE5a.jpg</fanart>
 <info>A través de los ojos de un matrimonio en crisis y mediante divertidos dioramas, la directora Tuva Novotny examina la vida en pareja y la monogamia, y nos lleva a reflexionar sobre qué es verdaderamente el "comportamiento natural humano".<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/6ln1i0IYggM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/nz7qrgu251qwk7yr"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/xo4m7zqgsnq707"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/lyy9zyn099ha"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/8m2elfj518pk"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/qbk9bingudf8"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/p8PlR3xYXKirvDB"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/6ln1i0IYggM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/ypmj3waeyp6074gk"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/xo4m7zqgsnq707"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/lyy9zyn099ha"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/8m2elfj518pk"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/qbk9bingudf8"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/p8PlR3xYXKirvDB"}</urlsolve>
 </item>
 
 
