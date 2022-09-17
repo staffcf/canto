@@ -8,6 +8,19 @@
 
 
 <item>
+<title>[COLOR white] Yo era famoso [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.3
+[/COLOR]</title> 
+<genre>Comedia,Drama,Musica</genre>
+<year>2022</year>
+<tmdb>1013228</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/bQorRsE0h6OhB3VdOXa8f2008UG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/svtdY99l55u8q87By6GdKYySmzm.jpg</fanart>
+<info>Vince, una ex estrella del pop desesperada que sueña con regresar. Una improvisada sesión de improvisación con el joven baterista autista Stevie provoca una amistad inesperada entre los dos músicos incomprendidos.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/bZDm9AFT9r0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/5pyw36ad3zqzm8r7"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/n0zdon4rf7qz8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ysq61qobf9rm"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/fedr3q6yfuf8"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/5ghnmor3b6tm"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/QgJKPmwJ49s0PLD"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Revancha ya [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.7
 [/COLOR]</title> 
 <genre>Comedia</genre>
