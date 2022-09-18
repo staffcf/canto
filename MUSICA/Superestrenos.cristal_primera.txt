@@ -8,6 +8,19 @@
 
 
 <item>
+<title>[COLOR white] The Yacht: La pasajera [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.3
+[/COLOR]</title> 
+<genre>Accion,Suspense</genre>
+<year>2022</year>
+<tmdb>999205</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/1RmugOkBFU5eXu1dbr1zdxChLfQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tviTAFuCFRLElylvBAMPjdRnCDZ.jpg</fanart>
+<info>Tres ladrones se hacen con el yate de lujo de una mujer fiestera, quién lucha por sobrevivir después de los hechos.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/JBgbQtJns0A"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/5pyw36ad3zqzm8r7"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://www.fembed.com/v/k3nk7gs3pegnkp4z"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/hx188x3rht54"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/ydwn9lqo4gr0"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/strw6oa5v6r3"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/3466eGMrgpTdPdx"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Yo era famoso [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.3
 [/COLOR]</title> 
 <genre>Comedia,Drama,Musica</genre>
