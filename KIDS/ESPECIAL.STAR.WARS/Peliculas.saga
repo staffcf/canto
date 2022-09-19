@@ -40,6 +40,17 @@
 
 
 <item>
+<title>[COLOR white] Rogue One:Una historia de Star Wars [/COLOR][COLOR gold](2020)[/COLOR]</title>    
+<genre>Star Wars,acción,ciencia ficción,aventuras</genre>
+<year>2020</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/mAqgFQxaBaLkcQBRQf9YnAz9sNQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tWWmyD7ObPlFxVg88wLFed0QWLI.jpg</fanart>
+<info>El Imperio Galáctico ha terminado de construir el arma más poderosa de todas, la Estrella de la muerte, pero un grupo de rebeldes decide realizar una misión de muy alto riesgo: robar los planos de dicha estación antes de que entre en operaciones, mientras se enfrentan también al poderoso Lord Sith conocido como Darth Vader, discípulo del despiadado Emperador Palpatine.</info>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/9q3rr1gk938b.html"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://streamtape.com/v/reryVa0OaKubZlv"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/6q8grh0reypzy00"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white]Star Wars Episodio IV:Una nueva esperanza [/COLOR][COLOR coral](1977)[/COLOR]</title>    
 <genre>Star Wars,acción,ciencia ficción,aventuras</genre>
 <year>1977</year>
@@ -103,3 +114,4 @@
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/nsd3s9i5ycx2.html"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/5zxg0td0wqpxn8p"}</urlsolve>
 </item>
 
+</items>
