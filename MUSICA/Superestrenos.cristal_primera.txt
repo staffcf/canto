@@ -8,6 +8,19 @@
 
 
 <item>
+<title>[COLOR white] El sastre de la mafia [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.1
+[/COLOR]</title> 
+<genre>Crimen,Drama,Suspense</genre>
+<year>2022</year>
+<tmdb>799876</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/lZa5EB6PVJBT5mxhgZS5ftqdAm6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rv0QBVB1TwI93Ch7iNibslAiC4s.jpg</fanart>
+<info>Leonard (Rylance), es un sastre inglés que confeccionaba trajes en la mundialmente famosa Savile Row de Londres. Después de una tragedia personal termina en Chicago, trabajando en una pequeña sastrería en una zona difícil de la ciudad donde hace ropa elegante para las únicas personas a su alrededor que pueden pagarla: una familia de gángsters.‎<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/9IjXnbeTsYA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/7nyx6dag-z5mkp5p"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/zp4m1j0vigg6dn4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/zhzq0yb8k6hc"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/ulevx61h6txs"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/97zgqqqkgtev"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/vK8M4MebDbC4dQP"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Inhumano [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.9
 [/COLOR]</title> 
 <genre>Terror,Comedia</genre>
