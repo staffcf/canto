@@ -34,6 +34,19 @@
 
 
 <item>
+<title>[COLOR white] Supercool [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.3
+[/COLOR]</title> 
+<genre>Comedia,Accion</genre>
+<year>2021</year>
+<tmdb>514466</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/3NV278UG4Z8wOWpKFHz6I7D7Nda.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iamS2MqyuJCuNDCly3Mrr5Mlw5T.jpg</fanart>
+<info>Mejores amigos, Neil y Gilbert comienzan su último año de secundaria con grandes esperanzas y aspiraciones. Neil siempre ha fantaseado con ser lo suficientemente genial como para salir con su enamorado de mucho tiempo y Gilbert siempre ha soñado con ser una súper estrella de las redes sociales. Después de lo que es, según todos los informes, un primer día muy decepcionante y vergonzoso en la escuela, Neil pide un deseo mágico de ser genial justo en el momento mágico en que el reloj marca las 11:11. A la mañana siguiente, Neil se despierta con una realidad que proviene directamente de los cómics de sus sueños.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/9IjXnbeTsYA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/qqrjkguel8wyj3q0"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/1v3knnmmhzzko"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/q2zgpjr2udp5"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/s6y1a43evvyg"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/i5tl1gmm3n1b"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Ww71jMlxz1Fbz8V"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Esperando a Mister Bojangles [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.6
 [/COLOR]</title> 
 <genre>Drama,Romance,Comedia</genre>
