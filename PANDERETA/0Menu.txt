@@ -293,6 +293,15 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Andor[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Star.wars.andor</externallink>
+<info>Las aventuras del espía rebelde Cassian Andor durante los años de formación de la Rebelión antes de los eventos de Rogue One: A Star Wars Story. La serie explora historias llenas de espionaje y atrevidas misiones para devolver la esperanza a una galaxia dominada por un imperio despiadado.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/obpaq1bUNPMJ73nsNDYqTtBAbfs.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Angel Nieto Cuatro Vidas [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Angel.nieto.cuatro.vidas</externallink>
@@ -5549,14 +5558,6 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 <fanart>https://www.themoviedb.org/t/p/original/1Ub0dpudjYZzKKBh3jw5PMLczmn.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR gold]* [COLOR white]Star Wars: Andor[COLOR white][/COLOR]</title>  
-<link>cristalazul</link>
-<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Star.wars.andor</externallink>
-<info>Las aventuras del espía rebelde Cassian Andor durante los años de formación de la Rebelión antes de los eventos de Rogue One: A Star Wars Story. La serie explora historias llenas de espionaje y atrevidas misiones para devolver la esperanza a una galaxia dominada por un imperio despiadado.</info>
-<thumbnail>https://www.themoviedb.org/t/p/original/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/obpaq1bUNPMJ73nsNDYqTtBAbfs.jpg</fanart>
-</item>
 
 <item>
 <title>[COLOR gold]* [COLOR white]Star Wars: La Remesa Mala[COLOR white][/COLOR]</title>  
