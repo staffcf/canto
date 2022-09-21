@@ -6649,6 +6649,7 @@ Ruawai Maaka consiguen deshacerse del demonio y así nace la Unidad Paranormal d
 <item>
 <title>[COLOR gold]* [COLOR white]Zero[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
+<tmdb>119861</tmdb>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Zero.txt</externallink>
 <info>Un hombre y una mujer se despiertan en un lugar extraño, desierto y desconocido, sin saber quiénes son y por qué se encuentran allí. Con el paso de los días, y mientras tratan de salir de ese inhóspito lugar, comienzan a recordar algunas cosas que tal vez preferirían no saber. Quizás las respuestas a todo las tenga Ismael, un hombre que les controla desde la distancia, sin ser visto. </info>
 <thumbnail>https://i.imgur.com/Hu1k2fM.jpg</thumbnail>
@@ -6658,6 +6659,7 @@ Ruawai Maaka consiguen deshacerse del demonio y así nace la Unidad Paranormal d
 <item>
 <title>[COLOR gold]* [COLOR white]Zomboat[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
+<tmdb>94421</tmdb>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Zomboat.xml</externallink>
 <info>El apocalipsis zombie se desata en Birmingham y las hermanas Kat y Jo,acompañadas por dos extraños llamados Sunny y Amar, deben huir para salvar sus vidas... empleando un pequeño barco que surca los canales de la ciudad.</info>
 <thumbnail>https://i.imgur.com/0w2PYVX.jpg</thumbnail>
