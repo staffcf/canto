@@ -7,6 +7,45 @@
 
 
 <item>
+<title>[COLOR white] Lou [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.3
+[/COLOR]</title> 
+<genre>Accion,Suspense</genre>
+<year>2022</year>
+<tmdb>429473</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/djM2s4wSaATn4jVB33cV05PEbV7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mZWesQkqzH35Jsgp5N8CHUFCjy4.jpg</fanart>
+<info>Una tormenta inclemente. Una niña secuestrada. Una madre desesperada. Y una misteriosa vecina que no duda en unirse a una peligrosa misión de rescate en la naturaleza.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/VEG2IIvYu60"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/17nmwyajezm0mxww"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/zp48z0v4bzgjlm"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/89pngeq05iqd"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/3x92z1kx6u9f"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/6sjauzuh5css"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/yBd8LGyL1qh1qzR"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Atenea [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.7
+[/COLOR]</title> 
+<genre>Drama,Accion,Suspense</genre>
+<year>2022</year>
+<tmdb>852046</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/66hefmZ1ZVLO1Hb57sZVGSlDAmM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dqKPTzFVTD7kbRfjgV9Bz0IT9x4.jpg</fanart>
+<info>Horas después de la trágica muerte de su hermano menor en circunstancias inexplicables, la vida de tres hermanos se ve sumida en el caos.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/74Ah1o-C6DI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/deq685ax2dlgyy40"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/endo0q0vc1qrnx"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ywxy11k72jvu"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/yut27atc9z92"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/sp0b6ox7gpbs"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/0LOvW2Mr8BsZ1z"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Sueños peligrosos [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.2
+[/COLOR]</title> 
+<genre>Terror,Suspense</genre>
+<year>2022</year>
+<tmdb>852830</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/ur1BzhdjLLyMe9YiVpZ3XM4kUPj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/t6Fs0EOFIxzEGHZLHxJ3v7K4JRB.jpg</fanart>
+<info>Un prometedor dúo country en ascenso busca la mansión apartada de su ídolo Harper Dutch, una ex estrella de la música country y realeza de Nashville convertida en reclusa. Lo que comienza como una visita amistosa se convierte en una retorcida serie de horrores que obligan a los amigos a enfrentarse a los extremos a los que llegarán para realizar sus sueños.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/NszozSIwrqk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/17nmwyajez-ej147"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/rw8eddrjhm1jdl"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/yzfo8wkuhm4o"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/y6c35eck4amr"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/k9rndgn115mf"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/xb2VJxK91wfkODK"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Sed de Venganza (Vendetta) [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.5
 [/COLOR]</title> 
 <genre>Accion,Crimen,Suspense</genre>
