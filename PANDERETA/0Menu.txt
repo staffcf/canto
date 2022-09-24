@@ -5669,7 +5669,7 @@ Una vez allí, se encontrarán con un enemigo mucho peor que los Goaul'd; los Wr
 </item>
 
 <item>
-<title>[COLOR gold]* [COLOR white]Tales of The Walking Dead [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<title>[COLOR gold]* [COLOR white]Tales of The Walking Dead[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Tales.of.walking.the.dead</externallink>
 <info>Seis episodios independientes originales de una hora centrados en personajes nuevos y establecidos dentro del apocalipsis caminante. Cada episodio tiene su propio tono y punto de vista distintos, pero hay mucho en juego en cada historia, lo que empuja a personajes nuevos e indelebles con elecciones y situaciones implacables y potencialmente mortales. Podemos ver el apocalipsis a través de otros ojos, descubriendo más mundos, mitos y misterios de The Walking Dead.</info>
