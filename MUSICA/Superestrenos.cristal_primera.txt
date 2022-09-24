@@ -8,6 +8,19 @@
 
 
 <item>
+<title>[COLOR white] Por los pelos [/COLOR][COLOR yellow](2022) [COLOR aqua]*4.7
+[/COLOR]</title> 
+<genre>Comedia</genre>
+<year>2022</year>
+<tmdb>826218</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/l1gpVietOZl6UPfNY3zxaLkEPci.jpg</thumbnail>
+<fanart>https://i.imgur.com/gic8GQS.jpeg</fanart>
+<info>Quedarse calvo sigue siendo un trauma para muchos hombres. Juanjo, Sebas y Rayco son tres ejemplos, entre millones, de cómo la alopecia, conlleva también la caída de la autoestima. Pero si bien la alopecia no diferencia ni entiende de estratos sociales, su solución, sí. Y es que, lo que hasta ahora era prohibitivo para muchos, Turquía lo ha hecho accesible para todos con su turismo capilar low cost, convirtiéndose así en el nuevo maná de los calvos. Juanjo, Sebas y Rayco se embarcarán en una aventura en la que descubrirán que su problema no está tanto encima de su cabeza, si no dentro.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Dv91MMfBkJE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/l14zdgsnmpmkn4qg"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/xo4zvxw6tkz0ne"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/0py0cqkuuc0d"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/oaimnw3bxmgd"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/xgfeycijup9l"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/zkeDAvmDbDFkpw"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Hombres al borde de un ataque de nervios [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.8
 [/COLOR]</title> 
 <genre>Comedia</genre>
