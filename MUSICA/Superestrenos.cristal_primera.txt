@@ -6,6 +6,33 @@
 
 
 
+
+<item>
+<title>[COLOR white] Hombres al borde de un ataque de nervios [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.8
+[/COLOR]</title> 
+<genre>Comedia</genre>
+<year>2022</year>
+<tmdb>783556</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/aIeYmoVssfMkcJxnWwUJGSKtm1D.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uyXlU1pBvixjbDnPgLzYUcbQ4yX.jpg</fanart>
+<info>Siete hombres, de entre 17 y 70 años, muy distintos entre sí, aunque todos al borde de una crisis nerviosa, van a seguir una terapia de grupo en plena naturaleza. Este misterioso taller, "exclusivamente reservado para hombres", se supone que hace milagros. Primera sorpresa nada más llegar: ¡el animador es una mujer! Imprevisible y desconcertante, va a hacer todo lo posible para ayudarles a mejorar. Con o sin su consentimiento...<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/JCEmUuRVoes"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/001zwehljnz3nezg"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/7r7og61mie8m6"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/cfjqane6i71o"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/comu8phi17yd"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/9zo7q51hket8"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/VVYjvkw2WQSK2Yg"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Secretos, mentiras, pasiones y jazz [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.0
+[/COLOR]</title> 
+<genre>Drama,Romance</genre>
+<year>2022</year>
+<tmdb>921643</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/juvKmySdoCFmjuPeokOtEK3jGHx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oQ8yfQkL6rXK4sNSlrN5baos0mW.jpg</fanart>
+<info>Una historia de amor prohibido y secretos familiares que abarca desde los años 40 a los 80.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/PCggYIdUpyw"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/001zwehljn24gnj8"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/1v3wglxlhg1gp9"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/yzbwlt0iwt4d"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/u3el40rscfn6"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/itxnyc307xnx"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/zwKY1P8DVdskoW"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Lou [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.3
 [/COLOR]</title> 
