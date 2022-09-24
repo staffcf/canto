@@ -2357,6 +2357,15 @@ Entre las estrellas que han aparecido en la serie, interpretando versiones satí
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]From[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/From</externallink>
+<info>Desvela el misterio de un pueblo de pesadilla en el centro de Norteamérica que atrapa a todos los que entran. Mientras los residentes involuntarios luchan por mantener una sensación de normalidad y buscan una salida, también deben sobrevivir a las amenazas del bosque circundante, incluidas las aterradoras criaturas que salen cuando se pone el sol.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/mSAvsJK5XNOAnMlc6FDuo8k3YMX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tUtCKwFnllW94qM3DRWK9acrFKi.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Frontera[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Frontera.xml</externallink>
