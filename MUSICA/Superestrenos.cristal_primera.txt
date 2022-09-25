@@ -8,6 +8,32 @@
 
 
 <item>
+<title>[COLOR white] Fullmetal Alchemist:La alquimia final [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.5
+[/COLOR]</title> 
+<genre>Fantasia,Accion,Aventura</genre>
+<year>2022</year>
+<tmdb>960704</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/y6b8OraLybW0O4VFIxnmkPl9ZJc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iVDVuJj5VjfjLYa0wX1DaolL1ST.jpg</fanart>
+<info>El largo y sinuoso viaje de los hermanos Elric llega a su fin en este final épico, donde deben enfrentarse a una amenaza nacional sobrenatural.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Zgxz5pcV5q0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/-n7pwqap31x65148"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/wn4146q0f00evlz"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/m91jz34zi82o"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/nnqmk8qrr4q5"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/w748gdr12ee9"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/BAk6zmXXzQFyBql"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Fullmetal Alchemist:La venganza de Cicatriz [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.0
+[/COLOR]</title> 
+<genre>Fantasia,Accion,Aventura</genre>
+<year>2022</year>
+<tmdb>960700</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/h3GeQvpa9rY1iAlnE7RoS4lFqzV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yaze6df9AMIA9oeDEbIZ4zOTRCJ.jpg</fanart>
+<info>Cuando una misteriosa figura comienza a apuntar a los Alquimistas del Estado por sus pecados contra Dios, el Alquimista Edward Elric y su hermano Alphonse se encuentran en su punto más vulnerable de sus vidas. Mientras, los homúnculos comienzan a revelarse una vez más.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/EvO0cNx80Hk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/4xrlw4uzm62l2115"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/l61x1zekie4r6d"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/uw92bb1acdzy"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/cks9in8ah9cv"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/zt77tw646by7"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/wDwmryvdQqsJ9KG"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Por los pelos [/COLOR][COLOR yellow](2022) [COLOR aqua]*4.7
 [/COLOR]</title> 
 <genre>Comedia</genre>
