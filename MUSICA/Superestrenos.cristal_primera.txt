@@ -8,6 +8,19 @@
 
 
 <item>
+<title>[COLOR white] Bullet Train [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.4
+[/COLOR]</title> 
+<genre>Accion,Comedia,Suspense</genre>
+<year>2022</year>
+<tmdb>718930</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/MbP1pIUKQcZaC1XCwSomuiLrva.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/36nwrLGG8ZgGTCic3QLUOGCnwU6.jpg</fanart>
+<info>Cinco asesinos a sueldo se encuentran a bordo de un tren bala que viaja de Tokio a Morioka con unas pocas paradas intermedias. Descubren que sus misiones no son ajenas entre sí. La pregunta es quién saldrá vivo del tren y qué les espera en la estación final.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/KmfnQMJmK2w"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/xm0jygc5g8p22wz0"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/kn6v8zvmi6vpox"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/po6bq1tyfi9k"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/vu1chff8sf0k"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/7x1a8kjqxy0l"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Rm3BzDMlv8idQwz"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Fullmetal Alchemist:La alquimia final [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.5
 [/COLOR]</title> 
 <genre>Fantasia,Accion,Aventura</genre>
