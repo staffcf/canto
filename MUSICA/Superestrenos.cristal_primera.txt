@@ -8,6 +8,19 @@
 
 
 <item>
+<title>[COLOR white] Blonde [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.5
+[/COLOR]</title> 
+<genre>Drama,Historia</genre>
+<year>2022</year>
+<tmdb>301502</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/jOgbnL5FB30pprEjZaY1E1iPtPM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kjlwScavDUEbneeeN8ypL8eJktC.jpg</fanart>
+<info>Basada en el bestseller de la cinco veces finalista al Premio Pulitzer, Joyce Carol Oates, BLONDE es la historia personal audazmente reinventada de la sex symbol más famosa del mundo, Marilyn Monroe. La película es un retrato ficticio de la modelo, actriz y cantante durante los años 50 y 60, contada a través de la mirada moderna de la cultura de las celebridades.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/6mgek159VZs"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/poner"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/enmrqnv8fpz4p3"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/q7gbnmug96jp"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/cqyvix3hfprg"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/vanopxnla0do"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/kz4bJlqWLRCOlAk"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Bullet Train [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.4
 [/COLOR]</title> 
 <genre>Accion,Comedia,Suspense</genre>
