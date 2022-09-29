@@ -8,6 +8,19 @@
 
 
 <item>
+<title>[COLOR white] Padre no hay mas que uno 3 [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.8
+[/COLOR]</title> 
+<genre>Comedia,Familia</genre>
+<year>2022</year>
+<tmdb>975120</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/bb7mPVCKVPGFM0NTqd5JmqqI4gu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/i9BtOklh2txI78wNSTNjoAZ6Fvj.jpg</fanart>
+<info>Se acercan las Navidades. Los niños rompen accidentalmente una figurilla del Belén de colección de su padre y deben conseguir por todos los medios una igual, el problema es que es una pieza única de anticuario. Sara, la hija mayor rompe con su novio, Ocho, que intentará recuperar sus favores con la ayuda de su suegro, Javier. Precisamente el suegro de Javier, el padre de Marisa, será acogido en la casa familiar para pasar las fiestas tras su reciente separación, lo cual no dejará indiferente a la madre de Javier, Milagros. Rocío, la folclórica de la familia, que hacía de Virgen desde hace varias Navidades, es relegada este año a hacer de pastorcilla, algo que su padre, Javier, no está dispuesto a asumir.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/9oQDaocd8z0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/001zwehljq2xmw1p"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/enmrg1mefg3g4e"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/tghg9vjmaelh"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/r1picm8ec5ib"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/poner"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/12D06z0BjeueAJB"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Telefono Negro [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.9
 [/COLOR]</title> 
 <genre>Terror,Suspense</genre>
