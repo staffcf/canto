@@ -6731,6 +6731,16 @@ Una vez allí, se encontrarán con un enemigo mucho peor que los Goaul'd; los Wr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]The Serpent Queen[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>118189</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.serpent.queen</externallink>
+<info>Serie de ocho partes basada en el libro de Leonie Frieda "Catherine de Medici: Renaissance Queen of France".</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/y4x5xiyGMYnofxSNBxZ9VwEjAbS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vikcAIycnWW6S5ax5oALpABG3Pu.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]The Shrink Next Door[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>102540</tmdb>
