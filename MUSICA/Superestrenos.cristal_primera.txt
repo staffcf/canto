@@ -20,6 +20,19 @@
 
 
 <item>
+<title>[COLOR white] La voluntaria [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.3
+[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2022</year>
+<tmdb>816705</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/l5z77lEYDUsSSBz6opEzCjHk3CR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mdaukK8wT8DSUo0Z7abURuETJD1.jpg</fanart>
+<info>Cansada de su vida de jubilada, y de compararse con sus amigas que son abuelas, Marisa (Carmen Machi) decide viajar a un campo de refugiados griego donde, a su parecer, necesitan a gente exactamente como ella. Al llegar allí, descubre una realidad que no habría podido imaginar y que le lleva a explorar los límites entre el amor y la necesidad de sentirse útil.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/E-GFFZmzj-A"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/jzw16gudr47w052d"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/9ndpk139ar3kmw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/pu5uue0j3v0z"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/ubeviqtbsz1v"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/mzvmrewxsahi"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/a0aADqDwozFx6Ob"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Padre no hay mas que uno 3 [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.8
 [/COLOR]</title> 
 <genre>Comedia,Familia</genre>
