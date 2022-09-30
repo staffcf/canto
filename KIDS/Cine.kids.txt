@@ -4560,6 +4560,20 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <urlsolve>https://www.fembed.com/v/165g4ijwpdmpe1p</urlsolve>
 </item>
 
+----------------------------------------------------------------------------------------------------------------------
+ 
+"Tag= Malu3, Disney, 1Animacion Pokemon A2022, Letra P " 
+
+<item>
+<title>[COLOR white] Pokemon: Las Cronicas De Arceus [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Animacion</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/h1exitd2vikxGY6ZQbmrAmqz1S.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5X77Ep0wZLuxVuDhh5g7xJr3R9d.jpg</fanart>
+<info>Mientras investigan la leyenda del mítico Pokémon Arceus, Ash, Goh y Maya destapan una conspiración del Equipo Galaxia que pone en peligro al mundo.</info>
+<urlsolve>https://www.fembed.com/v/6q8grh07nq4nmxn</urlsolve>
+</item>
+
  
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
