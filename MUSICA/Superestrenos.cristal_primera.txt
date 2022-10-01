@@ -7,6 +7,19 @@
 
 
 <item>
+<title>[COLOR white] El hombre que vendio su piel [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.3
+[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2021</year>
+<tmdb>669363</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/rgoKN6jivTGbzfrFpu76KDpNwQo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6Bz5H7nAHLzO8qRmvhBCUeyToof.jpg</fanart>
+<info>Sam Ali, un joven sensible e impulsivo de Siria, abandona su país poniendo rumbo hacia el Líbano huyendo de la guerra. Para poder viajar por Europa y vivir así con el amor de su vida, acepta tatuarse la espalda a manos de uno de los artistas contemporáneos más importantes que existen. Tras convertir su cuerpo en una prestigiosa obra de arte, Sam comprende poco a poco que su decisión implica todo lo contrario a lo que él deseaba en un principio: la libertad<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/b8DlLpFRXCo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/001zwehljz47d6-0"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/qlw8mr4ecwno4l"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/kntdnh1o6gl6"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/72u0q0ocimbf"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/zeqtv3433gjc"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/mkjRoQb1gaIbmZ0"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El retorno de las brujas 2 [/COLOR][COLOR yellow](2022) [COLOR aqua]*8.7
 [/COLOR]</title> 
 <genre>Fantasia,Comedia,Familia</genre>
