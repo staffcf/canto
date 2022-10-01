@@ -7,6 +7,19 @@
 
 
 <item>
+<title>[COLOR white] El nino detras de la puerta [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.6
+[/COLOR]</title> 
+<genre>Terror</genre>
+<year>2022</year>
+<tmdb>741613</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/kj06cDpZKYKvXstU1EU9NDL7jAe.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wsiCAh4YKqMxpZ0pd0Ke6tZS9Gz.jpg</fanart>
+<info>Cuando Bobby y su mejor amigo, Kevin, son secuestrados y encerrados en una extraña casa en mitad de ninguna parte, el primero logra escapar. Pero a medida que se aleja escucha los gritos desesperados de su compañero, por lo que decide dar media vuelta y tratar de ayudarle.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/vth_wTR-EMk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/qqrjkguel1znknn5"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/4n3kp8oqs6v3og"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/0f7chwucf3nv"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/yz4146r50o16"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/g4kb5w9qeach"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Q1l2XPmxylFwX3"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El hombre que vendio su piel [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.6
 [/COLOR]</title> 
 <genre>Drama</genre>
