@@ -7,6 +7,19 @@
 
 
 <item>
+<title>[COLOR white] El Arrecife: Atrapadas [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.3
+[/COLOR]</title> 
+<genre>Terror,Suspense</genre>
+<year>2022</year>
+<tmdb>730167</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/zDyoonhhDBGCWCkE5EZt6yqIp4M.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3mvV2BXwZnQdUuvGECaHoUjxB3d.jpg</fanart>
+<info>Después del asesinato de su hermana, Nic, su hermana menor y dos amigos buscan consuelo en una aventura en kayak por una isla del Pacífico. Después de horas de viaje, las mujeres son acechadas por un tiburón y deben unirse, enfrentar sus miedos y salvarse mutuamente.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/-k7giqA0LHQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/z6-j4gsjzkyj67dz"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/dq6n06qoi7dq9d0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ilp1s5sxqiy8"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/o3s8ruvcge7v"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ps5jw0534r0h"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/l4XlWPYdQLU7XrA"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Mr. Wain [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.1
 [/COLOR]</title> 
 <genre>Historia,Drama,Comedia</genre>
