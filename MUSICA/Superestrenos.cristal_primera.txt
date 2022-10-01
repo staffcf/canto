@@ -137,6 +137,19 @@
 
 
 <item>
+<title>[COLOR white] Miss Futuro [/COLOR][COLOR yellow](2021) [COLOR aqua]*Sin Puntuación 
+[/COLOR]</title> 
+<genre>Comedia,Fantasia</genre>
+<year>2021</year>
+<tmdb>929849</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/fBcsORbYU4KbCu0sM40dYgszSnh.jpg</thumbnail>
+<fanart>https://i.imgur.com/HQWtcDK.jpeg</fanart>
+<info>La vida de la hermana Ada da un vuelco cuando es sorprendida en el convento leyendo a escondidas sobre las vidas de estrellas de cine. Tras serle encomendada una misión evangelizadora en el cruising de El Retiro (Madrid), Ada intentará retomar su carrera de actriz en una ciudad donde ha perdido casi todos sus vínculos, por lo que decide huir a Nueva York -atraída por una deslumbrante ciudad de película-, donde le aguarda un misterioso peligro del que solo escapará a través de la fe en las nuevas diosas de Manhattan.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/7r6We5BEj2Q"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/2p1qwxa24w72jr6y"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sb/e/1vz1416gsq4qn6"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/gzyf8fgypwgz"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/e59mvzjmpm21"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/bffjdbscqv22"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/wrARYeYYbaCJ1Mb"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Fullmetal Alchemist:La alquimia final [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.5
 [/COLOR]</title> 
 <genre>Fantasia,Accion,Aventura</genre>
