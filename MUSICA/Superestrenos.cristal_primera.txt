@@ -7,6 +7,19 @@
 
 
 <item>
+<title>[COLOR white] Yo me encargo de la cerveza [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.5
+[/COLOR]</title> 
+<genre>Drama,Comedia,Belica</genre>
+<year>2022</year>
+<tmdb>597922</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/ebZLD9PD1YGU15QoY1PfVOj2x1n.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/z8KsgBFtduX5bS1yVkjoGo4L7KJ.jpg</fanart>
+<info>Nueva York, 1967. Para demostrar su apoyo a sus colegas del barrio que están combatiendo en Vietnam, Chickie Donohue (Zac Efron) decide viajar a la primera línea del frente para llevar a los soldados unas latas de su cerveza norteamericana favorita. Lo que empieza como un viaje repleto de buenas intenciones se convierte rápidamente en una aventura iniciática cuando Chickie se enfrenta a la realidad de esa controvertida guerra, y cuando el reencuentro con sus amigos de la infancia le muestra las complejidades y responsabilidades de la vida adulta.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/wkreF1zrhoc"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/qqrjkguel1x-8-j6"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/o7kq9w3ecn4ez"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/clg84lqm09b8"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/if9cvc6evk3s"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/4msixgjp02s0"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/yAagb4D6KLFmzb"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Project Gemini [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.3
 [/COLOR]</title> 
 <genre>Ciencia Ficcion</genre>
