@@ -7,6 +7,19 @@
 
 
 <item>
+<title>[COLOR white] Nitram [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.0
+[/COLOR]</title> 
+<genre>Drama,Suspense</genre>
+<year>2022</year>
+<tmdb>797457</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/qOmOMMgqZj7vooTDEqzOUF4jzX0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9ugGl7jpiIvKj3UTY331MKl4Bz4.jpg</fanart>
+<info>Nitram vive con sus padres en los suburbios de Australia a mediados de los noventa. Vive una vida de aislamiento y frustración por no encajar nunca. A medida que crece su ira, comienza un lento descenso hacia una pesadilla que culmina en los actos más atroces.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/4dU4OvBoO0I"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/jzw16gudrzle3zpg"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/o7kxr4x4c1nkmp"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/6mgtl1hfr7nd"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/62bm8zvbyry0"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/zthtrfwj1aet"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/poner"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El mar del norte [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.7
 [/COLOR]</title> 
 <genre>Accion,Drama,Suspense</genre>
