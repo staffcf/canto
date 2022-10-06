@@ -7,6 +7,19 @@
 
 
 <item>
+<title>[COLOR white] El mar del norte [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.7
+[/COLOR]</title> 
+<genre>Accion,Drama,Suspense</genre>
+<year>2022</year>
+<tmdb>623511</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/bYnlT2TbgSMytw0mVTQWAZ4mXNq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/36a7iFrJRt6YdJNjUPOiqZx577X.jpg</fanart>
+<info>Una plataforma petrolífera se hunde dramáticamente en la costa noruega, y los investigadores intentan averiguar qué ha pasado cuando se dan cuenta de que esto es solo el comienzo de algo aún más grave.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/fvWxfinyyvo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/p6rl2gsm-qjkrd5g"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/3ng4x0v8smezndp"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/spziezpkfx6z"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/o8zeeet01gkz"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/9mrvkbiwc61k"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/poner"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El Arrecife: Atrapadas [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.3
 [/COLOR]</title> 
 <genre>Terror,Suspense</genre>
