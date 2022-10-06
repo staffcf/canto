@@ -7,6 +7,19 @@
 
 
 <item>
+<title>[COLOR white] Tu mejor fan [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.6
+[/COLOR]</title> 
+<genre>Comedia</genre>
+<year>2022</year>
+<tmdb>838916</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/gVLnRou0huNhM7pIULzQPeEk8EM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9Dyz4OaiGxImWxNLXaYndYMkkH8.jpg</fanart>
+<info>Cuando Gérard Lanvin se prepara para rodar una de las películas más importantes de su carrera en el sur de Francia, su camino se cruza con el de Momo Zapareto... Para su desgracia, porque Momo es fan, muy fan, demasiado fan. Para Gérard, la pesadilla no ha hecho más que comenzar.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/hg8LoG4B8Go"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/5pyw36ad3prw7d3j"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/846odwl4iznovv"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/u1guwj6enrg2"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/bs433qyqb9l5"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/7vmsf47ivbsh"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/poner"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] La conferencia[/COLOR][COLOR yellow](2022) [COLOR aqua]*7.4
 [/COLOR]</title> 
 <genre>Drama,Historia</genre>
