@@ -41,7 +41,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/aERrzPJyUYAhmbies50dMz21W4u.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/sbS8e0XBqSeNhJi3Ej1phqVnGCy.jpg</fanart>
 <info>Un chico entabla amistad con un anciano y huraño multimillonario y descubre que es capaz de comunicarse con él después de muerto gracias al iPhone con el que fue enterrado. Basada en el relato corto de Stephen King.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/lnPjHE2_iEU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/xm0jygc5gj0gjzzl"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/md09re4maq8olv"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/y3j4mfmp5f75"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/374jdmwt3v5u"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/8lw29mdgtm14"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/poner"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/lnPjHE2_iEU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/xm0jygc5gj0gjzzl"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/md09re4maq8olv"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/y3j4mfmp5f75"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/374jdmwt3v5u"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/8lw29mdgtm14"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/4wy7xOqyVJtKaLY"}</urlsolve>
 </item>
 
 
