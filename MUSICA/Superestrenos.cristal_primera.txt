@@ -54,7 +54,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/uOVmf3I8lmoCCmVjxhA19CN380b.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/tLZlhfGH7riAgzSKo1lJXxAN7ZK.jpg</fanart>
 <info>Para cumplir el último deseo de su mejor amiga, una chica con problemas de ansiedad se enfrenta a sus mayores miedos para recuperar su vida... y quizás encontrar el amor.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/bRh4cwmC_5Y"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/2p1qwxa2465wjy14"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/gn3gxn61fw4rp1z"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/j1gxezu6pc2e"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/cb7e1y40u7k8"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/aubvq6u9zwds"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/poner"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/bRh4cwmC_5Y"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/2p1qwxa2465wjy14"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/gn3gxn61fw4rp1z"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/j1gxezu6pc2e"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/cb7e1y40u7k8"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/aubvq6u9zwds"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/026D23GX6jFbzBW"}</urlsolve>
 </item>
 
 
