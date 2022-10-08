@@ -8,6 +8,19 @@
 
 
 <item>
+<title>[COLOR white] La batalla del lago Changjin 2 [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.7
+[/COLOR]</title> 
+<genre>Belica,Historia,Accion</genre>
+<year>2022</year>
+<tmdb>928123</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/4KNTMdGPpklyQWC8D95kBxQkC8P.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4Ttw2FEUMUfzqHXVf5SNLWL2Ele.jpg</fanart>
+<info>Secuela de "The Battle at Lake Changjin" que se centra en los soldados del CPV (Chinese People's Volunteers) en una nueva misión crucial para vencer a las tropas norteamericanas.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/I5bZfTJwIoM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/e5078lt-j6l6kdpy"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/3ngp44p7u6dl6k"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/puevswrsu8on"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/ou2vw1tz4olm"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/lty1ov4ir4u1"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/v97OerVzzZF4gy7"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Los tres deseos de Cenicienta [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.8
 [/COLOR]</title> 
 <genre>Familia,Fantasia</genre>
