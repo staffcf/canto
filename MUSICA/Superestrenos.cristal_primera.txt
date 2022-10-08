@@ -80,7 +80,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/bYnlT2TbgSMytw0mVTQWAZ4mXNq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/36a7iFrJRt6YdJNjUPOiqZx577X.jpg</fanart>
 <info>Una plataforma petrolífera se hunde dramáticamente en la costa noruega, y los investigadores intentan averiguar qué ha pasado cuando se dan cuenta de que esto es solo el comienzo de algo aún más grave.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/fvWxfinyyvo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/p6rl2gsm-qjkrd5g"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/3ng4x0v8smezndp"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/spziezpkfx6z"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/o8zeeet01gkz"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/9mrvkbiwc61k"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/poner"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/fvWxfinyyvo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/p6rl2gsm-qjkrd5g"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/3ng4x0v8smezndp"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/spziezpkfx6z"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/o8zeeet01gkz"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/9mrvkbiwc61k"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Kg9mBWJdV2C0kro"}</urlsolve>
 </item>
 
 
