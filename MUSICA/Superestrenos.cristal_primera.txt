@@ -33,15 +33,15 @@
 
 
 <item>
-<title>[COLOR white] Delirium [/COLOR][COLOR yellow](2022) [COLOR aqua]*4.8
+<title>[COLOR white] Delirium [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.7
 [/COLOR]</title> 
 <genre>Suspense,Terror</genre>
 <year>2022</year>
-<tmdb>401732</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/original/iwYkzVCE5pfxxxCnkzx9dgci9s.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/nLDznZbtOaQULLwYiEvr1oejL7E.jpg</fanart>
-<info>Unos jóvenes retan a un compañero de clase a llegar al porche de una casa antigua que supuestamente está encantada tras una masacre familiar. Con la esperanza de hacer un vídeo viral, le dan una videocámara para demostrar que estuvo ahí y pasó miedo. Cuando no vuelve, los jóvenes tendrán que ir a buscarlo.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/nQUQcNnRRPo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/p6rl2gsm-6nrl0xp"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/pklzke3nc88v8l"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/5w0lx0dnk3nw"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/hk7x9r7byq4j"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/b2khahqsdd1q"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/poner"}</urlsolve>
+<tmdb>340601</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/1Yqkyqxs4F7Lo1e1nxcTl9qiMSy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oO7jZXPbzjvc4F5icsYqFGHzqSr.jpg</fanart>
+<info>Un hombre recientemente liberado de un instituto mental hereda una mansión después de que sus padres mueren. Después de una serie de eventos perturbadores, llega a creer que está embrujado.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/XTXvB2DW2bg"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/p6rl2gsm-6nrl0xp"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/pklzke3nc88v8l"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/5w0lx0dnk3nw"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/hk7x9r7byq4j"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/b2khahqsdd1q"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/poner"}</urlsolve>
 </item>
 
 
