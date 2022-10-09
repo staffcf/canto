@@ -1756,6 +1756,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El Club De La Medianoche[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>126264</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.club.de.la.medianoche</externallink>
+<info>Serie de TV basada en las novelas de Christopher Pike. Siete pacientes terminales que viven en el hospicio Rotterdam Home empiezan a reunirse a medianoche para contar historias de miedo.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/4UX51lzab7V2bv5rIXahHJUsPrT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/j2VzFsTViY7YK5c1IUreOsoghjW.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El Coche Fantastico [COLOR gold]Retroserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>2384</tmdb>
