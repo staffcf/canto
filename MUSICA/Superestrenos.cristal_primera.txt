@@ -7,6 +7,32 @@
 
 
 <item>
+<title>[COLOR white] Maleficio [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.8
+[/COLOR]</title> 
+<genre>Terror</genre>
+<year>2022</year>
+<tmdb>864370</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/bEN0YnUefVD7AR4I0leT4Ep9tSm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vqEX1uF3Spl12rOACQ3gJ6j4MSR.jpg</fanart>
+<info>Una extraña maldición parece estar atormentando a una niña. Su madre intenta romper el maleficio regresando al lugar donde se originó todo.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/RZq-5A8Zo-o"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/nz7qrgu25n4l17xw"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/9ndvezo0h3qjno0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/abbtohjmlfn7"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/n03k4uk8fbwr"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/wsq8phgapjzt"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/jjLw2ZP3oWFzwqw"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Grimcutty: Asesino implacable [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.4
+[/COLOR]</title> 
+<genre>Terror</genre>
+<year>2022</year>
+<tmdb>1024530</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/78hYJj668lOM1Evl7XsZaPdZzqU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/navvd9bBMuBYbQzKaWKifCw6wsU.jpg</fanart>
+<info>Una adolescente de los suburbios y su hermano pequeño deben detener a un aterrador meme de Internet que cobra vida a causa de la histeria de sus padres.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/lb3FCMpMN4s"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/4xrlw4uzmqxqwzed"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/n07pk40za0z4o3"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/g4qvk5fip6be"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/cekxjmad6lxi"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/appeob3n1yhp"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/dgmwV0ZaGaIka2d"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] La brigada de la cocina [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.6
 [/COLOR]</title> 
 <genre>Comedia</genre>
