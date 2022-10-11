@@ -6371,16 +6371,6 @@ Una vez allí, se encontrarán con un enemigo mucho peor que los Goaul'd; los Wr
 </item>
 
 <item>
-<title>[COLOR gold]* [COLOR white]The Great North[COLOR white][/COLOR]</title>  
-<link>cristalazul</link>
-<tmdb>93221</tmdb>
-<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.Great.North</externallink>
-<info>Sigue las aventuras de la familia Tobin en Alaska, mientras el padre soltero Beef intenta mantener a sus hijos cerca, incluyendo a Judy, cuyas ambiciones la llevan al glamuroso mundo del centro comercial local; los hermanos de Judy, Wolf, Ham y Moon; y la prometida de Wolf, Honeybee.</info>
-<thumbnail>https://i.imgur.com/22XYIv8.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/hxZYm369dKMu8mOmXWIC2n3nSlD.jpg</fanart>
-</item>
-
-<item>
 <title>[COLOR gold]* [COLOR white]Taboo[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <tmdb>65708</tmdb>
@@ -6458,6 +6448,16 @@ Una vez allí, se encontrarán con un enemigo mucho peor que los Goaul'd; los Wr
 <info>Noah es escritor y profesor de instituto, está casado con Helen y es padre de cuatro hijos. Durante un verano de vacaciones en Montauk conoce a Allison, una mujer que intenta recomponer su vida tras haber sufrido una tragedia. Al instante se siente atraído por ella, y ambos comienzan una aventura extramatrimonial. La serie cuenta cómo afecta a una relación sentimental el hecho de que uno de ellos haya sido infiel. Muestra dos versiones de la misma trama por separado, una desde el punto de vista masculino y otra desde el femenino.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/27OIsNrr7Hm8RdjMJIkmCdXVUzx.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/bkoi52bZXplSxQTMOoLhI35VQFb.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]The Bear[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>136315</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.bear</externallink>
+<info>Carmen “Carmy” Berzatto, una joven chef del mundo de la alta cocina, regresa a Chicago para administrar la tienda de sándwiches de su familia después de una muerte desgarradora. Mientras Carmy lucha para transformar el restaurante y a sí mismo, su equipo de cocina rudimentario finalmente se revela como su familia elegida.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/i6sJI3O1874FBdDtM0jn6fpPE0x.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8om3VpbTcTBJa9I8u7doPfRT3ff.jpg</fanart>
 </item>
 
 <item>
@@ -6588,6 +6588,16 @@ Una vez allí, se encontrarán con un enemigo mucho peor que los Goaul'd; los Wr
 <info>Goop, la web de estilo de vida de Gwyneth Paltrow, ayuda a los más curiosos a descubrir temas innovadores sobre salud y bienestar.</info>
 <thumbnail>https://i.imgur.com/U8If4Dg.jpg</thumbnail>
 <fanart>https://i.imgur.com/iPn9nO6.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]The Great North[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>93221</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.Great.North</externallink>
+<info>Sigue las aventuras de la familia Tobin en Alaska, mientras el padre soltero Beef intenta mantener a sus hijos cerca, incluyendo a Judy, cuyas ambiciones la llevan al glamuroso mundo del centro comercial local; los hermanos de Judy, Wolf, Ham y Moon; y la prometida de Wolf, Honeybee.</info>
+<thumbnail>https://i.imgur.com/22XYIv8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hxZYm369dKMu8mOmXWIC2n3nSlD.jpg</fanart>
 </item>
 
 <item>
