@@ -7,6 +7,45 @@
 
 
 <item>
+<title>[COLOR white] Un novio para mi mujer [/COLOR][COLOR yellow](2022) [COLOR aqua]*4.5
+[/COLOR]</title> 
+<genre>Comedia,Romance</genre>
+<year>2022</year>
+<tmdb>932339</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/aDUWcbmzKM2CwkDbXixVvQbTYbo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5PGOawHXBkCPxJXi7GXft6DnQeC.jpg</fanart>
+<info>Diego quiere divorciarse de Lucía, pero no sabe cómo decírselo. Sin poder decírselo a la cara, recurre a Cuervo Flores, un famoso seductor que intentará enamorar a Lucía para que sea ella quien ponga fin a su matrimonio.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/QQysKFk6hxI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/ypmj3waeyy3ggkn0"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/xo3jv78jtoxq1d"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/5gnbxcavrmgo"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/i7q2g1upzx2f"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/puvyr01lm33l"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/lxP6QL0j6pS7gxD"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Blackout [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.8
+[/COLOR]</title> 
+<genre>Acción,Aventura,Suspense</genre>
+<year>2022</year>
+<tmdb>759507</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/xDgnmbdWS59NtTPdzujdZGuPUPZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mjV9gpXO2R2SOYI4ChJZiu6F1OE.jpg</fanart>
+<info>Un hombre se despierta en un hospital sin memoria, y rápidamente se encuentra huyendo en un hospital encerrado con el cártel en la cola.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/QP3sxps6k0s"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/xm0jygc5gg8585k5"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/o7kn3wrlb6zdrv"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/26yszb1o6wm5"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/qjuue4ebicpi"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/etx0ekn8qmxd"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/QXkKgdd4yrs0DBZ"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Motherly [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.0
+[/COLOR]</title> 
+<genre>Suspense,Terror</genre>
+<year>2022</year>
+<tmdb>768447</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/wmh1likQEetSLIUs5MAvfWjEayY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oGOaOZJXTswJGfDzE7BWaFHr35A.jpg</fanart>
+<info>Kate y su hija Beth viven solas en una granja aislada en el bosque, pero cuando Kate comienza a sospechar que algo siniestro está sucediendo, sus instintos maternales se ponen a prueba.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/hI1FPus5l_0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/qqrjkguellg3wyk2"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/rwjd3m41t6m1z4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/0mjw0ob5ghm4"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/xxqyqsea67o4"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/anhndt5on36x"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/MPZy8d1Q1xu09B"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Maleficio [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.8
 [/COLOR]</title> 
 <genre>Terror</genre>
