@@ -7302,6 +7302,16 @@ Una vez allí, se encontrarán con un enemigo mucho peor que los Goaul'd; los Wr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Vigilante[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>210232</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Vigilante</externallink>
+<info>Cartas inquietantes. Vecinos extraños. Amenazas siniestras. Una familia se ve inmersa en una auténtica pesadilla poco después de mudarse a la casa de sus sueños.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/sRjLxMEqILoRBD7PFGoem3NWjlG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4EIzGI91EBdIVpWsdBj14nNrzwh.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Vikingos[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <tmdb>44217</tmdb>
