@@ -54,7 +54,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/jVRPUtO6i13YuFf6uk4RWYHzvBh.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/1dLkK5B4eSSfCuV4CLdx3iCraaF.jpg</fanart>
 <info>Dos actores de muy diferentes trayectorias chocarán por sus métodos contrapuestos durante la preparación de una película financiada por un millonario ávido de notoriedad y dirigida por una prestigiosa y algo excéntrica directora.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Lutwmc_xT48"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/poner"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/8467w9mgh6wv1j"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/kyshmk3r61sp"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/x9acfaz09g30"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/u7a1lmgie0gy"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/GkX0lpBQJMS11Al"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Lutwmc_xT48"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/7nyx6dag--rg8edd"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/8467w9mgh6wv1j"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/kyshmk3r61sp"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/x9acfaz09g30"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/u7a1lmgie0gy"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/GkX0lpBQJMS11Al"}</urlsolve>
 </item>
 
 
