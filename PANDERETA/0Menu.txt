@@ -345,6 +345,16 @@ misiones para devolver la esperanza a una galaxia dominada por un imperio despia
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Anita Directors Cut white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>156837</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Anita.directors.cut</externallink>
+<info>"Anita" narra la vida de la icónica cantante de Hong Kong Anita Mui, cuya deslumbrante carrera se remonta a la infancia. No menos cautivadora que su presencia en el escenario es su inquebrantable devoción por la familia, los amigos, los seres queridos y por el bien de la comunidad. Su vívida vida ha dejado un legado único en la historia musical y le valió el innegable título de "Hija de Hong Kong".</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/wf5TT6C5ItqupST4Tq4u3vOCORq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sW5VwQGg9Ddyhl0uW359I9IqspU.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Anna[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>484641</tmdb>
@@ -4078,6 +4088,16 @@ En paralelo a la serie, Enrique Urbizu realizó un montaje para cines en formato
 <info>Miniserie de 7 episodios. Documental de siete episodios que sigue a los actores Ewan McGregor y Charley Boorman en una moto viajando por todo el mundo. En su largo trayecto recorrieron Francia, Bélgica, Alemania, República Checa, Eslovaquia, Ucrania, Rusia, Kazakstán, Mongolia, Siberia, Alaska y Canadá para llegar tres meses después a su destino final: Nueva York, USA.</info>
 <thumbnail>https://i.imgur.com/KspUy2x.jpg</thumbnail>
 <fanart>https://i.imgur.com/v9SheFF.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Los 8 De irak [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>211043</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Los.8.de.irak</externallink>
+<info>Cuenta el mayor ataque contra los agentes del servicio de inteligencia español, que fueron víctimas de una emboscada el 29 de noviembre de 2003 en Irak. Diecinueve años después, quienes vivieron aquellos días y trabajaron junto a los agentes, recuerdan este trágico acontecimiento.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/ylBcJzLhKG0V2jH6xbLM6RY2cH0.jpg</thumbnail>
+<fanart>https://i.imgur.com/g69pUV3.jpg</fanart>
 </item>
 
 <item>
