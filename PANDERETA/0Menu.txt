@@ -345,7 +345,7 @@ misiones para devolver la esperanza a una galaxia dominada por un imperio despia
 </item>
 
 <item>
-<title>[COLOR gold]* [COLOR white]Anita Directors Cut white][/COLOR]</title>  
+<title>[COLOR gold]* [COLOR white]Anita Directors Cut[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>156837</tmdb>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Anita.directors.cut</externallink>
