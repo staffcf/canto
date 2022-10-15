@@ -7,6 +7,19 @@
 
 
 <item>
+<title>[COLOR white] Cerdita [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.8
+[/COLOR]</title> 
+<genre>Drama,Suspense,Terror</genre>
+<year>2022</year>
+<tmdb>848058</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/paM1fLlZEwOU2ZUhf9Sm0pdwlbD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2iGUavwv86Hubv3V5Iq4qEQXDfE.jpg</fanart>
+<info>Para Sara el verano solo significa tener que soportar las continuas burlas de las otras chicas de su pequeño pueblo. Pero todo terminará cuando un desconocido llegue al pueblo y secuestre a sus acosadoras. Sara sabe más de lo que dice, y tendrá que decidir entre hablar y salvar a las chicas, o no decir nada para proteger al extraño hombre que la ha salvado.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/VAx-L-O_gg0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/8mwx70c8d3n8kz0e"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/l6dw04jnf38w0r"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/0g3jlar4zig1"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/xtbwpvepgi80"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ui1pidn8cefm"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/aYwz6b67OKtdee"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Codigo Banshee [/COLOR][COLOR yellow](2022) [COLOR aqua]*4.7
 [/COLOR]</title> 
 <genre>Suspense,Accion</genre>
