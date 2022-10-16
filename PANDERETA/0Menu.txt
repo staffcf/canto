@@ -3960,6 +3960,16 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Las Mariposas Negras[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<tmdb>208691</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Las.mariposas.negras</externallink>
+<info>Adrien Winckler, de 40 años, es un novelista en apuros que trabaja como escritor fantasma para llegar a fin de mes. En el ocaso de su vida, Albert Desiderio, un humilde jubilado, decide contratar a Adrien para que escriba sus memorias. Pero la increíble historia de amor que Albert compartió con Solange durante los años 70 resulta ser la confesión de una pareja de asesinos en serie. Entre la fascinación y la repulsión, Adrien debe reconocer que esta historia sería una muy buena novela.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/ge19H0tu8EAfpmyOjCVL1p980h2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qlcKTH3YIwPuhnVkw7cDUGxItLq.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Las Peliculas Que Vimos [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>93219</tmdb>
@@ -5896,6 +5906,16 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 <info>Cuando un ataque violento en su pueblo saca a la luz amenazas y secretos mortales, una mujer empieza a encajar las piezas del oscuro pasado de su madre.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/yPTlbfrDv9asnHlCCd3XzM5noF1.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/wVHERV24BUkVpH1tbM5EYLywRMt.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Sagrada Familia[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<tmdb>156883</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Sagrada.familia</externallink>
+<info>La mudanza de una nueva familia a Fuente del Berro romperá la estabilidad de un barrio donde vive Gloria junto a su bebé y Aitana, su au-pair, escondiéndose de un misterioso y oscuro pasado. En un barrio en el que nada es lo que parece, cuatro vecinas forjarán una fuerte amistad con un denominador común, son madres. Su relación parece perfecta, hasta que el pasado de Gloria lo cambia todo. Es entonces cuando descubriremos de lo que es capaz una madre para proteger a su familia, lo más sagrado que tiene.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/a3M52NoKEH35UwyQ0IqRUP2UDBa.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/RBjFjc10f27kXeIy0VMIjENMgT.jpg</fanart>
 </item>
 
 <item>
