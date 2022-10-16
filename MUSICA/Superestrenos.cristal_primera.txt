@@ -5,6 +5,44 @@
 =======================================================================================
 
 
+<item>
+<title>[COLOR white] El entresuelo [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.5
+[/COLOR]</title> 
+<genre>Suspense</genre>
+<year>2022</year>
+<tmdb>879538</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/qEu6qI5sVoIe10gD1BQBqxcNIW2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/60UN7vvcWWggLe0Uz9EFZJx718P.jpg</fanart>
+<info>Un hombre de familia debe luchar por sobrevivir cuando se encuentra atrapado en el espacio de acceso de una cabaña remota en Oregón. donde los cazadores furtivos despiadados han escondido su fortuna.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/X0LHDn0YnBY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/4xrlw4uzm1ep1qmz"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/0vxzpkx8up69m9"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/lwgexra18f28"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/34e0pi3fr9ju"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/aenctk09h9is"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/yGP0BBZ9j2s1Lpw"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] V de venganza [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.5
+[/COLOR]</title> 
+<genre>Terror,Accion</genre>
+<year>2022</year>
+<tmdb>982543</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/jcKlFOWTmnxCna3yJKQ0gngCc3O.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iCVfhIOd1atwd5nlvnhtkxA2Tuu.jpg</fanart>
+<info>Después de enterarse de que su hermano menor escapó de un intento de secuestro anterior que también mató a sus padres, dos hermanas separadas deben unir fuerzas para rescatarla de un grupo de vampiros sedientos de sangre. En busca de venganza y el control de una vacuna contra el vampirismo, Thorn y su banda de muertos vivientes pronto descubren que se metieron con la familia equivocada.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/n0MXe2VQY3M"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/4xrlw4uzm1e571yg"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/0vxzrmjjik96g1n"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/rtg8hkixj5kz"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/i64synj8ulhy"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/tryi83n0brr0"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/3VyzpOlWwyTdwx1"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La magia del chocolate [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.3
+[/COLOR]</title> 
+<genre>Comedia,Drama</genre>
+<year>2022</year>
+<tmdb>681478</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/zseLWq9Mu8E0YfutMCIHDbhPWDP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8HRSoNN5jzP1EVhaLt2ehgvjQDC.jpg</fanart>
+<info>Tras el bombardeo de la fábrica de chocolate de su padre, un refugiado sirio intenta adaptarse a su nueva vida en un pequeño pueblo, atrapado entre la persecución de sus sueños y la conservación del legado familiar.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/7gF-7a5yvtE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/g7e08ya-73zz2jl-"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/n07nmvljs8n1xv"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/g6bkka4fuxky"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/7sjiekrx8axn"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/dwpdr11ejpby"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/XgwLm47xk3hDJZ2"}</urlsolve>
+</item>
+
 
 <item>
 <title>[COLOR white] Cerdita [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.8
