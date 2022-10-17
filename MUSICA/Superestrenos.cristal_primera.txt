@@ -6,6 +6,32 @@
 
 
 <item>
+<title>[COLOR white] X [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.8
+[/COLOR]</title> 
+<genre>Terror,Misterio,Suspense</genre>
+<year>2022</year>
+<tmdb>760104</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/4pCSBPHUPia93rppHF3UX4cLQ9M.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hmYRtv9Wgy0bjTS1cQuqUG448kt.jpg</fanart>
+<info>En 1979, un grupo de jóvenes cineastas se propusieron hacer una película para adultos en la zona rural de Texas, pero cuando sus anfitriones solitarios y ancianos los atrapan en el acto, el elenco pronto se encuentra en una lucha desesperada por sus vidas.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/YHAL3XyDTaU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/-n7pwqap3qx0w826"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/o7kzrmoni7w0z8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/9ou43iwy4uud"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/m8dyqa0umbs3"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/857d07nxwpwk"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/27zXb1g17ZtjZO"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Depredador alpha [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.3
+[/COLOR]</title> 
+<genre>Accion,Suspense,Ciencia ficcion</genre>
+<year>2022</year>
+<tmdb>763164</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/gAPj8ixjgRtj6Cx9oonW7awxdvJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lrzEQNKd2VT4G9z67ObCHpOBoNV.jpg</fanart>
+<info>Cinco cazadores de élite pagan para cazar a un hombre en una isla desierta. A medida que avanza la cacería, los cazadores se convierten en presa de su presa que demuestra un nivel de supervivencia desconocido.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/N7fOOJUpeaY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/poner"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/enmzjmkguqd0q8o"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/nwowalem57ti"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/003syyamql3q"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ops89t8tx3d4"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/PG78lx334Rh04rr"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El entresuelo [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.5
 [/COLOR]</title> 
 <genre>Suspense</genre>
