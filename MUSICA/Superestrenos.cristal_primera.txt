@@ -27,7 +27,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/gAPj8ixjgRtj6Cx9oonW7awxdvJ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/lrzEQNKd2VT4G9z67ObCHpOBoNV.jpg</fanart>
 <info>Cinco cazadores de élite pagan para cazar a un hombre en una isla desierta. A medida que avanza la cacería, los cazadores se convierten en presa de su presa que demuestra un nivel de supervivencia desconocido.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/N7fOOJUpeaY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/poner"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/enmzjmkguqd0q8o"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/nwowalem57ti"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/003syyamql3q"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ops89t8tx3d4"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/PG78lx334Rh04rr"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/N7fOOJUpeaY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/p6rl2gsm-jdmn-g6"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/enmzjmkguqd0q8o"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/nwowalem57ti"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/003syyamql3q"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ops89t8tx3d4"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/PG78lx334Rh04rr"}</urlsolve>
 </item>
 
 
