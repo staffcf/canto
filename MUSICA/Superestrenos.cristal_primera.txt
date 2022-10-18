@@ -5,6 +5,19 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Mi amigo Dahmer [/COLOR][COLOR yellow](Estreno) [COLOR aqua]*6.5
+[/COLOR]</title> 
+<genre>Drama,Historia,Crimen</genre>
+<year>2018</year>
+<tmdb>445040</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/zhkOVfhnVTIl9dRfBhJfxaeomTS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hxSuiXSsBWuAjR2rRMw4oOJw6jF.jpg</fanart>
+<info>Jeff Dahmer es un adolescente fuera de lugar luchando para sobrevivir a la escuela secundaria con una vida familiar en ruinas. Recoge animales atropellados, se fija en un corredor de barrio, y se enfrenta a su inestable madre y su bien intencionado padre. Pronto comienza a portarse mal en el instituto, y sus gamberradas estúpidas ganan adeptos hasta crear una banda llamada The Dahmer Fan Club, dirigida por Derf Backderf . Pero esta camaradería no puede ocultar su creciente depravación. Al acercarse a la graduación, Jeff se mueve en espiral hacia la pérdida de control, acercándose cada vez más a la locura.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/-VLQSwvgtz8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/poner"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/vnmqgevoc049dn"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ezc1x5n72diz"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/e4p8u3x81tzp"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/a3olecjuydvj"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/bZrk7v2KmJhPvdw"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Minions: El origen de Gru [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.6
 [/COLOR]</title> 
 <genre>Animación,Familia</genre>
