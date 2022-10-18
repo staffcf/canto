@@ -4,6 +4,19 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+<item>
+<title>[COLOR white] Minions: El origen de Gru [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.6
+[/COLOR]</title> 
+<genre>Animación,Familia</genre>
+<year>2022</year>
+<tmdb>438148</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/zBk0guZ6NI2aHclb4sbrQdrrnOC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uMSxXLfH7v30gRNBqsQaSP3yqX5.jpg</fanart>
+<info>Mucho antes de convertirse en un genio del mal, Gru no era más que un chaval de 12 años en plenos años 70 tratando de conquistar el mundo desde el sótano de su casa de un barrio residencial cualquiera. Y no le iba demasiado bien. Pero cuando Gru se cruza en su camino con Kevin, Stuart, Bob, y Otto —un nuevo Minion con aparato en los dientes y desesperado por sentirse aceptado—, esta inesperada familia unirá fuerzas para construir su primera guarida, diseñar sus primeras armas y llevar a cabo sus primeras misiones.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/g_otl_WPRlE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/poner"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/9ndxj4jjfm6oe7"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ciqqyc7rf1po"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/olkla47mg0ov"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/wad1z4xryzb6"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/BAZygMM11Riyexj"}</urlsolve>
+</item>
+
+
 
 <item>
 <title>[COLOR white] X [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.8
