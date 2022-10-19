@@ -20,6 +20,32 @@
 
 
 <item>
+<title>[COLOR white] La escuela del bien y del mal [/COLOR][COLOR yellow](2022) [COLOR aqua]*8.0
+[/COLOR]</title> 
+<genre>Fantasia,Accion,Drama</genre>
+<year>2022</year>
+<tmdb>779782</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/6oZeEu1GDILdwezmZ5e2xWISf1C.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tSxbUnrnWlR5dQvUgqMI7sACmFD.jpg</fanart>
+<info>Un grupo de jóvenes son llevados a una institución donde los entrenan para convertirse en héroes y villanos.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/6QmdhploSX0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/61mx47s07j14ry0g"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/9ndq4z4oie77dj"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/79jbnrr35p9k"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/ai40xoj3g0of"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/0ugnc2et4vb0"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/ewedXyPDALFjex"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El extraño [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.0
+[/COLOR]</title> 
+<genre>Crimen,Drama,Misterio,Suspense</genre>
+<year>2022</year>
+<tmdb>848791</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/7HsnzLy45DhUaHll9qQMSBYQGUo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/h37garYpEwYeKBGZq9cHTbtEHPU.jpg</fanart>
+<info>Mark y Henry crearán una fuerte relación de confianza luego de empezar a conversar al encontrarse en un autobús. Sin embargo, ninguno es quien parece ser, ambos cargan con secretos que pudiesen hundirlos.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/baLjh8h3U8A"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/3kq5w3fm5ye15qj-"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/dqzdozp7u1pqkq"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/xil91o6iyvjw"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/wcmjev22yvmb"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/n9vwv42l1qvf"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/KP11vJ79bmh0MqZ"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Deinfluencer [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.1
 [/COLOR]</title> 
 <genre>Terror,Suspense</genre>
