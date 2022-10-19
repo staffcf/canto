@@ -4,6 +4,34 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+
+
+<item>
+<title>[COLOR white] Deinfluencer [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.1
+[/COLOR]</title> 
+<genre>Terror,Suspense</genre>
+<year>2022</year>
+<tmdb>969160</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/pA481nOxTQBnqsMDf8kjuB2OGxe.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/23sJzwaYazdzqnp2gm6GAQk4sCc.jpg</fanart>
+<info> Una animadora influyente se encuentra cautiva por un psicópata enmascarado con un complejo de Dios. Debe completar una serie de desafíos sádicos de las redes sociales para salvar su vida y la vida de sus compañeros cautivos. Sin embargo, el secuestrador enmascarado tiene una agenda secreta para su víctima más reciente. <info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/-7dofHBCfzo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/qqrjkguel-857exr"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/vnmqjdoqs8j7xd"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/7pltuwxhmfy2"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/5c9po4o4yg7c"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/virp61wkjach"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/poner"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Funhouse [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.6
+[/COLOR]</title> 
+<genre>Terror</genre>
+<year>2022</year>
+<tmdb>590009</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/5gCMEtwIqCiVCyl4YySxZT7l8Mx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7sT5NKw9oMURBZAF5m5zfuMCOpa.jpg</fanart>
+<info>Kasper, cantante y famoso ex esposo, está invitado a competir en 'Funhouse', un reality show en línea al estilo de 'Gran Hermano'.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/SrkD6EgeisI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/3kq5w3fm5y3q1ep3"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/zpvjm08vhe6vv4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/o5qq18bx6l8k"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/4t2r2k6f4obp"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/b732ewuq5zg1"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/D20kxB3V6VuVxD"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Mi amigo Dahmer [/COLOR][COLOR yellow](Estreno) [COLOR aqua]*6.5
 [/COLOR]</title> 
