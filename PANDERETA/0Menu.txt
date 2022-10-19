@@ -3408,6 +3408,16 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]La Banda del Guante Verde[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>210750</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.banda.del.guante.verde</externallink>
+<info>Cuando su último atraco sale mal, tres ladronas mayores evaden a los oficiales escondiéndose en un hogar de ancianos, donde descubren un siniestro secreto.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/19XCTN5d5Z8tEokF3pb01ihysrN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zPqpLk0d1nU9RCuKpSUEZnJcG1y.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]La Brea[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <tmdb>128839</tmdb>
@@ -4974,6 +4984,16 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 <info>Miniserie de 8 episodios. Un veterano de guerra (Aksel Hennie) se convierte en el peón de una conspiración internacional, poniendo a prueba su devoción por su familia. Su papel le lleva a cuestionar seriamente hasta qué punto está dispuesto a llegar para mantener la paz. </info>
 <thumbnail>https://i.imgur.com/x1juuhY.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/45TM0wJ6PR5Suo4hf2ff7om3dd1.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Notre-Dame[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<tmdb>129057</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Notre.dame</externallink>
+<info>Mientras los bomberos de París intentan evitar que las llamas se propaguen en la Catedral, el espectáculo también sigue a los personajes que pasan por el escurridor: tendrán que luchar entre sí, amarse, encontrarse, odiarse, sonreír o  ayudarse unos a otros, para que, al final, puedan tener la oportunidad de empezar de nuevo.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/nM1qbs9vJRAL0PNT5J8s6tlqywF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gcc3LSMZOmtgWUMrKloSvHqM9pj.jpg</fanart>
 </item>
 
 <item>
