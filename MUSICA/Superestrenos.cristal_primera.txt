@@ -12,7 +12,7 @@
 <genre>Comedia,Musica,Romance</genre>
 <year>2022</year>
 <tmdb>888311</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/original/lcThPhR67aaPEu5s8EGrkcL0w3m.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/edVpQe80AG9nDQdJNnPyn9RX8NC.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/721Tx7LljbIIJGfhV2uSvHF4Prb.jpg</fanart>
 <info>David y Layla, dos adolescentes a los que les gusta mucho "Hombres G" y también se gustan, pero todo lo que él hace para conquistarla acaba mal. Treinta años después se reencuentran y se dan cuenta de que los sentimientos no han desaparecido.<info>
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/pW8AeOEvg9g"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/g7e08ya-7qyzy60k"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/gn3kmlnji1wjld"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/gxndri7a26iw"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/nqf3cl3ki4gw"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/u2kbbcakp9l5"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/1PzZWeddm6iel6j"}</urlsolve>
