@@ -4191,6 +4191,16 @@ En paralelo a la serie, Enrique Urbizu realizó un montaje para cines en formato
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Los ladrones: La Verdadera Historia Del Robo Del Siglo [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>1000194</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Los.ladrones.la.verdadera.historia</externallink>
+<info>A través de reveladoras entrevistas, los autores del robo bancario más famoso de Argentina detallan cómo —y por qué— llevaron a cabo la sorprendente operación de 2006.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/WC1pBBTiUIvj2jfUI82Z3XheZK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/k1Dky0IGGpyUMwrB66BNAe3vW5C.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Los Larkin[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>136137</tmdb>
