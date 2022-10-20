@@ -28,7 +28,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/2symxAMYXpJ9mJ8YOc2b5ZEKIAQ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/3Ykwi0ObNpqy5gAwhddmxKWs1dp.jpg</fanart>
 <info>Los Arsenault son una familia que ha estado involucrada en la caza furtiva ilegal. Adam, el hijo mayor, quiere dejar la empresa, pero los planes se complican con la llegada de su hermano menor.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/gRrILpEIiH0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/r5djzgte57227-d0"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/rwj99m67hozj9g"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/erlt6k3umfd5"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/yg9ia7v8srlu"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/35ktv98lubbt"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/poner"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/gRrILpEIiH0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/r5djzgte57227-d0"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/rwj99m67hozj9g"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/erlt6k3umfd5"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/yg9ia7v8srlu"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/35ktv98lubbt"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/7qYbgw6O2WfAKrK"}</urlsolve>
 </item>
 
 
