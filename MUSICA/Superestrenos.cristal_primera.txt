@@ -7,6 +7,32 @@
 
 
 <item>
+<title>[COLOR white] No estarás sola [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.5
+[/COLOR]</title> 
+<genre>Terror,Drama,Historia</genre>
+<year>2022</year>
+<tmdb>883083</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/moBrEYoOxLRc1LsFl8IXeilYwtq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kdOfq5ImruKCJDEqASuuXlrj9LM.jpg</fanart>
+<info>Ambientada en un aislado pueblo de montaña en la Macedonia del siglo XIX, la película sigue a una joven que es secuestrada y luego transformada en bruja por un espíritu ancestral.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/sPl7M3Jqq-A"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/qqrjkguerzz-x2jd"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/7rnppdxzfvjov7"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ngzwxdbre41l"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/xub7ymmose8h"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/l64eausebq68"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/w6jw6kRAgYilRl"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Peligrosos juegos de familia [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.8
+[/COLOR]</title> 
+<genre>Suspense,Drama</genre>
+<year>2022</year>
+<tmdb>848526</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/2symxAMYXpJ9mJ8YOc2b5ZEKIAQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3Ykwi0ObNpqy5gAwhddmxKWs1dp.jpg</fanart>
+<info>Los Arsenault son una familia que ha estado involucrada en la caza furtiva ilegal. Adam, el hijo mayor, quiere dejar la empresa, pero los planes se complican con la llegada de su hermano menor.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/gRrILpEIiH0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/r5djzgte57227-d0"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/rwj99m67hozj9g"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/erlt6k3umfd5"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/yg9ia7v8srlu"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/35ktv98lubbt"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/poner"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Voy a pasármelo bien [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.9
 [/COLOR]</title> 
 <genre>Comedia,Musica,Romance</genre>
