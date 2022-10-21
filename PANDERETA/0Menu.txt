@@ -6761,6 +6761,16 @@ Una vez allí, se encontrarán con un enemigo mucho peor que los Goaul'd; los Wr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]The One[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>119284</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/TheOne.One</externallink>
+<info>Un simple hisopo bucal es todo lo que se necesita. Una prueba de ADN rápida para encontrar tu pareja perfecta, para la que estás creado genéticamente. Una década después de que los científicos descubrieran que todos tienen un gen que comparten con una sola persona, millones se han sometido a la prueba, desesperados por encontrar el amor verdadero en la empresa The One, fundada por la ambiciosa Rebecca (Hannah Ware). Ahora, cinco personas más conocen su Match. Pero incluso las almas gemelas tienen secretos. Y algunos son más impactantes y mortíferos que otros. </info>
+<thumbnail>https://i.imgur.com/gbbWCnk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/k2sBzocBHNtc2MgjP6WsygSt46o.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]The Pact[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <tmdb>125366</tmdb>
@@ -6768,6 +6778,16 @@ Una vez allí, se encontrarán con un enemigo mucho peor que los Goaul'd; los Wr
 <info>Anna, Nancy, Louie y Cat se han hartado de su tiránico joven jefe Jack Evans y toman una decisión rápida ebria en una función de trabajo que tiene repercusiones impactantes.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/rN8Hc9X7SQ0QJw42iK5SjLcVhMz.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/qU5bXObOxW8ci8AEuAZOJGpT1gr.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]The Peripheral[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>95403</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.peripheral</externallink>
+<info>Atrapada en un pequeño pueblo de los Apalaches, jugar videojuegos es la única manera que una joven tiene para escapar de la rutina. Es tan buena jugadora, que una empresa le envía un nuevo sistema de videojuegos para que lo pruebe, pero tiene una sorpresa. Desbloquea sus sueños de encontrar un propósito, romance y glamour en lo que parece un juego, poniéndola a ella y su familia en peligro.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/qtuAjmUWY7xIEOg0yfpqLkHSeeu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fncGlStMv9PavUgtWw2fYDcYKAw.jpg</fanart>
 </item>
 
 <item>
@@ -6800,15 +6820,6 @@ Una vez allí, se encontrarán con un enemigo mucho peor que los Goaul'd; los Wr
 <fanart>https://www.themoviedb.org/t/p/original/6EN9w5Hlp7fluX80JQXdRnT1hhd.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR gold]* [COLOR white]The One[COLOR white][/COLOR]</title>  
-<link>cristalazul</link>
-<tmdb>119284</tmdb>
-<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/TheOne.One</externallink>
-<info>Un simple hisopo bucal es todo lo que se necesita. Una prueba de ADN rápida para encontrar tu pareja perfecta, para la que estás creado genéticamente. Una década después de que los científicos descubrieran que todos tienen un gen que comparten con una sola persona, millones se han sometido a la prueba, desesperados por encontrar el amor verdadero en la empresa The One, fundada por la ambiciosa Rebecca (Hannah Ware). Ahora, cinco personas más conocen su Match. Pero incluso las almas gemelas tienen secretos. Y algunos son más impactantes y mortíferos que otros. </info>
-<thumbnail>https://i.imgur.com/gbbWCnk.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/k2sBzocBHNtc2MgjP6WsygSt46o.jpg</fanart>
-</item>
 
 <item>
 <title>[COLOR gold]* [COLOR white]The Real Charlie Chaplin [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
