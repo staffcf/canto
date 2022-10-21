@@ -7,6 +7,19 @@
 
 
 <item>
+<title>[COLOR white] La máquina infernal [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.0
+[/COLOR]</title> 
+<genre>Suspense,Misterio</genre>
+<year>2022</year>
+<tmdb>916605</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/7VuQopunJnHKI1xejbdRUyDbP0S.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8d4gNr2WoW8U2AlRMUSrcBxWXNd.jpg</fanart>
+<info>Bruce Cogburn, un autor controversial y solitario, sale de su escondite al recibir numerosas cartas de un fanático obsesivo. Se trata tan solo del comienzo de un espiral de peligro y misterio.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/q0vrecpxXZU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/l14zdgsngrz38n3-"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/vnmzeg8kf0j14w"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/t7s1bohlj9fc"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/su9fgt3ebc14"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/sluusyaewc10"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/jgkLVAG8qoIqbe"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] No estarás sola [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.5
 [/COLOR]</title> 
 <genre>Terror,Drama,Historia</genre>
