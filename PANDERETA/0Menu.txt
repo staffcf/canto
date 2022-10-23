@@ -1136,6 +1136,36 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Conversaciones Con Asesinos: Las Cintas De Jeffrey Dahmer [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>209167</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Conversaciones.jeffrey.dhamer</externallink>
+<info>El asesino en serie Jeffrey Dahmer confiesa sus macabros crímenes en entrevistas no vigiladas y ofrece un inquietante vistazo a una mente perturbada.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/5BTn4GxWL48BP8OkfiatxZ6qpuE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ksD6GEExTORiXqOKrs19rJIKvdh.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Conversaciones Con Asesinos: Las Cintas De John Wayne Gucy [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>197248</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Conversaciones.john.wayne.gacy</externallink>
+<info>Cenaba con los poderosos. Se aprovechaba de los vulnerables. Bajo un exterior sonriente se escondía la horrible oscuridad de un sádico asesino en serie.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/sd96o6FjufksMHlVqhUjHX9JxSb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1op64BQT9qFNdkmNtOVxBrGLyWV.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Conversaciones Con Asesinos: Las Cintas De Ted Bundy [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>85833</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Conversaciones.ted.bundy</externallink>
+<info>Entrevistas actuales, imágenes de archivo y grabaciones de audio hechas en el corredor de la muerte configuran un retrato mordaz del famoso asesino en serie Ted Bundy.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/mr9slouHAiOKwyQh8zsKNgldxwo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/azFDiaJZ4Zq9xA9EKsDvM6YedIc.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Countrymen[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <tmdb>136086</tmdb>
@@ -3937,16 +3967,6 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 <info>Serie de TV (1992-1993). Las aventuras del joven Indiana Jones (The Young Indiana Jones Chronicles, en su título original en inglés) es una serie de televisión estadounidense ideada y producida por George Lucas y emitida entre 1992 y 1993 (con posteriores capítulos hasta 1996) por la cadena de televisión ABC. Consta en total de 44 capítulos, si bien no todos ellos fueron emitidos en su momento. En España, fue emitida por la cadena Antena 3 a partir de 1993. </info>
 <thumbnail>https://i.imgur.com/6mbSrau.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR gold]* [COLOR white]Las cintas De Jeffrey Dahmer [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
-<link>cristalazul</link>
-<tmdb>209167</tmdb>
-<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Conversaciones.jeffrey.dhamer</externallink>
-<info>El asesino en serie Jeffrey Dahmer confiesa sus macabros crímenes en entrevistas no vigiladas y ofrece un inquietante vistazo a una mente perturbada.</info>
-<thumbnail>https://www.themoviedb.org/t/p/original/5BTn4GxWL48BP8OkfiatxZ6qpuE.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/ksD6GEExTORiXqOKrs19rJIKvdh.jpg</fanart>
 </item>
 
 <item>
