@@ -7,6 +7,19 @@
 
 
 <item>
+<title>[COLOR white] No te preocupes querida [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.8
+[/COLOR]</title> 
+<genre>Suspense,Misterio,Drama,Ciencia ficcion,Terror</genre>
+<year>2022</year>
+<tmdb>619730</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/f03o43FHj2qE48noSH82yxCDI7k.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4O9kFXsBjlxtgzXWHfgMS9CjhbN.jpg</fanart>
+<info>Alice y Jack tienen la suerte de vivir en Victoria, la ciudad experimental de la compañía que alberga a los hombres que trabajan para el Proyecto Victoria, de alto secreto, y a sus familias. La vida es perfecta, con todas las necesidades de los residentes cubiertas por la empresa. Todo lo que piden a cambio es un compromiso incondicional con la causa de Victoria. Pero cuando empiezan a aparecer grietas en su idílica vida, exponiendo destellos de algo mucho más siniestro que se esconde bajo la atractiva fachada, Alice no puede evitar cuestionarse qué están haciendo en Victoria y por qué. ¿Cuánto está dispuesta a perder Alice para sacar a la luz lo que realmente ocurre en el paraíso?<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/o8QN2oQL0Rs"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/001zwehlr6rk1e6n"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/6qvpzvd8t6lz7w"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/anuyhftrtyzu"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/xrls144jsfmi"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/f8qa5l9mx5lt"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/d3Pl9ok1e2Tk69J"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Venganza [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.0
 [/COLOR]</title> 
 <genre>Acción</genre>
