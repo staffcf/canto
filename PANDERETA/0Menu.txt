@@ -1996,6 +1996,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El Gabinete De Curiosidades De Guillermo Del Toro[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<tmdb>83659</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.gabinete.de.curiosidades</externallink>
+<info>El maestro del terror Guillermo del Toro presenta una colección insólita de cuentos que van a desafiar nuestro concepto del terror.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/a91e9hpWwfCqxJI4xM9Q2RhuxgI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rPBzTi1vXn2xt24BI26p596XMqW.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El Gran Heroe Americano [COLOR gold]Retroserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>1909</tmdb>
@@ -2083,6 +2093,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 <info>Ambientada en 1985, detrás del Telón de Acero, cuando Geri se va a la universidad. Tiene muchas ganas de conocer chicas y salir de fiesta y se une a un grupo de radicales, liderado por el carismático Száva. Pero Geri tiene un secreto. Es un informante del estado totalitario y para salvar a su hermano, se ha visto obligado a espiar a sus nuevos amigos para la Seguridad del Estado. Si bien la vida de Geri cambia para siempre, haciendo malabarismos con fiestas y debates políticos, él lucha con un desafío diario; ¿De qué lado debería estar? Especialmente cuando el líder cada vez más radical del grupo, Száva se da cuenta de que hay un informante entre ellos.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/6MXrbOnL012Dtoy2re8mFPRq74k.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/87C8QKyIvpeCUQ7sjN48zAanGTn.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]El Inmortal[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<tmdb>197929</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.inmortal</externallink>
+<info>Durante la década de los 90, el tráfico de cocaína y el control de las discotecas de Madrid estuvo en manos de una banda que acaparó cientos de portadas y programas de televisión: Los Miami. Su nombre provocaba el pánico de aquel que lo escuchaba. “El Inmortal” fue el jefe de todos ellos. Esta historia está inspirada en su reinado y en la ciudad que tantas veces lo vio morir.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/ofsqtGkm3iSYqEMvMgP5NnSgKST.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oFkkbpFzV831QDXRZdzmginpndL.jpg</fanart>
 </item>
 
 <item>
