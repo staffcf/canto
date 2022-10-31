@@ -7,6 +7,19 @@
 
 
 <item>
+<title>[COLOR white] La invitación [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.4
+[/COLOR]</title> 
+<genre>Terror,Suspense</genre>
+<year>2022</year>
+<tmdb>830788</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/pTCVouK7eNjG7JYACwwMMapjD1N.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/m1FOYkc7125mV7vMYlIf56zQ7vL.jpg</fanart>
+<info>Una joven es cortejada y deslumbrada solo para descubrir que una conspiración gótica está en marcha.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/qEvL8hD09GY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/z6-j4gsj038z62pd"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/xo3w9g1mhw33zo"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/e1q4gjfc42be"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/wvtxhp8c5zys"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/2x82b7c7xx99"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/KeoxmaB1Z7t0mLy"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El test [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.1
 [/COLOR]</title> 
 <genre>Comedia</genre>
