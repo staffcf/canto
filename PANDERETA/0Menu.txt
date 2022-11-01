@@ -654,6 +654,17 @@ misiones para devolver la esperanza a una galaxia dominada por un imperio despia
 <fanart>https://www.themoviedb.org/t/p/original/1rSLoRz1gZ5OizXIs4WZzErpenx.jpg</fanart>
 </item>
 
+
+<item>
+<title>[COLOR gold]* [COLOR white]Billy El Niño[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>138971</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Billy.el.nino</externallink>
+<info>Una serie épica de aventuras románticas basada en la vida del famoso forajido estadounidense Billy the Kid, desde sus humildes raíces irlandesas hasta sus primeros días como vaquero y pistolero en la frontera estadounidense, hasta su papel fundamental en la guerra del condado de Lincoln y más allá.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/nl1OAUSiMUxGaKtNoHoKgr8fETm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9JLXegkB7ohbBAAQ9RM8NE07VNt.jpg</fanart>
+</item>
+
 <item>
 <title>[COLOR gold]* [COLOR white]Black Mirror[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
@@ -2036,7 +2047,17 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
-<title>[COLOR gold]* [COLOR white]El Hombre Contra La Abeja [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<title>[COLOR gold]* [COLOR white]El Hijo Bastardo Y El Mismisimo Diablo[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>210235</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.hijo.bastardo.y.el.mismisimo.diablo</externallink>
+<info>Atrapado entre dos clanes en guerra, el hijo de un famoso brujo responsable de una masacre mortal intenta encontrar su lugar en el mundo… y sus poderes.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/nl1OAUSiMUxGaKtNoHoKgr8fETm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/b1VJNMyLHVM6RLNBRxm3YTBEu2e.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]El Hombre Contra La Abeja[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>197588</tmdb>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.hombre.contra.la.abeja</externallink>
