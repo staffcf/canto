@@ -1127,6 +1127,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Confesiones De Una Mula En Ibiza [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>128641</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Confesiones.de.una.mula.en.ibiza</externallink>
+<info>Michaela McCollum, detenida por contrabando de cocaína en Perú, narra en primera persona su estremecedora experiencia en el mundo del tráfico de drogas.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/lpNOaW0ko8ufddO6Acq2PLh1xFA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vNA6YpDs7DO1TNKViKke50CsnUV.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Conquistadores Adventvm[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>74588</tmdb>
