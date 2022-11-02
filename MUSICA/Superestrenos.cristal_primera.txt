@@ -7,6 +7,19 @@
 
 
 <item>
+<title>[COLOR white] Benediction [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.1
+[/COLOR]</title> 
+<genre>Bélica,Drama,Historia</genre>
+<year>2022</year>
+<tmdb>399178</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/bpKEWPhQcG4sRUkuAsTuCnmGdPx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nHtA1qMOzm2T50B99h0UXR4V3KC.jpg</fanart>
+<info>Siegfried Sassoon fue un hombre complejo que sobrevivió a los terrores de combatir en la I Guerra Mundial y fue condecorado por su valentía, pero a su regreso se convirtió en un firme crítico de la continuación de la guerra por parte de su gobierno. Su poesía se inspiró en sus experiencias en el frente occidental y terminó siendo uno de los principales poetas de guerra de la época. Idolatrado por aristócratas y estrellas del mundo literario y escénico londinense, mantuvo relaciones con varios hombres mientras intentaba aceptar su homosexualidad. Al mismo tiempo, roto por el terror de la guerra, hizo de su viaje vital una búsqueda de la salvación, tratando de hallarla en la conformidad del matrimonio y la religión.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/rHPcubS9XbM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/m72m0-a5dzm063mn"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/846lxjngcegxdn"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/kzgioc78zi2o"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/bdkt2mc03j7e"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/0cw7710mrgg8"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/O6vKRkG3GZFZPMR"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Crimenes del futuro [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.4
 [/COLOR]</title> 
 <genre>Drama,Terror,Ciencia ficcion</genre>
