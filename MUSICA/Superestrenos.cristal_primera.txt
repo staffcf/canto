@@ -7,6 +7,19 @@
 
 
 <item>
+<title>[COLOR white] Mira cómo corren [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.7
+[/COLOR]</title> 
+<genre>Misterio,Suspense,Comedia</genre>
+<year>2022</year>
+<tmdb>766475</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/kltubO1ISs7RhhePYmxwIfCApvw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ez1I3hBJA7aF6B1tQbgSftaU9Wv.jpg</fanart>
+<info>Un desesperado productor de cine de Hollywood se propone convertir en película una popular obra de teatro. Cuando miembros de la producción son asesinados, el cansado inspector Stoppard y la agente novata Stalker se encontrarán en medio de una intrigante novela policíaca.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/jwsvofmgIug"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/3kq5w3fmn2q5m1j6"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/o7kwkk8ncr1z0g"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/d26j1gimhalz"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/poner"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/8rndc5rz3xhv"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/jvqv2K0O2Diavq"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] 42 Segundos[/COLOR][COLOR yellow](2022) [COLOR aqua]*6.7
 [/COLOR]</title> 
 <genre>Drama</genre>
