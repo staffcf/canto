@@ -7,6 +7,19 @@
 
 
 <item>
+<title>[COLOR white] El francotirador de Donbass [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.6
+[/COLOR]</title> 
+<genre>Drama,Acción,Bélica</genre>
+<year>2022</year>
+<tmdb>966220</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/lZOODJzwuQo0etJJyBBZJOSdZcW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/u5uJKMuS1xmZzjatkO65HSNwp0D.jpg</fanart>
+<info>Mykola es un pacifista excéntrico que quiere ser útil a la humanidad. Cuando comienza la guerra en Donbass, el ingenuo mundo de Mykola se derrumba cuando los militantes matan a su esposa embarazada y queman su casa hasta los cimientos. Recuperado, toma una decisión cardinal y se enrola en una compañía de francotiradores. Habiendo conocido a los asesinos de su esposa, se derrumba emocionalmente y organiza el "terror de francotiradores" para el enemigo. Es salvado de una muerte sin sentido por su instructor, quien a su vez es herido de muerte. La muerte de un amigo deja una “cicatriz” y Mykola está dispuesto a sacrificar su vida.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/cZIhRHSXtyU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/4xrlw4uz1437yeen"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/qlwg7oj7ukpemx"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/wtlqslg99rub"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/dtfhyxsjjesp"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/q03o55rf7q48"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/8J37DOoK8dUoa23"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Mira cómo corren [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.7
 [/COLOR]</title> 
 <genre>Misterio,Suspense,Comedia</genre>
