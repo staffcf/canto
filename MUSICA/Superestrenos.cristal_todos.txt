@@ -12838,6 +12838,33 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 
 
 
+<item>
+<title>[COLOR white] Cuento de primavera [/COLOR][COLOR yellow](1990) [COLOR aqua]*7.1
+[/COLOR]</title> 
+<genre>Comedia,Drama,Romance</genre>
+<year>1990</year>
+<tmdb>28213</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/A9v8xfL0ppK56XtCc3mUJWWNQ6j.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6tRdTNdcmdBlTGyJ924ISyJDABA.jpg</fanart>
+<info>A una joven graduada en filosofía la invita a pasar un fin de semana en el campo una amiga, que también lleva a su padre y a su joven amante. Las circunstancias hacen que la joven y el padre de su amiga se queden solos.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/KUTqXh6IaR8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/ypmj3wael2ye5r2-"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/j9nd6q87bn6pk0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/lurpibie9e4z"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/f0ctrqdkv8w0"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/k2o0upcq2u3l"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/My9p3erbr4i0Ro"}</urlsolve>
+</item>
+
+
+
+<item>
+<title>[COLOR white] Cuento de verano [/COLOR][COLOR yellow](1996) [COLOR aqua]*7.4
+[/COLOR]</title> 
+<genre>Comedia,Drama,Romance</genre>
+<year>1996</year>
+<tmdb>37563</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/jDGD3srqQT9QAWbkmIChVbKlEBj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kTHC2lN6YNiTWZVwMRWXN36Y6Lb.jpg</fanart>
+<info>Nuevo cuento de las "cuatro estaciones" de Rohmer. El joven Gaspard llega de vacaciones al balneario francés de Dinard. Su idea es encontrarse allí con Lena, la muchacha que lo tiene loco. Pero en esos días soleados y calmos conoce a otra chica, una morena atractiva y sensual que le sugiere nuevos rumbos a su corazón. Sin embargo, tal vez la respuesta no esté en ella, sino en Margot, la dulce camarera con la que Gaspard hace amistad sin darse cuenta.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Kqb4cG3YIt0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/001zwehlrm4wmnkp"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/md0kpn6ja8qpor"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/01rzrn8gv044"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/fqlxfha4gkxv"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/marnilerhb52"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/1LQKlJB8gjUekqj"}</urlsolve>
+</item>
+
+
 
 <item>
 <title>[COLOR white] Las Trece Rosas [/COLOR][COLOR yellow] [COLOR aqua]*6.5[/COLOR]</title> 
