@@ -746,6 +746,16 @@ misiones para devolver la esperanza a una galaxia dominada por un imperio despia
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Bose: Yo Sere[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>212464</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Bose.yo.sere</externallink>
+<info>Serie basada en la vida del cantautor español Miguel Bosé.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/iKEgTqiOAoYLDnOBo3vw4Mbsz9f.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zYiXuSGlWMqxzuc548S5vk849kC.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Bosque Adentro[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <tmdb>103425</tmdb>
@@ -2995,6 +3005,16 @@ Entre las estrellas que han aparecido en la serie, interpretando versiones satí
 <info>Miniserie de TV (2018). 6 episodios. Thriller sobre una red de hackers y los investigadores encargados de perseguirles. Cuando descubre el origen de un ataque hacker a un gran banco alemán en una red en Rumanía, la experta en cibercrimen de la BKA, Lisa Metz, es destinada desde Frankfurt a Timisoara, su ciudad de origen, para trabajar mano a mano con los investigadores locales liderados por el policía rumano Adam Sandor.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/wE27FJKh4DMpwH41TOQFBKhULPG.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/7dtoV72minsLoTPgSsVkypa7iU9.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Halo[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>52814</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Halo</externallink>
+<info>En el siglo 26, la humanidad tiene que lidiar con una amenaza alienígena conocida como the Covenant (El Pacto).</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/oS3Fzf3eXSeK9L6DZYypLfa0fho.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ugZR4KzBlXb8FMLuZcJRCXuRL0e.jpg</fanart>
 </item>
 
 <item>
