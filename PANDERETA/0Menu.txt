@@ -4427,6 +4427,16 @@ La periodista Alice Avril, el comisario Swan Laurence y su secretaria, Marlène 
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Los Winchester[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<tmdb>128113</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Los.winchester</externallink>
+<info>Antes de Sam y Dean, estaban John y Mary. Contada desde la perspectiva del narrador Dean Winchester, esta es la épica historia de amor no contada de cómo John conoció a Mary, y cómo arriesgaron todo no solo para salvar a su amor, sino al mundo entero.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/okAPf7KvGfUkzMr4dFlMQ1pizYJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/w0koBxCVZ71kXm7NyxV0hihxFOG.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Love And Anarchy[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <tmdb>65332</tmdb>
