@@ -7,6 +7,19 @@
 
 
 <item>
+<title>[COLOR white] Secuestro en directo [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.2
+[/COLOR]</title> 
+<genre>Suspense</genre>
+<year>2022</year>
+<tmdb>979924</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/uKP9slvPVKIom9wI1XAGVuTAUO8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/f9g3R9gq0bASip9RnK2H56dbb5j.jpg</fanart>
+<info>Un presentador recibe una llamada, donde una persona desconocida amenaza con matar a toda la familia del showman en el aire. Para salvar a sus seres queridos, el presentador de radio tendrá que jugar un juego de supervivencia y la única manera de ganar es averiguar la identidad del criminal. <info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/RFhnxcBaQ2c"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/k3nk7gs37q--16ln"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/j9n4jgkkbd4j84"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/aip96bl2j3tw"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/1wogmw5jte7p"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/zlvepp14v2o6"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Zy7XK8pk4Jcq8Q9"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El francotirador de Donbass [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.6
 [/COLOR]</title> 
 <genre>Drama,Acción,Bélica</genre>
