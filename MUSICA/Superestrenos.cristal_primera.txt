@@ -7,6 +7,19 @@
 
 
 <item>
+<title>[COLOR white] Enola Holmes 2 [/COLOR][COLOR yellow](2022) [COLOR aqua]*8.4
+[/COLOR]</title> 
+<genre>Aventura,Crimen,Acción,Misterio</genre>
+<year>2022</year>
+<tmdb>829280</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3UJWmxfZB71Kynf26G8HjstOeJH.jpg</fanart>
+<info>Después del éxito de su primer caso, Enola Holmes (Millie Bobby Brown) sigue los pasos de su popular hermano, Sherlock (Henry Cavill), abriendo su propia agencia, descubriendo que la vida como mujer detective a sueldo no es tan fácil como parece. Resignada a aceptar la realidad como adulta. A punto de cerrar el negocio cuando una joven cerillera sin dinero le ofrece a Enola su primer trabajo oficial: encontrar a su hermana desaparecida Sin embargo, este caso resulta ser mucho más desconcertante de lo esperado, que hace que Enola se vea inmersa en un nuevo y peligroso mundo: desde las siniestras fábricas de Londres y los coloridos salones de música, hasta los más altos niveles de la sociedad y el propio 221B de Baker Street. A medida que las chispas de una conspiración mortal se encienden, Enola debe recurrir a la ayuda de sus amigos -y del propio Sherlock- para desentrañar su misterio. ¡El juego comienza de nuevo!<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Mg-OgLDN9oc"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/deq685axg6jr344w"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/n07gmd3nsd6jg4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/qvznh3oatgjm"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/cr11z6gqc8uj"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/kp5ri4qkpi9y"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/1x1ZaP8pG1CeQK6"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Secuestro en directo [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.2
 [/COLOR]</title> 
 <genre>Suspense</genre>
