@@ -7,6 +7,32 @@
 
 
 <item>
+<title>[COLOR white] Mama no enRedes [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.0
+[/COLOR]</title> 
+<genre>Comedia</genre>
+<year>2022</year>
+<tmdb>942999</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/xdNbqKd6F2Tj7WPgZbg11D6rjmO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xYUby4xQuT5Wwq8ExmxGNSgxPNG.jpg</fanart>
+<info>Clara, madre de dos adolescentes, es una mujer abierta a nuevas experiencias que decide crearse un perfil en TILINK, una app de citas. ¿Qué pasa por la mente de un veinteañero cuando se encuentra el perfil de su propia madre en Tilink, la aplicación de citas de moda? Sí, su madre aún es joven. Sí, está divorciada de su padre y tiene derecho a rehacer su vida, pero... ¿no sabe lo que es Tilink? Allí sólo hay salidos que la van a utilizar para luego dejarla tirada, francotiradores del sexo... como él mismo. Dani y su hermana Milena se embarcarán en la delirante aventura de boicotear los ligues de su madre, e irán a saco cuando la mujer inicie una relación más seria con un yogurín argentino, convencidos de que sólo la va a hacer sufrir. Sólo que las estrategias de los hermanos tendrán el efecto opuesto al deseado, cada vez habrá más hombres en la vida de su madre y nada saldrá como ellos esperan.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/uAdOi1DaUTw"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/deq685axg6k1zy75"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/qlwgqmkxil4pwp"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/793nq2uiz0e4"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/4b85e416c2xt"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/s26rzq0vq2ml"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/GGjrBqA7rYf1zBr"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Plan B [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.6
+[/COLOR]</title> 
+<genre>Comedia</genre>
+<year>2022</year>
+<tmdb>743599</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/fYWWORzYJrs6qXUO4JeRll2zdAZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hmydairOYhnlcx6OkWFpEKq2iuy.jpg</fanart>
+<info>Después de un lamentable primer encuentro sexual, una estudiante de secundaria y su mejor amiga tienen 24 horas para buscar una píldora del Plan B en el corazón de Estados Unidos.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/u4-oQ1LEXO4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/k3nk7gs37q28g18l"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/l6dgzkkki81gpe"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/0mldp7tz8plu"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/xtvk6j9x1dhs"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/xmojlz50oz5a"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/PrdPropy0lcbAP"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Enola Holmes 2 [/COLOR][COLOR yellow](2022) [COLOR aqua]*8.4
 [/COLOR]</title> 
 <genre>Aventura,Crimen,Acción,Misterio</genre>
