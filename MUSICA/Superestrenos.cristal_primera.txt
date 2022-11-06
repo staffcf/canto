@@ -7,6 +7,32 @@
 
 
 <item>
+<title>[COLOR white] Punto de mira [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.0
+[/COLOR]</title> 
+<genre>Suspense,Acción</genre>
+<year>2022</year>
+<tmdb>888195</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/9fbboYGAPT5mp6UY1JuiyFb2rv5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/g3pG27i0v6eKWDKLf4GQsKZxmZX.jpg</fanart>
+<info>Un ex-hacker se ve obligado a entrar en instituciones bancarias de alto nivel, otro hombre debe intentar penetrar en el edificio con trampas explosivas para sacar al joven del banquillo.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/yM4DvPWbRKw"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/g7e08ya-36q6rjkk"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/9nd63xd7h86w36"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/l73y84gww012"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/88waxrxahrqt"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/16rxzr6fo1fq"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/GMaZP3KpJjI179O"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Matriarcado [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.3
+[/COLOR]</title> 
+<genre>Terror</genre>
+<year>2022</year>
+<tmdb>1024535</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/gNgxXZcAhhBtYUgFV7XRzFcbGrE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1KXmqcMdjhJtcZBE0VNVTXvb87.jpg</fanart>
+<info>Una mujer llega a un punto de inflexión tras haber sufrido una terrible sobredosis y vuelve a su hogar natal para enfrentarse a sus propios demonios. Sin embargo, se encuentra con uno de verdad.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/bqsa8BLZUhk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/4xrlw4uz140l5zqe"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/4n341m3lbqq4edp"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/oj47po9ky4d3"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/37zyf0aqhj7d"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/lgz7ffrc0ur9"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/xOBVwrykjmSka82"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Mama no enRedes [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.0
 [/COLOR]</title> 
 <genre>Comedia</genre>
