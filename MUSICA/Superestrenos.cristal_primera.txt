@@ -7,6 +7,32 @@
 
 
 <item>
+<title>[COLOR white] El extraño [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.3
+[/COLOR]</title> 
+<genre>Misterio,Suspense,Terror</genre>
+<year>2022</year>
+<tmdb>807356</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/eGGft75Z94E44xV0XN4AUAmRe2o.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jHhys0JkRQWSABtau0mU4Eq0P60.jpg</fanart>
+<info>Una joven se muda a un nuevo apartamento con su prometido y se ve atormentada por la sensación de ser acosada por un vigilante invisible en un edificio adyacente.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/mZHD1YubwGA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/ypmj3waelwp6n-zk"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/enm7rk8pbjnp4j"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/c6qz61leyhha"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/igftfkirayrc"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/z96z1nsriq7z"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/0Wgv0B0RPehb7Dx"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Emily la estafadora [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.8
+[/COLOR]</title> 
+<genre>Crimen,Drama,Misterio,Suspense</genre>
+<year>2022</year>
+<tmdb>862965</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/iZvzMpREGiqDQ5eYbx8z70qPgst.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uaxdl3S89y8uARZmG5RTEJphB4b.jpg</fanart>
+<info>Emily, que tiene una deuda estudiantil y está excluida del mercado laboral debido a antecedentes penales menores, se ve involucrada en una estafa con tarjeta de crédito que la lleva al inframundo criminal de Los Ángeles, lo que finalmente la lleva a consecuencias mortales.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Xzf1YCEkLDI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/-n7pwqapnwg2kgw6"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/9nd74mdvi78wvq"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/j2cfbq5icez2"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/brupjz42650v"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/9c4f5mnusn2r"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/1AGJP73qpMue48p"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Punto de mira [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.0
 [/COLOR]</title> 
 <genre>Suspense,Acción</genre>
