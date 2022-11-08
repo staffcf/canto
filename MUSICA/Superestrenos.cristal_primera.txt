@@ -7,14 +7,15 @@
 
 
 <item>
-<title>[COLOR white] Nop! [/COLOR][COLOR yellow] (2022) [COLOR aqua]*7.0[/COLOR]</title>
-<genre>Terror,Misterio,Suspense,Ciencia Ficcion</genre>
+<title>[COLOR white] Nop! [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.0
+[/COLOR]</title> 
+<genre>Terror,Misterio,Ciencia ficción,Suspense</genre>
 <year>2022</year>
 <tmdb>762504</tmdb>
 <thumbnail>https://www.themoviedb.org/t/p/original/k2VcJW03s9tQEIy4PlQS576CXDX.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/jkdyJnsKtqG64mQRzY42ECu5ma9.jpg</fanart>
-<info>Dos rancheros de un remoto pueblo del interior de California hacen un descubrimiento tan insólito como escalofriante.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/v-hlPfBJt6k"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://www.fembed.com/v/z6-wl1uj0nyy3z84"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://sbembed.com/e/h7hjhvc1luy7"}</urlsolve>
+<fanart>https://www.themoviedb.org/t/p/original/zCemBL73SDxFCbsiqHxhkg5Y6Pc.jpg</fanart>
+<info>Dos rancheros de un remoto pueblo del interior de California hacen un descubrimiento tan insólito como escalofriante.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/v-hlPfBJt6k"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/z6-j4gsj0nqq72xg"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/zpveodpxsg99q"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ryi9iy8xrieq"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/dl3g63am23v1"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/yhcccpfuskhy"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/1PPWGjdJKbTeKK7"}</urlsolve>
 </item>
 
 
