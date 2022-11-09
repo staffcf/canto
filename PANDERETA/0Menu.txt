@@ -3820,6 +3820,16 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]La Monja Guerrera[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>87689</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.monja.guerrera</externallink>
+<info>Una joven huérfana despierta en una morgue y descubre que una secta secreta de monjas cazademonios le ha conferido superpoderes. Es la elegida: la portadora del halo.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/hfhp7L6IzWzLwNXAWJNoA3schZI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5EGRySPSO6A9unsNqSxHwsax28P.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]La Mujer De La Casa De Enfrente De La Chica De La Ventana[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>111838</tmdb>
