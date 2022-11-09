@@ -1687,6 +1687,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Dulceida Al Desnudo [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>213840</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Dulceida.al.desnudo</externallink>
+<info>La docuserie muestra cómo es el día a día de la famosa influencer Dulceida en el ámbito profesional y personal, intentando descubrir la faceta más íntima de la persona que está tras el personaje de Dulceida: Aida Domenech. Además, profundizará en las claves de su éxito y cómo ha sabido utilizar las redes sociales para conectar con el público, tanto español como internacional, gracias a su naturalidad y cercanía.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/9iIkDoJwkewIm8BxI0pC1j0Gllk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dRWQWY9jiXEWKC6rpkLg2MiUWwU.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]East West 101[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>14168</tmdb>
