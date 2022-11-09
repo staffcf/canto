@@ -6,6 +6,20 @@
 
 
 
+
+<item>
+<title>[COLOR white] Big Gold Brick[/COLOR][COLOR yellow](2022) [COLOR aqua]*5.5
+[/COLOR]</title> 
+<genre>Comedia,Drama,Fantasía</genre>
+<year>2022</year>
+<tmdb>624798</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/pioc0HaWG2Cf3zoDEGjTgJOSBvv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5nOVWQD2sRNxYtYX9LBai7VGeRi.jpg</fanart>
+<info>Cuenta la historia del escritor novato Samuel Liston y sus experiencias con Floyd Deveraux, el enigmático padre de dos hijos de mediana edad que recluta a Samuel para escribir su biografía.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/uDoQ2qzO8Rw"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/p6rl2gsmz52034z1"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/j9n1g31ehr0lgx"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/cpg26w7uzfvm"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/1k43kyaous48"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/7pivdwb51szs"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/ydMv10damaioML"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Nop! [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.0
 [/COLOR]</title> 
