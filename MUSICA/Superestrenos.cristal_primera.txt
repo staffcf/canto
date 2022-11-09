@@ -33,6 +33,31 @@
 </item>
 
 
+<item>
+<title>[COLOR white] Una comedia de la Stasi [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.1
+[/COLOR]</title> 
+<genre>Comedia</genre>
+<year>2022</year>
+<tmdb>943000</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/2ifcAHWaJuTjKkbsZyITr3paadR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/og6hMfyq6NEA4YceJ8SPcK9aD3u.jpg</fanart>
+<info>¿Una comedia sobre el servicio secreto de la RDA? Sí, una comedia sobre el servicio secreto de la RDA. Situaciones absurdas, enredos y una bonita historia de amor son las claves de esta cinta basada en hechos reales. Berlín, 2022. La familia de Ludger le ha preparado una sorpresa por su cumpleaños: su expediente como policía de la Stasi (servicio secreto de la RDA), en el que encuentran información comprometida.Un filme divertidísimo que demuestra la poca sofisticación del servicio secreto de la RDA a través de la historia de Ludger, quien, de joven, en la década de 1970, se infiltró en ambientes juveniles simpatizantes de Occidente. La vida bohemia, la libertad y la desinhibición que le ofrecen estas comunidades hacen que el joven se acabe olvidando de su cometido.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/GUGq3Dg33y4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/poner"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/0vxld679ukk7gz1"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/vkm7djq32z53"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/saynz9fr7pq3"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/rctyd18fxsz4"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/yMGRDxvzm2U1RrJ"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El Rey de todo el mundo [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.2
+[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2021</year>
+<tmdb>674996</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/2g30TrJqIw7fNBN4W4ZmrG90UXR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gYO4E6Z8Vdke8oOGwhG3v0gL9VV.jpg</fanart>
+<info>Dos bailarines que se enamoran cuando son elegidos como co-protagonistas de una producción importante.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/afXij7Z5Rnw"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/17nmwyajlq6rz012"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/md0ewj1jsx6edd6"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/qub2nq5vc7gr"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/17pko6l7tv3e"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ahrik88ydf15"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/b79Bpq2mwPtP8Y6"}</urlsolve>
+</item>
+
 
 <item>
 <title>[COLOR white] El extraño [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.3
