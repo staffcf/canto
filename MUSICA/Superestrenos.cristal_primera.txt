@@ -6,6 +6,18 @@
 
 
 
+<item>
+<title>[COLOR white] Tadeo Jones 3 : La tabla esmeralda [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.2
+[/COLOR]</title> 
+<genre>Aventura,Animación,Comedia,Familia</genre>
+<year>2022</year>
+<tmdb>676701</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/nqj1AVa6Le76wvjRYqn5T4XiDYI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tUBN1paMQ1tmVA5Sjy1ZjPWVsiF.jpg</fanart>
+<info>A Tad le encantaría que sus colegas arqueólogos lo aceptaran como uno de ellos, pero siempre lo estropea todo. Tad destruye accidentalmente un sarcófago y desata un antiguo hechizo que pone en peligro la vida de sus amigos: Momia, Jeff y Belzoni. Con todos en su contra y solo ayudado por Sara, se embarca en una aventura que lo llevará de México a Chicago y de París a Egipto, con el fin de poner fin a la maldición de la Momia.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/W1XUBKGSLIg"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/m72m0-a5dne5g8nx"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/0vxlx866t1lnrl"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/g60jmpidp5w2"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/12q0toc99asm"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/tug6r26joxbn"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/b79Bpq2mwPtP8Y6"}</urlsolve>
+</item>
+
 
 <item>
 <title>[COLOR white] Big Gold Brick[/COLOR][COLOR yellow](2022) [COLOR aqua]*5.5
