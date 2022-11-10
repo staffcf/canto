@@ -20,6 +20,32 @@
 
 
 <item>
+<title>[COLOR white] La bala perdida 2 [/COLOR][COLOR yellow](2022) [COLOR aqua]*8.2
+[/COLOR]</title> 
+<genre>Acción,Drama,Suspense</genre>
+<year>2022</year>
+<tmdb>948276</tmdb>
+<thumbnail> https://www.themoviedb.org/t/p/original/uAeZI1JJbLPq7Bu5dziH7emHeu7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kXA8hpB0vumc8lE8RXKHafKfafB.jpg</fanart>
+<info>Tras la muerte de Charras, Lino y Julia toman el relevo y forman la nueva unidad de estupefacientes. Decidido a encontrar a los asesinos de su hermano y de su mentor, Lino continúa su cacería y no deja que nadie se interponga en su camino.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/t7vUb5Njl2o"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/p6rl2gsmz588jdrr"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/n079qwl8h0km6x"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/r3euczohaf3y"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/aib09blvveoq"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/7ul43i9suqtm"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/DZjVRp4mo2tVvM"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Navidad de golpe [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.2
+[/COLOR]</title> 
+<genre>Romance,Comedia</genre>
+<year>2022</year>
+<tmdb>833097</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/6GkphwL9s6dZb3DoQS9OQ4LcPgY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6wu410GlublQfYjCnepQMRbP7qq.jpg</fanart>
+<info>Tras perder la memoria en un accidente de esquí, una heredera mimada acaba al cuidado de un viudo sin suerte y su hija durante las Navidades.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/fFKPLJ52kXQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/5pyw36ad1qej0rpr"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/rwjqrr3zuznwj3"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/dgywus3442gc"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/zjmxjp73ygpo"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/48zpsi53brmv"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/7YavKApxJrcRqY"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Big Gold Brick[/COLOR][COLOR yellow](2022) [COLOR aqua]*5.5
 [/COLOR]</title> 
 <genre>Comedia,Drama,Fantasía</genre>
