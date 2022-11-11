@@ -35,7 +35,7 @@
 <genre>Acción,Drama,Suspense</genre>
 <year>2022</year>
 <tmdb>948276</tmdb>
-<thumbnail> https://www.themoviedb.org/t/p/original/uAeZI1JJbLPq7Bu5dziH7emHeu7.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/uAeZI1JJbLPq7Bu5dziH7emHeu7.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/kXA8hpB0vumc8lE8RXKHafKfafB.jpg</fanart>
 <info>Tras la muerte de Charras, Lino y Julia toman el relevo y forman la nueva unidad de estupefacientes. Decidido a encontrar a los asesinos de su hermano y de su mentor, Lino continúa su cacería y no deja que nadie se interponga en su camino.<info>
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/t7vUb5Njl2o"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/p6rl2gsmz588jdrr"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/n079qwl8h0km6x"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/r3euczohaf3y"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/aib09blvveoq"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/7ul43i9suqtm"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/DZjVRp4mo2tVvM"}</urlsolve>
