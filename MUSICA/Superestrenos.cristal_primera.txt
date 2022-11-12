@@ -19,6 +19,19 @@
 
 
 <item>
+<title>[COLOR white] Quédate (Kal)[/COLOR][COLOR yellow](2022) [COLOR aqua]*8.5
+[/COLOR]</title> 
+<genre>Romnce,Drama</genre>
+<year>2022</year>
+<tmdb>1040263</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/lY60e6nqssfZC4reBRzFglayQZ9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lbMMWxiCm7qFfE5ovyZZDpZD5Jo.jpg</fanart>
+<info>La novia de Semih rompe de repente con él. En busca de respuestas sobre su relación, pronto debe enfrentarse a lo que había ignorado durante mucho tiempo.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/82nrNjOd_L8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/ypmj3wael7rjjl60"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/vnm3lg8phq8vlwj"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/7puw9bpxt5xu"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/yqk4exag9hjx"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/lv3ovb3z55nj"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/zMYgobaDy4Hy0R"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Y muere porque te toca [/COLOR][COLOR yellow](2022) [COLOR aqua]*8.2
 [/COLOR]</title> 
 <genre>Comedia,Crimen</genre>
