@@ -4,6 +4,20 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+
+<item>
+<title>[COLOR white] El contratista [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.5
+[/COLOR]</title> 
+<genre>Acción,Suspense</genre>
+<year>2022</year>
+<tmdb>628900</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/l1h0vckonVoVFgUzXS4phDhcXDt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fJLOHQaoeeekwdW3fHhbJQz3Oos.jpg</fanart>
+<info>Después de ser dado de baja involuntariamente de las Fuerzas Especiales de EE. UU., James Harper decide apoyar a su familia uniéndose a una organización de contratación privada junto a su mejor amigo y bajo el mando de un compañero veterano. En el extranjero en una misión encubierta, Harper debe evadir a quienes intentan matarlo mientras regresa a casa.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ow_kPbyHwIo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/m72m0-a5d418llp2"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/dqzle7jeaqqnq1"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/6dhgxy51hbrs"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/3n87cy73p1bf"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/46bjfxu68hwa"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/4dLyyyg8LRiKmkJ"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Y muere porque te toca [/COLOR][COLOR yellow](2022) [COLOR aqua]*8.2
 [/COLOR]</title> 
