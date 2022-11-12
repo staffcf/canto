@@ -19,6 +19,19 @@
 
 
 <item>
+<title>[COLOR white] Men: Terror en las sombras [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.3
+[/COLOR]</title> 
+<genre>Terror,Suspense,Fantasía</genre>
+<year>2022</year>
+<tmdb>780609</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/gaCUbwMR0ciT5G4qoeVHsylbxR7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/g5Gm6mBSgAbqSEuenzxmaTelvoX.jpg</fanart>
+<info>Tras sufrir una tragedia personal, Harper se retira sola a la hermosa campiña inglesa con la esperanza de encontrar un lugar para cerrar sus heridas. Pero alguien o algo de os bosques que la rodean parece estar acechándola. Lo que comienza como un temor latente se convierte en una auténtica pesadilla, habitada por sus recuerdos y miedos más oscuros.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/cIu-yZwYXe4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/8mwx70c83w-kp0-7"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/dqzlrongi7jm1ne"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/r3zp71ltho0y"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/vp5gj7553feg"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/4qq8jf9k1uup"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/mYwDQM1Vm7FM31"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Quédate (Kal)[/COLOR][COLOR yellow](2022) [COLOR aqua]*8.5
 [/COLOR]</title> 
 <genre>Romnce,Drama</genre>
