@@ -1447,6 +1447,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Desde Dentro[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<tmdb>121710</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Desde.dentro</externallink>
+<info>Un estadounidense en el corredor de la muerte con un talento especial para resolver misterios ayuda a una joven periodista británica a buscar a su amiga desaparecida.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/lRdvIIwJkPtsl2xQNXXZrVk90eK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/m2TCdij3QsSgSYjSEA09q9rJYOc.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Desde Otro Lugar[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <tmdb>81241</tmdb>
