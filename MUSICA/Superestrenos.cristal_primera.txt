@@ -6,6 +6,17 @@
 
 
 <item>
+<title>[COLOR white] Atrapados en el bosque [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.8[/COLOR]</title> <genre>Terror,Suspense</genre>
+<year>2022</year>
+<tmdb>929562</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/pWKTaGN9WMcKHKAir9POsKm4vEo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/h2VmRSlnuH8RCPa7loYZK350q6J.jpg</fanart>
+<info>Helen y su hija Emily acompañan a regañadientes al padre de Helen, Stan, en un viaje de campamento familiar, conduciendo a lo profundo del bosque para disfrutar de una experiencia real al aire libre, solo para que el enojado terrateniente Howard llegue y los obligue a irse. Cuando su RV se atasca, Helen decide buscar ayuda, pero descubre un secreto inquietante en la propiedad del hombre. Luego debe luchar para proteger a su familia y salir viva del bosque antes de ser perseguida.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/8u7LH8gozcQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/jzewrxud8qlr774k"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/9nd8ejqxi4ngez"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/qkr63y6267kc"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/n4hxdix1mj1g"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/vfyqirao6vgi"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/DaBAW2Dyz7Hk0q3"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El contratista [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.5
 [/COLOR]</title> 
 <genre>Acción,Suspense</genre>
