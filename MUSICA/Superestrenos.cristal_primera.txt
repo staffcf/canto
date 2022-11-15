@@ -4,6 +4,16 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+<item>
+<title>[COLOR white] Alta costura [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.2[/COLOR]</title> <genre>Drama</genre>
+<year>2022</year>
+<tmdb>719463</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/zKWnA5y1d3kc8bjD3FKIaJ1WI4K.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lRFAjHmx5foEU89AaTxj7Ppjvr2.jpg</fanart>
+<info>Esther está al final de su carrera como jefa de costureras en el taller de Dior Avenue Montaigne. Un día, una mujer de 20 años, Jade, le roba el bolso en el metro. En lugar de llamar a la policía, decide hacerse cargo de Jade.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ccTbb7DNFQU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/l1k4wxungz4mklpx"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/zpvrn6zdfgonxgm"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/bs0bjcxknj7f.html"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/5apzb16lm8gs"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/kznewrf18e4r"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Mza30Ayobrumpkj"}</urlsolve>
+</item>
+
 
 <item>
 <title>[COLOR white] La lista de mr Malcolm [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.8[/COLOR]</title> <genre>Comedia,Romance,Historia</genre>
