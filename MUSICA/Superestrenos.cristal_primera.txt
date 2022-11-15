@@ -6,6 +6,17 @@
 
 
 <item>
+<title>[COLOR white] La lista de mr Malcolm [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.8[/COLOR]</title> <genre>Comedia,Romance,Historia</genre>
+<year>2022</year>
+<tmdb>716532</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/5MlCRRIAjM5pfXMt6gq3PwKq9qF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ziCzXjstaX3DAaOcck8UXlR66ME.jpg</fanart>
+<info>Cuando no cumple con un elemento de su lista de requisitos para una novia, Julia Thistlewaite es abandonada por el soltero más codiciado de Londres, el Sr. Malcolm. Sintiéndose humillada y decidida a vengarse, convence a su amiga Selina Dalton para que desempeñe el papel de su pareja ideal. Pronto, el Sr. Malcolm se pregunta si ha encontrado a la mujer perfecta... o el engaño perfecto.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/KrH6hLyoS6A"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/k32nz-f37j0x6nd5"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/zpvrn6jzfgrj9gr"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/imoprtm1t8ap"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/e0wiibnpji6e"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/pi2oq1gaalt5"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/rB2W8VXBqWtbwZO"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Atrapados en el bosque [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.8[/COLOR]</title> <genre>Terror,Suspense</genre>
 <year>2022</year>
 <tmdb>929562</tmdb>
