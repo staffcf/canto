@@ -4,6 +4,20 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+
+<item>
+<title>[COLOR white] Cop Secret [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.0
+[/COLOR]</title> 
+<genre>Comedia,Acción,Suspense</genre>
+<year>2022</year>
+<tmdb>792775</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/y0YG8mKoBld8abl4u9I0oGn7hLu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sUuzl04qNIYsnwCLQpZ2RSvXA1V.jpg</fanart>
+<info>Cuando Bússi, el policía más duro de Islandia, se ve obligado a trabajar con un nuevo socio para resolver una serie de robos a bancos, la presión para cerrar el caso lo antes posible resulta demasiado para él.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/wVd47Y9G4C8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/8mwx70c83rw3xl25"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/n07rv3o9blo01e9"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/b3jl362wkizr"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/j9mz7yqkwmpi"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/lnwts3e6kb80"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/rB6QLKo6WOIbzgQ"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Alta costura [/COLOR][COLOR yellow](2021) [COLOR aqua]*6.2[/COLOR]</title> <genre>Drama</genre>
 <year>2022</year>
