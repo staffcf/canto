@@ -60,6 +60,18 @@
 
 
 <item>
+<title>[COLOR white] El perdon [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.2
+[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2022</year>
+<tmdb>669401</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/b95y3l7EncKvRzcZUkktp57FLv7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4mbe5uXblcgS3zdd2ubPl4DaZsG.jpg</fanart>
+<info>Una mujer cuyo marido es ejecutado pasa por apuros a la hora de cuidar de su hija minusválida. Pese a sus problemas, la familia de su antiguo cónyuge insiste en que debe casarse con su hermano y permanecer con ellos. Posteriormente descubren que la sentencia de muerte es errónea y que el principal sospechoso es en realidad el único testigo que incriminó a su marido.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/TQXcbL4UlLs"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/17nmwyajl--ly82k"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/vnmr68zviv941p"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/p2zbcdj8yyfh"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/88lon26malui"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/lgx2u5jg89gs"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/vWo3rXR91mTYoW"}</urlsolve>
+</item>
+
+<item>
 <title>[COLOR white] Lunana, un yak en la escuela [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.7
 [/COLOR]</title> 
 <genre>Drama</genre>
