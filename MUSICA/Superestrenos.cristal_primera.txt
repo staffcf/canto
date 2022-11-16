@@ -6,6 +6,19 @@
 
 
 
+<item>
+<title>[COLOR white] Smile [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.7
+[/COLOR]</title> 
+<genre>Terror,Misterio,Suspense</genre>
+<year>2022</year>
+<tmdb>882598</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/yb601JvollS4rhSKVjnqUx5h2rS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rJUD2cZpQPvpzwTrlt5GlYiilTF.jpg</fanart>
+<info>Tras presenciar un extraño y traumático incidente con un paciente, la doctora Rose Cotter (Sosie Bacon) comienza a experimentar sucesos aterradores que no puede explicar. A medida que un miedo sobrecogedor comienza a afectar a todos los aspectos de su vida, Rose se verá obligada a afrontar a su problemático pasado para sobrevivir y escapar de su terrorífica nueva realidad.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/u7h4v79F0L4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/2p1qwxa2zprqn65n"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/wngrwoj1fx04ex"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/066owrm704s5"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/5l6nti7hu250"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/z6fe10c6uuyq"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/08B1zwZRvoFbPKp"}</urlsolve>
+</item>
+
+
 
 <item>
 <title>[COLOR white] Leprechaun Returns [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.9
