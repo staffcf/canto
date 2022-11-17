@@ -4,6 +4,15 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+<item>
+<title>[COLOR white] El Prodigio [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.8[/COLOR]</title> <genre>Misterio,Suspense,Drama</genre>
+<year>2022</year>
+<tmdb>823766</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/ltli2pFLKLomH1UClXs838rqITb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/u5FEw1mrQ3lj2jcoSlwEa4FUONE.jpg</fanart>
+<info>Región irlandesa de las Midlands, 1862. Una niña deja de comer pero permanece milagrosamente viva y en buen estado. La enfermera inglesa Lib Wright es llevada a un pequeño pueblo para observar a Anna O'Donnell, de once años. Abundantes turistas y peregrinos se reúnen para contemplar a la niña que, según se dice, ha sobrevivido sin comer durante meses. ¿Acaso alberga el pueblo a una santa que "sobrevive con el maná del cielo" o existen motivos más siniestros?<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/KS0A3PqHK_E"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/m7k2wnh5d8w3jql3"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/0vxwogdmakkw0gx"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/p5n0tid6zlci.html"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/jbxr472q9wf8"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/r3e1lqby0ykd"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/9qY7MXbkwqU66R"}</urlsolve>
+</item>
 
 
 <item>
@@ -17,7 +26,6 @@
 <info>Tras presenciar un extraño y traumático incidente con un paciente, la doctora Rose Cotter (Sosie Bacon) comienza a experimentar sucesos aterradores que no puede explicar. A medida que un miedo sobrecogedor comienza a afectar a todos los aspectos de su vida, Rose se verá obligada a afrontar a su problemático pasado para sobrevivir y escapar de su terrorífica nueva realidad.<info>
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/u7h4v79F0L4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/2p1qwxa2zprqn65n"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/wngrwoj1fx04ex"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/066owrm704s5"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/5l6nti7hu250"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/z6fe10c6uuyq"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/08B1zwZRvoFbPKp"}</urlsolve>
 </item>
-
 
 
 <item>
