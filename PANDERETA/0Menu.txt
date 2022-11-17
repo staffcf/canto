@@ -94,6 +94,16 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]1989[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>90669</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/1899</externallink>
+<info>Al cruzar el océano del viejo al nuevo continente, varios inmigrantes de diversas nacionalidades viven una pesadilla a bordo de un segundo barco a la deriva.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/4uiIDhjIglhYQUL5i0cpiZKPa2o.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5lH7NtGZ5ApTXQ8lufosf2JN4bh.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]A Los Gatos ni Tocarlos:Un Asesino En Internet [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>96129</tmdb>
