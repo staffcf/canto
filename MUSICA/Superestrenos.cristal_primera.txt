@@ -4,6 +4,21 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+
+
+<item>
+<title>[COLOR white] La bestia [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.0
+[/COLOR]</title> 
+<genre>Suspense,Aventura,Terror</genre>
+<year>2022</year>
+<tmdb>760741</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/s7xRJ3HfYuZfldXD4YODurbCYtS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2k9tBql5GYH328Krj66tDT9LtFZ.jpg</fanart>
+<info>El Doctor Nate Samuels, que se ha quedado viudo recientemente, regresa a Sudáfrica, lugar en el que conoció a su mujer, para visitar una reserva de animales con sus hijas. Pero lo que empieza siendo un viaje curativo se convierte en una lucha por la supervivencia cuando un león que ha escapado de unos cazadores furtivos empieza a seguirles.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/xTANWIJcSIM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/jzw16gud8dqe05lj"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/gn3xrxe4uwm99e1"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/xo6u9xgdtdh0"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/w8rvx9oa7vdz"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/poner"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/opLkdeRvWQUJ6ML"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] El Prodigio [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.8[/COLOR]</title> <genre>Misterio,Suspense,Drama</genre>
 <year>2022</year>
