@@ -4,6 +4,15 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+<item>
+<title>[COLOR white] Desencantada: Vuelve Giselle [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.3[/COLOR]</title> <genre>Comedia,Familia,Fantasía</genre>
+<year>2022</year>
+<tmdb>338958</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/6NveXOU3wlkbBrk4lR4noumF1fx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aBfvQZj9ex6EPE4QUQD06rgaERh.jpg</fanart>
+<info>Diez años después de su felices para siempre, Giselle cuestiona su felicidad, sin darse cuenta, poniendo patas arriba las vidas de aquellos en el mundo real y Andalasia en el proceso.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/CEvx9mkmiDI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/nz37wxu2826w5z04"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/rwj41xpzh3en4m"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/3nqx3cs0zaxx.html"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/i0vahhg1396w"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/bdxgkt13t3io"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/XkKMPqJAMLhDkYe"}</urlsolve>
+</item>
 
 
 <item>
