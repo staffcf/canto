@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Spirited: El Espíritu De La Navidad [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.0[/COLOR]</title> <genre>Comedia</genre>
+<year>2022</year>
+<tmdb>632856</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/lP3eQ8Xnhm46nlVBawLPQGbw4LR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9azDhJzFeCQLDAuV6QbNGkrSH7p.jpg</fanart>
+<info>Una versión musical de la historia clásica de Charles Dickens, 'A Christmas Carol', de un misántropo avaro que es llevado a un viaje mágico. Cada víspera de Navidad, el fantasma del espíritu de la Navidad selecciona un alma oscura para ser reformada por una visita de tres espíritus. Pero esta temporada, ha elegido al Scrooge equivocado... Por primera vez, el clásico clásico "A Christmas Carol" se cuenta desde la perspectiva de los fantasmas en este musical sobre el cuento de Dickens.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/bjki2_w8Rtk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/8mjw23u838w0q4mz"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/l6dr0gpviz870"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/6f4xr8u6mwrx.html"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/0rmiqdo75gcr"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/a12atqh837g1"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/7dJ4dpbj9mIA9Ad"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Desencantada: Vuelve Giselle [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.3[/COLOR]</title> <genre>Comedia,Familia,Fantasía</genre>
 <year>2022</year>
 <tmdb>338958</tmdb>
