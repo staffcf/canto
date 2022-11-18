@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] La boda más odiosa [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.5[/COLOR]</title> <genre>Comedia</genre>
+<year>2022</year>
+<tmdb>802372</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/lK81XvGcauyTx4STOYRyGDoKtoO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/l54mCJa72vH8boSuyUBHjNao519.jpg</fanart>
+<info>Alice (Kristen Bell), su hermano Paul (Ben Platt) y su siempre optimista madre (Allison Janney) viajan desde Estados Unidos hasta el Reino Unido para acudir a la boda de su media hermana Eloise (Cynthia Addai-Robinson) con la intención de retomar su relación como personas más o menos adultas y quererse como lo hacían antes.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/mXeS6ELErIs"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/nz37wxu282-jxy0y"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/9nd0mxr4c3llmw3"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/19m1zi7ixrzh.html"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/5odzee9lmn6m"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/quy6w7o4z1nn"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/PJ0KOBWmJLI070p"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Spirited: El Espíritu De La Navidad [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.0[/COLOR]</title> <genre>Comedia</genre>
 <year>2022</year>
 <tmdb>632856</tmdb>
