@@ -3539,6 +3539,16 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]La Absoluta [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>1048975</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/La.absoluta</externallink>
+<info>Documental sobre la historia de la Selección Española de Fútbol desde la juventud de sus protagonistas, pasando por su fracaso en el Mundial de 2006 y por todas sus victorias: la Eurocopa de 2008, el Mundial de 2010 y la Eurocopa de 2012.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/iJpOqMUiIPSAQfwKgmhW0oYjGDg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dT2W0xVP6CQJ460N554ERAd7Xt1.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]La Alhambra [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb></tmdb>
