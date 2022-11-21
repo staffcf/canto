@@ -12968,6 +12968,18 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 
 
 <item>
+<title>[COLOR white] La Reina de España [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.2[/COLOR]</title> <genre>Comedia</genre>
+<year>2016</year>
+<tmdb>401252</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/sqWciIDvL4LjXuPeyeUh6rqcjPN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kIlYE45EtG1bhkX8AbpZVSMDnlm.jpg</fanart>
+<info>Tras sus experiencias en la Alemania nazi, la actriz Macarena Granada viajó a Hollywood, donde se convirtió en una estrella. En los años 50, la diva regresa a la España franquista para protagonizar una superproducción de Hollywood sobre la reina Isabel I de Castilla.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/PPfmvETmZIE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/2pm15ji2zdnq-njr"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/4n3l44d1tgp9jd"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/64cp4l3ys877"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/hssox5pbsrew"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/7duyxgt4a9d0"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/WPbjBb2bOqFbaYA"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] La Verdad Oculta [/COLOR][COLOR yellow] (2005) [/COLOR]</title> 
 <genre>Drama,Misterio</genre>
 <year>2005</year>
