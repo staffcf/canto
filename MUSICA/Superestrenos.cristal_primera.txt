@@ -4,8 +4,15 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
-
-
+<item>
+<title>[COLOR white] The long dark trail  [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.4[/COLOR]</title> <genre>Terror</genre>
+<year>2022</year>
+<tmdb>888838</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/snugghUevEq5LSpAiO0DTvWkL1d.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/igVi35mBaymHXaAA8fG2uqY2mmi.jpg</fanart>
+<info>Después de que dos hermanos adolescentes empobrecidos logran escapar de su padre abusivo, se embarcan en un viaje traicionero y embrujado con la esperanza de encontrar a su madre separada que se ha unido a un culto sádico, en lo profundo de los bosques del noroeste de Pensilvania.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/MfQJzySKuU0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/p6rl2gsmz588jdrr"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/0vxd7p4xakoomwx"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/09t6rj88848r"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/py3mrnfw1nuy"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/vprp72wufs1d"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/o17D07jY1juJ4Lg"}</urlsolve>
+</item>
 
 
 <item>
