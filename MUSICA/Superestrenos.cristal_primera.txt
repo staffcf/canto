@@ -4,6 +4,20 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+
+<item>
+<title>[COLOR white] La mujer rey [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.4
+[/COLOR]</title> 
+<genre>Acción,Drama,Historia</genre>
+<year>2022</year>
+<tmdb>724495</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/rLEeiar1YUW4EB6By4tSKWA4whZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qbiNwgTeT6y5tc64YOOY7mL1wyG.jpg</fanart>
+<info>Una epopeya histórica inspirada en los hechos reales que sucedieron en el Reino de Dahomey, uno de los estados más poderosos de África en los siglos XVIII y XIX. La historia sigue a Nanisca (Davis), general de la unidad militar exclusivamente femenina y a Nawi (Mbedu), una recluta ambiciosa. Juntas lucharon contra enemigos que violaron su honor, esclavizaron a su gente y amenazaron con destruir todo por lo que habían vivido.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/PyrWDkhLUdY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/17nmwyajl3w3edrj"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/pklxd3dkcgdr17g"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/8c2afb2hnv31"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/iw3ss5ge6ndn"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/4kemjkgawcmj"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/ZJZojDXyWZi7WD"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] The long dark trail  [/COLOR][COLOR yellow](2021) [COLOR aqua]*5.4[/COLOR]</title> <genre>Terror</genre>
 <year>2022</year>
