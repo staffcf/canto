@@ -7,6 +7,32 @@
 
 
 
+<item>
+<title>[COLOR white] Las Consecuencias [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.7
+[/COLOR]</title> 
+<genre>Drama,Suspense</genre>
+<year>2022</year>
+<tmdb>833043</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/idBM5zHPOVlFBlowNU45qJaQj7E.jpg</thumbnail>
+<fanart>https://i.imgur.com/DZTXA7F.jpeg</fanart>
+<info>En un viaje a una pequeña isla volcánica Fabiola se convierte en espía de su hogar. No tiene evidencias ni certezas, pero su intuición le dice que no todo es lo que parece. Se debate entre el miedo a lo que puede encontrar y la necesidad de obtener respuestas. ¿Hasta dónde hurgar en la intimidad de los demás? ¿Hasta dónde mentir para proteger a la gente que quieres?<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/R0ZMXDrKPtc"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/2p1qwxa2zdjl5dg0"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/xo37k9qxflmx8o7"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/1qffefu192re"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/q60qs57hyydt"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/fhzocju09rkk"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/prmv7dKG0MhrggB"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Resurrección [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.0
+[/COLOR]</title> 
+<genre>Drama,Terror,Suspense</genre>
+<year>2022</year>
+<tmdb>872497</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/kfRr8Jm1gaEnLTXCIfHkSw8QW6t.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/s1CDlZlnl1YUNtlBYr9rjejcPTb.jpg</fanart>
+<info>La vida cuidadosamente construida de una mujer da un vuelco cuando regresa una sombra no deseada de su pasado, obligándola a enfrentarse al monstruo que ha evadido durante dos décadas.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/raeTuxUWYM8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/xm0jygc561pgqj1g"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/3ngkmn3nfxee0v"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/sokn17ot6vsd"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/twmt831utigg"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/v1dy4ow9rmrw"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/7zmjyBWzepuAaMB"}</urlsolve>
+</item>
+
+
 
 <item>
 <title>[COLOR white] Survive [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.2
