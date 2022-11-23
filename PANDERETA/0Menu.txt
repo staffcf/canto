@@ -1737,6 +1737,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Echo 3[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>106116</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Echo3</externallink>
+<info>Cuando la brillante científica Amber Chesborough desaparece a lo largo de la frontera entre Colombia y Venezuela, su hermano y su esposo, ambos comandos de élite del ejército de los EE. UU., luchan por encontrarla en medio de una guerra de guerrillas y descubren que la mujer que aman podría tener un secreto.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/a7RQPsjZT4Xrxgjw9Nc15vi22DQ.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Educar A Un Superheroe[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>93392</tmdb>
