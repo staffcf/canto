@@ -5,6 +5,21 @@
 =======================================================================================
 
 
+
+
+<item>
+<title>[COLOR white] Lilo, mi amigo el cocodrilo [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.3
+[/COLOR]</title> 
+<genre>Comedia,Familia,Musica</genre>
+<year>2022</year>
+<tmdb>830784</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/FqQqxjkfTj0Uhne4fI5vPO4hFc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/c1bz69r0v065TGFA5nqBiKzPDys.jpg</fanart>
+<info>Cuando la familia Primm se muda a Nueva York, su hijo adolescente Josh lucha por adaptarse a su nueva escuela y nuevos amigos. Todo eso cambia cuando descubre a Lilo – un cocodrilo cantante a quien le gusta darse baños, el caviar y la buena música – viviendo en el ático de su nueva casa. Los dos se convierten en mejores amigos, pero cuando la existencia de Lilo se ve amenazada por su malvado vecino Mr. Grumps, los Primm deberán aliarse con el carismático dueño de Lilo, Hector P. Valenti, para mostrar al mundo que la familia puede surgir de los lugares más inesperados y que no hay nada malo con un gran cocodrilo cantante con una personalidad aún mayor.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Dqojt0IUnVk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/5pyw36ad1k7xr20x"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/l6do916lbe0op6"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/h4nyhu1r8rvn"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/zbyg52z35gr3"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/fqglufey2tmq"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/1qx4v76OLxcem6G"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] La mujer rey [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.4
 [/COLOR]</title> 
