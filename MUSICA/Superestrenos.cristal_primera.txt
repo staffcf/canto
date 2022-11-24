@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Plan de estudios [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.2[/COLOR]</title> <genre>Crimen,Suspense</genre>
+<year>2022</year>
+<tmdb>1049233</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/sQ4lWuCYi5q9TgtEd1jggDx3gjl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ypWke81A7Jb6kU3D1u9tWo8Kel9.jpg</fanart>
+<info>Un expolicía empieza a trabajar en el instituto en el que su mejor amigo daba clase para enfrentarse a la banda a la que culpa de su muerte.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/CQcU2nH36oc"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : ""},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/0vxqvgwmuk91nne"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/7uciwxfudyzv"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/sc00a4itblvb"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/9m0gz71w4eb5"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/e2yore92j0UYb1y"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Navidad en la granja [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.6[/COLOR]</title> <genre>Familia,Comedia</genre>
 <year>2022</year>
 <tmdb>1038627</tmdb>
