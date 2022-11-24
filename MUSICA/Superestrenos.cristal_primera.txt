@@ -6,6 +6,20 @@
 
 
 
+
+<item>
+<title>[COLOR white] Rey Piolin [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.0
+[/COLOR]</title> 
+<genre>Animación,Comedia,Familia</genre>
+<year>2022</year>
+<tmdb>952217</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/yGKg4ZoN8hTyysnUAuDcwVOPJYj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nG4JCJnCFR097nS4CE0UH7gaU4u.jpg</fanart>
+<info>Piolín, Silvestre y Abuelita se van de vacaciones a las Islas Canarias. Sin embargo, cuando la reina de la isla paradisíaca desaparece, Piolín se convierte inesperadamente en el siguiente en la fila para la corona.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/IdhueV1jXIA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/poner"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/0vxql88makowvkq"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/6dkat7gskkgb"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/ycrwv40smz76"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/axvijpkcqp7q"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/4pJzJqgjyBTKQ8W"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Entre la vida y la muerte [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.5
 [/COLOR]</title> 
