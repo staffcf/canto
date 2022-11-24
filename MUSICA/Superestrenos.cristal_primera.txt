@@ -4,6 +4,47 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+
+
+<item>
+<title>[COLOR white] Entre la vida y la muerte [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.5
+[/COLOR]</title> 
+<genre>Drama,Suspense</genre>
+<year>2022</year>
+<tmdb>925459</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/aEZYj3QgjxAHqc28VGmYitpe91p.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tRI49uTxOkUsLq2r9UloOZHQwRk.jpg</fanart>
+<info>Una noche, Leo, un español que trabaja en Bruselas como conductor de metro, ve a un joven al borde del andén, justo antes de caer a las vías.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/R8SjEKpjJac"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/-n7pwqapn6grxzpj"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/846gvm03h6dlm9n"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/xkkhv382d6ws"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/wzddop3r6ss2"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ki01fzyok631"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/JAA2dyjZoZHjK1w"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Lugares a los que nunca hemos ido [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.3
+[/COLOR]</title> 
+<genre>Comedia,Drama</genre>
+<year>2022</year>
+<tmdb>821138</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/jFkiCm7LsN2Ze4t7EDXcVAsEyLz.jpg</thumbnail>
+<fanart>https://i.imgur.com/a9Nlb4F.jpeg</fanart>
+<info>Elena ha pedido cena a domicilio, pero cuando abre la puerta, descubre que el repartidor es Manu, el que fue su gran amor y a quien hace demasiados años que no ve. En otro lugar de la ciudad, Javier es un director de casting a punto de poner a prueba a un actor con el que mantiene algo más que un vínculo profesional. No muy lejos de allí, Eva se dispone a ser infiel por primera vez a su marido con un compañero de trabajo. Mientras, Marian y Oliver inauguran el piso con el que se han hipotecado por treinta años. Y Carol y Orestes se conocen en una fiesta a la que acuden desconocidos dispuestos a abrazarse. Cinco lugares y unos personajes enfrentados a sí mismos y a sus sueños no cumplidos. Nadie dijo que fuera fácil hacerse mayor.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/V3iPVt5GIgI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/2p1qwxa2zr1q2dp5"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/zpv7eg8vu9jg0l"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/i6o2nc18ry05"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/8fv8tjvc3kq0"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/e5y0mluuf0o5"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/1j3Jb6eLVYTpyv"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El diario de Noel [/COLOR][COLOR yellow](2022) [COLOR aqua]*9.3
+[/COLOR]</title> 
+<genre>Romance,Comedia,Drama</genre>
+<year>2022</year>
+<tmdb>736918</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/qF74fth4nJuzoxaeWEVoAIjOJwI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e8QTxkhP9LUyH8AS6jD8SwH2qk0.jpg</fanart>
+<info>Un hombre regresa a casa en Navidad para arreglar la herencia de su madre separada. Una vez allí, descubre un diario que puede contener secretos.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/asH6ny4ILzM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/k3nk7gs37wezzz8y"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/846g0orptgjlx9"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/vl0pupsxovag"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/poner"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/zpg87pkly4ej"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/zG3mVQ2V39iYwl1"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Plan de estudios [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.2[/COLOR]</title> <genre>Crimen,Suspense</genre>
 <year>2022</year>
