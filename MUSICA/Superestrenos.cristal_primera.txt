@@ -4,7 +4,15 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
-
+<item>
+<title>[COLOR white] Heroes del barrio [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.1[/COLOR]</title> <genre>Aventura,Comedia,Deporte</genre>
+<year>2022</year>
+<tmdb>810214</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/y1d6KEoMHHxlDUaF4EIQfUcb5z9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wKBV1jSKGlWmR5IQaQgIKec1I3g.jpg</fanart>
+<info>Tras su separación, un padre al que no le van bien los negocios trata de recuperar la estima de su hija, una entusiasta jugadora de un equipo infantil de fútbol femenino. Así, Luis finge ser un buen amigo de Joaquín, el famoso jugador del Betis, y le promete a su hija Paula que lo llevará a su último partido del equipo de fútbol femenino. Luis se apoya en su padre, un ex boxeador, y en su amigo Lito para intentar recuperar el amor de su mujer, su hija y cumplir con su promesa.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/zzJdFmlVRpw"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : ""},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/4n31n76xc9j7nn"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/b7fxzx68c13b"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/k5n2owaqf2eg"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/w5unveau6gbh"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/QX6pkl4ywbs0Y94"}</urlsolve>
+</item>
 
 
 <item>
