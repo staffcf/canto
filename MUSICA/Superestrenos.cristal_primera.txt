@@ -8,6 +8,19 @@
 
 
 <item>
+<title>[COLOR white] Los perdonados [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.0
+[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2022</year>
+<tmdb>522927</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/yT0TGEPhPSOS097bhWcqn7va8gq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rPUiOzvoG4KdhRmNCoazBPVbBON.jpg</fanart>
+<info>Al borde del divorcio, una pareja adinerada, David (Fiennes) y Jo (Chastain), van a una fiesta de fin de semana y por accidente matan a un joven marroquí que vendía fósiles en la carretera. Meten el cuerpo en su coche como si nada y llegan a la fiesta en la mansión cuyos anfitriones son una pareja gay.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/zyJrALbO0gE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/k3nk7gs37wjwln61"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/pklo4ld1b9nlm1"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/w7ff7hp0yx14"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/poner"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/1h9w8uf4gslc"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/e4397oGVrdcYMXo"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Lilo, mi amigo el cocodrilo [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.3
 [/COLOR]</title> 
 <genre>Comedia,Familia,Musica</genre>
