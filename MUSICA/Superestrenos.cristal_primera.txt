@@ -4,7 +4,15 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
-
+<item>
+<title>[COLOR white] Esta navidad es una ruina [/COLOR][COLOR yellow](2021) [COLOR aqua]*4.2[/COLOR]</title> <genre>Comedia</genre>
+<year>2021</year>
+<tmdb>899382</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/kahZxhYvPZ4WxbqBVbhZuSeanu5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uVflhRHoW3ttVs6KxI7BFVZLBBu.jpg</fanart>
+<info>El padre de Emma y su amigo amigo de la escuela secundaria comienzan a salir, por lo que se embarca en una misión para romper la feliz pareja.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/cIV2w-FX6-M"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/r50dexte5drled4k"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/kn699ezgc3rve4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/0gp4vr1tjxe9"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/ydvng937ubfy"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/hysbkaw10j7i"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/90rxm3p3YpIaxM8"}</urlsolve>
+</item>
 
 
 <item>
