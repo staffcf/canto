@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Maneater [/COLOR][COLOR yellow](2022) [COLOR aqua]*3.1[/COLOR]</title> <genre>Suspense,Terror</genre>
+<year>2022</year>
+<tmdb>982620</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/pwf3DGuWB1AptvIzHhlGxDUNnQX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xKyB5Ifi5s5lpbqKU0MGpHU2ceL.jpg</fanart>
+<info>Un grupo de amigos de vacaciones en una isla aparentemente paradisíaca son acechados por un gran tiburón blanco implacable después de que un accidente los deja varados y dados por muertos.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ygOStSK84cY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/dedqpwhxglk-6jx8"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/846gggkkt8dr96"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/8bs88q9rux7x"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/tile69rym7vr"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/mt2lfx3xg2kx"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/z1mMaZbkPGSQJO"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] La memoria de un asesino [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.7[/COLOR]</title> <genre>Acción,Suspense,Crimen</genre>
 <year>2022</year>
 <tmdb>818397</tmdb>
