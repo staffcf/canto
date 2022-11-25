@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] La memoria de un asesino [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.7[/COLOR]</title> <genre>Acción,Suspense,Crimen</genre>
+<year>2022</year>
+<tmdb>818397</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/bZGWrwOjwR5APPQH61aMnik3oDO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ecPB0jEuPGoAL0nH1r0831DUt3r.jpg</fanart>
+<info>Alex, un asesino a sueldo, descubre que se ha convertido en un objetivo después de que se niega a completar un trabajo para una peligrosa organización criminal. Con el sindicato del crimen y el FBI persiguiéndolo, Alex tiene las habilidades para mantenerse a la vanguardia, excepto por una cosa: está luchando con una pérdida de memoria severa que afecta todos sus movimientos. Alex debe cuestionar cada una de sus acciones y en quién puede confiar en última instancia.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/CTZYihyGqss"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/dedqpwhxglkl4-p4"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/kn699x7qheo34n"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/qcy5vuvgb7qg"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/fmf7whb6kr0u"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/0a1unre56b2v"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/17ZZo8r3JyTezlR"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Esta navidad es una ruina [/COLOR][COLOR yellow](2021) [COLOR aqua]*4.2[/COLOR]</title> <genre>Comedia</genre>
 <year>2021</year>
 <tmdb>899382</tmdb>
