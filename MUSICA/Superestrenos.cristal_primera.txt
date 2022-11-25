@@ -5,6 +5,17 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Una nueva navidad [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.0[/COLOR]</title> <genre>Familia,Comedia,Drama</genre>
+<year>2022</year>
+<tmdb>929340</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/8SfE02RXRTJ6gtrlObFqXJSk6Oe.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7CjaQ94zzGwX4LKpLyrBOQQCgrx.jpg</fanart>
+<info>Sigue a Ralphie, ahora adulto, que regresa a la casa en la calle Cleveland para darles a sus hijos una Navidad mágica como la que tuvo cuando era niño, reencontrándose con amigos de la infancia y reconciliando el fallecimiento de su Viejo.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/eweAwvoLuT8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/61lmeju0yk8nkgk"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/9nd376evf3zg11x"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/clahu3q4ptjw"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/1m3u6fv3f2ji"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/zwff38nkulco"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/BeM3Kq818WS902"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Maneater [/COLOR][COLOR yellow](2022) [COLOR aqua]*3.1[/COLOR]</title> <genre>Suspense,Terror</genre>
 <year>2022</year>
 <tmdb>982620</tmdb>
