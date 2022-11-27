@@ -18,6 +18,19 @@
 
 
 <item>
+<title>[COLOR white] Hasta siempre, Don Glees! [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.5
+[/COLOR]</title> 
+<genre>Animacion,Aventura,Fantasía</genre>
+<year>2022</year>
+<tmdb>846993</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/k23MNHyzF7kmrhUADeRhlGqsLLu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1Vt65frTrAutUeymz5KPYz4xozZ.jpg</fanart>
+<info>Roma es un chico que vive en un pueblo rural algo alejado de Tokyo en el que no acaba de encajar. Junto con Toto, otro marginado, forma el grupo “Don Glees”. Ambos esperan que su relación siga siendo la misma aunque se separen cuando Toto se marche a estudiar el bachillerato a Tokyo. “Oíd, ¿os apetece ver el mundo a vista de pájaro?”. Las vacaciones de verano de primer año de bachillerato comienzan con estas palabras por parte de Drop, el nuevo miembro de “Don Glees”. Como resultado de estas palabras, Roma y sus amigos se ven obligados a buscar un dron desaparecido para probar su inocencia cuando son acusados de provocar un incendio forestal. La pequeña aventura veraniega no tarda en convertirse en una gran aventura que cambiará sus vidas para siempre.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/pNbmtVyLwPQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/001zwehlr-ezxr17"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/xo34jon3bmjjk1"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/q3dhj0v916ou"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/gudtv4cc5pyd"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ikwlmx7m8ti4"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/aPA71YPa1qIxrpL"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Rey Piolin [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.0
 [/COLOR]</title> 
 <genre>Animación,Comedia,Familia</genre>
