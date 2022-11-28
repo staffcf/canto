@@ -3919,7 +3919,7 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <thumbnail>https://i.imgur.com/pv2Bkai.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Narra la historia de Mulan, una intrepida joven lo arriesga todo por amor a su familia y a su pais hasta convertirse en una de las mayores guerreras de la historia de China. Cuando el emperador de China decreta que un hombre de cada familia debe servir en el Ejercito Imperial para defender al pais de los invasores del norte, Hua Mulan, la hija mayor de un condecorado guerrero, decide ocupar el lugar de su padre enfermo. Haciendose pasar por un hombre, Hua Jun, se enfrenta a constantes desafios y debera aprender a canalizar su fuerza interior y a aceptar su verdadero potencial. Un viaje epico que la convertira en una reconocida guerrera y le permitira ganarse el respeto de una nacion agradecida... y de un padre orgulloso. Remake del clasico de Disney.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/mu7p0i536t4d"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/zdn2mtj4l-3de2p"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/mu7p0i536t4d"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/zdn2mtj4l-3de2p"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]Prueba[/COLOR]","url" : "https://streamlare.com/v/JPjrQloNr2mzyOYk"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
  
