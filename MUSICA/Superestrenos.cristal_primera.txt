@@ -9,7 +9,7 @@
 <genre>Musica,Drama,Romance</genre>
 <year>2022</year>
 <tmdb>842424</tmdb>
-<thumbnail> https://www.themoviedb.org/t/p/original/gXQ4dJDl32ELytbmnz0V8sa7rQW.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/gXQ4dJDl32ELytbmnz0V8sa7rQW.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/fXHTnFIfDT6mCZlB8ayGdk1xolP.jpg</fanart>
 <info>Bex, una joven convicta, se ve obligada a unirse a un programa de rehabilitación social centrado en el baile para superar el doloroso trauma que le supone el haber causado el grave accidente automovilístico que ahora le hace estar en prisión.Los jóvenes a través de baile expresan sus frustraciones, traumas, miedos y consiguen liberarse de los errores del pasado despojándose de todo aquello que les ahoga.</info>
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/b8i8gbRhawU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/w0md25tnkzkrg2r7"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/8ty2mb8jz7bc"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/padWzjB9GL5z9NyA"}</urlsolve>
