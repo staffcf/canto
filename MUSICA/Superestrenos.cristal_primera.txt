@@ -4,8 +4,15 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
-
-
+<item>
+<title>[COLOR white] El paciente [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.8[/COLOR]</title> <genre>Suspense,Misterio,Película de TV,Drama</genre>
+<year>2022</year>
+<tmdb>1006917</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/9uTx9dGdLtT4N6CumP32YSc1LqN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/j0NQtRfmY5H3XrG9poZj9Xbvx5X.jpg</fanart>
+<info>Tras despertar de un coma, lo único que quiere Thomas es averiguar qué le pasó a su familia. Pero la verdad es muchas veces tan sombría como la mente humana…<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/bzV7JrNi1Is"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/k32nz-f37e13k8yx"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/pklg946mamown8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/v26bvcy8ilgq"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/4mpb26kztvlx"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/8r4bd0yqldaj"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/bvYQGOW0Z9UPV0v"}</urlsolve>
+</item>
 
 
 <item>
