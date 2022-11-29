@@ -505,6 +505,16 @@ misiones para devolver la esperanza a una galaxia dominada por un imperio despia
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Autodefensa [COLOR gold]Prox.[COLOR white][COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>1046717</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Autodefensa</externallink>
+<info>Autodefensa va de dos amigas que hacen lo que les da la gana sin tener que pedir permiso a nadie. Va de tener veintitantos, vivir en Barcelona y querer pisar todas las líneas rojas emocionales posibles para descubrir quién eres realmente. Va de las aventuras de dos locas descaradas que no quieren que nadie les diga cómo hacer las cosas, y que han creado su propio mundo para ser las reinas. En realidad, Autodefensa va de dos chicas que están muy asustadas y que se divierten en defensa propia. Dicen que lo sienten, que todo ha sido en defensa propia, sólo es que tenían mucho miedo.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/24pFm9OwFtNFvINODkIkKVF4Apb.jpg</thumbnail>
+<fanart>https://i.imgur.com/R7PQEhv.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Avicii True Stories [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>479626</tmdb>
