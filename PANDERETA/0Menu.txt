@@ -505,7 +505,7 @@ misiones para devolver la esperanza a una galaxia dominada por un imperio despia
 </item>
 
 <item>
-<title>[COLOR gold]* [COLOR white]Autodefensa [COLOR gold]Prox.[COLOR white][COLOR white][/COLOR]</title>  
+<title>[COLOR gold]* [COLOR white]Autodefensa[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>1046717</tmdb>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Autodefensa</externallink>
