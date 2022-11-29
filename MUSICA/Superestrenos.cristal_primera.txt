@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Tres mil años esperándote [/COLOR][COLOR yellow] (2022) [COLOR aqua]*7.0[/COLOR]</title>
+<genre>Fantasía,Drama,Romance</genre>
+<year>2022</year>
+<tmdb>556694</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/ohoyEaoNRZXg1XKtwEUypbSHe4B.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/848QV9kuVvy3cEJnbBShG1z2dS8.jpg</fanart>
+<info>La Dra. en literatura Alithea Binnie (Tilda Swinton) parece estar feliz con su vida aunque se enfrenta al mundo con cierto escepticismo. De repente, se encuentra con un genio (Idris Elba) que ofrece concederle tres deseos a cambio de su libertad. En un principio, Alithea se niega a aceptar la oferta ya que sabe que todos los cuentos sobre conceder deseos acaban mal. El genio defiende su posición contándole diversas historias fantásticas de su pasado. Finalmente, ella se deja persuadir y pedirá un deseo que sorprenderá a ambos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/-8JrkA8Mdyc"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/k32nz-f375rm6wjd"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/z0dillozxncz"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/YvAyz2GrvEklg9kL"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Fly [/COLOR][COLOR yellow] (2021) [COLOR aqua]*6.9[/COLOR]</title>
 <genre>Musica,Drama,Romance</genre>
 <year>2022</year>
