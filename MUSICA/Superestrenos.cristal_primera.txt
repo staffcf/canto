@@ -4,16 +4,7 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
-<item>
-<title>[COLOR white] Creando el terror [/COLOR][COLOR yellow] (1982) [COLOR aqua]*4.5[/COLOR]</title>
-<genre>Terror</genre>
-<year>2022</year>
-<tmdb>59738</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/original/wj5kbN103mF2CWejBRkCZS2tTks.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/fsMlT0nRLupETI3Ucfd941taUkm.jpg</fanart>
-<info>Las fiestas en los colegios son conocidas por sus bomas y sus juegos. El baile de disfraces de este año no es una excepción y todo el mundo participa, bailando, cantando y disfrazándose. Uno de los juegos consiste en ir a la caza del tesoro, y las claves están esparcidas por todo el campus. Benson, disfrazado de oso, desaparece pronto de la fiesta después de una discusión. La caza del tesoro empieza, y se dan unas claves secretas cada media hora. Sólo los mas listos pueden descubrir las pistas y encontrar su camino en los oscuros escondites... para encontrarse con alguien que los está esperando. La diversión y los juegos sólo acaban de empezar.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/wiXW9fbjGCk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/dedqpwhxg7wqz4p1"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ux7zhibf0tas"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/j57gDmv63oYz26Xb"}</urlsolve>
-</item>
+
 
 
 <item>
