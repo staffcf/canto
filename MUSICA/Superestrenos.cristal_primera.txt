@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Como sobrevivir al instituto [/COLOR][COLOR yellow] (2022) [COLOR aqua]*NR[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2022</year>
+<tmdb>783613</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/e163WHpGP75SUC19fqn897zOrUz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tYtwJeOKPKDrskCSfDO3gRwmlhh.jpg</fanart>
+<info>Con una visión fresca y novedosa de lo que supone para un adolescente terminar el instituto, la película cuenta la desventuras y aventuras de tres mejores amigos que se enfrentan a los desafíos de su último año escolar. Zane, el chico malo, se obsesiona con Becca, la chica nueva. James se ve obligado por su novia a asumir un poco de responsabilidad sobre su vida. Y Mitch simplemente quiere perder su virginidad. Todo puede pasar y es necesario que pase antes de que se termine este último año escolar.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/PQDZIjuyr6w"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/w0md25tnkzkrg2r7CAMBIAR"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/aq9plejv1mif"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/WwM7lMBNL3KnZKbo"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Me llamo Venganza [/COLOR][COLOR yellow] (2022) [COLOR aqua]*6.0[/COLOR]</title>
 <genre>Acción,Aventura,Crimen,Misterio,Suspense</genre>
 <year>2022</year>
