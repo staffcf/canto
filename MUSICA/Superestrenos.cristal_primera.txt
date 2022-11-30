@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Me llamo Venganza [/COLOR][COLOR yellow] (2022) [COLOR aqua]*6.0[/COLOR]</title>
+<genre>Acción,Aventura,Crimen,Misterio,Suspense</genre>
+<year>2022</year>
+<tmdb>873126</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/jV0BEZN1iXEs5KIn95A8eOXqoWY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pHCLEj9i1R929p8feiwyq2arSgi.jpg</fanart>
+<info>Cuando unos viejos enemigos matan a su familia, un antiguo sicario de la mafia huye a Milán con su intrépida hija para esconderse mientras planean su venganza.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/nz_O6hmIB3w"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/w0md25tnkdzklx70"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/hysi7bmbboj9"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/j57gDmv642Xz26Xb"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Un hombre de acción [/COLOR][COLOR yellow] (2022) [COLOR aqua]*6.5[/COLOR]</title>
 <genre>Drama,Historia</genre>
 <year>2022</year>
