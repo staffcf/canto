@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Un hombre de acción [/COLOR][COLOR yellow] (2022) [COLOR aqua]*6.5[/COLOR]</title>
+<genre>Drama,Historia</genre>
+<year>2022</year>
+<tmdb>945897</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/2sZAwJI7hPIXwQKp95RFXhCm619.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kumeuomlQwwi8RPTFUXjVoit91o.jpg</fanart>
+<info>Inspirada libremente en la vida de Lucio Urtubia, y con elementos ficcionalizados, “Un hombre de acción” explora la figura del denominado "Robin Hood" anarquista, que llevó a cabo una legendaria operación de falsificación en París que le puso en el punto de mira del banco más grande de Estados Unidos, cuando consiguió obtener una enorme cantidad de dinero falsificando cheques de viaje para invertir en causas en las que creía.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Wkm1Cr4pbMk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/00l1rjtlr7-1n107"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/i7k97g355rhx"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/AkQpz93p9janRdN6"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Una navidad llena de gracia [/COLOR][COLOR yellow] (2022) [COLOR aqua]*4.5[/COLOR]</title>
 <genre>Romance,Comedia</genre>
 <year>2022</year>
