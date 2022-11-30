@@ -4,7 +4,16 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
-
+<item>
+<title>[COLOR white] Una navidad llena de gracia [/COLOR][COLOR yellow] (2022) [COLOR aqua]*4.5[/COLOR]</title>
+<genre>Romance,Comedia</genre>
+<year>2022</year>
+<tmdb>1042984</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/zuQlQcTkNc8o6Vm6u0yREmOUZv9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wvIV32bGg6HC4dOCyXIHk9q4Lgt.jpg</fanart>
+<info>Después de descubrir que lo han engañado, Carlinhos decide invitar a una desconocida muy graciosa por Navidad a casa de sus padres. Pero Graça demuestra ser una loca capaz de poner de los nervios a la tradicional familia de Carlinhos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/f2-U86r2jYU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/m7k2wnh5d66p8e5z"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/3kap4yj0ocxc"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/K7j0lgW7QJplXkPv"}</urlsolve>
+</item>
 
 
 <item>
