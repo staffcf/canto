@@ -12,7 +12,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/xAa1TzdB380bIibdyaqugPtRohm.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/duIsyybgrC4S8kcCIVaxNOttV15.jpg</fanart>
 <info>En lo profundo de la montaña Dovre, algo gigantesco se despierta después de mil años de cautiverio. La criatura destruye todo a su paso y se acerca rápidamente a Oslo.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/VNkicC0BOEQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/jzewrxud82l5-1ne"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/1brmevoggj1d"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/LMEmnAkQXPvzgPvq"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/VNkicC0BOEQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://vanfem.com/v/jzewrxud82l5-1ne"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/1brmevoggj1d"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/LMEmnAkQXPvzgPvq"}</urlsolve>
 </item>
 
 
