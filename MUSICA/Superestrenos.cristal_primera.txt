@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Trol [/COLOR][COLOR yellow] (2022) [COLOR aqua]*8.8[/COLOR]</title>
+<genre>Fantasía,Acción,Aventura</genre>
+<year>2022</year>
+<tmdb>736526</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/xAa1TzdB380bIibdyaqugPtRohm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/duIsyybgrC4S8kcCIVaxNOttV15.jpg</fanart>
+<info>En lo profundo de la montaña Dovre, algo gigantesco se despierta después de mil años de cautiverio. La criatura destruye todo a su paso y se acerca rápidamente a Oslo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/VNkicC0BOEQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/jzewrxud82l5-1ne"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/1brmevoggj1d"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/LMEmnAkQXPvzgPvq"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Tengamos la fiesta en paz [/COLOR][COLOR yellow] (2021) [COLOR aqua]*6.0[/COLOR]</title>
 <genre>Comedia,Familia,Música</genre>
 <year>2022</year>
@@ -134,6 +146,17 @@
 <fanart>https://www.themoviedb.org/t/p/original/j0NQtRfmY5H3XrG9poZj9Xbvx5X.jpg</fanart>
 <info>Tras despertar de un coma, lo único que quiere Thomas es averiguar qué le pasó a su familia. Pero la verdad es muchas veces tan sombría como la mente humana…<info>
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/bzV7JrNi1Is"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://vanfem.com/v/k32nz-f37e13k8yx"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/pklg946mamown8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/v26bvcy8ilgq"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/4mpb26kztvlx"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/8r4bd0yqldaj"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/bvYQGOW0Z9UPV0v"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Willow [/COLOR][COLOR yellow] (1988) [COLOR aqua] *7.0 [/COLOR]</title> <genre>Accion,Aventura,Fantasia</genre>
+<year>1988</year>
+<tmdb>847</tmdb>
+<thumbnail> https://www.themoviedb.org/t/p/original/z9UUfYZzKVBCEFs6TnCdAp5mUbJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pF2oHyDx02HkWWVd6Q7F71YT9xs.jpg</fanart>
+<info>Cuento medieval con brujas, enanos y poderes mágicos. En las mazmorras del castillo de la malvada reina hechicera Bavmorda, una prisionera da a luz una niña que, de acuerdo a una antigua profecía, pondrá fin al reinado de la hechicera. La comadrona salva a la niña de la ira de Bavmorda, pero se ve obligada a arrojar su cuna al río cuando es alcanzada por sus perros de presa. La corriente le hace alcanzar un pueblo de enanos en donde es adoptada por el valiente Willow.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/W9oK_h7AFh4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://vanfem.com/v/001r4xhlr7z024-4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]  [COLOR gold]Audio Dual[/COLOR]","url" : "https://sbvideo.net/e/8y2bwvvidbbh"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/vb6NnJyNZb0lPOkZ"}</urlsolve>
 </item>
 
 
