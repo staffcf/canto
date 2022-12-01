@@ -24,7 +24,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/yEcTdLTRA9kAKopqviKsYcq4gkl.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/yEcTdLTRA9kAKopqviKsYcq4gkl.jpg</fanart>
 <info>Musical navideño que sigue a un matrimonio que está atravesando una importante crisis en su relación y mediante música y el espíritu de la Navidad tratarán de solventar sus problemas.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Jq_RFMobaDE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/nz37wxu28pw734k3"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/2jemwga33wn3"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/K7j0lgW78e4lXkPv"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Jq_RFMobaDE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://vanfem.com/v/nz37wxu28pw734k3"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/2jemwga33wn3"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/K7j0lgW78e4lXkPv"}</urlsolve>
 </item>
 
 
@@ -36,7 +36,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/bO2KJsAnBFFYhH9hCZCq31wXvIX.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/sAxQnMyNXB4aK6ZscutVJxV7dzT.jpg</fanart>
 <info>Tres amigos deciden jugar al juego del Libro Rojo. Lo que no saben es que en la casa el mal espera ser liberado. Hace mucho tiempo una bruja murió como parte de un ritual satánico. Con cada pregunta que hacen, se acercan más y más a ella. El libro revelará las respuestas a todas tus preguntas... pero ¿y si tu anfitrión es una entidad malvada con sed de sangre?</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/_b4VYQce8Dw"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/k32nz-f3750e8y0p"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ret6yfhe4v9b"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/715pneamARwnvyqO"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/_b4VYQce8Dw"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://vanfem.com/v/k32nz-f3750e8y0p"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ret6yfhe4v9b"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/715pneamARwnvyqO"}</urlsolve>
 </item>
 
 
