@@ -4,6 +4,21 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+
+
+<item>
+<title>[COLOR white] La vida padre [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.8
+[/COLOR]</title> 
+<genre>Comedia</genre>
+<year>2022</year>
+<tmdb>855810</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/imKcAxYugiWPlHp7cJlhlSTaWvd.jpg</thumbnail>
+<fanart>https://i.imgur.com/bqiHGJo.jpg</fanart>
+<info>Mikel, un joven y ambicioso chef, recibe la visita inesperada de su padre, desaparecido hace treinta años. En un momento crítico para el futuro de su restaurante, Mikel deberá hacerse cargo del alocado e imprevisible Juan, un verdadero huracán de vitalidad que pondrá a prueba todas sus ideas sobre la cocina y la vida.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/nJxcQmYeVg4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/e5078lt-pxp24w1y"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/3nggqw6rf0kejv"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/pv1drrkmc4bs"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/meg6lj7agn4d"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/g7924kz9bs1p"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/oewO0egjq8FOL3"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Como sobrevivir al instituto [/COLOR][COLOR yellow] (2022) [COLOR aqua]*NR[/COLOR]</title>
 <genre>Comedia</genre>
