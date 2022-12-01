@@ -138,17 +138,6 @@
 
 
 <item>
-<title>[COLOR white] Willow [/COLOR][COLOR yellow] (1988) [COLOR aqua] *7.0 [/COLOR]</title> <genre>Accion,Aventura,Fantasia</genre>
-<year>1988</year>
-<tmdb>847</tmdb>
-<thumbnail> https://www.themoviedb.org/t/p/original/z9UUfYZzKVBCEFs6TnCdAp5mUbJ.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/pF2oHyDx02HkWWVd6Q7F71YT9xs.jpg</fanart>
-<info>Cuento medieval con brujas, enanos y poderes mágicos. En las mazmorras del castillo de la malvada reina hechicera Bavmorda, una prisionera da a luz una niña que, de acuerdo a una antigua profecía, pondrá fin al reinado de la hechicera. La comadrona salva a la niña de la ira de Bavmorda, pero se ve obligada a arrojar su cuna al río cuando es alcanzada por sus perros de presa. La corriente le hace alcanzar un pueblo de enanos en donde es adoptada por el valiente Willow.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/W9oK_h7AFh4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://vanfem.com/v/001r4xhlr7z024-4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]  [COLOR gold]Audio Dual[/COLOR]","url" : "https://sbvideo.net/e/8y2bwvvidbbh"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/vb6NnJyNZb0lPOkZ"}</urlsolve>
-</item>
-
-
-<item>
 <title>[COLOR white] Marmaduke [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.5
 [/COLOR]</title> 
 <genre>Animacion,Familia,Comedia</genre>
