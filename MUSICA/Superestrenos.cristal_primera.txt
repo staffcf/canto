@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Tengamos la fiesta en paz [/COLOR][COLOR yellow] (2021) [COLOR aqua]*6.0[/COLOR]</title>
+<genre>Comedia,Familia,Música</genre>
+<year>2022</year>
+<tmdb>907307</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/yEcTdLTRA9kAKopqviKsYcq4gkl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yEcTdLTRA9kAKopqviKsYcq4gkl.jpg</fanart>
+<info>Musical navideño que sigue a un matrimonio que está atravesando una importante crisis en su relación y mediante música y el espíritu de la Navidad tratarán de solventar sus problemas.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Jq_RFMobaDE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/nz37wxu28pw734k3"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/2jemwga33wn3"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/K7j0lgW78e4lXkPv"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] The Red Book Ritual [/COLOR][COLOR yellow] (2022) [COLOR aqua]*6.5[/COLOR]</title>
 <genre>Terror</genre>
 <year>2022</year>
