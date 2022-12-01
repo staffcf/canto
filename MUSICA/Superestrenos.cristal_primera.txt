@@ -4,6 +4,16 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+<item>
+<title>[COLOR white] The Red Book Ritual [/COLOR][COLOR yellow] (2022) [COLOR aqua]*6.5[/COLOR]</title>
+<genre>Terror</genre>
+<year>2022</year>
+<tmdb>928391</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/bO2KJsAnBFFYhH9hCZCq31wXvIX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sAxQnMyNXB4aK6ZscutVJxV7dzT.jpg</fanart>
+<info>Tres amigos deciden jugar al juego del Libro Rojo. Lo que no saben es que en la casa el mal espera ser liberado. Hace mucho tiempo una bruja murió como parte de un ritual satánico. Con cada pregunta que hacen, se acercan más y más a ella. El libro revelará las respuestas a todas tus preguntas... pero ¿y si tu anfitrión es una entidad malvada con sed de sangre?</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/_b4VYQce8Dw"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/k32nz-f3750e8y0p"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ret6yfhe4v9b"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/715pneamARwnvyqO"}</urlsolve>
+</item>
 
 
 <item>
