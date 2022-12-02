@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Merry Liddle Christmas Baby [/COLOR][COLOR yellow] (2021) [COLOR aqua]*8.1[/COLOR]</title>
+<genre>Película de TV,Drama,Romance</genre>
+<year>2022</year>
+<tmdb>880545</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/5mnkMQKeq1EPcpgNT4a8Kf40oNH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hwyNo9lFmv87Dii2xlZebHb16Mo.jpg</fanart>
+<info>¡Estas vacaciones, los Liddle tienen mucho de qué alegrarse! Jacquie Liddle y su esposo, Tyler, se están preparando para la llegada de su primer bebé. Con su familia expandiéndose de una manera que nunca podrían haber esperado, los Liddle se dirigen a una Navidad loca llena de caos alegre y mucho amor y risas.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/efezy4MrGyY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/nz37wxu28xqe7qpp"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/c99kzhx8wetp"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/WwM7lMBNoOXnZKbo"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Matando el tiempo [/COLOR][COLOR yellow] (2022) [COLOR aqua]*6.0[/COLOR]</title>
 <genre>Terror</genre>
 <year>2022</year>
