@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Una Propuesta Navideña [/COLOR][COLOR yellow] (2021) [COLOR aqua]*7.8[/COLOR]</title>
+<genre>Película de TV,Romance</genre>
+<year>2022</year>
+<tmdb>890757</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/bPf0T3yXY7YLw72xeNSRaSRolww.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9F4uqaANDgQ1TOi2ZWzqY1oA7OX.jpg</fanart>
+<info>Chef que sueña con tener sus propios camiones de comida, accede a hacerse pasar por la novia de un abogado. Trabajando juntos, intentan demostrar que él es el candidato ideal para hacerse cargo de la empresa familiar, pero es complicado cuando las chispas comienzan a volar.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/41hzmpU7Lsw"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/17pnqjhjlz6xeg0r"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/3xwajy0wjbfq"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/padWzjB9LrXz9NyA"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Merry Liddle Christmas Baby [/COLOR][COLOR yellow] (2021) [COLOR aqua]*8.1[/COLOR]</title>
 <genre>Película de TV,Drama,Romance</genre>
 <year>2022</year>
