@@ -12915,6 +12915,19 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 
 
 <item>
+<title>[COLOR white] Crying Freeman: Los paraísos perdidos [/COLOR][COLOR yellow] (1995) [COLOR aqua]*6.3[/COLOR]</title>
+<genre>Acción,Crimen</genre>
+<year>1995</year>
+<tmdb>9501</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/kZQ4f7k5CRiCi85i4qw3XFBtIJ5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/AvDX54DkciqVlwPbxywae8TajVs.jpg</fanart>
+<info>Freeman pertenece a un culto antiguo de guerreros chinos llamados “Los hijos del dragón”. Él es su verdugo y su único hombre, porque es tal su poder que no necesitan a otro.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/xFmrBeQmXd0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/-n071jhpnl2z4-46"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/46bdw8if9haz"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/rJmXD0krLNRnGg8o"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] Cuento de primavera [/COLOR][COLOR yellow](1990) [COLOR aqua]*7.1
 [/COLOR]</title> 
 <genre>Comedia,Drama,Romance</genre>
