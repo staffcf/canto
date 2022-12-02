@@ -4,6 +4,17 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+<item>
+<title>[COLOR white] Detective Knight: Sin piedad [/COLOR][COLOR yellow] (2022) [COLOR aqua]*5.1[/COLOR]</title>
+<genre>Acción,Crimen</genre>
+<year>2022</year>
+<tmdb>1024546</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/aEpk6nPVBF1LVljjU644scKZiBk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pJkXQkjGoaEgBkxZBHxodzyieE5.jpg</fanart>
+<info>James Knight es un veterano detective dedicado a navegar por las exigentes calles de Los Ángeles. Mientras la ciudad se prepara para Halloween, ladrones armados con máscaras hieren gravemente al compañero de Knight en un tiroteo después de un atraco. Con Knight persiguiéndolos, los bandidos huyen de Los Ángeles hacia Nueva York, donde el oscuro pasado del detective choca con su caso actual y amenaza con destrozar su mundo... a menos que la redención pueda reclamar primero a Knight.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/7r094bKIXx4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/w0md25tnkr5y4j01"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/esr9a0m40lxw"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/270kn3Gr95kn8Wo6"}</urlsolve>
+</item>
+
 
 <item>
 <title>[COLOR white] Confiesa, Fletch [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.3
