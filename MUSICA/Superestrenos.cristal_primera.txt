@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Matando el tiempo [/COLOR][COLOR yellow] (2022) [COLOR aqua]*6.0[/COLOR]</title>
+<genre>Terror</genre>
+<year>2022</year>
+<tmdb>972048</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/e5vyHEnJ0vlsDFlw0hRbAJEtWRI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kysUliG2hzMjgMMHmNtjtdvZFVf.jpg</fanart>
+<info>Sonia deambula por la lúgubre mansión en la que vive, obsesionada por desentrañar el oscuro secreto que oculta. Su pasado, sus miedos, el deseo y sus terribles pesadillas han creado allí una telaraña mortal en la que se encuentra atrapada, arrebatándole la poca cordura que le quedaba. Algunas veces, matar el tiempo no es algo tan inofensivo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/wEtFBI65r_M"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/r50dexte54j38282"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/k9mmjmadgctl"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/WwyJnL9NYyyDMbPa"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Detective Knight: Sin piedad [/COLOR][COLOR yellow] (2022) [COLOR aqua]*5.1[/COLOR]</title>
 <genre>Acción,Crimen</genre>
 <year>2022</year>
