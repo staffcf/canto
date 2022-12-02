@@ -4,6 +4,20 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+
+<item>
+<title>[COLOR white] Confiesa, Fletch [/COLOR][COLOR yellow](2022) [COLOR aqua]*6.3
+[/COLOR]</title> 
+<genre>Crimen,Comedia,Misterio</genre>
+<year>2022</year>
+<tmdb>724665</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/66dDPP1nX7DbrResrMa5VJs4jeZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hDOhyEjsoRpOkWOFPQoSlN0twcH.jpg</fanart>
+<info>El pícaramente encantador e interminablemente problemático Fletch se convierte en el principal sospechoso en un caso de asesinato mientras busca una colección de arte robada. ¿La única manera de probar su inocencia? Descubra cuál de la larga lista de sospechosos es el culpable: desde el excéntrico comerciante de arte y un playboy desaparecido hasta un vecino loco y la novia italiana de Fletch.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/XYF0zTkVyM4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/qqrjkguer3x6x2n5"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/poner"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/bxglz7d7du36"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/vnzrp4ght52l"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/246wpqp6tkzz"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/qaZD9ZoRoJCzVo1"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Trol [/COLOR][COLOR yellow] (2022) [COLOR aqua]*8.8[/COLOR]</title>
 <genre>Fantasía,Acción,Aventura</genre>
