@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Tus navidades o las mias [/COLOR][COLOR yellow] (2022) [COLOR aqua]*9.0[/COLOR]</title>
+<genre>Romance,Comedia</genre>
+<year>2022</year>
+<tmdb>865559</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/he8KN0jD62oEziuUZMYG7AF4rtQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tzHaiDnLssHzBRbODSzhof9QdDS.jpg</fanart>
+<info>Es la víspera de Nochebuena, Hayley y James se despiden en la estación de Marlyebone. En el último momento ambos deciden darle una sorpresa al otro e intercambian sus trenes. La nieve comienza a caer en forma gran nevada lo que provoca que cada uno quede atrapado con la familia del otro durante toda la Navidad. ¿Sobrevivirá su amor cuando sus mayores secretos comiencen a salir a la luz?</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ntc7q5dhtSo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/7nqyejhg06dwe1w3"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/1tk5j0d6da2n"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/qwo9ly1aebMlrWvP"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Una Propuesta Navideña [/COLOR][COLOR yellow] (2021) [COLOR aqua]*7.8[/COLOR]</title>
 <genre>Película de TV,Romance</genre>
 <year>2022</year>
