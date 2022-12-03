@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] El diario de Greg: Las reglas de Rodrick [/COLOR][COLOR yellow] (2022) [COLOR aqua]*6.9[/COLOR]</title>
+<genre>Animación,Comedia,Familia</genre>
+<year>2022</year>
+<tmdb>897192</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/6RiIiXjvfPmxAjXylXG8uVdKjfJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/a2woBjGATDSLbdrDIX6aFCtZObv.jpg</fanart>
+<info>Un nuevo año escolar, su hermano Rodrick se burla de él una y otra y otra y otra vez. ¿Conseguirá Greg llevarse bien con él? ¿O un secreto arruinará todo?</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/UTmdNsEwRow"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/w0md25tnkrrqw8x8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/l7rua44bsx95"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/WwyJnL9NPaRDMbPa"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El amante de Lady Chatterley [/COLOR][COLOR yellow] (2022) [COLOR aqua]*6.6[/COLOR]</title>
 <genre>Romance,Drama</genre>
 <year>2022</year>
