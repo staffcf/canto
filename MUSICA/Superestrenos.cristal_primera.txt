@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Mañana es hoy [/COLOR][COLOR yellow] (2022) [COLOR aqua]*8.5[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2022</year>
+<tmdb>1029528</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/m60qS3bltlppobuUhojVwMsbUWH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/acTZGY3zKKN0gOXY070HxNAnDoJ.jpg</fanart>
+<info>En el verano de 1991, la familia Gaspar comienza sus vacaciones en la playa, pero tras discutir con su padre, Lucía, la hija adolescente, decide fugarse con su novio. Una tormenta eléctrica pilla al resto de la familia a bordo de una barca a pedales y cuando consiguen volver a la costa descubren ¡que han viajado al 2022! Un descabellado futuro lleno de smartphones, selfies y música trap. ¿Conseguirán volver a los plácidos noventa?</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/msLWIaNuFP4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/g7weznh-3pwj3x8m"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/8fswxnkyeqp4"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/rJmXD0krZL9nGg8o"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Zona prohibida [/COLOR][COLOR yellow] (2022) [COLOR aqua]*6.9[/COLOR]</title>
 <genre>Acción,Suspense</genre>
 <year>2022</year>
