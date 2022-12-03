@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] El amante de Lady Chatterley [/COLOR][COLOR yellow] (2022) [COLOR aqua]*6.6[/COLOR]</title>
+<genre>Romance,Drama</genre>
+<year>2022</year>
+<tmdb>814338</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/2qQfGJM5dCpO32T6IMJdtdkizGr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tPKmDydEzqJPj5yol2zFCrraUcM.jpg</fanart>
+<info>Adaptación de la novela de D.H. Lawrence sobre una mujer que rompe con las formas y tradiciones de su tiempo cuando se desenamora de su marido y comienza una tórrida aventura con un hombre que trabaja en su finca inglesa.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/4votRsJ-5qk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/yp4m-5iel1q8w282"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/g34v20rogtnf"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/kEL0lpYg0BanavXV"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] La guerra del futuro [/COLOR][COLOR yellow] (2022) [COLOR aqua]*7.1[/COLOR]</title>
 <genre>Drama,Acción,Ciencia ficción</genre>
 <year>2022</year>
