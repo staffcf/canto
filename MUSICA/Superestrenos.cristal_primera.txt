@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] La guerra del futuro [/COLOR][COLOR yellow] (2022) [COLOR aqua]*7.1[/COLOR]</title>
+<genre>Drama,Acción,Ciencia ficción</genre>
+<year>2022</year>
+<tmdb>518896</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/jmX6cOM1qMODQcuUxODcjOgkqHW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1qf0ooelmWyQ3IfiqnrFo6fMKpg.jpg</fanart>
+<info>Tras la caída de un meteorito que alberga una planta destructiva, un escuadrón suicida trabaja contra reloj para salvar su ciudad posapocalíptica del colapso total.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/s-CLdwHnlw4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/g7weznh-3pwrz2px"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/y95q4fqkxe0n"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/qR7MzRrNxxyzwA3d"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Mañana es hoy [/COLOR][COLOR yellow] (2022) [COLOR aqua]*8.5[/COLOR]</title>
 <genre>Comedia</genre>
 <year>2022</year>
