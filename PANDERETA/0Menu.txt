@@ -5258,6 +5258,16 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]No Me Gusta Conducir[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<tmdb>213753</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/No.me.gusta.conducir</externallink>
+<info>Pablo, un profesor de universidad sabelotodo, quiere aprender a conducir. Pero sacarse el carné con 40 le descubre cosas de las que no tiene ni idea.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/dAa5KijNkVceDKy3sxemfqC2pHq.jpg</thumbnail>
+<fanart>https://i.imgur.com/YVPfx6z.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]No Puedes Fiarte De Nadie:A La Caza Del Rey De La Criptomoneda [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>946327</tmdb>
