@@ -4,6 +4,20 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+
+<item>
+<title>[COLOR white] Oswald, el falsificador [/COLOR][COLOR yellow](2022) [COLOR aqua]*7.0
+[/COLOR]</title> 
+<genre>Documental</genre>
+<year>2022</year>
+<tmdb>999462</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/881zIiqOeXxoySQHrtxmwXt0nLr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wHKh3ep7VaYnS4UAomPM9HlkZq2.jpg</fanart>
+<info>La historia de Oswald Aulestia Bach, pintor extravagante y falsificador legendario; un vividor, una persona non grata para museos y coleccionistas, un criminal perseguido por el FBI.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/yLfLJB3fuN8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/deq685axgdgl3ne-"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/o7kkvwp9h7m7z4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/b60rwi5phchu"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/2gdtj1rsewhh"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/tzdh3jlznpkt"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/D9RAvWkLqAhkpGe"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Scrooge Cuento de Navidad [/COLOR][COLOR yellow] (2022) [COLOR aqua]*8.1[/COLOR]</title>
 <genre>Animación,Familia,Fantasía,Drama</genre>
