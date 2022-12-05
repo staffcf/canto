@@ -4,6 +4,21 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+
+
+<item>
+<title>[COLOR white] Lobos de guerra  [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin valorar 
+[/COLOR]</title> 
+<genre>Suspense,Bélica,Acción</genre>
+<year>2022</year>
+<tmdb>843399</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/rfKvX0oB3YyJfYEtUe2TazaQdRq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mR1zIgBRecYr37HMnG1hEMEVBsf.jpg</fanart>
+<info>El condecorado oficial británico Jack Wallace debe liderar una banda de comandos aliados a través de las líneas enemigas para rescatar al profesor Hopper, un científico estadounidense secuestrado por los nazis. Con información que podría cambiar el rumbo de la guerra, estos insólitos héroes deben atravesar el territorio enemigo con un civil estadounidense sin entrenamiento, evitando brutales mercenarios nazis y bombardeos continuos; con el destino de la guerra sobre sus hombros, el resultado de esta misión será cambiar el mundo para siempre; El fracaso no es una opción.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/JB7H8A_7F0k"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/k3nk7gs37g332lwq"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/7rnl9vx1bd4wvg0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/9keuu2gmhxu7"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/bktgddo9hi6x"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/a4psr7mpprqb"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/qvWPVpAovMHKPe"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Fuerza bruta [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Acción,Crimen</genre>
