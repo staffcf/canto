@@ -4,8 +4,16 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
-
-
+<item>
+<title>[COLOR white] Fuerza bruta [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Acción,Crimen</genre>
+<year>2022</year>
+<tmdb>619803</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/XawNE6hv4nezKdh76BBACMgKlc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/chvtf8e9QMIrZWu6K10pcIUlE5j.jpg</fanart>
+<info>El «policía bestia» Ma Seok-do se dirige a un país extranjero para extraditar a un sospechoso, pero poco después de su llegada, descubre otros casos de asesinato y se entera de la existencia de un despiadado asesino que lleva varios años cometiendo crímenes contra turistas.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Sfltqy9FbRg"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/17pnqjhjl2-w75lw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/vzdqf1fn8zg9"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/WwyJnL9NGVrDMbPa"}</urlsolve>
+</item>
 
 
 <item>
