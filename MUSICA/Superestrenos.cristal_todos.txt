@@ -14421,6 +14421,19 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 
 
 <item>
+<title>[COLOR white] La niñera magica [/COLOR][COLOR yellow] (2005) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Fantasía,Comedia,Familia</genre>
+<year>2005</year>
+<tmdb>11283</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/65oeFSIfvSuNi2g28slZaFJ8L86.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cq15UBerONiIbx0a45Uo3w5grp3.jpg</fanart>
+<info>Los siete hermanos Brown, Simon, Tora, Eric, Lily, Christianna, Sebastian y la pequeña Aggy, posiblemente sean los niños más traviesos que jamás hayan existido. Cuidar de su prole y trabajar en la funeraria local es más de lo que puede hacer su pobre y agobiado padre.Todo el mundo le dice al Sr. Brown que necesita a una niñera. La familia Brown necesita un milagro, y llega Nanny McPhee, una niñera muy especial.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/BibKNVOVrJU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/qq7rexhergp1kdwn"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/x2rn09pnjprj"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/Gm80z55rRZjzr1xW"}</urlsolve>
+</item>
+
+
+
+<item>
 <title>[COLOR white] La Reina de España [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.2[/COLOR]</title> <genre>Comedia</genre>
 <year>2016</year>
 <tmdb>401252</tmdb>
@@ -14496,7 +14509,6 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 </item>
 
 
-
 <item>
 <title>[COLOR white] Los Jueces De La Noche [/COLOR][COLOR yellow] (1993) [/COLOR]</title>
 <genre>Accion,Crimen,Suspense</genre>
@@ -14509,6 +14521,40 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 </item>
 
 
+<item>
+<title>[COLOR white] Los bicivoladores [/COLOR][COLOR yellow] (1983) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Aventura,Crimen,Drama</genre>
+<year>1983</year>
+<tmdb>17381</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/rdl0bpq2idtFzhR7IeqdiLg5pX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fUNEHNqJHiaTXDZLaA84qc0Hvgc.jpg</fanart>
+<info>Tres jóvenes tienen el bicicross como afición. Un día, tras un accidente sus bicicletas quedan destrozadas. Para sacar dinero se les ocurre pescar almejas y encuentran un paquete que les traerá problemas...</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/AIp-i4o1kLw"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/p65r0xfmzgnq8dnx"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/e9oi7m5z1e9a"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/K7j0lgW7ZW6lXkPv"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Matilda [/COLOR][COLOR yellow] (1996) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Comedia,Familia,Fantasía</genre>
+<year>1996</year>
+<tmdb>10830</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/v9TfZPgHUjJWintubPPBpVq6Amj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/i3ZyyQcOHHSoaDsH1UGAU2Qkv6x.jpg</fanart>
+<info>Matilda Wormwood es una jovencita extremadamente curiosa e inteligente, todo lo contrario que sus chabacanos padres, que a menudo la ignoran. A medida que crece va descubriendo que posee poderes telequinéticos, hasta que un día un profesor le enseña que puede usar esos poderes para ayudar a sus amigos. Además las personas que hasta ese momento le han hecho la vida imposible sufrirán las consecuencias.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/7i-hSS2xYTI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/p65r0xfmzgnrwr7y"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/h97todisln30"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/WwM7lMBNxqEnZKbo"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Mejor imposible [/COLOR][COLOR yellow] (1997) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Comedia,Romance</genre>
+<year>1997</year>
+<tmdb>2898</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/vTcbwCaYmoDDg4Jioa32VR17tn1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ylQx9hZc7BoD8yxlLvzePKBXaBV.jpg</fanart>
+<info>Melvin Udall, un escritor obsesivo y maniático, es uno de los seres más desagradables y desagradecidos que uno pueda tener como vecino. Pero, un buen día, tiene que hacerse cargo de un perro al que odia a muerte. La presencia en su vida del animal ablandará su corazón.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/X0de6VGTXCo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/17pnqjhjl2ge6zyy"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ovmoc3153no7"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/0rwmD7pE6R0zRaZ8"}</urlsolve>
+</item>
 
 
 <item>
@@ -14531,6 +14577,18 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 <fanart>https://www.themoviedb.org/t/p/original/hquRTqs3fCRWPeMYNIqQyMjpXRd.jpg</fanart>
 <info>Al acabar el colegio, Valle y Quimi deciden celebrarlo con toda la pandilla haciendo un viaje a la playa. Allí prometen no separase nunca y ser amigos para siempre. Pasados tres años, durante una fiesta en el colegio, los dos se reúnen de nuevo y se pone de manifiesto que todo ha cambiado y que las diferencias entre ellos son demasiado fuertes: Valle trabaja como go-gó en una discoteca y se siente atraída por el dueño, un traficante de drogas. Quimi, sin embargo, ha cambiado su rebeldía, su moto y su chupa de cuero por una novia formal y una vida estable. Pero ninguno de ellos podrá olvidar el pasado tan fácilmente.</info>
 <urlsolve>https://www.fembed.com/v/61mepka0yd3enz4w</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Polar express [/COLOR][COLOR yellow] (2004) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Animación,Familia,Aventura,Fantasía,Comedia</genre>
+<year>2004</year>
+<tmdb>5255</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/ja6QGEUkP8t3wjjoHYvpRStomlT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/QKOADxDmh479WYtrsaVh0RA5sH.jpg</fanart>
+<info>Esta es la historia de un jovencito en la víspera de Navidad quien aborda un poderoso y mágico tren que se dirige al hogar de Papá Noel, en el Polo Norte. Lo que se desarrolla es una aventura que sigue al dubitativo niño, quien toma un tren extraordinario al Polo Norte; durante este viaje, se embarca en una experiencia de autodescubrimiento que le muestra que las maravillas de la vida nunca se desvanecen para quienes creen.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/EeNzP7HdCoo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/4xkrqjfz16k1xnp7"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/89bnve8wgzqq"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/rZ45DrpEr5plM81R"}</urlsolve>
 </item>
 
 
