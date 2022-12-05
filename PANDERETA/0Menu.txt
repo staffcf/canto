@@ -1277,6 +1277,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Craneo Febril[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>212818</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Craneo.febril</externallink>
+<info>En un mundo distópico, una epidemia se propaga a través de la comunicación verbal, y una institución tiránica persigue a un lingüista inmune a la enfermedad.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/obal3CZD2sqFF79fFGce3wZFp46.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eJ77pIRM70aY50I544xh9EEaXrd.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Creedme[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>91275</tmdb>
@@ -4031,16 +4041,6 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 </item>
 
 <item>
-<title>[COLOR gold]* [COLOR white]La Rueda Del Tiempo[COLOR white][/COLOR]</title>  
-<link>cristalazul</link>
-<tmdb>71914</tmdb>
-<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.rueda.del.tiempo</externallink>
-<info>Serie basada en la popular serie literaria de fantasía de Robert Jordan, "La rueda del tiempo" (The Wheel of Time), con más de 90 millones de libros vendidos. Ambientada en un extenso y épico mundo en el que existe la magia y únicamente algunas mujeres pueden acceder a ella, la historia sigue a Moiraine, miembro de una organización femenina increíblemente poderosa llamada 'Aes Sedai', cuando llega a la pequeña ciudad de Two Rivers. Allí se embarca en un peligroso viaje por todo el mundo con cinco jóvenes, uno de los cuales ha sido profetizado como "el dragón renacido", que salvará o destruirá a la humanidad.</info>
-<thumbnail>https://i.imgur.com/IidowfB.jpg</thumbnail>
-<fanart>https://i.imgur.com/wKbi8EL.jpg</fanart>
-</item>
-
-<item>
 <title>[COLOR gold]* [COLOR white]La Reina Del Flow[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <tmdb>80240</tmdb>
@@ -4058,6 +4058,26 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 <info>En las fiestas patronales de la ficticia localidad de Polvaredas de la Sierra, cuatro adolescentes quieren encontrar su forma particular de ser especiales. Estefi quiere acabar con los toros y los toreros, Nicole quiere recuperar la que fue en su día la corona de Instagram, Inma quiere ser la Reina de las fiestas y Javi quiere que las fiestas nunca lleguen a su fin. Sin embargo, Inma tendrá que hacer frente a Zaida, la hija del cacique del pueblo y la favorita para la corona.</info>
 <thumbnail>https://i.imgur.com/YTqO72w.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/x1ba7QLGrR50gWUsuvhBibye8Vl.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]La Rueda Del Tiempo[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>71914</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.rueda.del.tiempo</externallink>
+<info>Serie basada en la popular serie literaria de fantasía de Robert Jordan, "La rueda del tiempo" (The Wheel of Time), con más de 90 millones de libros vendidos. Ambientada en un extenso y épico mundo en el que existe la magia y únicamente algunas mujeres pueden acceder a ella, la historia sigue a Moiraine, miembro de una organización femenina increíblemente poderosa llamada 'Aes Sedai', cuando llega a la pequeña ciudad de Two Rivers. Allí se embarca en un peligroso viaje por todo el mundo con cinco jóvenes, uno de los cuales ha sido profetizado como "el dragón renacido", que salvará o destruirá a la humanidad.</info>
+<thumbnail>https://i.imgur.com/IidowfB.jpg</thumbnail>
+<fanart>https://i.imgur.com/wKbi8EL.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]La Ruta[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>128019</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.ruta</externallink>
+<info>'La Ruta' es el viaje de un grupo de amigos de El Perelló, desde su despedida en una masificada Ruta Destroy, en 1993, hasta el día que entraron en Barraca por primera vez, en 1981, cuando tanto ellos como "la fiesta" aún conservaban su inocencia. 'La Ruta' cuenta los más de diez años que Valencia se pasó bailando, unos años que todos querríamos vivir y que solo algunos pueden recordar.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/lGmIg0kKpptUpTOCsxhxbTfcR4m.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qj3RxGethUxrTgFGGiipUwLdOlC.jpg</fanart>
 </item>
 
 <item>
