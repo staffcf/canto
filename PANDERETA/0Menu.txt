@@ -2487,6 +2487,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El Ultimo Artefacto Socialista[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<tmdb>156554</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.ultimo.artefacto.socialista</externallink>
+<info>Oleg y Nikola, dos ciudadanos de Zagreb, llegan a una pequeña ciudad perdida en los Balcanes. Marcados por la caída del comunismo y la separación de Yugoslavia, sus habitantes viven en la desesperación y la miseria. Pero Oleg y Nikola tienen un gran proyecto para su fábrica, que otrora fue el centro de la actividad local, y ahora está abandonada y obsoleta. ¿Podrán devolver la dignidad a los vecinos?</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/ub16KhtshVN6gTRIeDq8IzxO2qR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ehyEboT1k8GdoKRWCEoQA6q9DGN.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El Ultimo Autobus[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <tmdb>169590</tmdb>
