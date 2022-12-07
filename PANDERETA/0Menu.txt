@@ -4492,6 +4492,16 @@ En paralelo a la serie, Enrique Urbizu realizó un montaje para cines en formato
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Los Hombres Del S.A.S[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>93870</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Los.hombres.del.sas</externallink>
+<info>Miniserie de seis episodios que se basa en el libro SAS: Rogue Heroes de Ben Macintyre, que narra cómo se formó la unidad de las Fuerzas Especiales de Gran Bretaña en los días más oscuros de la Segunda Guerra Mundial.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/nlE5W6jDig2Axb31c7D2hf8gpEK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ry2lihsS9R1b5dZWrSUULLqaP6F.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Los ladrones: La Verdadera Historia Del Robo Del Siglo [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>1000194</tmdb>
