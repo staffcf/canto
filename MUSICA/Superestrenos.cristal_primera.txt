@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Cancion de paz [/COLOR][COLOR yellow] (2021) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Drama</genre>
+<year>2021</year>
+<tmdb>853079</tmdb>
+<thumbnail>https://i.imgur.com/7JxPjfN.jpg</thumbnail>
+<fanart>https://i.imgur.com/7JxPjfN.jpg</fanart>
+<info>Una adaptación de una popular y apreciada melodía folclórica ucraniana. La existencia pacífica y vecinal de tres familias, polaca, ucraniana y judía, que compartían una gran casa, veladas musicales y alegría en la ciudad de Stanislaviv se ve truncada en los años anteriores y posteriores a la guerra. Primero con la ocupación soviética y la persecución de la familia polaca, y después con la ocupación nazi de Ucrania y la diezma de la familia judía. Sacrificando sus vidas, la familia ucraniana consigue salvar a los hijos de sus vecinos y a su propia hija.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/7ergRPxF-Ms"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/7nqyejhg0q2mele6"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/lrqhfxv1imq3"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/vJ41zYN3GgvlwA3g"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Con canas y a lo loco [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Comedia,Fantasía</genre>
 <year>2022</year>
