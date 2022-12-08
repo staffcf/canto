@@ -1887,6 +1887,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El Chico Malo[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>158050</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.chico.malo</externallink>
+<info>La historia de Nino Scotellaro, un fiscal siciliano que dedicó toda su vida a luchar contra la mafia y de repente es acusado de ser uno de los hombres contra los que siempre ha luchado.  Después de ser condenado y sin nada que perder, Nino decide llevar a cabo un maquiavélico plan de venganza.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/5Fw4SQhCRZfmVR8QKVtCvRKSQqK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hhdEzaANZVOqMkbKoQDyjYSvyMf.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El Cid[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>94167</tmdb>
@@ -2768,6 +2778,16 @@ Entre las estrellas que han aparecido en la serie, interpretando versiones satí
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Faking Hitler[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>146128</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Faking.hitler</externallink>
+<info>El periodista Gerd Heidemann siempre consigue su historia. Cuando se entera de un diario escrito por Hitler, no puede resistir la primicia del siglo. Salvo que el diario es creación del carismático marchante de arte, delincuente de poca monta y prolífico falsificador.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/yqUDmy7Vcg5c5yQYA8k5vKGm0oP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ku33mDBfoL0H5WfsFYq4M0XuxGI.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Falcon Y El Soldado De Invierno[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>88396</tmdb>
@@ -2885,6 +2905,16 @@ Entre las estrellas que han aparecido en la serie, interpretando versiones satí
 <info>Serie de aventuras que narra la caótica y violenta lucha por el control y las riquezas del comercio de pieles en la Norteamérica del siglo XVIII. Relatada desde diferentes perspectivas, la serie está ambientada en un mundo en el que las negociaciones se pueden resolver con una pelea de hachas en espacios cerrados y en el que la complicada relación entre las tribus nativas y los europeos puede generar conflictos sangrientos.</info>
 <thumbnail>https://i.imgur.com/zXm23Wz.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/bcxdwh2mODxODzPtyiCZzfqpsAj.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Fuego Cruzado[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>156763</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Fuego.cruzado</externallink>
+<info>Después de un tiroteo, las vacaciones familiares de Jo se vuelven turbulentas.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/1opiu4UYkPDwxmXr6IxV0Az24nX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ejGxqaxT1IY5khCWp6vUD2hQocO.jpg</fanart>
 </item>
 
 <item>
@@ -5388,6 +5418,16 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Odio La Navidad[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>212921</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Odio.la.navidad</externallink>
+<info>Una enfermera que está felizmente soltera el resto del año está harta de que la avergüencen por estar sola en las fiestas, así que el 1 de diciembre promete encontrar a alguien para llevar a casa en Navidad.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/oWLkjy7bBoOOzGRf54btMY2yApn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/suhLgCZ0PdZwqHQ99YMkbzRcTxB.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]On my Block[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>76747</tmdb>
@@ -6570,6 +6610,16 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Smiley[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>214609</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Smiley</externallink>
+<info>En Barcelona, dos hombres y sus amigos lidian con las dudas, las inseguridades y las oportunidades perdidas mientras buscan el amor verdadero que les falta en sus vidas.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/b9EDtDLIVHKpErMpNSREw1KcDOj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/waExkQN9ClFiyIcp6iWnmPsg6ZG.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Snow Angels[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <tmdb>121950</tmdb>
@@ -6979,6 +7029,16 @@ Una vez allí, se encontrarán con un enemigo mucho peor que los Goaul'd; los Wr
 <info>La historia de Gabe, un hombre común que trabaja como operador de llamadas de emergencia para el Servicio Escocés de Ambulancias en Glasgow. Su mundo se pone patas arriba cuando recibe una llamada desesperada de vida o muerte de una mujer que parece conocerlo. Con Gabe bajo presión para averiguar quién es ella, toma una decisión que amenaza con tener consecuencias devastadoras.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/mpHGWe5vnU20KU69Kq3OTVSDVRl.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/qrIf0SEukvvzICpbhNZ2rJzkHLw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]The Crown[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>65494</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.crown</externallink>
+<info>Drama sobre las rivalidades políticas y los romances acaecidos durante el reinado de Isabel II, así como de los eventos que moldearían la segunda mitad del siglo XX.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/shvf2XGNJJ1xRelwgrh04GS4bLy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1Qs2Zrm7dHVJRLbXFz1thwAk9cS.jpg</fanart>
 </item>
 
 <item>
