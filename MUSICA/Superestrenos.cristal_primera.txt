@@ -24,7 +24,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/5KSdIPMGQHHbIu7R6YkX0BVI8vP.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/wVxXFz8VLmUts2dpJ0rK38Mi4Qv.jpg</fanart>
 <info>Mackenzie se siente hastiada de hacer todas las cosas que tiene que hacer para estar a la moda y poder llamar la atención a sus 30 años. En secreto le gustaría tener más de 60 años para poder simplemente descansar, relajarse y ponerse un buen jersey de lana sin tener que seguir ninguna tendencia. Pero cuando su sueño se cumple tras una extraño suceso y se convierte en Rita, una mujer de 65 años, Mack descubrirá que la vejez no es exactamente lo que ella imaginaba.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/UlUm-Rihino"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/-n071jhpnk7wdm2p"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/0ve8oj0c6vdl"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/OEbPDaQ36YqD3M1k"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/UlUm-Rihino"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/k32nz-f3743pqerd"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/eypi2dcy8j8l"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/vBgrD8GEaB5nMZ64"}</urlsolve>
 </item>
 
 
