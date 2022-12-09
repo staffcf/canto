@@ -8,6 +8,19 @@
 
 
 <item>
+<title>[COLOR white] Hacia la Libertad [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin valorar 
+[/COLOR]</title> 
+<genre>Suspense,Historia,Drama</genre>
+<year>2022</year>
+<tmdb>715931</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/AkdNXEquLf4GIkwh1dcSB7j0FTY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1jZ3wNpON50whGEH7YOcTQrU45B.jpg</fanart>
+<info>Inspirada en la conmovedora historia real de un hombre dispuesto a cualquier cosa por su familia, y por la libertad. Cuando Peter, un hombre esclavizado, arriesga su vida por escapar y regresar con su familia, se embarca en una peligrosa travesía de amor y resiliencia.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/j3cwoGfWLx4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/xm0jygc56wjxpq6k"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/j9nxzxzns8edzk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/y9znldrmc1ox"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/n7oh81z80b24"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/dzlv1x34haoi"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/gwAQyyWJp4c3BR"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Jeepers Creepers 3 [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin valorar 
 [/COLOR]</title> 
 <genre>Terror,Misterio,Suspense</genre>
