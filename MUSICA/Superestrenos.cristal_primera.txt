@@ -15,7 +15,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/qvDJbZYs2p4eOdyJ8R2dfdJp2Qq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/y7I12qhVEPZwpoem1PQuu761MaU.jpg</fanart>
 <info>Los Reyes Magos, hartos de que Santa les quite cada vez más protagonismo, han decidido enfrentarse sin saber que esa guerra despertará a un enemigo común mucho más peligroso, el Krampus, que llevaba siglos inactivo.<info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Esghu9jEzlc"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/001zwehlrqn78z45"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/poner"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/vnvlmqt90shp"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/avrrtya3jk1v"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ga66rp98t2va"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/zxO2PpMKJzIyWZ"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Esghu9jEzlc"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/001zwehlrqn78z45"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/md0gz8lpb1dpj8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/vnvlmqt90shp"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/avrrtya3jk1v"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ga66rp98t2va"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/zxO2PpMKJzIyWZ"}</urlsolve>
 </item>
 
 
