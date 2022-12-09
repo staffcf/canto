@@ -6,6 +6,20 @@
 
 
 
+
+<item>
+<title>[COLOR white] Jeepers Creepers 3 [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin valorar 
+[/COLOR]</title> 
+<genre>Terror,Misterio,Suspense</genre>
+<year>2022</year>
+<tmdb>55341</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/sVpJcOQsR2wBCY9xMJXWCURxSMS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/u21opGmO0tqsUCNSwYJIfwrVnAc.jpg</fanart>
+<info>La historia transcurre entre la primera y segunda entrega y en ella, el escéptico Sargento Tubbs, unirá sus fuerzas con un grupo de armado que quiere destruir a The Creeper de una vez por todas. A medida que se produce un sangriento enfrentamiento entre ellos, podrán descubrir los orígenes de la criatura.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Jb2ySdMMHnI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/e5078lt-pl4pw1lq"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/dqz7r40rs7dv9o1"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/frab5vt88i44"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/57miwtkly43i"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/fnx51c8a8e2k"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/3Bgq9gkbW8hRjK"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Reyes contra Santa [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin valorar 
 [/COLOR]</title> 
