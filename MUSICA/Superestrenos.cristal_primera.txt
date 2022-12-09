@@ -16,7 +16,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/x5N6I5rkOWAPtPFtbcxrJW2ZlZG.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/bl3zwLEK1tMr8fCAuQ54paRFYXm.jpg</fanart>
 <info>Alice Gould, una investigadora privada, simula que padece una enfermedad mental con objeto de ingresar en un hospital psiquiátrico y recabar pruebas del caso en el que trabaja: la muerte de un interno en circunstancias poco claras.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/t0iWQDuwYN8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/xm0jygc56wjd7w7x"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/poner"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/7wta2p5d3an0"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/8cbzw0yateo3"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/kylie0g1e3uy"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/6RaLjQ4DDdH4QA"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/t0iWQDuwYN8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/xm0jygc56wjd7w7x"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/n07q1okmfzjml0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/7wta2p5d3an0"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/8cbzw0yateo3"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/kylie0g1e3uy"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/6RaLjQ4DDdH4QA"}</urlsolve>
 </item>
 
 
