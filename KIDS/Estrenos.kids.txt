@@ -5,6 +5,33 @@
 
 
 <item>
+<title>[COLOR white] Pinocho de Guillermo del Toro [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin valorar 
+[/COLOR]</title> 
+<genre>Animación,Fantasía,Drama,Familia</genre>
+<year>2022</year>
+<tmdb>555604</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/hVa3OCfwqFm6K3Sk6IF68cYr7uk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2JeIqOdSM5nC1SQmuhUOfj3iB1U.jpg</fanart>
+<info>El cineasta Guillermo del Toro, ganador del Óscar, reinventa el cuento clásico sobre la marioneta de madera que sueña con ser un niño de carne y hueso.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/-WgZ_IQU0Ks"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/3kq5w3fmne77n5lz"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/poner"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/sep9zflgejqn"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/dhf3hhdo7oup"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/dybr1m7p4qaz"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/gjq8Y2QKvXu4MQ"}</urlsolve>
+</item>
+
+
+
+<item>
+<title>[COLOR white] Noche en el museo: El retorno de Kahmunrah [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin valorar 
+[/COLOR]</title> 
+<genre>Animación,Comedia,Familia,Fantasía</genre>
+<year>2022</year>
+<tmdb>751741</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/mkRQn520JQD07BNP03NK3iKCaPD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6rax7iv5yQtldc3ApEvrheJf8uw.jpg</fanart>
+<info>Nick Daley está siguiendo los pasos de su padre como vigilante nocturno en el Museo Americano de Historia Natural, por lo que sabe lo que sucede cuando se pone el sol. Pero cuando el gobernante maníaco Kahmunrah escapa, depende de Nick salvar el museo de una vez por todas.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/fEvV_X79VU8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/3kq5w3fmne7xlr1x"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/qlwnl7mqh9z3ln"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/hhqklqmatjsv"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/7esv0qv9ercj"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/km5os1wfnp7c"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/2bMKPRxLRPsZvMo"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Marmaduke [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.5
 [/COLOR]</title> 
 <genre>Animacion,Familia,Comedia</genre>
