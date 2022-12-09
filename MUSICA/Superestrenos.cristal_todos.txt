@@ -14419,6 +14419,29 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 </item>
 
 
+<item>
+<title>[COLOR white] Jeepers Creepers [/COLOR][COLOR yellow] (2001) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Terror,Suspense</genre>
+<year>2001</year>
+<tmdb>8922</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/x2fWYlY2Ad2FL2Ad9p1HTgJEi8x.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oG1NY1hU6hhC7TWdQBURUtAjvGv.jpg</fanart>
+<info>Trish y su hermano menor Darry cruzan los Estados Unidos en coche, en un viaje largo y aburrido cuya monotonía sólo se rompe por sus continuas discusiones. De pronto, en mitad de ninguna parte, descubren una iglesia abandonada donde un misterioso personaje arroja un cadáver al interior de una gran boca de alcantarillado. A partir de ese momento comienzan una huida aterradora, perseguidos por una de las criaturas más letales que se puedan imaginar.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/UBoGklz1wGM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/dedqpwhxg51kg41k"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/w1o80bzewilc"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/AoNaDdv3EYplmZg5"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Jeepers Creepers 2 [/COLOR][COLOR yellow] (2003) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Terror</genre>
+<year>2003</year>
+<tmdb>11351</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/q6RYpWhrlCtqsBI3VzSsAem5Q8o.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pxT33mSp70MhA7eYImzDlaQCj2g.jpg</fanart>
+<info>Hoy es el 22º día en el ritual alimenticio de la abominable criatura conocida como The Creeper, la cual se alimenta de los órganos arrancados vivos de sus víctimas. A este monstruo caníbal procedente de tiempos remotos le queda todavía un día más para hartarse de carne humana y desaparecer de nuevo, y aguardar en hibernación hasta su próxima temporada de caza dentro de 23 años. Taggart y sus hijos se hallan trabajando en los maizales de su propiedad cuando la bestia de enormes alas agarra al benjamín de la familia, transportándolo por los aires hacia un destino que se adivina horripilante...</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/SodLJPP5rUM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/-n071jhpnke85gd-"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/s3klsubk1aw6"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/j57gDmv7Xbyz26Xb"}</urlsolve>
+</item>
+
 
 <item>
 <title>[COLOR white] La niñera magica [/COLOR][COLOR yellow] (2005) [COLOR aqua]*Sin valorar[/COLOR]</title>
