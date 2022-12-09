@@ -16,7 +16,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/hVa3OCfwqFm6K3Sk6IF68cYr7uk.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/2JeIqOdSM5nC1SQmuhUOfj3iB1U.jpg</fanart>
 <info>El cineasta Guillermo del Toro, ganador del Óscar, reinventa el cuento clásico sobre la marioneta de madera que sueña con ser un niño de carne y hueso.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/-WgZ_IQU0Ks"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/3kq5w3fmne77n5lz"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/poner"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/sep9zflgejqn"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/dhf3hhdo7oup"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/dybr1m7p4qaz"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/gjq8Y2QKvXu4MQ"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/-WgZ_IQU0Ks"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/3kq5w3fmne77n5lz"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/9ndrnk1eu3v9zol"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/sep9zflgejqn"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/dhf3hhdo7oup"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/dybr1m7p4qaz"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/gjq8Y2QKvXu4MQ"}</urlsolve>
 </item>
 
 
