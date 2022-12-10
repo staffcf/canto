@@ -8,6 +8,18 @@
 
 
 <item>
+<title>[COLOR white] De caza [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Terror,Comedia,Fantasía</genre>
+<year>2022</year>
+<tmdb>888097</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/1dgNc7FB5RMm6w4D6S0UpZhsUbW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6Kxtx6K7OVnjNB4Xl3oBhVp7VLs.jpg</fanart>
+<info>Un grupo de superestrellas influyentes se sienten atraídos por la mansión de un multimillonario solitario solo para encontrarse atrapados en la guarida de un vampiro malvado. La única salida es ser salvado por un famoso jugador en línea y un cazador de vampiros de la vieja escuela.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/SZLPvdjRVXs"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/m7k2wnh5dj7488d3"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/4bno8j4z6my6"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/715pneaxxBrnvyqO"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Pinocho de Guillermo del Toro [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin valorar 
 [/COLOR]</title> 
 <genre>Animación,Fantasía,Drama,Familia</genre>
