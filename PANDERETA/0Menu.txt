@@ -1337,6 +1337,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Criptomonedas: Guia Para Principiantes [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb></tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Criptomonedas.guia.para.principiantes</externallink>
+<info>Desde 2009 se habla de las criptomonedas como parte del futuro de las finanzas. Nuevas monedas digitales que prometen riquezas incalculables para quien se atreva a dar el salto. ¿Son realmente el futuro o una burbuja a punto de estallar? El presentador de televisión británico Ade Adepitan ofrece una guía para todas aquellas personas que están considerando invertir en el mundo financiero de las criptomonedas, un mercado no regulado que puede llegar a ser muy lucrativo. Explora cómo se puede ganar dinero en este mercado de alto riesgo, pero también lo fácil que es perderlo.</info>
+<thumbnail>https://i.imgur.com/pg4blHt.jpg</thumbnail>
+<fanart>https://i.imgur.com/ytkeYaa.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Cronicas Vampiricas[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>18165</tmdb>
