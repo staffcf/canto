@@ -13,7 +13,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/6fx6UQHcUdMhchwmIaDMchBTJt0.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/t4PBKn38EjGkVR6dGqiX2reTNoV.jpg</fanart>
 <info>Para los 40 años de matrimonio de Claude y Marie Verneuil, sus cuatro hijas deciden organizar una gran fiesta sorpresa en la casa familiar de Chinon e invitar a los padres de cada uno de los yernos allí, durante unos días.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/B9vCSHhn5G0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/3kq5w3fmnqmm884q"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/poner"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/6oqol9u36tez"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/012anbklhrii"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/b6k21ab8yu7b"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/06rW8ROYlXc6wm"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/B9vCSHhn5G0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/3kq5w3fmnqmm884q"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/4n3qqm4ote7kg7"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/6oqol9u36tez"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/012anbklhrii"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/b6k21ab8yu7b"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/06rW8ROYlXc6wm"}</urlsolve>
 </item>
 
 
