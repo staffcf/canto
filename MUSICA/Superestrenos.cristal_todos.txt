@@ -14382,6 +14382,18 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 
 
 <item>
+<title>[COLOR white] El abuelo está loco [/COLOR][COLOR yellow] (1967) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Fantasía,Comedia,Familia</genre>
+<year>1967</year>
+<tmdb>24816</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/20x5t0bVuTMnZozMG7LBWA83AFJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sf3xfJppftP4VF0Ta2sqlT8oe2x.jpg</fanart>
+<info>Unos niños acuden de excursión a un bosque con su abuelo. Al realizar una parada para merendar, descubren unos habitantes del bosque que hasta el momento habían pasado desapercibidos ante los seres humanos. Se trata de unos pequeños gnomos que enseguida se hacen amigos de los niños y del abuelo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/f8wAl7aWxGk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/e5g0xnt-p2z4merp"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ksx1ocyz2scq"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/rZ45DrpvB73lM81R"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El Jardin De La Alegria [/COLOR][COLOR yellow] (2000) [COLOR aqua]*6,3[/COLOR]</title> 
 <genre>Crimen,Comedia</genre>
 <year>2000</year>
