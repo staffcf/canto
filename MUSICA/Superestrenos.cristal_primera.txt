@@ -11,8 +11,8 @@
 <tmdb>874705</tmdb>
 <thumbnail>https://www.themoviedb.org/t/p/original/9OsH4ocdVjJAkdJOvcWDEdrdWXk.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/kWyVwvbQfYzEv3sesrDP1M6rcFL.jpg</fanart>
-<info>Bex, una joven convicta, se ve obligada a unirse.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/6GF7VxfL-oI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/17pnqjhjl1elw7j4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/otc62xbyb0sf"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/r8WdlWmG3JWDjx4q"}</urlsolve>
+<info>Dos amigos de un pequeño pueblo se ven envueltos en el juego mortal de una banda perversa después de descubrir una caja misteriosa.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/6GF7VxfL-oI"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/pklwj3d1swdg33"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/otc62xbyb0sf"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/uw3a35m590w6"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/a8lya5car1zt"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/LpqDV3aoKOCRrPr"}</urlsolve>
 </item>
 
 
