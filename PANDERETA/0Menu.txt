@@ -3218,6 +3218,16 @@ Entre las estrellas que han aparecido en la serie, interpretando versiones satí
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Harry Y Meghan [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>215492</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Harry.y.meghan</externallink>
+<info>En esta docuserie, Enrique y Meghan rememoran los obstáculos que han superado desde que empezaron su noviazgo hasta que renunciaron a formar parte de la familia real.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/nxbQLpCm78w5UHOyLrnkFJVCY7p.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/x83sFjYyUwc4SgTCUTcHVvpjqul.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Hatfields y McCoys[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>43016</tmdb>
