@@ -12,7 +12,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/9OsH4ocdVjJAkdJOvcWDEdrdWXk.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/kWyVwvbQfYzEv3sesrDP1M6rcFL.jpg</fanart>
 <info>Bex, una joven convicta, se ve obligada a unirse.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/6GF7VxfL-oI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/17pnqjhjl1elw7j4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/s7gqy481aas6"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/r8WdlWmG3JWDjx4q"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/6GF7VxfL-oI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/17pnqjhjl1elw7j4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/otc62xbyb0sf"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/r8WdlWmG3JWDjx4q"}</urlsolve>
 </item>
 
 
