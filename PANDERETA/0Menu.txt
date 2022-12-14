@@ -204,6 +204,16 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Alice In Borderland[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>110316</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Alice.in.borferland</externallink>
+<info>Un chico obsesionado con los videojuegos se transporta con dos amigos a una realidad paralela y postapocalíptica de Tokio donde cada nivel es de vida o muerte.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/20mOwAAPwZ1vLQkw0fvuQHiG7bO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8edzqU74USlnfkCzHtLxILUfQW3.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Alien Endgame [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>978406</tmdb>
@@ -5135,6 +5145,16 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 <info>El cuerpo de un estudiante de secundaria aparece en un edificio abandonado donde los chicos solían andar en patineta, al parecer fue un accidente pero Mamen, su profesora de matemáticas, comienza a sospechar y comienza a investigar el hecho.</info>
 <thumbnail>https://i.imgur.com/MB3qg7c.jpg</thumbnail>
 <fanart>https://i.imgur.com/4kjpSxm.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Moloch[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>111133</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Moloch</externallink>
+<info>En una ciudad costera industrial y laberíntica, la gente se enciende de repente sin motivo. Suicidios Asesinatos? Fenómenos sobrenaturales? Para averiguarlo, Louise, una joven periodista, y Gabriel, un psiquiatra, investigarán.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/iQBpYwCV3A86B17qwhNA5nqop1A.jpg</thumbnail>
+<fanart>https://i.imgur.com/evo488m.jpg</fanart>
 </item>
 
 <item>
