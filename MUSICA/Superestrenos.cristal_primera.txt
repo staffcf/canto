@@ -13,8 +13,8 @@
 <tmdb>1026624</tmdb>
 <thumbnail>https://www.themoviedb.org/t/p/original/voMl9yeRvYlhayFBBhUqYVBKTyQ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/i6YKzfIXz4JiAIz3XqrMHSQJn0O.jpg</fanart>
-<info>Como la película original, la secuela está ambientada en un futuro próximo donde el alcohol y las drogas están prohibidas salvo un glorioso día, llamado la Juerga. Este año, ese día cae, milagrosamente, en Navidad. La nueva aventura navideña tendrá cuentos mágicos, canciones pegadizas, dibujos animados... ¡y drogas! ¡A montones! ¡Feliz Nochejuerga!</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/LVgpSzcW_04"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/r50dexte5rje3-ek"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/4oagynhhjyj1"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/vJ41zYN3Mr5lwA3g"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/0ye4d2uftesd"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/JwYR0DYOPAceGz}</urlsolve>
+<info>Como la película original, la secuela está ambientada en un futuro próximo donde el alcohol y las drogas están prohibidas salvo un glorioso día, llamado "la Juerga". Este año, ese día cae, milagrosamente, en Navidad. La nueva aventura navideña tendrá cuentos mágicos, canciones pegadizas, dibujos animados... ¡y drogas! ¡A montones! ¡Feliz Nochejuerga!</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/LVgpSzcW_04"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/r50dexte5rje3-ek"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/4oagynhhjyj1"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/vJ41zYN3Mr5lwA3g"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/0ye4d2uftesd"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/JwYR0DYOPAceGz"}</urlsolve>
 </item>
 
 
