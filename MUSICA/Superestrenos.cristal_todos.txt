@@ -14698,6 +14698,18 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 
 
 <item>
+<title>[COLOR white] Monster House [/COLOR][COLOR yellow] (2006) [/COLOR]</title>
+<genre>Animacion,Comedia,Fantasia,Familia</genre>
+<year>2006</year>
+<tmdb>9297</tmdb>
+<thumbnail> https://www.themoviedb.org/t/p/original/AiwWH826I8a1dYTRMDFZEXsw9E3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aiRESjcG3Vi3W9WAGgMJSjGX1HQ.jpg</fanart>
+<info>D.J. Walters es un chico de doce años al que se le ha metido en la cabeza que en la casa del anciano Nebbercracker, al otro lado de la calle, ocurre algo extraño. La víspera de Halloween, el balón con el que juegan D.J. y su amigo va a parar al jardín del señor Nebbercracker, pero misteriosamente llega al interior de la vivienda. Cuando su amiga Jenny está a punto de ser engullida por la extraña casa, nadie cree a los asustados chicos; así que los tres deciden investigar qué sucede en esa extraña casa.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/K4O9Vg-BbtU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/jzw51nud8-x-lelg"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sblongvu.com/9yoxlv57iih7.html"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://filemoon.sx/e/ppf57znbwo0i"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] No Te Fallare [/COLOR][COLOR yellow] (2001) [/COLOR]</title>
 <genre>Accion,Drama,Romance</genre>
 <year>2001</year>
