@@ -4,6 +4,16 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+<item>
+<title>[COLOR white] Los Reyes Magos La verdad [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Comedia,Documental</genre>
+<year>2022</year>
+<tmdb>1061694</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/hDQGyMm7j7yhaSwoOOiuSm2BlaE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ggv0vjm6Wvxc9CbCslGpUoLnoob.jpg</fanart>
+<info>Melchor, Gaspar y Baltasar abren por primera vez las puertas de su palacio para el rodaje de un documental sobre su día a día mientras preparan la cabalgata de Reyes. Así, arranca una aventura disparatada en la que estos tres personajes míticos se ponen en manos de su nueva mánager, Lola, para modernizar su leyenda con colaboradores tan variopintos como Lorenzo Caprile, Almudena Cid, Jordi Hurtado, Esty Quesada o Rozalén.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/nTVXVlYQljs"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/nz37wxu28g6qzwer"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/zynqgjfz1x0p"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/AQ9qzxN5dKWn4mME"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/0bdggu8wpzg3"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/oAkBOvA1J7HJaJ7"},{"titulo" : "[COLOR white]Filestream[/COLOR]","url" : "https://filemoon.sx/d/w4milk5e5n57"}</urlsolve>
+</item>
 
 
 <item>
