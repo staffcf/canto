@@ -4,6 +4,17 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+<item>
+<title>[COLOR white] Clases particulares [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Comedia,Romance</genre>
+<year>2022</year>
+<tmdb>1054513</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/k44nsv16Utxg6tjopcax6CqzRWT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uZtYhcnk3WWvUzQkJLqnNywMQpb.jpg</fanart>
+<info>Haciéndose pasar por un tutor privado, Azra entrena en secreto a los estudiantes para lograr sus metas en la vida y el amor, pero no sin algunos obstáculos en el camino.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/6yeyQoymVQQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/17pnqjhjlw5ny6z0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/yufqjx6k65yo"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/OEbPDaQ3xmyD3M1k"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/vpn6im7tx58o"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/vkBXldWlm6u4d34"},{"titulo" : "[COLOR white]Filestream[/COLOR]","url" : "https://filemoon.sx/d/oclmf388jshb"}</urlsolve>
+</item>
+
 
 <item>
 <title>[COLOR white] Avatar [/COLOR][COLOR yellow](2009) [COLOR aqua]*Sin valorar 
