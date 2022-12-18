@@ -14498,7 +14498,7 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 <thumbnail>https://www.themoviedb.org/t/p/original/n1rcBfffb4i87vdbW3JOeUuGQce.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/gJwq4j1UXpSs4AwKIAuEClSz68n.jpg</fanart>
 <info>Un entrenador de baloncesto universitario se encuentra entre la espada y la pared debido a los malos resultados obtenidos en los últimos partidos. El quiere ganar sin necesidad de pagar dinero a los jugadores, sin embargo los chicos de que dispone son voluntariosos pero no tienen grandes cualidades. Un hombre de negocios, metido en la Junta Directiva le ofrece la posibilidad de fichar a tres fenómenos, pero pagándoles mucho dinero, o dándoles regalos.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/KKW4ZVC_YCs"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/3kmq0jcmnqk8-28w"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/i2xcps4ml6l4"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/qR7MzRr4NQKzwA3d"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/KKW4ZVC_YCs"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/3kmq0jcmnqk8-28w"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/i2xcps4ml6l4"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/qR7MzRr4NQKzwA3d"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/ywaz691thwbl"},{"titulo" : "[COLOR white]Filestream[/COLOR]","url" : "https://filemoon.sx/d/ih02zth00ncb"}</urlsolve>
 </item>
 
 
