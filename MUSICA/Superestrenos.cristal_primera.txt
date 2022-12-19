@@ -4,6 +4,21 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+
+
+<item>
+<title>[COLOR white] El cuartel secreto [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin valorar 
+[/COLOR]</title> 
+<genre>Ciencia ficción,Familia,Acción,Aventura</genre>
+<year>2022</year>
+<tmdb>791155</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/hpH62pdEhkeXnbj4qchqz4QssuR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4I55BE0Q3gBJKcKDd0wKdrL6PI8.jpg</fanart>
+<info>El joven Charlie Kincaid descubre la sede secreta del superhéroe más poderoso del mundo escondida debajo de su casa. Tras compartirlo con sus amigos, comienzan a pensar que el distanciado padre de Charlie podría tener una doble vida secreta.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/JR2hwFpllz4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/qqrjkguer7mjwgrp"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/poner"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/jegweh9kthaj"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/6s2411uxi06r"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/1jzk0xe0qqf4"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Pr6OjxyMk8S0qa8"},{"titulo" : "[COLOR white]File Stream[/COLOR]","url" : "https://filemoon.sx/d/poner"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Clases particulares [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Comedia,Romance</genre>
