@@ -94,16 +94,6 @@
 </item>
 
 <item>
-<title>[COLOR gold]* [COLOR white]1899[COLOR white][/COLOR]</title>  
-<link>cristalazul</link>
-<tmdb>90669</tmdb>
-<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/1899</externallink>
-<info>Al cruzar el océano del viejo al nuevo continente, varios inmigrantes de diversas nacionalidades viven una pesadilla a bordo de un segundo barco a la deriva.</info>
-<thumbnail>https://www.themoviedb.org/t/p/original/4uiIDhjIglhYQUL5i0cpiZKPa2o.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/5lH7NtGZ5ApTXQ8lufosf2JN4bh.jpg</fanart>
-</item>
-
-<item>
 <title>[COLOR gold]* [COLOR white]1883[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <tmdb>118357</tmdb>
@@ -111,6 +101,16 @@
 <info>Siga a la familia Dutton mientras se embarcan en un viaje hacia el oeste a través de las Grandes Llanuras hacia el último bastión de la indómita América. Un recuento crudo de la expansión occidental y un estudio intenso de una familia que huye de la pobreza para buscar un futuro mejor en la tierra prometida de Estados Unidos: Montana.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/waLbm384SQDwLTCn6ttPqQS5kfV.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/1V8gig4wf7jYoB7wdchJbAMXyMB.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]1899[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>90669</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/1899</externallink>
+<info>Al cruzar el océano del viejo al nuevo continente, varios inmigrantes de diversas nacionalidades viven una pesadilla a bordo de un segundo barco a la deriva.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/4uiIDhjIglhYQUL5i0cpiZKPa2o.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5lH7NtGZ5ApTXQ8lufosf2JN4bh.jpg</fanart>
 </item>
 
 <item>
