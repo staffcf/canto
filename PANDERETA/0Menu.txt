@@ -4090,6 +4090,16 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]La Playlist[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>210195</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.playlist</externallink>
+<info>Narra cómo el empresario tecnológico sueco Daniel Ek y el socio comercial Martin Lorentzon revolucionaron la industria de la música a través de la transmisión de música gratuita y legal cuando lanzaron Spotify.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/h8uwJF6ZCtujtDyvg8pcNdMe11B.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cApGWrmtuS4UpuIRa3rD5II3RFz.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]La Primera Muerte[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>111616</tmdb>
