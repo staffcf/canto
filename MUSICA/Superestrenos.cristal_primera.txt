@@ -47,6 +47,18 @@
 
 
 <item>
+<title>[COLOR white] Nadia, mariposa [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin valorar 
+[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2022</year>
+<tmdb>702654</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/fsM2pUufWItzjWFpcv48pNEc0OI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qDvcSGA6qcH0oPWNllalHpxr4C3.jpg</fanart>
+<info>La joven Nadia (Katerine Savard, dos veces olímpica), de 22 años, forma parte del equipo olímpico de natación canadiense en los Juegos de Tokio del 2020. Este será su mayor desafío.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/6yQEp33ypPc"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/jzw16gud8r5nj4y7"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/1vzk7610u0wwj8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/auamelgpyytm"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/lhnhehiy96wm"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/lisq41adn6r3"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/RQZLa3w2Mzhdgg4"},{"titulo" : "[COLOR white]File Stream[/COLOR]","url" : "https://filemoon.sx/d/qgxlly718io0"}</urlsolve>
+</item>
+
+<item>
 <title>[COLOR white] El cuartel secreto [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin valorar 
 [/COLOR]</title> 
 <genre>Ciencia ficción,Familia,Acción,Aventura</genre>
