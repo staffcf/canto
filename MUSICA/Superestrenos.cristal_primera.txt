@@ -4,6 +4,20 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+
+<item>
+<title>[COLOR white] Mickey y Minnie y el deseo de Navidad [/COLOR][COLOR yellow](2021) [COLOR aqua]*Sin valorar 
+[/COLOR]</title> 
+<genre>Animacion</genre>
+<year>2021</year>
+<tmdb>864390</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/5mNwP4NsJisqLKbKVlil3OaZNQI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wwoyG4JbuIUZIeTjGD9J0gRFRTF.jpg</fanart>
+<info>Después de una serie de contratiempos, Mickey, Minnie y la pandilla se separan en todo el mundo y deben intentar regresar a Hot Dog Hills para la víspera de Navidad. Un misterioso y alegre extraño aparece para contarles sobre The Wishing Star, que podría ser el secreto para llevar a todos a casa a tiempo para celebrar juntos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/YNw_BhBp8L4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/17nmwyajlewz4ll2"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/1vzwdkwoakwex6w"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/mqjwa66uodrj"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/poner"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/yvdfk27lgmxb"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Jkvg02XqmrIZ94"},{"titulo" : "[COLOR white]File Stream[/COLOR]","url" : "https://filemoon.sx/d/regts32xfy1t"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Varsovia 83. Un asunto de estado [/COLOR][COLOR yellow] (2021) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Drama</genre>
