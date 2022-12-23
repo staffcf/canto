@@ -86,6 +86,19 @@
 
 
 <item>
+<title>[COLOR white] Lingui: Lazos sagrados [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin valorar 
+[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2022</year>
+<tmdb>820693</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/uw4hJpiNz08ZYayUJPjRXPCCgZE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/89AXcAOeR3I0QH9wMFkxAQyBaid.jpg</fanart>
+<info>En las afueras de la capital de Chad, la decidida madre soltera Amina trabaja incansablemente para mantenerse a sí misma y a su hija María de 15 años. Cuando Amina descubre que María está embarazada y no quiere un hijo, las dos mujeres comienzan a buscar un aborto, condenado tanto por la religión como por la ley. En el proceso, madre e hija forjan una conexión más fuerte que nunca.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ZqCQXQWOuJE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/5pyw36ad13mkgkdq"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/3ngwz8z3smowoq"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/wooodj04w3nv"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/fcbyrtqit0z2"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/w7fea69hzaxq"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/0RwBgWJoPgcbzQZ"},{"titulo" : "[COLOR white]File Stream[/COLOR]","url" : "https://filemoon.sx/d/icj469rtxuzs"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Mi pequeño leon blanco [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin valorar 
 [/COLOR]</title> 
 <genre>Familia,Aventura,Comedia</genre>
