@@ -34,6 +34,19 @@
 
 
 <item>
+<title>[COLOR white] Una noche en Bangkok [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin valorar 
+[/COLOR]</title> 
+<genre>Accion,Suspense</genre>
+<year>2022</year>
+<tmdb>721452</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/6K2uP9uhxVDYteUQLHhLUvEXbzL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/riDrpqQtZpXGeiJdlmfcwwPH7nN.jpg</fanart>
+<info>Un sicario llamado Kai (Mark Dacascos) toma un vuelo con destino a Bangkok, compra una pistola y pide un taxi. Ofrece una cantidad ingente de dinero a una mujer para ser su conductora durante esa noche, proposición que ésta acepta sin pensárselo dos veces. Sin embargo, cuando descubre que Kai es en realidad un asesino hace todo lo posible por zafarse de él. Sólo un policía poco convencional (Kane Kosugi) podrá ayudarla.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/oF5r5U0-chI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/001zwehlrjnk8e66"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/j9nroj8zu79mo71"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/71bczd339ng0"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/p4v17xx06kcs"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/p277g5lkme5f"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/zbyKMKrW0efYlB1"},{"titulo" : "[COLOR white]File Stream[/COLOR]","url" : "https://filemoon.sx/d/r4qr9wtukdlz"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El cuartel secreto [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin valorar 
 [/COLOR]</title> 
 <genre>Ciencia ficción,Familia,Acción,Aventura</genre>
