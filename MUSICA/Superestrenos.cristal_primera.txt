@@ -6,6 +6,33 @@
 
 
 
+
+<item>
+<title>[COLOR white] Mundo Extraño [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin valorar 
+[/COLOR]</title> 
+<genre>Animación,Ciencia Ficción,Aventura,Familia</genre>
+<year>2022</year>
+<tmdb>877269</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/cAZ95yy7rLnGgaIyqCvPSnsomDU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jJcl49hg9KMVsIHA7MYdyEuMixr.jpg</fanart>
+<info>Un viaje a una tierra inexplorada y traicionera en la que unos seres fantásticos aguardan la llegada de los míticos Clade, una familia de exploradores cuyas diferencias amenazan con frustrar su última misión, la más crucial con diferencia.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/OEWEO2E2C_g"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/m72m0-a5dqjxwx4l"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/kn6ojr3nfdk0j4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ayt5axvhxz4q"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/93oh541zb4wz"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/jw4q74bhsb4f"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/9llm4koWLgSakq1"},{"titulo" : "[COLOR white]File Stream[/COLOR]","url" : "https://filemoon.sx/d/zz0a4okus50z"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Bros: Mas que amigos [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin valorar 
+[/COLOR]</title> 
+<genre>Comedia,Romance</genre>
+<year>2022</year>
+<tmdb>614939</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/q1I02yesCWTLn1C1o64k0ezZgf9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/p9owWw3VcPJWaFhopXNMUqWKNww.jpg</fanart>
+<info>Dos hombres con problemas para comprometerse intentan una relación.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/mumfMByX2o8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/e5078lt-pjxp066j"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/zpvm3gg3toddx4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/5gx3ir37cwco"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/zrrtxse2s8ea"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/8f43yrl4ydpk"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/0WBd8xLZ7Jcblmd"},{"titulo" : "[COLOR white]File Stream[/COLOR]","url" : "https://filemoon.sx/d/bohf6q03itah"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] El cuartel secreto [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin valorar 
 [/COLOR]</title> 
