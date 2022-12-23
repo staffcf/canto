@@ -73,6 +73,19 @@
 
 
 <item>
+<title>[COLOR white] Mi pequeño leon blanco [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin valorar 
+[/COLOR]</title> 
+<genre>Familia,Aventura,Comedia</genre>
+<year>2022</year>
+<tmdb>722799</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/Llw9iGzmObrbdv5CAeb3DYVXdv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/u8lF8zrCPhwT6QKRlkBElxn6PND.jpg</fanart>
+<info>Lena, una joven atribulada toma bajo su ala a un cachorro de león blanco; poco sabe ella que el león escapó de los criminales que tenían la intención de llevar al cachorro a un malvado cazador de trofeos llamado Ben Percy.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/xUseSGcFVJI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/jzw16gud8r56dzyy"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/3ngwl9o9bjeo63"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/poner"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/1g0kh5pz6ht9"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/wjnl4pinw98c"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/vkved6jjmOc4Z0J"},{"titulo" : "[COLOR white]File Stream[/COLOR]","url" : "https://filemoon.sx/d/3qevwau9hys0"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] La traición de  Huda [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin valorar 
 [/COLOR]</title> 
 <genre>Suspense</genre>
