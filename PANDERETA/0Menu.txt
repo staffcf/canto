@@ -194,6 +194,16 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Alexia: Labor Omnia Vincit [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>215341</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Alexia.labor.omnia.vincit</externallink>
+<info>Esta serie hace una inmersión en la faceta más personal de Alexia Putellas durante el año en que cambia por completo su vida y la de la historia del fútbol femenino en nuestro país. La serie relata la transformación de una futbolista en un icono global. Por primera vez una mujer se convierte en una ídola futbolística mundial que ha transformado el futuro del fútbol.</info>
+<thumbnail>https://i.imgur.com/UgplUCi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6EjcB5TFwFN1AzqHMPaM1kr1DTl.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Alguien Esta Mintiendo[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>118958</tmdb>
@@ -6597,6 +6607,16 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 <info>Mientras crean una innovadora aplicación de sexo, una joven y sus amigas exploran el mundo de la intimidad y se descubren a sí mismas en el proceso. </info>
 <thumbnail>https://i.imgur.com/O3dVgaD.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/31KnVPPwncNRqbhslad3vI8BQnu.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Shantaram[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>95341</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Shantaram</externallink>
+<info>Lin Ford, un preso fugado, huye a las bulliciosas calles de Bombay para desaparecer. Trabajando como médico de las clases más desfavorecidas, Lin encontrará un amor inesperado, contactos y el valor para recorrer el largo camino hasta su redención.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/iMhOpWC0eSWQgiWjTphgzR5S0p0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nwQT1fomerGWrK2aW5rLGyvQM8i.jpg</fanart>
 </item>
 
 <item>
