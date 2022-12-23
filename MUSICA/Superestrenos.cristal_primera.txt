@@ -60,6 +60,19 @@
 
 
 <item>
+<title>[COLOR white] Atrapa la bala [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin valorar 
+[/COLOR]</title> 
+<genre>Western,Acción</genre>
+<year>2022</year>
+<tmdb>859860</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/qKxrBZ8Ts4KHZKp7BT6GAVMLFO2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/MDYanFolbT76dj0gsCbhS2GM5A.jpg</fanart>
+<info>El mariscal estadounidense Britt MacMasters regresa de una misión para encontrar a su padre herido y a su hijo secuestrado por el forajido Jed Blake. Siguiendo su rastro, Britt forma una pandilla con un diputado pistolero y un rastreador estoico de Pawnee. Pero Jed y Britt se acercan peligrosamente al territorio sioux del Desierto Rojo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/1yushuQIVzY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/5pyw36ad13m4l5gn"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/vnmjw37eijp8zl"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/0dl64qacu6y1"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/qcafg3itr60e"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ho65osulwu3k"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/KkJ3zPQo9Pu0qQG"},{"titulo" : "[COLOR white]File Stream[/COLOR]","url" : "https://filemoon.sx/d/poner"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] La traición de  Huda [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin valorar 
 [/COLOR]</title> 
 <genre>Suspense</genre>
