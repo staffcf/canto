@@ -14503,6 +14503,18 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 
 
 <item>
+<title>[COLOR white] Infierno en Los Ángeles [/COLOR][COLOR yellow] (1993) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Drama,Crimen</genre>
+<year>1993</year>
+<tmdb>9516</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/gaX9HjgYyw5R9KdLh2Ha2RJu3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uiTRY2RVMJTcoggVuScfryeBDpL.jpg</fanart>
+<info>Caine, un joven afroamericano del barrio angelino de Watts, cuyo padre era traficante y su madre drogadicta, vive con sus abuelos maternos que intentan inculcarle los buenos valores que sus padres no pudieron darle. Pero sigue en el ghetto, lo cual hace que se junte con otros jóvenes, entre ellos una malísima influencia como lo es su mejor amigo, O-Dog. La violencia le rodea y tendrá que tomar una motivación existencial para poder escapar de ese "infierno", la chica que le gusta era la novia de su modelo paternal (condenado a cadena perpetua) y puede ser su chispa potenciadora para escapar y empezar de cero.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/XrMCRkTRmiY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/yp4m-5iellrmkpj3"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/bjjr0ohopwdc"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/0rwmD7p9JbrzRaZ8"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/tdec2rkvncyu"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/81bf7uyh15ml"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Jeepers Creepers [/COLOR][COLOR yellow] (2001) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Terror,Suspense</genre>
 <year>2001</year>
@@ -14718,6 +14730,18 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 <fanart>https://www.themoviedb.org/t/p/original/aiRESjcG3Vi3W9WAGgMJSjGX1HQ.jpg</fanart>
 <info>D.J. Walters es un chico de doce años al que se le ha metido en la cabeza que en la casa del anciano Nebbercracker, al otro lado de la calle, ocurre algo extraño. La víspera de Halloween, el balón con el que juegan D.J. y su amigo va a parar al jardín del señor Nebbercracker, pero misteriosamente llega al interior de la vivienda. Cuando su amiga Jenny está a punto de ser engullida por la extraña casa, nadie cree a los asustados chicos; así que los tres deciden investigar qué sucede en esa extraña casa.</info>
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/K4O9Vg-BbtU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/jzw51nud8-x-lelg"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sblongvu.com/9yoxlv57iih7.html"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://filemoon.sx/e/ppf57znbwo0i"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] New Jack City [/COLOR][COLOR yellow] (1991) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Suspense,Crimen,Drama</genre>
+<year>1991</year>
+<tmdb>10952</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/8ydaWOqRDgWCjJayChl4Kmgtv1C.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/12VK5lbzpacYlzGbiVOhzlAj5wg.jpg</fanart>
+<info>Un traficante de drogas consigue el dominio de toda una zona de la ciudad. La policía, en su batalla contra el narcotráfico, decide infiltrar a un topo en su banda para acabar con la inseguridad ciudadana y la droga en los barrios marginales.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/pumf6m7d14w"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/4xkrqjfz112xlz3q"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/fczq0ukpuits"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/qR7MzRrWdX6zwA3d"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/bdrri2dh3sur"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/l44tg6czouqp"}</urlsolve>
 </item>
 
 
