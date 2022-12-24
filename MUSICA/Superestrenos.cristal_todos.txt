@@ -14734,6 +14734,18 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 
 
 <item>
+<title>[COLOR white] Navidad en el Nilo [/COLOR][COLOR yellow] (2002) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2002</year>
+<tmdb>42432</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/5CAUvRs6NixHO9jWo6FDbNCR0E8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/XrRzgUl95BymMdpwwE69vo3lFw.jpg</fanart>
+<info>El abogado mujeriego Fabio sigue a su esposa e hijo a un viaje a Egipto en un último esfuerzo por compensar sus pasadas infidelidades. También viaja a Egipto el torpe jefe de policía Enrico, quien está desesperado por evitar que su rebelde hija se convierta en corista. Los dos se encuentran en un crucero por el Nilo. Se produce la calamidad.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/2oBfGMBQZvQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/yp4m-5iell04qe5z"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/6x5nl6rhqbvr"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/6mwWD4o7py2nPGrY"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/flcjw1zws37l"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/zlqr3p4yldhd"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] New Jack City [/COLOR][COLOR yellow] (1991) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Suspense,Crimen,Drama</genre>
 <year>1991</year>
