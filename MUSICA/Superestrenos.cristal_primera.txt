@@ -4,6 +4,28 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+<item>
+<title>[COLOR white] Matilda de Roald Dahl El musical [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Familia,Comedia,Fantasía</genre>
+<year>2022</year>
+<tmdb>668482</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/wGRBhPBj9AtoK3FDS7IliFKMOCl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nWs0auTqn2UaFGfTKtUE5tlTeBu.jpg</fanart>
+<info>Una joven extraordinaria descubre su superpoder y reúne el coraje extraordinario, contra viento y marea, para ayudar a otros a cambiar sus historias, al mismo tiempo que se hace cargo de su propio destino. Al defender lo que es correcto, se encuentra con resultados milagrosos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/FH0kQPvAvQ8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/17pnqjhjllrdnmzk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/3rit7g2ydxuc"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/rZ45DrpxAvylM81R"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/q5mq1yfp8o3c"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/q7ta8d9q8mhk"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Colorea mi mundo con amor [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Drama,Romance</genre>
+<year>2022</year>
+<tmdb>970932</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/rxUzwNbjBi8y7kOlOZ1AUg5LHMG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6QzdkDMwbxKMeTKw4HOolInDONu.jpg</fanart>
+<info>La hija de Emma, ​​Kendall, se compromete, pero Emma está preocupada porque Kendall y su prometido tienen síndrome de Down y Emma teme no estar lista para dar este paso.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/v2pxwy-yphQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/m7k2wnh5ddekl3d2"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/htkpkf1ue1gf"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/6mwWD4o74kLnPGrY"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/la59244tdlp9"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/3iqx0en365y7"}</urlsolve>
+</item>
 
 
 <item>
