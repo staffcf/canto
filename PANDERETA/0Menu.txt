@@ -2617,26 +2617,6 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
-<title>[COLOR gold]* [COLOR white]Emily En Paris[COLOR white][/COLOR]</title>     
-<link>cristalazul</link>
-<tmdb>82596</tmdb>
-<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Emily.en.paris</externallink>
-<info>Tras aceptar el trabajo de sus sueños en París, Emily Cooper, ejecutiva de marketing de Chicago, estrena una vida de aventuras mientras compagina trabajo, amistad y amor.</info>
-<thumbnail>https://www.themoviedb.org/t/p/original/3eLwEucFbyeAullj024d5jsXKnk.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/fGTzOjsaNmWF7zYt1LO2VHJOwuo.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR gold]* [COLOR white]En El Corredor De La Muerte[COLOR white][/COLOR]</title>     
-<link>cristalazul</link>
-<tmdb>92500</tmdb>
-<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/En.el.corredor.de.la.muerte.txt</externallink>
-<info>Miniserie de TV (2019). 4 episodios. 27 de enero de 1994. Los cuerpos de un hombre y dos modelos de 25 años aparecen acribillados a tiros en casa del dueño de un club nocturno. La policía encuentra una cámara instalada en el salón de la víctima que ha grabado el asesinato. Esas imágenes son la pista principal de la policía. Se decide distribuir el rostro borroso de uno de los asaltantes. Tres semanas más tarde, en una comisaría de otro distrito, un agente cree reconocer a uno de los asesinos: es Pablo Ibar, un hombre de nacionalidad española al que acababan de detener junto a unos amigos por un robo menor. Pablo asegura que es inocente. Ninguna de las pruebas halladas en el lugar del crimen lo inculpan… Pero de nada sirve. Pablo es condenado y enviado al corredor de la muerte. Esta es la historia de lucha de un hombre por demostrar su inocencia. La historia de una familia que nunca se ha rendido.</info>
-<thumbnail>https://i.imgur.com/VhPRKIL.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/7OfmsxNt6SrtHQ0jhRB8MO0uzJa.jpg</fanart>
-</item>
-
-<item>
 <title>[COLOR gold]* [COLOR white]El Mismo Dia A La Misma Hora[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>1015598</tmdb>
@@ -2664,6 +2644,26 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 <info>Un estafador se hacía pasar por magnate y seducía a mujeres en Internet para estafarles millones de dólares. Ahora sus víctimas planean vengarse.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/e9nRmgoxc0gQkTmKbtIJL9imvq1.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/6kiYivbx1bgx51xdfmcu53Tsjy8.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Emily En Paris[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<tmdb>82596</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Emily.en.paris</externallink>
+<info>Tras aceptar el trabajo de sus sueños en París, Emily Cooper, ejecutiva de marketing de Chicago, estrena una vida de aventuras mientras compagina trabajo, amistad y amor.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/3eLwEucFbyeAullj024d5jsXKnk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fGTzOjsaNmWF7zYt1LO2VHJOwuo.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]En El Corredor De La Muerte[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<tmdb>92500</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/En.el.corredor.de.la.muerte.txt</externallink>
+<info>Miniserie de TV (2019). 4 episodios. 27 de enero de 1994. Los cuerpos de un hombre y dos modelos de 25 años aparecen acribillados a tiros en casa del dueño de un club nocturno. La policía encuentra una cámara instalada en el salón de la víctima que ha grabado el asesinato. Esas imágenes son la pista principal de la policía. Se decide distribuir el rostro borroso de uno de los asaltantes. Tres semanas más tarde, en una comisaría de otro distrito, un agente cree reconocer a uno de los asesinos: es Pablo Ibar, un hombre de nacionalidad española al que acababan de detener junto a unos amigos por un robo menor. Pablo asegura que es inocente. Ninguna de las pruebas halladas en el lugar del crimen lo inculpan… Pero de nada sirve. Pablo es condenado y enviado al corredor de la muerte. Esta es la historia de lucha de un hombre por demostrar su inocencia. La historia de una familia que nunca se ha rendido.</info>
+<thumbnail>https://i.imgur.com/VhPRKIL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7OfmsxNt6SrtHQ0jhRB8MO0uzJa.jpg</fanart>
 </item>
 
 <item>
