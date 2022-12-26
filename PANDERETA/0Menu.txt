@@ -2617,6 +2617,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Emily En Paris[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<tmdb>82596</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Emily.en.paris</externallink>
+<info>Tras aceptar el trabajo de sus sueños en París, Emily Cooper, ejecutiva de marketing de Chicago, estrena una vida de aventuras mientras compagina trabajo, amistad y amor.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/3eLwEucFbyeAullj024d5jsXKnk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fGTzOjsaNmWF7zYt1LO2VHJOwuo.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]En El Corredor De La Muerte[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <tmdb>92500</tmdb>
