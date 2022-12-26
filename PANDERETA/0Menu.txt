@@ -7553,6 +7553,16 @@ Una vez allí, se encontrarán con un enemigo mucho peor que los Goaul'd; los Wr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]The Witcher: El Origen De La Sangre[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>106541</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.witcher.el.origen.de.la.sangre</externallink>
+<info>Esta serie de acción trepidante, ambientada 1200 años antes de la historia de ‘The Witcher’, revela los orígenes de un cazador de monstruos. Sophia Brown, Laurence O'Fuarain y Michelle Yeoh interpretan a unos guerreros en un mundo élfico asolado por la violencia, la lucha de clases y el caos.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/tQQmzvG2vYq1JHaf2bRQ9KAxvEl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ZcxWD6qrpL1nw59lWeHJyPplPG.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Thief[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <tmdb>3929</tmdb>
