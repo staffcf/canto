@@ -14239,6 +14239,18 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 
 
 <item>
+<title>[COLOR white] Aquí llega Condemor el pecador de la pradera [/COLOR][COLOR yellow] (1996) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Western,Comedia</genre>
+<year>1996</year>
+<tmdb>104638</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/uDyBQX9jP42sh6r39GEtnyO3gYF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kD4kMCOBD59R8i1EAku4l08JtBd.jpg</fanart>
+<info>Narra las aventuras de un aristócrata francés, el Condemor, y Lucas, su fiel criado mexicano que, perdidos en el desierto del lejano Oeste, buscan la forma de volver al París de los franceses. A raíz de una involuntaria demostración de valor, Condemor es nombrado sheriff -muy en contra de su voluntad- y obligado a perseguir al Tuerto y a resolver la incógnita del paradero del padre de Chico y también la localización del legendario El Dorado, la fabulosa mina de oro. La historia se complica cuando el amor platónico de Condemor, la bella Jolly, cantante del Saloon, también es raptada por el malvado.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/f6Kcg38b63o"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/jzewrxud8lwd2131"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/fyjikk6hmyzi"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/ifgdb230jym9"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/samdqnlatasa"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/MPlvaezRWksmPRo"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] ¿Que invadimos ahora? [/COLOR][COLOR yellow](2015) [COLOR aqua]*7.3[/COLOR]</title> 
 <genre>Documental</genre>
 <year>2015</year>
@@ -14934,6 +14946,17 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://www.fembed.com/v/x3xz1i564wyp438"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://sbembed.com/e/qciy1tvhrw90"}</urlsolve>
 </item>
 
+
+<item>
+<title>[COLOR white] Un gángster para un milagro [/COLOR][COLOR yellow] (1961) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Comedia,Drama</genre>
+<year>1961</year>
+<tmdb>248</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/mSnbrBxPMNYuTvbLVNLBoIJNRQ6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kYaqmkeCSqNSat8nKgdLSz0A20l.jpg</fanart>
+<info>En la época de la Ley Seca (1920-1933), Dave es un contrabandista de alcohol que está a punto de cerrar un trato importante con un mafioso de Chicago. Como las manzanas de la mendiga Annie siempre le han dado suerte, envía a uno de sus hombres a buscarla para cerrar la operación. Pero Annie está completamente desesperada: su hija, a la que no ve desde hace muchos años, llega de Europa acompañada de su novio y de su suegro, unos aristócratas italianos, y Annie tendrá que convertirse en una gran dama para no defraudarla.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/8LYUpTzjGfg"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/4xkrqjfz10gyx87e"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/l5odmvf65ygn"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/9hujonoy5ta9"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/nnnglk9zgixp"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Oqzmbr2bD1fg71"}</urlsolve>
+</item>
 
 
 <item>
