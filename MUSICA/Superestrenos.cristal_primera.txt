@@ -9,8 +9,8 @@
 <genre>Drama</genre>
 <year>2022</year>
 <imdb>tt14522892</tmdb>
-<thumbnail>https://pics.filmaffinity.com/ramona-632890945-large.jpg</thumbnail>
-<fanart>https://pics.filmaffinity.com/ramona-439041156-large.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/original/a2rrZrhDq9BhaBelbmj0u0z9S7p.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7HBeb6wuw1pKu1Rc3ySZ5C1tQiF.jpg</fanart>
 <info>Ramona acaba de llegar a vivir a Madrid con su novio, Nico, y quiere empezar de cero: quiere ser actriz, quiere ser madre, quiere vivir en Lavapiés. Pero no consigue castings, no tiene trabajo estable y en su edificio hay dos pisos okupas que venden droga y la tienen aterrada.</info>
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/jucsVYQayZk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/n071jhpnneegm34"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/n416h4y7h3k3"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/ARPonQ3VR8Qzb1aE"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/adlvmr3kwq19"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/luevbiq72epd"}</urlsolve>
 </item>
