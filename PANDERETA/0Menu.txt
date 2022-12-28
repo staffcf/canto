@@ -2367,6 +2367,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El Nuevo Empleado[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<tmdb>210916</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.nuevo.empleado</externallink>
+<info>Una incipiente abogada de la CIA se ve envuelta en una peligrosa política de poder internacional cuando un antiguo activo amenaza con exponer la naturaleza de su relación a largo plazo con la agencia, a menos que la exoneren de un delito grave.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/sgCe7wVP5AxU2aNofxLhRn1XfwD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/osWDoJwKTs4x6jkX6DAiwiURGJr.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El Nudo[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <tmdb>93428</tmdb>
