@@ -2818,6 +2818,16 @@ Entre las estrellas que han aparecido en la serie, interpretando versiones satí
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]F.C. Barcelona: Una Nueva Era [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>216667</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Fc.barcelona.una.nueva.era</externallink>
+<info>La serie documental 'FC Barcelona, ​​una nueva era' se estrenará en todo el mundo el 28 de diciembre en Prime Video. Producida por Barça Studios, ofrece una visión interna del primer equipo durante los últimos dos años, incluyendo la construcción de una nueva plantilla, la reconstrucción financiera y el resurgimiento del club tras un período de crisis.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/v0mDpAGl2ttgIiQimB9wRBEZP5n.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5mAbN63SpYOrZkJvRfu2o2s1yC4.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]F1: La Emocion De Un Gran Prix [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>87083</tmdb>
