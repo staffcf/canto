@@ -4,6 +4,16 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+<item>
+<title>[COLOR white] Ascenso al limite [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Drama,</genre>
+<year>2022</year>
+<tmdb>994441</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/2vSzowitSGGnVe1yM8etObLvt2k.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/u7gLm9ee7YUrCi05TH2Qgw9NgRE.jpg</fanart>
+<info>Un sueño audaz para escalar el trío de montañas más desafiante del mundo pronto se convierte en una pesadilla aterradora para un grupo de amigos cuando una tormenta mortal atrapa a los escaladores cerca de la cumbre y corta toda esperanza de rescate. Con las probabilidades en su contra, los amigos se ven obligados a confiar el uno en el otro para salvarse por cualquier medio necesario.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/yuz3RI-oMsc"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/5pmyejid15l4zyel"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/4934b6ht53ga"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/vb6NnJya8aplPOkZ"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/w1u9mxv757ke"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/f1lcjd2fh0lf"}</urlsolve>
+</item>
 
 
 <item>
