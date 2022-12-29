@@ -29,7 +29,11 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/kUAG4ZQcsNbRyiPyAr3hLdsVgAq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/vLT1Imot1ydxBncHq6V8yJ4emYh.jpg</fanart>
 <info>Ambientada más de una década después de los acontecimientos de la primera película, 'Avatar: The Way of Water' empieza contando la historia de la familia Sully (Jake, Neytiri y sus hijos), los problemas que los persiguen, lo que tienen que hacer para mantenerse a salvo, las batallas que libran para seguir con vida y las tragedias que sufren.</info>
-<urlsolve>https://youtu.be/RHCSAAJOMHE</urlsolve></item>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://youtu.be/RHCSAAJOMHE"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://youtu.be/CShJwKW0WK4"}</urlsolve>
+</item>
+
+
+
 
 
 <item>
