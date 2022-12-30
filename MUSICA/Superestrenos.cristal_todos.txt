@@ -14898,6 +14898,18 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 
 
 <item>
+<title>[COLOR white] Recuerdos que matan [/COLOR][COLOR yellow] (1993) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Acción</genre>
+<year>1993</year>
+<tmdb>18631</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/5zNIYyRIySkjVgYByxCEC8Xnx4r.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6iGi4aUDpZlQVfK9ZRC1iaDun1y.jpg</fanart>
+<info>Dan Saxon (Charlie Sheen), policía secreto, vive atormentado por las duras experiencias que marcaron su infancia y, cada noche, horribles pesadillas lo atormentan. Tras numerosos problemas con su superior, un policía corrupto que trata de hundirlo, le asignan un nuevo caso. Debe infiltrarse en una violenta banda de moteros e incautar la mayor partida de droga de la historia. Para lograr su objetivo, Dan tiene que demostrar a la banda que es uno de ellos, y se verá envuelto en una ola de crimen y violencia... que le hará cuestionarse sus verdaderos instintos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/AMleRFFIOjM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/yp4m-5ie45w02q12"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/3w28vy42urp5"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/RLg7lX8K5M4l2QAe"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/iblq6yuyywzy"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/zh6j06w03vxw"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Sólo el más fuerte [/COLOR][COLOR yellow] (1993) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Acción</genre>
 <year>1993</year>
