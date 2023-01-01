@@ -8,6 +8,20 @@
 
 
 
+
+<item>
+<title>[COLOR white] After: Amor infinito [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin valorar 
+[/COLOR]</title> 
+<genre>Romance,Drama</genre>
+<year>2022</year>
+<tmdb>744276</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/z81GNPpSbMupeb3VAkZ4ztf9pDm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rwgmDkIEv8VjAsWx25ottJrFvpO.jpg</fanart>
+<info>El amor de Tessa y Hardin nunca ha sido fácil. Mientras él permanece en Londres después de la boda de su madre y se hunde cada vez más en su propia oscuridad, ella regresa a Seattle. Tessa es la única capaz de entenderle y calmarle... él la necesita, pero ella ya no es la chica buena y dulce que era cuando llegó a la universidad. Deberá plantearse si lo que debe hacer ahora es salvar a Hardin y su relación con él, o si ha llegado el momento de pensar solo en ella. Si quieren que su amor sobreviva, primero tendrán que trabajar en sí mismos. ¿Pero será su destino seguir estando juntos?</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/bVjSl_AGSPQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/xm0jygc50n6x86j3"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/0vn69x00ik9vvz4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/wljtpuo2qegz"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/r25tvsj74j3p"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/75e41ir59ccb"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/AKro04LRw7hXrZY"},{"titulo" : "[COLOR white]File Stream[/COLOR]","url" : "https://filemoon.sx/d/ha2n1cpv3okc"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Perdidos en el tiempo [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Comedia,Familia,Fantasía</genre>
