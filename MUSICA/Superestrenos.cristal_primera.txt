@@ -7,6 +7,19 @@
 
 
 
+
+<item>
+<title>[COLOR white] Perdidos en el tiempo [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Comedia,Familia,Fantasía</genre>
+<year>2022</year>
+<tmdb>839738</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/hbTVZT70g8icvjArPNpJLiNRmou.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cONbDKugZkBnsCkGT1LeisSiNtI.jpg</fanart>
+<info>Es un día especial para Luì, que finalmente está a punto de recibir su diploma como científico y, como siempre, Sofì está a su lado para apoyarlo y darle coraje. Pongo, su fiel amigo, ciertamente no puede faltar al evento. Una vez más, sin embargo, el Sr. S y Perfidia intentarán socavar el Me contro Te pero Sofì, con los poderes de un hada, y Luì, con la mejor tecnología digna de un verdadero científico, harán pasar un mal rato a sus enemigos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/0QoAFPadd2w"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/4xkrqjfz0-m3p23x"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/galvl5qz1aki"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/YvAyz2GmRQklg9kL"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/czpg9eldbsnp"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/x7maapx7j443"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Viaje al Paraíso [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin valorar 
 [/COLOR]</title> 
