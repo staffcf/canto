@@ -4,6 +4,21 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+
+
+<item>
+<title>[COLOR white] Vértigo [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin valorar 
+[/COLOR]</title> 
+<genre>Suspense</genre>
+<year>2022</year>
+<tmdb>985939</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/cOWPC7Sg9xoDM5i3uzs4iQtSPUj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jJNadkhXVkBd54SrTRT1ZCfBEEz.jpg</fanart>
+<info>Para las mejores amigas Becky y Hunter, la vida trata de superar tus miedos y empujar tus límites. Sin embargo, después de subir hasta la cima de una torre de comunicaciones abandonada, se encuentran atrapadas y sin forma de bajar. A 600 metros del suelo y totalmente alejadas de la civilización, las chicas pondrán a prueba sus habilidades de escaladoras expertas y lucharán desesperadamente por sobrevivir aunque lo tengan todo en contra. ¿Lo conseguirán?</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/_snnyypPf08"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/-n7pwqapqzerd81e"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/poner"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/25aow52sd48m"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/jc51p8vbg1vn"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/klgmp314b3v7"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/7p2OBBkybaiAKrz"},{"titulo" : "[COLOR white]File Stream[/COLOR]","url" : "https://filemoon.sx/d/ebz7x3e3lkx7"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Ascenso al limite [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Drama,</genre>
