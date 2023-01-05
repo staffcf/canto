@@ -304,6 +304,16 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]American Crime Story[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>64513</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/American.crime.story</externallink>
+<info>"American Crime Story" es una serie de televisión estadounidense de antología y basada en crímenes reales.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/7fsY2ocRn5A1xUCs8KHtV4c1aBl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ilYgNynOaPUehCJxSLBPu5klPSK.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]American Gods[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>46639</tmdb>
@@ -685,6 +695,16 @@ misiones para devolver la esperanza a una galaxia dominada por un imperio despia
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Bienvenidos Al Chippendale[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>130567</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Bienvenidos.al.chippendale</externallink>
+<info>Basada en hechos reales, la miniserie cuenta la escandalosa historia de Somen “Steve” Banerjee (Kumail Nanjiani), un inmigrante de la India que se convirtió inesperadamente en el fundador del mayor imperio de strippers masculinos del mundo y que en su proceso, no permitió que nada se interpusiera en su camino.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/6NOVDbYxyKHwiRMaAEBbGAK2Dvt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nFrgz0K8ZUePpf6cdpC9XBwgTZg.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Big Sky[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <tmdb>100010</tmdb>
@@ -753,6 +773,16 @@ misiones para devolver la esperanza a una galaxia dominada por un imperio despia
 <info>19 de octubre de 1987, también conocido como Black Monday, la peor caída del mercado de valores en la historia de Wall Street. Nunca se ha sabido quién lo causó... hasta ahora. Es la historia de cómo un grupo de individuos al margen del sistema se enfrentaron a Wall Street y terminaron estrellando el sistema financiero más grande del mundo. </info>
 <thumbnail>https://i.imgur.com/5LSPZGZ.jpg</thumbnail>
 <fanart>https://i.imgur.com/aT2eABG.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Bloom[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>85232</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Bloom</externallink>
+<info>Un año después de una devastadora inundación que mata a cinco habitantes de una idílica ciudad rural, aparece una nueva planta misteriosa con el poder de restaurar su juventud.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/aCHJUM5EPUwmgCST8e9Zi2kNVFz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lQdG9vVN4W7PFhPSoEdJ3hLHbt8.jpg</fanart>
 </item>
 
 <item>
@@ -914,6 +944,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 <info>Los investigadores revelan cómo la supuesta prioridad de las ganancias de Boeing sobre la seguridad podría haber contribuido a dos accidentes catastróficos con meses de diferencia.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/r5chhS32USKj7andCo8z9HgbSWE.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ltZyYAmYAlpf0GzR9GiIzf3S6k9.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Caleidoscopio[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>156902</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Caleidoscopio</externallink>
+<info>Un veterano ladrón y su banda montan un golpe épico para ganar 7000 millones de dólares. Pero la traición, la avaricia y otras amenazas frustran sus planes.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/zwVEFJ6f1ipO3wY3qW1vjBSkZnZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/m7Yqp4eOotvlisdS9buFZEoiBUr.jpg</fanart>
 </item>
 
 <item>
@@ -1354,6 +1394,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 <info>Dos androides, denominados "Padre" y "Madre", reciben la tarea de educar a un grupo de niños humanos en un misterioso y desértico planeta. A medida que las distintas colonias humanas comienzan a tener problemas a causa de sus diferencias religiosas, los androides descubren lo difícil que resulta controlar o incluso cambiar la opinión y las creencias de los seres humanos.</info>
 <thumbnail>https://i.imgur.com/E61P1W3.jpg</thumbnail>
 <fanart>https://i.imgur.com/hDepy0S.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Crimen En El Paraiso Especial Navidad[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb></tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Crimen.en.el.paraiso.esp.navidad</externallink>
+<info>Un policía inglés con muy poco sentido del humor y de carácter huraño de la Policía Metropolitana de Londres, es enviado a la isla caribeña de Saint-Marie para resolver el asesinato de un compañero policía británico...</info>
+<thumbnail>https://i.imgur.com/TP36mpC.jpg</thumbnail>
+<fanart>https://i.imgur.com/5exlBGp.jpg</fanart>
 </item>
 
 <item>
@@ -3879,6 +3929,16 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]La Dama De Los Muertos[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>214088</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.dama.de.los.muertos</externallink>
+<info>En una búsqueda vengativa para descubrir quién mató a su esposo, una mujer termina exponiendo los secretos más profundos y feos de su pequeña comunidad.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/v9gijQNMhZjGSglOh0nFpfFHhC0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6CzPBGSphqQrbNFEDvj97GHVNcG.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]La Desaparicion De Anthony[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <tmdb></tmdb>
@@ -4298,6 +4358,16 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 <info>A lo largo de sus 50 años de carrera, Ed y Lorraine Warren investigan miles de apariciones. Algunos de sus casos más famosos incluyen la casa Amityville Horror y la casa real de Rhode Island detrás de las películas "The Conjuring".</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/l9GvB7hoZPJhoMwijoYxCSghZfT.jpg</thumbnail>
 <fanart>https://i.imgur.com/lOu12EC.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]La Vida Mentirosa De Los Adultos[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>103416</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.vida.mentirosa.de.los.adultos</externallink>
+<info>La joven Giovanna lidia con su transición de niña a adolescente mientras experimenta las dos caras de Nápoles durante la década de los 90.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/cDy24NY2QIXYUxRzelvhkWGbkPH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9uNP8M8JqTeJhX6oIZDK5wnssLm.jpg</fanart>
 </item>
 
 <item>
@@ -5195,6 +5265,16 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 <info>Una comedia ambientada en las oficinas de Heaven Inc. Cuando Dios planea destruir la Tierra, dos ángeles de bajo nivel deben convencer a su jefe de salvar a la humanidad. Le apuestan a que pueden lograr su milagro más imposible: ayudar a dos humanos a enamorarse.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/2rTZrFxEXAb6y2Fwj5oHP2jOwhx.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ljIfVx7z5OWxFfxzXUN3ftTwJv9.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Mirada Indiscreta[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>135814</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Mirada.indiscreta</externallink>
+<info>Miranda es una voyeur incontrolable y hacker extremadamente hábil. Un día, su destino cambia cuando conoce al hombre de sus sueños. Pero, ¿será él lo que ella esperaba?</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/y85e9oCVtgXSt1HfP9ZLZvr6AWs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8ShTdS1ZPLHlRGoCaesItZc25e6.jpg</fanart>
 </item>
 
 <item>
