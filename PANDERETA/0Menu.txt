@@ -1987,6 +1987,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El Chofer De Ruiz Mateos [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>216244</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/El.chofer.de.ruiz.mateos</externallink>
+<info>En este documental de cuatro episodios Víctor de la Cruz, que fue chófer y mano derecha del empresario gaditano, relata en primera persona todo lo que vivió junto a él. Además de su testimonio, incluye las declaraciones de periodistas como Iñaki Gabilondo, Pedro Piqueras, Mariano Guindal y Fernando González Urbaneja, políticos como Juan Carlos Monedero y Gabriel Rufián y conocidos profesionales del ámbito deportivo.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/p8XRJxVvsh8fDu4JPqt7NIhppRT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xuUPrX6rpEaWQyhMZGNOQcsLrPq.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El Cid[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>94167</tmdb>
@@ -4914,6 +4924,16 @@ La periodista Alice Avril, el comisario Swan Laurence y su secretaria, Marlène 
 <info>La abolición del patriarcado se acerca. En plena crisis de la masculinidad, cuatro amigos cuarentones están perdiendo su trono, privilegios e identidad. Años atrás habrían sido machos alfa al mando de sus relaciones, su trabajo y su vida... pero les ha tocado vivir en la era de la igualdad, en una sociedad con nuevas reglas que los golpea exponiendo su patetismo.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/nXe7Nk7daEzvvCH4aYwPbmBVVZ6.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jZYVjqoOQcfOba3GjN7sqQxOseW.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Madoff: El Mosnstruo De Wall Street [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>216005</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Madoff.el.monstruo.de.wall.street</externallink>
+<info>Esta docuserie sigue el ascenso y la caída del financiero Bernie Madoff, quien orquestó uno de los esquemas Ponzi más grandes en la historia de Wall Street.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/cp1kTIj3rEZsinWbYMGBfjgVHv7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eBUaeoscdfFDevX7CeXLE7rRhzz.jpg</fanart>
 </item>
 
 <item>
