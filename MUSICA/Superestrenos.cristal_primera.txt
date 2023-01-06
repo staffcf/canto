@@ -135,7 +135,6 @@
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/217pVDwQ9zI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/l1k4wxun4lwd7mzr"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/0vn2o2dl0az6"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/ijirbgdwp41i"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/mbvz5yfv2n7u"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/AARrQpRybkUXRxL"}</urlsolve>
 </item>
 
-
 <item>
 <title>[COLOR white] La Huerfana: Primer asesinato [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin valorar 
 [/COLOR]</title> 
@@ -145,10 +144,8 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/eed4qNf174pcT65it1PBbaTTL3x.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/l75DytpQ9YA9NZXFIwHf8RMqFas.jpg</fanart>
 <info>Tras escapar de un centro psiquiátrico estonio, Leena Klammer viaja a América haciéndose pasar por Esther, la hija desaparecida de una familia adinerada. Pero cuando su máscara empieza a caer, se enfrenta a una madre que protegerá a su familia de la "niña" asesina a cualquier precio.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/u0Ofrd29vfQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/w0djeghnx0p0dl7r"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/mdl984m7hv6eew"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/2di7gwj75dk5"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/1ga1w6wux0q8"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/s66f2jn2nhi1"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/G9VBgLorgmiZXl"},{"titulo" : "[COLOR white]File Stream[/COLOR]","url" : "https://filemoon.sx/d/v6y0iechzemx"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/u0Ofrd29vfQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/m72m0-a5k16x5yw0"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/mdl9rvk8iewdmz"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/udm323cmi0dx"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/ya664r96u5a1"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/dlw3ebicnng9"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/zDmpR7l4a8hYY23"},{"titulo" : "[COLOR white]File Stream[/COLOR]","url" : "https://filemoon.sx/d/jifucumor3so"}</urlsolve>
 </item>
-
-
 
 
 FINAL DE LA PASTA
