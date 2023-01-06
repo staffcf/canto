@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Fireheart [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Animación,Comedia,Familia</genre>
+<year>2022</year>
+<tmdb>778810</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/jWyj0v21swHMvwf14yd1NqR1ApE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rEX8tOPvdgWqURQWx6oEzQqSWsM.jpg</fanart>
+<info>Georgia Nolan sueña con ser la primera mujer bombero del mundo, pero todos quieren convencerla de que esa no es una profesión para chicas. Cuando, años más tarde, un misterioso pirómano comienza a sembrar el pánico en Broadway, surgirá la oportunidad que siempre ha estado esperando.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/sJwvBLSptTM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/-n071jhpqr6n87dw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/dzaol801uz93"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/e8oadcxghy8m"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/x7li017kvyrr"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/VVP8kjJ90GIKRYo"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Weird: La Historia de Al Yankovic [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Música,Comedia</genre>
 <year>2022</year>
