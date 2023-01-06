@@ -4200,6 +4200,16 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]La Plataforma[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>112581</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.plataforma</externallink>
+<info>Cuando la tripulación de la Kinloch Bravo se ve aislada y sin comunicación con la costa por una misteriosa niebla, tendrán que buscar la manera de volver a casa a pesar de los elementos en contra, la paranoia que les acecha, y las crecientes tensiones. Pero cuando la amenaza se revela como algo que va más allá de su imaginación, el equipo deberá formar una alianza para asegurar su supervivencia.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/buRe826xkgyU95nyMaDMuCNxfQn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9fztK8KVadEYO6XRF2MAw2K2wDr.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]La Playlist[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>210195</tmdb>
