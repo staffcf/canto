@@ -5,6 +5,30 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Weird: La Historia de Al Yankovic [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Música,Comedia</genre>
+<year>2022</year>
+<tmdb>928344</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/oP8JKhJLCp1lXTm2T7aPLwJ0VVX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/elwQsX3stMGcshUubEmykBqBTND.jpg</fanart>
+<info>Explora todas las facetas de la vida de Yankovic, desde su meteórico ascenso a la fama con éxitos tempranos como 'Eat It' y 'Like a Surgeon' hasta sus tórridas aventuras amorosas entre celebridades y su famoso estilo de vida depravado.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/RyYZOtAxYKY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/4xkrqjfz0kyzqn4d"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ppwshlipgxod"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/aib09blvveoq"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/3o4e2g4romh5"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/QwMG7O9eBwC0ZpA"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Viviendo juntos [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2022</year>
+<tmdb>860854</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/uDbCjkz6TahXJ8VfPxPHHbPfGqj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8MMpWnDAhlcH60kFYIdSbNbGhNe.jpg</fanart>
+<info>Sid y Jonesie, mejores amigos desde hace mucho tiempo, son abandonados por sus respectivas novias. Ambos sin una situación de vivienda, deciden convertirse en "bromates", hermanos que son compañeros de cuarto, lo que pone su relación a prueba.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/un5Z5XJ5iC4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/-n071jhpqrkxn663"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/2gfu8641vk7n"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/z5dwzhkn6zny"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/k7rsf5yn3d96"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/b2omG4gAYeiP9v2"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] La casa entre los cactus [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Drama</genre>
 <year>2022</year>
