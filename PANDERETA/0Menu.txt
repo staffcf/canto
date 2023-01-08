@@ -3019,6 +3019,16 @@ Entre las estrellas que han aparecido en la serie, interpretando versiones satí
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Free Solo [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>515042</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Free.solo</externallink>
+<info>Documental que narra la hazaña de Alex Honnold al escalar sin ningún tipo de ayuda la formación rocosa vertical "El Capitán", ubicada dentro del Parque Nacional Yosemite (Mariposa County, Estados Unidos), de unos 900 metros de altura. Fue el primer escalador en lograrlo.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/3vE3t4Pa2CAe8RmjOfp93hL6zXn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/34LNepzQr0nwBk0ke9vy38E0RaZ.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Freud[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>99509</tmdb>
@@ -6708,6 +6718,16 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 <info>Una mirada íntima e inédita sobre la lucha de Lionel Messi y la Selección Argentina en la Copa América para romper una racha de 28 años sin campeonatos.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/7ZZIDZgYBtoX68XPPIiweHbYCCC.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pb8Z3Ef6CFjpm87hKW3DfdUge3J.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Searching For Sugar Man [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>84334</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Searching.for.a.sugar.man</externallink>
+<info>Sixto Rodríguez fue un cantante de folk de Detroit que tuvo una carrera discográfica de corta duración, teniendo dos álbumes reconocidos, pero que no salieron a la venta, a principios de 1970. Rodríguez continuó su carrera musical en el sur de África, convirtiéndose en un icono de la música pop, siendo un referente y sirviendo de inspiración a las futuras generaciones. El largo rumor de que estaba muerto por suicidio, hizo que algunos fans de la década de los 90 buscaran la verdad del destino de su héroe.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/3NpWidWIw0cQAzmNHWgu9dqaJ7v.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/q13iAtCy51wgcTT9uNKMXmHP5oO.jpg</fanart>
 </item>
 
 <item>
