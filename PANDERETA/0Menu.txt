@@ -1327,6 +1327,17 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Cowboy De Copenhague[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>206510</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Cowboy.de.copenhague</externallink>
+<info>Después de una vida de servidumbre y al borde de un nuevo comienzo, Miu atraviesa el ominoso paisaje del inframundo criminal de Copenhague. En busca de justicia y venganza, se encuentra con su némesis, Rakel, mientras se embarcan en una odisea a través de lo natural y lo sobrenatural. El pasado finalmente transforma y define su futuro, cuando las dos mujeres descubren que no están solas, son muchas.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/jBeHMHKPgtQQlaLPvLi1XzWBIqf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/j6gIRlvSNpvXjXoZCGC1LVj0uMv.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLOR gold]* [COLOR white]Coyote[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>90702</tmdb>
@@ -4006,6 +4017,16 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 <info>Prisión de Basauri, País Vasco, España, 1976. Cinco reclusos organizan su fuga de la forma más inesperada.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/85dqQuhUK4hoe28pkbPXsdaCINK.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/zJNV1jum90co4n2vPgwm0TtXC6z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]La Fuga (2022)[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>198189</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.fuga.2022</externallink>
+<info>El fotógrafo de guerra Mehmet y un grupo de periodistas de diferentes países llegan a un pueblo Ezidi para investigar. Pero el grupo, que cruzó la frontera a escondidas, cae en manos de una organización terrorista radical como resultado de un allanamiento.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/kGKdpyKm9tqL9UNVqoqxqUbpYlG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3O4oWPEUZCIx4vYGBNYnRxJYwFf.jpg</fanart>
 </item>
 
 <item>
