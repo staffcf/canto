@@ -5,6 +5,30 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Sinjar [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Drama</genre>
+<year>2022</year>
+<tmdb>886894</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/5Ggy6BQjJULTMdPamgxKbHF79vz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5jsOSHIRotTR1kJeSNtu3KsJSJc.jpg</fanart>
+<info>En Barcelona, Carlota emprende desesperadamente la búsqueda de Marc, su hijo adolescente que ha huido de casa sin dejar rastro. A miles de kilómetros, Sinjar, la región situada en la frontera entre Irak y Siria, vive bajo la amenaza de la guerra. Allí, Hadia es obligada a vivir como esclava junto a tres de sus hijos al servicio de una familia. En cambio, Arjin consigue escapar del cautiverio y, en su intento de regresar a casa, termina uniéndose a las milicias kurdas. Tres mujeres separadas de sus seres queridos. ¿Hasta dónde estarán dispuestas a llegar para recuperarlos?</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/W-8mFdyntYM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/k32nz-f30rngepe6"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/oefiuwtm9o1i"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/gLXEDVM6xjMnQY74"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/as78k97e5ljm"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/bmezxd2r5rmf"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] 30 noches con mi ex  [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Comedia,Romance</genre>
+<year>2022</year>
+<tmdb>882040</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/nXbhchOec3MKtAcKPO82Qu8r5AW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/b5hwEadWehvWjcY9tvxAUdqORPe.jpg</fanart>
+<info>Turbo, luego de años de separado de la Loba, acepta, por pedido de la hija que tienen en común, convivir durante 30 días con su ex mujer, que viene de una larga internación psiquiátrica. La Loba debe hacer la transición entre la internación y su reinserción en la sociedad.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/IKRwXsCUjfI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/00l1rjtl156n7mpr"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/cm5rnduyfjtz"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/PjrQlo02BZknyOYk"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/am5loiwuk135"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/sbpi8e8qwdcm"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Tricicle - Un Último Gesto [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Documental,Comedia,Drama</genre>
 <year>2022</year>
