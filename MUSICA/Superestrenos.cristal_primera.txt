@@ -4,7 +4,16 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
-
+<item>
+<title>[COLOR white] Tricicle - Un Último Gesto [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Documental,Comedia,Drama</genre>
+<year>2022</year>
+<tmdb>1062994</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/azhH75WTyI8Tvo7VKutkWNlGYOK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pHFft68h38mgMr1pJhonEFY8zIG.jpg</fanart>
+<info>Tricicle, un último gesto es un programa que refleja la emoción de la última función de la historia de Tricicle y cómo han vivido las últimas horas como grupo después de 43 años, miles de gags y millones de espectadores y de aplausos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/fCNyV1DBuvs"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/7nqyejhgr748dmpy"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/f65t6gcfklr0"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/NGePnbX73xgzQqrY"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/45wx4tlnwopt"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/wpvn8b8zd215"}</urlsolve>
+</item>
 
 
 <item>
