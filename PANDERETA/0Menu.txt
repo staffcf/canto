@@ -1908,16 +1908,6 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
-<title>[COLOR gold]* [COLOR white]El Ascenso De Los Nazis [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
-<link>cristalazul</link>
-<tmdb>93192</tmdb>
-<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.ascenso.de.los.nazis</externallink>
-<info>¿Cómo cayó en manos de los fascistas la democracia más liberal de la Europa del siglo XX? Desde el esquema político de Hitler que convirtió al parlamento de Alemania en una Casa de Cartas, su Guerra contra la Verdad condujo a la quema de libros y su chivo expiatorio de las minorías, esta serie explora en extraordinario detalle los eventos que condujeron al estallido de la Segunda Guerra Mundial.</info>
-<thumbnail>https://www.themoviedb.org/t/p/original/470wOfolWFnv2FyewFGuufB5Yy9.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/kdouod7HlpRPbRgKcU1kKvGlzhK.jpg</fanart>
-</item>
-
-<item>
 <title>[COLOR gold]* [COLOR white]El Atleti Del Doblete [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>844410</tmdb>
