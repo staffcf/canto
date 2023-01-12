@@ -15223,6 +15223,18 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 
 
 <item>
+<title>[COLOR white] El fin de Sheila [/COLOR][COLOR yellow] (1973) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Crimen,Drama,Misterio,Suspense</genre>
+<year>1973</year>
+<tmdb>26331</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/g3YQdY8MJWJqMgS9mrTobK7WiIb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9yb71ROkl3AuvofVLKcUWnXasOi.jpg</fanart>
+<info>Un productor de cine viudo organiza en su yate una fiesta a la que invita a seis personas. Una de ellas es culpable del asesinato de su esposa, y lo que se propone el anfitrión es desenmascararla.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/NPHMoDpCHU8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/xm20r5u50y7kz3z2"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/1gi3xdb0kmji"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/LMEmnAkmQWGzgPvq"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/68yogdfjpgxo"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/b9rnlsxpfqws"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El fotógrafo de Mauthausen [/COLOR][COLOR yellow] (2018) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Drama,Historia,Suspense</genre>
 <year>2018</year>
