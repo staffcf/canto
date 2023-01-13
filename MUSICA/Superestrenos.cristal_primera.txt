@@ -4,6 +4,18 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+
+<item>
+<title>[COLOR white] Encanto [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.3[/COLOR]</title> 
+<genre>Animación,Comedia,Familia,Fantasía</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5i3ghCXVLNhewrBjTesMgy4FHT7.jpg</fanart>
+<info>"Encanto" relata la historia de los Madrigal, una familia extraordinaria que vive en una casa mágica de un pueblo vibrante en las montañas de Colombia escondidas en un “Encanto”. La magia del Encanto ha bendecido a cada niño de la familia con un don único, desde la superfuerza hasta el poder de sanar. A todos, excepto Mirabel, quien desea ser tan especial como el resto de su familia. Pero cuando la magia que rodea al Encanto está en peligro, Mirabel decide que ella, la única Madrigal sin ningún tipo de don único, puede ser la única esperanza de su excepcional familia.<info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/SAH_W9q_brE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/0d6j7clzzpeej25"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/pkx0pg9nikz0oj"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/k6jlrtdrno4e"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/ia1zxzhgv3b2"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/dxsrl110z4nz"},{"titulo" : "[COLOR white]Drive[/COLOR]","url" : "https://drive.google.com/file/d/1lfVFjNC4OBgQ2xxrVxGWPkb105Iftitg/view"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] La novia de América [/COLOR][COLOR yellow] (2023) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Comedia,Romance</genre>
