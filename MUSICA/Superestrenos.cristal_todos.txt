@@ -15861,6 +15861,18 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 
 
 <item>
+<title>[COLOR white] Un destino de ida y vuelta[/COLOR][COLOR yellow] (1990) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Fantasía,Comedia,Ciencia ficción,Romance</genre>
+<year>1990</year>
+<tmdb>2612</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/qZtJ195SHQypuFXuUCwb1QOUQRz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uqyUi9wgZVUVjmvRkPHRHSSF5lM.jpg</fanart>
+<info>Para Larry Burrows el día de su treinta y cinco cumpleaños ha sido un día un poco complicado. Ha tenido problemas en casa, en el trabajo y se le ha roto el coche. Entonces por arte de magia su vida cambia por completo cuando conoce a un misterioso Sr. Destiny. La vida de Larry se tranforma como por arte de magia, al materializarse sus máximas fantasías: una fabulosa mansión, una bellísima esposa, varios automóviles. Sin embargo, Larry pronto descubrirá que la buena vida no lo es tanto y tratará por todos los medios de recuperar lo que dejó atrás.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/BOSMeqOHnTU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/17pnqjhjpx71d0en"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/yya5g40gq3co"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/LMEmnAkmQ7LzgPvq"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/1bvnho5sfqyi"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/tzdsq2e3p749"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Un gángster para un milagro [/COLOR][COLOR yellow] (1961) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Comedia,Drama</genre>
 <year>1961</year>
