@@ -21,7 +21,7 @@
 <genre>Bélica,Acción</genre>
 <year>2022</year>
 <tmdb>542196</tmdb>
-<thumbnail>http://prntscr.com/JcY7ZGAwKKni</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/uSQq9TExOdZc5PCyxBuqaVuALZ7.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/cO0uDeHYghpIepwixaShosXtJmr.jpg</fanart>
 <info>Inspirado en la unidad de operaciones especiales alemana KG 200 de la vida real que derribó, reparó y voló aviones aliados como caballos de Troya, "Wolf Hound" tiene lugar en 1944 en la Francia ocupada por los alemanes y sigue las atrevidas hazañas del piloto de combate judío-estadounidense Captain David Holden. En una emboscada detrás de las líneas enemigas, Holden debe rescatar a una tripulación capturada de B-17 Flying Fortress, evadir a un enemigo despiadado que lo acecha a cada paso y frustrar un complot que podría alterar por completo el resultado de la Segunda Guerra Mundial.</info>
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/K4gl8ixUQZA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/nz37wxu2wykkmz8y"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/k17rduyi1qfl"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/0rwmD7pJJWqzRaZ8"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/gqlzkogn9xaz"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/b2urej734mlq"}</urlsolve>
