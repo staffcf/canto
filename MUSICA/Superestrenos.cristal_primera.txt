@@ -5,6 +5,42 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] La novia de América [/COLOR][COLOR yellow] (2023) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Comedia,Romance</genre>
+<year>2023</year>
+<tmdb>809363</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/yqkLIXRN8coLriu1Ji3U74EbxUV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fMOsqiWd03hXxvzPDmGEnGNv6XY.jpg</fanart>
+<info>Ana, una joven española a la que su novio acaba de abandonar y Tono (su hermano) reciben una sorprendente noticia: su padre (Pepe) se casa con una mujer que conoció por internet. Deciden viajar a México para asistir a la boda, pero lo que allí encuentran no es lo que se esperaban. Rous, la novia, no solo es más joven que ellos, sino que su numerosa familia mexicana, de un barrio popular y de lo más ruidosa, encabezada por Lupe (la madre), les tiene preparada una bienvenida que no olvidarán en su vida. Sobre todo Ana, que conocerá a Horacio, el irresistible hermano de la novia, un mexicano que es capaz de ponerla muy… muy nerviosa. Ambas familias tendrán que superar los prejuicios y los choques culturales, para descubrir que el amor puede estar en lo diferente.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/f_SJI7qlZ1Y"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/dedqpwhx064yn6d0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/69z1vkore3oj"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/ZEvMDN5PP1dnNoKy"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/p4t59iwyqo8v"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/hsowjnviszcz"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Wolf Hound: Lobos de acero [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Bélica,Acción</genre>
+<year>2022</year>
+<tmdb>542196</tmdb>
+<thumbnail>http://prntscr.com/JcY7ZGAwKKni</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cO0uDeHYghpIepwixaShosXtJmr.jpg</fanart>
+<info>Inspirado en la unidad de operaciones especiales alemana KG 200 de la vida real que derribó, reparó y voló aviones aliados como caballos de Troya, "Wolf Hound" tiene lugar en 1944 en la Francia ocupada por los alemanes y sigue las atrevidas hazañas del piloto de combate judío-estadounidense Captain David Holden. En una emboscada detrás de las líneas enemigas, Holden debe rescatar a una tripulación capturada de B-17 Flying Fortress, evadir a un enemigo despiadado que lo acecha a cada paso y frustrar un complot que podría alterar por completo el resultado de la Segunda Guerra Mundial.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/K4gl8ixUQZA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/nz37wxu2wykkmz8y"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/k17rduyi1qfl"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/0rwmD7pJJWqzRaZ8"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/gqlzkogn9xaz"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/b2urej734mlq"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Perro perdido [/COLOR][COLOR yellow] (2023) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Familia,Drama</genre>
+<year>2023</year>
+<tmdb>858408</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/vNhYiYibl5tfisoVcJuLhR2iaLX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fMvLn5NetWkYqUSsWqx66qPPOG.jpg</fanart>
+<info>Cuando su querido perro desaparece, un chico y sus padres lo buscan desesperadamente. Si no le dan su medicación, morirá.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/hGwl4dvH2nU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/17pnqjhjp8drpem3"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/3hvl8f852di9"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/vb6NnJyGGMQlPOkZ"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/6hqs218uedul"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/no672pkxhqat"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Sinjar [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Drama</genre>
 <year>2022</year>
