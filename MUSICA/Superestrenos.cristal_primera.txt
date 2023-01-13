@@ -4,6 +4,29 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+<item>
+<title>[COLOR white] Objetos [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Suspense</genre>
+<year>2022</year>
+<tmdb>946706</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/ejijnP0sOr4Fgxo5CYWT6rz3ZdG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hrNhsJeajflo8jBav78sURHvxp3.jpg</fanart>
+<info>Mario trabaja en un gran almacén de objetos perdidos donde custodia todo tipo de enseres acumulados durante décadas. Hace tiempo que decidió apartarse de las personas e invierte su tiempo libre en investigar la procedencia de los objetos para devolver a sus dueños pedazos perdidos de sus vidas. Tan sólo Helena, una joven policía que visita el almacén con frecuencia, ha podido traspasar levemente su coraza. Un día llega al almacén una maleta rescatada del fondo del río. Dentro, encuentra ropa de bebé junto a unos restos humanos. Mario decide investigar por su cuenta y siguiendo el rastro de la maleta llega hasta Sara, una joven atrapada desde niña en una organización de tráfico de personas. Una red que trata a las personas como si fueran objetos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/GuDVwNfzbqA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/z63-w5fjwe3n7wr8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/lf1tkkb2fc0g"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/h6kt3hko0v1y"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/vJ41zYNPPMmlwA3g"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/62fgg5tjjv1u"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Ruido [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Drama</genre>
+<year>2022</year>
+<tmdb>960519</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/rVpYUUPVBpGuuJnXjNfM5EKPD1c.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iBEs4PnQLkL4BbsAGvsuBgeTCM3.jpg</fanart>
+<info>Una madre que busca a su hija desaparecida contacta con un grupo de apoyo y forja un vínculo con otras mujeres cuyas vidas han sido destruidas por la violencia.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/pRtbMGFxgZI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/p65r0xfmj2wlm7dd"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/j720voy0j85l"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/OEbPDaQmm4dD3M1k"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/iq2n79ddqwwp"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/woieqlzqucax"}</urlsolve>
+</item>
+
 
 <item>
 <title>[COLOR white] Encanto [/COLOR][COLOR yellow](2021) [COLOR aqua]*7.3[/COLOR]</title> 
