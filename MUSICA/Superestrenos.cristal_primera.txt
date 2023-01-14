@@ -4,6 +4,21 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+
+
+<item>
+<title>[COLOR white] Las nuevas aventuras de Gulliver [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin valorar 
+[/COLOR]</title> 
+<genre>Animación</genre>
+<year>2022</year>
+<tmdb>1008636</tmdb>
+<thumbnail>https://i.imgur.com/UpFL2lc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/y6If56O6jr50IS7HTzJABjFUWnG.jpg</fanart>
+<info>El viajero Gulliver es invitado a visitar de nuevo Lilliput, la ciudad que hace tiempo salvó de una flota rival. Pero al llegar, sólo encuentra sorpresa e indignación, ya que el rey del lugar hizo creer a su pueblo que el legendario gigante Gulliver volvía. Sin embargo, cuando todo el pueblo estaba construyendo un alojamiento para acoger a un superhombre, descubren que se trata de un hombre normal y que la historia del gigante era solo una leyenda. Decepcionado, el rey ordena la ejecución de Gulliver mientras la flota enemiga vuelve las puertas de la ciudad y les amenaza de nuevo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/KL8zNTlA-3Q"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/8mwx70c8ejy1lpw1"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/pk1m1zmxux9gql"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/76wlk8dho9cu"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/m1eqt81j3n51"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/5sqs26wcr7op"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/3GbqkD089gFdYlB"},{"titulo" : "[COLOR white]File Stream[/COLOR]","url" : "https://filemoon.sx/d/yqy5fi7zyr7h"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Objetos [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Suspense</genre>
