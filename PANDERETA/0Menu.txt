@@ -7595,6 +7595,17 @@ Una vez allí, se encontrarán con un enemigo mucho peor que los Goaul'd; los Wr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]The Last Of Us[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<tmdb>100088</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.last.of.us</externallink>
+<info>Veinte años después de que una pandemia acabase con casi toda la población mundial, las ciudades han sido abandonadas y la naturaleza ha ocupado su lugar. Los humanos infectados se han convertido en horripilantes monstruos que vagan sin control y los supervivientes se matan por comida y protección. Joel, cuyas circunstancias personales le han convertido en un violento superviviente, es contratado para sacar de una zona militar de cuarentena a Ellie, una chica de catorce años que es la única esperanza para la humanidad. Esta simple tarea se transformará en un brutal viaje a través de Estados Unidos.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/lr7O5RX0Ac4R7vxUTb3ncbIOjbf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jOvHajF3437IkP1wk3jj3N9WAI5.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLOR gold]* [COLOR white]The Mandalorian[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>82856</tmdb>
