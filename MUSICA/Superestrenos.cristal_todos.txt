@@ -15146,29 +15146,15 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 
 
 <item>
-<title>[COLOR white] Creando el terror [/COLOR][COLOR yellow] (1982) [COLOR aqua]*4.5[/COLOR]</title>
-<genre>Terror</genre>
-<year>2022</year>
-<tmdb>59738</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/original/wj5kbN103mF2CWejBRkCZS2tTks.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/fsMlT0nRLupETI3Ucfd941taUkm.jpg</fanart>
-<info>Las fiestas en los colegios son conocidas por sus bomas y sus juegos. El baile de disfraces de este año no es una excepción y todo el mundo participa, bailando, cantando y disfrazándose. Uno de los juegos consiste en ir a la caza del tesoro, y las claves están esparcidas por todo el campus. Benson, disfrazado de oso, desaparece pronto de la fiesta después de una discusión. La caza del tesoro empieza, y se dan unas claves secretas cada media hora. Sólo los mas listos pueden descubrir las pistas y encontrar su camino en los oscuros escondites... para encontrarse con alguien que los está esperando. La diversión y los juegos sólo acaban de empezar.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/wiXW9fbjGCk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/dedqpwhxg7wqz4p1"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ux7zhibf0tas"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/j57gDmv63oYz26Xb"}</urlsolve>
+<title>[COLOR white] Camarón [/COLOR][COLOR yellow] (2005) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Drama</genre>
+<year>2005</year>
+<tmdb>63616</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/ohEDI65H0XA9BE2rfTQoJvSjEfx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mJsWjKWqdQrcMB8c6j6Jn7245t4.jpg</fanart>
+<info>Camarón, es la biografía nunca antes contada, del genio de la música flamenca: José Monge Cruz "Camarón de la Isla". La película sobre Camarón elige al personaje como protagonista absoluto. Un recorrido por su vida y obra, un acercamiento a este genial cantaor que innovó en el flamenco, influyó en las nuevas generaciones y rompió barreras sociales y artísticas. Sus deseos, sus éxitos, sus luchas son ingredientes de una trayectoria personal que se ven reflejados en su visión particular de hacer música, una forma nueva de hacer y escuchar flamenco; y que Camarón enseñó al mundo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/plw7B0RYTR4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/61lmeju0jzz3kp2q"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/8phou8drwil9"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://streamlare.com/v/AQ9qzxNeOpLn4mME"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/eepzsgczo0tk"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/L16bL8WXAOTROdk"}</urlsolve>
 </item>
-
-
-
-<item>
-<title>[COLOR white] Crying Freeman Los paraisos perdidos [/COLOR][COLOR yellow] (1995) [COLOR aqua]*6.3[/COLOR]</title>
-<genre>Acción,Crimen</genre>
-<year>1995</year>
-<tmdb>9501</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/original/kZQ4f7k5CRiCi85i4qw3XFBtIJ5.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/AvDX54DkciqVlwPbxywae8TajVs.jpg</fanart>
-<info>Freeman pertenece a un culto antiguo de guerreros chinos llamados “Los hijos del dragón”. Él es su verdugo y su único hombre, porque es tal su poder que no necesitan a otro.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/xFmrBeQmXd0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/-n071jhpnl2z4-46"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/46bdw8if9haz"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/rJmXD0krLNRnGg8o"}</urlsolve>
-</item>
-
 
 
 <item>
@@ -15184,7 +15170,6 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 </item>
 
 
-
 <item>
 <title>[COLOR white] Cuento de verano [/COLOR][COLOR yellow](1996) [COLOR aqua]*7.4
 [/COLOR]</title> 
@@ -15195,6 +15180,42 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 <fanart>https://www.themoviedb.org/t/p/original/kTHC2lN6YNiTWZVwMRWXN36Y6Lb.jpg</fanart>
 <info>Nuevo cuento de las "cuatro estaciones" de Rohmer. El joven Gaspard llega de vacaciones al balneario francés de Dinard. Su idea es encontrarse allí con Lena, la muchacha que lo tiene loco. Pero en esos días soleados y calmos conoce a otra chica, una morena atractiva y sensual que le sugiere nuevos rumbos a su corazón. Sin embargo, tal vez la respuesta no esté en ella, sino en Margot, la dulce camarera con la que Gaspard hace amistad sin darse cuenta.<info>
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Kqb4cG3YIt0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/001zwehlrm4wmnkp"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/md0kpn6ja8qpor"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/01rzrn8gv044"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/fqlxfha4gkxv"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/marnilerhb52"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/1LQKlJB8gjUekqj"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Creando el terror [/COLOR][COLOR yellow] (1982) [COLOR aqua]*4.5[/COLOR]</title>
+<genre>Terror</genre>
+<year>2022</year>
+<tmdb>59738</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/wj5kbN103mF2CWejBRkCZS2tTks.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fsMlT0nRLupETI3Ucfd941taUkm.jpg</fanart>
+<info>Las fiestas en los colegios son conocidas por sus bomas y sus juegos. El baile de disfraces de este año no es una excepción y todo el mundo participa, bailando, cantando y disfrazándose. Uno de los juegos consiste en ir a la caza del tesoro, y las claves están esparcidas por todo el campus. Benson, disfrazado de oso, desaparece pronto de la fiesta después de una discusión. La caza del tesoro empieza, y se dan unas claves secretas cada media hora. Sólo los mas listos pueden descubrir las pistas y encontrar su camino en los oscuros escondites... para encontrarse con alguien que los está esperando. La diversión y los juegos sólo acaban de empezar.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/wiXW9fbjGCk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/dedqpwhxg7wqz4p1"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ux7zhibf0tas"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/j57gDmv63oYz26Xb"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Crying Freeman Los paraisos perdidos [/COLOR][COLOR yellow] (1995) [COLOR aqua]*6.3[/COLOR]</title>
+<genre>Acción,Crimen</genre>
+<year>1995</year>
+<tmdb>9501</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/kZQ4f7k5CRiCi85i4qw3XFBtIJ5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/AvDX54DkciqVlwPbxywae8TajVs.jpg</fanart>
+<info>Freeman pertenece a un culto antiguo de guerreros chinos llamados “Los hijos del dragón”. Él es su verdugo y su único hombre, porque es tal su poder que no necesitan a otro.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/xFmrBeQmXd0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/-n071jhpnl2z4-46"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/46bdw8if9haz"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/rJmXD0krLNRnGg8o"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Días de fútbol [/COLOR][COLOR yellow] (2003) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2003</year>
+<tmdb>54148</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/nB3J83GgLTybhyRhVD1r1dA2ElZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nXw7PSsO9sSVdW47o9dh04vkRV0.jpg</fanart>
+<info>Jorge tiene 30 años y piensa que su vida no puede empeorar. Su trabajo le deprime y su novia le deja cuando él le pide matrimonio. Pero aunque parezca mentira las cosas siempre pueden ir a peor y como muestra solo hay que echar un vistazo a sus amigos: Ramón no sabe que le saca más de quicio, si las ocurrencias de su mujer, o su más que perdida lucha contra la alopecia; Gonzalo lleva tanto tiempo estudiando derecho como buscando novia, y a este paso no parece que vaya a conseguir ninguna de las dos cosas; Carlos aspira a ser un gran actor pero no ha pasado de ser secundario en la teletienda; Miguel es policía y padre de familia pero su sueño es ser cantautor, lo que saca de quicio a su mujer. El único que parece llevar controladas las riendas de su vida es Antonio, pero eso no quiere decir mucho teniendo en cuenta que acaba de salir de la cárcel.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/bz1V99cBTNU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/7nqyejhgryz0773n"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/sqokn6bh59ke"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://streamlare.com/v/AkQpz93RrPqnRdN6"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/p4smc2cj0ic3"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/aodwAkpv9BtxX8A"}</urlsolve>
 </item>
 
 
@@ -15752,6 +15773,18 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 <fanart>https://www.themoviedb.org/t/p/original/hquRTqs3fCRWPeMYNIqQyMjpXRd.jpg</fanart>
 <info>Al acabar el colegio, Valle y Quimi deciden celebrarlo con toda la pandilla haciendo un viaje a la playa. Allí prometen no separase nunca y ser amigos para siempre. Pasados tres años, durante una fiesta en el colegio, los dos se reúnen de nuevo y se pone de manifiesto que todo ha cambiado y que las diferencias entre ellos son demasiado fuertes: Valle trabaja como go-gó en una discoteca y se siente atraída por el dueño, un traficante de drogas. Quimi, sin embargo, ha cambiado su rebeldía, su moto y su chupa de cuero por una novia formal y una vida estable. Pero ninguno de ellos podrá olvidar el pasado tan fácilmente.</info>
 <urlsolve>https://www.fembed.com/v/61mepka0yd3enz4w</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Operación Concorde [/COLOR][COLOR yellow] (1979) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Acción,Crimen,Suspense,Drama</genre>
+<year>1979</year>
+<tmdb>81772</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/kPayMBbggC5pb4D1E9feCoQ8nmM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2XtWQT3hv9UJhwkLXvVPzSvKuIH.jpg</fanart>
+<info>Un Concorde desaparece en pleno vuelo sin dejar rastro de su paradero. Mosses, un periodista neoyorkino, recibe una llamada desde las Antillas de su ex-mujer, comunicándole que tiene para él una valiosa información sobre el siniestro del aparato. Pero instantes después la mujer sufre un paro cardíaco y Mosses tiene que investigar las causas de la muerte de su mujer y las del accidente aéreo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ig8P-Muf8us"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/w0md25tnx8d11-np"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/rezjrllypc7s"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://streamlare.com/v/YvAyz2GB1b9lg9kL"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/uymb2s69ggjn"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/3JQ2aoW8moHa12"}</urlsolve>
 </item>
 
 
