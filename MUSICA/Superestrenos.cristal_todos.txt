@@ -15317,6 +15317,18 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 
 
 <item>
+<title>[COLOR white] Entre el amor y el juego [/COLOR][COLOR yellow] (1999) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Drama,Romance</genre>
+<year>1999</year>
+<tmdb>10390</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/1nFfe4zfekpRnjZnxukGhB2rbMh.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8Z4MQNwoCfukHgwD5nKwSoUfcC8.jpg</fanart>
+<info>Billy Chapel es una estrella del béisbol que ha jugado en los Tigres de Detroit durante veinte años. Cuando menos se lo espera, el club le anuncia sus planes de traspasarlo a otro equipo. Por si esto fuera poco, su mujer está punto de abandonarlo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/gvb07647Xx8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/nz37wxu2wqjr562g"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/gfwkkfyzy82p"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/6mwWD4oVdEjnPGrY"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/qe7yhxi2j4u1"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/rmyis6t010ha"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Estación polar Cebra  [/COLOR][COLOR yellow] (1968) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Aventura,Suspense</genre>
 <year>1968</year>
