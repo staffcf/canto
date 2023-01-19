@@ -4,6 +4,16 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+<item>
+<title>[COLOR white] El rey Shakir: ¡A reciclar! [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Animación,Aventura,Familia,Acción,Comedia,Ciencia ficción</genre>
+<year>2022</year>
+<tmdb>985103</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/xJZChaYafsZqBvuw2h0s9L5rSTy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tTfN519sMb4bnsseTsAcDqdAA0x.jpg</fanart>
+<info>La basura en las calles y en el mundo no deja de crecer y de contaminar la naturaleza. Para solucionar este problema, las autoridades construyen unos enormes cohetes que cargan de basura y lanzan al espacio exterior. Y, aunque consiguen limpiar el mundo, toda esa basura acaba cayendo en otros planetas y enfureciendo a líderes alienígenas. En un acto de venganza los extraterrestres reúnen a sus soldados para poner rumbo a la Tierra.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/QvE5ohj5n3A"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/yp4m-5ie46w3gw-8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/elck7rywyx1f"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/LvgezwvaKR3Dbp8E"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/ywz9aeot176o"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/m8smejix7h98"}</urlsolve>
+</item>
 
 
 <item>
