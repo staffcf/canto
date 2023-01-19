@@ -1197,6 +1197,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Como Atrape A Mi Asesino [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>217448</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Como.atrape.a.mi.asesino</externallink>
+<info>Serie centrada en crímenes reales que destaca la verdadera historia que hay detrás de cada caso.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/88ZhSYPBnDJIgUKmt7P98mV5i2O.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4DsIJFMAGvBKAVtPtWkXkBfev4x.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Como Conoci A Tu Padre[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>124010</tmdb>
@@ -2748,6 +2758,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El Ultimo Vuelo Del Challenger [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>108298</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/El.ultimo.vuelo.del.challenger</externallink>
+<info>Ingenieros, funcionarios y familiares de la tripulación comparten su perspectiva sobre la tragedia del transbordador espacial Challenger de 1986 y sus consecuencias.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/8NYgIqgsJhGDblSIfxLbVevSatq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xq7Ptqf7GX9BAXamONFzOPOR6Op.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Emily En Paris[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <tmdb>82596</tmdb>
@@ -3840,6 +3860,16 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Koala Man[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>121567</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Koala.man</externallink>
+<info>Koala Man narra la historia de Kevin, un padre de mediana edad, y su alter ego de identidad secreta cuyo único superpoder es tener una pasión obsesiva por cumplir las normas y acabar con el crimen del pueblo de Dapto. Koala Man se embarca en una misión por limpiar su pueblo de maldad, arrastrando en ocasiones a su familia, algo descontenta, a sus extravagantes aventuras.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/omhNXYjGpx0d3ovdTSLh27XjXCa.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eUCLBcaws4LdyHum1pxABE4nYHW.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Kung Fu[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>114165</tmdb>
@@ -4422,6 +4452,16 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]La Unica Superviviente[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>87753</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.unica.superviviente</externallink>
+<info>El 23 de diciembre de 1980 el Airbus 5403, que cubre la ruta Estambul-París, se estrella cerca de la frontera franco-suiza. Sólo sobrevive un bebé de tres meses, una niña, cuya identidad es un misterio. ¿Es Lyse-rose o Émilie? Dos familias, una rica y otra humilde, reclaman a la pequeña y se enfrentan en un juicio de interés nacional.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/9r81orKCBCxsVdRuPEkgQdUQBJQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/6sooETp.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]La Unidad[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <tmdb>96687</tmdb>
@@ -4957,6 +4997,16 @@ La periodista Alice Avril, el comisario Swan Laurence y su secretaria, Marlène 
 <info>Serie de TV (2021). 8 episodios. Gigantes desnudos, demonios navideños y robots enloquecidos... Temporada 2 de la serie antológica de cortos con historias independientes, presentada por Tim Miller, David Fincher y Jennifer Yuh Nelson. </info>
 <thumbnail>https://www.themoviedb.org/t/p/original/yirhzFbggq8FHuAEnxCZUKr2B9H.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/hkkR14vBgGV4TM0e7BGlMcAQETS.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Lucia En La Telaraña [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>156066</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Lucia.en.la.telaranha</externallink>
+<info>Serie documental que indaga en el asesinato sin resolver de Lucía Garrido, muerta el 30 de abril de 2008 en Alhaurín de la Torre. La serie narra la lucha de Rosa, su hermana, y el ex guardia civil Ignacio Carrasco por obtener una verdad oculta tras una maraña de corrupción en la Costa del Sol en la que hay narcotráfico, homicidios, delitos contra el medio ambiente, tráfico de armas o ‘pelotazos’ urbanísticos. El trabajo documental cuenta con testimonios inéditos y la colaboración del jefe de Asuntos Internos de la Guardia Civil.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/zLpbfvhwp7KyB4KGVjNC7GjxzZj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yrfIzx3g5YOPyROtdqsLQbcbymI.jpg</fanart>
 </item>
 
 <item>
@@ -6420,6 +6470,16 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 <info>Esta [COLOR gold]Docuserie sigue a Bubba Wallace, el único piloto negro actualmente en la Serie de la Copa de NASCAR, mientras usa su voz y talento para cambiar el deporte.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/6SUFevLHu1nvZpP9Srfv8hZY0ar.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/u14PFVJpulWMCsNbRJWlhVprSlL.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Rafa Nadal Academy [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>133843</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Rafa.nadal.academy</externallink>
+<info>Miniserie documental de 4 episodios que presentará la metodología de entrenamiento de los futuros campeones de la academia de Rafael Nadal en Mallorca. A lo largo de sus cuatro episodios, se podrá ver la evolución de algunos de los jugadores más prometedores de la academia durante cuatro meses de entrenamiento, siguiendo la metodología de entrenamiento que tan buenos resultados ha dado a Rafa Nadal en su carrera deportiva. Este proyecto creado por Rafa Nadal en 2016 nació con el objetivo esencial de educar a través del deporte utilizando programas académicos que inciden positivamente en el desarrollo humano y la formación integral de los jóvenes jugadores que acuden a Manacor, desde todos los lugares del planeta. La docuserie pretende reflejar cómo la Rafa Nadal Academy by Movistar combina la enseñanza deportiva de alto rendimiento y la docencia escolar con el fin de formar excelentes tenistas y grandes personas para la sociedad, siguiendo así los inspiradores valores del propio Rafa.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/6a4mj2Zm9bcIu2q3o0NxFyUzgxF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tc76tDYg1G2mi62MEeZILZsNi6a.jpg</fanart>
 </item>
 
 <item>
