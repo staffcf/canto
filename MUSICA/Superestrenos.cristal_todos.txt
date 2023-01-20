@@ -15682,6 +15682,19 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 
 
 <item>
+<title>[COLOR white] Los albóndigas atacan de nuevo [/COLOR][COLOR yellow](1984) [COLOR aqua]*Sin valorar 
+[/COLOR]</title> 
+<genre>Comedia</genre>
+<year>1984</year>
+<tmdb>40771</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/kNgsAdMzOVwPrmoJpRCIgELTRug.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/diwsMp8e7tzrcCECkuMUtncf64u.jpg</fanart>
+<info>Un alienígena judío y con poderes mágicos es abandonado en un campamento juvenil, dando origen a todo tipo de desastrosas peripecias.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/deq685ax0qrl32x5"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/1vr44x1dhz91gk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/a6wa05jbxgp4"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/lsk6bv2w4xyy"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/wd654uhuqxit"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Jk780dz4lyhjMd9"},{"titulo" : "[COLOR white]File Stream[/COLOR]","url" : "https://filemoon.sx/d/3hgskkcofhlu"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Los bicivoladores [/COLOR][COLOR yellow] (1983) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Aventura,Crimen,Drama</genre>
 <year>1983</year>
