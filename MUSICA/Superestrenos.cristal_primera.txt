@@ -5,6 +5,19 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Los inocentes [/COLOR][COLOR yellow](2023) [COLOR aqua]*Sin valorar 
+[/COLOR]</title> 
+<genre>Suspense,Terror</genre>
+<year>2023</year>
+<tmdb>660942</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/iA50ZwUSqMMXIV3uepG9fYMUGbN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vSGsyecO5f7oiFP2uzxYozsSj6U.jpg</fanart>
+<info>Cuatro niños se hacen amigos durante las vacaciones de verano y, fuera de la vista de los adultos, descubren que tienen poderes ocultos. Mientras exploran sus nuevas habilidades en los bosques y patios de recreo cercanos, su juego inocente da un giro oscuro y comienzan a suceder cosas extrañas.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/jYaMIeLUMYM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/nz7qrgu2w6j4qgz4"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/84wqqzdkc64k6we"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/38vu8dq48vwe"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/gkeqzw2lytkk"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/4440z1pmeh9r"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/9lqaVK2lkotaa2p"},{"titulo" : "[COLOR white]File Stream[/COLOR]","url" : "https://filemoon.sx/d/ubhio717unwi"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Un héroe anónimo[/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Drama</genre>
 <year>2022</year>
