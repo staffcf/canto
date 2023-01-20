@@ -4,6 +4,41 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+<item>
+<title>[COLOR white] Un héroe anónimo[/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Drama</genre>
+<year>2022</year>
+<tmdb>660709</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/hcO7ToXxyB3NiSv2DIluBKYJdn8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eL1xN1Y60T9tdYHeWXep3YLamNn.jpg</fanart>
+<info>Un acto de terrorismo arruina la nochebuena en la ciudad de Clermont-Ferrand. A medida que la ciudad cae en el pánico, Mederic, de treinta y tantos años, se enamora de la prostituta, algunos años mayor, Isadora.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/f3FKvyYmHaE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/qq7rexhe-kg2pwng"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/hbkq01j0vm6u"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/270kn3GvjwQn8Wo6"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/sgjubjktn7um"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/o4hmrqm5trlx"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Fuego [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Drama,Romance</genre>
+<year>2022</year>
+<tmdb>768757</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/vuFi2dSJ5cI8G1TTwxTSwR2LxIe.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/u7H2aLCsewYL7VNQ7kwA8zPTxLd.jpg</fanart>
+<info>Cuando se conocieron, Sara vivía con François, el mejor amigo de Jean. Ahora, Jean y Sara se quieren y viven juntos hace 10 años. Un día, Sara ve a François por la calle. Él no se da cuenta, pero a ella le invade la sensación de que su vida podría cambiar repentinamente. Al mismo tiempo, François retoma el contacto con Jean por primera vez en años y le propone volver a trabajar juntos. A partir de aquí, todos perderán el control.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Ud9WOQeabJk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/w0md25tnxqgpxj3q"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/5pn5t84qd2ms"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/b95OD11wj1yD4GdE"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/ppixc7yh08vz"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/24odqy11vu75"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El niño delfín  [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Animación,Aventura,Fantasía,Comedia</genre>
+<year>2022</year>
+<tmdb>947938</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/3su4upgnuk2CrOVdJLrS5juPDVm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vXjpwkXPirBmgdEpIknfN8ziDD.jpg</fanart>
+<info>Cuando un avión se estrella en el mar, los delfines rescatan a un niño y lo crían como familia. Vive una vida sin preocupaciones bajo las olas hasta que un monstruo malvado toma el poder sobre el mundo submarino. El niño es desterrado a tierra firme, donde un bondadoso capitán lo acoge. Con la ayuda del capitán, el niño emprende un viaje para resolver el misterio de su verdadera identidad.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/96Pnd5Pp4Pw"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/3kmq0jcmylxdd3-6"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/07i46bp05qi8"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/aNdbzkZYj7ZD8JjB"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/7xn3h5j52axe"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/5okhukjq3d0g"}</urlsolve>
+</item>
+
 
 <item>
 <title>[COLOR white] Fiesta en casa [/COLOR][COLOR yellow](2023) [COLOR aqua]*Sin valorar 
