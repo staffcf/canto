@@ -15851,6 +15851,18 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 
 
 <item>
+<title>[COLOR white] Nuestro hogar [/COLOR][COLOR yellow] (2010) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Drama</genre>
+<year>2010</year>
+<tmdb>52333</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/iR1NKed4z2hD4kSxEZGZjLNNcTZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oU4LPbbRKeF3KeqTm8DfmPANoEI.jpg</fanart>
+<info>Al abrir los ojos, el Dr. André Luiz se da cuenta de que ya no está vivo. Se siente hambriento, sediento y tiene frío, pero ya no pertenece al mundo de los vivos. Al descubrir que está rodeado por una funesta y desértica llanura, saturada con los gritos de los seres que viven en las sombras, sus dudas y dolores se intensifican. ¿Qué tipo de destino es este? Basada en el bestseller del médium brasileño Chico Xavier, la película cuenta la historia de André Luiz, un reconocido doctor que, después de su muerte, se despierta en el mundo espiritual. Una vez allí, se embarca en un viaje de autoconocimiento y transformación, que va desde sus primeros días en una dimensión de dolor y sufrimiento, hasta ser rescatado y llevado a la ciudad espiritual de Nuestro Hogar, la cual se cierne en las capas superiores de la atmósfera de la Tierra y donde descubrirá que la vida sigue para todos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/JLnr7LZZXb8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/-n071jhpqm3ygpm3"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/f175emik06r9"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/p121b84oxamh"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/hkspr5jn284r"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/QaPYoLOejxFw3Q"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Operación Concorde [/COLOR][COLOR yellow] (1979) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Acción,Crimen,Suspense,Drama</genre>
 <year>1979</year>
