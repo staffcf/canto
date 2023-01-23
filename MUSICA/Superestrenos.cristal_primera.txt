@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] L'immensità [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Drama</genre>
+<year>2022</year>
+<tmdb>770724</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/wzAqOajcd9okGnFGtxrpEPSZ53C.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gXwknzRimYj4lDGGdyNvEH0V0iZ.jpg</fanart>
+<info>Roma, década 1970. Clara, Felice y sus tres hijos acaban de mudarse a un nuevo vecindario, su matrimonio está acabada y Clara vuelca sus deseos de libertad en sus tres hijos. La tensión familiar aumenta cuando Adriana, la hija mayor y quien presencia de cerca los estados de ánimo de su madre, comienza a presentarse al mundo como Adrián.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/l9VVHRSkbmo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/g7weznh-qx8wrl0y"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/v5w27lf7nqqx"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/p11gje0foaff"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://streamlare.com/v/AkQpz93vWpjnRdN6"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/34reqMA89dIdkVe"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Los inocentes [/COLOR][COLOR yellow](2023) [COLOR aqua]*Sin valorar 
 [/COLOR]</title> 
 <genre>Suspense,Terror</genre>
