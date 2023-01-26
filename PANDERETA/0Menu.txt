@@ -8187,6 +8187,16 @@ Una vez allí, se encontrarán con un enemigo mucho peor que los Goaul'd; los Wr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Tulsa King[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<tmdb>153312</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Tulsa.king</externallink>
+<info>Justo después de ser liberado de prisión después de 25 años, el capo de la mafia de Nueva York, Dwight "El General" Manfredi, es exiliado sin contemplaciones por su jefe para instalarse en Tulsa, Oklahoma. Al darse cuenta de que su familia de la mafia puede no tener sus mejores intereses en mente, Dwight construye lentamente una "tripulación" a partir de un grupo de personajes inverosímiles, para ayudarlo a establecer un nuevo imperio criminal en un lugar que para él bien podría ser otro planeta.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/fwTv3RPRAIy0maOMns5eYRRwnDk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vb8qwlADe3T3KtsfQFskZu9nSH7.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]TWD Fear The Walking Dead[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>62286</tmdb>
