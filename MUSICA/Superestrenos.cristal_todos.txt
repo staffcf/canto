@@ -15569,6 +15569,19 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 
 
 <item>
+<title>[COLOR white] La princesa Cisne [/COLOR][COLOR yellow](1994) [COLOR aqua]*Sin valorar 
+[/COLOR]</title> 
+<genre>Familia,Animación,Fantasía,,Aventura,Comedia</genre>
+<year>1994</year>
+<tmdb>22586</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/pLDwJgzjlEJYN0iJF9pcVqxPBnd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cAGATb1o25n3S6tyk4sBLMiIopa.jpg</fanart>
+<info>Una bella princesa se convierte en cisne por un hechizo. En su cautiverio se hace amiga de una rana, una tortuga y un pájaro, mientras espera que el desencantamiento llegue a través del amor. Se necesitaron 250 dibujantes y más de 4 años de trabajo para realizarla.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/NcZaSZcAr00"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/m72m0-a5k80gr4pn"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/o7j40xqzaenwje"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/yrbmlajk9x38"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/bimfhrqx1lw6"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/jvykkuv868fs"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/RkyZgamAlQsdwwv"},{"titulo" : "[COLOR white]File Stream[/COLOR]","url" : "https://filemoon.sx/d/"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] La Reina de España [/COLOR][COLOR yellow](2022) [COLOR aqua]*5.2[/COLOR]</title> <genre>Comedia</genre>
 <year>2016</year>
 <tmdb>401252</tmdb>
