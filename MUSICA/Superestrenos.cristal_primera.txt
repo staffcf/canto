@@ -4,6 +4,20 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+
+<item>
+<title>[COLOR white] Un boda explosiva [/COLOR][COLOR yellow](2023) [COLOR aqua]*Sin valorar 
+[/COLOR]</title> 
+<genre>Comedia,Acción</genre>
+<year>2023</year>
+<tmdb>758009</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/t79ozwWnwekO0ADIzsFP1E5SkvR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8RDKGAmnfqF5nOIzIIv4phlM3oN.jpg</fanart>
+<info>Darcy y Tom reúnen a sus familias para la boda de destino definitiva, pero cuando toman como rehenes a todo el grupo, "'Til Death Do Us Part" adquiere un significado completamente nuevo en esta hilarante aventura llena de adrenalina en la que Darcy y Tom deben salvar a sus seres queridos. si no se matan entre ellos primero.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/r5q3YC9RiXY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/w0djeghnx-x--zx6"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/n0w1eo68hlp1vv"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/hd3w1lkpv9lf"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/zbapz53y2lk5"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/28weta9dk21e"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/m dkMGw7eXrltGgM"},{"titulo" : "[COLOR white]File Stream[/COLOR]","url" : "https://filemoon.sx/d/eozlhzw2001b"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] El peor trabajo de mi vida [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Comedia</genre>
