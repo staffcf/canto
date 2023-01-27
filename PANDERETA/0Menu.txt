@@ -1468,6 +1468,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Criminal: España[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<tmdb>93878</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Criminal.espanha</externallink>
+<info>Serie ambientada en una sala de interrogatorios, donde se buscan respuestas y se viven dramas personales.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/dLXoEooo1ocH1qQGjvgD1ywsX4R.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/y2gOZCh97vtqUEueZzGzhWFNW7c.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Criptomonedas: Guia Para Principiantes [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb></tmdb>
