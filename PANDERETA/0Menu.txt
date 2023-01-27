@@ -164,6 +164,16 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Agencia Lockwood[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>213241</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Agencia.lockwood</externallink>
+<info>En Londres, los cazadores de fantasmas adolescentes más talentosos viajan todas las noches en un peligroso combate con espíritus mortales. Entre las muchas agencias corporativas con personal adulto, una pequeña empresa nueva está sola: Lockwood & Co., operada por dos adolescentes y una niña dotada psíquicamente que son un trío renegado sin motivos financieros, supervisión adulta y destinados a desentrañar un misterio que cambiará el curso de la historia.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/lxWSGo8D6MbFbQmM9tqhbaG80TP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iLFxIRgWKwo0WAgKH6LGGeZiWCh.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Al Otro Lado Del Instituto[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>120734</tmdb>
@@ -8114,6 +8124,16 @@ Una vez allí, se encontrarán con un enemigo mucho peor que los Goaul'd; los Wr
 <info>Antes de entrar en la cárcel, Mark Cobden (Sean Bean) era un ciudadano respetable, padre de familia y profesor. Su vida cambia radicalmente cuando atropella y a un hombre y es condenado a cuatro años de prisión. Atormentado por la culpa, Mark se ve inmerso de repente en un mundo desconocido y hostil, convirtiéndose en blanco fácil para los reos más violentos y peligrosos. Allí es puesto bajo la tutela de Eric McNelly, un veterano funcionario de la prisión a cargo de la protección y manejo de varios grupos de presos. Aunque tiene mano firme y autoridad, McNelly cumple con su trabajo honradamente y busca ayudar a los presos en lo que necesiten a diario. </info>
 <thumbnail>https://i.imgur.com/qWuJuaH.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/mVC6XWDJkArLxp96thdGm58NPup.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Tios Duros[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<tmdb>202137</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Tios.duros</externallink>
+<info>Julio López tiene un corazón de oro y se desvive por ayudar a todos menos a sí mismo. Julio intenta mejorar su comunidad, superar sus problemas de codependencia con su familia y navegar por la vida de clase trabajadora en South Central.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/pTEOCAuqWhGJiV55KufVxLYc4fI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jE1XrCA1bVVJwxlX3bFSooR0ij5.jpg</fanart>
 </item>
 
 <item>
