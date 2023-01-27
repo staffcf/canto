@@ -3299,6 +3299,16 @@ Entre las estrellas que han aparecido en la serie, interpretando versiones satí
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Grandes Momentos En La Historia Del Futbol [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb></tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Grandes.momentos.en.la.historia.del.futbol</externallink>
+<info>Grandes Momentos de la Historia del Fútbol, una serie documental que nos ofrecerá, de primera mano, las instantáneas definitivas de los grandes momentos de los mundiales de fútbol de los últimos 50 años: desde la historia de la mejor selección nacional nunca vista, el Brasil de 1970 - , a la victoria de Argentina, ocho años más tarde, en un complicado contexto social y político. Recordaremos la impactante aparición de Carmerún como fuerza emergente en el Mundial de Italia 90, así como la inolvidable actuación de Luciano Pavarotti en la misma edición, interpretando Nessum Dorma en la ceremonia inaugural. No olvidaremos cómo la fortuna sonrió de distinta forma a los llamados ¿Tres Mosqueteros¿ en el Mundial de 1998, Zidane, Ronaldo y Beckham. Repasaremos la turbulenta carrera del imparable mago del balón, Diego Armando Maradona. Y por ultimo, volveremos a sorprendernos con la historia más increíble del último Mundial, cuando Alemania goleó a Brasil, por 7 a 1, en su propio estadio de Maracaná.</info>
+<thumbnail>https://i.imgur.com/D5lEz29.jpg</thumbnail>
+<fanart>https://i.imgur.com/tp9uTPt.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Guerreras[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <tmdb>88362</tmdb>
@@ -3937,6 +3947,16 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 <info>Un agujero gigantesco, de origen inexplicable, destruye Los Ángeles y separa a una familia en dos mundos distintos: la madre y el hijo quedan atrapados en una tierra salvaje, mientras que, en la superficie, el padre y la hija intentan rescatarlos.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/73ngr14gLlIXqWHPJjFgBfbhpSC.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/lPRvb8PdcrhJmzN0WaObuBH5AJb.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]La Captura Del Enfermero Asesino [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>1018647</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/La.captura.del.enfermero.asesino</externallink>
+<info>Documental que revela cómo los investigadores demostraron que el enfermero de la UCI, Charles Cullen, estaba matando pacientes, y lo cerca que estuvo de salirse con la suya.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/EAvUIecAQJPuMEGp9rTP331hiF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4oPjOOpL5hQd0PjmhglhneU869X.jpg</fanart>
 </item>
 
 <item>
@@ -5811,6 +5831,16 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]O.J.: Made In America [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>377462</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/O.j.made.in.america</externallink>
+<info>Documental en cinco partes que recoge el ascenso y caída del popular jugador de fútbol americano O.J. Simpson, desde sus inicios en San Francisco hasta su llegada a la NFL y su vida personal posterior a su carrera deportiva, incluyendo el famoso juicio de 1995 por el supuesto asesinato de su ex-mujer, Nicole, y su amigo Ron Goldman.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/nFmg2G4IJ0x9mALXkYFN8Gw0Dw5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1qJl6v0y3os773Nd6gQX7ST8gMv.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Obi-Wan Kenobi[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>1015606</tmdb>
@@ -7675,6 +7705,16 @@ Una vez allí, se encontrarán con un enemigo mucho peor que los Goaul'd; los Wr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]The Innocence Files [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>100379</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/The.innocence.files</externallink>
+<info>El Proyecto Inocencia esclarece fallos y falacias en una serie de sentencias improcedentes y saca a la luz las injusticias cometidas contra las víctimas y los imputados.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/summ8ctaf2Ho8qpmpqkFNtw5KZg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8bApnqv3Jxy4QHtvFDVerq3Qro5.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]The Investigation[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <tmdb>110333</tmdb>
@@ -8294,6 +8334,16 @@ Una vez allí, se encontrarán con un enemigo mucho peor que los Goaul'd; los Wr
 <info>En un mundo sin pobreza, guerra o enfermedad, los humanos reciben drogas que alteran la mente; el sexo libre y el consumismo desenfrenado están a la orden del día; y las personas ya no se reproducen sino que están genéticamente modificadas en "criaderos". Los que no se conforman se ven obligados a "reservas", hasta que uno de estos "salvajes" desafíe el sistema, amenazando todo el orden social.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/69DF7EOkSejBSk3IP4v6OxdSeFg.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/9r7Tbcnt0vx0CN5VDBqoZbMYfVL.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Una Historia De Crimenes [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>218734</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Una.historia.de.crimenes</externallink>
+<info>Una historia de crímenes dedicará cada episodio a analizar en profundidad un crimen junto a los expertos invitados, quienes intentarán esclarecer las posibles razones que llevaron a los asesinos a cometer dichos actos.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/qiEp9gfnv2iDLWA1tAhMWtnrIue.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oLBR83cxLNeThcESVzCmojzxn3k.jpg</fanart>
 </item>
 
 <item>
