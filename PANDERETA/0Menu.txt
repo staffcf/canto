@@ -5881,6 +5881,16 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Nuestro Universo [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>213608</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Nuestro.Universo</externallink>
+<info>Esta atrapante serie documental muestra la asombrosa historia del universo a lo largo de miles de millones de años y su inextricable conexión con la vida en la Tierra.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/h2vjL6bUmoTu3vLVrkgoNjTgIhN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zguTz5Ohu0vXCaX8wGFKxDEotmH.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Nuevo Sabor A Cereza[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>129418</tmdb>
