@@ -4,6 +4,20 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+
+<item>
+<title>[COLOR white] La formula ganadora de Jerry y Marge [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin valorar 
+[/COLOR]</title> 
+<genre>Comedia,Drama</genre>
+<year>2022</year>
+<tmdb>843847</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/pKbarYkAYFFZS4wiLvbwUCqRNFe.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qmIvrqOcBAqVlvlGDoeqkW8KI8D.jpg</fanart>
+<info>Basado en una historia real sobre la pareja Jerry y Marge Selbee, quienes ganaron la lotería y usan el dinero para revivir su pequeña ciudad.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/vME8NbslyK0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/001zwehl1lr2pz0e"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/n0w0zkd6axe79"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/6tqqwsdow5rl"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/yqcarylbo0l4"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/6ve2uggaqopx"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/R9gzakbzXmudlVV"},{"titulo" : "[COLOR white]File Stream[/COLOR]","url" : "https://filemoon.sx/d/rvsd77sifzzw"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Ritual [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Suspense</genre>
