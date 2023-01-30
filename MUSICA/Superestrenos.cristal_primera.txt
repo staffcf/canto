@@ -4,6 +4,17 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+<item>
+<title>[COLOR white] Paradise City [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Acción,Crimen,Suspense</genre>
+<year>2022</year>
+<tmdb>829799</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/wDzeCI9eurxnWGvZ42BdWWNN4vc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/au4HUSWDRadIcl9CqySlw1kJMfo.jpg</fanart>
+<info>Ryan Swan debe abrirse camino a través del mundo del crimen hawaiano para vengarse del capo que asesinó a su padre.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/1XyZRWyl5lA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/g7weznh-q0r-d3zw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/iyz4k13e2bsh"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/Gm80z55aeBdzr1xW"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/67hlm1dtyaft"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/ZVA0joXQXafKvo"}</urlsolve>
+</item>
+
 
 <item>
 <title>[COLOR white] La formula ganadora de Jerry y Marge [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin valorar 
