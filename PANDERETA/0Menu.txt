@@ -7906,6 +7906,16 @@ Una vez allí, se encontrarán con un enemigo mucho peor que los Goaul'd; los Wr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]The Offer[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<tmdb>114068</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.offer</externallink>
+<info>Las experiencias nunca antes reveladas del productor ganador del Oscar Al Ruddy al hacer la icónica película de 1972 El Padrino, que Francis Ford Coppola dirigió y adaptó con Mario Puzo.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/hvuJRnho6QgojmKiXwEd9PhFmUJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/omnwrejbTkItZyoFKeFxAVuN6yk.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]The Old Man[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>111800</tmdb>
