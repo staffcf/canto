@@ -5461,6 +5461,16 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Memorias De Una Escritora[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<tmdb>210009</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Memorias.de.una.escritora</externallink>
+<info>La historia de la lucha de una mujer por encontrar su lugar en la vida mientras se libera de las expectativas de la familia y la sociedad. La serie tiene lugar en la década de 1930 y sigue el regreso de Karen Blixen a su hogar de infancia, Dinamarca, después de muchos años en África Oriental.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/dFqUXrK6RnThxw9JplyRYtyh7GR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ghfJg6n2ZQ99nCW1tDXkWAN4pX7.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Mentiras[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <tmdb>102192</tmdb>
