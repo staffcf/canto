@@ -7575,6 +7575,16 @@ Una vez allí, se encontrarán con un enemigo mucho peor que los Goaul'd; los Wr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Terapia Sin Filtro[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<tmdb>136311</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Terapia.sin.filtro</externallink>
+<info>Jimmy trata de asimilar la muerte de su esposa mientras ejerce de padre, amigo y terapeuta. Decide cambiar su forma de ser con la gente y volverse una persona completamente honesta, sin ningún tipo de filtro. ¿Podrá sanarse a sí mismo ayudando a los demás? ¿Le servirá para retomar su camino en la vida?</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/Axo92mJ4qtcn0AgBVaYB4hyIDc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xjHEpVZ6ERo1Qr10FVqi4XYE8Nw.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Territorio Lovecraft[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <tmdb>82816</tmdb>
