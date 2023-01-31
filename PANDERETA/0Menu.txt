@@ -1036,6 +1036,17 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 <fanart>https://www.themoviedb.org/t/p/original/tB8cVUcWVsCJZdtrHLfAMXy47qR.jpg</fanart>
 </item>
 
+
+<item>
+<title>[COLOR gold]* [COLOR white]Carmen Curlers[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<tmdb>211280</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Carmen.curlers</externallink>
+<info>Inspirada en hechos reales, cuenta cómo un loco invento cambió el mundo y la vida de las mujeres en un pequeño pueblo danés en la inquieta década de 1960: el rizador de cabello eléctrico.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/z9aGtbvor4NBQ98sn53GffNP7T7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/AcDTAgzhurgkkAWFXEn52JX47n6.jpg</fanart>
+</item>
+
 <item>
 <title>[COLOR gold]* [COLOR white]Carnivale[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
