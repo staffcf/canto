@@ -2708,6 +2708,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El Valle Olvidado[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<tmdb>209493</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.valle.olvidado</externallink>
+<info>Un grupo de jóvenes se pierden mientras caminan por el bosque y son atacados repentinamente. Heridos y con uno de ellos capturado, encuentran refugio en un misterioso pueblo envuelto en una niebla eterna, un lugar del que nadie puede escapar.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/apHNWU9Jgu26AuhBry2k1OOt7hH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zCcuSBeivOywude02aXbeyagUCe.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El Vecino[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <tmdb>96425</tmdb>
