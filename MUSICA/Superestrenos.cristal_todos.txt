@@ -15581,6 +15581,18 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 
 
 <item>
+<title>[COLOR white] Kung Fu Sion [/COLOR][COLOR yellow] (2004) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Acción,Comedia,Crimen,Fantasía</genre>
+<year>2004</year>
+<tmdb>9470</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/cMVfbypyu34ckTBgMsoRT92j2pN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/MKjpmSZhg4A7inf5JlCL0uhOvf.jpg</fanart>
+<info>Ambientada en el caos de la China prerrevolucionaria, un ladrón de poca monta, Sing (Ste-phen Chow), aspira a ser uno de los crueles y sofisticados miembros de la Banda del Hacha cuyas actividades ilegales ensombrecen la ciudad. Sing intenta extorsionar a uno de los habitantes de un complejo de apartamentos llamado 'Pig Sty Alley', pero los vecinos no son lo que parecen.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/HDcevXBiT5s"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/61lmeju0jkx-e6gk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/lg0z696awa3r"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/Jj8GzOqW2rLnvPog"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/2rrivck0py83"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/o9qRl2R8PkSJk4W"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] La niñera magica [/COLOR][COLOR yellow] (2005) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Fantasía,Comedia,Familia</genre>
 <year>2005</year>
