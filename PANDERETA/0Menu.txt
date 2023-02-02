@@ -2509,6 +2509,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El Mismo Dia A La Misma Hora[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>1015598</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.mismo.dia.a.la.misma.hora</externallink>
+<info>Barcelona, hora punta. Marc (35) camina decidido, acompañado por su amigo Raúl (37). A pesar de que tiempo atrás sufrió un infarto y está siendo tratado con un fármaco experimental, Marc está preocupado sólo por una cosa. En los últimos meses ha conocido a una mujer, Lucía. Después de dos intentos frustrados, está decidido a declararse a las 15:45. Ahora mismo se dirige hacia donde trabaja ella. Raúl cuestiona de forma divertida el valor de Marc. Está convencido de que, una vez más, fracasará.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/oDY8uW0VTeW3IMois3TfZ9TcD7j.jpg</thumbnail>
+<fanart>https://i.imgur.com/dD8IE8S.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El Niño Ciervo[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <tmdb>103768</tmdb>
@@ -2639,6 +2649,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El Rey De Varsovia[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>88201</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.rey.de.varsovia</externallink>
+<info>Narra los altibajos de un grupo mafioso que causaba miedo a la población polaca varios años antes del estallido de la II Guerra Mundial. Jakub Szapiro, un boxeador judío, se ve inmerso en una conspiración política que decidirá el futuro de la nación. Serie basada en la novela homónima escrita por Szczepan Twardoch.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/gmm8Pl2FOd8BKGJZeqLiXjrL93P.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/riVMPu8q8Drdt9bROJRrcOv3wjF.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El Salto Del Diablo[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>832065</tmdb>
@@ -2679,6 +2699,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El Timador De Tinder [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>923632</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/El.timador.de.tinder</externallink>
+<info>Un estafador se hacía pasar por magnate y seducía a mujeres en Internet para estafarles millones de dólares. Ahora sus víctimas planean vengarse.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/e9nRmgoxc0gQkTmKbtIJL9imvq1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6kiYivbx1bgx51xdfmcu53Tsjy8.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El Trueno Azul [COLOR gold]Retroserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>11573</tmdb>
@@ -2716,6 +2746,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 <info>Tras embarcarse en una excursión capaz de cambiar vidas, un grupo de avispados estudiantes luchan para salvar a la humanidad de un ejército de implacables drones.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/tv1jyfYC0ZClQod9v6IbhwP6ak.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/wJ7F26oy8jsE8E3KwaBYO0jTtaa.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]El Ultimo Vuelo Del Challenger [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>108298</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/El.ultimo.vuelo.del.challenger</externallink>
+<info>Ingenieros, funcionarios y familiares de la tripulación comparten su perspectiva sobre la tragedia del transbordador espacial Challenger de 1986 y sus consecuencias.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/8NYgIqgsJhGDblSIfxLbVevSatq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xq7Ptqf7GX9BAXamONFzOPOR6Op.jpg</fanart>
 </item>
 
 <item>
@@ -2788,45 +2828,6 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 <fanart>https://www.themoviedb.org/t/p/original/roolndRVKJt9LZimEiSMNDuiJt3.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR gold]* [COLOR white]El Mismo Dia A La Misma Hora[COLOR white][/COLOR]</title>  
-<link>cristalazul</link>
-<tmdb>1015598</tmdb>
-<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.mismo.dia.a.la.misma.hora</externallink>
-<info>Barcelona, hora punta. Marc (35) camina decidido, acompañado por su amigo Raúl (37). A pesar de que tiempo atrás sufrió un infarto y está siendo tratado con un fármaco experimental, Marc está preocupado sólo por una cosa. En los últimos meses ha conocido a una mujer, Lucía. Después de dos intentos frustrados, está decidido a declararse a las 15:45. Ahora mismo se dirige hacia donde trabaja ella. Raúl cuestiona de forma divertida el valor de Marc. Está convencido de que, una vez más, fracasará.</info>
-<thumbnail>https://www.themoviedb.org/t/p/original/oDY8uW0VTeW3IMois3TfZ9TcD7j.jpg</thumbnail>
-<fanart>https://i.imgur.com/dD8IE8S.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR gold]* [COLOR white]El Rey De Varsovia[COLOR white][/COLOR]</title>  
-<link>cristalazul</link>
-<tmdb>88201</tmdb>
-<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.rey.de.varsovia</externallink>
-<info>Narra los altibajos de un grupo mafioso que causaba miedo a la población polaca varios años antes del estallido de la II Guerra Mundial. Jakub Szapiro, un boxeador judío, se ve inmerso en una conspiración política que decidirá el futuro de la nación. Serie basada en la novela homónima escrita por Szczepan Twardoch.</info>
-<thumbnail>https://www.themoviedb.org/t/p/original/gmm8Pl2FOd8BKGJZeqLiXjrL93P.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/riVMPu8q8Drdt9bROJRrcOv3wjF.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR gold]* [COLOR white]El Timador De Tinder [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
-<link>cristalazul</link>
-<tmdb>923632</tmdb>
-<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/El.timador.de.tinder</externallink>
-<info>Un estafador se hacía pasar por magnate y seducía a mujeres en Internet para estafarles millones de dólares. Ahora sus víctimas planean vengarse.</info>
-<thumbnail>https://www.themoviedb.org/t/p/original/e9nRmgoxc0gQkTmKbtIJL9imvq1.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/6kiYivbx1bgx51xdfmcu53Tsjy8.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR gold]* [COLOR white]El Ultimo Vuelo Del Challenger [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
-<link>cristalazul</link>
-<tmdb>108298</tmdb>
-<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/El.ultimo.vuelo.del.challenger</externallink>
-<info>Ingenieros, funcionarios y familiares de la tripulación comparten su perspectiva sobre la tragedia del transbordador espacial Challenger de 1986 y sus consecuencias.</info>
-<thumbnail>https://www.themoviedb.org/t/p/original/8NYgIqgsJhGDblSIfxLbVevSatq.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/xq7Ptqf7GX9BAXamONFzOPOR6Op.jpg</fanart>
-</item>
 
 <item>
 <title>[COLOR gold]* [COLOR white]Emily En Paris[COLOR white][/COLOR]</title>     
@@ -4072,7 +4073,7 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 </item>
 
 <item>
-<title>[COLOR gold]* [COLOR white]La Chica De La Nieve[COLOR white][/COLOR]</title>     
+<title>[COLOR gold]* [COLOR white]La Chica De Nieve[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <tmdb>215333</tmdb>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.chica.de.la.nieve</externallink>
