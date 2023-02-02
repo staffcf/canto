@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] El Vasco [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Drama</genre>
+<year>2022</year>
+<tmdb>1017681</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/jPDYFHOFpCytI9M4n9Irf0EmKDj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jPDYFHOFpCytI9M4n9Irf0EmKDj.jpg</fanart>
+<info>Mikel vive en Euskadi, está en el paro, su novia le ha dejado por otro y siente que su vida y todo lo que le rodea es una mierda. Por decirlo de otra manera, odia Euskadi. Por eso acepta la propuesta de un tío segundo (hijo de la hermana emigrada a Argentina de un abuelo), con el que sólo ha tenido contacto por Facebook, para irse a Argentina a trabajar en la empresa que está montando. Sin embargo, cuando Mikel llega a Argentina se encuentra con algo inesperado: ha llegado a una pequeña Euskadi habitada por argentinos que nunca han pisado la tierra de sus antepasados pero que la viven con pasión y de manera idealizada</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/v7rFZdOwmBg"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/17pnqjhjprqy74n7"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/yf02yg8xta5v"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/GWaolEGx7rqDdPVQ"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/rk5f4gindcq6"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Rqe3RKrwo4UZJj"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Jason: Buscado por el FBI [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Drama,Suspense,Crimen,genre>
 <year>2022</year>
@@ -123,18 +135,6 @@
 <fanart>https://www.themoviedb.org/t/p/original/7X6tODLEAOiQY1q4r1rAlzE0okf.jpg</fanart>
 <info>Un día en la vida de Azucena, a quien se le acaba el tiempo para evitar que ella y su familia sean desahuciados; Rafael, un abogado que se propone reunir a una madre con su hija; y Teodora, una anciana enferma que busca a su hijo, del que ha estado largo tiempo alejada, antes de que sea demasiado tarde.</info>
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/QFrPDFzFXww"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/dedqpwhx0jzj5qnz"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ve1b6220y68n"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/YvAyz2GQkeWlg9kL"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/dcb7tedrhjil"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/YGMkopLeVxt6mB"}</urlsolve>
-</item>
-
-
-<item>
-<title>[COLOR white] El Vasco [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
-<genre>Drama</genre>
-<year>2022</year>
-<tmdb>1017681</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/original/jPDYFHOFpCytI9M4n9Irf0EmKDj.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/jPDYFHOFpCytI9M4n9Irf0EmKDj.jpg</fanart>
-<info>Mikel vive en Euskadi, está en el paro, su novia le ha dejado por otro y siente que su vida y todo lo que le rodea es una mierda. Por decirlo de otra manera, odia Euskadi. Por eso acepta la propuesta de un tío segundo (hijo de la hermana emigrada a Argentina de un abuelo), con el que sólo ha tenido contacto por Facebook, para irse a Argentina a trabajar en la empresa que está montando. Sin embargo, cuando Mikel llega a Argentina se encuentra con algo inesperado: ha llegado a una pequeña Euskadi habitada por argentinos que nunca han pisado la tierra de sus antepasados pero que la viven con pasión y de manera idealizada</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/v7rFZdOwmBg"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/17pnqjhjprqy74n7"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/xpufy2flgbwk"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/K7j0lgW63OElXkPv"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/0qzpf6rz9uoq"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/l26ay0DlbAuZz0"},{"titulo" : "[COLOR white]Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:b9f846e95ebed6b66f4d135f63ef5052e177eb39"}</urlsolve>
 </item>
 
 
