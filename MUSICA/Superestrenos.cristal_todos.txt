@@ -15360,6 +15360,18 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 
 
 <item>
+<title>[COLOR white] El hombre de la máscara de hierro [/COLOR][COLOR yellow] (1998) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Aventura,Acción,Drama</genre>
+<year>1998</year>
+<tmdb>9313</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/50Ug4tJ66gJ9ZgivMGzZnGkdw1p.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aM4NpbkBvMt6pWwJFUBa5zM9an9.jpg</fanart>
+<info>Francia se muere de hambre, mientras el Rey Luis XIV mantiene un reinado de terror. Sólo "los tres mosqueteros" podrán salir al rescate. Su misión: liberar a un misterioso prisionero en La Bastilla, en cuya identidad radica el secreto que podrá salvar a la nación...</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/YWfR1rrd23Y"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/g7weznh-qzm--j03"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/5wf0098gpmyf"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/gLXEDVMdYRGnQY74"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/mq453iiybxoe"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/KPWgvqRdVGu0XPr"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El peque se va de marcha [/COLOR][COLOR yellow] (1994) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Familia,Comedia,Aventura,Crimen,Drama</genre>
 <year>1994</year>
