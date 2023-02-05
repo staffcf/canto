@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-
+<item>
+<title>[COLOR white] ¡Scooby Doo! Conoce a Agallas, el perro cobarde [/COLOR][COLOR yellow](2023) [COLOR aqua]*Sin valorar 
+[/COLOR]</title> 
+<genre>Animación,Comedia,Misterio,Familia,Fantasía</genre>
+<year>2023</year>
+<tmdb>843906</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/rlQJnQfPgaSGQtyMw35VOIqoIsj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/r0JVufa0I4axfTlBTNqvNBXxZ8Q.jpg</fanart>
+<info>Scooby-Doo y sus amigos encuentran un objeto extraño en medio de Nowhere, Kansas, la ciudad natal de Agallas y sus dueños, Eustaquio y Muriel.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/GpRyVfLQKiM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/xm0jygc50qrzm6r7"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/0vnol39xtz68gl"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/galfq8n996r1"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/cyrgj106h9o7"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/lnfr7miboxek"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/PrjeOWo4a7hRrP"},{"titulo" : "[COLOR white]File Stream[/COLOR]","url" : "https://filemoon.sx/d/rtl83ftks1mc"}</urlsolve>
+</item>
 
 
 <item>
