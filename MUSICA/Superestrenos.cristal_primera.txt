@@ -8,6 +8,18 @@
 
 
 <item>
+<title>[COLOR white] Secretos y Traición [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Suspense,Película de TV</genre>
+<year>2022</year>
+<tmdb>1044885</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/bk4jV27j0vYgI8cWVX2HLhm397Q.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hY5XTijNedSfPdbdS2JP96GtfXB.jpg</fanart>
+<info>Ana, una joven enfermera, acepta un puesto en una mansión para cuidar de una mujer con demencia de aparición temprana. Pero a su llegada, comienza a tener la sensación de que no es bienvenida.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/8eUZoud4OLI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/3kmq0jcmyrxm46-5"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/rlh6adnvha0s"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/0rwmD7p4pdqzRaZ8"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/mve6e75zphfk"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/9eY4WMgmy8TaweY"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] ¡Scooby Doo! Conoce a Agallas, el perro cobarde [/COLOR][COLOR yellow](2023) [COLOR aqua]*Sin valorar 
 [/COLOR]</title> 
 <genre>Animación,Comedia,Misterio,Familia,Fantasía</genre>
