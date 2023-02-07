@@ -4,7 +4,28 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+<item>
+<title>[COLOR white] Punto de fuga [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Suspense,Drama,Crimen</genre>
+<year>2022</year>
+<tmdb>1001925</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/5jmbrS5563WNSMNWM3AFfuzYwVJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aB7lSaNEpRUckaexlrvhGEFgpDf.jpg</fanart>
+<info>Sigue a un grupo de personajes a medida que sus caminos se cruzan durante el transcurso de una tarde en un restaurante de Los Angeles.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/9VYnFQJw0kk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/jzewrxudl2777-rw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/uzzqbu8jocno"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/Gm80z55dVV4zr1xW"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/3btmmqpvfcnn"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/1jbVRzQwDKFeYP7"}</urlsolve>
+</item>
 
+
+<item>
+<title>[COLOR white] La consagración de la primavera [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Drama</genre>
+<year>2022</year>
+<tmdb>1003685</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/yGePDfyUvxIq9SvcZGZiRzjvNQf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5K3qTJw1gYRMQFMrNQ1ifVCdkor.jpg</fanart>
+<info>Laura llega a Madrid para estudiar en la universidad y conoce a David, un chico con parálisis cerebral que le ayuda a superar sus inseguridades y afrontar su nueva vida.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/nNb-4B2ZjMY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/17pnqjhjpmplndg6"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/i4lb0wcmaoad"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/Gm80z55dVQdzr1xW"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/69xd3f8lom5h"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/7YZbyoL2Q6tAKAz"}</urlsolve>
+</item>
 
 
 <item>
