@@ -204,6 +204,16 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Alegrame El Dia[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<tmdb>217710</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Alegrame.el.dia</externallink>
+<info>En un remoto planeta cubierto de hielo que promete un futuro brillante, prisioneros deben extraer minerales de alta energía. Pero una amenaza inesperada –y mortal– los espera.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/8g7FhV10YCGNKYp4YUqkJ6uXcPU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ni19N5vLoqH97RBciteUBcWaCIy.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Alex Rider[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>99799</tmdb>
@@ -6612,6 +6622,16 @@ Este caso se convierte en parte importante de la vida de ambos detectives, llega
 <info>En esta versión del clásico concurso de culto, 12 jugadores completan distintas pruebas mientras intentan averiguar qué participante está saboteando sus misiones.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/uhUPGELqpHJ3hoeO5DjOwlDRpwe.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/fPdO2eUR81fcQeOsVDLZn1NJEQe.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Quien Mato A Madeleine? [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>119854</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Quien.mato.a.madeleine</externallink>
+<info>En mayo de 2007, Madeleine McCann, de tres años, desapareció de un centro vacacional en Portugal. Ahora, la policía alemana cree saber quién es el responsable del crimen. Entrevistas con periodistas de investigación exploran este nuevo sospechoso.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/tYVetq8b89ysWiNM96PZntyDO49.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/snRgURyqGc5YEogj1fz8i4NXlDX.jpg</fanart>
 </item>
 
 <item>
