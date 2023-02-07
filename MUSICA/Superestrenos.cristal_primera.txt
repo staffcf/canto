@@ -4,6 +4,20 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+
+<item>
+<title>[COLOR white] Whitney Houston: Quiero bailar con alguien [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin valorar 
+[/COLOR]</title> 
+<genre>Drama,Historía,Música</genre>
+<year>2022</year>
+<tmdb>696157</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/e7tzASghUkQ78RYWttD6mYW4NHJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pCOnhEqUJa22Qc4gUVrnPYQLO0I.jpg</fanart>
+<info>La celebración alegre, emotiva y desgarradora de la vida y la música de Whitney Houston, la mejor vocalista pop femenina de R&B de todos los tiempos. Seguimiento de su viaje desde la oscuridad hasta el estrellato musical.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/I1D0PqPQuWk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/5pyw36ad5e80kl0z"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/xonr13npfll8lp8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/fr2fnz9c2cb3"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/w7k484t2zt3a"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/w47p7wlskdzc"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/MkYWy47X4afm2e7"},{"titulo" : "[COLOR white]File Stream[/COLOR]","url" : "https://filemoon.sx/d/o1trz3288mxc"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Punto de fuga [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Suspense,Drama,Crimen</genre>
