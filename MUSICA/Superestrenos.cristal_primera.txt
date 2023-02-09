@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Unicorn Wars [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Acción,Animación,Comedia,Fantasía,Terror,Bélica</genre>
+<year>2022</year>
+<tmdb>587092</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/joOEYpfltqoqkaiQio24TUTntGM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rbUPJoJJquPbX1AiV6GzOqcmJME.jpg</fanart>
+<info>El ejército osito adoctrina a jóvenes reclutas para la guerra que libran contra los unicornios y amenaza la seguridad del pueblo osito. Los hermanos Azulín y Gordi, junto a un inexperto grupo de reclutas, serán enviados a una peligrosa misión para salvar el Bosque Mágico. ¿Estarán los ositos preparados para ello?</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/AG7-5Rm1xco"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/17pnqjhjpk4nqrx6"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/fu3lt2rcn264"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/r8WdlWm3r8KDjx4q"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/e0e26nf442db"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/ZopOODwZ6bugZb"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El grito silencioso [/COLOR][COLOR yellow] (2021) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Drama,Historia</genre>
 <year>2021</year>
