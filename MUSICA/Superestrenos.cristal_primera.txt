@@ -4,6 +4,20 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+
+<item>
+<title>[COLOR white] Modelo 77 [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin valorar 
+[/COLOR]</title> 
+<genre>Drama</genre>
+<year>2022</year>
+<tmdb>913991</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/qaDHPHRmhjaHsrCLONhK6thxOWB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oW11ROQUdApLgTQc3Al99cDl5Bl.jpg</fanart>
+<info>Cárcel Modelo. Barcelona 1977. Manuel (Miguel Herrán), un joven contable, encarcelado y pendiente de juicio por cometer un desfalco, se enfrenta a una posible pena de entre 10 y 20 años, un castigo desproporcionado para la cuantía de su delito. Pronto, junto a su compañero de celda, Pino (Javier Gutiérrez), se une a un grupo de presos comunes que se está organizando para exigir una amnistía. Se inicia una guerra por la libertad que hará tambalearse al sistema penitenciario español. Si las cosas están cambiando fuera, dentro también tendrán que hacerlo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Mx_knTtLvqY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/p6rl2gsmj8z278r8"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/poner"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/oemnnx9o3c1f"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/d6zqi0eub9ju"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ywemsievalbt"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/yxMb2XR4XPt1GkD"},{"titulo" : "[COLOR white]File Stream[/COLOR]","url" : "https://filemoon.sx/d/28abayzk0d5e"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Unicorn Wars [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Acción,Animación,Comedia,Fantasía,Terror,Bélica</genre>
