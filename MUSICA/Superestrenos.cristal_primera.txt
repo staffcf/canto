@@ -31,11 +31,11 @@
 
 
 <item>
-<title>[COLOR white] El grito silencioso: El caso Roe V. Wade [/COLOR][COLOR yellow] (2021) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<title>[COLOR white] El caso Roe V. Wade [/COLOR][COLOR yellow] (2021) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Drama,Historia</genre>
 <year>2021</year>
 <tmdb>565470</tmdb>
-<thumbnail>El grito silencioso El caso Roe V. Wade</thumbnail>
+<thumbnail>https://i.imgur.com/VjzNLW4.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/3XbsIHrgS1nr14XmKXGnzG0teg4.jpg</fanart>
 <info>El Dr. Bernard Nathanson y la Dra. Mildred Jefferson se enfrentan en una batalla nacional en esta conspiración incalculable que condujo al caso judicial más famoso y controvertido de la historia.</info>
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/jYrr9tyOEYY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/p65r0xfmj8qwrxe7"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/29dj196qr1j9"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/r8WdlWm3rwVDjx4q"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/4r9se381b52b"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/ZDma7lD7qjhRGV"}</urlsolve>
