@@ -16952,6 +16952,19 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 
 
 <item>
+<title>[COLOR white] S.W.A.T Operación Especial [/COLOR][COLOR yellow](2011) [COLOR aqua]*Sin valorar 
+[/COLOR]</title> 
+<genre>Accion,Crimen,Suspense</genre>
+<year>2011</year>
+<tmdb>54445</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/c3SMllESD3xdBQBNClJx3dPno36.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qZCBveX62G2yNJ9YHqEI2lKCdZN.jpg</fanart>
+<info>Transferido a Detroit para entrena a un equipo SWAT local a través de un duro régimen, el teniente Paul Cutler -policía de Los Ángeles- se termina metiendo entre los planes de un genio homicida que está protegido por funcionarios del gobierno.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/JwZVU-Z-SVg"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/z6-j4gsjwkddgpd7"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/1vr81ewxikxjzrn"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/9uaonqwlvyzu"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/myg4hwllnfkg"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/3w6e32i2nw4g"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Oo3xeVb1XAhZZ8m"},{"titulo" : "[COLOR white]File Stream[/COLOR]","url" : "https://filemoon.sx/d/28abayzk0d5"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Sin límites [/COLOR][COLOR yellow] (1998) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Drama,Romance</genre>
 <year>1998</year>
