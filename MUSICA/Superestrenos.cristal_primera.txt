@@ -7,6 +7,18 @@
 
 
 <item>
+<title>[COLOR white] Sintiéndolo mucho [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Documental</genre>
+<year>2022</year>
+<imdb>1674099</imdb>
+<thumbnail>https://i.imgur.com/ofXrjJE.jpg</thumbnail>
+<fanart>https://i.imgur.com/W7fED3B.jpg</fanart>
+<info>Retrato de Joaquín Sabina sin bombín, hecho a muy pocos centímetros de su piel, con nocturnidad y alevosía, por su amigo, el cineasta Fernando León de Aranoa. Un relato como su voz, áspero, directo y sin ecualizar, que cuenta sin atenuantes la intimidad del artista, sus bambalinas, su cara B. Que comienza cuando baja del escenario, que le acompaña en lo cotidiano, y así en lo inesperado: en la risa y en el drama. Sintiéndolo mucho es el resultado de trece años de rodaje juntos, y recorre todos los escenarios de Joaquín Sabina, públicos y privados, luminosos y ocultos. Un paseo por las claves de su vida y de su trabajo: por lo que le mueve, por lo que le inspira, por lo que le duele, desarrollado siempre a partir de situaciones vivas, compartidas, entre músico y cineasta.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/aAA-_qaMo48"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/3kmq0jcmyx4g1p8w"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/h3p2gbfud3j7"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/kEL0lpY2GVjnavXV"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/vppe60s3ip4y"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/MxVwKLLygyTmbxq"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] The Fearway [/COLOR][COLOR yellow](2023) [COLOR aqua]*Sin valorar 
 [/COLOR]</title> 
 <genre>Terror,Ciencia ficción</genre>
