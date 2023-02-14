@@ -7,6 +7,42 @@
 
 
 <item>
+<title>[COLOR white] Emboscada [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Acción,Suspense,Crimen,Drama</genre>
+<year>2022</year>
+<tmdb>766907</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/rbmJYyOMkgMD9M5uGu1kJbtvcLo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/p3ajeXwrCczDh8eYsT8ryTvvfwm.jpg</fanart>
+<info>Un exoficial de policía de Nueva York convertido en sheriff de una pequeña ciudad rural de Georgia tiene que lidiar con una banda de ladrones que han tomado como rehén a un médico adinerado.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Car1o4p388M"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/m7k2wnh5k-mygk0x"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ohj30jz58bet"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/j57gDmvGBEWz26Xb"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/lfp4nyut3xba"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/gdP4DpZ3w4H9eY"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] A Todas Partes [/COLOR][COLOR yellow] (2023) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Comedia,Drama</genre>
+<year>2023</year>
+<tmdb>1078862</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/gBiZdPAWLSPLE4sX6BzWMzaJylP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gWcEThiRYEomR3ihdHdzWRzRiOv.jpg</fanart>
+<info>Dos hermanos que no se han visto en quince años resuelven sus diferencias cumpliendo un sueño de la infancia: recorrer México en motocicleta.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/slj6fwJtg5A"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/7nqyejhgrl3j655q"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ax7x1iubkkgj"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/NGePnbXyrNezQqrY"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/8jnbzxwjlp1s"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/qypz62bMKOSKBW"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Tu casa o la mía [/COLOR][COLOR yellow] (2023) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Romance,Comedia</genre>
+<year>2023</year>
+<tmdb>703451</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/9vMUao1QadZ6OS2UI984tORgGtU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kMLZeN8YsMSuPp2fpyh4X526Vg6.jpg</fanart>
+<info>Debbie y Peter son muy amigos y muy distintos entre sí. Ella anhela la rutina con su hijo en Los Ángeles; él disfruta de una vida en constante cambio en Nueva York. Cuando intercambian casas y vidas durante una semana descubren que quizás lo que creen que quieren no es lo que realmente necesitan.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/9iJ2ilrNvjI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/3kmq0jcmy8z2km01"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ix369ox8wymy"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/RLg7lX8LeJYl2QAe"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/au52k8hbmvs4v"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/oGGzzVMMZOTJ664"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Sintiéndolo mucho [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Documental</genre>
 <year>2022</year>
