@@ -7,6 +7,42 @@
 
 
 <item>
+<title>[COLOR white] El atracador perfecto [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Crimen, Drama,Suspense</genre>
+<year>2022</year>
+<tmdb>842942</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/6ByGtLdfznHrs3DkZMYFZKrlmfv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dbm7n3g0MBx4G8ZLs4LLHR0ftNe.jpg</fanart>
+<info>Basada en la historia real de Gilbert Galvan, un carismático y atrevido ladrón que fue conocido por sus más de 63 atracos a bancos y joyerías. Gilbert (Josh Duhamel), un expresidiario fugado de Estados Unidos bajo el alias Robert Whiteman, se enamora en Canadá de una mujer a la que no puede mantener, por lo que decide empezar a cometer a atracos. A medida que se vuelve adicto a la adrenalina, la peligrosidad de sus robos aumenta, especialmente cuando se alía con Tommy Key (Mel Gibson), un famoso gangster que le convencerá para cometer los mayores atracos de la historia.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/u6QeFwg1flQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/m7k2wnh5k-w056gw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/cv5clwoa4jti"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/vJ41zYN877klwA3g"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/8vu1jinwnohi"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Vmqjd3vzBeUK7Yv"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Armageddon Tales [/COLOR][COLOR yellow] (2021) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Acción,Ciencia ficción</genre>
+<year>2021</year>
+<tmdb>789563</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iqn5YaekuwVla3mIzTXlpVjbaIl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7Am1nbevKEVRqTfTtobza5kPl6m.jpg</fanart>
+<info>Después de sobrevivir a una pandemia mundial, dos hombres con diferentes agendas, dos mujeres de una colonia de supervivencia y una niña y un hombre forman alianzas a medida que cruzan paisajes postapocalípticos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/1pzgcmGZKXA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/g7weznh-ql88eg4z"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/9j08ccoz2o2e"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/vjPWlqR4P7vn34JK"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/g9lbvou34cuc"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Xdq0WG1rWGSBWW"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Amor al cuadrado otra vez [/COLOR][COLOR yellow] (2023) [COLOR aqua]*Sin valorar[/COLOR]</title>
+<genre>Romance,Comedia</genre>
+<year>2023</year>
+<tmdb>1074656</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/9mFHSHWce77Pi5zwkfCL35KU6MW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gETei0lvPVj6oltmS7gGZn6C1Ef.jpg</fanart>
+<info>La relación entre un periodista famoso y una sencilla profesora empieza a hacer aguas cuando un trabajo se interpone en su nueva vida juntos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/jpqsJkzm4iE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/r50dextexgr5rg6-"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/rctdyg5ez2at"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/0rwmD7pVL01zRaZ8"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/mq2glz3dlj0o"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/zQMJyBkK29CYAo9"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Emboscada [/COLOR][COLOR yellow] (2022) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Acción,Suspense,Crimen,Drama</genre>
 <year>2022</year>
