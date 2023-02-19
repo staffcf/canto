@@ -4,6 +4,40 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+<item>
+<title>[COLOR white] La sentencia [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2022</year>
+<tmdb>933943</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/sMLWnnKGkCDXmEpLrRNTrWdeqtY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9GWBx7DJkjsyAiAtQtxy6iepxoG.jpg</fanart>
+<info>La historia gira en torno a Victor Dessauer, un niño judío que, en el invierno de 1944, ve cómo casi toda su familia es masacrada por los nazis. Dieciocho años después, el cazanazis Simon Wiesenthal consigue llevar ante los tribunales al responsable de la matanza... pero el sistema político y legal vienés sigue en manos de exnazis y el asesino es declarado no culpable.Además, el antisemitismo y el nazismo no solamente se mantienen en las instituciones de la capital austriaca, sino que permanecen en todos los ámbitos de la sociedad y Victor, prometedor empresario, también se ve rechazado por la familia de su novia. Así las cosas, el joven judío solo ve una manera de encontrar justicia: tomársela por su mano.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/NODfRaSV2wM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/w0md25tnxl6mypz5"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/8uaa29st7tgk"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/WwyJnL9oA2QDMbPa"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/m9s1vqf4mngt"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/oWjoka6XZBFWZQ"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La leyenda de Johnny Lingo [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Familia, Acción, Aventura</genre>
+<year>2023</year>
+<tmdb>50610</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/bSBTDsoNrFW5sgXCdEagyCJ0gGf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/q8rvRIvVq7WLs5itFYJ0yT9AbIG.jpg</fanart>
+<info>Muy lejos en una isla tropical, un niño huérfano llamado Tama es excluido por su tribu encontrándose a gusto junto a un compañero paria: Mahana, una niña rechazada por su apariencia descuidada. Cuando Tama va en busca de una nueva vida, promete a la triste Mahana que volverá por ella algún día. Pero el viaje de Tama lo lleva a Johnny Lingo, un comerciante rico quien lo hace su aprendiz y aparente heredero. Ahora que Tama se dedica a su nueva vida, deberá aprender que el valor de un hombre no reside en sus posesiones sino en el amor, amistad... y en honrar su promesa del pasado en ir en busca de Mahana.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/P7cMpuLGW-4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/-n071jhpqj0-21m6"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/j3s4usfti80d"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/715pneaGAqrnvyqO"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/8yuf7g14avp6"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/LaQ3l9mO1OFZ9L"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Hopper el polloliebre [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Animación, Aventura, Comedia, Familia, Fantasía</genre>
+<year>2022</year>
+<tmdb>778855</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/eU0QHFGA3f9yEQpLnkJjFs0vrUF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7neeXze9HB3MTxDYyh3wwysydMN.jpg</fanart>
+<info>Young Chickenhare es el hijo adoptivo del rey Peter, un famoso aventurero. Mitad gallina y mitad liebre, le cuesta mucho crecer y se disfraza de liebre para evitar las burlas de sus compañeros. Cuando llega el día de las pruebas de la Royal Adventurer Society, Chickenhare, obstaculizado por su disfraz, fracasa miserablemente. Pero está decidido a aprovechar una segunda oportunidad y encontrar el Cetro del Hámster de la Oscuridad, antes que su malvado tío Lapin.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/XeBp72cHupk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/p65r0xfmjp2mp635"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/skdxjl9cjh7w"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/Jj8GzOq3ymqnvPog"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/ywivu6x4xw7w"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/DAjzBYwgObF3d2"}</urlsolve>
+</item>
 
 
 <item>
