@@ -5058,6 +5058,16 @@ En un mundo sombrío de juegos de poder político y frágiles relaciones interna
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Los Murdaugh: Muerte Y Escandalo En Carolina Del Sur [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>218530</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Los.murdaugh</externallink>
+<info>Tragedias impactantes destrozan una comunidad muy unida de Carolina del Sur y exponen los horribles secretos de su familia más poderosa.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/so8k0YprvHS2eFT3lMqB1PokjAS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nIKzU4mGgUAd3B7H3DHOUL1HpjA.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Los Policías[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>117505</tmdb>
@@ -5341,6 +5351,16 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 <info>8 episodios. Una científica se une a una misión para recuperar unas muestras de una estación lunar, escenario de un accidente que acabó con todos, incluida su hermana.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/rxnfJEOwWlPaUdALv5YowGTD3Hd.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]marc Marquez: All In [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>220805</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Marc.marquez.all.in</externallink>
+<info>Tras dos años sin poder competir a su nivel, el ocho veces campeón del mundo Marc Marquez inicia la temporada 2022 con un único objetivo: volver a competir y convertirse en el mejor piloto de la historia. Pero las sensaciones no son las mejores y Marc decide parar, para poder volver siendo el piloto que siempre ha sido. La serie ilustra el plano más personal de Marc: los riesgos de pasar por el quirófano y que el brazo no se recupere, el sufrimiento de no poder ser el que era sobre una moto, la complicidad de su familia y amigos… pero sobre todo su capacidad de sobreponerse a las adversidades y la emoción de volver a sentirse piloto y pisar un pódium. También repasa algunos de los momentos clave de su carrera, los que han convertido a Marc Márquez en uno de los mejores pilotos de la historia.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/yjdh4KdjRd7dZiMNIZwT10xC8LP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nOTldfrd5cZHswLMlEGIJYCMq7G.jpg</fanart>
 </item>
 
 <item>
