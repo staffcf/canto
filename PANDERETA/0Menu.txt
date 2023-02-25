@@ -4023,6 +4023,16 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]La Cabeza De Joaquin Murrieta[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<tmdb>135502</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.cabeza.de.joaquin.murrieta</externallink>
+<info>Joaquín Murrieta y Joaquín Carrillo, cuyos caminos se encuentran en medio de un violento malentendido, se unirán para enfrentar a un enemigo en común, Harry Love.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/9Q0mk620OtTYPqMP21IQQ3L5GY5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oP1ZmefEKr39TwMv5gWG1QSxBPa.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]La Captura Del Enfermero Asesino [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>1018647</tmdb>
@@ -4150,6 +4160,16 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 <info>Adaptación televisiva de la novela homónima de Paul Theroux -tío de Justin Theroux-, 'La costa de los mosquitos' sigue a Allie Fox, un hombre visionario, idealista y genio autodidacta que un buen día, harto de la civilización, decide dejar Estados Unidos y mudarse con su mujer y sus cuatro hijos a una aldea indígena en mitad de la selva nicaragüense con el fin de construir de cero una nueva sociedad utópica. La novela fue adaptada al cine en 1986 por Peter Weir con Harrison Ford, Helen Mirren y River Phoenix. </info>
 <thumbnail>https://i.imgur.com/015ydKQ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/cJz2F54TJiFIG8LRPpcvxG04wbW.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]La Cuerda[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<tmdb>133280</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/La.cuerda</externallink>
+<info>Un pequeño grupo de científicos aislado en una base de Noruega descubre una cuerda misteriosa, aparentemente interminable, que corre a lo largo de su observatorio y se hunde en el bosque. Algunos deciden seguirlo, otros deciden quedarse.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/zTqinqDBaUEUtYHC1dGaD68aBg6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/78C4K15Y1G58S1oRaSnws6XjYQp.jpg</fanart>
 </item>
 
 <item>
@@ -4722,6 +4742,16 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 <info>Serie de TV (1992-1993). Las aventuras del joven Indiana Jones (The Young Indiana Jones Chronicles, en su título original en inglés) es una serie de televisión estadounidense ideada y producida por George Lucas y emitida entre 1992 y 1993 (con posteriores capítulos hasta 1996) por la cadena de televisión ABC. Consta en total de 44 capítulos, si bien no todos ellos fueron emitidos en su momento. En España, fue emitida por la cadena Antena 3 a partir de 1993. </info>
 <thumbnail>https://i.imgur.com/6mbSrau.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Las Brujas De Mayfair[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<tmdb>207863</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Las.brujas.de.myfer</externallink>
+<info>Una joven neurocirujana intuitiva descubre que ella es la improbable heredera de una familia de brujas. Mientras lucha con sus nuevos poderes, debe lidiar con una presencia siniestra que ha perseguido a su familia durante generaciones.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/pCaaaWAJblYzZ3odgq1HYP4P49.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sPiub4fn3YiWfbfBOmjBfZf65IO.jpg</fanart>
 </item>
 
 <item>
@@ -6837,6 +6867,16 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Red Rose[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<tmdb>135502</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Red.rose</externallink>
+<info>Ambientada durante un verano largo y caluroso después de la escuela secundaria, las amistades de los adolescentes se infiltran en la aplicación Red Rose, que florece en sus teléfonos inteligentes, amenazándolos con peligrosas consecuencias si no cumplen con sus demandas. La aplicación expone al grupo a una entidad aparentemente sobrenatural y al poder seductor de la web oscura.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/jS8mOKloyEzqQKrne0w4Upu1pnv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8u6btHEx6knRmtaHQtcytiM6XHd.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Regreso Al Espacio [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>950445</tmdb>
@@ -7576,6 +7616,16 @@ Una vez allí, se encontrarán con un enemigo mucho peor que los Goaul'd; los Wr
 <info>La ficción sigue a una joven reclutada por una agencia secreta del gobierno. Su objetivo principal es "suturar" en la mente de los recién fallecidos, investigando así los propios asesinatos de la víctimas y descifrar los misterios que rodean el caso.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/cnYXWDNwiSjm7iq89RYoHGz3xS7.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/aIGbHcye1j3sSrJ78Pd0y2Cs0IW.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Stonehouse[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<tmdb>196142</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Stonehouse</externallink>
+<info>Miniserie de comedia en tres capítulos, inspirada en el extraordinario ascenso y caída del parlamentario británico John Stonehouse. Una historia, basada en extraordinarios hechos reales, repleta de secretos, estratagemas y peculiares relaciones, que culminaron en la simulación de su muerte en 1974.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/7xmnEX695cnHmug9biL9J28IW8l.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/frsauVzfZTZkX1fxvpveUGXHloM.jpg</fanart>
 </item>
 
 <item>
