@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Jabato [/COLOR][COLOR yellow](2021)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2021</year>
+<tmdb>0</tmdb>
+<thumbnail>https://i.imgur.com/9B7WGUO.jpg</thumbnail>
+<fanart>https://i.imgur.com/bMVE72N.jpg</fanart>
+<info>Dos hermanos, Martín y Germán, están dentro de una casa en ruinas con un pesado saco y una bicicleta eléctrica. Están nerviosos. Discuten. Cavan frenéticamente un hoyo. Fueron por la mañana  a cobrar por unas obras en una finca, pero el dueño, una vez más, no se ha presentado. Germán recibe una llamada de su mujer. Está todo el pueblo buscando al hijo del propietario de la finca.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/OFgl1pB2IwE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/w0md25tnx4p41wgn"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/zd4mqc3yszw8"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/K7j0lgWr3KZlXkPv"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/mjo5amd5fd4p"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/qO64qKdvR8FR8Y"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Muere Hart [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Acción, Comedia, Suspense</genre>
 <year>2023</year>
