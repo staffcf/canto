@@ -7577,6 +7577,16 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Star Trek: Strange New World[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<tmdb>103516</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Star.trek.strange.new.world</externallink>
+<info>Siga a Christopher Pike, Spock y Number One en los años antes de que el Capitán Kirk abordara el U.S.S. Enterprise, mientras exploran nuevos mundos alrededor de la galaxia.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/tf6gkXJR5DyQI62tMetqZx4OwI2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8YOv8KwTIv54YspUwOdjdc0gqOJ.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Star Wars: La Remesa Mala[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>105971</tmdb>
