@@ -5,6 +5,66 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Muere Hart [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Comedia, Suspense</genre>
+<year>2023</year>
+<tmdb>1077280</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/xz91Gre0w7tyl99jGEh5oGc8DQ7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hw9jN0RgqwZvWqy1PQYGf03Qp90.jpg</fanart>
+<info>El cómico estadounidense Kevin Hart quiere ser una estrella de acción, pero para conseguir un papel que cambie su vida, primero tiene que aprender a ser un héroe de acción.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/kAYOmh5Kh2U"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/nz37wxu2wgd5561d"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/e83nq887gl2p"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/gLXEDVMrJK9nQY74"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/9d13ep44snis"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/pdA27o2D3zHrYex"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La última cacería [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Western</genre>
+<year>2022</year>
+<tmdb>754452</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/8Zwj3m92GWFbVgxlqJ75liJoUSc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fXubBeLAbSpkN3qtgj2aB4v9aZ5.jpg</fanart>
+<info>En 1909, en medio del viejo oeste moribundo, Willie Boy, un corredor del desierto de larga distancia por tradición Chemehuevi, se enamora de la joven belleza nativa, Carlota. El padre de Carlota, un chamán chemehuevi y líder tribal local, se niega a dejar...</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/_FiwVM84Ulw"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/m7k2wnh5k0ygq173"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/eom1re1uwwqz"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/vjPWlqRq8dYn34JK"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/wt37ybfvkrn6"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/KZgvaQlalWF0xKa"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Un fantasma anda suelto por casa [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Terror, Comedia, Aventura, Fantasía, Familia</genre>
+<year>2023</year>
+<tmdb>852096</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/pxPs1ukS3vYxLy7Huw2aINxX2dy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3nK4LmqUZgsvRSEQhxXiKGszGUR.jpg</fanart>
+<info>El hallazgo de un fantasma llamado Ernest en su nueva casa hace que la familia de Kevin se vuelva viral en las redes sociales. Pero cuando Kevin y Ernest comienzan a investigar por su cuenta el misterio del pasado de Ernest, se convierten en objetivos de la CIA.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/9kXzt54lZIE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/qqrep6ie-qwx8n1y"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/ep37lvjuxtzu"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/rB0an6wJkyeD3dWb"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/pzihtdoftnxn"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/06VDZKBvdJS0JA"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] High Heat [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Acción, Comedia, Crimen</genre>
+<year>2022</year>
+<tmdb>1015963</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/mmD0NVdhiRiCu64YKem5GK5PSfy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bAVglMNWgivxW2uneFzaD241dnn.jpg</fanart>
+<info>Cuando la mafia local aparece para incendiar su restaurante, Ana, una chef con un pasado meticuloso, defiende su territorio y demuestra sus habilidades con el cuchillo tanto dentro como fuera de la cocina.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Obocm8FlzJs"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/nz37wxu2wgrqd8z0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/qpgqky1pngi0"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/vBgrD8GREEYnMZ64"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/dp5fq1spg61d"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/bZxQ8kVA7yUP8o1"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Night Raiders [/COLOR][COLOR yellow](2021)[/COLOR]</title>
+<genre>Ciencia ficción</genre>
+<year>2021</year>
+<tmdb>795778</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/tGqF0WtZSiGKEm3QVI3H6uEFM0y.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sIycF2f1pMGycvL8GWRczJO9ugT.jpg</fanart>
+<info>Año 2043. En un futuro post-apocalíptico, en una Norteamérica controlada por el ejército, los niños son considerados propiedades estatales. Separados de sus padres, entran en escuelas militares para luchar por el régimen. Niska es una madre que lucha por salvar a su hijo de este destino.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/dZC_MimYhos"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/nz37wxu2wgd5561d"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/t8f2b95qist6"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/WwyJnL9LakyDMbPa"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/gje1m2e4k35l"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/ePZXQyWLRbcYr8L"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Parque salvaje [/COLOR][COLOR yellow](2021)[/COLOR]</title>
 <genre>Animación, Comedia, Ciencia ficción, Aventura</genre>
 <year>2021</year>
