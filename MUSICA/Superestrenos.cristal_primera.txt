@@ -4,6 +4,41 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+<item>
+<title>[COLOR white] Los extraños [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Suspense, Misterio, Drama</genre>
+<year>2023</year>
+<tmdb>1063422</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/8r68DugmiasKiduv6V6Piulm8Gn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bNs9zyDWuKUWwOCy2dhfDtHdZWM.jpg</fanart>
+<info>La vida perfecta y privilegiada de una mujer empieza a desmoronarse tras la llegada de dos extraños a su tranquila comunidad.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/VWFxJzsfKX8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/7nqyejhgr14yj-kn"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/heginbve5v9b"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/AkQpz93GgL8nRdN6"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/s4f6kp152dwh"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/2VkdB79m1ruZYJ9"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Agujero en la cabeza [/COLOR][COLOR yellow](2020)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2020</year>
+<tmdb>768398</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/6posXSEbDrCgTMVzi9EaNNTMGx0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6epVP0Li1l0c3a1fSCVjvEpI2Ar.jpg</fanart>
+<info>Maria vive cerca del mar, en la provincia de Nápoles. Tiene un trabajo precario y no tiene pareja. 40 años antes, un activista de extrema izquierda mató a su padre, un militar veinteañero, durante un mitin político. Maria nació dos meses después del asesinato. Un día descubre información del asesino y decide ir a conocerle, pero llevando una pistola.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Xkh088N5z_g"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/4xkrqjfz0qkl38e2"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/jlg0c2tmogje"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/aNdbzkZXBRqD8JjB"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/lz47admhnx3u"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/0WVwGZwLyRtboVY"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] 1976 [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2022</year>
+<tmdb>957461</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/vlL3vY9Z1mBF2Uzi4Grfl9uCKOX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zHyw4M8a7jWmQsnsmDTlY2ydSsr.jpg</fanart>
+<info>Chile, 1976. Carmen se dirige a su casa de playa para supervisar su remodelación. Su esposo, hijos y nietos van y vienen durante las vacaciones de invierno. Cuando el cura de la familia le pide que cuide de un joven que él alberga en secreto, Carmen se adentra en territorios inexplorados, lejos de la vida tranquila a la que está acostumbrada.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Stoqv0GD1sc"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/xm20r5u507x-0yr0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/7d1f2gq1qgs7"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/PjrQlo0q90GnyOYk"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/bqljy29y9urd"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/b3JrPmBvOMTP1PX"}</urlsolve>
+</item>
+
 
 <item>
 <title>[COLOR white] Llaman a la puerta [/COLOR][COLOR yellow](2023) [COLOR aqua]*Sin valorar 
