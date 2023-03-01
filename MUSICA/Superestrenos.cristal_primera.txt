@@ -4,6 +4,20 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+
+<item>
+<title>[COLOR white] Magic Mike: El último baile [/COLOR][COLOR yellow](2023) [COLOR aqua]*Sin valorar 
+[/COLOR]</title> 
+<genre>Comedia,Drama,Romance</genre>
+<year>2023</year>
+<tmdb>899112</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/p98DxMJbXjI6ITI9aFh3U0u5oF7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eNrGqHrSPjyKXNzmVkKMpW2kM5x.jpg</fanart>
+<info>Mike Lane (Channing Tatum) hace mucho que abandonó sus días como stripper y ahora intenta llevar una vida alejada de esos días, además, de abandonar su seudónimo: Magic Mike. Sin embargo, su vida da un giro cuando conoce a una mujer maravillosa, mujer Maxandra Mendoza (Salma Hayek), de quién se enamora sin poder evitarlo. Ella, que tiene dinero, la ofrece su ayuda para montar un gran show de striptease en vivo, el sueño de Mike. Por ello, se mudan los dos juntos a Londres, donde Mike comenzará a realizar los castings, inventar coreografías y demás cosas necesarias para el show. Pero pronto surgirán problemas y Mike descubrirá que Maxandra no es la persona que aparenta.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/B5q2D8FAze4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/r5djzgtexnnx6dz8"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/n0wz7qo6a9k414"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/wetuh7jk10r7"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : " https://cloudvideo.tv/u/1ZJBZ"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/poner"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/01wgvyo9bjIbrLP"},{"titulo" : "[COLOR white]File Stream[/COLOR]","url" : "https://filemoon.sx/d/8yw8dkscubqs"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Una estafa celestial [/COLOR][COLOR yellow](2021)[/COLOR]</title>
 <genre>Comedia, Drama</genre>
