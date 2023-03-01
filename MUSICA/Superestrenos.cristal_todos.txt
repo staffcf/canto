@@ -22866,7 +22866,7 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 <tmdb>704</tmdb>  
 <thumbnail>https://www.themoviedb.org/t/p/original/zWR73zszWGtIUcSstzi8JHomB1Y.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/9hWiNbvLR3nPDanTdEWOc4EeBGp.jpg</fanart>
-<info>Película documental sobre los Beatles. Por primera vez han decidido romper todas las reglas: saltarse el programa, ignorar sus obligaciones y saborear la libertad. Pero, para ello, tendrán que dar esquinazo a sus admiradores, esquivar a los periodistas y desobedecer a sus mánagers. Primera incursión de los Beatles en el cine, que resultó ser una interesante comedia de aventuras y rock & roll. </info>
+<info>Película documental sobre los Beatles. Por primera vez han decidido romper todas las reglas: saltarse el programa, ignorar sus obligaciones y saborear la libertad. Pero, para ello, tendrán que dar esquinazo a sus admiradores, esquivar a los periodistas y desobedecer a sus mánagers. Primera incursión de los Beatles en el cine, que resultó ser una interesante comedia de aventuras y rock and roll. </info>
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=3W7P054gLkg"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://www.fembed.com/v/8mjw23u8e4p2lj-n"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbbrisk.com/xyp0ed100zwf.html"}</urlsolve> 
 </item>
 
