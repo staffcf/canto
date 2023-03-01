@@ -4,6 +4,20 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+
+<item>
+<title>[COLOR white] Noche de paz [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin valorar 
+[/COLOR]</title> 
+<genre>Accion,Comedia,Crimen,Suspense</genre>
+<year>2022</year>
+<tmdb>899112</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/zM1aKY3uhOie3X1gLPKTl5MaEZZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sBOenwOZGRN5nZZGw4TxwtnfrEf.jpg</fanart>
+<info>Cuando un equipo de mercenarios irrumpe en Nochebuena dentro de un complejo familiar adinerado y toma como rehenes a todos los que están dentro, no estaban preparados para un defensor sorpresa: Santa Claus (David Harbour) está en el edificio y a punto de demostrar por qué este Santa Claus, no es ningún santo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/63opAHFWwzE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/-n7pwqapq8818d20"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/1vr3zjw0flv7ed"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/9p01mjlyg2lp"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/55557719nk65"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/poner"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/6jz3YDdLGrF98OW"},{"titulo" : "[COLOR white]File Stream[/COLOR]","url" : "https://filemoon.sx/d/f9eazyrut9bz"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Los extraños [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Suspense, Misterio, Drama</genre>
