@@ -4,6 +4,53 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+<item>
+<title>[COLOR white] Una estafa celestial [/COLOR][COLOR yellow](2021)[/COLOR]</title>
+<genre>Comedia, Drama</genre>
+<year>2021</year>
+<tmdb>717693</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/v8ugzWiUsabjMsQ1xr3nVMnUqIY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ubH7eT1ElS5LjGnH9XJf5wk5JVE.jpg</fanart>
+<info>Micah (Luke Benward) y Rachel (Hannah Kasulka), una pareja de hermanos estafadores, reclutan a su antiguo mentor, Frank (Michael McKean), para intentar la mayor estafa de sus vidas: convencer a un multimillonario afligido de que pueden presentarle a Dios cara a cara.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "No"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/l1k4wxun48--43rn"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/1pjpoo7yz9oj"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/xM7Rj3BWgPHk3Qq"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Nocebo [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Misterio, Suspense, Terror</genre>
+<year>2022</year>
+<tmdb>782936</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/bdjdZPgCRFqa0cgXLz8mDsUtiqP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mIrNZQw4u9fpGyllxoYEmQrdYR5.jpg</fanart>
+<info>Una diseñadora de moda contrata a una niñera de Filipinas para que la ayude a cuidar a su familia mientras ella sufre lo que cree que es una enfermedad relacionada con las garrapatas. La niñera usa técnicas tradicionales de curación popular filipina para ayudarla, pero al hacerlo, descubre una verdad horrible sobre por qué está allí y por qué su empleador está realmente enfermo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/PwwEw0G-kXs"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/e5g0xnt-3m6nex2j"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/6fwq8fctso0z"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/zrmjZKP1qjHkbg"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Esta noche duermes conmigo [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Romance</genre>
+<year>2023</year>
+<tmdb>1081313</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/8b1eK5Z8oe2qAqAbxSN33tLnLwq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tpu9ILyknA4oE3vYUfPK7C4Aztw.jpg</fanart>
+<info>Una periodista cuyo matrimonio ha perdido la chispa debe elegir entre su marido, distante pero cariñoso, y un exnovio más joven que vuelve a aparecer en su vida.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/https://youtu.be/k3AIwpWjetU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/e5g0xnt-3m62z4-x"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/peh04vxl0rw6"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/ggGx3Yo6d6CqdpM"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Las gemelas que no hablaban [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2022</year>
+<tmdb>812025</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/vMUM1bsYhYAadaNLEzlzzOWD3fS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/csaybg8gigd0kcGHHnl4WbTetDO.jpg</fanart>
+<info>Sintiéndose aisladas de esa comunidad poco acogedora, June y Jennifer Gibbons se encierran en sí mismas y rechazan la comunicación con todos excepto entre ellas, retirándose a su propio mundo de fantasía de inspiración artística y deseos adolescentes.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/E0dcwLBeGSw"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/e5g0xnt-3m66p6xw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/awfpw9o29cuk"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/XwqpPp7LjzFDJ6W"}</urlsolve>
+</item>
+
 
 <item>
 <title>[COLOR white] Noche de paz [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin valorar 
