@@ -195,7 +195,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <fanart>https://www.themoviedb.org/t/p/original/2Erj4Oav9EHAtqLI354VM7ULDqu.jpg</fanart>
 </item>
 
-
+<item>
 <title>[COLOR gold]*[/COLOR][COLOR white]Temporada 3[/COLOR]</title>    
 <link>$doregex[c]</link>
 <regex>
