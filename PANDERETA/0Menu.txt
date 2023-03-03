@@ -1629,6 +1629,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]David Bowie: Los Primeros Años [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>552722</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/David.bowie.los.primeros.anhos</externallink>
+<info>50 años después del lanzamiento de Space Oddity, la película de 90 minutos explora el Bowie antes de Ziggy Stardust, después del período de 1966 cuando cambió su nombre de David Jones a Bowie. Incluye imágenes de los Archivos de la BBC, incluyendo imágenes de una audición de la BBC en 1965 de David Bowie y el Lower Third, que incluyó una actuación de Chim-Chim-Cheree y Baby That A A</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/x5durxv3HDfDeR1pbI3v69cGSQU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2Znq4XWNaXSkjd3axzSdcJu0aUQ.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Dead Still[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>95888</tmdb>
@@ -2376,6 +2386,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 <info>Un hombre se encuentra en guerra con una abeja mientras cuida una lujosa mansión. ¿Quién ganará y qué daño irreparable sucederá en el proceso?</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/7cCFIwFWH2lN2cT2VbW9dHTeEfQ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/diMdrlQbx4TRBSJCx375Wp8jKED.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]El Hombre Mas Peligroso De Europa [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>683398</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/El.hombre.mas.peligroso.de.europa</externallink>
+<info>El oficial de las Waffen-SS Otto Skorzeny (1908-75) se hizo famoso por su participación en audaces acciones militares durante la Segunda Guerra Mundial. En 1947 fue juzgado y encarcelado, pero escapó menos de un año después y encontró un refugio seguro en España, país gobernado con mano de hierro por el general Francisco Franco. ¿Qué hizo Skorzeny durante los muchos años que pasó allí?</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/bSNshLgyHoZg35dfmmgzuCRkcR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mopiltTJnds8foyeXVdte9LmJpr.jpg</fanart>
 </item>
 
 <item>
@@ -3491,6 +3511,16 @@ Entre las estrellas que han aparecido en la serie, interpretando versiones satí
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Hans Zimmer: Directo En Praga [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>435011</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Hans.zimmer.directo.en.praga</externallink>
+<info>Este concierto fue filmado el 7 de mayo de 2016 en Praga durante su gran gira europea. Hans Zimmer estuvo acompañado por una banda, una orquesta y un coro, con un total de 72 músicos, incluido el guitarrista Johnny Marr. La puesta en escena es espectacular, con un espectáculo de luces creando efectos visuales sorprendentes. Hans Zimmer toca múltiples instrumentos, y regularmente trae sus comentarios informados para presentar títulos. Un regalo para los amantes de la música y grandes películas.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/hHs54DFWuXJqh1XmYZVDsiiVHS8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kSpJqkqUBTbTlLRF38f15ziAovY.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Harlem[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>138089</tmdb>
@@ -3729,6 +3759,16 @@ Entre las estrellas que han aparecido en la serie, interpretando versiones satí
 <info>Mientras lidia con un embarazo inesperado, DI Helen Weeks debe regresar a la ciudad natal que detesta para ayudar a su mejor amiga de la infancia, que se encuentra en el centro de un frenesí de los medios tras el secuestro de dos adolescentes.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/ecUKYm6Pf8dEHk2IZiNaLtbprRQ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/sb68JRR5x9Rd9pjT7qcm4PJIpfH.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Indomable Ava Gardner [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>513172</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Indomable.ava.gardner</externallink>
+<info>Ava Gardner, la encarnación de la "femme fatale" de la posguerra, tal y como la diseñó Hollywood, tal y como el público fantaseó con ella, dejó Estado Unidos en 1953 y se fue al destino más sorprendente: la España de Francisco Franco.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/oeMG43XNGjjIQ8FDkvDvBTgq9LF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8mzrOFHqnNL3xWte6hWNkC2BhaH.jpg</fanart>
 </item>
 
 <item>
@@ -5561,6 +5601,16 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 <info>Una descripción detallada de la estafa del juego McDonald's Monopoly durante la década de 1990 según lo dicho por los participantes en el caso, incluidos los ganadores del premio y los agentes del FBI que atraparon al oficial de seguridad que orquestó todo el esquema.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/xyUciqZC5hGYJqefmbGbTy5fxYh.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jfBxBOGZX1hqpVHvLM3J571PPAy.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Me Llamo Muhammad Ali [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>87148</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Me.llamo.muhammad.ali</externallink>
+<info>Explora los desafíos, los conflictos, los regresos y las victorias de Muhammad Ali a través de grabaciones de su propia voz, dibuja un retrato íntimo de un hombre que fue faro de esperanza para la gente oprimida de todo el mundo y, en sus últimos años, fue reconocido como ciudadano global y símbolo de humanidad y comprensión.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/4Dm5YQDCTvq2BOibjfFPpZLrgXA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cDzyDCNw0iQZ7fOgpGiKPgqAmxB.jpg</fanart>
 </item>
 
 <item>
