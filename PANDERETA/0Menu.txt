@@ -354,6 +354,16 @@
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]American Gigolo[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>127585</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/American.gigolo</externallink>
+<info>Julian Kaye siempre ha sido objeto de deseo, tanto que la gente está dispuesta a destruirlo para poder tenerlo. Exonerado, después de 15 años en prisión por un asesinato que no cometió, ahora enfrenta el desafío de recoger los pedazos mientras el detective que lo puso tras las rejas intenta desentrañar el misterio que condujo a su encarcelamiento injusto.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/1zfduY6RLdZ2wXY46NbxniQq4Q9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lmPrrXhJGczRMLWfhSKW3JHKhu8.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]American Gods[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>46639</tmdb>
