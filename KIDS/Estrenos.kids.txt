@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+
+
+
+<item>
+<title>[COLOR white] Parque salvaje [/COLOR][COLOR yellow](2021)[/COLOR]</title>
+<genre>Animación, Comedia, Ciencia ficción, Aventura</genre>
+<year>2021</year>
+<tmdb>796039</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/dYk08R0bAY8v1QhePp3bwSbUpLp.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3UBfqiR0N2HWvGf76VOPas8rpKt.jpg</fanart>
+<info>Un nuevo parque de atracciones permite a sus visitantes transformarse en animales.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/V_38GdASdLo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/xm20r5u50lx0w8zq"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/dhzxx95tcag2"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/AoNaDdvLZoWlmZg5"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/bhdkx21zim99"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/yAw6W0zwRzcBJB"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Hopper el polloliebre [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Animación, Aventura, Comedia, Familia, Fantasía</genre>
+<year>2022</year>
+<tmdb>778855</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/2v6f1EqTo4FUxVT9MDXpF6158AX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/j7HkmkYLH1McPTzWPvvYgIAQwIN.jpg</fanart>
+<info>Young Chickenhare es el hijo adoptivo del rey Peter, un famoso aventurero. Mitad gallina y mitad liebre, le cuesta mucho crecer y se disfraza de liebre para evitar las burlas de sus compañeros. Cuando llega el día de las pruebas de la Royal Adventurer Society, Chickenhare, obstaculizado por su disfraz, fracasa miserablemente. Pero está decidido a aprovechar una segunda oportunidad y encontrar el Cetro del Hámster de la Oscuridad, antes que su malvado tío Lapin.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/XeBp72cHupk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/p65r0xfmjp2mp635"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/skdxjl9cjh7w"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/Jj8GzOq3ymqnvPog"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/ywivu6x4xw7w"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/DAjzBYwgObF3d2"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] ¡Scooby Doo! Conoce a Agallas, el perro cobarde [/COLOR][COLOR yellow](2023) [COLOR aqua]*Sin valorar 
 [/COLOR]</title> 
