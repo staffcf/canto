@@ -2068,7 +2068,7 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <thumbnail>https://i.imgur.com/qzM0820.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Las aventuras de una niña y una ardilla con superpoderes.</info>
-<urlsolve>{"titulo" : "[COLOR white]Castellano[/COLOR]","url" : "https://vanfem.com/v/gl4rji-8ejdj-8e"},{"titulo" : "[COLOR gold]Latino[/COLOR]","url" : "https://upstream.to/2wurq9gx123t"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://vanfem.com/v/gl4rji-8ejdj-8e"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://femax20.com/v/7g7n3sgzg70q5d3"}</urlsolve>
 </item>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Fantastico, 1Musical, 1Aventuras, 1Comedia, 1Infantil, Disney, LetraF, A2013, Princesas,  "
