@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Sangre en los canales [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Documental</genre>
+<year>2022</year>
+<imdb>19816314</imdb>
+<thumbnail>https://i.imgur.com/szAF3E3.jpg</thumbnail>
+<fanart>https://i.imgur.com/szAF3E3.jpg</fanart>
+<info>Making of del rodaje de la película "Veneciafrenia", dirigida por Álex de la Iglesia y rodada en la ciudad de Venecia en 2021. Entre otros, incluye entrevistas con el director y productor Álex de la Iglesia, la productora Carolina Bang, y miembros del reparto como Ingrid García-Jonsson, Silvia Alonso, Goize Blanco o Nicolás Illoro</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/P2DwZeRxY18"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/5pmyejid5152w8qe"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/gd7kx6zyz291"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/ti5dof64yrv2"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/KgZQrO7yJbt0dr0"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Black Warrant [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Acción, Suspense</genre>
 <year>2023</year>
