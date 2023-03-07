@@ -1539,6 +1539,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Cristo Y Rey[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>209725</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Cristo.y.rey</externallink>
+<info>Madrid, 1979. Ángel Cristo es el mejor domador del mundo. Bárbara Rey, actriz y musa del destape, la mujer más deseada de España. Desde que se conocen hasta que anuncian su matrimonio transcurren sólo unas semanas. Es la boda del año y la noticia copa las portadas de todas las revistas. El Circo de Bárbara Rey y Ángel Cristo se convierte en el espectáculo de moda; un negocio millonario. Dinero, fama, lujo… Nueve años de relación en los que España fue testigo de la felicidad de la pareja: el nacimiento de Angelito y Sofía, la compra de coches deportivos, joyas, un ostentoso chalet en La Moraleja… Lejos de los flashes, sin embargo, se esconde una escalada de drogadicción, ludopatía, infidelidades y malos tratos… Y, de fondo, la sombra de la relación de Bárbara con un poderoso hombre de estado.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/kzRV9spH2VnzKkhZxvlCHOYExa3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oURPZSeqDbRCX0mwTePTiAle0UW.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Cronicas Vampiricas[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>18165</tmdb>
