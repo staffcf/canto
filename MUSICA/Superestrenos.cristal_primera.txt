@@ -4,6 +4,52 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+<item>
+<title>[COLOR white] Black Warrant [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Suspense</genre>
+<year>2023</year>
+<tmdb>983768</tmdb>
+<thumbnail>https://i.imgur.com/Xh5WksV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/keumaEYTwk7zp4ICuaOf4Hkntc9.jpg</fanart>
+<info>Un asesino de operaciones especiales semi-retirado y un agente de la DEA se cruzan en misiones separadas para detener a una organización terrorista cibernética que ha construido una máquina peligrosa que amenaza con atacar la red eléctrica y traer una catástrofe al mundo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/5YOnJp1VMEI"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/5pmyejid5111q414"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/qk8sgk2x1kj3"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/m1fglohioqta"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/QeKx4XZ7O1C90Y"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Con su propia justicia [/COLOR][COLOR yellow](2021)[/COLOR]</title>
+<genre>Crimen, Drama</genre>
+<year>2021</year>
+<tmdb>624789</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/tY3w5o2fFGx5RUOH5bFOBWYFR2o.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wtGZ3KCaa83yFQF4CavHN8rBpgJ.jpg</fanart>
+<info>Cuando un exitoso defensor público de Nueva York pierde su primer caso, un antiguo cliente lo mete en un robo de drogas en un esfuerzo por vencer al sistema roto en su propio juego.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/MgWUjgVswgY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/yp4m-5ie4l45r1lk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/qjzvqz4lg2ol"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/ov7t9mghnina"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/K97r4aAozRc0dZJ"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Cliff Walkers [/COLOR][COLOR yellow](2021)[/COLOR]</title>
+<genre>Suspense, Crimen, Historia, Drama</genre>
+<year>2021</year>
+<tmdb>639557</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/renZUqR8yJ9RtL4vxw5pJvexIsO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wok7gqgz20KCTqHGICqGNaWC8Cl.jpg</fanart>
+<info>Sigue a un grupo de espías chinos que investigan atroces experimentos en Japón. Ambientada en Manchukuo, un estado títere del Imperio de Japón en China en la década de 1930, la historia sigue a cuatro agentes especiales del Partido Comunista que regresan a China después de recibir entrenamiento en la Unión Soviética. Juntos, se embarcan en una misión secreta pero, tras ser vendidos por un traidor, el equipo se verá rodeado de amenazas por todos lados desde el momento en que se lanza en paracaídas en territorio enemigo. En los terrenos nevados de Manchukuo, el equipo se pondrá a prueba hasta el límite.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/wU9s6GmzNV8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/l1k4wxun4gg4lm86"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/j7eut7a1b82x"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/f16ufxztjs1i"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/GJKp90Gakmc1rj4"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Memorias de París [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2022</year>
+<tmdb>915931</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/s4dGw7xCHHcO4Eg2UQOrElrvQ3R.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fprAr9mx3ovrRMUyHh2OQmfQxtk.jpg</fanart>
+<info>Un sábado por la noche, en otoño, Mia queda atrapada en un atentado terrorista en un bistró parisino. Tres meses después, sin poder retomar su vida y recordando sólo fragmentos de aquella noche, Mia decide investigar sus recuerdos para encontrar un camino de vuelta a la felicidad.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/LhJe2GraNEo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/8mjw23u8e3eg5448"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/0bbcit919v6q"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/qf5t0w2lx4jn"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/WGod3Q9OggIbBRw"}</urlsolve>
+</item>
 
 
 <item>
