@@ -5,6 +5,42 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Cazadora [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Suspense</genre>
+<year>2023</year>
+<tmdb>1076605</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/p0pvd23j7yA9aJzB6EatoblJ3kO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/p0pvd23j7yA9aJzB6EatoblJ3kO.jpg</fanart>
+<info>Emilia (40) y su hijo Mateo (17) han sobrevivido a una peste global. Ambos viven en la montaña donde subsisten cazando conejos. Durante un día de caza, intentan robarles su jeep, sin embargo, Emilia logra detener el vehículo de un disparo. De él emerge Rena (30), una misteriosa mujer que con su aparición, despertará una serie de sentimientos latentes en el trío. La tensión, que irá en aumento durante la travesía, precipitará en un sorpresivo final cuando Emilia descubre que Rena los ha engañado</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/pMb6OmVCtyM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/r50dextexxp-4e5x"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/b8jxcv10vfnn"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/la6tdvp7g30q"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Y8B3YJDGa0Sdj2"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Muy lejos de aquí [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Romance</genre>
+<year>2023</year>
+<tmdb>1081291</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/s8OSxz7U0hMsIPTrmdgUboTD2y2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nXiMGMiQuws2qIhFV45nS7KhZin.jpg</fanart>
+<info>Tras heredar una casa en una isla de Croacia, una mujer toma una decisión impulsiva y emprende un viaje que devuelve la alegría y el amor a su vida.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/m25b7pGsZpM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/00l1rjtl11dqrwn0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/u0d94osypz0l"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/hnumiy8ro51e"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/0rxb2vDlq4HbGRy"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Coffee Wars [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2022</year>
+<tmdb>934027</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/vC7t0sJqGy5U9temS6K78We2WJ6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jhKNqPSoWMaAAIio8z1s7tuNLmB.jpg</fanart>
+<info>La joven Jo hace todo lo posible por mantenerse a flote regentando su propia cafetería, pero nada parece salirle bien. Ahogada por las deudas y con todo en juego, Jo se prepara el Campeonato Mundial de Baristas, donde se enfrentará a su archienemigo Rudy.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/JbqFRntzSyY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/l1k4wxun44zw65nx"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ut2hyhw1x7qb"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/8nr4nqb26oat"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/MZ9lx1ZG9wCBlZ"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Sangre en los canales [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Documental</genre>
 <year>2022</year>
