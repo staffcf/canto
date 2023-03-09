@@ -5,6 +5,30 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] El cuarto pasajero [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2022</year>
+<tmdb>791333</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/nJNxJdD5F3cAXglCtwjumTB5tl7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jqYFLfMF0liCsHAVEejaFfHl81Y.jpg</fanart>
+<info>Julián, un hombre divorciado con problemas económicos, usa una aplicación de teléfono móvil para compartir su coche con desconocidos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/6hAN_veIi6E"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/w0md25tnxxg77yqw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/rz80rc8oal3g"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/eja7gqcwzpkb"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/zGVVYZ2zMlHYVbj"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Los pasajeros de la noche [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2022</year>
+<tmdb>895659</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/yvBG0VBp65uXn1NzWbNNDlmYYmM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hQwAbPT82g93birkUYuLoUAZZl7.jpg</fanart>
+<info>París,1981. Soplan vientos de cambio la noche de las elecciones y los franceses toman las calles, eufóricos. Pero a Élisabeth (Charlotte Gainsbourg) le cuesta compartir el ambiente general de optimismo. Su matrimonio está llegando a su fin y ahora tendrá que mantener a su familia. Está angustiada, y su padre y sus hijos adolescentes están preocupados de que sus lágrimas simplemente no se sequen. Pero, ¿y si escuchar sus emociones pudiera ayudarla a comenzar a llenar la página en blanco de su futuro?</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/-p935Qb3G5I"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/17pnqjhjpp2nn1wl"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/2ofna0poq6a3"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/1kn4e03g7lw1"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/2D4g4ZYvryiWwB"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Cazadora [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Suspense</genre>
 <year>2023</year>
