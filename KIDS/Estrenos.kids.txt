@@ -530,7 +530,7 @@
 
 
 <item>
-<title>[COLOR white]Space Jam: Una nueva era[COLOR cyan](2021)[/COLOR]</title>  
+<title>[COLOR white]Space Jam: Una nueva era[COLOR gold](2021)[/COLOR]</title>  
 <genre>Animación,Comedia,Familia,Ciencia ficcion</genre>
 <year>2021</year>  
 <thumbnail>https://i.imgur.com/quhIqM6.jpg</thumbnail>
@@ -553,59 +553,59 @@
 
 
 <item>
-<title>[COLOR white] Pretty Guardian Sailor Moon Eternal - La pelicula - 1ra Parte [COLOR cyan](2021)[/COLOR]</title>  
+<title>[COLOR white] Pretty Guardian Sailor Moon Eternal - La pelicula - 1ra Parte [COLOR gold](2021)[/COLOR]</title>  
 <genre>Animación,Fantástico,Acción,Comedia,Drama,Manga</genre>
 <year>2021</year>  
 <thumbnail>https://i.imgur.com/JtLJW10.jpg</thumbnail>
 <fanart>https://i.imgur.com/LYaWTnV.jpg</fanart>
 <info>Un eclipse solar total parece ser el origen de la aparición de un funesto circo, la misteriosa enfermedad de Mamoru y los inquietantes sucesos que asolan la ciudad.</info>
-<urlsolve>{"titulo" : "[COLOR cyan]Opcion 1 [/COLOR]","url" : "https://vanfem.com/v/kx4-1i3glx2qr2p"},{"titulo" : "[COLOR yellow]Opcion 2[/COLOR]","url" : "https://mixdrop.sx/e/rw3vp400c1ejn"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR gold]Opcion 1 [/COLOR]","url" : "https://vanfem.com/v/kx4-1i3glx2qr2p"},{"titulo" : "[COLOR yellow]Opcion 2[/COLOR]","url" : "https://mixdrop.sx/e/rw3vp400c1ejn"}</urlsolve>
 </item>
 
 
 <item>
-<title>[COLOR white] Pretty Guardian Sailor Moon Eternal - La pelicula - 2da Parte [COLOR cyan](2021)[/COLOR]</title>  
+<title>[COLOR white] Pretty Guardian Sailor Moon Eternal - La pelicula - 2da Parte [COLOR gold](2021)[/COLOR]</title>  
 <genre>Animación,Fantástico,Acción,Comedia,Drama,Manga</genre>
 <year>2021</year>  
 <thumbnail>https://i.imgur.com/elryln4.jpg</thumbnail>
 <fanart>https://i.imgur.com/AegkTZ8.jpg</fanart>
 <info>Hotaru comienza a envejecer rápidamente mientras se encuentra al cuidado de las Guardianas Exteriores. Después, ¡es el momento de que todas las Guardianas se reúnan!</info>
-<urlsolve>{"titulo" : "[COLOR cyan]Opcion 1 [/COLOR]","url" : "https://vanfem.com/v/dz3w4txryzkq7-e"},{"titulo" : "[COLOR yellow]Opcion 2[/COLOR]","url" : "https://mixdrop.sx/e/enwr6je7iggqnd"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR gold]Opcion 1 [/COLOR]","url" : "https://vanfem.com/v/dz3w4txryzkq7-e"},{"titulo" : "[COLOR yellow]Opcion 2[/COLOR]","url" : "https://mixdrop.sx/e/enwr6je7iggqnd"}</urlsolve>
 </item>
 
 
 
 <item>
-<title>[COLOR white]  El dragon de los deseos  [COLOR cyan](2021)[/COLOR]</title>  
+<title>[COLOR white]  El dragon de los deseos  [COLOR gold](2021)[/COLOR]</title>  
 <genre>Animación,Comedia,Aventuras,Fantástico,Dragones</genre>
 <year>2021</year>  
 <thumbnail>https://i.imgur.com/vNJB2ko.jpg</thumbnail>
 <fanart>https://i.imgur.com/2vuh5Mc.jpg</fanart>
 <info>Din, un estudiante universitario de clase trabajadora con grandes sueños y pocos medios, y Long, un dragón cínico y todopoderoso capaz de conceder deseos, se embarcan en una divertida historia a través de la moderna Shangai en busca de la amiga perdida de la infancia de Din, Lina. Su viaje les obliga a responder algunas de las grandes preguntas de la vida, porque cuando puedes desear cualquier cosa, tienes que decidir lo que realmente importa.</info>
-<urlsolve>{"titulo" : "[COLOR cyan]Opcion 1 [/COLOR]","url" : "https://vanfem.com/v/xpx57c5p0qpg7zp"},{"titulo" : "[COLOR yellow]Opcion 2[/COLOR]","url" : "https://mixdrop.sx/e/j91opk39cqmrqr"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR gold]Opcion 1 [/COLOR]","url" : "https://vanfem.com/v/xpx57c5p0qpg7zp"},{"titulo" : "[COLOR yellow]Opcion 2[/COLOR]","url" : "https://mixdrop.sx/e/j91opk39cqmrqr"}</urlsolve>
 </item>
 
 
 <item>
-<title>[COLOR white] Supermonstruos:Erase una vez un cuento [COLOR cyan](2021)[/COLOR]</title>  
+<title>[COLOR white] Supermonstruos:Erase una vez un cuento [COLOR gold](2021)[/COLOR]</title>  
 <genre>Animación,Infantil,Cortometraje</genre>
 <year>2021</year>  
 <thumbnail>https://i.imgur.com/FWTCiga.jpg</thumbnail>
 <fanart>https://i.imgur.com/E7tkBtp.jpg</fanart>
 <info>Desde Ricitos de Oro hasta Hansel y Gretel, los Supermonstruos reinventan canciones de cuna y cuentos infantiles clásicos con su toque mágico.</info>
-<urlsolve>{"titulo" : "[COLOR cyan]Opcion 1 [/COLOR]","url" : "https://vanfem.com/v/kx4-1i31x-2mzw5"},{"titulo" : "[COLOR yellow]Opcion 2[/COLOR]","url" : "https://mixdrop.sx/e/rwqzj6wjsp997l"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR gold]Opcion 1 [/COLOR]","url" : "https://vanfem.com/v/kx4-1i31x-2mzw5"},{"titulo" : "[COLOR yellow]Opcion 2[/COLOR]","url" : "https://mixdrop.sx/e/rwqzj6wjsp997l"}</urlsolve>
 </item>
 
 
 
 <item>
-<title>[COLOR white] Lupin III: La Primera [COLOR cyan](2020)[/COLOR]</title>  
+<title>[COLOR white] Lupin III: La Primera [COLOR gold](2020)[/COLOR]</title>  
 <genre>Animación,Aventuras,Intriga,Comedia,Robos y Atracos.Manga</genre>
 <year>2020</year>  
 <thumbnail>https://i.imgur.com/lPimuY7.jpg</thumbnail>
 <fanart>https://i.imgur.com/4Q2TfTP.jpg</fanart>
 <info>El carismático ladrón Arsene Lupin III hace equipo con una mujer llamada Letizia para intentar encontrar y robar el Diario Bresson, un tesoro que ni siquiera su legendario abuelo Arsene Lupin pudo obtener. Esta aventura llevará a Lupin y su pintoresco equipo a revelar una conspiración Nazi, tratar de escapar de la policía e intentar salvar al mundo... Adaptación en animación 3D por ordenador de "Lupin III", el aclamado manga creado por Monkey Punch, que se ha convertido en un icono en Japón.</info>
-<urlsolve>{"titulo" : "[COLOR cyan]Opcion 1 [/COLOR]","url" : "https://vanfem.com/v/pwnxdtmy1kejk-d"},{"titulo" : "[COLOR yellow]Opcion 2[/COLOR]","url" : "https://mixdrop.sx/e/7rdmz7pphd9oq7"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR gold]Opcion 1 [/COLOR]","url" : "https://vanfem.com/v/pwnxdtmy1kejk-d"},{"titulo" : "[COLOR yellow]Opcion 2[/COLOR]","url" : "https://mixdrop.sx/e/7rdmz7pphd9oq7"}</urlsolve>
 </item>
 
 
@@ -621,169 +621,102 @@
 
 
 <item>
-<title>[COLOR white] Bayala-Una aventura magica [COLOR cyan](2020)[/COLOR]</title>  
+<title>[COLOR white] Bayala-Una aventura magica [COLOR gold](2020)[/COLOR]</title>  
 <genre>Animación,Infantil,Fantástico,Dragones,Magia</genre>
 <year>2020</year>  
 <thumbnail>https://i.imgur.com/1yrSx1Y.jpg</thumbnail>
 <fanart>https://i.imgur.com/gOjt447.jpg</fanart>
 <info>Desde que los dragones se extinguieron, la magia está desapareciendo. Todo cambia cuando el hada del sol encuentra un huevo de dragón abandonado. Si los dragones regresan a Bayala y todas las hadas se reconcilian, el lugar podría volver a estar a salvo. La princesa Surah y sus compañeros se enfrentarán a una fascinante viaje lleno de aventuras más allá de las Montañas del Dragón.</info>
-<urlsolve>{"titulo" : "[COLOR cyan]Opcion 1 [/COLOR]","url" : "https://mixdrop.sx/e/qleq7e3ds68gk7"},{"titulo" : "[COLOR yellow]Opcion 2[/COLOR]","url" : "https://cloudvideo.tv/ypqtg95ahfuu"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR gold]Opcion 1 [/COLOR]","url" : "https://mixdrop.sx/e/qleq7e3ds68gk7"},{"titulo" : "[COLOR yellow]Opcion 2[/COLOR]","url" : "https://cloudvideo.tv/ypqtg95ahfuu"}</urlsolve>
 </item>
 
 
 <item>
-<title>[COLOR white] Comidalia [COLOR cyan](2020)[/COLOR]</title>  
+<title>[COLOR white] Comidalia [COLOR gold](2020)[/COLOR]</title>  
 <genre>Animación,Familia</genre>
 <year>2020</year>  
 <thumbnail>https://i.imgur.com/B3wy7u1.jpg</thumbnail>
 <fanart>https://i.imgur.com/NIfQhB4.jpg</fanart>
 <info>El planeta Comidalia está en peligro, Penny y su mejor amigo Podge deberán salvar el universo de las garras de un malvado supervillano en esta trepidante aventura para toda la familia. Agarra tu casco espacial y prepárate para embarcarte en esta fantástica aventura situada en una lejana galaxia hecha totalmente de comida: Comidalia. Cuando un supervillano maníaco amenaza Comidalia, nuestros héroes, Penny, la pequeña dumpling y Podge, el rechoncho bollo de cerdo, se unen en una misión intergaláctica para salvar su hogar.</info>
-<urlsolve>{"titulo" : "[COLOR cyan]Opcion 1 [/COLOR]","url" : "https://mixdrop.sx/e/o7e3de8gb6q6e"},{"titulo" : "[COLOR yellow]Opcion 2[/COLOR]","url" : "https://cloudvideo.tv/wxuy9ulqyemw"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR gold]Opcion 1 [/COLOR]","url" : "https://mixdrop.sx/e/o7e3de8gb6q6e"},{"titulo" : "[COLOR yellow]Opcion 2[/COLOR]","url" : "https://cloudvideo.tv/wxuy9ulqyemw"}</urlsolve>
 </item>
 
 
 <item>
-<title>[COLOR white] Los Elfkins [COLOR cyan](2020)[/COLOR]</title>  
+<title>[COLOR white] Los Elfkins [COLOR gold](2020)[/COLOR]</title>  
 <genre>Animación,Infantil,Comedia</genre>
 <year>2020</year>  
 <thumbnail>https://i.imgur.com/a5ueCrO.jpg</thumbnail>
 <fanart>https://i.imgur.com/P0JpAim.jpg</fanart>
 <info>Durante más de 200 años, los Elfkins han estado viviendo bajo tierra, escondiéndose del mundo superior y evitando cualquier interacción con los seres humanos "ingratos y malos". Pero un día, Helvi, Kipp y Butz deciden subir a la superficie de la tierra. Después de muchas aventuras, Helvi se hace amiga de Theo, un chef de pastelería un poco gruñón que le recordará a ella y a todos los demás Elfkins su verdadero propósito en la vida: ¡ayudar a los demás!</info>
-<urlsolve>{"titulo" : "[COLOR cyan]Opcion 1 [/COLOR]","url" : "https://mixdrop.sx/e/1vq8mmp6fdq3w"},{"titulo" : "[COLOR yellow]Opcion 2[/COLOR]","url" : "https://upstream.to/embed-oge2yj56p3ix.html"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR gold]Opcion 1 [/COLOR]","url" : "https://mixdrop.sx/e/1vq8mmp6fdq3w"},{"titulo" : "[COLOR yellow]Opcion 2[/COLOR]","url" : "https://upstream.to/embed-oge2yj56p3ix.html"}</urlsolve>
 </item>
 
 
 <item>
-<title>[COLOR white] El pequeno vampiro [COLOR cyan](2020)[/COLOR]</title>  
+<title>[COLOR white] El pequeno vampiro [COLOR gold](2020)[/COLOR]</title>  
 <genre>Animacion, Aventuras,Vampiros</genre>
 <year>2020</year>  
 <thumbnail>https://i.imgur.com/F7t5Ldr.jpg</thumbnail>
 <fanart>https://i.imgur.com/UqEifGp.jpg</fanart>
 <info>El pequeño vampiro vive en una casa encantada con un alegre grupo de monstruos, pero pese a ello está muerto de aburrimiento. Una noche se escabulle en secreto de la mansión junto a su fiel bulldog con el propósito de encontrar nuevas aventuras y amigos.</info>
-<urlsolve>{"titulo" : "[COLOR cyan]Opcion 1 [/COLOR]","url" : "https://vanfem.com/v/3p1j2cm8j7l3k86"},{"titulo" : "[COLOR yellow]Opcion 2[/COLOR]","url" : "https://mixdrop.sx/e/rwqg99qefmwlq8"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR gold]Opcion 1 [/COLOR]","url" : "https://vanfem.com/v/3p1j2cm8j7l3k86"},{"titulo" : "[COLOR yellow]Opcion 2[/COLOR]","url" : "https://mixdrop.sx/e/rwqg99qefmwlq8"}</urlsolve>
 </item>
 
 
 <item>
-<title>[COLOR white] Los Mitchell contra las maquinas [COLOR cyan](2021)[/COLOR]</title>  
+<title>[COLOR white] Los Mitchell contra las maquinas [COLOR gold](2021)[/COLOR]</title>  
 <genre>Animacion</genre>
 <year>2021</year>  
 <thumbnail>https://i.imgur.com/gNenlLQ.jpg</thumbnail>
 <fanart>https://i.imgur.com/6cZIXGC.jpg</fanart>
 <info>El viaje por carretera de la familia Mitchell se ve interrumpido por una insurrección tecnológica que amenaza a la humanidad.</info>
-<urlsolve>{"titulo" : "[COLOR cyan]Opcion 1 [/COLOR]","url" : "https://vanfem.com/v/3p1j2cm8j8j6jnz"},{"titulo" : "[COLOR yellow]Opcion 2[/COLOR]","url" : "https://mixdrop.sx/e/9n76v14mb7n0jr"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR gold]Opcion 1 [/COLOR]","url" : "https://vanfem.com/v/3p1j2cm8j8j6jnz"},{"titulo" : "[COLOR yellow]Opcion 2[/COLOR]","url" : "https://mixdrop.sx/e/9n76v14mb7n0jr"}</urlsolve>
 </item>
 
 
 <item>
-<title>[COLOR white] Jungle Beat:La pelicula [COLOR cyan](2020)[/COLOR]</title>  
+<title>[COLOR white] Jungle Beat:La pelicula [COLOR gold](2020)[/COLOR]</title>  
 <genre>Animacion</genre>
 <year>2020</year>  
 <thumbnail>https://i.imgur.com/CmHIamG.jpg</thumbnail>
 <fanart>https://i.imgur.com/e4WbhZg.jpg</fanart>
 <info>Un alienígena se choca contra la jungla africana. Sus nuevos amigos animales tendrán que enseñarle cosas sobre la amistad y la diversión antes de que su padre, un conquistador espacial, se haga con el planeta.</info>
-<urlsolve>{"titulo" : "[COLOR cyan]Opcion 1 [/COLOR]","url" : "https://vanfem.com/v/-46j3upl5r3y7-l"},{"titulo" : "[COLOR yellow]Opcion 2[/COLOR]","url" : "https://mixdrop.sx/e/3n16v343ao49vm"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR gold]Opcion 1 [/COLOR]","url" : "https://vanfem.com/v/-46j3upl5r3y7-l"},{"titulo" : "[COLOR yellow]Opcion 2[/COLOR]","url" : "https://mixdrop.sx/e/3n16v343ao49vm"}</urlsolve>
 </item>
 
 
 <item>
-<title>[COLOR white] Arlo: El chico caiman [COLOR cyan](2021)[/COLOR]</title>  
+<title>[COLOR white] Arlo: El chico caiman [COLOR gold](2021)[/COLOR]</title>  
 <genre>Animacion</genre>
 <year>2021</year>  
 <thumbnail>https://i.imgur.com/KpiDcBH.jpg</thumbnail>
 <fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
 <info>Para encontrar a su padre, al que nunca conoció, el optimista Arlo deja su pantanoso hogar en el Sur y parte hacia Nueva York, haciendo amigos en el camino.</info>
-<urlsolve>{"titulo" : "[COLOR cyan]Opcion 1 [/COLOR]","url" : "https://vanfem.com/v/-46j3upl0xn--eq"},{"titulo" : "[COLOR yellow]Opcion 2[/COLOR]","url" : "https://upstream.to/embed-1tu00f4lv3r4.html"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR gold]Opcion 1 [/COLOR]","url" : "https://vanfem.com/v/-46j3upl0xn--eq"},{"titulo" : "[COLOR yellow]Opcion 2[/COLOR]","url" : "https://upstream.to/embed-1tu00f4lv3r4.html"}</urlsolve>
 </item>
 
 
 
 <item>
-<title>[COLOR white] Boonie Bears-Aventura en la prehistoria [COLOR cyan](2019)[/COLOR]</title>  
+<title>[COLOR white] Boonie Bears-Aventura en la prehistoria [COLOR gold](2019)[/COLOR]</title>  
 <genre>Animacion</genre>
 <year>2019</year>  
 <thumbnail>https://i.imgur.com/19GaSVb.jpg</thumbnail>
 <fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
 <info>Vick y los osos quedan atrapados en el pasado y rodeados por animales que solo parecen tener una cosa en mente: ¡comer! Cuando nuestros héroes se separan, Briar conoce a un joven lobo llamado Feifei, quien intenta convertirse en un bravo guerrero. Mientras tanto, Bramble y Vick se meten en líos cuando son capturados por una tribu de humanos primitivos cuyo líder se enamora locamente de Vick. ¡Esta es una aventura como ninguna que ellos hayan afrontado antes! ¿Serán capaces de reunirse y regresar antes de quedar atrapados por siempre en el pasado?</info>
-<urlsolve>{"titulo" : "[COLOR cyan]Opcion 1 [/COLOR]","url" : "https://mixdrop.co/e/n09vrq96a1xj79"},{"titulo" : "[COLOR yellow]Opcion 2[/COLOR]","url" : "https://playtube.ws/embed-172tdsnq43c0.html"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR gold]Opcion 1 [/COLOR]","url" : "https://mixdrop.co/e/n09vrq96a1xj79"},{"titulo" : "[COLOR yellow]Opcion 2[/COLOR]","url" : "https://playtube.ws/embed-172tdsnq43c0.html"}</urlsolve>
 </item>
 
 
 <item>
-<title>[COLOR white] StarDog y TurboCat  [COLOR cyan](2019)[/COLOR]</title>  
+<title>[COLOR white] StarDog y TurboCat  [COLOR gold](2019)[/COLOR]</title>  
 <genre>Animacion</genre>
 <year>2019</year>  
 <thumbnail>https://i.imgur.com/Fa2fnJh.jpg</thumbnail>
 <fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
 <info>Un perro leal y un gato justiciero se embarcan en un viaje espacial para encontrar el camino de vuelta a casa.</info>
-<urlsolve>{"titulo" : "[COLOR cyan]Opcion 1 [/COLOR]","url" : "https://playtube.ws/embed-89wu55c8kxb7.html"},{"titulo" : "[COLOR yellow]Opcion 2[/COLOR]","url" : "https://upstream.to/828josvbp9wn"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR gold]Opcion 1 [/COLOR]","url" : "https://playtube.ws/embed-89wu55c8kxb7.html"},{"titulo" : "[COLOR yellow]Opcion 2[/COLOR]","url" : "https://upstream.to/828josvbp9wn"}</urlsolve>
 </item>
-
-
-<item>
-<title>[COLOR white] El jinete del dragon [COLOR cyan](2020)[/COLOR]</title>  
-<genre>Animacion</genre>
-<year>2020</year>  
-<thumbnail>https://i.imgur.com/ONhNcyL.jpg</thumbnail>
-<fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
-<info>Un joven dragon plateado se une a un espíritu de la montaña y a un niño huérfano en una aventura en el Himalaya para encontrar la entrada a los cielos.</info>
-<urlsolve>{"titulo" : "[COLOR cyan]Opcion 1 [/COLOR]","url" : "https://vanfem.com/v/y1r5dtenyz74qgk"},{"titulo" : "[COLOR yellow]Opcion 2[/COLOR]","url" : "https://playtube.ws/embed-snvge71jaw1s.html"}</urlsolve>
-</item>
-
-
-<item>
-<title>[COLOR white] Agencia Secreta de Control Magico [COLOR cyan](2021)[/COLOR]</title>  
-<genre>Animacion</genre>
-<year>2021</year>  
-<thumbnail>https://i.imgur.com/iY5dGH7.jpg</thumbnail>
-<fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
-<info>La Agencia del Control de Magia envía a sus dos mejores agentes, Hansel y Gretel, a luchar contra la bruja de la Casa del Pan de Jengibre. </info>
-<urlsolve>{"titulo" : "[COLOR cyan]Opcion 1 [/COLOR]","url" : "https://vanfem.com/v/zkp50sj1z7k3je4"},{"titulo" : "[COLOR yellow]Opcion 2[/COLOR]","url" : "https://playtube.ws/embed-et0inosleda2.html"}</urlsolve>
-</item>
-
-
-<item>
-<title>[COLOR white] La leyenda de Hei [COLOR cyan](2019)[/COLOR]</title>  
-<genre>Animacion</genre>
-<year>2019</year>  
-<thumbnail>https://i.imgur.com/5h4LDqO.jpg</thumbnail>
-<fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
-<info>Durante generaciones, los humanos han creído que los demonios eran leyendas, sin saber que realmente coexisten con nosotros. Hei es un gato demonio que ha vivido siempre feliz en los bosques de las montañas, hasta que la expansión de la ciudad acaba destruyendo su propio hogar. En ese momento, Hei comienza a vagar por el mundo buscando un nuevo lugar en el que cobijarse. (</info>
-<urlsolve>{"titulo" : "[COLOR cyan]Opcion 1 [/COLOR]","url" : "https://vanfem.com/v/5knj1sdelqz07lq"},{"titulo" : "[COLOR yellow]Opcion 2[/COLOR]","url" : "https://playtube.ws/embed-lnw0w1lx98tk.html"}</urlsolve>
-</item>
-
-
-<item>
-<title>[COLOR white] Los Fixies contra los Crabots [COLOR cyan](2019)[/COLOR]</title>  
-<genre>Animacion</genre>
-<year>2019</year>  
-<thumbnail>https://i.imgur.com/xw1pwt6.jpg</thumbnail>
-<fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
-<info>Rebeca, la novia que tuvo el profesor Eugenio en la universidad, ha descubierto que éste ganó el Gran Premio de la Universidad en Impresión 3D gracias a unos pequeños ayudantes secretos, los Fixies, que dirigían la impresora desde dentro. Por este motivo, amenaza con revelar al mundo la existencia de estos diminutos seres. Pero, antes de contar el secreto, desafía a Eugenio para que el mundo finalmente sepa quién es realmente el mejor inventor. Para ello, permite que a Eugenio le ayuden sus pequeños amigos, ya que ella cuenta con el apoyo de los Crabots, unos cangrejos robóticos en miniatura que son más rápidos y fuertes que los Fixies y que ella misma ha creado. ¿Podrán los Fixies reunir la fuerza y ​​el coraje necesarios para trabajar en equipo y ganar el desafío más difícil de sus vidas?</info>
-<urlsolve>{"titulo" : "[COLOR cyan]Opcion 1 [/COLOR]","url" : "https://vanfem.com/v/dz3w4tx71md16zq"},{"titulo" : "[COLOR yellow]Opcion 2[/COLOR]","url" : "https://playtube.ws/embed-514irpz7y2h3.html"}</urlsolve>
-</item>
-
-
-<item>
-<title>[COLOR white]  Fritzi -Un cuento revolucionario [COLOR cyan](2019)[/COLOR]</title>  
-<genre>Animacion</genre>
-<year>2019</year>  
-<thumbnail>https://i.imgur.com/t7a6PAD.jpg</thumbnail>
-<fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
-<info>Basada en el libro para niños de Hanna Schott, esta película de animación cuenta la historia de Fritzi, estudiante de cuarto grado, en la ciudad de Leipzig, en Alemania del Este, durante el verano de 1989. Se supone que cuidará del perro de su mejor amiga, Sophie, durante el verano, pero descubre que Sophie y su familia han huido a Occidente a través de Hungría. Así que Fritzi hace todo lo posible para reunirse con su amiga. Con sentido de la pedagogía, esta película presenta a las nuevas generaciones los complejos acontecimientos políticos e históricos que condujeron a la reunificación alemana.</info>
-<urlsolve>{"titulo" : "[COLOR cyan]Opcion 1 [/COLOR]","url" : "https://vanfem.com/v/10rjdcjk4e48mmr"},{"titulo" : "[COLOR yellow]Opcion 2[/COLOR]","url" : "https://playtube.ws/embed-t2vx3qex86oj.html"}</urlsolve>
-</item>
-
-
-<item>
-<title>[COLOR white] Super Wombat [COLOR cyan](2020)[/COLOR]</title>  
-<genre>Animacion</genre>
-<year>2020</year>  
-<thumbnail>https://i.imgur.com/KVdLwnv.jpg</thumbnail>
-<fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
-<info>Maggie Diggins, un tejón convertido en Mujer Maravilla, pase a ser sin quererlo la superheroína de la ciudad tras salvar a un superhéroe novato de una muerte segura.</info>
-<urlsolve>{"titulo" : "[COLOR cyan]Opcion 1 [/COLOR]","url" : "https://vanfem.com/v/5knj1sdemleeqk4"},{"titulo" : "[COLOR yellow]Opcion 2[/COLOR]","url" : "https://playtube.ws/embed-tz1xd4m0yorv.html"}</urlsolve>
-</item>
-
 
 ----------------------------------------------------------------------------------------------------------------
