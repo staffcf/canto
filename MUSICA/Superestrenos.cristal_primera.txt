@@ -89,18 +89,6 @@
 
 
 <item>
-<title>[COLOR white] Lo que sabemos [/COLOR][COLOR yellow](2021)[/COLOR]</title>
-<genre>Drama</genre>
-<year>2021</year>
-<tmdb>847821</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/original/ulCSi83gWcBV1mKJp4ZML3dIegU.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/ulCSi83gWcBV1mKJp4ZML3dIegU.jpg</fanart>
-<info>Carla, una joven camarera de un restaurante de playa que sueña con una vida mejor, es invitada a pasar una tarde en la playa con Víctor, un apuesto compañero de clase, y sus peculiares amigos. Entre los dos surge una atracción inmediata, cada vez más intensa y profunda, que cambiará sus vidas para siempre.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/lykHA3QUOfc"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/7nqyejhgrr0x2pkq"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/91l90jnjl3h6"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/lu7ow61ed23n"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/A0Pz6VpkBGCX3DK"}</urlsolve>
-</item>
-
-
-<item>
 <title>[COLOR white] El cuarto pasajero [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Comedia</genre>
 <year>2022</year>
