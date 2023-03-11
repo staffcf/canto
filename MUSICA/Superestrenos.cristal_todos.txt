@@ -18042,18 +18042,6 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 
 
 <item>
-<title>[COLOR white] Wicked Witches [/COLOR][COLOR yellow](2018)[/COLOR]</title>
-<genre>Terror</genre>
-<year>2018</year>
-<tmdb>618620</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/original/erTV2EiIfRmq8LqPIx0JyBPePAh.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/qaFNKKP2G5Ks6ygSu8aGFocPR9W.jpg</fanart>
-<info>Mark regresa a Dumpling Farm donde se reencuentra con sus recuerdos, pero allí descubre que uno de sus viejos amigos está poseído por un grupo demoníaco de brujas.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/dmnIM4mdig4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/yp4m-5ij5560d15w"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/znr6yrtsgutw"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/5ofaf0f6cikk"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/arOXpYP6QwtxGoy"}</urlsolve>
-</item>
-
-
-<item>
 <title>[COLOR white] Willow [/COLOR][COLOR yellow](1988)[COLOR aqua] *7.0 [/COLOR]</title>
 <genre>Accion,Aventura,Fantasia</genre>
 <year>1988</year>
