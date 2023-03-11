@@ -5,6 +5,42 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Muerte, muerte, muerte [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Comedia, Terror, Misterio</genre>
+<year>2022</year>
+<tmdb>520023</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/6eUw3JlGKJHubgHesSOK4nSyv4Q.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8PoNrDnvoJJpbnVORjhm2ieIwGJ.jpg</fanart>
+<info>Cuando un grupo de veinteañeros adinerados planea una fiesta del huracán en una remota mansión familiar, un juego se vuelve mortal en esta historia de puñaladas por la espalda, falsos amigos y una velada que sale muy, muy mal.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/7hLz86i8FGM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/00l1rjt844071zgd"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/alivfbww0cr2"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/mtajscp84gw4"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Pkz6GrDwqyukDg"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Tangos, tequilas, y algunas mentiras [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Romance</genre>
+<year>2023</year>
+<tmdb>1098239</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/sFaDyM9qe2eZ4TMEpB9ozWWVhUm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rtawaC6L7TFqA2LGxwicubixM4A.jpg</fanart>
+<info>A Lu le encanta fingir que tiene la vida perfecta. Cuando conoce a Diego, un malhumorado y guapo argentino de visita en México, asegura que podría enamorarlo. Su vida dará un vuelco radical cuando, para ganar una apuesta con sus amigas, hará hasta lo imposible por conquistarlo, aunque esto signifique irlo a buscar hasta el corazón de Argentina.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/3_z4aNxZgIQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/e5g0xnt8ddegrw54"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/an4x9b38huwb"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/cyhlbtrl3iql"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/JXMRdVblQXSjMKD"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] ¿Encontró lo que buscaba? [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia,Drama</genre>
+<year>2023</year>
+<tmdb>1092193</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/w7X1ra5lYbiZ5WnkCikSThKCMZm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5CkMJw2mDO63feVzho5OpbgXnta.jpg</fanart>
+<info>Un locutor jubilado trabaja en un supermercado para poder asistir a la fiesta de su vieja emisora de radio, donde espera volver a ver al amor de su vida.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/W9yY9B7Jh_w"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/3kmq0jcp00l20d3w"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ct5gi33020lg"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/l7wnsjymcl4r"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/8OddpV4OQPIoADp"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Detective Knight: Última misión [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Acción, Crimen, Suspense</genre>
 <year>2023</year>
