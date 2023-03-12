@@ -19,7 +19,7 @@ from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
 import six
 TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
-url = 'https://pastebin.com/raw/aCZU5xFd'
+url = 'https://pastebin.com/raw/70ZmrCBw'
 titulo = 'The Last Of Us'
 import base64, codecs
 
