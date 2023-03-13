@@ -2449,6 +2449,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El Indice Del Miedo[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>156029</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.indice.del.miedo</externallink>
+<info>El Dr. Alex Hoffman, un físico estadounidense expatriado, crea un sistema basado en inteligencia artificial que explota el miedo en los mercados financieros y opera a la velocidad del rayo para obtener grandes beneficios. Pero el día del lanzamiento, la cordura de Alex se tambalea tras ser atacado con saña en su casa por un hombre que conoce todos sus códigos de seguridad. Tras más sucesos inexplicables, Alex se convence de que le han tendido una trampa.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/lBtfIcDeKu6Fe9PEZRAJSWZyetU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iEighXtM0SbK5BVZkia7MmV4hNH.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El Incidente[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>73732</tmdb>
@@ -4925,6 +4935,16 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Libby,Estas En Casa? [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>90913</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Libby.estas.en.casa</externallink>
+<info>Un estudio sobre la desaparición de Libby Squire, una universitaria de 21 años cuyo secuestro y asesinato desencadenó la mayor persecución de la historia policial de Humberside, Inglaterra, y culminó con el arresto del carnicero Pawel Relowicz.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/je2hPf3T8kVF2AT6zDct4jcGDb2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/42AbGBvuS2rYOQiOfoPlpTtIEw3.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Libertad[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <tmdb>101977</tmdb>
@@ -6957,7 +6977,17 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 </item>
 
 <item>
-<title>[COLOR gold]* [COLOR white]Real Madrid:La Leyenda Blanca [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<title>[COLOR gold]* [COLOR white]Real Madrid: Hasta El Final [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>221490</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Real.madrid.hasta.el.final</externallink>
+<info>Salta al césped y acompaña al emblemático club de fútbol tras las cámaras para repasar su extraordinaria temporada 2021-2022. Alentados por su ferviente hinchada, rompen las estadísticas y hacen callar a los escépticos.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/nHQMmULHn0AoFpBca1Ce1Jh4sm1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nrJZlruHH03ugsQJCpJxeygX2wg.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Real Madrid: La Leyenda Blanca [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>157423</tmdb>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Real.madrid.la.leyenda.blanca</externallink>
