@@ -5,6 +5,18 @@
 
 
 <item>
+<title>[COLOR white] Chang machaca [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Familia, Comedia</genre>
+<year>2023</year>
+<tmdb>776098</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/ijgY6uYwNqkVIgG9T6TTkdgt2Wi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kAwAOpOCehRUQrxofD3UlcyYW19.jpg</fanart>
+<info>Chang, un chaval asiático-estadounidense de 16 años, le apuesta al as del baloncesto de su instituto que podrá hacer un mate la noche del último partido de fútbol. Chang, que mide 1,72 m, se propone aprender a encestar un mate, no solo para impresionar a Kristy, la chica que le gusta, sino también para ganarse el respeto de sus compañeros. Pero, antes de que pueda saltar hasta el aro y encestar, le tocará replantearse todo lo que cree sobre sí mismo, sus amistades y su familia.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/o-2GBTBVyKY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/r50dextexx5yn4xk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/c2me13pmbm50"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/6a0mzdckvfbd"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/pxmZm33dxYCreVK"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Parque salvaje [/COLOR][COLOR yellow](2021)[/COLOR]</title>
 <genre>Animación, Comedia, Ciencia ficción, Aventura</genre>
 <year>2021</year>
