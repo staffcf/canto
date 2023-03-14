@@ -5,6 +5,42 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Robadas por su padre [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama, Película de TV</genre>
+<year>2022</year>
+<tmdb>942713</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/m31GJGP8yf0aASFrzrrQe28vvKd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/c2TvPzAXpX61JcpEHPwRmTKfz84.jpg</fanart>
+<info>Una madre se ve enfrentada a una lucha desgarradora cuando su ex pareja secuestra a sus hijas. Con todas sus fuerzas, la mujer intenta hacer todo lo posible para recuperar a sus seres queridos y llevarlos de vuelta a un lugar seguro. La situación es extremadamente tensa y angustiante, y la madre lucha incansablemente para proteger a sus hijas y mantenerlas a salvo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/kb3zFhROJls"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/nz37wxu7zdlg3jyj"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ybbu56is7f5z"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/ggncja4dmev9"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/wGodbDmaQaSJzgk"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Lazos rotos [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Suspense, Película de TV</genre>
+<year>2023</year>
+<tmdb>1084605</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/bgzvUL5EgBAbxf6wmBo8eUwYsnn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yym8Scgvv8Tq1pZQG8Q4rBdXzUO.jpg</fanart>
+<info>Selma y Madison son hermanas, pero después de la muerte de su madre, se han alejado una de la otra. La vida de Selma ha sido una sucesión de abusos por parte de su marido, hasta el punto de que ella decide dispararle. Buscando refugio, Selma acude a la casa de su hermana Madison en busca de ayuda. La historia plantea cómo la tragedia puede unir a las personas, incluso cuando su relación está dañada, y muestra cómo la solidaridad entre familiares puede ayudar a superar situaciones difíciles. Además, también refleja la realidad del abuso doméstico y sus graves consecuencias.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/XtEiGCjWVi4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/-n071jh-zrx8d05z"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/yu6nbhjdnaa0"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/u5tesjtpydsc"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/AQqOrxM3qAFX3OR"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La peor decisión  [/COLOR][COLOR yellow](2019)[/COLOR]</title>
+<genre>Suspense, Película de TV</genre>
+<year>2019</year>
+<tmdb>616885</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/5HJ7VKI00KlFSSx7bUc6sCjQI9S.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zkjOrRK08E2vBE3bx4oPshILavb.jpg</fanart>
+<info>Después de recibir un ascenso y más responsabilidad en el trabajo, Melanie decide contratar a Phoebe como su asistente personal. Inteligente y astuta, Phoebe tiene un motivo oculto para tomar el trabajo y un plan retorcido de venganza que involucra a la madre de Melanie.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/yMr5pd-matk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/nz37wxu7zdljd43p"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/qail1ozsjyg9"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/govlq8qr461b"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/7R6XGKywl7fA7Z4"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Lobo Feroz [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama, Suspense</genre>
 <year>2023</year>
