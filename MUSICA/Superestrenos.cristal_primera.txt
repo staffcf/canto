@@ -5,6 +5,90 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Camino de la venganza [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Western</genre>
+<year>2023</year>
+<tmdb>872954</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/HA8KoMqdohG2V9T6KIKPQOSP6r.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6gvQecVItkE6ARPKxx6AkJVKCWv.jpg</fanart>
+<info>Un viejo pistolero y su hija deben enfrentar las consecuencias de su pasado, cuando el hijo de un hombre al que asesinó años atrás llega para vengarse.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/IWr_IZJ6QzU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/w0md25t250n212qr"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/hhstl7q2wvf8"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/mxepet1652mp"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/MoaM6mLxB7IelL"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El estrangulador de Boston [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Crimen, Suspense, Historia</genre>
+<year>2023</year>
+<tmdb>881164</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/Af1vSPTbraVVqc6kB3Avm55gxcq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/173VoB2yAHJ2KlWSy0lBj48ahHJ.jpg</fanart>
+<info>Los reporteros Loretta McLaughlin y Jean Cole persiguen valientemente la historia del estrangulador de Boston con un gran riesgo personal, arriesgando sus propias vidas en su búsqueda por descubrir la verdad.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/XbaGCWIDAZU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/xm20r5u1nz5q4n7p"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/9857okbok9a8"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/uyws0ni2bj5c"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/pdBeb9348rhV1a"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Capitana Nova [/COLOR][COLOR yellow](2021)[/COLOR]</title>
+<genre>Aventura, Familia, Ciencia ficción</genre>
+<year>2021</year>
+<tmdb>881957</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/afBZGq5CTVIAqvHMr4WciNCCqki.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qn1UBcG9G0MwyExVRANrR0pAGOw.jpg</fanart>
+<info>Una piloto de combate viaja en el tiempo para salvar al mundo de un futuro desastre ambiental. Pero debido a un efecto secundario, se acaba volviendo joven de nuevo y nadie la tomará en serio.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/PG-CekT6518"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/3kmq0jcp0kmpdq5d"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/bnbjkxgeudlz"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/slqrl4w9oqeb"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/W1BPwLDZg1TpZ9"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Kompromat El expediente ruso [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Suspense, Drama</genre>
+<year>2022</year>
+<tmdb>852427</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/mhtm6Dzps9fhQAmT451mb28vdqt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/169X3vmKLXmtidTUvF2eifYPSlu.jpg</fanart>
+<info>Mathieu, miembro del instituto francés en Irkutsk, es arrestado durante la noche por las autoridades rusas. Encarcelado y acusado de abusar sexualmente de su propia hija, se da cuenta de que es víctima de un Kompromat. Con la ayuda del FSB, alguien ha construido un caso para incriminarlo. Aislado, no tiene a quién recurrir. Demostrar su inocencia es imposible: la única solución es escapar.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/eFUFGTkQnPQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/nz37wxu7zl2j6y7k"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/269ayk2ufg17"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/362wjd8eeyij"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/7GKr6kqADqtAq7m"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La elefanta del mago [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Animación, Aventura, Familia, Fantasía</genre>
+<year>2023</year>
+<tmdb>776835</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/1lO656ghETzsWLXx9T8zRZMTq6o.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xdx9ZeJXolbONMcnqyfdPHlvnFv.jpg</fanart>
+<info>Peter lleva mucho tiempo buscando a su hermana desaparecida. Por eso, cuando se encuentra con una adivina, solo tiene una pregunta: «¿Sigue viva mi hermana?». La adivina le contesta que tiene que buscar a una misteriosa elefanta y al mago capaz de conjurarla. Así, Peter emprende la gran aventura de su vida: un viaje sobrecogedor para cumplir tres misiones aparentemente imposibles que cambiarán para siempre su pueblo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/lwMWKqBbfZY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/2pm15jidg82082-1"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/i6xyb2tjzsmb"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/g4i575s39ikl"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/voKqz8p8lliaYk"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El buen vecino [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Suspense</genre>
+<year>2022</year>
+<tmdb>893086</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/w1Pg71Z60BweXmJui2H8o49MohO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/AnmfRV7X0kwEn96pg0lAVopV8YK.jpg</fanart>
+<info>Una noche de pesadilla se desarrolla para David, un ex periodista del New York Times, cuando él y su nuevo y extraño vecino, Robert, golpean accidentalmente a una chica en su bicicleta. Aturdido y desorientado, David deja que Robert lo convenza de huir de la escena y dejar a la niña por muerta, para proteger su carrera. Robert no muestra remordimiento y, en nombre de la amistad, hace cosas indescriptibles para proteger el secreto. Ahora que la policía está buscando al asesino que se da a la fuga, las cosas comienzan a salirse de control cuando el periódico local de David lo envía a cubrir la historia en la que conoce a la hermana de la niña fallecida, Vanessa.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/vQhFI3dik-U"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/e5g0xnt8drg2zyey"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/80yooe5gsmvx"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/p7qd5gg8xydo"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/ZzjB74GjZzs77x"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] A la de tres [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Comedia, Drama</genre>
+<year>2022</year>
+<tmdb>776512</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/66XN5tgqPKT1xhQytXP74tRl9uS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nzDMlEi6h2HMyRDU02eGsa9hncm.jpg</fanart>
+<info>Val (Jerrod Carmichael) ha llegado a un punto en el que siente que la única forma de escapar de su situación pasa por acabar con su propia vida. Como se considera a sí mismo un fracasado, decide buscar a alguien que le pueda ayudar. Da la casualidad que su mejor amigo, Kevin (Christopher Abbott), está recuperándose de un intento fallido de suicidio, por lo que parece ser el compañero perfecto para ejecutar su dramático plan. Sin embargo, antes de quitarse mútuamente la vida, ambos tendrán que zanjar un par de asuntos pendientes.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/watch?v=xpVRBBvjLhA"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/l1k4wxu5rqn5lg-8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/scbwvsvmmu8c"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/86qgxbprvgx6"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/orKqxlbax1S97Q"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Robadas por su padre [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Drama, Película de TV</genre>
 <year>2022</year>
