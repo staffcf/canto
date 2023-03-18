@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] El asistente [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2023</year>
+<tmdb>1080566</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/oA7E73LT4xIgPOiix9lvIvYhM4Z.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vHyTCeQ9HABnvFuvaulgIbWtFCF.jpg</fanart>
+<info>Miguel (Rodrigo Noya), es un joven de 22 años, es abandonado por su novia en la noche de bodas; Jimmy (Luis Cao), un excéntrico roquero con problemas de estabilidad emocional. Aún sin conocerse, ambos deciden quitarse la vida, sin embargo, sus planes cambian cuando una situación inesperada hace que sus caminos se crucen. A partir de ese momento, se genera un vínculo entre ambos en el que Jimmy siente que Miguel es su ángel de la guarda, y juntos emprenden un viaje lleno de aventuras, en busca de un monje que vive en las sierras para sanar sus heridas y encontrar su verdadero camino.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/I3N2pbNa-ZY"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/https://youtu.be/I3N2pbNa-ZY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/gn9l9we0r0hg"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/7hccl8jjv9ub"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/DojmgY9PK3hkyMV"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El rey de las sombras [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama, Suspense, Crimen</genre>
 <year>2023</year>
