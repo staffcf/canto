@@ -7909,6 +7909,16 @@ Una vez allí, se encontrarán con un enemigo mucho peor que los Goaul'd; los Wr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Ted Lasso[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<tmdb>97546</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Ted.lasso</externallink>
+<info>Un ingenuo entrenador de fútbol americano (Jason Sudeikis) decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/lQk9CQREV78Vj8Jn5B8Ts7Vs1y8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/akh1Z9oCJuYt5vMZpeYeAWfZF2F.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Teenage Euthanasia[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <tmdb>132922</tmdb>
