@@ -5,6 +5,126 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] El rey de las sombras [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Suspense, Crimen</genre>
+<year>2023</year>
+<tmdb>948050</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/A70rat4oypHnFsb4J4MoSciNo3I.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xjixln7CCUOgAJNX8RrGxYRwLvI.jpg</fanart>
+<info>Tras la muerte de su padre, dos hermanastros acaban en bandos opuestos de un conflicto que no para de crecer y tiene consecuencias trágicas.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/BMilvEVgSPU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/l1k4wxu5rq8qw656"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/rr9zbmm73kkk"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/0gi6stoyp4rs"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/vrKWYDxko9C4OVw"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Ruido mental [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama, Suspense</genre>
+<year>2022</year>
+<tmdb>1057577</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/WM7KOslqCraGTpjCfqKJCC7Qh4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vBiZgHN2MN29jXauP9b9pgWArq3.jpg</fanart>
+<info>Matt, un influencer y padre del recién nacido Julius, descubre un oscuro secreto del pasado de su padre. Comienza una investigación en profundidad que abrirá una caja de secretos y revelará más dramas familiares de los previstos. Al mismo tiempo Liv, su esposa, está profundamente preocupada por la actitud de su marido y hará todo lo posible para ayudarle.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/qOv3NTaCWqk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/17pnqjh30yjzpl55"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/5bc8wfd3j5zf"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/cry41u7815o3"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/ylyeB9xgQ2C1bJ1"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Cariño, cuánto te odio [/COLOR][COLOR yellow](2021)[/COLOR]</title>
+<genre>Romance, Comedia</genre>
+<year>2021</year>
+<tmdb>603661</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/bLZhgPtOLHr2dmr2mHS0DbHYvv2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5OJOKbjjuX4Wt8oLanWqa56NCMv.jpg</fanart>
+<info>Decidida a lograr el éxito profesional sin comprometer su ética, Lucy se embarca en un juego despiadado de superioridad contra el frío y eficiente némesis Joshua, una rivalidad que se complica por su creciente atracción por él.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Y0wJmzVx5cw"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/jzewrxu6704883-r"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/x5y3p1uwr3w1"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/n1r2b76alzx4"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/KqGXBoaOO7C0XQG"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La exorcista [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Terror</genre>
+<year>2022</year>
+<tmdb>1023313</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/d07xtqwq1uriQ1hda6qeu8Skt5m.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/u5nY7pY2Y58o7dSM9cy6NclOV8V.jpg</fanart>
+<info>Ofelia, una joven monja recién llegada al pueblo de San Ramón, se ve obligada a realizar un exorcismo a una mujer embarazada. La posesión parece haber terminado, hasta que Ofelia descubre que la presencia maligna está tratando de regresar al cuerpo de la víctima.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/xTNJKhhWWP4"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/3kmq0jcp0k70z2ml"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/0h7mu1xz0dix"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/e6ht3t8m3crm"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/3Po03B7vQ1TAW6"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] H.P. Lovecraft's Witch House [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Terror</genre>
+<year>2022</year>
+<tmdb>988165</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/5KmscR49WkmuPJKjmK4OUmsRn5C.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/h9VW4ldO8S2taKy7OamX78e7nGS.jpg</fanart>
+<info>Decidido a demostrar la posibilidad de dimensiones alternativas, un estudiante de posgrado sin saberlo abre una puerta de entrada a un horror inimaginable. Basado en el cuento de H. P. Lovecraft "Los sueños en la casa de la bruja".</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/kV0GeB9OXN8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/3kmq0jcp0k2qm4ew"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/lirgyc8v58yj"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/3qksf05wf3fj"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/lP9GQVyRMyf7x8Z"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Gold Run [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Bélica, Acción, Aventura, Suspense</genre>
+<year>2022</year>
+<tmdb>964426</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/c5Jces7ftLcZILC5jn4vcwcto8V.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eXZwKUCiEwRl8ykJ2M34mPn0Rda.jpg</fanart>
+<info>Segunda Guerra Mundial. Abril de 1940: los alemanes invaden Noruega: el director del banco central noruego encarga al secretario parlamentario que lidere la evacuación de las reservas de oro del país para evitar que caigan en manos alemanas. En pocas pero caóticas horas, se consigue reunir a un grupo de compatriotas que emprenderán una dramática escapada a través de los fríos paisajes nórdicos hacia un convoy aliado de Gran Bretaña. Sin descanso ni tregua, el grupo es vigilado de cerca por las fuerzas alemanas.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/iZphQUljiqw"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/jzewrxu670d3784d"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/8548fn4z5gz3"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/eeq50r83iaf2"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Qg8G6rzQX2h0YkG"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El gran Maurice [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama, Comedia</genre>
+<year>2022</year>
+<tmdb>717151</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/2NyJrjuWppb3EaFR5rgcSRAQOsu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dQ9Yw1zcjhiGafLiFd4Q7aHzUCw.jpg</fanart>
+<info>La historia del golfista Maurice Flitcroft, cuya actuación en el British Open Golf Championship de 1976 lo convirtió en una leyenda</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/qmll1Xg002A"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/m7k2wnhep1jdqex-"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/0v7zmg9tiftc"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/b2j15d3et4dz"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/RmaR70z4pehdo90"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Close [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2022</year>
+<tmdb>901563</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/nKxphQBjYiMfbNqnE5AJ7r8ps1X.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zdcTqRjOLbmgvNqqx2od7I4MjjO.jpg</fanart>
+<info>Léo y Rémi, de 13 años, son amigos de toda la vida. Hasta que un suceso impensable los separa. Léo se acerca entonces a Sophie, la madre de Rémi, para tratar de entender.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/wLGCn5oB9ms"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/xm20r5u1nz5qxwgg"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/kdij9zzzn3sg"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/gxhw0glrwktc"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/g2g6Ok89GMSGr0"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Ya era hora [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Romance, Comedia, Drama</genre>
+<year>2023</year>
+<tmdb>881462</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/uC77nrTr5dTvPckQ4G5JVh9lhub.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zeFuYhy71VbP5Zxe3fktjZsEguY.jpg</fanart>
+<info>Dante besa accidentalmente a Alice que tiene el mismo vestido que su novia. Desde ese momento se comprometen, se van a vivir a la misma casa y son muy felices. Pero no puede administrar su tiempo; de hecho, siempre llega tarde y le cuesta conciliar trabajo y tiempo libre. El 26 de octubre es su 40 cumpleaños. Para el de 2010, Alice le organiza una fiesta sorpresa donde él, como siempre, llega en el último momento. Cuando se despierta a la mañana siguiente, no es un día como cualquier otro.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/8iuH6S_uWJE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/3kmq0jcp0k2q3m50"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/jysns65y7pmj"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/lblo124xsww1"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/akKOKVylV9FzGo"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Finlandia [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Fantasía, Drama</genre>
+<year>2022</year>
+<tmdb>772441</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/1fWdoVZSVfice5gAbd2C2bYIGHG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fowlFc5GDxIdeUqgb8MhjFwuMRu.jpg</fanart>
+<info>Un terremoto libera las emociones de una comunidad. Las muxes luchan por el reconocimiento de su género como uno más en la sociedad, a la vez que combaten sus propias pasiones, traumas y sentimientos escondidos. Delirio es la líder que guiará a esta comunidad hacia el descubrimiento de sí mismos. Mariano y Amaranta se encuentran bajo un alud negro de sufrimiento que les nubla la salida a la libertad. Un viaje que transforma la vida de una diseñadora.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/K8zVnJa-bN8"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/17pnqjh30y40y7jz"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/5emradzfraao"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/qb1muu42o7rv"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/xlrPL0a83xik2Ak"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Camino de la venganza [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Acción, Western</genre>
 <year>2023</year>
