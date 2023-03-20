@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] La deuda [/COLOR][COLOR yellow](2018)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2018</year>
+<tmdb>513691</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/lPsEhmLVqzwbMNf1jjfEAia0viC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vEr6UxWjUVS55JZHSaQL8cZZCrN.jpg</fanart>
+<info>Un instructor de artes marciales arruinado acepta trabajar con un matón profesional para cobrar las deudas de una organización mafiosa.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/IJjEQ8toZ5E"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/00l1rjt84y7r-eg6"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/6ypnz8hgyh6e"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/s1g5vjby7qqz"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/xmdGP6Vj6Ku00b"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Love Hurts [/COLOR][COLOR yellow](2021)[/COLOR]</title>
 <genre>Suspense, Terror</genre>
 <year>2021</year>
