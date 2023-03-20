@@ -5,6 +5,18 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Love Hurts [/COLOR][COLOR yellow](2021)[/COLOR]</title>
+<genre>Suspense, Terror</genre>
+<year>2021</year>
+<tmdb>889418</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/xuIUfp5BuuHj8SbyutauxSGm9gJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4fdisyBFUi2AOreBU4agyL8wCRZ.jpg</fanart>
+<info>Un anfitrión encantador y enigmático invita a seis extraños a una cena, atraídos por la promesa de una recompensa financiera sustancial si duran toda la noche. Sin embargo, no todo es lo que parece.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/8nrOamuyRIk"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/l1k4wxu5rq8j78n2"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/g8y1yvs5obwk"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/xkfe3cntpgno"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/8VVLeGA07atGrL"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Debt Collectors 2 [/COLOR][COLOR yellow](2020)[/COLOR]</title>
 <genre>Acción, Comedia, Crimen</genre>
 <year>2020</year>
