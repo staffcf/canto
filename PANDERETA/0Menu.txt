@@ -784,6 +784,15 @@ misiones para devolver la esperanza a una galaxia dominada por un imperio despia
 <fanart>https://www.themoviedb.org/t/p/original/1rSLoRz1gZ5OizXIs4WZzErpenx.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR gold]* [COLOR white]Bill Russel: Leyenda [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>220030</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Bill.Russel.leyenda</externallink>
+<info>Documental sobre la vida y el legado de Bill Russell, leyenda de la NBA y figura destacada de los derechos civiles, de la mano del galardonado director Sam Pollard (MLK/FBI). La película incluye entrevistas exclusivas con Bill antes de su fallecimiento en 2022, así como acceso a sus extensos archivos personales. Desde sus humildes comienzos, Russell condujo a todos y cada uno de sus equipos de baloncesto a la conquista de campeonatos: dos títulos consecutivos de la NCAA, una medalla de oro en los Juegos Olímpicos de Melbourne de 1956 y once campeonatos en sus trece años de carrera con los Boston Celtics (los dos últimos, siendo el primer entrenador afroamericano de la historia de la NBA). Incluye entrevistas con familiares y amigos, así como con Steph Curry, Chris Paul, Magic Johnson, Shaquille O'Neal y Kareem Abdul-Jabbar, entre otros.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/nNQs0sJOZfJoKCOi2HsgcdUHcar.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zPiTYyJpwt1QIl0aukFSxJgw492.jpg</fanart>
+</item>
 
 <item>
 <title>[COLOR gold]* [COLOR white]Billy El Niño[COLOR white][/COLOR]</title>  
@@ -3048,6 +3057,26 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 <info>Definida como un anti cuento de hadas (de ahí el título), cuenta la historia de dos amantes separados de forma trágica que deberán reencontrarse en otra vida para romper el hechizo que ha caído sobre su pueblo. La llegada de dos turistas al lugar pone en peligro su única oportunidad de lograrlo.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/hpaErbWbGIWm4O1lhK3BzZVJgOf.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/xL1YOcYa1tC5QeNfzeJ24af0uRZ.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Escena Del Crimen: El Asesino De Times Square [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>153588</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Escena.del.crimen.el.asesino.de.times</externallink>
+<info>En los 70, el asesino de los torsos ataca a mujeres en Nueva York para satisfacer escalofriantes fantasías. Una docuserie que explora los aspectos más oscuros del crimen.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/biCPeLB51ZhRb9OhprVc02G2Xz3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/acBdq8OOWs8fg4wfynJKqxKtJYN.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Escena Del Crimen: Los Campos De La Muerte De Texas [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>214180</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Escena.del.crimen.los.campos.de.la.muerte</externallink>
+<info>Un campo vacío y un tramo de carretera conectan una serie de macabros asesinatos que abarcan varias décadas mientras las familias de las víctimas buscan respuestas</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/oMFf4Y45FHzeDxOohVr6Viosavs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ukSnhcUTgkMQXbuiHJiUMi6NBpU.jpg</fanart>
 </item>
 
 <item>
@@ -7877,6 +7906,16 @@ Una vez allí, se encontrarán con un enemigo mucho peor que los Goaul'd; los Wr
 <info>Serie de TV (2021-). Sigue a la periodista y al superhéroe más famoso del mundo y los cómics, y cómo lidian él y Lois todo el estrés, las presiones y las complejidades que conlleva ser lo que son y además ser padres trabajadores en la sociedad actual. </info>
 <thumbnail>https://i.imgur.com/uSOYlNY.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Supreme Team [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>204672</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Supreme.team</externallink>
+<info>Esta docuserie limitada analiza en profundidad a la notoria pandilla de Queens, Nueva York, y cuenta la historia real de boca de sus dos líderes y miembros de la familia, Kenneth "Supreme" McGriff y Gerald "Prince" Miller.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/6gTKBIIHIWA32eNEY0bV5Bku6fS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iOOwR8gQGdJoINZnssPjm3MfJrG.jpg</fanart>
 </item>
 
 <item>
