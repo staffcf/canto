@@ -2181,7 +2181,7 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <thumbnail>https://i.imgur.com/uXnsYCU.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Cuando una profecia condena a un reino a vivir un invierno eterno, la joven Anna, el temerario montañero Kristoff y el reno Sven emprenden un viaje epico en busca de Elsa, hermana de Anna y Reina de las Nieves, para poner fin al gelido hechizo. Adaptacion libre del cuento "La reina de las nieves".</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/q2z86wc4bp7p"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://vanfem.com/v/165g4ij4kgqz1kj"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://embedgram.com/f/641n54q19o034"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/q2z86wc4bp7p"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://vanfem.com/v/165g4ij4kgqz1kj"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://embedgram.com/f/641n54q19o034"},{"titulo" : "[COLOR white]Opcion 4 [COLOR red]HD 1080[/COLOR]","url" : "https://streamhide.to/w/294r8swjosmv"}</urlsolve>
 </item>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, Disney, Letra F, A2019, Princesas, "
