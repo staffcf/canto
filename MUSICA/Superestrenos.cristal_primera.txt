@@ -5,6 +5,42 @@
 =======================================================================================
 
 <item>
+<title>[COLOR white] Arctic Void [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Ciencia ficción, Suspense</genre>
+<year>2022</year>
+<tmdb>919873</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/tNsiUYvnPdzue9stFpqSAcXwuMe.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kUKp5yBReYoaI725GK2ND8g6IQJ.jpg</fanart>
+<info>Cuando el suministro eléctrico falla misteriosamente y casi todos desaparecen de un pequeño barco turístico en el Ártico, el miedo se convierte en el amo de los tres que quedan. Obligados a bajar a tierra, los hombres se deterioran en cuerpo y mente hasta que emerge una oscura verdad que los obliga a aliarse o perecer.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/8iqXPogvjiU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/61lmeju5-p7d826z"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/qirkbc4m3iij"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/9ezw6k399nqr"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/orb3xMmpd0TJ4oG"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Adicción perfecta [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Romance, Drama</genre>
+<year>2023</year>
+<tmdb>845659</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/zjrgQVa4ozRus7JTMVM9XjTnur8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lmPWCNEM05dhUAw87ieZnuzL9iJ.jpg</fanart>
+<info>La entrenadora de artes marciales mixtas (MMA) Sienna Lane (Madeira) pensaba que tenía su vida encaminada: una bonita casa, el trabajo de sus sueños y a Jax (Noszka), el amor de su vida. Sienna entrenó a Jax para convertirlo en el mayor campeón de MMA clandestino y, aparentemente, son una pareja irrompible. Todo parecía perfecto… hasta que dejó de serlo, y pilla a Jax engañándola con su hermana pequeña. Cuando se enfrenta a la traición de sus seres más queridos, Sienna prepara la venganza y planea darle a Jax donde más le duele: en el ring.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/WAc1y4K40AU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/00l1rjt845jkz8kp"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/iskjlmazuhbe"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/q4br6426jok4"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/6wP6Q3GyZVT9mWG"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La emperatriz rebelde [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama, Historia</genre>
+<year>2022</year>
+<tmdb>888321</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/9qLkSuohmY03fxrte9cex1nEXui.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7WYOxoM60Y1Ch4N85VdZ4Xd7T4V.jpg</fanart>
+<info>En la Navidad de 1877, Isabel de Austria (Sissi), celebra su 40º cumpleaños. Primera dama de Austria, mujer del emperador Francisco José I, no tiene derecho a expresarse y debe mantenerse hermosa y joven para siempre en su papel de emperatriz. Para satisfacer estas expectativas, adopta un estricto régimen de ayuno, ejercicios, peluquería y medición diaria de su cintura. Asfixiada por dichas convenciones, y con un apetito voraz de saber y de vida, Isabel se rebela cada vez más contra esta imagen.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ZU_Zy2jYORw"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/17pnqjh30xey2qe4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/e9kau7ie7sob"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/nvcalgv5fk55"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/wxxqlQMpYmTJRob"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] La deuda [/COLOR][COLOR yellow](2018)[/COLOR]</title>
 <genre>Drama</genre>
 <year>2018</year>
