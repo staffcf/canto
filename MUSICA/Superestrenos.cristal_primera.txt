@@ -4,6 +4,20 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 =======================================================================================
 
+
+<item>
+<title>[COLOR white] Reza por el diablo [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin valorar 
+[/COLOR]</title> 
+<genre>Terror,Suspense</genre>
+<year>2022</year>
+<tmdb>676547</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/pbjtKQIWDQzIP4eGiRVevp2Sec.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/94kQGMiFbs5MUTlt7kj9dewsMDi.jpg</fanart>
+<info>Una joven monja, la hermana Ann (Jacqueline Byers), se prepara para un exorcismo y se enfrenta a una fuerza demoniaca que está misteriosamente relacionada con su pasado.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/cqQwSbNhN50"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/m72m0-aepzqxxq4x"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/9njg3w4ntenqoq"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/f1nvlp8a11ce"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/poner"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/r45ycgm2t8az"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/R9j1y3oRgqsLQP"},{"titulo" : "[COLOR white]File Stream[/COLOR]","url" : "https://filemoon.sx/d/8lgluadvr7v5"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Arctic Void [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Ciencia ficción, Suspense</genre>
