@@ -3060,6 +3060,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Escena Del Crimen: Desaparicion En El Hotel Cecil [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>116989</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Escena.del.crimen.desaparicion.en.el.hotel.cecil</externallink>
+<info>El célebre hotel Cecil cae en la infamia cuando desaparece su huésped Elisa Lam. Con el creador de Las cintas de Ted Bundy, explora los aspectos más oscuros del crimen.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/p2pJ0g0Z5LSQiUhNpYwHHvt1f3P.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hT7azTyIUr5gaHUT9sT1gOMe3ig.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Escena Del Crimen: El Asesino De Times Square [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>153588</tmdb>
