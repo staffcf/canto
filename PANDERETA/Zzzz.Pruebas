@@ -19,7 +19,7 @@ from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
 import six
 TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
-url = 'https://pastebin.com/raw/h40VXE6e'
+url = 'https://pastebin.com/raw/Q9wXkM0H'
 titulo = 'Pruebas'
 import base64, codecs
 
