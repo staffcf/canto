@@ -2,7 +2,31 @@
  
 ==========================================================================================
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
-=======================================================================================
+==========================================================================================
+
+<item>
+<title>[COLOR white] Linoleum [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Ciencia ficción, Comedia, Drama</genre>
+<year>2023</year>
+<tmdb>765904</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/lAdPsBMnP5ctvKavQY9y8JazygK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3Tr4EWJhnvoQuA0DrpQg0ubxSU7.jpg</fanart>
+<info>Mientras su vida se desmorona y tras haber presenciado una serie de misteriosas señales, Cameron Edwin, el presentador de un fallido programa de televisión infantil sobre ciencia, decide que ha llegado el momento de cumplir su sueño: ser astronauta.La caída del cielo de un descapotable, el misterioso satélite espacial que se estrella en su patio trasero o la visión de una mujer desconocida hacen a Edwin replantearse que su vida tiene mucho más que decir que lo que él cree.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/qZN7GOf7N4g"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ok4rfstc63lq"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/ARPonQ3kboKzb1aE"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/8v26na5hjilq"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/kw4JjP1QzBCOLv7"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] No mires a los ojos [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama, Suspense</genre>
+<year>2022</year>
+<tmdb>939899</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/bYYlsHhcdA3QQIOuiFyRtV5w7c0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6XSDikVyntm4dHAacilTbWg8KvV.jpg</fanart>
+<info>Damián acaba de ser despedido tras 20 años trabajando en la misma empresa. Su reacción, furiosa y un tanto violenta, le lleva a salir corriendo y a esconderse en el primer sitio que encuentra al salir de la oficina: un armario cargado en una furgoneta. El armario, con Damián dentro, es entregado en casa de Lucía y Fede, una pareja de la edad de Damián que vive con su hija adolescente, María. Esa misma noche, un impulso inesperado lleva a Damián a quedarse con la familia para convertirse en una misteriosa presencia que observará y se moverá desde la sombra.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Sm6_rlrIKXw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ps3aep436c0x"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/aNdbzkZAGqZD8JjB"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/filaqk2ogrmc"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Mzv0gQKWWJhdGY"}</urlsolve>
+</item>
+
 
 <item>
 <title>[COLOR white] Till el crimen que lo cambió todo [/COLOR][COLOR yellow](2022)[/COLOR]</title>
