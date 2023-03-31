@@ -43,6 +43,19 @@
 
 
 <item>
+<title>[COLOR white] Pacto de graduacion [/COLOR][COLOR yellow](2023) [COLOR aqua]*Sin valorar 
+[/COLOR]</title> 
+<genre>Comedia,Romance</genre>
+<year>2023</year>
+<tmdb>932430</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/748fvxCzIKHKZI2c98DdWPAeNkR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jPKsE8cgehlau8V6YgNNVCMsoRK.jpg</fanart>
+<info>Se acerca el baile y la alumna de último curso Mandy y su mejor amigo y también marginado de la clase Ben se ven rodeados de exageradas "pedidas de baile". Mandy no pierde de vista el objetivo de ir a su universidad soñada, Harvard, pero, cuando empieza a darle clases particulares al triunfador jugador de baloncesto Graham, deberá plantearse si vale la pena echar a perder todo en lo que cree por la universidad de sus sueños.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/UQe6iO5laYo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/w0djegh25q2q-k04"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/xok1vopwhl89xqn"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ucisomezrerx"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/poner"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/8hqbr1u3neat"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/zwWr4kX2XAuYw0K"},{"titulo" : "[COLOR white]File Stream[/COLOR]","url" : "https://filemoon.sx/d/ckfe4rxvq9gk"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Linoleum [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Ciencia ficción, Comedia, Drama</genre>
 <year>2023</year>
