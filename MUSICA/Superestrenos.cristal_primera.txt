@@ -4,6 +4,28 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 ==========================================================================================
 
+<item>
+<title>[COLOR white] Medieval [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Acción, Drama, Historia</genre>
+<year>2022</year>
+<tmdb>551271</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/yl0pXqauu1xcJIG0mgAYml9ipSx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/maxRhndtC4BJABvqRPvYNu69CHA.jpg</fanart>
+<info>La historia del icono y señor de la guerra checo del siglo XIV, Jan Zizka, que derrotó a los ejércitos de la Orden Teutónica y el Sacro Imperio Romano Germánico.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/AmQILSvYajI"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/n2rcu8zjl4l8"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/AkQpz93KWL8nRdN6"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/551r2kutymgv"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/opMKRap02yiJm73"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Nube en el desván [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2022</year>
+<tmdb>915997</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/yAL4RjyXWvi0m5Lcrdha7PciYI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5maha8Ebi5gX3SNRKfeiJUJIkWv.jpg</fanart>
+<info>Paul, Julia y Lilly son una familia feliz, hasta que Julia muere inesperadamente. Por el bien de su hija, Paul quiere seguir adelante y reprimir su dolor. Lilly sigue desafiándolo con su imaginación y su propia visión de la muerte de mamá.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/WfTr_O-ViOA"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/2wcqvsaqlcv5"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/r8WdlWmy829Djx4q"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/gvcakyk373hc"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/pjWbmX0Y0WIrePQ"}</urlsolve>
+</item>
 
 
 <item>
