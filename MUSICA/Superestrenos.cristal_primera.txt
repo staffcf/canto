@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Mantícora [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama, Suspense</genre>
+<year>2022</year>
+<tmdb>760158</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/3VnI5ab8uIfg1nF65dhJG8t8fKn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sLgFqVM1ci1bY7DIZg8PtPQnEZw.jpg</fanart>
+<info>Sigue a Julian, un exitoso diseñador de videojuegos torturado por un oscuro secreto. Cuando Diana aparezca en su vida, Julian comenzará a ver una oportunidad de ser feliz. Según Vermut, “Mantícora” habita en el mismo universo de terror cotidiano que el resto de sus películas hasta la fecha. “'Mantícora' habla de un verdadero monstruo, ese que vive entre nosotros, algo con lo que te puedes topar en el metro o en la cola de la panadería. Habla de la necesidad de un monstruo de amar y ser amado</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Mo462daEhgA"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/gw9jt7qltq7f"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/rZ45Drp71wvlM81R"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/s6xovv56gvob"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/RLrvOX6wyDSBLy"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Medieval [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Acción, Drama, Historia</genre>
 <year>2022</year>
