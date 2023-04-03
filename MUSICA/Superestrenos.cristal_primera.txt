@@ -4,6 +4,17 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 ==========================================================================================
 
+<item>
+<title>[COLOR white] Studio 666 [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Terror, Comedia, Música</genre>
+<year>2022</year>
+<tmdb>895744</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/vMEZTTeb73tVTWASyG8T4hKAS7j.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eJza1AVWOGxDtJ0hJpzkhG1gpng.jpg</fanart>
+<info>La legendaria banda de rock Foo Fighters se muda a una mansión de Encino inmersa en la espantosa historia del rock and roll para grabar su muy esperado décimo álbum. Una vez en la casa, Dave Grohl se encuentra lidiando con fuerzas sobrenaturales que amenazan tanto la finalización del álbum como la vida de la banda.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/NcuRqhkHEE0"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/qq7rexh4zwj51rdy"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/alc5wykvmbjm"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/nqwb1gr30029"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/3rlxVg4yboidZRk"}</urlsolve>
+</item>
+
 
 <item>
 <title>[COLOR white] Momias [/COLOR][COLOR yellow](2023) [COLOR aqua]*Sin valorar 
