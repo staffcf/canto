@@ -5,6 +5,42 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Tormenta infinita [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Suspense, Aventura, Drama</genre>
+<year>2022</year>
+<tmdb>811631</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/fXTS38zTm9PnhtXXyXhP92PEWoZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3ZI5q4OLVgrjPoImRNYfqgD2yDU.jpg</fanart>
+<info>El viaje de una mujer por el autodescubrimiento se convierte en una desgarradora historia de supervivencia</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/1doAmMGu0-8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/vlgdb4dn8rl0"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/AoNaDdvQ0E7lmZg5"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/vdfaukhlj7gb"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/mk0lmPDxwphbqMW"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La canción del marinero [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama, Romance</genre>
+<year>2022</year>
+<tmdb>511424</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/n9GG8ChQ5NWyqZWBmZYiJt8CIEQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zCU1WbqBIkuIR6AucRnrXSkCA1Z.jpg</fanart>
+<info>El cascarrabias capitán de barco jubilado Howard vive aislado del mundo en su desordenada casa. Su hija Grace decide contratar a Annie, una viuda del pueblo, para que cuide de él. A pesar de que Howard rechaza en un principio los favores de Annie, este acabará enamorándose de ella.Los espectaculares paisajes de la costa irlandesa se convierten en cómplices de una historia de amor en la vejez, de las heridas sin cerrar entre un padre y una hija, de la culpa y el remordimiento, pero, también, de la sanación.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/SMrF0QLimao"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/qoifi04bk52d"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/0rwmD7p23EVzRaZ8"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/7hh48zipm93f"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/G39kAJXGe4s17Wl"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Dilo alto y fuerte [/COLOR][COLOR yellow](2021)[/COLOR]</title>
+<genre>Drama, Música</genre>
+<year>2021</year>
+<tmdb>575764</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/72LhoW3zKg0vG6VyQ6aVPvCkqMV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rSe91A7V64Vmtd1f9Hn5tbPUlo.jpg</fanart>
+<info>Un drama realista ambientado en el centro cultural del barrio de Casablanca Sidi Moumen, un suburbio pobre que se hizo infame en 2003 debido a un ataque terrorista perpetrado por lugareños.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Vw4Vz5uePMc"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/qwupecry324m"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://mixdrop.gl/e/qln8r6mls796r1"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/v4vsxte6z26n"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/y7oaxOz99zH1l6P"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Avatar: El sentido del agua [/COLOR][COLOR yellow](2022) [COLOR aqua]*Sin valorar 
 [/COLOR]</title> 
 <genre>Ciencia ficción,Aventura,Acción</genre>
