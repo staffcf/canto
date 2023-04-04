@@ -17722,6 +17722,18 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 
 
 <item>
+<title>[COLOR white] Boruto: Naruto La Pelicula [/COLOR][COLOR yellow](2015)[/COLOR]</title>
+<genre>Animación, Acción, Comedia</genre>
+<year>2015</year>
+<tmdb>347201</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/2YW6zJnSTAsgDRvaU0CAj0nrmXz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8kQtBcax6zqiwFhDRS2mmPvLf8.jpg</fanart>
+<info>Han pasado algunos años desde el final de la Guerra Shinobi. Naruto Uzumaki es el séptimo Hokage de Konoha, en esta nueva era. Su hijo, Boruto Uzumaki, pronto entrará en los exámenes de Chunin, junto Sarada Uchiha y el misterioso Mitsuki.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/SqWL94gijuA"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/hyjkfuahobwc"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/qR7MzRrjkE6zwA3d"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/d6yv3u1i6xuz"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/1RRreAdy6Ju1ZY"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Brácula: Condemor II [/COLOR][COLOR yellow] (1997) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Terror,Comedia</genre>
 <year>1997</year>
@@ -18933,6 +18945,18 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 <fanart>https://www.themoviedb.org/t/p/original/ouoi01NpFt3WxpfIwfOVQ9p8gKk.jpg</fanart>
 <info>Álex y Cata, dos jóvenes</info>
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/PiFW3CeFuxQ"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/17pnqjhjl4kdrl7NO"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/lrh5hf08ksbj"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/qwo9ly1g8eLlrWvP"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/rq7mpzjt73aa"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/e0J8Bmdy62CkVR"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Tomie Unlimited [/COLOR][COLOR yellow](2011)[/COLOR]</title>
+<genre>Terror</genre>
+<year>2011</year>
+<tmdb>85349</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/luhFoJTtArNDzsLKB0dor9xRF8M.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jiGjjZKAhIvvM4mqlgKmSCr1DFg.jpg</fanart>
+<info>Tsukiko, es un fotografo, miembro de un Club en la escuela, pero siempre se ha sentido menos que su hermana Tomie. Ella es linda y muy popular entre los niños. Sin embargo, un día, Tomie muere en un accidente horrible, por lo que Tsukiko,le provoca pesadillas escalofriantes. Un año más tarde, cuando Tomie se supone que cumpliría 18 años, y un día alguien llama a la puerta. Tomie está de vuelta. Poco a poco, Tomie comenzará a mostrar su lado más oscuro, por lo que Tsukiko vuelve a tener las mismas horrendas pesadillas.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/rN7XwM9HTOU"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/1hk1ffcp077v"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/0rwmD7p23G0zRaZ8"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/z63s8u83mq91"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/lPkyzwKRz1CZxg"}</urlsolve>
 </item>
 
 
