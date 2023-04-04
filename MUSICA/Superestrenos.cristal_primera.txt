@@ -13,7 +13,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/kUAG4ZQcsNbRyiPyAr3hLdsVgAq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/vLT1Imot1ydxBncHq6V8yJ4emYh.jpg</fanart>
 <info>Ambientada más de una década después de los acontecimientos de la primera película, 'Avatar: The Way of Water' empieza contando la historia de la familia Sully (Jake, Neytiri y sus hijos), los problemas que los persiguen, lo que tienen que hacer para mantenerse a salvo, las batallas que libran para seguir con vida y las tragedias que sufren.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/kPMi_VxqcUc"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://sbvideo.net/e/1lmbyc5739ne"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/QdWLjJPYBYUGok"},{"titulo" : "[COLOR white]File Stream[/COLOR]","url" : "https://filemoon.sx/d/poner"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/kPMi_VxqcUc"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://sbvideo.net/e/1lmbyc5739ne"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/QdWLjJPYBYUGok"},{"titulo" : "[COLOR white]File Stream[/COLOR]","url" : "https://filemoon.sx/d/cd4n60j2hryo"}</urlsolve>
 </item>
 
 
