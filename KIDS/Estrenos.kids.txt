@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-
+<item>
+<title>[COLOR white] Momias [/COLOR][COLOR yellow](2023)[/COLOR]</title> 
+<genre>Animación,Comedia,Familia,Aventura,Fantasía</genre>
+<year>2023</year>
+<tmdb>816904</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/g5vkJAPj4XFlaOXZMYE97LZ7lns.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sboMwGyRVylhMvyRC4Vcflharl0.jpg</fanart>
+<info>En las entrañas de la tierra, ¡existe una ciudad de momias! Por mandato imperial, la Princesa Nefer debe casarse con Thut, un ex auriga de carros. Ninguno desea el matrimonio; Nefer porque ansía la libertad, y Thut porque es alérgico al matrimonio. Pero los designios de los dioses son irrevocables: Thut deberá desposar a Nefer y custodiar el anillo real que el Faraón le ha otorgado; si algo le ocurriera a este, Thut perdería los ojos y la lengua. Mientras tanto, en nuestro mundo, Lord Carnaby lleva a cabo una excavación arqueológica y encuentra algo único: ¡un anillo de boda real egipcia! Thut debe ir al mundo de los humanos para recuperarlo. Le acompaña Sekhem, su hermano de 12 años, con su mascota cocodrilo, y Nefer. Juntos vivirán una gran aventura en la moderna Londres y descubrirán algo que no entraba en sus planes: enamorarse.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/-K6R-J3PjpE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/5pyw36a4rnkp6xn4"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/vn097z1phpw8do"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/4fh01km7pq8y"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://sbvideo.net/e/4fh01km7pq8y"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/9alwzp5osg23"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/kDW0QkrMadFOOJB"},{"titulo" : "[COLOR white]File Stream[/COLOR]","url" : "https://filemoon.sx/d/o8i8crjkddhb"}</urlsolve>
+</item>
 
 
 <item>
