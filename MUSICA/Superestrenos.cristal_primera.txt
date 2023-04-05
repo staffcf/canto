@@ -4,6 +4,21 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 ==========================================================================================
 
+
+
+<item>
+<title>[COLOR white] El piloto [/COLOR][COLOR yellow](2023) [COLOR aqua]*Sin valorar 
+[/COLOR]</title> 
+<genre>Acción,Aventura,Suspense</genre>
+<year>2023</year>
+<tmdb>646389</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/juoinefK6tMbjwJhRpRvbAAmrTB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aCWzIOV7LimY9HKrIdREsfGrjPt.jpg</fanart>
+<info>En la noche de fin de año, el piloto experto Brodie Torrance (Gerard Butler) realiza un arriesgado aterrizaje cuando su avión, repleto de pasajeros, es alcanzado por un rayo. Perdidos en medio de una isla devastada por la guerra, Torrance se dará cuenta que sobrevivir al vuelo sólo ha sido el principio de una trepidante aventura llena de peligros. El piloto deberá usar todo su ingenio para llevar a los pasajeros a sus destinos sanos y salvos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/7AGyfcwVssE"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/nz7qrgu7z-kw0-54"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/7rvwv9dvtrqxo9"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/07x3wq6o2k5n"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://sbvideo.net/e/4vv17zhtf2nt"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/0z5hvcwa0hlt"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/oArQDY22OaTJ2Y4"},{"titulo" : "[COLOR white]File Stream[/COLOR]","url" : "https://filemoon.sx/d/poner"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Tormenta infinita [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Suspense, Aventura, Drama</genre>
