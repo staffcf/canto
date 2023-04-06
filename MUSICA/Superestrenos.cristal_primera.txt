@@ -4,6 +4,28 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 ==========================================================================================
 
+<item>
+<title>[COLOR white] Zoe y Tempestad [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Comedia, Familia</genre>
+<year>2023</year>
+<tmdb>894246</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/elD8P3zXAOy6k4SdpSPb7nCmH07.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mfSVoKK4QBlDJtLQsboMMGZZwyV.jpg</fanart>
+<info>El vínculo profundo y excepcional entre un caballo y un joven jinete, y su incansable batalla para superar las adversidades tras un devastador accidente.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/WVFFi9nOGp8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/636estot8txg"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/gNXKzZO0OVqlEk6P"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/rglb6zgl3gjt"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Zxb0zqqVJMFqQz6"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El viaje a París de la señora Harris [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama, Comedia</genre>
+<year>2022</year>
+<tmdb>754609</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/aKYWAn6ry9AYCSo0zGqA4czxHeB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/z2QcdCqCDFmLruwEXBA4vRLgLM.jpg</fanart>
+<info>En 1957, una limpiadora viuda de Londres se enamora perdidamente de un vestido de Christian Dior y decide que ella debe hacerse con uno.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Mih2e6dYd6U"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/zvo1fyxotuyd"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/LMEmnAkqkjxzgPvq"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/koiec753vsz7"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/6azQXBARrlu90vq"}</urlsolve>
+</item>
 
 
 <item>
