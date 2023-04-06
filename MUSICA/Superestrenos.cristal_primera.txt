@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Creed III [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Acción</genre>
+<year>2023</year>
+<tmdb>677179</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/fcFMd3HdyX7r5gtFwVnn2qr5Yhq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5i6SjyDbDWqyun8klUuCxrlFbyw.jpg</fanart>
+<info>Después de dominar el mundo del boxeo, Adonis Creed ha prosperado tanto en su carrera como en su vida familiar. Cuando un amigo de la infancia y ex prodigio de boxeo, Damien Anderson, resurge después de cumplir una larga sentencia en prisión, está ansioso por demostrar que merece su disparo en el ring. El enfrentamiento entre los antiguos amigos es más que una pelea. Para resolver el puntaje, Adonis debe poner su futuro en la línea para luchar contra Damien, un luchador que no tiene nada que perder.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/IeZ5xDv3w6A"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/0bfkay1l2hu6"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/NGePnbXbX9xzQqrY"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/oa2yidqbc2k4"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/699eKvw04DC9Mxv"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Historias para no contar [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2022</year>
+<tmdb>801860</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/ygTBMdVYgzXAZNBXRLCZTFe5l7M.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jKSCK59bJwAkNZzG9mfQzPCI2N9.jpg</fanart>
+<info>Nos contará situaciones en las que nos podemos reconocer y que preferiríamos no explicar, o incluso olvidar. Encuentros inesperados, momentos ridículos o decisiones absurdas, cinco historias con una mirada ácida y compasiva a la incapacidad para gobernar nuestras propias emociones.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/InddcNZWTvo"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/e2rekk63miem"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/NGePnbXbXBozQqrY"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/smmwrg7djm2m"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/JkoPoq6AyPcgWq"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Zoe y Tempestad [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama, Comedia, Familia</genre>
 <year>2023</year>
