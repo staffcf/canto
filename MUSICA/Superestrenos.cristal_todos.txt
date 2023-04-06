@@ -20375,17 +20375,6 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 </item>
 
 <item>
-<title>[COLOR white] Plague [/COLOR][COLOR yellow](2015)[/COLOR]</title>
-<genre>Drama, Terror</genre>
-<year>2015</year>
-<tmdb>296244</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/original/uGDNrVkDRoVCp2mApa9AsucW2d8.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/fEZBTbG7Srjhh2VR3CbrHOhGJMr.jpg</fanart>
-<info>Un pequeño grupo de supervivientes en una Australia post-apocalíptica, buscan refugio de una infección que se ha extendido como una plaga entre la población humana. Evie (Tegan Crowley) y sus compañeros se separan de su marido John (Scott Marcus). Evie se niega a dejar atrás a John en contra de los deseos del grupo y se rebelan y abandonan Evie a un destino incierto. Con la llegada inesperada de Charlie (Steven Kennedy) lo que parece ser una oportunidad parfa un nuevo comienzo rápidamente se convierte en un horror tan amenazador como los infectados que les persiguen.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/2SPEHE-N7tw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/7giqj3p2gpnk"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/WwyJnL909EQDMbPa"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/bktqwt6gasa3"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/KQrQr9AQxwc02DK"}</urlsolve>
-</item>
-
-<item>
 <title>[COLOR white]Superman:Hijo Rojo [COLOR gold](2020)[/COLOR]</title> 
 <genre>Animacion,Ciencia ficcion,Accion</genre>
 <year>2020</year>
