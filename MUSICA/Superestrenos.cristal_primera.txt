@@ -4,6 +4,20 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 ==========================================================================================
 
+
+<item>
+<title>[COLOR white] Operación Fortune: El gran engaño [/COLOR][COLOR yellow](2023) [COLOR aqua]*Sin valorar 
+[/COLOR]</title> 
+<genre>Acción,Suspense,Comedia</genre>
+<year>2023</year>
+<tmdb>739405</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/u1WvYS8FRczTY3hv3CBBQzf1vht.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2mJLX6OaQHACvPhkPTEPHjO7p5o.jpg</fanart>
+<info>La historia de un agente que es reclutado por una alianza de inteligencia global para rastrear y detener la venta de nuevas tecnologías de armas mortales.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/baX3RNrnZlM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/no funciona"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/poner"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/2bzjtcscqd06"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://sbvideo.net/e/2bzjtcscqd06"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/4c0o4sljg4wl"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/YKKMRP26KVUvm2M"},{"titulo" : "[COLOR white]File Stream[/COLOR]","url" : "https://filemoon.sx/d/poner"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Creed III [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama, Acción</genre>
