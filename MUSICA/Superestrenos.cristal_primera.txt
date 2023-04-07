@@ -4,6 +4,20 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 ==========================================================================================
 
+
+<item>
+<title>[COLOR white] La niña de la comunión [/COLOR][COLOR yellow](2023) [COLOR aqua]*Sin valorar 
+[/COLOR]</title> 
+<genre>Terror</genre>
+<year>2023</year>
+<tmdb>1008005</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/nsAM1sD6lOogfWbbWbJDYojKfGF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/54IXMMEQKlkPXHqPExWy98UBmtE.jpg</fanart>
+<info>Finales de los 80, en un pueblo no determinado. Sara (Carla Campra) acaba de llegar al pueblo y no encuentra su lugar en ese espacio cerrado. Su mejor amiga es Rebe (Aina Quiñones), mucho más extrovertida. Una noche van a una discoteca, toman drogas y durante el trayecto a casa encontrarán una muñeca vestida de comunión. A partir de ese momento, comenzará la pesadilla.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/yYk2xsHPGMs"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/no funciona"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/rwrkp7lna10g9o"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ffi3kee68an6"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://sbvideo.net/e/ffi3kee68an6"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/80jbgikoena7"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/kZBJdV1j6RCOzKl"},{"titulo" : "[COLOR white]File Stream[/COLOR]","url" : "https://filemoon.sx/d/s2dv3jojiejw"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Adrenaline [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Acción</genre>
