@@ -4,6 +4,41 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 ==========================================================================================
 
+<item>
+<title>[COLOR white] Sucias mentiras [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama, Película de TV</genre>
+<year>2022</year>
+<tmdb>984303</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/x8YccQBHd441TQvIOS9PMGBTh74.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5TdlU03ONotZdk2XNTWQh0e2El8.jpg</fanart>
+<info>Lucy es una estudiante destacada en sus estudios y vive junto a su madre, quien es enfermera. A pesar de su profesión, su madre padece el síndrome de Diógenes, una enfermedad que la lleva a acumular una gran cantidad de objetos en su hogar, lo que hace que esté completamente lleno de trastos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/18nU9Lv4Yz8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/lbhxboyn4rjn"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/kEL0lpYbpGynavXV"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/gdb0ysic31j0"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/0rqRXe0kvjh09j"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Sin tiempo para amar [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Ciencia ficción, Romance, Suspense</genre>
+<year>2022</year>
+<tmdb>659924</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/t8QbtUG1rAXFa2PSBLfdGRWD2ZW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gbi8vXGg30ASL5Ks64ieEJb33P.jpg</fanart>
+<info>En un futuro inexplorado, dos almas curtidas se encuentran y se enfrentan la una a la otra con las cosas que han hecho y con lo que han llegado a ser.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/UU2AZWmOUU8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/qzur12mpftqt"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/AQ9qzxNr14dn4mME"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/qzd3xa7sx6me"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/m9YGjXMPk3FborM"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] R.M.N [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2022</year>
+<tmdb>919570</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/wQXWnmOvh9GlcRJ29WXMSBeiv1Q.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9Eu0bBGUAyj7GNycQ5N5YyXJTOX.jpg</fanart>
+<info>Unos días antes de Navidad, Matthias vuelve a su pueblo natal, una localidad multiétnica de Transilvania, tras dejar su trabajo en Alemania. Está preocupado por su hijo, Rudi, que ha crecido sin él, y por su padre, Otto, que se había quedado solo, y desea volver a ver a Csilla, su exnovia. Trata de implicarse más en la educación del niño, que ha pasado demasiado tiempo a cargo de su madre, Ana, y quiere ayudarle a superar sus miedos irracionales.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/5L6GhYsG5lo"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/3ypmic7wmhi0"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/BQe7lBoNvpMn59bO"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/kcnz5z71ik0f"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/1deBoPW6YVHeob3"}</urlsolve>
+</item>
+
 
 <item>
 <title>[COLOR white] La niña de la comunión [/COLOR][COLOR yellow](2023) [COLOR aqua]*Sin valorar 
