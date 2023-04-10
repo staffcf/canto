@@ -1217,6 +1217,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Clandestino Con David Beriain [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>66645</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Clandestino</externallink>
+<info>David Beriain se sumerge a través de 'Clandestino' en la realidad más cruda que ofrecen los distintos temas que aborda. Desde la situación de los Hmong en Vietnam, hasta las Maras de El Salvador, pasando por el Cartel de Sinaloa y los cazadores furtivos africanos. Una aventura periodística donde ofrecer los datos más precisos y las imágenes más arrolladoras.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/yjzPYUrPUwETQPNTK0JrO1JMdca.jpg</thumbnail>
+<fanart>https://i.imgur.com/QqGN4Sv.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Clickbait[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>129495</tmdb>
