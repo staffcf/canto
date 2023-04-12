@@ -5,6 +5,42 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Amenaza en las profundidades [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Terror</genre>
+<year>2022</year>
+<tmdb>1089928</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/Ahc7j8eZfca8PCKpoWIWPM03fyO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/b3fIlo6Wd7RjCiLZP0FuPMZehnD.jpg</fanart>
+<info>Cuando un misterioso monstruo emerge del río Mekong, la provincia norteña de Bueng Kan, situada en Tailandia, queda repentinamente aislada del mundo exterior. Funcionarios, científicos y ciudadanos del lugar deben movilizarse para detener al monstruo antes de que sea demasiado tarde y toda la ciudad sea destruida. Pero puede que este monstruo no esté solo después de todo...</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/4x1FRtMZF2M"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/03uhfvqh8i83"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/vb6NnJy0qvwlPOkZ"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/2zkz6zfa8n4q"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/GpGRWXWOrVUo14"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Hellraiser [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Terror, Misterio</genre>
+<year>2022</year>
+<tmdb>338947</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/rlUgQEgo0gvIfzX0nCQUKM04P3o.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qoDbQW14RYP8Agzl1IpVCWIEGTn.jpg</fanart>
+<info>Una joven que lucha contra la adicción se apodera de una antigua caja de rompecabezas, sin saber que su propósito es convocar a los Cenobitas, un grupo de sádicos seres sobrenaturales de otra dimensión.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/-6wR9A0igZ8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/w8gyng7jitwk"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/OE0wDKM0vwpl3oMa"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/qc2zlxwsm5ux"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/BbAYeQBzqquyLQp"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Nombre en clave: Polonia [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Comedia, Romance</genre>
+<year>2022</year>
+<tmdb>1011367</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/iyJNumu9bpLCXWcutryAvkVlGhN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mphFhFjvTGsDnSQMUIyms2GD4T0.jpg</fanart>
+<info>Si no fuera por una lesión, Staszek sería hoy una estrella de la Premier League. Si no fuera por su corazón roto, Pola seguiría viviendo en Varsovia. Si no fuera por una casualidad ciega, es posible que nunca se hubieran conocido; por lo tanto, las cosas que fueron noticia en todo el país nunca habrían sucedido. Pero lo que se hace no se puede deshacer, y así es como comienza una montaña rusa. Él resulta ser un alborotador local y un miembro de la pandilla nacionalista de Roman, mientras que ella es una activista que representa todo aquello contra lo que Staszek y sus amigos radicales luchan</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/37UqyBjl5xM"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/kwgs7qjqyeie"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/qR7MzRr0E8xzwA3d"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/skltsacr7ix5"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/bwGYloV0eocPpdz"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Sucias mentiras [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Drama, Película de TV</genre>
 <year>2022</year>
