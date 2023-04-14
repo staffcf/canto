@@ -8089,6 +8089,16 @@ Una vez allí, se encontrarán con un enemigo mucho peor que los Goaul'd; los Wr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]The Big Bang Theory[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<tmdb>1418</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.big.bang.theory</externallink>
+<info>Leonard y Sheldon son dos cerebros privilegiados que comparten piso. Aunque los dos, doctores en Física, son capaces de calcular las probabilidades de existencia de otros mundos, no saben cómo relacionarse con los demás, especialmente con las chicas. Penny, una vecina recién llegada, es el polo opuesto a los dos amigos, de modo que su llegada altera la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/nkVMUEcFP2gMkRHWCSxSM272H7k.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jE5QJSjicV8AYE8g7NoSyMM22Rq.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]The Blacklist[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <tmdb>46952</tmdb>
