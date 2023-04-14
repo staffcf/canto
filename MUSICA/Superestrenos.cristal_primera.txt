@@ -41,18 +41,6 @@
 
 
 <item>
-<title>[COLOR white] Fuga de Reinas [/COLOR][COLOR yellow](2023)[/COLOR]</title>
-<genre>Acción, Comedia</genre>
-<year>2023</year>
-<tmdb>1101799</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/original/3raY76KtEzSHya5rcC2j37qGI9L.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/xioKWetNlTLh3kVVPtykBrBSCrU.jpg</fanart>
-<info>Cuando cuatro mujeres finalmente hacen el viaje por carretera que planearon en la escuela secundaria, no tienen idea de las cosas con las que se encontrarán, a veces literalmente.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/_jmSqAccftc"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/wjzyrwnc1bp2"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/r8WdlWm0jBvDjx4q"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/r8qsi35153wk"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/wPqAJbxdLgFJRD2"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/64392p4319001"}</urlsolve>
-</item>
-
-
-<item>
 <title>[COLOR white] Dig [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Misterio, Suspense</genre>
 <year>2022</year>
