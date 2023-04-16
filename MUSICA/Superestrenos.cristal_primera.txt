@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] BDE [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2023</year>
+<tmdb>957752</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/ofWJ1UiUFJncIGBV2E9f9CGRFwk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1gTFmRcIWZWJyyTrGZMOMRT2utw.jpg</fanart>
+<info>La historia de cuatro amigos de toda la vida que se conocieron en la década de 2000 cuando eran presidentes de la BDE del Instituto de Negocios de Nantes. En ese momento, eran los "Bioman": los reyes de la fiesta, el exceso y la "transmutación". 20 años después, se han calmado y llevan una vida ordenada. Excepto... Una vez al año, cuando se juntan para la WEB: el Bioman Weekend. Allí, se "transmutan" con fuerza como les gusta decir. En resumen: beben y cantan de forma patética.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/277gH6Z9sNM"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/6akt87022ar7"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/NGePnbXbBwVzQqrY"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/RQv3vApZ1mHjdP"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/643p32r44pr32"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La orquesta terrestre [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Animación, Aventura, Comedia</genre>
+<year>2022</year>
+<tmdb>946700</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/bWjM6D3d6CtaJevK2PwbpceYMGZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lRFDTddGLYAb23TbpagJXpbDt5C.jpg</fanart>
+<info>Manu, siendo niño, se enamoró platónicamente de la gran Pianista Stella Panini y su sueño es conocerla. Para ello, siguiendo el consejo de un turbio personaje, Stefano Salegi, que luego se convertirá en manager, formará una orquesta. Pero Manu, además de un soñador con mayúsculas, es también un incomprendido, un outsider que va por libre, empezando por la peculiaridad de su instrumento, que no es otro que la escoba… Ello no le impide crear una peculiar orquesta formada por una contrabajista que siente picores en la axila cuando está nerviosa, dos hermanos gemelos que tocan los vientos y cuentan con un olfato sobrenatural, un contratenor bigotudo y un percusionista que toca un triángulo en el que se posa un jilguero. Les acompaña, además, una cabra gitana que hace el número de la escalera.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/l38yem5an6w"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/q1mdk89pnb7s"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/rJmXD0kwOV9nGg8o"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Od6A1vPRlWfZRvD"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/643p285p6o258"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Fenómenas [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Terror, Misterio</genre>
 <year>2023</year>
