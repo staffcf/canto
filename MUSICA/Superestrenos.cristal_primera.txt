@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] TÁR [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama, Música</genre>
+<year>2022</year>
+<tmdb>817758</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/pez4DiE9BD9elBI2U7FCzZbD1ld.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bSJjFWSFVnG0gOP3zFyFjpE1SkZ.jpg</fanart>
+<info>La mundialmente famosa Lydia Tár está a solo unos días de afrontar el mayor reto de su carrera profesional: grabar la sinfonía que la llevará a las alturas de su ya formidable carrera. Pero su vida personal y sus decisiones van a ir interfiriendo en su carrera musical con consecuencias imprevisibles.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ZFByJDW9MjY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ietr5ns5o9jo"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/BQe7lBoNWX3n59bO"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/yPXd0ZBoYoc1lA8"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/643r8r10q35p2"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El suplente [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama, Crimen</genre>
+<year>2022</year>
+<tmdb>886755</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/bcSnHRPfJxp7XAk8u3FW7s5d9Eq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kCHImXJGEzD3ACuiNSRHsfKg6T0.jpg</fanart>
+<info>ucio, un prestigioso profesor de literatura en la universidad, toma un curso en una escuela del barrio donde creció, en los suburbios de Buenos Aires. Allí intentará ayudar a su padre a salvar a Dilan, un estudiante perseguido por un grupo de narcos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/UcP7QmdM2VU"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/5ci9bdymrkc1"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/Jj8GzOq0w02nvPog"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Y7Y79ppYB2f2X2"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/643r8q17o1583"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Ant-Man y la Avispa: Quantumanía [/COLOR][COLOR yellow](2023) [COLOR aqua]*Sin valorar 
 [/COLOR]</title> 
 <genre>Ciencia ficción,Aventura,Acción</genre>
