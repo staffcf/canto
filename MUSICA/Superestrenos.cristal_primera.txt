@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] 1945: tres mujeres [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama, Historia, Bélica</genre>
+<year>2022</year>
+<tmdb>915892</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/sBfuq7lkQR5tXmYe2l3LLfxmniv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tESnU0mK0ZibM4BVmtTf9144rkQ.jpg</fanart>
+<info>Este drama emocionante tiene lugar durante los últimos días de la Segunda Guerra Mundial, en un mundo destrozado por los hombres. Tres mujeres, completamente diferentes entre sí, encuentran una forma de comprenderse mutuamente. Inspirada en hechos reales, la película narra la increíble historia de una joven alemana, una valiente judía holandesa y una francotiradora rusa que unen sus fuerzas para sobrevivir. Su lucha por la supervivencia comienza cuando un tren, que transporta a cientos de prisioneros judíos, queda varado cerca de un pequeño pueblo alemán.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/srvwdJXbZNg"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ryud3nazwjwh"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/0rwmD7pqe51zRaZ8"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/qvw8bAoePeUaQK"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/643sqpp4s0019"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Supercuñados [/COLOR][COLOR yellow](2020)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2020</year>
+<tmdb>745613</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/bvB1I18iXvHISItgviYC7hpZ4c0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fSWagAf8TzUt8q6FNKPdMjPLmi2.jpg</fanart>
+<info>Tres padres de familia, que también son cuñados entre si, hacen un pacto para salvar a sus hijas de sus novios.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/PsK_DCzwbVI"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/vdgxgy5eyfac"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/AQ9qzxNrBKWn4mME"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/DzwpAq3AbxFk9MG"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/643r8q156rp0p"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] TÁR [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Drama, Música</genre>
 <year>2022</year>
