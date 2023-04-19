@@ -17,18 +17,6 @@
 
 
 <item>
-<title>[COLOR white] El suplente [/COLOR][COLOR yellow](2022)[/COLOR]</title>
-<genre>Drama, Crimen</genre>
-<year>2022</year>
-<tmdb>886755</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/original/bcSnHRPfJxp7XAk8u3FW7s5d9Eq.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/kCHImXJGEzD3ACuiNSRHsfKg6T0.jpg</fanart>
-<info>ucio, un prestigioso profesor de literatura en la universidad, toma un curso en una escuela del barrio donde creció, en los suburbios de Buenos Aires. Allí intentará ayudar a su padre a salvar a Dilan, un estudiante perseguido por un grupo de narcos.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/UcP7QmdM2VU"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/5ci9bdymrkc1"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/Jj8GzOq0w02nvPog"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Y7Y79ppYB2f2X2"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/643r8q17o1583"}</urlsolve>
-</item>
-
-
-<item>
 <title>[COLOR white] Ant-Man y la Avispa: Quantumanía [/COLOR][COLOR yellow](2023) [COLOR aqua]*Sin valorar 
 [/COLOR]</title> 
 <genre>Ciencia ficción,Aventura,Acción</genre>
