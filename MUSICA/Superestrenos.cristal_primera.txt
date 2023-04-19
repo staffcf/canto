@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Mighty Morphin Power Rangers: Ayer, hoy y siempre [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Ciencia ficción, Fantasía</genre>
+<year>2023</year>
+<tmdb>1068141</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/qj1NrdMSm2xinqchBDD23U83vj8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vcNXzOfACCXZA7vb8SNde0LUC9o.jpg</fanart>
+<info>Cuando la tragedia golpea a los Power Rangers, una joven heroína se une a ellos para enfrentarse a su archienemiga más antigua.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/1QN9fHIITZI"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ogc9ix8pmaz9"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/LvgezwvbqkQDbp8E"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/ja2qaWGQrLcqAX"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/6440303391s6n"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Marcel, la concha con zapatos [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Animación, Comedia, Familia, Drama, Aventura</genre>
+<year>2022</year>
+<tmdb>869626</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/v74drP806W96VdGGtckBuShoeQj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mjEsHSKnr7BDLmYSKuKd65eOEWv.jpg</fanart>
+<info>Marcel es un adorable caparazón de una pulgada de alto que se gana la vida con su abuela Connie y su mascota, Alan. Una vez que formaron parte de una comunidad en expansión de caparazones, ahora viven solos como los únicos sobrevivientes de una misteriosa tragedia. Pero cuando un realizador de documentales los descubre entre el desorden de su Airbnb, el cortometraje que publica en línea trae a Marcel millones de fanáticos apasionados, así como peligros sin precedentes y una nueva esperanza de encontrar a su familia perdida hace mucho tiempo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/k98Afd7Nf3Y"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/5oomx6orxh2h"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/AkQpz935GranRdN6"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Aqx4xvkeA7TXJP3"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/64403048qo67o"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] 1945: tres mujeres [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Drama, Historia, Bélica</genre>
 <year>2022</year>
