@@ -35,7 +35,7 @@
 <tmdb>837881</tmdb>
 <thumbnail>https://www.themoviedb.org/t/p/original/voQN0igh7Ojj56SsoQtmYWTvmRH.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/6D0KIX7Gpk1OCsfcaF0kQPV3YT5.jpg</fanart>
-<info>Las reporteras del New York Times, Megan Twohey y Jodi Kantor, publicaron una de las historias más importantes de una generación: una historia que ayudó al lanzamiento del movimiento #MeToo y rompió décadas de silencio sobre el tema de las agresiones sexuales en Hollywood.</info>
+<info>Las reporteras del New York Times, Megan Twohey y Jodi Kantor, publicaron una de las historias más importantes de una generación: una historia que ayudó al lanzamiento del movimiento MeToo y rompió décadas de silencio sobre el tema de las agresiones sexuales en Hollywood.</info>
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Z2vL_hdCM0k"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/kb0j02pjgsjy"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/270kn3GqROjn8Wo6"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/0RYeVBWyQ0Sbqdo"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/64417o60r4n13"}</urlsolve>
 </item>
 
