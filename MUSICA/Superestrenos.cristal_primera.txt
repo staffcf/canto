@@ -5,6 +5,42 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Una herencia de muerte [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Comedia, Drama</genre>
+<year>2022</year>
+<tmdb>910858</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/kQGag4SkBBjzAho16bMWyCmH2cD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9UNoIt9IVE5YlmJnxPVtsflODwM.jpg</fanart>
+<info>Macey y Savanna andan justas de recursos, pero sobradas de voluntad. A estas dos hermanas, que a duras penas consiguen sacar adelante su destartalada cafetería, se les ocurre una idea para salir de pobres: ganarse a su pudiente tía Hilda, que padece una enfermedad terminal, y pegar el pelotazo. Sería el plan perfecto si Macey y Savanna no fueran las únicas de la familia con ganas de convertirse en herederas de esta matriarca controladora y cascarrabias.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Z2SCh4nALUc"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/zzp0kvypf25b"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/RLg7lX80OaJl2QAe"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/gj3B1e1aBgsg6w"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/64417opn010n1"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Quasi [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2023</year>
+<tmdb>893752</tmdb>
+<thumbnail>https://i.imgur.com/ctVyZsR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qwkSMMcJ4ZJetTcUKHOjKGtr2zM.jpg</fanart>
+<info>Un jorobado que anhela el amor se ve enredado en una enemistad asesina entre el papa y el rey de Francia.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/PLUjuJpaTOU"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/pbbqt2b3n7ps"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/AoNaDdvbQRplmZg5"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/K4km87VXDxtwzd"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/64417o353q8s1"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Al descubierto [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama, Historia</genre>
+<year>2022</year>
+<tmdb>837881</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/voQN0igh7Ojj56SsoQtmYWTvmRH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6D0KIX7Gpk1OCsfcaF0kQPV3YT5.jpg</fanart>
+<info>Las reporteras del New York Times, Megan Twohey y Jodi Kantor, publicaron una de las historias más importantes de una generación: una historia que ayudó al lanzamiento del movimiento #MeToo y rompió décadas de silencio sobre el tema de las agresiones sexuales en Hollywood.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Z2vL_hdCM0k"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/kb0j02pjgsjy"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/270kn3GqROjn8Wo6"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/0RYeVBWyQ0Sbqdo"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/64417o60r4n13"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Mighty Morphin Power Rangers: Ayer, hoy y siempre [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Acción, Ciencia ficción, Fantasía</genre>
 <year>2023</year>
