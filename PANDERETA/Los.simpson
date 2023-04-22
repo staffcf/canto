@@ -598,7 +598,7 @@ from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
 import six
 TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
-url = 'https://pastebin.com/raw/iPBtEmUK'
+url = 'https://pastebin.com/raw/p8V5WB52'
 titulo = 'Los Simpson'
 import base64, codecs
 
@@ -673,7 +673,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <page></page>
 </regex>
 <info>Comedia americana de animación creada por Matt Groening para la compañía Fox. La serie es una parodia satírica del estilo de la clase media americana encarnada por una familia con ese mismo nombre, compuesta por Homer, Marge, Bart, Lisa, y Maggie Simpson. La trama se desarrolla en la ciudad ficticia de Springfield y parodia la cultura, la sociedad, la televisión estadounidense y muchos otros aspectos de la condición humana.</info>
-<thumbnail>https://i.imgur.com/BsL0Win.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/QpGyYyv.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pbbMIbYgUD64t22xLLSyOfp0Rxt.jpg</fanart>
 </item>
 
@@ -695,7 +695,7 @@ from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
 import six
 TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
-url = 'https://pastebin.com/raw/iPBtEmUK'
+url = 'https://pastebin.com/raw/xA9jTLdD'
 titulo = 'Los Simpson'
 import base64, codecs
 
@@ -770,7 +770,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <page></page>
 </regex>
 <info>Comedia americana de animación creada por Matt Groening para la compañía Fox. La serie es una parodia satírica del estilo de la clase media americana encarnada por una familia con ese mismo nombre, compuesta por Homer, Marge, Bart, Lisa, y Maggie Simpson. La trama se desarrolla en la ciudad ficticia de Springfield y parodia la cultura, la sociedad, la televisión estadounidense y muchos otros aspectos de la condición humana.</info>
-<thumbnail>https://i.imgur.com/BsL0Win.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/IG9LkSy.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pbbMIbYgUD64t22xLLSyOfp0Rxt.jpg</fanart>
 </item>
 
@@ -792,7 +792,7 @@ from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
 import six
 TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
-url = 'https://pastebin.com/raw/iPBtEmUK'
+url = 'https://pastebin.com/raw/Zf54GKTS'
 titulo = 'Los Simpson'
 import base64, codecs
 
@@ -867,7 +867,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <page></page>
 </regex>
 <info>Comedia americana de animación creada por Matt Groening para la compañía Fox. La serie es una parodia satírica del estilo de la clase media americana encarnada por una familia con ese mismo nombre, compuesta por Homer, Marge, Bart, Lisa, y Maggie Simpson. La trama se desarrolla en la ciudad ficticia de Springfield y parodia la cultura, la sociedad, la televisión estadounidense y muchos otros aspectos de la condición humana.</info>
-<thumbnail>https://i.imgur.com/BsL0Win.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/3j3pzkY.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pbbMIbYgUD64t22xLLSyOfp0Rxt.jpg</fanart>
 </item>
 
@@ -888,7 +888,7 @@ from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
 import six
 TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
-url = 'https://pastebin.com/raw/iPBtEmUK'
+url = 'https://pastebin.com/raw/A8EPSr85'
 titulo = 'Los Simpson'
 import base64, codecs
 
@@ -963,7 +963,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <page></page>
 </regex>
 <info>Comedia americana de animación creada por Matt Groening para la compañía Fox. La serie es una parodia satírica del estilo de la clase media americana encarnada por una familia con ese mismo nombre, compuesta por Homer, Marge, Bart, Lisa, y Maggie Simpson. La trama se desarrolla en la ciudad ficticia de Springfield y parodia la cultura, la sociedad, la televisión estadounidense y muchos otros aspectos de la condición humana.</info>
-<thumbnail>https://i.imgur.com/BsL0Win.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/pNp46iT.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pbbMIbYgUD64t22xLLSyOfp0Rxt.jpg</fanart>
 </item>
 
