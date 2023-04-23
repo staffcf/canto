@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Legado de sangre [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Crimen, Suspense, Drama</genre>
+<year>2023</year>
+<tmdb>842544</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/eOixT71Ok77ZiBu06lO0Z6FysKi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xZAkRP2MWiAzsaPhljaTFR7gvt.jpg</fanart>
+<info>Un exagente de las Fuerzas Especiales se mete en el inframundo criminal para evitar que le quiten a su único hijo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/FkjgZMSyB_I"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/35psefh34zni"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/r8WdlWm0M19Djx4q"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/mw1Gjqvvz7Cb1Y3"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://upstream.to/8yx6anh2jecf"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Viejos [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Terror, Suspense, Fantasía</genre>
 <year>2023</year>
