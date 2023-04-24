@@ -1466,7 +1466,7 @@ from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
 import six
 TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
-url = 'https://pastebin.com/raw/iPBtEmUK'
+url = 'https://pastebin.com/raw/bsG9kv5n'
 titulo = 'Los Simpson'
 import base64, codecs
 
@@ -1541,7 +1541,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <page></page>
 </regex>
 <info>Comedia americana de animación creada por Matt Groening para la compañía Fox. La serie es una parodia satírica del estilo de la clase media americana encarnada por una familia con ese mismo nombre, compuesta por Homer, Marge, Bart, Lisa, y Maggie Simpson. La trama se desarrolla en la ciudad ficticia de Springfield y parodia la cultura, la sociedad, la televisión estadounidense y muchos otros aspectos de la condición humana.</info>
-<thumbnail>https://i.imgur.com/BsL0Win.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/NpA8bn5.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pbbMIbYgUD64t22xLLSyOfp0Rxt.jpg</fanart>
 </item>
 
@@ -1562,7 +1562,7 @@ from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
 import six
 TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
-url = 'https://pastebin.com/raw/iPBtEmUK'
+url = 'https://pastebin.com/raw/80xmWA8j'
 titulo = 'Los Simpson'
 import base64, codecs
 
@@ -1637,7 +1637,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <page></page>
 </regex>
 <info>Comedia americana de animación creada por Matt Groening para la compañía Fox. La serie es una parodia satírica del estilo de la clase media americana encarnada por una familia con ese mismo nombre, compuesta por Homer, Marge, Bart, Lisa, y Maggie Simpson. La trama se desarrolla en la ciudad ficticia de Springfield y parodia la cultura, la sociedad, la televisión estadounidense y muchos otros aspectos de la condición humana.</info>
-<thumbnail>https://i.imgur.com/BsL0Win.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/XOXiubD.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pbbMIbYgUD64t22xLLSyOfp0Rxt.jpg</fanart>
 </item>
 
@@ -1658,7 +1658,7 @@ from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
 import six
 TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
-url = 'https://pastebin.com/raw/iPBtEmUK'
+url = 'https://pastebin.com/raw/W2QZ46iz'
 titulo = 'Los Simpson'
 import base64, codecs
 
@@ -1733,7 +1733,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <page></page>
 </regex>
 <info>Comedia americana de animación creada por Matt Groening para la compañía Fox. La serie es una parodia satírica del estilo de la clase media americana encarnada por una familia con ese mismo nombre, compuesta por Homer, Marge, Bart, Lisa, y Maggie Simpson. La trama se desarrolla en la ciudad ficticia de Springfield y parodia la cultura, la sociedad, la televisión estadounidense y muchos otros aspectos de la condición humana.</info>
-<thumbnail>https://i.imgur.com/BsL0Win.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/ssvukc6.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pbbMIbYgUD64t22xLLSyOfp0Rxt.jpg</fanart>
 </item>
 
@@ -1754,7 +1754,7 @@ from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
 import six
 TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
-url = 'https://pastebin.com/raw/iPBtEmUK'
+url = 'https://pastebin.com/raw/SPyBBLjv'
 titulo = 'Los Simpson'
 import base64, codecs
 
@@ -1829,7 +1829,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <page></page>
 </regex>
 <info>Comedia americana de animación creada por Matt Groening para la compañía Fox. La serie es una parodia satírica del estilo de la clase media americana encarnada por una familia con ese mismo nombre, compuesta por Homer, Marge, Bart, Lisa, y Maggie Simpson. La trama se desarrolla en la ciudad ficticia de Springfield y parodia la cultura, la sociedad, la televisión estadounidense y muchos otros aspectos de la condición humana.</info>
-<thumbnail>https://i.imgur.com/BsL0Win.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/zfNL11E.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pbbMIbYgUD64t22xLLSyOfp0Rxt.jpg</fanart>
 </item>
 
@@ -1850,7 +1850,7 @@ from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
 import six
 TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
-url = 'https://pastebin.com/raw/iPBtEmUK'
+url = 'https://pastebin.com/raw/mXy71kbM'
 titulo = 'Los Simpson'
 import base64, codecs
 
@@ -1925,7 +1925,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <page></page>
 </regex>
 <info>Comedia americana de animación creada por Matt Groening para la compañía Fox. La serie es una parodia satírica del estilo de la clase media americana encarnada por una familia con ese mismo nombre, compuesta por Homer, Marge, Bart, Lisa, y Maggie Simpson. La trama se desarrolla en la ciudad ficticia de Springfield y parodia la cultura, la sociedad, la televisión estadounidense y muchos otros aspectos de la condición humana.</info>
-<thumbnail>https://i.imgur.com/BsL0Win.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/UMFtw1y.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pbbMIbYgUD64t22xLLSyOfp0Rxt.jpg</fanart>
 </item>
 
