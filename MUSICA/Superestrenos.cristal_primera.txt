@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Scream VI [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Terror, Misterio, Suspense</genre>
+<year>2023</year>
+<tmdb>934433</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/dvvfHkEinSUWUPtJeWvxOx5hozm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gyquFLORiXeLicMFv6KTdVHkv4g.jpg</fanart>
+<info>Tras los últimos asesinatos de Ghostface, los cuatro supervivientes abandonan Woodsboro para dar comienzo a un nuevo capítulo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ECc_KdCZ8-I"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/9u7r1m69tl5w"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/vJ41zYN0BY6lwA3g"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/ZDGGLxGV9Mc7ZY"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/6447oon71s821"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La Espada De Los 47 Ronin [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Acción, Drama, Fantasía, Suspense</genre>
+<year>2022</year>
+<tmdb>732459</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/fYAHGYOBi5NPIb0wLQGDyVie2v9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sg7fox27KiIpmmFxav4u0KkSL1t.jpg</fanart>
+<info>En esta secuela de "47 Ronin", surge una nueva clase de guerreros entre los clanes samuráis para evitar que una codiciada espada caiga en manos equivocadas.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/xWN2iVRlqek"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/cblssuxhifq7"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/6mwWD4oqxvEnPGrY"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/q64xr6lbkzszbQr"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/6447oo8s0q23r"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Legado de sangre [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Crimen, Suspense, Drama</genre>
 <year>2023</year>
