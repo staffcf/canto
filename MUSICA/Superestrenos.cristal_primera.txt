@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] M3GAN [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Ciencia ficción, Terror, Comedia</genre>
+<year>2022</year>
+<tmdb>536554</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/ogSpQMynabVu91Bi7AuUA8tshfb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fwoqJXov0FkGgTt1nGIGdehk9xr.jpg</fanart>
+<info>Un ingeniero en robótica de una empresa de juguetes construye una muñeca realista que comienza a cobrar vida propia.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/e_6JPqOCH3c"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ldocexmmjjwb"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/0rwmD7pqbbqzRaZ8"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/OYxpZ8jRX6uZ4ml"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/6449193r365s7"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] La Espada De Los 47 Ronin [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Acción, Drama, Fantasía, Suspense</genre>
 <year>2022</year>
