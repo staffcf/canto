@@ -12,7 +12,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/ogSpQMynabVu91Bi7AuUA8tshfb.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/fwoqJXov0FkGgTt1nGIGdehk9xr.jpg</fanart>
 <info>Un ingeniero en robótica de una empresa de juguetes construye una muñeca realista que comienza a cobrar vida propia.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/e_6JPqOCH3c"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ldocexmmjjwb"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/0rwmD7pqbbqzRaZ8"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/OYxpZ8jRX6uZ4ml"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/6449193r365s7"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/e_6JPqOCH3c"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ldocexmmjjwb"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/0rwmD7pqbbqzRaZ8"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/OYxpZ8jRX6uZ4ml"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/6449193r365s7"},{"titulo" : "[COLOR white]Torrent BD1080[/COLOR]","url" : "magnet:?xt=urn:btih:Z653VAPXCRCOCVTZ3RDADINED73LVQ5L"},{"titulo" : "[COLOR white]Torrent 4K WebRip[/COLOR]","url" : "magnet:?xt=urn:btih:7QWFR5W4XF5EVEWZDHHBP7Z3DLXHOQBI"}</urlsolve>
 </item>
 
 
