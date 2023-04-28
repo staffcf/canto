@@ -4,6 +4,17 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 ==========================================================================================
 
+<item>
+<title>[COLOR white] Peter Pan & Wendy [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Familia, Fantasía, Acción, Aventura</genre>
+<year>2023</year>
+<tmdb>420808</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/1g23DvW6b73XG1aHUH8vHqrdn2Y.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vURZbwVyioDndItQMdbF6mEPcxT.jpg</fanart>
+<info>Wendy Darling, una niña que no quiere ir al internado, conoce a Peter Pan, un niño que se niega a crecer. Junto a sus hermanos y a Campanilla, un hada diminuta, viajará con Peter hasta el mágico mundo de Nunca Jamás. Allí conocerá a un malvado pirata, el Capitán Garfio, y se embarcará en una apasionante aventura que cambiará su vida para siempre.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/SWeW4wokcv8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/pyzic9k7aijp"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/Lvgezwvb3YaDbp8E"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/DZV0k7DOwdckgWz"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/644os68o36nnn"}</urlsolve>
+</item>
+
 
 <item>
 <title>[COLOR white] La Gran Aventura Suiza [/COLOR][COLOR yellow](2022)[/COLOR]</title>
