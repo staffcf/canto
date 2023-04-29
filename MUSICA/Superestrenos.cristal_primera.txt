@@ -5,6 +5,42 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] El Hogar [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Comedia, Drama</genre>
+<year>2022</year>
+<tmdb>1097653</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/5iiY3i9I3BwTF8pfyh8I3Tl0ABz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iDr7Axj0NtM7zkwwIVKiqTVPeUc.jpg</fanart>
+<info>Homenaje desde Asturias a la película "El Chico" de Charles Chaplin, en una comedia muda y en blanco y negro sobre la supervivencia y la lucha de una familia humilde.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Gq4QJzCtxRI"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/lr5fqa0kx5dk"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/YvAyz2GpMNmlg9kL"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/909kPpDQ1gca3DL"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/644q6qno4oo5p"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Un fin de semana estupendo [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Romance</genre>
+<year>2023</year>
+<tmdb>1070629</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/9O8jKruyHRYTdGJg5I1u7b2JbVE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3vbhauWvFX0rGqFRuMJrEbImXeH.jpg</fanart>
+<info>Un grupo de amigos se reúne en la Borgoña francesa para esparcir las cenizas de su amigo recién fallecido. Cuando la viuda trae inesperadamente a su nuevo novio, el fin de semana da un giro radical.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/CQT4G0OAqFY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/8l14hyk4ocio"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/rJmXD0kw1eEnGg8o"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/VGgKrKlX4oHK8R0"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/644q6s5oqs8p6"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El club del odio [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama, Terror, Misterio, Suspense</genre>
+<year>2022</year>
+<tmdb>934131</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/yYNb0eDCeGscxwiG639YK6zGEp2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aAK25IGWGCk33c2rO2eYcek9rIB.jpg</fanart>
+<info>El thriller, que se desarrolla en tiempo real, sigue una sola tarde en la vida de una profesora de primaria mientras organiza una reunión de mujeres con ideas afines. Cuando el grupo se dirige a casa, la profesora se encuentra con una mujer de su pasado, lo que da lugar a una volátil cadena de acontecimientos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/6AvdZzENUrs"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/k41agakotwyr"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/GWaolEGq9OpDdPVQ"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/3OZYGq9pzJidK43"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/644q6qo0193nq"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Peter Pan & Wendy [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Familia, Fantasía, Acción, Aventura</genre>
 <year>2023</year>
