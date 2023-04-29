@@ -18911,6 +18911,18 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 
 
 <item>
+<title>[COLOR white] Sky Sharks [/COLOR][COLOR yellow](2020)[/COLOR]</title>
+<genre>Terror, Ciencia ficción, Comedia</genre>
+<year>2020</year>
+<tmdb>320846</tmdb>
+<thumbnail>https://i.imgur.com/MWCesoM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6ah13rBc31lcUwM2ln66QJIaNpj.jpg</fanart>
+<info>Sky Sharks es una película dirigida por Marc Fehse (Sex, Dogz and Rock n Roll) y escrita junto a A. D. Morel que cuenta la historia de un grupo de geólogos que viaja al Ártico para descubrir un laboratorio que utilizaban los nazis en los últimos días de la Segunda Guerra Mundial para realizar experimentos. Al encontrar el laboratorio, por accidente los geólogos activan el último experimento de los nazis: tiburones modificados genética y tecnológicamente. Los tiburones causan el caos y un grupo especializado debe frenarlos con armas si no quieren que toda la situación se convierta en un gran desastre con repercusiones terribles.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Hu_-H3DQo7A"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/irlkry47jrac"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/OEbPDaQp0yYD3M1k"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/9v1e9klDAes6Ko"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/644q60p0nrnr2"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Te puede pasar a ti [/COLOR][COLOR yellow] (1994) [COLOR aqua]*6.5[/COLOR]</title>
 <genre>Comedia,Drama,Romance</genre>
 <year>1994</year>
