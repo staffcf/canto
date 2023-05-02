@@ -4,6 +4,20 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 ==========================================================================================
 
+
+<item>
+<title>[COLOR white] Dungeons & Dragons: Honor entre ladrones [/COLOR][COLOR yellow](2023) [COLOR aqua]*Sin valorar 
+[/COLOR]</title> 
+<genre>Aventura,Fantasía,Comedia</genre>
+<year>2023</year>
+<tmdb>493529</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/uGxIYzYhYKDgE1U5DDI7gSkYmoC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fC6TZRnySFZ7RMYdOA4Yt21q0Y9.jpg</fanart>
+<info>Un ladrón encantador y una banda de aventureros increíbles emprenden un atraco épico para recuperar una reliquia perdida, pero las cosas salen rematadamente mal cuando se topan con las personas equivocadas. Adaptación cinematográfica del primer juego de rol de la historia, publicado por primera vez en 1974.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/MCkjyJ1T1eM"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://upstream.to/ycoic4zqquob"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/vn0ng067i0wz4n"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/qxxdolqsqozy"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://sbvideo.net/e/qxxdolqsqozy"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/ycoic4zqquob"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/LV7qKY4WkbcRowO"},{"titulo" : "[COLOR white]File Stream[/COLOR]","url" : "https://filemoon.sx/d/poner"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] El Hogar [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Comedia, Drama</genre>
