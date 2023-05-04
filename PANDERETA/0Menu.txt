@@ -5352,6 +5352,16 @@ Este maravilloso viaje se ha grabado en 24 localizaciones distintas a lo largo d
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Los Simpson[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<tmdb>456</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Los.simpson</externallink>
+<info>Comedia americana de animación creada por Matt Groening para la compañía Fox. La serie es una parodia satírica del estilo de la clase media americana encarnada por una familia con ese mismo nombre, compuesta por Homer, Marge, Bart, Lisa, y Maggie Simpson. La trama se desarrolla en la ciudad ficticia de Springfield y parodia la cultura, la sociedad, la televisión estadounidense y muchos otros aspectos de la condición humana.</info>
+<thumbnail>https://i.imgur.com/BsL0Win.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pbbMIbYgUD64t22xLLSyOfp0Rxt.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Los Ultimos Asesinatos De Agatha Christie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>157973</tmdb>
