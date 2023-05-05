@@ -5,6 +5,54 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Poker Face [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Suspense</genre>
+<year>2022</year>
+<tmdb>842934</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/cqzjGwruSa3EihTDYHXtSv4mi6g.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mgpSLayQ4apChdjzAU91kvZuuJC.jpg</fanart>
+<info>El multimillonario jugador de póquer Jake Foley (Russell Crowe) les brinda a sus mejores amigos la oportunidad de ganar más dinero del que jamás hayan soñado, en una noche que nunca olvidarán. Pero para jugar, tendrán que revelar algunos de sus secretos más oscuros, y a medida que avance la noche, descubrirán el motivo real por el que participan...</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/3eK6kIYxi_Q"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/1dh4kugwz8om"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/gLXEDVM9J2RnQY74"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/W6xXJraeJXHqZO"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/6455468pnp1rn"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Battle for Saipan [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Bélica, Historia, Acción</genre>
+<year>2023</year>
+<tmdb>1037644</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/o94UbqpshNsyCj0NukDGl1JNOS0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3y4pcd8kQ6iUrDNegh8F1ow0YST.jpg</fanart>
+<info>El 7 de julio de 1944, las fuerzas japonesas invadieron un hospital del ejército de EE. UU. en la remota isla de Saipan durante un ataque implacable. Superado en armas y rodeado por el enemigo, un médico solitario lo pone todo en juego para llevar a un grupo de soldados heridos a un lugar seguro.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/aWfef_JqxLU"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/gf0l7ab5u4xw"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/kEL0lpYJaZqnavXV"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/OoZkgaDr4PuZAy4"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/645543s396n5r"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El club de los asesinos [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Suspense</genre>
+<year>2023</year>
+<tmdb>876969</tmdb>
+<thumbnail>https://i.imgur.com/bZNx1hJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cYyUinLXRbQwE4PAt2mQLTGBqti.jpg</fanart>
+<info>Morgan es un asesino a sueldo que está a punto de retirarse cuando le llega un nuevo encargo. Será uno de los siete asesinos a sueldo que deberán luchar entre sí, con una recompensa de 1 millón de dólares por objetivo eliminado. Mientras los otros asesinos lo persiguen, él une fuerzas con Falk, otro de los sicarios, para tratar de averiguar quién los contrató y por qué.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/3i5Coke6mjY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/y3uscewt8wwg"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/WwyJnL9Aa1rDMbPa"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/ZJ8V9poqGGfqVbb"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/6455440pq0p08"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Brian y Charles [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Comedia, Drama, Ciencia ficción</genre>
+<year>2022</year>
+<tmdb>913814</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/uWTVL4X0kvaDQmpWwXSfxxzwfnO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/olSNfMsR4AfDb8eWXkPIgjKTDu9.jpg</fanart>
+<info>Después de un invierno especialmente duro, Brian entra en una profunda depresión; completamente aislado y sin nadie con quien hablar, Brian hace lo que cualquier persona haría al enfrentarse a una situación tan melancólica. Construye un robot.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/NShm96Plbbw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/i46qvyekzsr9"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/GWaolEGXywpDdPVQ"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/e2BwWZAGVaSYVPD"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/645544sr74228"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Nadando en libertad  [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Aventura, Familia, Drama</genre>
 <year>2022</year>
