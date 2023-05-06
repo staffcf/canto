@@ -5,6 +5,54 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] El precio de la venganza [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Suspense, Misterio, Crimen, Terror</genre>
+<year>2023</year>
+<tmdb>996727</tmdb>
+<thumbnail>https://i.imgur.com/3jp8mwG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/f9PSbuMeBS5CuHEOVyymg5lcq8J.jpg</fanart>
+<info>Tras realizar un accidentado robo en una casa de empeños, dos delincuentes toman la decisión de refugiarse en una remota granja para escapar de la policía. Ellos creen estar seguros en ese escondite, pero pronto descubrirán una amenaza mucho más grande que la de las fuerzas del orden.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/944dl44nFjY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/bp0eysr6i2v0"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/j57gDmvVXrPz26Xb"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/wYjKqegqw2UjXr"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/64563p5164op2"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El falsificador de pasaportes [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama, Historia</genre>
+<year>2022</year>
+<tmdb>916386</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/a7DyvPLdrz41CyMRJy8LlNT1waO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qkfqsIpn44n2OxWpXa85uENf9Cf.jpg</fanart>
+<info>Berlín, 1942. Cioma Schönhaus es un joven judío de 21 años que se ha propuesto que nadie, ni siquiera los nazis, le quite su entusiasmo por la vida. Para escapar de la deportación, Cioma utiliza la identidad de un oficial de la marina, descubriendo así que tiene un talento oculto para falsificar no sólo pasaportes y documentos, sino también su propia identidad.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Fr4OzlmG4pg"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ui61l79t0m3b"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/OEbPDaQ5kmgD3M1k"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/K9lkvbLdJ4i020b"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/64563p61n07s1"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Emily Bronte [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama, Historia, Romance</genre>
+<year>2022</year>
+<tmdb>707103</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/gHRnvzxvcMGIDV2MiPkGRYKZoIS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wizYHZzSr0wJmB3Oo6LTFaP4HzY.jpg</fanart>
+<info>'Emily' cuenta la vida imaginada de una de las autoras más famosas del mundo, Emily Brontë. La joven, que falleció a la temprana edad de 30 años, fue una rebelde e inadaptada a su tiempo y encontraría su voz al escribir el clásico literario 'Cumbres borrascosas'. La película explora las relaciones que la inspiraron, tanto con sus hermanas Charlotte y Anne como con su malogrado primer amor, además de la especial amistad y complicidad que le unían a su inconformista hermano Branwell, a quien Emily idolatraba.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/rO6HdXU6ti0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/x6ly6zb8ekxa"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/OE0wDKMxBYPl3oMa"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/L2GO71xBA0hRr9g"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/64563s760o704"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La Gran Aventura De Blue En La Ciudad [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Familia, Aventura, Música, Animación</genre>
+<year>2022</year>
+<tmdb>939210</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/gyedohJflnVKUffNcpasotld7y3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zXevaiDGrjtFMtUiiUuEVIxnqFs.jpg</fanart>
+<info>Cuando Josh tiene la oportunidad de su vida de hacer una audición para el musical de Broadway de Rainbow Puppy, Josh y Blue viajan en patineta a la ciudad de Nueva York por primera vez, donde conocen nuevos amigos y descubren la magia de la música, el baile y seguir los sueños.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/2mWIeF3cZ2I"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/nl33ldkp2w4r"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/qR7MzRrByeyzwA3d"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/26GG3eLxWdUZ4Yx"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/6456425spq0r8"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Poker Face [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Suspense</genre>
 <year>2022</year>
