@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] The Cursed [/COLOR][COLOR yellow](2021)[/COLOR]</title>
+<genre>Terror, Fantasía, Misterio</genre>
+<year>2021</year>
+<tmdb>630392</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/ivYlIh0dEB0WNioFGfAbY2JHCG8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gRTYArznK1MLAq7opC1tYHnTwM3.jpg</fanart>
+<info>A fines del siglo XIX, el brutal terrateniente Seamus Laurent masacra a un clan romaní, desatando una maldición sobre su familia y su pueblo. En los días que siguen, la gente del pueblo está plagada de pesadillas, el hijo de Seamus, Edward, desaparece y un niño es encontrado asesinado. Los lugareños sospechan de un animal salvaje, pero el patólogo visitante John McBride advierte sobre una presencia más siniestra que acecha en el bosque.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/-zT0jhfm1og"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/dlfscntrb83s"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/j57gDmvV2pZz26Xb"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/VmRBd8KxKosKBB4"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/645944os8491p"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El precio de la venganza [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Acción, Suspense, Misterio, Crimen, Terror</genre>
 <year>2023</year>
