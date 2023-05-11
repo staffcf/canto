@@ -4,16 +4,6 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 ==========================================================================================
 
-<item>
-<title>[COLOR white] Sam y Kate [/COLOR][COLOR yellow](2022)[/COLOR]</title>
-<genre>Comedia, Drama, Romance</genre>
-<year>2022</year>
-<tmdb>844404</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/original/fzQN7YcIgboMavMMwrOTaqz8agm.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/luvaeDWXnVsdOrVfq57zLg38tqk.jpg</fanart>
-<info>Bill es un padre enorme y enfermo al que cuida su hijo Sam, quien ha regresado a casa para cuidarlo. Mientras está en casa, Sam se enamora de una mujer local, Kate. Al mismo tiempo, Bill comienza a enamorarse de su madre, Tina.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/-prs0wX--RQ"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/whwx2yd1irld"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/Jj8GzOqy3mKnvPog"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Ym3weWaOb0TvYK1"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/645ppro02q96s"}</urlsolve>
-</item>
 
 
 <item>
