@@ -5,6 +5,42 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] El río de la ira [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Suspense</genre>
+<year>2022</year>
+<tmdb>740952</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/xnCuJyDxnoTxlQ48yoOXBgVBtnC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rodjjIJ8oh9nuBp86PhojcYHTEN.jpg</fanart>
+<info>Un adicto a los opioides en rehabilitación busca vengarse de los traficantes que provocaron la muerte de su prometida. Dos policías le siguen el rastro.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/G6lB7TReauo"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/cmo0kkuu561z"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/rJmXD0kM760nGg8o"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/mqwWD3wXqPsbwGX"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/645soo30034s5"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Missing [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Suspense</genre>
+<year>2023</year>
+<tmdb>768362</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/rR7uEhqQE2ZuQQOhuPyQnV6vnoH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dhfU1d6V25BGEHDAoPrERQFmsl2.jpg</fanart>
+<info>Cuando su madre desaparece estando de vacaciones en Colombia con su nuevo novio, la búsqueda de respuestas por parte de June se ve entorpecida por la burocracia internacional. Atascada en Los Ángeles, a miles de kilómetros de distancia, June utiliza toda la tecnología a su disposición para intentar encontrarla antes de que sea demasiado tarde.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/-iHlvyFPbfQ"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/scuomqaavgyr"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/kEL0lpYJdwjnavXV"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Pk24wK1XyPT00Db"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/no"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Venus [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2023</year>
+<tmdb>726366</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/wNxLrxcdp69ne8InTLebNLlL30j.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mUAm8uQZRZuqwPfdaHTL6jeDihd.jpg</fanart>
+<info>En la década de 1970, Paula y Miguel están a punto de realizar el último espectáculo de su banda: Venus. Casi cuarenta años después Jorge llega al café donde pasa su juventud. Allí se encuentra con Alicia. Recuerdan los días en que se conocieron.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/FbxpnNahhz8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/vuizihsezsh6"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/YvAyz2GLWeQlg9kL"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Ox0lgxgPzGum2Q"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/645sq8s9r6rr2"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Cráter: Un viaje inolvidable [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Ciencia ficción, Acción, Aventura, Familia</genre>
 <year>2023</year>
