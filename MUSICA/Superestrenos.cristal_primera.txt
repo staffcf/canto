@@ -24,7 +24,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/20uyhIPEO0h0KPwbo0p3VtGLQwG.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/8ah0IlKpS9FSt6L6u21pr8WkFqQ.jpg</fanart>
 <info>Narra la increíble y revolucionaria asociación entre Michael Jordan -un novato en ese momento- y la incipiente sección de baloncesto de Nike que revolucionó el mundo del deporte y la cultura contemporánea con la marca Air Jordan. Cuenta la atrevida apuesta que definió la carrera de un equipo poco convencional, la visión implacable de una madre que conoce el valor del inmenso talento de su hijo y el fenómeno del baloncesto que se convertiría en el más grande de todos los tiempos.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/KBiw_HbryZs"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/1q75ro7m29d9"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/GWaolEGX8WNDdPVQ"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/96aJpwZjZWSar6m"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/645so8ns910q5"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/KBiw_HbryZs"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/1q75ro7m29d9"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/GWaolEGX8WNDdPVQ"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/96aJpwZjZWSar6m"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/645so8ns910q5"},{"titulo" : "[COLOR white]Acestream Blu-ray Rip[/COLOR]","url" : "acestream://e8d510d1c12f30a055567f3d4392b324ef70cd0d"}</urlsolve>
 </item>
 
 
