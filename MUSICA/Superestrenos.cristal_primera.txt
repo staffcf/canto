@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Posesión infernal: El despertar [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Terror, Suspense, Fantasía</genre>
+<year>2023</year>
+<tmdb>713704</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/ioMtng0qHbwNjR1fuxYZsRf1kjm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aAgGrfBwna1nO4M2USxwFgK5O0t.jpg</fanart>
+<info>Historia de dos hermanas separadas cuyo reencuentro se ve interrumpido por el surgimiento de demonios poseedores de carne, empujándolos a una batalla por la supervivencia mientras se enfrentan a la versión de familia más aterradora que se pueda imaginar. Secuela de la trilgía original de 'Evil Dead'.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/xedWpltgifc"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/1qm8kpm5sto2"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/WwM7lMBaoAknZKbo"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/rJ0BBpAOdPFxq9"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/64611rr8970n4"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El río de la ira [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Suspense</genre>
 <year>2022</year>
