@@ -5,6 +5,42 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] R.I.P.D 2: La rebelión de los condenados [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Acción, Comedia, Fantasía, Crimen</genre>
+<year>2022</year>
+<tmdb>1013860</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/oJJWjiMKExSi241NpKUqVIxWfH6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kmzppWh7ljL6K9fXW72bPN3gKwu.jpg</fanart>
+<info>Ambientada en el oeste americano de 1876, 'R.I.P.D.2: Rise of the Damed' es una secuela espiritual de 'R.I.P.D.' de 2013. El sheriff Roy Pulsipher no está muy emocionado de encontrarse muerto después de un tiroteo con una notoria pandilla de forajidos, pero tiene una segunda oportunidad de regresar a la tierra después de ser reclutado por el R.I.P.D. (Rest In Peace Department.). Pero vengar su propio asesinato puede tener que pasar a un segundo plano para salvar el mundo cuando se abre una puerta al infierno en el antiguo pueblo minero de Red Creek que amenaza no solo a los lugareños... sino a toda la humanidad.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/L_REOJnLLNI"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/xulv0f6o3kvx"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/OE0wDKMxZRNl3oMa"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/bRM2v2oYxDILpR"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/64622r74s049s"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Gigi y Nate [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2022</year>
+<tmdb>829503</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/xP1GXV1gms9b5BpHZP7S8qs8FO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/f8NLXHwUzbjLdSddU4z8EJl36Hj.jpg</fanart>
+<info>Un joven con un futuro brillante sufre un accidente casi fatal y recrea su nueva vida con la ayuda de un insólito amigo animal.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/n_tgQ105coQ"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/9fwqowea42ls"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/aNdbzkZB5OmD8JjB"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/K4GYL7zVQVSbKV"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/64622r7p155p2"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Tierra sin ley [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Misterio, Suspense, Western, Drama</genre>
+<year>2022</year>
+<tmdb>879990</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/9DrJ19myvxs9knBO2q9oQFKnmfo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/l4sQunSxwuDDq8PGuw9TEKO0iTo.jpg</fanart>
+<info>Cuando una profesora universitaria afligida se enfrenta a dos cazadores a los que atrapa invadiendo su propiedad, se ve envuelta en una batalla de voluntades cada vez mayor con consecuencias catastróficas.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/92kQD4fc0a0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/0st01yl94wss"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/vb6NnJyXweVlPOkZ"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/kbmjO9M2KKiO7oD"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/64622s2rps3qs"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Posesión infernal: El despertar [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Terror, Suspense, Fantasía</genre>
 <year>2023</year>
