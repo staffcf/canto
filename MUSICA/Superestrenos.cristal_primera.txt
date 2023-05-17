@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] El exorcista del papa [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Terror, Suspense, Fantasía</genre>
+<year>2022</year>
+<tmdb>758323</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/2z1PVqfzvT4KjPNpQRfy5HpsyIW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/um36rapwCAwUvT1nruR2GMemBp4.jpg</fanart>
+<info>Película sobre Gabriele Amorth, un sacerdote que ejerció como exorcista principal del Vaticano, realizando más de cien mil exorcismos a lo largo de su vida. Amorth escribió dos libros de memorias donde detalló sus experiencias luchando contra Satanás.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/a-Cx7IE04sA"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/gu51cgzhwh5f"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/ZEvMDN58B2dnNoKy"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/1Ad9Q3pob6seYxy"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/646516q8065oq"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] R.I.P.D 2: La rebelión de los condenados [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Acción, Comedia, Fantasía, Crimen</genre>
 <year>2022</year>
