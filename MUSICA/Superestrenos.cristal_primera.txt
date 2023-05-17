@@ -12,7 +12,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/2z1PVqfzvT4KjPNpQRfy5HpsyIW.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/um36rapwCAwUvT1nruR2GMemBp4.jpg</fanart>
 <info>Película sobre Gabriele Amorth, un sacerdote que ejerció como exorcista principal del Vaticano, realizando más de cien mil exorcismos a lo largo de su vida. Amorth escribió dos libros de memorias donde detalló sus experiencias luchando contra Satanás.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/a-Cx7IE04sA"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/gu51cgzhwh5f"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/ZEvMDN58B2dnNoKy"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/1Ad9Q3pob6seYxy"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/646516q8065oq"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/a-Cx7IE04sA"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/tmdu7j7iyzrr"},{"titulo" : "[COLOR white]Newish[/COLOR]","url" : "https://streamwish.to/2xq3i82k9b9n"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/kZlJ0ZQvqWiO2j6"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/64655397622rs"}</urlsolve>
 </item>
 
 
