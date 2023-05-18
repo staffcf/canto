@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Agente oculto [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Suspense, Drama</genre>
+<year>2022</year>
+<tmdb>846956</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/jV7q4TaLnPL7UbJAn33tObtCRI0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sOqUkV1Iw8fUQrXHU9yaVKbRlFv.jpg</fanart>
+<info>La extraordinaria historia del estafador Robert Freegard, que se hizo pasar por un agente del MI5 y secuestró a innumerables víctimas en medio de una persecución de alto riesgo hasta que la mujer que se enamoró de él lo llevó ante la justicia.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/0YCNAvdYJyI"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/6m2kob5c4wvw"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/BQe7lBoN0Zbn59bO"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/1ayytltk3izx"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/jZ9oxPJwQaUzXwX"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El exorcista del papa [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Terror, Suspense, Fantasía</genre>
 <year>2022</year>
