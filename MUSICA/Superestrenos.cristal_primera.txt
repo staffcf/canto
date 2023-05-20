@@ -24,7 +24,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/eAwuYydoqM72Fh0838GUTXjVCnH.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/lHcVFxUEhjKH6F0B5s3U9dfRinh.jpg</fanart>
 <info>Un joven dibujante de cómics rechaza las comodidades de su vida suburbana y abandona su hogar, encontrando un mentor reluctante y un amigo inesperado en Wallace, un antiguo dibujante de cómics de nivel bajo.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/qXDeAcyt8Ng"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/q1tujgr3gzz5"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/3doodnr8r95u"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/6wBp4YReZjf90d6"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/64661813r315o"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/qXDeAcyt8Ng"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/q1tujgr3gzz5"},{"titulo" : "[COLOR white]Newish[/COLOR]","url" : "https://streamwish.to/3doodnr8r95u"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/6wBp4YReZjf90d6"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/64661813r315o"}</urlsolve>
 </item>
 
 
