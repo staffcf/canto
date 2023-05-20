@@ -5,6 +5,42 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] 90 minutos [/COLOR][COLOR yellow](2021)[/COLOR]</title>
+<genre>Acción</genre>
+<year>2021</year>
+<tmdb>683311</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/k83EQ4ZcTctl7dSWrNFrnlDgtJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9A65srDDNI93k86pZpQaMFq7V9T.jpg</fanart>
+<info>Pandillas rivales buscan millones de dólares escondidos dentro de un condominio de lujo que está programado para ser demolido, pero primero tienen que lidiar con el tripulante de preparación de demolición que encontró el botín primero.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/3eF427hOFBM"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ptuv4knsudj9"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/GQ7Znvo28KPDdVxp"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/yB3vlQOwJLc1rKQ"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/64687qq1895oq"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Pasando página [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2022</year>
+<tmdb>583095</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/eAwuYydoqM72Fh0838GUTXjVCnH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lHcVFxUEhjKH6F0B5s3U9dfRinh.jpg</fanart>
+<info>Un joven dibujante de cómics rechaza las comodidades de su vida suburbana y abandona su hogar, encontrando un mentor reluctante y un amigo inesperado en Wallace, un antiguo dibujante de cómics de nivel bajo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/qXDeAcyt8Ng"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/q1tujgr3gzz5"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/3doodnr8r95u"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/6wBp4YReZjf90d6"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/64661813r315o"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El color del cielo [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2022</year>
+<tmdb>976947</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/bIEkM9GUnynGeQaOX1B8U6a1yfz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bIEkM9GUnynGeQaOX1B8U6a1yfz.jpg</fanart>
+<info>Olivia Bronte, una estrella de cine que trabaja en Hollywood, y Tristán del Val, un reconocido filósofo español, se reencuentran fortuitamente en un hotel en Suiza después de diecisiete años sin contacto. Este reencuentro les llevará a revisitar el pasado y preguntarse a dónde les lleva el camino que escogieron.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/7USz4mXSNuU"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/0dv8ql4kkcnp"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/LvgezwvPykvDbp8E"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/LYX8bvr0mDiewB"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/64687qq571r97"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] The Offering [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Drama, Terror</genre>
 <year>2022</year>
