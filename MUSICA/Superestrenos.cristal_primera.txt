@@ -6,6 +6,29 @@
 
 
 
+<item>
+<title>[COLOR white] Borrego [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Crimen, Suspense</genre>
+<year>2022</year>
+<tmdb>728366</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/ohVi0I3VYD5Rx1Tze7tMcZ9NQj6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gBd3Hhimv0KHdhlBHaqSGN3yzoe.jpg</fanart>
+<info>Una joven botánica se traslada a un pequeño pueblo del desierto para estudiar una especie de planta invasora. Cuando acude en ayuda de un avión derribado, acaba secuestrada por un traficante de drogas sin experiencia y deberá luchar por sobrevivir en el desierto.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/I_Pn7LNgCYY"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamwish.to/jlzm3kunj977"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://sbvideo.net/e/4anv97xzrfmm"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Invitacion A Un Asesinato [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2023</year>
+<tmdb>989473</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/8OyzvMrVx2tXjyJiE3GZpvaXE2T.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qmqtZIn5FFpzK2UBquQ685sQmOs.jpg</fanart>
+<info>1934. Sur de Inglaterra.  Sin motivo aparente y como otras cinco personas sin parentesco, Miranda, una florista de 28 años, es invitada a pasar el fin de semana en la mansión del multimillonario Lewis Findley.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/B_HOii1vVg8"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamwish.to/youqlspc7mp8"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://sbvideo.net/e/729g12y20pbx"}</urlsolve>
+</item>
+
 ﻿<item>
 <title>[COLOR white] Una Madre Contra George W. Bush [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama,Historia</genre>
