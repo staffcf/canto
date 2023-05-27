@@ -7,6 +7,18 @@
 
 
 <item>
+<title>[COLOR white] La Ultima Yarda [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2023</year>
+<tmdb>728366</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/4E10HQ6Od3fO8yRiWZPjgwYs9k5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gBd3Hhimv0KHdhlBHaqSGN3yzoe.jpg</fanart>
+<info>Un cuarteto de mejores amigos mayores decide vivir la vida al máximo haciendo un viaje salvaje al Super Bowl LI para ver jugar a su héroe Tom Brady.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Kc-bdGiJ-E4"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamwish.to/084lu7ckngwa"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://sbvideo.net/e/q3swbwi7e44z"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Borrego [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Crimen, Suspense</genre>
 <year>2022</year>
