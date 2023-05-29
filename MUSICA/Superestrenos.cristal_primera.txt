@@ -17,11 +17,11 @@
 
 
 <item>
-<title>[COLOR white] La conspiración [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<title>[COLOR white] La Conspiracion [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Suspense, Drama</genre>
 <year>2022</year>
 <tmdb>878183</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/original/jhlc1nsD8nnnGymEFaZ0twMH6M6.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/gY1vn7CIGhumRZ45oMT7mwsnn82.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/kVuivdkmloEcESyx3ejVj7pVWUZ.jpg</fanart>
 <info>Son las últimas semanas de la elección presidencial más importante de la historia. Estados Unidos está a punto de elegir a su primera mujer presidenta o a su primer candidato independiente viable. Al informar sobre la historia tal como se hace, una joven periodista idealista se une a su ídolo, el legendario periodista Nick Booker, para descubrir una conspiración que pone el destino de las elecciones y del país en sus manos.</info>
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/G5WDqleyw6U"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/adfexvkjyj7f"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/kEL0lpYdZMynavXV"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/ZbOellbQr4IqedG"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/6474548q0961p"}</urlsolve>
