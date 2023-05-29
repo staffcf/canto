@@ -3,6 +3,17 @@
 
 
 <item>
+<title>[COLOR white] El Asombroso Mauricio [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Animacion, Aventura, Comedia, Familia, Fantasia</genre>
+<year>2023</year>
+<tmdb>676710</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/nOc3KwOtTtgXraeBddn3gLpCuaA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mzbwdZOdyT9YBsuovh1BkxJbCQg.jpg</fanart>
+<info>Maurice, un gato callejero, tiene el timo perfecto para ganar dinero. Encuentra a un niño que toca la flauta y se hace amigo de su horda de ratas que hablan, así no las ve como si fueran comida. Cuando Maurice y los roedores llegan al pueblo de Bad Blintz, encuentran a Malicia. Su timo no llega a buen puerto por culpa de lo que les espera en el sótano.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/FyUswJM61Ik"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamwish.to/vtifdf3dh9wh"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://sbvideo.net/e/xth32pekwj82"}</urlsolve>
+</item>
+
+<item>
 <title>[COLOR white] Kung Food: Una Aventura Deliciosa [/COLOR][COLOR yellow](2018)[/COLOR]</title>
 <genre>Animacion, Aventura, Fantasia</genre>
 <year>2018</year>
