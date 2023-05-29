@@ -3,6 +3,29 @@
 
 
 <item>
+<title>[COLOR white] Kung Food: Una Aventura Deliciosa [/COLOR][COLOR yellow](2018)[/COLOR]</title>
+<genre>Animacion, Aventura, Fantasia</genre>
+<year>2018</year>
+<tmdb>557499</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/zgNvEi1tu99WIPzGahkQJQQ0NYm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/64TNtr7x8mWZ6fVYEgBugf7Awyk.jpg</fanart>
+<info>Super Bao, un panecillo hecho al vapor, sueña con convertirse en un gran héroe, así que, a pesar de haber pasado todo tipo de penurias y tener unas habilidades de artes marciales bastante normales, decide unirse a la flota de “El Barco de vapor” y salir a combatir el mal. Durante el viaje, descubre que el objetivo real de su convoy es encontrar la «Piedra de los cinco sabores», una roca mágica que controla los sabores salado, dulce, amargo, agrio y picante, pero que en manos de un enemigo puede hacer que todo el mundo en el que viven se derrumbe. Tras una fuerte tormenta y un ataque pirata, Super Bao y Salmón, un gunkan de huevas de salmón que lucha en el bando contrario, caen al mar y, atónitos, no encuentran ningún rastro del barco. Juntos, se embarcan en busca del resto de la tripulación.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/IVK_sLXeYvU"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamwish.to/i64w5ywtuh3c"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://sbvideo.net/e/p2t6meltae1k"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La Princesa Cisne: Ha Nacido Un Cuento De Hadas  [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Familia, Animacion, Fantasia</genre>
+<year>2023</year>
+<tmdb>1118203</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/2axXVpi3dKfESWzgncbakLB7o7f.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kXr6FmTHAQjWiezGMNe4DbHfzLE.jpg</fanart>
+<info>Retrocede 20 años en el tiempo hasta el comienzo del viaje del Cisne y la Princesa para descubrir cómo empezó todo. Antes de subir al trono y convertirse en reina, Uberta disfrutaba de una vida sencilla y tranquila con su marido Maximiliano. Sin embargo, a través de victorias y tragedias, adquiere los valores necesarios y se convierte en una reina adorada por todos. Ha llegado el momento de que Uberta ceda el cetro real a la siguiente generación de gobernantes: Odette y Derek. Pero la reina Wixom, su mayor rival, se propone estropear la mayor coronación del reino con un artero plan.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/jgjU7Of5Too"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamwish.to/ar5fwgtnryfv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://sbvideo.net/e/taxsv9ds2n0v"}</urlsolve>
+</item>
+
+<item>
 <title>[COLOR white] Cráter: Un viaje inolvidable [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Ciencia ficción, Acción, Aventura, Familia</genre>
 <year>2023</year>
