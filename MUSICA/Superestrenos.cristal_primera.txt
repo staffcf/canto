@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Jarhead: Law of Return [/COLOR][COLOR yellow](2019)[/COLOR]</title>
+<genre>Bélica</genre>
+<year>2019</year>
+<tmdb>635744</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/AeXDs3bM6BvEphe65mcTk9ncdkV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kTtBDUeDZATzrTUlqHUG0ZWjg9m.jpg</fanart>
+<info>El comandante Ronan Jackson (Devon Sawa) , un exitoso piloto de caza de las Fuerzas de Defensa Israelíes e hijo de un senador de los Estados Unidos (Robert Patrick), es "cazado" mientras sobrevuela el cielo de Siria.tras sobrevivir de forma milagrosa al accidente, un grupo de la Hezbollah decide hacerlo su prisionero.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/r0N997WtPgA"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/9uthypg56mdq"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/8K02DPkRrPXnygB1"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/bqwDmw0bg6SPYjX"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/ht8vxqx0jlr0"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El asombroso Mauricio [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Animación, Aventura, Comedia, Familia, Fantasía</genre>
 <year>2022</year>
