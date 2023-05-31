@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Mezclado por Erry [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Historia, Música</genre>
+<year>2023</year>
+<tmdb>921785</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/rV8LJKFXhzhpm2yVI17nf6meEdd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mTjeBGHiuJlIGK97i3gzIekT7XT.jpg</fanart>
+<info>El auge y la caída del imperio pirata de mixtapes de tres hermanos de Nápoles y sus casetes con la marca registrada "Mixed by Erry" que llevaron la música pop a la juventud italiana de la década de 1980.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/df7M88W4GcY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/83m1wgqadzfq"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/WwyJnL9W3PyDMbPa"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Zw84ozXeoyi7g0"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/751ewz8oavd0"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Caught [/COLOR][COLOR yellow](2018)[/COLOR]</title>
+<genre>Terror</genre>
+<year>2018</year>
+<tmdb>436972</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/sRRDSeg1wHgiq4aEGKjlgQLiauX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oGQAMOaFmn7bs75v5mvDrUini5q.jpg</fanart>
+<info>Presenta la historia de una pareja de periodistas que invitan a un hombre y una mujer a su idílica casa, pero lo que empieza siendo una entrevista informal acaba convirtiéndose en una pesadilla.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/S5aFtSOTSNg"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/y9etajw0tjue"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/rJmXD0k7jb3nGg8o"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/KqQMmDvWRGF0Qq7"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/8xqqbfrrqem6"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Jarhead: Law of Return [/COLOR][COLOR yellow](2019)[/COLOR]</title>
 <genre>Bélica</genre>
 <year>2019</year>
