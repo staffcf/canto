@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] El vestido de Oskar[/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2022</year>
+<tmdb>916712</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/7UxD4S7v32x6I7IA0tQmqvoGVdb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9iQk3iugO8imgRMJ7Mvx0CcqPwt.jpg</fanart>
+<info>Cuando el hijo de Ben decide vivir como una niña de ahora en adelante, su mundo se pone patas arriba y la relación con su familia se pone a prueba.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/R09wG1Rf9Kw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/vezow2830awb"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/WwM7lMB9MgNnZKbo"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/GGD7Jm4xrGtaQX"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/b30la9pzh3gd"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Una vida maravillosa [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Música</genre>
+<year>2023</year>
+<tmdb>1119173</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/5Atl4F2inzhrq8LCu7xl7OajLQ3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jwobZgmrUPPBLA6Jvuxpm8JOGvZ.jpg</fanart>
+<info>Elliott, un joven pescador con una voz extraordinaria, tiene la oportunidad de su vida cuando la destacada gerente musical Suzanne lo descubre en una fiesta.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/JtgKAyxfM1k"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/kntwb4zwcikb"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/ZEvMDN5JEMMnNoKy"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Re90KJzO08Fdvb9"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/4aq2fmwj2w1a"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Mezclado por Erry [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Comedia, Historia, Música</genre>
 <year>2023</year>
