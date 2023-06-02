@@ -5,6 +5,114 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Y todos arderán [/COLOR][COLOR yellow](2021)[/COLOR]</title>
+<genre>Terror</genre>
+<year>2021</year>
+<tmdb>800989</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/cc3VXNFCnVqBCcQjiYsRL0uViJq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wnx67THAXz3JBkn4fra7IgyOP4v.jpg</fanart>
+<info>María Jos es ajena a un mundo que está llegando a su fin, recluida más de diez años viviendo una pesadilla después de que su hijo Lolo se suicidase, harto del acoso escolar que recibía por su acondroplasia. Lista para marcharse de este mundo, decide ir a saltar por el mismo puente por el que se tiró su hijo cuando es interrumpida por Lucía, una misteriosa niña con la misma condición que su Lolo</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/sdRBb4ff6A0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/vbtjqj5y34n8"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://embedgram.com/v/647n20r1n6876"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/QkRYlaL81yu0bdK"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/odptlnnjyqkv"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] One Way [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Acción, Crimen, Suspense</genre>
+<year>2022</year>
+<tmdb>747803</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/fUqIFYsmzR2w0pPrkm2xyp5Suct.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/beLSvQ6DcG1aZLYIjcCiyXtpzlD.jpg</fanart>
+<info>Freddy, un delincuente menor, huye con una bolsa llena de dinero y cocaína. Herido de bala, se le acaba el tiempo...</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ExEl3sjAz8s"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/5mxbq9e0tqy1"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/padWzjBdk1pz9NyA"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/lD3xyjOK2jF7gyP"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/9r7sj5logj8i"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Medellin [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Comedia</genre>
+<year>2023</year>
+<tmdb>961718</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/miC8yrs5kPgmfbnPpgDqeoF2nJX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/q5ZYnVyxRRmzIIzW0uCn0hZWBVd.jpg</fanart>
+<info>Para salvar a su hermano de las manos de los narcos en Medellín, Reda reúne un equipo para atacar a los secuestradores en Colombia.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/nb6YQAlh7bU"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/n0aivh7rb9r0"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/vJ41zYN4a1klwA3g},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/p7PXvKx7Yptr311"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/vy9krtucwx8c"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El Gran Pirandello [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Comedia, Historia, Drama</genre>
+<year>2022</year>
+<tmdb>930921</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/gtIhBUq4lnJrZyjuAkshXxW6Txi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/EIzE6nEbdC8qXHc8h7tDrqbLGQ.jpg</fanart>
+<info>Durante un viaje a Sicilia en 1920, Luigi Pirandello conoce a Onofrio Principato y Sebastiano Vella, dos actores que ensayan un nuevo espectáculo con los actores de su dramaturgia amateur. Este encuentro trae grandes sorpresas.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/8O4zRPgNXSs"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/gkswok1lz3iu"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/qwo9ly18gARlrWvP"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/vxZ6O6Z6jJS4kxP"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/v8fd9ocpje5c"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El pacto (The Covenant) [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Bélica, Acción, Suspense</genre>
+<year>2023</year>
+<tmdb>882569</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/b1llNwzB0ym99YuZCs6hCBBhZOk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eTvN54pd83TrSEOz6wbsXEJktCV.jpg</fanart>
+<info>Después de una emboscada, el intérprete afgano Ahmed hace todo lo posible para salvar la vida del sargento del ejército estadounidense John Kinley. Cuando Kinley se entera de que a Ahmed y su familia no se les dio un pasaje seguro a Estados Unidos como prometieron, debe pagar su deuda regresando a la zona de guerra para recuperarlos antes de que los talibanes los persigan.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/02PPMPArNEQ"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ocaja06zvfyb"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://embedgram.com/v/6479r4o3584r3"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/MZxgma2pjPcmOr1"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/zsmw8u10si3d"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El cazador de recompensas [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Western, Suspense</genre>
+<year>2022</year>
+<tmdb>843380</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/1L7MhsmvQ43fSIE202UcvJJ3kJT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/15BnuDQ8pYRmLqPZKAk5vIhUu9J.jpg</fanart>
+<info>En 1897, el veterano cazarrecompensas Max Borlund se adentra en México, donde se encuentra con el jugador profesional y forajido Joe Cribbens, un enemigo jurado que envió a prisión años antes. Max tiene la misión de encontrar y devolver a Rachel Kidd, la esposa de un rico hombre de negocios, quien, según cuenta la historia a Max, ha sido secuestrada por Buffalo Soldier Elijah Jones. Max finalmente se enfrenta a un enfrentamiento para salvar el honor.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/5oZJdZHwWIE"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/vs10y2mqnwhs"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/b95OD11V6OYD4GdE"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/a7WWoQAay8ixxdy"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/z2vhydrys451"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Camino a la libertad [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Familia, Historia, Drama</genre>
+<year>2022</year>
+<tmdb>925341</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/qJbeY3CRQbIlyO48bFMMa4rla5z.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kvNDZMCVbjQikDtPqE0QOjGLeiu.jpg</fanart>
+<info>Huyendo de los nazis, dos niños, un padre periodista y un perro deben abrirse camino a través de la peligrosa cordillera de los Pirineos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/yFqzuORoeW4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/7ay1933qeij3"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/MqN9nG3OaE4ngxeA"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/BvorGzJw0XhyJve"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/inpaariyyq3p"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] A diente de perro [/COLOR][COLOR yellow](2021)[/COLOR]</title>
+<genre>Drama, Suspense, Acción</genre>
+<year>2021</year>
+<tmdb>931544</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/jPLBdBAi6TdJvLzKIwH2chm0Nab.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jPLBdBAi6TdJvLzKIwH2chm0Nab.jpg</fanart>
+<info>Tras una atípica jornada laboral como mozo de almacén, Darío Manzano, un treinteañero en crisis y sin rumbo, se ve inmerso en una trama que hará que cambie radicalmente su vida y la de su familia.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/wGD9pSPg750"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/0uj5647ejo5e"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/0rwmD7pGy9ZzRaZ8"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/9lxWKjPzWqfaxOX"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://embedgram.com/v/6479r271991o9"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white]  Ambush (la emboscada) [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Bélica, Suspense</genre>
+<year>2023</year>
+<tmdb>1074034</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/8hGh9lFEGKDQnVdEIyVRPNs3KxP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ecGcUWPxsB7TdB01jSbX8ozFckc.jpg</fanart>
+<info>Un grupo de jóvenes comandos de élite, liderados por el Capitán Drummond, tienen la tarea de recopilar información altamente clasificada que puede cambiar el destino de la guerra.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/pHClgGldZ4M"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/y4p0jgk6xhb1"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/vBgrD8G6O00nMZ64"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/KW3A1kagwJTbZ6"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/5axf39bscidm"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El vestido de Oskar[/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Drama</genre>
 <year>2022</year>
