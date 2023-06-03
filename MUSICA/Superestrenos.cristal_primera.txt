@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Oro puro - Rheingold [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama, Historia, Música, Romance, Crimen</genre>
+<year>2022</year>
+<tmdb>912726</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/fI6JEpRkWw1TuWss3DIdEBYy5w2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xFNxI3dzEKJYdlW188GqOtTWamk.jpg</fanart>
+<info>Narra la vida del rapero, empresario y ex convicto alemán Giwar Hajabi.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/zDvLF7bxkw4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/mrh5ygbx5scf"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://embedgram.com/v/647nr04s3n477"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/kDeq8aAqKwSOxJW"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/oeap5h2d3lnk"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Ricos de amor [/COLOR][COLOR yellow](2020)[/COLOR]</title>
+<genre>Romance, Comedia</genre>
+<year>2020</year>
+<tmdb>656563</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/zeEmsGWbI8B1rDlg1ZwRBe3BtyY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jLjnuizquGWvGg8D9ztuBvTNeeg.jpg</fanart>
+<info>Teto es un joven millonario decidido a probarle a Paula, la chica que le gusta, que es un buen muchacho. Pero una mentira sobre su pasado terminará saliéndose de control.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/snqqRWY_DXs"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/jodrfpvsd471"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://embedgram.com/v/647nr0363rn60"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/v9MmDZZjXbI4Omm"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/svokxa9gduip"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Y todos arderán [/COLOR][COLOR yellow](2021)[/COLOR]</title>
 <genre>Terror</genre>
 <year>2021</year>
