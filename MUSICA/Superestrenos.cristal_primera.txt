@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Curvature [/COLOR][COLOR yellow](2017)[/COLOR]</title>
+<genre>Ciencia ficción, Suspense</genre>
+<year>2017</year>
+<tmdb>475961</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/xdVJmK7y0oN1QOUrn3TZG5mwLCn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8KZtBtiigAlSpArCiBiOfxcezCZ.jpg</fanart>
+<info>Helen trata de sobrellevar la reciente muerte de su marido, un científico que se quitó la vida justo cuando estaba a punto de culminar con éxito la invención de una máquina del tiempo. Un día, la mujer recibe una llamada, y una voz sospechosamente parecida a la suya la advierte de que está en peligro. ¿Es posible que Helen haya viajado en el tiempo? ¿Y qué puede haberla llevado a hacer tal cosa?</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/cn79sO5-zcQ"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ef8o54zbt6ae"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://embedgram.com/v/647prp6s5s6n7"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/96mGoGlW3xSaagq"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/87city9e1c09"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Oro puro - Rheingold [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Drama, Historia, Música, Romance, Crimen</genre>
 <year>2022</year>
