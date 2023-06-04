@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Secretos maternos [/COLOR][COLOR yellow](2018)[/COLOR]</title>
+<genre>Suspense, Película de TV</genre>
+<year>2018</year>
+<tmdb>509579</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/gsfGF42YZyG3kJU3IViNgaFPsdz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aftDcZfPymOzYFF7DcQf7CubUoh.jpg</fanart>
+<info>Aubrey, embarazada, y su novio Jackson están pasando un fin de semana romántico en una isla paradisiaca. Cuando Jackson desaparece misteriosamente, Aubrey trata de averiguar donde esta su novio.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/fYnvSWOqRcE"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/i8u82a1u95f9"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://embedgram.com/v/647prp88q5620"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/YDod3Rgbm2UdKk"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/6u5euf6yk4c4"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Curvature [/COLOR][COLOR yellow](2017)[/COLOR]</title>
 <genre>Ciencia ficción, Suspense</genre>
 <year>2017</year>
