@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] En temporada baja  [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2023</year>
+<tmdb>1025962</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/cmD7ked02Fqcjt5nveXVn9dWBOl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qqPJGxNHcTuOEbfPAExuFneyeKz.jpg</fanart>
+<info>Un camping en otoño y cuatro módulos ocupados por cuatro hombres y sus circunstancias. Patéticas éstas y patéticos ellos, aunque también entrañables. Diversión asegurada.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/fqcUD7wSWT4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/mh2l3wkz0kuc"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://embedgram.com/v/6485n2sp24rs2"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/g33qGKZpWjIq2ob"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/w1i0lkxgkabo"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Declaración de emergencia  [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Acción, Drama, Misterio, Suspense</genre>
 <year>2022</year>
