@@ -174,12 +174,12 @@
 
 <item>
 <title>[COLOR white] Medellin [/COLOR][COLOR yellow](2023)[/COLOR]</title>
-<genre>Acción, Comedia</genre>
+<genre>Accion, Comedia</genre>
 <year>2023</year>
 <tmdb>961718</tmdb>
 <thumbnail>https://www.themoviedb.org/t/p/original/miC8yrs5kPgmfbnPpgDqeoF2nJX.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/q5ZYnVyxRRmzIIzW0uCn0hZWBVd.jpg</fanart>
-<info>Para salvar a su hermano de las manos de los narcos en Medellín, Reda reúne un equipo para atacar a los secuestradores en Colombia.</info>
+<info>Para salvar a su hermano de las manos de los narcos en Medellin, Reda reune un equipo para atacar a los secuestradores en Colombia.</info>
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/nb6YQAlh7bU"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/n0aivh7rb9r0"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/vJ41zYN4a1klwA3g},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/p7PXvKx7Yptr311"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/vy9krtucwx8c"}</urlsolve>
 </item>
 
