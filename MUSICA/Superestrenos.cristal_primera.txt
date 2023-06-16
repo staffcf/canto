@@ -4,6 +4,20 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 ==========================================================================================
 
+
+<item>
+<title>[COLOR white] Sisu [/COLOR][COLOR yellow](2023) [COLOR aqua]*Sin valorar 
+[/COLOR]</title> 
+<genre>Acción,Bélica</genre>
+<year>2023</year>
+<tmdb>840326</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/t9VXZkgcxpIwfPUKAWOOONs0vHv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uFLzSk7Tmqwrer4OIMnErZx6w92.jpg</fanart>
+<info>En lo profundo de la naturaleza salvaje de Laponia, Aatami Korpi está buscando oro, pero después de tropezar con una patrulla nazi, comienza una persecución impresionante y hambrienta de oro a través de la naturaleza salvaje de Laponia destruida y minada.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/FsxRUtjiUws"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://upstream.to/fcere1s9j2k2"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/poner"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/wsbqgiuw8kxc"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://sbvideo.net/e/wsbqgiuw8kxc"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/fcere1s9j2k2"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/JyBWqr0gkDijkeZ"},{"titulo" : "[COLOR white]File Stream[/COLOR]","url" : "https://filemoon.sx/d/87tog2glm7d4"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Extinción [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Terror, Suspense</genre>
