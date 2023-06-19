@@ -19885,6 +19885,19 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ep518FVHKIU"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://www.fembed.com/v/r50dextexzj51-23"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/2bd2ku0pxl78"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/K7j0lgWVxY4lXkPv"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/ctxsh9w81tji"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/e2leD9M0L1HYa6O"}</urlsolve>
 </item>
 
+
+<item>
+<title>[COLOR white] Perturbada [/COLOR][COLOR yellow](2018)[/COLOR]</title>
+<genre>Terror, Suspense</genre>
+<year>2018</year>
+<tmdb>467660</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/qbfAchmvEtTvUltxSty4uRiQhaG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4ZqcNLiQxzQoIN3hfE4QxnLQbDh.jpg</fanart>
+<info>Una joven perseguida por un acosador es recluida contra su voluntad en una institución mental donde se ha de enfrentar a su mayor temor, pero ¿es real o es producto de sus delirios?</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/2c8xQIMW9m4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/u5lg0l4dsqyx"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://embedgram.com/v/https://streamlare.com/v/WwM7lMB9mWPnZKbo"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/3J6OKwQa0xsdW3v"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/jnz0en5ytfv7"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Plague [/COLOR][COLOR yellow](2015)[/COLOR]</title>
 <genre>Drama, Terror</genre>
@@ -19895,6 +19908,7 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 <info>Un pequeño grupo de supervivientes en una Australia post-apocalíptica, buscan refugio de una infección que se ha extendido como una plaga entre la población humana. Evie (Tegan Crowley) y sus compañeros se separan de su marido John (Scott Marcus). Evie se niega a dejar atrás a John en contra de los deseos del grupo y se rebelan y abandonan Evie a un destino incierto. Con la llegada inesperada de Charlie (Steven Kennedy) lo que parece ser una oportunidad parfa un nuevo comienzo rápidamente se convierte en un horror tan amenazador como los infectados que les persiguen.</info>
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/2SPEHE-N7tw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/7giqj3p2gpnk"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/WwyJnL909EQDMbPa"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/bktqwt6gasa3"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/KQrQr9AQxwc02DK"}</urlsolve>
 </item>
+
 
 <item>
 <title>[COLOR white] Polar express [/COLOR][COLOR yellow] (2004) [COLOR aqua]*Sin valorar[/COLOR]</title>
