@@ -5,6 +5,42 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Triggered [/COLOR][COLOR yellow](2020)[/COLOR]</title>
+<genre>Terror, Acción</genre>
+<year>2020</year>
+<tmdb>715239</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/55caSXChuNS9LEboyOcK69W9An4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gto0QO51dbuFqeZ6gZ7MjQDRlz0.jpg</fanart>
+<info>Nueve amigos, todos con un oscuro secreto, acampan en el bosque. Después de una noche salvaje de fiesta, se despiertan con bombas suicidas atadas al pecho, todas con tiempos variables en sus relojes de cuenta atrás. Deciden averiguar cómo desarmar las bombas o buscar ayuda, hasta que descubren que pueden "tomarse" el tiempo unos a otros matándose unos a otros.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/iURQFUEL-no"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/5fz8wclzkuzq"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://embedgram.com/v/6491ppoq57s86"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/PDqBJrgqPZHgdV"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/pkf90ckuhwcj"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] En lo bueno y en lo malo [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2023</year>
+<tmdb>875818</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/jgwwvYHiNlzETpofFVWD6YgIYJT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6B1D9g7TsKQKi899eZ9YtiCoZ2C.jpg</fanart>
+<info>Mientras Jean hace campaña para ser reelegido alcalde conservador de una pequeña ciudad del norte de Francia, Edith, su esposa desde hace 40 años, le cuenta un secreto que ya no puede reprimir: en el fondo, es -y siempre ha sido- un hombre. Al principio, Jean cree que está bromeando, pero enseguida comprende que Edith está decidida a llevar su transición hasta el final. Tanto su matrimonio como su campaña se ven abocados a un serio revuelo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/TicdKTleZos"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/63q3z4xw4q16"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://embedgram.com/v/6491pp82o0nnr"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/6QvAaZm2WVT9XrL"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/hd84aidigqy1"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El precio del engaño [/COLOR][COLOR yellow](2019)[/COLOR]</title>
+<genre>Suspense, Película de TV</genre>
+<year>2019</year>
+<tmdb>644682</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/ooI0xvzLlLrgzhD76mEa0rBJmT0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fBttlcSLRzkSxQB4u8IQ3eieEfR.jpg</fanart>
+<info>La nueva directora de la escuela y madre soltera, Kathy, descubre que su aventura de vacaciones con el encantador Ian, de 18 años, no fue un accidente cuando se traslada a su escuela apuntando a Kathy y su hija adolescente Bree en un plan mortal. Ian quiere venganza ya que cree que Kathy es responsable de dividir a su familia, lo que finalmente llevó a la muerte de su padre. Kathy necesitará descubrir los motivos de Ian rápidamente si espera protegerse a sí misma y a Bree de sus peligrosas amenazas.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/yDoP9C5fBRc"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/3r29ucx5toth"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://embedgram.com/v/6491pp855s52s"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/vgkD3lpzLjSYO6"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/fzeg2boqt4fo"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Super Mario Bros. La pelicula [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Animación, Familia, Aventura, Fantasia, Comedia</genre>
 <year>2023</year>
