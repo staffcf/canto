@@ -2,6 +2,19 @@
 
 
 
+
+<item>
+<title>[COLOR white] Super Mario Bros. La pelicula [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Animación, Familia, Aventura, Fantasia, Comedia</genre>
+<year>2023</year>
+<tmdb>502356</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nniZPBIfrep9wbx0l1529RHXeD8.jpg</fanart>
+<info>Mientras trabajan en una averia subterranea, los fontaneros de Brooklyn, Mario y su hermano Luigi, viajan por una misteriosa tuberia hasta un nuevo mundo magico. Pero, cuando los hermanos se separan, Mario debera emprender una epica mision para encontrar a Luigi.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/uSDMbe64zTg"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/k70ow6v0i7ip"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://embedgram.com/v/6490856s90s37"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/vxJ43vryzOubM6"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/claw0bb2pprh"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] El Asombroso Mauricio [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Animacion, Aventura, Comedia, Familia, Fantasia</genre>
