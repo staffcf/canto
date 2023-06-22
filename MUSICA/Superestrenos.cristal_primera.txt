@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] John Wick 4 [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Accion, Suspense, Crimen</genre>
+<year>2023</year>
+<tmdb>603692</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/mj2Z9HnRSIEk3n7yVPoOY4Uzzfh.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zKOLGC6s6Ieyy7oMl0GT6PTR9VM.jpg</fanart>
+<info>John Wick descubre un camino para derrotar a la Alta Mesa. Pero para poder ganar su libertad, Wick deberá enfrentarse a un nuevo rival con poderosas alianzas en todo el mundo, capaz de convertir a viejos amigos en enemigos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/L0anWmmd8TI"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/604mmhmui8xa"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamwish.to/5cozc0vux6dl"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/1AQ07ABd82iejZ9"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/0frvgadp3570"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Propiedad privada [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Drama, Suspense</genre>
 <year>2022</year>
