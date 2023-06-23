@@ -5,6 +5,126 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Astérix y Obélix: El reino medio  [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Aventura, Familia</genre>
+<year>2023</year>
+<tmdb>643215</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/gQy5hTqiioNHe85RuPcMyaio9Sp.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tRjBm69TDhW11F8MDQu61AdgZmr.jpg</fanart>
+<info>Un carro llega a la aldea de Astérix y Obélix, llevando a la emperatriz china Fu Yi. Ella vino a pedir ayuda después de la toma del poder por un tal Deng Tsin Qin, que derrocó a la princesa. Al parecer, la fama de los indomables galos se conoce hasta Shanghai...</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/3kQ2__AsiBA"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/buzps7bkbaju"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/LMEmnAkwdrLzgPvq"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/K0VKZy372xU00D8"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/xtu4187odlva"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] A traves del mar [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Romance</genre>
+<year>2023</year>
+<tmdb>988078</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/ykS1waU5GsEjPbiNnsHG2bl9QvS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/34phh8PsxpCJJk0BbGtfHkXNRIR.jpg</fanart>
+<info>Secuela de "A través de mi ventana"</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/cq0m15Sip0g"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/lmkp13rdmv5a"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/vJ41zYN46MwlwA3g"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/vkY2RdQV80H4e1p"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/vuc0efehzrcc"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La combinacion perfecta  [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Romance, Comedia</genre>
+<year>2023</year>
+<tmdb>561717</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/3DGWP1xSdm87g1NkTX9qGNFYmv3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pEg9HmNmdYsYDGbnMc6ZsqrHv9s.jpg</fanart>
+<info>Una mujer de cuarenta años con todo en juego (su carrera de alto riesgo, su reloj biológico en marcha, su cuenta bancaria) lo arriesgará todo por un romance secreto intensamente lujurioso con la única persona que podría destruirle.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/n4tjqqGgky8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/lcw58pek4lur"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/b95OD11VGyyD4GdE"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/6aPBKJzLgJt93jW"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/j8nbbz2833ol"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La guerra de los mundos: El ataque [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Ciencia ficción, Misterio, Suspense</genre>
+<year>2023</year>
+<tmdb>1103825</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/c3CUKHtQUvPvp9NSFsKwYsPLAdW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tHprX0KyUOCQgIvE36mmboy6y81.jpg</fanart>
+<info>Tres jovenes astronomos luchan por sobrevivir a una mortifera invasion marciana.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/5BCzlUXIpGo"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/2sa61rdavey4"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/AQ9qzxNa7Zgn4mME"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/GWMkVLKZ69c1j8J"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/za2bxvwks92y"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Number El oro de Johannesburgo [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Suspense, Acción, Crimen</genre>
+<year>2023</year>
+<tmdb>1129956</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/dDB9jDwOe3XsctylK1cTbPBtFdl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/u6bGwwMgQhcqQJKHASwN4PEcYyj.jpg</fanart>
+<info>Mientras investiga un robo de oro histórico en Johannesburgo, un policía de incógnito se ve obligado a elegir entre seguir a su conciencia o cumplir con la ley.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/B-IBhK8owMU"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/y6l2ado989p7"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/AkQpz93Q4KdnRdN6"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Yp6R7j9W7vuvWJx"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/ndjpdzf91kmx"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Pesadilla americana [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Terror, Comedia</genre>
+<year>2022</year>
+<tmdb>982752</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/fWa89Rr95zFYqTKVfDPKpjrofsM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2R1TrLu42l70oGPmYx38HSbrdzh.jpg</fanart>
+<info>Después de que un gobernador emita una orden ejecutiva para arrestar a los hijos de inmigrantes indocumentados, a los jóvenes detenidos se les ofrece la oportunidad de que se les retiren los cargos ofreciéndose como voluntarios para cuidar a los ancianos. Sin embargo, una vez dentro del centro de cuidado de ancianos, descubren más secretos retorcidos de los que podrían haber imaginado.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/6tkqLPCg7x0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/g44703ne4dpl"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://upstream.to/9djbceh5uy4a"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/0p76bpgaYBFbqRx"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/gtcwgakrvtzc"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Soy una buena persona [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2023</year>
+<tmdb>1104415</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/gptu4fXCs7LjuqAhNIvftTyozXp.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tkE2YMQcaLCl4TluendinbhcXs0.jpg</fanart>
+<info>Sabina vive con y de sus padres a los treinta y tantos. Otra "artista" que se arrastra por un Madrid en perpetua crisis, rodeada de gente aún más triste y chunga que ella misma. La casualidad le regala la oportunidad de "petarlo"… y lo va a intentar.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/MP5ixbEbXpI"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ooqo4pr44uxr"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/LvgezwvAy6PDbp8E"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/7PDPpyW33OfAqz6"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/0ritu05cgjpp"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] To Leslie  [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2022</year>
+<tmdb>823147</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/gEMK2q0VDqlHje7rx88lKmZpm0R.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/q46qsNpdJTrJ1PsXTwvWqpIykUc.jpg</fanart>
+<info>Basada en hechos reales, cuenta la historia de Leslie, una madre soltera del oeste de Texas, que hace seis años ganó la lotería pero rápidamente despilfarró el premio, gastándolo todo en fiestas y alcohol. Desahuciada, acude a su hijo en un intento de recuperar el rumbo de su vida.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/s142GHk3q1A"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/geuylia2o2s6"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/MqN9nG3OrN0ngxeA"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/wDmQLJ0B1bTJyxa"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/umjmct29whdo"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Una imagen para creer [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Romance, Comedia</genre>
+<year>2023</year>
+<tmdb>1006911</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/6eocY3RtunPbRPrZHHZxhvNZxbJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mhiUj4B7gUhQjfCBV6tzDh0TgBq.jpg</fanart>
+<info>Un par de abuelas entrometidas engañan a sus nietos ya adultos para que tengan un encuentro romántico que reaviva un amor de la infancia... y viejos piques.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/5Tda-kt97sc"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/8u64g6zsga5f"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/LMEmnAkwdONzgPvq"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Zyyr2B9o0qFqD8r"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/059zrn5lere7"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El mejor del mundo [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Familia</genre>
+<year>2023</year>
+<tmdb>929569</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/giJ6X8za9OeYccavGPvg7Vbeuoq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ufB9UYar21pVStDv3Cbhs7yONQR.jpg</fanart>
+<info>Prem, un genio de las matemáticas de 12 años, descubre que su padre, recientemente fallecido, era un rapero famoso. De inmediato, se propone saber más sobre su vida y sus pasiones. Motivado por sus imaginativas fantasías musicales, Prem está decidido a descubrir si realmente lleva el hiphop en su ADN.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/7JoNM4h0trs"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/kd351wmmkoy3"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://embedgram.com/v/https://streamlare.com/v/aNdbzkZdg63D8JjB"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/1Rj76wY6veUeZ4a"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/wm9za4p4n03b"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] John Wick 4 [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Accion, Suspense, Crimen</genre>
 <year>2023</year>
