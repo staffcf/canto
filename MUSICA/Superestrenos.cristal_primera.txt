@@ -5,6 +5,42 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] King, mi pequeño rey [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Aventura, Comedia, Familia</genre>
+<year>2022</year>
+<tmdb>892527</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/u9Iwwlz60p2ouhAIinaoNBfN8QA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7P6N1qcpWN3wR0dnatWnUteIGcX.jpg</fanart>
+<info>King, un cachorro de león destinado al tráfico, se escapa del aeropuerto y se refugia en la casa de Inés, de 12 años, y Alex, de 15. Los hermanos tienen entonces la loca idea de llevárselo a casa, a África. Pero el seguimiento de los aduaneros no les facilita la vida. Cuando Max, su caprichoso abuelo, al que sólo han visto dos veces en su vida, se une a la aventura, todo se vuelve posible...</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Xa8Ic1eQNbQ"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/1r7ru0o46jjt"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/PjrQlo0dVEknyOYk"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/vpJxaRVK44TPBl"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/4v6jb1xp3dxe"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El campo de la muerte [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Suspense, Terror</genre>
+<year>2022</year>
+<tmdb>739643</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/vaAgq89Lc9bfIMIEiPky4HqK9lp.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4rON0QFWpHtZ9bEtfdE68TFbfGr.jpg</fanart>
+<info>Seis extraños se despiertan repentinamente en un campo de maíz remoto e interminable. Despojados de sus pertenencias, solo les quedan seis elementos: una pistola de una sola bala, fósforos, una linterna, un cuchillo, una brújula y un frasco de agua. Mientras las sirenas misteriosas resuenan en la distancia y las trampas aparecen a cada paso, el grupo se da cuenta de que se ha sumergido en un juego del gato y el ratón con un mal invisible, y la supervivencia depende de resolver un rompecabezas diabólico y mortal.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/D-iZ9sdOm18"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/sf1haudg3at1"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/rZ45DrpdJ5MlM81R"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/dpj3R6D4B6hQo9"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/po4hqieenarb"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Love Again [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Romance, Drama, Comedia</genre>
+<year>2023</year>
+<tmdb>758336</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/uFZp6cZjASgJhoRZ6nLP9CrWwAC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/g7p0PxDxy3yc689KtJqvaCGp4Jd.jpg</fanart>
+<info>Mientras intenta superar la pérdida de su prometido, Mira Ray envía una serie de mensajes románticos a su antiguo número de teléfono… sin tener en cuenta que el número había sido reasignado al nuevo teléfono de trabajo de Rob Burns. Rob, periodista, queda sorprendido por la honestidad de los mensajes de texto. Cuando le asignan la tarea de escribir un artículo sobre la megaestrella Celine Dion, él le pide ayuda para averiguar cómo conocer a Mira en persona… y conquistar así su corazón.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/nQGy-JTLvp8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/nam0k4qa4ucd"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/rJmXD0k7qPvnGg8o"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/eKq7kdorpmfYzK2"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/skghdbqjlucr"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Astérix y Obélix: El reino medio  [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Comedia, Aventura, Familia</genre>
 <year>2023</year>
