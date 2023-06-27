@@ -5,18 +5,6 @@
 ==========================================================================================
 
 <item>
-<title>[COLOR white] Tyler prueba [/COLOR][COLOR yellow](2022)[/COLOR]</title>
-<genre>Drama</genre>
-<year>2022</year>
-<tmdb>946700</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/original/bWjM6D3d6CtaJevK2PwbpceYMGZ.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/lRFDTddGLYAb23TbpagJXpbDt5C.jpg</fanart>
-<info>Manu siendo niño</info>
-<urlsolve>acestream://d88ae6031dc7a15508bf5b9a97ab8c6299b53577</urlsolve>
-</item>
-
-
-<item>
 <title>[COLOR white]Tyler Rake 2 [COLOR gold](2023)[/COLOR]</title> 
 <genre>Acción, Suspense</genre>
 <year>2023</year>
