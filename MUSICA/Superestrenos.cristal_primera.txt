@@ -60,7 +60,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/jT0Eyfw0VXlnk8sMKfyFiKj8UsK.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pBMkSy0qqXzzJPM4xyV9wZEo4lC.jpg</fanart>
 <info>En 2020, el mundo conoció a un nuevo héroe: Tyler Rake, un intrépido mercenario del mercado negro que se embarca en la misión más mortífera de su carrera. Pero lo que parece perdido... todavía se puede extraer.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://sbvideo.net/e/yaq1ogv4silf"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://streamwish.to/sumz70tmqbgk"},{"titulo" : "[COLOR white]Acestream[/COLOR]","url" : "acestream://d88ae6031dc7a15508bf5b9a97ab8c6299b53577"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://sbvideo.net/e/yaq1ogv4silf"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://streamwish.to/sumz70tmqbgk"},{"titulo" : "[COLOR white]Acestream[/COLOR]","url" : "acestream://e0729cf599c8bb64d56d87c0a0ca1e4398772ff9"}</urlsolve>
 </item>
 
 
