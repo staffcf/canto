@@ -4,10 +4,16 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 ==========================================================================================
 
-<title>[COLOR white]Black panther 2 [COLOR gold](1985)[/COLOR]</title>    
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://sbvideo.net/e/f87ywumcy0ji"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://streamwish.to/rajgkvwqlwbs"}</urlsolve>
-<thumbnail>https://www.themoviedb.org/t/p/original/uPBswEBVVvWFF0b1nLdpDBTvPWZ.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/h1nidLXG9HfdBg9qgz5lb7bb7fs.jpg</fanart>
+<item>
+<title>[COLOR white] Black panther 2 [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2022</year>
+<tmdb>946700</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/bWjM6D3d6CtaJevK2PwbpceYMGZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lRFDTddGLYAb23TbpagJXpbDt5C.jpg</fanart>
+<info>Manu siendo niño</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/l38yem5an6w"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/f87ywumcy0ji"},{"titulo" : "[COLOR white]Newish[/COLOR]","url" : "https://streamwish.to/rajgkvwqlwbs"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/"}</urlsolve>
+</item>
 
 
 <item>
