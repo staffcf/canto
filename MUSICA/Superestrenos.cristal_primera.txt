@@ -5,18 +5,6 @@
 ==========================================================================================
 
 <item>
-<title>[COLOR white] Black Panther 2 [/COLOR][COLOR yellow](2022)[/COLOR]</title>
-<genre>Drama</genre>
-<year>2022</year>
-<tmdb>946700</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/original/bWjM6D3d6CtaJevK2PwbpceYMGZ.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/lRFDTddGLYAb23TbpagJXpbDt5C.jpg</fanart>
-<info>Manu siendo niño</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/l38yem5an6w"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/jfr8i6kli6v6"},{"titulo" : "[COLOR white]Newish[/COLOR]","url" : "https://streamwish.to/7lu0a2l4wrx5"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/"}</urlsolve>
-</item>
-
-
-<item>
 <title>[COLOR white] El almirante: Mar de fuego [/COLOR][COLOR yellow](2014)[/COLOR]</title>
 <genre>Bélica, Acción, Drama, Historia</genre>
 <year>2014</year>
