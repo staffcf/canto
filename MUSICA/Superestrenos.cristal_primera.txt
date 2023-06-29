@@ -5,6 +5,54 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] The Machine [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Acción, Crimen</genre>
+<year>2023</year>
+<tmdb>647250</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/grWYL2OWHeYQ0YqHHYLQUVRUkVP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1zvy8hx4ZDnjS71IHtj1PtutriP.jpg</fanart>
+<info>El pasado borracho de Bert lo alcanza 20 años después cuando él y su padre son secuestrados por aquellos a quienes Bert agravió hace 20 años mientras estaba borracho en un semestre universitario en el extranjero en Rusia.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/AwDKLEaJxMk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/xaotiad9fov2"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/8K02DPkwJQEnygB1"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Mzpgl98ykjtm3gq"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/l367o2qbhqu1myj4fk0fd0m0"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Moving On [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Comedia</genre>
+<year>2023</year>
+<tmdb>953365</tmdb>
+<thumbnail>https://i.imgur.com/4vaUlr8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1PnifX2JyvzmrUO5CCd0GXHjkyw.jpg</fanart>
+<info>Dos viejas amigas distanciadas se reencuentran en un funeral de una amiga común y deciden vengarse del viudo que se metió con ellas décadas antes.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/RCSKI5nO9V0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/66rpd00cxpjm"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/ARPonQ3Zj2xzb1aE"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/p7wrwA2W2lIr81G"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/odi0xaxw3gwt"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Huye conejo huye [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Terror, Suspense</genre>
+<year>2023</year>
+<tmdb>714669</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/7b6gA6qvpxl48pjQ0m8ezNsFiEn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gjz17vijdZxgGDDr9pNMEa7k356.jpg</fanart>
+<info>Una doctora de una clínica de fertilidad descubre que su hermana pequeña se comporta de una manera extraña, lo que pondrá a prueba sus valores y le obligará a afrontar los fantasmas de su pasado.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/IFPovTGI8hA"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/t2720m0pliwk"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/gLXEDVM1OwwnQY74"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/0RXoY6Dev4ubrZV"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/94co4sed9m41"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Kidz [/COLOR][COLOR yellow](2020)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2020</year>
+<tmdb>640923</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/jSqCzwTfORRkWmlmbEZeJbsoLnq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/984bqrN5ni3fMzPRcDmk3BKiD2T.jpg</fanart>
+<info>Sara y Nicola esperan su segundo hijo. A través de la mirada aguda del difunto Mattia Torre, todas las alegrías y tristezas de ser padre en la Italia moderna se desvelan de una manera absolutamente brillante e ingeniosa.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/InXjhdwaP5w"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/msvbahw177nu"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/BQe7lBo9JOMn59bO"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/aqym0z4wM0C0d2"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://cloudvideo.tv/l367o2qbhqu1"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El almirante: Mar de fuego [/COLOR][COLOR yellow](2014)[/COLOR]</title>
 <genre>Bélica, Acción, Drama, Historia</genre>
 <year>2014</year>
