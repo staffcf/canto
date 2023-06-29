@@ -4,6 +4,20 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 ==========================================================================================
 
+
+<item>
+<title>[COLOR white] Los Caballeros Del Zodiaco [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Fantasía,Acción,Aventura</genre>
+<year>2023</year>
+<tmdb>455476</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/kcxNpHWlgST6i1InnSMKWWTTZbz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kKzYDuFim4AGO0UXBT8IzgjQsaJ.jpg</fanart>
+<info>Seiya, un testarudo adolescente callejero, se pasa el tiempo luchando por dinero mientras busca a su hermana secuestrada. Cuando en una de sus peleas se le revelan poderes místicos que desconocía, Seiya se ve inmerso en un mundo de santos en guerra, antiguos entrenamientos mágicos y una diosa reencarnada que necesita su protección.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/M_SBjSWBAs4"},{"titulo" : "[COLOR white] Videostream[/COLOR]","url" : "https://sbvideo.net/e/d0hzyphhc5ss"},{"titulo" : "[COLOR white]Newish[/COLOR]","url" : "https://streamwish.to/76iqnzh9cirp"}</urlsolve>
+</item>
+
+
+
 <item>
 <title>[COLOR white] The Machine [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Comedia, Acción, Crimen</genre>
