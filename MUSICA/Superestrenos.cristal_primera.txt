@@ -4,6 +4,89 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 ==========================================================================================
 
+<item>
+<title>[COLOR white] The Quiet Girl [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2023</year>
+<tmdb>916405</tmdb>
+<thumbnail>https://i.imgur.com/snryZv6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pIrIILbbVRLn4bPKjWJc6GdZ5Yq.jpg</fanart>
+<info>La Irlanda rural, 1981. Cáit es una reservada niña de nueve años que está desatendida por parte de su pobre, disfuncional y demasiado numerosa familia. Se enfrenta en silencio con dificultades en la escuela y en casa, y ha aprendido a pasar desapercibida para cuantos la rodean. Cuando llega el verano y se acerca la fecha del parto de su madre, Cáit es enviada a vivir con unos parientes lejanos. Sin saber cuándo volverá a casa, se queda en el hogar de unos desconocidos sin más pertenencias que la ropa que lleva puesta.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/aPkW9u4XEBU"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/9id65sl474uy"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/rB0an6wpoK7D3dWb"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/bVK4V3eoMYHPMed"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/tr6y42ls4vm3"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Saint Omer El pueblo contra Laurence Coly [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama, Crimen</genre>
+<year>2022</year>
+<tmdb>925943</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/skC8lc8VvWv3mkAdUPUnkiNvhkg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4DqVwP2jA5fcdGXLY84pczdoXEM.jpg</fanart>
+<info>Tribunal de Saint Omer. La joven novelista Rama asiste al juicio de Laurence Coly, una joven acusada de matar a su hija de 15 meses al abandonarla a la subida de la marea en una playa del norte de Francia. Pero a medida que avanza el juicio, las palabras de la acusada y los testimonios de los testigos harán tambalear las convicciones de Rama y pondrán en duda el propio juicio.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Jb2wO1dQxnI"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/bmle1zh2idtm"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/YvAyz2Ggk6Olg9kL"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/16mVweR4KAceR6O"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/5j8p6025it4g"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Nimona [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Animación, Ciencia ficción, Acción, Aventura, Fantasía</genre>
+<year>2023</year>
+<tmdb>961323</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/oWRY8HRXI1DVWB7rNvpmFWwSnCC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qIAVhxF1LnLrAGQPW4fJv4B2wmS.jpg</fanart>
+<info>Un caballero es acusado de un crimen que no ha cometido y la única persona que puede ayudarle a demostrar su inocencia es Nimona, una adolescente metamorfa que bien podría ser también un monstruo al que ha jurado matar. Esta historia, ambientada en un mundo tecno-medieval distinto a todo lo visto antes en animación, trata sobre las etiquetas que asignamos a las personas y la metamorfa que se niega a ser definida por nadie.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/9VfmsA7_qks"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/9g7en50jchph"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/ARPonQ3ZE7Lzb1aE"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/6qdxvmlqp6cLxg"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/bwmey4xk6gzj"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Las estrellas al mediodía [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama, Romance, Suspense</genre>
+<year>2022</year>
+<tmdb>603204</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/ynpDK5NXCbW7KOT16WaZERWU44N.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tOfJuyfEbUMSSyBK24CAehphKwD.jpg</fanart>
+<info>Película basada en la novela de Denis Johnson (Publicado por Alfred A. Knopf en Septiembre 12, 1986). La trama comienza siguiendo a una mujer estadounidense anónima, que vivía en Managua, Nicaragua en 1984, durante el gobierno Sandinista.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Yg3EQ1_zRow"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/v73pqyqlfpy6"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/gLXEDVM1ge3nQY74"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Pwkwxq79BpIDR8"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/zztsq8ts3clv"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Inspector Sun y la maldición de la viuda negra [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Animación, Familia</genre>
+<year>2022</year>
+<tmdb>987750</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/hpEoEdLnaWqEByg5I8xY11CfiQx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rMAVw7SfUNqs9stFA4pXT70HCvS.jpg</fanart>
+<info>Shanghái, 1934. En un mundo de insectos paralelo al de los humanos, el veterano Inspector Sun, una araña solitaria, lidera su última misión contra su archienemigo Langosta Roja, antes de embarcarse en un merecido retiro. Sus vacaciones a bordo de un avión Pan Am clipper entre Shanghai y San Francisco acaban abruptamente cuando el millonario Dr. Spindelthorp aparece asesinado. Lo que comienza como un caso rutinario para Sun, decidirá finalmente el destino de la humanidad.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/lUjuuF3U33I"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ln6a9klmu918"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/0rwmD7pxKkEzRaZ8"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/BQ66gOZyLacy0k9"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/xf4255wv1ff5"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Lo que nunca te dije pero debería haberte dicho [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama, Romance, Comedia</genre>
+<year>2022</year>
+<tmdb>1146097</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/xJB8lPR3Zjq1GV9M5PkZnN8wRy6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/z1Ai0K8hixoYpjq9sDPt8NRzidT.jpg</fanart>
+<info>Cuenta tres historias de amor y desamor. Manuel y Lola celebran su aniversario y, como todos los años, quedan en el parque en el que se conocieron. Pero este año Manuel sospecha que Lola le oculta algo. Antes de encontrarse, la sigue y confirma que no está en casa, tal como le había dicho. Ana descubre que Alberto, con el que vive, le va a pedir que se casen, y esto le crea ciertas dudas ya que no se siente preparada para formalizar más su relación con él. O tal vez son ciertas heridas del pasado las que le impiden seguir adelante con su vida. </info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ZqZKWAs1LbY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/d2gxiz2qxb0q"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/gNXKzZO16OVlEk6P"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/QPOVAYr8qPU0DWD"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/28kzawh4x2u7"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Abrázame fuerte  [/COLOR][COLOR yellow](2021)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2021</year>
+<tmdb>756651</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/mbeY6H8IrynvkUndp9BK18fau0h.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mzW2lOPQ75lwbDQ9Vnq5dJnKPGh.jpg</fanart>
+<info>Al amanecer, Clarisse echa un último vistazo a su marido y a sus dos hijos dormidos, duda en dejar una nota y se pone en camino. Un escape desesperado que revela gradualmente sus capas a medida que Clarisse, que parece tener una conexión extrasensorial con la familia que ha dejado atrás, se pierde en el mundo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/vPsadgBQ8xs"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/qoifdn6zkd7h"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/BQe7lBo9vM3n59bO"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/yDgJqzlMD1u3p8"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/e8wuic32sv0n"}</urlsolve>
+</item>
+
 
 <item>
 <title>[COLOR white] Los Caballeros Del Zodiaco [/COLOR][COLOR yellow](2023)[/COLOR]</title>
