@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] El cielo no puede esperar [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Cocumental</genre>
+<year>2023</year>
+<tmdb>1089835</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/eCbNscxh1Em6iDA3n64ZSceHc7N.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eCbNscxh1Em6iDA3n64ZSceHc7N.jpg</fanart>
+<info>El 12 de octubre de 2006 falleció el joven británico-italiano Carlo Acutis, como consecuencia de una leucemia fulminante. Tenía solo 15 años. Desde entonces, la vida ejemplarizante de este adolescente “de andar por casa”, entusiasta del saxofón, los videojuegos y la informática, se ha difundido con una fuerza imparable entre los jóvenes, hasta el punto de que su nombre sigue siendo hoy trending topic en Google y en las redes sociales. Sabiendo que iba a morir, Carlo Acutis ofreció todos sus sufrimientos por la salvación de muchos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/W4K_ClZ4o2U"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/bcuf9bpf1q2n"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://embedgram.com/v/64n44n84p8p4n"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/zwaVzegMZZIYZeJ"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/450yrly2hgqb"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Bukraken [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Terror, Fantasía</genre>
+<year>2023</year>
+<tmdb>1127781</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/qRtdNFzEEoQ2WpQPfkbhkNcXbF9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/z4B2H6vhN7NyDy8Z6tekDUq5JTa.jpg</fanart>
+<info>La historia se centra en un material encontrado que fue grabado en 2016 por una estudiante universitaria llamada Susana Rojas, que tras haberse quedado sin temas para realizar su trabajo de fin de carrera, decidió realizarlo sobre un monstruo legendario llamado el “Bukraken”, una criatura gigantesca que desde el principio de los tiempos ha estado atacando a la humanidad e interviniendo incluso en momentos históricos, siempre siendo ocultado por el gobierno y la propia historia.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/5AUsh5NkSok"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/090eawn96s7d"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://embedgram.com/v/64n323orn08o5"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/jZdAep7R6rSa3d"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/gjm1y3vgg0oj"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] The Quiet Girl [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama</genre>
 <year>2023</year>
