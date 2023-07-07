@@ -5,6 +5,54 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Unos suegros de armas tomar [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Comedia, Romance</genre>
+<year>2023</year>
+<tmdb>921636</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/5dliMQ2ODbGNoq0hlefdnuXQxMw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/g98tCz3EHwiWhsQhw1FjhwLhfyt.jpg</fanart>
+<info>Owen Browning (Adam Devine) es un estirado director de banco que está a punto de casarse con Parker, el amor de su vida. En la semana en la que se va a celebrar su boda, su banco es asaltado por los infames Ghost Bandits, y Owen sospecha que estos viles delincuentes son en realidad sus futuros suegros, que acaban de llegar a la ciudad.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/R8xepj9wpi4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/w5k9mqgrwbs0"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/rB0an6wpP8XD3dWb"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/mkvPkge2VahdyQ"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/64n7q6ss2p00p"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Robots [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Romance, Ciencia ficción, Fantasía, Comedia</genre>
+<year>2023</year>
+<tmdb>723347</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/yf7aXA3qC3MA5fqnBmnFsrdZDDN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ktjL4l9pvkuxlK1ea40mCksampt.jpg</fanart>
+<info>Charles es un mujeriego, mientras que Elaine es una cazafortunas. El dúo aprende acerca de la humanidad cuando se ven obligados a unirse y perseguir a los robots dobles de sí mismos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/aEsMdbvXMRM"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/3ercerbzfz8g"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/vBgrD8GAEEZnMZ64"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/6oY6wR3RPBc93DB"},{"titulo" : "[COLOR white]Gram[/COLOR]","url" : "https://embedgram.com/v/64n7or8489rnp"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Bad City [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Acción, Crimen</genre>
+<year>2022</year>
+<tmdb>987507</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zjWAjosdXELkaqCnlc1s8FQtIZL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sGGNrDPV8VFJzOTZOcsFiJ45Xp3.jpg</fanart>
+<info>Torada (Ozawa Hitoshi), un veterano inspector, no tienen ninguna posibilidad de enfrentarse a la arraigada actividad delictiva de las dos mayores bandas de la ciudad, especialmente la que ha establecido profundos lazos con los responsables políticos y ha conseguido que se le acuse falsamente y se le condene a prisión.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/xpJKRbbCoB0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/06mk3gjhvly3"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/gLXEDVM133RnQY74"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/QegvzXG8Q0U0xjr"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/vzw8mkjyyep9"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Blue Jean [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2023</year>
+<tmdb>971699</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/1T6e8WedMWQTTSTASSv6XHXtmUH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/68dj9yRgFoLlDPLZiAKzb3KRL72.jpg</fanart>
+<info>En 1988, una profesora homosexual se ve enfrentada a un grave problema cuando un nuevo estudiante amenaza con revelar su secreto.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/YM0GjP_QgPY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/jty084i5ngoh"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/Jj8GzOqvGGqnvPog"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/1PBgxWYA2LFePGK"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/lbfmyvghhgmz"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Guardianes de la Galaxia: Volumen 3 [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Acción, Ciencia ficción, Aventura</genre>
 <year>2023</year>
