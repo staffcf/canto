@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Guardianes de la Galaxia: Volumen 3 [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Ciencia ficción, Aventura</genre>
+<year>2023</year>
+<tmdb>447365</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/6GkKzdNosVAL7UGgwTtCHSxLQ67.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ypKROTROwMdbUteTMG6CP2Y4yug.jpg</fanart>
+<info>Star-Lord, todavía recuperándose de la pérdida de Gamora, debe reunir a su equipo para defender el universo junto con la protección de uno de los suyos. Una misión que, si no se completa, podría llevar al final de los Guardianes tal como los conocemos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/56TaHRa5Ow0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/8pvquwqvtly7"},{"titulo" : "[COLOR white]Newish[/COLOR]","url" : "https://streamwish.to/yvxcle6ng3mj"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamlare.com/v/qwo9ly1J2BolrWvP"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://streamtape.com/v/Wwq722D2mATbJOM"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El cielo no puede esperar [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Cocumental</genre>
 <year>2023</year>
