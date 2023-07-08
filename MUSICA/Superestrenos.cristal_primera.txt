@@ -120,7 +120,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/6GkKzdNosVAL7UGgwTtCHSxLQ67.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ypKROTROwMdbUteTMG6CP2Y4yug.jpg</fanart>
 <info>Star-Lord, todavía recuperándose de la pérdida de Gamora, debe reunir a su equipo para defender el universo junto con la protección de uno de los suyos. Una misión que, si no se completa, podría llevar al final de los Guardianes tal como los conocemos.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/56TaHRa5Ow0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/8pvquwqvtly7"},{"titulo" : "[COLOR white]Newish[/COLOR]","url" : "https://streamwish.to/yvxcle6ng3mj"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamlare.com/v/qwo9ly1J2BolrWvP"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://streamtape.com/v/Wwq722D2mATbJOM"},{"titulo" : "[COLOR white]Acestream 4K[/COLOR]","url" : "acestream://1192016d6a41a58869ae89a6146af7bf569d0f5e"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/56TaHRa5Ow0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/8pvquwqvtly7"},{"titulo" : "[COLOR white]Newish[/COLOR]","url" : "https://streamwish.to/yvxcle6ng3mj"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamlare.com/v/qwo9ly1J2BolrWvP"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://streamtape.com/v/Wwq722D2mATbJOM"},{"titulo" : "[COLOR blue]Acestream 4K[/COLOR]","url" : "acestream://1192016d6a41a58869ae89a6146af7bf569d0f5e"}</urlsolve>
 </item>
 
 
