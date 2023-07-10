@@ -12,7 +12,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/yGCpehozPDlaczL4Fas1d01mfAH.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/cooIqL8Ph48Cv64zLC0ukhPGZha.jpg</fanart>
 <info>Inspirado en hechos reales ocurridos en Kentucky en 1985, durante los cuales un oso negro de 175 libras ingirió 88 libras de cocaína pura.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/CvYGl5BESEI"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/jd0cenp0raz9"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/gLXEDVM1dwMnQY74"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/vKLgo8AB2XC46vD"},{"titulo" : "[COLOR white]Torrent BD 1080[/COLOR]","url" : "https://cloudvideo.tv/typwljso3jy1"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "magnet:?xt=urn:btih:1b1b1f0623ff918d367a0006e6aaec72b41caa4b"},{"titulo" : "[COLOR white]Torrent 4K[/COLOR]","url" : "magnet:?xt=urn:btih:3K2LLGTBXW2Z7JYVH7F2MRAGPH52IYTM"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/CvYGl5BESEI"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/jd0cenp0raz9"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/gLXEDVM1dwMnQY74"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/vKLgo8AB2XC46vD"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/typwljso3jy1"},{"titulo" : "[COLOR white]Torrent BD 1080[/COLOR]","url" : "magnet:?xt=urn:btih:1b1b1f0623ff918d367a0006e6aaec72b41caa4b"},{"titulo" : "[COLOR white]Torrent 4K[/COLOR]","url" : "magnet:?xt=urn:btih:3K2LLGTBXW2Z7JYVH7F2MRAGPH52IYTM"}</urlsolve>
 </item>
 
 
