@@ -5,6 +5,42 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Oso vicioso [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Suspense, Comedia, Crimen</genre>
+<year>2023</year>
+<tmdb>804150</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/yGCpehozPDlaczL4Fas1d01mfAH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cooIqL8Ph48Cv64zLC0ukhPGZha.jpg</fanart>
+<info>Inspirado en hechos reales ocurridos en Kentucky en 1985, durante los cuales un oso negro de 175 libras ingirió 88 libras de cocaína pura.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/CvYGl5BESEI"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/jd0cenp0raz9"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/gLXEDVM1dwMnQY74"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/vKLgo8AB2XC46vD"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/typwljso3jy1"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Mia y yo: El héroe de Centopia [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Animación, Fantasía, Aventura</genre>
+<year>2022</year>
+<tmdb>955644</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/Ard0NMZRApYZdLKaamMBhaIuhwR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dQmSDnkN6LMW3J42QEEINCp7rIJ.jpg</fanart>
+<info>Mia descubre que su piedra mágica es parte de una antigua profecía y se embarca en un emocionante viaje a las islas más lejanas de Centopia para enfrentar un gran mal y dar forma a su propio destino.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/wD_MqNsR6Fs"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ik9fe8ohe5yd"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/r8WdlWmM3Z2Djx4q"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/l2PzkaOdmkf7Gwk"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/0jumrkasz7wc"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Y qué tendrá que ver el amor [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Romance, Comedia</genre>
+<year>2023</year>
+<tmdb>800301</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/ob48y9pAxfPem64RQ94wZIqH0xI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/niu4zzmIMQR9ZeUMSwPVvSGXbfz.jpg</fanart>
+<info>¿Cómo encuentras un amor duradero hoy en día? Para la directora de documentales y adicta a las aplicaciones de citas Zoe, deslizar el dedo hacia la derecha solo le ha proporcionado un flujo interminable de Mr. Imperfectos, para gran consternación de su excéntrica madre Cath. Para su amigo de la infancia y vecino Kaz, la respuesta es seguir el ejemplo de sus padres y optar por un matrimonio concertado (o “asistido”) con una brillante y hermosa novia de Pakistán. </info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/1sNI7buowoQ"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/xvw5mfup0dyi"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/0rwmD7px43dzRaZ8"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/XB8o1BPM31fz0V"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/gjfczsz85sgo"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] La hija no deseada [/COLOR][COLOR yellow](2019)[/COLOR]</title>
 <genre>Película de TV, Suspense</genre>
 <year>2019</year>
