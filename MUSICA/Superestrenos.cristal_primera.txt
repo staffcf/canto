@@ -5,6 +5,19 @@
 ==========================================================================================
 
 
+
+<item>
+<title>[COLOR white] Dragon Ball Super: Super Hero [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Animacion, Ciencia Ficcion, Accion</genre>
+<year>2022</year>
+<tmdb>610150</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/cky50COcpS80rkYptbxAJLjnikq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ht897p2pPEwP0RtxHc54ujJKlPf.jpg</fanart>
+<info>Son Goku destruyó en su momento al Ejército Red Ribbon. Ahora, ciertos individuos han decidido continuar con su legado y han creado a los androides definitivos: Gamma 1 y Gamma 2. Estos dos androides se autoproclaman "superhéroes" y deciden atacar a Piccolo y a Gohan. ¿Cuál es el objetivo del Nuevo Ejército Red Ribbon? Ante un peligro inminente, ¡llega el momento del despertar del Superhéroe!</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/uoHYirZqG48"},{"titulo" : "[COLOR white]Opcion1[/COLOR]","url" : "https://streamwish.to/5gcxx99uzzde"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://sbvideo.net/e/tqkfjrvix62d"},{"titulo" : "[COLOR white]Torrent BD 1080 (Multiaudio)[/COLOR]","url" : "magnet:?xt=urn:btih:XNOTUEUY2IDAFD5DJBBQA7CNNBR23KNT"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Mari(dos) [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Comedia</genre>
