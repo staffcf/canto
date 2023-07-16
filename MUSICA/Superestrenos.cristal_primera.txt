@@ -5,6 +5,42 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Tácticas de amor 2 [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Romance, Comedia</genre>
+<year>2023</year>
+<tmdb>1141202</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/r9vXaWdpIpmfDz2gskdb2UZD6HX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pbsYbxx6BwB0mw9cmosjb5ueWcd.jpg</fanart>
+<info>Asli cree que lo de casarse es un engaño. Pero cuando su novio Kerem le da inesperadamente la razón, ella hace lo imposible para conseguir que le pida matrimonio.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/NzkJEnWzLc4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/0prmzkz91lsu"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://upstream.to/f24w912xib7v"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/YPxyk79ZvOHvkPM"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/3vk7ikmx3g1c"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Scarlet [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Historia, Romance</genre>
+<year>2023</year>
+<tmdb>840111</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/aPG2sVgjDwi1FUAg33d7vrDD5Qq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lSLXjPJcGbnbZQywpqIrqCg3hT1.jpg</fanart>
+<info>Juliette creció sola con su padre Raphaël en el norte de Francia. Él un veterano de la Primera Guerra Mundial. La niña, apasionada por el canto y la música, conoce un verano a un mago que le promete que unas velas escarlatas algún día la sacarán de su pueblo. Juliette nunca dejó de creer en esta profecía.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/TRkJD0BdMyo"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/4dz2h9jqxt6w"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://upstream.to/brtj2q1f9f1m"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/vDpp1rb6x9H4eOp"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/fhcmxiew2pwc"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Piscina infinita [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Terror, Ciencia ficción, Suspense</genre>
+<year>2023</year>
+<tmdb>667216</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kOFKpWdNu8Q14PyOUL87LcNpNZD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/83yShlgGlIzQhK32CKDjWXDNYbu.jpg</fanart>
+<info>Mientras se hospedan en un resort aislado en una isla, James y Em disfrutan de unas vacaciones perfectas en playas vírgenes, un personal excepcional y tomando el sol. Pero guiados por la seductora y misteriosa Gabi, se aventuran fuera de los terrenos del resort y se encuentran en una cultura llena de violencia, hedonismo y horror indescriptible.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/PVnIMvVEkrA"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/svtreylpsl01"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://upstream.to/byfaefefjd0p"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/M0AbZZYWqBtmJRJ"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/go2vdqg7b4mp"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Bird Box Barcelona [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Suspense, Drama, Ciencia ficción, Terror</genre>
 <year>2023</year>
