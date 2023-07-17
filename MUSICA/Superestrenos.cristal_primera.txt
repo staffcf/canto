@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] 3022 [/COLOR][COLOR yellow](2019)[/COLOR]</title>
+<genre>Ciencia ficción</genre>
+<year>2019</year>
+<tmdb>640882</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/p4ip0PbnvBpkssS3YjCn1VIC5EA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3xe3RUDpdrD9XCzgdlpUFgwIX0z.jpg</fanart>
+<info>Un grupo de astronautas que viven en el inquietante vacío del espacio profundo despierta para encontrar la tierra ha sufrido un evento de nivel de extinción.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/HBaV8Jw2EA8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/d689j5fn3kk4"},{"titulo" : "[COLOR white]Ups[/COLOR]","url" : "https://upstream.to/ac254n47wslb"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/gwZmq3DdbPhqQ3x"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Tácticas de amor 2 [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Romance, Comedia</genre>
 <year>2023</year>
