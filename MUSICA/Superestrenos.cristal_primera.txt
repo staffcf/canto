@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Tres viejos muy gruñones [/COLOR][COLOR yellow](2018)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2018</year>
+<tmdb>514239</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1jdVhl8M0PG17bomIcHpGbd8s7S.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lZ7dGjrEUVTsy5HAHg3iXu1aMUo.jpg</fanart>
+<info>Pierrot, Mimile y Antoine, tres amigos septuagenarios de la infancia, entienden que la única forma de no morir es envejecer, y están más que dispuestos a hacerlo con todo el estilo del mundo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/-E7qBthRpQY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/3e596hkh5bcq"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://upstream.to/01rsngw5ekb4"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/ldAX0RkZRqT70Jj"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/qzodat1egz49"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Pita por jesús, salva tu alma [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Comedia</genre>
 <year>2022</year>
