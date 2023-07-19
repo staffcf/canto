@@ -5,6 +5,54 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Pita por jesús, salva tu alma [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2022</year>
+<tmdb>848331</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/omts3rgWCXRWxTwzSBtyXbhuIQt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/l57Hoy9prfwpewKm7PEYxOiJeMr.jpg</fanart>
+<info>A raíz de un gran escándalo, Trinitie Childs, la primera dama de una prominente Mega Iglesia Bautista del Sur, intenta ayudar a su pastor y esposo, Lee-Curtis Childs, a reconstruir su congregación.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/YuI_R9JEkRg"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/f57zvrtfus22"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://upstream.to/f57zvrtfus22"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/ZzJMqe0zP6Hq2w4"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/zinmy2fri31u"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Mi mejor amiga... Por siempre jamás [/COLOR][COLOR yellow](2019)[/COLOR]</title>
+<genre>Suspense, Drama, Película de TV</genre>
+<year>2019</year>
+<tmdb>645444</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/maYnyzHSZFnhSCn6DxG3tGrDzdR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/luOMkVqltMScUCO6bw9MqFDnBec.jpg</fanart>
+<info></info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/NfFUw0MGBhE"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/iv6jcrxa49t6"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://upstream.to/redprwhhxtnt"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/qM0dAvvlReszxL1"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/yqoui1xdancr"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Algo bonito para variar [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2022</year>
+<tmdb>982804</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/dhZ2CsGwG8sQe8Jky0RtCvEuV4y.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gxzQupeoMRq7e5Ap0cIROkHBGNH.jpg</fanart>
+<info>El reloj biológico de la locutora de radio Karla (Karoline Herfurth) está corriendo, y ahora muy alto y claro. Pero no importa lo que haga, simplemente no puede encontrar un hombre adecuado con el que pueda imaginar una familia. Poco antes de cumplir 40 años, decide tener un hijo por su cuenta. Si no puedes encontrar a un hombre, así es como debe ser. Pero ella no contó con sus padres Marion (Ulrike Kriener) y Robert (Herbert Knaup) y sus hermanas Jule (Nora Tschirner) y Johanna (Milena Tscharntke), quienes no pueden entender su decisión -a pesar de que están todos en su propio pegado con planes de vida complicados y no saben qué hacer. </info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/PMbZs8aIV4Y"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/x260vm291c80"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://upstream.to/3e6a48g8x132"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/7jZb0we0YDFYpl"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/rapyxvo6gg7e"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Libélula [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Thriller</genre>
+<year>2022</year>
+<tmdb>1017652</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/zaSNULRs2ggQLQB2B1afQ7yWkDY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zaSNULRs2ggQLQB2B1afQ7yWkDY.jpg</fanart>
+<info>Lucía viaja en compañía de su novio, Álex, hasta la casa de su enigmática hermana Lula.Un lugar atrapado en el tiempo y los recuerdos. Durante su estancia en los últimos días de un verano, los fantasmas y secretos familiares regresan a sus vidas.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/mXLZnvFbQWE"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/fy9hpjq2iizc"},{"titulo" : "[COLOR white]Ups[/COLOR]","url" : "https://upstream.to/bgau9x6at7dx"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/pdkZ1bLZBlhrvb2"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/4o74coahkf6w"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Flash [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Acción, Aventura, Ciencia ficción</genre>
 <year>2023</year>
