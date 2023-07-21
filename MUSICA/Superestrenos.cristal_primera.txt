@@ -146,7 +146,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/11n6tatb6NsrP6Ay4cEIWc297Eb.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/tzPSFuGuY0fZPuLm8OnpLJR0og8.jpg</fanart>
 <info>Tras la llegada de una misteriosa presencia que está destruyendo la población mundial, Sebastián comienza un viaje de supervivencia a través de las desiertas calles de Barcelona. Por el camino se encontrará con otros supervivientes con los que formará alianzas inciertas para intentar escapar de la ciudad. Pronto se darán cuenta de que hay una nueva e inesperada amenaza aún más peligrosa.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/8eib43CKta8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/9usmop0zuhvz"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/YvAyz2GgLpXlg9kL"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/6jg1KDxGbwT9M9r"},{"titulo" : "[COLOR white]Ups[/COLOR]","url" : "https://upstream.to/mw6pgdjfho0a"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/8eib43CKta8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/9usmop0zuhvz"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://streamlare.com/v/YvAyz2GgLpXlg9kL"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/6jg1KDxGbwT9M9r"},{"titulo" : "[COLOR white]Ups[/COLOR]","url" : "https://upstream.to/mw6pgdjfho0a"},{"titulo" : "[COLOR yellow]BR1080[/COLOR]","url" : "acestream://21020b8f4850cb5242e835cc5ad1953725caf111"}</urlsolve>
 </item>
 
 
