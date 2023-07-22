@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Resident Evil: Death Island [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Animación, Acción, Terror</genre>
+<year>2023</year>
+<tmdb>1083862</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qayga07ICNDswm0cMJ8P3VwklFZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qML773ukKgeJHBOsLyI4ZhrNGZx.jpg</fanart>
+<info>El agente Leon S. Kennedy tiene la misión de rescatar al Dr. Antonio Taylor de unos secuestradores, cuando una mujer misteriosa frustra su búsqueda. Mientras tanto, Chris Redfield está investigando un brote de zombis en San Francisco, donde no se puede identificar la causa de la infección. Lo único que tienen en común las víctimas es que todas visitaron la isla de Alcatraz recientemente. Siguiendo esa pista, Chris y su equipo se dirigen a la isla, donde les espera un nuevo horror.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/1RYaBQERMBE"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/p8qkxpnhwsgv"},{"titulo" : "[COLOR white]Newish[/COLOR]","url" : "https://streamwish.to/gk0k9d9era1y"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/vYdwMBoMLkC4q4r"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/nak23z5tosxp"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Transformers: El despertar de las bestias [/COLOR][COLOR yellow](2023) [COLOR aqua]*Sin valorar 
 [/COLOR]</title> 
 <genre>Acción,Aventura,Ciencia ficción</genre>
