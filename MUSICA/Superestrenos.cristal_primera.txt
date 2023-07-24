@@ -5,6 +5,42 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Zodi y Tehu aventuras en el desierto [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Aventura, Familia, Comedia</genre>
+<year>2023</year>
+<tmdb>1000521</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/xj0Rtbd66aGr0JiLphwjOLnNMgD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eXiYrtMxy9lEhJXJkIk9mn5jKOk.jpg</fanart>
+<info>La historia de un niño bereber que se hace amigo de un camello mientras cruzan el desierto del Sahara.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/8Da1ZKqgtoA"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/o1wmxp1zw0kq"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://upstream.to/pdfj40ovo0h5"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/rAwR8BR331HbqeP"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/k98dzhrenr5n"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Matria [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2023</year>
+<tmdb>936368</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/duRBDfvwHMVoGkEjuccdW6UqDrD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1WRA4VjDul2ONrm8RGiJ8IGCPMe.jpg</fanart>
+<info>Ramona , una mujer de cuarenta años que vive sumida en un contexto laboral y personal tenso e impredecible. Un día se cruza con Xosé, un hombre con quien construye una inusual amistad que le permite pensar que, tal vez, haya algo nuevo por lo que vivir. Siempre sacrificándolo todo por el futuro de su hija Estrella, se verá empujada a mirar hacia dentro y a pensar que, tal vez, haya algo nuevo por lo que vivir.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/2U5r-0f8M7c"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/o9c66s4n9cu8"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://upstream.to/s0xb97o5zeza"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/3WeLWWQJrwud7yQ"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/skx5g4zo89k3"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La paradoja de Antares [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Ciencia ficción, Drama</genre>
+<year>2023</year>
+<tmdb>1002515</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/5cvxTGDi56ZZeuycUm1lomFNzN6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5cvxTGDi56ZZeuycUm1lomFNzN6.jpg</fanart>
+<info>En una carrera contra el reloj, Alexandra se verá obligada a elegir cómo pasar las próximas horas: enfrentándose a un drama familiar crítico o tratando de dar respuesta a una de las preguntas más importantes de la humanidad.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/oJ4VsMNoLyk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/k5lwiqqfwa4a"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://upstream.to/1thw9d50r4sb"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/7mdKPw2GWWcAk6m"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/xitfveznxisp"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Fatum [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Suspense, Crimen, Drama</genre>
 <year>2022</year>
