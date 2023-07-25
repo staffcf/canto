@@ -5,6 +5,42 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] La sirenita [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Aventura, Familia, Fantasía, Romance</genre>
+<year>2023</year>
+<tmdb>447277</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/mdszPVnIY7cWgbgJ8zbwu1PiU5V.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/znUYFf0Sez5lUmxPr3Cby7TVJ6c.jpg</fanart>
+<info>Ariel es una joven y soñadora sirena, hija del Rey Tritón, que está cansada de su vida como princesa bajo el mar. Su mayor deseo es abandonar el fondo marino y tener una vida normal y apacible en la superficie. La bruja Úrsula descubre su anhelo y, por eso, a cambio de su preciosa voz le ofrece un cuerpo totalmente humano. Ariel acepta, movida por su pasión por conocer el mundo terrestre y porque está enamorada de un apuesto príncipe humano. Pero las cosas no serán fáciles para Ariel, ya que la bruja Úrsula esconde oscuras intenciones.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/iEjJMpzzfMc"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/l5hj3z7ccdu6"},{"titulo" : "[COLOR white]Newish[/COLOR]","url" : "https://streamwish.to/4x5lzd4hf8nu"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/dZbJPlWdeRU1Qj"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/lo05y5qh7k82"},{"titulo" : "[COLOR white]Ups[/COLOR]","url" : "https://upstream.to/9mhh4tlz1okq"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La fuga del capitán Volkonogov [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Suspense, Drama</genre>
+<year>2023</year>
+<tmdb>818621</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3RS7uQGJQzw4ssR98JkaJb75T5S.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yq8kimFoeKOewQJrvlCQgfJQ0oz.jpg</fanart>
+<info>En la Unión Soviética de 1938, el capitán Fiodor Volkonogov, miembro del servicio de Seguridad Nacional (NKVD), se ve atrapado en la maquinaria represiva de Stalin. Con el temor de convertirse en una víctima de la purga en curso, Volkonogov decide escapar. En su huida, se embarcará en un camino hacia la expiación de sus crímenes, buscando el perdón de las familias de sus víctimas y enfrentando las consecuencias de su pasado. Esta historia nos sumerge en el turbulento período de la historia soviética y plantea preguntas profundas sobre la redención y el perdón.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/xmjMW68UxaY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/vqlbczult1nk"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://upstream.to/of331t592e72"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/yr9ZzyX9eKU3Yq"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/lj9yjk8hqhs3"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La verdad sobre Sienna [/COLOR][COLOR yellow](2020)[/COLOR]</title>
+<genre>Drama, Suspense, Película de TV</genre>
+<year>2020</year>
+<tmdb>695323</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8jZ3pXqrCg8GTnvXKLmVKc46IrZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8dTSFt9gbUu3n6vXq4weP6Fv4aI.jpg</fanart>
+<info>En este intrigante thriller, una mujer sin escrúpulos comete un crimen atroz al asesinar a su prima con el objetivo de suplantar su identidad y tomar su lugar en la vida. Sin embargo, a medida que avanza la trama, las sospechas de la familia y las personas cercanas se intensifican, y poco a poco se van descubriendo las pistas que revelarán la verdad detrás de este oscuro engaño. La tensión se incrementa a medida que los secretos salen a la luz y los protagonistas luchan por descubrir la verdad y buscar justicia.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://www.youtube.com/shorts/Of5OdBaEVGI?feature=share"},{"titulo" : "[COLOR white]Newish[/COLOR]","url" : "https://streamwish.to/ghp35te5hmqg"},{"titulo" : "[COLOR white]Ups[/COLOR]","url" : "https://upstream.to/oc041j6gwkj1"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/8qZMavobJ3cogye"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/aawjomg5n3xo"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Zodi y Tehu aventuras en el desierto [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Aventura, Familia, Comedia</genre>
 <year>2023</year>
