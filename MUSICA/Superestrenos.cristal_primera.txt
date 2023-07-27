@@ -5,6 +5,66 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Paradise [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Suspense, Ciencia ficción</genre>
+<year>2023</year>
+<tmdb>1140066</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yGz88hNPcHUJkUx7MPm0Ue6GZt7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/df8ya9FKghk0U45G2nJru6ZOuUK.jpg</fanart>
+<info>Cuando una mujer tiene que renunciar a 40 años de su vida para pagar una deuda, su marido busca desesperadamente la forma de recuperarlos</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/EikCPQ7Zc8U"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/zi3o0qy35gmp"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/drPvrpPaMGFkqDZ"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/dlgwr1vh4oy4"},{"titulo" : "[COLOR white]Ups[/COLOR]","url" : "https://upstream.to/kbymnhji92af"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Loli Tormenta [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Drama</genre>
+<year>2023</year>
+<tmdb>1077399</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/pkdVfqRayyAlzX79Ri8P2Z9vRK8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wpe21ALLVjDrvtM2iaNOi7sFYjn.jpg</fanart>
+<info>Lola, la moderna y caótica abuela de Edgar y Robert, se hizo cargo de ellos tras la muerte de su hija unos años atrás. Los tres viven en una modesta casa del extrarradio de Barcelona, y nada les hace sospechar que su tranquila vida está a punto de cambiar drásticamente. Lola ha entrado en un proceso avanzado de Alzheimer y los niños, que no están dispuestos a que les separen y acabar en un lugar de acogida, se harán cargo de ella con gran ingenio y desbordante fantasía, ocultando su enfermedad. </info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/jqjRk_4wY-M"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/k98gyp9po9w6"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/3qgkvgVq7widq0P"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/mbq5is8vuvp1"},{"titulo" : "[COLOR white]Ups[/COLOR]","url" : "https://upstream.to/12kyr4xtmmdd"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Felicidad para principiantes  [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Romance, Drama</genre>
+<year>2023</year>
+<tmdb>881209</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sejOOSFyqNd2KHWo9s3FiP7JCTv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gmG9cPVlpXyL2D8KNx2DUIXSPSK.jpg</fanart>
+<info>Un año después de divorciarse, Helen Carpenter, de treinta y dos años, deja que su molesto hermano diez años menor la convenza de inscribirse en un curso de supervivencia en la naturaleza.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/IC64ExLU2OY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/pbnlzwxl9kcv"},{"titulo" : "[COLOR white]Video3[/COLOR]","url" : "https://upstream.to/2knvu47uuxbr"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/vxLwWrqpqMU4d9x"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/41qd7yczlg4k"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El pequeño Nicolás [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Animación, Familia</genre>
+<year>2022</year>
+<tmdb>893366</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/13p8DkddbY4ASqHlrwfWDHpvqmi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ipkrxvlu0j5h7yNn5gT1SMSALcr.jpg</fanart>
+<info>Inclinados sobre un gran folio en blanco en algún lugar entre Montmartre y Saint-Germain-des-Prés, Jean-Jacques Sempé y René Goscinny dan vida a "El pequeño Nicolás", un niño risueño y travieso. La suya es una infancia alegre, llena de juegos, diversión, bromas, aprendizaje, complicidad, peleas y castigos. Las aventuras de Nicolás le llevan al estudio de sus creadores, donde habla con ellos de forma distendida. </info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/pxZvDilGESo"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/dt0mw80nb1es"},{"titulo" : "[COLOR white]Ups[/COLOR]","url" : "https://upstream.to/bvufk1r35as2"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/DMW1P1LD0MHk098"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/3893sdbr89vg"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Book Club: Ahora Italia [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Romance</genre>
+<year>2023</year>
+<tmdb>982271</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/vZFPQjmh2zsWBcpJtlwWuxnMxe5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yBrEuuQWkkEEKHFlpgaQXi4ZjUM.jpg</fanart>
+<info>El grupo de cuatro amigas viaja a Italia con su club de lectura para disfrutar del viaje de chicas que nunca tuvieron. Pero cuando las cosas no salen según lo planeado y algunos secretos ven la luz, sus relajantes vacaciones se convertirán en una aventura única por todo el país.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/KXoY88faTYk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/js671rehyj82"},{"titulo" : "[COLOR white]Ups[/COLOR]","url" : "https://upstream.to/t7lnazedushi"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/1q3GBx84aBtpVd"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/d0ckc6e3uq2y"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] La sirenita [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Aventura, Familia, Fantasía, Romance</genre>
 <year>2023</year>
