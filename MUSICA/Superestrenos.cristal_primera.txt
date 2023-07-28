@@ -5,6 +5,90 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] De Caperucita a loba [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2023</year>
+<tmdb>1051800</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/3XmCuwIwriQMMaHmkfh7T756Htd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xFeuIIE2B9zdC3xOyti6RlEKRAH.jpg</fanart>
+<info>Una loba es una caperucita que ha aprendido a reírse de si misma. Y ese es el mayor superpoder que existe porque cuando nos convertimos al humor no hay nada que pueda hacernos daño. Una historia que nos demuestra que todos somos patéticos en el amor pero que aprender a reírnos de ello, convierte automáticamente el drama en comedia. Y por lo tanto a Caperucita en loba. El proceso de conversión de Marta, nuestra protagonista, le llevará varios años y varios “tíos”, desde que decide convertirse en loba hasta que lo logra, porque tendrá que aprender que a la risa no se llega evitando el bosque del drama sino atravesándolo hasta el fondo. </info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/NCXn8x8Abbk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ejaxpnkpl1df"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/bP7KZ4r2pDIPY3K"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/fh6c1roeojlw"},{"titulo" : "[COLOR white]Ups[/COLOR]","url" : "https://upstream.to/fmji45oe0v8j"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Proyecto Extraccion [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Aventura, Suspense</genre>
+<year>2023</year>
+<tmdb>457332</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/wqwDKolEd9lhrPGWwqTCpwJc2aT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dWvDlTkt9VEGCDww6IzNRgm8fRQ.jpg</fanart>
+<info>Dos veteranos de guerra son asignados con la misión de escoltar a un grupo de civiles en la denominada "autopista de la muerte", en Baghdad (Iraq), para que lleguen sanos y salvos a la "Zona Verde", el emplazamiento de seguridad de la zona.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/l_jEicE6KyQ"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/7gqhaem645of"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/zbYdPgyWz4SYLZw"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/k3p9os8kbuf7"},{"titulo" : "[COLOR white]Ups[/COLOR]","url" : "https://upstream.to/p5ch8lv27q5a"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El inocente  [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Comedia, Crimen, Romance</genre>
+<year>2022</year>
+<tmdb>919573</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/ooCV2n6Wpq1aMgXTeMxatEWxHix.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/adR88Ac6VyHhBpOdFgpdf69Dmvo.jpg</fanart>
+<info>Cuando Abel descubre que su madre, Sylvie, que ronda los sesenta años, está a punto de casarse con un hombre en la cárcel, entra en pánico. Respaldado por Clémence, su mejor amiga, hará todo lo posible para intentar protegerla. Pero su encuentro con Michel, su nuevo padrastro, podría ofrecer a Abel nuevas perspectivas…</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/fPIEpTc64Vw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/g8fq85yo11ed"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/rK8aeMOxwpfb0pe"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/eccgfed3tglh"},{"titulo" : "[COLOR white]Ups[/COLOR]","url" : "https://upstream.to/43k37ur1vln9"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Prodigiosa: Las Adventuras de Ladybug, La Película [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Animación, Familia, Acción, Fantasía, Romance</genre>
+<year>2023</year>
+<tmdb>496450</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/u0OMTZrva4WKZ2SmoNYI8eVDTkd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iEFuHjqrE059SmflBva1JzDJutE.jpg</fanart>
+<info>La superheroína, que ha cautivado los corazones de millones de fans en todo el mundo, llega por primera vez al cine. Ladybug tendrá que unir fuerzas con Cat Noir, la carismática y franca justiciera enmascarada, para luchar contra los supervillanos que amenazan con destruir París.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/88k0-lg4PJw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ui7ixwxpl9ng"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/pYa6kj7bdPuDe9"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/zcmwomxptyyu"},{"titulo" : "[COLOR white]Ups[/COLOR]","url" : "https://upstream.to/1oaafvh748yl"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La fiebre de los peluches Beanie [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2023</year>
+<tmdb>926008</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/btBF02RQyUCKfY1N0U3lBQEJaS2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zzbEAP5d1Ci0QKitpaA8PykHIj4.jpg</fanart>
+<info>Ty era un vendedor de juguetes frustrado hasta que su colaboración con tres mujeres convirtió sus animales de peluche en una tendencia determinante en los años 90. Esta mirada entre bastidores al mayor fenómeno de popularidad de unos juguetes de todos los tiempos es una historia disparatada sobre qué y a quién se valora en este mundo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/KV32siOI9mU"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/gnpz773fdoex"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/BYJDZa1vy3Tyb1g"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/sa07kmo5ih0s"},{"titulo" : "[COLOR white]Ups[/COLOR]","url" : "https://upstream.to/yw2autbq38yb"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Oink Oink [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Animación, Familia, Comedia</genre>
+<year>2022</year>
+<tmdb>916423</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/QGUiySkdq61tyYn4o2tWCoR15p.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qykUYxstHurdadXTF711AWZi0f8.jpg</fanart>
+<info>Cuando Babs, una niña de 9 años, recibe a un cerdito llamado Oink como regalo por parte de su abuelo, convence a sus padres de quedárselo con la condición de que siga un adiestramiento para cachorros. El cerdito cambiará su vida y la de todos en su familia hasta que las cosas empiezan a complicarse de manera inesperada cuando descubre que sus padres no son la mayor amenaza para Oink.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/IVRch2r3aoA"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/s1xd00bspzfn"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/p4GGKAvGaxSXRA"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/74pohpiili75"},{"titulo" : "[COLOR white]Ups[/COLOR]","url" : "https://upstream.to/r6m01mbgd8cl"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La leyenda de Paul Newman [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Documental, Película de TV</genre>
+<year>2023</year>
+<tmdb>1138877</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/bY6El2ZwmgelSCpBan1ghvcTh38.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wwNesbq62EcCo1T5EJ8yeN8qFsV.jpg</fanart>
+<info>La leyenda de Paul Newman, es un documental que nos sumerge en la vida y carrera del icónico actor de Hollywood. A través de sus mejores interpretaciones, exploramos la faceta inconformista de Newman, quien siempre buscó vivir fuera de los cánones establecidos por la industria cinematográfica. Desde su destacado trabajo como actor hasta su incursión como director y su pasión por las carreras de coches, Newman fue una figura multifacética y perfeccionista. Aunque era una estrella de éxito, siempre mantuvo su privacidad y utilizó la ironía como escudo ante temas comprometidos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "Youtube"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/0kmx26ym74aj"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/dOzbAXWDdei7kQ"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/s6vdy1jq7b13"},{"titulo" : "[COLOR white]Ups[/COLOR]","url" : "https://upstream.to/siwgdvtb6xs7"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Paradise [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Suspense, Ciencia ficción</genre>
 <year>2023</year>
