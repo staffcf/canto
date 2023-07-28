@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Como Dios manda [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2023</year>
+<tmdb>1064103</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/kI2wF5PNWjAmh6uqpPxTt8PWOcq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sBpJc1w45BI8bpJEk6gDbXOfi6P.jpg</fanart>
+<info>Andrés Cuadrado es un rígido y exitoso funcionario que por circunstancias de la vida acaba en una situación en la que no esperaba y donde se encuentra más perdido y desubicado que nunca. Como consecuencia, no le quedará más remedio que reinventarse y seguir adelante con humor y ganas.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/A7a5UoADbmY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ivwbgpnd6qwt"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/yjeLkKg91qF1Yka"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/8dgojxcwn0jk"},{"titulo" : "[COLOR white]Ups[/COLOR]","url" : "https://upstream.to/w0w1pdvonp7z"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La sombra del crimen  [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Suspense, Crimen</genre>
+<year>2022</year>
+<tmdb>934641</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/xIXIRuTgPMv5ANlLYnhymj9LM57.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sP1ShE4BGLkHSRqG9ZeGHg6C76t.jpg</fanart>
+<info>Thurmond Fowler (Morgan Freeman) es un sheriff al que se le asigna el caso de un asesinato en un pueblo de Mississippi. El principal sospechoso es Russ (Cole Houser), un vecino despreciado en el pueblo por haber hecho perder a mucha gente su dinero en inversiones. Sin embargo, cuando se descubre que el asesino en realidad entró en una casa equivocada, se empieza a desvelar una trama oculta.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Kr4G_Hoq6Jw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/mto90fdlq5so"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/Zy138wK4AxUKpQ"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/cavfiqlsj8tt"},{"titulo" : "[COLOR white]Ups[/COLOR]","url" : "https://upstream.to/u5q51dv4llpj"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] De Caperucita a loba [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Comedia</genre>
 <year>2023</year>
