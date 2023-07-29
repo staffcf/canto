@@ -24,7 +24,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/kI2wF5PNWjAmh6uqpPxTt8PWOcq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/sBpJc1w45BI8bpJEk6gDbXOfi6P.jpg</fanart>
 <info>Andrés Cuadrado es un rígido y exitoso funcionario que por circunstancias de la vida acaba en una situación en la que no esperaba y donde se encuentra más perdido y desubicado que nunca. Como consecuencia, no le quedará más remedio que reinventarse y seguir adelante con humor y ganas.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/A7a5UoADbmY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/gy7mfyeqdw5y"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/yjeLkKg91qF1Yka"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/8dgojxcwn0jk"},{"titulo" : "[COLOR white]Ups[/COLOR]","url" : "https://upstream.to/w0w1pdvonp7z"},{"titulo" : "[COLOR white]Torrent DB 1080[/COLOR]","url" : "magnet:?xt=urn:btih:6RAD6ZWTYGYJ6AUV4DGXXM45SNOXBJMH"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/A7a5UoADbmY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/bxkexi2u9ljk"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/yjeLkKg91qF1Yka"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/8dgojxcwn0jk"},{"titulo" : "[COLOR white]Ups[/COLOR]","url" : "https://upstream.to/w0w1pdvonp7z"},{"titulo" : "[COLOR white]Torrent DB 1080[/COLOR]","url" : "magnet:?xt=urn:btih:6RAD6ZWTYGYJ6AUV4DGXXM45SNOXBJMH"}</urlsolve>
 </item>
 
 
