@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Big George Foreman [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Historia, Drama</genre>
+<year>2023</year>
+<tmdb>878361</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/ue2W0lfk6DVCQCQc1d2k64xz1xh.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8387atQqg5RRIlNERxPbMk8nQRA.jpg</fanart>
+<info>Impulsado por una infancia empobrecida, George Foreman canalizó su ira para convertirse en medallista de oro olímpico y campeón mundial de peso pesado, seguido de una experiencia cercana a la muerte que lo llevó del ring de boxeo al púlpito. Pero cuando ve que su comunidad lucha espiritual y financieramente, Foreman regresa al ring y hace historia al reclamar su título, convirtiéndose en el campeón mundial de boxeo de peso pesado más antiguo e improbable de todos los tiempos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/urKDu40iaXk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/fsu8pdbewjt6"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://streamtape.com/v/orBxyg0jPMIJ4zp"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/x6jcb8ja0nnu"},{"titulo" : "[COLOR white]Ups[/COLOR]","url" : "https://upstream.to/6py2v85hn9ca"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Como Dios manda [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Comedia</genre>
 <year>2023</year>
