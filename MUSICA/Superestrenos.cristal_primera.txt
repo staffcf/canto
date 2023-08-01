@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Los olvidados: Cicatrices [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Terror</genre>
+<year>2023</year>
+<tmdb>974927</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/i6i3U4jGGSjsdl5h8Um9kppW6PD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iyTucCTzxlK7lKmeL8gkqo4qPCp.jpg</fanart>
+<info>Durante el último concierto de una banda indie de rock, se desatan los conflictos entre los integrantes del grupo, e inesperadamente terminan varados en Epecuén, un verdadero pueblo fantasma. Los conflictos internos y la mala suerte de la gira perderán importancia ante el infierno que les espera.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/dWKc1QTdV4w"},{"titulo" : "[COLOR white]Tape[/COLOR]","url" : "https://streamtape.com/v/jVmAjJm7g9hD9L"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/th0o8wezw8dq"},{"titulo" : "[COLOR white]Ups[/COLOR]","url" : "https://upstream.to/r4vjhbmfnbdd"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Cuando termines de salvar el mundo [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Comedia</genre>
+<year>2023</year>
+<tmdb>691422</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/6piyB7y6glrXSgd2o5nB7RdpIxZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aBeb3gZP84beq2BWsAJVxmB3moq.jpg</fanart>
+<info>Evelyn y su inconsciente hijo Ziggy buscan sustitutos el uno para el otro, ya que Evelyn trata desesperadamente de criar a un adolescente sin pretensiones en su refugio, mientras que Ziggy se desvive por una joven brillante en la escuela.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/XbgJPKFxHXI"},{"titulo" : "[COLOR white]Tape[/COLOR]","url" : "https://streamtape.com/v/GkVJ1Mq9z6c17ky"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/91rqkg9oqn11"},{"titulo" : "[COLOR white]Ups[/COLOR]","url" : "https://upstream.to/u3qbuci923v3"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El impacto de Van Damme [/COLOR][COLOR yellow](202)[/COLOR]</title>
 <genre>Cocumental</genre>
 <year>2023</year>
