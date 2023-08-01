@@ -5,6 +5,42 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] El impacto de Van Damme [/COLOR][COLOR yellow](202)[/COLOR]</title>
+<genre>Cocumental</genre>
+<year>2023</year>
+<tmdb>1103705</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/pwBGlk8TuuZxVYLxYizKfBAEESQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1SCoTfjn96Cz6dDAvp1ONMkqGYO.jpg</fanart>
+<info>Jean Claude Van Damme, actor y experto en artes marciales, llegó a Los Ángeles sin recursos y se convirtió en una estrella tras el éxito de "Contacto sangriento". Triunfó en películas como "Kickboxer" y "Soldado universal", pero su carrera sufrió altibajos hasta "JCVD". El documental explora su vida y carrera, mostrando sus momentos de gloria y olvido.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "Youtube"},{"titulo" : "[COLOR white]Tape[/COLOR]","url" : "https://streamtape.com/v/KeKDZLQrbjS00X9"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/d3hb8bwkmwf8"},{"titulo" : "[COLOR white]Ups[/COLOR]","url" : "https://upstream.to/lt69e7fi2fo4"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Paint [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Drama</genre>
+<year>2023</year>
+<tmdb>821890</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jZ1PhCyXEySYR7f9q52KYb62Bwp.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/x3jQdV5GLs1HqyfhJMi8MQanyG6.jpg</fanart>
+<info>El talentoso Carl Nargle ha estado presentando su propio programa de pintura en la televisión pública de Vermont durante décadas. Su arte cautiva y ha atraído la atención de muchas mujeres a lo largo de los años, especialmente de las que trabajan en la estación.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/8ObPQyc6Qsk"},{"titulo" : "[COLOR white]Tape[/COLOR]","url" : "https://streamtape.com/v/b76WDBaY4VhPgDL"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/aq9mh52sq3bx"},{"titulo" : "[COLOR white]Ups[/COLOR]","url" : "https://upstream.to/kqeuxwcbbj3f"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Grieta [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Crimen, Drama, Suspense</genre>
+<year>2022</year>
+<tmdb>801965</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/flvBRXTrbGr5SyGgCk3b3JACutL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/36FtYEYmqrp7kIQqjrYhWXBnXJm.jpg</fanart>
+<info>Basada en hechos reales, esta película sigue la historia de Brian Easley, un exmarine estadounidense que lucha por adaptarse a la vida civil tras su regreso. Desesperado por recuperar los beneficios económicos que le corresponden, se ve envuelto en un incidente inesperado al tomar como rehenes a dos empleadas de un banco. Su única intención es dar a conocer su situación al mundo y obtener la atención que merece. Esta emocionante cinta explora las complejidades del sistema y muestra el poder de la determinación individual en busca de justicia.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/5Vi3EhaNOII"},{"titulo" : "[COLOR white]Tape[/COLOR]","url" : "https://streamtape.com/v/Reo2Zp68yJUdz06"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/c2w4mt7rw4om"},{"titulo" : "[COLOR white]Ups[/COLOR]","url" : "https://upstream.to/kw205h67jv6x"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Big George Foreman [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Historia, Drama</genre>
 <year>2023</year>
