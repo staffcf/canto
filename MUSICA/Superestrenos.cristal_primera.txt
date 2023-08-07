@@ -12,7 +12,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/nxXdasJvK2wdEW5JHEOeezIzjnH.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/l1h1AgJvxuuzwRlcw3obPjZBC77.jpg</fanart>
 <info>Un contratista militar encargado de hacerse con un arma que convierte a las personas en brutales asesinos busca venganza cuando su hermano cae víctima del dispositivo.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/1UD6LTiwKUk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/6BXm1mgZJmCxpA"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/1khjakiy4g1c"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/o0hn3dxm4j25"},{"titulo" : "[COLOR white]Vgem[/COLOR]","url" : "https://vgembed.com/v/8ozgENXmJ75mjAy"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/1UD6LTiwKUk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/6BXm1mgZJmCxpA"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/1khjakiy4g1c"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/o0hn3dxm4j25"},{"titulo" : "[COLOR white]Vtb[/COLOR]","url" : "https://vtbe.to/5rsp64u5rcxk"}</urlsolve>
 </item>
 
 
