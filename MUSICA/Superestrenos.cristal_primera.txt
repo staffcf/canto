@@ -4,6 +4,9 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 ==========================================================================================
 
+
+
+
 <item>
 <title>[COLOR white] Los olvidados: Cicatrices [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Terror</genre>
@@ -12,7 +15,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/i6i3U4jGGSjsdl5h8Um9kppW6PD.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/iyTucCTzxlK7lKmeL8gkqo4qPCp.jpg</fanart>
 <info>Durante el último concierto de una banda indie de rock, se desatan los conflictos entre los integrantes del grupo, e inesperadamente terminan varados en Epecuén, un verdadero pueblo fantasma. Los conflictos internos y la mala suerte de la gira perderán importancia ante el infierno que les espera.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/dWKc1QTdV4w"},{"titulo" : "[COLOR white]Tape[/COLOR]","url" : "https://streamtape.com/v/BvZrBOBa6yiyZjv"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/th0o8wezw8dq"},{"titulo" : "[COLOR white]Mix[/COLOR]","url" : "https://mixdroop.bz/f/dq8qwdedi73vv76"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/dWKc1QTdV4w"},{"titulo" : "[COLOR white]Tape[/COLOR]","url" : "https://streamtape.com/v/BvZrBOBa6yiyZjv"},{"titulo" : "[COLOR white]Cloud[/COLOR]","url" : "https://cloudvideo.tv/th0o8wezw8dq"},{"titulo" : "[COLOR white]Vtbe[/COLOR]","url" : "https://vtbe.to/5rsp64u5rcxk"}</urlsolve>
 </item>
 
 
