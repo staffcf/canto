@@ -4,7 +4,16 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 ==========================================================================================
 
-
+<item>
+<title>[COLOR white] Clint Eastwood: la última leyenda [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Documental, Película de TV</genre>
+<year>2022</year>
+<tmdb>1039896</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/hC7smuPcFtUSKz03bbEwFndPDcv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hC7smuPcFtUSKz03bbEwFndPDcv.jpg</fanart>
+<info> La película retrata una carrera extensa y diversa, explorando la vida del actor, productor, guionista y multipremiado cineasta. A lo largo de más de 50 películas y con más de 90 años, Clint Eastwood sigue siendo una figura admirada en todo el mundo, aunque también controvertida. "Clint Eastwood: la última leyenda" presenta todas las facetas del cineasta y captura sus complejidades, mostrando su energía inagotable y su impacto duradero en la industria cinematográfica.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "Youtube"},{"titulo" : "[COLOR white]Streamt[/COLOR]","url" : "https://streamtape.com/v/oAyyqm2b7DfJgBy"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/jdcoqv6fqw2s"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/b4ZJx2Xd2PO2P3R"},{"titulo" : "[COLOR white]Clou[/COLOR]","url" : "https://vtbe.to/5rsp64u5rcxk"}</urlsolve>
+</item>
 
 
 <item>
