@@ -5,6 +5,54 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] El hotel de los líos. García y García 2 [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2023</year>
+<tmdb>1040861</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/8oliqiL2kBi1qFAyBjZFlyhx6lb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jVxhXRYiNsGaIvCRUpT0qheXZs3.jpg</fanart>
+<info>Tras hacerse cargo de un hotelito destartalado, comprado por error en una subasta por un precio desorbitado, los dos Javier García viven una nueva aventura, ayudados esta vez, muy a su pesar, por un grupo de niños superdotados que se alojan en el hotel para asistir a la Final Nacional de Talentos. Junto a su explosiva profe, Martina, los niños se enfrentarán al mafioso Benito Camarena, que con sus secuaces - su madre y su hermano - tratarán de arrebatar a los García el botín escondido en el hotel, antigua guarida de los facinerosos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/iEHcl0oIkKc"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/y0Z0MLdp6WF14a6"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/vve1rjdtkvz9"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/8pm00888e63d"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/e028E6GowdOYAvq"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Spider-Man: Cruzando el Multiverso [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Animación, Acción, Aventura, Ciencia ficción</genre>
+<year>2023</year>
+<tmdb>569094</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/37WcNMgNOMxdhT87MFl7tq7FM1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tQ0GkuDFx9uswFlFdwlf6U5UcNx.jpg</fanart>
+<info>Miles Morales regresa para una aventura épica que transportará al amigable vecino de Brooklyn Spider-Man a través del Multiverso para unir fuerzas con Gwen Stacy y un nuevo equipo de Spider-People, y enfrentarse así a un villano mucho más poderoso que cualquier cosa que hayan conocido antes.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/n0sZgOBah28"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/RAPZy7jYebFdWAZ"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/f/b9gmkrryd95n"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/o6dki4nn8whw"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/b4ZJx2Xp72O2P3R"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Atrapaalmas [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Acción, Aventura, Suspense</genre>
+<year>2022</year>
+<tmdb>1149381</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/nxXdasJvK2wdEW5JHEOeezIzjnH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/l1h1AgJvxuuzwRlcw3obPjZBC77.jpg</fanart>
+<info>Un contratista militar encargado de hacerse con un arma que convierte a las personas en brutales asesinos busca venganza cuando su hermano cae víctima del dispositivo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/1UD6LTiwKUk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/6BXm1mgZJmCxpA"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/1khjakiy4g1c"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/o0hn3dxm4j25"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/8ozgENXmJ75mjAy"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Clint Eastwood: la última leyenda [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Documental, Película de TV</genre>
+<year>2022</year>
+<tmdb>1039896</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/hC7smuPcFtUSKz03bbEwFndPDcv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hC7smuPcFtUSKz03bbEwFndPDcv.jpg</fanart>
+<info>La película retrata una carrera extensa y diversa, explorando la vida del actor, productor, guionista y multipremiado cineasta. A lo largo de más de 50 películas y con más de 90 años, Clint Eastwood sigue siendo una figura admirada en todo el mundo, aunque también controvertida. "Clint Eastwood: la última leyenda" presenta todas las facetas del cineasta y captura sus complejidades, mostrando su energía inagotable y su impacto duradero en la industria cinematográfica.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "youtube"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/oAyyqm2b7DfJgBy"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/jdcoqv6fqw2s"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/1538sei5mo6n"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/b4ZJx2Xd2PO2P3R"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Los olvidados: Cicatrices [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Terror</genre>
 <year>2023</year>
