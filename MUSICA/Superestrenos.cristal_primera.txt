@@ -5,6 +5,54 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Death Link [/COLOR][COLOR yellow](2021)[/COLOR]</title>
+<genre>Terror</genre>
+<year>2021</year>
+<tmdb>906460</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/stThfVTKBoz81SQpdKEY0yQomCt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5VHvPwUBTbs73ekVkob36efGsHF.jpg</fanart>
+<info>En la era de las redes sociales, los adolescentes cuentan la historia que quieren que la gente vea, con cada video más atrevido que el siguiente. Pero en esta pequeña ciudad, una serie de videos de "asesinatos" escenificados se están volviendo muy reales.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/8Xm-oZ74Ub0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/KW0Gx0JDG3t014J"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/tdfxk6kfz4p8"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/hqxdwjor26ti"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/qL0YEyaj9zEDRXy"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Si todas las puertas se cierran [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2023</year>
+<tmdb>1108962</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/miLOZwtrxm5MlWn73vPp2gAnhkU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qr3CDX9ojpgzidmXQhrPmav8R1v.jpg</fanart>
+<info>Las tres mujeres protagonistas de la película llevan vidas completamente separadas e independientes entre sí. Sin embargo, sus caminos se acabarán cruzando de tal forma que se ayudarán unas a otras a encontrarse a sí mismas. Cada una de ellas tendrá que enfrentarse a sus profundos miedos para volver a ser completamente feliz. Además de volver a ser las protagonistas de su propias vidas a través de la transformación y la liberación de ellas mismas.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/bgQVAICcv0s"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/Jb1l71V8p4cjjQq"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/94lwgd0vzgvo"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/dxa7bwb4432q"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/njJYOdqJZn5e9od"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Mona Lisa y La Luna De Sangre [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Misterio, Fantasía, Suspense</genre>
+<year>2022</year>
+<tmdb>522526</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/nnXKsXITPTZiwbPrL0iMlVnlLan.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ndXJS49SfKKWwDzj8h12zmnEdc9.jpg</fanart>
+<info>Una joven con poderes psicoquinéticos escapa de un manicomio de Luisiana y se dirige a Nueva Orleans, donde cae en el inframundo de inadaptados y sinvergüenzas de la ciudad.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/VDQrGXuO1hI"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/3J3qDpZ14QudbqG"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/00fma1gw80i2"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/qeaululkgf4f"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/dNjgOl7gAyE9Wn1"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Zom 100: Cien cosas que quiero hacer antes de convertirme en zombi [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Comedia, Terror, Acción</genre>
+<year>2022</year>
+<tmdb>1070514</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/o7mf6YZepJA6nbWrYUTtWb0xvSw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aEVYGOIrhWDrNoZxVhhSazmRjeR.jpg</fanart>
+<info>Su jefe lo maltrata. Trabaja sin parar. No es más que un esclavo de la empresa... hasta que estalla una epidemia zombi y vuelve a sentirse vivo otra vez.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/pIu23FtQT68"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/jVmV4l9AbMhz361"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/c86ahx1ru5so"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/uo8yz4ohexea"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/P0poO1mY4ROz17v"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Vuelo Al Límite [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama</genre>
 <year>2023</year>
