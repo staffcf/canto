@@ -41,6 +41,18 @@
 
 
 <item>
+<title>[COLOR white] Apaches: Gang of Paris [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Suspense</genre>
+<year>2023</year>
+<tmdb>949903</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/tUez9nfKgolfL2seCMFz2VofgI2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/A8FXmXyYijDmR8ILiHAjDwhg4tO.jpg</fanart>
+<info>París, 1884. La vida de tres niños huérfanos que vagan por las calles dominadas por despiadados criminales cambia trágicamente cuando llevan a cabo un audaz robo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/y3YNsng5rGk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/oxRk2LDwp9t9Ap"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/xlwovu95ba09"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/xrq5rp6hmja8"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/pVa4E8LoZBEkzMZ"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Zom 100: Cien cosas que quiero hacer antes de convertirme en zombi [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Comedia, Terror, Acción</genre>
 <year>2022</year>
