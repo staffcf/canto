@@ -65,18 +65,6 @@
 
 
 <item>
-<title>[COLOR white] Apaches: Gang of Paris [/COLOR][COLOR yellow](2023)[/COLOR]</title>
-<genre>Drama, Suspense</genre>
-<year>2023</year>
-<tmdb>949903</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/original/tUez9nfKgolfL2seCMFz2VofgI2.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/A8FXmXyYijDmR8ILiHAjDwhg4tO.jpg</fanart>
-<info>París, 1884. La vida de tres niños huérfanos que vagan por las calles dominadas por despiadados criminales cambia trágicamente cuando llevan a cabo un audaz robo.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/y3YNsng5rGk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/P3zXvbkvddI076K"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/xaousd3z53ei"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/cl0yhco56xow"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/kKJVORk7ra53XDw"}</urlsolve>
-</item>
-
-
-<item>
 <title>[COLOR white] El pico del diablo [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Misterio, Suspense, Drama, Crimen</genre>
 <year>2023</year>
