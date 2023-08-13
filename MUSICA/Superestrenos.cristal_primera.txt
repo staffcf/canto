@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Replicantes [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Ciencia ficción, Suspense</genre>
+<year>2023</year>
+<tmdb>942199</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kmDJhZIq1xnu5ZiMOlb0nHJH1qb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/h11l2XI4avj9Iu4WYwgXWPc8gEj.jpg</fanart>
+<info>Faye intenta reemplazar a su esposo recién fallecido, Evan, con un simulador de Android (SIM). Aunque SIM Evan parece un Evan humano en todos los sentidos, Faye no siente el mismo amor por SIM Evan que por ella. SIM Evan intenta recuperar a Faye mientras que al mismo tiempo huye de un agente del gobierno que persigue a los SIM que se han vuelto "conscientes" y podrían ser una amenaza para la humanidad.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/3IAeEaN0Yuo"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/Zq8XzRkwggtqD4l"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/fi7n05tu201d"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/qyktzz9g1jgs"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/g9Vd5JGd0gxqQjG"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Agente Stone  [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Suspense, Acción</genre>
 <year>2023</year>
