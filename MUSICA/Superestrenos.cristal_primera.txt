@@ -5,6 +5,42 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Remember [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Suspense, Acción, Drama</genre>
+<year>2022</year>
+<tmdb>633374</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/6EylGzawhctQMULswkudy1eaa2o.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e0Gfw3VVV4kbLuHEbhyNz3WVBIK.jpg</fanart>
+<info>La historia de Pil-Joo, un paciente de Alzheimer de unos 80 años, que perdió a toda su familia durante la era colonial japonesa, y dedica su vida a la venganza antes de que sus recuerdos desaparezcan, y un joven de unos 20 años que lo ayuda.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/DVSSYfyXy9s"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/p7bZ21QyAaIGgW"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/7fagr116evr4"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/g4na0yajg0ng"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/rabVOQ6XWK5KdWM"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] H4Z4RD [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Acción, Comedia</genre>
+<year>2022</year>
+<tmdb>869855</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/gUjmpgsG7fxPWejTmPMDLxFT7Yr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xswelevPEvT0LefsoeIRo7ifwKM.jpg</fanart>
+<info>El DJ Dimitri 'Vegas' Thivaios asume el papel principal en "H4Z4RD", una comedia de acción desenfrenada que narra la escapada criminal más peculiar que Amberes ha experimentado. La trama se desarrolla completamente desde el interior de un coche y sigue a Noah Hazard, interpretado por Vegas, quien se ve envuelto en un robo por ayudar a su primo recién liberado de prisión. Lo que sigue es una huida vertiginosa a contrarreloj, repleta de secuestros, drogas, peleas y acción, todo ello acompañado de una inmersiva banda sonora y giros de guion que mantienen la trama en constante movimiento.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ZOT37x51_Vs"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/zpLl8Ja3ReHYVMw"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/ibecabws2bxl"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/8t8a4gk6z5hp"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/0DogOGe0r8xKjM6"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Elemental [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Animación, Comedia, Familia, Fantasía, Romance</genre>
+<year>2023</year>
+<tmdb>976573</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/d79DeKDCgFOM23O8Dr6MELZVooY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jZIYaISP3GBSrVOPfrp98AMa8Ng.jpg</fanart>
+<info>En una ciudad donde los residentes del fuego, el agua, la tierra y el aire viven juntos, una joven apasionada y un chico que se deja llevar por la corriente descubrirán algo elemental: cuánto tienen en común.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/NfQbR8LlAfI"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/6BXympRJRlHZOd"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/q7kyaopgnkex"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/1uhc60slplnv"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/qM1VOPo0ymEo4kY"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Nightmare Radio: The Night Stalker [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Terror</genre>
 <year>2023</year>
