@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Nightmare Radio: The Night Stalker [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Terror</genre>
+<year>2023</year>
+<tmdb>1035798</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/safosm5GTGKpJQxudigMv8HOIwL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/v1jXsjIkslgFj8n8p74Ifrej0yQ.jpg</fanart>
+<info>Candy es una locutora de radio nocturno con un programa donde la gente llama para contar sus historias de terror reales. Uno de sus oyentes comienza a llamarla insistentemente. Candy descubre rápidamente que hay una conexión extraña entre ellos. Pronto descubrirá hasta qué punto está dispuesto a llegar un fanático obsesionado con ella.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/kHlV515MB5o"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/xlYvo3G8Djtkbx0"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/tdvccyb3s7am"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/pdr4mb8c2zt7"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El libro del amor  [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Comedia, Romance</genre>
+<year>2022</year>
+<tmdb>892835</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/wmV65p9u3aET87uZL2eq4hzcUtv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cJ0rlqYZNW2HaUoEWcFRMqr7XER.jpg</fanart>
+<info>La novela del joven y tenso escritor inglés Henry es un rotundo fracaso. Está encantado de saber que su libro es un éxito sorpresa en México, pero cuando lo invitan allí para promocionarlo, pronto descubre por qué: su traductora al español, María, ha reescrito su aburrido libro como una novela erótica. Henry está furioso, y aún más cuando su editor insiste en que él y María realicen juntos una gira de libros por México. Los opuestos se atraen y la química entre la pareja hace que salten chispas.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/j0N-Ia0n4cI"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/glQvqm7Ygrhqy96"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/3yhwv7iodnns"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/ux7pn8qjvj35"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/edVqE4mKW3OYWmQ"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El final que quiero [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama, Comedia</genre>
 <year>2023</year>
