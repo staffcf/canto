@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Alguien que cuide de mí  [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Drama</genre>
+<year>2023</year>
+<tmdb>1096512</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/2DkjqLckutZDNeY87CRrwjvYbd8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vaYoUeXukptPuzLBp2EoYqSTYOp.jpg</fanart>
+<info>Nora es una joven actriz con un futuro prometedor, los dos pilares de su vida: su abuela Magüi y su madre Cecilia tuvieron grandes carreras en el mundo del espectáculo. Pero Nora descubre que su madre guarda un secreto que la ha marcado de por vida.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/xleeCUwTstk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/RqmG3PDmrLtkRb"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/6vrf2uso3sat"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/d4n6cu3s2jyf"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/dNjgOlajlX59Wn1"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] 10 días de un mal hombre [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Crimen</genre>
 <year>2023</year>
