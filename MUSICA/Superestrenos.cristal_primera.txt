@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] ¡Vaya vacaciones! [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2023</year>
+<tmdb>926924</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/fSdvrg6Z37Wcdw7ZhSEFfkAwHrO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mf9jXsPIq3IwUFdK5xx0QXwJBgd.jpg</fanart>
+<info>Manuela y José quieren mucho a sus hijos y, sobre todo, idolatran a sus nietos. Pero los padres de estos han tomado por costumbre dejar a sus retoños al cuidado de sus abuelos, día sí y día también. Manuela y José ya no recuerdan la última vez que tuvieron un rato para ellos mismos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/eqj6BxWKgUI"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/6bpDBJaXVghLOa"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/8c9qtpltu00r"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/alv0qkcrcdg7"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/LQm9OX2zKnx1lgB"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Shepherd [/COLOR][COLOR yellow](2021)[/COLOR]</title>
+<genre>Terror</genre>
+<year>2021</year>
+<tmdb>749727</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/qdzkeoMn3krFBwt4rnMuGDZLkkP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/r4HFuuth5EkvNJNoCTKRPCRjjMv.jpg</fanart>
+<info>Eric Black está perdido tras la misteriosa muerte de su adúltera esposa. Huyendo de su pasado hacia un nuevo trabajo como pastor, se encuentra atrapado y solo en una isla majestuosa y erosionada con un secreto que no presagia nada bueno. La locura en ascenso de un hombre se encuentra con una fuerza sobrenatural vengativa. Lo que comienza como una escapada perfecta azotada por el viento se convierte en una carrera para salvar su cordura y su vida.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/SDqQf6AJ2hU"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/Vx0l7ROmxOcKJz6"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/w5d8n3iftwmc"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/tkj9p8abccc8"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/rabVOQKgLKxKdWM"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Alguien que cuide de mí  [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Comedia, Drama</genre>
 <year>2023</year>
