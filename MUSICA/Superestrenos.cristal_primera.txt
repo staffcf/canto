@@ -5,6 +5,42 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Hanna y los monstruos [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Aventura, Animación, Comedia, Familia, Fantasía</genre>
+<year>2023</year>
+<tmdb>814778</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/b12vzbJdKWoIzH5qMvDywfZ9al3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/b12vzbJdKWoIzH5qMvDywfZ9al3.jpg</fanart>
+<info>Hanna es una niña adorable con pasión por los monstruos. Un día consigue viajar al pueblo en el que viven: Monsterville. Allí descubre que son seres que temen a los humanos, con muchos miedos y complejos. Pero no todos los monstruos están de acuerdo en que una humana se pasee por su mundo e intentarán utilizar a la pequeña para cerrar definitivamente cualquier contacto con el mundo exterior, a riesgo de que Hanna se quede atrapada para siempre...</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/uFgTMME3cfQ"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/K9w2BV8Q0GS0VOr"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/6fr51dpwcyla"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/hdivgcmr9q7j"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/27BaOnbL7vOMDXm"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Insidious: La puerta roja [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Terror, Misterio, Suspense</genre>
+<year>2023</year>
+<tmdb>614479</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/wD4eLIHUaTvrXQqAzlfduHQ1NYg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sgxrLG0oax0fzsuhlmkorXm1gnC.jpg</fanart>
+<info>Para enterrar sus demonios de una vez por todas, Josh Lambert y un ya universitario Dalton Lambert, deberán profundizar en El Mas Allá (The Further) más que nunca, enfrentándose al oscuro pasado familiar y a un huésped de nuevos horrores terroríficos que acechan tras la puerta roja.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/atin1S8KNU8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/xXOqAlB0y3hkPxG"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/gvuenhal5896"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/6nbzpgbytl93"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/P0poO14gLDEz17v"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Next Exit [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Ciencia ficción, Comedia, Drama, Romance</genre>
+<year>2022</year>
+<tmdb>964909</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/n1x6VMvCwvs3dLH84N7cSrpT0yt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7Zdi2axyCsA2cs8f8BRUkVCwuVN.jpg</fanart>
+<info>En un mundo donde los fantasmas son noticias reales y de primera plana, un nuevo y controvertido procedimiento médico permite a las personas suicidarse pacíficamente. En medio de este gran avance, dos extraños viajan juntos a través del país para terminar con sus vidas, solo para encontrar inesperadamente lo que se han estado perdiendo en el camino.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/pFyiHp5PSD4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/X21zvO9rPDSDjYB"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/vy4ojea49i7h"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/aqayo9d5qscd"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/6zeREadyZZxZPa4"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] ¡Vaya vacaciones! [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Comedia</genre>
 <year>2023</year>
