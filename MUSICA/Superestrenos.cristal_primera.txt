@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Amigos pasajeros 2 [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2023</year>
+<tmdb>869641</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/dedEnWKTW5akCOoIZyjCu6PeXdy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fPun1QHWz3W1iHtsSfEGIs4Qvlv.jpg</fanart>
+<info>La pareja de recién casados ​​Marcus y Emily invitan a sus desinhibidos mejores amigos Ron y Kyla, quienes también están recién casados ​​y tienen un bebé, para unirse a ellos en unas vacaciones cuando Marcus consigue un viaje con todos los gastos pagados a un centro turístico del Caribe. Pero cuando el padre encarcelado de Kyla, Reese, es liberado de San Quentin y aparece en el resort sin previo aviso en el peor momento posible, las cosas se salen de control, lo que altera los mejores planes de Marcus y convierte el viaje perfecto de los amigos de vacaciones en un total caos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/lMUu-ag9ofk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/0RW70PzPoQFbblq"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/idekcdt1fgc0"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/mzl4onnnsy7z"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/JzkPxzQadM5bydB"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Mi crimen [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Drama, Misterio</genre>
+<year>2023</year>
+<tmdb>977506</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/2tr9JSsAAopTGpCakOYF0tw5d4u.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dbjSFDzwAX9kVAEoq6h7WccJEgl.jpg</fanart>
+<info>Francia, 1935. Un investigador deberá resolver el asesinato de un banquero parisino. De entre una serie de pintorescos sospechosos destaca Madeleine, cuyos deseos de fama y fortuna se pondrán en el camino de la investigación.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Eyzr_viBB60"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/kPeqVxOQX9iOOjB"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/d3zcrnbri2f8"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/mtbo6cxltyc9"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/pVa4E8DZjBEkzMZ"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El club de los lectores criminales [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Terror</genre>
 <year>2023</year>
