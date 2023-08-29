@@ -17,6 +17,18 @@
 
 
 <item>
+<title>[COLOR white] The Boogeyman [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Terror, Misterio</genre>
+<year>2023</year>
+<tmdb>movie/532408</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/zzaEJ68gtZZ6cPqffUkAl56x223.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3lKXDecd33PSoADRGguUdyIlAE0.jpg</fanart>
+<info>Todavía conmocionadas por la trágica muerte de su madre, una adolescente y su hermana menor se ven atormentadas por una presencia sádica en su casa y luchan para que su afligido padre les preste atención antes de que sea demasiado tarde.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/x0LRxm-Hobg"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/2K7AYDdPk2FZL7y"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/f/8l1ycq4x8yq6"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/ptxi259s9bxb"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/PKN4OwQXkGxDLjb"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Megalodón 2: La fosa [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Acción, Ciencia ficción, Terror</genre>
 <year>2023</year>
