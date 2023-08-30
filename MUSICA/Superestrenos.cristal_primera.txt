@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Los buenos modales [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Comedia</genre>
+<year>2023</year>
+<tmdb>800104</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/k7fAmDcHwfru0dQdJOVF2RzOEvN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/Wk7Ls7acluQGLRc4Ca6pIbcQOA.jpg</fanart>
+<info>Manuela y Rosario son dos hermanas que, tras años sin hablarse a causa de un secreto familiar, se reencuentran inesperadamente en el cumpleaños de sus nietos. Los niños se han conocido gracias a sus cuidadoras, Trini y Milagros, amigas inseparables, vecinas de toda la vida y limpiadoras. Cuando descubren la situación familiar intentarán con mucho amor, torpeza y un poco de disparate, reconciliar a las dos familias.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/EdEC2AUXRpY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/rgZopv8ZkYSyJ9"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/zeq3qvok4dos"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/9dbgfa6biu07"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/edVqE4yn28OYWmQ"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Indiana Jones y el dial del destino [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Aventura, Acción, Fantasía</genre>
 <year>2023</year>
