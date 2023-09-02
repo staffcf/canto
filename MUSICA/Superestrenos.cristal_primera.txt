@@ -5,6 +5,66 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Ganándose el cielo [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2023</year>
+<tmdb>885243</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/3eg8ZHSBf6pFgmrgYn1mkS3YkFU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5lqfkzqVduntlCYd4qPSRCD9YjC.jpg</fanart>
+<info>Cinco monjas se proponen ganar el premio en efectivo en una importante carrera ciclista para recaudar fondos para renovar un hospicio en ruinas. El único problema es que ninguna de ellas sabe andar en bicicleta.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/7PJbLKyUt48"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/6wjVWJMyp0FvK6"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/f2ij9wjr41su"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/a5p6zctxbc5h"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/ZMVoEr28YJE9PaA"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] The Best Man [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Suspense</genre>
+<year>2023</year>
+<tmdb>1094319</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/v5u2eQZL4bOKecLwwz6tiZRjWRa.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qRGHIXnZS39hSa9CPrIdTITu63H.jpg</fanart>
+<info>Los mercenarios toman el control de un hotel remoto durante una boda y depende del padrino, el novio y su mejor amigo borracho detener a los terroristas y salvar a los rehenes.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/fFrk7YkpAus"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/BOB87OmbKasyyv8"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/2k2122akwuml"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/5pyixqssq9wb"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/e028E6DPay5YAvq"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La semilla [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2022</year>
+<tmdb>998587</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/xATwuFVNRZqKvQecVIgSlPaNlgH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wSa4vk25NBDA8DIYyptI9IhEmVV.jpg</fanart>
+<info>Lucie e Ines se aman y quieren tener un hijo, pero les falta algo. Después de cinco intentos, parten para una prueba final en Bélgica. Entonces comienza una loca búsqueda para encontrar la semilla.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/cFt2aWdv7Jw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/MJWPgDX4A3umWKG"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/dkbzxndv21nn"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/d6ms2y5ma103"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/wP2050aJ1Gxdmy7"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Un día y medio [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Misterio, Suspense, Drama</genre>
+<year>2023</year>
+<tmdb>978783</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/vdQWE5gjut4Omw9NTIDfZYqP0k5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uaUBRRANz1oLntw9S5nwfXwasER.jpg</fanart>
+<info>Un hombre toma a su ex esposa como rehén en un peligroso viaje por carretera a través de Suecia con la policía pisando sus talones.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/eNxhpkdOTWY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/PwQ0WQyQPyHBb8"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/tmdecmbuc0to"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/88pi5ukx7vww"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/eL2157kLRR5rw48"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Wildflower [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Drama</genre>
+<year>2023</year>
+<tmdb>915523</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/eEDL611KTqD0M4I8M1UBmXsPvQ2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qmDdCfqY7EG9igPv8G6YI703heN.jpg</fanart>
+<info>Cuenta la historia de Bea Johnson desde su nacimiento hasta su graduación, y retrata su vida con dos padres mentalmente discapacitados y una familia que no acaba de ponerse de acuerdo sobre la mejor manera de ayudarla.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Ug3FVmA7yuk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/Y8pWwMpBQwivVPw"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/nrka7cvdmsts"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/maa3i8etxtk9"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/kKJVOR9WK9E3XDw"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] 97 minutos [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Suspense, Acción</genre>
 <year>2023</year>
