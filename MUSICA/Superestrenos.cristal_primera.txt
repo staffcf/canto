@@ -120,7 +120,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/6ScvTOC302e8GUJuiJIM7gTEhxf.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/9m161GawbY3cWxe6txd1NOHTjd0.jpg</fanart>
 <info>El arqueólogo Indiana Jones deberá emprender otra aventura contra el tiempo para intentar recuperar un dial legendario que puede cambiar el curso de la historia. Acompañado por su ahijada, Jones pronto se encuentra enfrentándose a Jürgen Voller, un ex nazi que trabaja para la NASA.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/9ShSKNr-PR0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/zM1DKjWQQ7cY0L2"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/pny7wsdyuuq2"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/hwh029ieaf87"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/04rQxWlp0eEb2N1"},{"titulo" : "[COLOR white]Newish[/COLOR]","url" : "https://embedwish.com/jvpasc0f1c21"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/9ShSKNr-PR0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/zM1DKjWQQ7cY0L2"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/pny7wsdyuuq2"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/hwh029ieaf87"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/04rQxWlp0eEb2N1"},{"titulo" : "[COLOR white]Newish[/COLOR]","url" : "https://embedwish.com/jvpasc0f1c21"},{"titulo" : "[COLOR yellow]Acestream 4K[/COLOR]","url" : "acestream://279ec49212c3aae3311168468d7628939dd7035c"}</urlsolve>
 </item>
 
 
