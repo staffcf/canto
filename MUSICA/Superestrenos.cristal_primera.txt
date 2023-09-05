@@ -5,6 +5,43 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Diciembre [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Suspense</genre>
+<year>2023</year>
+<tmdb>985517</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/rrSAOTcCimHI6HHNxg8ldOdbCjl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jUsNRHOzXB7Nv4adXVhdNGFP9jq.jpg</fanart>
+<info>Un matrimonio divorciado se reúne para luchar contra la liberación del asesino de su hija.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Gxr2PHnwwfY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/PX42r99gbJs0QvX"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/zca607ddr1l7"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/pccxng23n3u8"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/MAlwEM4ZnyxJ39X"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Final feliz [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>
+Romance, Comedia</genre>
+<year>2023</year>
+<tmdb>1139819</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/2oP6H0zUBADUDXRDGIfas0fkWm7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9DjbujlxPM0Xfaovx2rH1YgkFTf.jpg</fanart>
+<info>Una pareja, Luna y Mink, están celebrando su primer aniversario de relación pero lo que no sabe Mink es que Luna ha estado fingiendo sus orgasmos desde que se conocieron. Su grupo de amigos sugieren la idea de hacer un trío, sin saber que esto pondrá la vida de Luna patas arriba.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/xxu47xqTxrU"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/XBAbexx2qYuD4xJ"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/hqa0njdhd4j5"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/ujay1jgfpkzk"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/ZMVoEr2yQJE9PaA"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Sakra [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Drama</genre>
+<year>2023</year>
+<tmdb>990140</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/lEWeNdbPuJIUON6qUwwvRcYNgSU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zS3ngMx0IJGzSUlAJ5u40utdCFK.jpg</fanart>
+<info>Cuando un artista marcial respetado es acusado de asesinato, emprende un viaje en busca de respuestas sobre su misterioso pasado y los enemigos que buscan destruirlo. A lo largo de su búsqueda, descubre detalles reveladores que podrían cambiar su vida para siempre.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/4Zg4mtD1alE"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/BjVJXrllqpTy0d7"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/fu5vxtrdgmis"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/gk8zbuxiuu8j"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/nyg9EKWQQQEbk4Z"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El Tutor [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Misterio, Suspense, Acción</genre>
 <year>2023</year>
