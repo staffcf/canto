@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Una buena persona  [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2023</year>
+<tmdb>800787</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/gEdO8nhhn7tLPWHDd6I61imUfg0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ifNyN4Lbu15dHO2QJG4py6NAwz8.jpg</fanart>
+<info>Allison (Pugh) es una joven cuya vida se desmorona tras su participación en un accidente mortal. En los años siguientes, será la improbable relación que establece con su posible suegro (Freeman) la que le ayudará a vivir una vida que merezca la pena.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/rPjhVj7crd8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/klLl1rPxAxSO4BQ"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/eeaq0by0bi0v"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/vp2w4g436wrv"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/nyg9EKWLgREbk4Z"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Pesadilla en el vecindario [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Película de TV, Misterio, Suspense</genre>
 <year>2022</year>
