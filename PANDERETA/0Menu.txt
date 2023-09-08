@@ -2269,6 +2269,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El cuerpo en llamas[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<tmdb>229962</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/El.cuerpo.en.llamas</externallink>
+<info>Encuentran a un oficial de policía muerto, con el cuerpo calcinado. Todas las sospechas recaen sobre otros dos agentes: su novia y el amante de ella. Inspirada en hechos reales.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/3Iw27VOUE9PGjrupjDAvPnlbGR9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kjUcLbTOtEnZh4D6tZ88RNK6dc3.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El Desertor[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <tmdb>101339</tmdb>
