@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] En busca del mapa perdido [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Aventura, Familia</genre>
+<year>2022</year>
+<tmdb>767852</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/4l2jcuiUfesyoEennZK7QxopNKJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bc3EeX4D40ybsQLqnYRHpsR8cRG.jpg</fanart>
+<info>Cuando Benjamin, un adicto a la tecnología, hereda un baúl de objetos antiguos de su desaparecido padre, descubre un atlas que perteneció al cartógrafo Mercator. La reaparición del libro despierta el interés de misteriosos enemigos que no se detendrán ante nada para hacerse con él.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/V3iSIttHcBk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/rx7MwwRQZVsbjA6"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/fkx4y9lopjd5"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/2mdl5r31h0z6"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/pVa4E82JPz5kzMZ"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Entrega urgente [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Acción, Crimen</genre>
+<year>2022</year>
+<tmdb>606403</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/iFUBAfMDlFOck29BEwS1awH5TB3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rPeNbfYHwAqWZsTxM2jy4i6JS15.jpg</fanart>
+<info>Película de acción criminal sobre los eventos inesperados que se desarrollan cuando Eun-ha (Park So-dam), una conductora con una tasa de éxito del 100% en la entrega de cualquier cosa que valga la pena, mete a un niño en su automóvil.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/aOTxsrDu-l0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/QboZQxzMyOF0024"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/z815576rb6qj"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/v6oloopfq4kh"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/l4vexvJ8Brx8B9k"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Diciembre [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Suspense</genre>
 <year>2023</year>
