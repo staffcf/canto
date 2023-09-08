@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Pesadilla en el vecindario [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Película de TV, Misterio, Suspense</genre>
+<year>2022</year>
+<tmdb>960398</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/w2mZ9D04a1vZXKpUX2ibrXQe2Vw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vH89IKcS2i64IHtdaZQCH19FJ8k.jpg</fanart>
+<info>Esta película sigue a Charlotte mientras se familiariza con su vecina competitiva Bonnie. Se crea una vigilancia vecinal cuando otro vecino es asesinado. Sin que todos lo supieran, fue Bonnie quien mató al vecino. ¿Será descubierta antes de que sea demasiado tarde?</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/w8Zd0Z8Xk4c"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/oLZgvgzPm7iJ422"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/1qpwhahrcvuo"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/qqs34dwjq6ke"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/vQBYEbVmnREn1m8"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] En busca del mapa perdido [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Aventura, Familia</genre>
 <year>2022</year>
