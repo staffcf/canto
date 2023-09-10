@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Las cintas de Rosa Peral  [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Documental</genre>
+<year>2023</year>
+<tmdb>1167520</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/8jAnsIm4qzy28IBJeJsTQCdnORE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2jRPs9aM4xfHkboL2vnGwSvA3RU.jpg</fanart>
+<info>Esta película documental ofrece la primera entrevista otorgada en prisión por Rosa Peral desde que fue condenada por asesinar a su novio con ayuda de un examante. Ve todo lo que quieras.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/_gt2KrKv46k"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/MYZ6D3p7l3FmZd8"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/x3eam01d6a3f"},{"titulo" : "[COLOR white]Newish[/COLOR]","url" : "https://streamwish.to/237ulacooeyd"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Una buena persona  [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama</genre>
 <year>2023</year>
