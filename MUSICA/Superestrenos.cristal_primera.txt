@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Barbie [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Aventura, Fantasía</genre>
+<year>2023</year>
+<tmdb>346698</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/fNtqD4BTFj0Bgo9lyoAtmNFzxHN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1esAE8sLJRWWFsLLeh5r3g2WanI.jpg</fanart>
+<info>Barbie lleva una vida ideal en Barbielandia, allí todo es perfecto, con chupifiestas llenas de música y color, y todos los días son el mejor día. Claro que Barbie se hace algunas preguntas, cuestiones bastante incómodas que no encajan con el mundo idílico en el que ella y las demás Barbies viven. Cuando Barbie se dé cuenta de que es capaz de apoyar los talones en el suelo, y tener los pies planos, decidirá calzarse unos zapatos sin tacones y viajar hasta el mundo real.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/KIssh5pZ42g"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/ZaJ0qVKaAmtqJ8r"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/2bsb1nqea95i"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/zkkvreja66kd"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Cincuenta tartas para Jane [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Romance, Comedia, Drama</genre>
 <year>2023</year>
