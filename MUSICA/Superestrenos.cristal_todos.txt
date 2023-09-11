@@ -93,7 +93,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/3P9QvWVN02Etn4kYGC702WVoXEb.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/felKdfRqoy7AcmdBvPM3wzwlZi9.jpg</fanart>
 <info>Durante numerosas misiones más que imposibles, Dom Toretto y su familia han sido capaces de ser más listos, de tener más valor y de ir más rápido que cualquier enemigo que se cruzara con ellos. Pero ahora tendrán que enfrentarse al oponente más letal que jamás hayan conocido: Un terrible peligro que resurge del pasado, que se mueve por una sangrienta sed de venganza y que está dispuesto a destrozar a la familia y destruir para siempre todo lo que a Dom le importa.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/FDhvbIqTQwI"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/vpZWWj8Z1YSw6J"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/22j9kv6xu135"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/j6vrhr1dapam"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/FDhvbIqTQwI"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/vpZWWj8Z1YSw6J"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/22j9kv6xu135"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/j6vrhr1dapam"},{"titulo" : "[COLOR white]Torrent 1080[/COLOR]","url" : "magnet:?xt=urn:btih:ZBCJJXYPBQBXWASDBKDLWPX5OEMZ24RV"},{"titulo" : "[COLOR white]Torrent 4K[/COLOR]","url" : "magnet:?xt=urn:btih:P4JYVQEDUHZ66ZS7OS4ULT6KRJDJPKGE"}</urlsolve>
 </item>
 
 
