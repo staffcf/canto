@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Operación Kandahar [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Suspense</genre>
+<year>2023</year>
+<tmdb>717930</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/qE2EsMv37IjXLjc6ixOU3LeRtZl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/al3nQvsUrhGkNKW4cVwj6pazeBP.jpg</fanart>
+<info>Tras sabotear un reactor nuclear iraní, el agente de la CIA Tom Harris (Gerard Butler) descubre que su identidad ha sido revelada a los medios después de que un informante expusiera la implicación de la CIA en la destrucción del reactor. Harris dispone de sólo 30 horas para llegar al aeropuerto de Kandahar (Afganistán) y evitar su muerte y captura. Para conseguirlo, necesitará la ayuda de un traductor afgano llamado Mo (Navid Negahban) que desprecia la violencia y el derramamiento de sangre causado por el conflicto bélico</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/bRPxeMUqAKc"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/y0rjwjzgsg38"},{"titulo" : "[COLOR white]Acestream BR1080 con subt[/COLOR]","url" : "acestream://bb85e6a00741df944e4e4ad5cea69d8d7106e215"},{"titulo" : "[COLOR white]Acestream Web4k con subt[/COLOR]","url" : "acestream://5d5137d78b90c52ed245356e1f0c68e47cb33fce"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Las cintas de Rosa Peral  [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Documental</genre>
 <year>2023</year>
