@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Todo sobre mi padre [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2023</year>
+<tmdb>829051</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/jFkGF6Nl46GkASRgdgFsvTn6ZfR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8dMMJLSrZ9mFEVVUS5CJszkyu19.jpg</fanart>
+<info>Cuando Sebastián le dice a su padre Salvo, un inmigrante italiano conservador, que va a casarse con su novia americana, Salvo insiste en pasar un fin de semana con los padres de ella.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/WFZk3K9iZmQ"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/lkg21LOOp9i73kO"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/4c2qclcxbc0n"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/ZMVoErp9V859PaA"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Barbie [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Comedia, Aventura, Fantasía</genre>
 <year>2023</year>
