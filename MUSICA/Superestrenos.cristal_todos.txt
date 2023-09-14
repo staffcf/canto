@@ -23482,6 +23482,18 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 
 
 <item>
+<title>[COLOR white] Self Storage [/COLOR][COLOR yellow](2013)[/COLOR]</title>
+<genre>Crimen, Terror</genre>
+<year>2013</year>
+<tmdb>222299</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/rYcMwK3kOC3xyJU4WcnjV6KFUVl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eLNu01XLmX6pt6KxGrSGyP3PJ4C.jpg</fanart>
+<info>Jake (Tom DeNucci) es un guardia de seguridad que trabaja en una zona de almacenes altamente resguardada y una noche decide realizar una pequeña fiesta con varios de sus amigos en uno de estos almacenes. Lo que no sabe es que dicha facilidad guarda algo más que simples pertenecías personales y sus vidas correrán peligro gracias al mercado negro.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/jSrHg3bYotI"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/R9VO06L8G4Cdedk"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/wxsetoqnf6py"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/enoz6jug0igl"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/YWA8E9PKK3xGmMw"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Sin límites [/COLOR][COLOR yellow] (1998) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Drama,Romance</genre>
 <year>1998</year>
