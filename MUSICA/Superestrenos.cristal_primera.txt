@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Freestyle [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Crimen, Acción, Suspense</genre>
+<year>2023</year>
+<tmdb>1152797</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/hNPJzlPlIVgTAjb2Mgqwl1QqydK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xsnpgM2Si1hG7daLP1XE7uAfKKH.jpg</fanart>
+<info>Una promesa del rap con un pasado delictivo decide vender droga para saldar su deuda con el estudio de grabación. Pero su arriesgado plan podría costarle muy caro.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/7idQs6swjZk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/JY4XpvJ042FGYY"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/iak3ulfm6d8k"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/9j0eqozltn5c"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/8ozgENpJ965mjAy"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Una amiga indeseable [/COLOR][COLOR yellow](2020)[/COLOR]</title>
+<genre>Película de TV, Drama</genre>
+<year>2020</year>
+<tmdb>670525</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/qbGVHRe2JGBK12HjaZvpEQpex6m.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zlRDj7gMAyZyh3mZAtCzvEdSPwk.jpg</fanart>
+<info>Un estudiante tortuoso y psicótico intenta inculpar a una recién llegada a la escuela por la muerte de un adolescente en una fiesta.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "NO"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/ezkX71pg4LuY090"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/7t9x45vw99wc"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/gmazxt1ibj2t"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/wP2050QaJ3xdmy7"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Todo sobre mi padre [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Comedia</genre>
 <year>2023</year>
