@@ -24,7 +24,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/ez3IwZGBuVMVbYFcS9iftoxDjB8.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/8jWrErAHD0yvwr538xz7dbo3aas.jpg</fanart>
 <info>Después de pasar años apartados del mundo humano, los hermanos Tortuga se proponen ganarse el corazón de los habitantes de Nueva York y que les acepten como quinceañeros normales, llevando a cabo actos heroicos. Su nueva amiga April O'Neil les ayuda a enfrentarse a un misterioso sindicato del crimen, pero pronto se ven superados ante el ataque de un ejército de mutantes que se abalanza sobre ellos.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/GTX1prQ6d-8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/2WOzvdXmQZUZOpx"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/ml3vtpdzqzwe"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/8ozgENpwR75mjAy"},{"titulo" : "[COLOR white]Newish[/COLOR]","url" : "https://streamwish.to/ulimx95d90tc"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/GTX1prQ6d-8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/2WOzvdXmQZUZOpx"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/ml3vtpdzqzwe"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/8ozgENpwR75mjAy"},{"titulo" : "[COLOR white]Newish[/COLOR]","url" : "https://streamwish.to/ulimx95d90tc"},{"titulo" : "[COLOR white]Acestream BR1080[/COLOR]","url" : "acestream://35e895bf0def44760f1db2a01dc4302830fd22e4"}</urlsolve>
 </item>
 
 
