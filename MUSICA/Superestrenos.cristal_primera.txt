@@ -12,7 +12,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/ao0exh1bA6FaqBh2svgHbOFilv6.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/drNH9o8DHvFh648LRdxAm8BMZVJ.jpg</fanart>
 <info>Paul Carpenter se convierte de la noche a la mañana en el nuevo becario de la misteriosa empresa J.W. Wells y Co, compartiendo mesa con la brillante Sophie. Rápidamente, ambos se dan cuenta que su nuevo trabajo es cualquier cosa menos convencional. Mientras Sophie es ascendida al Departamento de Casualidades, el director general de la empresa, Humphrey Wells, persuade al joven Paul para que busque el objeto más poderoso y codiciado del mundo: la puerta mágica.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/jxoEtuoHlW4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/2zBglJR1KjuZljP"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/t334x3nbf32a"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://vgembed.com/v/27BaOnJNKQOMDXm"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/jxoEtuoHlW4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/2zBglJR1KjuZljP"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/t334x3nbf32a"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/27BaOnJNKQOMDXm"}</urlsolve>
 </item>
 
 
