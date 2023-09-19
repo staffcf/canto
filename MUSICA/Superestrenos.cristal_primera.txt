@@ -12,7 +12,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/z5mkvXYNRauSzHdZgxAj6MzrLTY.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/4ulDBdJiV2WGGUBuvwidPJ9WvfF.jpg</fanart>
 <info>Un adolescente mexicano encuentra un escarabajo alienígena que le proporciona una armadura superpoderosa.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/eKKg7BIoctU"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/qxK4V6mMJ2cz8k0"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/p9ayj33ylfvs"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/LQm9OX644Kx1lgB"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/eKKg7BIoctU"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/qxK4V6mMJ2cz8k0"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/p9ayj33ylfvs"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/LQm9OX644Kx1lgB"},{"titulo" : "[COLOR white]Torrent BD 1080 con subt[/COLOR]","url" : "magnet:?xt=urn:btih:FP4HYCII4ZKFRWQ5FW4S5ZCK52QH7JRT"},{"titulo" : "[COLOR white]Torrent 4K con subt[/COLOR]","url" : "magnet:?xt=urn:btih:GT5J54J6OBUR4KYLT3UHFJ3427674W44"}</urlsolve>
 </item>
 
 
