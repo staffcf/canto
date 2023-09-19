@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Blue Beetle [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Ciencia ficción, Aventura</genre>
+<year>2023</year>
+<tmdb>565770</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/z5mkvXYNRauSzHdZgxAj6MzrLTY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4ulDBdJiV2WGGUBuvwidPJ9WvfF.jpg</fanart>
+<info>Un adolescente mexicano encuentra un escarabajo alienígena que le proporciona una armadura superpoderosa.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/eKKg7BIoctU"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/qxK4V6mMJ2cz8k0"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/p9ayj33ylfvs"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/LQm9OX644Kx1lgB"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] La Puerta Mágica  [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Fantasía, Aventura, Comedia</genre>
 <year>2023</year>
