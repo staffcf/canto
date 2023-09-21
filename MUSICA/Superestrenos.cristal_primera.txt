@@ -5,6 +5,42 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Mojave Diamonds [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Crimen, Suspense</genre>
+<year>2023</year>
+<tmdb>983793</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/eauJLqzFy53KR86VNXnzz3wsD6w.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dPagCvFuFWKEoEcjTGwwrdpdTPp.jpg</fanart>
+<info>Un ex luchador de MMA y sus hermanos deben rescatar a su familia secuestrada de un peligroso sindicato del crimen después de que se roben $ 50 millones en diamantes ilegales.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/QZ_fwgBQ7u0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/BJ7a9bldRoIyxgg"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/lxyzcxeb1s2z"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/04rQxWmBdpOb2N1"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Sospechoso X [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>)Crimen, Suspense</genre>
+<year>2023</year>
+<tmdb>950071</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/wydlTcs1Op0DEKTfAsJOfi0bGQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wqIaUlljiU4mXYynBWFGVnIA1Go.jpg</fanart>
+<info>Cuando una madre soltera se ve implicada en una investigación criminal, su vecino (un brillante profesor de matemáticas) la ayuda mientras un policía busca respuestas.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/D70QaUnE3tk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/p22lWjXZ8pIr922"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/zeyks0dzugk6"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/edVqE4vmGM5YWmQ"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Pursuit [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Acción, Crimen, Suspense</genre>
+<year>2022</year>
+<tmdb>871799</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/qZcSZAHfsSYUlQLhPJMvrj23d3K.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kNM1rd1QmDW8LiMCpna3hcuru8P.jpg</fanart>
+<info>El detective Breslin se cruza con Calloway, un hacker despiadado desesperado por encontrar a su esposa que ha sido secuestrada por un cartel de la droga. Cuando Calloway escapa de la custodia policial, Breslin une fuerzas con una policía para recuperar a su prisionero. En el camino aparece el padre de Calloway, quien está involucrado de alguna manera en esta situación explosiva.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/7YEicjmt2KY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/3rW8bPQKDwUdz0X"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/hw7g1ahx39tr"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/PlBVEZMmk8xDv98"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Al servicio del Reich - Filip [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Drama, Historia, Bélica</genre>
 <year>2022</year>
