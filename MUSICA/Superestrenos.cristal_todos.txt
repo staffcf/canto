@@ -22280,6 +22280,18 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 
 
 <item>
+<title>[COLOR white] Antisocial [/COLOR][COLOR yellow](2013)[/COLOR]</title>
+<genre>Terror, Suspense</genre>
+<year>2013</year>
+<tmdb>207780</tmdb>
+<thumbnail>207780</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rW2FCOuW8RQzxcQpyUWZ81wONET.jpg</fanart>
+<info>Antisocial empieza en la nochevieja de un futuro no muy distante. Cinco amigos de la universidad se reúnen para celebrar el nuevo año. Sin que lo sepan, una epidemia ha estallado, causando brotes en todo el mundo. Sin ningún sitio al que ir, levantan barricadas y se encierran con sus teléfonos, portátiles y otros dispositivos electrónicos. Los usan para intentar averiguar las causas de esta infección. La información empieza a llegar en forma de videos a sus ordenadores, a la vez que el miedo se va convirtiendo en paranoia </info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/wCM4Uu7DC2w"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/e4gAa6zj8WsYzj4"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/gtwbbyejl4xk"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "vgembed.com/v/e028E6vmlQEYAvq"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Aquí llega Condemor el pecador de la pradera [/COLOR][COLOR yellow] (1996) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Western,Comedia</genre>
 <year>1996</year>
