@@ -5,6 +5,42 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] León por un día [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Suspense, Crimen</genre>
+<year>2023</year>
+<tmdb>1070777</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/jPAnZoVLRgYzIdCFbaa8LEBGLEz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ecc3KZKMzx9jCHaHnzZYkxjADIS.jpg</fanart>
+<info>Jackie Powers no se detendrá ante nada para evitar que su hijo lo siga a una vida delictiva. Con su jefe mafioso persiguiéndolo, un encuentro casual en un restaurante al borde de la carretera traza un nuevo camino.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/5QBMnd4dk68"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/BaMgW2xR3DUyqvD"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/0pfkrmij6iyn"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/1h6sgcp3slrm"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/3Q0lxB2Z1wxj1Jk"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Spy Kids: El armagedón [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Familia, Comedia, Acción, Aventura, Fantasía</genre>
+<year>2023</year>
+<tmdb>790493</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/vd8YdaH7dzeIMGTNwQinlSiA1gV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qDRTyeuymMnMd6vrwVxNuHFTHCa.jpg</fanart>
+<info>Los hijos de los mejores agentes secretos del mundo ayudan sin saberlo a un poderoso desarrollador de juegos a liberar un virus informático que le da el control de toda la tecnología, lo que los lleva a convertirse en espías para salvar a sus padres y al mundo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/cJn5csiY05E"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/7mVWpvjV6LIApVr"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/emwj6g8lk9fn"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/9kyxd2bn30ko"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/qA3WOmDa1gEKkz4"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Tener tiempo [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2022</year>
+<tmdb>873166</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/oUmKn7SdPCgQxbKX19ZuC7yMWVW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5ZepP3w0lmZjO3XQ0uCyBFmcEYO.jpg</fanart>
+<info>Madrid, España, 2021. Los parques están vacíos. Hay elecciones autonómicas. Y exámenes finales. Mientras, Pedro, Kiko y Jesús aceptan protagonizar una película.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/WbvRr_QlDTg"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/Q1m4p2Q9adt0MpD"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/bjqo3of9t6um"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/s5z20j43g144"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/b4ZJx2RQ96x2P3R"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Mojave Diamonds [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Acción, Crimen, Suspense</genre>
 <year>2023</year>
