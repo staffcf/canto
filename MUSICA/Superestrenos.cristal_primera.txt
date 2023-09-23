@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Asteroid City [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Drama</genre>
+<year>2023</year>
+<tmdb>747188</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/s7LIE7oNZ6WU4ajf1FaXWyMYdpX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6UzH0vvAMC1LviwVdaBkjX4xr2.jpg</fanart>
+<info>En 1955, colegiales y padres de todo el país se reúnen para un concurso escolar dedicado a la observación de fenómenos astronómicos (Junior Stargazer Convention) que se lleva a cabo en una ciudad ficticia del desierto estadounidense llamada Asteroid City. La convención se verá espectacularmente interrumpida por eventos que cambian el mundo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/8pqgyzBespY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/bpgga0YMJyfPavo"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/54f18nj4lheo"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/i7k6u0khzzm3"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La fortaleza [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2023</year>
+<tmdb>995081</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/pl7Jp4NqzYgh881cYCNZSvFKwli.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pl7Jp4NqzYgh881cYCNZSvFKwli.jpg</fanart>
+<info>Los herederos de una mansión tendrán que enfrentarse a un gran juego orquestado por su difunto patriarca que expondrá algo más brutal que su ambición, el secreto mejor guardado de la familia</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/e5DdpR9UQBg"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/KX2eeOX9bVSwZZ"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/qasadp6zyy8n"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/61lnga7chhpf"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Parallel [/COLOR][COLOR yellow](2018)[/COLOR]</title>
 <genre>Ciencia ficción, Fantasía, Terror</genre>
 <year>2018</year>
