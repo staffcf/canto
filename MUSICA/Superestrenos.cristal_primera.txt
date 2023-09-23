@@ -5,6 +5,42 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Parallel [/COLOR][COLOR yellow](2018)[/COLOR]</title>
+<genre>Ciencia ficción, Fantasía, Terror</genre>
+<year>2018</year>
+<tmdb>426793</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/eUi9srjugUumdUK8sGO9ndMFXgI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/udI35kzYd1uSYNsTwm6dQgim7LH.jpg</fanart>
+<info>Un grupo de amigos se topa con un espejo que sirve como portal a un "multiverso", pero pronto descubren que importar conocimientos del otro lado para mejorar sus vidas trae consecuencias cada vez más peligrosas.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/mHoIR1nUJbI"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/wyyqo8x19bheOq"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/66aev95amr7a"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/tfjxwuka6epr"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Recuperar el pasado [/COLOR][COLOR yellow](2019)[/COLOR]</title>
+<genre>Suspense, Película de TV</genre>
+<year>2019</year>
+<tmdb>601197</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/oqg0cv1e3eBqId6KbTnDSTgKAUl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pDBxd0pomIVNfx4mw7zZRQcLgPc.jpg</fanart>
+<info>Melissa, una mujer felizmente casada y con una hija de 8 años, invita a la madre de su esposo a vivir con ellos. Sin embargo, se da cuenta de que la abuela está trastornada y quiere secuestrar a la hija de Melissa para reemplazar a su propia hija muerta.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/kviAwJPFXBk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/RXpMz2Lmq9IdVPb"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/92dyxuwxmr1c"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/jeig0hsu3z3v"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Shark Killer [/COLOR][COLOR yellow](2015)[/COLOR]</title>
+<genre>Acción, Terror, Suspense</genre>
+<year>2015</year>
+<tmdb>332280</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/hja3kPXLLpHI95hf5k6ICViCS5d.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wuqS9t2J3Egqd0zjh5ONZK8NfBR.jpg</fanart>
+<info>Los servicios de tiburón asesino Ace Hunter se han comprometido por su hermano Jake, el jefe de una banda criminal de la Costa Oeste. El concierto: matar a los tiburones con aletas negro que se tragó un diamante valioso durante una transacción de pandillas. Alistado a mantener un ojo en Ace es la novia de Jake, Jasmine. Pero la relación As y de Jasmine profundiza con las amenazas por parte de un jefe del crimen rival: llevar el diamante con él o morir.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/zmxkzDFQDL4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/W8e0ZjPvglsb8zb"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/lmrvaw399bx4"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/r4swtbtqqfyi"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] León por un día [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Acción, Suspense, Crimen</genre>
 <year>2023</year>
