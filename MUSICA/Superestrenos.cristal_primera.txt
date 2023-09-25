@@ -5,6 +5,42 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] El hombre del saco [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Terror, Aventura</genre>
+<year>2023</year>
+<tmdb>1145851</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/3EdqlGB2ACpnqsrtKhyacaPhzHK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lvNGIyb3CoMmdzZe151RIfNh7xP.jpg</fanart>
+<info>Explora y revela y nos trae a la gran pantalla el popular personaje que tantas pesadillas ha provocado entre los más jóvenes y que nos sumerge en los orígenes españoles de la historia: un almeriense enfermo de tuberculosis dispuesto a cualquier cosa para curarse, incluso a beberse la sangre de los niños que secuestra en un saco.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Loci3ys4baA"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/7XBgZr44yOto9o"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/1h6ck7j2utt1"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/6m325teuaezc"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Transpecos [/COLOR][COLOR yellow](2016)[/COLOR]</title>
+<genre>Suspense</genre>
+<year>2016</year>
+<tmdb>381018</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/1HQ34wDFGxWGAvXBWALJ4VqqN5Q.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rCVnETUkef58JBsUlI3F7vwP6ZC.jpg</fanart>
+<info>Es un día cualquiera para la Patrulla Fronteriza de los Estados Unidos, que trabaja en pleno desierto. Flores tiene una gran habilidad para rastrear, Hobbs es un Viejo guardia convencido de que un título universitario no puede detener una bala y David entró a trabajar allí con la idea de ligar con mujeres y montar a caballo. Los tres agentes creen que será una nueva jornada de aburrimiento, pero acaban embarcados en un viaje surrealista, jugándose la vida en la frontera entre el bien y el mal.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/kENbfHA1TQ0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/MXXeyX6lYySmXk7"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/ulrr92iz4pfp"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/vyog7qjr1ipo"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Syd Barrett y el origen de Pink Floyd [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Documental, Música</genre>
+<year>2023</year>
+<tmdb>1118723</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/4x8u14tsFDWQY0dNkAi6qgjnDr6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mdgA8fzzDVKFcBjwFTbddzicReM.jpg</fanart>
+<info>Syd Barrett, miembro fundador de "Pink Floyd", es un enigma en la historia de la música. Este documental arroja luz sobre su vida y su salida del grupo a pesar de haber sido una parte fundamental de la banda. Con material de archivo inédito y entrevistas a miembros de Pink Floyd, amigos y familiares, se exploran las razones detrás de su expulsión y se presenta su vida en solitario.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/3ERJCYA8h1g"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/l7BjzRA0VyUoGb"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/1xlsnw4zy2yt"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/dcaqr2348khr"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Asteroid City [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Comedia, Drama</genre>
 <year>2023</year>
