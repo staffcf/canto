@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Gran Turismo [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Drama, Aventura</genre>
+<year>2023</year>
+<tmdb>980489</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/cCHhhS8mYPlp4AQUSpdiZPGOiwR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/K6FxMkWr6XGNYCVfWin6XEnJW5.jpg</fanart>
+<info>Un jugador adolescente de Gran Turismo gana una serie de competencias de Nissan y luego se convierte en un verdadero piloto de carreras profesional.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/onaXmynN_GY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/ZoY6DJX9vwuqLj3"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/k5foalpatmof"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/0hzuu2upyisk"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Liuben [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Romance, Drama</genre>
+<year>2023</year>
+<tmdb>1120607</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1Mjfb824WunAm3c5nBUQRMxJBQc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xh2GRuGipE62BPMwFNsAHWAchoU.jpg</fanart>
+<info>Víctor, un joven criado en Málaga, decide regresar a su pueblo de Bulgaria durante las vacaciones de verano. En su viaje, conoce a Liuben, un adolescente huérfano de etnia gitana que se gana la vida vendiendo frutas junto a una carretera.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/XziXBV10zeQ"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/g20WDk8O8zFqpmx"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/ij0n1i6efn6t"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/18tqhwir3pfv"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El hombre del saco [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Terror, Aventura</genre>
 <year>2023</year>
