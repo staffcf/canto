@@ -60,7 +60,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/cCHhhS8mYPlp4AQUSpdiZPGOiwR.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/K6FxMkWr6XGNYCVfWin6XEnJW5.jpg</fanart>
 <info>Un jugador adolescente de Gran Turismo gana una serie de competencias de Nissan y luego se convierte en un verdadero piloto de carreras profesional.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/onaXmynN_GY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/ZoY6DJX9vwuqLj3"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/k5foalpatmof"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/0hzuu2upyisk"},{"titulo" : "[COLOR white]Torrent BD 1080[/COLOR]","url" : "magnet:?xt=urn:btih:7OPLC3AYZTR35RL25SE5JKDD37Y3M5VW"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/onaXmynN_GY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/ZoY6DJX9vwuqLj3"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/k5foalpatmof"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/0hzuu2upyisk"},{"titulo" : "[COLOR white]Torrent BD 1080[/COLOR]","url" : "magnet:?xt=urn:btih:7OPLC3AYZTR35RL25SE5JKDD37Y3M5VW"},{"titulo" : "[COLOR white]Torrent 4K[/COLOR]","url" : "magnet:?xt=urn:btih:IUZUDXGP2ZU4KRCACWU7TEN2KMOJHTX2"}</urlsolve>
 </item>
 
 
