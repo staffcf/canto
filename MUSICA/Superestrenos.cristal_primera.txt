@@ -5,6 +5,54 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] El amor está en el aire  [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Romance, Comedia, Drama</genre>
+<year>2023</year>
+<tmdb>1167725</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/cAn1tvopkqATQ0AfV4LK08ReAvp.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jJ00K2wKFcxWRDjChF3Vdi6y01M.jpg</fanart>
+<info>Una piloto de hidroavión que vuela en los trópicos se enamora del hombre al que han enviado para hundir su negocio.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/O2JI6EldneY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/3r2bLJlWQZhdy9V"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/61c2m9toh6m4"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/omh3vife13zs"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Suburbanos 2 [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2023</year>
+<tmdb>1034947</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/9v7znYQVo0YKMLQrU9rsaIZIVNJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8oZBNzM5D1tAUBW9nNAoMKNWYkk.jpg</fanart>
+<info>Dos años después de su roce con la muerte, Demba intenta cambiar su vida y resistir el deseo de venganza. Noumouké se involucra en peleas entre barrios rivales, y Soulaymaan, dividido entre sus convicciones y ambiciones, da sus primeros pasos como abogado. ¿Podrán los tres hermanos resistir la ola de violencia y la brutalidad de los acontecimientos que les suceden?</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/-edt-m2-y0o"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/Qb6DVvr0WmF8ZR"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/u51w3l3izjm9"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/3971kf3lijxg"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Me gustan las pelis  [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Drama</genre>
+<year>2023</year>
+<tmdb>980996</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/phb6rDzREtNXvTXuXVuAYcJBR7F.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/46jyzrXRHklPnhJFiHK3DbMBPBg.jpg</fanart>
+<info>Me gustan las pelis, es una conmovedora comedia dramática que aborda la transición a la edad adulta a través de Lawrence, un adolescente apasionado por el cine pero con dificultades sociales. La película, ambientada en 2003, sigue a Lawrence mientras persigue su sueño de trabajar en un videoclub y explorar su amor por el séptimo arte.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/godMZzeWTu0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/Q1pedJ0zaotwQm"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/v9xuzy0juwus"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/0c4i9kav8y24"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Murder Manual  [/COLOR][COLOR yellow](2020)[/COLOR]</title>
+<genre>Drama, Terror</genre>
+<year>2020</year>
+<tmdb>708362</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/nv3RI36TzoY8bn4auqRITay2xlG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bj5fm14QAZb58ZwRQfdmtDgHiMp.jpg</fanart>
+<info>Los capítulos espeluznantes y terroríficos de esta antología incluyen el viaje de una niña pequeña de un mundo de pesadillas a la pesadillezca realidad, una escapada romántica de una pareja gay en Palm Springs que se vuelve fatal, una joven cuyo viaje compartido se vuelve mortal, y una chica que es cautiva por un circo que debe ser rescatado por su esposo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/a46VGH2daSM"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/J3Z8PdR4wWIjKXY"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/kkkyy8klc5ta"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/3c2fi8orw5uw"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Sniper: G.R.I.T. - Global Response e Intelligence Team  [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Acción, Suspense</genre>
 <year>2023</year>
