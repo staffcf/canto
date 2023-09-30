@@ -5,6 +5,54 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Ajuste de cuentas [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Crimen, Drama, Suspense</genre>
+<year>2023</year>
+<tmdb>939335</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/rLu0yO1qCZnWevzofNNFfzJ30tM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/su7FqHdZez0oOvpZAbV7P6BGq0R.jpg</fanart>
+<info>El policía Jake Rosser presencia el impactante asesinato de su compañero por un misterioso asaltante. Mientras investiga la identidad del tirador, descubre una gran conspiración.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/rYY5QdEGEZw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/1OMeK6OkVgieZwj"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/mqzc81ol6nhi"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/nm4osfgacxdv"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El último objetivo [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Acción</genre>
+<year>2023</year>
+<tmdb>866346</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/bzNwXKRn8lmpS8HmQYxmT42OlGr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hBTHH97JNkgaBWEZMu7Bp8BuzBB.jpg</fanart>
+<info>Cuando Ashley (Ashley Greene) y su pequeña hija Sarah (Thalia Campbell) se ven atrapadas en una trampa que pone sus vidas en riesgo, ella recurre a la única persona que puede ayudarles: su padre separado Matt (Nicolas Cage), que actualmente vive la vida de un vagabundo retirado en la playa en las Islas Caimán.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/izGyBCRqjDM"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/3AxjoJK44lTd1Zl"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/w95einbb27we"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/2siy832xaja8"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Reptiles [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Suspense, Crimen, Drama</genre>
+<year>2023</year>
+<tmdb>866463</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/h8dQwCNtEEfeYpDA0LJDBiJ8M2e.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/233049qJfr7wzEdHFn7pLFrIoLv.jpg</fanart>
+<info>Un intrépido detective descubre una compleja red de engaños mientras indaga en la verdad que se esconde tras el brutal asesinato de una joven agente inmobiliaria.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/KS1cNkZ9o1U"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/K7v1dPePopTDkZ"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/tfywgh2ff7jb"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/2rrixdptiwdb"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Nowhere  [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Suspense, Drama</genre>
+<year>2023</year>
+<tmdb>1151534</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/rpzFxv78UvYG5yQba2soO5mMl4T.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/v4s8Ps1WjJa4GEGDxmVvhEZXLMQ.jpg</fanart>
+<info>Mía es una mujer embarazada que, junto a su marido, huye de un país totalitario escondida en un contenedor marítimo. Tras ser forzosamente separados, deberá luchar por su supervivencia cuando una violenta tormenta la arroja al mar. Sola y a la deriva en mitad del océano, Mía se enfrentará a todo para salvar la vida de su hija y reencontrarse con su pareja.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/BNG7AVHBIxA"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/Doj30mL3D3cVXR"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/8w3vnvnuv02y"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/ps18wct442fc"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El amor está en el aire  [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Romance, Comedia, Drama</genre>
 <year>2023</year>
