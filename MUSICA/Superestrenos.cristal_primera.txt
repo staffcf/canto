@@ -5,6 +5,42 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Flora y su hijo Max [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Música, Comedia, Drama</genre>
+<year>2023</year>
+<tmdb>1059811</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/tGuVSc4U2uAkMqq6tAOT912pght.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xAEXeRvMjX85WrwvmOAfvwMaIeJ.jpg</fanart>
+<info>Flora es una madre soltera que no sabe qué hacer con Max, su hijo adolescente rebelde. Mientras intenta que no se meta en líos, da con una guitarra acústica destartalada y un músico de Los Ángeles venido a menos, y esta crispada familia de Dublín encuentra así la armonía.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/4WeBUljoGgw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/AlbZgPAv39iXl3v"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/rqp7c0t6z9jf"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/g73qa38v9m2w"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Cazadores de tesoros [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Acción, Aventura</genre>
+<year>2022</year>
+<tmdb>732684</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/ztXXJMdVpOdTvIQPDB34Y86ZTpb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aBmy0ofVWJ45AeBh7F5XWROi1c2.jpg</fanart>
+<info>Durante la construcción del metro metropolitano, los trabajadores realizan un descubrimiento, lo que prueba que existe la legendaria Biblioteca de Iván el Terrible. Pero el hallazgo se olvida durante muchos años, y ya en nuestro tiempo cae en manos del desprevenido Ilya. Ahora su vida está en peligro, porque fuerzas poderosas están buscando un artefacto antiguo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/l0e1ttTe7NI"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/orz1rO2Y3pCJzwZ"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/7wiahkntrdmn"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/16juvni5cna2"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] One True Loves  [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Romance, Drama, Comedia</genre>
+<year>2023</year>
+<tmdb>846961</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/9ma189CbpwtGynmVNjxbiR0G8Y6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qOjzkDhRMvla80EJZF8xNHOPYVD.jpg</fanart>
+<info>Emma y Jesse viven una vida perfecta juntos, hasta que Jesse desaparece en un trágico accidente de helicóptero en su primer aniversario de bodas. Cuatro años después, Emma ha vuelto a encontrar la felicidad y está a punto de casarse con su mejor amiga cuando Jesse resurge, poniendo su mundo patas arriba y dejándola dividida entre dos grandes amores.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/CC_Hjbz-2Hw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/kkXxp2z3KQSOGzr"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/oeksp9bural2"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/8ggu9ub8bpt2"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Ajuste de cuentas [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Acción, Crimen, Drama, Suspense</genre>
 <year>2023</year>
