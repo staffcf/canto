@@ -2278,6 +2278,20 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 <fanart>https://www.themoviedb.org/t/p/original/kjUcLbTOtEnZh4D6tZ88RNK6dc3.jpg</fanart>
 </item>
 
+
+
+<item>
+<title>[COLOR gold]* [COLOR white]El curioso caso de Natalia Grace[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>226706</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/El.curioso.caso.de.Natalia.Grace</externallink>
+<info>Esta serie más extraña que la ficción explora la cuestión de si Natalia Barnett es una niña ucraniana explotada con enanismo o un adulto peligroso disfrazado de niña. Con entrevistas exclusivas y explosivas con miembros de la familia adoptiva de Natalia, parientes, amigos, expertos legales y vecinos, esta serie documental ofrece una visión nunca antes vista de la familia Barnett, la identidad de Natalia, el juicio de Michael Barnett en octubre de 2022, así como ideas clave. en nuevas teorías y evidencias.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/nob2INC40ytwbMnHC2bneDz9k5D.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wdZxm1K8EnW5E8yOvxXpRMPUEcq.jpg</fanart>
+</item>
+
+
+
 <item>
 <title>[COLOR gold]* [COLOR white]El Desertor[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
