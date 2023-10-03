@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] La monja II [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Terror, Misterio, Suspense</genre>
+<year>2023</year>
+<tmdb>968051</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/x0ryPlzZjpOojEAuGrre2lFuBv6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/27jtaS1oCiLK5Y7P6iOXG2yj1Nc.jpg</fanart>
+<info>1956, Francia. Un sacerdote es asesinado, un mal se extiende y la hermana Irene se enfrenta de nuevo a la fuerza malévola de Valak, la monja demonio.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Sg9hqLNyASU"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/WgQWWG730QfbzRR"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/ayd4knivr5c9"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/4otsze3agnze"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Superpadre: fobia a las alturas [/COLOR][COLOR yellow](2017)[/COLOR]</title>
+<genre>Familia, Acción, Comedia</genre>
+<year>2017</year>
+<tmdb>437627</tmdb>
+<thumbnail>https://i.imgur.com/PEfbC8r.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nC2FHH2AHtqIAS5BtaYv5HOlcrd.jpg</fanart>
+<info>Todo el mundo tiene miedo a algo. También Papá. En concreto, sufre de un terrible miedo a las alturas. Para no rechazar la última oferta de trabajo que ha recibido, relacionada con una oficina ubicada en el 27º piso de un edificio, decide viajar a Noruega y curar su fobia. Sin embargo, pronto descubrirán que sus miedos no son el único obstáculo que se interpone en su camino</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/HlCSYuwmVmU"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/ZokLR6KZYytojY"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/pctizkc0u2mp"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/gbd47nqndvpc"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Apendice [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Terror, Misterio, Suspense, Comedia, Drama</genre>
 <year>2023</year>
