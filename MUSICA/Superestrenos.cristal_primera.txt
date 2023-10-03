@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Apendice [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Terror, Misterio, Suspense, Comedia, Drama</genre>
+<year>2023</year>
+<tmdb>1081662</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/hRvo8y4UTrtcIZq71nN6W0xjaOi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/AjPThUdAMaitebSMG8JF0aBjTaE.jpg</fanart>
+<info>La vida de una joven diseñadora de moda gira en espiral a medida que sus pensamientos internos más oscuros se manifiestan en algo espantoso que no deja de crecer.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/iqowBGrKzuU"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/0AYVdxDVg4UgX6"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/rcyggw81b68a"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/evjy53jcmbz0"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Estas ahi Dios Soy yo Margarita [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Drama</genre>
+<year>2023</year>
+<tmdb>555285</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/1WlyCGbB7HhGDgPBHaTMm22zJfB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yzvExlxMNgmE6SIfFoBdGzLiqGJ.jpg</fanart>
+<info>Cuando su familia se muda de la ciudad de Nueva York a Nueva Jersey, una niña de 11 años navega por nuevos amigos, sentimientos y el comienzo de la adolescencia.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/MpaJtdaknqI"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/Y8ODvAlyPlfv9w2"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/x71uqquz4ewq"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/9602y3i1knyy"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Flora y su hijo Max [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Música, Comedia, Drama</genre>
 <year>2023</year>
