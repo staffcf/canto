@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Superpadre: Vacaciones de verano [/COLOR][COLOR yellow](2018)[/COLOR]</title>
+<genre>Familia</genre>
+<year>2018</year>
+<tmdb>film991482</tmdb>
+<thumbnail>https://i.imgur.com/zOkQKPd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dgz34U9tX5L77SYRct8YJxYugUE.jpg</fanart>
+<info>La familia danesa viaja nuevamente con destino a disfrutar de unas vacaciones bajo el sol donde esperan pasar un buen rato entre todos, además de relajarse. A los niños y al tío Anders les gustaría participar en un torneo para determinar cuál es la familia del año, pero Papá tiene claro que él no tiene nada que demostrar a nadie.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/oEwGFiryIU8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/d8KpgLv7VdTk8KP"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/bqhu1aahdtyb"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/3faaxjy5rr3k"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] La monja II [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Terror, Misterio, Suspense</genre>
 <year>2023</year>
