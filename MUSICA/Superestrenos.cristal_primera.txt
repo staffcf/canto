@@ -5,6 +5,54 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Mansión encantada [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Fantasía, Comedia</genre>
+<year>2023</year>
+<tmdb>616747</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/d5HTHGIDTX7KfNP1TGns9RAXIJi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mzlZAMjE2yk2sW3f9HTeBM3B3jw.jpg</fanart>
+<info>Una madre soltera y su hijo contratan a un grupo variopinto de supuestos expertos paranormales para ayudarlos a librarse de los "okupas sobrenaturales" que hay en su casa.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/yPhdm4Fvnj4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/oxkkr2ROA9fJqMZ"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/yxiv9uobvfc8"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/9eny6irz6sru"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Tiburón negro [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Terror, Suspense</genre>
+<year>2023</year>
+<tmdb>890771</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/5FbPvCW7N6FUIohladwFihige7B.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9t0tJXcOdWwwxmGTk112HGDaT0Q.jpg</fanart>
+<info>Las idílicas vacaciones familiares del petrolero Paul Sturges se convierten en una pesadilla cuando se encuentran con un feroz tiburón megalodón que no se detendrá ante nada para proteger su territorio. Varados y bajo constantes ataques, Paul y su familia deben encontrar la manera de llevar a su familia de vuelta a la costa con vida antes de que estalle de nuevo en esta épica batalla entre los humanos y la naturaleza.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/1FRtbDz6U1Y"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/Vm3Ga174OdSKvwx"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/yasz6jcd0sn9"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/8040iy00i0o5"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Shin Ultraman [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama, Acción, Ciencia ficción</genre>
+<year>2022</year>
+<tmdb>634429</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/9bU8K4rdRhM03tAVW0MNXTx5kFQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oDssywRwolqmDfHm3k0SrdcVzvs.jpg</fanart>
+<info>Un alienígena que busca justicia persigue a un criminal hasta un planeta llamado Tierra. Para expiar sus pecados decide ceder su poder a un humano que se convierte en un héroe llamado a proteger su mundo. Así es como nace "The Ultra Man", una reimaginación del famoso superhéroe japonés omnipresente en la TV de la década de los años 60.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/rO-_0iSjMFM"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/R9eY8jyGyvCd1ex"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/hau6daj311v9"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/tiqzz9qq8yyu"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] The Equalizer 3 [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Suspense, Crimen</genre>
+<year>2023</year>
+<tmdb>926393</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/eJKmexmCLwuxOxlAURSMnBVkfmY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/h0nmmdFAdBjQttN8Y0q825MWzZp.jpg</fanart>
+<info>Desde que renunció a su vida como asesino del gobierno, Robert McCall ha luchado para reconciliarse con las cosas horribles que ha hecho en el pasado y encuentra un extraño consuelo en hacer justicia en nombre de los oprimidos. Mientras se encuentra en su casa en el sur de Italia, descubre que sus nuevos amigos están bajo el control de los jefes del crimen local. A medida que los acontecimientos comienzan a complicarse, McCall entiende lo que tiene que hacer: convertirse en el protector de sus amigos enfrentándose a la mafia.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/_brXHhYOpIw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/b14vmlwoyjTPP6M"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/xdryq1gos08i"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/h47gt6brpol9"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://streamwish.to/s2407qpccnic"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Superpadre: Vacaciones de verano [/COLOR][COLOR yellow](2018)[/COLOR]</title>
 <genre>Familia</genre>
 <year>2018</year>
