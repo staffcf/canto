@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] The equalizer I [/COLOR][COLOR yellow](2014)[/COLOR]</title>
+<genre>Suspense, Acción, Crimen</genre>
+<year>2014</year>
+<tmdb>156022</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/6Hqn3WfEEdgQ5LW81XQiQUioD3q.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iAwp1MlH6qA9hokyVZVa33oAHgz.jpg</fanart>
+<info>Robert McCall, un antiguo agente de la CIA que lleva ahora una vida tranquila, abandona su retiro para ayudar a Teri, que está siendo explotada por la mafia rusa. A pesar de que aseguró no volver a ser violento, contemplar tanta crueldad despertará en Robert un implacable y renovado deseo de justicia.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/rlMaxFG7blg"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/KLVoy47Yg8uzyL"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/hybbvhn7stls"},{"titulo" : "[COLOR white]Newish[/COLOR]","url" : "https://streamwish.to/7odclkk4pel9"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] The Equalizer 2 [/COLOR][COLOR yellow](2018)[/COLOR]</title>
+<genre>Acción, Suspense, Crimen</genre>
+<year>2018</year>
+<tmdb>345887</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/pSqVQnUrYVNPK9EjFJrIDqFfYwv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/z6KLDE72SxE1A8JcJTmmnWArOvR.jpg</fanart>
+<info>Regresa a la gran pantalla Robert McCall, el veterano ex-agente del gobierno que decide seguir combatiendo por su cuenta contra delincuentes, secuestradores o cualquier tipo de extorsionador, por muy arriesgados que sean. Pero en esta ocasión, este justiciero va a tener que enfrentarse a un caso en el que entrarán en juego cuestiones muy personales. Y es que Susan Plummer, su compañera de la CIA, una ex-agente retirada, ha desaparecido. De esta manera, la misión hará que McCall se vea cara a cara con secuestradores y sicarios de alto nivel con los que nadie está a salvo, mientras que pone a prueba su tenacidad y habilidades ahora que alguien querido está en juego.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/IibsmbB6PXQ"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/kzP8Y8oPPQt8V8"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/dbwo5mm5hd6m"},{"titulo" : "[COLOR white]Newish[/COLOR]","url" : "https://streamwish.to/2y611tybgakg"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Mansión encantada [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Fantasía, Comedia</genre>
 <year>2023</year>
