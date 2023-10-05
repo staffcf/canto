@@ -12,7 +12,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/6Hqn3WfEEdgQ5LW81XQiQUioD3q.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/iAwp1MlH6qA9hokyVZVa33oAHgz.jpg</fanart>
 <info>Robert McCall, un antiguo agente de la CIA que lleva ahora una vida tranquila, abandona su retiro para ayudar a Teri, que está siendo explotada por la mafia rusa. A pesar de que aseguró no volver a ser violento, contemplar tanta crueldad despertará en Robert un implacable y renovado deseo de justicia.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/rlMaxFG7blg"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/KLVoy47Yg8uzyL"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/hybbvhn7stls"},{"titulo" : "[COLOR white]Newish[/COLOR]","url" : "https://streamwish.to/7odclkk4pel9"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/rlMaxFG7blg"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/KLVoy47Yg8uzyL"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/hybbvhn7stls"},{"titulo" : "[COLOR white]Newish[/COLOR]","url" : "https://streamwish.to/7odclkk4pel9"},{"titulo" : "[COLOR white]Torrent MicroHD 1080[/COLOR]","url" : "magnet:?xt=urn:btih:YDATELZD2AYTXJ3WIXXHMV74GKQDOTDT"},{"titulo" : "[COLOR white]Torrent 4K HDR[/COLOR]","url" : "magnet:?xt=urn:btih:WESGZL3BO4AA43ZOWBF3UES7YKJNK2TN"}</urlsolve>
 </item>
 
 
@@ -24,7 +24,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/4mjLlIXsoOKPjeiKsi34hAny4G1.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/oQA6phHRP4vLE0CRYMX1ArAExZ1.jpg</fanart>
 <info>Regresa a la gran pantalla Robert McCall, el veterano ex-agente del gobierno que decide seguir combatiendo por su cuenta contra delincuentes, secuestradores o cualquier tipo de extorsionador, por muy arriesgados que sean. Pero en esta ocasión, este justiciero va a tener que enfrentarse a un caso en el que entrarán en juego cuestiones muy personales. Y es que Susan Plummer, su compañera de la CIA, una ex-agente retirada, ha desaparecido. De esta manera, la misión hará que McCall se vea cara a cara con secuestradores y sicarios de alto nivel con los que nadie está a salvo, mientras que pone a prueba su tenacidad y habilidades ahora que alguien querido está en juego.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/IibsmbB6PXQ"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/kzP8Y8oPPQt8V8"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/dbwo5mm5hd6m"},{"titulo" : "[COLOR white]Newish[/COLOR]","url" : "https://streamwish.to/2y611tybgakg"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/IibsmbB6PXQ"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/kzP8Y8oPPQt8V8"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/dbwo5mm5hd6m"},{"titulo" : "[COLOR white]Newish[/COLOR]","url" : "https://streamwish.to/2y611tybgakg"},{"titulo" : "[COLOR white]Torrent BD 1080[/COLOR]","url" : "magnet:?xt=urn:btih:YKUSPXGSEKXCIX5YD53E4MU5GDI774RE"}</urlsolve>
 </item>
 
 
@@ -72,7 +72,8 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/eJKmexmCLwuxOxlAURSMnBVkfmY.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/h0nmmdFAdBjQttN8Y0q825MWzZp.jpg</fanart>
 <info>Desde que renunció a su vida como asesino del gobierno, Robert McCall ha luchado para reconciliarse con las cosas horribles que ha hecho en el pasado y encuentra un extraño consuelo en hacer justicia en nombre de los oprimidos. Mientras se encuentra en su casa en el sur de Italia, descubre que sus nuevos amigos están bajo el control de los jefes del crimen local. A medida que los acontecimientos comienzan a complicarse, McCall entiende lo que tiene que hacer: convertirse en el protector de sus amigos enfrentándose a la mafia.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/_brXHhYOpIw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/b14vmlwoyjTPP6M"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/xdryq1gos08i"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/h47gt6brpol9"},{"titulo" : "[COLOR white]Newish[/COLOR]","url" : "https://streamwish.to/s2407qpccnic"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/_brXHhYOpIw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/b14vmlwoyjTPP6M"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/xdryq1gos08i"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/h47gt6brpol9"},{"titulo" : "[COLOR white]Newish[/COLOR]","url" : "https://streamwish.to/s2407qpccnic"},{"titulo" : "[COLOR white]Torrent BD 1080[/COLOR]","url" : "magnet:?xt=urn:btih:CGXKBBCBF57CIDRMBGVA2YCVH2FEUG35"},{"titulo" : "[COLOR white]Torrent 4K HDR[/COLOR]","url" : "magnet:?xt=urn:btih:7NHZ5WXANLLQ5EOKHPR2UUILEKSLVGP3"}</urlsolve>
+</item></urlsolve>
 </item>
 
 
