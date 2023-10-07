@@ -5,6 +5,77 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Kepler Sexto B [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Ciencia ficción</genre>
+<year>2023</year>
+<tmdb>1096316</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/2AXA0txJlFdBpRwSq1YFGPdGinM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jCZnxUblsMQHRX9GHHrsodkz8fF.jpg</fanart>
+<info>Zaida vive con su padrastro en un barrio humilde, y su peculiar vecino Jonás, un viejo solitario, que pasa sus días refugiado en su mundo imaginario creyendo que su piso es una nave espacial en un planeta extraño y lejano. El casual encuentro entre ambos devendrá en una peculiar y especial relación en la que ambos se descubrirán, se ayudarán y se salvarán el uno al otro embarcándose en una surrealista y emotiva misión de rescate mutuo que les pondrá a salvo de las inclemencias de la vida.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/fpmIzcvF34M"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/QJmaXYqoqlI04ZV"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/qqfks5j9v7xx"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/ohj61vi5rjx8"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Bailarina [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Crimen, Suspense</genre>
+<year>2023</year>
+<tmdb>961268</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/qocOcMPFYQ9Y2jAKB3A4XPyD1cE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dAXSflkUKRfpzK74kRaovfK09Kx.jpg</fanart>
+<info>La obra seguirá la venganza de Ok-ju, una ex-guardaespalda, sobre Choi Pro por petición de su amiga Min-hee.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/AUjFIyYBNPg"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/AX4a93O61phX3OM"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/cw23w758jly9"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/fyfxp2skz9hy"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Gemelos pero no tanto [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2022</year>
+<tmdb>928217</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/z2qe0HTVWxSX8BkoTp1GmhqCpFg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ju9aSrgrXfWJXjZsP7lQtvlb7AJ.jpg</fanart>
+<info>33 años después de su nacimiento, dos hermanos gemelos descubren de repente la existencia del otro. Para Grégoire y Anthony, la sorpresa es aún mayor porque uno es blanco y el otro negro: había una posibilidad entre un millón de que se produjera este fenómeno genético. Pero su color de piel no es ni mucho menos lo único que les diferencia. Sin embargo, a medida que se van conociendo, ninguno de los dos tiene la impresión de que les haya tocado la lotería.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/sFL2rD8lP28"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/bRkJ7kqgMmHPYzg"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/4kwvq22ycxdr"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/2xadognjn45l"}</urlsolve>
+</item>
+
+<item>
+<title>[COLOR white] Sangrientos dieciséis [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Terror, Comedia</genre>
+<year>2023</year>
+<tmdb>974931</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/oK8XJCvxuN6BJ3dKbxyjrwDbR1M.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mJL7oy1HZ3S8ynpfG4zAuVgQHpu.jpg</fanart>
+<info>Después de que su madre es asesinada en Halloween, una adolescente rebelde viaja en el tiempo a 1987, donde debe detener al joven aspirante a asesino y volver a la línea de tiempo que le corresponde antes de quedar atrapada en el pasado para siempre.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/eVL4ghu7nBM"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/eKqRYlGvgKiY1Kq"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/n0xxu69b4e9i"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/1mp1a5ia8njp"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Una familia de superhéroes [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Animación, Familia, Fantasía</genre>
+<year>2022</year>
+<tmdb>947507</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/bAxelLxOC54s8nGJemKbwr2rTOn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/o7eWnlIgPkCbBBIYlGIiQLTvJpI.jpg</fanart>
+<info>Ni acrobática ni atlética, Hedvig es seguramente demasiado torpe para ser una superheroína. Para poder seguir los pasos de su padre, Super Lion, acepta el reto de convencer a su escéptico entorno de lo contrario.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/1JPsqpuTlAM"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/LJZ0qRd8ZrcbGk"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/fuepy3xf4xo2"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/03oc4j9m8odh"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El arte de matar  [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Crimen, Suspense, Acción</genre>
+<year>2023</year>
+<tmdb>958006</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/xnFw9YuMfuRRzKXcmyQAsI8gy3x.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/15ygrFaUjbWu9TSXWDgwpa5WE0d.jpg</fanart>
+<info>Un asesino a sueldo, su jefe, un comerciante de arte y un esquema de lavado de dinero que accidentalmente convierte al asesino en una sensación de vanguardia de la noche a la mañana, que le obliga a jugar el mundo del arte contra el inframundo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/loX6CyfYF6I"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/7da72ZBk3RtAZ6W"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/or0gnmkm6t4h"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/9qczwbi2ex36"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] The equalizer I [/COLOR][COLOR yellow](2014)[/COLOR]</title>
 <genre>Suspense, Acción, Crimen</genre>
 <year>2014</year>
