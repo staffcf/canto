@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] El gran atraco armado [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Crimen, Drama, Acción</genre>
+<year>2022</year>
+<tmdb>957992</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/di6xYVAmaPOHGHd7sj87mMefXyO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iJQqTifJ7AphIN7k7TkwJP17JCz.jpg</fanart>
+<info>Un agente de policía se infiltra en una banda de traficantes de armas del sudeste asiático. El objetivo es desarticular la organización y destruir el peligroso arsenal. Pero pronto descubrirá que tiene más enemigos de los que pensaba y tendrá que echar mano de inesperadas alianzas.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/qaQzw11phvk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/0Z8g69dLDzCblqX"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/dj0xg7q04n9e"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/ybscjxv7k7n5"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Secaderos [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2023</year>
+<tmdb>1007696</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/AuWYhFUm2Q6DsSlZuOHxDv7lGC8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nBKLrxnAsERDn3Kkz6tk1Xbn0zm.jpg</fanart>
+<info>Un pequeño pueblo rural es el paraíso de una niña de ciudad y la jaula de una adolescente local. Dos historias paralelas que transcurren entre secaderos de tabaco durante un verano teñido de realismo mágico.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/wINzhrLCjPg"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/RgjdMJozOXhJk6"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/zitpd4hs2qyj"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/yv58484j7d8b"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Kepler Sexto B [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama, Ciencia ficción</genre>
 <year>2023</year>
