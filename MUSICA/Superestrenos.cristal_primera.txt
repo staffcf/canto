@@ -5,18 +5,6 @@
 ==========================================================================================
 
 <item>
-<title>[COLOR white] Awareness [/COLOR][COLOR yellow](2023)[/COLOR]</title>
-<genre>Ciencia ficción, Misterio, Suspense, Acción</genre>
-<year>2023</year>
-<tmdb>1067820</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/original/gPSnanVAnKgycgc3SJGcutXCe9A.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/rSB4r3I5Rk7j4Amnyq1FWtpXAkZ.jpg</fanart>
-<info>Ian es un adolescente rebelde que vive con su padre al margen de la sociedad. Sobreviven a base de pequeños timos gracias a la extraordinaria habilidad de Ian para proyectar ilusiones visuales en la mente de los demás. Tras perder el control sobre sus poderes en público, dos bandos enfrentados empiezan a perseguirlo. En su huida, Ian tendrá que decidir en qué lado va a librar esa guerra en la que se ha visto obligado a participar.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/GdDtKKgANxE"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/zMA6Or9L1lTYMZQ"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/82h7oq35v7fa"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/bq7n37853g2l"}</urlsolve>
-</item>
-
-
-<item>
 <title>[COLOR white] Misión: Imposible - Sentencia mortal parte uno [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Acción, Suspense</genre>
 <year>2023</year>
