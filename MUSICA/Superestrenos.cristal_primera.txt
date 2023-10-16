@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Winnie the Pooh: Miel y Sangre [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Terror, Suspense</genre>
+<year>2023</year>
+<tmdb>980078</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/cUXqVDrHaOGEJD1clvVd7ucAHdt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jEybIB7yl3zgEdTHukaiR8b9yJp.jpg</fanart>
+<info>Christopher Robin se dirige a la universidad y ha abandonado a sus viejos amigos, Pooh y Piglet, lo que lleva al dúo a aceptar sus monstruos internos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/CDnA09G35vE"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/1WDG3lwXKlieoMZ"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/sf2ajjz7z8d7"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/oohu9t8n98s0"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Cosecha oscura [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Terror, Fantasía</genre>
 <year>2023</year>
