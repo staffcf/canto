@@ -5,6 +5,54 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Crypto Boy [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2023</year>
+<tmdb>1181538</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/ejL0MUET2LJRdEgL6JO0erxmDcZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dvvO7LGVodNfVJRrpNFUfFoWocI.jpg</fanart>
+<info>Amir intenta salvar el restaurante familiar de su padre en Ámsterdam. Cuando decide renunciar luego de una disputa familiar, comienza a trabajar para Roy, un joven y exitoso empresario de criptomonedas que lo arrastrará a su mundo con todas las consecuencias que conlleva.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ULDywlMNHPs"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/P7k73Px1gjsgMe"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/c8qquk0zrfo1"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/j1cyn04wpve1"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Por casualidad [/COLOR][COLOR yellow](2020)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2020</year>
+<tmdb>613362</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/5Vz6qJXoekRMHiqXmsuO5VALnmg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/p06k083tChivyvDpkyEhN4avQXl.jpg</fanart>
+<info>En una región que en tiempos fue el epicentro de la industria minera, dos desempleados que han luchado durante mucho tiempo, idean la construcción de un parque de diversiones en una vieja mina de carbón abandonada. En este esfuerzo por rescatar la mina y su historia, encuentran una renovada fortaleza y restauran la dignidad perdida.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/rYAIKkfCJ_U"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/BPRXpV1daLC6qb"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/8ul95wynz7x6"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/p1fzm24ud513"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Todo sobre Almodóvar [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Documental</genre>
+<year>2023</year>
+<tmdb>1132737</tmdb>
+<thumbnail>https://i.imgur.com/Zo0iGL3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zRQnrD9zovLDxO3Rwo7NWtxlNrr.jpg</fanart>
+<info>Pedro Almodóvar se ha convertido en el hombre más importante del cine español y "Todo sobre Almodóvar" nos muestra por qué.El documental sigue los pasos del cineasta desde su infancia en La Mancha, donde conocemos la estrecha relación con su madre, su viaje a Madrid en los 60 y su papel en el inicio de La movida madrileña</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "No"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/bqBvr4gGMpsd7g"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/79ly9a52yxny"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/xd5gir4txhgw"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Y el rugby cambió el mundo [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Documental</genre>
+<year>2023</year>
+<tmdb>1122553</tmdb>
+<thumbnail>https://i.imgur.com/sfXGkaS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jg1UphrKFcl2YwWyxtQHGzOipEI.jpg</fanart>
+<info>En 1995, Nelson Mandela consiguió lo que parecía imposible: unir a un país dividido que aún se tambaleaba por la sombra del apartheid. La excusa, apoyar el equipo de rugby de los Springboks, la selección de rugby de Sudáfrica, un símbolo temido hasta entonces por el régimen del apartheid. El equipo ganó en mundial y la imagen de Nelson Mandela entregando el trofeo al capitán del equipo, Pienaar, ha pasado a los anales de la historia como el momento más emblemático del rugby. </info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "No"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/pMmKPRMgDpTr9pJ"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/c55gy3wr774y"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/mo6ra8qa7qox"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Winnie the Pooh: Miel y Sangre [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Terror, Suspense</genre>
 <year>2023</year>
