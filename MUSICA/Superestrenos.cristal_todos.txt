@@ -22582,6 +22582,18 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 
 
 <item>
+<title>[COLOR white] El clan del oso cavernario [/COLOR][COLOR yellow](1986)[/COLOR]</title>
+<genre>Aventura, Drama</genre>
+<year>1986</year>
+<tmdb>13853</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/iMrfZ0A6Uekxc2G8Q9eAHflqkLs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vx8lWctKheIN0KV85lHmcPTY9wo.jpg</fanart>
+<info>Ayla, una niña cromagnon de 5 años, queda aislada de su tribu por culpa de un terremoto. Pese a ser de una estirpe más desarrollada, es acogida por un grupo de Neandertales, que basan sus razonamientos y comportamientos en las experiencias de sus antepasados. Ayla, el siguiente eslabón evolutivo, introduce el adelanto y la renovación y se convierte pronto en una niña fuerte e independiente con un desarrollado instinto de supervivencia. Sus cualidades innatas provocan conmoción y rechazo en la sociedad con la que convive, y es expulsada por el jefe del clan hacía un futuro incierto.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/vSakccTtj5A"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/08ajqc9od4jw"},{"titulo" : "[COLOR white]Newish[/COLOR]","url" : "https://streamwish.to/2zjelyfztez141qx7plgdky9"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El hombre de California [/COLOR][COLOR yellow] (1992) [COLOR aqua]*Sin valorar[/COLOR]</title>
 <genre>Comedia</genre>
 <year>1992</year>
@@ -22701,6 +22713,17 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/bYOvVLacaSo"},{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://streamtape.com/v/jZ184oZ0dpIzRmX"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/en9g6kz1hq0m6go"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://sbvideo.net/e/ngzfgz16jbec"},{"titulo" : "[COLOR white]Videoclub[/COLOR]","url" : "https://cloudvideo.tv/ntxh1vwzzk08"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/n5226wljm73t"},{"titulo" : "[COLOR white]VideoStar[/COLOR]","url" : "https://voe.sx/e/748nzve1k00q"},{"titulo" : "[COLOR white]VideoX[/COLOR]","url" : "https://www.fembed.com/v/4xrlw4uzql7646xl"}</urlsolve>
 </item>
 
+
+<item>
+<title>[COLOR white] En busca del fuego [/COLOR][COLOR yellow](1981)[/COLOR]</title>
+<genre>Aventura, Drama</genre>
+<year>1981</year>
+<tmdb>62204</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/8SzprDkpE99DZenVJBs5z6PwflA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tAAGkFcKUK8kyWzCt6HHc7Gf4QM.jpg</fanart>
+<info>Una aventura colosal que retrocede hasta el comienzo mismo de la existencia del hombre. Hace 80.000 años, cuando el hombre deambulaba por la tierra, se vio expuesto a los elementos hostiles de la naturaleza. Contra una atmósfera peligrosa, terrenos accidentados, tribus rivales y las bestias salvajes, "En busca del fuego" gira en torno a una pacífica tribu y su búsqueda por el elemento fuego y el conocimiento para crearlo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/2pcGGKtPpSE"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/1hu09f4bmmd3"},{"titulo" : "[COLOR white]Newish[/COLOR]","url" : "https://streamwish.to/2zjelyfztez1"}</urlsolve>
+</item>
 
 <item>
 <title>[COLOR white] Entre el amor y el juego [/COLOR][COLOR yellow] (1999) [COLOR aqua]*Sin valorar[/COLOR]</title>
