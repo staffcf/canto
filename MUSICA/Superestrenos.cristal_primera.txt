@@ -5,6 +5,67 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Asediado [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Western, Acción, Drama
+</genre>
+<year>2023</year>
+<tmdb>759584</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/iVVvlosgMU6aePXavihV3L3V3D6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/AceamVhUusucXemauQzXxvOnNup.jpg</fanart>
+<info>Un antiguo Soldado Búfalo, Mo Washington, viaja al Oeste para reclamar una mina de oro. Después de que su diligencia sufra una emboscada, a Mo se le encarga mantener cautivo a un peligroso forajido y debe sobrevivir al día en que la banda del bandido intenta liberarlo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/h1PcWQcsQuE"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/0RGoL7o8l6sb8r0"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/nhfkstgvf6sv"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/g4a90kvh4ydj"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] De perdidos a Río [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2023</year>
+<tmdb>932308</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/f9c4w9WQCx0UqWDRm8DO7p5WF2s.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wdkMRW2DXiDCuD70E3mCI8FOm1C.jpg</fanart>
+<info>Pedro, Kiko y David, tres amigos en sus treinta y tantos largos, viajan a Río de Janeiro para recoger el cuerpo sin vida de Mateo, su mejor amigo del instituto, quien ha muerto en extrañas circunstancias. Pero al llegar a Brasil nada es lo que parece. Mateo, "el muerto", ha huido, su casa está patas arriba y una de sus ex-novias lo busca desesperadamente</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/HfCv9rB9ZG0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/BL8L1WAQoVFyb1X"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/k08b2cul8zvj"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/c7689kkd396n"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Papás a la antigua [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2023</year>
+<tmdb>987917</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/xvLtBb9FX5TDFFTQHaOevFsmkI8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7r65JgOGZZuhqq9WAmjC3jctsQ8.jpg</fanart>
+<info>Tres amigos del alma que han sido padres un poco tarde deben vérselas con directores de guardería, CEOs millennials, y cualquier cosa creada después de 1987.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/pssk_b4rZRo"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/kkYeLveQvMCypO"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/1tpu96gg6e9g"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/i0timpollvnc"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La otra Zoey [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Romance, Drama, Comedia</genre>
+<year>2023</year>
+<tmdb>912916</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/jT00NTvMhJO2N5QSkAUfYCTIoev.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gH1jWhEBvTGbnlmliD54daePEpz.jpg</fanart>
+<info>Zoey Miller, una estudiante de último año de secundaria súper inteligente y desinteresada en el amor, tiene su vida patas arriba cuando Zack, el chico más popular de la escuela, sufre amnesia y confunde a Zoey con su novia.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/1pm64mmC_lA"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/1qQAKvyDYxceWzZ"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/cmgno8cj5jep"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/umy2uyrpt7ev"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La desconocida [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Suspense</genre>
+<year>2023</year>
+<tmdb>886544</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/t2EEPT4UBwppzi5LbjvkUemIJII.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eY1IYSsCcBLv4UzZnqnDgNxTTwt.jpg</fanart>
+<info>Carolina y Leo, que se han conocido a través de un chat, acuerdan verse en persona en un apartado parque de la ciudad.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/WGn5-UfBbXU"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/mA061rXWq8sbrK2"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/oe8plsv0cdhu"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/wl6ulis0t48c"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Crypto Boy [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama</genre>
 <year>2023</year>
