@@ -66,6 +66,30 @@
 
 
 <item>
+<title>[COLOR white] Menina Casilda [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2023</year>
+<tmdb>1193623</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/wZ0dZpc2q7t8lPfINagTlqKwpWf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cSUlm4Qtd9Wm1ANxwLst6w2iTaW.jpg</fanart>
+<info>Madrid, 2020. Durante el confinamiento Diego, un actor en paro de 35 años, secuestra a Sara, estudiante de derecho de 20, que pasaba por su calle. Su gran propósito es que ella sea su anhelado público y que al mismo tiempo le dé la réplica en un entorno de completo aislamiento.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/8_2lUC4_Vjo"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/886qrAyW46CoPmX"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/i1uuza8lhj36"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/ezxf8xjz3b5d"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Nada [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Suspense, Drama</genre>
+<year>2022</year>
+<tmdb>978006</tmdb>
+<thumbnail>https://i.imgur.com/auGe4of.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/d7BQ91cZY9NqAQZSaD9Pqu3OVec.jpg</fanart>
+<info>Pierre Anthon y sus compañeros de clase de octavo acaban de comenzar el curso cuando él declara que la vida no tiene sentido, se marcha del colegio y se encarama en lo alto de un árbol de donde se niega a bajar. Esto provoca una crisis existencial entre sus compañeros, quienes deciden reunir sus pertenencias más valiosas en un ‘montón lleno de sentido’ con el reto de convencer a Pierre Anthon de que está equivocado</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/XI70GYIRkYk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/Dom7Xark4Vfkk3x"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/4lp2unxeorq9"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/o9k6kov073gn"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Crypto Boy [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama</genre>
 <year>2023</year>
