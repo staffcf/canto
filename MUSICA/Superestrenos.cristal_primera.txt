@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Mi soledad tiene alas [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2023</year>
+<tmdb>1119355</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/zj7UYU6PZQtWh4sznRH1LKJp945.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/egLT5zBX70WvctWWnDmayB7RAOR.jpg</fanart>
+<info>En un barrio humilde a las afueras de Barcelona, Dan y sus dos amigos, Vio y Reno, viven sin pensar en el mañana, entre fiestas y dando palos a joyerías. Detrás de su apariencia de pequeño delincuente, Dan esconde un artista con talento, y una sensibilidad distinta al mundo que le rodea. La reaparición de su padre, tras salir de la cárcel, despierta los viejos demonios de Dan, sumergiéndolo en una espiral de violencia que le obliga a huir y pone a prueba la amistad entre los tres amigos</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/J8zaB-FD8Bg"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/jlygbDaAj7fzj8k"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/qdr9shvionyk"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/2j6sq8xpoth8"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] The Blackening [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Terror, Comedia</genre>
+<year>2023</year>
+<tmdb>1008392</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/t3YM1Fbh6FBhCl7ezPQlkoWB9jq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wuwMLVIY0Zqfz6uToyDmb7TYRVN.jpg</fanart>
+<info>Siete amigos negros que se van durante el fin de semana solo para encontrarse atrapados en una cabaña con un asesino que tiene una venganza. ¿Su inteligencia callejera y su conocimiento de las películas de terror les ayudarán a mantenerse con vida? Probablemente no.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/moiRCJR4ToY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/OYaWJBPy93tZOdd"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/93mgcw5d6ngj"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/liycwbqhad1d"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Asediado [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Western, Acción, Drama
 </genre>
