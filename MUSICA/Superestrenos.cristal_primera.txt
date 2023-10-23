@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Cementerio viviente: los orígenes [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Terror, Fantasía, Ciencia ficción</genre>
+<year>2023</year>
+<tmdb>830764</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/h6OOcYnuYVoaQQm3zGIYJ7XfTuo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vsrYscw6M5g1OEPxll9QTy6C9IK.jpg</fanart>
+<info>En 1969, Jud Crandall sueña con dejar atrás Ludlow, Maine, pero pronto descubre siniestros secretos enterrados en su interior y se ve obligado a enfrentarse a una oscura historia familiar que le mantendrá para siempre unido a Ludlow.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/QpipC2DudPw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/6RWqPJjPL9uop7"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/p2999z9fetk6"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/99klwkr53f20"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Ruby aventuras de una kraken adolescente [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Animación, Familia, Fantasía, Comedia</genre>
+<year>2023</year>
+<tmdb>1040148</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/kAU8CSAY5aCS91dSD5oky5TZcJU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ioCuhiUs0SW5UgembG0UiQZWPLY.jpg</fanart>
+<info>Una tímida adolescente descubre que forma parte de la legendaria realeza de los míticos Kraken, los señores del mar, y que su destino en las profundidades del océano es mucho mayor de lo que jamás había soñado.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/fORXd1iuypw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/w4Woywk9R2iJ9ar"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/p2999z9fetk6"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/3dmp1k3a62zr"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Mi soledad tiene alas [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama</genre>
 <year>2023</year>
