@@ -5,18 +5,6 @@
 ==========================================================================================
 
 <item>
-<title>[COLOR white] Código de la Ley [/COLOR][COLOR yellow](2021)[/COLOR]</title>
-<genre>Acción, Drama, Suspense</genre>
-<year>2021</year>
-<tmdb>851870</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/original/6W0e4PRWPjKX2EnhjXdSpIshKFD.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/jT5f9BYUME9XfOtS3wjF2hNmifl.jpg</fanart>
-<info>Ambientada en una América distópica donde todas las personas que no son heterosexuales, blancas, cristianas y de género cis son rastreadas por el gobierno con códigos de barras.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/B1qHMM6eCAs"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/mPMreOmOpmhbglV"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/8l2usd7dp8zv"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/2zjczn0xacve"}</urlsolve>
-</item>
-
-
-<item>
 <title>[COLOR white] Cementerio viviente: los orígenes [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Terror, Fantasía, Ciencia ficción</genre>
 <year>2023</year>
