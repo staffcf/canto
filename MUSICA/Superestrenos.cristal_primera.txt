@@ -5,6 +5,42 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] The Barn Part II [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Terror</genre>
+<year>2022</year>
+<tmdb>642781</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/jfpXnknnHbqyFoVUTMlBddtOwL2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bbZgyd9zR3yk6rEeNXyX7M8sNhi.jpg</fanart>
+<info>Se levanta la prohibición de Halloween en Helens Valley, y las chicas de la hermandad de mujeres de Gamma Tau Psi colocan a Michelle a cargo de su casa encantada anual. Desafortunadamente para Michelle, algún truco o trato no invitado de su pasado llama a la puerta...</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ZpK84i-PvyM"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/VBvpeXXYqGhKAd7"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/tredtcczupar"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/wwzo97xsyakl"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Vesper [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Ciencia ficción, Drama, Aventura</genre>
+<year>2022</year>
+<tmdb>976720</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/bo4ZsMQNDZMKIGBVDS80thiGVO2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dxihDyyA6RSAtLZog4l1MYdDqLD.jpg</fanart>
+<info>Ambientada en un futuro distópico después del colapso del ecosistema de la Tierra, Vesper, una niña de 13 años que lucha por sobrevivir con su padre paralizado, conoce a una misteriosa mujer con un secreto que obliga a Vesper a utilizar su ingenio, su fuerza y sus habilidades de bio-hackeo para luchar por la posibilidad de un futuro.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/MQ4bGd7yhKo"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/bvyKb6zl0zSP9zO"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/bpgi2e7o1xh1"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/l0033s9o2c0d"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El Primer día de mi vida [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Comedia, Fantasía</genre>
+<year>2023</year>
+<tmdb>700819</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/k8DSP2KzGvnpQgQ9CX6myBfQvCO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1tnip7Btf6SJ1nS50SVE58MHnv4.jpg</fanart>
+<info>Un hombre misterioso se presenta a cuatro personas que han tocado fondo y quieren acabar con todo para ofrecerles un trato: una semana para que vuelvan a enamorarse de la vida. Su intención es ofrecer la oportunidad de hacerles ver cómo sería el mundo sin ellos y ayudarlos a encontrar un nuevo sentido a sus vidas.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/0-KwrVIRtJc"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/DQpw2zqpm6UkJqv"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/fg0rcav98ghx"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/666qcagpx9cp"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Código de la Ley [/COLOR][COLOR yellow](2021)[/COLOR]</title>
 <genre>Acción, Drama, Suspense</genre>
 <year>2021</year>
