@@ -48,7 +48,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/nJF9Di4foHkTT4ZATNfOVbjIzmh.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/4jeW9IKxiDD0SJYYpaoSSOULqqu.jpg</fanart>
 <info>Jess, una violinista que ya no siente pasión por ello, va a Vienna para una actuación. Mientras está allí, encuentra la inspiración que había perdido.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/mocXYmxsgbU"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/Kq0PMyMpXBf0kvx"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/bah7a3oakeay"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/a9s1z7fwvf2m"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/mocXYmxsgbU"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/gvmdw680WWsq8rJ"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/bah7a3oakeay"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/a9s1z7fwvf2m"}</urlsolve>
 </item>
 
 
