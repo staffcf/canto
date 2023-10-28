@@ -5,6 +5,54 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] El negocio del dolor [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Crimen</genre>
+<year>2023</year>
+<tmdb>862968</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/32QnVNvl1XlORBW3CvWsM3byCOH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9v9r9X7nnqFhvtnj7LfjVPqjgQA.jpg</fanart>
+<info>Liza sueña con una vida mejor para ella y su hija, por lo que consigue un trabajo en una farmacia en bancarrota. La habilidad de Liza en los negocios catapulta a la compañía y a ella como profesional, sin saber que pronto estará en medio de una conspiración criminal.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/5Wr_yAe7rLM"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/rgYRVewD89CM9a"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/ebpt2la06fgt"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/maglbw5yzu5y"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Hermana muerte [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Terror</genre>
+<year>2023</year>
+<tmdb>955531</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/wOEF7NmEwcwTdbV8nsCmPk5u8VT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/61b6mswpOp5tNIWOJlpHgXGymv6.jpg</fanart>
+<info>En la España de la posguerra civil, Narcisa, una novicia, llega a un antiguo convento, reconvertido en colegio de niñas, para convertirse en maestra.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/YPAYDzu6lrY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/69exw4eDwLS92lq"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/plhtcfon1ae7"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/0gx4ftn68ko1"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Reposo absoluto [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Terror</genre>
+<year>2022</year>
+<tmdb>917007</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/zRhA7182MKOvlLhOhwlq0HWjTN4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/i4djYJAvfD5UTovCJ7Bli7cOvVl.jpg</fanart>
+<info>Tras años luchando por formar una familia, Julie Rivers (Melissa Barrera) está embarazada de nuevo y se muda a una nueva casa con su marido. Al recibir la orden del médico de guardar reposo absoluto, Julie comienza a sufrir unas aterradoras experiencias fantasmales que despertarán sus demonios del pasado y le harán preguntarse si su casa está embrujada o está todo en su cabeza.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/g7lkE91ChrY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/02o02Kw471UbjZx"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/k6cdw6g0qu9k"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/zq76crg2k0qf"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Christmas in Vienna [/COLOR][COLOR yellow](2020)[/COLOR]</title>
+<genre>Romance, Drama, Película de TV</genre>
+<year>2020</year>
+<tmdb>726523</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/nJF9Di4foHkTT4ZATNfOVbjIzmh.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4jeW9IKxiDD0SJYYpaoSSOULqqu.jpg</fanart>
+<info>Jess, una violinista que ya no siente pasión por ello, va a Vienna para una actuación. Mientras está allí, encuentra la inspiración que había perdido.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/mocXYmxsgbU"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/Kq0PMyMpXBf0kvx"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/bah7a3oakeay"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/a9s1z7fwvf2m"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] The Barn Part II [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Terror</genre>
 <year>2022</year>
