@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] LEGO Marvel Avengers: Código rojo [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Animación, Acción, Familia</genre>
+<year>2023</year>
+<tmdb>1154598</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/4ba3Kw9isyWvu6cupzUagm8ejw2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oFSQEG1lJTTISj3QKB7cJ9ANkFw.jpg</fanart>
+<info>En un multiverso amenazado por el enigmático Fantasma Rojo, los LEGO Vengadores se unen a sus homólogos para detener el caos de la realidad.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/wdZAvdMwZhs"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/pYPmXJPWkYUr2Vr"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/4i6jx5ea6ud2"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/o69j6ly4mrgy"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El negocio del dolor [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama, Crimen</genre>
 <year>2023</year>
