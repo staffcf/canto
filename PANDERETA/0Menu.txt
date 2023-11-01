@@ -5814,6 +5814,16 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Memento mori[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>234921</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Memento.mori</externallink>
+<info>Cuando el cadáver de una joven con los párpados amputados aparece en Valladolid, el inspector Sancho presagia una cadena de homicidios y, con el apoyo de Carapocha, uno de los mayores expertos en asesinos en serie, sigue el rastro de cadáveres que Augusto, un sociópata de gustos refinados, va dejando por la ciudad. Pronto descubren que se encuentran ante un asesino que comete crímenes con banda sonora y firma los cuerpos de sus víctimas con poemas. Lo que no sabe Sancho es que la persecución se convertirá en un duelo muy personal.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/ubJLcy2JjU0g2AIYPcpAgChgGQo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/evdNyKIaz7VQNMaoooLrwzUb5aJ.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Memorias De Una Escritora[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <tmdb>210009</tmdb>
