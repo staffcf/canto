@@ -5,6 +5,42 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Fuga [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Suspense</genre>
+<year>2023</year>
+<tmdb>926680</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/5qnfp2ylcdIuFWvJDzWrgmnFJwn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vml21gWkiM2BXADaINTbOqrJ14X.jpg</fanart>
+<info>Habiendo tomado el control de una prisión de máxima seguridad, un cerebro criminal se enfrenta a un agente retirado de Black Ops que había estado visitando a su hijo encarcelado.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/JhJ7yo6yPOo"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/mLza9KeVmdsb9MA"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/o9diz3jjo1yx"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/4l0ea7cbn7rn"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La Patrulla Canina: La superpelícula [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Animación, Familia, Acción, Ciencia ficción</genre>
+<year>2023</year>
+<tmdb>893723</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/uwkqb5ZiS7jhQH5gwtkiTdd54w6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zgQQF04u3OgNBJqClRNby1FPz9s.jpg</fanart>
+<info>Cuando un meteorito mágico se estrella en Ciudad Aventura, los cachorros de la Patrulla Canina consiguen unos superpoderes que los transforman en ¡Los PODEROSOS CACHORROS! Para Skye, la más pequeña del equipo, sus nuevos poderes son un sueño hecho realidad.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ocakemeGalc"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/Z374o1GK2PTKgX"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/dsnzoziso392"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/iskj9a6oyr4n"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Misterio en Venecia [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Misterio, Suspense, Crimen</genre>
+<year>2023</year>
+<tmdb>945729</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/kWz6Aa2chxcNUgAQNooYS4yyLkC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pUTpUOMnFn7zmANje5jkFTmYNn9.jpg</fanart>
+<info>En la Venecia posterior a la Segunda Guerra Mundial, Poirot, ahora retirado y viviendo en su propio exilio, asiste a regañadientes a una sesión de espiritismo, cuando uno de los invitados es asesinado, por lo que depende del ex detective descubrir una vez más al asesino.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/kDGpcy91RQs"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/RyJ9M3okPqIXeJ"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/m4twk3x3z2kz"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/3mzyxpujbx73"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] LEGO Marvel Avengers: Código rojo [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Animación, Acción, Familia</genre>
 <year>2023</year>
