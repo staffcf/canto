@@ -5,6 +5,54 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Encierro [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Suspense</genre>
+<year>2023</year>
+<tmdb>1064024</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/mIuQioqs28F6VjPzblUMVGMm8bB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sBY1M68pNdR30EXJnP9s5V104cF.jpg</fanart>
+<info>Un thriller romántico que enfrenta a Lina, recién casada e infeliz, con su suegra Katherine, una mujer rica e insensible. Un lío amoroso desencadena un triángulo amoroso, un asesinato y un plan para acabar con Lina. Pero ¿quién es la verdadera víctima y en quién puede confiar Lina?</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Af0Cy3gvG8Y"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/xmqa07ap6JhkYya"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/x4rl70r3rru5"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/lasnr30jfkwc"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La posesión de Agnes [/COLOR][COLOR yellow](2021)[/COLOR]</title>
+<genre>Terror</genre>
+<year>2021</year>
+<tmdb>804755</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/d6ZjUt2rigreV0ENiEXTTOFTkUD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uwKZJpsSKvM76TSazEZfUAr6ukY.jpg</fanart>
+<info>Rumores de posesión demoniaca en un convento religioso irrumpen en una investigación eclesiástica de los tejemanejes entre las monjas. Un sacerdote y un novicio se enfrentan con la tención, el derramamiento de sangre y una crisis de fe.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/AUBWBWs0x3g"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/drM1pPLxqdh1qY"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/m8kfyd3kvjhg"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/xisf964yes0c"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Ladronas [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Comedia, Drama</genre>
+<year>2023</year>
+<tmdb>1010928</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/tPGflpgJo2PXG3txUaxInjm5RMD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9TNJvSIbK7s6jNKFZYvZcUM8rBM.jpg</fanart>
+<info>Carole y Alex son amigas, guapas, implacables... y expertas ladronas. Cansadas de su vida de fugitivas, reclutan a la peleona Sam para que las ayude con un último golpe, muy diferente a todos los anteriores. Lo que no saben es que nada va a salir según lo previsto.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/R3ht25yDOTQ"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/VXZoKZ6O4WIK68q"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/6vpw64qb77d4"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/w8yb6guaeuau"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Nuovo Olimpo [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Romance, Drama</genre>
+<year>2023</year>
+<tmdb>1044648</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/3nx8pSvAARYOLlZ2MNBlH7vW9jv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yiPw1LVmIX9wueNY5oZNFac9tDz.jpg</fanart>
+<info>Dos hombres de 25 años se conocen por casualidad, se enamoran perdidamente y luego se separan debido a un evento inesperado. Durante los siguientes treinta años persiguen la esperanza de volver a encontrarse.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/bS_yl6I2mcc"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/WZdZqRaoxKUb6Le"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/cisrq0ufp4gq"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/yuuldxvp621f"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Fuga [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Acción, Suspense</genre>
 <year>2023</year>
