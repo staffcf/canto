@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Esto va a doler [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Romance, Ciencia ficción, Drama, Comedia</genre>
+<year>2023</year>
+<tmdb>790459</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/95Llwyv1uEH37naeRavP61eRmRc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wsMuEaqX5Sks209lnjWEChCdv3C.jpg</fanart>
+<info>¿Cómo puedes estar seguro de haber encontrado el amor verdadero? Imagina una prueba que pudiera zanjar esta pregunta para siempre, comparando las uñas de cada persona. ¿Querrías saber el resultado? ¿Lo aceptarías?</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/hn8BeGSkDgs"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/D0GVAyJd7xckoev"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/f5vtrkyq1qm5"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/8h59ex6qtr85"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Alerta maxima [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Acción, Drama, Suspense</genre>
 <year>2022</year>
