@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] El origen del mal [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Suspense, Drama</genre>
+<year>2022</year>
+<tmdb>786977</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/oYqv3CDZqcv05iQkvQ3kRCgWctX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/d7qW5E34zPs9j0ni9ZMhINdNSkr.jpg</fanart>
+<info>Los celos y la amargura rompen a la familia de Stéphane, quien se inventa una vida completamente diferente para impresionar al hombre rico y las mujeres a su alrededor, que la socavan.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/G7Q9qqmwGvs"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/W183yrpJXLibOvz"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/y621quok1mjj"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/holxhbwu0zzi"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Shooting Stars  [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2023</year>
+<tmdb>970284</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/xlB8pQBfg3L1hCU7HceNWZMNRtP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/duhnbC9DwLGU7SQ8slnjsvPQMLi.jpg</fanart>
+<info>La inspiradora historia de origen de un superhéroe del baloncesto, que revela cómo LeBron James y sus amigos de la infancia se convierten en el equipo de secundaria número 1 del país, lanzando la impresionante carrera de James como cuatro veces campeón de la NBA, dos veces medallista de oro olímpico y el mejor jugador de la NBA. -Tiempo máximo goleador.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/sHBW3tu-b44"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/agA7DeXwrYhx39l"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/f7sikes4t19a"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/lmdkbdrzic42"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Vacaciones de verano [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Comedia, Familia</genre>
 <year>2023</year>
