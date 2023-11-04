@@ -5,6 +5,66 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Vacaciones de verano [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Familia</genre>
+<year>2023</year>
+<tmdb>1061634</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/14SsotUuzTYKmPRxvIoFgHzwegf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yjUufutlCNvJ4jIlfb35p0mtYSl.jpg</fanart>
+<info>Dos amigos, Oscar y Félix, pierden su trabajo y se ven obligados a aceptar un trabajo temporal como animadores infantiles en un hotel de lujo. Al ser ambos divorciados, les tocan sus hijos un mes de verano y les es imposible compaginarlo con el trabajo, con lo cual deciden llevarse a los niños y ocultarlos en el hotel, escondidos en la zona de empleados... pero el plan resulta ser un desastre.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/BazwUxmme04"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/RmeQRQDVpXTL8Z"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/fv6phhm58502"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/gwhuypw8poq3"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La batalla del dragon [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Historia, Drama, Bélica</genre>
+<year>2022</year>
+<tmdb>588108</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uEHsMy4GjgVaUMQ74H9ofQpYobT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ghycxyGDKvlOcVhRNvPoXDmCjYV.jpg</fanart>
+<info>Precuela de 'Roaring Currents' centrada en la batalla de Hansando, la cual, en el marco de la invasiones japonesas a Corea, enfrentó el 14 de agosto de 1592 a la flota japonesa al mando del almirante Wakizaka Yasuharu y a la flota coreana al mando del almirante Yi Sun Sin.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Ad6QjSKPcOQ"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/r8gAmdwJm6ibWQd"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/3stchmijgxxs"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/zcisd2lsc2d8"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Baby Assassins: 2 Babies [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Drama, Crimen, Comedia</genre>
+<year>2023</year>
+<tmdb>1077600</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/3oal7Yw2ZiwBOYLbIjh3M8ZNS85.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tSxhlTDo3JmKYBessaL18CGS00f.jpg</fanart>
+<info>Vuelven las asesinas más famosas de Japón. Una comedia de esas que ha arrasado en su país, en gran parte gracias a su hipnótico ritmo desenfrenado, sus fantásticas peleas y dos protagonistas de lo más carismáticas. Un auténtico torrente de energía. Chisato y Mahiro, dos jóvenes asesinas a sueldo, fueron expulsadas de la organización por quebrantar las normas. Mientras buscan un nuevo empleo para poder ganarse la vida, se verán convertidas en el objetivo de dos asesinos que les persiguen.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Ojjs1HkeqiI"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/kD1reeLg73CO4o4"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/dh7mchbh1c18"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/7t986o05ug7g"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Corrective Measures  Fuga de Prisión [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Ciencia ficción, Acción, Suspense, Aventura</genre>
+<year>2022</year>
+<tmdb>872177</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/553Eo5C0tjEHViYzqFjObxpjiAA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8Tr79lfoCkOYRg8SYwWit4OoQLi.jpg</fanart>
+<info>Ubicado en la penitenciaría de máxima seguridad más peligrosa del mundo, hogar de los criminales más traicioneros, las tensiones entre los reclusos y el personal aumentan, lo que lleva a la anarquía que envuelve la prisión y el orden se trastorna.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/uT052ZLxaRY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/d87r0VxZ9Muk8Wo"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/8o54qjnx1zze"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/iwcu1bc1mmze"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Las Maggie Moore [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Crimen, Misterio</genre>
+<year>2023</year>
+<tmdb>800089</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/5Uos457Qe5OeZOnPdEst1PmHYZ0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nGgzpXeBHf7IaSfV2UzqJzAzoG0.jpg</fanart>
+<info>En un polvoriento pueblo del desierto donde nunca pasa nada, un jefe de policía se enfrenta de repente a los asesinatos consecutivos de dos mujeres con el mismo nombre.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/QdteVAA9aRA"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/Q2mW9qwGAyCk2R"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/xbkao23kpbxs"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/bekgfwnepikh"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Esto va a doler [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Romance, Ciencia ficción, Drama, Comedia</genre>
 <year>2023</year>
