@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Malditos amigos [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Comedia, Terror</genre>
+<year>2022</year>
+<tmdb>1031206</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zKxK1rZ0y3k6SQfRotq0jLMzz2Q.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qSfeV3QAvBEuB4CnxhLaeblfaio.jpg</fanart>
+<info>Cuatro amigos treintañeros que se conocen desde la infancia despiertan en Halloween después de una noche de borrachera y se dan cuenta de que un juego de predicciones en el que participaron en 2002 comienza a hacerse realidad de una manera hilarante y, al mismo tiempo, inquietante. A medida que las predicciones se hacen realidad, su vida da un giro sorprendente y cómico.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/gZU9Cbj4DhE"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/kzkKAVwZMjtO1al"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/mamyudoglstr"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/aki4er4xg4dy"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] La ex en la puerta de al lado [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Suspense, Película de TV</genre>
 <year>2019</year>
