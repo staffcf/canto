@@ -5,6 +5,54 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Donde tu estes [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama, Bélica, Música, Romance</genre>
+<year>2022</year>
+<tmdb>604176</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cDm7cj8orAKP0htWbJcye1KR2Q1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4tQwNnpBCnyZgymJsPR2mhkUgTc.jpg</fanart>
+<info>Este drama romántico, dirigido por Martha Coolidge, narra la conmovedora historia de Robert y Rachel, una pareja de jóvenes enamorados cuyos sueños de actuar en el Carnegie Hall se ven truncados por la invasión alemana de Polonia en 1939. A pesar de las diferencias religiosas y la oposición de sus familias, su amor se mantiene firme incluso cuando Rachel es llevada por los nazis. Robert, decidido a reencontrarse con ella, se embarca en una valiente misión para salvarla. Con un elenco estelar y basada en historias reales de amor interrumpido por la guerra, la película rinde homenaje a aquellos que arriesgaron sus vidas en la Resistencia, todo por amor.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/z9IuwUadVLs"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/0RYzjjkb9wTb89w"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/nakyp6za8bzv"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/22jwk7fm16gz"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La princesa cisne mucho mas que para siempre [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Animación, Familia, Aventura</genre>
+<year>2023</year>
+<tmdb>1175959</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3oKpJtSHtigndM1rsbEY60eer1L.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eesx37T8UDuTKIRvmdGvGIKKcp3.jpg</fanart>
+<info>Decididos a descubrir la verdad sobre su difunto padre, el rey Derek y la reina Odettese embarcan en una aventura épica. Como nuevos miembros del Concejo de Coronas, Derek y Odette empiezan a averiguar lo que verdaderamente pasó. Pero cuando alguien intenta acabar con sus vidas, deciden hacerse pasar por los Barrymore, unos famosos magos itinerantes.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/UV6yud75suE"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/LdKZDXMVZLFRB8k"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/m7rvfok2jg3y"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/mclev9efpbfv"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La ira de Becky [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Acción, Terror, Suspense</genre>
+<year>2023</year>
+<tmdb>/986070</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3LShl6EwqptKIVq6NWOZ0FbZHEe.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gSY6fWePFgrDbjlTo214U6TMwPL.jpg</fanart>
+<info>Dos años después de escapar de un ataque violento contra su familia, Becky, de 16 años, intenta reconstruir su vida al cuidado de una mujer mayor, un espíritu afín llamado Elena. Sin embargo, cuando un grupo violento conocido como los Hombres Nobles irrumpe en su casa, los ataca y se lleva a su amado perro, Becky debe volver a sus viejas costumbres para protegerse a sí misma y a sus seres queridos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Q-RnvQACrH0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/v9XkjjjBD2s4RVP"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/c1if8jm8duax"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/qewpsrxtk4kb"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El templo [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Suspense, Comedia, Drama</genre>
+<year>2023</year>
+<tmdb>870518</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Af6SQL9PMz2scTivtC9WT41oI4o.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hZ5r3hrbQ9uqXBxto1VpixOfqvj.jpg</fanart>
+<info>El heredero de un imperio hotelero (Christopher Abbott) y la dominatrix que lo ha preparado para el éxito (Margaret Qualley) se enfrentan en una habitación de hotel mientras él intenta terminar su relación.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/SZjTAFc97js"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/yAmPbwVwlJu18zP"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/kwyhe2tx2585"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/lt2x3se3olrc"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Malditos amigos [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Comedia, Terror</genre>
 <year>2022</year>
