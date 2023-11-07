@@ -4,17 +4,6 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 ==========================================================================================
 
-item
-title[COLOR white] Caza en la noche [COLOR][COLOR yellow](2022)[COLOR]title
-genreSuspense, Accióngenre
-year2019year
-tmdb605368tmdb
-thumbnailhttpswww.themoviedb.orgtpw600_and_h900_bestv2shi9Fdv2noZXOkGZLjqMBSfbGVW.jpgthumbnail
-fanarthttpswww.themoviedb.orgtporiginalbMQZo6PibSNwURlThjzO4h4do6m.jpgfanart
-infoGoro, un autor intelectual criminal, conspira para robar un enorme alijo de oro de la familia Rossini. Sin el conocimiento de Goro y sus soldados de la fortuna, uno de los invitados de Rossini es un agente extranjero altamente capacitado que lucha no solo por salvar a los rehenes y el oro, sino a su familia en peligro.info
-urlsolve{titulo  [COLOR red]Trailer[COLOR],url  httpsyoutu.behXgt0AYD4bI},{titulo  [COLOR white]VideoStream[COLOR],url  httpsstreamtape.comvrrP1ZDJrxXCbqY7},{titulo  [COLOR white]Lion[COLOR],url  httpsfilelions.tof6iy19ftkj93x},{titulo  [COLOR white]Wolf[COLOR],url  httpswolfstream.tvdfr39jl7e6bu}urlsolve
-item
-
 
 <item>
 <title>[COLOR white] Allelujah [/COLOR][COLOR yellow](2022)[/COLOR]</title>
