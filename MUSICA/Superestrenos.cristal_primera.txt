@@ -4,6 +4,30 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 ==========================================================================================
 
+item
+title[COLOR white] Caza en la noche [COLOR][COLOR yellow](2022)[COLOR]title
+genreSuspense, Accióngenre
+year2019year
+tmdb605368tmdb
+thumbnailhttpswww.themoviedb.orgtpw600_and_h900_bestv2shi9Fdv2noZXOkGZLjqMBSfbGVW.jpgthumbnail
+fanarthttpswww.themoviedb.orgtporiginalbMQZo6PibSNwURlThjzO4h4do6m.jpgfanart
+infoGoro, un autor intelectual criminal, conspira para robar un enorme alijo de oro de la familia Rossini. Sin el conocimiento de Goro y sus soldados de la fortuna, uno de los invitados de Rossini es un agente extranjero altamente capacitado que lucha no solo por salvar a los rehenes y el oro, sino a su familia en peligro.info
+urlsolve{titulo  [COLOR red]Trailer[COLOR],url  httpsyoutu.behXgt0AYD4bI},{titulo  [COLOR white]VideoStream[COLOR],url  httpsstreamtape.comvrrP1ZDJrxXCbqY7},{titulo  [COLOR white]Lion[COLOR],url  httpsfilelions.tof6iy19ftkj93x},{titulo  [COLOR white]Wolf[COLOR],url  httpswolfstream.tvdfr39jl7e6bu}urlsolve
+item
+
+
+<item>
+<title>[COLOR white] Allelujah [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2023</year>
+<tmdb>894201</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lwW55nvF6BPVVeHDqbWHJXKCDZK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/z9dCuKKn6hfWMAeSdA6fOFRLP92.jpg</fanart>
+<info>Un hospital de Yorkshire se enfrenta el cierre de su unidad para ancianos debido a recortes de presupuesto. En un intento de salvarla, invitan a un equipo de noticias para mostrar su valiosa labor. El drama se intensifica con la llegada de Colin, cuyo rol puede ser decisivo. Con un reparto estelar incluyendo a Judi Dench y Derek Jacobi, esta película, que debutó en Toronto 2022, ofrece una mirada crítica a los desafíos del sistema de salud y un tributo al incansable personal médico.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/KGektpTIYqo"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/gqmzQmzgMvIqW41"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/l8hs494tx65h"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/4n0m8ye527n7"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Donde tu estes [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Drama, Bélica, Música, Romance</genre>
