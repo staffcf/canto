@@ -5,6 +5,42 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Oppenheimer [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama, Historia</genre>
+<year>2023</year>
+<tmdb>872585</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ncKCQVXgk4BcQV6XbvesgZ2zLvZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg</fanart>
+<info>Película sobre el físico J. Robert Oppenheimer y su papel como desarrollador de la bomba atómica. Basada en el libro 'American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer' de Kai Bird y Martin J. Sherwin.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/JpUd4BS7yI0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/yjeb71g1QPU1Alp"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/t7daorrigcd6"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/qd1tx0ie1lsf"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Todas somos Jane [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama, Historia</genre>
+<year>2022</year>
+<tmdb>579496</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hXm5yZO67InzxS9FPfulmxfPrCE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4AT2EM0wOkDB6kuClleU6ElIHyl.jpg</fanart>
+<info>Chicago, 1968. Joy, una ama de casa, lleva una vida normal con su marido y su hija, mientras la ciudad y la nación están al borde de una violenta agitación política. Pero cuando se queda embarazada sin desearlo y con un riesgo mortal para su salud, nadie está dispuesta a ayudarle en una época en la que legalmente no puede abortar. Su viaje para encontrar una solución a su situación le lleva hasta una organización clandestina de mujeres, liderada por Virginia, que le brindará una alternativa más segura y le cambiará la vida.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Z7knl8K6QXE"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/QWlQaq6b9Jf0MGm"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/d9onf097sk0e"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/ke49xj2b10tn"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Umma [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Terror, Misterio</genre>
+<year>2022</year>
+<tmdb>751237</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/moLnqJmZ00i2opS0bzCVcaGC0iI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dhFa9SB0YUd7l6SZW1gK94sJTuz.jpg</fanart>
+<info>Amanda y su hija viven una vida tranquila en una granja estadounidense, pero cuando los restos de su madre separada llegan de Corea, Amanda se ve atormentada por el miedo de convertirse en su propia madre.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/QQdXvvtu-iI"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/Pb71ROaw4kh0qm8"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/to69aelm5ep5"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/ldo7uqp6bxo1"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Caza en la noche [/COLOR][COLOR yellow](2019)[/COLOR]</title>
 <genre>Suspense, Acción</genre>
 <year>2019</year>
