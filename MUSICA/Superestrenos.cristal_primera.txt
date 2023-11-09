@@ -5,7 +5,7 @@
 ==========================================================================================
 
 <item>
-<title>[COLOR white] Oppenheimer [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<title>[COLOR white] Oppenheimer [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama, Historia</genre>
 <year>2023</year>
 <tmdb>872585</tmdb>
@@ -53,7 +53,7 @@
 
 
 <item>
-<title>[COLOR white] Allelujah [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<title>[COLOR white] Allelujah [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama</genre>
 <year>2023</year>
 <tmdb>894201</tmdb>
@@ -77,7 +77,7 @@
 
 
 <item>
-<title>[COLOR white] La princesa cisne mucho mas que para siempre [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<title>[COLOR white] La princesa cisne mucho mas que para siempre [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Animación, Familia, Aventura</genre>
 <year>2023</year>
 <tmdb>1175959</tmdb>
@@ -89,7 +89,7 @@
 
 
 <item>
-<title>[COLOR white] La ira de Becky [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<title>[COLOR white] La ira de Becky [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Acción, Terror, Suspense</genre>
 <year>2023</year>
 <tmdb>/986070</tmdb>
@@ -101,7 +101,7 @@
 
 
 <item>
-<title>[COLOR white] El templo [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<title>[COLOR white] El templo [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Suspense, Comedia, Drama</genre>
 <year>2023</year>
 <tmdb>870518</tmdb>
@@ -125,7 +125,7 @@
 
 
 <item>
-<title>[COLOR white] La ex en la puerta de al lado [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<title>[COLOR white] La ex en la puerta de al lado [/COLOR][COLOR yellow](2019)[/COLOR]</title>
 <genre>Suspense, Película de TV</genre>
 <year>2019</year>
 <tmdb>/585728</tmdb>
@@ -137,7 +137,7 @@
 
 
 <item>
-<title>[COLOR white] Nyad [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<title>[COLOR white] Nyad [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama, Historia</genre>
 <year>2023</year>
 <tmdb>/895549</tmdb>
@@ -187,7 +187,7 @@
 <item>
 <title>[COLOR white] La batalla del dragon [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Acción, Historia, Drama, Bélica</genre>
-<year>2022</year>
+<year>2023</year>
 <tmdb>588108</tmdb>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uEHsMy4GjgVaUMQ74H9ofQpYobT.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ghycxyGDKvlOcVhRNvPoXDmCjYV.jpg</fanart>
