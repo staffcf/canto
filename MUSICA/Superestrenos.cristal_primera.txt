@@ -9,7 +9,7 @@
 <genre>Crimen, Suspense</genre>
 <year>2023</year>
 <tmdb>800158</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jcQBZhO1ZYKyQTELLS3UI41uytt.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/rUV9FvLHqm50jnbf30kwiFpzFmM.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/mRmRE4RknbL7qKALWQDz64hWKPa.jpg</fanart>
 <info>Después de un fatídico error, un asesino se enfrenta a sus jefes —y a sí mismo— en una persecución internacional de castigo, según él, no es nada personal.</info>
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/iVau-K3q8cM"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/oL3YXQepRKFJzzA"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/zb6lg108g81v"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/8d7xi34j5amc"}</urlsolve>
