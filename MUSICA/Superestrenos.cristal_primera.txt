@@ -5,6 +5,42 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] The Baker [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Drama, Crimen, Suspense</genre>
+<year>2023</year>
+<tmdb>823395</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d7APW2AfqUxIkEXZWllaWQRYixD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/usKCKmo1UcVsz0t3NNbkPXCmyk1.jpg</fanart>
+<info>Un viejo panadero se ve obligado a pasar de contrabando una barra de pan gigante llena de droga para salvar la vida de su hijo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/G_R8scO_HEE"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/1B0qxPM6wdIrq6"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/qlhoknbzfp7b"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/jbv8s0g0tsgz"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Sabotaje [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Crimen, Drama, Suspense</genre>
+<year>2022</year>
+<tmdb>1008048</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Uo4Fu0Tw78bkPvVUv7Bh3jpBcf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2QUrL1jVuTe2eRuyDmHlLwDdAM1.jpg</fanart>
+<info>Un grupo de jóvenes activistas medioambientales ejecuta una atrevida misión para sabotear un oleoducto.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/qd2HazQqn54"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/el0aR8xlVXCmoP"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/d9lnsk7tg1b1"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/1ren9oo7733v"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La heredera de la mafia [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Acción, Crimen</genre>
+<year>2023</year>
+<tmdb>809787</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2za7Cbo2DuZfW8RuXSZNYMtdUJN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gGZxCy9keK0D6TxbmS8GJj85Ut4.jpg</fanart>
+<info>Una mujer estadounidense de los suburbios que hereda el imperio mafioso de su abuelo, y guiada por el consigliere de confianza de la Firma, desafía las expectativas de todos, incluida la suya propia, como la nueva jefa del negocio familiar.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/w5I1crREl7s"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/vw0xprr296haGD"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/lokk8vzchp8a"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/d6hmn7a1bb2x"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Oppenheimer [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama, Historia</genre>
 <year>2023</year>
