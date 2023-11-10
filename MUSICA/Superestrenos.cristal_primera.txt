@@ -60,7 +60,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ncKCQVXgk4BcQV6XbvesgZ2zLvZ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg</fanart>
 <info>Película sobre el físico J. Robert Oppenheimer y su papel como desarrollador de la bomba atómica. Basada en el libro 'American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer' de Kai Bird y Martin J. Sherwin.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/JpUd4BS7yI0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/yjeb71g1QPU1Alp"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/t7daorrigcd6"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/qd1tx0ie1lsf"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/JpUd4BS7yI0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/yjeb71g1QPU1Alp"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/t7daorrigcd6"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/qd1tx0ie1lsf"},{"titulo" : "[COLOR white]Torrent BD1080[/COLOR]","url" : "magnet:?xt=urn:btih:NSSU6GSWF7LP3XFNTGV4YPTWFNN3YIAY"}</urlsolve>
 </item>
 
 
