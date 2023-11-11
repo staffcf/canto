@@ -5493,6 +5493,16 @@ La periodista Alice Avril, el comisario Swan Laurence y su secretaria, Marlène 
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Luz en la oscuridad[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>237185</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Luz.en.la.oscuridad</externallink>
+<info>Luz en la oscuridad, de Carles Porta es un paso más en el género que aúna la experiencia de Carles Porta y su respeto por las víctimas y los implicados en los casos con una narración elegante y sutil y un rodaje y montaje muy cuidados. El título de la serie es el concepto narrativo y formal que dirige los capítulos: poner luz en las partes oscuras de nuestra sociedad con el relato de crímenes que han sucedido en los últimos años en España.</info>
+<thumbnail>https://i.imgur.com/A3E4mTe.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ap8d5prkMqZFq84bOVz697opTQe.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]MacGyver [COLOR gold]Retroserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>67133</tmdb>
