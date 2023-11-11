@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Te estoy amando locamente [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Comedia</genre>
+<year>2023</year>
+<tmdb>1045862</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uDx3YfFDEAZfK8wMZ1MzvXsnywF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ugumtmCskSzOTDEUGRwhYoNepL1.jpg</fanart>
+<info>Sevilla, 1977. En un momento en el que la homosexualidad es delito, Reme, una madre tradicional movida por el amor de su hijo, un adolescente aspirante a artista, se involucrará en el movimiento LGTBI andaluz, gestado paradójicamente en el seno de la Iglesia.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/AUwLouz9rBI"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/adjWqa19KZcz9B"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/h73vuptps18f"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/4ztw7x97utp3"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El club de las peleadoras [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Comedia</genre>
 <year>2023</year>
