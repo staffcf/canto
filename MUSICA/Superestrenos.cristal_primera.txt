@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Tiroteo en Río Bravo [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Western, Acción</genre>
+<year>2023</year>
+<tmdb>835767</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/92hYmHw1XpMEF7yZUzjOzcO4zmC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/x7x6NT1JcdqxK8GlAWFhm3mzHnV.jpg</fanart>
+<info>Un misterioso pistolero ruso ayuda a un marshal y a un sheriff en un enfrentamiento con un grupo de bandidos sedientos de sangre conocidos como "Los perros del infierno" que ha invadido su pequeña ciudad del este de Texas.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/9hA-PyfOZ4E"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/Ba0o2qzOQquyOoq"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/tsrpc4klpc3k"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/vyjka6yitv9v"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Down Low [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Comedia</genre>
 <year>2023</year>
