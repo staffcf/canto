@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Los alienígenas han abducido a mis padres [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Ciencia ficción</genre>
+<year>2023</year>
+<tmdb>1058622</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/5rZed6NP0ZdmvU2UNeLqMddwAKu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1WdXgirrdtzNZ7RMsVJZldNuELO.jpg</fanart>
+<info>Itsy es nueva en la ciudad y su vida parece haber terminado hasta que conoce a su vecino Calvin, obsesionado con el espacio, quien cree que sus padres fueron abducidos por aliens. Itsy, aspirante a periodista, decide escribir una exposición sobre Calvin, pero termina descubriendo mucho más.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/rCB2q-BufKw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/XyzPpZqz0XsDaqg"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/higyhkq493de"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/56ihuzwdfuc7"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] The Nine Kittens of Christmas [/COLOR][COLOR yellow](2021)[/COLOR]</title>
+<genre>Película de TV, Comedia, Romance</genre>
+<year>2021</year>
+<tmdb>876119</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/gGI5PXdfgwvj3S7J9hLE6Acsfy6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dNrcjDW9ZVWZKm6Nx6oPoV6IkSZ.jpg</fanart>
+<info>Zachary y Marilee vuelven a estar juntos en Navidad cuando tienen la tarea de encontrar un hogar para una camada de adorables gatitos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/svwZE0qpTUs"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/DXzO1Ye7lWikJJq"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/8rprc087o573"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/91ysm3qz0pnk"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Única superviviente [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Aventura, Suspense, Drama</genre>
 <year>2022</year>
