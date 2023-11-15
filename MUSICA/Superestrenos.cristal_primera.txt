@@ -5,6 +5,54 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Única superviviente [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Aventura, Suspense, Drama</genre>
+<year>2022</year>
+<tmdb>610363</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/gTzw1ENuMx8bZpmKekIcdFdXwjq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xTLSA6areOJIf4dDNdhjOjiz68V.jpg</fanart>
+<info>El 24 de agosto de 1981, los recién casados Larisa y Vladimir Savitsky subieron a bordo del avión siguiendo el vuelo Komsomolsk-on-Amur - Blagoveshchensk. 30 minutos antes del aterrizaje, la aeronave civil AN-24 colisionó con otra aeronave y se partió en pedazos a una altura de más de 5 kilómetros sobre el suelo. Se suponía que nadie sobreviviría... pero sucedió un milagro. Larisa Savitskaya se despertó en medio de los restos del avión en la impenetrable taiga. Ahora ella misma tiene que crear un verdadero milagro, que solo una persona de mente fuerte es capaz de hacer.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/St8qI6Qw6vI"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/O63x3Zy4rqfklG"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/kla19i8onugt"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] The Creator [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Ciencia ficción, Acción, Suspense</genre>
+<year>2023</year>
+<tmdb>670292</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vBZ0qvaRxqEhZwl6LWmruJqWE8Z.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kjQBrc00fB2RjHZB3PGR4w9ibpz.jpg</fanart>
+<info>En medio de una guerra futura entre la raza humana y las fuerzas de la inteligencia artificial, Joshua, un duro exagente de las fuerzas especiales que llora la desaparición de su esposa es reclutado para cazar y matar al Creador, el escurridizo arquitecto de la IA avanzada que ha desarrollado una misteriosa arma con el poder de acabar con la guerra... y con la propia humanidad.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Cws_5o2hN-Y"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/reZMaZzVzvSbBoZ"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/kr0hz37an81e"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/elqqzqulw198"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Hay que amar la Navidad [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Película de TV, Comedia, Romance, Fantasía</genre>
+<year>2022</year>
+<tmdb>971511</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j2yAC24xNIHMCxnoVY6YeKOoJcC.jpg</thumbnail>
+<fanart>>https://www.themoviedb.org/t/p/original/lmQIK3l0qLhm7WihCBAu3IoGlpY.jpg</fanart>
+<info>Una renombrada novelista, famosa por sus libros navideños, se encuentra atrapada por una nevada en la encantadora ciudad de Cranberry Falls, donde se ve envuelta en un inesperado triángulo amoroso con su 'crush' de la infancia y un reportero decidido a entrevistarla.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/NAhxyGnuKak"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/26wkmj8BQjuZygz"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/nghpx94u6n1p"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/aopgsk2xsqrd"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Esta Navidad [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Comedia, Drama, Romance, Película de TV</genre>
+<year>2022</year>
+<tmdb>1029208</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xCbmauk51911Sd5aSkDCYivhwDy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/g9qUF1N8D7oTJOAUYmHPBqLRCyx.jpg</fanart>
+<info>Comedia romántica ambientada en Londres durante la temporada navideña, que sigue a Adam y Emma en su viaje diario desde el pueblo de Langton a Londres, donde se encuentran con los mismos pasajeros todos los días.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/fFNteX1Jefo"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/MyZe3Aw2XXUmRdv"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/52ua37j197c5"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/8vh2ej75u6i4"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Tiroteo en Río Bravo [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Western, Acción</genre>
 <year>2023</year>
