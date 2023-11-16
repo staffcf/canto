@@ -23614,6 +23614,18 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 
 
 <item>
+<title>[COLOR white] Cuernos de mujer  [/COLOR][COLOR yellow] (1995) [COLOR aqua][/COLOR]</title>
+<genre>Comedia, Drama</genre>
+<year>1995</year>
+<tmdb>303451</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/xugQit49LqjxxxpwrGs0q2OrQZc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xugQit49LqjxxxpwrGs0q2OrQZc.jpg</fanart>
+<info>Ana y Miguel son un matrimonio en crisis. Cuando ella descubre que su marido tiene una amante, se plantea el divorcio como una posible solución a sus problemas, con lo que provoca el escándalo del resto de la familia. Ana no tardará en darse cuenta de que su fracaso amoroso puede verse compensado gracias a ciertos cambios en otras facetas de su vida.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/GoRxwJ7atls"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/24fs4b7gdodd"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamwish.to/lxt4gmdrruz0"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Creando el terror [/COLOR][COLOR yellow] (1982) [COLOR aqua]*4.5[/COLOR]</title>
 <genre>Terror</genre>
 <year>2022</year>
