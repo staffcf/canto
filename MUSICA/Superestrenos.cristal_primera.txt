@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Cuando la Navidad era joven [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Película de TV, Comedia, Romance</genre>
+<year>2022</year>
+<tmdb>/962367</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6Fdku46UeJnny4xZK8E1sTVMBRe.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aLQaD37x6gNq9w6IlAnlTFva2Lj.jpg</fanart>
+<info>Un testarudo director musical busca desesperadamente una canción exitosa, pero en su búsqueda se enamora de una talentosa cantautora que abandonó sus sueños de triunfar.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/d_HpNppeigE"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/w4Rm3X4gw7hJMMJ"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/9h75ou1bq53p"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/w9g6l5hy1vmp"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Los alienígenas han abducido a mis padres [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama, Ciencia ficción</genre>
 <year>2023</year>
