@@ -144,7 +144,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vBZ0qvaRxqEhZwl6LWmruJqWE8Z.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/kjQBrc00fB2RjHZB3PGR4w9ibpz.jpg</fanart>
 <info>En medio de una guerra futura entre la raza humana y las fuerzas de la inteligencia artificial, Joshua, un duro exagente de las fuerzas especiales que llora la desaparición de su esposa es reclutado para cazar y matar al Creador, el escurridizo arquitecto de la IA avanzada que ha desarrollado una misteriosa arma con el poder de acabar con la guerra... y con la propia humanidad.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Cws_5o2hN-Y"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/reZMaZzVzvSbBoZ"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/kr0hz37an81e"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/elqqzqulw198"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Cws_5o2hN-Y"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/reZMaZzVzvSbBoZ"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/fo608y43feru"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/elqqzqulw198"}</urlsolve>
 </item>
 
 
