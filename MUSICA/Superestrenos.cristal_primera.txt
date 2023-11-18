@@ -5,6 +5,78 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Believer 2 [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Crimen, Acción, Suspense</genre>
+<year>2023</year>
+<tmdb>958263</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/4jGdK14R0xW5HOIOSu0bSHyWkhi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/w85T3543n4vJjc5n72Pvvb3usBN.jpg</fanart>
+<info>Un tenaz policía prosigue su búsqueda de la verdad sobre la organización de narcotráfico más grande de Asia y su escurridizo jefe, con quien tiene asuntos pendientes.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/heJ9bMVk_rQ"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/a0X0qlkllzFxYqB"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/9yqqspfwuzvn"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/ng3yldalu4zv"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Escuadrón de élite 2 [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Suspense, Crimen, Drama</genre>
+<year>2023</year>
+<tmdb>1020394</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/ylmE9JO6SXxLtQkKlVvw1fJK2Og.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/h42QB5PVlncMps34BoBdYRmAPzW.jpg</fanart>
+<info>Antigua leyenda de la brigada Antigang conocida por sus métodos musculosos y poco convencionales, Niels Cartier abandonó la policía tras un robo que salió mal y que condujo a la muerte de su esposa. Cuando la banda de ladrones responsable de su muerte reaparece ocho años después, Niels no deja que nadie se interponga en su camino para vengarse. Incluso si tiene que formar un dúo explosivo con su hija de 14 años que tiene un temperamento fuerte.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/qUF3l_t4kc4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/pl2MadZOgQCRkO"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/2hy5jnec6kiu"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/kdnew06i0lkm"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Menuda Nochebuena  [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Familia, Fantasía</genre>
+<year>2023</year>
+<tmdb>1001884</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/AnfXxsoLBS6JDpu65vHsEvEcWSA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sAyhFm3fHisfMMvp41tkY6uGnvp.jpg</fanart>
+<info>Un trabajador social divorciado del departamento de policía de Atlanta desprecia la Navidad debido a un recuerdo doloroso de su infancia. Cuando recibe una llamada mientras pasa Nochebuena con su hija sin darse cuenta provoca la ira de un político local, pero conoce a un hombre que le ayuda a comprender la alegría y la magia de la Navidad.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/DbOmSUSmISM"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/dpemVOx6vYHG4o"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/9yqqspfwuzvn"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/ng3yldalu4zv"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Te esperaré en Venus [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Romance, Drama</genre>
+<year>2023</year>
+<tmdb>1122932</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/r94waWYiNhXoAuCEWBCf2XEEegx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6CxEegrocrTGOj17hQVGHK5aase.jpg</fanart>
+<info>Una joven huérfana de 18 años que se está muriendo quiere viajar a Europa para localizar a su madre biológica, así que cuando conoce a un joven bonachón que sufre la culpa de un accidente mortal, le convence para que la acompañe en el viaje.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/8l3vQ7cyqeYergr36GgkMcYWQX"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/ergr36GgkMcYWQX"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/hz0lwt0e49sn"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/1w4mgor8ynmj"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Rustin [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Historia</genre>
+<year>2023</year>
+<tmdb>898713</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/lCawCmTJhKT7c2ZOzLBTXDIR8JS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kMHXV06LfwREymiaTHAVvCXziD6.jpg</fanart>
+<info>Bayard Rustin, artífice de la trascendental marcha de Washington de 1963, es uno de los activistas y estrategas más notables de la historia. Siempre desafiante, Rustin nunca pidió perdón por ser como era, por sus creencias ni por su orientación sexual. Jamás dio un paso atrás. Hizo historia... y su recompensa fue caer en el olvido</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/4lBqMhZ3NBg"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/vW1Xx8raDyt4vD4"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/j6vlqoxtg529"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/t5imjwlkotf9"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Nuevos ricos [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Romance</genre>
+<year>2023</year>
+<tmdb>1034940</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/cQvINIqpk81Ax0QCcQXxjGD7Dgv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8xbzHIQ83MqysP89ET5QSwQZMBs.jpg</fanart>
+<info>Un estafador sin un duro y una mujer con una fortuna en criptomonedas congenian al instante. ¿Será ella la solución a todos sus problemas o va a ser el timador timado?</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/iI9uncLO5wI"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/RmXQkm9zq1UdOrx"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/o1iyffs2ru5r"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/ononjfb74mh2"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Rally Road Racers [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Animación, Familia, Comedia</genre>
 <year>2023</year>
