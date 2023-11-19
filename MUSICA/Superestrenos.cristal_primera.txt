@@ -5,6 +5,42 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Mi nombre es Alfred Hitchcock [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Documental</genre>
+<year>2023</year>
+<tmdb>1014255</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/a0CVZY2rnizymFWRIAsbayNysZJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5Zaxci2yw6uN11m5CRmZsbWiXDf.jpg</fanart>
+<info>Celebrando un siglo desde el primer largometraje de Alfred Hitchcock, este documental dirigido por Mark Cousins ofrece una mirada única a la vida y obra del icónico cineasta británico. A través de la propia voz de Hitchcock, el film explora su extensa filmografía y su legado, revelando cómo capturó la imaginación del público con obras maestras como La ventana indiscreta, Vértigo y Psicosis.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/caw8Kpk4EBg"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/2BvX9kQk7YSZMeB"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/erezhtj36p48"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/3z1fkhxfufdi"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] The Vinland Club [/COLOR][COLOR yellow](2020)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2020</year>
+<tmdb>633946</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tcVQj496IcZGfQNCKpiFFhDFvck.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sRLkkFiQRNVj6Btk23AGaI0ql4.jpg</fanart>
+<info>Ambientado en 1949, este relato sigue al hermano Jean, un maestro innovador y entusiasta de la arqueología, en su misión educativa y exploratoria con sus alumnos. Convencido de la existencia de un asentamiento vikingo en las inmediaciones, decide emprender excavaciones con ellos, embarcándose en una aventura didáctica y descubriendo juntos los tesoros ocultos del pasado. Este viaje no solo busca confirmar teorías históricas, sino también inspirar a una nueva generación a través del aprendizaje práctico y la curiosidad insaciable.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ob_HU3BvEkY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/0LyVYYew0vub9LZ"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/mqwldakzw68e"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/hqf89evwvrer"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Los oceanos son los verdaderos continentes [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2023</year>
+<tmdb>1157027</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/orIykopEkRSAQuCjsCHuFKlhxdu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uhvMD8pLYNRBGAciwnCaowzGiWy.jpg</fanart>
+<info>Milagros sobrevive vendiendo conos de maní en la calle y pasa sus días escuchando radio y leyendo cartas antiguas. Frank y Alain, dos mejores amigos de nueve años, van a la escuela y sueñan con emigrar a Estados Unidos para convertirse en jugadores de béisbol.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/l3ZtcKjq7iA"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/lGQoglMrZqi7Lo9"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/ix3b8w6z0vq1"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/2zu31jnyis64"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Believer 2 [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Crimen, Acción, Suspense</genre>
 <year>2023</year>
