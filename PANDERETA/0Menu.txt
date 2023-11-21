@@ -1006,16 +1006,6 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
-<title>[COLOR gold]* [COLOR white]Cafe Con Aroma De Mujer[COLOR white][/COLOR]</title>  
-<link>cristalazul</link>
-<tmdb>124124</tmdb>
-<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Cafe.con.aroma.de.mujer</externallink>
-<info>Como todos los años, Gaviota y su mamá llegan a la Hacienda Casablanca a recoger el café de la segunda cosecha del año, pero este octubre tienen esperanza de que sea el último, pues a partir de ahora serán dueñas de su propia tierra. Sin embargo, el destino tiene otros planes.</info>
-<thumbnail>https://www.themoviedb.org/t/p/original/ztyJqTdS7RApGgl6ZXmFdGZX3g0.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/nlor5UKEkOuARd6YcltbeVyOgUz.jpg</fanart>
-</item>
-
-<item>
 <title>[COLOR gold]* [COLOR white]Caida En Picado:El Caso Contra Boeing  [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>913862</tmdb>
