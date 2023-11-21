@@ -23504,6 +23504,18 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 
 
 <item>
+<title>[COLOR white] Black Mirror Bandersnatch [/COLOR][COLOR yellow](2018)[/COLOR]</title>
+<genre>Ciencia ficción, Misterio, Drama, Suspense</genre>
+<year>2018</year>
+<tmdb>569547</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/fR0VZ0VE598zl1lrYf7IfBqEwQ2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ar2kmIjWZ0RdL76BlQR48R4H61e.jpg</fanart>
+<info>En 1984, un joven programador intenta adaptar una caótica novela de fantasía a un vídeojuego. Un desafío alucinante que le llevará a cuestionarse la realidad que le rodea. Película interactiva de "Black Mirror", dirigida por David Slade ("Hard Candy"), en la que el espectador puede tomar decisiones que cambian el rumbo de la historia, entre más de cinco finales posibles y 300 minutos filmados en total. También existe la opción de ver la película sin tomar ninguna decisión, lo que da como resultado un film de 90 minutos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/S85BBpp4liA"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/ealAvPRppKTJ99"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/s3hj8t1zrbcn"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/9cok2xlr9u4u"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Boruto: Naruto La Pelicula [/COLOR][COLOR yellow](2015)[/COLOR]</title>
 <genre>Animación, Acción, Comedia</genre>
 <year>2015</year>
