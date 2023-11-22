@@ -5,6 +5,54 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] El cuco [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Suspense</genre>
+<year>2023</year>
+<tmdb>1064801</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nwfdi6uyXltOdN5IcxyxH0ul0tq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3iIBd5WkoeYYQgY7hNdVE9nvbeG.jpg</fanart>
+<info>Dos parejas, Marc y Anna, de España, y Hans y Olga, de Alemania, intercambian sus casas por vacaciones.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/c0MMg51x4xY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/PvrVPDllegsGzr"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/l4lmndmsyxkr"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/xe1m4kpsx4x6"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Leo [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Animación, Comedia, Familia</genre>
+<year>2023</year>
+<tmdb>1075794</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pD6sL4vntUOXHmuvJPPZAgvyfd9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9PqD3wSIjntyJDBzMNuxuKHwpUD.jpg</fanart>
+<info>Leo (Sandler) es un lagarto de 74 años que lleva atrapado en el mismo aula de Florida durante décadas con su compañera de terrario, una tortuga (Bill Burr). Cuando se entera de que solo le queda un año de vida, Leo planea escapar para experimentar la vida en el exterior, pero entonces comienzan sus problemas.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/yloj4ldVLGI"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/A4rm82zWDkcX6Yz"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/pov6cvmgivm8"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/5zw7m2z5lvma"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] The End of Sex [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Romance, Drama</genre>
+<year>2023</year>
+<tmdb>933092</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6shiIHV2XjDK5yErHhoeMphwpwP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wUTZ1AshyogpQoub0iHLRbtgFyD.jpg</fanart>
+<info>Josh y Emma enfrentan una crisis matrimonial tras enviar a sus hijas a un campamento. Dedicados a la crianza y sus carreras, han descuidado su vida sexual. La serie sigue sus intentos por reavivar la pasión, experimentando con drogas, tríos, fantasías sexuales y un club de intercambio de parejas. ¿Podrán estas experiencias salvar su relación o solo añadirán más conflictos y complicaciones?</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/DKrSFZuwops"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/MjRGOVPMa4sD8X"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/w9wwcxxfozwr"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/ucknrohfstlk"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Tripped Up [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2023</year>
+<tmdb>1180799</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k0TjTcPfifQXjpTbE7cueD4XFas.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7HvYBEvfUByYowhnPK27NOUjJNF.jpg</fanart>
+<info>La aspirante a chef Lizzy parte con sus tres mejores amigas para competir en el prestigioso Saucy Food Festival. Lo que comienza como un cambio profesional calculado rápidamente se convierte en una alocada desventura llena de comida, diversión y vínculos femeninos, donde las chicas aprenden que la lucha puede ser el ingrediente secreto del éxito.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/MoEDlWZO62o"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/mw2G8lbkDxCb3Bd"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/h8mhz96sjh8l"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Mi nombre es Alfred Hitchcock [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Documental</genre>
 <year>2023</year>
