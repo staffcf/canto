@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Come Out Fighting [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Bélica, Drama, Acción</genre>
+<year>2023</year>
+<tmdb>1047925</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/y8WYFxKgT5q3TRIfD7uAcoZHCwv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cdEVfwkVwFeL9LuTlGHTfezso8C.jpg</fanart>
+<info>A fines de 1944, durante la Segunda Guerra Mundial, el ejército estadounidense se abre camino a través del campo en la frontera de Francia entrando en la Alemania nazi. Hitler, desesperado por cambiar el rumbo, ha desplegado su arma secreta: un avión de combate M-262. El teniente Frank Ross, un piloto de combate P-51 Mustang, se encuentra con el arma nazi y se produce una intensa batalla aérea.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/FD9JlpJ_f7o"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/WgwBGgmlmXT0Aj"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/mpbhx5g4ftiq"},{"titulo" : "[COLOR white]Guard[/COLOR]","url" : "https://vgembed.com/v/04rQxWX79AEb2N1"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El cuco [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama, Suspense</genre>
 <year>2023</year>
