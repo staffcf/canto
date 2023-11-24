@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] El colegio de los animales mágicos [/COLOR][COLOR yellow](2021)[/COLOR]</title>
+<genre>Familia, Aventura, Fantasía</genre>
+<year>2021</year>
+<tmdb>793937</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/fHk3RoiSa2ntgltpn8ixKboPml0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1100JRh1VbDkGiKBciy3lSuLxX7.jpg</fanart>
+<info>Ida es nueva en la ciudad y le cuesta mucho hacer amigos. Un día, su extraña maestra de clase, la señorita Cornfield, anuncia que todos en la clase pronto tendrán un animal mágico que los acompañará. Ida escoge al zorro Rabbat. Benni, al igual que Ida también una forastera, escoge a la tortuga Henrietta como nueva compañera. Pero esos animales son algo muy especial: no solo tienen habilidades mágicas, también pueden hablar y desarrollar su propio carácter</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/WcidVROdWRY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/p7KM073K1MUryvm"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/94d0f8lb0dsi"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://vgembed.com/v/4bQVOjBVZoOwKmZ"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El colegio de los animales mágicos 2: El origen [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Familia, Aventura</genre>
+<year>2023</year>
+<tmdb>926946</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/1JDimECaoNDvW12wNY2FIuTPUhp.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wjF1z8rzOoNKbuldzd65e8yvdvI.jpg</fanart>
+<info>Los alumnos de la escuela de animales mágicos quieren realizar un musical por el aniversario de la escuela. Ida está muy feliz porque se le permite dirigirla. Pero los ensayos resultan ser más que difíciles. Sobre todo, porque Helene asume el papel principal</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/xDdniGMwFpE"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/41LVK4g639TKbZY"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/bm5mh161e6tn"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://vgembed.com/v/JzkPxz2NBAxbydB"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El conejo de terciopelo [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre></genre>
 <year>2023</year>
