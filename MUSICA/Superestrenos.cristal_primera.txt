@@ -5,6 +5,54 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] El elfo de la Navidad [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Familia, Comedia, Fantasía, Aventura</genre>
+<year>2023</year>
+<tmdb>938030</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vABed5SpGx6jgE3oHZYqNVsu6v4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/x4Ld4EYIjimkbuiKEJajUHKkT0F.jpg</fanart>
+<info>Trip es un elfo poco convencional. Como ayudante de Papá Noel, parece tener éxito solo en la construcción de armas extrañas en lugar de juguetes. El destino lo llevará a conocer a Elia, un chico tímido y poco convencional perseguido por una pandilla de matones. Los dos se ayudarán mutuamente y juntos descubrirán el valor de la amistad.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/XcYqFiHCSPE"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/7meYQJZM3kCojr"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/pybl4ilvjyce"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/68notehoq9t7"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El fantástico caso del Golem [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2023</year>
+<tmdb>1053596</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mDzxa5zQFdPab2IORqmG3s04Mkj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nSZaZWCJEnNmBHWXxWbFhSqHW5F.jpg</fanart>
+<info>Tras una noche de fiesta, David se precipita borracho desde una terraza ante la impotente mirada de su amigo Juan. El cuerpo de David impacta contra el capó de un coche desintegrándose en mil pedazos. Como nadie parece escandalizarse, Juan se propone descubrir qué ha pasado. Y así, se ve inmerso en un laberinto de incongruencias y pianos que caen del cielo...</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/36HZpK2610s"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/v9rwMxB2vjF4O1w"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/y5wgty2tod10"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/7zoq7ybiwt9e"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Holy Shit! [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Terror, Comedia, Suspense</genre>
+<year>2022</year>
+<tmdb>955532</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gTbaGcKJgpiBpcnIDG2dvhOBBjg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qaOlSE080cIF4CffpP1d4Vhpq6e.jpg</fanart>
+<info>Frank, arquitecto, despierta después de quedar inconsciente en un Policlean. Y, de ahí, la situación solo puede empeorar: para no ser volado durante la inminente demolición del edificio en el que se encuentra, Frank deberá salir de su tumba azul en una hora. Una carrera contra el tiempo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/6adh7VWhwkw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/m6mYyvVoa9Ib80X"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/tdkf3maoazyq"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/029r8qixmy7e"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Última llamada para Estambul [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Romance, Drama</genre>
+<year>2023</year>
+<tmdb>1044302</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8tnCuXBvz4efWDg4J2VkLnu5Ymd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/voHnZL3CY9bVNKIyksbOsn50nNi.jpg</fanart>
+<info>Tras un encuentro fortuito en el aeropuerto, dos personas casadas viven una noche inolvidable llena de emoción, deseo y tentaciones en Nueva York.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/KlQo-S7TZ3I"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/1p8D6wgA3OCevDO"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/l87h4ov7l41l"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/xyrccsblppwx"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El colegio de los animales mágicos [/COLOR][COLOR yellow](2021)[/COLOR]</title>
 <genre>Familia, Aventura, Fantasía</genre>
 <year>2021</year>
