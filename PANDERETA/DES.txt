@@ -21,7 +21,7 @@ from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
 import six
 TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
-url = 'https://pastebin.com/raw/gt9AzwxJ'
+url = 'https://pastebin.com/raw/SFMybhFa'
 titulo = 'DES'
 import base64, codecs
 
