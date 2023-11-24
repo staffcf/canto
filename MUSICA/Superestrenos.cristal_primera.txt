@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] El conejo de terciopelo [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre></genre>
+<year>2023</year>
+<tmdb>1186957</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sp9gKDSWOpAiyoWLBddgqfilgQl.jpg</thumbnail>
+<fanart></fanart>
+<info>Animación, Familia, Fantasía</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/G5jKSEJ8jbA"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/8zGdab2dgjfogVB"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/3cflvtovhhd5"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/sly3sndnpzok"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] No tengas miedo [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Terror</genre>
+<year>2023</year>
+<tmdb>709631</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o0ndJZaa9ZFFfpnl1IejajXv0II.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wIBPA3n3oMeLso570U6Mpvtxncg.jpg</fanart>
+<info>Un chico que escucha voces en su cabeza decide desatarlas sobre sus padres abusivos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/GrEi7ZbVbDU"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/WpG3jyvyPqhbl4D"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/k6gocoos34g2"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/kq1wlqs12dgz"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Come Out Fighting [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Bélica, Drama, Acción</genre>
 <year>2023</year>
