@@ -5,6 +5,66 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Christmas Au Pair [/COLOR][COLOR yellow](2021)[/COLOR]</title>
+<genre>Película de TV, Comedia, Romance, Familia</genre>
+<year>2021</year>
+<tmdb>838184</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f3hKZBbf7K5tCqsgWKs5sk1r8Cz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6ntd6GgMgL4pV6HbAzrU0WWDytY.jpg</fanart>
+<info>Kaley, una joven Au Pair, se encuentra incapaz de regresar a casa para las vacaciones cuando una tormenta de nieve descarrila sus planes. A pesar de su propia decepción, está decidida a enseñar a las niñas que observa, junto a su encantador tío, la magia de la Navidad. ¿Conducirá esta serie de eventos a una Navidad perfecta?</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/DbHRiHXGYdk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/goPJO98YxbIq7z7"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/6rwr6pusqig4"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/jsdg8r2x3eh7"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Destino Navidad [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Película de TV, Comedia, Romance</genre>
+<year>2022</year>
+<tmdb>1003487</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t9Up191jgPpr54wy5rEZLJs8RBz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dDvLYNG6f6x7creDLe2TBNHc57i.jpg</fanart>
+<info>Emma Warner se siente como si viviera la Navidad todo el año. Como vicepresidenta sénior de una empresa de juguetes, ha tenido un gran año con el juguete más exitoso de la temporada, pero está agotada. Todo lo que quiere son unas vacaciones fuera de vacaciones con chicos guapos y una playa. Su asistente le reserva un vuelo a St. Johns, pero termina en el avión equivocado y aterriza en St. Johns, Alaska, una ciudad que hace todo lo posible por Navidad. El héroe de las fiestas locales, Connor, está atrapado lidiando con Emma, a quien considera una scrooge hasta que los recuerdos navideños de su infancia la descongelan en esta ciudad y en Connor.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/AsKibp1qoeI"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/6QX8amWom3TOxr"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/spaou2zes0h6"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/gvcwrms7zp17"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Fixing Up Christmas [/COLOR][COLOR yellow](2021)[/COLOR]</title>
+<genre>Película de TV, Comedia, Romance, Familia</genre>
+<year>2021</year>
+<tmdb>849452</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bbN3YUUl2SjJpzijkqhLJJTQJvg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dyte7jpJEPJNP4nXQ3jgoSfGmbo.jpg</fanart>
+<info>Conocido como un "reparador" para clientes difíciles, un talentoso planificador de fiestas debe ayudar a un joven CEO a planificar la fiesta de Navidad del año para deslumbrar al alcalde y salvar su empresa. ¿El "reparador" arreglará algo más que la empresa?</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/_XqaImtQz4w"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/6QBBGeLWqBCO0y"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/l89w6kcut4pz"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/w4ubk21ctxe8"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Planes, Trains and Christmas Trees [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Película de TV, Comedia, Romance, Familia</genre>
+<year>2022</year>
+<tmdb>988428</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qcVbLZdXyavLsHmw9Lmnh4uHAan.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eHm6u7QLedWj6PDMe1b317sAfbR.jpg</fanart>
+<info>Durante un viaje de negocios, la planificadora de eventos Kayley y el agente deportivo Brett se encuentran con que no pueden volar a casa por Navidad debido a una tormenta de nieve. Decididos a regresar a Nueva York para la víspera de Navidad, los dos se unen y tratan de hacer su propio camino a casa.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/TVwxpvvxH0s"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/lwjOdKeyl1I7gZl"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/umdh9mbdqrls"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/bakjlubxdma9"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] The Picture of Christmas [/COLOR][COLOR yellow](2021)[/COLOR]</title>
+<genre>Película de TV, Comedia, Familia, Romance</genre>
+<year>2021</year>
+<tmdb>854146</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mwXIvpHvvgOQ6wVIOaEATrykg7Q.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4pTGrSF5BWY1lMjOg4tgKaGBuC9.jpg</fanart>
+<info>Ember Morley, una diseñadora gráfica y aspirante a ilustradora de libros de cuentos en Manhattan, se sorprende cuando se entera de que ha heredado la granja de árboles de Navidad de su abuela. Ella regresa a su ciudad natal de Willow Hill para venderlo antes de Navidad, pero la encantadora gente del pueblo la convence de quedarse un poco más y ayudar a planificar su Festival anual del Árbol de Navidad. Cuando se ve obligada a trabajar con Brandon Hart, el apuesto cuidador de la granja, Ember recuerda las cosas que una vez quiso en la vida.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/P18Tk_tOz8A"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/vxq3BbmMy7C43zV"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/57s3tx3yu7hy"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/vgwv3483paga"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El elfo de la Navidad [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Familia, Comedia, Fantasía, Aventura</genre>
 <year>2023</year>
