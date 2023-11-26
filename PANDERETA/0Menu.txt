@@ -1036,6 +1036,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Camilo Superstar[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>231377</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Camilo.Superstar</externallink>
+<info>Camilo Sesto decide adaptar, en plena dictadura franquista, Jesucristo Superstar, musical moderno, transgresor y con un éxito internacional que revoluciona España y hace historia. Pero no estará solo en esta gesta. Contará con otros idealistas que, como él, sintieron el impulso de arriesgar y traer a este país la ópera rock más revolucionaria del momento. Los cuatro mosqueteros de esta odisea se enfrentarán a todo tipo de obstáculos.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/a0Pc2HdqkWOe57Hv9HcrbbupHOd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gLYMe9xnTFjrr5I3hvubaTOf7sU.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Caminantes[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>105849</tmdb>
