@@ -5,6 +5,53 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] No Name and Dynamite [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Western</genre>
+<year>2022</year>
+<tmdb>709334</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7MVENxKbO925bTm6IUb4xtZ65NZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9NDiFyiMYcQHFGYZIKtL6w3JoAl.jpg</fanart>
+<info>No Name and Dynamite es el cariñoso homenaje del director Errol Sacks al Spaghetti Western. Dynamite Davenport (Rich Ting) y su compañero No Name (Chris Northup) son cazarrecompensas en el Viejo Oeste americano. Se cruzan con la tripulación de Black Jack Bennett (Vernon Wells). Sobreviene la violencia…</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/uuzyLvINfOw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/kkDp9Z9oDDSO4WY"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/i7rbvyharvv4"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/vkrjn9xs5kqw"}</urlsolve>
+</item>
+
+
+<title>[COLOR white] Galaxy Games [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Fantasia</genre>
+<year>2022</year>
+<tmdb>995906</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8aoIMYZUu8DRrJFkDvz13rehSFL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8aoIMYZUu8DRrJFkDvz13rehSFL.jpg</fanart>
+<info>Un grupo de jóvenes son enviados a un planeta lejano para competir en los prestigiosos juegos Sol Invictus. Cuando ocurre un desastre y los equipos quedan varados sin equipo ni comunicación, deben trabajar juntos para sobrevivir el tiempo suficiente para ser rescatados.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/6xdZ-tgD3vg"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/0WoJgOPqOaubd6l"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/ihu3efrochi4"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/jinhraoddfx2"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] A Tale of Two Guns [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Western</genre>
+<year>2022</year>
+<tmdb>940175</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kT3Zy7kOQERHnpEHT1wMwXEpJsk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/LfUXJQOhBa0cfQsGnYwuSUaHId.jpg</fanart>
+<info>En el anárquico Oeste, The Cowboys, una notoria hermandad de asesinos y ladrones, reinaba sobre la tierra con puños brutales y armas rápidas. El destino finalmente los alcanzó y ahora la pandilla despiadada solo tiene un miembro sobreviviente. Cuando un pistolero delegado acepta la llamada para cazar al último vaquero, la persecución comienza y las balas vuelan, y solo uno de estos hombres endurecidos puede sobrevivir.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/kHRcwrWPJ_c"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/jj33gjxd4JIzzQy"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/jfgcj6p5zd70"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/j7k4p6s0pvhc"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Beta Test [/COLOR][COLOR yellow](2016)[/COLOR]</title>
+<genre>Suspense, Acción, Ciencia ficción</genre>
+<year>2016</year>
+<tmdb>401123</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zKisJfMxpp0KfX4P3VyDrH0edg6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rG2jdLdj4U55MgI3g9f85w2th1y.jpg</fanart>
+<info>Mientras prueba el último shooter de primera persona del desarrollador global de juegos, Sentinel, el campeón de videojuegos Max Troy descubre que los eventos que ocurren dentro del juego se están reflejando en el mundo real. Pronto determina que el protagonista del juego es la vida real Orson Creed, un empleado ex-Sentinel que está siendo controlado remotamente por la corporación por razones desconocidas. Mientras los mundos virtuales y reales chocan, Max y Creed deben unir fuerzas para desentrañar la conspiración antes de que los siniestros eventos del juego escalen y abruman en la ciudad.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/8pxujcICULQ"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/9j6wg8V873Ta8lx"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/o7hhy0y5qawx"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/trxzxjypp8x8"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Christmas Au Pair [/COLOR][COLOR yellow](2021)[/COLOR]</title>
 <genre>Película de TV, Comedia, Romance, Familia</genre>
 <year>2021</year>
