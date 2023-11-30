@@ -5,6 +5,54 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] 2025: La purga anual [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Terror, Acción, Comedia></genre>
+<year>2022</year>
+<tmdb>972731</tmdb>
+<thumbnail>http://imgfz.com/i/zfHxEuw.jpeg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMDlkYWUzZjctZGFiNi00OTZiLWI4OGUtMWYyNzZkZDMzNGExXkEyXkFqcGdeQXVyNjIxNjI0ODc@._V1_.jpg</fanart>
+<info>El agente encubierto de EE. UU. Bill Wilson hace el busto de su carrera derribando al líder de un cartel. Ocultar la evidencia en su casa expone a su familia a un objetivo brutal en la noche de la Purga anual, la noche más mortífera del año.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/GiI-xEKM46w"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/LV6DjPq76KC7pw"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/6m3mc6vawqmg"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/qtf3bufo8j0a"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Paisaje con mano invisible [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Ciencia ficción, Comedia</genre>
+<year>2023</year>
+<tmdb>777411</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cP4gaqTeknpTFffHc9o8RwIS23z.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pUuaYiqrAchLpEaE0KwIAB1wMD8.jpg</fanart>
+<info>Adam es un artista adolescente que llega a la mayoría de edad después de una invasión alienígena. Los Vuvv, una especie extraterrestre hiperinteligente, traen una tecnología maravillosa a la Tierra, pero solo los más ricos pueden permitirse disponer de ella. El resto de la humanidad, con unos medios de vida ahora obsoletos, tienen que ganar dinero en la industria del turismo. En el caso de Adam y su incipiente interés amoroso, Chloe, eso supone transmitir en directo su cortejo para diversión de los Vuvv, que encuentra el amor humano exótico e interesante. Cuando el plan de Adam y Chloe fracasa, Adam y su madre tienen que encontrar la salida a una burocracia alienígena cada vez más aterradora.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/gdUfxRPJVsQ"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/k0jBA7VkZdsOvqZ"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/c05v82b5lzvf"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/t2yf42zmn8lk"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Chiara Lubich: El amor vence todo [/COLOR][COLOR yellow](2021)[/COLOR]</title>
+<genre>Drama, Historia</genre>
+<year>2021</year>
+<tmdb>782220</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aUHdlV52eQZpjbLOQipRuaOKDfg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uunUDu0aO4vHTVsLJgyQhw3f2Wa.jpg</fanart>
+<info>Chiara es una joven maestra que vive el horror de la II Guerra Mundial, tratando desesperadamente de encontrarle sentido a lo que está pasando. Tras el armisticio, plagada de mil dudas y mil preguntas, mientras deambula por la ciudad bombardeada, se detiene frente a una estatua de la Virgen y se da cuenta de que Dios es el único ideal que no se ha derrumbado. Por eso elige vivir concretamente el Evangelio con una sola misión: hacer que "todos sean uno".</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/yq5Zezt0bGI"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/P90QvDRRwQi0PZz"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/wt34drlf52ra"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/t4v9ldtoqboi"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Me quiere, no me quiere... [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Comedia, Romance</genre>
+<year>2022</year>
+<tmdb>862431</tmdb>
+<thumbnail>http://imgfz.com/i/khLJmiv.jpeg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5RGcDFOBuhFYsnElUtqXXqLLKDe.jpg</fanart>
+<info>Un cínico mujeriego vuelve a casa durante las vacaciones, sólo para verse enredado por la mujer que le rompió el corazón hace años.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/V-v0oedO8D4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/Pwbj1LYaMKh0av9"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/blj2vr3p7b32"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/p9466chu2ni0"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] No Name and Dynamite [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Western</genre>
 <year>2022</year>
