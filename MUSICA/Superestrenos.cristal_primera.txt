@@ -33,7 +33,7 @@
 <genre>Animación, Comedia, Familia</genre>
 <year>2023</year>
 <tmdb>1046032</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/original/hbvIhJ3i9Ube2WcZzisTDjzWLm0.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a6XHWT19yGiRdbTOoqGyg8dofpU.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pJ39ZYZQetpNXn4lSmjBoib4NZL.jpg</fanart>
 <info>Especial de Navidad de los Tipos Malos ambientado antes que los eventos de la película, y relata un plan para salvar la Navidad de esta banda de criminales... ya que esta, su fiesta favorita, es el momento ideal para atracar casas.</info>
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/av_yKbmP004"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/jr7Doy9V78I2DX"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/lfd6c2tk3j6k"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/obuqon1dz63a"}</urlsolve>
