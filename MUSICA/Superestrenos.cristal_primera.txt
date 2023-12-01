@@ -57,7 +57,7 @@
 <genre>Comedia, Fantasía, Familia</genre>
 <year>2023</year>
 <tmdb>798021</tmdb>
-<thumbnailhttps://www.themoviedb.org/t/p/w600_and_h900_bestv2/mDJiZua9gUzHRwefHhw2OaJ8HTF.jpg</thumbnail>
+<thumbnail>lhttps://www.themoviedb.org/t/p/w600_and_h900_bestv2/mDJiZua9gUzHRwefHhw2OaJ8HTF.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/j2Ye8TJcjurCZQ1R6qNNruq5xk5.jpg</fanart>
 <info>Poco antes de Navidad, el caos sacude a una familia: por una extraña conjunción cósmica, los padres intercambian sus cuerpos con los de sus hijos adolescentes.</info>
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/TEsDg5fuo5w"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/O6G9AvYQrkSZvzQ"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/s1vl4bksmb95"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/l9kj3yy510yl"}</urlsolve>
