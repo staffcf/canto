@@ -2,7 +2,16 @@
 
 <items>
 
-
+<item>
+<title>[COLOR white] El conejo de terciopelo [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre></genre>
+<year>2023</year>
+<tmdb>1186957</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sp9gKDSWOpAiyoWLBddgqfilgQl.jpg</thumbnail>
+<fanart></fanart>
+<info>Animación, Familia, Fantasía</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/G5jKSEJ8jbA"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/8zGdab2dgjfogVB"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/3cflvtovhhd5"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/sly3sndnpzok"}</urlsolve>
+</item>
 
 
 <item>
