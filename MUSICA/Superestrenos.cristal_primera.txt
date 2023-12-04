@@ -5,6 +5,42 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Escaping Paradise [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Suspense, Acción</genre>
+<year>2023</year>
+<tmdb>1146225</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/3UCTls0hVKMCwWtkTmwKcCOzlgu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3d39m2S3WynknLVGpsOxhiSKbgQ.jpg</fanart>
+<info>En esta historia, un viaje de aniversario de una joven pareja a un país extranjero se transforma en una experiencia mortal, sumergiéndolos en una trama de suspenso y peligro en un entorno desconocido.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/4eKgdbs-dA4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/MjqvMB7Pz2umJqz"},{"titulo" : "[COLOR white]Vgem[/COLOR]","url" : "https://vgembed.com/v/vQBYEb36lwOn1m8"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/v8ffsvuav1f7"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La vida de Brianeitor [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Documental</genre>
+<year>2023</year>
+<tmdb>1157090</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/mztC4I6KESqzsAFBLm9yizcscuM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aaMFhSUJGH3sAN7rgGYXSbWFzVq.jpg</fanart>
+<info>Con movilidad únicamente en dos dedos de las manos por la atrofia muscular degenerativa que padece desde que nació, Brian se ha convertido en un fenómeno mundial gracias a las redes sociales. Brianeitor2002 es el gamer y streamer del momento.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/hcETc_3s6B8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/qj142RMWDWSKVq"},{"titulo" : "[COLOR white]Vgem[/COLOR]","url" : "https://vgembed.com/v/7QWN5eGzgbE9oR0"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/9vi0px92365b"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Por un puñado de plomo [/COLOR][COLOR yellow](2018)[/COLOR]</title>
+<genre>Western, Acción</genre>
+<year>2018</year>
+<tmdb>566574</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/ci5A9TPmNajMxt1L8p4KlZ76sc9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mbYXAWxjZl7PeGbBqkEDQhJYqJP.jpg</fanart>
+<info>Cuatro de los forajidos más infames de Occidente llevan a cabo un atrevido atraco a un banco en la ciudad de la fiebre del oro, Bath Water. A medida que la pandilla persigue, las cosas empeoran, ya que los bandidos se dan cuenta de que han sido traicionados, pero ¿por quién?</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/uYY7xLjByNI"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/Qr1X6VB4ODf0aae"},{"titulo" : "[COLOR white]Vgem[/COLOR]","url" : "https://vgembed.com/v/rabVOQqeeWOKdWM"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/p85carmdsj6d"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Godland [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Drama</genre>
 <year>2022</year>
