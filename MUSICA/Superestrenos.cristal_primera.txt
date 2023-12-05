@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Alta mar [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Suspense</genre>
+<year>2023</year>
+<tmdb>1052939</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/zhWuEkivPOFhsbcpitA9RM01HRb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2UpBvMFiUD86b20Ds8VRqdNOgH1.jpg</fanart>
+<info>El viaje de tres parejas a bordo de un yate de lujo pasará de ser una experiencia emocionante a una terrible pesadilla.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/cXu7JolK9gA"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/8ZRVxA0Q8lHodBR"},{"titulo" : "[COLOR white]Vgem[/COLOR]","url" : "https://vgembed.com/v/nyg9EKdMbmObk4Z"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/332jy12cr2ye"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El zorro [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Bélica, Historia</genre>
+<year>2023</year>
+<tmdb>936117</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/7uaRZZXyvOiooIFI26Ocb9cFlsb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sIsrM58Ii1l9D9IKEbWuGCDUzBs.jpg</fanart>
+<info>La historia real de Franz Streitberger, el bisabuelo del director, mensajero en moto del ejército austriaco. Al comienzo de la Segunda Guerra Mundial, este joven soldado introvertido se encuentra con un cachorro de zorro herido al que cuida y se lo lleva a la Francia ocupada, y a través de esta amistad única, su propio pasado como hijo de un granjero marginado lo alcanza lentamente</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/6CdpuCGj_tk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/zP9BzOLy3rIYM4d"},{"titulo" : "[COLOR white]Vgem[/COLOR]","url" : "https://vgembed.com/v/eL21571KQyErw48"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/a1tkq6lac374"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Los asesinos de la luna [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Crimen, Drama, Historia</genre>
 <year>2023</year>
