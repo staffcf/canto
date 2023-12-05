@@ -5,6 +5,54 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Los asesinos de la luna [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Crimen, Drama, Historia</genre>
+<year>2023</year>
+<tmdb>466420</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/aZXHjmhSSGUshLEdgsNCTH9z7Ix.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4eY7N9hUCLvVvRzjrpJFL5vlyQu.jpg</fanart>
+<info>Ambientada en la Oklahoma de la década de 1920, narra los asesinatos en serie de los miembros de la nación indígena Osage, que era muy rica en petróleo; una serie de crímenes brutales que más tarde se conocería como el Reinado del Terror.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/xSL4pV9lJcE"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/M9B1l7B0joUBa7"},{"titulo" : "[COLOR white]Vgem[/COLOR]","url" : "https://vgembed.com/v/PlBVEZqPlaxDv98"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/rdu3ghcbehln"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Retumbar a través de la oscuridad [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Suspense, Acción</genre>
+<year>2023</year>
+<tmdb>844416</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/8luiMBqBu4qRRFtj1995rjPIcM5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rb3QQ2TQfJoCpCZlfXBlBbzYy1D.jpg</fanart>
+<info>Ambientado en el oscuro paisaje del delta del Mississippi, donde un ex luchador a puño limpio debe ganar una última pelea para pagar sus deudas con el jefe de la mafia local y salvar el hogar de su infancia; lo que está en juego es nada menos que vida o muerte.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/qtmxg3QgW5s"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/Jbo6qWoLwlIjl32"},{"titulo" : "[COLOR white]Vgem[/COLOR]","url" : "https://vgembed.com/v/dNjgOlv6jVx9Wn1"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/d4r7gxjujpsc"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Salta [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Familia, Ciencia ficción</genre>
+<year>2023</year>
+<tmdb>1109146</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/ojAZZIuPsnsc8oyrE8l6iJpg5ZZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pIAxx6I3Rz7hMmPCRymeaPyprek.jpg</fanart>
+<info>Óscar y Teo (13 y 10 años) son dos hermanos, muy distintos entre sí, que viven en un modesto piso de barrio. Es el verano de 1989. Teo es futbolero y un poco travieso, Óscar un sabelotodo que prefiere pasar las tardes de verano estudiando la teoría de la relatividad. En realidad, cada uno lidia a su manera con la desaparición de su madre, una prometedora científica obsesionada con los agujeros de gusano</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/xOBlQBmdsvA"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/PJGRoq9ydxtblJ"},{"titulo" : "[COLOR white]Vgem[/COLOR]","url" : "https://vgembed.com/v/qL0YEym8GdEDRXy"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/at0zh4af4ebz"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Una bonita mañana [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama, Romance</genre>
+<year>2022</year>
+<tmdb>747779</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/L7WngnFSMvhZEbbwybqs9xX0Ds.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aTkZPQRJmDgMJgGGcZlQb3ZbIxe.jpg</fanart>
+<info>Una mujer con una hija de ocho años vive con su padre, que padece una enfermedad neurodegenerativa. Mientras lucha por conseguir un hogar de ancianos decente, se encuentra con un amigo con el que inicia una aventura, aunque éste se encuentre en una relación</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/pYY5ejKeZ9U"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/vwRb2d83Ods40x8"},{"titulo" : "[COLOR white]Vgem[/COLOR]","url" : "https://vgembed.com/v/m7WJxg4neBEBzeQ"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/k6fbec49iyrc"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Escaping Paradise [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Suspense, Acción</genre>
 <year>2023</year>
