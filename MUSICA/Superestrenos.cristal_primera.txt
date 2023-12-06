@@ -5,6 +5,42 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Me he hecho viral [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2023</year>
+<tmdb>1064098</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8AXeipK5ppzIacZM3qQPr35IsPE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bHwEZF5VSZ8m9nuyLL5o2Nz6kO5.jpg</fanart>
+<info>Mabel se ha hecho viral. Y de la forma menos deseada posible. Durante su vuelo a Polinesia, desbloquea el móvil de su marido, dormido, con una intención inocente, pero lo que encuentra es la prueba de una infidelidad. Mabel la lía parda en pleno vuelo y se enzarza con todo el que intenta detenerla, provocando el pánico en el avión. Su acción provoca el aterrizaje de emergencia y que la bajen a la fuerza. Cuando regresa a Madrid descubre que ya no es una chica anónima: alguien ha grabado su "gesta" y ahora se ha hecho vital: todo el mundo la conoce como #lalocadelavion. La viralidad tiene inmediatas consecuencias: es despedida del trabajo y acaba perdiendo todo lo que tenía: amor, trabajo, casa, amigos y... privacidad. Mabel lucha para recuperar lo que ha perdido... pero no es fácil siendo viral.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/vcY7o8kGJbk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/aoLwLwlwdDuxgXj"},{"titulo" : "[COLOR white]Vgem[/COLOR]","url" : "https://vgembed.com/v/KNWlEDvGNm5kbpL"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/g6wkqtspt2ov"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Theater Camp [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2023</year>
+<tmdb>986054</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sitG9PTUatEYS22g5fFw2YDg0VE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mE0RXQ2Ib4LpYa7OzzK7UKWIDCs.jpg</fanart>
+<info>A medida que llega el verano, niños de todas partes vuelven para asistir al AdirondACTS, un rudimentario campamento de teatro en el norte del estado de Nueva York que es un paraíso para los artistas en ciernes. Después de que su indomable fundadora, Joan, cae en coma, su despistado hijo Troy tiene la tarea de mantenerlo en funcionamiento. Con la ruina financiera a la vista, Troy debe unir fuerzas con Amos, Rebecca-Diane y su grupo de excéntricos profesores para encontrar una solución antes de que se levante el telón la noche del estreno.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/gnuMfE6DEVE"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/qv2QqAxRa1Szvl7"},{"titulo" : "[COLOR white]Vgem[/COLOR]","url" : "https://vgembed.com/v/VqbX53kGgW5Qzpl"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/ibwdkjkez1z2"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La versión persa [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Drama, Romance</genre>
+<year>2023</year>
+<tmdb>1058620</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iOEfJWjrdV03lVIummbvT1gan0f.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n1ER2rJDswdM1mChgWnu0bHRPF9.jpg</fanart>
+<info>Cuando una gran familia iraní-estadounidense se reúne, se descubre un secreto familiar que catapulta a la distanciada madre y a la hija a una exploración del pasado, y a descubrir que son más parecidas de lo que creen.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/PDrlpcv4vXE"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/OXMavQzDzKIZq82"},{"titulo" : "[COLOR white]Vgem[/COLOR]","url" : "https://vgembed.com/v/MAlwEMjeKaOJ39X"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/d4e8q04s2rab"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Alta mar [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Suspense</genre>
 <year>2023</year>
