@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Mi querido monstruo [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Animación, Fantasía, Aventura</genre>
+<year>2022</year>
+<tmdb>1028318</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mYG81JbSmciPPasFZQ9IO1JRgPZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aXKwW6N2lFZll1PdOr1OWrzNliL.jpg</fanart>
+<info>El mundo de Kunlun, compuesto por miles de islas, está obsesionado con los espíritus oscuros, una forma de esencia venenosa que causa daños irreversibles en la mente. Bai Ze, en un intento por defender la isla curativa de los espíritus oscuros, aplica su teoría no probada pero termina destruyendo toda la isla y es expulsado por los maestros. Siete años después, cuando Bai Ze está a punto de demostrar los resultados de su investigación, es víctima de una trampa. Al verse obligado a huir, escapa a la isla de curación ahora en ruinas donde un qilin llamado Yi está buscando una cura para su cuerno de crecimiento lento. El joven sufre tal frustración y dolor que ya no puede contener la erosión de los Espíritus Oscuros. Por un lado, Bai Ze necesita recuperar su nombre; por el otro, un paciente necesita desesperadamente su ayuda. ¿Qué hará Bai Ze? ¿Será capaz de desterrar a los Espíritus Oscuros y sanar el mundo?</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/jxEaBgqnjxw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/2D30pxAAW8cZDwQ"},{"titulo" : "[COLOR white]Vgem[/COLOR]","url" : "https://vgembed.com/v/qA3WOm498eEKkz4"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/kjakcn7eegi9"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Me he hecho viral [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Comedia</genre>
 <year>2023</year>
