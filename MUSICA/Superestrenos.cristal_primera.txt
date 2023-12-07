@@ -5,6 +5,54 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] The Harbinger [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Terror, Suspense, Misterio</genre>
+<year>2023</year>
+<tmdb>974191</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bKbchcs0pMXcr91B6H2tfOFNdmJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dbM737JDwMsTKngQd6zhjhQpkYD.jpg</fanart>
+<info>Monique deja la cuarentena de su familia para ayudar a una amiga que sufre terribles pesadillas, pero se entera demasiado tarde de que los malos sueños son contagiosos, junto con el demonio detrás de ellos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/FsLqZXX2TGA"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/Aq9G6PzY4KCXrBk"},{"titulo" : "[COLOR white]Vgem[/COLOR]","url" : "https://vgembed.com/v/PlBVEZpBzl5Dv98"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/egzqb4wxqa69"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Los Archies [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Romance, Comedia, Drama</genre>
+<year>2023</year>
+<tmdb>975533</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h2NIN5cuS3yRBnI7VDCtGiffX2r.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8MDDAi8VnWKJdMmsxuJ1YL1wc21.jpg</fanart>
+<info>Ambientado en la década de 1960 en la India, en el pueblo de montaña ficticio de Riverdale, Los Archies es un musical sobre hacerse adulto protagonizado por los adolescentes más populares del pueblo, Archie, Betty, Veronica, Jughead, Reggie, Ethel y Dilton.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/07zwmOypaV8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/dKzV2vj1xOHkqOb"},{"titulo" : "[COLOR white]Vgem[/COLOR]","url" : "https://vgembed.com/v/8ozgEN1bavxmjAy"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/9yed8ierllfp"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] En el desierto [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Suspense</genre>
+<year>2023</year>
+<tmdb>1214730</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yBWTT6FjVxw3SYTMtB7X1YFvf2o.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/89CSXP915zKw6eLickoELuBw8fK.jpg</fanart>
+<info>Una joven desamparada en el desierto de Arabia se apresura a llegar a casa antes del toque de queda bajo la amenaza de un castigo extremo por parte de su estricto y aterrador padre.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/QPfLSAqigEk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/R6dX142Rk9IdGa2"},{"titulo" : "[COLOR white]Vgem[/COLOR]","url" : "https://vgembed.com/v/b4ZJx2kGoXE2P3R"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/wa4gkrzt6mto"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Descifrando a Susie [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Suspense, Misterio</genre>
+<year>2023</year>
+<tmdb>842948</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m0KTbnNonhPVAEBxM3y5HvITuwT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9Z9dPnqLwsvd091T8o6BwJJGzAf.jpg</fanart>
+<info>Susie es una estudiante universitaria torpe que aprovecha la oportunidad para reforzar su popularidad y su podcast de crímenes reales bajo el radar al intentar resolver la desaparición de un compañero de clase.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/lGR-REniT-Q"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/erwL4oK2BwtYdaA"},{"titulo" : "[COLOR white]Vgem[/COLOR]","url" : "https://vgembed.com/v/g9Vd5Janp6OqQjG"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/t697k0nsc2sc"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Mi querido monstruo [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Animación, Fantasía, Aventura</genre>
 <year>2022</year>
