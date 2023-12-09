@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Descolocado por Navidad [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Aventura, Acción</genre>
+<year>2023</year>
+<tmdb>1204912</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/i3QzaehEkQRLFpb9HqogHZvYhfh.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/A2MjjMpfLAleQKPwaC5nu0uDSvX.jpg</fanart>
+<info>En Nochebuena, Greg, un policía solitario y taciturno, no duda en dejar atrás a su hija para ir a una misión. Para darle una lección, Papá Noel decide conceder el deseo de su hija: que su padre se parezca a Richard Silestone, un personaje bonachón y endeudado de la película navideña que ella adora.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/SuRkzBMyLyg"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/brx6x1maqqIPZp3"},{"titulo" : "[COLOR white]Vgem[/COLOR]","url" : "https://vgembed.com/v/JzkPxzVAXMxbydB"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/rle632dty543"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Dejar el mundo atrás [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Misterio, Suspense, Drama</genre>
 <year>2023</year>
