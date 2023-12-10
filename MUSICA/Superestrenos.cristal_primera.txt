@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] The Lesson [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Suspense</genre>
+<year>2023</year>
+<tmdb>977770</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ktB7bt09HRQT701hVS8C23tkN6N.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lPiVeahSsZaBEcCDGlkus7airJc.jpg</fanart>
+<info>Liam, un joven escritor aspirante y ambicioso, acepta con entusiasmo un puesto de tutor en la finca familiar de su ídolo, el renombrado autor J.M. Sinclair. Pero pronto, Liam se da cuenta de que está atrapado en una red de secretos familiares, resentimiento y venganza. Sinclair, su esposa Hélène y su hijo Bertie guardan un pasado oscuro, que amenaza el futuro de Liam y el suyo propio.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/amO6BhGJ4so"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/LLvDWeV7exSRKwl"},{"titulo" : "[COLOR white]Vgem[/COLOR]","url" : "https://vgembed.com/v/pVa4E8W447xkzMZ"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/gu6wiml95m7p"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Batman: La maldición que cayó sobre Gotham [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Animación, Fantasía, Acción, Misterio</genre>
+<year>2023</year>
+<tmdb>1003579</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y4hM4lsBqBYh0ZkzyNeEqu9RUlP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7eccX0xay9pDj6ZQvU4cu3whw18.jpg</fanart>
+<info>El explorador Bruce Wayne desata accidentalmente un antiguo mal y regresa a Ciudad Gótica después de estar fuera durante dos décadas. Allí, Batman lucha contra las fuerzas sobrenaturales de Lovecraft y se encuentra con aliados y enemigos como Green Arrow, Ra's al Ghul, Mr. Freeze, Killer Croc, Two-Face y James Gordon.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/5OzP3grTnz8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/jkJ6VLOQJpcamw"},{"titulo" : "[COLOR white]Vgem[/COLOR]","url" : "https://vgembed.com/v/qA3WOmkaMPxKkz4"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/i3n13r2fagfp"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Descolocado por Navidad [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Comedia, Aventura, Acción</genre>
 <year>2023</year>
