@@ -12,7 +12,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eGVVToS961mhhrst2oALfcp6g5q.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/4orlVzWbzqeIlV2zs6nsgWSkcVV.jpg</fanart>
 <info>Rebel Wilson, Charlotte Gainsbourg , Trine Dyrholm y Meera Syal , protagonizan esta cinta dramática basada en la obra de teatro homónima de la dramaturga Kaite O'Reilly.¿Qué pasa cuando eres emboscado por el tiempo? Un arqueólogo y un arquitecto luchan por volver a imaginar un futuro después de que una lesión cerebral traumática los deje a la deriva de las personas que aman.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/r8YN0kgCgY8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/l7K6K2R9q4CmdA"},{"titulo" : "[COLOR white]Vgem[/COLOR]","url" : "https://vgembed.com/v/VqbX536kd8OQzpl"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/dnol028n6grl"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/r8YN0kgCgY8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/l7K6K2R9q4CmdA"},{"titulo" : "[COLOR white]Vgem[/COLOR]","url" : "https://vembed.net/v/VqbX536kd8OQzpl"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/dnol028n6grl"}</urlsolve>
 </item>
 
 
