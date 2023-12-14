@@ -777,7 +777,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://www.themoviedb.org/t/p/original/1pUkm0XAVVD2CrTF4YdGOVfXjTY.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/n7CHg4puue57JTed3DMpy6Uj3Q6.jpg</fanart>
 <info>Campanilla, nacida en el mundo fantastico de la Hondonada de las Hadas, descubre que su talento es "tintinear". Cuando las hadas se preparan para traer la primavera al mundo, Campanilla piensa que su talento no es igual de util, especial o importante que el del resto, y por eso no puede ir a Tierra firme. Por ello, Campanilla suplica a sus amigas hadas Rosetta, Silvermist, Fawn e Iridessa que le enseñen sus talentos y asi poder acompañarlas en sus viajes.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://sendvid.com/l29xavn1"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://vanfem.net/v/3ren7im78z2r782"}</urlsolve>
+<urlsolve>https://vembed.net/v/4bQVOjkB445wKmZ</urlsolve>
 </item>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Fantastico, 1Infantil, 1Familiar, A2014, Letra C, EEUU, Magia, Piratas, Disney, "
@@ -853,10 +853,10 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Campeones [COLOR gold](2018)[/COLOR]</title>Topo   
 <genre>Comedia, Drama</genre> 
 <year>2018</year> 
-<thumbnail>https://i.imgur.com/d4seJhp.jpg</thumbnail> 
-<fanart>https://i.imgur.com/5N4e29A.jpg</fanart> 
+<thumbnail>https://www.themoviedb.org/t/p/original/lXLKmT6mtizYvweAgPXVHs0ApvR.jpg</thumbnail> 
+<fanart>https://www.themoviedb.org/t/p/original/rqUvUFe0iG4Hn8AjjiYAn5GWbuX.jpg</fanart> 
 <info>Marco, un entrenador profesional de baloncesto, se encuentra un dia, en medio de una crisis personal, entrenando a un equipo compuesto por personas con discapacidad intelectual. Lo que comienza como un problema se acaba convirtiendo en una leccion de vida. </info> 
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://sendvid.com/9istq682"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://vanfem.net/v/jndqjsdz50rxw-x"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://sendvid.com/9istq682"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://vembed.net/v/8ozgENw3noOmjAy"}</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Musical, 1Comedia, 1Infantil, A2016, Letra C, EEUU, Animales, Musica, "
@@ -865,10 +865,22 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Canta! [COLOR gold](2016)[/COLOR]</title>   
 <genre>Animacion, Musical, Comedia, Infantil</genre>
 <year>2016</year>
-<thumbnail>https://2.bp.blogspot.com/-F82Ku3I1b3A/Wgs8tCD2q9I/AAAAAAAAA9c/utiezSaeJm4QLypUoH8HVaID_9ZOuZJagCLcBGAs/s1600/A_Canta-423232963-large.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/original/5EyWAoHFGKfcIOT7tj0Cwe9Zx57.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qI5mnNRs0Su7yDI6GbsxevZlV48.jpg</fanart>
 <info>Buster Moon es un elegante koala que regenta un teatro que conocio tiempos mejores. Es un optimista nato, lo que esta muy bien si no fuera un poco caradura, pero ama a su teatro con pasion y es capaz de cualquier cosa para salvarlo. Sabe que el sueño de su vida esta a punto de desaparecer, y solo tiene una oportunidad para mantenerlo a flote: organizar un concurso de canto y conseguir que sea un gran exito. Entre los muchos candidatos apareceran una cerdita ama de casa y otro cerdo muy animoso, una puercoespin rockera, un gorila bondadoso, un raton presumido y una elefante muy timida.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://sendvid.com/wm3u59zs"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://vanfem.net/v/ez-djt-74rp5yk7"}</urlsolve>
+<urlsolve>http://vembed.net/v/PlBVEZYRbmxDv98</urlsolve>
+</item>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+"Tag= Malu3, Disney, 1Animacion, 1Musical, 1Comedia, 1Infantil, A2021, Letra C, EEUU, Animales, Musica, "
+
+<item>
+<title>[COLOR white] Canta! 2[COLOR gold](2021)[/COLOR]</title>   
+<genre>Animacion, Musical, Comedia, Infantil</genre>
+<year>2021</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/9iIDsw7RJHYU94z7k4mbYP5IlYT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mLvXAWDX0Jnl7IHbaEIMZy1nJ5d.jpg</fanart>
+<info>Buster Moon es un elegante koala Buster Moon y sus amigos deben persuadir a la estrella del rock Clay Calloway para que se una a ellos en el estreno de un nuevo espectáculo.</info>
+<urlsolve>http://vembed.net/v/rabVOQYGJ3OKdWM</urlsolve>
 </item>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -880,7 +892,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://www.themoviedb.org/t/p/original/9VAARpurKQHcYw4hTCwFZ0ns1fQ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/A5SiunE1v0yCyrUqXAS5VhkILn0.jpg</fanart>
 <info>George y Harold son dos niños de primaria a los que les encantan los cómics y se dedican a pintar y dibujar historietas cuyo personaje central es el 'Capitán Calzoncillos'. Un día, de manera accidental, hipnotizan al director de su escuela, provocando su transformación en el mismo Capitán Calzoncillos de sus alocados tebeos. Cada vez que alguien chasquea los dedos, el Sr. Krupp se convierte en este superhéroe, que debe sus poderes a sus turbocalzones. Para volver a ser el Sr. Krupp, basta con que se le eche agua por encima.</info>
-<urlsolve>https://vanfem.net/v/jndqjsdye-311jj</urlsolve>
+<urlsolve>https://vembed.net/v/b4ZJx2zD6Rx2P3R</urlsolve>
 </item>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, A1989, Letra C, EEUU, Disney, "
@@ -888,10 +900,32 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Cariño he encogido a los niños  [COLOR gold](1989)[/COLOR]</title>  
 <genre>Comedia,Fantastico, Aventuras,Infantil</genre>
 <year>1989</year>
-<thumbnail>https://i.imgur.com/h2g1cgz.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/original/1gXFmAr8FvkPxjKdTip0iKHdRl5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/laV6kBX7AvA52WHlCOd6F4rcVHz.jpg</fanart>
 <info>Wayne Szalinski es un cientifico e inventor que desarrolla una maquina que permite encoger el tamaño de los objetos. Una pelota de beisbol activa accidentalmente la maquina sobre sus hijos, que viviran una autentica aventura intentando atravesar el cesped del jardin hasta la casa, convertido ahora en una autentica "jungla" para ellos.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://sendvid.com/x47ltyks"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD[/COLOR]","url" : "https://vanfem.net/v/6q8grh0r4dyn13w"}</urlsolve>
+<urlsolve>https://vembed.net/v/dNjgOlYm1y59Wn1</urlsolve>
+</item>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+"Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, A1992, Letra C, EEUU, Disney, "
+<item>
+<title>[COLOR white] Cariño he agrandado al niño  [COLOR gold](1992)[/COLOR]</title>  
+<genre>Comedia,Fantastico, Aventuras,Infantil</genre>
+<year>1992</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/ackCpY0MBMGKXhHRyRXUlS2P7qW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qhwmkPBg9MithppIXhUNVCYA4uR.jpg</fanart>
+<info>Una vez devuelto el tamaño normal a sus hijos, el despistado científico Wayne Szalinski (Rick Moranis) reanuda sus investigaciones, pero en el sentido inverso: experimenta con un rayo capaz de aumentar el tamaño de las moléculas. Pero, de nuevo el pequeño Adam, un niño que tan sólo pretende jugar, interfiere catastróficamente en su trabajo.</info>
+<urlsolve>http://vembed.net/v/KrdZ5k83yexmX47</urlsolve>
+</item>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+"Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, A1997, Letra C, EEUU, Disney, "
+<item>
+<title>[COLOR white] Cariño nos hemos encogido a nosotros mismos [COLOR gold](1997)[/COLOR]</title>  
+<genre>Comedia,Fantastico, Aventuras,Infantil</genre>
+<year>1997</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/lmikC90ioTTRGDtu7KtvVGUwu5o.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hFXJNjIRWupE3URDAz7iKjt0XHS.jpg</fanart>
+<info>El chiflado profesor Wayne Szalinski y su increíble máquina vuelven a las andadas. Si no fue suficiente encoger a sus hijos, ahora se encoge a sí mismo, a su hermano y a las mujeres de ambos. Todos vivirán divertidas aventuras intentando recuperar su aspecto normal, como por ejemplo: una carrera en coches de juguetes o un viaje en una pompa de jabón.</info>
+<urlsolve>https://vembed.net/v/LQm9OX8jXPO1lgB</urlsolve>
 </item>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, A2017, Letra C, EEUU, Coches, Pixar, C720, "
