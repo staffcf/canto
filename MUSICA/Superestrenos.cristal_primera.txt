@@ -24,7 +24,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ktB7bt09HRQT701hVS8C23tkN6N.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/lPiVeahSsZaBEcCDGlkus7airJc.jpg</fanart>
 <info>Liam, un joven escritor aspirante y ambicioso, acepta con entusiasmo un puesto de tutor en la finca familiar de su ídolo, el renombrado autor J.M. Sinclair. Pero pronto, Liam se da cuenta de que está atrapado en una red de secretos familiares, resentimiento y venganza. Sinclair, su esposa Hélène y su hijo Bertie guardan un pasado oscuro, que amenaza el futuro de Liam y el suyo propio.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/amO6BhGJ4so"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/LLvDWeV7exSRKwl"},{"titulo" : "[COLOR white]Vgem[/COLOR]","url" : "https://vgembed.com/v/pVa4E8W447xkzMZ"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/gu6wiml95m7p"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/amO6BhGJ4so"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/LLvDWeV7exSRKwl"},{"titulo" : "[COLOR white]Wish[/COLOR]","url" : "https://flaswish.com/1n94aq1o2olz"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/gu6wiml95m7p"}</urlsolve>
 </item>
 
 
