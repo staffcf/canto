@@ -5,6 +5,54 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Un blanco fácil [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Suspense, Drama</genre>
+<year>2023</year>
+<tmdb>925714</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fSMW4FTD7pZr1t1oqG18NulZMQz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4Y8PT2Dcp9KJAukbUboX70LD08q.jpg</fanart>
+<info>La historia real de Maureen Kearney, la principal representante sindical de una central nuclear multinacional francesa. Se convirtió en denunciante, denunciando acuerdos ultrasecretos que sacudieron al sector nuclear francés. Sola contra el mundo, luchó con uñas y dientes contra ministros del gobierno y líderes de la industria para sacar a la luz el escándalo y defender más de 50.000 puestos de trabajo. Su vida dio un vuelco cuando fue agredida violentamente en su propia casa... La investigación se lleva a cabo bajo presión: el sujeto es sensible. De repente, nuevos elementos crean dudas en las mentes de los investigadores. Al principio es una víctima, pero Maureen se convierte en sospechosa.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/InntAFSIA78"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/gr9438Q6PeIqQyQ"},{"titulo" : "[COLOR white]Vgem[/COLOR]","url" : "https://vgembed.com/v/njJYOdY81Y5e9od"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/lgnp9uc03x5l"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Shrapnel [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Suspense, Drama</genre>
+<year>2023</year>
+<tmdb>982932</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gsRDrAML7hJC8ZCgRQobHIrzbxR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3Jq8bFzq7QZ0QliQtJa5mtQQzWf.jpg</fanart>
+<info>Un ex marine y su antiguo compañero de guerra se enfrentan al cartel mexicano detrás de la desaparición de su hija.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/iCpyAYNAl68"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/zKDpoPrKjKHY00o"},{"titulo" : "[COLOR white]Vgem[/COLOR]","url" : "https://vgembed.com/v/l4vexvneyrx8B9k"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/rxp2fntx6b79"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Nuestra pequeña gran boda [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2023</year>
+<tmdb>982186</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xXRow7SHgDV7qgqg9EzNCUXvcij.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/z74gjfHTcwrBVLl58jSTpawNIS7.jpg</fanart>
+<info>La relación de una pareja se pone a prueba cuando su pequeña boda pasa a convertirse en una gran locura en esta disparatada comedia.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Y51zkWzpcqA"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/PGgdvaAjlOfG7a"},{"titulo" : "[COLOR white]Vgem[/COLOR]","url" : "https://vgembed.com/v/vQBYEbY0Kmxn1m8"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/szaqs5ha9re8"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Los supervivientes [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Suspense</genre>
+<year>2023</year>
+<tmdb>1002645</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/19m9X230su4qLNBZNEyuZGD9SjG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lMkmKXoLSaavS892b6Ywk55KYBo.jpg</fanart>
+<info>Samuel, un hombre viudo que vive en los Alpes italianos, decide ayudar a Chehreh, una mujer afgana que quiere llegar a Francia de forma clandestina. Ambos, deberán enfrentarse a una naturaleza hostil y a la persecución de los intransigentes jóvenes que viven allí que pronto se irá de las manos.Samuel y Chehreh son dos personajes obligados, por diferentes motivos, a dejar atrás el pasado. Ambos, son dos seres en peligro, dos seres opuestos que en el entorno hostil de la montaña alpina y sin estar preparados para superar las adversidades de este lugar deberán ayudarse a sobrevivir.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/vY1kqd1Dk5Q"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/dQlPzl1xPpHbXK"},{"titulo" : "[COLOR white]Vgem[/COLOR]","url" : "https://vgembed.com/v/njJYOdY8V85e9od"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/f8gctg9neog1"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] La almendra y el caballito de mar [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Drama, Romance</genre>
 <year>2022</year>
@@ -12,7 +60,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eGVVToS961mhhrst2oALfcp6g5q.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/4orlVzWbzqeIlV2zs6nsgWSkcVV.jpg</fanart>
 <info>Rebel Wilson, Charlotte Gainsbourg , Trine Dyrholm y Meera Syal , protagonizan esta cinta dramática basada en la obra de teatro homónima de la dramaturga Kaite O'Reilly.¿Qué pasa cuando eres emboscado por el tiempo? Un arqueólogo y un arquitecto luchan por volver a imaginar un futuro después de que una lesión cerebral traumática los deje a la deriva de las personas que aman.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/r8YN0kgCgY8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/l7K6K2R9q4CmdA"},{"titulo" : "[COLOR white]Wish[/COLOR]","url" : "https://flaswish.com/xfqxiwhxkc1y"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/dnol028n6grl"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/r8YN0kgCgY8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/l7K6K2R9q4CmdA"},{"titulo" : "[COLOR white]Vgem[/COLOR]","url" : "https://vgembed.com/v/VqbX536kd8OQzpl"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/dnol028n6grl"}</urlsolve>
 </item>
 
 
@@ -24,7 +72,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ktB7bt09HRQT701hVS8C23tkN6N.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/lPiVeahSsZaBEcCDGlkus7airJc.jpg</fanart>
 <info>Liam, un joven escritor aspirante y ambicioso, acepta con entusiasmo un puesto de tutor en la finca familiar de su ídolo, el renombrado autor J.M. Sinclair. Pero pronto, Liam se da cuenta de que está atrapado en una red de secretos familiares, resentimiento y venganza. Sinclair, su esposa Hélène y su hijo Bertie guardan un pasado oscuro, que amenaza el futuro de Liam y el suyo propio.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/amO6BhGJ4so"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/LLvDWeV7exSRKwl"},{"titulo" : "[COLOR white]Wish[/COLOR]","url" : "https://flaswish.com/1n94aq1o2olz"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/gu6wiml95m7p"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/amO6BhGJ4so"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/LLvDWeV7exSRKwl"},{"titulo" : "[COLOR white]Vgem[/COLOR]","url" : "https://vgembed.com/v/pVa4E8W447xkzMZ"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/gu6wiml95m7p"}</urlsolve>
 </item>
 
 
