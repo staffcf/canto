@@ -24,7 +24,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gsRDrAML7hJC8ZCgRQobHIrzbxR.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/3Jq8bFzq7QZ0QliQtJa5mtQQzWf.jpg</fanart>
 <info>Un ex marine y su antiguo compañero de guerra se enfrentan al cartel mexicano detrás de la desaparición de su hija.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/iCpyAYNAl68"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/zKDpoPrKjKHY00o"},{"titulo" : "[COLOR white]Vgem[/COLOR]","url" : "https://vgembed.com/v/l4vexvneyrx8B9k"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/rxp2fntx6b79"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/iCpyAYNAl68"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/zKDpoPrKjKHY00o"},{"titulo" : "[COLOR white]Wish[/COLOR]","url" : "https://flaswish.com/sl7a6whic1bu"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/rxp2fntx6b79"}</urlsolve>
 </item>
 
 
