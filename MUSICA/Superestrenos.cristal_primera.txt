@@ -5,6 +5,138 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] El viaje de Harold [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2023</year>
+<tmdb>844409</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wP6r2Mdw2vhPT0Y2A7jXZOK3DVd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2ZxZBUThRDlqdDaDPpjPD8n15G3.jpg</fanart>
+<info>Harold es un hombre común que ha pasado por la vida, viviendo al margen, hasta que un día va a enviar una carta... y sigue caminando.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ies_0gN5-GM"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/ajGLJyWlWQixRzg"},{"titulo" : "[COLOR white]Wish[/COLOR]","url" : "https://flaswish.com/624fv3jkalr5"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/146pplk3l9om"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] No me llame Ternera [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Documental, Historia</genre>
+<year>2023</year>
+<tmdb>1181136</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pIpNPMY4DFCjSUuLFZF0agjN60B.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3PpE2I2elXxo3hfrIyIFDa5lUCP.jpg</fanart>
+<info>Una entrevista en profundidad con José Antonio Urrutikoetxea, conocido como Josu Ternera, uno de los dirigentes más relevantes de la banda terrorista ETA.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Dy9LmNM6D4A"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/4WOGW02JW8tKwO1"},{"titulo" : "[COLOR white]Wish[/COLOR]","url" : "https://flaswish.com/14kutuwlcfwh"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/22uh7c6vhvpi"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Plan en familia [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Comedia</genre>
+<year>2023</year>
+<tmdb>1029575</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mBiylEUJgWikljJJNB61u7dDPON.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/r9oTasGQofvkQY5vlUXglneF64Z.jpg</fanart>
+<info>Dan Morgan es muchas cosas: un marido devoto, un padre cariñoso, un reputado vendedor de coches. También es un exasesino. Y, cuando su pasado alcanza su presente, se ve obligado a embarcar a su ingenua familia en un viaje por carretera sin igual.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/6zCwYmJr8T0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/XADbzgZWY7UDQ6r"},{"titulo" : "[COLOR white]Wish[/COLOR]","url" : "https://flaswish.com/xq4qoha6av8h"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/qwf9b9eozwbz"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Las chicas están bien [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2023</year>
+<tmdb>1002711</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oagSsGGrdjZX5RktxMcB95Kz6BW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wEnEv2jEyuwjccnFhkolvT9JeHr.jpg</fanart>
+<info>En pleno verano, cinco mujeres ensayan una obra de teatro en un antiguo molino, apartadas del mundo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/CYl5EiPRvYI"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/g0GMA77eQBUYbX"},{"titulo" : "[COLOR white]Wish[/COLOR]","url" : "https://flaswish.com/ipqwr8rw5jcc"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/d2njr2bl99a1"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Los Caballeros de Santiago [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Documental</genre>
+<year>2023</year>
+<tmdb>1206522</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vYLR0BTa7krl1Z3vYvxSe36PkPT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vYLR0BTa7krl1Z3vYvxSe36PkPT.jpg</fanart>
+<info>En un país dividido en una eterna guerra interna, una orden de caballeros se levanta para construir una nación.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/93SEJ333Kus"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/bewBK42doPi29y"},{"titulo" : "[COLOR white]Wish[/COLOR]","url" : "https://flaswish.com/1srpl8iqdks1"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/grge3x6izcwn"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La estrella de Laura [/COLOR][COLOR yellow](2021)[/COLOR]</title>
+<genre>Familia</genre>
+<year>2021</year>
+<tmdb>903746</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3UmYrKBdiIfoEVqHWYe0gn8LJ2A.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vrvilJLP9R3zIU77LICKcEA6Cgn.jpg</fanart>
+<info>Comienza un nuevo capítulo para Laura: junto con sus padres y su hermano Tommy, se muda a un nuevo hogar. Pero al principio, la niña no puede acostumbrarse realmente a la nueva ciudad y tiene dificultades para hacer amigos y socializar. Una tarde ve caer una estrella del cielo. Laura corre en ayuda de la estrella herida y lo cuida. Los dos se hacen amigos y la estrella lleva a Laura a muchas aventuras emocionantes.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/VvWAVlDs3HM"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/Xz46VrP4PGIDbrp"},{"titulo" : "[COLOR white]Wish[/COLOR]","url" : "https://flaswish.com/g4ignatmtgfe"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/wxney6sl3vnj"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Liga de la Justicia x RWBY: Superhéroes y Cazadores: Parte 1 [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Animación, Acción, Fantasía</genre>
+<year>2023</year>
+<tmdb>997776</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7twNCiHS1rR7P2fyGOH1sUmLDyY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3GLrNvvkVJjBiffV8RsEh9Xg1eS.jpg</fanart>
+<info>Superman, Batman, Mujer Maravilla, Flash, Cyborg, Linterna Verde y Vixen son transportados al extraño mundo de Remnant y se encuentran convertidos en adolescentes. Mientras tanto, los héroes de Remnant, Ruby, Weiss, Blake y Yang, deben combinar fuerzas con la Liga de la Justicia para descubrir por qué su planeta ha sido alterado misteriosamente antes de que un Grimm con superpoderes destruya todo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/6fKpdtyoLJE"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/dZKAKp02Kptkdyb"},{"titulo" : "[COLOR white]Wish[/COLOR]","url" : "https://flaswish.com/v5h3b45j6gva"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/3feth5f8r1y6"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Glassboy [/COLOR][COLOR yellow](2020)[/COLOR]</title>
+<genre>Drama, Aventura</genre>
+<year>2020</year>
+<tmdb>706530</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sGGUvXY6gOf060B2AyNARu0ok7B.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9JuSbJgwB6EXWgdq5itX5HMmNiZ.jpg</fanart>
+<info>Pino Gambassi es un niño que sufre de hemofilia y está animado por un deseo desenfrenado de libertad y coraje ilimitado: decide comenzar su aventura en el mundo y mostrar a todos que puede vivir su vida como un niño normal.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/UCZFkMLBN1k"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/bpWQKLZmArSPP6V"},{"titulo" : "[COLOR white]Wish[/COLOR]","url" : "https://flaswish.com/2u2jf65cq8ml"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/1sub8px7ra56"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Chicken Run: Amanecer de los nuggets [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Animación, Aventura, Comedia, Familia</genre>
+<year>2023</year>
+<tmdb>520758</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ctTchAvGFiVZbLeUallYUqKaw0l.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kuM7j7AVs748SnDPviPboog8P10.jpg</fanart>
+<info>Unas gallinas muy valientes hacen piña para salvar a las de su especie de un nuevo e inquietante peligro: una granja cercana donde ocurre algo muy sospechoso.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/tJxqp11NXp0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/Xkpl1qbP2MiD9pk"},{"titulo" : "[COLOR white]Wish[/COLOR]","url" : "https://flaswish.com/4a3ukjcdcouo"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/8b3ovezcydzq"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Cazadoras de aliens [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Ciencia ficción, Acción, Suspense, Terror</genre>
+<year>2022</year>
+<tmdb>934194</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pX8MTrWjDCwFt0YVl5Ont7kJCLR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vruRG9oFSC2QI3F6vLAsj1ND14S.jpg</fanart>
+<info>En una remota comunidad ártica, un grupo de chicas inuit luchan contra una invasión alienígena, mientras intentan llegar a la fiesta más genial de la ciudad.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/bOQMChdWszY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/JqW2Qgdgjysjjz9"},{"titulo" : "[COLOR white]Wish[/COLOR]","url" : "https://flaswish.com/bh6z98aaapre"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/1xwlcd13kvge"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Hei Buh y el castillo embrujado [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Familia, Fantasía, Aventura, Comedia</genre>
+<year>2022</year>
+<tmdb>754158</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i2Jcg9U4wAtAmWvCXBCxAm8XWSv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1aisWSsW918nFQF9MTEB7M8hI7p.jpg</fanart>
+<info>La malvada bruja Erla les complica la vida a Hui Buh y a su sobrina, la pequeña bruja Ophelia. Después de que su madre es capturada, busca la ayuda de Hui Buh con un valioso libro de hechizos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/zd2jxsZo7Ak"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/Y8lxDpJQ2Li6pM"},{"titulo" : "[COLOR white]Wish[/COLOR]","url" : "https://flaswish.com/7afn8hee4c50"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/fskf354y2pi4"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Un blanco fácil [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Suspense, Drama</genre>
 <year>2023</year>
