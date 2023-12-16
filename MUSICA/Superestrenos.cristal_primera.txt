@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Terror on the Prairie [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Western, Acción, Suspense</genre>
+<year>2022</year>
+<tmdb>884315</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rPWaktPt50BwkYHmYM62sDrdnjR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3boseSuFfjTazSrPAe9G6pSDvnH.jpg</fanart>
+<info>Una familia pionera lucha contra una pandilla de forajidos viciosos que los aterroriza en su granja recién construida en las llanuras de Montana.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/AcKVWp9mK7k"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/gV78GxDP4qhqD4G"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/nqk1garfnfe9"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/7bvkmeuqxij8"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El viaje de Harold [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama</genre>
 <year>2023</year>
