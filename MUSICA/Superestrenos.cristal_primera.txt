@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Stewart [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Documental</genre>
+<year>2023</year>
+<tmdb>1049278</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yLZ8fdGqhcXV07aWoua88Qg2XoS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uDQeCVdtVHQ8h6Ed61rcA0Q1khw.jpg</fanart>
+<info>Ambientada a finales de los 60 y principios de los 70, STEWART sigue al piloto de carreras escocés Jackie Stewart en un viaje envolvente, colorista y emotivo que trasciende el deporte del motor y explora temas universales como el amor, la pérdida y la vulnerabilidad humana.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Y_5GTG2P0YY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/PqxVOJq1Bjf0Ol4"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/fbmkdxbo6akl"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/1o89wcvtcsv7"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] De vuelta en El Strip [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2023</year>
+<tmdb>943818</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/krOY3GjlM5qfgB9QwoWkXJAhH5a.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/73kx9VaBy9XasYRkP2Kre77r0ur.jpg</fanart>
+<info>Verna (Tiffany Haddish) envía a su hijo Merlin (Spence Moore II) a Las Vegas, decidida a ayudarle a hacer realidad sus sueños como mago profesional. Pero un encuentro fortuito en un hotel de mala muerte con Mr. Big (Wesley Snipes), el líder de la antaño famosa banda de strippers negros conocida como "The Chocolate Chips" (J.B. Smoove, Faizon Love, Bill Bellamy y Gary Owen), hace que Merlin se convierta de repente en el centro de atención. En una carrera contrarreloj para recuperar a su chica y ayudar a los "Chips", fuera de forma y fuera de sincronía, a redescubrir su ritmo, Merlin debe confiar en su mayor magia hasta la fecha... aquella con la que nació.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/wcKnD6hl2Wc"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/QeV3x91BAWf0749"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/c01vwstgmpas"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/bmn325haf2kv"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Inside [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama, Suspense</genre>
 <year>2023</year>
