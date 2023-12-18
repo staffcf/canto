@@ -11,7 +11,7 @@
 <tmdb>1074080</tmdb>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u69BZKa1QqcGfNuyKXOs39Chlvu.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ue2KLaofFzdvngT3DiqQQov3ovu.jpg</fanart>
-<infoNuestro equipo de "campeones" abandona el baloncesto para adentrarse por error en el fascinante mundo del atletismo de la mano de una entrenadora novata. Entre las duras exigencias de la nueva disciplina y la sorprendente capacidad de la entrenadora para atraer todo tipo de desgracias y calamidades, todo acabará saliendo del revés.</info>
+<info>Nuestro equipo de "campeones" abandona el baloncesto para adentrarse por error en el fascinante mundo del atletismo de la mano de una entrenadora novata. Entre las duras exigencias de la nueva disciplina y la sorprendente capacidad de la entrenadora para atraer todo tipo de desgracias y calamidades, todo acabará saliendo del revés.</info>
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/kBhjIruQ5SM"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/orXbmbxl62cJeDy"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/kp4gbmxv95tg"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/3k3h4pvtptlm"}</urlsolve>
 </item>
 
