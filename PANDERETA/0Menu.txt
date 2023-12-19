@@ -9182,6 +9182,16 @@ Una vez allí, se encontrarán con un enemigo mucho peor que los Goaul'd; los Wr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Vestidas de azul[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>201352</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Vestidas.de.azul</externallink>
+<info>Dos años después de la muerte de Cristina Rodríguez, La Veneno, Valeria encuentra la cinta que narra las vivencias de seis transexuales en la España de principios de los años 80. Vestidas de azul se situará dos años después de la muerte de Cristina Rodríguez, La Veneno, cuando Valeria vuelve a Valencia y se encuentra el VHS del documental ‘Vestida de azul’ una cinta que narra las experiencias de seis transexuales en la España de principios de los años 80.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/hMsnJlXA1HojbAzEmivMd9yRccj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jm7oRpvA2e545DJYqmMi8CtgEl4.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Vida Perfecta[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>94734</tmdb>
