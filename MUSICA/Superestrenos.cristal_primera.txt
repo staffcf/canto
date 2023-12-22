@@ -5,6 +5,54 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Black Friday [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Terror, Suspense, Misterio</genre>
+<year>2023</year>
+<tmdb>1071215</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zCR24HZm2RYs6GfgcHPnin6U7vZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ktHEdqmMWC1wdfPRMRCTZe2OISL.jpg</fanart>
+<info>Tras un Black Friday en el que se producen disturbios que acaban en tragedia, un misterioso asesino inspirado en la festividad de Acción de Gracias aterroriza Plymouth, en Massachusetts – lugar de origen de la tristemente célebre festividad. Versión en largometraje del celebrado falso tráiler de Eli Roth para "Grindhouse".</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/mQxbZubEv3A"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/XoAMJk0orJig1b"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/efq8d00ggxuo"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/zc75vb0gv9ck"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Todos los nombres de Dios [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Acción, Suspense</genre>
+<year>2023</year>
+<tmdb>1053592</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y1OIPQA0UIFzm68uCdwZF2L3W0M.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zX9m8h33pHXcES7ttO8v0ThiYj7.jpg</fanart>
+<info>Tras verse implicado en un atentado terrorista, Santi, un taxista, es tomado como rehén por uno de los autores.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/NoEd8WDFcZE"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/Ryd8gmBvj1UB9z"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/vf16wg18d1us"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/0rkaowp6uw5f"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Maestro [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Romance, Música</genre>
+<year>2023</year>
+<tmdb>523607</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5aa0Dp2weJuVqnaKH7DOjealBme.jpg</fanart>
+<info>Esta valiente historia de amor muestra la relación compleja del legendario músico Leonard Bernstein y Felicia Montealegre Cohn Bernstein a lo largo de los años.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/gJP2QblqLA0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/DXprOdyL0bukzGM"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/7g5thk6jzh54"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/k91f8c24ehhn"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El rey de la calle [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Drama</genre>
+<year>2023</year>
+<tmdb>995767</tmdb>
+<thumbnail>http://imgfz.com/i/2mj5cfG.jpeg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3imddisQP6trAQg15RMVDZUKqaB.jpg</fanart>
+<info>Omar, más conocido como Omar la Fresa, es un bandido chapado a la antigua. Obligado a huir a Argelia, se gana la vida con la delincuencia menor, acompañado de su famoso compañero Roger. Después de décadas de gobernar el submundo criminal francés, deben aceptar su nueva vida juntos, que hasta ahora ha sido de libertinaje y violencia.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/BJQbqFGvgFE"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/zk0WVovRzgueVq"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/vc4eg35xv2e5"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/gq248aueclkm"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Campeonex [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Comedia, Drama</genre>
 <year>2023</year>
