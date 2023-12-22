@@ -519,7 +519,7 @@ from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
 import six
 TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
-url = 'https://pastebin.com/raw/Hz1gf7VB'
+url = 'https://pastebin.com/raw/KcKsv80Y'
 titulo = 'Lucifer'
 import base64, codecs
 
