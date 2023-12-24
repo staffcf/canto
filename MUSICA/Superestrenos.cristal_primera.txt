@@ -17,6 +17,18 @@
 
 
 <item>
+<title>[COLOR white] Me he tragado un extraterrestre [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Animación, Acción, Aventura, Ciencia ficción</genre>
+<year>2023</year>
+<tmdb>1065671</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qEHvx1YwyA2qfEcIrrf9XgkNxJP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qCpILGRBe8hQZNwzG5wVpMdKTvm.jpg</fanart>
+<info>Gus, Sophie y Max de la Fuerza de Protección Espacial (SPF) y su nave espacial microscópica, (el SPF-50) tienen un extraño accidente y terminan dentro del cerebro de Norman, de 16 años. Pueden ver lo que él ve y oír lo que él oye. Estos alienígenas, que luchan contra el crimen, deben conseguir la ayuda de Norman para salvar la Tierra de Zolthard de un villano intergaláctico igualmente en miniatura que consiguió asumir el control mental de la directora de la escuela, la Sra. Witherington. Norman, sus amigos y los alienígenas deben hacer todo lo posible para ocultar la presencia de vida extraterrestre en su instituto, mientras continúan la lucha intergaláctica entre el bien y el mal. Después de todo, Zolthard ahora tiene una escuela que dirigir y Norman todavía tiene una vida que vivir y deberes para entregar!</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/8u0o57laDVU"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/wYrRdW99XrcJ2Vl"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/ilv7l87kxv3k"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/2extqfn103bq"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Saltburn [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama, Comedia, Suspense</genre>
 <year>2023</year>
