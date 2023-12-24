@@ -17,6 +17,18 @@
 
 
 <item>
+<title>[COLOR white] Perlimps [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Animación, Fantasía</genre>
+<year>2023</year>
+<tmdb>829424</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fhb1IwiU2vO1MXMYRRIjF5NPAXt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4FOL0rzbTNUgEyRLXXKeV7ehRRM.jpg</fanart>
+<info>La jornada de aventura y fantasia de Claé y Bruô, agentes secretos de reinos rivales. La dupla deverá superar sus diferencias y unir fuerzas para encontrar a los Perlimps, criaturas misteriosas capaces de encontrar un camino para la paz en tiempos de guerra.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/RvheMdB7WGU"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/ZkLZ1Kxr2quKDk"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/gmn9pwdzb97z"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/12dgxhkfpj87"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Me he tragado un extraterrestre [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Animación, Acción, Aventura, Ciencia ficción</genre>
 <year>2023</year>
