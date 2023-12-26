@@ -12,7 +12,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uGnFNjzi1hXZ7CiywbOERUh1KAE.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/kbxWL3hsZVmNZ1v7FVqpPWaWOZA.jpg</fanart>
 <info>Cuando Sara se ve obligada a afrontar la última etapa de su embarazo en solitario, su hermana mayor Linda, de la que estaba distanciada, aparece y se convierte en su inesperada salvadora.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer no disponible[/COLOR},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/gjwpjjZWprsqbKd"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/e7lho2jcreg9"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/dxaege2ys3zj"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/LFrW0axRgIY"},{"titulo" : "[/COLOR},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/gjwpjjZWprsqbKd"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/e7lho2jcreg9"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/dxaege2ys3zj"}</urlsolve>
 </item>
 
 
