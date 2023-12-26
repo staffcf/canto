@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Gracias, lo siento [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Drama</genre>
+<year>2023</year>
+<tmdb>1211199</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uGnFNjzi1hXZ7CiywbOERUh1KAE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kbxWL3hsZVmNZ1v7FVqpPWaWOZA.jpg</fanart>
+<info>Cuando Sara se ve obligada a afrontar la última etapa de su embarazo en solitario, su hermana mayor Linda, de la que estaba distanciada, aparece y se convierte en su inesperada salvadora.</info>
+<urlsolve>{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/gjwpjjZWprsqbKd"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/e7lho2jcreg9"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/dxaege2ys3zj"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El Motin del Caine [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama, Bélica</genre>
 <year>2023</year>
