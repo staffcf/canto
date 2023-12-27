@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Down with the King [/COLOR][COLOR yellow](2021)[/COLOR]</title>
+<genre>Drama, Música</genre>
+<year>2021</year>
+<tmdb>838889</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qYtRs89ddKFQinH9e6CSFvXfRnz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nxwL3mgFcZSbzKPe1BVQHs81B3G.jpg</fanart>
+<info>Enviado a los Berkshires para concentrarse en su próximo álbum, la desilusionada estrella del rap Money Merc anuncia abruptamente su retiro en Twitter. Después del anuncio de Merc, su representante se apresura a ir al campo para atraerlo de nuevo a la industria de la música.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/9ktTyXVG5e0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/dAQ74B9peDuZzd"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/uervvqh6vwhd"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/t8m6u0ninr5u"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Gracias, lo siento [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Comedia, Drama</genre>
 <year>2023</year>
