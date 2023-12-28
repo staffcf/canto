@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] La hija del pantano [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Suspense, Drama</genre>
+<year>2023</year>
+<tmdb>798362</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oBOvqnQcGX3ZI3aTmgiySgjNNSc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/c7MRmF3LMiBWokedmdQl3roTUv2.jpg</fanart>
+<info>Helena, una mujer que vive una vida aparentemente normal, esconde un oscuro secreto: su padre es el infame "Rey de los Pantanos", el hombre que la mantuvo a ella y a su madre cautivas en el desierto durante años. Después de toda una vida intentando escapar de su pasado, Helena se ve obligada a enfrentarse a sus demonios cuando su padre escapa inesperadamente de la prisión.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/FDnUVhLMqI0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/9lLZOGYBzwTaKkK"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/4uamjo5kzr1f"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/zzsfqxtihcaw"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Qué bello es morir [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Terror, Comedia</genre>
+<year>2023</year>
+<tmdb>1113278</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lRe2Fqg9TfsQgNPC9mDn4TJAhTm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8RBwd37p2p48lUmZuWBLSkFLprd.jpg</fanart>
+<info>En un universo paralelo de pesadillas, una mujer descubre qué hubiese pasado de no haber acabado con un psicópata asesino.Tras salvar la vida a su hermano y liberar a su pueblo de un peligroso asesino en serie enmascarado, la vida de Winnie no es como ella esperaba. Un día, la joven desea con todas sus fuerzas no haber nacido y, de pronto, aparece en un universo paralelo en el que nadie la recuerda, su pueblo está liderado por un alcalde corrupto y el asesino del pueblo sigue matando indiscriminadamente.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/yLdAYrG0xo0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/KkOwL40Q2PT0Q7L"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/z73jdtz02ibd"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/qwog79x8aj2i"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Astonishing Tales of Terror: Rocktapussy! [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Terror, Comedia, Fantasía</genre>
 <year>2022</year>
