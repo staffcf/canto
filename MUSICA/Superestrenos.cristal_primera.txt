@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] El nuevo juguete [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2022</year>
+<tmdb>865498</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/daijBxiN2kWOsuI1VzndIBQnxnc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/diO9O2aKKHijX8Xxh8eJqjHd7VU.jpg</fanart>
+<info>Samy vive feliz fuera del sistema, en los proyectos de vivienda, junto a sus amigos de la infancia y su esposa Jihane, quien espera su primer hijo. Para satisfacer las necesidades de su futura familia, muy a regañadientes, acepta un trabajo como vigilante nocturno en una tienda de artículos de lujo. Philippe Etienne es el hombre más rico de Francia. Frío, insensible, desde que murió su esposa hace un año, se ha dedicado por completo a su negocio. Alexandre, su único hijo y heredero de toda la fortuna de Etienne, mantiene a su padre a distancia, buscando refugio en el mundo solitario del típico niño mimado. Para su cumpleaños, Philippe abre el departamento de juguetes de la tienda donde trabaja Samy y le dice a Alexandre que puede tomar lo que quiera, pero Alexandre elige a Samy.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/9oeZbPmj9JA"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/4AkVY2O8grCKqPB"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/ws6d9j5rt627"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/gcyycodmrvm3"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] La hija del pantano [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Suspense, Drama</genre>
 <year>2023</year>
