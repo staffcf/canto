@@ -12,7 +12,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/l3FzngVHJX8Yv9e74O3NUhfBOOc.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/zOCCI7kx52m5CWSKTthMPK0hiT1.jpg</fanart>
 <info>Gracias a Eugenio, todos los que no sabíamos hablar catalán aprendimos que, Saben aquel que diu, significa que te vas a partir de risa. Eugenio solo hay uno, es una oportunidad única e irrepetible para recordar a uno de los más grandes cómicos del país, a través de sus mejores chistes, contados por humoristas como Arturo Valls, Joaquín Reyes, Eva Soriano, Pablo Chiapella, Ernesto Sevilla o Anabel Alonso. Y es única e irrepetible porque, además de estos personajes, el propio Eugenio acudirá a la cita gracias a la inteligencia artificial. Como él mismo diría: Hosti tú</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/oZNNyv3QeNQ"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/161byKxAozCdrD"},{"titulo" : "[COLOR white]Vgem[/COLOR]","url" : "https://filelions.to/f/10nwo3knxi6c"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/P0poO1aYmpOz17v"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/oZNNyv3QeNQ"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/161byKxAozCdrD"},{"titulo" : "[COLOR white]Vgem[/COLOR]","url" : "https://vgembed.com/v/P0poO1aYmpOz17v"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/10nwo3knxi6c"}</urlsolve>
 </item>
 
 
