@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] El exorcista: Creyente [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Terror</genre>
+<year>2023</year>
+<tmdb>807172</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6StdSKn9ej4rwtQjcl1XMk5E0iE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/azD31DjpV3PJfjF3h72LVw2WCSD.jpg</fanart>
+<info>Cuando su hija Angela y su amiga Katherine muestran signos de posesión demoníaca, se desata una cadena de acontecimientos que obligan al padre soltero Victor Fielding a afrontar el punto más bajo del mal. Aterrorizado y desesperado, busca a Chris MacNeil, la única persona viva que ha presenciado algo así antes.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/LDjZWjeY7dM"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/7wqGkwQXVATADLG"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/fra2kmeuksp6"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/22vr4j89ri0c"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] La manzana de oro [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Comedia, Drama</genre>
 <year>2023</year>
