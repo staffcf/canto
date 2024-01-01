@@ -12,7 +12,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cd7CYo6fdA4RRtSWUCwjRjvB8sz.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/6RWjLcPEolnaUixisSgMesArM9j.jpg</fanart>
 <info>Narra la llegada de un invitado inesperado que desestabiliza las Jornadas Poéticas que cada año reúnen en un aislado convento del noroeste peninsular a distintas tendencias de la poesía española. Durante un acelerado fin de semana, mientras los poetas escriben, recitan y se vigilan, persiguiendo un premio dorado, una sospecha de plagio, la batalla por la presencia en una futura antología, la irreverencia de un rapero, el cumpleaños de un poeta centenario, unas setas venenosas, los imprevistos cruces sexuales y el despertar de amores tardíos, culminarán en una noche tormentosa. Adaptación de la novela “Ávidas pretensiones”, de Fernando Aramburu.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/QqZ3NAytl30"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/pxD2aAy001urPr9"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/255p0kjm1qcl},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/7u2r8bbzu8qd"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/QqZ3NAytl30"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/pxD2aAy001urPr9"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/255p0kjm1qcl"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/7u2r8bbzu8qd"}</urlsolve>
 </item>
 
 
