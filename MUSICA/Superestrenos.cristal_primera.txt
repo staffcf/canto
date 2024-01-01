@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Pelé: O Rei del fútbol [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Documental</genre>
+<year>2023</year>
+<tmdb>1223859</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eE49VdRBWd4RNSl0MOAOyoqM2pC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eE49VdRBWd4RNSl0MOAOyoqM2pC.jpg</fanart>
+<info>El chico de Minas Gerais... que se convirtió en el mejor futbolista de la historia del mundo. En una carrera que duró tres décadas, Pelé fue la cara del fútbol en todo el mundo. Héroe de Brasil y ícono en todo el mundo, por pura habilidad, gracia y carisma, fue la primera superestrella del fútbol moderno. Pelé hizo que el fútbol pareciera fácil. Convirtió el deporte que amaba en una obra de arte y el mundo se detenía cada vez que el balón estaba en sus pies. Con su muerte, el fútbol perdió a su Rey y el mundo perdió una leyenda. Pero su presencia siempre se sentirá y su influencia siempre se verá, dentro y fuera de la cancha. Sin Pelé no habría Bonito Juego. Él era... el rey del juego.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://dai.ly/x8qqrny"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/LLp40jxbzLSZDG"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/2f59iqeyc51p"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/07chwbygmq1h"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Saben aquell [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Historia, Drama</genre>
+<year>2023</year>
+<tmdb>1138248</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gLmCakHPJKNukeBLYYh9qroWgdO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nPPWJVoTvk0R3E55NehaZ7K0srh.jpg</fanart>
+<info>Barcelona, finales de los 60. Eugenio Jofra, un joven joyero, conoce a Conchita y el flechazo es instantáneo. Eugenio aprende a tocar la guitarra para acompañar a Conchita, para lo que tendrá que luchar contra el miedo escénico. Empieza así la carrera musical de ‘Els dos’. Cuando Conchita se tiene que ausentar durante dos semanas de Barcelona, convence a Eugenio de que lleve las actuaciones a cabo él solo. Cuando regresa, Eugenio se ha convertido en un fenómeno del humor underground de la ciudad.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/o8Sb229Htf8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/e4ppVW8veRiYGZd"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/3loe54gprmb7"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/qmbwa75vlt22"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Eugenio solo hay uno [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Comedia</genre>
 <year>2023</year>
