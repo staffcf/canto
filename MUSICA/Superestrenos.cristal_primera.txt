@@ -5,6 +5,42 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Deep fear [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Misterio, Suspense, Terror</genre>
+<year>2023</year>
+<tmdb>899445</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ruujFw7J0Nd3BSjbN3QODym82Qs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dvNrgldueQciabkYmlCnyhmaPoO.jpg</fanart>
+<info>Naomi emprende un viaje en solitario por el Caribe para encontrarse con su novio. Navegando encuentra los restos de un barco y a tres supervivientes.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/rZctT49UyvQ"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/rKwWDLpbaVtbbvY"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/k8to0nt1fyg0"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/ghd893f840py"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] After: Aquí acaba todo [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Romance, Drama</genre>
+<year>2023</year>
+<tmdb>820525</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jO3VGQi5sHIj2BGS963g1F74yCq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jkKVLzLWjSvTnc84VzeljhSy6j8.jpg</fanart>
+<info>After llega a su fin. Por fin conoceremos cómo acaba la historia de Hardin y Tessa, dos almas gemelas que no pueden estar separadas, pero que no saben cómo estar juntas.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ywFMDfLNrgU"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/opRLvLpzLdSJVKm"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/mn3vp77988ks"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/4p42m1ayndi8"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Alma Mahler, la pasión [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2023</year>
+<tmdb>997777</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgOecwRZUrh2MmyPbtuoydDwI1y.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mvAxm6CKIVnzyFw2BWoNBZyCgoE.jpg</fanart>
+<info>En la primavera de 1912, Alma Mahler, recientemente viuda y Gran Dama de la Sociedad de Viena, se relaciona con el "Enfant Terrible" de la escena artística del momento, Oskar Kokoschka. Después de un tiempo, su romance, la lujuria y el deseo mutuo comienzan a amenazar la existencia de ambos hasta un punto de no retorno.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/SQZwM1GNHco"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/JoV9dW81potjBdl"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/taydpyh8sjt3"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/ogjvs6mqswjd"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El exorcista: Creyente [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Terror</genre>
 <year>2023</year>
