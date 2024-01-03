@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Paradise Highway [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Suspense, Crimen, Drama</genre>
+<year>2022</year>
+<tmdb>939979</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1RwwOCHykUwGZ16JGHBdSIzpiDt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vC0tDDqSDY0ApO5qyzyGcGSM8jp.jpg</fanart>
+<info>Un camionero se ha visto obligado a pasar de contrabando una carga ilícita para salvar a su hermano de una pandilla mortal en la prisión. Con agentes del FBI siguiéndole la pista, la conciencia de Sally se ve desafiada cuando el paquete final resulta ser una adolescente.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/wXp-lj9luJU"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/23ovBrLpp0TVqr"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/0ifvk8e7vwwp"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/fgdf1vwc05x2"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Deep fear [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Acción, Misterio, Suspense, Terror</genre>
 <year>2023</year>
