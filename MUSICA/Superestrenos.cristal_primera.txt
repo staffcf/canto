@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Háblame [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Terror, Suspense</genre>
+<year>2023</year>
+<tmdb>1008042</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rS8fjd6dYcf64v3ZhAE6fKrxoaF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/46Os8U0DEPmI0OnvKDxucl6SLVZ.jpg</fanart>
+<info>La solitaria adolescente Mia se engancha a la emoción de invocar espíritus utilizando una mano embalsamada, pero cuando se enfrenta a un alma que dice ser su madre muerta, desata una plaga de fuerzas sobrenaturales y se debate entre decidir en quién puede confiar: en los vivos o en los muertos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/g_ND5pnSkJ4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/dk44p1l81kFkxJr"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/7mn5q45p2g3y"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/8an3a44w6auk"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] The Creeping [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Terror</genre>
+<year>2022</year>
+<tmdb>969725</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dFcvY2tVKz9hfsopbZhTxvDbjkh.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hL9WT6hIPI2BJkimcffejGpj915.jpg</fanart>
+<info>Una joven preocupada se muda a casa para cuidar de su abuela enferma y pronto se encuentra luchando contra una presencia malévola con un oscuro secreto.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/k5ay5AR2QR8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/bG70mwpypPUPkqA"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/cfwl2jy4d1o4"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/oorna2v6s5u7"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Paradise Highway [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Suspense, Crimen, Drama</genre>
 <year>2022</year>
