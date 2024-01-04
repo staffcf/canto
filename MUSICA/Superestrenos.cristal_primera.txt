@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] La sociedad de la nieve [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre><Drama, Historia/genre>
+<year>2023</year>
+<tmdb>906126</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/beCxZp3SDyEsAhPvmF4RMF5ks2o.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vdpE5pjJVql5aD6pnzRqlFmgxXf.jpg</fanart>
+<info>El 13 de octubre de 1972, el vuelo 571 de la Fuerza Aérea Uruguaya, fletado para llevar a un equipo de rugby a Chile, se estrella en un glaciar en el corazón de los Andes.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/pGMhsKKmgOY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/Vz1wqxeQ9otkx0"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/dt56sljv5zii"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/wd1unmorkp7z"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Háblame [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Terror, Suspense</genre>
 <year>2023</year>
