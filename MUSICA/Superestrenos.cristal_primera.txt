@@ -5,6 +5,66 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Trolls 3: Todos juntos [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Animación, Familia, Música, Fantasía, Comedia</genre>
+<year>2023</year>
+<tmdb>901362</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yco6dWR1W3iANUEKxGT0vQRWrJn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/k1KrbaCMACQiq7EA0Yhw3bdzMv7.jpg</fanart>
+<info>Cuando Floyd, uno de los hermanos de Branch, es secuestrado por una pareja de maléficas estrellas del pop para aprovecharse de su talento musical, Branch y Poppy tendrán que embarcarse en un viaje tan aterrador como emotivo para reunir a la familia y rescatar a Floyd de un destino aún peor que el desolador olvido de los fans.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/U9IvMjKjXhA"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/bz464z6XletP8XL"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/0j39j5na9ki5"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/04tcjct7a16y"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Las dos caras de la justicia [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2023</year>
+<tmdb>1000492</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s2OmmHh6xfWPzl4HdiuFhdPR9k.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wVUP1M866Jfo6YBl7z43g573ALC.jpg</fanart>
+<info>Desde 2014, en Francia, la justicia restauradora ofrece a las víctimas y perpetradores de delitos la oportunidad de diálogo a través de sistemas seguros, supervisados por profesionales y voluntarios como Judith, Fanny o Michel. Nassim, Issa y Thomas, sentenciados por robo con violencia, Gregoire, Nawelle y Sabine, víctimas de robo y bolso. También Chloe, víctima de una violación incestuosa, se involucra en medidas de justicia restauradora. En su viaje, hay ira y esperanza, silencio y palabras, alianzas y desamor, conciencia y confianza recuperada. Y al final del camino, a veces, reparación.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/W8CoqmRGlOI"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/ld6q36exk1C74dA"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/3kcqyhglllyv"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/2jsfgou1x9r5"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Intruso [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Ciencia ficción, Misterio, Suspense, Drama</genre>
+<year>2023</year>
+<tmdb>760245</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6I7a7HcuvVAjm9349tG41dOeLs1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tFxAeagQbrjCqjikwvfsLf6ktT7.jpg</fanart>
+<info>Hen y Junior cultivan un trozo recóndito de tierra que ha sido propiedad de la familia de Junior durante generaciones, pero su tranquila vida sufre un vuelco cuando un extraño aparece en su puerta inesperadamente con una inquietante proposición.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/dPt-4jQELIw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/gPJkBbQrzQiqlYy"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/ve1ej46ohm30"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/zw50f4wfquov"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] The OctoGames [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Suspense, Acción, Terror</genre>
+<year>2022</year>
+<tmdb>1028703</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qGz5rffXhegQH5PGUDiObqoOt06.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ruKNVJFViAyR4jguVboFXTskMOe.jpg</fanart>
+<info>8 concursantes compiten en 8 juegos infantiles clásicos y mortales. Buscan la fama más allá de sus sueños más salvajes, compitiendo por la oportunidad de apoderarse del canal de YouTube del famoso pero escurridizo YouTuber enmascarado conocido solo como "JaxPro".</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/luwZJPaNp7w"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/v26KgO88kzsL1W"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/ddaaanptyvno"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/6nbyad3fjnme"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Una noche con Adela [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Suspense</genre>
+<year>2023</year>
+<tmdb>1117676</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4gEGY23iNhWoBd7BzlwTN6vr1ip.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mQy2b0Oq28L24XucLTaqPKpdPWi.jpg</fanart>
+<info>Adela, una barrendera del turno de noche en la ciudad de Madrid, es una persona vacía, triste y perturbada. Esta noche, cuando acabe su turno de trabajo, ajustará cuentas con quienes considera culpables de convertirla en lo que es, una ruina humana.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/hJdh8odxqnI"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/eoxmlw3bA4CY08D"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/nr5ediz774ai"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/9gp7npkzyzbk"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] La sociedad de la nieve [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama, Historia</genre>
 <year>2023</year>
