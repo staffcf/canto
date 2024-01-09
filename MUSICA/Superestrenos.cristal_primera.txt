@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Napoleón [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Historia, Aventura, Bélica, Drama</genre>
+<year>2023</year>
+<tmdb>753342</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/1sSyBlo4Zcks3DxxM3Q83n6bUOV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ejMY5ZmsmjZbiNzTeQZ35C9guDU.jpg</fanart>
+<info>Una mirada personal a los orígenes del líder militar francés y su rápido y despiadado ascenso a emperador. La historia se ve a través de la lente de la relación adictiva y volátil de Napoleón Bonaparte con su esposa y único amor verdadero, Josefina.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/v0_gxsfmY4Q"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/79wB3aQLp2UA0pk"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://vidhidepro.com/f/3so62ltlxnu8"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/a685gcrh9i84"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Beau tiene miedo [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Aventura, Fantasía</genre>
+<year>2023</year>
+<tmdb>798286</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/6bvITjsMqTcPYQDqiLEkL1SJ27p.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/o3YleBe0QGNNlUqm6CnJVqGQQH4.jpg</fanart>
+<info>Beau, Phoenix es un hombre que tendrá que enfrentarse a sus miedos y paranoias al aventurarse en una épica odisea para llegar a casa de su controladora madre.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/FMBpGNy-500"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/xlmdYd689rhkdVG"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://vidhidepro.com/f/pbm6fljk983c"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/zf3gfs4bap6f"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Trolls 3: Todos juntos [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Animación, Familia, Música, Fantasía, Comedia</genre>
 <year>2023</year>
