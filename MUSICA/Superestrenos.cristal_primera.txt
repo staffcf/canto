@@ -5,6 +5,78 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Verano en rojo [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Suspense</genre>
+<year>2023</year>
+<tmdb>1143291</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qqL8JReIiUMxruMaBuf5rRwtUZN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tWKNapTBwhuBNmz3sNOsTBUYgiE.jpg</fanart>
+<info>Verano de 2010. La comisaria María Ruiz (Marta Nieto) se enfrenta a un tenebroso crimen: un joven ha aparecido asesinado. Sin identidad visible. Sin pistas aparentes. Sin móvil. Mujer concienzuda y tenaz, María iniciará una investigación que se complicará aún más cuando se produce un segundo asesinato. Pero no está sola, el veterano periodista Luna (Jose Coronado), un maestro de la profesión acorralado por la crisis y la era digital, será clave para solucionar un caso que les llevará hasta las puertas de una importante orden religiosa.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/_qnWmiHbuUM"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/yoevPRoVAMc1WmV"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/vuk4f16yxmyp"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/5gpmimnaycgs"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Una vez más [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Acción, Suspense</genre>
+<year>2024</year>
+<tmdb>1214314</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pJ8mTt2L9PtpEniMJ9dzpQ9avLK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uKP0B8HUJ08fas7NF77Xwu0bolJ.jpg</fanart>
+<info>Tras el atentado contra el centro clandestino de Polonia, el Navy SEAL Jake Harris recibe la orden de escoltar al sospechoso de terrorismo Amin Mansur hasta Washington D.C. para ser interrogado.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/W1kCbtjPJ2U"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/4qoyp0l3yWhKDDm"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/renmd24gjaw1"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/pj28u73m8dbj"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Increíble pero cierto [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Comedia, Drama, Fantasía, Misterio</genre>
+<year>2022</year>
+<tmdb>735697</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fodW9NYZzbdYsy4XukGWE0ROETq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1bBq4sVRqqdVIlg1rTF76rgOYU0.jpg</fanart>
+<info>Conseguir vivienda hoy en día es una auténtica odisea; quizá por esto, Alain y Marie no dudan en comprar una casa que lo tiene todo, incluso un sótano con extrañas propiedades. Poco a poco, Marie se irá haciendo adicta a adentrarse en la planta baja de su nuevo hogar, mientras la pareja se debate entre compartir o mantener el secreto del lugar con sus nuevos vecinos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/3LV5tx5e4F0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/02vPd3dRGvibbvZ"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/v1c4256ry3wv"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/t1sp7144z507"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Alma viva [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2022</year>
+<tmdb>958192</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tf5d4OWsKoftpyO1Xp07khxE5nn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4PleBSvEXg3yBt9F2USOK12zh5I.jpg</fanart>
+<info>Como cada verano, la pequeña Salomé regresa de vacaciones a su pueblo familiar enclavado en las montañas portuguesas. El periodo estival arranca con tranquilidad pero su adorada abuela fallece repentinamente. Mientras los adultos se pelean en la organización del funeral, a Salomé le persigue el espíritu de la que todos consideraban una bruja.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/MchLM4P4nRs"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/PJrVAjbWWRSbLL"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/ixf0miism2xd"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/079t01l10sd8"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Zillion [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama, Crimen, Música</genre>
+<year>2022</year>
+<tmdb>678870</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e1OP1ogGyajEfbNX50AIxJrS4nI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zh1eumUGonETdYX7YC2GnAzR7mH.jpg</fanart>
+<info>La película detalla el ascenso y caída de Frank Verstraeten, un visionario de la informática, quien junto a un productor de cine para adultos y Miss Bélgica, inaugura Zillion, una revolucionaria megadiscoteca en Amberes. Zillion, pionera en la era digital y epicentro de la vida nocturna, vive un auge meteórico, abriendo nuevas fronteras en el entretenimiento. Sin embargo, su éxito fulgurante solo dura cinco años, terminando en una caída espectacular que captura la esencia de lo efímero y lo fascinante.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ZOFVTVEUJfU"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/lxB6XOe64LH7k22"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/u47dd7j3681w"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/xxhaf36bdvoc"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] 8 Found Dead [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Terror, Suspense</genre>
+<year>2023</year>
+<tmdb>1035705</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tSJKiMXE04YkaYG2zPIMQcbMXc3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/a3omMDBJ2qVx37Um1BlGKslORUN.jpg</fanart>
+<info>Dos parejas conducen a una casa aislada en el desierto para una escapada de fin de semana, cada una con su propio equipaje, expectativas y secretos. A su llegada, se encuentran con dos extraños, que afirman haber alquilado la casa también.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Q69QSCVvm9Q"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/kZbDDLyBxocO1Lg"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/79s3ncohqxh1"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/dpuu91a7w3zt"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Napoleón [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Historia, Aventura, Bélica, Drama</genre>
 <year>2023</year>
