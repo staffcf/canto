@@ -2019,6 +2019,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Echo[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>122226</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Echo</externallink>
+<info>Perseguida por el imperio de Fisk, Maya vuelve a casa, donde hará frente a su legado y a su familia.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/4m2kop1q6OLnOz7MWZmdzZbSNkh.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gkUFThxglJ1heDhmcRA7UlHbmYG.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Echo 3[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>106116</tmdb>
@@ -2649,13 +2659,21 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
-<title>[COLOR gold]* [COLOR white]El Mismo Dia A La Misma Hora[COLOR white][/COLOR]</title>  
-<link>cristalazul</link>
+<title>[COLOR gold]* [COLOR white]El Mismo Dia A La Misma Hora[COLOR white][/COLOR]</title> <link>cristalazul</link>
 <tmdb>1015598</tmdb>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.mismo.dia.a.la.misma.hora</externallink>
 <info>Barcelona, hora punta. Marc (35) camina decidido, acompañado por su amigo Raúl (37). A pesar de que tiempo atrás sufrió un infarto y está siendo tratado con un fármaco experimental, Marc está preocupado sólo por una cosa. En los últimos meses ha conocido a una mujer, Lucía. Después de dos intentos frustrados, está decidido a declararse a las 15:45. Ahora mismo se dirige hacia donde trabaja ella. Raúl cuestiona de forma divertida el valor de Marc. Está convencido de que, una vez más, fracasará.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/oDY8uW0VTeW3IMois3TfZ9TcD7j.jpg</thumbnail>
 <fanart>https://i.imgur.com/dD8IE8S.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]El Monstruo De La Vieja Seul[COLOR white][/COLOR]</title> <link>cristalazul</link>
+<tmdb>1015598</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.monstruo.de.la.vieja.seul</externallink>
+<info>En la primavera de 1945, una época lúgubre y siniestra, un hombre y una mujer luchan por sobrevivir mientras se enfrentan a monstruos nacidos de la avaricia humana.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/ks9O01flCHrqnmJ4yBgQc0K7ivZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/peVe0NQNdZMXwtTohnv8iwJQb2d.jpg</fanart>
 </item>
 
 <item>
