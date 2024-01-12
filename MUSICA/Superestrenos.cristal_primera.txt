@@ -29,11 +29,11 @@
 
 
 <item>
-<title>[COLOR white] Vida perra [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<title>[COLOR white] Vida perra (Strays) [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Comedia, Aventura</genre>
 <year>2023</year>
 <tmdb>912908</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/986k6nELTlGQoeP3Brb2XWEZ0E8.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2pbhJScFn4ahp0bbRjXCXA8fb2T.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/mfm4srsPALxaeOMFFFJ0drXTyXy.jpg</fanart>
 <info>Un perro abandonado se une a otros perros callejeros para vengarse de su antiguo dueño.</info>
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/DpqtCHaGE9I"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/PLY67V10DJs0qo7"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/cb17wioq6kfr"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/028gf3k5wz1k"}</urlsolve>
