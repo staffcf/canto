@@ -11,7 +11,7 @@
 <tmdb>1045205</tmdb>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cTAjsAHYUY3X7hvElEqa4KpMnbo.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/8rStn8Axrw8ZFX2yxaTEPRFk9HU.jpg</fanart>
-<info><En el verano de 1990, Maria y Johannes crean un refugio en el desván de una casa en la frontera alemana que ya no existe. El futuro parece claro hasta que Maria conoce a Henner y se enamora de él de una forma sensual, cruda y despiadada.</info>
+<info>En el verano de 1990, Maria y Johannes crean un refugio en el desván de una casa en la frontera alemana que ya no existe. El futuro parece claro hasta que Maria conoce a Henner y se enamora de él de una forma sensual, cruda y despiadada.</info>
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/encLWUq_V9E"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/wVOqqRl6z4fJ1V0"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/7ns0jz3imkax"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/3zotze8yg0rt"}</urlsolve>
 </item>
 
