@@ -6032,6 +6032,16 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Monarch: El Legado De Los Monstruos[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>202411</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Monarch.el.legado.de.los.monstruos</externallink>
+<info>Tras sobrevivir al ataque de Godzilla en San Francisco, un espeluznante secreto vuelve a sobrecoger a Cate. En medio de amenazas monstruosas, se embarca en una aventura por todo el mundo para descubrir la verdad sobre su familia y la misteriosa organización conocida como Monarca.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/maoWfoFB0OVJTaS65lYW9npA7gU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uZNFICGHzPUBnvyHZ5zbcAMW5sQ.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Monsterland[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>107119</tmdb>
