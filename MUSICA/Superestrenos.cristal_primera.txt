@@ -12,7 +12,7 @@
 <thumbnail>https://image.tmdb.org/t/p/original/t6RSJ1z8bDEYpk4fLwxfkXciUak.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/j1tsaNApV08jGHd5MuZnbOLEh1b.jpg</fanart>
 <info>Un guardia de seguridad con problemas comienza a trabajar en Freddy Fazbear's Pizza. Mientras pasa su primera noche en el trabajo, se da cuenta de que el turno de noche en Freddys no será tan fácil de superar.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/6mQhpbXV3UY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/pDRjd8gQr4IreMl"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://vidhidepro.com/f/q6psb2v4pbox"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/00iz4spor2pt"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/6mQhpbXV3UY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/pDRjd8gQr4IreMl"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://vidhidepro.com/f/q6psb2v4pbox"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/00iz4spor2pt"},{"titulo" : "[COLOR white]Torrent BD 1080[/COLOR]","url" : "magnet:?xt=urn:btih:TEEIM3O7DEVPKO4ESO6OSBPD3P7BWJOH"},{"titulo" : "[COLOR white] Torrent 4K[/COLOR]","url" : "magnet:?xt=urn:btih:TTFJZ6S4S66VTXRA5FNWUR7RIDAULNGN"}</urlsolve>
 </item>
 
 
