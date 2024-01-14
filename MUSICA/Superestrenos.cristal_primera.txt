@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Al otro lado del río y entre los árboles [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2023</year>
+<tmdb>763147</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bKoZ84obvGOOzFhC1v0DlTJLvyI.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/snidJ8vDKE8hYS8t5B564dN0nWQ.jpg</fanart>
+<info>Italia, después de la Segunda Guerra Mundial. Richard Cantwell es un coronel del ejército estadounidense atormentado por la guerra, que se enfrenta a la noticia de que padece una enfermedad terminal con estoica indiferencia. Un encuentro casual con una joven comienza a reavivar en él la esperanza de renovarse.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/rxrCkc231X0"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/XyGJ3j2VOrUDVg0"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/c3cxepjvhn1j"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/prq83awbfepd"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Los osos no existen [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama, Romance</genre>
+<year>2022</year>
+<tmdb>974521</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kn89AUYShnXI6W7SpxN3ChMzoWe.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cg5LEgjffD3uhE7kOnvkvvpAfL2.jpg</fanart>
+<info>Dos historias de amor paralelas en las que los deseos de las parejas se ven frustrados por obstáculos ocultos e inevitables, la fuerza de la superstición y la mecánica del poder.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/NLYwDltaYzs"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/OkXdrL3xeOUWzw"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/hesf06cg194d"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/629w05g76q6r"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Five Nights at Freddys [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Terror, Misterio</genre>
 <year>2023</year>
