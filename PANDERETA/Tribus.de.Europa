@@ -95,7 +95,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 ]]></expres>
 <page></page>
 </regex>
-<info>Serie de TV (2020-). En 2074, tres hermanos luchan por cambiar el destino de Europa, gobernada ahora por diferentes tribus desde que una catástrofe global fracturara el continente en innumerables microestados enfrentados entre sí.</info>
+<info>En 2074, tres hermanos luchan por cambiar el destino de Europa, gobernada ahora por diferentes tribus desde que una catástrofe global fracturara el continente en innumerables microestados enfrentados entre sí.</info>
 <thumbnail>https://i.imgur.com/G8xaCJr.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 </item>
