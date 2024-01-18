@@ -5,6 +5,42 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Operación Napoleón [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Suspense</genre>
+<year>2023</year>
+<tmdb>1002338</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/icDJzeudwaF5XVQsC3BJkTMT1Zj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/oghHR3X0hIcvs7xqyoFjA0GAZWn.jpg</fanart>
+<info>Una abogada se involucró en una conspiración internacional después de ser acusada de un asesinato que no cometió. La única posibilidad de supervivencia radica en descubrir el secreto de un viejo avión alemán de la Segunda Guerra Mundial, descubierto en el glaciar más grande de Islandia.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/yTifQXpJtOc"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/arzyoOBdz2iMgd"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/cllkrclm5pag"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/17popyto95tb"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] The Marvels [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Ciencia ficción, Aventura, Acción</genre>
+<year>2023</year>
+<tmdb>609681</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cLSNV04YUkTL33fzXY1owroZQau.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/feSiISwgEpVzR1v3zv2n2AU4ANJ.jpg</fanart>
+<info>Cuando sus obligaciones la envían a un agujero de gusano vinculado a un revolucionario kree, los poderes de Carol Danvers, la capitana Marvel, se entremezclan con los de Kamala Khan, también conocida como la Sra. Marvel y la sobrina de Carol, ahora astronauta de S.A.B.E.R., Monica Rambeau. Juntas, deberán salvar el universo como "The Marvels".</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/aTy0YYepMh8"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/GPaxjzRqw7H1e63"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/617kfufeib1y"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/2bhlob7p1e2a"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Esperando a Dalí [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Romance</genre>
+<year>2023</year>
+<tmdb>1091044</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oUvQuOq4oIfnS0KTk6vuHPDay2A.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/daNHscf6jeEIBvNIN2qqu0gWfgu.jpg</fanart>
+<info>Los hermanos Fernando y Alberto, cocineros del mejor restaurante francés de Barcelona, huyen a Cadaqués debido a las implicaciones políticas de uno de ellos. Una vez allí, quedan atrapados por el "ambiente mágico" del lugar, impregnado por la presencia del artista universal Salvador Dalí. Jules, el excéntrico propietario del restaurante El Surreal, los contrata como friegaplatos y les hará compartir su obsesión por Dalí. Mientras esperan ansiosos la llegada del artista, Fernando se enamora de Lola, la hija de Jules, quien le influirá para empezar una verdadera revolución en el mundo de la cocina.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/BesPVvIZ6Xg"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v//gwY40w3zgdsqwgm"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/s0igd6rh1ic8"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/2sj730wlkjnp"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Al otro lado del río y entre los árboles [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama</genre>
 <year>2023</year>
