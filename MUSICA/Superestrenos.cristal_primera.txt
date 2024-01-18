@@ -5,6 +5,54 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Passages [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Romance, Drama</genre>
+<year>2023</year>
+<tmdb>898673</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/21okbEPDw5giFz9cHtNiu2XEN3O.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2178xLOOzDzyAPMI7qpDU5W3Hya.jpg</fanart>
+<info>El último día de su rodaje en París, el director de cine Tomas se acuesta con una mujer y se lo cuenta orgulloso a su marido. Una relación apasionada, celosa y narcisista se desarrolla entre Tomas, Agathe y Martin.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/eQ4EzXkUUYM"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/qKlL76RZGYUAAX"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/iiykys3anyuq"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/b5qtx1xbwcvz"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Hypnotic [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Misterio, Suspense, Acción, Ciencia ficción</genre>
+<year>2023</year>
+<tmdb>536437</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3IhGkkalwXguTlceGSl8XUJZOVI.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/s2i9OfFiw0ASCugT8OH8gCPC1NE.jpg</fanart>
+<info>Un detective se ve envuelto en un misterio en el que está involucrada su hija desaparecida y un programa secreto del gobierno mientras investiga una serie de atracos de alto nivel.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/F9HEJA1Oo6U"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/reX8jxm4grIbLaL"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/qophp3lo7k8y"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/iyasgz68tv43"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Houria (Libertad) [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2023</year>
+<tmdb>926893</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/91pUUTPsTmvnwM9ChLBy8W6rjsY.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tftL4VLKYNDCFsxp0mWZjRmAIfB.jpg</fanart>
+<info>Una joven apasionada por el ballet experimenta un trauma. Luego conoce a otras mujeres que han experimentado situaciones similares y encuentran una forma creativa de canalizar su pasión.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/W7ZRGu290rs"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/x3Z9VmVlP0hkLW6"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/mw9jjewosd4h"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/zydl92r280zo"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Wolves [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre></genre>
+<year>2022</year>
+<tmdb>956926</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AkzowWuMnbe4uZtKh8zS2klvDiA.jpg</thumbnail>
+<fanart></fanart>
+<info>Un joven recluso se topa con una serie de casos sin resolver. Estos hechos lo arrastran a lo más oscuro de la sociedad y debe enfrentarse a sus propios demonios para descubrir la verdad. Inspirada en hechos reales.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/dWrv9Tw5cFE"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/rDKpx7dbglIxdW"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/da3gdfbr0rjw"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/yqb9ozge0kow"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Esperando a Dalí [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Comedia, Romance</genre>
 <year>2023</year>
