@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Wonka [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre><Comedia, Familia, Fantasía/genre>
+<year>2023</year>
+<tmdb>787699</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tFyQa5WQqldIL44HBLaCmn5eERD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yOm993lsJyPmBodlYjgpPwBjXP9.jpg</fanart>
+<info>Basada en el personaje que protagoniza "Charlie y la fábrica de chocolate", el libro infantil más emblemático de Roald Dahl y uno de los más vendidos de todos los tiempos, "Wonka" cuenta la historia de cómo el mayor inventor, mago y chocolatero del mundo se convirtió en el querido Willy Wonka que conocemos hoy en día.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/hQdTXGfDWgY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/MAYZJJVeOmimj1j"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/jd6mfabee0eq"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/6ru6zligsxud"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Monstruo (Kaibutsu) [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama, Suspense</genre>
 <year>2023</year>
