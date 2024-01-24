@@ -5,6 +5,78 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Wish: El poder de los deseos [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Animación, Familia, Fantasía, Aventura</genre>
+<year>2023</year>
+<tmdb>1022796</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1VXMrUioKfPAPSsezHKexx77Dbz.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ehumsuIBbgAe1hg343oszCLrAfI.jpg</fanart>
+<info>Asha y una pequeña bola de energía ilimitada llamada Star demuestran que cuando la voluntad de un ser humano valiente se conecta con la magia de las estrellas, pueden suceder cosas maravillosas.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/WPVF02itjAU"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/VrdJ4P4xymuKLVA"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/un1alkv891d4"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/wy4kepy4i5bm"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Golpe de suerte [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Drama, Romance</genre>
+<year>2023</year>
+<tmdb>859235</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kxi4h15TAIcC1B6xHAjTNybgYW2.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xSIJy4vPKpo2uw6q7HNBhIvQaj6.jpg</fanart>
+<info>Fanny y Jean parecen el matrimonio ideal: ambos son profesionales consumados, viven en un precioso apartamento en un exclusivo barrio de París y parecen tan enamorados como cuando se conocieron. Pero cuando Fanny se cruza accidentalmente con Alain, un antiguo compañero de instituto, cae rendida a sus pies. Pronto vuelven a verse y se acercan cada vez más...</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Ohcoh0KRvxg"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/bzdYYKogjYtPpL8"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/515qu80zvcxk"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/2ea03ulk19so"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El valle de la esperanza [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Romance</genre>
+<year>2023</year>
+<tmdb>967549</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1lvKpDITr9lHElqfWkuc69BgBBL.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8zIL0AAu0XnsxRetFxplglLXici.jpg</fanart>
+<info>Líbano, verano de 1958. Tres hermanas pertenecientes a la buena sociedad cristiana están de vacaciones en las montañas libanesas. La tranquila vida del pueblo se ve sacudida por los ecos de una revolución que retumba en Beirut y por la llegada de dos veraneantes franceses. Pero es en el seno de la familia donde se produce la agitación. La hermana mayor, Layla, perfecta madre y esposa, abrirá los ojos a la sociedad patriarcal que las mantiene bajo control. En el joven Líbano que sueña con una edad de oro, ¿puede una mujer tener un destino distinto del trazado por los hombres?</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/KeALla1KvGA"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/jA4MB3MPWGCm11"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/v1wa7ovbfvry"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/f1yrgmahujbc"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Champions [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2023</year>
+<tmdb>933419</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yVgtsoXyTZBww7SWE4JE1U4Wcel.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/l2VqHMBEwAYZh6DeAZSlOzAXw7N.jpg</fanart>
+<info>Un equipo de baloncesto entrena y compite en las Olimpiadas Especiales bajo la guía de un entrenador imperfecto pero dedicado, Marcus. Remake de la exitosa película de Javier Fesser 'Campeones'</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/9h3MrkxTSGk"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/vKbdZYbMvKi4RMk"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/ltrncj4s2qeh"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/2wazfs6dv4gj"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Mi gran boda griega 3 [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Romance</genre>
+<year>2023</year>
+<tmdb>1001811</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sELPfcRyVmqncxbHCd1Lxc8HdXD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eiIvFiqOClwNX3nUmRlEmNarFCk.jpg</fanart>
+<info>La familia Portokalos viaja a Grecia para asistir a una reunión familiar en un viaje conmovedor e hilarante lleno de amor, giros y sorpresas.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/xRBT-v5NSJE"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/MXmOaoOkBDFmjKa"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/zorocx8hey2w"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/m8lf6vg4ec03"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Alimañas [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2023</year>
+<tmdb>816707</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5pJ9rrCjmw3YF0NGAdof1gzZGIY.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7xWSGLIP7x1ur3y2OwKKsOE86Un.jpg</fanart>
+<info>La historia de una madre que no se quiere morir y un par de hijos ruines que solo piensan en heredar.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/eyhlVeJmBUY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/vYAR9OWWlqi40KL"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/zowej4tshahu"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/bww1n30izbx4"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Wonka [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Comedia, Familia, Fantasía</genre>
 <year>2023</year>
