@@ -5,6 +5,54 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Lluvia acida [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Fantasía</genre>
+<year>2023</year>
+<tmdb>852445</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4N5ZRvCNWpT3JnzjKkxCKQ0pc3c.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rzz7TBviOvDgIeujt2h9GwxV0AJ.jpg</fanart>
+<info>Durante una ola de calor, unas nubes extrañas comienzan a arrojar lluvia ácida, causando devastación y pánico en toda Francia. En un mundo al borde del abismo, una joven y sus padres divorciados deben unir fuerzas para tratar de escapar de esta catástrofe climática.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/XeRo7qpNFxo"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/vBXq9WDMglT4VpY"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/5u5vrf4miy8m"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/jx0oqm79wr5v"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Good Boy [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Terror, Suspense</genre>
+<year>2022</year>
+<tmdb>983507</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9DPG1gxLwV2oyFdHq3SnISsWbse.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AucuqDaUW4z1oT5XyL71qwRY2F6.jpg</fanart>
+<info>Christian conoce a Sigrid a través de una aplicación de citas. Congenian rápidamente, pero solo hay un problema: Christian vive con Frank, un hombre que se disfraza y actúa constantemente como un perro.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/5I8b9AOZJTA"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/88Vzl4QYV8IJ40"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/vuwqf2wy33oz"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/jyig0lwahs86"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Erik Corazón de piedra (Erik Kivisüda) [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Familia, Aventura, Fantasía</genre>
+<year>2022</year>
+<tmdb>610411</tmdb>
+<thumbnail>http://imgfz.com/i/1rylGpH.jpeg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/sahEoCriObjyEVeSwO7pB4M4rmC.jpg</fanart>
+<info>Erik está convencido de que tiene una piedra por corazón. Es por eso que no le importa que sus padres no tengan tiempo para él, o que sea acosado en la escuela, o que no tenga amigos de verdad. Cuando su familia se muda a una villa que heredaron, se enfrenta a María, a quien los padres de Erik quieren echar junto con su padre. María se niega a mudarse y promete hacer de la vida de Erik un infierno. Como último intento de derrotar a Erik, María va a buscar a su madre desaparecida hace dos años. Juntos terminan en un viaje fantástico al Mundo Intermedio y Erik aprende lo difícil que es realmente usar un corazón de piedra.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/6-UJ51l-mvc"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/7pzy9Bo2pPT8aD"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/rpkuuijso4he"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/qw3nthwerzau"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Bill Kwai y el asalto al museo [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Animación, Aventura</genre>
+<year>2023</year>
+<tmdb>1187998</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Ah8OCTKxVvaEuADSTv9tGFGertI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Ah8OCTKxVvaEuADSTv9tGFGertI.jpg</fanart>
+<info>Bill Kwai, un niño muy travieso, llega accidentalmente a un universo paralelo gracias a uno de sus inventos. De este nuevo mundo se escapa un misterioso hombre que roba el preciado Bastón de Oro del Antiguo Shu del museo de la ciudad. Bill y sus amigos se verán arrastrados a una alocada aventura para recuperar la reliquia. ¿Lograrán superar todos los obstáculos para encontrar el Bastón de Oro y poder volver a casa?</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/-rPKhVfgyzQ?si=gSCEtdBcHLHLX9pi"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/xbXwR21w8GfkWyL"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/nfmvqq76wywy"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/wwmk1j73jhsc"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Wish: El poder de los deseos [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Animación, Familia, Fantasía, Aventura</genre>
 <year>2023</year>
