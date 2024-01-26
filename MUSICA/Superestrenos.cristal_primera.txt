@@ -5,7 +5,7 @@
 ==========================================================================================
 
 <item>
-<title>[COLOR white] Lluvia acida [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<title>[COLOR white] Lluvia ácida [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama, Fantasía</genre>
 <year>2023</year>
 <tmdb>852445</tmdb>
@@ -48,7 +48,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Ah8OCTKxVvaEuADSTv9tGFGertI.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Ah8OCTKxVvaEuADSTv9tGFGertI.jpg</fanart>
 <info>Bill Kwai, un niño muy travieso, llega accidentalmente a un universo paralelo gracias a uno de sus inventos. De este nuevo mundo se escapa un misterioso hombre que roba el preciado Bastón de Oro del Antiguo Shu del museo de la ciudad. Bill y sus amigos se verán arrastrados a una alocada aventura para recuperar la reliquia. ¿Lograrán superar todos los obstáculos para encontrar el Bastón de Oro y poder volver a casa?</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/-rPKhVfgyzQ?si=gSCEtdBcHLHLX9pi"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/xbXwR21w8GfkWyL"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/nfmvqq76wywy"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/wwmk1j73jhsc"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/-rPKhVfgyzQ?si=gSCEtdBcHLHLX9pi"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/PXVkXqPGmLT03bk"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/nfmvqq76wywy"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/wwmk1j73jhsc"}</urlsolve>
 </item>
 
 
