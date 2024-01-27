@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Cazadores en tierra inhóspita [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Acción, Ciencia ficción</genre>
+<year>2024</year>
+<tmdb>933131</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jPGbcbMlzGUECukPhkEMVt1Kvs5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2J5oxo9hNELC7GkUGpm6kByQi44.jpg</fanart>
+<info>Después de un terremoto que convierte Seúl en una tierra inhóspita y sin ley, un cazador entra en acción para rescatar a una chica en manos de un médico trastornado. Secuela del film de 2023 “Concrete Utopia”</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Q-hzLXhaAvY"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/R4gQp2qQ9BcdR22"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/cmxum727tse4"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/pcuvd5qyjmr3"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La habitación de las maravillas [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2023</year>
+<tmdb>890203</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/15uVxoYks5s4c9A8YLmtTqEDm6b.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vmLBMvDCz3wqoEjHy986bo1BeYg.jpg</fanart>
+<info>La vida de Thelma da un giro trágico cuando un accidente deja en coma a su hijo Louis de 12 años. Decidida a despertarlo por todos los medios, acepta el alocado reto de completar una a una las "10 cosas que hay que hacer antes del fin del mundo" que él había escrito en su diario, para mostrarle todas las cosas maravillosas que ofrece la vida. Este viaje a través de los sueños de su hijo adolescente la llevará mucho más lejos de lo que nunca había imaginado, llegando a reavivar sus propias ganas de vivir.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/HuJCzy3mjLI"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/zQ09KX6DrqSYqop"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/jjdyiefu70i5"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/bqa2w0ef0m6e"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Lluvia ácida [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama, Fantasía</genre>
 <year>2023</year>
