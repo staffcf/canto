@@ -48,7 +48,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9DPG1gxLwV2oyFdHq3SnISsWbse.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/AucuqDaUW4z1oT5XyL71qwRY2F6.jpg</fanart>
 <info>Christian conoce a Sigrid a través de una aplicación de citas. Congenian rápidamente, pero solo hay un problema: Christian vive con Frank, un hombre que se disfraza y actúa constantemente como un perro.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/5I8b9AOZJTA"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/88Vzl4QYV8IJ40"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/vuwqf2wy33oz"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/jyig0lwahs86"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/5I8b9AOZJTA"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/VPQVPRPDmAUP88	"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/mqyy35lkeyy7"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/eexug5g3qjqs"}</urlsolve>
 </item>
 
 
