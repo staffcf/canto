@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] The Hill [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre><Historia, Drama/genre>
+<year>2023</year>
+<tmdb>862557</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gKh28PVUqt1vY2oAdFlauXkDacW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/puUUsAri2UchyJgsbkpO3HZfKiw.jpg</fanart>
+<info>La historia de Rickey Hill, quien supera su discapacidad física y repara la relación con su padre en su búsqueda por convertirse en un jugador de las Grandes Ligas de Béisbol (MLB).</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/wXj7IRAAGb4"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/1xabkwby9eC0qx"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/bahpb36ph0gz"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/m4w22oskisae"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Cazadores en tierra inhóspita [/COLOR][COLOR yellow](2024)[/COLOR]</title>
 <genre>Acción, Ciencia ficción</genre>
 <year>2024</year>
