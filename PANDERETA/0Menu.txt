@@ -5822,13 +5822,23 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
-<title>[COLOR gold]* [COLOR white]Masters del Universo:Revelacion[COLOR white][/COLOR]</title>  
+<title>[COLOR gold]* [COLOR white]Masters del Universo: Revelacion[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>96658</tmdb>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Masters.del.Universo</externallink>
 <info>Serie de TV creada por Kevin Smith, cuyo argumento girará entorno a diversas líneas temporales sin resolver de la serie original de 1983.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/jccO17zIjB6lWUmRNCwzEs0QwA2.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/eOLKWXXbcZJg91Jf1Fn7odUirl3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Masters del Universo:Revolucion[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>234721</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Masters.del.Universo.Revolucion</externallink>
+<info>La tecnología y la magia se ven las caras mientras He-Man y sus amigos luchan contra los siniestros planes de Skeletor en una batalla épica por el control de Eternia.</info>
+<thumbnail>https://image.tmdb.org/t/p/original/s54EXuPe3BlQ4PlotUznkuIHgd9.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/gJd7leBA9VvRefWLYuVFHSBPVoW.jpg</fanart>
 </item>
 
 <item>
