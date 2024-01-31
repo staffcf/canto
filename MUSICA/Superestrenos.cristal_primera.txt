@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Voluntad (Will) [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Bélica, Historia</genre>
+<year>2023</year>
+<tmdb>973468</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6ctS4TqJakuMePvqr7HWyKeclpA.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hycr8NAoZgCtLxiSNYZL9kCQcCr.jpg</fanart>
+<info>Wilfried Wils debe sobrevivir como policía auxiliar durante la ocupación nazi de Amberes.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/fBb51Xf1btI"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/z1gAQkGZYeCyZG"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/qeytqeuhwg60"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/r8c64rt2o1fk"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Aquaman y el reino perdido [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Acción, Aventura, Fantasía</genre>
 <year>2023</year>
