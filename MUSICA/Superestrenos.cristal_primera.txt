@@ -5,6 +5,54 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Aquaman y el reino perdido [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Aventura, Fantasía</genre>
+<year>2023</year>
+<tmdb>572802</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rXpTUaZmmo91bPTNXZPkoHaOFM.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jXJxMcVoEuXzym3vFnjqDW4ifo6.jpg</fanart>
+<info>Al no poder derrotar a Aquaman la primera vez, Black Manta, todavía impulsado por la necesidad de vengar la muerte de su padre, no se detendrá ante nada para derrotar a Aquaman de una vez por todas. Esta vez Black Manta es más formidable que nunca y ejerce el poder del mítico Tridente Negro, que desata una fuerza antigua y malévola. Para derrotarlo, Aquaman recurrirá a su hermano encarcelado Orm, el ex rey de la Atlántida, para forjar una alianza improbable. Juntos, deben dejar de lado sus diferencias para proteger su reino y salvar a la familia de Aquaman, y al mundo, de una destrucción irreversible.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/UTiKi-uRY1o"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/y08odqRpzPi1qa0"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/5u3duqzoo0cf"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/7lh3otbx2as1"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Noche de Paz [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Aventura, Suspense</genre>
+<year>2023</year>
+<tmdb>891699</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e68RMVPRod1k4x4j3nBYwQrfGBK.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/x7evSP2hQh0R2DtiPi6tDy5eOSv.jpg</fanart>
+<info>Un padre afligido representa su tan esperada venganza contra una pandilla despiadada en Nochebuena.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/kTSlqvZYigA"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/AAb90p6WXefZY9"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/8luiiyuygjl3"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/r2058j2tsgo1"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] The Underdoggs [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre></genre>
+<year>2024</year>
+<tmdb>1007826</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4Eg4fntbZ6xOngbXta0irzqGM5N.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dT1bXXEd7cfuVsB7CMvOKYiRZWl.jpg</fanart>
+<info>Jaycen Jenning, una antigua superestrella de la NFL que, tras un encontronazo con la ley, acepta entrenar a un equipo de fútbol juvenil en lugar de ir a la cárcel con la esperanza de relanzar su incipiente carrera.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/2PZ9f9i3WHs"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/4BYxbo0aOKTrDZ"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/wdjplz9smlsl"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/ab9k52xqmaxj"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La ternura [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Fantasía, Romance</genre>
+<year>2023</year>
+<tmdb>1053996</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dXodb9g1HBCjlFDLhRSDyyyPWRV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/scjZzQUCMwaIn6uJHbKaOjLwO39.jpg</fanart>
+<info>La reina Esmeralda odia a los hombres porque siempre han limitado su libertad, así que no quiere que sus dos hijas corran la misma suerte; de modo que, por ello, cuando el barco en el que viajan pasa cerca de una isla aparentemente desierta, invoca una tormenta portentosa.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/zDUMdHMRVAU"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/PyrLPPRXK0cg9B"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/5u04od9fbzy6"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/aqf49993w9nl"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] The Hill [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Historia, Drama</genre>
 <year>2023</year>
