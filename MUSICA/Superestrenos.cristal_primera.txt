@@ -29,6 +29,30 @@
 
 
 <item>
+<title>[COLOR white] Amanece [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2023</year>
+<tmdb>1103439</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zhjtCIUiNvLnaeLOlWBK9ztv9GW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hV6O0Skafe0HjMcOqEND9kk4kkJ.jpg</fanart>
+<info>Alba y Martín emprenden un viaje hacia el sureste español. Hacen una parada en un cortijo aislado en mitad del desierto, cuya explanada está repleta de muebles y objetos a la venta. A medida que observan en silencio esas reliquias pertenecientes a relaciones rotas, perciben la nostalgia por un sentimiento ya agotado, cuyos últimos estertores les muestran que su viaje es una huida hacia delante.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/qA_LnTLHTWQ"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/8VWxbK8WKYFob1o"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/5duvtlvmp09p},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/j5ni5o0wp3gh"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La generación cápsula [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Ciencia ficción, Comedia, Romance, Drama</genre>
+<year>2023</year>
+<tmdb>889675</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cSPslo4NSYKFRaymnCNvqSxXZZn.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/3Ed9375VaD20Ko9Asf58wvP4PgT.jpg</fanart>
+<info>Ambientada en un futuro cercano donde la IA está de moda y la naturaleza se está convirtiendo en un recuerdo lejano, Rachel y Alvy son una pareja de Nueva York lista para llevar su relación al siguiente nivel y formar una familia.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/rGMx_7oAeUM"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/p17MbpJa8kUrQGl"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/anigupvwqzre"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/44bsh35bko5s"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Los guardianes de la fórmula [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama, Historia, Suspense</genre>
 <year>2023</year>
