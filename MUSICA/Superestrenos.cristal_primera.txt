@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Ajuste de cuentas [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Crimen, Drama, Suspense</genre>
+<year>2023</year>
+<tmdb>939335</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/original/rLu0yO1qCZnWevzofNNFfzJ30tM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/su7FqHdZez0oOvpZAbV7P6BGq0R.jpg</fanart>
+<info>El policía Jake Rosser presencia el impactante asesinato de su compañero por un misterioso asaltante. Mientras investiga la identidad del tirador, descubre una gran conspiración.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/rYY5QdEGEZw"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/1OMeK6OkVgieZwj"},{"titulo" : "[COLOR white]Lion[/COLOR]","url" : "https://filelions.to/f/mqzc81ol6nhi"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/nm4osfgacxdv"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Amanece [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama</genre>
 <year>2023</year>
