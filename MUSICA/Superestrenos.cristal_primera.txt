@@ -12,7 +12,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zhjtCIUiNvLnaeLOlWBK9ztv9GW.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/hV6O0Skafe0HjMcOqEND9kk4kkJ.jpg</fanart>
 <info>Alba y Martín emprenden un viaje hacia el sureste español. Hacen una parada en un cortijo aislado en mitad del desierto, cuya explanada está repleta de muebles y objetos a la venta. A medida que observan en silencio esas reliquias pertenecientes a relaciones rotas, perciben la nostalgia por un sentimiento ya agotado, cuyos últimos estertores les muestran que su viaje es una huida hacia delante.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/qA_LnTLHTWQ"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/8VWxbK8WKYFob1o"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/5duvtlvmp09p},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/j5ni5o0wp3gh"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/qA_LnTLHTWQ"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://streamtape.com/v/8VWxbK8WKYFob1o"},{"titulo" : "[COLOR white]Lions[/COLOR]","url" : "https://filelions.to/f/5duvtlvmp09p"},{"titulo" : "[COLOR white]Wolf[/COLOR]","url" : "https://wolfstream.tv/j5ni5o0wp3gh"}</urlsolve>
 </item>
 
 
