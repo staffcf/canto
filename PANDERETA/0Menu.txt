@@ -9009,6 +9009,25 @@ Una vez allí, se encontrarán con un enemigo mucho peor que los Goaul'd; los Wr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]TWD The Walking Dead: Daryl Dixon[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>211684</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.walking.dead.daryl.dixon</externallink>
+<info>Meses después de que lo vimos por última vez en "The Walking Dead", Daryl Dixon se ve transportado a través del Atlántico a Francia.</info>
+<thumbnail>https://image.tmdb.org/t/p/original/kdM24KINoAVK9wjCtDJCkdffEpc.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/mPNk4iFdkD8KsoDu9YLnVGvvvnl.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]TWD The Walking Dead: Dead City[COLOR white][/COLOR]</title>  <link>cristalazul</link>
+<tmdb>194583</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.walking.dead.dead.city</externallink>
+<info>"Dead City" amplía la narración de "The Walking Dead" en torno a dos personajes inolvidables que los fanáticos han llegado a amar, odiar y luego amar en Maggie y Negan. También explora un rincón de este universo ubicado en la isla de Manhattan, con un horizonte icónico que adquiere un significado muy diferente cuando se ve a través de la lente de un apocalipsis zombie.</info>
+<thumbnail>https://image.tmdb.org/t/p/original/wq3vuQzQgbS83zX3malAFWMsSwX.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uuE1A2BSNMjvjpyA4LWIhExsn49.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]TWD The Walking Dead World Beyond[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>94305</tmdb>
