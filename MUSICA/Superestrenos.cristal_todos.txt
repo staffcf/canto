@@ -27917,7 +27917,7 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 <thumbnail>https://www.themoviedb.org/t/p/original/9G24WDiVEQZqzFk0lQ5fGWCCbEv.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/9xY4WB553gGdkt3SAgEj75MpRfa.jpg</fanart>
 <info>Un grupo de super villanos se encuentran encerrados en Belle Reve, una prisión de alta seguridad con la tasa de mortalidad más alta de Estados Unidos. Para salir de allí harán cualquier cosa, incluso unirse al grupo Task Force X, dedicado a llevar a cabo misiones suicidas bajo las órdenes de Amanda Waller. Fuertemente armados son enviados a la isla Corto Maltese, una jungla repleta de enemigos.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamwish.to/v3ty8f798ghq"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://sbembed.com/e/er11j5ap13h6"}</urlsolve>
+<urlsolve>https://embedv.net/v/m7WJxgJllwA5Bze</urlsolve>
 </item>
 
 <item>
@@ -27957,13 +27957,25 @@ por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y 
 
 <item>
 <title>[COLOR white]Flash [/COLOR][COLOR gold](2023)[/COLOR]</title> 
-<genre>Accion,Aventura,Ciencia Ficcion</genre>
+<genre>Accion,Fantasia,Ciencia Ficcion</genre>
 <year>2023</year>
 <tmdb>298618</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/original/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/tZ439Os5dyYkKKJ7XjyMAGJkT0J.jpg</fanart>
-<info>Barry altera inadvertidamente el futuro cuando utiliza sus superpoderes para viajar en el tiempo con el fin de cambiar los acontecimientos del pasado y queda atrapado en una realidad en la que el General Zod ha regresado y no hay superhéroes a los que recurrir. Para salvar el mundo en el que se encuentra y volver al futuro que conoce, la única esperanza de Barry es correr por su vida. Pero, ¿bastará con llevar a cabo el sacrificio definitivo para reiniciar el universo?</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamwish.to/l0cgtvl1fdya"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://sbvideo.net/e/sv57g7su6tho"},{"titulo" : "[COLOR white]Torrent BD1080[/COLOR]","url" : "magnet:?xt=urn:btih:Q4LZSN3H5HLKK6AYFIS2E4USXBVDGMVK"},{"titulo" : "[COLOR white]Torrent 4K[/COLOR]","url" : "magnet:?xt=urn:btih:75T5ZMFFG2HPMQMIL373WMPMCUHNEEW7"}</urlsolve>
+<thumbnail>https://image.tmdb.org/t/p/original/fcAzXjAKN8DVC8cLvpUvdx8JWke.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tZ439Os5dyYkKKJ7XjyMAGJkT0J.jpg</fanart>
+<info>Flash, el héroe más rápido, viaja a una línea temporal en que la Tierra está en crisis y sus héroes perdidos o dispersados.</info>
+<urlsolve>https://embedv.net/v/4bQVOj7M7M45wKm</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white]Blue Beetle [/COLOR][COLOR gold](2023)[/COLOR]</title> 
+<genre>Accion,Fantasia,Ciencia Ficcion</genre>
+<year>2023</year>
+<tmdb>565770</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/rBy9lo6qOIId6UuDS720SUHK6xg.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tYGRC6ixeC3r71FqQHYeQGHYTV6.jpg</fanart>
+<info>Un adolescente mexicano encuentra un escarabajo alienígena que le proporciona una armadura superpoderosa.</info>
+<urlsolve>https://embedv.net/v/P0poO10jj8REz17</urlsolve>
 </item>
 
 
