@@ -69,7 +69,7 @@
 <genre>Western, Drama</genre>
 <year>2023</year>
 <tmdb>843846</tmdb>
-<thumbnail><https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wAImt7zPD1USQAnKuVW97lEcD2Z.jpg/thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wAImt7zPD1USQAnKuVW97lEcD2Z.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/6gcXySbEdXC9V39chjcJ1ZxOi07.jpg</fanart>
 <info>Una epopeya fronteriza sobre un desertor de la Ivy League que viaja a las tierras salvajes de Colorado, donde se une a un equipo de cazadores de búfalos en un viaje que pone en peligro su vida y su cordura. Basada en la aclamada novela de John Williams.</info>
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/yJEOJbSuOvI"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/bQ8x9bv8KJUPbO8"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/5a0sifp4fkcs"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/vuioqk7n34ab"}</urlsolve>
