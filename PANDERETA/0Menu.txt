@@ -39,8 +39,8 @@
 <tmdb>474354</tmdb>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/22.de.julio.txt</externallink>
 <info>Acto terrorista en Oslo y Utøya el 22 de julio de 2011. Esta es la historia contada</info>
-<thumbnail>https://i.imgur.com/qUfk7mD.jpg</thumbnail>
-<fanart>https://i.imgur.com/K7e2SLA.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/jQX1Ult7VWZnCttjY4x1hGQnN2s.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iChucu69wC4ccXwGii4PuCT7MnY.jpg</fanart>
 </item>
 
 <item>
