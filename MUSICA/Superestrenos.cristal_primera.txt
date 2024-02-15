@@ -5,6 +5,54 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Retribution [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Suspense, Crimen</genre>
+<year>2023</year>
+<tmdb>762430</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/mhLYcyxuhb82ttYDEU5DM8b3Hy3.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/q7mYzk6BnPOZKhiEJBKmeHjOwiz.jpg</fanart>
+<info>Un ejecutivo de un banco recibe, mientras conduce a sus hijos a la escuela, una amenaza de bomba dentro de su auto, el cual explotará si se detienen o salen del vehículo antes de conseguir una elevada suma de dinero.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/c9km_qQfBiA"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/7kq9AzdvYGHM66"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://vidhidepro.com/f/icuzn00gsle6"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/h4mqnbcqcxrl"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Johnny Z [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Terror, Acción, Ciencia ficción</genre>
+<year>2023</year>
+<tmdb>747731</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/yiFUMaZHCbuTKjzwlRgXMldPflk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6EddheqLHdOnSaXKDrr2EDGqJtX.jpg</fanart>
+<info>Johnny es un ser mitad humano y mitad zombi que con la ayuda de un maestro de artes marciales busca vengarse de la diabólica corporación que lo creó.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/LnA9sBsafvQ"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/2BAo3Le6JZIZb7o"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://vidhidepro.com/f/czzx3nqf8woa"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/6m26facn84ps"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] On fire [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Suspense</genre>
+<year>2023</year>
+<tmdb>900409</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/1ms0zRAMtbVq5XoIfrlcSj84g6G.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/lh2nbC8qRBJxyH0iqkPmXlNqhcK.jpg</fanart>
+<info>Una familia vive en una casa rodante en el bosque y de repente se enfrenta a un incendio forestal. La supervivencia se convierte en su principal objetivo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/tP4BG8WXJyM"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/BB6AjKGPROUyX8m"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://vidhidepro.com/f/mowpyv65f0pj"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/y0op26lp57ak"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Viking Legacy [/COLOR][COLOR yellow](2016)[/COLOR]</title>
+<genre>Acción, Aventura</genre>
+<year>2016</year>
+<tmdb>416777</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/aKrLQt5UsXgZIwsAyPaLkxAnPTo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/13aqACYimNH8IIOzJmXBOL7QGn3.jpg</fanart>
+<info>sagrados que ellos creen que va a traer el poder y la prosperidad a los que los tiene. La profecía dice que un niño va a nacer de la sangre de un sincero real será el propietario de una fuerza de las Naciones día gobierna. Cuando los hombres luchan por la posesión de las devanaderas convertido en Europa en el borde de la guerra. Para mantener la paz, el rey consigue KLTA, el padre de una niña en un devanaderas netas de sangre y les da el Consejo Cristiano para mantener la paz.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/lv6RtmzwkYI"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/kkMWlZM7PXHYJO"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://vidhidepro.com/f/30txs4xjk04h"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/uredf3bmfeb7"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Amor, acoso, asesinato [/COLOR][COLOR yellow](2024)[/COLOR]</title>
 <genre>Crimen, Documental</genre>
 <year>2024</year>
