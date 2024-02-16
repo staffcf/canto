@@ -93,7 +93,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 <info>"American Crime Story" es una serie de televisión estadounidense de antología y basada en crímenes reales.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/6HI8ppS34bN4In3brNFgITX2FUy.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/pW5ddjCNcgc0kWDwBNoEWPlr8tW.jpg</fanart>
+<fanart>https://image.tmdb.org/t/p/original/pW5ddjCNcgc0kWDwBNoEWPlr8tW.jpg</fanart>
 </item>
 
 
@@ -187,8 +187,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 <info>"American Crime Story" es una serie de televisión estadounidense de antología y basada en crímenes reales.</info>
-<thumbnail>https://www.themoviedb.org/t/p/original/6HI8ppS34bN4In3brNFgITX2FUy.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/pW5ddjCNcgc0kWDwBNoEWPlr8tW.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/6CnOoKIcUZVmcgMzYwuyt6oNiDK.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AimteTyZkXBNMf4jZZci2JKs7yr.jpg</fanart>
 </item>
 
 
@@ -282,8 +282,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 <info>"American Crime Story" es una serie de televisión estadounidense de antología y basada en crímenes reales.</info>
-<thumbnail>https://www.themoviedb.org/t/p/original/6HI8ppS34bN4In3brNFgITX2FUy.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/pW5ddjCNcgc0kWDwBNoEWPlr8tW.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/7fsY2ocRn5A1xUCs8KHtV4c1aBl.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/kK54QkqK12hczE7YiFn5tB0uTXH.jpg</fanart>
 </item>
 
 </items>
