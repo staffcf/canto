@@ -5,6 +5,54 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Los Juegos del Hambre Balada de pájaros cantores y serpientes  [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Ciencia ficción, Acción</genre>
+<year>2023</year>
+<tmdb>695721</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/lQS3Owbte49Mkz5nFach4UgSZDF.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vIoZ6zJkiCE0ONTEsbmrCAThTe0.jpg</fanart>
+<info>Ambientada en un Panem postapocalíptico, nos hace retroceder varias décadas antes del comienzo de las aventuras de Katniss Everdeen. El joven Coriolanus Snow será el mentor de Lucy Gray Baird, la niña seleccionada como tributo del empobrecido Distrito 12. La joven sorprenderá a todos al cantar en la ceremonia de inauguración de los Décimos Juegos del Hambre en los que Snow intentará aprovecharse de su talento y encanto para sobrevivir.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/HgO58Q3I5J0"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/7K6pKqawVRHA6Z7"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://vidhidepro.com/f/c1t82kdlqx03"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/mtpdvlrg54ue"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Wolf y Dog [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2023</year>
+<tmdb>1005696</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/212unsoFSyUWs6AQgi7im5i4ty5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/bmaQV38RgSjcjFJ2vBi6et5wMrl.jpg</fanart>
+<info>Ana nació en Sao Miguel, una isla en medio del Océano Atlántico regida por la religión y las tradiciones. Al crecer como la hija del medio de una familia de tres con su madre y su abuela, Pronto Ana se da cuenta de que a las niñas y los niños se les asignaban tareas diferentes. A través de su amistad con Luis, su mejor amigo queer que ama tanto los vestidos como los pantalones, Ana cuestiona el mundo que le está prometido. Cuando su amiga Cloé llega de Canadá trayendo consigo los días resplandecientes de la juventud, Ana emprende un viaje que la llevará más allá del horizonte.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/PMwJ1nggKOs"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/x9PZQr29RyhkRZM"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://vidhidepro.com/f/b95yd31rfkrq"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/vpohlzjloe5v"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Divertimento [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Historia, Música</genre>
+<year>2023</year>
+<tmdb>958179</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/xImU467FutkiEk1Ala227om6keX.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/sC68mfnEYwvTObQuqbDx4kUlyiM.jpg</fanart>
+<info>A los 17 años, Zahia Ziouani sueña con ser directora de orquesta, mientras que Fettouma, su hermana gemela, es violonchelista profesional.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/_rnvbHDRXgs"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/oAG9rwaoLmFJz9Y"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://vidhidepro.com/f/br4o2acqtl78"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/5uoa8rvc8e7g"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Blood de Brad Anderson [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Terror, Misterio, Suspense</genre>
+<year>2023</year>
+<tmdb>746524</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/gCUFtTvjK4gbmjVxhx8bhyOhAeW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xmeyUFIQXrA3Hbvc1JVDkZhvPdg.jpg</fanart>
+<info>Jess, una madre y enfermera recién separada, se muda a su antigua granja familiar con Tyler, su hija adolescente, y Owen, su hijo de ocho años. Una noche, el perro de la familia detecta algo en el bosque y sale corriendo a buscarlo. Regresa un par de días después y ataca a Owen, mordiéndolo salvajemente antes de que Jess pueda intervenir. Owen es llevado de urgencia al hospital. Su condición empeora y nadie puede entender por qué... hasta que Jess descubre una cura inquietante</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/hd-5KeWAkMg"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/8qXe90g2j9ho90W"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://vidhidepro.com/f/e4i3t0sznbyn"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/iqe1db70r97t"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Retribution [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Acción, Suspense, Crimen</genre>
 <year>2023</year>
