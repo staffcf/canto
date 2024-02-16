@@ -3,7 +3,7 @@
 
 
 <item>
-<title>[COLOR gold]*[/COLOR][COLOR white]Temporada 1[/COLOR]</title>    
+<title>[COLOR gold]*[/COLOR][COLOR white]Temporada 1: El Pueblo contra O.J. Simpson[/COLOR]</title>    
 <link>$doregex[c]</link>
 <regex>
 <name>c</name>
@@ -98,7 +98,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR gold]*[/COLOR][COLOR white]Temporada 2[/COLOR]</title>    
+<title>[COLOR gold]*[/COLOR][COLOR white]Temporada 2: El asesinato de Gianni Versace[/COLOR]</title>    
 <link>$doregex[c]</link>
 <regex>
 <name>c</name>
@@ -193,7 +193,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR gold]*[/COLOR][COLOR white]Temporada 3[/COLOR]</title>    
+<title>[COLOR gold]*[/COLOR][COLOR white]Temporada 3: El caso Lewinski[/COLOR]</title>    
 <link>$doregex[c]</link>
 <regex>
 <name>c</name>
