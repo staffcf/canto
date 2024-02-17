@@ -5,6 +5,66 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Chavales [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Animación, Comedia</genre>
+<year>2023</year>
+<tmdb>1195983</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/2Ez0f8mXucDy8SXZftQdMgR0H1.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jdF2zBSwp8xlD2vrNdkJK4EIMke.jpg</fanart>
+<info>McMcickey, Colega, C, Pipi y Oscarmelle son cinco amigos que pasan sus tardes charlando en el sofá. Cuando a Colega le vuelven a suspender su proyecto final de carrera, agotando todas las convocatorias, los cinco inician una delirante aventura para colarse en la facultad, cambiar la nota y salvar a su amigo de la hecatombe académica. No preguntes cómo, pero C usará sus fanzines y McMickey su música para urdir un delirante plan en el que se mezclarán con toda clase de peñita chunga.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/cVGD-WXYYyI"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/zVAVKgeqd4cYlLq"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://vidhidepro.com/fut2als2530o5"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/98dplo1ac6g7"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Snoopy presenta: Bienvenido a la pandilla Franklin [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Animación, Familia, Película de TV</genre>
+<year>2024</year>
+<tmdb>1128606</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/gxK1ibWJ38P19cYwavpRmWxCMf4.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9ty7r9zXB25f70iIMNqShObK0IF.jpg</fanart>
+<info>Franklin es nuevo en la ciudad y quiere hacer amigos, pero sus tácticas habituales no funcionan con la pandilla Peanuts. Cuando llega la carrera de carritos, la toma como una oportunidad para impresionar a sus nuevos amigos y forma equipo con el único niño que no tiene pareja: Carlitos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/GrMX591wZKQ"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/P3ggRGm347I0Kw8"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://vidhidepro.com/f/c38z1g3sf49m"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/dfnxmqhi6nad"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Superviviente [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Suspense</genre>
+<year>2023</year>
+<tmdb>980285</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/b7BLWOWrUZICFydcwUy3b6d9DBI.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tPw8Yty0GkCOdYPpq0pui8uKM6H.jpg</fanart>
+<info>Unas vacaciones en barco se salen de control cuando una hija adolescente descubre el oscuro pasado del nuevo novio de su madre.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/1UMPE41P1B8"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/Gwj0r7vD6lU18WJ"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://vidhidepro.com/f/64w55wpp8eff"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/fr56940uqp8m"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El abismo de Kiruna [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Suspense, Drama, Acción</genre>
+<year>2023</year>
+<tmdb>1053544</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/685xLjwk9H5uZaPiioO4Oi81mHh.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/x5N48OSBss7xaX7BiAEweS4z44q.jpg</fanart>
+<info>Frigga intenta equilibrar su arriesgado trabajo como directora de seguridad en la mina Kiirunavaara con su vida familiar, su nuevo amor y su ex, que no quiere dejarlo ir. Pero cuando de repente el suelo empieza a temblar bajo sus pies, el enigma de la vida deja de importar y comienza la lucha por no ser arrastrado al abismo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/UwnSRbShH0M"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/adp9B03ZjqFxKgg"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://vidhidepro.com/f/dapb0zcdkfuf"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/p9nk00m3kswx"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Triassic World [/COLOR][COLOR yellow](2018)[/COLOR]</title>
+<genre>Acción, Terror, Ciencia ficción</genre>
+<year>2018</year>
+<tmdb>531208</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/fcULEb3zNY4Uef8H9DtRoasX8Hi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/4ywXFLQKkA0XX9xbSXpJW0hqvKu.jpg</fanart>
+<info>En un futuro no muy lejano los dinosaurios vuelven a la vida, aunque sólo como donantes de órganos humanos para transplantes. Sin saberlo, los científicos han creado una nueva vertiente de seres indestructibles que ponen en jaque a la humanidad cuando se escapan del laboratorio en el que habitan.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/FlwHFgB9Ki8"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/MZdqvl7p8dTdwR"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://vidhidepro.com/f/8qnxf3y34clp"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/hy8ac8gi79nh"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Los Juegos del Hambre Balada de pájaros cantores y serpientes  [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama, Ciencia ficción, Acción</genre>
 <year>2023</year>
