@@ -3582,8 +3582,8 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <title>[COLOR white] Los Goonies [COLOR gold](1985)[/COLOR]</title>    
 <genre> Adolescencia, Comedia juvenil, Amistad</genre>
 <year>1985</year>  
-<thumbnail>https://i.imgur.com/2s46NfW.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/v7dWDGqLS0FHsVpSLNeKo9xlkg1.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zprJNFZhxBobXSDOa2kwFrwzxwn.jpg</fanart>
 <info>Mikey es un niño de trece años que junto con su hermano mayor y sus amigos forman un grupo que se hacen llamar "los Goonies". Un dia deciden subir al desvan de su casa, donde su padre guarda antigüedades. Alli encuentran el mapa de un tesoro perdido que data del siglo XVII, de la epoca de los piratas, y deciden salir a buscarlo repletos de espiritu aventurero.</info>
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://embedv.net/v/MAlwEMYWqdlEJ39"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red] Torrent 4K UHDremux[/COLOR]","url" : "magnet:?xt=urn:btih:LK6FH3SKG4UUFMKCI4T4BVOQBX5MZ7XJ"}</urlsolve>
 </item>
