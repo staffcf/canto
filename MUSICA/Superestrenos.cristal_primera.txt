@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Lights Out [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Acción, Suspense</genre>
+<year>2024</year>
+<tmdb>931642</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/usDIBB0hOqLM8wMSGistfqxjukZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cIHFTyIf0LjRzjSnwtCAGzwTOKK.jpg</fanart>
+<info>Un ex soldado a la deriva se convierte en luchador clandestino con la ayuda de un ex convicto recién liberado, enfrentándose ambos a policías corruptos y asesinos a sueldo que les persiguen a ellos y a todos los que les importan.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/n-FE7AGU2YA"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/vLGqrbwkQwhJpD"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/gkj4uijyubfz"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/464lp3f44cvp"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La contadora de películas [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Historia</genre>
+<year>2023</year>
+<tmdb>928118</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fSIAx1HZ4MCt54YxPq8bpHl6jem.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ge5jXvdp7GaT18AJZjEJuvPSRzj.jpg</fanart>
+<info>Años 60, desierto de Atacama, Chile. María Magnolia es una mujer que a pesar de vivir bajo difíciles condiciones, trata de transmitir a su hija, María Margarita, su pasión por el arte. María Margarita se convertirá en la contadora de historias del pueblo, donde la mayor parte de sus habitantes no pueden pagarse una entrada de cine.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/idtzMYUMwog"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/036bYxBPGOhbGbD"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/ewz188159ds9"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/qxkn7njqu34o"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Chavales [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Animación, Comedia</genre>
 <year>2023</year>
