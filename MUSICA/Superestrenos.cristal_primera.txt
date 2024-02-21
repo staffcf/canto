@@ -5,6 +5,54 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Mi otro Jon [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2023</year>
+<tmdb>1164658</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4tSOrLcJVFMDBveDH99njuSrQhW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/83rt41uy05mxyUhLgvoSUepIACS.jpg</fanart>
+<info>Merche (Carmen Maura) recibe la mala noticia de que le queda poco tiempo de vida. Por ello decide cumplir los sueños imposibles de sus tres mejores amigas (Marisol Ayuso, María José Alfonso y María Luisa Merlo). Por último, también quiere cumplir el suyo: ver el mar por última vez visitando la isla de La Palma. Su delicada situación de salud le impide viajar, pero una brillante científica (Aitana Sánchez-Gijón) le ofrece una solución. Introducirá el alma de Merche dentro del cuerpo de un recién fallecido durante tres días, para que así pueda cumplir su sueño. Ese cuerpo es el de Jon (Fernando Albizu), un grandullón camionero vasco. Así que Merche “disfrutará” de sus últimos días con su hija (Olivia Molina) en la isla canaria.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/7Czxgd1lbig"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/MeZx3OQ8qxIm3MW"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/6ci9sr1w2gy0"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/hl02q2chfgqx"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Infiltrado [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Suspense, Crimen, Drama</genre>
+<year>2023</year>
+<tmdb>1020662</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zT91bUTNU49erlcMJb3hqWvhwrw.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vVX3rJ9GKlAaWrxZeloPnKpKbIu.jpg</fanart>
+<info>Basado en hechos reales, un detective de policía caído en desgracia que busca redención trabajando encubierto para exponer un sindicato del crimen violento. Pero a medida que se hunde más en la mafia, el precio de la absolución puede ser más alto de lo que puede pagar.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/rLGq1eRW7jY"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/7XZqD88xmgcA7Mb"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/okwz2fq332l1"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/tlew9w2p9exi"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Vidas pasadas [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Romance</genre>
+<year>2023</year>
+<tmdb>666277</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jQcVCfuMVCEQTVpsaCv18ZMvx0R.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rron9HAuS9s7zBF8iCX1tsafxUo.jpg</fanart>
+<info>La familia de Nora emigra a Canadá cuando ella tiene 10 años. Pierde el contacto con su amor de la infancia. Muchos años después, cuando Nora está estudiando teatro en Nueva York, se reencuentra con él online.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/tINUmaEN-8M"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/jkK4LBbbQRi2q3"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/blhwhihnht1y"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/ampn0qv5fomd"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Leonardo, el inventor [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Animación, Drama, Familia, Historia</genre>
+<year>2023</year>
+<tmdb>676727</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nCXbP0vg7tScOjhdLWgK1m0RdKF.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8b1oWeOQLSwQH6TK3T0b1oNl3Al.jpg</fanart>
+<info>Inventando artilugios voladores, máquinas de guerra y estudiando cadáveres, Leonardo da Vinci aborda el significado de la vida misma con la ayuda de la princesa francesa Marguerite de Nevarre.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/7k95b1s6XoE"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/p14eXJlRRahrPq2"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/bmr7hufecm9z"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/8r7t2hzhp08s"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Lights Out [/COLOR][COLOR yellow](2024)[/COLOR]</title>
 <genre>Acción, Suspense</genre>
 <year>2024</year>
