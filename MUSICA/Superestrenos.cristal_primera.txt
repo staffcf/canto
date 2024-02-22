@@ -4,7 +4,7 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 ==========================================================================================
 
-item>
+<item>
 <title>[COLOR white] Un largo viaje [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama, Comedia</genre>
 <year>2023</year>
@@ -16,7 +16,7 @@ item>
 </item>
 
 
-item>
+<item>
 <title>[COLOR white] The Boys in the Boat [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama, Historia</genre>
 <year>2023</year>
@@ -28,7 +28,7 @@ item>
 </item>
 
 
-item>
+<item>
 <title>[COLOR white] Suegros de alquiler. Agencia de engaños 2.0 [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Comedia</genre>
 <year>2023</year>
@@ -40,7 +40,7 @@ item>
 </item>
 
 
-item>
+<item>
 <title>[COLOR white] Dark Web Descent Into Hell [/COLOR][COLOR yellow](2021)[/COLOR]</title>
 <genre>Terror</genre>
 <year>2021</year>
