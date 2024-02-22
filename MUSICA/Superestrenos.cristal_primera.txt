@@ -4,6 +4,54 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 ==========================================================================================
 
+item>
+<title>[COLOR white] Un largo viaje [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Comedia</genre>
+<year>2023</year>
+<tmdb>1188014</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p8In15xuJxOFeWnpgZtAcyKen8k.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p8In15xuJxOFeWnpgZtAcyKen8k.jpg</fanart>
+<info>Violeta y Samuel, una madre con aires de misantropía y su hijo adolescente, tratan de reconciliarse con ellos mismos y con la vida durante sus vacaciones forzadas, que por circunstancias, pasarán en un destino inesperado, un complejo comercial del sur de Madrid.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Egkl1Rbxaxk"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/rrLPq9lYKZFa1L"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/gc5rua624ea4"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/"}</urlsolve>
+</item>
+
+
+item>
+<title>[COLOR white] The Boys in the Boat [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Historia</genre>
+<year>2023</year>
+<tmdb>823452</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ncJMztHprw3gLRAnDjNnnT23CIt.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/mHpoCdCSebNDIIHbqaAxbD57o7H.jpg</fanart>
+<info>Una historia ambientada en la década de 1930 centrada en el equipo de remo de la Universidad de Washington, desde sus comienzos en la era de la Depresión hasta ganar el oro en los Juegos Olímpicos de Berlín de 1936.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/dfEA-udzjjQ"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/PjaoKVYvdAI01rO"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/b5gnpt3ap887"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/qofl1ki3t7hh"}</urlsolve>
+</item>
+
+
+item>
+<title>[COLOR white] Suegros de alquiler. Agencia de engaños 2.0 [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2023</year>
+<tmdb>967585</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4qSMgiZ4BmJPiUDykobYodw1DOT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ep3FqRv9YxkIFIjj8rHlVesbRGd.jpg</fanart>
+<info>Después de cerrar su agencia Alibi.com y prometerle a Flo que nunca más le mentiría, la nueva vida de Greg se ha vuelto tranquila, demasiado tranquila... ¡No por mucho tiempo! Cuando decide proponerle matrimonio a Flo, Greg se encuentra contra la pared y debe resolver presentarle a su familia. Pero entre su padre ladrón y su madre ex actriz de cine encantadora, es muy probable que arruine su futura unión. Por lo tanto, no tiene más remedio que reabrir su agencia con sus antiguos cómplices para encontrar una coartada definitiva y encontrar padres falsos más presentables...</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/4Ws_rUHEGQo"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/MAlQOvmO6dsmxeD"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/61ozwvflythh"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/"}</urlsolve>
+</item>
+
+
+item>
+<title>[COLOR white] Dark Web Descent Into Hell [/COLOR][COLOR yellow](2021)[/COLOR]</title>
+<genre>Terror</genre>
+<year>2021</year>
+<tmdb>875314</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jAaaDI1sYR4jjQcd8esDrLoThKj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8EcO2cZ0SGtsp7PjS7TtwU6wNBk.jpg</fanart>
+<info>La Dark Web es la gran parte de Internet inaccesible para los motores de búsqueda convencionales. Los expertos estiman que los motores de búsqueda rastrean e indexan menos del 1% de todo el contenido al que se puede acceder a través de Internet. Un joven YouTuber, "Ludovico 122", intentará llegar al octavo nivel de la Dark Web, penetrando en lo más profundo y desconocido de Internet mientras filma la experiencia para su audiencia. Pero no está preparado para una sorpresa horrible que cambiará su vida.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Xe7q6PNzsrY"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/6xD3PmKxRWs9YRw"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/pb7bqgynnwad"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/"}</urlsolve>
+</item>
+
+
 <item>
 <title>[COLOR white] Mi otro Jon [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Comedia</genre>
