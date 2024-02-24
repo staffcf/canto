@@ -617,7 +617,7 @@ misiones para devolver la esperanza a una galaxia dominada por un imperio despia
 <item>
 <title>[COLOR gold]* [COLOR white]Avatar: La Leyenda de Aang[COLOR white][/COLOR]</title>  <link>cristalazul</link>
 <tmdb>82452</tmdb>
-<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Autodefensa</externallink>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Avatar.la.leyenda.de.aang</externallink>
 <info>El nuevo y joven Avatar debe aprender a controlar los elementos para salvar un mundo en guerra, además de enfrentarse a un despiadado enemigo decidido a pararle los pies.</info>
 <thumbnail>https://image.tmdb.org/t/p/original/e1TsV9JZeLvY6lEoq9llPcnuc68.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/fs2PsFkV6FXiDxixsdB12PTO2xo.jpg</fanart>
