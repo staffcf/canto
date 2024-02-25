@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Fear [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Terror, Drama</genre>
+<year>2023</year>
+<tmdb>880100</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/asCLy4s7HYP3zSRlLP4Qgme5L0A.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9ZJaWDSXIE6loSwcormNFb59V1U.jpg</fanart>
+<info>La celebración de un autor con amigos en una cabaña en el bosque toma un giro aterrador cuando un virus transmitido por el aire emerge al mismo tiempo que fuerzas sobrenaturales atacan al grupo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/s2znvShl2GM"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/eoQ4yyrKQ4hYymZ"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/u05b9gg5651f"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/2mxrbyjwugsp"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Ruthless [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Acción, Suspense</genre>
 <year>2023</year>
