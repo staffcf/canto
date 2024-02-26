@@ -9016,6 +9016,16 @@ Una vez allí, se encontrarán con un enemigo mucho peor que los Goaul'd; los Wr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]TWD The Walking Dead: The Ones Who Live[COLOR white][/COLOR]</title>
+<link>cristalazul</link>
+<tmdb>206586</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.walking.dead.the.ones.who.live</externallink>
+<info>La historia de amor de Rick Grimes y Michonne cambia gracias a un mundo cambiado. Separados por la distancia. Por un poder imparable. ¿Podrán encontrarse y descubrir quiénes eran en una situación diferente a cualquier otra que hayan conocido?</info>
+<thumbnail>https://image.tmdb.org/t/p/original/ywbacot78IuNhGW4uVZPxxxVTkm.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qfXerlD4L1TIfxd5VHcCOcXbaAp.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]TWD The Walking Dead World Beyond[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>94305</tmdb>
