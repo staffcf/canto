@@ -7234,7 +7234,7 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 </item>
 
 <item>
-<title>[COLOR gold]* [COLOR white]Reina Roja[/COLOR]</title>  
+<title>[COLOR gold]* [COLOR white]Reina Roja[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>203667</tmdb>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Reina.roja</externallink>
