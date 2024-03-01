@@ -137,18 +137,6 @@
 
 
 <item>
-<title>[COLOR white] Desconocidos [/COLOR][COLOR yellow](2023)[/COLOR]</title>
-<genre>omance, Drama, Fantasía</genre>
-<year>2023</year>
-<tmdb>994108</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4k6Lqd28DgIog9GqTjDskcj60oG.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/2GzgongTSptjSkT7iCoXUcGIVB9.jpg</fanart>
-<info>Adam es un guionista que, tras un encuentro casual con su misterioso vecino, regresa a la casa de su infancia donde descubre que sus padres, fallecidos hace mucho tiempo, están vivos y tienen la misma edad que el día de su muerte.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/D6D2_Ys2Q3o"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/x2Lzqq6kLpFkeQZ"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/9zwiv4gy0nik"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/wvkyrqy3wnux"}</urlsolve>
-</item>
-
-
-<item>
 <title>[COLOR white] Fear [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Terror, Drama</genre>
 <year>2023</year>
