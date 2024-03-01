@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Pobres criaturas [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Ciencia ficción, Romance, Comedia</genre>
+<year>2023</year>
+<tmdb>792307</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xbfzQ7Q7qmDUf50eZH8C57Ygx6n.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zCrUFSJKYLtQDpaAIdbNQ50FUpZ.jpg</fanart>
+<info>Bella Baxter es una joven revivida por el brillante y poco ortodoxo científico Dr. Godwin Baxter. Bajo la protección de Baxter, Bella está ansiosa por aprender. Hambrienta de la mundanidad que le falta, Bella se escapa con Duncan Wedderburn, un sofisticado y perverso abogado, en una aventura vertiginosa a través de los continentes. Libre de los prejuicios de su época, Bella se vuelve firme en su propósito de defender la igualdad y la liberación.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/WNfF_WA5kWY"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/09gXzVvDR0CbrLX"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/dxe0babofylh"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/svblc9mnv65m"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Me llamo Loh Kiwan [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama, Romance</genre>
 <year>2023</year>
