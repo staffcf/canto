@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Simón [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2023</year>
+<tmdb>1105832</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9ltmI5Mef0NHWm4Nxcpm6hT8VhY.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/sb6YO8QwlJYJZCYroVWV0psNmXL.jpg</fanart>
+<info>Luego de escapar de Venezuela, Simón, un valiente líder estudiantil, lucha con su culpa mientras busca asilo político en Miami antes de ser deportado.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ERuMy7tpfNY"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/oApryaYQBKhv9K"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/ynzn1hqecb6g"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/r08tu1kc4g43"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Pobres criaturas [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Ciencia ficción, Romance, Comedia</genre>
 <year>2023</year>
