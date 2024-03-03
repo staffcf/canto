@@ -2057,6 +2057,15 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 <fanart>https://www.themoviedb.org/t/p/original/5ofoCf7XBYcxPxn2Pf9ABw6osSm.jpg</fanart>
 </item>
 
+<title>[COLOR gold]* [COLOR white]El Accidente[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>75404</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.accidente.Esp</externallink>
+<info>José un modélico padre y esposo al frente de una pequeña empresa familiar, se embarca supuestamente en un avión que sufre un accidente del que no han salido supervivientes. Sin embargo, nadie parece saber nada de él, no le encuentran entre los fallecidos ni figura en la lista de los malogrados pasajeros. A partir de ese momento, su mujer Lucía se zambulle en una frenética búsqueda de José, desencadenando una peligrosa vorágine de acontecimientos que la obligan a dejar de ser la mujer corriente que era para convertirse en una mujer que no sabía que podía llegar a ser.</info>
+<thumbnail>https://image.tmdb.org/t/p/original/9eIdiX55bH9ITGtrZzUnEIydjpH.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/Aq9nro1iWak6vX9pX82qoTNQRzq.jpg</fanart>
+</item>
+
 <item>
 <title>[COLOR gold]* [COLOR white]El Alpinista [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
@@ -8106,8 +8115,7 @@ Una vez allí, se encontrarán con un enemigo mucho peor que los Goaul'd; los Wr
 </item>
 
 <item>
-<title>[COLOR gold]* [COLOR white]Tales of The Walking Dead[COLOR white][/COLOR]</title>  
-<link>cristalazul</link>
+<title>[COLOR gold]* [COLOR white]Tales of The Walking Dead[COLOR white][/COLOR]</title>  <link>cristalazul</link>
 <tmdb>136248</tmdb>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Tales.of.walking.the.dead</externallink>
 <info>Seis episodios independientes originales de una hora centrados en personajes nuevos y establecidos dentro del apocalipsis caminante. Cada episodio tiene su propio tono y punto de vista distintos, pero hay mucho en juego en cada historia, lo que empuja a personajes nuevos e indelebles con elecciones y situaciones implacables y potencialmente mortales. Podemos ver el apocalipsis a través de otros ojos, descubriendo más mundos, mitos y misterios de The Walking Dead.</info>
@@ -8193,6 +8201,16 @@ Una vez allí, se encontrarán con un enemigo mucho peor que los Goaul'd; los Wr
 <info>Una serie cruda, épica y romántica de spaghetti western sobre el lado oscuro del salvaje Oeste. La historia sigue el enfrentamiento de ocho días entre Arthur McCoy (Cooper), un sheriff incorruptible con un pasado turbulento, y Red Bill (Booth), un infame y solitario cazarrecompensas conocido por decapitar a sus víctimas y meter sus cabezas en una bolsa negra sucia, porque, como él dice, 'las cabezas pesan menos que los cuerpos'.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/vSk9On9NPZKX9e4zlu7ribuRIMB.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/drX2Cq38xRAnd3bFpwiZN82RFb9.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]The Accident[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>94755</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/The.accident</externallink>
+<info>Un pequeño pueblo galés queda devastado por un accidente que ha acabado con la vida de 8 niños y un hombre, tras el derrumbe de una gran construcción que debía traer riqueza y puestos de trabajo a la zona.</info>
+<thumbnail>https://image.tmdb.org/t/p/original/iXdtKYjAjR3GjiAqPyEHLief7BW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/kqnr88BgiZ9oRGUCaFLaCP4H75g.jpg</fanart>
 </item>
 
 <item>
