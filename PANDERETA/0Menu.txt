@@ -3847,6 +3847,16 @@ Entre las estrellas que han aparecido en la serie, interpretando versiones satí
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Home Before Dark[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<tmdb>98161</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Home.before.dark.xml</externallink>
+<info>Una joven de Brooklyn comienza a investigar un caso sin resolver cuando visita a su padre, que vive en una pequeña población cuya comunidad ha cerrado el asunto.</info>
+<thumbnail>https://image.tmdb.org/t/p/original/7ke7FELvB2iiNN5bFZ8TIEUw2TK.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6NFwGsK3yAYjDidHSVi47xDA9HB.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Homecoming[COLOR white][/COLOR]</title>     
 <link>cristalazul</link>
 <tmdb>80335</tmdb>
