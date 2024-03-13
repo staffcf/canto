@@ -5,6 +5,42 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] El favor [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2023</year>
+<tmdb>1089979</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/s37hcgOx3X1OjwmPeuSHFUPF84j.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/5AjPjOlqqSmNwly8Iu1qMJUwG4Q.jpg</fanart>
+<info>Los Gallardo son una familia rica y respetada que veranea en una preciosa masía cuidada hasta el más mínimo detalle por Amparito, la queridísima Tata, que, para los tres hijos de la familia, Teresa, Benja y Aura, ha sido como una segunda madre. Cuando reciben la triste noticia de su muerte, los tres hermanos viajan al pueblo para darle el último adiós y reencontrarse con Tomás, único hijo de la difunta. Lo que no esperaban es que la última voluntad de Amparito fuese ser enterrada en el panteón familiar. Los Gallardo lo tienen claro: ni de broma</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/gHnSewj5lGI"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/drvrpdxd0Oubkd"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://vidhidepro.com/f/xtalyp8kp91w"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://streamwish.to/x28med60mt72"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Perezoso amoroso [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Terror, Suspense</genre>
+<year>2023</year>
+<tmdb>1040892</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/f4BTz7o7SMSv3E01nFL7rqIWZx0.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tEm3rfyE8V16FvcYFPjl1OYvNPx.jpg</fanart>
+<info>Emily Young, hermana de la hermandad, quiere tener un año fantástico y se da cuenta de que podría ser la mejor opción para su hermandad. Al comenzar su campaña, encuentra un adorable perezoso que le roba el corazón y pronto se da cuenta de que podría robar los corazones y los votos de sus hermanas de la hermandad. Pero cuando los cuerpos poco a poco comienzan a acumularse en la casa de Sigma Lambda Theta, Emily y sus hermanas de la hermandad se dan cuenta de que las muertes están siendo causadas por su nueva mascota de la casa, el tierno perezoso Alpha</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/uuz0RgViws4"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/8KR2ZPMyVDUM2G"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://vidhidepro.com/f/bxuj3mkgmx6c"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://streamwish.to/o1l3aaiiognk"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Cat Person [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Suspense, Comedia</genre>
+<year>2023</year>
+<tmdb>843394</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/pyltYyHQFehoX8KoRweTOi4H6C0.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/4Vr8FLoBD0JW28lgxLSKjofKpaW.jpg</fanart>
+<info>Cat Person sigue la historia de una joven estudiante de 20 años que inicia una comunicación por mensajes con un hombre de 34 años. Esta conexión digital los lleva a una cita desastrosa que termina siendo la peor decisión de su vida. La narrativa se basa en el cuento corto homónimo de Kristen Roupenian, explorando las complejidades de las relaciones modernas y las expectativas versus la realidad en el mundo del dating actual.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/J2VukOLSxoY"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/VXKMlBOQ6yiKmvB"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://vidhidepro.com/f/iemwz33iphq4"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://streamwish.to/uk6rrjjr6tut"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Guardianes [/COLOR][COLOR yellow](2021)[/COLOR]</title>
 <genre>Acción, Drama</genre>
 <year>2021</year>
