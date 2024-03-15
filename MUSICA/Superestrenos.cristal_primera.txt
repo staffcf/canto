@@ -5,30 +5,6 @@
 ==========================================================================================
 
 <item>
-<title>[COLOR white] Un mal día lo tiene cualquiera [/COLOR][COLOR yellow](2024)[/COLOR]</title>
-<genre>Comedia</genre>
-<year>2024</year>
-<tmdb>1137724</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yVQPFL8NIcUEuH0gjj7J98jAdN2.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/uNyTefq1izH6MSnIatIWHCu8dRF.jpg</fanart>
-<info>Cuenta la historia de Sonia, una mujer responsable, ordenada y con el sentido de la norma muy integrada. Sin embargo en una sola noche esta controladora de manual se verá obligada a hacer todo aquello que no se ha atrevido a hacer en treinta y seis años.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/06y_cbOfIUs"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/WbOAkYmXRrFqBX"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/ueojadyvm5u8"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/lawprnqmn4s5"}</urlsolve>
-</item>
-
-
-<item>
-<title>[COLOR white] Un asesinato, sin duda (Murder Mubarak) [/COLOR][COLOR yellow](2024)[/COLOR]</title>
-<genre>Comedia, Crimen, Suspense</genre>
-<year>2024</year>
-<tmdb>1051023</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/joU5VihgUvkhyPnhzxfjmWk32rd.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/y1VDwUT1cZNOOgrCHHwnsIdUhWe.jpg</fanart>
-<infoCuando asesinan a un monitor de gimnasio en un exclusivo club de Nueva Delhi, un astuto investigador saca a la luz los sórdidos secretos de los más ricos para encontrar al culpable.></info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/9SHEcdIcajE"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/bzyG3R7bMytPykV"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/nefygo7zrbu1"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/8u0fyc47xbvh"}</urlsolve>
-</item>
-
-
-<item>
 <title>[COLOR white] Vive dentro [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Terror, Misterio</genre>
 <year>2023</year>
