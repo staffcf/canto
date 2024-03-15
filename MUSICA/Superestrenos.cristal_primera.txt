@@ -9,7 +9,7 @@
 <genre>Terror, Misterio</genre>
 <year>2023</year>
 <tmdb>1024773</tmdb>
-<thumbnail>https://image.tmdb.org/t/p/original/weuF4meEcTFMDTfnIe3r2JicV35.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6y6u1CiyAStRrYooLiXG5mkYzv2.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/hLfj6MSJWbd39bomf8DU0gWQ9b8.jpg</fanart>
 <info>Sam es una joven india-estadounidense desesperada por encajar en la escuela. Ella prefiere rechazar su cultura y su familia para ser como el resto de sus compañeros. Cuando un espíritu demoníaco mitológico se aferra a su antiguo mejor amiga, deberá aceptar su herencia para derrotarlo.</info>
 <urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/OCaf5AZFlJI"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/p7B7AYdvkZUryq4"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://vidhidepro.com/f/d79hebsbc911"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/7oib3be6roi9"}</urlsolve>
