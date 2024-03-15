@@ -4,6 +4,18 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 ==========================================================================================
 
+
+<item>
+<title>[COLOR white] Madame Web [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Accion, Fantasía</genre>
+<year>2024</year>
+<tmdb>634492</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/yW1s3MhuzpEyyALPyzhqkLC1hlW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/v2jeLDyutkblaey5YEmS2y0fTA8.jpg</fanart>
+<info>Obligada a enfrentar revelaciones sobre su pasado, la paramédica Cassandra Webb forja una relación con tres mujeres jóvenes destinadas a un futuro poderoso... si todas pueden sobrevivir a un presente mortal.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/plv6ppDBGCk?si=YQ3jteDeH4uIonrE"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/2bBolPKaBPTR4A"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "//embedv.net/v/pVa4E8M4ZkgOkzM"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/oqp5rsg2bqqu"}</urlsolve>
+</item>
+
 <item>
 <title>[COLOR white] Un mal día lo tiene cualquiera [/COLOR][COLOR yellow](2024)[/COLOR]</title>
 <genre>Comedia</genre>
