@@ -5384,6 +5384,16 @@ En un mundo sombrío de juegos de poder político y frágiles relaciones interna
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Los pasajeros del tiempo[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>68002</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Los.pasajeros.del.tiempo</externallink>
+<info>Londres, 1893. H.G. Wells está destinado a convertirse en un famoso autor de ciencia ficción, pero ahora es sólo un escritor poco conocido que pelea por publicar su obra. Ha invitado a sus amigos intelectuales para enseñarles su último invento: una máquina del tiempo. Lo que no sospecha es que uno de esos invitados es el infame asesino en serie Jack el Destripador. Cuando la policía llega buscándole, el asesino se mete en la máquina del tiempo llegando a la Manhattan actual, seguido por H.G. Wells.</info>
+<thumbnail>https://image.tmdb.org/t/p/original/k9Eqkczvomh8lFllxHXac7nLUAr.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yHWDxqND28M9oRyoVennsorn3jd.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Los Policías[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>117505</tmdb>
