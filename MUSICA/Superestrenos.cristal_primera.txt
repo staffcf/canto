@@ -4,6 +4,17 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 ==========================================================================================
 
+<item>
+<title>[COLOR white] Pinball: el hombre que salvó el juego [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Drama, Historia, Romance</genre>
+<year>2023</year>
+<tmdb>855262</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gjGphbx4ZDwAYYWImpY427KGw7B.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iDTcJtM7MTRxkOpy1h7FuoS4t7i.jpg</fanart>
+<info>La comedia dramática se basa en la historia real del escritor y mago del pinball Roger Sharpe, que relata su viaje para anular la prohibición de pinball de 35 años en la ciudad de Nueva York.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/yBLpGUu6HCg"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/e2oX41JxajCY016"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/jucbmjfu8k6v"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/fuctmn6uasl3"}</urlsolve>
+</item>
+
 
 <item>
 <title>[COLOR white] Madame Web [/COLOR][COLOR yellow](2024)[/COLOR]</title>
