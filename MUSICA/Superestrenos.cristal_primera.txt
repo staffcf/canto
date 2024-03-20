@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Bob Marley: One Love [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Música, Historia, Drama</genre>
+<year>2024</year>
+<tmdb>802219</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ayaApnFGwc6hHJHry59GjfWuTSK.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1ZSKH5GGFlM8M32K34GMdaNS2Ew.jpg</fanart>
+<info>Una celebración de la vida y la música de un icono que inspiró a generaciones a través de su mensaje de amor y unidad. Por primera vez en la gran pantalla, descubrimos la historia de superación de la adversidad de Bob y la travesía que subyace a su música revolucionaria.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/3SsrBpIMOHg"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/xg90ZkyYgDH9Vw"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/42i05132zpnz"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/cg8vxwikytkd"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La hija del prisionero (Prisoner’s Daughter) [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Misterio, Suspense</genre>
+<year>2023</year>
+<tmdb>865382</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8XRzl7A1zLk60z1J3k2nLbsguQ.jpg</thumbnail>
+<fanart><https://image.tmdb.org/t/p/original/x3d9lqBUNb2DumTbl8y9TouvK2j.jpg/fanart>
+<info>Un convicto moribundo (Brian Cox) es excarcelado e intenta retomar la relación con su hija (Kate Beckinsale) y el nieto al que nunca conoció, pero su violento pasado vuelve para perseguirlos a todos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Kba-W1IqA3w"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/xXMAKJ9rbwtkLlg"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/0wznvm8fugck"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/opp8hgk6xnqb"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Pinball: el hombre que salvó el juego [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Comedia, Drama, Historia, Romance</genre>
 <year>2023</year>
