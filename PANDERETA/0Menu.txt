@@ -2785,6 +2785,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]El Problema De Los 3 Cuerpos[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>108545</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/El.problema.de.los.3.cuerpos</externallink>
+<info>Una decisión tomada en China en los años 60 trasciende el tiempo y el espacio, obligando a unos científicos a afrontar la peor amenaza para la humanidad en el presente.</info>
+<thumbnail>https://image.tmdb.org/t/p/original/6Dc9mMl083cVpNknWzALCw7JYPH.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/bsQM8tL1HgkpNGqtotzz6iQ2NfT.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]El Pueblo[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>89427</tmdb>
