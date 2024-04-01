@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Ocho apellidos marroquís [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2023</year>
+<tmdb>1074049</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g5nUFZUekNT6Wo2ZiSQmnM6yWMy.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/lrpOFWJcEAeGxHzZKMoP4n0M85I.jpg</fanart>
+<info>La muerte del patriarca de los Díaz-Aguirre pone patas arriba el perfecto universo de la familia. En su testamento, pide a su mujer que recupere el Sardinete, el primer pesquero de su flota, con el que inició sus negocios y que está criando herrumbre en un puerto marroquí. A Begoña, la hija del empresario, ir a por esa “vieja lata de sardinas” le parecen delirios de un viejo chocheando. Así que Carmen, decidida a rescatar el barco, encuentra un aliado inesperado en Guillermo, el ex de Begoña, quien confía en que un viaje romántico al sur reavive la llama del amor. Sin saber cómo van a traerse la embarcación, ponen todos rumbo a Marruecos y allí descubren que en su universo nunca nada había estado en su sitio. Y es que don José María, el patriarca, guardaba un secreto: una hija llamada Hamida.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/5FLMMzpmunI"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/86kyZObpx4HoxDL"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/vne8tbx3k6pa"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/g445bfr9y8eh"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El corazón del cazador [/COLOR][COLOR yellow](2024)[/COLOR]</title>
 <genre>Acción, Suspense</genre>
 <year>2024</year>
