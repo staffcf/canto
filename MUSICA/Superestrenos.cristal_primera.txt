@@ -4,7 +4,7 @@
     ESTRENOS CRISTAL AZUL MULTIENLACE PRIMERA PASTA     ESTRENOS CRISTAL AZUL   MULTIENLACE PRIMERA PASTA
 ==========================================================================================
 
-item>
+<item>
 <title>[COLOR white] Baby Ruby [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama, Suspense, Terror</genre>
 <year>2023</year>
