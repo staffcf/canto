@@ -9084,6 +9084,16 @@ Una vez allí, se encontrarán con un enemigo mucho peor que los Goaul'd; los Wr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]TWD The Walking Dead: The Return[COLOR gold]Docuserie[COLOR white][/COLOR]</title>
+<link>cristalazul</link>
+<tmdb>1246596</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/The.walking.dead.the.return</externallink>
+<info>Los protagonistas de The Walking Dead Andrew Lincoln y Danai Gurira recuerdan y visitan lugares icónicos donde se rodaron momentos cruciales de sus personajes, Rick y Michonne.</info>
+<thumbnail>https://image.tmdb.org/t/p/original/3clopfmZ8x6s1reWC6fxgXkysZz.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/o3HA6hzzsvgxWJeypyDpnBoG9R8.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]TWD The Walking Dead World Beyond[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>94305</tmdb>
