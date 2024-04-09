@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Mindcage [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Misterio, Suspense, Crimen</genre>
+<year>2022</year>
+<tmdb>1043565</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/JvqaHXdKBtEAmm4EDVTGkoAGIj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ekZUWo5XtSrfe10RKWrL0YKkq9b.jpg</fanart>
+<info>Cuando un asesino que imita otros crímenes comienza a actuar, dos detectives le piden ayuda a un conocido asesino en serie.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/7d8XdU8cb18"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/AlABgkqDWvtXVYL"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/3dislaz7olda"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/u2bomqxqflvm"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La creación de los dioses: El reino de las tormentas [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Fantasía, Bélica</genre>
+<year>2023</year>
+<tmdb>856289</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p1p3KHxTeKYvZG3KTJYDYSVygJs.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2C3CdVzINUm5Cm1lrbT2uiRstwX.jpg</fanart>
+<info>Una epopeya de fantasía oriental que recrea las prolongadas guerras míticas entre humanos, inmortales y monstruos que tuvieron lugar hace más de tres mil años.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/0ucTl-cxIjc"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/xgboX72BD1f0Q4"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/rydjmx8qcbov"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/y98axgm7zkne"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Anatomia de una caida [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Suspense, Misterio, Crimen</genre>
 <year>2023</year>
