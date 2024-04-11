@@ -3257,6 +3257,16 @@ Entre las estrellas que han aparecido en la serie, interpretando versiones satí
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Fallout[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>106379</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Fallout</externallink>
+<info>Basado en una de las sagas de videojuegos más importantes de todos los tiempos, Fallout es la historia de los que tienen y de los que no tienen en un mundo en el que prácticamente no queda nada para tener. 200 años después del apocalipsis, los apacibles habitantes de los refugios de lujo se ven obligados a regresar al infierno irradiado que dejaron sus antepasados - y se sorprenden al descubrir que les espera un universo increíblemente complejo, alegremente extraño y muy violento. De los productores ejecutivos Jonathan Nolan y Lisa Joy, los creadores de Westworld, protagonizada por Ella Purnell, Aaron Moten, Walton Goggins y más.</info>
+<thumbnail>https://image.tmdb.org/t/p/original/9eBOaJ0lMJAEdIQuw80d45rdne.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/90xkPbXRHIy9SlgBLHp6A7dVt8s.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Feria: La Luz Mas Oscura[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>119105</tmdb>
