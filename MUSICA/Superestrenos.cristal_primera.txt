@@ -5,6 +5,66 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Ferrari [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Historia, Drama</genre>
+<year>2023</year>
+<tmdb>365620</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hRrg9hbdNEEpPXkgly77FxDYpoD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/du11oPPbEoDnUpiREO5tUg47rJd.jpg</fanart>
+<info>Verano de 1957. El ex piloto de carreras, Ferrari, está en crisis. La bancarrota acecha a la empresa que él y su esposa, Laura, construyeron de la nada diez años antes. Su tormentoso matrimonio se encuentra en medio de una gran crisis, mientras lidian con la muerte de su hijo. En esta crucial etapa, Ferrari tomará decisiones arriesgadas, apostándolo todo en una única carrera que atraviesa 1.000 millas a lo largo de toda Italia, la Mille Miglia.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/8oOVNMjM1Jk"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/OWqjdA7rbaSZqr8"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/s4v7q9q1hxxf"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/knbyzbloh4hd"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white]  El libro de las soluciones [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Drama</genre>
+<year>2023</year>
+<tmdb>888003</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5XzDmibJLJnqeMXmysiRfk7ICK3.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ftlFPDcdhyPd1YDf9AcwYtE7gDK.jpg</fanart>
+<info>Tras pelearse con unos productores que no entienden nada de su trabajo, Marc, un excéntrico director de cine, huye con su película para terminarla. Acompañado de su fiel equipo, se esconde en un pequeño pueblo rural de Francia con su tía Denise, su mejor consejera. Allí, su creatividad se manifiesta en un millón de ideas que lo sumergen en un extraño caos. Consumido por su neurosis, Marc comienza a escribir “El libro de las soluciones”, una guía de consejos prácticos que bien podría tener la respuesta a todos sus problemas.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/yZFK2UhRZNs"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/JYvXBpp6eeTj4lM"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/el0j19ikxt48"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/52r10ln7p5nd"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Golda [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Historia, Drama, Suspense, Bélica</genre>
+<year>2023</year>
+<tmdb>899524</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fqOOLq12rOMCTcWzxaJ5VUROxp3.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/d1A5OQ4PRYssLilGCTRxqwKSQ8q.jpg</fanart>
+<info>Se centra en las responsabilidades y decisiones intensamente dramáticas y de alto riesgo que enfrentó Golda Meir, también conocida como la 'Dama de Hierro de Israel' durante la Guerra de Yom Kippur.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/wK_dcNyaRsQ"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/1dboLxvoXmC1eM"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/wt4cqpw5q1cy"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/xqjpyxoifx4i"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La passion de Dodin Bouffant [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Romance</genre>
+<year>2023</year>
+<tmdb>964960</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xfyrDubkZ6v7w54GgdtIBU8ucem.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9qBCO17J7XoUFBPck1JWLBS87s2.jpg</fanart>
+<info>Francia, 1885. Narra la relación entre Eugenie, una reputada cocinera, y Dodin, el gourmet para el que ha estado trabajando durante los últimos 20 años.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/LeI-4eWvqwU"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/O7dkOLd0KdFmRD"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/nir1wflrcxyj"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/8q1ot763ys8c"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Sobre todo de noche [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Misterio, Crimen</genre>
+<year>2023</year>
+<tmdb>1108329</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6gX1fUapzbKy3jVIUCtkCqqAWUq.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1hasbXvnUL3G2a8wtO1X3bote7R.jpg</fanart>
+<info>Esta es la historia del encuentro de dos mujeres de cincuenta años a orillas del río Duero. Una película de cine negro con tres muertes, dos robos y una huída. Cuando Vera (Lola Dueñas) era joven, no pudo hacerse cargo de su hijo y tuvo que darlo en adopción. Cuando Cora (Ana Torrent) era joven, su médico le dijo que no podría tener hijos y que sólo adoptando podría formar una familia. Ambas comparten esa experiencia de haber sido madres de un niño llamado Egoz (Manuel Egozkue). Ahora, nuestras dos protagonistas se reencuentran en Portugal para repasar la historia de sus vidas y reescribir sus destinos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/gDNt4j3XsSM"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/0eYVqmyBeBFbj3o"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/92g65bpfyccc"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/9m9f7hzebijh"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Mindcage [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Misterio, Suspense, Crimen</genre>
 <year>2022</year>
