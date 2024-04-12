@@ -5,6 +5,66 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] En nombre de la tierra [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Animación, Drama, Historia</genre>
+<year>2023</year>
+<tmdb>734002</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fsRXiicdKAdHPJzwWo3AEjdpTHF.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rhFFbdRxSw25LvylJMbkOGljy2d.jpg</fanart>
+<info>Cuenta la historia de una campesina, Jagna, obligada a casarse con un granjero rico y mucho mayor, Boryna, a pesar de que ella está enamorada de su hijo, Antek. Con el tiempo, Jagna se convierte en objeto de envidia y odio de los aldeanos, y tiene que luchar para preservar su independencia. Ambientada en la campiña polaca en la cúspide de los siglos XIX y XX, los giros dramáticos de la historia se relacionan con los cambios de estación, el trabajo duro en el campo y las fiestas tradicionales locales. La novela de Wladyslaw Reymont será llevada a la pantalla con una animación de pinturas realistas y pre-impresionistas al estilo de la pintura polaca del siglo XIX.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/W0KCi_AI6lM"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/kk9DAMXO7JfO132"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/66sgdtbq4g8j"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/ijougz0t6ghp"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Stolen (Robo) [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Drama, Crimen</genre>
+<year>2024</year>
+<tmdb>1019317</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ovUBfip0EgyqHZYhVx4K0ZjFkgn.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9XpzE6GyGq9lz8W1bc0iIjKlHf9.jpg</fanart>
+<info>Narra la lucha de una mujer joven por defender su herencia indígena en un mundo donde la xenofobia va en aumento, el cambio climático amenaza la cría de renos y los jóvenes optan por el suicidio ante la desesperación colectiva.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/r1CQsOs938Q"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/J04Kvj4V6rIy9L"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/3w5inykijyhn"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/lu5ety93v3x7"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Pared con pared [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Romance, Comedia</genre>
+<year>2024</year>
+<tmdb>1005681</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vEV0cMrzRQIbZmgbXD4LL1gm9YP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pXlw9hbOmIz70eKPLNwJMECUFha.jpg</fanart>
+<info>Ella (Aitana) es una joven pianista que se prepara para una audición. Él (Fernando Guallar), un inventor de juegos que solo puede concentrarse en silencio. Solo una delgada pared les separa… ¿lograrán aprender a convivir?</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Tx2fmI3QPxM"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/aqwrbJoe2Gix8dv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/iydztu3r2jd4"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Rien a Perdre (Nada que perder) [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2023</year>
+<tmdb>966488</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1Y9lMmASKN6vyEZyTd6hbUezloh.jpg</thumbnail>
+<fanart></fanart>
+<info>Sylvie vive con sus dos hijos, a quienes está criando sola. Una noche, hay un accidente y su hijo menor es retirado de su cuidado. Posteriormente, Sylvie debe luchar para recuperar a su hijo y mantenerse a flote.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ZH1ua86Ad_Y"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/2PX0rjW4bOtRMY"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/5aq7m25dwlxl"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/a85g3yy8v9w0"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] A Journey [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2024</year>
+<tmdb>1260916</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/XNHINPAELsvGMz8olP2WtzjCSE.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/5P9b4Ehb1rYqyGCoykFDEjEdBX2.jpg</fanart>
+<info>Una enfermedad terminal. Un futuro solitario. Una carrera en la cuerda floja. Tres amigos de la infancia se olvidan de sus problemas para hacer un viaje épico por Tasmania.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/tlWrGtvgL-w"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/4xLxmpBeyxurRy"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/dxefzevcl42j"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/zoih6i8qnzxm"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Ferrari [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Historia, Drama</genre>
 <year>2023</year>
