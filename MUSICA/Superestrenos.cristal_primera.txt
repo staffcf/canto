@@ -5,6 +5,66 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Rebel Moon (Parte dos) La guerrera que deja marca [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Ciencia ficción, Acción, Drama</genre>
+<year>2023</year>
+<tmdb>934632</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ivhOeG5S2CzKjcKhureKAtfonHg.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tpiqEVTLRz2Mq7eLq5DT8jSrp71.jpg</fanart>
+<info>Los rebeldes se preparan para luchar contra Mundomadre mientras se forjan vínculos inquebrantables, surgen nuevos héroes y se crean las leyendas. Secuela de 'Rebel Moon (Parte uno): La niña del fuego'.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/nsl6wf4Ttm8"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/7wLdQgLLPlUAZl9"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/v6fsijc222yx"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/b1j73zwn211g"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Liberation [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Historia, Bélica</genre>
+<year>2023</year>
+<tmdb>1120543</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7RCzgqzY9lh8wLvLypK8KIkkmAY.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/3NsjhcK8AW1MvNcpDDbPkaViUA2.jpg</fanart>
+<info>Describe un capítulo oscuro: el de los refugiados alemanes que llegaron a Dinamarca justo antes de la liberación del país en 1945. Un instituto se convierte en un campo de internamiento para refugiados, y la familia de los directores se ve abocada a una situación imposible.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/pdF5L-IlPtY"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/88OVkwZGQzu8l3"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/zrlyr5bdd8c3"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/spa0qpvaz10a"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Fallen Leaves [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Romance, Comedia, Drama</genre>
+<year>2023</year>
+<tmdb>986280</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rP1n3OQMG5v4Mcd5HtAHml25x1u.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cru4rjGcdHGhnPyjNXvW82jOrif.jpg</fanart>
+<info>Ansa es soltera y vive en Helsinki. Trabaja con un contrato de cero horas en un supermercado, abasteciendo los estantes; luego clasifica el plástico reciclable. Una noche se encuentra accidentalmente con el igualmente solitario trabajador Holappa, un alcohólico. Contra todo pronóstico y malentendidos, intentan construir una relación. Como resultado, Holappa logra controlar su adicción al alcohol.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/XThHlWoDeNo"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/AJgAmlGdqVtBdP"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/bkrvfrkuysa5"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/vpht4zopz2py"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Camino de la suerte [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Romance</genre>
+<year>2023</year>
+<tmdb>1181512</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7S1UAhDK81UELm2PwJowtK5ssZb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/kbaZhoTdk5vE53hTdH6nEjYMGLw.jpg</fanart>
+<info>Narra el amor de Joaquín (Tito Valverde) y Rosario (María Jesús Sirvent), dos personajes sin la esperanza de que nada nuevo les vaya a ocurrir… y mucho menos volver a enamorarse.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/-0XvuODa17Y"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/Jb32VayWepujKbl"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/lb636uigr0l5"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/egogdxxfc6j5"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Atrapados en un bucle infinito [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Ciencia ficción, Fantasía</genre>
+<year>2023</year>
+<tmdb>1138476</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sqCjjugEeFmSPLqZ8QKjIItPZB3.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/gDqkQPDVox6FArBIbN0Mt7HdzuN.jpg</fanart>
+<info>Mikoto es una mujer que trabaja en una posada centenaria en Kibune, Kyoto. El día parece desarrollarse con normalidad, con múltiples huéspedes y obligaciones cotidianas. Un tanto abrumada, Mikoto aprovecha y se toma un descanso a la orilla de un río cercano. Pero cuando regresa de nuevo al trabajo, ya nada es igual: exactamente dos minutos más tarde, por alguna razón, se encuentra nuevamente frente al río. Esto le ocurrirá a ella, y también a otros empleados, camareros, chefs e invitados. Todos comienzan a sentir algo extraño. ¿Podría ser que se encuentren atrapados en un bucle temporal?</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/1A0GL8jHrx4"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/Xb3b2KV2qXfD91o"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/69vdr6qi0l7k"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/50yaalldyas8"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Tailor (El sastre) [/COLOR][COLOR yellow](2020)[/COLOR]</title>
 <genre>Comedia, Drama, Familia</genre>
 <year>2020</year>
