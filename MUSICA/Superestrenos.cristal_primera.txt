@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] City Hunter [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Acción, Comedia, Drama</genre>
+<year>2024</year>
+<tmdb>1061990</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cjQzJ9xFdaN9KAwu7HUImIgbc2Y.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7ViwIWGGrRs8TTwyMH8tz6cXyOw.jpg</fanart>
+<info>Ryo Saeba, detective privado de puntería extraordinaria y mujeriego redomado, se alía a regañadientes con la hermana de su difunto compañero para investigar su muerte.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/N9ZCi1t1Fn0"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/g3AO7Xk0YeFxRM"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/en5zqs1tvipc"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/jstfd0qdbgh4"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Yo Capitán [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Aventura, Drama</genre>
+<year>2023</year>
+<tmdb>937746</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jbUdhy3wsVLftd530jyWHKebsUJ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/A3BnHM8a56lsHwn4o7ogiq1KHGh.jpg</fanart>
+<info>Seydou y Moussa son dos jóvenes que abandonan Dakar para emprender camino a Europa. Una odisea contemporánea a través de los peligros del desierto, los horrores de los centros de detención en Libia y los peligros del mar.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/5Mg_AiPGw-0"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/ApGaBrrJ9BUXyrj"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/v37ghg4g25ka"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/lv5mtj1o18ix"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Beekeeper: El protector [/COLOR][COLOR yellow](2024)[/COLOR]</title>
 <genre>Acción, Suspense, Drama</genre>
 <year>2024</year>
