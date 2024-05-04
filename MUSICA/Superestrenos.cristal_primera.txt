@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Los colores del incendio [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Historia, Drama</genre>
+<year>2022</year>
+<tmdb>785980</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7eWkRS4cPcbXMAxLQdYEi5RXdnt.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vZ8sy9K4oT2Kmp5xNSmgCMRYC8g.jpg</fanart>
+<info>París, 1927. Cuando Madeleine decide ponerse al frente del imperio financiero que ha heredado, el destino decidirá lo contrario y se enfrentará a una gran conspiración destinada a despojarla de todo lo que tiene. Enfrentada a la adversidad de los que la rodean y a la corrupción desenfrenada de la Francia codiciosa del periodo de entreguerras, Madeleine echará mano de una gran inteligencia y energía para llevar a cabo su terrible venganza, que no perdonará a nadie.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/0fYcIE0nn0o"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/XzjX3d2JKBF0Yp"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/kw2bb2m6ddfn"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/yehcxpydf8o4"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Disco Boy [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Bélica</genre>
+<year>2023</year>
+<tmdb><922830/tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gGjcPfk28TB3ZjEkDufJSEhfr1A.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7hGuQgkTDGGxdRzFXYcbkvWRhfL.jpg</fanart>
+<info>Tras un difícil viaje a través de Europa, Aleksei llega a París para alistarse en la Legión Extranjera francesa, un cuerpo militar muy selectivo que permite conceder el pasaporte francés a cualquier extranjero, incluso indocumentado. En el delta del Níger, Jomo lucha contra las compañías petroleras que amenazan la supervivencia de su aldea. Mientras tanto, su hermana Udoka sueña con escapar, sabiendo que allí todo está perdido.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/nFzx-VMoApM"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/MZLep6P09WfmWJO"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/o0wf3xt2gxj3"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/t7xt22mbmqvl"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] City Hunter [/COLOR][COLOR yellow](2024)[/COLOR]</title>
 <genre>Acción, Comedia, Drama</genre>
 <year>2024</year>
