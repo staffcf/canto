@@ -5,6 +5,54 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Vacaciones sin mamá [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2023</year>
+<tmdb>898994</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kB5PEUmkmeREnLCSpF8j7Pz4AjX.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/soFWwnobJMd082giW3lF7rhx28X.jpg</fanart>
+<info>Cuenta la historia de Antoine que opta por quedarse en casa para cuidar a sus hijos tras su despido. Los roles se han invertido durante 2 años y su energía comienza a disminuir ante las demandas de su familia.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/LhKvc2sU3L4"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/3A73XZe43PFD20"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/wu31m5j0icn9"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/967kjgrfat43"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Ashkal, los crímenes de Túnez [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Suspense</genre>
+<year>2023</year>
+<tmdb>964679</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nlCZNroCVoCOqO11J1EHyucpxoC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qZYkC7Ivr6U2LOWbm4vF2TsoCIg.jpg</fanart>
+<info>En los Jardines de Cartago, un barrio de Túnez creado por el antiguo Régimen y cuya construcción se detuvo al comienzo de la Revolución, dos policías encuentran un cuerpo calcinado en uno de los solares. A medida que la construcción de la zona se reanuda lentamente, comienzan también a investigar este misterioso caso. Cuando el evento se repite, el caso da un giro desconcertante.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/rRTzM2fd9FE"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/1LR47bJK6JuJ7y"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/y06sy9gh27q2"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/n19rktnz4ibt"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Los tres mosqueteros: Milady [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Aventura, Acción, Drama</genre>
+<year>2023</year>
+<tmdb>845111</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cxttOyp3kVIuR86bUOLOcfkYpYN.jpg></thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qnVm19Vu2Sc14LoEj82pmqAYr3p.jpg</fanart>
+<info>Desde el museo del Louvre al Palacio de Buckingham, pasando por las alcantarillas de París al asedio de La Rochelle... En un reino dividido por guerras religiosas y bajo la amenaza constante de la invasión británica, un grupo de hombres y mujeres empuñarán sus espadas y unirán su destino al de Francia.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/P1HfovIccgw"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/PX9JLLJ8qWi0PdL"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/z4b3r927whr8"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/w9sgx4w0syey"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Metronom [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama, Romance</genre>
+<year>2022</year>
+<tmdb>962562</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uS60bGoYIEf81hLy1sAGY22VBDJ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qSXuzNKEOmVce5UAKQctGdKG9MQ.jpg</fanart>
+<info>La película "Metronom" narra la conmovedora historia de amor adolescente entre Ana, de 17 años, y Sorin. Ambientada en un contexto de represión, ambos jóvenes luchan contra la injusticia de un sistema autoritario y las repercusiones de sus actos de desafío. Explora temas como la libertad de expresión, la rebeldía, el amor y la efervescencia de la juventud en una era donde incluso la música rock occidental era vista como una amenaza al régimen.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/x958ymCcRxU"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/bPLGdPPA69CQoJ"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/7ao64i5sc5u4"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/pjrew7xe3kyg"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Los colores del incendio [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Historia, Drama</genre>
 <year>2022</year>
