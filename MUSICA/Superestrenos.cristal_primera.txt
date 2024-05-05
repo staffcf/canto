@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Jules [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Ciencia ficción, Comedia, Drama</genre>
+<year>2023</year>
+<tmdb>1072371</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yMOWu8rpZPiBI0j8MInBTtNO0vU.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fa4fwqvuK8GnV2WSu4AN4PEBn56.jpg</fanart>
+<info>Un platillo volador aterriza en el patio trasero de un anciano de los suburbios con problemas de memoria, que forma un vínculo con el alienígena asustado que está dentro.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ptlS4hmrDyE"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/oxjGLWjqlOfJXlB"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/0kavvt89nj15"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/82zr56hn4p1c"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Aberrance [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Terror, Drama, Misterio, Suspense</genre>
 <year>2022</year>
