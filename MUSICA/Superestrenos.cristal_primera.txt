@@ -5,6 +5,54 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Falcon Lake [/COLOR][COLOR yellow](2022)[/COLOR]</title>
+<genre>Drama, Romance, Misterio</genre>
+<year>2022</year>
+<tmdb>946127</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zAaB7z9BYddWX7tIso4zhYejEdf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rbVgqI1sBAvP8dA5WKG7ivcSsw2.jpg</fanart>
+<info>Bastien, un adolescente parisino, pasa las vacaciones con su familia en una cabaña junto a un lago de Quebec. Allí se encontrará con Chloé, una chica mayor, de quien se enamorará. A pesar de la diferencia de edad y de los miedos de Bastien, desarrollarán un vínculo especial. Bastien tendrá que enfrentarse a sus miedos para conseguir un lugar en el corazón de Chloé, mientras exploran su sexualidad y la inquietante leyenda del fantasma del lago.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/GAN4m45RzgI"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/e4gYDaQkXJhYq4G"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/dc7exsrebekq"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/zr61w2x5fpvw"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La madre de la novia [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Romance, Comedia</genre>
+<year>2024</year>
+<tmdb>1093231</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5LUy0JxMlCynStB2pCxTInwtjVx.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/m0XCtFisSD0O6P55G1pUHdFccuL.jpg</fanart>
+<info>Emma, la hija de Lana, regresa de Londres y anuncia que se casará el próximo mes. Las cosas se complican cuando Lana se entera de que el hombre que le robó el corazón a Emma es el hijo del hombre que le rompió el suyo hace años.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ZMJ-0s3VH5g"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/mqZ01KRAr3Fb1yZ"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/hprzpxqbnaae"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/qud5yiwgkibx"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Kina & Yuk [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Familia, Aventura</genre>
+<year>2023</year>
+<tmdb>983015</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yfhTImUxx9MN8BtW01DgUpLcvql.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9486WpZvT9BBlamLWUUOHWCO9r5.jpg</fanart>
+<info>La vida en el Ártico ya es un reto, pero se volverá aún más difícil para Kina y Yuk. Estos zorros árticos están a punto de experimentar la paternidad por primera vez. Sin embargo, los inviernos árticos ya no son lo que solían ser y el calentamiento global está cambiando las reglas para todos. Durante una expedición de caza en la costa, Yuk se queda atrapado en un bloque de hielo a la deriva. Kina se queda entonces sola y deberá aventurarse en territorios desconocidos. A solo unos días de dar a luz, Kina y Yuk se buscarán a contrarreloj para reunirse a tiempo para el nacimiento de sus cachorros.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Jgb5c2_3jFM"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/e0or7qw6LxTYbxJ"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/vrd3v6szcg0d"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/giayzbhrqxh8"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white]  Un gran equipo [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Comedia, Drama</genre>
+<year>2023</year>
+<tmdb>888768</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jNmfChriw2weB2ZRWU2cIEAfojk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ceEx9V0sUiyL2rPc6G7rZXnVtd1.jpg</fanart>
+<info>Jason, un niño diagnosticado con autismo desde pequeño, lucha por mantener su rigidez en un entorno caótico como el colegio. Ante la amenaza de ser enviado a un centro de educación especial, su padre hace un pacto: si Jason controla su ira, lo llevará a partidos de cada equipo profesional de Alemania hasta que encuentre su favorito.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Bg7etDgdhe4"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/e4OY3mzXKKiYr2O"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/yqb0lt9gg1un"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/9dfp88db0jmo"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] La zona de interés [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Historia, Drama</genre>
 <year>2023</year>
