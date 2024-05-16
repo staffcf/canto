@@ -5,6 +5,54 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white]  Godzilla y Kong El nuevo imperio [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Ciencia ficción, Acción, Aventura</genre>
+<year>2024</year>
+<tmdb>823464</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2YqZ6IyFk7menirwziJvfoVvSOh.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qrGtVFxaD8c7et0jUtaYhyTzzPg.jpg</fanart>
+<info>Una aventura cinematográfica completamente nueva, que enfrentará al todopoderoso Kong y al temible Godzilla contra una colosal amenaza desconocida escondida dentro de nuestro mundo. La nueva y épica película profundizará en las historias de estos titanes, sus orígenes y los misterios de Isla Calavera y más allá, mientras descubre la batalla mítica que ayudó a forjar a estos seres extraordinarios y los unió a la humanidad para siempre.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/9zPyVeJlzsU"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/LJDOQWeBwdtR0v6"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/pl03u47axb7i"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/l8fy59g5hhd0"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Noryang: Deadly Sea [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Historia, Drama, Bélica</genre>
+<year>2023</year>
+<tmdb>660360</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wFAe7gA513Pi2meI4ECwf6YEKR1.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ksZTspehDCC4PCZN8ci31pFT6yp.jpg</fanart>
+<info>En el invierno de 1598, la Guerra Imjin, que duró siete años, se acerca a su fin mientras los invasores japoneses Wae se preparan para retirarse de Joseon. El almirante Yi Sun-shin lidera una flota aliada de barcos Joseon y Ming para aniquilar al ejército Wae. Las fuerzas de Joseon, Ming y Wae se enfrentan en el estrecho de Noryang, el mar mortal donde el almirante Yi libra su última y valiente batalla.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/HPRkiVU39I4"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/pMQO7JlWQJtrkda"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/bin6ax0gnet0"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/iri97oxbirvk"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Mercy [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Misterio, Suspense</genre>
+<year>2023</year>
+<tmdb>1111966</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2GfQ6S9PN6HBmSrmS7g363wjtTM.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/lUlz0oE3zhAku7QvGoDJCeaFuiO.jpg</fanart>
+<info>Una exmédica militar se encuentra en una batalla mortal por la supervivencia cuando la mafia irlandesa toma el control del hospital en el que trabaja. Cuando su hijo es tomado como rehén, se ve obligada a confiar en su pasado endurecido por la batalla y sus habilidades letales después de darse cuenta de que no queda nadie para salvar el día excepto ella.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Kz-fFw4ELuA"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/GpQbvWbD9qS1wPM"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/85m465051t0g"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/0rjmtk4ditaw"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] The Blind [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Historia, Drama, Familia</genre>
+<year>2023</year>
+<tmdb>1032194</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bRYMdgIft5H8dOdDLkjoKOcS8Zg.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/bCy1gncYfEYgXkxTThMHuO5NWgN.jpg</fanart>
+<info>Deep South, 1960, un hombre lucha con la vergüenza de su pasado, mientras navega por su propio alcoholismo y complicadas dinámicas familiares como esposo y padre.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/dE2wUVknVj8"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/aZP0PdeOBghxRk8"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/1pwok8odx0qm"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/1o26djsnjm9u"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Falcon Lake [/COLOR][COLOR yellow](2022)[/COLOR]</title>
 <genre>Drama, Romance, Misterio</genre>
 <year>2022</year>
