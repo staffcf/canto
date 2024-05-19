@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Slow [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Romance</genre>
+<year>2023</year>
+<tmdb>1058642</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pvZbPpMRyKwN9NUzFwwvvmCrUEY.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rJ9fsSZy006YB8Ahk4CKkdea5EK.jpg</fanart>
+<info>Elena imparte clases de baile, mientras que Dovydas trabaja como intérprete de lenguaje de signos. En el momento en que se conocen, se establece un hermoso vínculo entre ellos. Sin embargo, su relación será puesta a prueba cuando Dovydas confiesa a Elena que tiene sentimientos románticos por ella, pero es asexual, es decir, no siente y nunca ha sentido deseo sexual por otra persona.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/nlwnNv6SqfU"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/Y643vmObOofvPZP"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/cfmooc4j9b72"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/35813pb7i6sy"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Golden Kamuy [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Acción, Aventura, Comedia</genre>
+<year>2024</year>
+<tmdb>1171462</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sLcRGIJqlJeoGGk88CtA8Ida5aq.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jaRoloTuVFYYvBH5VlRBQnf2egx.jpg</fanart>
+<info>A principios del siglo XX, en la frontera de Hokkaido (Japón), un veterano de guerra y una joven ainu emprenden una carrera contra rebeldes y desertores en busca de un mapa tatuado en unos presos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/N6DmjhcSt8Q"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/PZVe4eV0dKS04Yy"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/fzpoughlnyezi"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/tbt75vhb4nh4"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white]  Godzilla y Kong El nuevo imperio [/COLOR][COLOR yellow](2024)[/COLOR]</title>
 <genre>Ciencia ficción, Acción, Aventura</genre>
 <year>2024</year>
