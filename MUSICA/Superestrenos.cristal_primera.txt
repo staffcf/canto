@@ -72,7 +72,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/72Qbz1xMhj7eLKTR4R4dgb5ibhf.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/5TYO3nLlHn5XC3Q19sQ0f06HpeL.jpg</fanart>
 <info>Un rodaje va a empezar en la barriada Picasso, en Boulogne-Sur-Mer, al norte de Francia. Durante el casting, cuatro adolescentes (Lily, Ryan, Maylis y Jessy) son elegidos para participar en la película. En el barrio, todos se sorprenden: ¿por qué escoger solo a «los peores»?</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/LzWHZm5rhKU"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/qJz6me6b99FK66"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/p6j559co28gx"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/60ooo6m88bvm"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/LzWHZm5rhKU"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/eKPk81KWkgCYDZW"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/p6j559co28gx"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/60ooo6m88bvm"}</urlsolve>
 </item>
 
 
