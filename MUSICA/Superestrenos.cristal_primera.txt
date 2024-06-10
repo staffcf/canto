@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Mutt [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2023</year>
+<tmdb>1042216</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r62EYMhiSR9ExYutKJZKXmfMzzd.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dPStzWmECzqe7cHZfbKDxWW04Tt.jpg</fanart>
+<info>En el transcurso de un solo día agitado en la ciudad de Nueva York, tres personas del pasado de Feña regresan a su vida: su padre extranjero, su exnovio heterosexual y su media hermana de 13 años. Habiendo perdido el contacto desde la transición de mujer a hombre, Feña debe navegar la nueva dinámica de estas viejas relaciones mientras enfrenta los desafíos diarios que conlleva vivir una vida intermedia.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/zCwTxQVjqbo"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/yMKo8wmVR4i1P71"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/i8kksulkx8jp"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/69t7jwjd3jmy"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] ¿Todo bien? [/COLOR][COLOR yellow](2024)[/COLOR]</title>
 <genre>Drama, Comedia, Romance</genre>
 <year>2024</year>
