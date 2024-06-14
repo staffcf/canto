@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Halloween Park (Karusell) [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Terror</genre>
+<year>2023</year>
+<tmdb>1058078</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2IVqmTsYIvilb3yC8FFc05bH99U.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/5lhkwyuxSyElspMjAVZPUFg20b3.jpg</fanart>
+<info>Una exclusiva noche privada de Halloween en Liseberg se convierte rápidamente en una verdadera pesadilla.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/F0XS83Js2yY"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/94VKBJxQpwFa4Ok"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/efoszuveldvt"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/dmyxuwb6feym"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Menudas piezas [/COLOR][COLOR yellow](2024)[/COLOR]</title>
 <genre>Comedia</genre>
 <year>2024</year>
