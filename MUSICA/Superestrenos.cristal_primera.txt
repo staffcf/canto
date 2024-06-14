@@ -5,6 +5,42 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Menudas piezas [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2024</year>
+<tmdb>1175075</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/epxMmvLaQmInLeRNOIMfRaJrhSZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2UYUojn45G06tk2gTbQc20DQGCm.jpg</fanart>
+<info>Candela cometió el error de pensar que el ascensor social solo funciona en una dirección, la de subida. Y ahora, tras un traumático e inesperado divorcio, pierde su trabajo en un colegio de élite. Por eso Candela tiene que volver al barrio del que salió y pedir ayuda a su hermana y su padre, esos a los que lleva años mirando por encima del hombro. Es hora de recolocar las piezas en el tablero, empezar de cero y buscar una segunda oportunidad. Pero la única que encuentra es dar clases en su antiguo instituto a estudiantes con problemas de integración. Pasa de la crème de la crème, a la crème de la mediocridad...</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/wdfLg-jMaNI"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/WGDMoXPLBLIb7PY"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/fzv956di0czg"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/apop6llowf2r"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Fuerza Bruta: Sin Salida [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Crimen, Comedia, Suspense</genre>
+<year>2023</year>
+<tmdb>Acción, Crimen, Comedia, Suspense</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cB607Cz7Mpdwepnz6RncXOW9gDD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vblTCXOWUQGSc837vgbhDRi4HSc.jpg</fanart>
+<info>El detective Ma Seok-do cambia su afiliación de la comisaría de Geumcheon al Equipo de Investigación Metropolitana, para erradicar a los gánsteres japoneses que ingresan a Corea para cometer crímenes atroces.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/PmqABHW0qfc"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/JooBpDYpp8sgwb"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/qcudjuyekeys"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/xkdik33xn8pb"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Testament [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Comedia</genre>
+<year>2023</year>
+<tmdb>1058155</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9LApt8YBzKlQpAnHnKFpVjEpphx.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fu9kf4nuEXaxwGoBbG5Czhow75v.jpg</fanart>
+<info>En una era de cambios de identidad, Jean-Michel, un hombre soltero de 70 años, ha perdido todo contacto con la sociedad y parece ya no tener mucho que esperar de la vida. En la residencia de ancianos donde vive, Suzanne, la directora, es atacada por jóvenes manifestantes que exigen la destrucción de un fresco que les resulta ofensivo. Mientras observa irónicamente esta era pospandémica en la que todo parece ir a la deriva, Jean-Michel toma el control de su vida... y de la de los demás.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/-2rFi9PLoFY"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/zKwAWy9o8RiYBby"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/2ehz9tmzn85m"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/367305qmcbn4"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Mutt [/COLOR][COLOR yellow](2023)[/COLOR]</title>
 <genre>Drama</genre>
 <year>2023</year>
