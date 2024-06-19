@@ -5,6 +5,54 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Sulis 1907 [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2023</year>
+<tmdb>964258</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y7ftoxpnpF5xl9Pg9pt6vqJZWsj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/mLuKZgbMNmEuSWJLJWnfxC3zLhH.jpg</fanart>
+<info>En 1906, a los 17 años, Konrad clasifica cobre bajo una nube tóxica de azufre en la mina más próspera de Noruega. Un día, el nuevo capataz, un cínico suecoestadounidense contratado para maximizar la productividad, le ofrece a Konrad la oportunidad de mejorar su dura vida. Sin embargo, la oferta no es tan generosa como parece, y Konrad deberá decidir si aceptar el trato o enfrentarse a las consecuencias.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/17hiOxtJcCw"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/XkmqayzLwlfD62m"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/el7bk364mlyi"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/8nvsssyoy6cj"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] We Grown Now [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2024</year>
+<tmdb>1163186</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fGYX0LCsL4hcirSChhHAevT09nT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/85aNuihDRCkx8GFwUd71HQ7nBUs.jpg</fanart>
+<info>Malik y Eric son dos jóvenes mejores amigos que descubren las alegrías y las dificultades de crecer en el extenso complejo de viviendas públicas Cabrini-Green en el Chicago de 1992.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/FK8jW-pGWaY"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/rJK4GjL62QS3z3"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/4rwuzhea10ta"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/p7u1a25zla4l"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Burga [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Terror</genre>
+<year>2023</year>
+<tmdb>1031516</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iUFZGYWlDU1SqfvV3ph3xrct013.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2yFMZYVNeyLnj8NV7T5HKIFFNf6.jpg</fanart>
+<info>Inspirada en un caso real y único en la psiquiatría española de los años 60, se centra en las visiones extrañas de una mujer que despierta del coma en un hospital.</info>
+<urlsolve>{"titulo" : "[COLOR red]Sin Trailer[/COLOR]","url" : "https://vimeo.com/742720132"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/qDo2o2vxYpFL2m"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/1agn7rka0cq3"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/j6v19z3ajf0q"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Amigos imaginarios (IF) [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Comedia, Fantasía, Familia</genre>
+<year>2024</year>
+<tmdb>639720</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8RgGuC7w8JxhykauzTC4bwha1J8.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/nxxCPRGTzxUH8SFMrIsvMmdxHti.jpg</fanart>
+<info>Película sobre el viaje de una niña para redescubrir su imaginación.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/_uc_BFDBUII"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/7Kbr3QJzMjHAdZ6"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/jgqvzhqro7ka"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/3w844h1z1une"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Buscando a Coque [/COLOR][COLOR yellow](2024)[/COLOR]</title>
 <genre>Comedia</genre>
 <year>2024</year>
