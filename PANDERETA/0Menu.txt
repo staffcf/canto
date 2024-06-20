@@ -6180,6 +6180,16 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Muertos SL[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>237964</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Muertos.sl</externallink>
+<info>Cuando fallece Gonzalo Torregrosa, propietario y fundador de Funeraria Torregrosa, Dámaso Carrillo, su mano derecha en la empresa, no duda en que lo mejor para la continuidad del negocio es que él asuma el mando. Pero, contra todo pronóstico Nieves, la septuagenaria viuda, decide ponerse al frente de la empresa familiar, ayudada por su inútil y entusiasta yerno, Chemi, experto en márquetin, y en contra de los planes de sus hijas de cerrar y montar un gimnasio. Mientras Dámaso conspira y manipula a sus compañeros contra la nueva dirección, la empresa se enfrentará a la competencia, la funeraria Transitus, y a su plan para expandir su negocio, y a un caso a lo Me Too, que amenazarán el legado de Gonzalo Torregrosa.</info>
+<thumbnail>https://image.tmdb.org/t/p/original/rNl0aYYA7w17dAd6AzyBVgCRJxt.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zHNEMegvyBtS1EaGRS5EC1HVoLa.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Murderville[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>155594</tmdb>
