@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] La herencia del tío [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Comedia, Misterio</genre>
+<year>2024</year>
+<tmdb>1279433</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hblBwcjAAgPIVN4db8dWcGcSuOf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dYGJ9cI3pUjCUITfxxsO5kEGKTF.jpg</fanart>
+<info>Cuando su tío rico fallece, su mansión llena de complejos enigmas se convierte en el escenario de la lucha de su distanciada familia por hacerse con una parte de la fortuna.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/EuKkZFkSOtE"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/KeVXA98Ov1i02vV"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/148zfg40ydun"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/y9ws4jh15lda"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] The Flood [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Misterio, Suspense, Terror</genre>
+<year>2023</year>
+<tmdb>1006462</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mvjqqklMpHwOxc40rn7dMhGT0Fc.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/bz66a19bR6BKsbY8gSZCM4etJiK.jpg</fanart>
+<info>Una atrevida fuga en la cárcel durante un peligroso huracán de Luisiana es interrumpida por una horda de grandes caimanes hambrientos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/xx5sYS0pHJg"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/Ryd0Kv4vQ2Fdye2"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/0urxqrgmhda3"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/t67p2j2epkb7"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Los Infalibles [/COLOR][COLOR yellow](2024)[/COLOR]</title>
 <genre>Comedia</genre>
 <year>2024</year>
