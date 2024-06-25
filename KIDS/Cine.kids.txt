@@ -11,7 +11,7 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <thumbnail>https://www.themoviedb.org/t/p/original/pFiKd4TCv1K8n90w40E8KbO3lxC.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/7iNxYnNHP50W13ELOLI0UG1hswK.jpg</fanart>
 <info>Pongo y Perdita, los dalmatas protagonistas, son una feliz pareja canina que vive rodeada de sus cachorros y con sus amos Roger y Anita. Pero su felicidad esta amenazada. Cruella de Ville, una perfida mujer que vive en una gran mansion y adora los abrigos de pieles, se entera de que los protagonistas tienen quince cachorros dalmatas. Entonces, la idea de secuestrarlos para hacerse un exclusivo abrigo de pieles se convierte en una obsesion enfermiza. Para hacer realidad su sueño contrata a dos ladrones.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamwish.to/my3cwx4lw119"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://vembed.net/v/mMq75Lr609EXPBY"}</urlsolve>
+<urlsolve>https://vembed.net/v/mMq75Lr609EXPBY</urlsolve>
 </item>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Infantil, A2003, Letra 1, EEUU, Secuela. Perros, Disney, Dalmatas, C720, "
@@ -155,8 +155,8 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <year>1951</year>  
 <thumbnail>https://www.themoviedb.org/t/p/original/zOJKtTdToc8FcjmmbavkjUxv2Ue.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/x8Z75nZ2kY5QJZvEQRtqzF9hRKo.jpg</fanart>
-<info>Historia de magia y fantasia en la que la joven Alicia se sumerge en el sorprendente Pais de las Maravillas y conoce a extraordinarios personajes como Tweedledee y Tweedledum, el Sombrerero Loco, La Reina de Corazones y el frenetico Conejo Blanco. </info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamwish.to/821uuphuck66"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://vembed.net/v/edVqE4nj635YWmQ"}</urlsolve>
+<info>Historia de magia y fantasia en la que la joven Alicia se sumerge en el sorprendente Pais de las Maravillas y conoce a extraordinarios personajes como Tweedledee y Tweedledum, el Sombrerero Loco, La Reina de Corazones y el frenetico Conejo Blanco.</info>
+<urlsolve>https://vembed.net/v/edVqE4nj635YWmQ</urlsolve>
 </item>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, Disney, Letra A, "
@@ -166,7 +166,7 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <year>2010</year>  
 <thumbnail>https://www.themoviedb.org/t/p/original/lTL10rosTEhOZp8E3zoniXddyRC.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/vU1E9iN7W0RGX06zPaz2uYFC8NQ.jpg</fanart>
-<info>Historia de magia y fantasia en la que la joven Alicia se sumerge en el sorprendente Pais de las Maravillas y conoce a extraordinarios personajes como Tweedledee y Tweedledum, el Sombrerero Loco, La Reina de Corazones y el frenetico Conejo Blanco. </info>
+<info>Historia de magia y fantasia en la que la joven Alicia se sumerge en el sorprendente Pais de las Maravillas y conoce a extraordinarios personajes como Tweedledee y Tweedledum, el Sombrerero Loco, La Reina de Corazones y el frenetico Conejo Blanco.</info>
 <urlsolve>https://vembed.net/v/YWA8E9nmWqOGmMw</urlsolve>
 </item>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
