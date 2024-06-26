@@ -5365,20 +5365,6 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-"Tag= Malu3, Disney, 1Fantastico, 1Accion, 1Ciencia Ficcion, A2019, Letra S, EEUU, Superheroes, Adolescencia, Secuela, Comic, Marvel, Comics, Columbia, Sony, "
- 
-<item>
-<title>[COLOR white] Spider Man: Lejos De Casa [COLOR gold](2019)[/COLOR]</title>    
-<genre>Fantastico, Accion, Ciencia Ficcion</genre>
-<year>2019</year>  
-<thumbnail>https://i.imgur.com/bEXtioK.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
-<info>Peter Parker decide irse junto a MJ, Ned y el resto de sus amigos a pasar unas vacaciones a Europa. Sin embargo, el plan de Parker por dejar de lado sus superpoderes durante unas semanas se ven truncados cuando Nick Fury contacta con el para solicitarle ayuda para frenar el ataque de unas criaturas elementales que estan causando el caos en el continente. En ese momento, Parker vuelve a ponerse el traje de Spider-Man para cumplir con su labor.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/k0ybw2tc8pu5"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://vanfem.com/v/kw0qjh328z-68g2"}</urlsolve>
-</item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 "Tag= Malu3, Disney, 1Fantastico, 1Accion, 1Aventuras, A2018, Letra S, EEUU, Superheroes, Marvel, "
 <item>
 <title>[COLOR white] Spider-Man: Un nuevo universo  [COLOR gold](2018)[/COLOR]</title>    
@@ -5387,7 +5373,19 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <thumbnail>https://i.imgur.com/5NP9ZpH.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>En un universo paralelo donde Peter Parker ha muerto, un joven de secundaria llamado Miles Morales es el nuevo Spider-Man. Sin embargo, cuando el lider mafioso Wilson Fisk (a.k.a Kingpin) construye el "Super Colisionador" trae a una version alternativa de Peter Parker que tratara de enseñarle a Miles como ser un mejor Spider-Man. Pero no sera el unico Spider Man en entrar a este universo, 4 versiones alternas de Spidey apareceran y buscaran regresar a su universo antes de que toda la realidad colapse.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/pa6lgtzbmh1j"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://vanfem.com/v/wwx41hn3-qkw-xm"}</urlsolve>
+<urlsolve>https://watchsb.com/e/pa6lgtzbmh1j</urlsolve>
+</item>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"Tag= Malu3, Disney, 1Fantastico, 1Accion, 1Aventuras, A2023, Letra S, EEUU, Superheroes, Marvel, "
+<item>
+<title>[COLOR white] Spider-Man: Cruzando El Multiverso  [COLOR gold](2023)[/COLOR]</title>    
+<genre>Fantastico, Accion,Aventuras</genre>
+<year>2023</year>  
+<thumbnail>https://image.tmdb.org/t/p/original/37WcNMgNOMxdhT87MFl7tq7FM1.jpg</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<info>Tras reencontrarse con Gwen Stacy, el amigable vecindario de Spider-Man de Brooklyn al completo es catapultado a través del Multiverso, donde se encuentra con un equipo de Spidermans encargados de proteger su propia existencia. Pero cuando los héroes se enfrentan sobre cómo manejar una nueva amenaza, Miles se encuentra enfrentado a las otras Arañas y debe redefinir lo que significa ser un héroe para poder salvar a la gente que más quiere.</info>
+<urlsolve>https://watchsb.com/e/pa6lgtzbmh1j</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -5399,7 +5397,7 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <thumbnail>https://i.imgur.com/TMVVvVd.jpg</thumbnail> 
 <fanart>https://i.imgur.com/5N4e29A.jpg</fanart> 
 <info>Sigue las aventuras de un corcel mustang salvaje e ingobernable que recorre la indomita frontera norteamericana. Cuando encuentra a un hombre por primera vez, un joven de la tribu de los Lakota llamado Little Creek, Spirit se niega a dejarse domar por el pero si se hace amigo suyo. El valiente corcel tambien encuentra el amor con una hermosa yegua llamada Rain. Spirit se conviertira en uno de los grandes heroes anonimos del Viejo Oeste.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/vw6alysnspeb"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://vanfem.com/v/jndqjsdzd71g7w8"}</urlsolve>
+<urlsolve>//listeamed.net/v/ZMVoEr8J3kY59Pa</urlsolve>
 </item>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -5411,7 +5409,7 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <thumbnail>https://www.themoviedb.org/t/p/original/bSkqrecf1g2d0h9z0oJlgxXVHwt.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ien5JhflM22wlUQOYYOsqJGIC73.jpg</fanart>
 <info>La vida de Lucky Prescott cambia para siempre cuando se muda de su casa en la gran ciudad a un pequeño pueblo fronterizo en el que entabla amistad con un caballo salvaje llamado Spirit.</info>
-<urlsolve>https://vanfem.com/v/y6g7zie8meen16y</urlsolve>
+<urlsolve>//listeamed.net/v/0DogOGMGl9GxKjM</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -5424,7 +5422,7 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <thumbnail>https://i.imgur.com/9uCMWN3.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>La Agente 00-Cat, Marnie, es una divertida gata domestica, muy querida por su familia, que jamas ha salido de su casa. Aunque es muy curiosa, lo unico que conoce del mundo es lo que ha visto por television y cree que todas las historias que aparecen en la pantalla son reales. Admirando las grandes aventuras que les pasan a los protagonistas de las peliculas, Marnie desea vivir una propia y alejarse de su rutina: dormir, comer, volver a dormir.... Un dia, el hermanastro de su dueña, que quiere deshacerse de Marnie, decide asignarle una importante mision, que la llevara al mundo exterior. Durante el viaje, la caja donde viajaba Marnie, se queda “accidentalmente” abandonada en medio de una carretera desierta. Aunque no conoce el mundo, Marnie se propone cumplir la mision.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/8ria1ujuv5r6"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://vanfem.com/v/wwx41hn3n58m150"}</urlsolve>
+<urlsolve>//listeamed.net/v/4bQVOj7pX9o5wKm</urlsolve>
 </item>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
