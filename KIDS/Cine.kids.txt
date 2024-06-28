@@ -4216,7 +4216,7 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
  
- "Tag= Malu3, Disney, 1Animacion, 1Musical, 1Infantil, A1946, Letra M, EEUU, Disney, C720, "
+"Tag= Malu3, Disney, 1Animacion, 1Musical, 1Infantil, A1946, Letra M, EEUU, Disney, C720, "
 <item>
 <title>[COLOR white] Musica, Maestro [COLOR gold](1946)[/COLOR]</title>    
 <genre>Animacion, Musical, Infantil</genre>
@@ -4341,7 +4341,7 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <thumbnail>https://i.imgur.com/SSr0WNA.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Ambientado en un mundo de fantasia suburbana, dos hermanos elfos adolescentes, Ian y Barley Lightfood, se embarcan en una aventura en la que se proponen descubrir si existe aun algo de magia en el mundo que les permita pasar un ultimo dia con su padre, que fallecio cuando ellos eran aun muy pequeños como para poder recordarlo.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/lsyq3l0wjm2b"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://vanfem.com/v/3ren7im7pqrm05y"}</urlsolve>
+<urlsolve>https://vanfem.com/v/gl4rji-802zgnpd</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, A2019, Letra O, Rusia, C720, "
@@ -4353,19 +4353,30 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <thumbnail>https://i.imgur.com/Fy8WrSw.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Por equivocacion, una torpe cigüeña entrega un panda bebe a la direccion incorrecta. Sera entonces cuando un oso y sus amigos se embarquen en una audaz aventura para ayudar al pequeño panda a conocer finalmente a su verdadera familia y devolverlo a su hogar. ¿Lo lograran?</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/BweJdooIIuQe/festakids-operacion-panda-2019-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/7kbf0tz1qq3u"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://vanfem.com/v/gl4rji-802zgnpd"}</urlsolve> 
+<urlsolve>https://vanfem.com/v/gl4rji-802zgnpd</urlsolve> 
+</item>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+"Tag= Malu3, Disney, 1Comedia, 1Fantastico, 1Infantil, A2014, Letra P, Reino Unido, Familiar, Amazon, Movistar," 
+<item>
+<title>[COLOR white] Paddington  [COLOR gold](2014)[/COLOR]</title> 
+<genre>Comedia, Fantastico, Infantil</genre>
+<year>2014</year>
+<thumbnail>https://image.tmdb.org/t/p/original/wpchRGhRhvhtU083PfX2yixXtiw.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/duv0V0IrnRAW4Nr9kbbhAQNXCLf.jpg</fanart>
+<info>El oso Paddington ya esta felizmente integrado en casa de la familia Brown. Se ha convertido ademas en un miembro muy popular de la comunidad de Windsor Gardens. Su tia Lucy cumple 100 años y el tiene el regalo perfecto para ella: un maravilloso libro pop-up de la tienda de antigüedades de Mr. Gruber. Para poder comprar el libro, Paddington decidira realizar una serie de extraños trabajos. Pero todo se complica cuando el libro es robado.</info>
+<urlsolve>https://watchsb.com/e/rchmud6st1tt</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Comedia, 1Fantastico, 1Infantil, A2017, Letra P, Reino Unido, Familiar, Amazon, Movistar, 
-
+"Tag= Malu3, Disney, 1Comedia, 1Fantastico, 1Infantil, A2017, Letra P, Reino Unido, Familiar, Amazon, Movistar," 
 <item>
 <title>[COLOR white] Paddington 2  [COLOR gold](2017)[/COLOR]</title> 
 <genre>Comedia, Fantastico, Infantil</genre>
 <year>2017</year>
-<thumbnail>https://1.bp.blogspot.com/-WT9FeAxBJfY/WtRnIAMmaFI/AAAAAAAAHQg/qQGk104OxmMpGTE4XCD9iuCQlbOU16I9QCLcBGAs/s1600/Paddington_2-165757938-large.jpg</thumbnail>
-<fanart>https://4.bp.blogspot.com/-1jOuzBOimKU/WtRnJID6giI/AAAAAAAAHQk/kzUx5rnd6hIYhGTUGAlc3QxEN7GG7eCvACLcBGAs/s1600/Paddington-2-critica.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/nV3AWmx8GrC6japchB2fxifWMA5.jpg</fanart>
 <info>El oso Paddington ya esta felizmente integrado en casa de la familia Brown. Se ha convertido ademas en un miembro muy popular de la comunidad de Windsor Gardens. Su tia Lucy cumple 100 años y el tiene el regalo perfecto para ella: un maravilloso libro pop-up de la tienda de antigüedades de Mr. Gruber. Para poder comprar el libro, Paddington decidira realizar una serie de extraños trabajos. Pero todo se complica cuando el libro es robado.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/rchmud6st1tt"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://vanfem.com/v/jndqjsdz6lzr7l3"}</urlsolve>
+<urlsolve>https://watchsb.com/e/rchmud6st1tt</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Fantastico, 1Infantil, A1990, Letra P, EEUU, Disney, C720, "
