@@ -2312,10 +2312,10 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <title>[COLOR white] Guardianes de la galaxia [COLOR gold](2014)[/COLOR]</title> 
 <genre>Ficcion,Accion,Aventuras,Comedia</genre>
 <year>2014</year>
-<thumbnail>https://i.imgur.com/yYjlBSF.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/original/rzEmtM8qrvRKNdJUUiizdNHTccV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ko4N6wWp0UYlMmsVyfIfLyRAZtP.jpg</fanart>
 <info>El temerario aventurero Peter Quill es objeto de un implacable cazarrecompensas despues de robar una misteriosa esfera codiciada por Ronan, un poderoso villano cuya ambicion amenaza todo el universo. Para poder escapar del incansable Ronan, Quill se ve obligado a pactar una complicada tregua con un cuarteto de disparatados inadaptados: Rocket, un mapache armado con un rifle, Groot, un humanoide con forma de arbol, la letal y enigmatica Gamora y el vengativo Drax the Destroyer. Pero cuando Quill descubre el verdadero poder de la esfera, debera hacer todo lo posible para derrotar a sus extravagantes rivales en un intento desesperado de salvar el destino de la galaxia.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/sc1j1sln18x6"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://vanfem.com/v/d1n7jsxkek23yx6"}</urlsolve>
+<urlsolve>https://embedv.net/v/nyg9EKDDJ4QObk4</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -2324,10 +2324,36 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <title>[COLOR white] Guardianes de la galaxia vol.2 [COLOR gold](2017)[/COLOR]</title> 
 <genre>Ficcion,Aventuras,Accion,Comedia</genre>
 <year>2017</year>
-<thumbnail>https://i.imgur.com/wuPSAb0.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
-<info>Continuan las aventuras del equipo en su travesia por los confines del cosmos. Los Guardianes deberan luchar para mantener unida a su nueva familia mientras intentan resolver el misterio de los verdaderos origenes de Peter Quill. Viejos rivales se convertiran en nuevos aliados, y queridos personajes de los comics clasicos acudiran en ayuda de nuestros heroes a medida que el universo cinematografico de Marvel continua expandiendose.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/7h8jxheszzfl"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://vanfem.com/v/jndqjsdz3-pq0kd"}</urlsolve>
+<thumbnail>https://www.themoviedb.org/t/p/original/6TLsoGPwp3rgIHWz1QWu2zjxn4I.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tM894AtE7UQTJEoQG6qF6mdfSUT.jpg</fanart>
+<info>Una poderosa raza alienígena contrata a los Guardianes para que protejan sus valiosas baterías de energía, pero, cuando Rocket las roba, los alienígenas envían a sus tropas de combate a vengarse de ellos. Mientras tratan de escapar con vida, intentan resolver el misterio de los verdaderos orígenes de Peter Quill.</info>
+<urlsolve>https://embedv.net/v/VqbX53gg8Za5Qzp</urlsolve>
+</item>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"Tag= Malu3, Disney, 1Ficcion, 1Aventuras, 1Accion, 1Comedia, Marvel, Disney, "
+<item>
+<title>[COLOR white]Guardianes de la Galaxia: Especial Felices Fiestas[/COLOR][COLOR yellow](2017)[/COLOR]</title>    
+<genre>Marvel,acción,ciencia ficción,aventuras</genre>
+<year>2022</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/o8mBWqHUQAR2KeyXNRmFqyVQ732.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zJsGlgjHAygWvshuwjYspdInOev.jpg</fanart>
+<info>Antes de que Star-Lord, Gamora, Drax, Rocket, Mantis y Groot lleguen a la pantalla grande con Guardianes de la Galaxia Vol. 3 en 2023, mira a los Guardianes participar en algunas travesuras enérgicas en un especial original completamente nuevo, creado para Disney+, durante la temporada navideña de 2022.</info>
+<urlsolve>https://embedv.net/v/PlBVEZ00Wrl5Dv9</urlsolve>
+</item>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"Tag= Malu3, Disney, 1Ficcion, 1Aventuras, 1Accion, 1Comedia, Marvel, Disney, "
+<item>
+<title>[COLOR white]Guardianes de la Galaxia Vol.3[/COLOR][COLOR yellow](2023)[/COLOR]</title>    
+<genre>Marvel,acción,ciencia ficción,aventuras</genre>
+<year>2023</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/ngb7Mj977tE0Jy9ohME6a26T7Vl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eMUDBgMlAem62U1C4R6ve0wPGcB.jpg</fanart>
+<info>Una poderosa raza alienígena contrata a los Guardianes para que protejan sus valiosas baterías de energía, pero, cuando Rocket las roba, los alienígenas envían a sus tropas de combate a vengarse de ellos. Mientras tratan de escapar con vida, intentan resolver el misterio de los verdaderos orígenes de Peter Quill.</info>
+<urlsolve>https://embedv.net/v/3Q0lxBWWvk2Ej1J</urlsolve>
 </item>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -2339,7 +2365,7 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <thumbnail>https://www.themoviedb.org/t/p/original/7xXJ15VEf7G9GdAuV1dO769yC73.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/gpQeZl2Sx8QKSxx9PabjX6Q14y4.jpg</fanart>
 <info>Harry Potter es un huérfano que vive con sus desagradables tíos, los Dursley, y su repelente primo Dudley. Se acerca su undécimo cumpleaños y tiene pocas esperanzas de recibir algún regalo, ya que nunca nadie se acuerda de él. Sin embargo, pocos días antes de su cumpleaños, una serie de misteriosas cartas dirigidas a él y escritas con una estridente tinta verde rompen la monotonía de su vida: Harry es un mago y sus padres también lo eran.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://embedwish.com/76jjt6h8jpgd"},{"titulo" : "[COLOR white]Opcion 2 Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:KXBB7LOPNRRNWLIMY4FRMLJQK3WLVRVM"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://vgembed.com/v/NMRLEpr7L2J5XaG"},{"titulo" : "[COLOR white]Opcion 2 Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:KXBB7LOPNRRNWLIMY4FRMLJQK3WLVRVM"}</urlsolve>
 </item>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -2351,7 +2377,7 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <thumbnail>https://www.themoviedb.org/t/p/original/bhCfAzeMMg7GyLDT11yVM2i1NPh.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/fjN1i7uH4KDVbNmfBBZeuF98J83.jpg</fanart>
 <info>Harry regresa a su segundo año a Hogwarts, pero descubre que cosas malas ocurren debido a que un sitio llamado la Cámara de los Secretos ha sido abierto por el heredero de Slytherin y hará que los hijos de muggles, los impuros, aparezcan petrificados misteriosamente por un animal monstruoso.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://embedwish.com/ktv9obqd9lcs"},{"titulo" : "[COLOR white]Opcion 2 Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:CWIILJQP6OVRRWH3RHI24LYLPRRWIF3A"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://vgembed.com/v/ao9rxoR6poQ5yGe"},{"titulo" : "[COLOR white]Opcion 2 Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:CWIILJQP6OVRRWH3RHI24LYLPRRWIF3A"}</urlsolve>
 </item>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -2363,7 +2389,7 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <thumbnail>https://www.themoviedb.org/t/p/original/wF9aoo4YZmpKP4bZPSy4Zwwek6G.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/m8XhUVtuCksm13QlPSYo0C2WviD.jpg</fanart>
 <info>Harry está deseando que termine el verano para comenzar un nuevo curso en Hogwarts, y abandonar lo antes posible la casa de sus despreciables tíos, los Dursley. Lo que desconoce Harry es que va a tener que abandonar Privet Drive antes de tiempo e inesperadamente después de convertir a su tía Marge en un globo gigante. Un autobús noctámbulo, y encantado por supuesto, le llevará a la taberna El Caldero Chorreante, donde le espera nada menos que Cornelius Fudge, el Ministro de Magia.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://embedwish.com/v82426evwwp1"},{"titulo" : "[COLOR white]Opcion 2 Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:OXBAN2Y7LOQCMEJNPD2BZEPZ7PYINBBA"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://vgembed.com/v/b4ZJx21Wl4V52P3"},{"titulo" : "[COLOR white]Opcion 2 Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:OXBAN2Y7LOQCMEJNPD2BZEPZ7PYINBBA"}</urlsolve>
 </item>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -2375,7 +2401,7 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <thumbnail>https://www.themoviedb.org/t/p/original/6Cn5Lx9kqhXzTNV5QXwZ3RW5pBg.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/5mOwcl9lKx52RTWLkpPOck4EryM.jpg</fanart>
 <info>En el cuarto año en Hogwarts, Harry se enfrenta al mayor de los desafíos y peligros de la saga. Cuando es elegido bajo misteriosas circunstancias como el competidor que representará a Hogwarts en el Torneo Triwizard, Harry deberá competir contra los mejores jóvenes magos de toda Europa. Pero mientras se prepara, aparecen pruebas que manifiestan que Lord Voldemort ha regresado. Antes de darse cuenta, Harry no solo estará luchando por el campeonato sino también por su vida</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://embedwish.com/ltfk91w0bijr"},{"titulo" : "[COLOR white]Opcion 2 Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:UGC4Z5WOQP2ZB25YXEAZBWJDTKOJC2WA"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://vgembed.com/v/mMq75L84Nq95XPB"},{"titulo" : "[COLOR white]Opcion 2 Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:UGC4Z5WOQP2ZB25YXEAZBWJDTKOJC2WA"}</urlsolve>
 </item>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -2387,7 +2413,7 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <thumbnail>https://www.themoviedb.org/t/p/original/zN5DWGV6IO30asXrHzGju9mo20P.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/5NtizQVwcusXA4DWUPdknlN8dsP.jpg</fanart>
 <info>Harry Potter regresa por quinto año a Hogwarts aún sacudido por la tragedia ocurrida en el Torneo de los Tres Magos. Debido a que el Ministro de la Magia niega el regreso de Lord Voldemort, Harry se convierte en el centro de atención de la comunidad mágica. Mientras lucha con sus problemas en el colegio, incluyendo a la nueva profesora Dolores Umbridge, intentará aprender más sobre la misteriosa Orden del Fénix.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://embedwish.com/f0wu7tmsxzhd"},{"titulo" : "[COLOR white]Opcion 2 Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:M7INXVDJ4WY6ZT7PMJLHO7R24FK3YDIU"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://vgembed.com/v/P0poO10JgZDEz17"},{"titulo" : "[COLOR white]Opcion 2 Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:M7INXVDJ4WY6ZT7PMJLHO7R24FK3YDIU"}</urlsolve>
 </item>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -2399,7 +2425,7 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <thumbnail>https://www.themoviedb.org/t/p/original/vvb9r7ZH4Zn35sXIwFTb08lMGaU.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/mahovPKn8ROe94KML4LgCSBTK4B.jpg</fanart>
 <info>En medio de los desastres que azotan a Inglaterra, Harry y sus compañeros vuelven a Hogwarts para cursar su sexto año de estudios; y aunque las medidas de seguridad han convertido al colegio en una fortaleza, algunos estudiantes son víctimas de ataques inexplicables. Harry sospecha que Draco Malfoy es el responsable de los mismos y decide averiguar la razón. Mientras tanto, Albus Dumbledore y el protagonista exploran el pasado de Lord Voldemort mediante recuerdos que el director ha recolectado. Con esto, Dumbledore planea preparar al muchacho para el día de la batalla final.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://embedwish.com/culzby7todur"},{"titulo" : "[COLOR white]Opcion 2 Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:KOXDKSGNWHIRFC3ZRFHWG5BKYAB2WMIN"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://vgembed.com/v/VqbX53g8l115Qzp"},{"titulo" : "[COLOR white]Opcion 2 Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:KOXDKSGNWHIRFC3ZRFHWG5BKYAB2WMIN"}</urlsolve>
 </item>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -2411,7 +2437,7 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <thumbnail>https://www.themoviedb.org/t/p/original/z0QJP7jxptzdXqKlY8W7c8AfPmq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/rsjVwImiIyehTEOGLDlYwtmwKPu.jpg</fanart>
 <info>Una tarea casi imposible cae sobre los hombros de Harry: deberá encontrar y destruir los horrocruxes restantes para dar fin al reinado de Lord Voldemort. En el episodio final de la saga, el hechicero de 17 años parte junto con sus amigos Hermione Granger y Ron Weasley en un peligroso viaje por Inglaterra para encontrar los objetos que contienen los fragmentos del alma del Señor Tenebroso, los cuales garantizan su longevidad. Pero el camino no será fácil pues el lado oscuro adquiere más poder con cada minuto que pasa y las lealtades serán puestas a prueba. Harry deberá usar todos los conocimientos que gracias a Dumbledore ha adquirido sobre su enemigo para poder encontrar la forma de sobrevivir a esta última aventura.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://embedwish.com/pabwt2ievjtj"},{"titulo" : "[COLOR white]Opcion 2 Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:DKPPHXKB6BI76M6D5MCWS2NRO64W3ZY6"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://vgembed.com/v/3Q0lxBWrdPGEj1J"},{"titulo" : "[COLOR white]Opcion 2 Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:DKPPHXKB6BI76M6D5MCWS2NRO64W3ZY6"}</urlsolve>
 </item>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -2423,7 +2449,7 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <thumbnail>https://www.themoviedb.org/t/p/original/hnV0VcsPLmQoiWAoEjZndsaBzH3.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/8B8aT5jCyAGZaLMl2kqaSjI7fWp.jpg</fanart>
 <info>La segunda parte de la batalla final entre las fuerzas del bien y el mal. El juego nunca ha sido tan peligroso y nadie está a salvo. Se acerca el momento de la confrontación final entre Harry Potter y Lord Voldemort. Todo termina aquí…</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://embedwish.com/7e3g3tjyfp09"},{"titulo" : "[COLOR white]Opcion 2 Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:4KF6EXDEIFTLM2VEYWGN5CYBP2N7ZNGO"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://vgembed.com/v/VqbX53g8kJz5Qzp"},{"titulo" : "[COLOR white]Opcion 2 Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:4KF6EXDEIFTLM2VEYWGN5CYBP2N7ZNGO"}</urlsolve>
 </item>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, Animacion. Fantastico. Comedia. Musical. Infantil A1982, Disney "
