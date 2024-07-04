@@ -3322,6 +3322,32 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <info>Siglo XVI. Dos jóvenes estafadores ganan en un juego de dados un mapa a El Dorado pero son descubiertos y perseguidos por los guardias. Logran escapar pero terminan por meterse en el barco del mismisimo Hernán Cortés. Escapan en un bote del barco y llegan a tierra arrastrados por el mar. Allí deciden emprender la búsqueda de la ciudad de oro al reconocer indicios que aparecían en el mapa, pero su aventura no terminará como ellos lo esperan.</info>
 <urlsolve>https://vanfem.com/v/03qg2il3grw2nxq</urlsolve>
 </item>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+"Tag= Malu3, Disney, 1Fantastico, C1080, "
+
+<item>
+<title>[COLOR white] La Sirenita [COLOR gold](2018)[/COLOR]</title>  
+<genre>Familia,Aventura,Fantasía,Romance,Drama</genre>
+<year>2018</year>  
+<thumbnail>https://image.tmdb.org/t/p/original/nPkhdH8K3Ua995lyxZQIWgOyTqZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/3o9M5Wc01ipcRC3BoUWtusjv55A.jpg</fanart>
+<info>Un joven periodista y su sobrina descubren una bella y encantadora criatura marina, y creen que se trata de una sirena real.</info>
+<urlsolve>//listeamed.net/v/njJYOd3M2mqEe9o</urlsolve>
+</item>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+"Tag= Malu3, Disney, 1Fantastico, 1Familia, C1080, "
+
+<item>
+<title>[COLOR white] La Sirenita [COLOR gold](2023)[/COLOR]</title>  
+<genre>Aventura,Fantastico,Familia,Romance</genre>
+<year>2023</year>  
+<thumbnail>https://image.tmdb.org/t/p/original/2w7EVsWEWfk45OZBxRTVxlyp00.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hEMdjCRajoGdUAVUoHFiYXt50qU.jpg</fanart>
+<info>Ariel es una joven y soñadora sirena, hija del Rey Tritón, que está cansada de su vida como princesa bajo el mar. Su mayor deseo es abandonar el fondo marino y tener una vida normal y apacible en la superficie. La bruja Úrsula descubre su anhelo y, por eso, a cambio de su preciosa voz le ofrece un cuerpo totalmente humano. Ariel acepta, movida por su pasión por conocer el mundo terrestre y porque está enamorada de un apuesto príncipe humano. Pero las cosas no serán fáciles para Ariel, ya que la bruja Úrsula esconde oscuras intenciones.</info>
+<urlsolve>//listeamed.net/v/rabVOQQwrbAOKdW</urlsolve>
+</item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Fantastico, 1Musical, 1Infantil,Disney, C1080, "
 
