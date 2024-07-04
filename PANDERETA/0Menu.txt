@@ -1226,6 +1226,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Clanes[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>227042</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Clanes</externallink>
+<info>Cuando el asesinato de su padre destapa la doble vida que llevaba, una abogada busca venganza infiltrándose en un cártel de la droga gallego y congeniando con su líder.</info>
+<thumbnail>https://image.tmdb.org/t/p/original/sp63Z2BLpOpsvv9G9g4xArY1HnN.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/aqyeIdqUzVBwd22mXHI7I6tk1EM.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Clandestino Con David Beriain [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>66645</tmdb>
