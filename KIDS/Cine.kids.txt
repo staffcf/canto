@@ -27,7 +27,7 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Infantil, A2003, Letra 1, EEUU, Secuela. Perros, Disney, Dalmatas, C720, "
 <item>
-<title>[COLOR white] 101 Dalmatas ¡Mas vivos que nunca [COLOR gold](1996)[/COLOR]</title>    
+<title>[COLOR white] 101 Dalmatas Mas vivos que nunca [COLOR gold](1996)[/COLOR]</title>    
 <genre>Animacion, Comedia, Infantil</genre>
 <year>1996</year>  
 <thumbnail>https://www.themoviedb.org/t/p/original/rzUvS1tW6WuJHYB4bbFOW89aNVc.jpg</thumbnail>
@@ -144,7 +144,7 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <year>2016</year>  
 <thumbnail>https://www.themoviedb.org/t/p/original/P1iT49cwuKFphLvdRINUDQsSzZ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/vOQTE4rOHB6BojQT2e7twDkUOWX.jpg</fanart>
-<info>En una fiesta en casa de Lord Ascott, Alicia se encuentra con absolem, que ahora es una mariposa monarca azul que ayuda a Alicia a regresar al fantastico mundo de Infratierra, donde encuentra a sus amigos: el Conejo Blanco, el Gato Sonriente, Liron, la Liebre, los Tweedles y el Sombrerero Loco, pero este, desafortunadamente, ya no es el mismo: ha perdido su “muchosidad”. Alicia tendra entonces que ir a ver a Tiempo. Tiempo, una peculiar criatura mitad humano, mitad reloj, vive en un vacio infinito y posee la cronoesfera, una esfera metalica que permitira a Alicia volver para salvar a la familia del Sombrerero.</info>
+<info>En una fiesta en casa de Lord Ascott, Alicia se encuentra con absolem, que ahora es una mariposa monarca azul que ayuda a Alicia a regresar al fantastico mundo de Infratierra, donde encuentra a sus amigos: el Conejo Blanco, el Gato Sonriente, Liron, la Liebre, los Tweedles y el Sombrerero Loco, pero este, desafortunadamente, ya no es el mismo: ha perdido su muchosidad. Alicia tendra entonces que ir a ver a Tiempo. Tiempo, una peculiar criatura mitad humano, mitad reloj, vive en un vacio infinito y posee la cronoesfera, una esfera metalica que permitira a Alicia volver para salvar a la familia del Sombrerero.</info>
 <urlsolve>https://vembed.net/v/3Q0lxBnQDZxj1Jk</urlsolve>
 </item>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
