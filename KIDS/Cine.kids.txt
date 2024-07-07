@@ -1879,8 +1879,8 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <title>[COLOR white] El Pequeño Vampiro [COLOR gold](2017)[/COLOR]</title>    
 <genre>Animacion</genre>
 <year>2017</year>  
-<thumbnail>https://i.imgur.com/5P64iHW.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/5qvmwtqRSpR2mmOTQRmmilmVfbe.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/h7TSfhOtGoyXum76cKgLQRtYlsp.jpg</fanart>
 <info>Rudolph es un chico de trece años que ademas es vampiro. La vida del joven se complica en el momento en el que un prestigioso cazavampiros comienza a perseguirles a el y al resto de su clan.</info>
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/ka8E3zepMwy6/festakids-el-pequeno-vampiro-2017-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/bpnbji8c8hrk"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://vanfem.com/v/7lg1pigpzdm561e"}</urlsolve> 
 </item>
@@ -1904,8 +1904,8 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <title>[COLOR white] El Planeta del tesoro [COLOR gold](2002)[/COLOR]</title>    
 <genre>Animacion</genre>
 <year>2002</year>  
-<thumbnail>https://i.imgur.com/2bM8ALy.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/cwwRIK1V1R6QQKromGi0OaJLD8l.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/54HssumQSA1lUw18dF7L9hJ8ydj.jpg</fanart>
 <info>Jim, popular surfista solar, se enfrenta a una caceria intergalactica de tesoros. En sus manos cae un legendario mapa que le llevara a buscar la fortuna mas grande del Universo. A bordo de un "galeon solar", Jim es el ayudante del cocinero del barco, John Silver (mitad hombre mitad maquina), que le enseña como ser un buen explorador del espacio. Jim conoce a un simpatico robot llamado BEN (Bio Electro Navegador). Juntos, bajo el mando de la inteligente Capitan Amelia, descubriran un tesoro inimaginable. Adaptacion de la Disney del clasico de Robert Louis Stevenson "La isla del tesoro".</info>
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamwish.to/4y5rxcnomcrv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://sbembed.com/e/1s7wnh8dewew"}</urlsolve>
 </item>
@@ -1915,10 +1915,10 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <title>[COLOR white] El Principe de Egipto [COLOR gold](1998)[/COLOR]</title>    
 <genre>Animacion</genre>
 <year>1998</year>  
-<thumbnail>https://i.imgur.com/CYKvRpW.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/dyHNyqc9UBhfLZpFM8GTQ9z8AvV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/n36VJsd85Wc8je3WscXcwQ0AaaB.jpg</fanart>
 <info>La productora DreamWorks -creada por Steven Spielberg, Jeffrey Katzenberg y David Geffen- fue la responsable del lanzamiento a nivel internacional del primer film de dibujos animados de gran calidad por parte de un estudio ajeno a la Walt Disney Pictures. En el antiguo Egipto, hace miles de años, el faraon Seti ordena la muerte de todos los recien nacidos judios. Una madre, desesperada, coloca a su hijo en una cesta y la deposita en el Nilo. Las aguas la conducen rio abajo hasta la orilla donde la hallara la reina. El niño era Moises y fue educado como hermano de Ramses, el heredero del trono. Sin embargo, cuando, años despues, se descubra el origen hebreo de Moises, los hermanos se distanciaran.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://sendvid.com/qsya3nvg"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://vanfem.com/v/d1n7jsxk7qypnxn"}</urlsolve>
+<urlsolve>//listeamed.net/v/wP2050eq4NBxdmy</urlsolve>
 </item>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Fantastico, 1Drama,Onyx Films, A2015 "
@@ -1926,10 +1926,10 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <title>[COLOR white] El Principito [COLOR gold](2015)[/COLOR]</title>    
 <genre>Animacion,Fantastico,Drama</genre>
 <year>2015</year>  
-<thumbnail>https://i.imgur.com/EjBATkq.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/i8gmsOtNe2Zqlj7dqstEprf3w1T.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/Af2MQRPv26Tux6Xt4eN4Wvw0Le0.jpg</fanart>
 <info>Para que todo salga bien en la prestigiosa Academia Werth, la pequeña y su madre se mudan a una casa nueva. La pequeña es muy seria y madura para su edad y planea estudiar durante las vacaciones siguiendo un estricto programa organizado por su madre; pero sus planes son perturbados por un vecino excentrico y generoso. Él le enseña un mundo extraordinario en donde todo es posible. Un mundo en el que el Aviador se topo alguna vez con el misterioso Principito. Entonces comienza la aventura de la pequeña en el universo del Principito. Y asi descubre nuevamente su infancia y comprendera que solo se ve bien con el corazon. Lo esencial es invisible a los ojos. Cuenta con las voces (en version inglesa) de James Franco, Rachel McAdams, Marion Cotillard, Jeff Bridges, Benicio Del Toro, Mackenzie Foy y Paul Giamatti.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://sendvid.com/u580598r"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://vanfem.com/v/qzmw6te58kpmk8z"}</urlsolve>
+<urlsolve>//listeamed.net/v/pVa4E8Mqom7OkzM</urlsolve>
 </item>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1941,7 +1941,7 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <thumbnail>https://www.themoviedb.org/t/p/original/sOBr6cJVh3X9woaJNf47rgVHFbO.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/83NtQpsrFpK7g1Md0sM6Wn6Wdhr.jpg</fanart>
 <info>Tres brujas del siglo XII son invocadas durante la noche de Halloween en la ciudad de Salem, Massachusetts, de manera accidental por unos niños. Desterradas hace 300 años por sus prácticas de brujería, este trío prometió volver algún día para sembrar el caos. Ahora aprovecharán la ocasión para cumplir su promesa. Una comedia realizada por la factoría Disney con vistas a su exhibición en la fiesta de Halloween.</info>
-<urlsolve>https://www.fembed.com/v/qznp4iermd17zq1</urlsolve>
+<urlsolve>//listeamed.net/v/vQBYEbNPo7wEn1m</urlsolve>
 </item>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1953,7 +1953,7 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <thumbnail>https://www.themoviedb.org/t/p/original/i2uxePzWHeliW3q8ck4W5zfv43w.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/j2GqCY3d9IXviSC5DcUYyixt9k6.jpg</fanart>
 <info>Han pasado 29 años desde que alguien encendió la Vela de la Llama Negra y resucitó a las hermanas Sanderson del siglo XVII, y ahora buscan venganza. De tres estudiantes de secundaria depende impedir que las voraces brujas causen un nuevo tipo de estrago en Salem antes del amanecer el día de Halloween.</info>
-<urlsolve>https://www.fembed.com/v/y6rnkbel2rdyp8m</urlsolve>
+<urlsolve>//listeamed.net/v/njJYOd3MglqEe9o</urlsolve>
 </item>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1962,36 +1962,49 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <title>[COLOR white] El Rey Leon [COLOR gold](1994)[/COLOR]</title>    
 <genre>Animacion</genre>
 <year>1994</year>  
-<thumbnail>https://i.imgur.com/KQtZWDD.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/r7DEmhFWpXWnYU9nbQhx3gPJovS.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ztlWLlKCMhpkMMhfIWsYTcnEOJw.jpg</fanart>
 <info>La sabana africana es el escenario en el que tienen lugar las aventuras de Simba, un pequeño leon que es el heredero del trono. Sin embargo, al ser injustamente acusado por el malvado Scar de la muerte de su padre, se ve obligado a exiliarse. Durante su destierro, hara buenas amistades e intentara regresar para recuperar lo que legitimamente le corresponde.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/mufumtbduo5o"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://streamwish.to/ahrrzk795wno"}</urlsolve>
+<urlsolve>//listeamed.net/v/27BaOn12gaBEMDX</urlsolve>
 </item>
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- "Tag= Malu3, Disney, 1Animacion, 1Infantil, Disney, A2019, "
+"Tag= Malu3, Disney, 1Animacion, 1Infantil, Disney, A2019, "
 <item>
 <title>[COLOR white] El Rey Leon [COLOR gold](2019)[/COLOR]</title>    
 <genre>Animacion,Aventuras,Drama,Musica</genre>
 <year>2019</year>  
-<thumbnail>https://i.imgur.com/aQbopuT.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/eGfq90BF8QGCMpncF2ag0lGTgKk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ziW0oIgrP6KIMTsNL9xBCnrrHzY.jpg</fanart>
 <info>Tras el asesinato de su padre, un joven leon abandona su reino para descubrir el autentico significado de la responsabilidad y de la valentia. Remake de "El Rey Leon", dirigido y producido por Jon Favreau, responsable de la puesta al dia, con el mismo formato, de "El libro de la selva" (2016).</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://watchsb.com/e/lk4wwexw3ids"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/nd1ejt7zy2lr-de"}</urlsolve>
+<urlsolve>//listeamed.net/v/6zeREaDmRbGxZPa</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-"Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Romance, 1Musical, 1Infantil, A1998, Letra E, EEUU, Secuela, Africa, Animales, Disney, C720, "
+"Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Romance, 1Musical, 1Infantil, A1998, Letra E, EEUU, Secuela, Africa, Animales, Disney, C1080, "
 <item>
-<title>[COLOR white] El Rey Leon 2. El Tesoro De Simba [COLOR gold](1998)[/COLOR]</title>    
+<title>[COLOR white] El Rey Leon 2: El Tesoro De Simba [COLOR gold](1998)[/COLOR]</title>    
 <genre>Animacion, Comedia, Romance, Musical, Infantil</genre>
 <year>1998</year>  
-<thumbnail>https://i.imgur.com/rDu1ZTZ.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/zdD5VcvTD43p048ueswYdgLJZh.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cFNCe3pbQg9cWYbM5Hn04dwAnNm.jpg</fanart>
 <info>Kiara, la primogenita de Simba y heredera de sus dominios, escapa de sus protectores y, buscando aventuras, se adentra en sombrios territorios que estan fuera de los limites del reino de su padre. En su camino conoce a Kovu, un joven cachorro: alcanzar la paz entre los habitantes de las tierras oscuras y los del territorio de Simba dependera de ellos dos. </info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/1h2z5j47gut9"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://vanfem.com/v/d1n7jsxk7n1-pdd"}</urlsolve>
+<urlsolve>//listeamed.net/v/kKJVORWaLe953XD</urlsolve>
+</item>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Romance, 1Musical, 1Infantil, A2004, Letra E, EEUU, Secuela, Africa, Animales, Disney, C1080, "
+<item>
+<title>[COLOR white] El Rey Leon 3: Hakuna Matara [COLOR gold](2004)[/COLOR]</title>    
+<genre>Animacion, Comedia, Romance, Musical, Infantil</genre>
+<year>2004</year>  
+<thumbnail>https://image.tmdb.org/t/p/original/x2SAEOXURbKDgKfdHdZ49VhPGrB.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/umi7L2GJpNBRCWmBKca7Q3Op4Tq.jpg</fanart>
+<info>La diversión reina en esta nueva película en al que Timón y su simpático amigo Pumba son los grandes héroes de la Sabana. El Rey León 3 nos traslada al pasado, antes de que comenzase la historia de Simba, e incluso mucho más atrás. En esta nueva comedia de aventuras, Timón y Pumba te descubrirán sus orígenes, cuándo se conocieron y cómo ayudaron a Simba a salvar el Seregeti. Su historia incluye algunos de los grandes momentos de El Rey León, que ahora resultarán un poco diferentes desde su punto de vista. Por ejemplo, os sorprenderá conocer la verdad sobre cómo se desarrolló el trascendental momento en el que Simba fue presentado al reino animal.</info>
+<urlsolve>//listeamed.net/v/KNWlEDNPqgB5kbp</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -2001,8 +2014,8 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <title>[COLOR white] El Tour De Los Muppets [COLOR gold](2014)[/COLOR]</title>    
 <genre>Musical, Comedia</genre>
 <year>2014</year>  
-<thumbnail>https://i.imgur.com/SbQGgTl.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/iMOk0PG1X4hJJdXbHq6nWnHgF2I.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jurGGGf8ifbUfRBbpFxNlpDVrna.jpg</fanart>
 <info>La pandilla de los Muppets se va de gira por todo el mundo, llenando las mejores salas de las capitales europeas como Berlin, Madrid o Londres. Pero no se libran del caos ni siquiera en el extranjero, pues se ven involuntariamente atrapados en una intriga internacional que encabezan Constantine, el mayor delincuente del mundo y la viva imagen de la Rana Rene, y Dominic, su vil compinche.</info>
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/y0nnfcoq4rlt"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD[/COLOR]","url" : "https://vanfem.com/v/2dlg6t263y8-zm0"}</urlsolve>
 </item>
@@ -2017,7 +2030,7 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <thumbnail>https://www.themoviedb.org/t/p/original/fl2PXvS9Ugl5UweXgnZgRFtQLPQ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ut1D236gVPwqjg95gvksAm6YCtv.jpg</fanart>
 <info>Ivan emprende un alucinante viaje desde Moscú a Belogorye, un mundo de fantasía habitado por personajes de cuentos de hadas y magia rusos. Sin saber muy bien cómo, se encuentra en el centro mismo de la batalla entre las fuerzas de la luz y la oscuridad, donde todos creen que poner fin a la guerra depende únicamente de él.</info>
-<urlsolve>https://vanfem.com/v/zdn2mtjyy231-mj</urlsolve>
+<urlsolve>//listeamed.net/v/mMq75L8vGBz5XPB</urlsolve>
 </item>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -2031,7 +2044,7 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <thumbnail>https://www.themoviedb.org/t/p/original/fXjYpt5VfShntmwieXtUli8r1My.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/dIibeeq4QMay5bTJ2vjr72IFFRo.jpg</fanart>
 <info>Belogorie vive un momento de paz y tranquilidad. El mal fue vencido e Ivan está disfrutando de su fama junto a su familia, sus amigos y el maravilloso mundo moderno que le ayuda a vivir de manera confortable. Por suerte, tiene una espada mágica para pasar de un mundo a otro, para coger algunas cosas de vez en cuando. Pero cuando el mal reaparece y la existencia del mundo mágico está en peligro, Ivan tendrá que enfrentarse a los enemigos para que la paz regrese a Belogorie.</info>
-<urlsolve>https://vanfem.com/v/x386ki5ll3xlr65</urlsolve>
+<urlsolve>//listeamed.net/v/8lKQxYV6aD4EDGY</urlsolve>
 </item>
 
 
@@ -2043,10 +2056,10 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <title>[COLOR white] El Viaje De Arlo [COLOR gold](2015)[/COLOR]</title> 
 <genre>Animacion,Infantil</genre>
 <year>2015</year>
-<thumbnail>https://3.bp.blogspot.com/-XFL6pqUnVEM/WjgTPB2vNeI/AAAAAAAADF4/BIg00grBV9EsM72bVMAHznlCbu5BOQBCwCLcBGAs/s1600/El_viaje_de_Arlo-932927779-large.jpg</thumbnail>
-<fanart>https://4.bp.blogspot.com/-AEqGtZzn2cc/WjgTPImfQCI/AAAAAAAADF0/ffIhONK2siU1-MJZiaHXkhn2eajM8vdVQCLcBGAs/s1600/El_viaje_de_Arlo-637657978-large.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/1WKI6PM79XjK2LVS1B4yoG3wNHw.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/mrHGlVcCLIiIx1VO9CFxhZyib6e.jpg</fanart>
 <info>¿Que hubiera pasado si el asteroide que cambio para siempre la vida en la Tierra hubiera esquivado el planeta y los dinosaurios no se hubieran extinguido nunca? Un viaje al mundo de los dinosaurios donde un Apatosaurus llamado Arlo se hace amigo de un humano, aunque resulte asombroso. Mientras viaja por un paisaje desolado y misterioso, Arlo aprende a enfrentarse a sus temores y descubre de lo que es capaz.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/NNNphSS4L6u0/festakids-viaje-de-arlo-2015-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/boyit46dfhs6"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://vanfem.com/v/165g4ij4kdn3jkm"}</urlsolve>
+<urlsolve>//listeamed.net/v/6zeREaDmR0ZxZPa</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -2055,8 +2068,8 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <title>[COLOR white] Elcano Y Magallanes, La Primera Vuelta Al Mundo [COLOR gold](2019)[/COLOR]</title>    
 <genre>Animacion, Aventuras, Infantil</genre>
 <year>2019</year>  
-<thumbnail>https://i.imgur.com/Rjptx0d.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/4etn1Mbmkb4DZVKdOwwDAjYS4gR.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/mwzqS01z5zQoIUiVyg4FZ1MGlxr.jpg</fanart>
 <info>Pelicula inspirada en una de las aventuras mas emocionantes de la historia, un viaje a lo desconocido que comenzo en 1519 en Sevilla y concluyo tres años despues en el mismo sitio, completando asi una aventura alrededor de un planeta cuya redondez quedo demostrada por primera vez. En 1519 cinco naves partieron desde Sevilla con 240 hombres a bordo. Solo una consiguio volver con 18 marineros al borde de la muerte. Los protagonistas de aquella expedicion financiada por el Reino de Castilla fueron el portugues Fernando de Magallanes, comandante de la expedicion, y el vasco Juan Sebastian Elcano, el hombre que consiguio concluir la mision.</info>
 <urlsolve>//listeamed.net/v/qA3WOmGolZPxKkz</urlsolve>
 </item>
