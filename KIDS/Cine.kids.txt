@@ -524,7 +524,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/kI6HFDV.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Batman, Batgirl y Robin forjan una alianza con Las Tortugas Ninja para luchar contra el gran enemigo de estas ultimas, Shredder, quien aparentemente ha formado equipo con Ra's Al Ghul y la Liga de Asesinos para poner en jaque a Gotham.</info>
-<urlsolve>https://vanfem.com/v/7lg1pigp68qdpll</urlsolve>
+<urlsolve>https://embedv.net/v/e028E6RPvvdEYAv</urlsolve>
 </item>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1399,23 +1399,24 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Doraemon: Stand by Me Doraemon [COLOR gold](2014)[/COLOR]</title> 
 <genre>Animacion,Comedia,Aventuras,Fantastico,Infantil</genre>
 <year>2014</year>  
-<thumbnail>https://i.imgur.com/dDDSk9y.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/wc7XQbfx6EIQqCuvmBMt3aisb2Y.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1aABIiqBY7yoQESE8qWvR0w9bJZ.jpg</fanart>
 <info>Nobita Nobi es un niño muy patoso al que todo le sale mal. Un dia recibe la visita de Sewashi, un misterioso niño que afirma ser su tataranieto del siglo XXII y le anuncia que su futuro sera un desastre que arruinara a toda la familia durante generaciones. Sewaski le presta su robot Doraemon para que le ayude a encontrar una solucion. Poco despues, Doraemon, el gato cosmico, cree haber encontrado la clave: el amor.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/mqkp0ha20ru8"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://vanfem.com/v/7lg1pigpzpl06eq"}</urlsolve>
+<urlsolve>//listeamed.net/v/ZMVoEr80Kkq59Pa</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-"Tag= Malu3, Disney, 1Animacion, 1Infantil, Disney, A2019, "
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+"Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Aventuras, 1Fantastic,o 1Infantil, A2020, Japon, Doraemon, "
 <item>
-<title>[COLOR white] Dragon Ball Super: Broly  [COLOR gold](2019)[/COLOR]</title> 
-<genre>Animacion</genre>
-<year>2019</year>  
-<thumbnail>https://i.imgur.com/jbqknWI.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
-<info>La Tierra disfruta en paz la celebracion de el Torneo del Poder. Sin embargo, Goku es consciente de que existen enemigos aun por descubrir en el Universo, por lo que sigue entrenando sin descanso para alcanzar cotas de poder nunca antes conocidas en un superguerrero. Confirmando sus peores temores, un dia aparece un supersayano que responde al nombre de "Broly", un poderoso guerrero que deberia de haber sido eliminado junto con el planeta Vegeta cuando este fue destruido hace ya algunas decadas. ¿Como ha podido sobrevivir un guerrero de tal poder? La situacion no deja de empeorar cuando el mismisimo Frieza vuelve desde el Infierno para verse envuelto en un terrible mix que llevara a los heroes a luchar por salvar el planeta Tierra una vez mas.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://sendvid.com/w1rvpp1a"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://vanfem.com/v/qzmw6te585061q7"}</urlsolve>
+<title>[COLOR white] Doraemon: Stand by Me Doraemon 2 [COLOR gold](2020)[/COLOR]</title> 
+<genre>Animacion,Comedia,Aventuras,Fantastico,Infantil</genre>
+<year>2020</year>  
+<thumbnail>https://image.tmdb.org/t/p/original/vBv8iOFPLnXmtELUjcFc7OKHsR4.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iMGd5FPajzsoEyD142pQr5wh9eS.jpg</fanart>
+<info>Nobita viaja con Doraemon al pasado para reencontrarse con su abuela, ya fallecida en el presente. Secuela de la película «Stand by Me Doraemon» y a su vez, remake del mediometraje «Doraemon: Obāchan no Omoide».</info>
+<urlsolve>//listeamed.net/v/njJYOd34rW7Ee9o</urlsolve>
 </item>
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, Disney, A2019, "
@@ -1423,10 +1424,10 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Dragon Quest: Your Story [/COLOR][COLOR gold](2019)[/COLOR]</title>   
 <genre>Animacion,Fantastico,Aventuras</genre>
 <year>2019</year>  
-<thumbnail>https://i.imgur.com/9ZMCH8u.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/a70cuIxRqpK6jZbUbZhdE6WtTBh.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xbvNYmF9pSLrLBkkdzA4f7gpNFA.jpg</fanart>
 <info>Luca sigue los pasos de su padre para rescatar a su madre del malvado obispo Ladja. Su unica esperanza es dar con el heroe celestial que esgrime la Espada de los Cielos. Pelicula de animacion 3D basada en videojuego de Square Enix "Dragon Quest V: Hand of the Heavenly Bride"</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://ulozto.net/file/mxE2254zX9B3/festakids-dragon-quest-your-story-2020-720-mkv"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://watchsb.com/e/hmccvceng6xj"}</urlsolve>
+<urlsolve>//listeamed.net/v/ao9rxoRaMoe5yGe</urlsolve>
 </item>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, Disney, A1941, "
@@ -1437,7 +1438,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/EcZsRGN.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Las cigüeñas llegan, como todos los años, hasta un pintoresco circo para repartir los bebes a sus respectivas mamas. La señora Dumbo, una elefanta, descubre que su bebe tiene unas orejas enormes; todas sus compañeras se rien de el, pero la señora Dumbo lo defiende siempre, hasta el punto de ser encerrada por enfrentarse a todo aquel que se mofe de su retoño. El pequeño Dumbo, maltratado y ridiculizado por todos sus compañeros, solo cuenta con la ayuda de un minusculo ratoncito llamado Timothy, que decide hacer de el una estrella del circo.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamwish.to/tfr1ha5d436b"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://sbembed.com/e/uztxl9tdgfax"}</urlsolve>
+<urlsolve>//listeamed.net/v/k3gG5q3X22AE1N2</urlsolve>
 </item>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney,1Animacion, 1Infantil,Disney, A2019, "
@@ -1448,7 +1449,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/mOUpHUo.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Holt Farrier (Colin Farrell) cuenta con la ayuda de sus hijos Milly (Nico Parker) y Joe (Finley Hobbins) para cuidar a un elefante recien nacido cuyas orejas gigantes le hacer ser el hazmerreir en un Circo que no pasa por su mejor momento. La familia circense de Holt incluye ademas a la señorita Atlantis (Sharon Rooney), Rongo (DeObia Oparei), Pramesh Singh (Roshan Seth) y su sobrino (Ragevan Vasan), La grandiosa Catherine (Zenaida Alcalde) y el magnifico Ivan (Miguel Muñoz). Max Medici (Danny DeVito) dueño del circo, se decepciona al saber sobre las enormes orejas del pequeño paquidermo hasta que descubre que es capaz de volar, llevando al circo de regreso a la prosperidad.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://sendvid.com/tj96ym3f"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://vanfem.com/v/y6g7ziexnxgx1x8"}</urlsolve>
+<urlsolve>//listeamed.net/v/b4ZJx21JWlQ52P3</urlsolve>
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------
@@ -1460,7 +1461,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/st3TeUO.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Un pequeño ser de otro planeta se queda abandonado en la Tierra cuando su nave, al emprender el regreso, se olvida de el. Esta completamente solo y tiene miedo, pero se hara amigo de un niño, que lo esconde en su casa. El pequeño y sus hermanos intentan encontrar la forma de que el pequeño extraterrestre regrese a su planeta antes de que lo encuentren los cientificos y la policia. </info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://sendvid.com/tls7vpvv"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://vanfem.com/v/rq217her843p5d3"}</urlsolve>
+<urlsolve>//listeamed.net/v/qM1VOPNanlGxo4k</urlsolve>
 </item>
 
 ----------------------------------------------------------------------------------------------------------------------
@@ -1474,7 +1475,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://www.themoviedb.org/t/p/original/rTw9sxtR8tSdE3w2iFUcHK9gDAi.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/mSyDN1UTtMxPiGLlGYOBL8qSqMi.jpg</fanart>
 <info>Balthazar no puede hacerlo solo, así que recluta -a su pesar- a Dave Stutler (Jay Baruchel), un chico normal pero que oculta un gran potencial, para que sea su protegido dándole un curso de inmersión en el arte de la antigua magia. Juntos deberán vencer a las fuerzas de la oscuridad. Dave tendrá que echar mano de todo su valor para sobrevivir al entrenamiento, salvar la ciudad y conseguir a la chica mientras se convierte en "El aprendiz de brujo"... Remake libre del cortometraje homónimo incluido en el clásico de Disney "Fantasía", en el cual Mickey no hacía caso de las órdenes de su maestro de magia y daba vida a unas escobas para que hicieran el trabajo por él.</info>
-<urlsolve>https://vanfem.com/v/wwx41hny4nm7jqx</urlsolve>
+<urlsolve>//listeamed.net/v/LQm9OXN7K8Yx1lg</urlsolve>
 </item>
 
 ----------------------------------------------------------------------------------------------------------------------
@@ -1488,7 +1489,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://www.themoviedb.org/t/p/original/uu8Yo3pESHeMncNdngBuDv1Jjnr.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/4a3LNRfkMwT20Sm3aqYxv1hdyw1.jpg</fanart>
 <info>Una joven zarigüeya se equivoca a la hora de pedir un deseo y congela toda su ciudad natal de Sanctuary City, amenazando así la vida de todos sus habitantes.</info>
-<urlsolve>https://vanfem.com/v/y6g7ziedy2xg248</urlsolve>
+<urlsolve>//listeamed.net/v/k3gG5q3X2dZE1N2</urlsolve>
 </item>
 
 
@@ -1503,7 +1504,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://www.themoviedb.org/t/p/original/c095diilIj0nRkMhCB0q8WVqqoa.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/nwvsWuHB2ZHSQ3stTV7p4thkQOn.jpg</fanart>
 <info>Delphy es un tímido delfín que descubre el Arco Mágico que puede transformar a cualquier pez en lo que desea ser. Un día, los Morays hacen un mal uso del Arco, se vuelven gigantes y planean apoderarse de la pacífica Fish Town. Delphy necesita reunirse con su padre perdido con el fin de ganar la fuerza y ​​el poder para conquistar a los Morays y proteger a su ciudad.</info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://upstream.to/x3cppkcuvng2"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/2lkj7e734g9j"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/m6pqji5kkyp40jd"}</urlsolve>
+<urlsolve>//listeamed.net/v/Ro7kOVVlkKyOZWB</urlsolve>
 </item>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1542,7 +1543,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://www.themoviedb.org/t/p/original/g8ZyfUC0THygJkVoO2J7NxsdPI5.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/sxQNg9yNKsoNdDEWCX2Sr8tMCNX.jpg</fanart>
 <info>La paz y tranquilidad de un pequeño poblado y sus habitantes, se pone en peligro cuando un corporativo quiere destruir la montaña que los protege. Una niña llamada Copi, junto a su mejor amigo y su mascota Xico, un perro xoloitzcuintle, se adentrarán en la montaña para salvar al pueblo. Pero todo dependerá de Xico, cuando descubra que en realidad es un perro mágico y deberá de encontrar la valentía dentro de él para salvar a la montaña y a todos los habitantes del pueblo.<info>
-<urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://upstream.to/co0cc5y7zhm8"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/1ivehp575qlb"},{"titulo" : "[COLOR white]Opcion 3 [COLOR red]HD 1080[/COLOR]","url" : "https://www.fembed.com/v/7lg1pigrrm0wxnq"}</urlsolve>
+<urlsolve>//listeamed.net/v/MAlwEMYo4KqEJ39</urlsolve>
 </item>
 
 
