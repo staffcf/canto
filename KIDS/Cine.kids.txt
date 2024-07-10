@@ -4062,6 +4062,18 @@ Tag= Malu3, Disney,1Animacion, 1Familiar, A2020, Letra E,"
 <urlsolve>//listeamed.net/v/mMq75L8vMPw5XPB</urlsolve>
 </item>
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"Tag= Malu3, Disney, 1aventura, 1fantastico, A1988, Letra M, C1080, "
+<item>
+<title>[COLOR white] Masters del Universo [COLOR gold](1987)[/COLOR]</title>   
+<genre>Accion, Aventura, Fantasia, Ciencia Ficción</genre>
+<year>1987</year>  
+<thumbnail>https://image.tmdb.org/t/p/original/6UTNuS4WhpIPqRbEmj9QBRPIkCt.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xUJ21YLQZnq6yUWCyfmlTkhUr7m.jpg</fanart>
+<info>Basada en la famosa serie animada. He-man y sus amigos deben viajar a la Tierra del siglo XX para rescatar una llave cósmica que les permita derrotar a Skeletor, que se ha apoderado del castillo de Grayskull y que mantiene prisionera a Sorceress. Los inconvenientes son que Skeletor posee otra llave y que la original está en manos de unos jóvenes terrícolas, que creen que es un instrumento musical.</info>
+<urlsolve>//listeamed.net/v/4bQVOj7bre95wKm</urlsolve> 
+</item>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Tag= Malu3, Disney, 1Familia 1Accion, 1Comedia, 1Ciencia Ficcion, DreamWorks Letra M, A2010 "
 <item>
@@ -6441,6 +6453,19 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Wallace y su perro, Gromit, abren una panaderia. Al poco de tenerla abierta se encuentran con misterioso asesinato, pero tras el enamoramiento de Wallace, Gromit se encontrará solo para resolver el caso.</info>
 <urlsolve>//listeamed.net/v/YWA8E9wXnMq5GmM</urlsolve> 
 </item>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"Tag= Malu3, Disney, 1aventura, 1fantastico, A1988, Letra W, C1080, "
+<item>
+<title>[COLOR white] Willow [COLOR gold](1988)[/COLOR]</title>   
+<genre>Accion, Aventura, Fantasia</genre>
+<year>1988</year>  
+<thumbnail>https://image.tmdb.org/t/p/original/z9UUfYZzKVBCEFs6TnCdAp5mUbJ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pF2oHyDx02HkWWVd6Q7F71YT9xs.jpg</fanart>
+<info>Cuento medieval con brujas, enanos y poderes mágicos. En las mazmorras del castillo de la malvada reina hechicera Bavmorda, una prisionera da a luz una niña que, de acuerdo a una antigua profecía, pondrá fin al reinado de la hechicera. La comadrona salva a la niña de la ira de Bavmorda, pero se ve obligada a arrojar su cuna al río cuando es alcanzada por sus perros de presa. La corriente le hace alcanzar un pueblo de enanos en donde es adoptada por el valiente Willow.</info>
+<urlsolve>//listeamed.net/v/k3gG5q3XKXyE1N2</urlsolve> 
+</item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, A1999, Letra W, EEUU, Secuela, Navidad, Disney, C720, "
@@ -6454,9 +6479,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <urlsolve>//listeamed.net/v/4bQVOj7pQmv5wKm</urlsolve> 
 </item>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 "Tag= Malu3, Disney, 1Animacion, 1Infantil, A2011, Letra W, EEUU, Disney, C1080, "
 <item>
 <title>[COLOR white] Winnie The Pooh [COLOR gold](2011)[/COLOR]</title>    
