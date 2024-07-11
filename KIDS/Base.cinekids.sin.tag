@@ -1876,7 +1876,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <year>2021</year>
 <thumbnail>https://www.themoviedb.org/t/p/original/7M8bMABEbhGkC6z36WEsDttDk6F.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/n7chLrNRGvFE0UrvpxtotZLUjgd.jpg</fanart>
-<info>"Encanto" relata la historia de los Madrigal, una familia extraordinaria que vive en una casa mágica de un pueblo vibrante en las montañas de Colombia escondidas en un “Encanto”. La magia del Encanto ha bendecido a cada niño de la familia con un don único, desde la superfuerza hasta el poder de sanar. A todos, excepto Mirabel, quien desea ser tan especial como el resto de su familia. Pero cuando la magia que rodea al Encanto está en peligro, Mirabel decide que ella, la única Madrigal sin ningún tipo de don único, puede ser la única esperanza de su excepcional familia.<info>
+<info>"Encanto" relata la historia de los Madrigal, una familia extraordinaria que vive en una casa mágica de un pueblo vibrante en las montañas de Colombia escondidas en un “Encanto”. La magia del Encanto ha bendecido a cada niño de la familia con un don único, desde la superfuerza hasta el poder de sanar. A todos, excepto Mirabel, quien desea ser tan especial como el resto de su familia. Pero cuando la magia que rodea al Encanto está en peligro, Mirabel decide que ella, la única Madrigal sin ningún tipo de don único, puede ser la única esperanza de su excepcional familia.</info>
 <urlsolve>//listeamed.net/v/3Q0lxBW3al2Ej1J</urlsolve>
 </item>
 
