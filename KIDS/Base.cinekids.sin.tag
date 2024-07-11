@@ -5070,6 +5070,26 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 </item>
 
 <item>
+<title>[COLOR white] Super Mario Bros. [COLOR gold](1993)[/COLOR]</title> 
+<genre>Aventura,Comedia,Fantasia,Familia</genre>
+<year>1993</year>
+<thumbnail>https://image.tmdb.org/t/p/original/pmw9E5bDvC2vGCjPhWvkhdyqrdB.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/k13si44W7IpwFEP0vpXAHZ19xVI.jpg</fanart>
+<info>Basada en el famoso videojuego de la compañía Nintendo. Dos fontaneros de Brooklyn, Mario y Luigi, viajan a otra dimensión para rescatar a una princesa del malvado dictador Rey koopa y evitar que se apodere del mundo.</info>
+<urlsolve>//listeamed.net/v/PKN4Own7X9ZEDLj</urlsolve>
+</item>
+
+<item>
+<title>[COLOR white] Super Mario Bros: La Pelicula [COLOR gold](2023)[/COLOR]</title> 
+<genre>Animacion,Aventura,Comedia,Fantasia,Familia</genre>
+<year>2023</year>
+<thumbnail>https://image.tmdb.org/t/p/original/xntJzHomzHS0zLNVk4weErYOCx4.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/oWQNKXw5KastmhnUNhWfZ8JMHPk.jpg</fanart>
+<info>Mientras trabajan en una avería subterránea, los fontaneros de Brooklyn, Mario y su hermano Luigi, viajan por una misteriosa tubería hasta un nuevo mundo mágico. Pero, cuando los hermanos se separan, Mario deberá emprender una épica misión para encontrar a Luigi.</info>
+<urlsolve>//listeamed.net/v/3Q0lxBWPeYZEj1J</urlsolve>
+</item>
+
+<item>
 <title>[COLOR white] Super Monsters Save Halloween  [COLOR gold](2018)[/COLOR]</title> 
 <genre>Animacion,Comedia,Fantastico</genre>
 <year>2018</year>
@@ -5102,7 +5122,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 
 
 <item>
-<title>[COLOR white]  Superninhos  [/COLOR][COLOR yellow](2020) [COLOR aqua]*6.3[/COLOR]</title><genre>Ciencia ficción, Aventuras</genre>
+<title>[COLOR white] Superninhos  [/COLOR][COLOR yellow](2020) [COLOR aqua]*6.3[/COLOR]</title><genre>Ciencia ficción, Aventuras</genre>
 <year>2020</year>  
 <thumbnail>https://www.themoviedb.org/t/p/original/nMyHF2KSEzFpMADkvvdCxGL7QEo.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/iVbV8IwLe65DFffbqVz9kcMRnnH.jpg</fanart>
@@ -5113,7 +5133,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 
 
 <item>
-<title>[COLOR white]  Super Wombat [COLOR gold](2020)[/COLOR]</title>  
+<title>[COLOR white] Super Wombat [COLOR gold](2020)[/COLOR]</title>  
 <genre>Animacion,Familia,Fantasia</genre>
 <year>2020</year>  
 <thumbnail>https://www.themoviedb.org/t/p/original/383b9E3Uv1fOyPiSxMZr8lsjFMa.jpg</thumbnail>
@@ -5193,17 +5213,17 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <thumbnail>https://i.imgur.com/Dw1qyOi.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Cuenta la historia de una pareja de jovenes surferos que toman la ultima ola del verano, una ola que misteriosamente les llevara a la playa de todo un clasico del cine: Wet Side Story. McKenzie y Brady contemplan asombrados como Surferos y Moteros se enfrentan por el control de la playa... cuando de pronto y espontaneamente, ¡todo el mundo empieza a cantar y a bailar! Brady y McKenzie deben intentar volver al presente, pero su vida podria dar un giro de 180 grados cuando, sin quererlo, cambian la historia romantica de la pelicula: el apuesto protagonista, el surfero Tanner, se esta enamorando de McKenzie, y la motera Lela pierde la cabeza por Brady. ¿Como acabara esto? ¿Podran regresar a su vida real?</info>
-<urlsolve>https://watchsb.com/e/myakfgprlr2m</urlsolve> 
+<urlsolve>//listeamed.net/v/PKN4Own7LQbEDLj</urlsolve> 
 </item>
 
 <item>
-<title>[COLOR white] Teen Beach 2 [COLOR gold](2015)[/COLOR]</title> 
+<title>[COLOR white] Teen Beach Movie 2 [COLOR gold](2015)[/COLOR]</title> 
 <genre>Musical, Comedia, Fantastico</genre>
 <year>2015</year>
 <thumbnail>https://1.bp.blogspot.com/-uCXDzyXdp2w/Wm8JyHkHJGI/AAAAAAAAFEs/B1eLJritpaMsXA_V7kDtcr2jUWsBY1orQCLcBGAs/s1600/Teen_Beach_2_TV-273959269-large.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>Ahora que el verano ha terminado y empieza el instituto, la relacion de Brady (Ross Lynch) y Mack (Maia Mitchell) parece dificil, hasta que Lela, Tanner y los chicos de “Wet Side Story” aparecen. Deslumbrados por la novedad y la variedad del mundo moderno, Lela quiere quedarse, pero el mundo real y el mundo “de pelicula” no se mezclan. ¿Podran Mack y Brady recuperar la magia para conseguir que los chicos vuelvan a casa y poner de nuevo en marcha su amor antes de que sea demasiado tarde?</info>
-<urlsolve>https://watchsb.com/e/afg5zyzx7p1x</urlsolve> 
+<urlsolve>//listeamed.net/v/pVa4E8M6XNzOkzM</urlsolve> 
 </item>
 
 <item>
@@ -5311,7 +5331,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>La aventura y la diversion de este clasico de la Disney comienzan cuando una adorable viuda adopta un precioso cachorro de zorro llamado Tod. El travieso zorro pronto se encuentra con Toby, un adorable cachorro de perro de caza. Asi se hace los dos inseparables amigos... sin saber que por su naturaleza deberian ser enemigos. Bajo la mirada vigilante de Mama Buho, Tod y Toby juegan y se divierten en el bosque, inconscientes de que en el futuro tendran que enfrentarse y poner su amistad a prueba.</info>
 <urlsolve>//listeamed.net/v/l4vexvD828kO8B9</urlsolve>
 </item>  
-
 
 
 <item>
