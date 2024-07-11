@@ -2530,7 +2530,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <year>2008</year>  
 <thumbnail>https://www.themoviedb.org/t/p/original/wzOERnvuM3c2mbAvCu5pw1QIaZX.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/e45Z6QREa3PptqUfApiqaMoK2dq.jpg</fanart>
-<info>El protagonista es un oso panda llamado Po, el más vago de todas las criaturas del Valle de la Paz. Con poderosos enemigos acercándose, la esperanza es depositada en una antigua profecía que dice que un héroe se alzará para salvarles. Voces originales de Jack Black, Angelina Jolie, Dustin Hoffman, Lucy Liu & Jackie Chan.</info>
+<info>El protagonista es un oso panda llamado Po, el más vago de todas las criaturas del Valle de la Paz. Con poderosos enemigos acercándose, la esperanza es depositada en una antigua profecía que dice que un héroe se alzará para salvarles. Voces originales de Jack Black, Angelina Jolie, Dustin Hoffman, Lucy Liu y Jackie Chan.</info>
 <urlsolve>//listeamed.net/v/8lKQxYV67yPEDGY</urlsolve>
 </item>
 
