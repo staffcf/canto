@@ -2519,7 +2519,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <year>2018</year>  
 <thumbnail>https://www.themoviedb.org/t/p/original/b9L5BomkYAHwiRaVNp14WibZhHs.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/AfYtIbyattunmLoTBnGCSMCqpGf.jpg</fanart>
-<info>Kubo vive tranquilamente en un pequeño y normal pueblo hasta que un espíritu del pasado vuelve su vida patas arriba, al reavivar una venganza. Esto causa en Kubo multitud de malos tragos al verse perseguido por dioses y monstruos. Si de verdad Kubo quiere sobrevivir, antes debe localizar una armadura mágica que una vez fue vestida por su padre, un legendario guerrero samurái.<info>
+<info>Kubo vive tranquilamente en un pequeño y normal pueblo hasta que un espíritu del pasado vuelve su vida patas arriba, al reavivar una venganza. Esto causa en Kubo multitud de malos tragos al verse perseguido por dioses y monstruos. Si de verdad Kubo quiere sobrevivir, antes debe localizar una armadura mágica que una vez fue vestida por su padre, un legendario guerrero samurái.</info>
 <urlsolve>//listeamed.net/v/3Q0lxBW3gZZEj1J</urlsolve>
 </item>
 
