@@ -3015,7 +3015,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://www.themoviedb.org/t/p/original/AdiwiYnzzUg6c59J54CG2qfGxZ3.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/9DNznFQq5Di2YnDjCTpRJTZ5ao3.jpg</fanart>
 <info>Ésta película cuenta la historia de la Tostadora, Manty (la manta eléctrica), Lampy (la lámpara), la Radio, y Kirby (la aspiradora), quienes viven en una casa de campo, junto a su dueño, niño que era su dueño y jugaba con ellos pero un día se fue, desde entonces los aparatos han estado esperando el día que su dueño volviera, pero una mañana alguien se bajó de un coche y colocó un cartel de "EN VENTA" delante de la casa. Así que deciden ir con una batería a buscar a su dueño a la ciudad. Pero se desvían y acaban en cascadas, lagos y tiendas de piezas de aparatos. Por otra parte el dueño que ya es mayor y tiene que irse a la universidad quiere ir a la casa de campo a por sus cosas, los aparatos de la casa moderna se enteran y deciden deshacerse de ellos y cuando los aparatos llegan a la casa estos los tiran a un contenedor rumbo a un vertedero.</info>
-<urlsolve>//listeamed.net/v/4bQVOj7v2em5wKm</info>
+<urlsolve>//listeamed.net/v/4bQVOj7v2em5wKm</urlsolve>
 </item>
 
 
