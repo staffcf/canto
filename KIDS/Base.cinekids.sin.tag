@@ -13,7 +13,8 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <info>Pongo y Perdita, los dalmatas protagonistas, son una feliz pareja canina que vive rodeada de sus cachorros y con sus amos Roger y Anita. Pero su felicidad esta amenazada. Cruella de Ville, una perfida mujer que vive en una gran mansion y adora los abrigos de pieles, se entera de que los protagonistas tienen quince cachorros dalmatas. Entonces, la idea de secuestrarlos para hacerse un exclusivo abrigo de pieles se convierte en una obsesion enfermiza. Para hacer realidad su sueño contrata a dos ladrones.</info>
 <urlsolve>https://vembed.net/v/mMq75Lr609EXPBY</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 <item>
 <title>[COLOR white] 101 Dalmatas 2 [COLOR gold](2003)[/COLOR]</title>    
 <genre>Animacion, Comedia, Infantil</genre>
@@ -23,7 +24,8 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <info>Perdido en un mar de manchas, el pequeño Patch quiere destacar sobre los demas cachorros y sueña con convertirse en un perro "unico en su especie" como su estrella favorita de television, Relampago. Cuando Patch se separa accidentalmente de su familia, tiene la oportunidad de conocer a su heroe y milagrosamente, convertirse en su socio en la vida real. Mientras, Cruella se ha convertido en mecenas de un excentrico artista cuya pintura se compone de juegos de manchas. Para inspirarle, Cruella secuestra a todos los cachorros de Dalmatas. Juntos Patch y Relampago planean rescate y Patch descubre que realmente es un perro unico.</info>
 <urlsolve>https://vembed.net/v/njJYOd6V11xe9od</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 <item>
 <title>[COLOR white] 101 Dalmatas Mas vivos que nunca [COLOR gold](1996)[/COLOR]</title>    
 <genre>Animacion, Comedia, Infantil</genre>
@@ -33,7 +35,8 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <info>Obsesionada por obtener la autentica piel de dalmatas para crear su nueva linea de moda, Cruella de Vil no se detiene ante nada. Cuando Anita, una de sus mejores diseñadoras, le cuenta lo contentos que estan ella y su marido Roger, porque su pareja de dalmatas, Pongo y Perlita, van a tener cachorros, la mente de Cruella empieza a maquinar para hacerse con los pequeños.</info>
 <urlsolve>https://vembed.net/v/PKN4OwPzdZ5DLjb</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 <item>
 <title>[COLOR white] 102 Dalmatas [COLOR gold](2000)[/COLOR]</title>    
 <genre>Comedia, Infantil</genre>
@@ -43,7 +46,8 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <info>Cruella de Vil logra salir de la carcel despues de someterse a un tratamiento con el que parece haberse curado de su obsesion por las pieles y el abrigo hecho con los dalmatas. Pero el tiempo pasa y las autenticas aficiones y perversiones vuelven a manifestarse con todo su esplendor, sobre todo cuando aparece una hermosa perrita dalmata sin manchas, la numero 102.</info>
 <urlsolve>https://vembed.net/v/QNB7xAn392E0WG9</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 <item>
 <title>[COLOR white] Abominable [COLOR gold](2019)[/COLOR]</title>    
 <genre>Animacion,Fantastico,Aventuras,Comedia,Infantil</genre>
@@ -53,7 +57,8 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <info>Yi es una adolescente mas en la enorme ciudad de Shanghai. Un dia, se encuentra a un joven yeti en la azotea de su edificio. La supuestamente “abominable” criatura, que se ha escapado del laboratorio donde estaba encerrado, esta siendo buscada por toda la ciudad. Junto con sus ingeniosos amigos Jin y Peng, Yi decide ayudarle a huir, le bautizan como “Everest” y los cuatro se embarcan en una epica aventura para reunir a la mitica criatura con su familia en el pico mas alto del mundo. </info>
 <urlsolve>https://vgembed.com/v/qA3WOm6pw35Kkz4</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 <item>
 <title>[COLOR white] Adios, Christopher Robin [COLOR gold](2017)[/COLOR]</title>    
 <genre>Drama</genre>
@@ -64,8 +69,7 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <urlsolve>https://vembed.org/v/JzkPxz9PJy5bydB</urlsolve>
 </item>
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<item>
+
 <item>
 <title>[COLOR white]  Agencia Secreta de Control Magico [COLOR gold](2021)[/COLOR]</title>  
 <genre>Animacion,Comedia,Fantasia</genre>
@@ -75,7 +79,8 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <info>La Agencia del Control de Magia envía a sus dos mejores agentes, Hansel y Gretel, a luchar contra la bruja de la Casa del Pan de Jengibre. </info>
 <urlsolve>https://vembed.net/v/ZMVoEr123ex9PaA</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 <item>
 <title>[COLOR white] Al encuentro de Mr. Banks [COLOR gold](2013)[/COLOR]</title>    
 <genre>Drama</genre>
@@ -85,7 +90,8 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <info>Durante catorce años, Walt Disney (Tom Hanks) intento sin descanso que la escritora australiana P.L. Travers (Emma Thompson) le cediera los derechos cinematograficos de su primera y mas popular novela, 'Mary Poppins', que finalmente fue llevada a la gran pantalla en 1964.</info>
 <urlsolve>https://vembed.net/v/QNB7xAnBgRE0WG9</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 <item>
 <title>[COLOR white] Aladdin [COLOR gold](1992)[/COLOR]</title>    
 <genre>Animacion</genre>
@@ -95,7 +101,8 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <info>Basada en el famoso cuento "Aladino y la lampara maravillosa", la trama se situa en el exotico paisaje del mitico reino arabe de Agrabah. Aladdin es un ingenioso joven que, a pesar de vivir en un estado de extrema pobreza, sueña con casarse con la bella hija del sultan, la princesa Yasmin. El destino interviene cuando el astuto visir del Sultan, Yafar, recluta a Aladdin para que le ayude a recuperar una lampara magica de las profundidades de la Cueva de las Maravillas. El joven encuentra la lampara, en la que vive un genio que concede tres deseos a quien lo libere.</info>
 <urlsolve>https://vembed.net/v/edVqE4nvd05YWmQ</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 <item>
 <title>[COLOR white] Aladdin [COLOR gold](2019)[/COLOR]</title>    
 <genre>Fantastico, Musical, Romance, Aventuras</genre>
@@ -105,7 +112,8 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <info>Aladdin (Mena Massoud) es un adorable pero desafortunado ladronzuelo enamorado de la hija del Sultan, la princesa Jasmine (Naomi Scott). Para intentar conquistarla, acepta el desafio de Jafar (Marwan Kenzari), que consiste en entrar a una cueva en mitad del desierto para dar con una lampara magica que le concedera todos sus deseos. Alli es donde Aladdin conocera al Genio (Will Smith), dando inicio a una aventura como nunca antes habia imaginado. </info>
 <urlsolve>https://vembed.net/v/PKN4OwPD0X5DLjb</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 <item>
 <title>[COLOR white] Aladdin y el rey de los ladrones [COLOR gold](1995)[/COLOR]</title>    
 <genre>Animacion,Aventuras,Musical,Infantil</genre>
@@ -115,8 +123,8 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <info>Por fin Aladdin se va a casar con la princesa Jasmine. A pesar de la presencia y animo de sus amigos Genio, Alfombra y el mono Abu, esta algo preocupado: tiene miedo porque no sabe que tipo de padre va a ser, si el nunca tuvo ninguno. Pero todas sus preocupaciones quedaran de lado cuando 40 ladrones irrumpen en la boda para robar un magico talisman. </info>
 <urlsolve>https://vembed.net/v/P0poO18W6pEz17v</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Comedia, 1Infantil, 1Familiar, Disney, Letra A, "
+
+
 <item>
 <title>[COLOR white] Alexander y el Dia Terrible, Horrible, Espantoso, Horroroso [COLOR gold](2014)[/COLOR]</title>    
 <genre>Comedia</genre>
@@ -126,8 +134,8 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <info>Un dia, Alexander, un niño de once años, se despierta con un chicle pegado al pelo. A partir de ese momento todo ira de mal en peor. Aunque el chico le cuenta sus desgracias a su optimista familia, esta no le hace demasiado caso.</info>
 <urlsolve>https://vembed.net/v/6zeREa6gJjOZPa4</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Fantastico, 1Infantil, 1Familir, Disney, Letra A, Princesas, "
+
+
 <item>
 <title>[COLOR white] Alicia a traves del espejo [COLOR gold](2016)[/COLOR]</title>    
 <genre>Fantastico</genre>
@@ -137,8 +145,8 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <info>En una fiesta en casa de Lord Ascott, Alicia se encuentra con absolem, que ahora es una mariposa monarca azul que ayuda a Alicia a regresar al fantastico mundo de Infratierra, donde encuentra a sus amigos: el Conejo Blanco, el Gato Sonriente, Liron, la Liebre, los Tweedles y el Sombrerero Loco, pero este, desafortunadamente, ya no es el mismo: ha perdido su muchosidad. Alicia tendra entonces que ir a ver a Tiempo. Tiempo, una peculiar criatura mitad humano, mitad reloj, vive en un vacio infinito y posee la cronoesfera, una esfera metalica que permitira a Alicia volver para salvar a la familia del Sombrerero.</info>
 <urlsolve>https://vembed.net/v/3Q0lxBnQDZxj1Jk</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Infantil, Disney, Letra A,  "
+
+
 <item>
 <title>[COLOR white] Alicia en el pais de las maravillas [COLOR gold](1951)[/COLOR]</title>    
 <genre>Fantastico, Animacion, Aventuras</genre>
@@ -148,8 +156,8 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <info>Historia de magia y fantasia en la que la joven Alicia se sumerge en el sorprendente Pais de las Maravillas y conoce a extraordinarios personajes como Tweedledee y Tweedledum, el Sombrerero Loco, La Reina de Corazones y el frenetico Conejo Blanco.</info>
 <urlsolve>https://vembed.net/v/edVqE4nj635YWmQ</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Infantil, Disney, Letra A, "
+
+
 <item>
 <title>[COLOR white] Alicia en el pais de las maravillas [COLOR gold](2010)[/COLOR]</title>    
 <genre>Fantastico, Animacion, Aventuras</genre>
@@ -159,8 +167,8 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <info>Historia de magia y fantasia en la que la joven Alicia se sumerge en el sorprendente Pais de las Maravillas y conoce a extraordinarios personajes como Tweedledee y Tweedledum, el Sombrerero Loco, La Reina de Corazones y el frenetico Conejo Blanco.</info>
 <urlsolve>https://vembed.net/v/YWA8E9nmWqOGmMw</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Infantil, 1Familiar, Fox, Letra A, A2007, 1Ardillas, "
+
+
 <item>
 <title>[COLOR white] Alvin Y Las Ardillas [COLOR gold](2007)[/COLOR]</title> 
 <genre>Animacion, Aventuras, Comedia, Fantastico</genre>
@@ -170,8 +178,8 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <info>Despues de probar suerte con un desesperanzado compositor, tres ardillas muy peculiares, Alvin, Simon y Theodore, deciden hacer de la casa de Dave la suya propia. Enseguida las ardillas se dan cuenta de la necesidad de convencer a Dave de que las deje vivir en su casa para demostrarle que no solo pueden andar como una persona…¡sino que pueden cantar! No tardaran en revelarse como la sensacion musical del momento, mientras Dave se convierte en algo mas que en su compositor; en su padre. Los problemas comienzan cuando las ardillas comienzan a darse cuenta de su exito y se rebelan contra Dave. </info>
 <urlsolve>https://vembed.net/v/7QWN5e63Zgx9oR0</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Infantil, 1Familiar, Fox, Letra A, A2007, 1Ardillas, "
+
+
 <item>
 <title>[COLOR white] Alvin Y Las Ardillas 2 [COLOR gold](2009)[/COLOR]</title> 
 <genre>Animacion, Aventuras, Comedia, Fantastico</genre>
@@ -181,8 +189,8 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <info>Las ardillas mas famosas y divertidas del cine regresan a la gran pantalla para protagonizar una nueva aventura. En ella, Alvin y sus compañeros deben enfrentarse a la presion de la escuela, a los problemas de la celebridad y a un grupo de chicas ardilla que les esta haciendo la competencia.</info>
 <urlsolve>https://vembed.net/v/VqbX53nWBdOQzpl</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Infantil, 1Familiar, Fox, Letra A, A2011, 1Ardillas, "
+
+
 <item>
 <title>[COLOR white] Alvin Y Las Ardillas 3 [COLOR gold](2011)[/COLOR]</title> 
 <genre>Animacion, Aventuras, Comedia, Fantastico</genre>
@@ -192,8 +200,8 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <info>Tercera entrega de la saga Alvin y las ardillas. Las ardillas se embarcan en un crucero de lujo, pero se caen por la borda y acaban en una isla desierta. Pronto averiguaran que la isla no esta tan deshabitada como creian en un principio.</info>
 <urlsolve>https://vembed.net/v/PlBVEZoD1aODv98</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Infantil, 1Familiar, Fox, Letra A, A2015, 1Ardillas, "
+
+
 <item>
 <title>[COLOR white] Alvin Y Las Ardillas 4: Fiesta Sobre Ruedas [COLOR gold](2015)[/COLOR]</title> 
 <genre>Animacion, Aventuras, Comedia, Fantastico</genre>
@@ -203,8 +211,8 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <info>Tras una serie de malentendidos Alvin, Simon y Theodore creen que Dave va a declararse a su nueva novia en Nueva York, y olvidarse de ellos. Tienen tres dias para intentar romper el compromiso y salvarse asi de la perdida de Dave. </info>
 <urlsolve>https://vembed.net/v/YWA8E9no42OGmMw</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Infantil, 1Fantastico, 1Aventuras, 1Comedia, "
+
+
 <item>
 <title>[COLOR white] Angry Birds [COLOR gold](2016)[/COLOR]</title>    
 <genre>Animacion,Fantastico,Aventuras,Comedia,Infantil</genre>
@@ -214,8 +222,8 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <info>Basada en la saga de videojuegos "Angry Birds", la historia se desarrolla en una isla poblada enteramente por aves felices que no vuelan... o casi enteramente. En este paraíso, Red, un pájaro con problemas de mal genio, el veloz Chuck y el volátil Bomb nunca han terminado de encajar. Pero, cuando la isla recibe la visita de unos misteriosos cerdos verdes, tendrán que ser estos insólitos marginados los que descubran qué traman esos cerdos</info>
 <urlsolve>https://vembed.net/v/vQBYEbD2XJ5n1m8</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Infantil, 1Fantastico, 1Aventuras, 1Comedia, "
+
+
 <item>
 <title>[COLOR white] Angry Birds 2  [COLOR gold](2019)[/COLOR]</title>    
 <genre>Animacion,Fantastico,Aventuras,Comedia,Infantil</genre>
@@ -226,8 +234,7 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <urlsolve>https://vembed.net/v/4bQVOjQ28wEwKmZ</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Accion, 1Familia 1Aventura, 1Fantastico, Letra A, A2016 "
+
 <item>
 <title>[COLOR white] Animales Fantasticos Y Donde Encontrarlos [COLOR gold](2016)[/COLOR]</title>    
 <genre>Aventura,Fantasia,Familia,Accion</genre>
@@ -238,8 +245,7 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamwish.to/tn28idcb7fah"},{"titulo" : "[COLOR white]Opcion 2 Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:c32991432bebe43d22cead0446488ed7b8bb1588"}</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Accion, 1Familia 1Aventura, 1Fantastico, Letra A, A2018 "
+
 <item>
 <title>[COLOR white] Animales Fantasticos: Los Crimenes De Grindelwald [COLOR gold](2018)[/COLOR]</title>    
 <genre>Aventura,Fantasia,Familia 1Accion</genre>
@@ -250,8 +256,7 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamwish.to/0i32em853yqh"},{"titulo" : "[COLOR white]Opcion 2 Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:HFE7U23SCVWYTHXP64OV6WXEKGDE3U2V"}</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Accion, 1Familia 1Aventura, 1Fantastico, Letra A, A2022 "
+
 <item>
 <title>[COLOR white] Animales Fantasticos: Los Secretos De Dumbledore [COLOR gold](2022)[/COLOR]</title>    
 <genre>Aventura,Fantasia,Familia,Accion</genre>
@@ -262,8 +267,7 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamwish.to/xzhw38yt0hs0"},{"titulo" : "[COLOR white]Opcion 2 Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:EIHBSIMYHQF5DLVN4B6RST654WN4NRJO"}</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Familia 1Aventura, 1Comedia, DreamWorks Letra A, A1998 "
+
 <item>
 <title>[COLOR white] Antz (Hormigaz) [COLOR gold](1998)[/COLOR]</title>    
 <genre>Aventura,Animacion,Comedia,Familia</genre>
@@ -273,8 +277,7 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <info>Z-4196 es tan sólo una neurótica hormiga obrera macho, una más entre sus millones de hermanas. Después de bailar con la princesa Bala, se enamora de ella, pero se trata de un amor imposible. Convence, sin embargo, a un amigo para que le ceda su puesto en un desfile militar para poder estar cerca de la princesa. La excavación de un nuevo túnel es supervisada por el general Mandible, una hormiga ambiciosa que convence a la reina de la necesidad de enviar al batallón del hormiguero a la guerra contra las termitas. Y en ese batallón se encuentra el asustadizo y cobarde Z...</info>
 <urlsolve>https://vembed.net/v/6zeREa66krOZPa4</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Fantastico, 1Accion, 1Aventuras, A2020, Letra A, EEUU, Familiar, Disney, C720, Dplus, "
+
 
 <item>
 <title>[COLOR white] Artemis Fowl [/COLOR][COLOR gold](2020)[/COLOR]</title>    
@@ -286,9 +289,6 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <urlsolve>https://vembed.net/v/YWA8E9nnjoOGmMw</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
-"Tag= Malu3, Disney,1Animacion, 1Infantil, 1Familiar, A2011, Letra A " 
 
 <item>
 <title>[COLOR white] Arthur Christmas Operacion Regalo [COLOR gold](2011)[/COLOR]</title>    
@@ -299,8 +299,7 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <info>Santa Claus cree que su reinado está llegando a su fin y que se acerca ya la hora de jubilarse. Confía en que su hijo Steven, que es muy eficiente y responsable, aunque no muy alegre, esté preparado para tomar el relevo inmediatamente. Sin embargo, esa Navidad surge un problema: uno de los 600 millones de niños a los que había que visitar se queda sin su regalo.</info>
 <urlsolve>https://vembed.net/v/eL2157nzXJOrw48</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Fantastico, 1Animacion, 1Infantil, Letra A, A2009, Francia, "
+
 
 <item>
 <title>[COLOR white] Arthur y la venganza de Maltazard [COLOR gold](2009)[/COLOR]</title>    
@@ -311,8 +310,7 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <info>Secuela de "Arthur y los Minimoys" (2006). En esta ocasion el protagonista viaja, junto a la Princesa Selenia y su hermano Betameche, en busca de la ciudad prohibida de Necropolis, hogar del malvado brujo Maltazard. "¡Ayuda!" Este grito de alarma inscrito en un grano de arroz y dejado por una araña mensajera pone a Arthur en alerta: "Los Minimoys estan en peligro. ¡No hay ni un segundo que perder!". Justo en este momento el padre de Arthur decide partir antes de lo previsto, y espera impaciente al volante de su coche. Arthur tiene el tiempo justo para prevenir a su abuelo Archibald para que acuda a la llamada de auxilio en su lugar... pero imaginar a Selenia en peligro es dificil de soportar. Con la complicidad de su perro Alfred, Arthur engaña la vigilancia de sus padres y regresa en plena noche a la casa de sus abuelos. Sin embargo, una nube se aproxima peligrosamente a la luna en la media noche, la hora en la que sus rayos deben alcanzar el telescopio de Archibald y abrir la puerta hacia el mundo de los Minimoys.</info>
 <urlsolve>https://vembed.net/v/04rQxWvpPz5b2N1</urlsolve> 
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Fantastico, 1Animacion, 1Infantil, Letra A, A2009, Francia, "
+
 
 <item>
 <title>[COLOR white] Arthur y los Minimoys [COLOR gold](2006)[/COLOR]</title>    
@@ -323,8 +321,7 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <info>Justo cuando su abuela (Mia Farrow) esta a punto de perder la casa en la que vive, Arthur (Freddie Highmore), un niño de 10 años, recuerda que su abuelo le habia hablado de un gran tesoro oculto en la tierra de los Minimoys, un universo de pequeños seres fantasticos que viven en armonia con la naturaleza, un mundo tan lejano y sin embargo tan cercano e invisible al ojo humano. Decidido a salvar a su abuela, Arthur conseguira la llave para entrar en el y alli conocera a la princesa Selenia y a su hermano Betameche. Juntos buscaran el tesoro escondido y deberan enfrentarse al diabolico M, en una aventura que nos enseñara que, en ocasiones, los pequeños heroes son capaces de conseguir grandes logros.</info>
 <urlsolve>https://vembed.net/v/LQm9OXbY4Qx1lgB</urlsolve> 
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Infantil, 1Familiar, Letra A, A2018, Asterix, "
+
 
 <item>
 <title>[COLOR white] Asterix: El Secreto De La Pocion Magica [COLOR gold](2018)[/COLOR]</title>    
@@ -335,8 +332,7 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <info>Tras sufrir una caida recogiendo muerdago, Panoramix decide que ha llegado la hora de asegurar el futuro del pueblo. Acompañado por Asterix y Obelix, emprende la busqueda de un talentoso druida al que quiere transmitirle el secreto de la pocion magica. </info>
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1 [/COLOR]","url" : "https://upstream.to/embed-drlsyay5aohe.html"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://vembed.net/v/7QWN5e6NLbx9oR0"}</urlsolve> 
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Infantil, Disney, "
+
 
 <item>
 <title>[COLOR white] Atlantis: el imperio perdido [COLOR gold](2001)[/COLOR]</title>    
@@ -347,8 +343,7 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <info>Un joven aventurero llamado Milo encuentra un antiguo diario que contiene pistas de como llegar a Atlantis, el mitico reino hundido. Junto a otros intrepidos personajes Milo decide embarcarse en el Ulises, un impresionante submarino, en una arriesgada expedicion al fondo del mar.</info>
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamwish.to/yeubs19jswb0"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://vembed.net/v/nyg9EKB01Kxbk4Z"}</urlsolve>  
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, 1Fantastico, 1Infantil, A2003, Letra A, EEUU, Steampunk, Secuela, Disney, C720, "
+
 
 <item>
 <title>[COLOR white] Atlantis 2. El Regreso De Milo [COLOR gold](2003)[/COLOR]</title>    
@@ -359,8 +354,7 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <info>En la primera expedicion (Atlantis: El Imperio Perdido), Milo y sus acompañantes encontraron la famosa ciudad perdida de Atlantis y salvaron al misterioso reino y a sus habitantes. Ahora, Milo, Kida y su equipo viviran nuevas aventuras y descubriran que poseen nuevos poderes. En su nueva mision, el equipo se enfrentara a enormes monstruos marinos, a espiritus espectaculares y poderosas leyendas recorriendo desde el polvoriento desierto del sudoeste hasta las heladas montañas nordicas. A lo largo de esta aventura, Kida descubre el increible poder de los cristales encantados de su ciudad y tiene que decidir si oculta ese poder en el Corazon de Atlantis o lo comparte con el resto del mando... Secuela directa a video de la pelicula de Disney de 2001.</info>
 <urlsolve>https://vembed.net/v/KNWlEDD0zaEkbpL</urlsolve>  
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, A2015, Letra A, Spain, Espacial, Mediaset, Movistar, "
+
 
 <item>
 <title>[COLOR white] Atrapa La Bandera [COLOR gold](2015)[/COLOR]</title> 
@@ -371,8 +365,7 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 <info>Richard Carson, un ambicioso multimillonario, quiere apropiarse del satelite terrestre y explotar la fuente de energia limpia y real del futuro, el Helio 3. Para ello, debera borrar de la Historia la gesta de los astronautas del Apolo XI y sus famosos primeros pasos por la Luna, algo que el 40% de la poblacion mundial cree que es mentira. Y el unico capaz de impedir que se salga con la suya es un simpatico y decidido surfero de 12 años, Mike Goldwing. Con la ayuda de sus amigos -el friki Marty, la futura periodista Amy y un pequeño lagarto con aspiraciones de ser Godzilla-, viajan a la Luna acompañados por el abuelo de Mike, un antiguo astronauta que lleva años distanciado de su familia. Ahora esta en las manos de Mike no solo salvar el futuro de la Tierra, sino el de su propia familia.</info>
 <urlsolve>https://vembed.net/v/PKN4OwPbLZ5DLjb</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Comedia, 1Drama, 1Infantil, 1Familiar, "
+
 
 <item>
 <title>[COLOR white] Babe, el cerdito valiente [COLOR gold](1995)[/COLOR]</title>    
@@ -384,8 +377,7 @@ BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS			BASE PELIS KIDS           
 un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A la granja llega Babe, un cerdito que el granjero ha ganado en un concurso y que intuye que es muy especial. Decide entonces enseñarle el oficio de perro pastor; asi es como Babe evita ser destinado a la cena de Navidad.</info>
 <urlsolve>https://vembed.net/v/k3gG5qjklRx1N2b</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Comedia, 1Drama, 1Infantil, 1Familiar, "
+
 
 <item>
 <title>[COLOR white] Babe, el cerdito en la ciudad [COLOR gold](1998)[/COLOR]</title>    
@@ -396,8 +388,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Despues de la gran victoria obtenida por el cerdito Babe en el concurso de pastoreo, su dueño, el granjero Arthur Hoggett, rechaza todas las ofertas que le hacen por Babe. Desgraciadamente, a causa de un accidente provocado por Babe, Arthur debe guardar cama, y su mujer Esme tendra que ponerse al frente de la granja. Sin embargo, a pesar de sus esfuerzos, no consigue pagar las deudas que ha contraido con el banco. La unica solucion consiste en ir a la ciudad con Babe para participar en un concurso de mascotas que puede proporcionarle el dinero necesario para saldar sus cuentas con el banco.</info>
 <urlsolve>https://vembed.net/v/edVqE4noNw5YWmQ</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Drama, Letra B, A2016,  "
+
+
 <item>
 <title>[COLOR white] Ballerina [COLOR gold](2016)[/COLOR]</title>    
 <genre>Animacion,Drama</genre>
@@ -407,8 +399,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Felicia es una niña que, tras perder a sus padres, vive en un orfanato en su Bretaña natal. Su pasion es la danza y sueña con convertirse en una bailarina profesional. Para conseguirlo se escapa con la ayuda de su amigo Victor y viaja hasta el Paris de 1879. Alli se hara pasar por otra persona para conseguir entrar como alumna de la Grand Opera House y asi luchar por tener la vida que desea.</info>
 <urlsolve>https://vembed.net/v/YWA8E9ndYDOGmMw</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Drama, 1Infantil, Letra B, A1995, EEUU, Universal, "
+
 
 <item>
 <title>[COLOR white] Balto: La leyenda del perro esquimal [COLOR gold](1995)[/COLOR]</title>    
@@ -419,8 +410,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Balto, un perro lobo siberiani, mezcla de husky y lobo, se siente confundido en cuanto a sus orígenes y está marginado en Alaska, excepto por sus verdaderos amigos. Un día, de repente, se extiende una epidemia de difteria entre los niños de Nome, pero una violenta tormenta de nieve bloquea todas las rutas de transporte y la obtención de las medicinas necesarias se hace imposible... a menos que un grupo de perros pueda cruzar mil kilómetros tirando de un trineo a través de la atroz tormenta ártica y volver con la antitoxina. Y sólo Balto puede rescatar a los perros y salvar a los niños.</info>
 <urlsolve>https://vembed.net/v/vQBYEbDYwQ5n1m8</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Drama, 1Infantil, Letra B, A2002, EEUU, Universal, "
+
 
 <item>
 <title>[COLOR white] Balto 2: Aventura En La Tierra De Hielo [COLOR gold](2002)[/COLOR]</title>    
@@ -431,8 +421,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Balto cautivó al público en todo el mundo. Ahora la aventura continúa y esta vez no está solo. Balto tiene una nueva hija, Aleu. Cuando la joven se da cuenta de que nunca la aceptarán como al resto de sus hermanos, porque su apariencia es más de lobo que de perro, sufre mucho y se escapa de casa para descubrir el sentido de la vida y encontrar su rinconcito en el mundo. Balto, preocupado, parte en busca de Aleu, y así comienza esta epopeya lobuna por los gélidos páramos de Alaska. Es una aventura espectacular y tierna a la vez que nos habla del valor, la realización personal y las emociones, y que permanecerá en los corazones del público para siempre.</info>
 <urlsolve>https://vembed.net/v/3Q0lxB9zAm5j1Jk</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Drama, 1Infantil, Letra B, A2004, EEUU, Universal, "
+
 
 <item>
 <title>[COLOR white] Balto 3: Rescate Del Avión Perdido [COLOR gold](2004)[/COLOR]</title>    
@@ -443,8 +432,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Balto y su hijo Kodi descubren que los avances tecnológicos pueden suponer una amenaza para el futuro de los trineos tirados por perros, ya que los aeroplanos se convierten en una opción más rápida para repartir el correo y abastecer Nome de alimentos. En medio de la controversia, todo lo decidirá una carrera entre el trineo guiado por Balto y un piloto forestal que lleva un avión que tiene fascinado a Balto. Cuando Duke, el piloto, nunca llega a su destino, algunos de los perros se sienten exultantes por haber probado su superioridad, pero Balto sospecha que algo ha pasado. Con la ayuda de Mucy Luc, sale a la búsqueda y rescate del avión perdido, donde están Duke y Boris.</info>
 <urlsolve>https://vembed.net/v/PKN4OwPlyZ5DLjb</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Infantil, Disney, "
+
 
 <item>
 <title>[COLOR white] Bambi [COLOR gold](1942)[/COLOR]</title>    
@@ -455,8 +443,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Con los primeros rayos del sol iluminando la pradera, un nuevo principe ha nacido en el bosque. Tan pronto como Bambi aprende a dar sus primeros pasos, comienza a jugar con sus nuevos amigos, Tambor, el conejo jugueton, y Flor, la timida y adorable mofeta. Pero la diversion de patinar sobre el lago helado, de mordisquear las florecillas y de juguetear entre los arboles del bosque sera solo el principio de un largo aprendizaje. Guiado por su sabio amigo el Buho, Bambi aprendera lecciones sobre el valor del amor, la perdida de los seres queridos, la madurez; en definitiva, aprendera a seguir el camino de la vida. </info>
 <urlsolve>https://vembed.net/v/vQBYEbDm1Q5n1m8</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Infantil, A2005, Letra B, EEUU, Naturaleza, Secuela, Disney, C720, "
+
 
 <item>
 <title>[COLOR white] Bambi 2 [COLOR gold](2005)[/COLOR]</title>    
@@ -467,9 +454,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>La pelicula retoma la historia de Disney desde el momento en que la madre de Bambi es capturada por los cazadores y el pequeño cervatillo tiene que aprender a valerse por si mismo con la ayuda de un padre poco habituado a tratar con pequeños.</info>
 <urlsolve>https://vembed.net/v/8lKQxYR8w2EDGYb</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-"Tag= Malu3, Disney, 1Animacion, 1Musical, 1Fantastico, 1Infantil, A2015, Letra B, EEUU, Barbie, "
 
 <item>
 <title>[COLOR white] Barbie: El Campamento De Princesas [COLOR gold](2015)[/COLOR]</title> 
@@ -480,8 +465,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Barbie es la princesa Courtney, una princesa moderna cuyo mundo da un vuelco cuando es enviada al Cam Pop, y Erika (una famosa estrella del rock) al Camp Royalty donde vivia Courtney. Courtney y Erika aprenden a adaptarse a los diferentes mundos y se unen para una epica actuacion que demuestra que todo es posible cuando te atreves a soñar en grande.</info>
 <urlsolve>http://ok.ru/video/1385210382909</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Musical, 1Fantastico, 1Infantil, A2014, Letra B, EEUU, Barbie, "
+
 
 <item>
 <title>[COLOR white] Barbie: la Princesa y la Costurera [COLOR gold](2004)[/COLOR]</title>
@@ -492,8 +476,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>La mitica muñeca Barbie cobra vida en esta moderna version del cuento de Mark Twain "El Principe y el Mendigo" sobre un error de identidad y el poder de la amistad. Con la voz de Gisela como Barbie cantando siete temas originales llega la primera pelicula musical de Barbie interpretando ademas un doble papel.</info>
 <urlsolve>https://sendvid.com/ewtuotba</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Intriga, 1Aventuras, 1Infantil, 1Musical, A1986, Letra B, EEUU, Roedores, Disney, C720, "
+
 
 <item>
 <title>[COLOR white] Basil. El Raton Superdetective [COLOR gold](1986)[/COLOR]</title>    
@@ -504,8 +487,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>A finales del siglo XIX, Basil, el Sherlock Holmes del mundo de los ratones, tiene que enfrentarse a su eterno enemigo: el profesor Ratigan. La aventura comienza cuando una jovencita es raptada por el villano Ratigan. Entonces Basil y sus inseparables amigos, el Dr. Dawson y Tobi, emprenderan una apasionante mision de rescate.</info>
 <urlsolve>https://vembed.net/v/0DogOGoLR0OKjM6</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Accion, 1Fantastico, A2019, Letra B, EEUU, Superheroes, Comics, Warner Bros, C720, "
+
 
 <item>
 <title>[COLOR white] Batman Vs. Las Tortugas Ninja [COLOR gold](2019)[/COLOR]</title>    
@@ -517,8 +499,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://embedv.net/v/e028E6RPvvdEYAv</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Aventura, 1Animacion 1Familia, 1Comedia, DreamWorks Letra B, A2007 "
+
 <item>
 <title>[COLOR white] Bee Movie [COLOR gold](2007)[/COLOR]</title>    
 <genre>Aventura,Animacion,Comedia,Familia</genre>
@@ -529,9 +510,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://vembed.net/v/pVa4E8Byq05kzMZ</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
-"Tag= Malu3, Disney, 1Familiar, 1Drama, Disney, A2020, Letra B " 
 
 <item>
 <title>[COLOR white] Belleza Negra [COLOR gold](2020)[/COLOR]</title>    
@@ -542,9 +520,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Una adolescente profundamente afligida por haber perdido a sus padres comienza a tener un vínculo muy especial con un caballo que ha sido alejado de su familia.</info>
 <urlsolve>https://vanfem.com/v/zdn2mtjyqmlp4kl</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------
- 
-"Tag= Malu3, Disney,1Aventura 1Familiar, A2009, Letra B " 
+
 
 <item>
 <title>[COLOR white] Ben 10 Alien Swarm [COLOR gold](2009)[/COLOR]</title>    
@@ -556,9 +532,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://vembed.net/v/VqbX53kvbq5Qzpl</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
-"Tag= Malu3, Disney,1Aventura 1Animacion, A2020, Letra B " 
 
 <item>
 <title>[COLOR white] Ben 10 Contra El Universo [COLOR gold](2020)[/COLOR]</title>    
@@ -569,8 +542,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>La historia de esta nueva cinta animada, narra la odisea por la que Ben 10 tendrá que pasar en el espacio exterior, pues uno de los villanos más aterradores de la galaxia intenta acabar con la humanidad por lo que se verá en la necesidad de luchar contra él y cuando lo hace se convertirá en la batalla más importante y grande de su vida.</info>
 <urlsolve>https://vembed.net/v/k3gG5qp4QBO1N2b</urlsolve>
 </item>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
-"Tag= Malu3, Disney, 1Comedia, 1Familiar, Universal Studios, Letra B, A2018, "
+
 
 <item>
 <title>[COLOR white] Benji  [COLOR gold](2018)[/COLOR]</title> 
@@ -582,8 +554,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://vembed.net/v/eL21571XWbErw48</urlsolve>
 </item>
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
-"Tag= Malu3, Disney, 1Animacion, 1Aventura, 1Familia, 1Comedia, A1998, Letra B, Pixar, "
 
 <item>
 <title>[COLOR white] Bichos Una Aventura En Miniatura [COLOR gold](1998)[/COLOR]</title>
@@ -594,8 +564,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Un grupo de saltamontes liderados por el malvado Hopper y su estúpido hermano Molt asedian la colonia de hormigas todos los veranos para hacerse con la comida almacenada para pasar el invierno. Flik, una hormiga cansada de seguir las reglas del grupo, decide abandonar la colonia en busca de un grupo de mercenarios que los defiendan. Por equivocación, Flik reclutará a una pandilla de artistas de circo.</info>
 <urlsolve>https://vembed.net/v/4bQVOjPqb3xwKmZ</urlsolve>
 </item>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
-"Tag= Malu3, Disney, 1Animacion, 1Fantastico, 1Ciencia Ficcion, 1Comedia, 1Accion, A2014, Letra B, EEUU, Robots, Superheroes, Comic, Marvel, Familiar, Disney, "
+
 
 <item>
 <title>[COLOR white] Big Hero 6 [COLOR gold](2014)[/COLOR]</title>
@@ -606,8 +575,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>En la metropolis de San Fransokyo (cruce de San Francisco y Tokio), vive Hiro Hamada, quien aprende a sacar provecho de su capacidad gracias a su brillante hermano Tadashi y sus tambien brillantes amigos: la buscadora de adrenalina GoGo Tamago, el meticuloso de la limpieza Wasabi-No-Ginger, la genia de la quimica Honey Lemon y el fanatico de los comics Fred. Cuando tras un devastador giro de los acontecimientos, se ven envueltos en una peligrosa conspiracion que tiene lugar en las calles de San Fransokyo, Hiro recurre a su amigo mas intimo: un robot llamado Baymax, y transforma al grupo en una banda de heroes de ultima tecnologia decididos a resolver el misterio.CS.</info>
 <urlsolve>https://vembed.net/v/qA3WOm41ZNEKkz4</urlsolve>
 </item>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
-"Tag= Malu3, Disney, 1Animacion, 1Infantil, Letra B, A2018, "
+
 
 <item>
 <title>[COLOR white] Bikes [COLOR gold](2018)[/COLOR]</title>    
@@ -618,8 +586,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Bienvenidos a Spokesville, un lugar completamente poblado por… bicis antropomorficas. Speedy, el protagonista, es una bici de montaña rapida y valiente. Sus mejores amigos son Piñon, una bicicleta Street o Urban, Gassy una simpatica bomba de aire que regenta el taller de la ciudad, y Montana, una audaz bici, inteligente y sin miedo a decir lo que piensa. Spokesville es una ciudad magica y multicolor, donde la vida es idilica hasta que un dia un artefacto del que no se habia oido hablar, el motor de explosion a gasolina llega a la ciudad. Speedy se transforma entonces en el lider involuntario de un movimiento activista contra el motor de gasolina y sus inductores los banqueros Romulo y Remo, propietarios del banco de Spokesville y su protegido y campeon local Rock Bikerson. ¿Pertenecera el futuro de Spokesville al motor de gasolina o a la nueva y revolucionaria tecnologia “sostenible” que el viejo sabio e inventor chino Mr. Chan desarrolla en secreto?</info>
 <urlsolve>https://vembed.net/v/Ro7kOV4ddwxZWBn</urlsolve>
 </item>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
-"Tag= Malu3, Disney, 1Drama, 1Comedia, Letra B, A2000, "
+
 
 <item>
 <title>[COLOR white] Billy Elliot (Quiero bailar)  [COLOR gold](2000)[/COLOR]</title>    
@@ -630,8 +597,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>En 1984, durante una huelga de mineros en el condado de Durham, se suceden los enfrentamientos entre piquetes y policia. Entre los mineros mas exaltados estan Tony y su padre. Éste se ha empeñado en que Billy, su hijo pequeño, reciba clases de boxeo. Pero, aunque el chico tiene un buen juego de piernas, carece por completo de pegada. Un dia, en el gimnasio, Billy observa la clase de ballet de la señora Wilkinson, una mujer de caracter severo que lo anima a participar. A partir de ese momento, Billy se dedicara apasionadamente a la danza</info>
 <urlsolve>https://vembed.net/v/YWA8E9rlk3OGmMw</urlsolve>
 </item>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
-"Tag= Malu3, Disney, 1Animacion, 1Infantil, Disney, Letra B, C1080, Princesas, "
+
 
 <item>
 <title>[COLOR white] Blancanieves y los 7 enanitos [COLOR gold](1937)[/COLOR]</title>    
@@ -642,8 +608,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>La malvada madrastra de Blancanieves decide deshacerse de ella porque no puede soportar que la belleza de la joven sea superior a la suya. Sin embargo, Blancanieves consigue salvarse y se refugia en la cabaña de los siete enanitos. A pesar de todo, su cruel madrastra consigue encontrarla y la envenena con una manzana. Pero la princesa no esta muerta, solo dormida, a la espera de que un Principe Azul la rescate.</info>
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamwish.to/08ggzym3sgv2"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://vembed.net/v/dNjgOlq9zQ59Wn1"}</urlsolve>
 </item>    
--------------------------------------------------------------------------------------------------------------------------- 
-"Tag= Malu3, Disney, 1Comedia, 1Fantastico, 1Romance, Disney, Letra B, C1080, Princesas, "
+
 
 <item>
 <title>[COLOR white] Blancanieves (Mirror Mirror) [COLOR gold](2012)[/COLOR]</title>    
@@ -655,9 +620,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://vembed.net/v/MAlwEM2Jz4OJ39X</urlsolve>
 </item> 
 
-----------------------------------------------------------------------------------------------------------------------
- 
-"Tag= Malu3, Disney,1Animacion, 1Infantil, 1Familiar, A2004, Letra B " 
 
 <item>
 <title>[COLOR white] Bob Esponja: La Pelicula [COLOR gold](2004)[/COLOR]</title>    
@@ -670,10 +632,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 
 
-----------------------------------------------------------------------------------------------------------------------
- 
-"Tag= Malu3, Disney,1Animacion, 1Infantil, 1Familiar, A2015, Letra B " 
-
 <item>
 <title>[COLOR white] Bob Esponja: Un Heroe Fuera Del Agua [COLOR gold](2015)[/COLOR]</title>    
 <genre>Familia,Animacion,Comedia,Fantasia</genre>
@@ -685,10 +643,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 
 
-----------------------------------------------------------------------------------------------------------------------
- 
-"Tag= Malu3, Disney,1Animacion, 1Infantil, 1Familiar, A2020, Letra B " 
-
 <item>
 <title>[COLOR white] Bob Esponja:Un Heroe Al Rescate [COLOR gold](2020)[/COLOR]</title>    
 <genre>Familia,Animacion,Comedia,Fantasia</genre>
@@ -698,8 +652,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Cuando desaparece su amigo Gary, Bob Esponja se embarca en una alocada misión con Patricio muy lejos de Fondo de Bikini para rescatarlo.</info>
 <urlsolve>https://vembed.net/v/dNjgOlqV1V59Wn1</urlsolve>
 </item>
--------------------------------------------------------------------------------------------------------------------------- 
-"Tag= Malu3, Disney, 1Animacion, 1Infantil, Disney, Letra B, A2008, C1080, "
+
 
 <item>
 <title>[COLOR white] Bolt [COLOR gold](2008)[/COLOR]</title>    
@@ -710,8 +663,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Para el super-perro Bolt todos los dias estan llenos de aventuras, peligros e intriga -al menos hasta que las camaras dejan de grabar, ya que es el protagonista de un famoso programa de television-. Pero cuando la estrella canina del gran exito televisivo es enviada accidentalmente desde sus estudios de Hollywood a Nueva York, comienza su mayor aventura en un viaje campo a traves por el mundo real. Bolt esta convencido de que todos sus increibles poderes y hazañas son reales. Pero, con la ayuda de dos extraños compañeros de viaje - un hastiado y abandonado gato de compañia de nombre Mittens, y un hamster en una bola de plastico obsesionado por la television llamado Rhino - Bolt descubre que no necesita superpoderes para ser un heroe. Voces en la version original: John Travolta, Woody Harrelson, Bruce Greenwood, Thomas Haden Church.</info>
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamwish.to/35h6xj32olls"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://vembed.net/v/KNWlED49MmEkbpL"}</urlsolve>
 </item>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
-"Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Fantastico, 1Comedia, Pixar,Letra B, A2012, Princesas, C1080, "
+
 
 <item>
 <title>[COLOR white] Brave [COLOR gold](2012)[/COLOR]</title>    
@@ -722,8 +674,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Merida, la indomita hija del Rey Fergus y de la Reina Elinor, es una habil arquera que decide romper con una antigua costumbre, que es sagrada para los señores de la tierra: el gigantesco Lord MacGuffin, el malhumorado Lord Macintosh y el cascarrabias Lord Dingwall. Las acciones de Merida desencadenan el caos y la furia en el reino. Ademas, pide ayuda a una sabia anciana que le concede un deseo muy desafortunado. La muchacha tendra que afrontar grandes peligros antes de aprender que es la autentica valentia.</info>
 <urlsolve>https://vembed.net/v/8lKQxYYDnVxDGYb</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, A2016, Letra B, EEUU, Pixar, "
+
 
 <item>
 <title>[COLOR white] Buscando A Dory [COLOR gold](2016)[/COLOR]</title>      
@@ -734,8 +685,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Un año despues de los acontecimientos narrados en "Buscando a Nemo", Dory vive apaciblemente con Marlin y su hijo Nemo. Pero durante un viaje para ver como las mantarrayas migran de vuelta a casa, los problemas de memoria de Dory parecen desaparecer durante un segundo: recuerda que tiene una familia e inmediatamente decide emprender viaje para reencontrarse con sus padres, a los que perdio hace años.</info>
 <urlsolve>https://vembed.net/v/rabVOQY29NOKdWM</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, A2016, Letra B, EEUU, Pixar, "
+
+
 <item>
 <title>[COLOR white] Buscando A Nemo [COLOR gold](2003)[/COLOR]</title>
 <genre>Animacion</genre>
@@ -745,8 +696,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>El pececillo Nemo, que es hijo unico, es muy querido y protegido por su padre. Despues de ser capturado en un arrecife australiano va a parar a la pecera de la oficina de un dentista de Sidney. Su timido padre emprendera una peligrosa aventura para rescatarlo. Pero Nemo y sus nuevos amigos tienen tambien un astuto plan para escapar de la pecera y volver al mar.</info>
 <urlsolve>https://vembed.net/v/QNB7xAP4w150WG9</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, 1Fantastico, 1Ciencia Ficcion, 1Infantil, A2000, Letra B, EEUU, Robots, Extraterrestres, Pixar, Disney, C720, "
+
 
 <item>
 <title>[COLOR white] Buzz Lightyear. Comando Estelar. La Aventura Comienza [COLOR gold](2000)[/COLOR]</title>    
@@ -757,8 +707,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Tras descubrir los origenes de Woody en En Toy Story 2 , ahora en Buzz Lightyear: La Pelicula se muestra descubrir como Buzz se convirtio en Guardian del Espacio, el autentico Buzz Lightyear que tendra que verselas con el malvado Emperador Zurg, en una lucha intergalactica para salvar el Universo. Buzz no esta solo, le acompañan nuevos personajes y los gracioso Hombrecillos Verdes. </info>
 <urlsolve>https://vembed.net/v/njJYOdY2215e9od</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Fantastico, 1Infantil, A2008, Letra C, EEUU, Disney, C720, "
+
 
 <item>
 <title>[COLOR white] Campanilla [COLOR gold](2008)[/COLOR]</title>    
@@ -769,8 +718,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Campanilla, nacida en el mundo fantastico de la Hondonada de las Hadas, descubre que su talento es "tintinear". Cuando las hadas se preparan para traer la primavera al mundo, Campanilla piensa que su talento no es igual de util, especial o importante que el del resto, y por eso no puede ir a Tierra firme. Por ello, Campanilla suplica a sus amigas hadas Rosetta, Silvermist, Fawn e Iridessa que le enseñen sus talentos y asi poder acompañarlas en sus viajes.</info>
 <urlsolve>https://vembed.net/v/4bQVOjkB445wKmZ</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Fantastico, 1Infantil, 1Familiar, A2014, Letra C, EEUU, Magia, Piratas, Disney, "
+
+
 <item>
 <title>[COLOR white] Campanilla, Hadas Y Piratas [COLOR gold](2014)[/COLOR]</title>
 <genre>Animacion, Fantastico, Infantil</genre>
@@ -780,8 +729,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Zarina, una incomprendida hada guardiana del polvo de hada, roba el importantisimo Polvo de Hada Azul de la Hondonada de las Hadas, y se escapa para unirse a los piratas de Skull Rock. Asi que Campanilla y sus amigas las hadas emprenden la aventura de su vida para recuperarlo. Pero mientras persiguen a Zarina, el mundo de Campanilla se convierte en un caos. Ella y sus amigas se dan cuenta de que sus talentos respectivos estan cambiados y tienen que emprender una carrera a contrarreloj para recuperar el Polvo de Hada Azul para salvar la Hondonada de las Hadas.</info>
 <urlsolve>//vembed.net/v/3Q0lxBGD9VEj1Jk</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Fantastico, 1Infantil, A2010, Letra C, EEUU, Disney, C720, "
+
+
 <item>
 <title>[COLOR white] Campanilla: El Gran Rescate [COLOR gold](2010)[/COLOR]</title>    
 <genre>Animacion, Fantastico, Infantil</genre>
@@ -791,8 +740,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Campanilla debera unirse a un hada rival para que los humanos no descubran la existencia de su raza. Tercera de las cuatro peliculas que realizara DisneyToon Studios basadas en el personaje de Campanilla, procedente de la pelicula Peter Pan.</info>
 <urlsolve>https://sendvid.com/a7ix0s16</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Fantastico, 1Infantil, A2012, Letra C, EEUU, Disney, C720, "
+
 
 <item>
 <title>[COLOR white] Campanilla: El Secreto De Las Hadas [COLOR gold](2012)[/COLOR]</title>    
@@ -803,9 +751,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Para Campanilla y el resto de las hadas de la temporada calida, el Bosque del Invierno sigue siendo un lugar misterioso y prohibido. Con "Campanilla. El secreto de las Hadas", el publico acompañara a Campanilla en un increible viaje a ese mundo prohibido donde descubrira un secreto magico que cambiara su vida para siempre. </info>
 <urlsolve>//vembed.net/v/8ozgENw31zOmjAy</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-"Tag= Malu3, Disney, 1Animacion, 1Fantastico, 1Aventuras, 1Infantil, A2009, Letra C, EEUU, Disney, C720, "
+
 <item>
 <title>[COLOR white] Campanilla: El Tesoro Perdido [COLOR gold](2009)[/COLOR]</title>    
 <genre>Animacion, Fantastico, Aventuras, Infantil</genre>
@@ -815,8 +762,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Llega el otoño, y Campanilla es la encargada de la busqueda de un gran tesoro que puede rejuvenecer a Pixie Dust Tree (Arbol de Polvo de Hadas). Pero cuando su amigo Terence se ofrece a ayudarla, Campanilla se niega con mal temperamento y hasta la terquedad, destrozando su amistad con Terence. Para poner las cosas, de nuevo, en su sitio, debera embarcarse en un viaje extremo al Norte de Nunca Jamas... Y durante el camino, ella descubrira un tesoro aun mayor. Segunda de las cuatro peliculas de DisneyToon Studios basadas en el personaje de Campanilla, procedente de la pelicula Peter Pan. Las cuatro se lanzaran directas a DVD, una cada año.</info>
 <urlsolve>//vembed.net/v/8lKQxYYbXgxDGYb</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Fantastico, 1Infantil, A2014, Letra C, EEUU, Magia, Disney, "
+
+
 <item>
 <title>[COLOR white] Campanilla: La Leyenda De La Bestia [COLOR gold](2014)[/COLOR]</title> 
 <genre>Animacion, Fantastico, Infantil</genre>
@@ -826,8 +773,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Campanilla y su grupo de amigas hadas entablan amistad con un misterioso y enigmatico animal, al que llaman NeverBeast. Por el contrario, otro grupo de hadas, que se apodan scouts, tiene el objetivo de capturar a la criatura, pues lo consideran una amenaza para el conjunto de las hadas y tienen miedo de que pueda destruir sus hogares. A pesar de que Campanilla confia en que nunca lo haria, ella y sus amigas tendran que unirse para salvar a su nuevo amigo. </info>
 <urlsolve>https://vembed.net/v/3Q0lxBGD7mEj1Jk</urlsolve>
 </item>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Fantastico, 1Infantil, A2014, Letra C, EEUU, Magia, Disney, "
+
+
 <item>
 <title>[COLOR white] Campanilla: Los Juegos de la Hondonada de las Hadas [COLOR gold](2011)[/COLOR]</title> 
 <genre>Animacion, Fantastico, Infantil</genre>
@@ -837,8 +784,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>En esta aventura, todas las hadas competirán en una carrera difícil y tradicional a través de las cuatro estaciones. Pero cuando Campanilla nesesite ayuda, Clank y Bobble entrarán en la carrera.</info>
 <urlsolve>http://vembed.net/v/8lKQxYYbbVxDGYb</urlsolve>
 </item>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Comedia, 1Drama, A2018, Letra C, EEUU, Movistar+ "
+
+
 <item>
 <title>[COLOR white] Campeones [COLOR gold](2018)[/COLOR]</title>Topo   
 <genre>Comedia, Drama</genre> 
@@ -848,8 +795,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Marco, un entrenador profesional de baloncesto, se encuentra un dia, en medio de una crisis personal, entrenando a un equipo compuesto por personas con discapacidad intelectual. Lo que comienza como un problema se acaba convirtiendo en una leccion de vida. </info> 
 <urlsolve>https://vembed.net/v/8ozgENw3noOmjAy</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Musical, 1Comedia, 1Infantil, A2016, Letra C, EEUU, Animales, Musica, "
+
 
 <item>
 <title>[COLOR white] Canta! [COLOR gold](2016)[/COLOR]</title>   
@@ -860,8 +806,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Buster Moon es un elegante koala que regenta un teatro que conocio tiempos mejores. Es un optimista nato, lo que esta muy bien si no fuera un poco caradura, pero ama a su teatro con pasion y es capaz de cualquier cosa para salvarlo. Sabe que el sueño de su vida esta a punto de desaparecer, y solo tiene una oportunidad para mantenerlo a flote: organizar un concurso de canto y conseguir que sea un gran exito. Entre los muchos candidatos apareceran una cerdita ama de casa y otro cerdo muy animoso, una puercoespin rockera, un gorila bondadoso, un raton presumido y una elefante muy timida.</info>
 <urlsolve>http://vembed.net/v/PlBVEZYRbmxDv98</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Musical, 1Comedia, 1Infantil, A2021, Letra C, EEUU, Animales, Musica, "
+
 
 <item>
 <title>[COLOR white] Canta! 2 [COLOR gold](2021)[/COLOR]</title>   
@@ -873,8 +818,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>http://vembed.net/v/4bQVOjVyYvOwKmZ</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Aventura, 1Comedia 1Familia, DreamWorks Letra C, A2017 "
+
 <item>
 <title>[COLOR white] Capitan Calzoncillos: Su Primer Peliculon [COLOR gold](2017)[/COLOR]</title>    
 <genre>Animacion,Aventura,Familia,Comedia</genre>
@@ -884,8 +828,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>George y Harold son dos niños de primaria a los que les encantan los cómics y se dedican a pintar y dibujar historietas cuyo personaje central es el 'Capitán Calzoncillos'. Un día, de manera accidental, hipnotizan al director de su escuela, provocando su transformación en el mismo Capitán Calzoncillos de sus alocados tebeos. Cada vez que alguien chasquea los dedos, el Sr. Krupp se convierte en este superhéroe, que debe sus poderes a sus turbocalzones. Para volver a ser el Sr. Krupp, basta con que se le eche agua por encima.</info>
 <urlsolve>https://vembed.net/v/b4ZJx2zD6Rx2P3R</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, A1989, Letra C, EEUU, Disney, "
+
+
 <item>
 <title>[COLOR white] Cariño he encogido a los niños  [COLOR gold](1989)[/COLOR]</title>  
 <genre>Comedia,Fantastico, Aventuras,Infantil</genre>
@@ -895,7 +839,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Wayne Szalinski es un cientifico e inventor que desarrolla una maquina que permite encoger el tamaño de los objetos. Una pelota de beisbol activa accidentalmente la maquina sobre sus hijos, que viviran una autentica aventura intentando atravesar el cesped del jardin hasta la casa, convertido ahora en una autentica "jungla" para ellos.</info>
 <urlsolve>https://vembed.net/v/dNjgOlYm1y59Wn1</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Cariño he agrandado al niño  [COLOR gold](1992)[/COLOR]</title>  
@@ -906,7 +850,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Una vez devuelto el tamaño normal a sus hijos, el despistado científico Wayne Szalinski (Rick Moranis) reanuda sus investigaciones, pero en el sentido inverso: experimenta con un rayo capaz de aumentar el tamaño de las moléculas. Pero, de nuevo el pequeño Adam, un niño que tan sólo pretende jugar, interfiere catastróficamente en su trabajo.</info>
 <urlsolve>http://vembed.net/v/0DogOG7KprOKjM6</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Cariño nos hemos encogido a nosotros mismos [COLOR gold](1997)[/COLOR]</title>  
@@ -917,7 +861,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>El chiflado profesor Wayne Szalinski y su increíble máquina vuelven a las andadas. Si no fue suficiente encoger a sus hijos, ahora se encoge a sí mismo, a su hermano y a las mujeres de ambos. Todos vivirán divertidas aventuras intentando recuperar su aspecto normal, como por ejemplo: una carrera en coches de juguetes o un viaje en una pompa de jabón.</info>
 <urlsolve>https://vembed.net/v/LQm9OX8jXPO1lgB</urlsolve>
 </item>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Cars [COLOR gold](2006)[/COLOR]</title>  
@@ -928,7 +872,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>El aspirante a campeon de carreras Rayo McQueen parece que esta a punto de conseguir el exito, la fama y todo lo que habia soñado, hasta que por error toma un desvio inesperado en la polvorienta y solitaria Ruta 66. Su actitud arrogante se desvanece cuando llega a una pequeña comunidad olvidada que le enseña las cosas importantes de la vida que habia olvidado.</info>
 <urlsolve>https://vembed.net/v/njJYOdW986Ee9od</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 <item>
 <title>[COLOR white] Cars 2 [COLOR gold](2011)[/COLOR]</title>  
 <genre>Animacion,Comedia,Aventuras</genre>
@@ -938,7 +883,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Rayo McQueen y su amigo, la grua Mate, viajan al extranjero para participar en el primer Campeonato Mundial en el que se decidira cual es el coche mas rapido del planeta. La primera escala es Tokio (Japon), donde Mate tendra que convertirse en un espia secreto al verse envuelto inesperadamente en un caso de espionaje internacional, que lo llevara a Paris y a Londres. Tambien viviran una aventura de proporciones epicas al viajar a Porto Corsa (Italia), para disputar el Campeonato. Sin embargo, los dos tendran que renunciar a los placeres de la Riviera italiana -yates, playas y pasta al pesto- ya que Mate esta muy ocupado con su labor de espia, mientras que McQueen compite contra los mejores coches del mundo.</info>
 <urlsolve>https://vembed.net/v/vQBYEb8e0b5n1m8</urlsolve>
 </item>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Cars 3 [COLOR gold](2017)[/COLOR]</title>  
@@ -949,7 +894,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Sorprendido por una nueva generacion de corredores ultrarrapidos, el legendario Rayo McQueen queda relegado repentinamente del deporte que tanto ama. Para retomar su carrera, va a necesitar la ayuda de una joven mecanica de carreras, Cruz Ramirez, que tiene su propio plan para ganar, ademas de la inspiracion del fallecido Fabuloso Hudson Hornet y un par de giros inesperados. ¡Y para probar que el nº95 no esta ni mucho menos acabado, el campeon tendra que poner a prueba su valia en el gran circuito de la Copa Piston!</info>
 <urlsolve>https://vembed.net/v/k3gG5qNePZx1N2b</urlsolve>
 </item>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Cavernicola [COLOR gold](2018)[/COLOR]</title>    
@@ -961,8 +906,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://vembed.net/v/qM1VOP7BvnEo4kY</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 <item>
 <title>[COLOR white] Cazafantasmas [COLOR gold](1984)[/COLOR]</title>    
 <genre>Familia,Comedia,Fantasia</genre>
@@ -973,8 +917,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://vembed.net/v/mMq75L7dQ9OXPBY</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 
 <item>
 <title>[COLOR white] Cazafantasmas II [COLOR gold](1989)[/COLOR]</title>    
@@ -986,8 +929,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://vembed.net/v/edVqE4bKp85YWmQ</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 
 <item>
 <title>[COLOR white] Cazafantasmas [COLOR gold](2016)[/COLOR]</title>    
@@ -999,8 +941,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://vembed.net/v/4bQVOjVl1oOwKmZ</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 
 <item>
 <title>[COLOR white] Cazafantasmas: Mas Alla [COLOR gold](2016)[/COLOR]</title>    
@@ -1011,7 +952,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Una madre soltera y sus dos hijos se van a vivir a un pequeño pueblo donde descubrirán su conexión con los orígenes de los Cazafantasmas y el legado secreto que su abuelo les ha dejado.</info>
 <urlsolve>https://vembed.net/v/8ozgEN7jrYOmjAy</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Cenicienta 1 [COLOR gold](1950)[/COLOR]</title>    
@@ -1022,7 +963,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Cenicienta era una hermosa y bondadosa joven, a quien su cruel madrastra y sus dos hermanastras obligaban a ocuparse de las labores mas duras del palacio, como si fuera la ultima de las criadas. Sucedio que el hijo del Rey celebro un gran baile. Cenicienta ayudo a sus egoistas hermanastras a vestirse y peinarse para la fiesta. Cuando se hubieron marchado, la pobre niña se echo a llorar amargamente porque tambien le hubiera gustado ir al baile. Pero hete aqui que su hada madrina le hizo una carroza con una calabaza, convirtio seis ratoncitos en otros tantos caballos, una rata en un grueso cochero, y seis lagartos en elegantes lacayos. Despues toco a Cenicienta con su varita magica y sus harapos se convirtieron en un vestido resplandeciente, y sus alpargatas en preciosos zapatitos de cristal. Pero el hada advirtio a Cenicienta que a medianoche, todo volveria a ser como antes. Cuando llego a la fiesta, su radiante belleza causo asombro y admiracion. El Principe no se aparto de ella ni un solo instante. Poco antes de la doce, Cenicienta se retiro. Al dia siguiente, seguian los festejos principescos y todo se repitio de igual manera que la vispera. Pero la pobre Cenicienta, tan feliz con su Principe, se olvido de que a las doce terminaba el hechizo. Cuando oyo la primera campanada de la medianoche, echo a correr y perdio uno de sus zapatos de cristal.</info>
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1 Audio Original[/COLOR]","url" : "https://vembed.net/v/qL0YEyLojjxDRXy"},{"titulo" : "[COLOR white]Opcion 2 Nuevo Doblaje[/COLOR]","url" : "https://vembed.net/v/JzkPxz92gy5bydB"}</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Cenicienta 2: La magia no termina a medianoche [COLOR gold](2002)[/COLOR]</title>    
@@ -1033,7 +974,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Cuando La Cenicienta y El Principe vuelven al castillo tras su luna de miel, la nueva princesa se encuentra de repente con su nuevo trabajo como esposa Real. Con la ayuda del Hada Madrina favorita y una banda de simpaticos ratoncillos, La Cenicienta y sus amigos descubren que el unico camino al exito es ser uno mismo.</info>
 <urlsolve>https://vembed.net/v/qM1VOPlrPnOo4kY</urlsolve>
 </item>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 <item>
 <title>[COLOR white] Cenicienta 3: Que Pasaria Si... [COLOR gold](2007)[/COLOR]</title>    
 <genre>Animacion, Fantastico, Infantil, Romance</genre>
@@ -1043,7 +985,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Cuando su malvada madrastra se apodera de la varita magica del Hada Madrina y hace retroceder el tiempo, Cenicienta debe encontrar al principe para romper este nuevo hechizo.</info>
 <urlsolve>https://vembed.net/v/LQm9OX3WlME1lgB</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Cenicienta [COLOR gold](2015)[/COLOR]</title>    
@@ -1054,7 +996,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Cuenta las andanzas de la Ella (Lily James), una joven cuyo padre, un comerciante, vuelve a casarse tras enviudar. Para agradar a su padre, acoge con cariño a su madrastra (Cate Blanchett) y a sus hijas (Holliday Grainger y Sophie McShera) en la casa familiar. Pero, cuando su padre muere inesperadamente, la joven queda a merced de unas mujeres celosas y malvadas que la convierten en sirvienta y la relegan a la cocina. Pero, a pesar de la crueldad con la que la tratan, esta dispuesta a cumplir las ultimas palabras de su madre que le dijo que debia "ser valiente y amable".</info>
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://sendvid.com/6wl7dvo2"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://vembed.net/v/MAlwEMgDLy5J39X"}</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Chicken Little [COLOR gold](2005)[/COLOR]</title>    
@@ -1066,7 +1008,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://vembed.net/v/0DogOGlMdr5KjM6</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
 <title>[COLOR white] Chicken Run:Evasion En La Granja [COLOR gold](2000)[/COLOR]</title>    
 <genre>Animacion,Familia,Comedia</genre>
@@ -1076,8 +1017,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>La señora Tweedy es la dueña de una granja en la que la mayoría de las aves se han resignado a llevar una vida corta e infeliz: viven mientras ponen huevos y, cuando dejan de hacerlo, acaban en la mesa como comida de los domingos. Pero las cosas empiezan a cambiar con la llegada de Rocky, un gallo norteamericano, que mantiene un romance con Ginger, una gallina muy combativa que ha organizado innumerables intentos de fuga para alcanzar una vida mejor.</info>
 <urlsolve>https://vembed.net/v/8lKQxYmVz8xDGYb</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------
- 
+
 
 <item>
 <title>[COLOR white] Christopher Robin [COLOR gold](2018)[/COLOR]</title>    
@@ -1088,7 +1028,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>En esta nueva aventura de acción real, el niño que se embarcó en innumerables aventuras en el bosque de los Cien Acres con su banda de animales de peluche, ha crecido y… ha perdido el rumbo. Ahora les toca a sus amigos de la infancia aventurarse en nuestro mundo y ayudar a Christopher Robin a recordar al niño cariñoso y juguetón que aún tiene dentro.</info>
 <urlsolve>https://vembed.net/v/MAlwEMlY34xJ39X</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Cigüeñas [COLOR gold](2016)[/COLOR]</title>     
@@ -1100,8 +1040,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://vembed.net/v/eL2157WdZb5rw48</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
 
 <item>
 <title>[COLOR white] Clouds [COLOR gold](2020)[/COLOR]</title>    
@@ -1112,7 +1050,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>En esta inspiradora historia basada en hechos reales, el joven músico Zach Sobiech descubre que su cáncer se ha extendido y que le quedan pocos meses de vida. A pesar de eso, decide cumplir su sueño de grabar un álbum, sin saber que pronto se convertirá en un fenómeno viral. Al final, la música le da un nuevo sentido a la vida de Zach y le ayuda a despedirse de todos... con una canción que acabará escuchándose en todo el mundo.</info>
 <urlsolve>https://vembed.net/v/g9Vd5JlM4dEqQjG</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Coco  [COLOR gold](2017)[/COLOR]</title> Malu3
@@ -1124,8 +1062,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://vembed.net/v/VqbX53zgwWOQzpl</urlsolve>
 </item>
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 <item>
 <title>[COLOR white] Colegas en el bosque  [COLOR gold](2006)[/COLOR]</title>    
 <genre>Animacion</genre>
@@ -1135,7 +1071,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Boog es un oso grizzly domesticado que vive con su cuidadora Beth y que esta feliz a pesar de no vivir en el bosque, como los demas osos. Pero todo cambiara cuando conozca a Elliot, un ciervo salvaje de lo mas parlanchin al que un malvado cazador ha atropellado dejandole sin un cuerno... </info>
 <urlsolve>https://vembed.net/v/qA3WOmZGlJ5Kkz4</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Colegas En El Bosque 2 [COLOR gold](2008)[/COLOR]</title>    
@@ -1146,7 +1082,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Tras enamorarse de la cabeza a los pies de Giselle, el camino de Elliot hacia el altar toma un ligero cambio de rumbo cuando Mr. Weenie es secuestrado por un grupo de mascotas que tienen la idea de devolverlo a sus dueños. Boog, Elliot, McSquizzy, Buddy y el resto de las criaturas del bosque se aventuran en una mision de rescate del perro salchicha y pronto se encontraran en campo enemigo: el mundo de las mascotas.</info>
 <urlsolve>https://vembed.net/v/m7WJxgwJ7zxBzeQ</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Colegas En El Bosque 3 [COLOR gold](2010)[/COLOR]</title>    
@@ -1157,7 +1093,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Boog, Elliot y todos sus amigos del bosque viven una nueva aventura; la mas divertida y peluda de todas las aventuras y esta vez, ¡en un circo! Como sus amigos no pueden ir al viaje anual "solo para chicos", Boog decide viajar por su cuenta. Y al encontrarse con un circo itinerante, Boog se hace pasar por un oso pardo que se le parece mucho y le sustituye en su actuacion circense. Pero cuando el circo decide volver a Rusia, Elliot, McSquizzy, Mr. Weenie y el resto de la pandilla se embarcan en una carrera contrarreloj para rescatar a Boog ¡antes de que sea demasiado tarde! Tercera entrega de la saga Colegas en el bosque, que como la segunda sera lanzada directamente al mercado domestico.</info>
 <urlsolve>https://vembed.org/v/pVa4E8AMVBOkzMZ</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Colegas en el bosque 4: una aventura de miedo  [COLOR gold](2016)[/COLOR]</title>    
@@ -1168,7 +1104,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Cuando por una confusion de identidad tanto humanos como animales creen que hay un hombre lobo suelto en el Bosque Timberline, el ex cazador Shaw aprovecha la oportunidad para reabrir la temporada de caza. Shaw anda suelto y todos los animales corren peligro, asi que Boog, Elliot y Mr. Weenie tendran que enfrentarse a sus miedos, perseguir al esquivo hombre lobo y cerrar la temporada de caza permanentemente, antes de que Shaw pueda hacerles daño. </info>
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://sendvid.com/iy39uody"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://vanfem.com/v/2dlg6t263z8yq3e"}</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Como Entrenar A Tu Dragon [COLOR gold](2010)[/COLOR]</title> 
@@ -1179,7 +1115,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Ambientada en el mitico mundo de los rudos vikingos y los dragones salvajes, y basada en el libro infantil de Cressida Cowell, esta comedia de accion narra la historia de Hipo, un vikingo adolescente que no encaja exactamente en la antiquisima reputacion de su tribu como cazadores de dragones. El mundo de Hipo se trastoca al encontrar a un dragon que le desafia a el y a sus compañeros vikingos, a ver el mundo desde un punto de vista totalmente diferente.</info>
 <urlsolve>https://vembed.net/v/nyg9EKlPkjObk4Z</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Como Entrenar A Tu Dragon 2 [COLOR gold](2014)[/COLOR]</title> 
@@ -1190,7 +1126,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Han pasado cinco años desde que Hipo empezo a entrenar a su dragon, rompiendo la tradicion vikinga de cazarlos. Astrid y el resto de la pandilla han conseguido difundir en la isla un nuevo deporte: las carreras de dragones. Mientras realizan una carrera, atraviesan los cielos llegando a territorios inhospitos, donde nadie antes ha estado. Durante un viaje descubren una cueva cubierta de hielo que resulta ser el refugio de cientos de dragones salvajes, a los que cuida un misterioso guardian. Hipo y los suyos se unen al guardian para proteger a los dragones de las fuerzas malignas que quieren acabar con ellos.</info>
 <urlsolve>//vembed.net/v/6zeREap7loxZPa4</urlsolve>
 </item>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Como Entrenar A Tu Dragon 3 [COLOR gold](2019)[/COLOR]</title> 
@@ -1203,8 +1139,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 <item>
 <title>[COLOR white]  Como Perros Y Gatos: La patrulla Unida [/COLOR][COLOR yellow](2020)[/COLOR]</title>    
 <genre>Comedia,Accion,Familia</genre>
@@ -1214,8 +1148,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>El gato Gwen y el perro Roger son dos agentes secretos que protegen y salvan el mundo sin que los humanos tengan ni ella de ello. Su alianza se debe al Gran Pacto, que ha logrado detener la hostilidad entre perros y gatos durante una década. Sin embargo, la paz se ve ahora amenazada por un loro supervillano que ha descubierto una forma de manipular las frecuencias que sólo los perros y los gatos pueden oír. ¿Podrán estos héroes detener el avance del mal y evitar así una 'gatástrofe' entre ambas especies?<info>
 <urlsolve>https://vembed.net/v/PKN4Ow49BG5DLjb</urlsolve>
 </item>
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Corgi: Las mascotas de la reina [COLOR gold](2019)[/COLOR]</title>
@@ -1227,8 +1159,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://vembed.net/v/0DogOGlBR85KjM6</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 <item>
 <title>[COLOR white] Cronicas De Navidad [COLOR gold](2018)[/COLOR]</title>    
 <genre>Familiar,Aventura,Fantasia,Comedia</genre>
@@ -1239,8 +1170,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://vembed.net/v/QNB7xAkKQ4O0WG9</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
 
 <item>
 <title>[COLOR white] Cronicas De Navidad 2 [COLOR gold](2020)[/COLOR]</title>    
@@ -1252,8 +1181,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://vembed.net/v/3Q0lxBlYp8Oj1Jk</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 <item>
 <title>[COLOR white] Cruella [COLOR gold](2021)[/COLOR]</title>    
 <genre>Comedia</genre>
@@ -1263,7 +1191,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Ambientada en el Londres de los años 70, en plena revolución del punk rock, muestra a una joven estafadora llamada Estella, una chica inteligente y creativa, decidida a convertirse en una exitosa diseñadora de moda, que se asocia con un par de ladrones para sobrevivir en las calles de la capital británica. Pero cuando su talento para la moda llama la atención de la legendaria diseñadora, la Baronesa von Hellman, Estella cambia el rumbo de su vida hasta que una serie de acontecimientos y revelaciones que harán que Estella asuma su lado malvado y se convierta en la estridente, moderna y vengativa Cruella de Vil.</info>
 <urlsolve>https://vembed.net/v/3Q0lxBgN3GEj1Jk</urlsolve>
 </item>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Del reves ,Inside out [COLOR gold](2015)[/COLOR]</title>
@@ -1274,7 +1202,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Riley es una chica que disfruta o padece toda clase de sentimientos. Aunque su vida ha estado marcada por la Alegria, tambien se ve afectada por otro tipo de emociones. Lo que Riley no entiende muy bien es por que motivo tiene que existir la Tristeza en su vida. Una serie de acontecimientos hacen que Alegria y Tristeza se mezclen en una peligrosa aventura que dara un vuelco al mundo de Riley.</info>
 <urlsolve>https://vembed.net/v/8lKQxYz4ePEDGYb</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Descubriendo a los Robinsons  [COLOR gold](2007)[/COLOR]</title> 
@@ -1285,7 +1213,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Cuando Lewis conoce a un misterioso chico que viene del futuro llamado Wilbur Robinson, ambos haran un viaje en el tiempo donde Lewis descubre el asombroso secreto de la familia Robinson.CS.</info>
 <urlsolve>https://vembed.net/v/3Q0lxBgXWnEj1Jk</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Dinosaurio [COLOR gold](2000)[/COLOR]</title>    
@@ -1296,7 +1224,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Prehistoria, hace 65 millones de años, al final del periodo cretaceo. Un iguanodonte de tres toneladas llamado Aladar se cria separado de los de su especie y crece en una isla paradisiaca al amparo de un clan de lemures. Cuando una devastadora lluvia de meteoritos provoca el caos en su pacifico mundo, Aladar pone rumbo a tierra firme y se une a un grupo de dinosaurios que buscan desesperadamente un lugar donde anidar en paz. Pero el agua y la comida empiezan a escasear, y los carnotaurios, sedientos de sangre fresca, representan un peligro constante. Es entonces cuando Aladar se ve obligado a desafiar el "orden establecido" y demuestra que saber adaptarse a cualquier situacion es la mejor manera de sobrevivir. </info>
 <urlsolve>http://vembed.net/v/8ozgENgdeYOmjAy</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Dora y La Ciudad Perdida [COLOR gold](2019)[/COLOR]</title> 
@@ -1307,7 +1235,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Tras haber pasado la mayor parte de su vida explorando la jungla junto a sus padres, nada podria haber preparado a Dora para la aventura mas peligrosa a la que jamas se ha enfrentado: ¡el instituto!. Exploradora hasta el final, Dora no tarda en ponerse al frente de un equipo formado por Botas (su mejor amigo, un mono), Diego, un misterioso habitante de la jungla y un desorganizado grupo de adolescentes en una aventura en la que deberan salvar a sus padres y resolver el misterio oculto tras una ciudad perdida de oro.</info>
 <urlsolve>https://vembed.net/v/KNWlEDKoKmxkbpL</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Doraemon El viaje a la antigua China [COLOR gold](1988)[/COLOR]</title> 
@@ -1318,7 +1246,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>En el colegio están representando la obra de "Viaje al Oeste" y Nobita está frustrado porque le gustaría interpretar el papel de Sun Wukong, el rey mono protagonista. Decidido a probar a sus compañeros que Sun Wukong existió de verdad y además se parecía a él, Nobita utilizará la máquina del tiempo para viajar al pasado y encontrarlo. Después de verle con sus propios ojos, Nobita vuelve a su mundo para contárselo a sus amigos y Gigante le hace prometer que podrá utilizar todos los inventos de Doraemon si descubre que Nobita miente. Para demostrarle que no, vuelven todos juntos al pasado.</info>
 <urlsolve>https://sendvid.com/zqqlh2nz</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Doraemon En Busca Del Escarabajo Dorado [COLOR gold](2012)[/COLOR]</title> 
@@ -1329,7 +1257,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Nobita esta obsesionado con conseguir un insecto que pueda rivalizar con el escarabajo de Gigante y pide ayuda a Doraemon para encontrar a mitico escarabajo extinto hace muchos años. En el primer intento no lo encuentran, pero se traen a un pajaro moa con ellos. Para evitar que se extinga, lo mandan a la isla Belegamond, un lugar donde viven especies animales extintas. Secuela de "Doraemon y el pequeño dinosaurio" (2006).</info>
 <urlsolve>//listeamed.net/v/g9Vd5JWvX9dxqQj</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Doraemon y el mundo perdido [COLOR gold](1982)[/COLOR]</title> 
@@ -1340,7 +1268,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>No hay nada imposible para el bolsillo magico de Doraemon y mucho menos cuando se trata de utilizar sus inventos para vivir las peripecias mas sorprendentes. ¿Existe algun lugar al que el hombre no haya ido jamas? La puerta magica del gato robot conduce a nuestros amigos al centro de africa, justamente hasta el Bosque de los Fumadores, una selva cubierta por una espesa bruma que impide que los satelites tomen fotografias. Nobita y sus amigos deciden que, si existe un mundo por descubrir, seguro que se encuentra ahi.</info>
 <urlsolve>https://sendvid.com/pvat1e4x</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Doraemon y los caballeros enmascarados [COLOR gold](1987)[/COLOR]</title> 
@@ -1351,7 +1279,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>La nueva aventura de Doraemon nos conduce a un universo bajo la superficie de la Tierra habitado por animales prehistóricos y por los descendientes evolucionados de los antiguos dinosaurios.</info>
 <urlsolve>https://sendvid.com/cql805j4</urlsolve>
 </item>
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Doraemon: Stand by Me Doraemon [COLOR gold](2014)[/COLOR]</title> 
@@ -1363,7 +1291,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/ZMVoEr80Kkq59Pa</urlsolve>
 </item>
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <item>
 <title>[COLOR white] Doraemon: Stand by Me Doraemon 2 [COLOR gold](2020)[/COLOR]</title> 
 <genre>Animacion,Comedia,Aventuras,Fantastico,Infantil</genre>
@@ -1374,7 +1302,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/njJYOd34rW7Ee9o</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <item>
 <title>[COLOR white] Dragon Quest: Your Story [/COLOR][COLOR gold](2019)[/COLOR]</title>   
 <genre>Animacion,Fantastico,Aventuras</genre>
@@ -1384,7 +1312,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Luca sigue los pasos de su padre para rescatar a su madre del malvado obispo Ladja. Su unica esperanza es dar con el heroe celestial que esgrime la Espada de los Cielos. Pelicula de animacion 3D basada en videojuego de Square Enix "Dragon Quest V: Hand of the Heavenly Bride"</info>
 <urlsolve>//listeamed.net/v/ao9rxoRaMoe5yGe</urlsolve>
 </item>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 <item>
 <title>[COLOR white] Dumbo [COLOR gold](1941)[/COLOR]</title>    
 <genre>Animacion</genre>
@@ -1394,7 +1323,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Las cigüeñas llegan, como todos los años, hasta un pintoresco circo para repartir los bebes a sus respectivas mamas. La señora Dumbo, una elefanta, descubre que su bebe tiene unas orejas enormes; todas sus compañeras se rien de el, pero la señora Dumbo lo defiende siempre, hasta el punto de ser encerrada por enfrentarse a todo aquel que se mofe de su retoño. El pequeño Dumbo, maltratado y ridiculizado por todos sus compañeros, solo cuenta con la ayuda de un minusculo ratoncito llamado Timothy, que decide hacer de el una estrella del circo.</info>
 <urlsolve>//listeamed.net/v/k3gG5q3X22AE1N2</urlsolve>
 </item>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 <item>
 <title>[COLOR white] Dumbo [COLOR gold](2019)[/COLOR]</title>    
 <genre>Aventuras,Fantastico |</genre>
@@ -1404,9 +1334,9 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Holt Farrier (Colin Farrell) cuenta con la ayuda de sus hijos Milly (Nico Parker) y Joe (Finley Hobbins) para cuidar a un elefante recien nacido cuyas orejas gigantes le hacer ser el hazmerreir en un Circo que no pasa por su mejor momento. La familia circense de Holt incluye ademas a la señorita Atlantis (Sharon Rooney), Rongo (DeObia Oparei), Pramesh Singh (Roshan Seth) y su sobrino (Ragevan Vasan), La grandiosa Catherine (Zenaida Alcalde) y el magnifico Ivan (Miguel Muñoz). Max Medici (Danny DeVito) dueño del circo, se decepciona al saber sobre las enormes orejas del pequeño paquidermo hasta que descubre que es capaz de volar, llevando al circo de regreso a la prosperidad.</info>
 <urlsolve>//listeamed.net/v/b4ZJx21JWlQ52P3</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------------------------
- <item>
+
+
+<item>
 <title>[COLOR white] E.T. el extraterrestre  [COLOR gold](1982)[/COLOR]</title>    
 <genre>Ciencia ficcion,Fantastico,Drama,Familiar</genre>
 <year>1982</year>  
@@ -1416,8 +1346,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/qM1VOPNanlGxo4k</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 <item>
 <title>[COLOR white] El Aprendiz De Brujo [COLOR gold](2010)[/COLOR]</title>    
 <genre>Fantasia,Aventura,Accion</genre>
@@ -1428,8 +1357,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/LQm9OXN7K8Yx1lg</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 
 <item>
 <title>[COLOR white] El Arbol De Los Deseos [COLOR gold](2020)[/COLOR]</title>    
@@ -1442,8 +1370,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 <item>
 <title>[COLOR white] El Arco Magico [/COLOR][COLOR gold](2020)[/COLOR]</title>    
 <genre>Animacion,Infantil,Fantasia,Animacion</genre>
@@ -1454,7 +1381,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/Ro7kOVVlkKyOZWB</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] El Bebe Jefazo [COLOR gold](2017)[/COLOR]</title>    
@@ -1466,7 +1392,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/m7WJxgJ9g895Bze</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
 <title>[COLOR white] El Bebe Jefazo: Negocios De Familia [COLOR gold](2021)[/COLOR]</title>    
 <genre>Animacion,Aventura,Familia,Comedia</genre>
@@ -1477,8 +1402,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/g9Vd5JWv8NaxqQj</urlsolve>
 </item>
 
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white]  El Camino De Xico [/COLOR][COLOR yellow](2020)[/COLOR]</title>    
@@ -1491,8 +1414,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 <item>
 <title>[COLOR white] El Castillo En El Cielo [COLOR gold](1986)[/COLOR]</title>    
 <genre>Animacion,Aventura,Accion,Familia,Romance</genre>
@@ -1502,7 +1424,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>La huérfana Sheeta ha heredado un misterioso cristal que la une al mítico reino de las nubes de Laputa. Con la ayuda del ingenioso Pazu y una graciosa banda de piratas del cielo, dirige su camino hacia las ruinas de la que fué, una gran civilización. Sheeta y Pazu deben ser más listos que el malvado Muska, quien planea usar la tecnología de Laputa para dominar el mundo.</info>
 <urlsolve>//listeamed.net/v/ao9rxoRag0P5yGe</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 <item>
 <title>[COLOR white] El Club Secreto De Los No Herederos Al Trono [COLOR gold](2020)[/COLOR]]</title>    
@@ -1514,8 +1435,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/ao9rxoRagrV5yGe</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 <item>
 <title>[COLOR white] El Corral. Una Fiesta Muy Bestia [COLOR gold](2006)[/COLOR]</title>   
 <genre>Animacion, Infantil, Comedia</genre>
@@ -1525,7 +1444,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Barnyard es un cuento comico protagonizado por Otis (con la voz de Kevin James), una vaca que solo piensa en divertirse, que disfruta cantando, bailando y haciendo trastadas. Al contrario que a su padre Ben (con la voz de Sam Elliott), el respetado patriarca de la granja, y Miles (con la voz de Danny Glover), la vieja y sabia mula, a Otis le preocupa poco mantener en secreto los talentos “humanoides” de los animales. Sin embargo, cuando se ve ante una situacion de responsabilidad, la alocada vaca encuentra el valor para convertirse en un lider.</info>
 <urlsolve>//listeamed.net/v/KNWlEDNM6DR5kbp</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] El emperador y sus locuras [COLOR gold](2000)[/COLOR]</title>    
@@ -1536,7 +1455,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>El arrogante y egoista emperador Cuzco es traicionado y convertido en llama por la ambiciosa Yzma y su guardaespaldas Kronk. El emperador, que una vez lo tuvo todo, se vera abocado a confiar en un llano y simpatico campesino llamado Pacha, para encontrarse a si mismo.</info>
 <urlsolve>//listeamed.net/v/3Q0lxBWPWkZEj1J</urlsolve>
 </item>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] El emperador y sus locuras 2: La gran aventura de Kronk [COLOR gold](2005)[/COLOR]</title>    
@@ -1548,8 +1467,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/JzkPxznjnbkxbyd</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
 
 <item>
 <title>[COLOR white] El Deseo De Navidad De Angela [COLOR gold](2020)[/COLOR]</title>    
@@ -1560,8 +1477,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>El padre de Ángela trabaja lejos, en Australia. Para cumplir su deseo de reunir a su familia a tiempo para Navidad, ella traza un plan.</info>
 <urlsolve>//listeamed.net/v/qA3WOmG2VPJxKkz</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] El Dragon De Hielo. La Leyenda De Las Margaritas [COLOR gold](2018)[/COLOR]</title>    
@@ -1573,7 +1489,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/4bQVOj7bR485wKm</urlsolve> 
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
 <title>[COLOR white] El Espantatiburones [COLOR gold](2004)[/COLOR]</title>    
 <genre>Animacion,Familia,Comedia,Accion</genre>
@@ -1583,8 +1498,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Oscar es un pececito de verbo rápido que sueña con ser un pez gordo. Pero sus sueños le meten en agua estancada cuando una gran mentira le convierte en un improbable héroe. Al principio los demás peces se tragan el anzuelo de Oscar y le llueve la fama y la fortuna. Todo va con la marea a favor hasta que empieza a quedar claro que la historia que ha propagado Oscar de que es el gran defensor del atolón hace agua por todas partes. El pececito descubre que ser un héroe significa que su vida está de rebajas: su mentira le va a convertir en la pesca del día. Oscar debe aprender a navegar entre dos aguas para volver a encontrar la corriente a su favor.</info>
 <urlsolve>//listeamed.net/v/edVqE4r0raM5YWm</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------
 
 
 <item>
@@ -1596,7 +1509,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Mike Myers protagoniza esta pelicula en el papel del travieso visitante felino con sombrero que enseña a dos niños que "es divertido divertirse pero hay que saber como hacerlo". Dakota Fanning y Spencer Breslin encarnan a los dos niños que tienen el placer de presenciar la anarquica conducta del gato y su habilidad para divertirse desafiando las leyes de la gravedad. Kelly Preston hace el papel de la madre y Alec Baldwin es Lawrence Quinn, el vecino que aspira a convertirse en padrastro de los niños, para desesperacion de estos.</info>
 <urlsolve>//listeamed.net/v/eL2157dld4kxrw4</urlsolve> 
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] El Gato con botas [COLOR gold](2011)[/COLOR]</title>   
@@ -1608,7 +1520,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/3Q0lxBWPWLmEj1J</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] El Gato Con Botas: El Ultimo Deseo [COLOR gold](2022)[/COLOR]</title>   
@@ -1619,7 +1530,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Spin-off de la saga Shrek, "El gato con botas" se situa en el tiempo como la precuela de Shrek 2. Mucho tiempo antes de conocer a Shrek, el Gato con Botas emprendio un viaje aliandose con el ingenioso Humpty Dumpty y con la avispada Kitty Softpaws para robar el famoso ganso de los huevos de oro.</info>
 <urlsolve>//listeamed.net/v/e028E6R8R8wEYAv</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] El Grinch [COLOR gold](2000)[/COLOR]</title>   
@@ -1630,9 +1540,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>El Grinch es una especie de ogro verde que siempre ha vivido aislado en la cima de una montaña, en las afueras de Villa Quien. Habituado a la soledad, lo que le destroza los nervios son los villancicos que la gente del pueblo canta en Navidad; para vengarse, decide robar los regalos de Santa Claus.</info>
 <urlsolve>//listeamed.net/v/27BaOn1w1w0EMDX</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-ñ<item>
+<item>
 <title>[COLOR white] El Grinch [COLOR gold](2018)[/COLOR]</title>   
 <genre>Animacion,Comedia</genre>
 <year>2018</year>
@@ -1641,7 +1550,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Cada año, en Navidad, los lugareños perturban su pacifica soledad con celebraciones cada vez mas desmesuradas, luminosas y ruidosas. Cuando los Quien declaran que ese año van a preparar una Navidad el triple de grande, el Grinch se da cuenta de que solo hay un modo de recuperar algo de paz y silencio: robar la Navidad. Para ello, decide hacerse pasar por Santa Claus en Nochebuena, haciendose con un reno muy peculiar para tirar de su trineo. Mientras tanto, en Villa Quien, una dulce niña llamada Cindy-Lou, desbordante de espiritu navideño, planea con sus amigos atrapar a Santa Claus durante su visita en Nochebuena para darle las gracias por ayudar a su trabajadora madre. Sin embargo, a medida que se acerca la noche magica, sus buenas intenciones amenazan con chocar con las del Grinch, mucho mas perversas.</info>
 <urlsolve>//listeamed.net/v/qM1VOPNaN8Yxo4k</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] El Hijo De Bigfoot [COLOR gold](2017)[/COLOR]</title>   
@@ -1653,7 +1561,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/qL0YEyPZPkjxDRX</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] El jinete del dragon [COLOR gold](2020)[/COLOR]</title>  
@@ -1665,7 +1572,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/qM1VOPN2gwMxo4k</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] El jorobado de Notre Dame [COLOR gold](1996)[/COLOR]</title>    
@@ -1676,7 +1582,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Oculto a las miradas de todos los ciudadanos de Paris, en lo alto del campanario de la catedral de Notre Dame, vive Quasimodo. Su tutor, el juez Frollo, no le permite bajar nunca del Campanario. En compañia de tres simpaticas gargolas de piedra, Victor, Hugo y Laverne, Quasimodo pasa las horas observando el bullicioso ir y venir de la gente. Hasta que un dia, decide bajar a escondidas y conoce a la bella Esmeralda, con la que vivira su mayor aventura. </info>
 <urlsolve>//listeamed.net/v/6zeREaDmaGoxZPa</urlsolve>
 </item>
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] El jorobado de Notre Dame 2 [COLOR gold](2002)[/COLOR]</title>    
@@ -1687,7 +1593,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>El campanero Quasimodo ayudado por todos sus amigos se enfrentara en esta aventura a los planes del malvado Sarousch, hechicero y dueño de un circo. Sarouch pretende robar la famosa campana de la catedral, La Fidele. Para ello se vale de sus poderes de hechiceria y obliga a la nueva amiga de Quasimodo, Madellaine a convertirse en su complice. El hijo de Esmeralda se interpone en sus planes e intenta detener a Sarousch. Quasimodo, ignorando los recelos de sus divertidas camaradas: las Gargolas y guiado por su corazon, se lanza al rescate de su pequeño compañero y la valiosa campana. Secuela lanzada directamente al mercado de video y DVD.</info>
 <urlsolve>//listeamed.net/v/qM1VOPN2gQVxo4k</urlsolve>
 </item>
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] El Libro de la Selva [COLOR gold](1967)[/COLOR]</title>    
@@ -1698,7 +1604,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Tras la muerte de sus padres, Mowgli, un niño de apenas dos años, queda abandonado en la selva y es recogido por una manada de lobos. En el seno de la manada, Mowgli es criado como un lobo mas hasta que crece y empieza a desenvolverse por si mismo en la selva.</info>
 <urlsolve>//listeamed.net/v/P0poO10qem1Ez17</urlsolve>
 </item> 
------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] El Libro de la Selva 2 [COLOR gold](2003)[/COLOR]</title>    
@@ -1710,7 +1616,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/KNWlEDNPm9v5kbp</urlsolve>
 </item> 
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] El Libro de la Selva: La Aventura Continua [COLOR gold](1994)[/COLOR]</title>    
@@ -1721,7 +1626,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Nueva version de los personajes de Kipling. Abandonado en la selva y criado por los animales, Mowgli vuelve a la civilización por amor a la hija de un militar inglés. Esta decisión cambiará radicalmente su vida y le convertirá en la expectación de la colonia británica en la India.</info>
 <urlsolve>//listeamed.net/v/JzkPxzng638xbyd</urlsolve>
 </item> 
------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] El Libro De La Selva [COLOR gold](2016)[/COLOR]</title>  
@@ -1732,7 +1637,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Mowgli (Neel Sethi), un niño criado en la selva por una manada de lobos, emprende un fascinante viaje de autodescubrimiento cuando se ve obligado a abandonar el unico hogar que ha conocido en toda su vida. Nueva adaptacion de la novela de Rudyard Kipling.</info>
 <urlsolve>//listeamed.net/v/qL0YEyPg8pKxDRX</urlsolve>
 </item>
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] El magnifico Ivan  [/COLOR][COLOR gold](2020)[/COLOR]</title>    
@@ -1743,7 +1648,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Un gorila llamado Ivan trata de unir las piezas que conforman el puzle de su pasado con la ayuda de Stella, un elefante con el que urde un plan para huir de la cautividad.</info>
 <urlsolve>//listeamed.net/v/7QWN5ey47Jb59oR</urlsolve> 
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] El niño con el pijama de rayas [COLOR gold](2008)[/COLOR]</title>  
@@ -1754,7 +1659,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Berlin, 1942. Bruno (Asa Butterfield) tiene ocho años y desconoce el significado de la Solucion Final y del Holocausto. No es consciente de las pavorosas crueldades que su pais, en plena guerra mundial, esta infligiendo a los pueblos de Europa. Todo lo que sabe es que su padre -recien nombrado comandante de un campo de concentracion- ha ascendido en el escalafon, y que ha pasado de vivir en una confortable casa de Berlin a una zona aislada. Todo cambia cuando conoce a Shmuel, un niño judio que vive una extraña existencia paralela al otro lado de la alambrada. </info>
 <urlsolve>//listeamed.net/v/PlBVEZ0dPDX5Dv9</urlsolve>
 </item>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] El niño que pudo ser rey  [COLOR gold](2019)[/COLOR]</title>  
@@ -1765,7 +1669,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Alex (Louis Serkis) es un niño britanico de doce años cuyos problemas diarios pasan a un segundo plano cuando descubre la mitica espada Excalibur. Ahora, con la espada mas poderosa de la historia en manos del estudiante mas desvalido de Inglaterra, una aventura epica comienza toda vez que Alex y sus amigos tendran que contener a una villana medieval de nombre Morgana (Rebecca Ferguson), quien esta empecinada en destruir el mundo.</info>
 <urlsolve>//listeamed.net/v/qL0YEyPg86JxDRX</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] El origen de los guardianes [COLOR gold](2012)[/COLOR]</title>
@@ -1776,7 +1679,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Parvana es una chica de once años que vive en la capital de Afganistan, Kabul, durante el periodo de dominio de los talibanes. Al ser su padre detenido, los miembros de la familia se quedan sin recursos y, debido a que las mujeres tienen prohibido ganar dinero, deciden transformar a Parvana en un chico para poder trabajar. </info>
 <urlsolve>//listeamed.net/v/ZMVoEr8XLzW59Pa</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] El Pan De La Guerra [COLOR gold](2017)[/COLOR]</title>
@@ -1787,7 +1690,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Parvana es una chica de once años que vive en la capital de Afganistan, Kabul, durante el periodo de dominio de los talibanes. Al ser su padre detenido, los miembros de la familia se quedan sin recursos y, debido a que las mujeres tienen prohibido ganar dinero, deciden transformar a Parvana en un chico para poder trabajar. </info>
 <urlsolve>//listeamed.net/v/ao9rxoRwmYV5yGe</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] El Parque Magico [COLOR gold](2019)[/COLOR]</title>    
@@ -1798,7 +1700,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>June (Brianna Denski) es una niña optimista y alegre que un dia descubre un parque de atracciones llamado "Wonderland" escondido en el bosque. Alli conoce a una serie de divertidos animales que le explican que el parque, su hogar durante muchos años, esta practicamente en ruinas. Solo June, con la ayuda de su imaginacion y de sus nuevos amigos, podra arreglarlo para salvar asi a los animales que en el habitan, llevando de vuelta la magia a un lugar de ensueño.</info>
 <urlsolve>//listeamed.net/v/0DogOGM4nl8xKjM</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] El Pequeño Vampiro [COLOR gold](2017)[/COLOR]</title>    
@@ -1810,7 +1711,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/wP2050eq462xdmy</urlsolve> 
 </item>
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] El Pergamino Rojo [COLOR gold](2020)[/COLOR]</title>    
@@ -1822,7 +1722,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/m7WJxgJLnmB5Bze</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <item>
 <title>[COLOR white] El Planeta del tesoro [COLOR gold](2002)[/COLOR]</title>    
 <genre>Animacion</genre>
@@ -1832,7 +1732,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Jim, popular surfista solar, se enfrenta a una caceria intergalactica de tesoros. En sus manos cae un legendario mapa que le llevara a buscar la fortuna mas grande del Universo. A bordo de un "galeon solar", Jim es el ayudante del cocinero del barco, John Silver (mitad hombre mitad maquina), que le enseña como ser un buen explorador del espacio. Jim conoce a un simpatico robot llamado BEN (Bio Electro Navegador). Juntos, bajo el mando de la inteligente Capitan Amelia, descubriran un tesoro inimaginable. Adaptacion de la Disney del clasico de Robert Louis Stevenson La isla del tesoro.</info>
 <urlsolve>//listeamed.net/v/04rQxWW8Pndxb2N</urlsolve>
 </item>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] El Principe de Egipto [COLOR gold](1998)[/COLOR]</title>    
@@ -1843,7 +1743,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>La productora DreamWorks -creada por Steven Spielberg, Jeffrey Katzenberg y David Geffen- fue la responsable del lanzamiento a nivel internacional del primer film de dibujos animados de gran calidad por parte de un estudio ajeno a la Walt Disney Pictures. En el antiguo Egipto, hace miles de años, el faraon Seti ordena la muerte de todos los recien nacidos judios. Una madre, desesperada, coloca a su hijo en una cesta y la deposita en el Nilo. Las aguas la conducen rio abajo hasta la orilla donde la hallara la reina. El niño era Moises y fue educado como hermano de Ramses, el heredero del trono. Sin embargo, cuando, años despues, se descubra el origen hebreo de Moises, los hermanos se distanciaran.</info>
 <urlsolve>//listeamed.net/v/wP2050eq4NBxdmy</urlsolve>
 </item>
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] El Principito [COLOR gold](2015)[/COLOR]</title>    
@@ -1855,7 +1755,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/pVa4E8Mqom7OkzM</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
 <title>[COLOR white] El Retorno De Las Brujas [COLOR gold](1993)[/COLOR]</title>    
 <genre>Comedia,Fantasia,Familia</genre>
@@ -1866,7 +1765,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/vQBYEbNPo7wEn1m</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
 <title>[COLOR white] El Retorno De Las Brujas 2 [COLOR gold](2022)[/COLOR]</title>    
 <genre>Comedia,Fantasia,Familia</genre>
@@ -1877,7 +1775,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/njJYOd3MglqEe9o</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
 <title>[COLOR white] El Rey Leon [COLOR gold](1994)[/COLOR]</title>    
 <genre>Animacion</genre>
@@ -1889,8 +1786,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 <item>
 <title>[COLOR white] El Rey Leon [COLOR gold](2019)[/COLOR]</title>    
 <genre>Animacion,Aventuras,Drama,Musica</genre>
@@ -1900,7 +1795,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Tras el asesinato de su padre, un joven leon abandona su reino para descubrir el autentico significado de la responsabilidad y de la valentia. Remake de "El Rey Leon", dirigido y producido por Jon Favreau, responsable de la puesta al dia, con el mismo formato, de "El libro de la selva" (2016).</info>
 <urlsolve>//listeamed.net/v/6zeREaDmRbGxZPa</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] El Rey Leon 2: El Tesoro De Simba [COLOR gold](1998)[/COLOR]</title>    
@@ -1912,7 +1807,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/kKJVORWaLe953XD</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] El Rey Leon 3: Hakuna Matara [COLOR gold](2004)[/COLOR]</title>    
@@ -1923,7 +1817,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>La diversión reina en esta nueva película en al que Timón y su simpático amigo Pumba son los grandes héroes de la Sabana. El Rey León 3 nos traslada al pasado, antes de que comenzase la historia de Simba, e incluso mucho más atrás. En esta nueva comedia de aventuras, Timón y Pumba te descubrirán sus orígenes, cuándo se conocieron y cómo ayudaron a Simba a salvar el Seregeti. Su historia incluye algunos de los grandes momentos de El Rey León, que ahora resultarán un poco diferentes desde su punto de vista. Por ejemplo, os sorprenderá conocer la verdad sobre cómo se desarrolló el trascendental momento en el que Simba fue presentado al reino animal.</info>
 <urlsolve>//listeamed.net/v/KNWlEDNPqgB5kbp</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <item>
@@ -1935,7 +1828,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>La pandilla de los Muppets se va de gira por todo el mundo, llenando las mejores salas de las capitales europeas como Berlin, Madrid o Londres. Pero no se libran del caos ni siquiera en el extranjero, pues se ven involuntariamente atrapados en una intriga internacional que encabezan Constantine, el mayor delincuente del mundo y la viva imagen de la Rana Rene, y Dominic, su vil compinche.</info>
 <urlsolve>//listeamed.net/v/VqbX53gXLDW5Qzp</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <item>
@@ -1948,7 +1840,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/mMq75L8vGBz5XPB</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] El Ultimo Guerrero:Las Raices Del Mal  [/COLOR][COLOR gold](2021)[/COLOR]</title>    
@@ -1961,8 +1852,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 <item>
 <title>[COLOR white] El Viaje De Arlo [COLOR gold](2015)[/COLOR]</title> 
 <genre>Animacion,Infantil</genre>
@@ -1972,7 +1861,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>¿Que hubiera pasado si el asteroide que cambio para siempre la vida en la Tierra hubiera esquivado el planeta y los dinosaurios no se hubieran extinguido nunca? Un viaje al mundo de los dinosaurios donde un Apatosaurus llamado Arlo se hace amigo de un humano, aunque resulte asombroso. Mientras viaja por un paisaje desolado y misterioso, Arlo aprende a enfrentarse a sus temores y descubre de lo que es capaz.</info>
 <urlsolve>//listeamed.net/v/6zeREaDmR0ZxZPa</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Elcano Y Magallanes, La Primera Vuelta Al Mundo [COLOR gold](2019)[/COLOR]</title>    
@@ -1983,7 +1871,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Pelicula inspirada en una de las aventuras mas emocionantes de la historia, un viaje a lo desconocido que comenzo en 1519 en Sevilla y concluyo tres años despues en el mismo sitio, completando asi una aventura alrededor de un planeta cuya redondez quedo demostrada por primera vez. En 1519 cinco naves partieron desde Sevilla con 240 hombres a bordo. Solo una consiguio volver con 18 marineros al borde de la muerte. Los protagonistas de aquella expedicion financiada por el Reino de Castilla fueron el portugues Fernando de Magallanes, comandante de la expedicion, y el vasco Juan Sebastian Elcano, el hombre que consiguio concluir la mision.</info>
 <urlsolve>//listeamed.net/v/qA3WOmGolZPxKkz</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Encanto [/COLOR][COLOR gold](2021)[/COLOR]</title> 
@@ -1996,7 +1883,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 
 
------------------------------------------------------------------------------------------------
 <item>
 <title>[COLOR white] Enredados [COLOR gold](2010)[/COLOR]</title>    
 <genre>Animacion</genre>
@@ -2006,7 +1892,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Flynn Rider, el mas buscado -y encantador- bandido del reino, se esconde en una misteriosa torre y alli se encuentra con Rapunzel, una bella y avispada adolescente con una cabellera dorada de 21 metros de largo, que vive encerrada alli desde hace años. Ambos sellan un pacto y a partir de ese momento la pareja vivira emocionantes aventuras en compañia de un caballo superpolicia, un camaleon sobreprotector y una ruda pandilla de matones.</info>
 <urlsolve>//listeamed.net/v/PKN4Own6ZlGEDLj</urlsolve>
 </item>
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Enredados otra vez [COLOR gold](2017)[/COLOR]</title>    
@@ -2018,8 +1904,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/m7WJxgJLawd5Bze</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 <item>
 <title>[COLOR white] Erase Una Vez Un Munheco De Nieve [COLOR gold](2020)[/COLOR]</title>    
 <genre>Animacion,Familia,Comedia,Fantasia</genre>
@@ -2029,7 +1914,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Los primeros días de vida del pequeño Olaf, cuándo y por qué cobra vida y cómo empieza a buscar su propia identidad, después de la huída de Elsa del palacio de Arendelle.</info>
 <urlsolve>//listeamed.net/v/0DogOGM48o8xKjM</urlsolve>
 </item>
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Ernest Y Celestine. Cuentos De Invierno [COLOR gold](2012)[/COLOR]</title>   
@@ -2040,7 +1925,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Ernest es un oso alto y gordo al que le gusta tocar musica y comida mermelada. Desde hace un tiempo convive con la Celestine, una pequeña y bonita ratita a la que adopto porque era huerfana. Con la llegada de los primeros copos, esta encantadora familia tendra que hacer frente a una serie de eventos que aplazaran la hibernacion de Ernest. Una nueva adaptacion de los populares cuentos infantiles, llena de encanto y valores positivos, que mantiene la belleza de las ilustraciones originales.</info>
 <urlsolve>//listeamed.net/v/k3gG5q3JzXZE1N2</urlsolve> 
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Espias Con Disfraz [COLOR gold](2019)[/COLOR]</title>    
@@ -2051,8 +1935,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>El superespia Lance Sterling y el cientifico Walter Beckett son casi polos opuestos. Lance es tranquilo, afable y caballeroso. Walter no. Pero lo que le falta a Walter de habilidades sociales lo compensa con ingenio e inventiva, con los que crea increibles artilugios que Lance usa en sus epicas misiones. Pero cuando los eventos dan un giro inesperado, Walter y Lance de repente tienen que confiar el uno en el otro de una manera completamente nueva. Y si esta extraña pareja no puede aprender a trabajar en equipo, todo el mundo estara en peligro. Adaptacion al largometraje del corto de animacion homonimo, dirigido y escrito por Lucas Martell en 2009.</info>
 <urlsolve>//listeamed.net/v/edVqE4rqPAD5YWm</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Fantasia [COLOR gold](1940)[/COLOR]</title>    
@@ -2063,7 +1946,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Todo un clasico de la Disney, una coleccion de interpretaciones animadas de grandes obras de musica clasica. En "El Aprendiz de Brujo" (P. Dukas), Mickey Mouse, discipulo de un mago, se mete en un gran embrollo, pues sus conocimientos de magia son muy limitados. "La Consagracion de la Primavera" (Stravinsky) cuenta la historia de la evolucion, desde los seres unicelulares hasta la extincion de los dinosaurios. "La Danza de las Horas" (Ponchielli) es un fragmento de un ballet comico interpretado por elefantes, hipopotamos, cocodrilos y avestruces. "Una Noche en el Monte Pelado" de Mussorgsky y el "Ave Maria" de Schubert describen el enfrentamiento entre la oscuridad y la luz.</info>
 <urlsolve>//listeamed.net/v/njJYOd3M8w7Ee9o</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Fantasia 2000 [COLOR gold](1999)[/COLOR]</title>    
@@ -2074,7 +1956,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Al igual que su precedente, esta pelicula se divide en varios fragmentos -en este caso ocho- cada uno acompañado de distintas piezas musicales. Entre ellos se incluye El aprendiz de brujo, protagonizado por Mickey Mouse, que ya aparecia en la primera Fantasia. </info>
 <urlsolve>//listeamed.net/v/P0poO10qVoaEz17</urlsolve>
 </item>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Ferdinand [COLOR gold](2017)[/COLOR]</title>
@@ -2085,7 +1967,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Ferdinand es un novillo muy tranquilo que prefiere sentarse bajo un arbol a oler las flores que saltar, resoplar y embestirse con otros toros. A medida que va creciendo y haciendose fuerte, su temperamento no cambia y sigue siendo un toro manso. Un dia, unos hombres vienen buscando al toro mas grande, rapido y bravo... y Ferdinand es elegido equivocadamente para las corridas de toros de Madrid.</info>
 <urlsolve>//listeamed.net/v/k3gG5q3Jz8oE1N2</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Flora y Ulises [COLOR gold](2021)[/COLOR]</title>    
@@ -2098,7 +1980,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
 <title>[COLOR white] Fritzi: Un cuento revolucionario [COLOR gold](2019)[/COLOR]</title>  
 <genre>Animacion,Drama,Familia</genre>
@@ -2109,7 +1990,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/7QWN5ey4lGk59oR</urlsolve>
 </item>
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <item>
 <title>[COLOR white] Frozen: El reino de hielo [COLOR gold](2013)[/COLOR]</title>   
 <genre>Animacion,Fantastico,Musical,Aventuras,Comedia,Infantil</genre>
@@ -2119,7 +2000,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Cuando una profecia condena a un reino a vivir un invierno eterno, la joven Anna, el temerario montañero Kristoff y el reno Sven emprenden un viaje epico en busca de Elsa, hermana de Anna y Reina de las Nieves, para poner fin al gelido hechizo. Adaptacion libre del cuento "La reina de las nieves".</info>
 <urlsolve>//listeamed.net/v/rabVOQQwARWOKdW</urlsolve>
 </item>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Frozen 2 [COLOR gold](2019)[/COLOR]</title>    
@@ -2130,7 +2011,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>¿Por que nacio Elsa con poderes magicos? La respuesta le esta llamando y amenaza su reino. Junto con Anna, Kristoff, Olaf y Sven emprendera un viaje peligroso e inolvidable. En 'Frozen', Elsa temia que sus poderes fueran demasiado para el mundo; ahora deseara que sean suficientes. Secuela de "Frozen. El reino del hielo" (2013), el film de animacion mas taquillero de la historia del cine, ganador del Oscar a la mejor pelicula animada. Reune al mismo equipo artistico y tecnico de la original.</info>
 <urlsolve>//listeamed.net/v/4bQVOj7vjLv5wKm</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Frozen Fever [COLOR gold](2015)[/COLOR]</title>   
@@ -2141,7 +2022,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Es el cumpleaños de Anna, y Elsa y Kristoff estan buscando la forma de hacerle la mejor fiesta posible. Pero los poderes con el hielo de Elsa van a complicar las cosas. Cortometraje que continua la historia de "Frozen", estrenado en cines junto a "Cenicienta" de Kenneth Branagh.</info>
 <urlsolve>//listeamed.net/v/3Q0lxBW3z4nEj1J</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Frozen: LEGO Frozen: Luces de invierno [COLOR gold](2016)[/COLOR]</title>   
@@ -2152,7 +2032,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Cuando Anna y Elsa descubren que la aurora boreal ha desaparecido, se embarcan en un largo viaje para encontrarla con la ayuda de Kristoff, Sven y Olaf. Especial televisivo navideño basado en las figuras de LEGO y la pelicula Frozen, formado por cuatro episodios. </info>
 <urlsolve>//listeamed.net/v/PKN4Own6MwGEDLj</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Frozen: Una aventura de Olaf [COLOR gold](2017)[/COLOR]</title>   
@@ -2163,7 +2042,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>En ‘Frozen: Una aventura de Olaf’, el muñeco de nieve tratara de empaparse de las tradiciones familiares durante este periodo tan especial del año para organizar las mejores fiestas navideñas en el castillo. Al parecer, despues de tanto tiempo fuera de casa, Elsa y Anna no estan acostumbradas a las reuniones familiares, por lo que Olaf decide ir puerta por puerta empapandose de lo que hace el resto de las familias de Arandelle para implantar la tradicion en su nuevo hogar. Cortometraje que acompaño en cines a "Coco", la pelicula de Disney/Pixar.</info>
 <urlsolve>//listeamed.net/v/QNB7xA2rgXjE0WG</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Gabe, el perro cupido [COLOR gold](2012)[/COLOR]</title>   
@@ -2174,7 +2052,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>El perro de Eric, Gabe, intenta hacer que su dueño se enamore de la vecina de al lado para que no se tengan que mudar a Inglaterra.</info>
 <urlsolve>https://sendvid.com/x6p7t0ol</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Goofy E Hijo [COLOR gold](1995)[/COLOR]</title>    
@@ -2185,7 +2062,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>La primera vez que el simpatico perro Goofy protagoniza un largometraje de animacion. Goofy tiene la desafortunada idea de llevar a su hijo Max a pescar, pero este, que teme convertirse de mayor en un ser tan tonto como su padre, tiene otros planes. Ha quedado con la bella Roxanne, que por fin ha accedido a salir con el. Pero Goofy no esta dispuesto a permitir que su hijo ignore el arte de la pesca.</info>
 <urlsolve>//listeamed.net/v/P0poO10qVV1Ez17</urlsolve> 
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Gru 1: Mi Villano Favorito [COLOR gold](2010)[/COLOR]</title> 
@@ -2196,7 +2072,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Gru (voz de Steve Carell) es un hombre deplorable que planea el acto criminal mas increible de la Historia: robar la Luna. Incitado por una madre malvada (voz de Julie Andrews), solo encontrara un obstaculo en su camino: tres niñas huerfanas a las que tenda que cuidar temporalmente. </info>
 <urlsolve>//listeamed.net/v/0DogOGM4RDrxKjM</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Gru 2: Mi Villano Favorito [COLOR gold](2013)[/COLOR]</title> 
@@ -2207,7 +2082,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Ahora que el incansable y emprendedor Gru ha dejado atras una vida dedicada a las fechorias para criar a Margo, Edith y Agnes, dispone de mucho tiempo libre para disfrutarlo con ellas, el Dr. Nefario y los minions. Pero, justo cuando empieza a adaptarse a su papel de hombre de familia, una organizacion mundial ultrasecreta dedicada a la lucha contra el mal llama a su puerta. Junto con su nueva compañera de aventuras, Lucy Wilde, Gru tendra que descubrir quien es el responsable de un espectacular y malevolo plan y llevarlo ante la justicia. Y es que hace falta echar mano del mayor ex-villano del mundo para atrapar a quien aspira a ocupar ese lugar.</info>
 <urlsolve>//listeamed.net/v/JzkPxzngrwrxbyd</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Gru 3. Mi Villano Favorito [COLOR gold](2017)[/COLOR]</title> 
@@ -2218,7 +2092,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Balthazar Pratt, un antiguo niño estrella obsesionado con el personaje que encarno en los años ochenta, demuestra ser el peor enemigo al que Gru ha debido enfrentarse hasta la fecha.</info>
 <urlsolve>//listeamed.net/v/ao9rxoRwnB95yGe</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Guardianes de la galaxia [COLOR gold](2014)[/COLOR]</title> 
@@ -2229,7 +2102,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>El temerario aventurero Peter Quill es objeto de un implacable cazarrecompensas despues de robar una misteriosa esfera codiciada por Ronan, un poderoso villano cuya ambicion amenaza todo el universo. Para poder escapar del incansable Ronan, Quill se ve obligado a pactar una complicada tregua con un cuarteto de disparatados inadaptados: Rocket, un mapache armado con un rifle, Groot, un humanoide con forma de arbol, la letal y enigmatica Gamora y el vengativo Drax the Destroyer. Pero cuando Quill descubre el verdadero poder de la esfera, debera hacer todo lo posible para derrotar a sus extravagantes rivales en un intento desesperado de salvar el destino de la galaxia.</info>
 <urlsolve>https://embedv.net/v/nyg9EKDDJ4QObk4</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Guardianes de la galaxia vol.2 [COLOR gold](2017)[/COLOR]</title> 
@@ -2241,7 +2113,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://embedv.net/v/VqbX53gg8Za5Qzp</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white]Guardianes de la Galaxia: Especial Felices Fiestas[/COLOR][COLOR yellow](2017)[/COLOR]</title>    
@@ -2253,7 +2124,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://embedv.net/v/PlBVEZ00Wrl5Dv9</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white]Guardianes de la Galaxia Vol.3[/COLOR][COLOR yellow](2023)[/COLOR]</title>    
@@ -2265,7 +2135,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://embedv.net/v/3Q0lxBWWvk2Ej1J</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
 <title>[COLOR white] Harry Potter Y La Piedra Filosofal [COLOR gold](2001)[/COLOR]</title>    
 <genre>Aventura,Fantasia,Familiar</genre>
@@ -2276,7 +2145,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://vgembed.com/v/NMRLEpr7L2J5XaG"},{"titulo" : "[COLOR white]Opcion 2 Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:KXBB7LOPNRRNWLIMY4FRMLJQK3WLVRVM"}</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
 <title>[COLOR white] Harry Potter Y La Camara Secreta [COLOR gold](2002)[/COLOR]</title>    
 <genre>Aventura,Fantasia,Familiar</genre>
@@ -2287,7 +2155,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://vgembed.com/v/ao9rxoR6poQ5yGe"},{"titulo" : "[COLOR white]Opcion 2 Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:CWIILJQP6OVRRWH3RHI24LYLPRRWIF3A"}</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
 <title>[COLOR white] Harry Potter Y El Prisionero De Azkaban [COLOR gold](2004)[/COLOR]</title>    
 <genre>Aventura,Fantasia,Familiar</genre>
@@ -2298,7 +2165,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://vgembed.com/v/b4ZJx21Wl4V52P3"},{"titulo" : "[COLOR white]Opcion 2 Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:OXBAN2Y7LOQCMEJNPD2BZEPZ7PYINBBA"}</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
 <title>[COLOR white] Harry Potter Y El Caliz De Fuego [COLOR gold](2005)[/COLOR]</title>    
 <genre>Aventura,Fantasia,Familiar</genre>
@@ -2309,7 +2175,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://vgembed.com/v/mMq75L84Nq95XPB"},{"titulo" : "[COLOR white]Opcion 2 Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:UGC4Z5WOQP2ZB25YXEAZBWJDTKOJC2WA"}</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
 <title>[COLOR white] Harry Potter Y La Orden Del Fenix [COLOR gold](2007)[/COLOR]</title>    
 <genre>Aventura,Fantasia,Familia,Misterio</genre>
@@ -2320,7 +2185,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://vgembed.com/v/P0poO10JgZDEz17"},{"titulo" : "[COLOR white]Opcion 2 Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:M7INXVDJ4WY6ZT7PMJLHO7R24FK3YDIU"}</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
 <title>[COLOR white] Harry Potter Y El Misterio Del Principe [COLOR gold](2009)[/COLOR]</title>    
 <genre>Aventura,Fantasia,Familia</genre>
@@ -2331,7 +2195,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://vgembed.com/v/VqbX53g8l115Qzp"},{"titulo" : "[COLOR white]Opcion 2 Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:KOXDKSGNWHIRFC3ZRFHWG5BKYAB2WMIN"}</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
 <title>[COLOR white] Harry Potter Y Las Reliquias De La Muerte (Parte 1) [COLOR gold](2010)[/COLOR]</title>    
 <genre>Aventura,Fantasia,Familia</genre>
@@ -2342,7 +2205,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://vgembed.com/v/3Q0lxBWrdPGEj1J"},{"titulo" : "[COLOR white]Opcion 2 Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:DKPPHXKB6BI76M6D5MCWS2NRO64W3ZY6"}</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <item>
 <title>[COLOR white] Harry Potter Y Las Reliquias De La Muerte (Parte 2) [COLOR gold](2011)[/COLOR]</title>    
 <genre>Aventura,Fantasia,Familia</genre>
@@ -2352,7 +2215,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>La segunda parte de la batalla final entre las fuerzas del bien y el mal. El juego nunca ha sido tan peligroso y nadie está a salvo. Se acerca el momento de la confrontación final entre Harry Potter y Lord Voldemort. Todo termina aquí…</info>
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://vgembed.com/v/VqbX53g8kJz5Qzp"},{"titulo" : "[COLOR white]Opcion 2 Torrent[/COLOR]","url" : "magnet:?xt=urn:btih:4KF6EXDEIFTLM2VEYWGN5CYBP2N7ZNGO"}</urlsolve>
 </item>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Hercules [COLOR gold](1997)[/COLOR]</title>    
@@ -2363,7 +2226,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Hercules, el hijo de Zeus y de Alcmena, reina de Tebas, es secuestrado del Olimpo por los secuaces de Hades, que tienen la mision de despojarlo de su inmortalidad. Hercules crecera en un mundo de mortales hasta que le llegue la hora de regresar al Olimpo.</info>
 <urlsolve>//listeamed.net/v/qM1VOPN28NMxo4k</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Hermano Oso [COLOR gold](2003)[/COLOR]</title>    
@@ -2374,7 +2236,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>En los bosques del noroeste americano vive un niño indio llamado Kenai, cuya vida sufre un giro inesperado cuando los Grandes Espiritus lo transforman en un oso, el animal que mas odia. Kenai se hace amigo de un osezno llamado Koda y se propone recuperar su forma humana. Mientras, su hermano (que no sabe que Kenai es ahora un oso) lo persigue para cumplir una mision de venganza en la que esta en juego el honor familiar. </info>
 <urlsolve>//listeamed.net/v/edVqE4rq0XD5YWm</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <item>
@@ -2386,7 +2247,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>La trama se centra de nuevo en Kenai (que habia sido transformado en oso durante la primera parte) y sus aventuras en la pintoresca costa del Pacifico Norte al final de la Edad de Hielo. Kenai sueña repetidamente con su anterior vida como humano, cuando era niño y su mejor amiga era Nita, la hija del jefe de la tribu. Ahora ambos reviviran este pasado comun cuando se ven obligados a embarcarse en una peligrosa aventura... </info>
 <urlsolve>//listeamed.net/v/QNB7xA2rmYRE0WG</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Home. Hogar Dulce Hogar [COLOR gold](2015)[/COLOR]</title> 
@@ -2397,7 +2257,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Cuando el alienigena mas irritantemente optimista de la galaxia se encuentra huyendo de su propia raza, se vera forzado a formar equipo con una chica adolescente muy testaruda. Estos extraños fugitivos acabaran salvando el planeta. Adaptacion del popular libro "The True Meaning of Smekday", de Adam Rex. Voces originales: Jim Parsons, Rihanna, Jennifer Lopez y Steve Martin.</info>
 <urlsolve>//listeamed.net/v/PKN4Own67GlEDLj</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <item>
@@ -2409,7 +2268,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Desde su nacimiento, Mavis vive en el lujoso hotel Transylvania, que fue creado para proteger a los monstruos de la amenaza de los seres humanos. Cuando Mavis esta a punto de cumplir la mayoria de edad (118 años), su padre, el conde Dracula, le prepara una fiesta a la que acuden los mejores amigos de la familia: desde Frankenstein al Hombre Invisible o la Momia; pero tambien asiste a la celebracion un hombre que se enamora de Mavis.</info>
 <urlsolve>//listeamed.net/v/YWA8E9wqqge5GmM</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Hotel Transilvania 2 [COLOR gold](2015)[/COLOR]</title> 
@@ -2420,7 +2278,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Todo parece mejorar en el Hotel Transilvania. La rigida norma establecida por Dracula de “solo para monstruos” se ha suprimido y se aceptan tambien huespedes humanos. Lo que preocupa al conde es que que su adorable nieto Dennis, medio humano y medio vampiro, no de señal alguna de vampirismo. Aprovechando que Mavis ha ido a visitar a sus suegros humanos, Dracula recluta a sus amigos Frank, Murray, Wayne y Griffin para hacer que Dennis pase por un campamento de “entrenamiento de monstruos”. Lo que ignoran es que Vlad, el gruñon padre de Dracula, esta a punto de llegar al hotel. Y cuando descubra que su bisnieto no es de sangre pura y que los humanos pueden frecuentar el establecimiento las cosas se complicaran. Secuela de Hotel Transilvania </info>
 <urlsolve>//listeamed.net/v/04rQxWW88DZxb2N</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <item>
@@ -2432,7 +2289,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Nuestra familia de monstruos favorita se embarca en un crucero de lujo para que por fin Drac pueda tomarse un descanso de proveer de vacaciones al resto en el hotel. Es una navegacion tranquila para la pandilla de Drac, ya que los monstruos se entregan a toda la diversion a bordo que ofrece el crucero, desde el voleibol de monstruos y las excursiones exoticas, a ponerse al dia con sus bronceados de luna. Pero las vacaciones de ensueño se convierten en una pesadilla cuando Mavis se da cuenta de que Drac se ha enamorado de la misteriosa capitana de la nave, Ericka, quien esconde un peligroso secreto que podria destruir a todos los monstruos.</info>
 <urlsolve>//listeamed.net/v/njJYOd3MGgYEe9o</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Hotel Transilvania 4 Transformania [COLOR gold](2022)[/COLOR]</title> 
@@ -2444,7 +2300,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/VqbX53gqqoo5Qzp</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
 <title>[COLOR white] Ice Age: La Edad De Hielo [COLOR gold](2002)[/COLOR]</title> 
 <genre>Animacion,Comedia,Familia,Aventura</genre>
@@ -2455,7 +2310,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/LQm9OXNlyAYx1lg</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
 <title>[COLOR white] Ice Age 2: El Deshielo [COLOR gold](2006)[/COLOR]</title> 
 <genre>Animacion,Comedia,Familia,Aventura</genre>
@@ -2466,8 +2320,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/3Q0lxBW330MEj1J</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Familia, 1Aventura A2009, Letra I, EEUU, "
+
 <item>
 <title>[COLOR white] Ice Age 3: El Origen De Los Dinosaurios [COLOR gold](2009)[/COLOR]</title> 
 <genre>Animacion,Comedia,Familia,Aventura</genre>
@@ -2478,8 +2331,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/3Q0lxBW3Bg8Ej1J</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Familia, 1Aventura A2012, Letra I, EEUU, "
+
 <item>
 <title>[COLOR white] Ice Age 4: La Formacion De Los Continentes [COLOR gold](2012)[/COLOR]</title> 
 <genre>Animacion,Comedia,Familia,Aventura</genre>
@@ -2491,8 +2343,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Familia, 1Aventura A2016, Letra I, EEUU, "
 <item>
 <title>[COLOR white] Ice Age: El Gran Cataclismo [COLOR gold](2016)[/COLOR]</title> 
 <genre>Animacion,Comedia,Familia,Aventura</genre>
@@ -2504,8 +2354,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Familia, 1Aventura A2022, Letra I, EEUU, "
 <item>
 <title>[COLOR white] Ice Age: Las Aventuras De Buck [COLOR gold](2022)[/COLOR]</title> 
 <genre>Animacion,Comedia,Familia,Aventura</genre>
@@ -2516,9 +2364,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/pVa4E8MqJpgOkzM</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
-"Tag= Malu3, Disney,1Aventura, 1Accion, 1Familiar, A1981, Letra I " 
 
 <item>
 <title>[COLOR white] Indiana Jones En Busca Del Arca Perdida [COLOR gold](1981)[/COLOR]</title>    
@@ -2530,9 +2375,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://vembed.net/v/m7WJxg2jkn5BzeQ</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
-"Tag= Malu3, Disney,1Aventura, 1Accion, 1Familiar, A1984, Letra I " 
 
 <item>
 <title>[COLOR white] Indiana Jones Y El Templo Maldito [COLOR gold](1984)[/COLOR]</title>    
@@ -2544,9 +2386,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://vembed.net/v/njJYOd29VQxe9od</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
-"Tag= Malu3, Disney,1Aventura, 1Accion, 1Familiar, A1989, Letra I " 
 
 <item>
 <title>[COLOR white] Indiana Jones Y La Ultima Cruzada [COLOR gold](1989)[/COLOR]</title>    
@@ -2558,9 +2397,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://vembed.net/v/PKN4Ow01Rn5DLjb</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
-"Tag= Malu3, Disney,1Aventura, 1Accion, 1Familiar, A2008, Letra I " 
 
 <item>
 <title>[COLOR white] Indiana Jones Y El Reino De La Calavera De Cristal [COLOR gold](2008)[/COLOR]</title>    
@@ -2572,9 +2408,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://vembed.net/v/MAlwEMrn6yOJ39X</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-"Tag= Malu3, Disney, 1Animacion, 1Fantastico, 1Comedia, 1Aventuras, A2018, Letra I, EEUU, Perros, "
 
 <item>
 <title>[COLOR white] Isla De Perros [COLOR gold](2018)[/COLOR]</title>
@@ -2585,9 +2418,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Despues de que todas las mascotas caninas de Megasaki City sean exiliadas a una isla que es un vertedero, un niño de 12 años emprende un viaje para buscar a su perro extraviado. </info>
 <urlsolve>//listeamed.net/v/l4vexvDl8KAO8B9</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-"Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, 1Fantastico, A2019, Letra J, China, "
 <item>
 <title>[COLOR white] Jana y la piruleta magica [/COLOR][COLOR gold](2019)[/COLOR]</title>    
 <genre>Animacion,Aventuras,Comedia,Fantastico</genre>
@@ -2597,9 +2428,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Jana adora al pequeño héroe GG Bond desde que era pequeña. Pero, conforme ha ido creciendo, las presiones académicas y los conflictos con sus padres han hecho que pierda la ilusión por la magia. Un día, cuando está triste, toca el mural de GG Bond que dibujó en la pared de su habitación. En ese momento se abre un portal que le teletransporta al mundo de su querido héroe. Juntos, intentarán que Jana pueda volver al mundo real, lo cual les hará vivir divertidas y emocionantes aventuras.</info>
 <urlsolve>//listeamed.net/v/mMq75L8v9Dn5XPB</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-"Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Infantil, A2015, Letra J, EEUU, Simios, Familiar, "
 
 <item>
 <title>[COLOR white] Jorge El Curioso 3: Vuelta A La Jungla [COLOR gold](2015)[/COLOR]</title> 
@@ -2611,8 +2440,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/3Q0lxBW3B0ZEj1J</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Familia, DreamWorks Letra J, A2000 "
 <item>
 <title>[COLOR white] Joseph:Rey De Los Sueños [COLOR gold](2000)[/COLOR]</title>    
 <genre>Animacion,Familia</genre>
@@ -2622,8 +2449,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Con su don de la interpretación de los sueños y su abrigo de colores brillantes, José inspira celos en sus hermanos y es vendido como esclavo. Esta narración animada de la historia del libro de Génesis de la Biblia cuenta con animación de primera clase y un trabajo de voz excelente, con Ben Affleck, Mark Hamill y Jody Benson. Sano y sin sermonear, José: Rey de los sueños hará las delicias de toda la familia.</info>
 <urlsolve>//listeamed.net/v/YWA8E9wq7kQ5GmM</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney,1Drama, 1Deporte, 1Karate,Columbia Pictures, A1984 "
+
 <item>
 <title>[COLOR white] Karate kid [COLOR gold](1984)[/COLOR]</title>    
 <genre>Drama, Deporte, Karate</genre>
@@ -2633,11 +2459,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Daniel Larusso llega a Los angeles procedente de la costa Este de Estados Unidos dispuesto a hacer nuevos amigos. Sin embargo, se convierte en el blanco de los ataques de los Cobras, un hostil grupo de estudiantes de karate, cuando comienza a salir con Ali, la antigua novia del cabecilla del grupo. En tal situacion, no tiene mas remedio que pedirle ayuda a Miyagi, un maestro de artes marciales, para que le enseñe karate. Bajo la tutela de Miyagi, Daniel desarrolla no solo sus aptitudes fisicas, sino tambien la seguridad en si mismo que necesita para superar todos los obstaculos.</info>
 <urlsolve>https://vgembed.com/v/JzkPxznGmWaxbyd</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-
-"Tag= Malu3, Disney,1Drama, 1Deporte, 1Karate,Columbia Pictures, A1986 "
 
 <item>
 <title>[COLOR white] Karate kid II [COLOR gold](1986)[/COLOR]</title>    
@@ -2648,9 +2470,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Daniel acompaña a Miyagi a su tierra, Okinawa. Para Daniel es un viaje a un mundo nuevo y exotico, donde aprendera cosas sobre el pasado secreto de su maestro. Para Miyagi es la oportunidad de ver a su padre por ultima vez y de reanudar su romance con el amor de su infancia. Pero el regreso de Miyagi tambien reaviva su vieja enemistad son Sato, una enemistad que arrastrara a Daniel a un choque de culturas y combates. Ahora, lejos de los torneos, la energia del publico y la seguridad del hogar, Daniel se enfrentara a su mayor desafio cuando el maestro se convierte en aprendiz y el precio del honor es la propia vida.</info>
 <urlsolve>https://vgembed.com/v/dNjgOl4awakO9Wn</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-"Tag= Malu3, Disney ,1Drama, 1Deporte, 1Karate,Columbia Pictures, A1989 "
 
 <item>
 <title>[COLOR white] Karate kid III [COLOR gold](1989)[/COLOR]</title>    
@@ -2661,11 +2481,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>El joven karateka Daniel Larusso libra su batalla mas dificil cuando el malvado Kreese le arrastra a una complicada situacion, al obligarle a defender su titulo de campeon del torneo del Valley. Su maestro, Miyagi, no esta de acuerdo... </info>
 <urlsolve>https://vgembed.com/v/P0poO10GbgXEz17</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-
-"Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, A2017, Letra K, Rusia, Secuela, C720, "
 
 <item>
 <title>[COLOR white] Kikoriki. La Leyenda Del Dragon Dorado [COLOR gold](2017)[/COLOR]</title>      
@@ -2676,9 +2492,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Los habitantes de la pacifica isla de Kikoriki se ven envueltos en una gran aventura cuando su cientifico residente inventa un sorprendente dispositivo: un casco llamado "el mejorador", que toma rasgos de personalidad de una persona y los cambia con rasgos de otra persona.</info>
 <urlsolve>//listeamed.net/v/m7WJxgJLz3A5Bze</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-"Tag= Malu3, Disney, 1Comedia, 1Aventuras, 1Intriga, A2019, Letra K, EEUU, Espionaje, Familiar, Telefilm, Disney, C720, "
 <item>
 <title>[COLOR white] Kim Possible [/COLOR][COLOR gold](2019)[/COLOR]</title>    
 <genre>Comedia, Aventuras, Intriga</genre>
@@ -2688,9 +2502,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Kim Possible (Sadie Stanley) es una chica normal y corriente que se dedica a salvar al mundo en su tiempo libre. Con la ayuda de su mejor amigo, Ron Stoppable (Sean Giambrone), pelea contra villanos y hace frente a un sinfin de amenazas. Se preve que la pelicula se estrene en 2019. </info>
 <urlsolve>//listeamed.net/v/LQm9OXNlzMQx1lg</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-"Tag= Malu3, Disney, 1Animacion, 1Fantastico, 1Comedia, 1Drama, A2019, Letra K, Spain, Navidad, Netflix, C720, "
+
 <item>
 <title>[COLOR white] Klaus  [COLOR gold](2019)[/COLOR]</title>    
 <genre>Animacion,Fantastico,Comedia,Drama</genre>
@@ -2700,9 +2513,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Un cartero es enviado a una ciudad congelada en el norte, donde descubre que Papa Noel esta escondido. A Jesper (voz de Quim Gutierrez), el peor estudiante de la academia postal, le destinan a Smeerensburg, una gelida isla mas alla del Circulo Polar artico, donde sus conflictivos habitantes apenas intercambian palabras y, mucho menos, cartas. Jesper esta a punto de rendirse cuando encuentra una aliada, Alva (Belen Cuesta), la profesora del pueblo. Tambien descubre a Klaus (Luis Tosar), un misterioso carpintero que vive aislado en una cabaña repleta de juguetes hechos a mano. Estas improbables amistades traeran la alegria de nuevo a Smeerensburg, y crearan un nuevo legado de vecinos generosos, leyendas magicas y calcetines colgados con cariño en las chimeneas.</info>
 <urlsolve>//listeamed.net/v/P0poO10qR41Ez17</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-"Tag= Malu3, Disney, 1Animacion, 1Fantastico, 1Aventuras, A2018, Letra K, C720, "
 
 <item>
 <title>[COLOR white] Kubo y las dos cuerdas magicas [/COLOR][COLOR gold](2018)[/COLOR]</title>    
@@ -2714,8 +2525,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/3Q0lxBW3gZZEj1J</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Aventura, 1Animacion 1Familia, 1Comedia, DreamWorks Letra K, A2008 "
+
 <item>
 <title>[COLOR white] Kung-Fu Panda [COLOR gold](2008)[/COLOR]</title>    
 <genre>Accion,Aventura,Animacion,Comedia,Familia</genre>
@@ -2727,8 +2537,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Aventura, 1Animacion 1Familia, 1Comedia, DreamWorks Letra K, A2012 "
 <item>
 <title>[COLOR white] Kung-Fu Panda 2 [COLOR gold](2012)[/COLOR]</title>    
 <genre>Accion,Aventura,Animacion,Comedia,Familia</genre>
@@ -2739,8 +2547,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/qM1VOPN27pYxo4k</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Aventura, 1Animacion 1Familia, 1Comedia, DreamWorks Letra K, A2012 "
+
 <item>
 <title>[COLOR white] Kung-Fu Panda 3 [COLOR gold](2012)[/COLOR]</title>    
 <genre>Accion,Aventura,Animacion,Comedia,Familia</genre>
@@ -2751,8 +2558,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/edVqE4rqbv15YWm</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Aventura, 1Animacion 1Familia, 1Comedia, DreamWorks Letra K, A2024 "
+
 <item>
 <title>[COLOR white] Kung-Fu Panda 4 [COLOR gold](2024)[/COLOR]</title>    
 <genre>Accion,Aventura,Animacion,Comedia,Familia</genre>
@@ -2763,9 +2569,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/4bQVOj7vVD35wKm</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, 1Fantastico, A2020, Letra L, EEUU, Pixar, Disney, C720, "
-
 <item>
 <title>[COLOR white] Lamp Life [COLOR gold](2020)[/COLOR]</title>    
 <genre>Animacion, Aventuras, Comedia, Fantastico</genre>
@@ -2775,9 +2578,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Bo Peep vuelve por la puerta grande a Toy Story 4 de Disney y Pixar y protagoniza el nuevo cortometraje de animacion de Pixar, Las aventuras de Bo Peep. Este corto relata que fue de la vida de Bo desde que la vimos por ultima vez en Toy Story 2.</info>
 <urlsolve>//listeamed.net/v/k3gG5q3JN2ZE1N2</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-"Tag= Malu3, Disney, 1Animacion, 1Infantil, A2017, Letra L, Australia, Insectos, "
 <item>
 <title>[COLOR white] La Abeja Maya: Los Juegos De La Miel [COLOR blur](2017)[/COLOR]</title>
 <genre>Animacion, Infantil</genre>
@@ -2787,9 +2588,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>La entusiasta abeja Maya mete la pata con la Emperatriz de Buzztropolis y debera unirse a un equipo de rebeldes insectos para competir en los Juegos de la Miel y salvar asi a su Reina y a sus compañeras de panal.</info>
 <urlsolve>//listeamed.net/v/NMRLEpraVD45XaG</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-"Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Infantil, A1977, Letra L, EEUU, Roedores, Disney, C720, "
 
 <item>
 <title>[COLOR white] La alfombra magica [COLOR gold](2018)[/COLOR]</title>
@@ -2800,9 +2598,9 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Hodja es un niño de Pjort, que toma prestada una alfombra voladora para ver el mundo. A cambio, tiene que encontrar y devolver el "diamante" a su abuelo.</info>
 <urlsolve>//listeamed.net/v/eL2157dqqqoxrw4</urlsolve>
 </item>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Infantil, Disney, Princesas, "
 
+
+<item>
 <title>[COLOR white] La Bella Durmiente [/COLOR][COLOR gold](1959)[/COLOR]</title>    
 <genre>Animacion</genre>
 <year>1959</year>  
@@ -2811,8 +2609,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Habia una vez dos reyes que esperaban con alegria el nacimiento de su primera hija, a la que llamarian Aurora. Para celebrarlo, organizaron una fiesta a la que invitaron a todos los habitantes del reino. Pero olvidaron invitar a la malvada bruja Malefica que, enfurecida, lanzo un terrible hechizo sobre la princesa: el dia de su decimosexto cumpleaños, se pincharia con el uso de una rueca y moriria. Pero sus tres divertidas hadas madrinas descubren una forma de romper el maleficio: no morira, permanecera dormida hasta que un valiente principe la bese...</info>
 <urlsolve>//listeamed.net/v/kKJVORWaa6w53XD</urlsolve>
 </item> 
----------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Infantil, Disney, Princesas,  "
+
 <item>
 <title>[COLOR white] La Bella y la Bestia [COLOR gold](1991)[/COLOR]</title>    
 <genre>Animacion</genre>
@@ -2823,8 +2620,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/k3gG5q3JkARE1N2</urlsolve>
 </item>
 
----------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, Familia, Fantasía, Romance, A2017 Disney, Princesas,  "
 <item>
 <title>[COLOR white] La Bella y la Bestia [COLOR gold](2017)[/COLOR]</title>    
 <genre>Familia, Fantasía, Romance</genre>
@@ -2834,8 +2629,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Bella, una joven hermosa y brillante, asume el lugar de su padre como prisionero en el castillo de una bestia. Poco a poco, la valiente Bella irá dándose cuenta de que el príncipe bestia no es el malvado ser que todos creen que es y tiene, en realidad, un gran corazón.</info>
 <urlsolve>//listeamed.net/v/eL2157dq60Bxrw4</urlsolve>
 </item>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Fantastico, 1Comedia, 1Infantil, 1Animacion, 1Aventuras, A1971, Letra L, EEUU, Familiar, Magia, Guerra, Disney, "
+
 
 <item>
 <title>[COLOR white] La Bruja Novata [COLOR gold](1971)[/COLOR]</title>    
@@ -2846,8 +2640,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>La excentrica Eglantine Price (Angela Lansbury) es una bruja aficionada que tiene que hacerse cargo, muy a su pesar, de tres niños londinenses que han sido evacuados al pequeño pueblo costero donde ella vive. Juntos lucharan contra el invasor aleman, empleando para ello un truco magistral de Eglantine. CS.</info>
 <urlsolve>//listeamed.net/v/8ozgENLR7NY5mjA</urlsolve>
 </item>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Infantil, Disney,  "
+
 <item>
 <title>[COLOR white] La Dama y el Vagabundo [COLOR gold](1955)[/COLOR]</title>    
 <genre>Animacion</genre>
@@ -2857,8 +2650,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Reina es una preciosa perrita de pura raza que vive feliz en su hogar. Isabel y Jaime, la miman mucho y ella corresponde feliz a sus cuidados. Sin embargo, el dia en que sus dueños deciden hacer un viaje, la vida de Reina se ve alterada; la llegada de la tia Clara con sus gatos no provoca mas que sobresaltos. Menos mal que conoce a Golfo, un perro vagabundo muy simpatico</info>
 <urlsolve>//listeamed.net/v/wP2050eqL1Gxdmy</urlsolve>
 </item>
----------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Infantil, Disney, "
+
+
 <item>
 <title>[COLOR white] La Dama y el Vagabundo 2 [COLOR gold](2001)[/COLOR]</title>    
 <genre>Animacion</genre>
@@ -2868,10 +2661,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Los encantadores perritos Reina y Golfo han sido padres de cuatro cachorros: Anette, Colette, Daniela y Golfillo. Este ultimo es el mas travieso de todos y se ve atraido por la libertad del mundo exterior lejos de las normas domesticas. Una noche escapa de casa y conoce a angela, una preciosa perrita huerfana que vive en las calles. Junto a ella y un grupo de nuevos amigos descubrira un mundo desconocido para el. ¿Encontrara Golfillo la aventura de su vida en las calles, o aprendera a valorar el amor que le brinda la familia que dejo atras?</info>
 <urlsolve>//listeamed.net/v/g9Vd5JW9NyjxqQj</urlsolve>
 </item>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Comedia, A2019, Letra L, EEUU, FAmiliar, Disney, C720, Dplus, "
- 
- 
+
+
 <item>
 <title>[COLOR white] La Dama Y El Vagabundo [COLOR gold](2019)[/COLOR]</title>    
 <genre>Animacion, Comedia</genre>
@@ -2881,10 +2672,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Remake CGi del clasico de Disney "La dama y el vagabundo" de 1955.</info>
 <urlsolve>//listeamed.net/v/njJYOd3MWZ7Ee9o</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-"Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Fantastico, 1Musical, 1Infantil, A1998, Letra L, EEUU, Medieval, Dragones, Warner Bros, C720, "
 
 <item>
 <title>[COLOR white] La Espada Magica. En Busca De Camelot [COLOR gold](1998)[/COLOR]</title>    
@@ -2895,9 +2682,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Excalibur, la espada magica del Rey Arturo, ha sido robada por un malvado villano poniendo en peligro el reino de Camelot. Para salvarlo, Kaley, una valiente joven cuyo sueño es ser caballero de la Mesa Redonda, acompañada de dos peculiares personajes, emprende la busqueda de la espada en un mundo tan fantastico como peligroso. </info>
 <urlsolve>//listeamed.net/v/m7WJxgJLYdA5Bze</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-"Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Aventura, 1Familia, A2019, Letra L, C1080 "
 <item>
 <title>[COLOR white] La Familia Adams [COLOR gold](2019)[/COLOR]</title>   
 <genre>Animacion,Comedia,Aventura,Familia</genre>
@@ -2908,9 +2693,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/8ozgENLR7KJ5mjA</urlsolve> 
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-"Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Aventura, 1Familia, A2021, Letra L, C1080 "
 
 <item>
 <title>[COLOR white] La Familia Adams 2: La Gran Escapada [COLOR gold](2021)[/COLOR]</title>   
@@ -2921,9 +2703,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Con la esperanza de acercarse como familia, Gómez, Morticia y el resto del clan Addams se embarcan en un aventurero viaje por carretera en una horrenda y gigantesca caravana.</info>
 <urlsolve>//listeamed.net/v/P0poO10q6QDEz17</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-"Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Infantil, A2020, Letra L, Spain, Musica, Aves, Filmax, C720, "
 
 <item>
 <title>[COLOR white] La Gallina Turuleca [COLOR gold](2020)[/COLOR]</title>    
@@ -2934,10 +2714,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Turuleca es una gallina singular. Su peculiar aspecto desata las burlas del resto del gallinero, hasta que un dia, Isabel, una exprofesora de musica, la lleva a vivir a su granja. Alli, feliz y en armonia, la gallina descubre su gran talento oculto con la ayuda de Isabel: ¡Turuleca no solo puede hablar, sino que canta como jamas has oido cantar a una gallina!</info>
 <urlsolve>//listeamed.net/v/VqbX53gq6J85Qzp</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-"Tag= Malu3, Disney, 1Animacion, 1Infantil, 1Comedia, A2003, Letra L, EEUU, Disney, C1080, "
 
 <item>
 <title>[COLOR white] La Gran Pelicula De Piglet [COLOR gold](2003)[/COLOR]</title>    
@@ -2948,10 +2725,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Una historia de amistad y de aprendizaje; para sentirse grande no hace falta hacer grandes cosas. El pequeño cerdito Piglet se siente inferior porque sus amigos comienzan la "cosecha de la miel" y a el le dicen que es demasiado pequeño para participar. Cuando Piglet desaparece, todos sus amigos comienzan a buscarle, y descubriran que el pequeño animal ha sido un gran heroe en muchos aspectos.</info>
 <urlsolve>//listeamed.net/v/LQm9OXNll7Mx1lg</urlsolve> 
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-"Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Infantil, A2015, Letra L, EEUU, Disney, "
 <item>
 <title>[COLOR white] La Guardia Del Leon: El Regreso Del Rugido [COLOR gold](2015)[/COLOR]</title> 
 <genre>Animacion, Aventuras, Infantil</genre>
@@ -2962,9 +2737,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/tjd4oiwot9ms"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD[/COLOR]","url" : "https://vanfem.com/v/x386ki5jqry6jp8"}</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
-"Tag= Malu3, Disney,1Aventura, 1Fantasia, 1Familiar, A1984, Letra L " 
+
 
 <item>
 <title>[COLOR white] La Historia Interminable [COLOR gold](1984)[/COLOR]</title>    
@@ -2977,10 +2750,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 
 
-----------------------------------------------------------------------------------------------------------------------
- 
-"Tag= Malu3, Disney,1Aventura, 1Fantasia, 1Familiar, A1990, Letra L " 
-
 <item>
 <title>[COLOR white] La Historia Interminable II:El Siguiente Capitulo [COLOR gold](1990)[/COLOR]</title>    
 <genre>Familia,Aventura,Fantasia</genre>
@@ -2992,10 +2761,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 
 
-----------------------------------------------------------------------------------------------------------------------
- 
-"Tag= Malu3, Disney,1Aventura, 1Fantasia, 1Familiar, A1994, Letra L " 
-
 <item>
 <title>[COLOR white] La Historia Interminable III:Las Aventuras De Bastian [COLOR gold](1994)[/COLOR]</title>    
 <genre>Familia,Aventura,Fantasia</genre>
@@ -3005,10 +2770,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>El deseo de Bastian de tener un hermano o hermana se convierte finalmente en realidad cuando su padre anuncia que se va a volver a casar. Desafortunadamente, Bastian no congenia con su hermanastra Nicole. Sus problemas aumentan cuando se convierte en víctima de Los Bestias, una banda de fanfarrones de su nuevo colegio. Ocultándose de ellos en la biblioteca del colegio, Bastian encuentra por casualidad su libro preferido, -La historia interminable-, se esconde en un cuarto oscuro y pide el deseo de regresar a Fantasía. Desconcertados por su desaparición, Los Bestias deciden abandonar su búsqueda, pero descubren el libro en el suelo. Slip, el líder de la pandilla, comienza a leerlo y se da cuenta del poder que posee.</info>
 <urlsolve>//listeamed.net/v/g9Vd5JW9j96xqQj</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-"Tag= Malu3, Disney, 1Aventuras, 1Drama, 1Fantastico, 1Intriga, 1Familiar, A2011, Letra L, EEUU, Paramount Pictures, "
 
 <item>
 <title>[COLOR white] La Invencion de Hugo [COLOR gold](2011)[/COLOR]</title> 
@@ -3019,9 +2781,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Paris, años 30. Hugo (Asa Butterfield) es un niño huerfano, relojero y ladron que vive entre los muros de una ajetreada estacion de trenes parisina. Nadie sabe de su existencia hasta que le descubre una excentrica niña (Chloë Moretz) junto a la que vivira una increible aventura...</info>
 <urlsolve>//listeamed.net/v/b4ZJx21qDYR52P3</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-"Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Infantil, A1977, Letra L, EEUU, Roedores, Disney, C720, "
 
 <item>
 <title>[COLOR white] La LEGO pelicula 2 [COLOR gold](2019)[/COLOR]</title>    
@@ -3034,10 +2793,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-"Tag= Malu3, Disney, 1Animacion, 1Fantasia, A2019, Letra L "
-
 <item>
 <title>[COLOR white]  La leyenda de Hei [COLOR gold](2019)[/COLOR]</title>  
 <genre>Animacion,Fantasia</genre>
@@ -3047,9 +2802,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Durante generaciones, los humanos han creído que los demonios eran leyendas, sin saber que realmente coexisten con nosotros. Hei es un gato demonio que ha vivido siempre feliz en los bosques de las montañas, hasta que la expansión de la ciudad acaba destruyendo su propio hogar. En ese momento, Hei comienza a vagar por el mundo buscando un nuevo lugar en el que cobijarse. (</info>
 <urlsolve>https://vanfem.com/v/5knj1sdelqz07lq</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-"Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Infantil, A1977, Letra L, EEUU, Roedores, Disney, C720, "
 
 <item>
 <title>[COLOR white] La muerte de Superman. Parte 1  [COLOR gold](2018)[/COLOR]</title> 
@@ -3060,9 +2813,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Adaptación del cómic 'The Death of Superman' que DC comics lanzó en los años 90s donde supuestamente Superman era asesinado por uno de los más temibles villanos a los que se ha enfrentado, una bestia llamada Doomsday. Tanto en Estados Unidos como en España fue lanzada directamente al mercado del vídeo y DVD.</info>
 <urlsolve>https://embedv.net/v/wP2050eZbALxdmy</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-"Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Infantil, A1977, Letra L, EEUU, Roedores, Disney, C720, "
 
 <item>
 <title>[COLOR white] La muerte de Superman. Parte 2: El reinado de los superhombres  [COLOR gold](2019)[/COLOR]</title> 
@@ -3073,8 +2824,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Tras el sacrificio de Superman para derrotar a Doomsday, el mundo se ha llenado de nuevas versiones del superheroe que tratan de luchar contra el crimen, con personajes variopintos como Superboy, Steel, Cyborg Superman o Eradicator cuya funcion social es duramente criticada por los medios. Continuacion de la pelicula de 2018 "La muerte de Superman".</info>
 <urlsolve>https://embedv.net/v/qL0YEyPnllKxDRX</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Fantastico, 1Infantil, A1949, Letra L, EEUU, Disney, C720, "
 
 <item>
 <title>[COLOR white] La Leyenda De Sleepy Hollow Y El Señor Sapo [COLOR gold](1949)[/COLOR]</title>    
@@ -3085,8 +2834,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>"La leyenda de Sleepy Hollow y el Señor Sapo" es un largometraje animado de 1949, producido por Walt Disney y distribuido por RKO Radio Pictures. Es el undecimo en el canon de largometrajes animados de The Walt Disney Company y en la lista de Los Clasicos de Walt Disney. Es considerado como una "pelicula-paquete", como Saludos Amigos, Los tres caballeros, Musica maestro, Fun and Fancy Free y Melody Time, que los estudios Disney realizaron durante la decada de 1940 como resultado de la dificil situacion que atravesaron tras la Segunda Guerra Mundial. Esta compuesto por dos cortos, El Señor Sapo y La leyenda de Sleepy Hollow. (Fuente: Wikipedia) CS.</info>
 <urlsolve>//listeamed.net/v/kKJVORWaMr953XD</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, 1Accion, A2015, Letra L, EEUU, Superheroes, Comic, Lego, Warner Bros, "
+
 <item>
 <title>[COLOR white] La Liga De La Justicia Contra La Liga De Bizarro [COLOR gold](2015)[/COLOR]</title> 
 <genre>Animacion, Aventuras, Comedia, Accion</genre>
@@ -3096,8 +2844,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Superman, Batman y el resto de la Liga de la Justicia debera enfrentarse a sus versiones bizarras: unos clones bastante extraños creados por el malvado Lex Luthor. No les quedara mas remedio que formar una alianza si desean derrotar a un villano inesperado: Darkseid.</info>
 <urlsolve>https://watchsb.com/e/9iwgpdd9s0xd</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Accion, 1Comedia, A2015, Letra L, EEUU, Superheroes, Comic, Lego, Warner Bros, "
+
 <item>
 <title>[COLOR white] La Liga De La Justicia: El Ataque De La Legion Del Mal [COLOR gold](2015)[/COLOR]</title> 
 <genre>Animacion, Aventuras, Accion, Comedia</genre>
@@ -3108,9 +2855,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://embedv.net/v/qL0YEyPndKzxDRX</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
-"Tag= Malu3, Disney,1Musical, 1Familiar,1Fantasia, A2020, Letra L," 
 
 <item>
 <title>[COLOR white] La Navidad Magica De Los Jangle [COLOR gold](2020)[/COLOR]</title>    
@@ -3121,8 +2865,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Un mundo imaginario cobra vida en la historia de un excéntrico creador de juguetes, su aventurera nieta y una invención mágica que tiene el poder de cambiar sus vidas para siempre.</info>
 <urlsolve>//listeamed.net/v/Ro7kOVVy9pNOZWB</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Infantil, A2017, Letra L,Warner Bros "
 
 <item>
 <title>[COLOR white] La novia cadaver  [COLOR gold](2005)[/COLOR]</title>
@@ -3133,8 +2875,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Un hombre pone en el dedo de una mujer muerta, como broma, un anillo de compromiso. Pero lo que no sabe el pobre mortal es que la muerta reclamara sus derechos como "prometida".</info>
 <urlsolve>//listeamed.net/v/nyg9EKDpQj6Obk4</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Accion, 1Aventuras, 1Ciencia Ficcion, A2018, Letra L, China, Robots, Netflix, "
 
 <item>
 <title>[COLOR white] La Nueva Generacion [COLOR gold](2018)[/COLOR]</title> 
@@ -3145,8 +2885,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>La amistad de una chica solitaria con un robot secreto convierte su vida en una gran aventura en la que ambos se enfrentan a matones, a robots malvados y a un loco malevolo.</info>
 <urlsolve>//listeamed.net/v/KNWlEDNPzzm5kbp</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Infantil, A2005, Letra L, EEUU, Animales, Osos, Disney, C720, "
+
 <item>
 <title>[COLOR white] La Pelicula De Heffalump. Winnie Pooh Y El Pequeño Efelante [COLOR gold](2005)[/COLOR]</title>    
 <genre>Animacion, Aventuras, Infantil</genre>
@@ -3156,8 +2895,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>La pandilla del Bosque de los Cien Acres decide lanzarse a la caza y captura de los temidisimos Heffalump, al despertarles un sonido atronador que solo puede proceder de esas aterradoras criaturas. A pesar de que le consideran demasiado pequeño para participar en una expedicion tan peligrosa, el pequeño Rito se lanza el solito a la busqueda y con mucha mas fortuna que sus amiguitos. Pero al conocer a Lumpy, un pequeño Heffalump, Rito descubre que los Heffalump no tienen nada que ver con las criaturas siniestras de los cuentos que el conocia, y que Lumpy tambien tiene miedo de sus amiguitos. Rito y Lumpy entablan una tierna amistad y se ponen manos a la obra para disipar los miedos de sus amigos y sus familiares.</info>
 <urlsolve>//listeamed.net/v/qM1VOPN2PPBxo4k</urlsolve> 
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Infantil, A2000, Letra L, EEUU, Animales, Disney, C720, "
 
 <item>
 <title>[COLOR white] La Pelicula De Tigger. Las Nuevas Aventuras De Winnie The Pooh [COLOR gold](2000)[/COLOR]</title>    
@@ -3168,8 +2905,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Una de las caracteristicas de los tigres del Bosque de Cien Acres, ademas de tener la cola como un muelle y la piel a rayas, es que solo hay uno, nuestro amigo Tigger . Pero Tigger, amigo del inconfundible Winnie the Pooh , esta empeñado en buscar a su familia, que el cree viven en el arbol mas grande del bosque. Con esta busqueda de Tigger combatiendo el frio invierno y las tormentas de nieve, llegamos a la conclusion de que la peculiaridad de ser unico puede significar tambien estar solo en el mundo. Aunque esto no le pasa al protagonista de esta historia, que se da cuenta de que sus amigos del bosque, Winnie, Rito el canguro, Igor el burro y Piglet el cerdito, son su verdadera familia. Final feliz y mensaje de regalo.</info>
 <urlsolve>//listeamed.net/v/edVqE4rqDn05YWm</urlsolve> 
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Comedia, A2015, Letra L, EEUU, Pixar, "
 
 <item>
 <title>[COLOR white] La Primera Cita De Riley? [COLOR gold](2015)[/COLOR]</title> 
@@ -3180,8 +2915,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Riley se prepara para su primera cita bajo la atenta mirada de las emociones de sus padres. Cortometraje incluido en los contenidos extra de 'Del reves (Inside Out)'. </info>
 <urlsolve>//listeamed.net/v/m7WJxgJL2pd5Bze</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Fantastico, 1Infantil, A2014, Letra L, EEUU, Princesas, "
 
 <item>
 <title>[COLOR white] La Princesa Cisne: El Cuento De La Familia Real [COLOR gold](2014)[/COLOR]</title>
@@ -3192,9 +2925,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Poco despues de que la familia real adopte una joven llamada Alise, ella se adentra en el bosque. La princesa Odette, Derek y sus amigos del bosque deben trabajar juntos para encontrar una manera de traer a Alise de vuelta al castillo. </info>
 <urlsolve>//listeamed.net/v/vQBYEbNPan4En1m</urlsolve> 
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Aventuras, A2020, Letra L, EEUU, Sony, C720, "
- 
+
 <item>
 <title>[COLOR white]  La Princesa Cisne. Una Boda Real [/COLOR][COLOR gold](2020)[/COLOR]</title>    
 <genre>Animacion, Aventuras</genre>
@@ -3204,8 +2935,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>La princesa Odette y el principe Derek van a la boda de la princesa Mei y su prometido. Pero hay fuerzas malignas que intentan destruirlo todo. </info>
 <urlsolve>//listeamed.net/v/7QWN5ey4V2l59oR</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Fantastico, 1Infantil, A2012, Letra L, EEUU, Telefilm, Disney, C720, Princesas, "
 
 <item>
 <title>[COLOR white] La Princesa Sofia. Erase Una Vez Una Princesa [COLOR gold](2012)[/COLOR]</title>    
@@ -3217,8 +2946,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://www.dailymotion.com/video/x349g6x</urlsolve> 
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Aventura 1Animacion, 1Familia, 1Comedia, 1Fantasia DreamWorks Letra J, A2000 "
 <item>
 <title>[COLOR white] La Ruta Hacia El Dorado [COLOR gold](2000)[/COLOR]</title>    
 <genre>Animacion,Familia,Aventura,Comedia,Fantasia</genre>
@@ -3229,8 +2956,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/PlBVEZ0dRNG5Dv9</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Fantastico, C1080, "
 
 <item>
 <title>[COLOR white] La Sirenita [COLOR gold](2018)[/COLOR]</title>  
@@ -3242,8 +2967,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/njJYOd3M2mqEe9o</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Fantastico, 1Familia, C1080, "
 
 <item>
 <title>[COLOR white] La Sirenita [COLOR gold](2023)[/COLOR]</title>  
@@ -3254,8 +2977,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Ariel es una joven y soñadora sirena, hija del Rey Tritón, que está cansada de su vida como princesa bajo el mar. Su mayor deseo es abandonar el fondo marino y tener una vida normal y apacible en la superficie. La bruja Úrsula descubre su anhelo y, por eso, a cambio de su preciosa voz le ofrece un cuerpo totalmente humano. Ariel acepta, movida por su pasión por conocer el mundo terrestre y porque está enamorada de un apuesto príncipe humano. Pero las cosas no serán fáciles para Ariel, ya que la bruja Úrsula esconde oscuras intenciones.</info>
 <urlsolve>//listeamed.net/v/rabVOQQwrbAOKdW</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Fantastico, 1Musical, 1Infantil,Disney, C1080, "
 
 <item>
 <title>[COLOR white] La Sirenita [COLOR gold](1989)[/COLOR]</title>  
@@ -3266,8 +2987,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Ariel, hija del rey Triton, es la princesa de las sirenas. Esta a punto de celebrarse su fiesta de cumpleaños y su mayor ilusion es poder conocer a los seres humanos. Con la ayuda de la bruja ursula, Ariel consigue subir a la superficie, donde salva de morir ahogado a un hermoso principe, cuyo barco acaba de naufragar, del que se enamora perdidamente.</info>
 <urlsolve>//listeamed.net/v/ZMVoEr8Xgwe59Pa</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Fantastico, 1Musical, 1Infantil,Disney, C1080, "
 
 <item>
 <title>[COLOR white] La sirenita 2: Regreso al mar [COLOR gold](2000)[/COLOR]</title>  
@@ -3278,8 +2997,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Ariel y el Principe Eric viven felices desde que por fin consiguieron casarse, superando todos los obstaculos a los que se enfrentaron en ”La Sirenita”, y ambos son padres de una preciosa niña, Melody. Ahora que la malvada ursula ya no existe, la vida sonrie a Ariel y al resto de la familia. Sin embargo, la llegada de la hermana de ursula, Morgana, pone en peligro el futuro de la pequeña. Para proteger a su hija, Ariel y Eric deciden no hablarle del pasado de Ariel como sirena, y construyen una enorme muralla para mantener el castillo aislado del mar...</info>
 <urlsolve>//listeamed.net/v/PKN4Own6ypVEDLj</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Fantastico, 1Comedia, 1Aventuras, 1Comedia, 1Infantil, 1Familiar, Disney, C720, "
 
 <item>
 <title>[COLOR white] La Sirenita 3: El origen de La Sirenita [COLOR gold](2008)[/COLOR]</title>  
@@ -3292,8 +3009,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Musica, 1Comedia, 1Aventuras, 1Comedia, 1Infantil, 1Familiar, A1987, Disney, C1080, "
 
 <item>
 <title>[COLOR white] La Tostadora Valiente [COLOR gold](1987)[/COLOR]</title>  
@@ -3304,9 +3019,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Ésta película cuenta la historia de la Tostadora, Manty (la manta eléctrica), Lampy (la lámpara), la Radio, y Kirby (la aspiradora), quienes viven en una casa de campo, junto a su dueño, niño que era su dueño y jugaba con ellos pero un día se fue, desde entonces los aparatos han estado esperando el día que su dueño volviera, pero una mañana alguien se bajó de un coche y colocó un cartel de "EN VENTA" delante de la casa. Así que deciden ir con una batería a buscar a su dueño a la ciudad. Pero se desvían y acaban en cascadas, lagos y tiendas de piezas de aparatos. Por otra parte el dueño que ya es mayor y tiene que irse a la universidad quiere ir a la casa de campo a por sus cosas, los aparatos de la casa moderna se enteran y deciden deshacerse de ellos y cuando los aparatos llegan a la casa estos los tiran a un contenedor rumbo a un vertedero.</info>
 <urlsolve>//listeamed.net/v/4bQVOj7v2em5wKm</info>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-"Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Infantil, A1977, Letra L, EEUU, Roedores, Disney, C720, "
 
 <item>
 <title>[COLOR white] La Vida de Calabacin [COLOR gold](2016)[/COLOR]</title>    
@@ -3317,8 +3030,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Calabacin es un niño valiente que despues de perder a su madre tiene que ingresar en un hogar de acogida, con otros niños huerfanos de su edad. En un primer momento se esfuerza por encontrar su lugar en este nuevo medio hostil. Sin embargo, con la ayuda de sus nuevos amigos, Calabacin aprende a confiar, encuentra el verdadero amor y una nueva familia.</info>
 <urlsolve>//listeamed.net/v/7QWN5ey4Vll59oR</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Aventuras, 1Comedia, A1956, Letra L, EEUU, Clasico, Familiar, Warner Bros, "
+
 <item>
 <title>[COLOR white] La Vuelta Al Mundo En 80 Dias [COLOR gold](1956)[/COLOR]</title>    
 <genre>Aventuras, Comedia</genre>
@@ -3328,8 +3040,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Adaptacion de la novela homonima de Julio Verne. Un ladron ha robado 55.000 libras del banco de Inglaterra. Todos creen que ha sido Phileas Fogg, un autentico caballero ingles, que ha hecho una apuesta con sus compañeros de club, asegurando que es capaz de dar la vuelta al mundo en 80 dias.</info>
 <urlsolve>//listeamed.net/v/qL0YEyPgyApxDRX</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, Disney, "
 
 <item>
 <title>[COLOR white] Las aventuras de Bongo, Mickey y las judias magicas  [COLOR gold](1947)[/COLOR]</title>    
@@ -3341,8 +3051,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/b4ZJx21qgJV52P3</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Aventura, 1Familia, DreamWorks Letra L, A2014 "
 <item>
 <title>[COLOR white] Las Aventuras De Peabody Y Sherman [COLOR gold](2014)[/COLOR]</title>    
 <genre>Animacion,Aventura,Familia</genre>
@@ -3352,8 +3060,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Los personajes de la serie animada de los 60 The Rocky & Bullwinkle Show, Mr. Peabody y Sherman, se cuelan en la gran pantalla adquiriendo una nueva dimensión 3D. En esta ocasión el perro parlante más inteligente del mundo, Mr. Peabody y su mascota Sherman, un enérgico niño bastante ingenuo, se adentrarán en nueva una aventura determinante en el curso de la historia universal. Cuando Sherman desastrosamente avería la máquina del tiempo, la peculiar pareja se ve obligada a recomponer los hechos y arreglar la máquina antes de que sea demasiado tarde y el continuo espacio-tiempo se destruya afectando irreparablemente a nuestra existencia.</info>
 <urlsolve>//listeamed.net/v/qL0YEyPgKbJxDRX</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, "
 
 <item>
 <title>[COLOR white] Las aventuras de Tintín: El secreto del unicornio [COLOR gold](2011)[/COLOR]</title>    
@@ -3364,8 +3070,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Tintín, un joven periodista dotado de una curiosidad insaciable, y su leal perro Milú descubren que la maqueta de un barco contiene un enigmático y secular secreto que deben investigar. A partir de ese momento, Tintín se verá acosado por Ivan Ivanovitch Sakharine, un diabólico villano que cree que el joven ha robado un valioso tesoro vinculado a un cruel pirata llamado Rackham el Rojo. Pero, con la ayuda de Milú, del cascarrabias capitán Haddock y de los torpes detectives Hernández y Fernández, viajará por medio mundo, sirviéndose de su proverbial astucia para burlar a sus perseguidores y encontrar antes que ellos El Unicornio, un navío hundido que puede proporcionar la clave de una fabulosa fortuna y de una antigua maldición.</info>
 <urlsolve>//listeamed.net/v/8ozgENLRkVY5mjA</urlsolve>
 </item>
--------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Aventuras, 1Comdeia, 1Familiar, "
+
 
 <item>
 <title>[COLOR white] Las aventuras del Doctor Dolittle [COLOR gold](2020)[/COLOR]</title>    
@@ -3376,8 +3081,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Despues de perder a su mujer hace siete años, el excentrico Dr. John Dolittle , un reputado doctor y veterinario, se encerro en si mismo tras los muros de su mansion con la unica compañia de su coleccion de animales exoticos. Pero cuando la joven reina cae gravemente enferma, Dolittle tendra que dejar, muy a su pesar, su vida de ermitaño para embarcarse en una epica aventura a una mitica isla en busca de una cura, recuperando su sentido del humor y su coraje a medida que se cruza con viejos adversarios y mientras descubre maravillosas criaturas.</info>
 <urlsolve>//listeamed.net/v/Ro7kOVVywZBOZWB</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Aventuras, 1Fantastico, 1Familiar, Disney, "
 
 <item>
 <title>[COLOR white] Las cronicas de Narnia: El leon, la bruja y el armario [COLOR gold](2005)[/COLOR]</title>  
@@ -3388,9 +3091,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>La historia narra las aventuras de cuatro hermanos: Lucy, Edmund, Susan y Peter que, durante la Segunda Guerra Mundial, descubren el mundo de Narnia, al que acceden a traves de un armario magico mientras juegan al escondite en la casa de campo de un viejo profesor. En Narnia descubriran un mundo increible habitado por animales que hablan, duendes, faunos, centauros y gigantes al que la Bruja Blanca- Jadis- ha condenado al invierno eterno. Con la ayuda del leon Aslan, el noble soberano, los niños lucharan para vencer el poder que la Bruja Blanca ejerce sobre Narnia en una espectacular batalla y conseguir asi liberarle de la maldicion del frio.</info>
 <urlsolve>https://vgembed.com/v/3Q0lxBWW64mEj1J</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
  
-"Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Infantil, A1977, Letra L, EEUU, Roedores, Disney, C720, "
 
 <item>
 <title>[COLOR white] Las cronicas de Narnia: El principe Caspian  [COLOR gold](2008)[/COLOR]</title>  
@@ -3401,9 +3102,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>La accion de "Las cronicas de Narnia. El Principe Caspian" transcurre un año despues de los increibles acontecimientos de "El Leon, la Bruja y el Armario", cuando los reyes y las reinas de Narnia -los 4 hermanos Pevensie- vuelven a reunirse en ese remoto y fantastico mundo, donde descubriran que han pasado mas de 1.300 años, calculados en tiempo narniano. Durante su ausencia, la Edad de Oro de Narnia ha terminado, y los Telmarinos han conquistado el reino de Narnia, que ahora esta dominado por el malvado Rey Miraz, que gobierna sin piedad. Los cuatro niños no tardaran en conocer un nuevo y extraño personaje: el joven Principe Caspian, heredero legitimo al trono que se ha visto obligado a esconderse ya que su tio Miraz trama su asesinato para colocar a su hijo recien nacido en el trono. Con la ayuda del bondadoso duende, un valiente raton parlante llamado Reepicheep, de un tejon llamado Trufflehunter y de un Duende Negro, Nikabrik, los Narnianos, liderados por los poderosos caballeros Peter y Caspian, se embarcan en un extraordinario viaje para encontrar a Aslan, liberar Narnia del yugo tiranico de Miraz y restaurar la magia y la paz en el territorio.</info>
 <urlsolve>https://vgembed.com/v/7QWN5eyya9059oR</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-"Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Infantil, A1977, Letra L, EEUU, Roedores, Disney, C720, "
 
 <item>
 <title>[COLOR white] Las cronicas de Narnia: La travesia del viajero del alba  [COLOR gold](2010)[/COLOR]</title>  
@@ -3414,12 +3113,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Tercera entrega de la saga literaria creada por C.S. Lewis. En esta ocasion, los hermanos Edmund y Lucy Pevensie y su primo Eustace embarcan en la nave El Viajero del Alba para buscar a los siete caballeros que han sido expulsados del reino por Miraz, el usurpador del trono de Narnia.</info>
 <urlsolve>https://vgembed.com/v/NMRLEprrNY45XaG</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-"Tag= Malu3, Disney, 1Animacion, 1Aventuras, A2020, Letra L, EEUU, Superheroes, Lego, Warner Bros, C720, "
 
 <item>
 <title>[COLOR white]  Lego DC. ¡Shazam! Magia Y Monstruos [/COLOR][COLOR gold](2020)[/COLOR]</title>    
@@ -3430,10 +3123,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Con el estilo de animacion de los bloques de juguete favoritos de todos, ‘LEGO DC Shazam: Magia y Monstruos’ sigue al joven protagonista, el nuevo heroe sensacion invitado a unirse a la Liga de la Justicia, con la condicion de revelar su identidad como el niño Billy Batson. Sin embargo, todo se complica cuando los heroes son transformados en niños por la Monstruosa Sociedad del Mal.</info>
 <urlsolve>https://embedv.net/v/8lKQxYVWMwgEDGY</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-"Tag= Malu3, Disney, 1Animacion, 1Infantil, 1Aventuras, 1Comedia, A2018, Letra L, Italia, Piratas, "
 
 <item>
 <title>[COLOR white] Leo Da Vinci: Mision Mona Lisa [COLOR gold](2018)[/COLOR]</title> 
@@ -3444,12 +3134,9 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Leonardo Da Vinci, un joven pintor e inventor con mucha ideas en la cabeza, queda totalmente enamorado de Lisa, una chica que un dia pierde su casa a causa de un incendio. A Leo, empeñado en ayudarla, se le ocurre una aventura loca y emocionante a partes iguales que podria arreglar su situacion. Quiere encontrar el barco pirata que años atras naufrago cerca de la isla de Montecristo para recuperar el fabuloso tesoro que se dice que esconde. Con este tesoro cree que los problemas de Lisa se podrian solucionar, asi que ambos, junto a sus amigos, empezaran un viaje que no sera nada facil. Y no seran los unicos que quieran conseguir el tesoro.</info>
 <urlsolve>//listeamed.net/v/m7WJxgJLPzr5Bze</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-
-"Tag= Malu3, Disney,1Animacion, 1Infantil,Disney "
 <item>
 <title>[COLOR white] Lilo y Stich [COLOR gold](2002)[/COLOR]</title>    
 <genre>Animacion</genre>
@@ -3459,10 +3146,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Lilo, una niña hawaiana que se siente sola, decide adoptar un "perro" muy feo al que llama Stitch, que podria ser la compañia perfecta si no fuera en realidad el fruto de un experimento genetico que se ha escapado de un planeta alienigena y que ha aterrizado en la tierra por casualidad. Con su amor y su inquebrantable fe en el "ohana" (el concepto hawaiano de la familia), Lilo termina conquistando el corazon de Stitch y le ofrece algo que el original perro nunca penso tener: un hogar. </info>
 <urlsolve>//listeamed.net/v/ao9rxoRwKVe5yGe</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-"Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Ciencia Ficcion, 1Infantil, A2005, Letra L, EEUU, Extraterrestres, Secuela, Precuela, Disney, C720, "
 <item>
 <title>[COLOR white] Lilo & Stitch 2. El Efecto Del Defecto [COLOR gold](2005)[/COLOR]</title>    
 <genre>Animacion, Comedia, Ciencia Ficcion, Infantil</genre>
@@ -3472,9 +3157,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Lilo quiere seguir los pasos de su madre y presentarse a un concurso de baile hawaiano. Por su parte, Stitch se porta cada vez mejor haciendo que su “nivel de bondad” sea cada vez mas alto. La vida en Hawai parece ir a las mil maravillas… hasta que Stitch sufre un “fallo tecnico” y todo empieza a desbaratarse. Lilo, Nani, David y Jumba van a necesitar todo el “Ohana” del mundo para salvar a su pequeño amigo.</info>
 <urlsolve>//listeamed.net/v/VqbX53gqWz95Qzp</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-"Tag= Malu3, Disney, 1Animacion, 1Infantil, 1Comedia, A1977, Letra L, EEUU, Animales, Osos, Disney, C720, "
 
 <item>
 <title>[COLOR white] Lo Mejor De Winnie The Pooh [COLOR gold](1977)[/COLOR]</title>    
@@ -3485,8 +3168,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>El osito Pooh es el mejor amigo que puedes dar a tus hijos. Con el aprenderan valores como la amistad, el compañerismo y la generosidad. Ideal para niños de 2 a 7 años. Siguiendo la tradicion de las grandes obras maestras de Disney como Cenicienta y Peter Pan, llega el Clasico animado nº 22 de Walt Disney inspirado en las fantasticas historias de A.A. Milne. En este video encontraras una recopilacion de las mejores aventuras de Winnie The Pooh, creadas por el propio Walt Disney. Contiene: Winnie The Pooh y el Arbol de la Miel, Winnie The Pooh y el Bosque Encantado, ganadora de un Oscar al Mejor Corto Animado y "Winnie The Pooh... ¡ Y Tigger Tambien!. Disfruta con Pooh y sus amigos de las mas intrepidas aventuras en el bosque de los Cien Acres. -informacion de la distribuidora-CS.</info>
 <urlsolve>//listeamed.net/v/7QWN5ey43kb59oR</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Infantil, Disney, "
+
+
 <item>
 <title>[COLOR white] Los Aristogatos [COLOR gold](1970)[/COLOR]</title>    
 <genre>Animacion</genre>
@@ -3497,8 +3180,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/KNWlEDNPAKK5kbp</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Aventura, 1Comedia, 1Fantasia, 1Accion, 1Familia, DreamWorks Letra L, A2013 "
+
 <item>
 <title>[COLOR white] Los Croods [COLOR gold](2013)[/COLOR]</title>    
 <genre>Animacion,Aventura,Familia,Comedia,Fantasia,Accion</genre>
@@ -3509,8 +3191,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/wP2050eqnNexdmy</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, 1Aventura, 1Comedia, 1Fantasia, 1Accion, 1Familia, DreamWorks Letra L, A2020 "
+
 <item>
 <title>[COLOR white] Los Croods 2: Una Nueva Era [COLOR gold](2020)[/COLOR]</title>    
 <genre>Animacion,Aventura,Familia,Comedia,Fantasia,Accion</genre>
@@ -3521,8 +3202,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/qL0YEyPgK0KxDRX</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney, 1Animacion, Letra L, A2019 "
 <item>
 <title>[COLOR white]  Los Fixies contra los Crabots [COLOR gold](2019)[/COLOR]</title>  
 <genre>Animacion</genre>
@@ -3534,8 +3213,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-"Tag= Malu3, Disney,1Familiar, 1Ado,Warner Bros "
 <item>
 <title>[COLOR white] Los Goonies [COLOR gold](1985)[/COLOR]</title>    
 <genre> Adolescencia, Comedia juvenil, Amistad</genre>
@@ -3545,10 +3222,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Mikey es un niño de trece años que junto con su hermano mayor y sus amigos forman un grupo que se hacen llamar "los Goonies". Un dia deciden subir al desvan de su casa, donde su padre guarda antigüedades. Alli encuentran el mapa de un tesoro perdido que data del siglo XVII, de la epoca de los piratas, y deciden salir a buscarlo repletos de espiritu aventurero.</info>
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://embedv.net/v/MAlwEMYWqdlEJ39"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red] Torrent 4K UHDremux[/COLOR]","url" : "magnet:?xt=urn:btih:LK6FH3SKG4UUFMKCI4T4BVOQBX5MZ7XJ"}</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-"Tag= Malu3, Disney, 1Animacion, 1Comedia, 1Fantastico, 1Aventuras, A2020, Letra L, Canada, Familia, Netflix, C720, "
 
 <item>
 <title>[COLOR white] Los Hermanos Willoughby [COLOR gold](2020)[/COLOR]</title>    
@@ -3559,10 +3233,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Los hermanos Willoughby estan convencidos de que sin sus (egoistas) padres les iria mucho mejor. Cuando consiguen mandarlos de vacaciones, los cuatro niños se embarcan en una aventura en busca del verdadero significado de la familia.</info>
 <urlsolve>//listeamed.net/v/rabVOQQwy8gOKdW</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-"Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Comedia, 1Accion, A2004, Letra L, EEUU, Superheroes, Pixar, "
 <item>
 <title>[COLOR white] Los Increibles [COLOR gold](2004)[/COLOR]</title>     
 <genre>Animacion,Aventuras,Comedia,Accion</genre>
@@ -3572,9 +3244,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Bob Parr era uno de los mas grandes superheroes del mundo (tambien se le conocia como "Mr. Increible"), salvaba vidas y luchaba contra villanos a diario. Han pasado 15 años, y Bob y su mujer (una famosa ex-superheroina por derecho propio) han adoptado una identidad civil y se han retirado a la periferia para llevar una vida normal con sus tres hijos. Bob se dedica a comprobar los plazos de las reclamaciones de seguros y lucha contra el aburrimiento y los michelines. Esta deseando volver a entrar en accion, asi que cuando recibe una misteriosa comunicacion que le ordena dirigirse a una remota isla para cumplir una mision de alto secreto, no se lo piensa dos veces.</info>
 <urlsolve>//listeamed.net/v/VqbX53gqZaa5Qzp</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-"Tag= Malu3, Disney, 1Animacion, 1Aventuras, 1Accion, A2018, Letra L, EEUU, Superheroes, Pixar, "
+
 <item>
 <title>[COLOR white] Los Increibles 2 [COLOR gold](2018)[/COLOR]</title>     
 <genre>Animacion</genre>
@@ -3584,10 +3255,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Secuela de "Los increibles". Helen tiene que liderar una campaña para que los superheroes regresen, mientras Bob vive su vida "normal" con Violet, Dash y el bebe Jack-Jack —cuyos superpoderes descubriremos—. Su mision se va a pique cuando aparece un nuevo villano con un brillante plan que lo amenaza todo. Pero los Parr no se amedrentaran y menos teniendo a Frozone de su parte</info>
 <urlsolve>//listeamed.net/v/Ro7kOVVywNJOZWB</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-"Tag= Malu3, Disney , 1venturas, 1Familiar, Francia, A2015, "
 <item>
 <title>[COLOR white] Los Minions [COLOR gold](2015)[/COLOR]</title>    
 <genre>Familia,Animacion,Aventuras</genre>
@@ -3597,7 +3266,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>La historia de Los Minions se remonta al principio de los tiempos. Empezaron siendo organismos amarillos unicelulares que evolucionaron a través del tiempo, poniéndose siempre al servicio de los amos más despreciables. Ante su incapacidad para mantener a esos amos – desde el T. Rex a Napoleón –, los Minions acaban encontrándose solos y caen en una profunda depresión. Sin embargo, uno de ellos, llamado Kevin, tiene un plan. Acompañado por el rebelde Stuart y el adorable Bob, emprende un emocionante viaje para conseguir una jefa a quien servir, la terrible Scarlet Overkill. Pasarán de la helada Antártida, a la ciudad de Nueva York en los años sesenta, para acabar en el Londres de la misma época, donde deberán enfrentarse al mayor reto hasta la fecha: salvar a la raza Minion de la aniquilación. </info>
 <urlsolve>//listeamed.net/v/k3gG5q3JK3jE1N2</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Los mundos de Coraline  [COLOR gold](2009)[/COLOR]</title>     
@@ -3608,7 +3277,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Basada en una novela de Neil Gaiman, narra la historia de una niña que, al atravesar una pared de su casa, encuentra una version mejorada de su vida: sus padres son mas considerados con ella, pero la las sensaciones maravillosas daran paso al miedo y a la angustia.</info>
 <urlsolve>//listeamed.net/v/qM1VOPN2WZGxo4k</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Los Muppets en el espacio  [COLOR gold](1999)[/COLOR]</title>     
@@ -3620,7 +3289,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/eL2157dqoYKxrw4</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <item>
 <title>[COLOR white] Los Payasos De La Tele: Pelicula 1 [COLOR gold](1973)[/COLOR]</title>    
 <genre>Payasos,TV,Familia,Comedia</genre>
@@ -3631,7 +3300,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://filelions.to/f/cv1m8dlht8po"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://streamwish.to/5ezbax0mzy74"}</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <item>
 <title>[COLOR white] Los Payasos De La Tele: Pelicula 2 [COLOR gold](1973)[/COLOR]</title>    
 <genre>Payasos,TV,Familia,Comedia</genre>
@@ -3642,7 +3311,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://filelions.to/f/7uez6htpd4c0"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://streamwish.to/6wn43iea0myq"}</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <item>
 <title>[COLOR white] Los Payasos De La Tele: Pelicula 3 [COLOR gold](1973)[/COLOR]</title>    
 <genre>Payasos,TV,Familia,Comedia</genre>
@@ -3653,7 +3322,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://filelions.to/f/xz2ryuukqt62"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://streamwish.to/dxbf8hclh17x"}</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <item>
 <title>[COLOR white] Los Payasos De La Tele: Pelicula 4 [COLOR gold](1973)[/COLOR]</title>    
 <genre>Payasos,TV,Familia,Comedia</genre>
@@ -3664,7 +3333,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://filelions.to/f/pseyvb70ffw0"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://streamwish.to/71ij5zunojrz"}</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <item>
 <title>[COLOR white] Los Payasos De La Tele: Pelicula 5 [COLOR gold](1973)[/COLOR]</title>    
 <genre>Payasos,TV,Familia,Comedia</genre>
@@ -3675,7 +3344,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://filelions.to/f/95m1167jt5sn"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://streamwish.to/0zgblucfe6w4"}</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <item>
 <title>[COLOR white] Los Pinguinos De Madagascar [COLOR gold](2014)[/COLOR]</title>    
 <genre>Animacion,Aventura,Familia,Comedia</genre>
@@ -3685,7 +3354,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Skypper, Kowalsky, Rico y Cabo, los superagentes pingüinos, tienen que salvar el mundo en una misión para la que llevan prepárandose toda la vida. Dicha misión tendrán que realizarla junto al denominado equipo "Viento del norte", un comando de élite especializado en salvar animales que no pueden defenderse por si solos.</info>
 <urlsolve>//listeamed.net/v/k3gG5q3J6PZE1N2</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Los pitufos: La aldea escondida [COLOR gold](2017)[/COLOR]</title>    
@@ -3696,7 +3365,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Pitufina y sus hermanos practican senderismo por el desconocido Bosque Encantado tratando de encontrar un legendario pueblo para los Pitufos. Deben hacerlo antes de que su nemesis, el malvado mago Gargamel, lo haga. Durante el camino, algunos de los misterios de los Pitufos empiezan a salir a la luz. </info>
 <urlsolve>//listeamed.net/v/njJYOd3MDL6Ee9o</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <item>
@@ -3708,7 +3376,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Cuando Penny y su familia son invitados a un crucero, se enteran de que esto forma parte de un complot del malvado Dr. Carver. Como este no consigue lo que quiere, el Dr. crea diversos clones para vengarse y causar estragos.</info>
 <urlsolve>//listeamed.net/v/qM1VOPN2W9mxo4k</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Los Rescatadores [COLOR gold](1977)[/COLOR]</title>    
@@ -3720,7 +3388,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/b4ZJx21qRLz52P3</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Los Rescatadores En Cangurolandia [COLOR gold](1990)[/COLOR]</title>    
@@ -3732,7 +3399,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/QNB7xA2rpZ2E0WG</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <item>
@@ -3745,7 +3411,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/kKJVORWavkN53XD</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Luca [COLOR gold](2021)[/COLOR]</title>    
@@ -3756,7 +3421,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Ambientada en un precioso pueblo costero de la Riviera italiana, narra la historia sobre el paso a la edad adulta de un chico que vive un verano inolvidable lleno de helados, pasta e infinitos paseos en scooter. Luca comparte estas aventuras con su nuevo mejor amigo, pero toda la diversión se ve amenazada por un secreto muy profundo: él es un monstruo marino de un mundo que yace bajo la superficie del agua.</info>
 <urlsolve>//listeamed.net/v/kKJVORWajDq53XD</urlsolve> 
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <item>
@@ -3769,7 +3433,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/pVa4E8MqplzOkzM</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <item>
 <title>[COLOR white] Madagascar [COLOR gold](2005)[/COLOR]</title>    
 <genre>Aventura,Animacion,Comedia,Familia</genre>
@@ -3781,7 +3445,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
 <title>[COLOR white] Madagascar 2 [COLOR gold](2008)[/COLOR]</title>    
 <genre>Aventura,Animacion,Comedia,Familia</genre>
@@ -3792,7 +3455,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/3Q0lxBW32zwEj1J</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
 <title>[COLOR white] Madagascar 3: De Marcha Por Europa [COLOR gold](2012)[/COLOR]</title>    
 <genre>Aventura,Animacion,Comedia,Familia</genre>
@@ -3802,7 +3464,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>En su tercera aventura fuera del zoológico de Nueva York, Alex, Marty, Melman y Gloria viajan a Europa con el propósito de encontrar a los monos y a los pingüinos en Monte Carlo; sin embargo, ellos terminan formando parte de un circo rodante en el que hacen nuevos amigos mientras tratan de escapar de Chantal Dubois, jefa de la policía de Control de Animales en Europa, quien desea obtener la cabeza de Alex para su colección.</info>
 <urlsolve>//listeamed.net/v/kKJVORWajAa53XD</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Magia del revés [COLOR gold](2020)[/COLOR]</title>   
@@ -3814,7 +3476,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/mMq75L8vP175XPB</urlsolve> 
 </item>
 
--------------------------------------------------------------------------------------------------------------------------------------------------
+
 <item>
 <title>[COLOR white] Malefica [COLOR gold](2014)[/COLOR]</title>   
 <genre>Fantastico</genre>
@@ -3825,7 +3487,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/3Q0lxBW38lLEj1J</urlsolve> 
 </item>
 
--------------------------------------------------------------------------------------------------------------------------------------------------
+
 <item>
 <title>[COLOR white] Malefica: Maestra del mal [COLOR gold](2019)[/COLOR]</title>   
 <genre>Fantastico</genre>
@@ -3835,7 +3497,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Tiene lugar varios años despues de los acontecimientos narrados en la primera pelicula, y explora la relacion entre Malefica y Aurora y las alianzas que se forman para sobrevivir a las amenazas del magico mundo en el que habitan. Secuela de "Malefica" (2014).</info>
 <urlsolve>//listeamed.net/v/6zeREaDmkLGxZPa</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Manou  [COLOR gold](2017)[/COLOR]</title>   
@@ -3846,7 +3508,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>El pequeño y veloz Manou crece creyendo que es una gaviota, como sus padres. Pero a pesar de que se esfuerza por nadar, pescar y volar, no es muy habil. Cuando se da cuenta de que no es como los otros miembros de su familia, emprende una asombrosa aventura para descubrir su verdadero origen.</info>
 <urlsolve>//listeamed.net/v/7QWN5ey4KDB59oR</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Maquia, una historia de amor inmortal [COLOR gold](2018)[/COLOR]</title>    
@@ -3857,7 +3518,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Maquia pertenece a un grupo de gente que deja de envejecer en la adolescencia. Aunque vive tranquila, se siente sola. Esa tranquilidad se rompe cuando un ejercito les invade para buscar el secreto de la inmortalidad. Maquia escapa, pero pierde a sus amigos y su hogar. En el bosque conocera a Ariel, un pequeño que ha perdido a sus padres. La historia desarrolla la relacion entre Maquia, que no envejece, y Ariel, que si.</info>
 <urlsolve>//listeamed.net/v/7QWN5ey4KM659oR</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Mary Poppins [COLOR gold](1964)[/COLOR]</title>    
@@ -3869,8 +3529,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/NMRLEprapw95XaG</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 <item>
 <title>[COLOR white] Mas Alla De La Luna [COLOR gold](2020)[/COLOR]</title>    
 <genre>Animacion,Aventura,Familia,Fantasia</genre>
@@ -3880,7 +3539,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Una niña inteligente, decidida y enamorada de la ciencia construye un cohete para viajar a la Luna y demostrar la existencia de una legendaria diosa. Allí la pequeña, de nombre Fei Fei, se verá envuelta en una inesperada aventura y descubrirá un enigmático mundo de criaturas fantásticas.</info>
 <urlsolve>//listeamed.net/v/8lKQxYV6W9lEDGY</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 <item>
 <title>[COLOR white] Mascotas [COLOR gold](2016)[/COLOR]</title>    
 <genre>Animacion, Comedia</genre>
@@ -3890,7 +3550,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>En un edificio de apartamentos de Manhattan, la vida de Max como mascota favorita corre peligro cuando su dueña trae a casa a un otro perro llamado Duke, con quien Max pronto tiene sus diferencias. Pero ambas mascotas tienen que dejar atras su rivalidad cuando se enteran de que un adorable conejito blanco llamado Snowball esta reclutando a un ejercito de animales domesticos que han sido abandonados, decididos a vengarse de todos los animales domesticos felices y de sus dueños.</info>
 <urlsolve>//listeamed.net/v/QNB7xA2rMLjE0WG</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Mascotas 2 [COLOR gold](2019)[/COLOR]</title>    
@@ -3901,7 +3560,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Max se enfrenta a nuevos e importantes cambios en su vida: su dueña Katie no solo se ha casado, sino que tambien ha sido madre por primera vez. En un viaje familiar al campo conoce a un perro granjero llamado Rooster, con el que aprende a dominar sus miedos. Mientras tanto, Gidget trata de recuperar el juguete favorito de Max de un apartamento repleto de gatos. Snowball, por otro lado, se embarca en una peligrosa mision para liberar a un tigre blanco, Hu, de sus captures en un circo de animales. Secuela de 'Mascotas' (2016).</info>
 <urlsolve>//listeamed.net/v/7QWN5ey4KGb59oR</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <item>
@@ -3914,7 +3572,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/mMq75L8vMPw5XPB</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Masters del Universo [COLOR gold](1987)[/COLOR]</title>   
@@ -3925,7 +3582,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Basada en la famosa serie animada. He-man y sus amigos deben viajar a la Tierra del siglo XX para rescatar una llave cósmica que les permita derrotar a Skeletor, que se ha apoderado del castillo de Grayskull y que mantiene prisionera a Sorceress. Los inconvenientes son que Skeletor posee otra llave y que la original está en manos de unos jóvenes terrícolas, que creen que es un instrumento musical.</info>
 <urlsolve>//listeamed.net/v/4bQVOj7bre95wKm</urlsolve> 
 </item>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 <item>
 <title>[COLOR white] Megamind [COLOR gold](2010)[/COLOR]</title>    
 <genre>Accion,Animacion,Ciencia Ficcion,Familia,Comedia</genre>
@@ -3936,7 +3594,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/edVqE4rqer85YWm</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Merlin el encantador [COLOR gold](1963)[/COLOR]</title>    
@@ -3947,7 +3604,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Encantador relato de dibujos animados para los mas pequeños sobre la leyenda del rey Arturo (aqui siendo todavia joven), el mago Merlin y la espada Excalibur. Aventuras mil, magia y fantasia para otro gran exito de la Disney.</info>
 <urlsolve>//listeamed.net/v/KrdZ5kdvVjbxmX4</urlsolve>
 </item> 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Mi abuelo es un extraterrestre [/COLOR][COLOR gold](2019)[/COLOR]</title>    
@@ -3958,7 +3614,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Una, acompañada de un robot alienígena, tienen 24 horas para encontrar a su abuelo que fue secuestrado por extraterrestres.</info>
 <urlsolve>//listeamed.net/v/VqbX53gRva95Qzp</urlsolve>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <item>
@@ -3970,7 +3625,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Un predicador y su hija Opal se trasladan a Naomi, un pueblo de Florida. Poco despues de llegar, la solitaria niña encuentra en un supermercado a un perro huerfano, lo adopta y se hacen inseparables.</info>
 <urlsolve>{"titulo" : "[COLOR white]VideoClub[/COLOR]","url" : "https://vanfem.com/v/0d6j7clz-q5nn5z"},{"titulo" : "[COLOR white]VideoMix[/COLOR]","url" : "https://mixdrop.sx/e/n0rk1gjwi0j71m"},{"titulo" : "[COLOR white]VideoStream[/COLOR]","url" : "https://watchsb.com/e/x26tpn32s4oe.html"},{"titulo" : "[COLOR white]VideoCloud[/COLOR]","url" : "https://cloudvideo.tv/9gkqz9j38ybp"},{"titulo" : "[COLOR white]VideoUps[/COLOR]","url" : "https://upstream.to/u9z7pjfnl5p2"}</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Mi vecino Totoro [COLOR gold](1988)[/COLOR]</title>    
@@ -3981,7 +3635,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>En los años 50, una familia japonesa se traslada al campo. Las dos hijas, Satsuki y Mei, entablan amistad con Totoro, un espiritu del bosque. El padre es un profesor universitario que estimula la imaginacion de sus hijas relatandoles fabulas e historias magicas sobre duendes, fantasmas y espiritus protectores de los hogares, mientras la madre se encuentra enferma en el hospital.</info>
 <urlsolve>//listeamed.net/v/eL2157daXYRxrw4</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <item>
@@ -3994,10 +3647,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/JzkPxzn7oLpxbyd</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-<item>
 <item>
 <title>[COLOR white] Mina y el mundo de los suenhos [/COLOR][COLOR gold](2020)[/COLOR]</title>    
 <genre>Infantil,Comedia,Animacion</genre>
@@ -4009,8 +3660,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 <item>
 <title>[COLOR white] Mirai, mi hermana pequeña  [COLOR gold](2018)[/COLOR]</title>    
 <genre>Animacion,Drama, Fantastico</genre>
@@ -4020,7 +3669,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Kun, un niño mimado y consentido de cuatro años al que sus padres dejan de prestar atencion cuando nace su hermana Mirai, empieza a sufrir situaciones en casa que nunca habia vivido. Pero entonces, la version adolescente de su hermana viaja en el tiempo desde el futuro para vivir junto a Kun una aventura extraordinaria mas alla de lo imaginable.</info>
 <urlsolve>//listeamed.net/v/pVa4E8MJgwaOkzM</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Mision Katmandu  [COLOR gold](2017)[/COLOR]</title>    
@@ -4032,7 +3681,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/edVqE4ro86D5YWm</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <item>
 <title>[COLOR white] Monstruos Contra Alienigenas [COLOR gold](2009)[/COLOR]</title>    
 <genre>Aventura,Animacion,Ciencia Ficcion,Familia</genre>
@@ -4043,7 +3692,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/QNB7xA21ZAXE0WG</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Monstruos S.A. [COLOR gold](2001)[/COLOR]</title>    
@@ -4055,7 +3703,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/njJYOd3GKj7Ee9o</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Monstruos University [COLOR gold](2013)[/COLOR]</title>    
@@ -4067,8 +3714,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/8lKQxYV809eEDGY</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 <item>
 <title>[COLOR white] Mr. Link. El origen perdido [COLOR gold](2019)[/COLOR]</title>    
@@ -4079,7 +3724,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Sir Lionel Frost se considera a si mismo el mayor investigador de mitos, monstruos y leyendas. Estos calificativos han sido cuestionados por su circulo mas cercano, lo que le anima a comenzar una investigacion por el noroeste americano en busca del Eslabon Perdido, una misteriosa criatura mitad humano, mitad bestia.</info>
 <urlsolve>//listeamed.net/v/KNWlEDN3mny5kbp</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <item>
@@ -4091,7 +3735,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Mulan, una joven china hija unica de la familia Fa, en lugar de buscar novio, como sus amigas, trata por todos los medios de alistarse en el ejercito imperial para evitar que su anciano padre sea llamado a filas para defender al Emperador del acoso de los Hunos. Cuando el emisario imperial lleva a cabo la orden de reclutar a los varones de todas las familias, Mulan se hara pasar por soldado y se sometera a un duro entrenamiento hasta hacerse merecedora de la estima y de la confianza del resto de su escuadron.</info>
 <urlsolve>//listeamed.net/v/rabVOQQobZ3OKdW</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <item>
@@ -4103,7 +3746,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>La leyenda de Mulan continua en esta nueva aventura. La bella y valiente heroina Mulan, siempre acompañada por su dragon guardian, Mushu y sus nuevos amigos, recibe la noticia mas emocionante de su vida cuando el General Shang pide su mano en matrimonio, pero las sorpresas acaban de comenzar... El travieso Mushu intentara separar a la feliz pareja durante el tiempo que sea posible para mantener asi su trabajo como dragon guardian. Ademas Mulan y Shang tendran que escoltar por toda China a tres princesas que se dirigen a celebrar sus respectivos matrimonios, previamente concertados. Cuando Mulan descubre que ninguna de ellas desea estos matrimonios tomara una decision que cambiara el curso de la historia. </info>
 <urlsolve>//listeamed.net/v/qM1VOPNRvDGxo4k</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Mulan [COLOR gold](2020)[/COLOR]</title>    
@@ -4114,7 +3757,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Narra la historia de Mulan, una intrepida joven lo arriesga todo por amor a su familia y a su pais hasta convertirse en una de las mayores guerreras de la historia de China. Cuando el emperador de China decreta que un hombre de cada familia debe servir en el Ejercito Imperial para defender al pais de los invasores del norte, Hua Mulan, la hija mayor de un condecorado guerrero, decide ocupar el lugar de su padre enfermo. Haciendose pasar por un hombre, Hua Jun, se enfrenta a constantes desafios y debera aprender a canalizar su fuerza interior y a aceptar su verdadero potencial. Un viaje epico que la convertira en una reconocida guerrera y le permitira ganarse el respeto de una nacion agradecida... y de un padre orgulloso. Remake del clasico de Disney.</info>
 <urlsolve>//listeamed.net/v/qM1VOPNRvd8xo4k</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 <item>
 <title>[COLOR white] Musica, Maestro [COLOR gold](1946)[/COLOR]</title>    
@@ -4125,7 +3767,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Antologia musical animada compuesta por 10 fragmentos: 'The Martins and the Coys', 'Blue Bayou', 'All the Cats Join In', 'Without You', 'Casey At the Bat', 'Two Silhouettes', 'Peter and the Wolf', 'After You've Gone', 'Johnny Fedora and Alice Blue Bonnett', 'The Whale Who Wanted To Sing At the Met'.CS.</info>
 <urlsolve>//listeamed.net/v/04rQxWW0JKVxb2N</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] My Little Pony Equestria Girls: Amistad Olvidada [COLOR gold](2018)[/COLOR]</title>    
@@ -4136,7 +3777,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Cuando Sunset Shimmer descubre que sus amigos no la recuerdan, se sorprende al escuchar que despues de que Human Twilight se reformara, todo rastro de Sunset simplemente se habia desvanecido. Desesperada, Sunset esta decidida a devolverles los recuerdos de sus amigas. Pero para hacerlo, primero debe encontrar al autor que hizo tal cosa en primer lugar. </info>
 <urlsolve>//listeamed.net/v/e028E6Rw6vQEYAv</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <item>
@@ -4148,7 +3788,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Cuando una fuerza oscura amenaza a Ponyville y el Mane 6, todos se van en un viaje hasta el final de equestria para salvar a su querida casa, y se encuentran con nuevos amigos y peligrosos desafios a lo largo del camino.</info>
 <urlsolve>//listeamed.net/v/4bQVOj7p1eX5wKm</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <item>
@@ -4160,7 +3799,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Cuando unos extraterrestres intentan robar la gravedad de la Tierra, solamente el espíritu bondadoso de la Navidad y un pequeño alienígena podrán salvar el mundo.</info>
 <urlsolve>//listeamed.net/v/3Q0lxBW34lVEj1J</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <item>
@@ -4173,8 +3811,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/LQm9OXNywpRx1lg</urlsolve> 
 </item>
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------- 
- 
  
 <item>
 <title>[COLOR white] Nimh, el ratoncito valiente (Nimh 2) [COLOR gold](1998)[/COLOR]</title>    
@@ -4185,8 +3821,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>El joven ratoncito Timmy arriesga su vida y el lugar secreto donde se esconde su familia, cuando intenta rescatar a sus hermanos, apresados en los laboratorios del malvado Nimh.... Timmy Brisby ha sido elegido lider de la comunidad. Jenny, otra refugiada en Thorn Valley, le pide a Timmy que vuelvan a Nimh para rescatar a sus padres que tuvo que dejar alli, este, acompañado de sus gatos guardaespaldas, Floyd y Muriel, encuentran el valor necesario para salvar a sus amigos, a la comunidad y a ellos mismos. Secuela lanzada directamente a video/DVD del clasico de Don Bluch "El secreto de NIMH". </info>
 <urlsolve>//listeamed.net/v/7QWN5eyMnAV59oR</urlsolve>
 </item>
--------------------------------------------------------------------------------------------------------------------------------------------------------------- 
- 
 
 
 <item>
@@ -4198,7 +3832,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Santa Claus se jubila y su hija, Nicole, tiene que continuar con el negocio familiar.</info>
 <urlsolve>//listeamed.net/v/qA3WOmGRBB4xKkz</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <item>
@@ -4210,7 +3843,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Tras perder a sus padres en un accidente, Okko empieza a vivir en el campo con su abuela que lleva una posada japonesa tradicional. Mientras se prepara para ser la propietaria de la posada, empezara a ver fantasmas amistosos.</info>
 <urlsolve>//listeamed.net/v/MAlwEMYpM2qEJ39</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Oliver Y Su Pandilla [COLOR gold](1988)[/COLOR]</title>    
@@ -4222,7 +3855,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/qA3WOmGRB43xKkz</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Onward [COLOR gold](2020)[/COLOR]</title>    
@@ -4233,7 +3865,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Ambientado en un mundo de fantasia suburbana, dos hermanos elfos adolescentes, Ian y Barley Lightfood, se embarcan en una aventura en la que se proponen descubrir si existe aun algo de magia en el mundo que les permita pasar un ultimo dia con su padre, que fallecio cuando ellos eran aun muy pequeños como para poder recordarlo.</info>
 <urlsolve>//listeamed.net/v/0DogOGMGBp0xKjM</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Operacion Panda [/COLOR][COLOR gold](2019)[/COLOR]</title>    
@@ -4245,7 +3877,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/nyg9EKDLP7jObk4</urlsolve> 
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <item>
 <title>[COLOR white] Paddington  [COLOR gold](2014)[/COLOR]</title> 
 <genre>Comedia, Fantastico, Infantil</genre>
@@ -4255,7 +3887,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>El oso Paddington ya esta felizmente integrado en casa de la familia Brown. Se ha convertido ademas en un miembro muy popular de la comunidad de Windsor Gardens. Su tia Lucy cumple 100 años y el tiene el regalo perfecto para ella: un maravilloso libro pop-up de la tienda de antigüedades de Mr. Gruber. Para poder comprar el libro, Paddington decidira realizar una serie de extraños trabajos. Pero todo se complica cuando el libro es robado.</info>
 <urlsolve>//listeamed.net/v/kKJVORW2po953XD</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Paddington 2  [COLOR gold](2017)[/COLOR]</title> 
@@ -4266,7 +3898,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>El oso Paddington ya esta felizmente integrado en casa de la familia Brown. Se ha convertido ademas en un miembro muy popular de la comunidad de Windsor Gardens. Su tia Lucy cumple 100 años y el tiene el regalo perfecto para ella: un maravilloso libro pop-up de la tienda de antigüedades de Mr. Gruber. Para poder comprar el libro, Paddington decidira realizar una serie de extraños trabajos. Pero todo se complica cuando el libro es robado.</info>
 <urlsolve>//listeamed.net/v/KrdZ5kdvjNbxmX4</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Patoaventuras. La Pelicula. El Tesoro De La Lampara Perdida [COLOR gold](1990)[/COLOR]</title>    
@@ -4277,7 +3909,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Cuando la pandilla de “Patoaventuras” encuentra el legendario tesoro de la piramide de Collie Baba, no imagina que entre las piedras preciosas hay una lampara magica en la que se esconde el Gran Genio de los deseos... Nuestros valientes amigos deberan luchar contra un malvado mago que pretende apoderarse de la lampara.</info>
 <urlsolve>//listeamed.net/v/YWA8E9wXQNK5GmM</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Peel  [COLOR gold](2019)[/COLOR]</title> 
@@ -4288,7 +3919,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Tras ser abandonado por su padre cuando aun era un niño y tras ser criado por su madre, una persona emocionalmente inestable, la unica vida que conoce Peel Munter (Emile Hirsch) se encuentra entre las cuatro paredes de su casa de toda la vida. La muerte de su madre cambia radicalmente sus circunstancias, viendose forzado a alquilar varias habitaciones de su hogar a personas desconocidas a las que pronto comienza a considerar su nueva familia. Sin embargo, sus nuevos amigos no tardan en traicionarle, algo que lleva a Peel Munter a buscar desesperadamente a sus hermanos, con los que perdio el contacto hace algunas decadas.</info>
 <urlsolve>//listeamed.net/v/MAlwEMYpMz8EJ39</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Peter Pan [COLOR gold](1953)[/COLOR]</title>    
@@ -4299,7 +3930,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Wendy y sus hermanos viviran fantasticas aventuras cuando Peter Pan, el heroe de sus cuentos, les guia hacia el magico mundo de Nunca Jamas junto a su inseparable Campanilla. En su viaje a “la segunda estrella a la derecha”, conoceran la guarida secreta de Peter y a los traviesos Niños Perdidos y tendran que enfrentarse con el famoso Capitan Garfio y sus piratas.</info>
 <urlsolve>//listeamed.net/v/k3gG5q3aPRAE1N2</urlsolve>
 </item> 
----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Peter Pan en Regreso al pais de Nunca Jamas [COLOR gold](2002)[/COLOR]</title>    
@@ -4310,7 +3941,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Peter Pan sigue siendo el lider de los Niños Perdidos y librando batallas con el malvado Capitan Garfio, con la ayuda de Campanilla. Pero aunque Peter Pan nunca crecio, todo a su alrededor ha cambiado: Wendy es ahora madre de una niña llamada Jane. Jane ya no cree en cuentos de hadas, y ¡mucho menos en volar!. Pero cuando el Capitan Garfio la secuestra y la lleva al pais de Nunca Jamas, Peter Pan conseguira que su imaginacion vuele otra vez.</info>
 <urlsolve>//listeamed.net/v/qM1VOPNRLnGxo4k</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Peter y el dragon  [COLOR gold](2016)[/COLOR]</title>    
@@ -4321,7 +3952,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Durante años el Sr. Meacham, un viejo tallador de madera, ha fascinado a los niños de la region con sus cuentos acerca de un feroz dragon que reside en lo mas profundo de los bosques del Noroeste del Pacifico. Para su hija Grace, que trabaja como guarda forestal, estas historias no son mas que cuentos para niños… hasta que conoce a Peter. Peter es un misterioso niño de 10 años que no tiene familia ni hogar, y que asegura que vive en el bosque con un gigante dragon verde llamado Eliott. Con la ayuda de Natalie, una niña de 11 años cuyo padre es dueño de la serreria local, Grace partira en busca de respuestas que averigüen de donde viene Peter, cual es su verdadero hogar y la verdad acerca de ese dragon. </info>
 <urlsolve>//listeamed.net/v/vQBYEbNmgeNEn1m</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Pequenos Gigantes [COLOR gold](1994)[/COLOR]</title>    
@@ -4332,7 +3963,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Danny O'Shea siempre ha vivido a la sombra de su hermano, el gran jugador de fútbol americano Kevin O'Shea. Kevin siempre fue el más grande, más fuerte, más rápido y más popular. Después de una brillante carrera, Kevin vuelve con su familia a su pueblo natal, donde organiza una liga infantil de fútbol. Sin embargo, a pesar que su sobrina (la hija de Danny) es la mejor jugadora, no la selecciona para el equipo representante del pueblo. Cuando se entera de que su hija es rechazada, Danny reunirá a una cuadrilla de los más flojuchos y regordetes del lugar para enseñarle una lección a su hermano.</info>
 <urlsolve>https://watchsb.com/e/jwhr3d9n6gxu</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Pinocho [COLOR gold](1940)[/COLOR]</title>    
@@ -4343,7 +3974,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Un anciano llamado Geppetto fabrica una marioneta de madera a la que llama Pinocho, con la esperanza de que se convierta en un niño de verdad. El Hada Azul hace realidad su deseo y da vida a Pinocho, pero conserva su cuerpo de madera. Pepito Grillo, la conciencia de Pinocho, tendra que aconsejarlo para que se aleje de las situaciones dificiles o peligrosas hasta conseguir que el muñeco se convierta en un niño de carne y hueso.CS.</info>
 <urlsolve>//listeamed.net/v/8ozgENLvnGJ5mjA</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Pinocho la leyenda [COLOR gold](1996)[/COLOR]</title>    
@@ -4355,8 +3986,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/3Q0lxBWBajGEj1J</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
 
 <item>
 <title>[COLOR white] Pinocho [COLOR gold](2019)[/COLOR]</title>    
@@ -4367,7 +3996,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>En esta adaptación en vivo del amado cuento de hadas, el viejo tallador de madera Geppetto da forma a un títere de madera, Pinocho, que mágicamente cobra vida. Pinocho anhela la aventura y se extravía fácilmente, encontrándose con bestias mágicas, espectáculos fantásticos, mientras hace amigos y enemigos a lo largo de su viaje. Sin embargo, su sueño es convertirse en un niño de verdad, lo que solo puede hacerse realidad si finalmente cambia de rumbo.</info>
 <urlsolve>//listeamed.net/v/JzkPxzn7Be8xbyd</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Planeta 51 [COLOR gold](2009)[/COLOR]</title>    
@@ -4378,7 +4006,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Planet 51 es la historia de una familia de extraterrestres que vive tranquilamente en su planeta hasta la llegada de lo que para ellos es un alienígena: un hombre. El Capitán Charles "Chuck" Baker, astronauta americano, aterriza en Planet 51 pensando que es la primera persona en pisar el planeta. Para su sorpresa, descubre que el planeta está habitado por pequeñas criaturas verdes que viven felizmente en un mundo plagado de cercas blancas, reminiscencia de la alegre inocencia de la América de los años 50, y cuyo único temor es el de ser invadidos por alienígenas... ¡como Chuck! Ayudado por su compañero robot "Rover" y su nuevo amigo Lem, Chuck tendrá que abrirse camino a través del deslumbrante y desconcertante paisaje del planeta para no convertirse en pieza permanente del Museo Espacial de Invasores Alienígenas de Planet 51.</info>
 <urlsolve>//listeamed.net/v/g9Vd5JWe7AjxqQj</urlsolve>
 </item>
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <item>
 <title>[COLOR white] Playmobil La Pelicula [COLOR gold](2019)[/COLOR]</title>    
@@ -4389,7 +4017,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Cuando su hermano menor Charlie (Gabriel Bateman) desaparece inesperadamente y se introduce en el magico mundo animado de "Playmobil", Marla (Anya Taylor-Joy) se embarca en una aventura para traerlo de vuelta a casa. A medida que descubre los secretos que aguardan en su nuevo mundo, Marla conoce a una serie de heroicos nuevos amigos, como el conductor de camiones Del (Jim Gaffigan), el carismatico agente secreto Rex Dasher (Daniel Radcliffe), un hada madrina entrada en años (Meghan Trainor) e incluso a un robot un poco rebelde pero con un gran corazon. La aventura, ademas de llevarla directamente al corazon del mundo "Playmobil", le ayudara a conocerse mejor a si misma y a entender que, independientemente de que ofrezca la vida, todo es posible cuando creemos en nosotros mismos. </info>
 <urlsolve>//listeamed.net/v/27BaOn1o60BEMDX</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Ploey. Nunca volaras solo [COLOR gold](2019)[/COLOR]</title>    
@@ -4400,7 +4027,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Un pequeño chorlito no aprendio a volar cuando su familia emigra en el otoño. Debe sobrevivir al invierno artico, a los enemigos viciosos y a el mismo para reunirse con su amada la proxima primavera.</info>
 <urlsolve>//listeamed.net/v/qM1VOPNRK6mxo4k</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Pocahontas [COLOR gold](1995)[/COLOR]</title>    
@@ -4411,7 +4037,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Pocahontas, la hija del Jefe Powhatan, vigila la llegada de un gran grupo de colonos ingleses, guiados por el ambicioso gobernador Radcliff y el valiente capitan John Smith. Con su jugueton compañero Meeko, un travieso mapache, y con Flit, un alegre pajaro, Pocahontas entabla una fuerte amistad con el Capitan Smith. Pero cuando empiezan a surgir tensiones entre las dos culturas, Pocahontas recurre a la sabiduria de la Abuela Sauce para encontrar una manera de lograr la paz entre su pueblo y los conquistadores.</info>
 <urlsolve>//listeamed.net/v/8lKQxYV8P94EDGY</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Pocahontas 2. Viaje A Un Nuevo Mundo [COLOR gold](1998)[/COLOR]</title>    
@@ -4422,8 +4047,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Pocahontas vive el mayor reto de su vida en su viaje a Inglaterra. Con la ayuda del apuesto John Rolfe, buscara la paz de su pueblo. Mientras se prepara para el baile de la Caceria, abre poco a poco su corazon a Rolfe. Pero la misteriosa aparicion de John Smith sumerge a Pocahontas en un dilema... elegir entre dos amores y dos maneras de vivir.</info>
 <urlsolve>//listeamed.net/v/kKJVORW2Zyq53XD</urlsolve>
 </item>
-----------------------------------------------------------------------------------------------------------------------
- 
+
 
 <item>
 <title>[COLOR white] Pokemon La Pelicula: Mewtwo vs Mew [COLOR gold](1998)[/COLOR]</title>    
@@ -4436,8 +4060,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 <item>
 <title>[COLOR white] Pokemon: El Poder De Uno [COLOR gold](1999)[/COLOR]</title>    
 <genre>Animacion,Familia,Aventura,Fantasia,Accion</genre>
@@ -4449,8 +4072,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 
 <item>
 <title>[COLOR white] Pokemon: El Hechizo De Los Unown [COLOR gold](2000)[/COLOR]</title>    
@@ -4463,8 +4085,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 
 <item>
 <title>[COLOR white] Pokemon 4Ever: La Voz Del Bosque Celebi [COLOR gold](2001)[/COLOR]</title>    
@@ -4476,8 +4097,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://vembed.net/v/Ro7kOVjNYWOZWBn</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 
 <item>
 <title>[COLOR white] Pokemon: Heroes Pokemon [COLOR gold](2002)[/COLOR]</title>    
@@ -4489,8 +4109,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://vembed.net/v/JzkPxzMG945bydB</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 
 <item>
 <title>[COLOR white] Pokemon: Lucario Y El Misterio De Mew [COLOR gold](2005)[/COLOR]</title>    
@@ -4502,8 +4121,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://vembed.net/v/wP2050Ay6exdmy7</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 
 <item>
 <title>[COLOR white] Pokemon: Ranger Y El Templo Del Mar [COLOR gold](2006)[/COLOR]</title>    
@@ -4515,8 +4133,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://vembed.net/v/e028E6AK7dxYAvq</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 
 <item>
 <title>[COLOR white] Pokemon: El Desafio De Darkrai [COLOR gold](2007)[/COLOR]</title>    
@@ -4528,8 +4145,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://vembed.net/v/g9Vd5JRQbo5qQjG</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 <item>
 <title>[COLOR white] Pokemon: Giratina Y El Guerrero Celestial [COLOR gold](2008)[/COLOR]</title>    
 <genre>Animacion,Familia,Aventura,Fantasia,Accion</genre>
@@ -4540,8 +4156,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://vembed.net/v/b4ZJx2AW1Q52P3R</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 <item>
 <title>[COLOR white] Pokemon: Arceus Y La Joya De La Vida [COLOR gold](2009)[/COLOR]</title>    
 <genre>Animacion,Familia,Aventura,Fantasia,Accion</genre>
@@ -4553,8 +4168,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 
 <item>
 <title>[COLOR white] Pokemon: Zoroark El Maestro De Ilusiones [COLOR gold](2010)[/COLOR]</title>    
@@ -4567,8 +4181,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 
 <item>
 <title>[COLOR white] Pokemon Negro: Victini Y Reshiram [COLOR gold](2011)[/COLOR]</title>    
@@ -4581,8 +4194,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 
 <item>
 <title>[COLOR white] Pokemon Blanco: Victini Y Zekrom [COLOR gold](2011)[/COLOR]</title>    
@@ -4594,8 +4206,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://vembed.net/v/qM1VOPXy78Oo4kY</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 
 <item>
 <title>[COLOR white] Pokemon: Kiurem Contra El Espadachin Mistico [COLOR gold](2012)[/COLOR]</title>    
@@ -4607,8 +4218,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://vembed.net/v/QNB7xAGXk0O0WG9</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 
 <item>
 <title>[COLOR white] Pokemon: Genesect Y El Despertar De Una Leyenda [COLOR gold](2013)[/COLOR]</title>    
@@ -4621,8 +4231,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 
 
-----------------------------------------------------------------------------------------------------------------------
- 
 
 <item>
 <title>[COLOR white] Pokemon: Diance Y La Crisalida De La Destruccion [COLOR gold](2014)[/COLOR]</title>    
@@ -4634,8 +4242,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://vembed.net/v/mMq75L2N7zEXPBY</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 
 <item>
 <title>[COLOR white] Pokemon: Hoopa Y Un Duelo Historico [COLOR gold](2015)[/COLOR]</title>    
@@ -4648,8 +4255,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 
 <item>
 <title>[COLOR white] Pokemon: Volcanion Y La Maravilla Mecanica [COLOR gold](2016)[/COLOR]</title>    
@@ -4662,8 +4268,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 
 <item>
 <title>[COLOR white] Pokemon: Te Elijo A Ti [COLOR gold](2017)[/COLOR]</title>    
@@ -4676,29 +4281,27 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 
 <item>
 <title>[COLOR white] Pokemon: Detective Pikachu [COLOR gold](2019)[/COLOR]</title> <genre>comedia, Fantastico, Aventuras</genre>
-<year>2019</year> <thumbnail>https://www.themoviedb.org/t/p/original/chgaG2mUPGZ0Wj6YS9SbCNEiLnL.jpg</thumbnail>
+<year>2019</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/chgaG2mUPGZ0Wj6YS9SbCNEiLnL.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/mqcVifTNKLptGUtUcDR3WzhFHsW.jpg</fanart>
 <info>Cuando el gran detective privado Harry Goodman desaparece misteriosamente; Tim, su hijo de 21 años, debe averiguar que sucedio. En la investigacion lo ayuda el antiguo compañero Pokemon de Harry, el Detective Pikachu: un super detective adorable y ocurrente que se asombra incluso a si mismo. Tim y Pikachu se dan cuenta que increiblemente pueden comunicarse, y unen fuerzas en una aventura para develar el misterio enmarañado. Mientras buscan pistas en las calles resplandecientes de Ryme City, una vasta metropolis moderna donde los humanos y los Pokemon comparten un mundo real hiperrealista, encuentran distintos personajes Pokemon y descubren un complot impactante que podria destruir la convivencia pacifica y amenazar a todo el universo Pokemon.</info>
 <urlsolve>https://vembed.net/v/vQBYEb9rKbxn1m8</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
 
 <item>
 <title>[COLOR white] Pokemon: El Poder De Todos [COLOR gold](2018)[/COLOR]</title> <genre>Animacion, Fantastico, Aventuras</genre>
-<year>2018</year> <thumbnail>https://www.themoviedb.org/t/p/original/mU7ECN4U4e5pLk5XyLZzDw6HJyi.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/kgNLLBgKxUKViZ0NiBED6cN8KnK.jpg</fanart>
+<year>2018</year>
+<thumbnail>https://www.themoviedb.org/t/p/original/mU7ECN4U4e5pLk5XyLZzDw6HJyi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kgNLLBgKxUKViZ0NiBED6cN8KnK.jpg</fanart>
 <info>Una joven atleta cuyos dias de carreras puede que formen parte de su pasado, un mentiroso compulsivo, un investigador reservado, una anciana arisca y una pequeña con un gran secreto; lo unico que todos ellos tienen en comun es una pequeña ciudad al lado del mar. Cada año, sus habitantes se reunen para celebrar al Pokemon legendario Lugia, que hace que sople el viento que salvo la ciudad de la destruccion hace muchos años. El festival es un momento de celebracion, con una carrera de captura de Pokemon y una llama ceremonial que arde vivamente para invocar a Lugia. Sin embargo, cuando una serie de incidentes amenazan no solo el festival, sino tambien a todas las personas y los Pokemon que viven en la ciudad, Ash y Pikachu no podran ellos solos salvarlos a todos. ¿Podran todos ellos dejar a un lado sus diferencias y trabajar juntos para rescatar su hogar? ¿O acabara todo siendo destruido?</info>
 <urlsolve>https://vembed.net/v/Ro7kOVjkwwOZWBn</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
 
 <item>
 <title>[COLOR white] Pokemon: Mewtwo contraataca Evolucion [COLOR gold](2019)[/COLOR]</title>
@@ -4711,9 +4314,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 
 
-----------------------------------------------------------------------------------------------------------------------
- 
-
 <item>
 <title>[COLOR white] Pokemon: Los Secretos De La Selva [COLOR gold](2020)[/COLOR]</title>
 <genre>Animacion, Fantastico,Accion</genre>
@@ -4724,8 +4324,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://vembed.net/v/nyg9EKoWVKEbk4Z</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
 
 <item>
 <title>[COLOR white] Pokemon: Las Cronicas De Arceus [/COLOR][COLOR gold](2022)[/COLOR]</title>
@@ -4737,9 +4335,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://vembed.net/v/27BaOnyppjEMDXm</urlsolve>
 </item>
 
- 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 <item>
 <title>[COLOR white] Princesa por sorpresa [COLOR gold](2001)[/COLOR]</title>    
@@ -4750,7 +4345,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info> La vida de Mia Thermopolis (Anne Hathaway), una timida adolescente que vive en San Francisco, da un vuelco cuando averigua que es la heredera del trono del diminuto principado europeo de Genovia. Su estricta y sabia abuela, la Reina Clarisse Renaldi (Julie Andrews), irrumpe entonces en su vida con la intencion de prepararla para ser princesa, pero Mia no tiene la menor intencion de dejar su vida para gobernar un pais tan lejano. La reticente princesa se enfrenta al dilema mas importante de su vida: seguir con su familia o aceptar sus responsabilidades como princesa.</info>
 <urlsolve>//listeamed.net/v/k3gG5q3alekE1N2</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 <item>
 <title>[COLOR white] Princesa por sorpresa 2 [COLOR gold](2004)[/COLOR]</title>    
 <genre>Comedia,Romance</genre>
@@ -4760,7 +4356,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info> Mia (Anne Hathaway) ya esta preparada para ser princesa de Genovia. Sin embargo, nada mas instalarse en el Palacio Real con su bella y sabia abuela, la Reina Clarisse (Julie Andrews), se entera de que tendra que prepararse inmediatamente para ser reina. Pero, entonces, tendra que afrontar un peliagudo problema: en Genovia hay una ley que establece que las princesas tienen que casarse antes de ser coronadas; asi que Mia tendra que soportar un desfile de pretendientes cuya unica aspiracion es ocupar el trono.</info>
 <urlsolve>//listeamed.net/v/qA3WOmGRXPrxKkz</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4773,7 +4368,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Dos niños, Daren y Nadia, viven un viaje iniciatico durante el primer dia de sus vacaciones de verano. Desde los apartamentos Pullman, donde residen, hasta una famosa zona de ocio nocturno de Mallorca, reflejo del turismo de bajo coste, los niños viviran situaciones que les acompañaran para siempre en su viaje hacia la vida adulta. </info>
 <urlsolve>//listeamed.net/v/0DogOGMG2b8xKjM</urlsolve> 
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <item>
@@ -4785,7 +4379,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Años atras, en una isla muy lejana, vivia el Pato del Sol, que tenia el poder de proteger a toda la bandada de los aterradores poderes malignos que pudieran venir del exterior. Pero cuando la malvada bruja supo de los superpoderes del Pato del Sol se los arrebato sin escrupulos. Hoy los patos mandarines residen en paz en su isla y solo el emperador sabe que la leyenda es cierta por lo que todos los patos deberan unirse para enfrentarse a la malvada bruja.</info>
 <urlsolve>//listeamed.net/v/rabVOQQoBeGOKdW</urlsolve> 
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Querido diario tonto [COLOR gold](2013)[/COLOR]</title>    
@@ -4796,7 +4389,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>La vida de Jamie es mucho mas divertida en su diario, donde demuestra lo importante que es su infinita imaginacion.</info>
 <urlsolve>//listeamed.net/v/8ozgENLvZ9G5mjA</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Quiero comerme tu pancreas [COLOR gold](2018)[/COLOR]</title>    
@@ -4807,7 +4399,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Un dia, un solitario estudiante de secundaria encuentra un libro de bolsillo en el hospital. Su titulo es "Conviviendo con la Muerte". Resulta ser un diario de una compañera de clase, Sakura Yamauchi, en el cual escribe que, debido a su enfermedad pancreatica, le quedan solo unos cuantos meses de vida. Esto hace que surja una amistad entre ellos muy especial, desvelando la dificil circunstancia por la que atraviesa Sakura no solo en relacion a su enfermedad, sino tambien a otros factores que convierten su dia a dia en una cruel pesadilla.</info>
 <urlsolve>//listeamed.net/v/KNWlEDN3YqR5kbp</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Ralph rompe Internet [COLOR gold](2018)[/COLOR]</title>    
@@ -4818,7 +4409,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>“Ralph rompe Internet" sale de los recreativos, y se adentra en el mundo inexplorado, expansivo y emocionante de Internet. Ralph y su compañera Vanellope tendran que jugarselo todo viajando por las redes en busca de una pieza de repuesto que salve Sugar Rush, el videojuego de Vanellope. Y para complicar mas las cosas, ambos dependen de los ciudadanos de Internet, los llamados ‘ciudanets’ para que les ayuden a desenvolverse en ese peligroso mundo. Entre ellos esta un empresario de Internet llamado Yesss, que es el algoritmo estrella y el alma de “BuzzTube”, la pagina web de moda del momento.</info>
 <urlsolve>//listeamed.net/v/KNWlEDN3YgR5kbp</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Ratatouille  [COLOR gold](2007)[/COLOR]</title>    
@@ -4830,7 +4420,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/QNB7xA219M1E0WG</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Ratonpolis [COLOR gold](2006)[/COLOR]</title>    
@@ -4842,7 +4431,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/e028E6RwYZREYAv</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Raya Y El Ultimo Dragon [COLOR gold](2021)[/COLOR]</title>    
@@ -4854,7 +4442,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/KNWlEDN3Ypa5kbp</urlsolve> 
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Red [COLOR gold](2022)[/COLOR]</title>    
@@ -4866,8 +4453,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/vQBYEbNmwg8En1m</urlsolve> 
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 
 <item>
 <title>[COLOR white] (Re)cambio De Princesa [COLOR gold](2020)[/COLOR]</title>    
@@ -4879,8 +4465,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/nyg9EKDLX8BObk4</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 <item>
 <title>[COLOR white] Regreso Al Futuro [COLOR gold](1985)[/COLOR]</title>    
 <genre>Familia,Aventura,Ciencia Ficcion</genre>
@@ -4891,8 +4476,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://vgembed.com/v/ZMVoErBRwWE9PaA</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 
 <item>
 <title>[COLOR white] Regreso Al Futuro II [COLOR gold](1989)[/COLOR]</title>    
@@ -4904,8 +4488,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://vgembed.com/v/KrdZ5kkWDb5mX47</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 <item>
 <title>[COLOR white] Regreso Al Futuro III [COLOR gold](1990)[/COLOR]</title>    
 <genre>Familia,Aventura,Ciencia Ficcion</genre>
@@ -4916,7 +4499,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://vgembed.com/v/VqbX53J3W8OQzpl</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Robin Hood [COLOR gold](1973)[/COLOR]</title>     
@@ -4928,8 +4510,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/wP2050epY82xdmy</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 
 <item>
 <title>[COLOR white] Rompe Ralph [COLOR gold](2012)[/COLOR]</title>    
@@ -4941,7 +4522,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/mMq75L890bm5XPB</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <item>
@@ -4954,7 +4534,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/MAlwEMYpN2yEJ39</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Sahara [COLOR gold](2017)[/COLOR]</title> 
@@ -4965,7 +4544,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Cansados de ser el chivo expiatorio de su comunidad, Ajar, una serpiente y su amigo Pitt, el escorpion, deciden probar suerte en un cercano oasis habitado por la alta burguesia del desierto del Sahara y volver a encontrar a Eva, una hermosa serpiente de la que se enamoro Ajar locamente. Éste es el comienzo de divertidas aventuras que les conduciran a traves del desierto en busca del amor y tambien a la busqueda de ellos mismos.</info>
 <urlsolve>//listeamed.net/v/KrdZ5kdv7QoxmX4</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Salvaje. The Wild [COLOR gold](2006)[/COLOR]</title>    
@@ -4976,7 +4554,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>The Wild cuenta la historia de un joven leon del Zoo de Nueva York que es embarcado accidentalmente en un barco con destino a africa, separandole de los suyos. Varios de sus intrepidos compañeros intentaran rescatarle. </info>
 <urlsolve>//listeamed.net/v/ao9rxoR2n2J5yGe</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Saludos Amigos [COLOR gold](1942)[/COLOR]</title>    
@@ -4988,8 +4565,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/k3gG5q3aXMjE1N2</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 <item>
 <title>[COLOR white] Salvar El Arbol [COLOR gold](2021)[/COLOR]</title>    
 <genre>Animacion</genre>
@@ -5000,7 +4576,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/4bQVOj7pnRv5wKm</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Se Armo El Belen [COLOR gold](2017)[/COLOR]</title> 
@@ -5011,7 +4586,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Bo es un burrito pequeño, pero valiente, que anhela una vida mas alla de su rutina diaria en el molino del pueblo. Un dia reune el coraje necesario para cumplir la aventura de sus sueños. En su viaje conocera a Ruth, una adorable oveja que ha perdido su rebaño, y a Dave, una paloma con grandes aspiraciones. Durante su camino, en el que siguen una Estrella muy especial, encontraran ademas a tres camellos y a otros excentricos animales. Todos ellos se convertiran en los heroes no reconocidos de la primera Navidad.</info>
 <urlsolve>//listeamed.net/v/eL2157dajGWxrw4</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Seleccion Canina [COLOR gold](2014)[/COLOR]</title> 
@@ -5022,7 +4596,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>La historia de una Seleccion de futbol de perros, que buscara ganar la gloria con la Copa Canina.</info>
 <urlsolve>//listeamed.net/v/QNB7xA21e67E0WG</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <item>
@@ -5034,7 +4607,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>El grupo de amigos de Scooby pone rumbo hacia Nueva Inglaterra para participar en una nueva aventura en la que tendran que investigar una casa que aparentemente esta encantada.</info>
 <urlsolve>//listeamed.net/v/ZMVoEr8J06R59Pa</urlsolve> 
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <item>
@@ -5047,8 +4619,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/rabVOQQoJ7NOKdW</urlsolve>  
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 <item>
 <title>[COLOR white] Scooby Doo. En La Isla De Los Zombies [COLOR gold](2019)[/COLOR]</title>   
@@ -5059,7 +4629,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Scooby Doo, Shaggy, Vilma, Daphne y Fred se reúnen para resolver el más gracioso y aterrador misterio de su carrera. El equipo del miedo viaja a una misteriosa isla para investigar al fantasma del pirata Moonscar. Pero resulta que el espíritu del espadachín no es el único personaje aterrador de la isla... Primera de las películas lanzadas directamente a vídeo/DVD basadas en el personaje de Scooby Doo.</info>
 <urlsolve>//listeamed.net/v/NMRLEprwJJW5XaG</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <item>
@@ -5071,7 +4640,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>El grupo vuelve a la accion para investigar un misterio en una isla infestada de zombies. </info>
 <urlsolve>//listeamed.net/v/b4ZJx21bJV652P3</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <item>
@@ -5084,8 +4652,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/NMRLEprwJq45XaG</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
 
 <item>
 <title>[COLOR white] Shrek [COLOR gold](2001)[/COLOR]</title>    
@@ -5097,8 +4663,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://vgembed.com/v/rabVOQQkYRAOKdW</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
 
 <item>
 <title>[COLOR white] Shrek 2 [COLOR gold](2004)[/COLOR]</title>    
@@ -5110,8 +4674,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://vgembed.com/v/P0poO10J6g1Ez17</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
 
 <item>
 <title>[COLOR white] Shrek Tercero [COLOR gold](2007)[/COLOR]</title>    
@@ -5124,9 +4686,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 
 
-----------------------------------------------------------------------------------------------------------------------
- 
-
 <item>
 <title>[COLOR white] Shrek Felices Para Siempre [COLOR gold](2010)[/COLOR]</title>    
 <genre>Animacion,Aventura,Comedia,Familia,Fantasia</genre>
@@ -5137,7 +4696,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>https://vgembed.com/v/kKJVORW9YJq53XD</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <item>
 <title>[COLOR white] Simbad La Leyenda De Los 7 Mares [COLOR gold](2003)[/COLOR]</title>    
 <genre>Animacion,Familia,Aventura,Comedia,Fantasia,Accion</genre>
@@ -5148,7 +4707,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/JzkPxzn7jvLxbyd</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Solan And Eri. Mision A La Luna [COLOR gold](2018)[/COLOR]</title>    
@@ -5159,7 +4717,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>50 años despues de la mitica llegada del hombre a la Luna, Solan y Eri se embarcan en una aventura espacial para dar el segundo paso sobre la Luna. Con la ayuda de su amigo inventor y de ingeniosas herramientas, ¿conseguiran construir su nave y llegar al espacio?</info>
 <urlsolve>//listeamed.net/v/e028E6Rw8gYEYAv</urlsolve> 
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Sonic [COLOR gold](2019)[/COLOR]</title>   
@@ -5171,7 +4728,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/kKJVORW2XMg53XD</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Sonic 2 [COLOR gold](2022)[/COLOR]</title>   
@@ -5183,8 +4739,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/4bQVOj7pbQd5wKm</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 
 <item>
 <title>[COLOR white] Soul [COLOR gold](2020)[/COLOR]</title>    
@@ -5196,7 +4751,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/e028E6Rw8ooEYAv</urlsolve>
 </item>
 
----------------------------------------------------------------------------------------------------------------------- 
 
 <item>
 <title>[COLOR white] Space Jam [COLOR gold](1996)[/COLOR]</title>    
@@ -5208,8 +4762,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/eL2157dal2Wxrw4</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 <item>
 <title>[COLOR white] Space Jam: Nuevas Leyendas [COLOR gold](2021)[/COLOR]</title>    
 <genre>Familia,Animacion,Comedia,Ciencia Ficcion</genre>
@@ -5220,8 +4773,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/0DogOGMGQgKxKjM</urlsolve>
 </item>
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 <item>
 <title>[COLOR white] Spider-Man: Un nuevo universo  [COLOR gold](2018)[/COLOR]</title>    
 <genre>Fantastico, Accion,Aventuras</genre>
@@ -5231,7 +4782,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>En un universo paralelo donde Peter Parker ha muerto, un joven de secundaria llamado Miles Morales es el nuevo Spider-Man. Sin embargo, cuando el lider mafioso Wilson Fisk (a.k.a Kingpin) construye el "Super Colisionador" trae a una version alternativa de Peter Parker que tratara de enseñarle a Miles como ser un mejor Spider-Man. Pero no sera el unico Spider Man en entrar a este universo, 4 versiones alternas de Spidey apareceran y buscaran regresar a su universo antes de que toda la realidad colapse.</info>
 <urlsolve>https://embedv.net/v/0DogOGMMzZGxKjM</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Spider-Man: Cruzando El Multiverso  [COLOR gold](2023)[/COLOR]</title>    
@@ -5242,7 +4792,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>Tras reencontrarse con Gwen Stacy, el amigable vecindario de Spider-Man de Brooklyn al completo es catapultado a través del Multiverso, donde se encuentra con un equipo de Spidermans encargados de proteger su propia existencia. Pero cuando los héroes se enfrentan sobre cómo manejar una nueva amenaza, Miles se encuentra enfrentado a las otras Arañas y debe redefinir lo que significa ser un héroe para poder salvar a la gente que más quiere.</info>
 <urlsolve>//listeamed.net/v/0DogOGMG4XYxKjM</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item> 
 <title>[COLOR white] Spirit, El Corcel Indomable [COLOR gold](2002)[/COLOR]</title> 
@@ -5254,7 +4803,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/ZMVoEr8J3kY59Pa</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
 <title>[COLOR white] Spirit: Indomable [COLOR gold](2021)[/COLOR]</title>    
 <genre>Animacion,Aventura,Familia,Western</genre>
@@ -5264,7 +4812,6 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <info>La vida de Lucky Prescott cambia para siempre cuando se muda de su casa en la gran ciudad a un pequeño pueblo fronterizo en el que entabla amistad con un caballo salvaje llamado Spirit.</info>
 <urlsolve>//listeamed.net/v/0DogOGMGl9GxKjM</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Spy Cat [COLOR gold](2018)[/COLOR]</title>    
@@ -5276,9 +4823,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <urlsolve>//listeamed.net/v/4bQVOj7pX9o5wKm</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<item>
 <item>
 <title>[COLOR white] Stargirl [COLOR gold](2020)[/COLOR]</title>    
 <genre>Romantico, Drama, Comedia</genre>
@@ -5291,8 +4836,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <urlsolve>//listeamed.net/v/JzkPxzn7gGaxbyd</urlsolve>
 </item>
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 <item>
 <title>[COLOR white] Star Wars Episodio I: La amenaza fantasma [/COLOR][COLOR gold](1999)[/COLOR]</title>    
 <genre>Star Wars,acción,ciencia ficción,aventuras</genre>
@@ -5302,9 +4845,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>La Federación de Comercio ha bloqueado el pequeño planeta de Naboo, gobernado por la joven Reina Amidala, como parte de un plan ideado por Sith Darth Sidious, que manteniéndose en el anonimato dirige a los neimoidianos, que están al mando de la Federación. Amidala es convencida por los Jedis Qui-Gon Jinn y su aprendiz, o padawan, Obi-Wan Kenobi a viajar hasta Coruscant, capital de la República y sede del Consejo Jedi para intentar mediar esta amenaza. Pero esquivando el bloqueo, la nave real resulta dañada, obligando a la tripulación a aterrizar en el desértico y remoto planeta de Tatooine...</info>
 <urlsolve>http://embedv.net/v/nyg9EKDD3zaObk4</urlsolve>
 </item>
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 <item>
 <title>[COLOR white] Star Wars Episodio II: El ataque de los clones [/COLOR][COLOR gold](2002)[/COLOR]</title>    
@@ -5316,8 +4856,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <urlsolve>http://embedv.net/v/rabVOQQQeabOKdW</urlsolve>
 </item>
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 <item>
 <title>[COLOR white] Star Wars Episodio III: La venganza de los Sith [/COLOR][COLOR gold](2005)[/COLOR]</title>    
 <genre>Star Wars,acción,ciencia ficción,aventuras</genre>
@@ -5327,8 +4865,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Último capítulo de la saga de Star Wars, en el que Anakin Skywalker definitivamente se pasa al lado oscuro. En el Episodio III aparecerá el General Grievous, un ser implacable mitad-alien mitad-robot, el líder del ejército separatista Droid. Los Sith son los amos del lado oscuro de la Fuerza y los enemigos de los Jedi. Ellos fueron prácticamente exterminados por los Jedi hace mil años, pero la orden del mal sobrevivió en la clandestinidad.</info>
 <urlsolve>http://embedv.net/v/qL0YEyPP40jxDRX</urlsolve>
 </item>
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Star Wars Episodio IV: Una nueva esperanza [/COLOR][COLOR gold](1977)[/COLOR]</title>    
@@ -5340,9 +4876,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <urlsolve>http://embedv.net/v/6zeREaDDaZmxZPa</urlsolve>
 </item>
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
 <item>
 <title>[COLOR white] Star Wars Episodio V: El imperio contraataca [/COLOR][COLOR gold](1980)[/COLOR]</title>    
 <genre>Star Wars,acción,ciencia ficción,aventuras</genre>
@@ -5352,9 +4885,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Tras un ataque sorpresa de las tropas imperiales a las bases camufladas de la alianza rebelde, Luke Skywalker, en compañía de R2D2, parte hacia el planeta Dagobah en busca de Yoda, el último maestro Jedi, para que le enseñe los secretos de la Fuerza. Mientras, Han Solo, la princesa Leia, Chewbacca, y C3PO esquivan a las fuerzas imperiales y piden refugio al antiguo propietario del Halcón Milenario, Lando Calrissian, en la ciudad minera de Bespin, donde les prepara una trampa urdida por Darth Vader.</info>
 <urlsolve>http://embedv.net/v/qA3WOmGGqRgxKkz</urlsolve>
 </item>
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 <item>
 <title>[COLOR white] Star Wars Episodio VI: El retorno del Jedi [/COLOR][COLOR gold](1983)[/COLOR]</title>    
@@ -5366,9 +4896,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <urlsolve>http://embedv.net/v/PlBVEZ00wdg5Dv9</urlsolve>
 </item>
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
 <item>
 <title>[COLOR white] Star Wars Episodio VII: El despertar de la fuerza [/COLOR][COLOR gold](2015)[/COLOR]</title>    
 <genre>Star Wars,acción,ciencia ficción,aventuras</genre>
@@ -5378,9 +4905,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Treinta años después de la victoria de la Alianza Rebelde sobre la segunda Estrella de la Muerte (hechos narrados en el Episodio VI: El retorno del Jedi), la galaxia está todavía en guerra. Una nueva República se ha constituido, pero una siniestra organización, la Primera Orden, ha resurgido de las cenizas del Imperio Galáctico. A los héroes de antaño, que luchan ahora en la Resistencia, se suman nuevos héroes: Poe Dameron, un piloto de caza, Finn, un desertor de la Primera Orden, Rey, una joven chatarrera, y BB-8, un androide rodante. Todos ellos luchan contra las fuerzas del Mal: el Capitán Phasma, de la Primera Orden, y Kylo Ren, un temible y misterioso personaje que empuña un sable de luz roja.</info>
 <urlsolve>http://embedv.net/v/3Q0lxBWW61ZEj1J</urlsolve>
 </item>
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 <item>
 <title>[COLOR white] Star Wars Episodio VIII: Los últimos Jedi [/COLOR][COLOR gold](2017)[/COLOR]</title>    
@@ -5392,8 +4916,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "http://embedv.net/v/kKJVORWW1Dg53XD"},{"titulo" : "[COLOR white]Opcion 2 Torrent [COLOR gold]4K[/COLOR]","url" : "magnet:?xt=urn:btih:58929bf2fab1dccb0f8f1333ded56788027c938e"}</urlsolve>
 </item>
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 <item>
 <title>[COLOR white] Star Wars Episodio IX: El ascenso de Skywalker [/COLOR][COLOR gold](2019)[/COLOR]</title>    
 <genre>Star Wars,acción,ciencia ficción,aventuras</genre>
@@ -5403,8 +4925,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>La Resistencia sobreviviente se enfrenta a la Primera Orden una vez más mientras continúa el viaje de Rey, Finn y Poe Dameron. Con el poder y el conocimiento de las generaciones detrás de ellos, comienza la batalla final.</info>
 <urlsolve>http://embedv.net/v/g9Vd5JWWYBXxqQj</urlsolve>
 </item>
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Star Wars Han Solo:Una historia de Star Wars [/COLOR][COLOR gold](2018)[/COLOR]</title>    
@@ -5416,8 +4936,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "http://embedv.net/v/7QWN5eyy7mB59oR"},{"titulo" : "[COLOR white]Opcion 2 Torrent [COLOR gold]4K[/COLOR]","url" : "magnet:?xt=urn:btih:415583d37e27f98d34e94972426b394da823326a"}</urlsolve>
 </item>
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 <item>
 <title>[COLOR white] Star Wars La aventura de los Ewoks [/COLOR][COLOR gold](1984)[/COLOR]</title>    
 <genre>Star Wars,acción,ciencia ficción,aventuras</genre>
@@ -5427,8 +4945,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Los miembros de la familia Towani se ven separados cuando su nave choca en la superficie de la luna de Endor. Los padres no tardan en ser capturados por el gigante Gorax, mientras que su hijo Mace y su hija Cincel están desaparecidos. Los Ewoks encuentran a los niños en los restos de la nave, y éstos deberán ganarse la confianza de los pequeños habitantes de Endor para iniciar la aventura de rescatar a sus padres</info>
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://embedv.net/v/wP2050eeMAaxdmy"},{"titulo" : "[COLOR white]Opcion 2 Audio Original[/COLOR]","url" : "https://embedv.net/v/PKN4OwnnJmYEDLj"}</urlsolve>
 </item>
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Star Wars La batalla del planeta de los Ewoks [/COLOR][COLOR gold](1985)[/COLOR]</title>    
@@ -5440,10 +4956,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "//listeamed.net/v/dNjgOl44ZRqO9Wn"},{"titulo" : "[COLOR white]Opcion 2 Audio Original[/COLOR]","url" : "//listeamed.net/v/m7WJxgJJnez5Bze"}</urlsolve>
 </item>
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-"Tag= Malu3, Disney, 1Ciencia Ficcion, 1Aventuras, 1Fantastico, 1Accion, A2021, Letra S, EEUU, Espacial, Star Wars, Disney, C1080, "
-
 <item>
 <title>[COLOR white] Star Wars LEGO: Cuentos escalofriantes [/COLOR][COLOR gold](2021)[/COLOR]</title>    
 <genre>Star Wars,acción,ciencia ficción,aventuras</genre>
@@ -5454,9 +4966,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/y8bb33hzuit7.html"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://vanfem.com/v/-8kl2bpd53pl22d"}</urlsolve>
 </item>
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
 <item>
 <title>[COLOR white] Star Wars LEGO: Especial Felices Fiestas [/COLOR][COLOR gold](2020)[/COLOR]</title>    
 <genre>Star Wars,acción,ciencia ficción,aventuras</genre>
@@ -5466,8 +4975,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Tras la derrota de la Primera Orden en 'Star Wars: El Ascenso de Skywalker', la galaxia se encuentra en un momento de paz y libertad, un instante de merecido descanso para nuestros héroes que, como bien narra el querido Maestro Yoda, se dispone a girar en torno a la celebración del Día de la Vida. Así, en esta fecha señalada dedicada a disfrutar de amigos y familia, Rey, Finn, Poe, Rose y compañía planean organizar una fiesta de la que formará parte la familia de Chewbacca y otros conocidos galácticos como Lando Calrissian o Maz Kanata.</info>
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/vqyccl2bdikx.html"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://vanfem.com/v/jndqjsdzkr6wepe"}</urlsolve>
 </item>
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <item>
@@ -5480,8 +4987,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/9bp0tybkaftr"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 720[/COLOR]","url" : "https://streamtape.com/v/AKljMDAQ1MuZMR"}</urlsolve>
 </item>
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 <item>
 <title>[COLOR white] Star Wars LEGO: 02 El imperio contra todos [/COLOR][COLOR gold](2012)[/COLOR]</title>    
 <genre>Star Wars,acción,ciencia ficción,aventuras</genre>
@@ -5492,7 +4997,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/zak2obttxmox"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 720[/COLOR]","url" : "https://streamtape.com/v/6aojJaZ148S9G2O"}</urlsolve>
 </item>
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Star Wars LEGO: Las crónicas de Yoda-El clon fantasma [/COLOR][COLOR gold](2013)[/COLOR]</title>    
@@ -5503,9 +5007,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Comienza cuando Darth Sidious desvela su plan para crear una súper arma (un clon Sith mejorado cuyo nombre es Jek-14) para ayudarle a derrotar a la República de una vez por todas. Corresponde al Jedi Master Yoda y a sus jóvenes estudiantes Padawan trabajar juntos y ¡salvar la galaxia!.</info>
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/pdmhhsw0dh84"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 720[/COLOR]","url" : "https://streamtape.com/v/3aWO3LxaLOs21G"}</urlsolve>
 </item>
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 
 <item>
@@ -5518,8 +5019,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/vpet40l3m1e8"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 720[/COLOR]","url" : "https://streamtape.com/v/bQad9AXlOlhPwbM"}</urlsolve>
 </item>
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 <item>
 <title>[COLOR white] Star Wars Rogue One: Una historia de Star Wars [/COLOR][COLOR gold](2020)[/COLOR]</title>    
@@ -5531,8 +5030,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <urlsolve>{"titulo" : "[COLOR white]Opcion 1 [COLOR red]HD[/COLOR]","url" : "https://watchsb.com/e/9q3rr1gk938b.html"},{"titulo" : "[COLOR white]Opcion 2 [COLOR red]HD 1080[/COLOR]","url" : "https://vanfem.com/v/6q8grh0reypzy00"},{"titulo" : "[COLOR white]Opcion 3 Torrent [COLOR gold]4K[/COLOR]","url" : "magnet:?xt=urn:btih:a862a75ed6211573bbcddb532addcfe26b866526"}</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 <item>
 <title>[COLOR white] Steve Y La Liga De Los Monstruos [COLOR gold](2021)[/COLOR]</title>    
 <genre>Familia,Comedia,Animacion</genre>
@@ -5542,7 +5040,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>En un mundo en el que los monstruos están domesticados y la lucha de monstruos es un deporte popular, Winnie quiere seguir los pasos de su padre convirtiendo a un monstruo en un luchador.</info>
 <urlsolve>//listeamed.net/v/PKN4Ownl4wGEDLj</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Stuart Little [COLOR gold](1999)[/COLOR]</title> 
@@ -5553,7 +5050,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Un dia la familia Little adopta a Stuart, un pequeño raton al que tratan como si fuera un hijo. Los Little estan encantados con la manera de ser de Stuart, pero George, su hijo mayor, no sabe que hacer con su "nuevo hermano". Por su parte, Snowbell, el gato de la familia, urde un plan para echar a Stuart de casa para siempre.</info>
 <urlsolve>//listeamed.net/v/qM1VOPNR7wXxo4k</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <item>
 <title>[COLOR white] Stuart Little 2 [COLOR gold](2002)[/COLOR]</title> 
 <genre>Infantil,Comedia,Aventuras </genre>
@@ -5563,7 +5060,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Una nueva aventura del valiente y pequeño heroe Stuart Little. Dos nuevos personajes forman parte de la familia Little: una hermana de nueve meses llamada Martha y un pajaro lleno de vida llamado Margalo. </info>
 <urlsolve>//listeamed.net/v/VqbX53gRQKz5Qzp</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <item>
 <title>[COLOR white] Stubby, un heroe muy especial  [COLOR gold](2018)[/COLOR]</title> 
 <genre>Animacion,Aventuras </genre>
@@ -5573,7 +5070,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>El joven militar Robert Conroy ve como su vida cambia cuando encuentra a un pequeño perro en el campamento donde entrena para la guerra. A pesar de no tener formacion militar, el perro se embarca en la aventura, donde luchara junto a Robert y las tropas francesas antes de hacer historia.</info>
 <urlsolve>//listeamed.net/v/4bQVOj7pXgX5wKm</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Super Monsters Save Halloween  [COLOR gold](2018)[/COLOR]</title> 
@@ -5585,7 +5081,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <urlsolve>//listeamed.net/v/YWA8E9wXk4o5GmM</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
 <title>[COLOR white] Super Papa Oso [COLOR gold](2018)[/COLOR]</title>    aqui
 <genre>Animacion, Infantil</genre>
@@ -5597,8 +5092,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 </item>
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 <item>
 <title>[COLOR white] Superman/Shazam!: El regreso de Black Adam  [COLOR gold](2010)[/COLOR]</title> 
 <genre>Animacion,Ficcion,Accion</genre>
@@ -5608,9 +5101,8 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Mediometraje de DC Showcase, que reune a Superman y Capitan Marvel dentro de la misma historia.</info>
 <urlsolve>//listeamed.net/v/qM1VOPNR7adxo4k</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<item>
+
 <item>
 <title>[COLOR white]  Superninhos  [/COLOR][COLOR yellow](2020) [COLOR aqua]*6.3[/COLOR]</title><genre>Ciencia ficción, Aventuras</genre>
 <year>2020</year>  
@@ -5621,7 +5113,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 </item>
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white]  Super Wombat [COLOR gold](2020)[/COLOR]</title>  
@@ -5633,7 +5124,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <urlsolve>//listeamed.net/v/P0poO10v74REz17</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Tadeo Jones: Las Aventuras De Tadeo Jones [COLOR gold](2012)[/COLOR]</title>    
@@ -5644,8 +5134,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Adaptación del corto que ganó un Goya en 2004 y cuyo protagonista, Tadeo Jones, es una especie de Indiana Jones español. Tadeo es un simple trabajador de la construcción que reside en Chicago, pero posee un espíritu aventurero y soñador. Un buen día lo confunden con un popular arqueólogo y lo envían a Perú para realizar un duro cometido. Allí tendrá que frenar a una organización de maleantes que se dedica a robar tesoros y, que en esta ocasión, pretenden saquear una mítica ciudad Inca que acaba de ser descubierta. Pero en esta trepidante aventura Tadeo no estará solo ya que tendrá la ayuda de su fiel perrito Jeff; Sara (Michelle Jenner, 'Extraterrestre'), la guapa profesora de arqueología; Freddy (José Mota, 'La Chispa de la vida') un extraño guía peruano que lleva una chaqueta "multiusos"; un loro que no sabe hablar, y un caza recompensas. ¿Serán capaces Tadeo y sus compañeros de salvar a esta emblemática ciudad?</info>
 <urlsolve>//listeamed.net/v/wP2050ep73Bxdmy</urlsolve>
 </item>
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <item>
@@ -5659,9 +5147,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 </item>
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
 <item>
 <title>[COLOR white] Tadeo Jones 3: La Tabla Esmeralda [COLOR gold](2022)[/COLOR]</title>    
 <genre>Animacion, Aventuras, Comedia, Familia</genre>
@@ -5671,7 +5156,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>A Tadeo le encantaría que sus colegas arqueólogos le aceptasen como a uno más, pero siempre acaba liándola: destroza un sarcófago y desata un conjuro que pone en peligro la vida de sus amigos, Momia, Jeff y Belzoni. Con todos en contra y solo ayudado por Sara, Tadeo emprenderá una huida llena de aventuras, que le llevará de México a Chicago y de París a Egipto, para encontrar la manera de acabar con la maldición de la momia.</info>
 <urlsolve>//listeamed.net/v/ao9rxoR2NrP5yGe</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <item>
@@ -5683,7 +5167,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Taron es un valeroso joven que debe impedir que el malvado Rey Horned se apodere del Caldero Magico, cuya fuerza misteriosa es capaz de crear un autentico ejercito de invencibles guerreros sobrenaturales. En su lucha contra el mal, Taron cuenta con la ayuda de su maestro, Dallben, la princesa Eilonwy, un animal con aspecto de osito de peluche llamada Gurgi, un juglar que se hace llamar Fflewddur Fflam, un cerdito con dotes de clarividente y un trio de brujas excentricas.CS.</info>
 <urlsolve>//listeamed.net/v/7QWN5eyMWlk59oR</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Tarzan [COLOR gold](1999)[/COLOR]</title>    
@@ -5694,7 +5177,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Cuando Kala, una gorila hembra, encuentra un niño huerfano en la jungla, decide adoptarlo como su propio hijo a pesar de la oposicion de Kerchak, el jefe de la manada. Junto a Terk, un gracioso mono y Tantor, un elefante algo neurotico, Tarzan crecera en la jungla desarrollando los instintos de los animales y aprendiendo a deslizarse entre los arboles a velocidad de vertigo. Pero cuando una expedicion se adentra en la jungla y Tarzan conoce a Jane, descubrira quien es realmente y cual es el mundo al que pertenece...</info>
 <urlsolve>https://vembed.net/v/4bQVOjQDnXEwKmZ</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Tarzan 2 [COLOR gold](2005)[/COLOR]</title>    
@@ -5705,7 +5187,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Antes de ser el Rey de la Selva, Tarzan era un niño inquieto que intentaba encontrar su papel en el mundo. Cuando una de sus travesuras pone a su familia en peligro, Tarzan decide que ellos estaran mejor sin el. Asi se embarca en un emocionante viaje que le llevara a encontrarse cara a cara con el misterioso Zugor, la fuerza mas poderosa del planeta. Juntos, Tarzan y Zugor descubren que ser diferentes no es una debilidad y que los amigos y la familia son el mayor apoyo de todos.</info>
 <urlsolve>//listeamed.net/v/dNjgOl4bq17O9Wn</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Teen Beach Movie 1 [COLOR gold](2013)[/COLOR]</title> 
@@ -5716,7 +5197,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Cuenta la historia de una pareja de jovenes surferos que toman la ultima ola del verano, una ola que misteriosamente les llevara a la playa de todo un clasico del cine: Wet Side Story. McKenzie y Brady contemplan asombrados como Surferos y Moteros se enfrentan por el control de la playa... cuando de pronto y espontaneamente, ¡todo el mundo empieza a cantar y a bailar! Brady y McKenzie deben intentar volver al presente, pero su vida podria dar un giro de 180 grados cuando, sin quererlo, cambian la historia romantica de la pelicula: el apuesto protagonista, el surfero Tanner, se esta enamorando de McKenzie, y la motera Lela pierde la cabeza por Brady. ¿Como acabara esto? ¿Podran regresar a su vida real?</info>
 <urlsolve>https://watchsb.com/e/myakfgprlr2m</urlsolve> 
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Teen Beach 2 [COLOR gold](2015)[/COLOR]</title> 
@@ -5727,7 +5207,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Ahora que el verano ha terminado y empieza el instituto, la relacion de Brady (Ross Lynch) y Mack (Maia Mitchell) parece dificil, hasta que Lela, Tanner y los chicos de “Wet Side Story” aparecen. Deslumbrados por la novedad y la variedad del mundo moderno, Lela quiere quedarse, pero el mundo real y el mundo “de pelicula” no se mezclan. ¿Podran Mack y Brady recuperar la magia para conseguir que los chicos vuelvan a casa y poner de nuevo en marcha su amor antes de que sea demasiado tarde?</info>
 <urlsolve>https://watchsb.com/e/afg5zyzx7p1x</urlsolve> 
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Teen Titans Go! La Pelicula [COLOR gold](2018)[/COLOR]</title> 
@@ -5738,7 +5217,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Cuando los Jovenes Titanes se enteran de que otros superheroes de DC han realizado sus propias peliculas, estos buscaran encontrar en un viaje epico un director perfecto para su debut en la gran pantalla, pero un viejo enemigo tiene otras ideas planeadas para ellos. </info>
 <urlsolve>//listeamed.net/v/e028E6RwolQEYAv</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item> 
 <title>[COLOR white] Teresa y Tim [COLOR gold](2016)[/COLOR]</title>  
@@ -5749,7 +5227,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Cada año los duendes traen una nueva primavera. Tim es uno que llega por primera vez. Despistado por el atractivo sonido de la feria, se separara del resto de los duendes y sera atrapado por los malvados Samuel y Vlad para ser explotado como atraccion en el circo. Teresa, una niña de 6 años, lo descubrira alli y se encaprichara de el. Tim, a su vez, vera en ella la oportunidad de escapar. Tras huir se escondera en casa de Teresa y, protegido por ella, correran diversas aventuras, convirtiendose en amigos inseparables. Sin embargo, con el paso del tiempo Tim comenzara a transformarse. Lleva demasiado tiempo lejos de su mundo y de los suyos. Tan solo ayudandolo en su regreso a casa podra salvar a Tim.</info>
 <urlsolve>//listeamed.net/v/LQm9OXNy8rKx1lg</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Terra Willy: Planeta desconocido  [COLOR gold](2019)[/COLOR]</title>    
@@ -5761,8 +5238,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <urlsolve>//listeamed.net/v/KNWlEDN37wm5kbp</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 
 <item>
 <title>[COLOR white] The Mighty Ducks (Somos Los Mejores) [COLOR gold](1992)[/COLOR]</title>    
@@ -5774,8 +5250,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <urlsolve>//listeamed.net/v/l4vexvD8kmAO8B9</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 <item>
 <title>[COLOR white] The Mighty Ducks (Vuelven Los Mejores) [COLOR gold](1994)[/COLOR]</title>    
 <genre>Familia,Comedia,Drama,Accion</genre>
@@ -5786,8 +5261,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <urlsolve>//listeamed.net/v/KNWlEDN34DW5kbp</urlsolve>
 </item>
 
-----------------------------------------------------------------------------------------------------------------------
- 
+
 <item>
 <title>[COLOR white] The Mighty Ducks (El Regreso De Los Mejores) [COLOR gold](1996)[/COLOR]</title>    
 <genre>Familia,Comedia,Drama,Accion</genre>
@@ -5798,7 +5272,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <urlsolve>//listeamed.net/v/27BaOn1okYaEMDX</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Tiana Y El Sapo [COLOR gold](2010)[/COLOR]</title>    
@@ -5809,7 +5282,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Tiana, una muchacha de origen humilde que vive en Nueva Orleans, trabaja como camarera y cocinera para conseguir realizar el sueño que compartio con su padre, conseguir abrir su propio restaurante.Pero todo cambia cuando el Príncipe Naveen, heredero de la corona de Maldonia, llega a la ciudad. En su camino se cruza el Doctor Facilier, un brujo vudú que engaña al príncipe y lo convierte en una rana. Atrapado en su nueva forma, Naveen intentará romper el encantamiento utilizando la forma clásica de los cuentos, es decir, con el beso de una princesa. Convence a Tiana para que le bese pero, las cosas no son tan sencillas.</info>
 <urlsolve>//listeamed.net/v/qL0YEyP7kJjxDRX</urlsolve> 
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Tiempo De Melodia [COLOR gold](1948)[/COLOR]</title>    
@@ -5821,7 +5293,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <urlsolve>//listeamed.net/v/NMRLEprwkZQ5XaG</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Timmy Failure [COLOR gold](2020)[/COLOR]</title>    
@@ -5832,7 +5303,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Timmy es un imaginativo niño de 11 años que es fundador, presidente y director general de la mejor agencia de detectives de la ciudad, probablemente del estado y quizas de la nacion: de nombre Total Failure. Timmy dirige la agencia junto a su mejor amigo, un imaginario oso polar de 1500 libras de peso cuyo mayor talento parece ser comer de la basura.</info>
 <urlsolve>//listeamed.net/v/edVqE4ro6yD5YWm</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Tod y Toby [COLOR gold](1981)[/COLOR]</title>    
@@ -5844,7 +5314,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <urlsolve>//listeamed.net/v/l4vexvD828kO8B9</urlsolve>
 </item>  
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <item>
@@ -5856,7 +5325,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Tod y Toby siguen juntos como uña y carne, pero cuando Toby tiene la oportunidad de unirse a un extravagante grupo de perros aulladores, su amistad de pura raza se pondra a prueba.</info>
 <urlsolve>//listeamed.net/v/YWA8E9wXr735GmM</urlsolve>  
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Togo [COLOR gold](2020)[/COLOR]</title>    
@@ -5867,7 +5335,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Cuenta la historia de Togo, un perro de trineos que gano la carrera mas importante de esta disciplina en 1925 pese a haber sido considerado incapaz de terminarla siquiera debido a su pequeño tamaño.</info>
 <urlsolve>//listeamed.net/v/mMq75L89ZRY5XPB</urlsolve> 
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Tomorrowland: El Mundo Del Mañana [COLOR gold](2015)[/COLOR]</title> 
@@ -5878,7 +5345,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Unidos por el mismo destino, una adolescente inteligente y optimista, llena de curiosidad cientifica, y un antiguo niño prodigio inventor, hastiado por las desilusiones, se embarcan en una peligrosa mision para desenterrar los secretos de un enigmatico lugar localizado en algun lugar del tiempo y el espacio, conocido en la memoria colectiva como “Tomorrowland”, y asi salvar a la humanidad. </info>
 <urlsolve>//listeamed.net/v/JzkPxzn7V7Axbyd</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Toy Story [COLOR gold](1995)[/COLOR]</title>    
@@ -5889,7 +5355,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Los juguetes de Andy, un niño de 6 años, temen que haya llegado su hora y que un nuevo regalo de cumpleaños les sustituya en el corazon de su dueño. Woody, un vaquero que ha sido hasta ahora el juguete favorito de Andy, trata de tranquilizarlos hasta que aparece Buzz Lightyear, un heroe espacial dotado de todo tipo de avances tecnologicos. Woody es relegado a un segundo plano. Su constante rivalidad se transformara en una gran amistad cuando ambos se pierden en la ciudad sin saber como volver a casa. </info>
 <urlsolve>//listeamed.net/v/m7WJxgJerXr5Bze</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Toy Story 2 [COLOR gold](1999)[/COLOR]</title> 
@@ -5900,7 +5365,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Cuando Andy se va de campamento dejando solos a los juguetes, Al McWhiggin, un compulsivo coleccionista de juguetes valiosos, secuestra a Woody. Buzz Lightyear y los demas juguetes tendran que actuar con rapidez si quieren rescatarlo. Durante la operacion de rescate no solo tendran que afrontar multiples peligros, sino que tambien viviran divertidas situaciones.</info>
 <urlsolve>//listeamed.net/v/4bQVOj7pP035wKm</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Toy Story 3 [COLOR gold](2010)[/COLOR]</title> 
@@ -5911,7 +5375,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Cuando su dueño Andy se prepara para ir a la universidad, el vaquero Woody, el astronauta Buzz y el resto de sus amigos juguetes comienzan a preocuparse por su incierto futuro. Efectivamente todos acaban en una guarderia, donde por ejemplo la muñeca Barbie conocera al guapo Ken. Esta reunion de nuestros amigos con otros nuevos juguetes no sera sino el principio de una serie de trepidantes y divertidas aventuras.</info>
 <urlsolve>//listeamed.net/v/ZMVoEr8JvAJ59Pa</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Toy Story 4 [COLOR gold](2019)[/COLOR]</title>    
@@ -5922,7 +5385,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Woody siempre ha tenido claro cual es su labor en el mundo y su prioridad: cuidar a su dueño, ya sea Andy o Bonnie. Pero cuando Bonnie añade a Forky, un nuevo juguete de fabricacion propia, a su habitacion, arranca una nueva aventura que servira para que los viejos y nuevos amigos le enseñen a Woody lo grande que puede ser el mundo para un juguete. </info>
 <urlsolve>//listeamed.net/v/LQm9OXNyY0Qx1lg</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Toy Story: El Tiempo Perdido [COLOR gold](2014)[/COLOR]</title> 
@@ -5934,7 +5396,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <urlsolve>//listeamed.net/v/edVqE4rodP15YWm</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
 <title>[COLOR white] Trolls [COLOR gold](2016)[/COLOR]</title>    
 <genre>Animacion,Aventura,Familia,Comedia,Fantasia,Musica</genre>
@@ -5945,7 +5406,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <urlsolve>//listeamed.net/v/PKN4OwnlkYYEDLj</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
 <title>[COLOR white] Trolls 2: Gira Mundial [COLOR gold](2020)[/COLOR]</title>    
 <genre>Animacion,Aventura,Familia,Comedia,Fantasia,Musica</genre>
@@ -5956,7 +5416,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <urlsolve>//listeamed.net/v/P0poO10v61eEz17</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
 <title>[COLOR white] Trolls 3: Todos Juntos [COLOR gold](2023)[/COLOR]</title>    
 <genre>Animacion,Aventura,Familia,Comedia,Fantasia,Musica</genre>
@@ -5966,7 +5425,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Cuando Floyd, uno de los hermanos de Branch, es secuestrado por una pareja de maléficas estrellas del pop para aprovecharse de su talento musical, Branch y Poppy tendrán que embarcarse en un viaje tan aterrador como emotivo para reunir a la familia y rescatar a Floyd de un destino aún peor que el desolador olvido de los fans.</info>
 <urlsolve>//listeamed.net/v/MAlwEMYp2elEJ39</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Troupe Zero [COLOR gold](2019)[/COLOR]</title>    
@@ -5978,7 +5436,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <urlsolve>//listeamed.net/v/KrdZ5kdvrAjxmX4</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <item>
 <title>[COLOR white] Turbo [COLOR gold](2013)[/COLOR]</title>    
 <genre>Animacion,Familia</genre>
@@ -5988,7 +5446,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Turbo es un caracol de jardín con un sueño imposible: convertirse en el caracol más rápido del mundo. Cuando un extraño accidente le da el poder de la súper-velocidad, Turbo intentará cumplir su sueño. Primero se hará amigo de una peculiar pandilla de caracoles callejeros tuneados y obsesionados con la velocidad, y allí Turbo aprenderá que nadie llega a tener éxito por sí solo. Así que coloca su corazón y su concha en la línea de salida dispuesto a ayudar a sus colegas a lograr sus sueños, antes de intentar alcanzar su sueño imposible: ganar las 500 millas de Indianápolis.</info>
 <urlsolve>//listeamed.net/v/KrdZ5kdvr0mxmX4</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <item>
 <title>[COLOR white] UglyDolls: Extraordinariamente feos  [COLOR gold](2019)[/COLOR]</title>    
 <genre>Animacion, Aventuras,Comedia</genre>
@@ -5998,7 +5456,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Hace muchos años, se crearon los muñecos para dar felicidad a todos los niños del mundo. Pero, ¿alguna vez te has preguntado de donde vienen? Viven en una ciudad magica donde todo es perfecto. Por el contrario, los UglyDolls, los muñecos de peluche imperfectos, viven en Feolandia, un mundo en el que nadie los juzga y en el que se sienten felices y protegidos. Pero...¿que pasaria si estos dos mundos se unieran?</info>
 <urlsolve>//listeamed.net/v/8ozgENLvz1Z5mjA</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <item>
 <title>[COLOR white] Un canguro superduro  [COLOR gold](2005)[/COLOR]</title>    
 <genre>Comedia</genre>
@@ -6009,7 +5467,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <urlsolve>//listeamed.net/v/JzkPxzn74Nkxbyd</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
 <title>[COLOR white] Up [COLOR gold](2009)[/COLOR]</title>    
 <genre>Animación,Comedia,Familia,Aventura</genre>
@@ -6020,7 +5477,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <urlsolve>//listeamed.net/v/kKJVORW24dq53XD</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
 <title>[COLOR white] Uuups! La aventura continúa  [COLOR cyan](2020)[/COLOR]</title>  
 <genre>Animación,Fantástico,Infantil </genre>
@@ -6030,7 +5486,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>El joven Nestrian Finny y su mejor amiga, Leah, caen accidentalmente en el Arca y son arrastrados al mar</info>
 <urlsolve>//listeamed.net/v/MAlwEMYp3y8EJ39</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Vaiana [COLOR gold](2016)[/COLOR]</title>  
@@ -6042,7 +5497,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <urlsolve>//listeamed.net/v/PlBVEZ0loQm5Dv9</urlsolve>
 </item>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <item>
 <title>[COLOR white] Vecinos Invasores [COLOR gold](2006)[/COLOR]</title>    
 <genre>Animacion,Comedia,Familia</genre>
@@ -6052,7 +5507,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Cuando R.J. (un travieso mapache estafador), Verne (una tímida tortuga), y sus amigos del bosque descubren que alguien ha construido unas casas en su territorio, la primera reacción de la tortuga es meterse en su caparazón y retroceder, pero el mapache oportunista se da cuenta de las posibilidades que ofrecen sus nuevos e ingenuos vecinos. Verne y R.J. formarán una inesperada asociación mientras aprenden a coexistir con este extraño mundo llamado “urbanización”, e incluso a explotarlo.</info>
 <urlsolve>//listeamed.net/v/MAlwEMYp3lWEJ39</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Wall-e [COLOR gold](2008)[/COLOR]</title>Leia 
@@ -6063,7 +5517,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>En el año 2800, en un planeta Tierra devastado y sin vida, tras cientos de solitarios años haciendo aquello para lo que fue construido -limpiar el planeta de basura- el pequeño robot WALL•E (acronimo de Waste Allocation Load Lifter Earth-Class) descubre una nueva mision en su vida (ademas de recolectar cosas inservibles) cuando se encuentra con una moderna y lustrosa robot exploradora llamada EVE. Ambos viajaran a lo largo de la galaxia y viviran una emocionante e inolvidable aventura...</info>
 <urlsolve>//listeamed.net/v/njJYOd3G6zqEe9o</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Wallace Y Gromit: La Maldicion De Las Verduras [COLOR gold](2005)[/COLOR]</title>   
@@ -6075,7 +5528,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <urlsolve>//listeamed.net/v/6zeREaD36ZZxZPa</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Wallace Y Gromit: Un asunto de pan o muerte[COLOR gold](2008)[/COLOR]</title>   
@@ -6087,7 +5539,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <urlsolve>//listeamed.net/v/YWA8E9wXnMq5GmM</urlsolve> 
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Willow [COLOR gold](1988)[/COLOR]</title>   
@@ -6098,7 +5549,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Cuento medieval con brujas, enanos y poderes mágicos. En las mazmorras del castillo de la malvada reina hechicera Bavmorda, una prisionera da a luz una niña que, de acuerdo a una antigua profecía, pondrá fin al reinado de la hechicera. La comadrona salva a la niña de la ira de Bavmorda, pero se ve obligada a arrojar su cuna al río cuando es alcanzada por sus perros de presa. La corriente le hace alcanzar un pueblo de enanos en donde es adoptada por el valiente Willow.</info>
 <urlsolve>//listeamed.net/v/k3gG5q3XKXyE1N2</urlsolve> 
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Winnie The Pooh. Una Navidad Para Dar [COLOR gold](1999)[/COLOR]</title>    
@@ -6109,7 +5559,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Todo empieza un frio y tempestuoso dia en el Bosque de los Cien Acres, cuando Pooh, Piglet, Tigger y Rabbit salen en busca del invierno, su estacion preferida, y que tanto habian añorado. Esto les conduce a la laboriosa busqueda de los ingredientes perfectos para un fantastico banquete y a la llegada de la Navidad, en la que recibiran una visita sorpresa de un amigo muy especial. </info>
 <urlsolve>//listeamed.net/v/4bQVOj7pQmv5wKm</urlsolve> 
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <item>
 <title>[COLOR white] Winnie The Pooh [COLOR gold](2011)[/COLOR]</title>    
 <genre>Animacion, Infantil</genre>
@@ -6119,7 +5569,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Winnie the Pooh vuelve a reunir al público así como a sus amigos Tigger, Rabbit, Piglet, Kangu, Rito y, por último, Igor, que ha perdido la cola. El Búho encarga a toda la pandilla una extraña misión: salvar a Christopher Robin de un delincuente imaginario; así que el oso, que sólo había salido a buscar un poco de miel, ve cómo se le complica un día que prometía ser apacible.</info>
 <urlsolve>//listeamed.net/v/4bQVOj7pQWd5wKm</urlsolve> 
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Winnie The Pooh Y Heffalump En Halloween. La Pelicula [COLOR gold](2005)[/COLOR]</title>    
@@ -6130,7 +5579,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>El mejor amigo de Rito, Lumpy, esta muy nervioso porque va a jugar por primera vez al juego de Truco o Trato pero entonces llega Tigger para advertirlos de que tengan cuidado con el Gobloon, un misterioso ser que puede convertirlos en una lampara calabacera si los captura. Sin embargo si ellos atrapan al Gobloon antes de el los atrape a ellos, podran pedirle un deseo. Con Rito a su lado, Lumpy sabe que puede hacer frente a cualquier cosa. Asi que cuando Pooh se come todo todos los caramelos, Lumpy y Rito deciden ser los mas valientes entre los valientes y salir en busca del Gobloon para poder pedirle un deseo: mas caramelos para la fiesta. Pero cuando estos dos amigos se ven separados, Rito decide pedir algo mucho mas importante.</info>
 <urlsolve>//listeamed.net/v/8ozgENLvwWG5mjA</urlsolve> 
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
 <title>[COLOR white] Wonder [COLOR gold](2017)[/COLOR]</title>Leia 
 <genre>Drama,Comedia,Familiar</genre>
@@ -6140,7 +5588,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Un niño de 10 años (Jacob Tremblay, conocido por 'La habitacion') nacido con una deformidad facial que le ha obligado a ser operado 27 veces de cirugia, se esfuerza por encajar en su nuevo colegio.</info>
 <urlsolve>//listeamed.net/v/k3gG5q3a0MdE1N2</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Zafarrancho en el rancho [COLOR gold](2004)[/COLOR]</title>    
@@ -6151,7 +5598,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Un avaricioso proscrito llamado Alameda Slim planea apoderarse de la vaquería “Patch of Heaven”, pero tres decididas vacas, un caballo karateka llamado Buck y un alegre corral lleno de criaturas unen sus fuerzas para salvar la granja en una aventura loca y frenética. Esta extraña mezcla de animales pondrá su vida en constante peligro para capturar al malvado Slim, y cobrar la recompensa con la ayuda de un misterioso cazarrecompensas llamado Rico.</info>
 <urlsolve>//listeamed.net/v/vQBYEbNm2gmEn1m</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Zapatos rojos y los siete trolls  [COLOR gold](2019)[/COLOR]</title>    
@@ -6162,7 +5608,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Unos enanos hechizados se encuentran a una chica con un poder misterioso: sus zapatos rojos. Deberán emprender una misión junto a ella para volver a ser humanos y salvar el reino.</info>
 <urlsolve>//listeamed.net/v/vQBYEbNmDpwEn1m</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Zathura: una aventura espacial [COLOR gold](2005)[/COLOR]</title>    
@@ -6173,7 +5618,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Walter y Danny son dos hermanos de 6 y 10 años que con frecuencia andan envueltos en riñas fraternales. Un dia, tras la marcha de su padre al trabajo, se quedan al cuidado de su hermana mayor. En medio de una de sus multiples peleas los chicos descubren en el sotano de su casa un juego de mesa llamado Zathura. Desde la primera jugada se dan cuenta de que no es un juego de mesa normal: la ficha de la nave espacial se mueve sola y lanza mensajes que se cumplen. Zathura los transportara entonces, en el mas estricto de los sentidos, a una enorme aventura en el espacio sideral. Y alli se veran obligados a trabajar juntos si quieren volver a casa antes de que acabe la partida</info>
 <urlsolve>//listeamed.net/v/PKN4Ownl09VEDLj</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <item>
@@ -6185,8 +5629,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>Seabrook es una ciudad pequeña preocupada por la uniformidad, las tradiciones y los espectáculos de animadoras, hasta que llegan alumnos de Ciudad Zombi a su instituto. Los estudiantes humanos y zombis se esfuerzan por coexistir y surge una amistad entre una animadora llamada Addison y un zombi llamado Zed que puede acabar uniendo al instituto y a la comunidad.</info>
 <urlsolve>//listeamed.net/v/dNjgOl4b21kO9Wn</urlsolve>
 </item>
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <item>
@@ -6200,9 +5642,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 </item>
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
 <item>
 <title>[COLOR white] Z-O-M-B-I-E-S 3 [/COLOR][COLOR gold](2022)[/COLOR]</title>    
 <genre>Comedia,Romance,Fantasia,Musica</genre>
@@ -6213,7 +5652,6 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <urlsolve>//listeamed.net/v/qM1VOPNRPJmxo4k</urlsolve>
 </item>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[COLOR white] Zootropolis [/COLOR][COLOR gold](2016)[/COLOR]</title>    
@@ -6224,9 +5662,7 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 <info>La moderna metropoli mamifera de Zootropolis es una ciudad absolutamente unica. Esta compuesta de barrios con diferentes habitats como la lujosa Sahara Square y la gelida Tundratown. Es un crisol donde los animales de cada entorno conviven, un lugar donde no importa lo que seas. De hecho puedes ser cualquier cosa, desde un elefante enorme hasta la musaraña mas diminuta. Pero cuando llega la optimista agente Judy Hopps, descubre que ser la primera conejita de un cuerpo policial compuesto de animales duros y enormes no es nada facil. Pero esta decidida a demostrar su valia y se mete de cabeza en un caso, a pesar de que eso significa trabajar con Nick Wilde, un zorro parlanchin y estafador, para resolver el misterio.</info>
 <urlsolve>//listeamed.net/v/P0poO10vDlkEz17</urlsolve>
 </item>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 </items>
 
  
