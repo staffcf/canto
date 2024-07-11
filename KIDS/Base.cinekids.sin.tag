@@ -3055,7 +3055,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <year>2014</year>  
 <thumbnail>https://www.themoviedb.org/t/p/original/r26UfZeF067hvxYlT76v0i9P0qt.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ypltuIn5JHnwL5npfoRqcxKawZV.jpg</fanart>
-<info>Los personajes de la serie animada de los 60 The Rocky & Bullwinkle Show, Mr. Peabody y Sherman, se cuelan en la gran pantalla adquiriendo una nueva dimensión 3D. En esta ocasión el perro parlante más inteligente del mundo, Mr. Peabody y su mascota Sherman, un enérgico niño bastante ingenuo, se adentrarán en nueva una aventura determinante en el curso de la historia universal. Cuando Sherman desastrosamente avería la máquina del tiempo, la peculiar pareja se ve obligada a recomponer los hechos y arreglar la máquina antes de que sea demasiado tarde y el continuo espacio-tiempo se destruya afectando irreparablemente a nuestra existencia.</info>
+<info>Los personajes de la serie animada de los 60 The Rocky y Bullwinkle Show, Mr. Peabody y Sherman, se cuelan en la gran pantalla adquiriendo una nueva dimensión 3D. En esta ocasión el perro parlante más inteligente del mundo, Mr. Peabody y su mascota Sherman, un enérgico niño bastante ingenuo, se adentrarán en nueva una aventura determinante en el curso de la historia universal. Cuando Sherman desastrosamente avería la máquina del tiempo, la peculiar pareja se ve obligada a recomponer los hechos y arreglar la máquina antes de que sea demasiado tarde y el continuo espacio-tiempo se destruya afectando irreparablemente a nuestra existencia.</info>
 <urlsolve>//listeamed.net/v/qL0YEyPgKbJxDRX</urlsolve>
 </item>
 
@@ -3147,7 +3147,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 
 <item>
-<title>[COLOR white] Lilo & Stitch 2. El Efecto Del Defecto [COLOR gold](2005)[/COLOR]</title>    
+<title>[COLOR white] Lilo y Stitch 2. El Efecto Del Defecto [COLOR gold](2005)[/COLOR]</title>    
 <genre>Animacion, Comedia, Ciencia Ficcion, Infantil</genre>
 <year>2005</year>  
 <thumbnail>https://i.imgur.com/iTVk9CE.jpg</thumbnail>
@@ -4212,7 +4212,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <year>2012</year>  
 <thumbnail>https://www.themoviedb.org/t/p/original/vmORavGBn3SgyihusgcETgt0yyU.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/nnOJw55CUy7MaMoLblRaNKiGyfx.jpg</fanart>
-<info>Decimoquinta película de Pokémon. Transcurre en la región de Teselia y pertenece a la Serie Black & White</info>
+<info>Decimoquinta película de Pokémon. Transcurre en la región de Teselia y pertenece a la Serie Black and White</info>
 <urlsolve>https://vembed.net/v/QNB7xAGXk0O0WG9</urlsolve>
 </item>
 
