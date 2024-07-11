@@ -1407,7 +1407,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <year>2020</year>  
 <thumbnail>https://www.themoviedb.org/t/p/original/g8ZyfUC0THygJkVoO2J7NxsdPI5.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/sxQNg9yNKsoNdDEWCX2Sr8tMCNX.jpg</fanart>
-<info>La paz y tranquilidad de un pequeño poblado y sus habitantes, se pone en peligro cuando un corporativo quiere destruir la montaña que los protege. Una niña llamada Copi, junto a su mejor amigo y su mascota Xico, un perro xoloitzcuintle, se adentrarán en la montaña para salvar al pueblo. Pero todo dependerá de Xico, cuando descubra que en realidad es un perro mágico y deberá de encontrar la valentía dentro de él para salvar a la montaña y a todos los habitantes del pueblo.<info>
+<info>La paz y tranquilidad de un pequeño poblado y sus habitantes, se pone en peligro cuando un corporativo quiere destruir la montaña que los protege. Una niña llamada Copi, junto a su mejor amigo y su mascota Xico, un perro xoloitzcuintle, se adentrarán en la montaña para salvar al pueblo. Pero todo dependerá de Xico, cuando descubra que en realidad es un perro mágico y deberá de encontrar la valentía dentro de él para salvar a la montaña y a todos los habitantes del pueblo.</info>
 <urlsolve>//listeamed.net/v/MAlwEMYo4KqEJ39</urlsolve>
 </item>
 
