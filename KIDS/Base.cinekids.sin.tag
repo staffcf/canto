@@ -1381,6 +1381,17 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 
 <item>
+<title>[COLOR white] El Ascenso De Las Tortugas Ninja: La Pelicula [/COLOR][COLOR gold](2022)[/COLOR]</title>    
+<genre>Animacion,Accion,Ciencia Ficción</genre>
+<year>2022</year>  
+<thumbnail>https://image.tmdb.org/t/p/original/tkifNQ0xPfdbcWGJPfaDa740u1y.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vRNWeNYz4klicX5XuYfZZ30oHuN.jpg</fanart>
+<info>Las Tortugas Ninja mutantes adolescentes hacen frente a su mayor desafío cuando un extraño llega del futuro con un aviso urgente. Leonardo se ve obligado a levantarse y guiar a sus hermanos, Rafael, Donatelo y Miguel Angel en una lucha para salvar al mundo de los "Krang", una terrorífica especie alienígena.</info>
+<urlsolve>//listeamed.net/v/0DogOGMQKBPxKjM</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El Bebe Jefazo [COLOR gold](2017)[/COLOR]</title>    
 <genre>Animacion</genre>
 <year>2017</year>  
@@ -2049,6 +2060,16 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>El perro de Eric, Gabe, intenta hacer que su dueño se enamore de la vecina de al lado para que no se tengan que mudar a Inglaterra.</info>
 <urlsolve>https://sendvid.com/x6p7t0ol</urlsolve>
+</item>
+
+<item>
+<title>[COLOR white] Garfield: La Pelicula [COLOR gold](2024)[/COLOR]</title>   
+<genre>Animacion,Comedia,Familia,Aventura</genre>
+<year>2024</year>  
+<thumbnail>https://image.tmdb.org/t/p/original/tkdc73JiPVvzngSpbLEIfFNjll1.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/q2vlyYukn1JGEgtqlTqY6Q45djV.jpg</fanart>
+<info>El mundialmente famoso Garfield, el gato casero que odia los lunes y que adora la lasaña, está a punto de vivir una aventura ¡en el salvaje mundo exterior! Tras una inesperada reunión con su largamente perdido padre – el desaliñado gato callejero Vic – Garfield y su amigo canino Odie se ven forzados a abandonar sus perfectas y consentidas vidas al unirse a Vic en un hilarante y muy arriesgado atraco.</info>
+<urlsolve>//listeamed.net/v/ZMVoEr807L859Pa</urlsolve>
 </item>
 
 <item>
