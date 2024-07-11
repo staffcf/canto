@@ -1138,12 +1138,12 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 
 <item>
-<title>[COLOR white]  Como Perros Y Gatos: La patrulla Unida [/COLOR][COLOR yellow](2020)[/COLOR]</title>    
+<title>[COLOR white] Como Perros Y Gatos: La patrulla Unida [/COLOR][COLOR yellow](2020)[/COLOR]</title>    
 <genre>Comedia,Accion,Familia</genre>
 <year>2020</year>  
 <thumbnail>https://www.themoviedb.org/t/p/original/5I9ZSO42I9Rl3aXh7nMaTLWiUaz.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/t22fWbzdnThPseipsdpwgdPOPCR.jpg</fanart>
-<info>El gato Gwen y el perro Roger son dos agentes secretos que protegen y salvan el mundo sin que los humanos tengan ni ella de ello. Su alianza se debe al Gran Pacto, que ha logrado detener la hostilidad entre perros y gatos durante una década. Sin embargo, la paz se ve ahora amenazada por un loro supervillano que ha descubierto una forma de manipular las frecuencias que sólo los perros y los gatos pueden oír. ¿Podrán estos héroes detener el avance del mal y evitar así una 'gatástrofe' entre ambas especies?<info>
+<info>El gato Gwen y el perro Roger son dos agentes secretos que protegen y salvan el mundo sin que los humanos tengan ni ella de ello. Su alianza se debe al Gran Pacto, que ha logrado detener la hostilidad entre perros y gatos durante una década. Sin embargo, la paz se ve ahora amenazada por un loro supervillano que ha descubierto una forma de manipular las frecuencias que sólo los perros y los gatos pueden oír. Podrán estos héroes detener el avance del mal y evitar así una 'gatástrofe' entre ambas especies?.</info>
 <urlsolve>https://vembed.net/v/PKN4Ow49BG5DLjb</urlsolve>
 </item>
 
