@@ -942,13 +942,24 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 
 <item>
-<title>[COLOR white] Cazafantasmas: Mas Alla [COLOR gold](2016)[/COLOR]</title>    
+<title>[COLOR white] Cazafantasmas: Mas Alla [COLOR gold](2021)[/COLOR]</title>    
 <genre>Familia,Comedia,Fantasia,Aventura</genre>
-<year>2016</year>  
+<year>2021</year>  
 <thumbnail>https://www.themoviedb.org/t/p/original/eKA6f9askR9DxLxVYMzk03CIHfN.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pGfM7XTwN6MCAdDfVv6IHV9R7Kv.jpg</fanart>
 <info>Una madre soltera y sus dos hijos se van a vivir a un pequeño pueblo donde descubrirán su conexión con los orígenes de los Cazafantasmas y el legado secreto que su abuelo les ha dejado.</info>
 <urlsolve>https://vembed.net/v/8ozgEN7jrYOmjAy</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Cazafantasmas: Imperio Helado [COLOR gold](2024)[/COLOR]</title>    
+<genre>Familia,Comedia,Fantasia,Aventura</genre>
+<year>2024</year>  
+<thumbnail>https://image.tmdb.org/t/p/original/nwEpShfw0vwlXPWgV55pIUGovpG.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tCSFzEmZlv9KXBMbzByBGARcttq.jpg</fanart>
+<info>Después de los eventos de Oklahoma, el equipo de Cazafantasmas regresa a donde comenzó todo: ¡Nueva York! La historia de la familia Spengler continúa con un nuevo grupo de Cazafantasmas.</info>
+<urlsolve>//listeamed.net/v/Ro7kOVVlYWyOZWB</urlsolve>
 </item>
 
 
