@@ -69,7 +69,7 @@
 
 
 <item>
-<title>[COLOR white]  Agencia Secreta de Control Magico [COLOR gold](2021)[/COLOR]</title>  
+<title>[COLOR white] Agencia Secreta de Control Magico [COLOR gold](2021)[/COLOR]</title>  
 <genre>Animacion,Comedia,Fantasia</genre>
 <year>2021</year>  
 <thumbnail>https://www.themoviedb.org/t/p/original/snCDylJCTmzyz4fmxkm5MsgjKyJ.jpg</thumbnail>
