@@ -3291,10 +3291,21 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Los Minions [COLOR gold](2015)[/COLOR]</title>    
 <genre>Familia,Animacion,Aventuras</genre>
 <year>2015</year>  
-<thumbnail>https://i.imgur.com/oXXvSig.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/nmqLwaTfgyWLQWbYd82w159cAqJ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/5QNPghFIdEOeTx55mHR73QyFfKH.jpg</fanart>
 <info>La historia de Los Minions se remonta al principio de los tiempos. Empezaron siendo organismos amarillos unicelulares que evolucionaron a través del tiempo, poniéndose siempre al servicio de los amos más despreciables. Ante su incapacidad para mantener a esos amos – desde el T. Rex a Napoleón –, los Minions acaban encontrándose solos y caen en una profunda depresión. Sin embargo, uno de ellos, llamado Kevin, tiene un plan. Acompañado por el rebelde Stuart y el adorable Bob, emprende un emocionante viaje para conseguir una jefa a quien servir, la terrible Scarlet Overkill. Pasarán de la helada Antártida, a la ciudad de Nueva York en los años sesenta, para acabar en el Londres de la misma época, donde deberán enfrentarse al mayor reto hasta la fecha: salvar a la raza Minion de la aniquilación. </info>
 <urlsolve>//listeamed.net/v/k3gG5q3JK3jE1N2</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Los Minions: El Origen De Gru [COLOR gold](2022)[/COLOR]</title>    
+<genre>Familia,Animacion,Aventuras,Comedia</genre>
+<year>2022</year>  
+<thumbnail>https://image.tmdb.org/t/p/original/zCdvIdb6SvoaOzTqCWFQdCEmOXq.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8rzI5vNefZWuUiF6MrHXqVY5Hhl.jpg</fanart>
+<info>Mucho antes de convertirse en un genio del mal, Gru no era más que un chaval de 12 años en plenos años 70 tratando de conquistar el mundo desde el sótano de su casa de un barrio residencial cualquiera. Y no le iba demasiado bien. Pero cuando Gru se cruza en su camino con Kevin, Stuart, Bob, y Otto —un nuevo Minion con aparato en los dientes y desesperado por sentirse aceptado—, esta inesperada familia unirá fuerzas para construir su primera guarida, diseñar sus primeras armas y llevar a cabo sus primeras misiones.</info>
+<urlsolve>//listeamed.net/v/njJYOd3MDgbEe9o</urlsolve>
 </item>
 
 
