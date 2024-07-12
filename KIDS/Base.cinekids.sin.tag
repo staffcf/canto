@@ -516,7 +516,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://www.themoviedb.org/t/p/original/hmeP0Fd7TipMllhOdFeSimrLTCs.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/s6COxOAFSDzDLq72iqyZ7AXHFX1.jpg</fanart>
 <info>Una adolescente profundamente afligida por haber perdido a sus padres comienza a tener un vínculo muy especial con un caballo que ha sido alejado de su familia.</info>
-<urlsolve>https://vanfem.com/v/zdn2mtjyqmlp4kl</urlsolve>
+<urlsolve>//listeamed.net/v/rabVOQQJn63OKdW</urlsolve>
 </item>
 
 
@@ -1286,7 +1286,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <thumbnail>https://i.imgur.com/DtfvhJj.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 <info>La nueva aventura de Doraemon nos conduce a un universo bajo la superficie de la Tierra habitado por animales prehistóricos y por los descendientes evolucionados de los antiguos dinosaurios.</info>
-<urlsolve>https://sendvid.com/cql805j4</urlsolve>
+<urlsolve>//listeamed.net/v/LQm9OXN7QdYx1lg</urlsolve>
 </item>
 
 
@@ -3145,7 +3145,7 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 
 <item>
-<title>[COLOR white]  Lego DC. ¡Shazam! Magia Y Monstruos [/COLOR][COLOR gold](2020)[/COLOR]</title>    
+<title>[COLOR white] Lego DC. ¡Shazam! Magia Y Monstruos [/COLOR][COLOR gold](2020)[/COLOR]</title>    
 <genre>Animacion, Aventuras</genre>
 <year>2020</year>  
 <thumbnail>https://i.imgur.com/VhGqsKH.jpg</thumbnail>
@@ -3233,7 +3233,47 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 </item>
 
 <item>
-<title>[COLOR white]  Los Fixies contra los Crabots [COLOR gold](2019)[/COLOR]</title>  
+<title>[COLOR white] Los Descendientes [COLOR gold](2015)[/COLOR]</title>    
+<genre>Animacion,Aventura,Familia,Comedia,Fantasia,Accion</genre>
+<year>2015</year>  
+<thumbnail>https://image.tmdb.org/t/p/original/a1aDPDsXZKXgfBPddyv70FTc5Zw.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/5f82ClXzrmAndztDYrMHWdMlLa7.jpg</fanart>
+<info>Un reino de hoy en día idílico donde el hijo adolescente benevolente del rey Adam y la reina Bella, Ben, ofrece una oportunidad de redención de los descendientes de los villanos clásicos de Disney: Cruella de Vil (Carlos), Maléfica (Mal), la Reina Malvada (Evie) y Jafar</info>
+<urlsolve>//listeamed.net/v/nyg9EKDboVmObk4</urlsolve>
+</item>
+
+<item>
+<title>[COLOR white] Los Descendientes 2 [COLOR gold](2017)[/COLOR]</title>    
+<genre>Animacion,Aventura,Familia,Comedia,Fantasia,Accion</genre>
+<year>2017</year>  
+<thumbnail>https://image.tmdb.org/t/p/original/cwADU2dxO9NN7T9pF9h3rv9kYTb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xmkLk8AiC21wqIyG3DAETQitLk.jpg</fanart>
+<info>Cuando la presión de ser real se convierte en demasiado para Mal, ella regresa a la isla de los perdidos donde su archienemiga Uma, la hija de Úrsula, ha tomado su lugar como la reina autoproclamada.</info>
+<urlsolve>//listeamed.net/v/8lKQxYVdrgVEDGY</urlsolve>
+</item>
+
+<item>
+<title>[COLOR white] Los Descendientes 3 [COLOR gold](2019)[/COLOR]</title>    
+<genre>Animacion,Aventura,Familia,Fantasia,Accion</genre>
+<year>2019</year>  
+<thumbnail>https://image.tmdb.org/t/p/original/1OtIhamt5JU1f8OajkJX3KMRqgQ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/mrrQktiysTvBg8vvtK0wR7TD3Ib.jpg</fanart>
+<info>Los hijos de los villanos, Mal, Evie, Jay y Carlos vuelven una vez más a la pequeña pantalla en una aventura en la que conoceremos al padre de Mal, quien será el nuevo villano. Además, la hija de Úrsula, Uma, quien dio mucha guerra en la anterior entrega, se une al grupo de protagonistas. En la cinta también aparecerán otros villanos clásicos de Disney como Hades, de Hércules, y el Dr. Facilier, de Tiana y el sapo.</info>
+<urlsolve>//listeamed.net/v/wP2050ewAnexdmy</urlsolve>
+</item>
+
+<item>
+<title>[COLOR white] Los Descendientes: Corazon Rebelde [COLOR gold](2024)[/COLOR]</title>    
+<genre>Animacion,Aventura,Familia,Fantasia,Comedia</genre>
+<year>2024</year>  
+<thumbnail>https://image.tmdb.org/t/p/original/k0ZJHGKwHfmb2bJRozQ0DD2edkA.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/q90Uzd45xPAHtjEm0QObjcluRut.jpg</fanart>
+<info>Cuando la Reina de Corazones da un golpe de Estado en Áuradon, su rebelde hija Red y la perfeccionista hija de Cenicienta, Chloe, unen sus fuerzas y viajan al pasado para intentar impedir el traumático suceso que llevó a la madre de Red a convertirse en una villana.</info>
+<urlsolve>//listeamed.net/v/04rQxWW61wZxb2N</urlsolve>
+</item>
+
+<item>
+<title>[COLOR white] Los Fixies contra los Crabots [COLOR gold](2019)[/COLOR]</title>  
 <genre>Animacion</genre>
 <year>2019</year>  
 <thumbnail>https://www.themoviedb.org/t/p/original/nYMLgryWifP0Zmk7zKeaVOUcuKV.jpg</thumbnail>
