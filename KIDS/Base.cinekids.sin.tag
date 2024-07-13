@@ -480,8 +480,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Barbie: El Campamento De Princesas [COLOR gold](2015)[/COLOR]</title> 
 <genre>Animacion, Musical, Infantil</genre>
 <year>2015</year>
-<thumbnail>https://3.bp.blogspot.com/-NAO4vBAh2lE/Wh2xoEoD6NI/AAAAAAAACMg/mVFJefLQTEELWh1q9m_5SuVsOjGalDHcwCLcBGAs/s1600/barbie-campamento-deprincesas.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/ppamlJqWbSnkACxwHsksp6EDyUD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/k69EBbb2u4aSW5BvUUTD66DON40.jpg</fanart>
 <info>Barbie es la princesa Courtney, una princesa moderna cuyo mundo da un vuelco cuando es enviada al Cam Pop, y Erika (una famosa estrella del rock) al Camp Royalty donde vivia Courtney. Courtney y Erika aprenden a adaptarse a los diferentes mundos y se unen para una epica actuacion que demuestra que todo es posible cuando te atreves a soñar en grande.</info>
 <urlsolve>http://ok.ru/video/1385210382909</urlsolve>
 </item>
@@ -491,8 +491,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Barbie: la Princesa y la Costurera [COLOR gold](2004)[/COLOR]</title>
 <genre>Animacion, Musical, Fantastico, Infantil</genre>
 <year>2004</year> 
-<thumbnail>https://i.imgur.com/Pjlj5xM.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/2X6kRYytvhEwuS2ukHwVvIN7eVc.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9WMJoDdfbVS9NDPjsQNuhmDO7zk.jpg</fanart>
 <info>La mitica muñeca Barbie cobra vida en esta moderna version del cuento de Mark Twain "El Principe y el Mendigo" sobre un error de identidad y el poder de la amistad. Con la voz de Gisela como Barbie cantando siete temas originales llega la primera pelicula musical de Barbie interpretando ademas un doble papel.</info>
 <urlsolve>https://sendvid.com/ewtuotba</urlsolve>
 </item>
@@ -513,8 +513,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Batman Vs. Las Tortugas Ninja [COLOR gold](2019)[/COLOR]</title>    
 <genre>Animacion, Accion, Fantastico</genre>
 <year>2019</year>  
-<thumbnail>https://i.imgur.com/kI6HFDV.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/wgBBB3Auky610UPhWdb0hBnwQzM.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jpgwGc4fAMbJ6VyOhD9roN7dlJu.jpg</fanart>
 <info>Batman, Batgirl y Robin forjan una alianza con Las Tortugas Ninja para luchar contra el gran enemigo de estas ultimas, Shredder, quien aparentemente ha formado equipo con Ra's Al Ghul y la Liga de Asesinos para poner en jaque a Gotham.</info>
 <urlsolve>https://embedv.net/v/e028E6RPvvdEYAv</urlsolve>
 </item>
@@ -799,8 +799,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Campanilla: Los Juegos de la Hondonada de las Hadas [COLOR gold](2011)[/COLOR]</title> 
 <genre>Animacion, Fantastico, Infantil</genre>
 <year>2014</year> 
-<thumbnail>https://i.imgur.com/Tj5bWgw.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/stuc1Khozd7rhMGSfSsJnKOegF1.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2Np6DhU9tajle3nHjMfg0Nw1o3h.jpg</fanart>
 <info>En esta aventura, todas las hadas competirán en una carrera difícil y tradicional a través de las cuatro estaciones. Pero cuando Campanilla nesesite ayuda, Clank y Bobble entrarán en la carrera.</info>
 <urlsolve>http://vembed.net/v/8lKQxYYbbVxDGYb</urlsolve>
 </item>
@@ -1141,8 +1141,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Como Entrenar A Tu Dragon [COLOR gold](2010)[/COLOR]</title> 
 <genre>Animacion</genre>
 <year>2010</year> 
-<thumbnail>https://i.imgur.com/YO1GdhP.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/8ekxsUORMAsfmSc8GzHmG8gWPbp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9xkfTw8g7cGcKnXkRK57u6BgguK.jpg</fanart>
 <info>Ambientada en el mitico mundo de los rudos vikingos y los dragones salvajes, y basada en el libro infantil de Cressida Cowell, esta comedia de accion narra la historia de Hipo, un vikingo adolescente que no encaja exactamente en la antiquisima reputacion de su tribu como cazadores de dragones. El mundo de Hipo se trastoca al encontrar a un dragon que le desafia a el y a sus compañeros vikingos, a ver el mundo desde un punto de vista totalmente diferente.</info>
 <urlsolve>https://vembed.net/v/nyg9EKlPkjObk4Z</urlsolve>
 </item>
@@ -1152,8 +1152,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Como Entrenar A Tu Dragon 2 [COLOR gold](2014)[/COLOR]</title> 
 <genre>Animacion</genre>
 <year>2014</year> 
-<thumbnail>https://4.bp.blogspot.com/-zFj1NsbXkgA/WnsP2c4YxfI/AAAAAAAAFrU/SBG7XPBZ6lcEz4iMpxtLakm2f_Uccay7wCLcBGAs/s1600/Como_entrenar_a_tu_drag_n_2-277355312-large.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/oxhFIQb7ndqNpIgT3vRJ80WTyzO.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pYEoOszDu7e7m1bIbesZbiRl2Th.jpg</fanart>
 <info>Han pasado cinco años desde que Hipo empezo a entrenar a su dragon, rompiendo la tradicion vikinga de cazarlos. Astrid y el resto de la pandilla han conseguido difundir en la isla un nuevo deporte: las carreras de dragones. Mientras realizan una carrera, atraviesan los cielos llegando a territorios inhospitos, donde nadie antes ha estado. Durante un viaje descubren una cueva cubierta de hielo que resulta ser el refugio de cientos de dragones salvajes, a los que cuida un misterioso guardian. Hipo y los suyos se unen al guardian para proteger a los dragones de las fuerzas malignas que quieren acabar con ellos.</info>
 <urlsolve>//vembed.net/v/6zeREap7loxZPa4</urlsolve>
 </item>
@@ -1163,8 +1163,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Como Entrenar A Tu Dragon 3 [COLOR gold](2019)[/COLOR]</title> 
 <genre>Animacion</genre>
 <year>2019</year>  
-<thumbnail>https://i.imgur.com/fwuCJxw.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/rhnoAReqO3Xoe6GbJhT3409lnq8.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/bmoWzpkVKhmioBDldDSkFuDyiB0.jpg</fanart>
 <info>Lo que comenzo como la inesperada amistad entre un joven vikingo y un temible dragon Furia Nocturna se ha convertido en una epica trilogia que ha recorrido sus vidas. En esta nueva entrega, Hipo y Desdentao descubriran finalmente su verdadero destino: para uno, gobernar Isla Mema junto a Astrid; para el otro, ser el lider de su especie. Pero, por el camino, deberan poner a prueba los lazos que los unen, plantando cara a la mayor amenaza que jamas hayan afrontado... y a la aparicion de una Furia Nocturna hembra.</info>
 <urlsolve>//vembed.net/v/P0poO172rkxz17v</urlsolve>
 </item>
@@ -1184,8 +1184,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Corgi: Las mascotas de la reina [COLOR gold](2019)[/COLOR]</title>
 <genre>Animacion,Comedia,Infantil</genre>
 <year>2019</year>
-<thumbnail>https://i.imgur.com/2sIDWFv.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/n0w3tWIl8QLRTb5ovfUbthd4Fci.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/c0I4da8Gpv5fdr6szhTQxpOO5hc.jpg</fanart>
 <info>Rex es el perro mas querido de la Reina de Inglaterra. Un dia, Rex pierde el rastro de su dueña y se encuentra por casualidad con un clan de perros de distintas razas que tienen rencillas y pelean entre si. En su aventura para encontrar la reina, Rex averigua el significado del amor y descubre quien es realmente.</info>
 <urlsolve>https://vembed.net/v/0DogOGlBR85KjM6</urlsolve>
 </item>
@@ -1228,8 +1228,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Del reves ,Inside out [COLOR gold](2015)[/COLOR]</title>
 <genre>Animacion,Comedia,Infantil</genre>
 <year>2015</year>
-<thumbnail>https://1.bp.blogspot.com/-W0JDnEO0p0Q/WibTTF4_dZI/AAAAAAAAC1A/LVka6GpLrcA7PnKfiNdKYpfw3nCWPyfOgCLcBGAs/s1600/Del_reves_Inside_Out-770027206-large.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-iuSdwi4nkJA/WibTS07fICI/AAAAAAAAC08/WtTnqMd56MoVH13xaVbVSmC4yJkS1zeVgCLcBGAs/s1600/Del_reves_Inside_Out-284556114-large.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/sG3bHZWCMOZwhUq71WbPG9Vrrwc.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1F2p6zS62l6qnNUnS15U6Y7LOSi.jpg</fanart>
 <info>Riley es una chica que disfruta o padece toda clase de sentimientos. Aunque su vida ha estado marcada por la Alegria, tambien se ve afectada por otro tipo de emociones. Lo que Riley no entiende muy bien es por que motivo tiene que existir la Tristeza en su vida. Una serie de acontecimientos hacen que Alegria y Tristeza se mezclen en una peligrosa aventura que dara un vuelco al mundo de Riley.</info>
 <urlsolve>https://vembed.net/v/8lKQxYz4ePEDGYb</urlsolve>
 </item>
@@ -1239,8 +1239,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Descubriendo a los Robinsons  [COLOR gold](2007)[/COLOR]</title> 
 <genre>Animacion, Ciencia Ficcion, Comedia, Infantil</genre>
 <year>2007</year>  
-<thumbnail>https://i.imgur.com/laXowzf.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/qIoHO9lAZlqasvwDLeMLc3nlReR.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/z9rEI1iUKxreuuyolr542kZjFYB.jpg</fanart>
 <info>Cuando Lewis conoce a un misterioso chico que viene del futuro llamado Wilbur Robinson, ambos haran un viaje en el tiempo donde Lewis descubre el asombroso secreto de la familia Robinson.CS.</info>
 <urlsolve>https://vembed.net/v/3Q0lxBgXWnEj1Jk</urlsolve>
 </item>
