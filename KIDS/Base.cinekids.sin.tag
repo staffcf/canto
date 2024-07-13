@@ -366,6 +366,28 @@
 
 
 <item>
+<title>[COLOR white] Aviones [COLOR gold](2013)[/COLOR]</title> 
+<genre>Animacion,Familia,Aventura,Comedia</genre>
+<year>2013</year>
+<thumbnail>https://image.tmdb.org/t/p/original/6S5JjRheyl3oyLmJVcxcQ8yqDU3.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/3vD4WyOF5IiVFr02IlHtZIdufNV.jpg</fanart>
+<info>Película derivada de la exitosa de Disney/Pixar dirigida por John Lasseter, Cars. En esta ocasión no son coches sino aviones, los que van a sumergirse en una divertida historia de acción y aventuras. El protagonista, un avión llamado Dusty Crophopper, tiene verdadero terror a las alturas. Pero desafiará sus miedos para poder cumplir uno de sus grandes deseos: poder correr en la carrera más grandiosa que exiten en todo el mundo. Dusty sabe que este será el mayor reto de su vida, pero también será la experiencia más apasionante y sobrecogedora que va a vivir jamás.</info>
+<urlsolve>//listeamed.net/v/3Q0lxBWPAbMEj1J</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Aviones: Equipo De Rescate [COLOR gold](2014)[/COLOR]</title> 
+<genre>Animacion,Familia,Aventura,Comedia</genre>
+<year>2014</year>
+<thumbnail>https://image.tmdb.org/t/p/original/pZbuCIMWulgQEWdZDzga3n6L8LW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/i11jQDtgIb9eJCj1Q4JOheeEXjy.jpg</fanart>
+<info>'Aviones: Equipo de rescate' sigue a una peculiar pandilla de aviones bombero de élite cuyo principal cometido es proteger el histórico Parque Nacional de Piston Peak de un atroz incendio. El popular avión de carreras Dusty descubre que su motor está estropeado, lo que le impide volver a competir. A pesar de la terrible noticia no se desanima y decide utilizar su experiencia para unirse al equipo anti incendios.</info>
+<urlsolve>//listeamed.net/v/e028E6R8YGQEYAv</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Babe, el cerdito valiente [COLOR gold](1995)[/COLOR]</title>    
 <genre>Comedia,Drama,Infantil,Familiar</genre>
 <year>1995</year>  
