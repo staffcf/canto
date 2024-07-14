@@ -1250,8 +1250,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Dinosaurio [COLOR gold](2000)[/COLOR]</title>    
 <genre>Animacion, Aventuras, Infantil</genre>
 <year>2000</year>  
-<thumbnail>https://i.imgur.com/AdTf3FH.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/ilwycGvqymMw16Z9AOPWh5ihteZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/18qigiKO1JfryMeUPGQoLrCWnan.jpg</fanart>
 <info>Prehistoria, hace 65 millones de años, al final del periodo cretaceo. Un iguanodonte de tres toneladas llamado Aladar se cria separado de los de su especie y crece en una isla paradisiaca al amparo de un clan de lemures. Cuando una devastadora lluvia de meteoritos provoca el caos en su pacifico mundo, Aladar pone rumbo a tierra firme y se une a un grupo de dinosaurios que buscan desesperadamente un lugar donde anidar en paz. Pero el agua y la comida empiezan a escasear, y los carnotaurios, sedientos de sangre fresca, representan un peligro constante. Es entonces cuando Aladar se ve obligado a desafiar el "orden establecido" y demuestra que saber adaptarse a cualquier situacion es la mejor manera de sobrevivir. </info>
 <urlsolve>http://vembed.net/v/8ozgENgdeYOmjAy</urlsolve>
 </item>
@@ -1261,8 +1261,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Dora y La Ciudad Perdida [COLOR gold](2019)[/COLOR]</title> 
 <genre>Aventuras,Comedia</genre>
 <year>2019</year>
-<thumbnail>https://i.imgur.com/4g62GAv.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/zFzRbVWduN0qewAjLJEKlNvMunt.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ygzoJBqbBDhPx5NXzZ7GbyXf6k0.jpg</fanart>
 <info>Tras haber pasado la mayor parte de su vida explorando la jungla junto a sus padres, nada podria haber preparado a Dora para la aventura mas peligrosa a la que jamas se ha enfrentado: ¡el instituto!. Exploradora hasta el final, Dora no tarda en ponerse al frente de un equipo formado por Botas (su mejor amigo, un mono), Diego, un misterioso habitante de la jungla y un desorganizado grupo de adolescentes en una aventura en la que deberan salvar a sus padres y resolver el misterio oculto tras una ciudad perdida de oro.</info>
 <urlsolve>https://vembed.net/v/KNWlEDKoKmxkbpL</urlsolve>
 </item>
@@ -1283,8 +1283,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Doraemon En Busca Del Escarabajo Dorado [COLOR gold](2012)[/COLOR]</title> 
 <genre>Animacion</genre>
 <year>2012</year>  
-<thumbnail>https://i.imgur.com/M20rRUd.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/3EqSZnjgzGCroTPDD3cDAiUEsZC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jxIcuIIHEGeT9RZ1zE9UBI3WzxS.jpg</fanart>
 <info>Nobita esta obsesionado con conseguir un insecto que pueda rivalizar con el escarabajo de Gigante y pide ayuda a Doraemon para encontrar a mitico escarabajo extinto hace muchos años. En el primer intento no lo encuentran, pero se traen a un pajaro moa con ellos. Para evitar que se extinga, lo mandan a la isla Belegamond, un lugar donde viven especies animales extintas. Secuela de "Doraemon y el pequeño dinosaurio" (2006).</info>
 <urlsolve>//listeamed.net/v/g9Vd5JWvX9dxqQj</urlsolve>
 </item>
@@ -1305,8 +1305,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Doraemon y los caballeros enmascarados [COLOR gold](1987)[/COLOR]</title> 
 <genre>Animacion</genre>
 <year>1987</year>  
-<thumbnail>https://i.imgur.com/DtfvhJj.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/7dhR3SBlDwwFcupkvZ3MJHBqNAY.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ekiAilBi2uYIW1yFh6u2Qpsg3dh.jpg</fanart>
 <info>La nueva aventura de Doraemon nos conduce a un universo bajo la superficie de la Tierra habitado por animales prehistóricos y por los descendientes evolucionados de los antiguos dinosaurios.</info>
 <urlsolve>//listeamed.net/v/LQm9OXN7QdYx1lg</urlsolve>
 </item>
@@ -1349,8 +1349,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Dumbo [COLOR gold](1941)[/COLOR]</title>    
 <genre>Animacion</genre>
 <year>1941</year>  
-<thumbnail>https://i.imgur.com/EcZsRGN.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/do1K1rUcauDOMPxuLdofXUaq6oT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/93qMvVUrdIuUAgR6g2knnc40syU.jpg</fanart>
 <info>Las cigüeñas llegan, como todos los años, hasta un pintoresco circo para repartir los bebes a sus respectivas mamas. La señora Dumbo, una elefanta, descubre que su bebe tiene unas orejas enormes; todas sus compañeras se rien de el, pero la señora Dumbo lo defiende siempre, hasta el punto de ser encerrada por enfrentarse a todo aquel que se mofe de su retoño. El pequeño Dumbo, maltratado y ridiculizado por todos sus compañeros, solo cuenta con la ayuda de un minusculo ratoncito llamado Timothy, que decide hacer de el una estrella del circo.</info>
 <urlsolve>//listeamed.net/v/k3gG5q3X22AE1N2</urlsolve>
 </item>
@@ -1360,8 +1360,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Dumbo [COLOR gold](2019)[/COLOR]</title>    
 <genre>Aventuras,Fantastico |</genre>
 <year>2019</year>  
-<thumbnail>https://i.imgur.com/mOUpHUo.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/yJEt6WKOlXuHLA6Q2unBtylijEx.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/lgyZrv3TA6Kn8l8wq4N39NDQNFx.jpg</fanart>
 <info>Holt Farrier (Colin Farrell) cuenta con la ayuda de sus hijos Milly (Nico Parker) y Joe (Finley Hobbins) para cuidar a un elefante recien nacido cuyas orejas gigantes le hacer ser el hazmerreir en un Circo que no pasa por su mejor momento. La familia circense de Holt incluye ademas a la señorita Atlantis (Sharon Rooney), Rongo (DeObia Oparei), Pramesh Singh (Roshan Seth) y su sobrino (Ragevan Vasan), La grandiosa Catherine (Zenaida Alcalde) y el magnifico Ivan (Miguel Muñoz). Max Medici (Danny DeVito) dueño del circo, se decepciona al saber sobre las enormes orejas del pequeño paquidermo hasta que descubre que es capaz de volar, llevando al circo de regreso a la prosperidad.</info>
 <urlsolve>//listeamed.net/v/b4ZJx21JWlQ52P3</urlsolve>
 </item>
@@ -1371,8 +1371,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] E.T. el extraterrestre  [COLOR gold](1982)[/COLOR]</title>    
 <genre>Ciencia ficcion,Fantastico,Drama,Familiar</genre>
 <year>1982</year>  
-<thumbnail>https://i.imgur.com/st3TeUO.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/ojvKem8WUzRK5PLvO7wTuAFinnz.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/swr1MOdJuionDNYfeR5zvAmnvVJ.jpg</fanart>
 <info>Un pequeño ser de otro planeta se queda abandonado en la Tierra cuando su nave, al emprender el regreso, se olvida de el. Esta completamente solo y tiene miedo, pero se hara amigo de un niño, que lo esconde en su casa. El pequeño y sus hermanos intentan encontrar la forma de que el pequeño extraterrestre regrese a su planeta antes de que lo encuentren los cientificos y la policia. </info>
 <urlsolve>//listeamed.net/v/qM1VOPNanlGxo4k</urlsolve>
 </item>
@@ -1929,8 +1929,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Enredados [COLOR gold](2010)[/COLOR]</title>    
 <genre>Animacion</genre>
 <year>2010</year>  
-<thumbnail>https://i.imgur.com/sl7JpQz.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/z5kvXWek4smCyeWBDJQkT5sLc9T.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hloHqMjQYHgSah2KRi9mdIF4SYy.jpg</fanart>
 <info>Flynn Rider, el mas buscado -y encantador- bandido del reino, se esconde en una misteriosa torre y alli se encuentra con Rapunzel, una bella y avispada adolescente con una cabellera dorada de 21 metros de largo, que vive encerrada alli desde hace años. Ambos sellan un pacto y a partir de ese momento la pareja vivira emocionantes aventuras en compañia de un caballo superpolicia, un camaleon sobreprotector y una ruda pandilla de matones.</info>
 <urlsolve>//listeamed.net/v/PKN4Own6ZlGEDLj</urlsolve>
 </item>
@@ -1940,8 +1940,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Enredados otra vez [COLOR gold](2017)[/COLOR]</title>    
 <genre>Animacion,Comedia,Fantastico</genre>
 <year>2017</year>  
-<thumbnail>https://i.imgur.com/Z4jtOt1.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/dP8nQe6jG1blGFNZS0U5N8LZWJK.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/l86616GpH25luJZ9YGaJraGKFm0.jpg</fanart>
 <info>¡Mientras Rapunzel se prepara para su coronacion como Princesa de Corona, una noche inolvidable cambiara su pelo otra vez!</info>
 <urlsolve>//listeamed.net/v/m7WJxgJLawd5Bze</urlsolve>
 </item>
@@ -1962,8 +1962,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Ernest Y Celestine. Cuentos De Invierno [COLOR gold](2012)[/COLOR]</title>   
 <genre>Infantil, Animacion</genre>
 <year>2012</year>  
-<thumbnail>https://i.imgur.com/487xTlG.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/usLE56TZRilrILEQ2Xqhf6spxEF.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6zvLHD4rbHUNuRQLoIC2rkV8ayi.jpg</fanart>
 <info>Ernest es un oso alto y gordo al que le gusta tocar musica y comida mermelada. Desde hace un tiempo convive con la Celestine, una pequeña y bonita ratita a la que adopto porque era huerfana. Con la llegada de los primeros copos, esta encantadora familia tendra que hacer frente a una serie de eventos que aplazaran la hibernacion de Ernest. Una nueva adaptacion de los populares cuentos infantiles, llena de encanto y valores positivos, que mantiene la belleza de las ilustraciones originales.</info>
 <urlsolve>//listeamed.net/v/k3gG5q3JzXZE1N2</urlsolve> 
 </item>
@@ -1972,8 +1972,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Espias Con Disfraz [COLOR gold](2019)[/COLOR]</title>    
 <genre>Animacion, Comedia, Ciencia Ficcion</genre>
 <year>2019</year>  
-<thumbnail>https://i.imgur.com/PDgORpl.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/j2xcicPNXzNex47EYOfw45Dl1o0.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/mh48cUR6wh6P9SOWyurQl8zLZ72.jpg</fanart>
 <info>El superespia Lance Sterling y el cientifico Walter Beckett son casi polos opuestos. Lance es tranquilo, afable y caballeroso. Walter no. Pero lo que le falta a Walter de habilidades sociales lo compensa con ingenio e inventiva, con los que crea increibles artilugios que Lance usa en sus epicas misiones. Pero cuando los eventos dan un giro inesperado, Walter y Lance de repente tienen que confiar el uno en el otro de una manera completamente nueva. Y si esta extraña pareja no puede aprender a trabajar en equipo, todo el mundo estara en peligro. Adaptacion al largometraje del corto de animacion homonimo, dirigido y escrito por Lucas Martell en 2009.</info>
 <urlsolve>//listeamed.net/v/edVqE4rqPAD5YWm</urlsolve>
 </item>
@@ -1983,8 +1983,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Fantasia [COLOR gold](1940)[/COLOR]</title>    
 <genre>Animacion</genre>
 <year>1940</year>  
-<thumbnail>https://i.imgur.com/4KD9omP.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/m9F1Ucv2raJWFYE3uqbodEx55gh.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1OvgrfVmdGfS9f4SYL8UxdumQ0L.jpg</fanart>
 <info>Todo un clasico de la Disney, una coleccion de interpretaciones animadas de grandes obras de musica clasica. En "El Aprendiz de Brujo" (P. Dukas), Mickey Mouse, discipulo de un mago, se mete en un gran embrollo, pues sus conocimientos de magia son muy limitados. "La Consagracion de la Primavera" (Stravinsky) cuenta la historia de la evolucion, desde los seres unicelulares hasta la extincion de los dinosaurios. "La Danza de las Horas" (Ponchielli) es un fragmento de un ballet comico interpretado por elefantes, hipopotamos, cocodrilos y avestruces. "Una Noche en el Monte Pelado" de Mussorgsky y el "Ave Maria" de Schubert describen el enfrentamiento entre la oscuridad y la luz.</info>
 <urlsolve>//listeamed.net/v/njJYOd3M8w7Ee9o</urlsolve>
 </item>
@@ -1993,8 +1993,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Fantasia 2000 [COLOR gold](1999)[/COLOR]</title>    
 <genre>Animacion</genre>
 <year>1999</year>  
-<thumbnail>https://i.imgur.com/oqMFPxh.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/5rwAtUaKEK48CPUijVfVU0IPKPZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2PkWBHyUPNiStCY3rYkRMAc0SqC.jpg</fanart>
 <info>Al igual que su precedente, esta pelicula se divide en varios fragmentos -en este caso ocho- cada uno acompañado de distintas piezas musicales. Entre ellos se incluye El aprendiz de brujo, protagonizado por Mickey Mouse, que ya aparecia en la primera Fantasia. </info>
 <urlsolve>//listeamed.net/v/P0poO10qVoaEz17</urlsolve>
 </item>
@@ -2004,8 +2004,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Ferdinand [COLOR gold](2017)[/COLOR]</title>
 <genre>Animacion, Comedia, Infantil</genre>
 <year>2017</year>
-<thumbnail>https://3.bp.blogspot.com/-VG-ViNy26OY/WqmfoqL1tQI/AAAAAAAAG1o/BZcFCVzTRWcikvz15gmShv2670tAkfAZgCLcBGAs/s1600/Ferdinand-301462952-large.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/RCEufCtNJV54lScig03D7JgW2u.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/z1HlBAZ1Fxi96asm2p5uuof4oIo.jpg</fanart>
 <info>Ferdinand es un novillo muy tranquilo que prefiere sentarse bajo un arbol a oler las flores que saltar, resoplar y embestirse con otros toros. A medida que va creciendo y haciendose fuerte, su temperamento no cambia y sigue siendo un toro manso. Un dia, unos hombres vienen buscando al toro mas grande, rapido y bravo... y Ferdinand es elegido equivocadamente para las corridas de toros de Madrid.</info>
 <urlsolve>//listeamed.net/v/k3gG5q3Jz8oE1N2</urlsolve>
 </item>
@@ -2015,8 +2015,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Flora y Ulises [COLOR gold](2021)[/COLOR]</title>    
 <genre>Infantil,Comedia,Fantastico,Familiar</genre>
 <year>2021</year>  
-<thumbnail>https://i.imgur.com/qzM0820.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/ehesNeYjfTkkJgIYbKKrWcqY2fA.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zisutzWhXEBKnC8yabIIWQXuVhx.jpg</fanart>
 <info>Las aventuras de una niña y una ardilla con superpoderes.</info>
 <urlsolve>//listeamed.net/v/e028E6Rq2rBEYAv</urlsolve>
 </item>
@@ -2037,8 +2037,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Frozen: El reino de hielo [COLOR gold](2013)[/COLOR]</title>   
 <genre>Animacion,Fantastico,Musical,Aventuras,Comedia,Infantil</genre>
 <year>2013</year>  
-<thumbnail>https://i.imgur.com/uXnsYCU.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/hAKhrHvzQDUHQP5zd5HFeqF2BCN.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/65S65p4TLesCHRAWetEEriyipab.jpg</fanart>
 <info>Cuando una profecia condena a un reino a vivir un invierno eterno, la joven Anna, el temerario montañero Kristoff y el reno Sven emprenden un viaje epico en busca de Elsa, hermana de Anna y Reina de las Nieves, para poner fin al gelido hechizo. Adaptacion libre del cuento "La reina de las nieves".</info>
 <urlsolve>//listeamed.net/v/rabVOQQwARWOKdW</urlsolve>
 </item>
@@ -2048,8 +2048,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Frozen 2 [COLOR gold](2019)[/COLOR]</title>    
 <genre>Animacion,Aventuras,Musical,Fantastico</genre>
 <year>2019</year>  
-<thumbnail>https://i.imgur.com/z5oebaC.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/jnFCk7qGGWop2DgfnJXeKLZFuBq.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xD7yQyIZTU56OhzIjEa6FhD66Pe.jpg</fanart>
 <info>¿Por que nacio Elsa con poderes magicos? La respuesta le esta llamando y amenaza su reino. Junto con Anna, Kristoff, Olaf y Sven emprendera un viaje peligroso e inolvidable. En 'Frozen', Elsa temia que sus poderes fueran demasiado para el mundo; ahora deseara que sean suficientes. Secuela de "Frozen. El reino del hielo" (2013), el film de animacion mas taquillero de la historia del cine, ganador del Oscar a la mejor pelicula animada. Reune al mismo equipo artistico y tecnico de la original.</info>
 <urlsolve>//listeamed.net/v/4bQVOj7vjLv5wKm</urlsolve>
 </item>
@@ -2059,8 +2059,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Frozen Fever [COLOR gold](2015)[/COLOR]</title>   
 <genre>Animacion</genre>
 <year>2015</year>  
-<thumbnail>https://i.imgur.com/mU2AtI9.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/Abzt1CufBYyqjz2WEqJtKslweuk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/i8IeR5NkzqZNB4H7JkCSTAMdYMI.jpg</fanart>
 <info>Es el cumpleaños de Anna, y Elsa y Kristoff estan buscando la forma de hacerle la mejor fiesta posible. Pero los poderes con el hielo de Elsa van a complicar las cosas. Cortometraje que continua la historia de "Frozen", estrenado en cines junto a "Cenicienta" de Kenneth Branagh.</info>
 <urlsolve>//listeamed.net/v/3Q0lxBW3z4nEj1J</urlsolve>
 </item>
@@ -2069,8 +2069,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Frozen: LEGO Frozen: Luces de invierno [COLOR gold](2016)[/COLOR]</title>   
 <genre>Animacion. Fantastico. Comedia</genre>
 <year>2016</year>  
-<thumbnail>https://i.imgur.com/N6SevKT.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/jlk5MeGlNSiy773SWot9dGAQ2as.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/Ac5T7ZcV4xiLbvzvsmbhOYfGfEK.jpg</fanart>
 <info>Cuando Anna y Elsa descubren que la aurora boreal ha desaparecido, se embarcan en un largo viaje para encontrarla con la ayuda de Kristoff, Sven y Olaf. Especial televisivo navideño basado en las figuras de LEGO y la pelicula Frozen, formado por cuatro episodios. </info>
 <urlsolve>//listeamed.net/v/PKN4Own6MwGEDLj</urlsolve>
 </item>
@@ -2079,8 +2079,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Frozen: Una aventura de Olaf [COLOR gold](2017)[/COLOR]</title>   
 <genre>Animacion. Fantastico. Comedia</genre>
 <year>2017</year>  
-<thumbnail>https://i.imgur.com/LtUqleM.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/vtDqtd3jifF3pEGcMUZXwW8yuem.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/itAFo1DIMXJ33V8ACI5UwBN2T7N.jpg</fanart>
 <info>En ‘Frozen: Una aventura de Olaf’, el muñeco de nieve tratara de empaparse de las tradiciones familiares durante este periodo tan especial del año para organizar las mejores fiestas navideñas en el castillo. Al parecer, despues de tanto tiempo fuera de casa, Elsa y Anna no estan acostumbradas a las reuniones familiares, por lo que Olaf decide ir puerta por puerta empapandose de lo que hace el resto de las familias de Arandelle para implantar la tradicion en su nuevo hogar. Cortometraje que acompaño en cines a "Coco", la pelicula de Disney/Pixar.</info>
 <urlsolve>//listeamed.net/v/QNB7xA2rgXjE0WG</urlsolve>
 </item>
@@ -2089,8 +2089,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Gabe, el perro cupido [COLOR gold](2012)[/COLOR]</title>   
 <genre>Comedia</genre>
 <year>2012</year>  
-<thumbnail>https://i.imgur.com/Dq4IiZQ.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/bZpAMXfcnJaFnCBz7mnAOwuVTty.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/3ShPb7SHPvDoVR8Ravcvi7hhJs2.jpg</fanart>
 <info>El perro de Eric, Gabe, intenta hacer que su dueño se enamore de la vecina de al lado para que no se tengan que mudar a Inglaterra.</info>
 <urlsolve>https://sendvid.com/x6p7t0ol</urlsolve>
 </item>
@@ -2109,18 +2109,18 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Goofy E Hijo [COLOR gold](1995)[/COLOR]</title>    
 <genre>Animacion, Aventuras, Comedia, Musical, Infantil</genre>
 <year>1995</year>  
-<thumbnail>https://i.imgur.com/vXvW6kF.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/y7yYOedYqua06VeyWlUcyVLMIkI.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6Q1a6Z0KkIuyQQiM9QXWOBdZPzx.jpg</fanart>
 <info>La primera vez que el simpatico perro Goofy protagoniza un largometraje de animacion. Goofy tiene la desafortunada idea de llevar a su hijo Max a pescar, pero este, que teme convertirse de mayor en un ser tan tonto como su padre, tiene otros planes. Ha quedado con la bella Roxanne, que por fin ha accedido a salir con el. Pero Goofy no esta dispuesto a permitir que su hijo ignore el arte de la pesca.</info>
 <urlsolve>//listeamed.net/v/P0poO10qVV1Ez17</urlsolve> 
 </item>
 
 <item>
-<title>[COLOR white] Gru 1: Mi Villano Favorito [COLOR gold](2010)[/COLOR]</title> 
+<title>[COLOR white] Gru: Mi Villano Favorito [COLOR gold](2010)[/COLOR]</title> 
 <genre>Animacion</genre>
 <year>2010</year>
-<thumbnail>https://i.imgur.com/l3yanS3.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/waCZ8OtOrBXQ6DeW0QCcSkUcxc3.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/msKJaswwvzfXdCqSHa4u2bddloZ.jpg</fanart>
 <info>Gru (voz de Steve Carell) es un hombre deplorable que planea el acto criminal mas increible de la Historia: robar la Luna. Incitado por una madre malvada (voz de Julie Andrews), solo encontrara un obstaculo en su camino: tres niñas huerfanas a las que tenda que cuidar temporalmente. </info>
 <urlsolve>//listeamed.net/v/0DogOGM4RDrxKjM</urlsolve>
 </item>
@@ -2129,8 +2129,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Gru 2: Mi Villano Favorito [COLOR gold](2013)[/COLOR]</title> 
 <genre>Animacion</genre>
 <year>2013</year>
-<thumbnail>https://i.imgur.com/0onasq0.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/9lUBTFYaDmW1KqEQ0vZaWHXw1Ib.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hXWoaNetJgyRG4xSnhAaEEsZAKT.jpg</fanart>
 <info>Ahora que el incansable y emprendedor Gru ha dejado atras una vida dedicada a las fechorias para criar a Margo, Edith y Agnes, dispone de mucho tiempo libre para disfrutarlo con ellas, el Dr. Nefario y los minions. Pero, justo cuando empieza a adaptarse a su papel de hombre de familia, una organizacion mundial ultrasecreta dedicada a la lucha contra el mal llama a su puerta. Junto con su nueva compañera de aventuras, Lucy Wilde, Gru tendra que descubrir quien es el responsable de un espectacular y malevolo plan y llevarlo ante la justicia. Y es que hace falta echar mano del mayor ex-villano del mundo para atrapar a quien aspira a ocupar ese lugar.</info>
 <urlsolve>//listeamed.net/v/JzkPxzngrwrxbyd</urlsolve>
 </item>
@@ -2139,8 +2139,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Gru 3. Mi Villano Favorito [COLOR gold](2017)[/COLOR]</title> 
 <genre>Trabajo en equipo, compañerismo</genre>
 <year>2017</year>
-<thumbnail>https://1.bp.blogspot.com/-uownuoWOojw/Wh7wa-OJ66I/AAAAAAAACN0/r3fqnUOuIkoAomDUH5LSMeulNOjZScf_QCLcBGAs/s1600/Gru_despicable_me_3-647183530-large.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-OLlAv12H1Vk/Wh7wa_XUcdI/AAAAAAAACNY/olOBSJLQb8cekLRdIE69G61pxS-lCJhBACLcBGAs/s1600/Gru_9189acf465bb-1200x630.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/hbcBR6G5qNLX4OwLtWHdNJVzpei.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/oqAm05AqTyA0Je61Dkupib0VVON.jpg</fanart>
 <info>Balthazar Pratt, un antiguo niño estrella obsesionado con el personaje que encarno en los años ochenta, demuestra ser el peor enemigo al que Gru ha debido enfrentarse hasta la fecha.</info>
 <urlsolve>//listeamed.net/v/ao9rxoRwnB95yGe</urlsolve>
 </item>
@@ -2273,8 +2273,8 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 <title>[COLOR white] Hercules [COLOR gold](1997)[/COLOR]</title>    
 <genre>Animacion,Fantastico,Comedia,Musical,Infantil</genre>
 <year>1997</year>  
-<thumbnail>https://i.imgur.com/tXe5I2k.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/xlqfsD5hFohzDL0Cf11bxbUrMuZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/y43ELBtPuqCQFCmJSSw8Utt0ES0.jpg</fanart>
 <info>Hercules, el hijo de Zeus y de Alcmena, reina de Tebas, es secuestrado del Olimpo por los secuaces de Hades, que tienen la mision de despojarlo de su inmortalidad. Hercules crecera en un mundo de mortales hasta que le llegue la hora de regresar al Olimpo.</info>
 <urlsolve>//listeamed.net/v/qM1VOPN28NMxo4k</urlsolve>
 </item>
