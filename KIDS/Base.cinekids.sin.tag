@@ -2462,6 +2462,17 @@ un trabajo que trata de hacer lo mejor posible, porque sabe cual es su sitio. A 
 
 
 <item>
+<title>[COLOR white] Indiana Jones Y El Dial Del Destino [COLOR gold](2023)[/COLOR]</title>    
+<genre>Familia,Aventura,Accion</genre>
+<year>2023</year>  
+<thumbnail>https://image.tmdb.org/t/p/original/3Sj5ubQ0BLXd6JuECq52Ira8Oor.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/oQSv7d0OBzwbVCZ8Nfns4RdMoGg.jpg</fanart>
+<info>El arqueólogo Indiana Jones deberá emprender otra aventura contra el tiempo para intentar recuperar un dial legendario que puede cambiar el curso de la historia. Acompañado por su ahijada, Jones pronto se encuentra enfrentándose a Jürgen Voller, un ex nazi que trabaja para la NASA.</info>
+<urlsolve>//listeamed.net/v/LQm9OXvjgpx1lgB</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Isla De Perros [COLOR gold](2018)[/COLOR]</title>
 <genre>Animacion</genre>
 <year>2018</year>  
