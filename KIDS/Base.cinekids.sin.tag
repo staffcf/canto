@@ -5642,6 +5642,36 @@ Stargirl es una pelicula dirigida por Julia Hart (Miss Stevens) y con un guion a
 </item>
 
 <item>
+<title>[COLOR white] Vicky El Vikingo [COLOR gold](2009)[/COLOR]</title>    
+<genre>Aventura,Comedia,Familia,Accion</genre>
+<year>2009</year>  
+<thumbnail>https://image.tmdb.org/t/p/original/jHxzSJFqwuBCNmIIyH0SDMZYAiz.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/w5NpfcOoSD33QdhjJZqtU9wunym.jpg</fanart>
+<info>Una mañana, la pequeña aldea vikinga de Flake es asaltada por los malvados guerreros de Sven el Terrible que secuestran a todos los niños… excepto a Vicky, un particular niño pelirrojo, hijo del Jefe Halvar, que destaca por sus brillantes ideas en los momentos más difíciles. Halvar, el más cabezota de los guerreros vikingos, decide dar caza a los secuestradores y salvar heroicamente a los niños de Flake. Ante la negativa de Halvar de que Vicky viaje con ellos en busca de los niños, el pequeño Vicky se esconde en el barco. Vicky y los valientes vikingos se las verán con fantasmas, espeluznantes villanos, cofres con legendarios tesoros… y mil aventuras más.</info>
+<urlsolve>//listeamed.net/v/QNB7xA2mY82E0WG</urlsolve>
+</item>
+
+<item>
+<title>[COLOR white] Vicky El Vikingo Y El Martillo De Thor [COLOR gold](2011)[/COLOR]</title>    
+<genre>Aventura,Comedia,Familia,Accion</genre>
+<year>2011</year>  
+<thumbnail>https://image.tmdb.org/t/p/original/pgwksjumtE8ljwWKFfRCyLG0KSj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/wZgkCDjBTPut7tN3Txa3opY1OIB.jpg</fanart>
+<info>Secuela del filme de 2009, 'Vicky el Vikingo' (Wickie und die starken Männer). Cuando su padre es secuestrado por Sven "el Terrible", Vicky se ve obligado a asumir el poder en el poblado. En sus manos está conducir a sus hombres para rescatar a su padre y demostrar así su astucia y brillantes ideas. Deberá enfrentarse a mares tormentosos, playas tropicales y múltiples peligros, además de tener que defender los tesoros de los legendarios dioses.</info>
+<urlsolve>//listeamed.net/v/7QWN5eyezrV59oR</urlsolve>
+</item>
+
+<item>
+<title>[COLOR white] Vicky El Vikingo Y La Espada Magica [COLOR gold](2019)[/COLOR]</title>    
+<genre>Animacion,Comedia,Aventura</genre>
+<year>2019</year>  
+<thumbnail>https://image.tmdb.org/t/p/original/rSptXnTQ9oZaX0zbkrKniX5ZPgP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zkrGtkXyanTlwmtTWMKm4r9uL8k.jpg</fanart>
+<info>Vicky sueña con hacerse a la mar como miembro de la tripulación capitaneada por Halvar, su padre, que desgraciadamente piensa que el niño es demasiado débil como para embarcarse con él y sus valerosos guerreros en busca de peligrosas adventuras; pero el destino ofrecerá a Vicky la oportunidad de demostrar a Halvar que es un verdadero vikingo.</info>
+<urlsolve>//listeamed.net/v/YWA8E9w76vD5GmM</urlsolve>
+</item>
+
+<item>
 <title>[COLOR white] Wall-e [COLOR gold](2008)[/COLOR]</title>Leia 
 <genre>Animacion,Ficcion,Romance,Infantil</genre>
 <year>2008</year>
