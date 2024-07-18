@@ -3196,6 +3196,16 @@ Con material de archivo procedente de películas caseras y grabaciones de sus pr
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]Eva y Nicole[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>240067</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Eva.y.Nicole</externallink>
+<info>París 1972. Eva y Manuel hacen el amor en una buhardilla cuando la gendarmería francesa tira la puerta y se llevan a la chica a la fuerza, para ser deportada a su país de origen. Marbella 1985. Nicole se ha casado con Manuel y se ha convertido en una mujer poderosa, dueña de la noche marbellí y de la discoteca de moda, el Nicole’s. Ha conseguido reunir a toda la jet. Todo apunta a una noche perfecta, pero la llegada de una extraña sorprende a todos: es Eva.</info>
+<thumbnail>https://image.tmdb.org/t/p/original/lQNx6p0MePHR2OBRR3Nz0q7EsU3.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tXF141zqoaPu89478yPH8tJ1j0N.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]Express[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>136998</tmdb>
@@ -4609,6 +4619,16 @@ Pronto Jack se ve atrapado en una compleja red de intereses del crimen organizad
 </item>
 
 <item>
+<title>[COLOR gold]* [COLOR white]La Liga: Mas Alla Del Honor [COLOR gold]Docuserie[COLOR white][/COLOR]</title>     
+<link>cristalazul</link>
+<tmdb>255345</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/La.liga</externallink>
+<info>Desde las gloriosas victorias hasta las derrotas más devastadoras, esta apasionante docuserie sobre LaLiga ofrece acceso exclusivo a los entresijos del fútbol español.</info>
+<thumbnail>https://image.tmdb.org/t/p/original/gxL2aK45yoH3ExagJZ3yO9bq5p4.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/465tKdA5CCoi8SH1P38ZmQBHknF.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR gold]* [COLOR white]La Linea Invisible[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>95925</tmdb>
@@ -5727,6 +5747,16 @@ Un policía corrupto, que conoce la calle a fondo, y una agente de élite, reci�
 <info>8 episodios. Una científica se une a una misión para recuperar unas muestras de una estación lunar, escenario de un accidente que acabó con todos, incluida su hermana.</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/rxnfJEOwWlPaUdALv5YowGTD3Hd.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Marbella[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>242008</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Marbella</externallink>
+<info>César es un abogado de éxito afincado en Marbella, la capital mundial de la mafia. Guapo, rico, hedonista, egoísta, ambicioso, obsesionado con las redes sociales… sabe que para mantener su estatus tiene que ser el mejor en los tribunales y el hombre que todos conozcan en las salvajes fiestas marbellíes, donde hacen negocios los numerosos grupos criminales que operan en la Costa del Sol. César tiene muy claro que, para no tener problemas en la vida, hay que ser amigos de todos y no cruzar nunca ciertas líneas. Pero cuando menos se lo espera, descubre que está en ojo del huracán y quién necesita a un abogado que le salve es precisamente él.</info>
+<thumbnail>https://image.tmdb.org/t/p/original/u2w6pfPNaK6OxICsrtS6MVLOjpV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/frKXX8EFIJBgAMYG6l4QDqc6UOZ.jpg</fanart>
 </item>
 
 <item>
