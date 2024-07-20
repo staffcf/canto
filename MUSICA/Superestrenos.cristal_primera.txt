@@ -5,6 +5,54 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Perspectiva [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Ciencia ficción</genre>
+<year>2024</year>
+<tmdb>1314236</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/e7jW5JDUsXQAgmCgNSvi0vnKqkI.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/wGPSKbaJ2jljPbl7HqfyP0t4Nl.jpg</fanart>
+<info>En un futuro cercano, la tecnología permite ver lo que sucederá en nuestras vidas creando una ilusión de futuro mediante el uso de nuestros recuerdos y procesos cognitivos. LookApp es una aplicación que funciona con una IA completamente nueva que promete mostrarte dónde estarás y así poder tomar las decisiones correctas en el presente. Aarón, aunque es consciente del potencial daño y del creciente número de víctimas adictas a la App, decide descargarla en contra de las advertencias debido a sus sospechas sobre una posible aventura de su novia con su mejor amigo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/aSVUSrDsARI"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/Jbz2OrV7vgcjKL8"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://listeamed.net/v/P0poO10YjqLEz17"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/n5ektk5119zr"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La abadesa [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Drama</genre>
+<year>2024</year>
+<tmdb>1229991</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/zQSAJVLpLSSU9zhmZeWcBr7ydWm.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/bPTXzx7MgR60LNwc6auTiyKFgIS.jpg</fanart>
+<info>En una época oscura y violenta, una joven de 17 años es nombrada abadesa, y recibe el encargo de repoblar y cristianizar territorios fronterizos y en guerra con el islam.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/yQSZYyMagnU"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/v9ep8goPdMTDpb"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://listeamed.net/v/qA3WOmGzjo9xKkz"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/lj3vpxj77il5"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El último viaje del Demeter [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Terror, Suspense</genre>
+<year>2023</year>
+<tmdb>635910</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/jdqd4i1nY5q7ZCK4Tpb7wDFgzNs.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/wiKYvJZ9KAqAbH4rtFjtzzHsgeH.jpg</fanart>
+<info>Basado en un solo capítulo, el Captains Log, de la clásica novela Drácula de 1897 de Bram Stoker, la historia se desarrolla a bordo de la goleta rusa Demeter, que fue fletada para transportar carga privada (veinticuatro cajas de madera sin marcar) desde Carpatia a Londres. La película detallará los extraños eventos que acontecieron a la tripulación condenada mientras intentan sobrevivir al viaje por el océano, acechados cada noche por una aterradora presencia a bordo del barco. Cuando finalmente llegó cerca del puerto de Whitby, estaba totalmente en ruinas. No había rastro de la tripulación.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "YOUTUBE"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/Aq4wveJ203sXy31"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://listeamed.net/v/qA3WOmGzjX2xKkz"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/h64lfszn4kmc"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Desaparecidos en la noche [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Suspense, Misterio, Drama</genre>
+<year>2024</year>
+<tmdb>1039868</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/uyEFqfRezkNrxh9Lg8fj8IcbkHx.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/60RvaIxZSrlq5QGPkKiCKwkMaxN.jpg</fanart>
+<info>Un padre inmerso en un divorcio problemático emprende una peligrosa misión cuando sus hijos desaparecen sin dejar rastro de su aislada casa de campo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/VcqrBCmR4VM"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/oApb6DRv7DFJz3a"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://listeamed.net/v/0DogOGMYMWKxKjM"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/stknmrywrrph"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] El reino del planeta de los simios [/COLOR][COLOR yellow](2024)[/COLOR]</title>
 <genre>Ciencia ficción, Aventura, Acción</genre>
 <year>2024</year>
