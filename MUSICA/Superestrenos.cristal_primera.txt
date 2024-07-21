@@ -36,7 +36,7 @@
 <thumbnail>https://image.tmdb.org/t/p/original/jdqd4i1nY5q7ZCK4Tpb7wDFgzNs.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/wiKYvJZ9KAqAbH4rtFjtzzHsgeH.jpg</fanart>
 <info>Basado en un solo capítulo, el Captains Log, de la clásica novela Drácula de 1897 de Bram Stoker, la historia se desarrolla a bordo de la goleta rusa Demeter, que fue fletada para transportar carga privada (veinticuatro cajas de madera sin marcar) desde Carpatia a Londres. La película detallará los extraños eventos que acontecieron a la tripulación condenada mientras intentan sobrevivir al viaje por el océano, acechados cada noche por una aterradora presencia a bordo del barco. Cuando finalmente llegó cerca del puerto de Whitby, estaba totalmente en ruinas. No había rastro de la tripulación.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "YOUTUBE"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/Aq4wveJ203sXy31"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://listeamed.net/v/qA3WOmGzjX2xKkz"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/h64lfszn4kmc"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "YOUTUBE"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/WZZ8GQlKgeCbay2"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://listeamed.net/v/VqbX53gYpbd5Qzp"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/h64lfszn4kmc"}</urlsolve>
 </item>
 
 
