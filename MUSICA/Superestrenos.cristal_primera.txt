@@ -180,7 +180,7 @@
 <thumbnail>https://image.tmdb.org/t/p/original/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/wMPb9uQjeE6CJ2fJQlYzyhvA1HN.jpg</fanart>
 <info>Ambientada varias generaciones en el futuro tras el reinado de César, en la que los simios son la especie dominante que vive en armonía y los humanos se han visto reducidos a vivir en la sombra. Mientras un nuevo y tiránico líder simio construye su imperio, un joven simio emprende un angustioso viaje que le llevará a cuestionarse todo lo que sabe sobre el pasado y a tomar decisiones que definirán el futuro de simios y humanos por igual.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/15mp4yZTHF0"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/DeW08dmlY8FDLz"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://listeamed.net/v/0DogOGMRnVKxKjM"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/rwvf5pnbapwx"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/15mp4yZTHF0"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/JyojzbYpKoIJXz"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://listeamed.net/v/0DogOGMY6yGxKjM"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/39rtz6exbqel"}</urlsolve>
 </item>
 
 
