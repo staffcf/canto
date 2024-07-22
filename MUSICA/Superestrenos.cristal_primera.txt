@@ -5,6 +5,102 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Un héroe anónimo [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Drama, Música, Familia</genre>
+<year>2024</year>
+<tmdb>1115009</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/80ARSA2k0sTgbRF9Z4oIj6gfdeh.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/73X7Yj9JmAKynrkPyo4iOaDXlz9.jpg</fanart>
+<info>La familia de David Smallbone se traslada de Australia a Estados Unidos en busca de un futuro mejor tras la quiebra de su exitosa compañía musical. Con nada más que sus siete hijos, maletas y su amor por la música, David y su esposa Helen, embarazada, se disponen a reconstruir sus vidas. La fe de Helen resiste contra viento y marea e inspira a su marido e hijos a aferrarse a la suya. </info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/_mYkDJ1vBg4"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/0BpMWm9WbrCbGRq"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://listeamed.net/v/m7WJxgJyM295Bze"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/rqkl1hbwqica"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] UFO Sweden: Cazadores de ovnis [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Ciencia ficción, Aventura</genre>
+<year>2024</year>
+<tmdb>916401</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/fCJHCEjaLZYb4UZbokRn2hp3y0Z.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/wuA9CFpeyg0HpUqbFxxL0Is9i8E.jpg</fanart>
+<info>Cuando un hogar de acogida coloca a una adolescente rebelde que sospecha que su padre no está muerto sino secuestrado por ovnis, ella pide ayuda a una asociación ovni para descubrir la verdad. Juntos, se embarcan en una arriesgada aventura que los llevará mucho más allá de las fronteras de la ley y a un mundo lleno de expediciones ovni, conspiraciones y fenómenos inexplicables.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ERtxBAf1xZE"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/lqXxGzMBDDt7L62"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://listeamed.net/v/27BaOn1qJ7QEMDX"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/2m4dprabzt8w"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Sirenas [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Suspense, Comedia</genre>
+<year>2024</year>
+<tmdb>1170719</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/fUAzK5RRPIrmY2gFVKgfdXlrTiX.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9TzGRUQzAinv0EQCYqQ2eBD7CkK.jpg</fanart>
+<info>Alison Flesh, jefa de policía de Niza, es una mujer rebelde e intrépida que se ve presionada por su superior, el comisario Djiba, a trabajar con la teniente parisina Leïla Balani, experta en criminología pero un lastre sobre el terreno. Cuando le siguen la pista a un asesino en serie, Flesh y Balani deberán trabajar en equipo, aunque para ello tengan que poner patas arriba toda la Riviera.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/xI36K2Ep_7A"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/egV0vrY2GJiYYmV"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://listeamed.net/v/ZMVoEr8qpgR59Pa"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/qhc5vr60vkot"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Las cosas sencillas  [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2024</year>
+<tmdb>1000572</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/njMF6LA48YxnwLR0iUXN2NtevxF.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dyZb0VGLvN8Md8caGZ3fNko4zy2.jpg</fanart>
+<info>Vincent es un famoso empresario de éxito. Un día, la avería de su coche en una carretera de montaña interrumpe temporalmente su frenético ritmo de vida. Pierre, que vive apartado del mundo moderno en medio de una naturaleza sublime, acude en su ayuda y le ofrece su hospitalidad. El encuentro entre estos dos hombres opuestos trastornará sus respectivas creencias y se descubrirán riendo. La pregunta es, en el fondo, está cada uno de ellos viviendo realmente la vida que quiere vivir</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/ssHaggJDHZw"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/aRY8mbz9omtx8yb"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://listeamed.net/v/P0poO10YdypEz17"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/yz5zyl27nxkh"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La joven y el mar [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Historia, Drama</genre>
+<year>2024</year>
+<tmdb>774531</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/3YgGeJU0eU9XKVMooKldBU7zWLK.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xUVKZZiDtEO3usamXgvKzFhyEwf.jpg</fanart>
+<info>Esta es la extraordinaria historia real de Trudy Ederle, la primera mujer que cruzó el canal de la Mancha a nado. Gracias al apoyo inquebrantable de su hermana mayor y sus entrenadores, supera todas las adversidades, así como la hostilidad de una sociedad patriarcal, y logra llegar a lo más alto del equipo olímpico de natación y completar con éxito la travesía de 33 kilómetros entre Francia e Inglaterra.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/fbJkQBGcPC0"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/R7llMaKZwYud44V"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://listeamed.net/v/dNjgOl4geKDO9Wn"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/a3dxqgclwmtt"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Juego de espías: La ciudad eterna [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Acción, Comedia</genre>
+<year>2024</year>
+<tmdb>1048241</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/ghlwOez45gndnAp3aPMzg5kxMjp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jVKn75zLN5K88CTkGGILepQdZVW.jpg</fanart>
+<info>Sophie, ahora adolescente, convence a JJ para que acompañe el viaje del coro de su escuela a Italia, donde ambos, sin saberlo, terminan siendo peones en un complot terrorista internacional que tiene como objetivo al jefe de la CIA, David Kim, y su hijo, Collin, quien también resulta ser el mejor amigo de Sophie.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/z-pt4fZ0eDo"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/JopOQl9XvPtjMqW"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://listeamed.net/v/PKN4OwnVRoNEDLj"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/i1h1z85lr73l"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Civil War [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Bélica, Acción, Drama</genre>
+<year>2024</year>
+<tmdb>929590</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/rLyuE271bVhhRMTjukRNXkWTg6C.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/gqrzaHJ7C2MfvsdTghkGGqBKk13.jpg</fanart>
+<info>En un futuro cercano, donde América está sumida en una cruenta guerra civil, un equipo de periodistas y fotógrafos de guerra emprenderá un viaje por carretera en dirección a Washington DC. Su misión: llegar antes de que las fuerzas rebeldes asalten la Casa Blanca y arrebaten el control al presidente de Estados Unidos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/aDyQxtg0V2w"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/AwpWKr6xaaFmK1"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://listeamed.net/v/6zeREaD2B1pxZPa"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/ogrpvjdr4fgn"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Al borde del abismo [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Romance, Comedia, Música</genre>
+<year>2024</year>
+<tmdb>1255350</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/qjQX2r8PLbGNFvBUa8kVHvLRkAG.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8pOgY3mDeo3zvhOKI1HA7oxXf70.jpg</fanart>
+<info>Después de un álbum de regreso fallido, la estrella de rock John Allman escapa a una isla de ensueño en el Mediterráneo, solo para descubrir que su nueva casa junto a un acantilado tiene una desafortunada notoriedad que atrae a visitantes no deseados y a un viejo amor.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/56DuFZX9cuE"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/JKVGWl4VZLCjBPG"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://listeamed.net/v/b4ZJx21YZXz52P3"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/3dmfrew7jwk2"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Solo una noche de juegos  [/COLOR][COLOR yellow](2024)[/COLOR]</title>
 <genre>Comedia, Romance</genre>
 <year>2024</year>
