@@ -5,6 +5,54 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] 3 días máximo  [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Comedia</genre>
+<year>2024</year>
+<tmdb>967582</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/vLa59kYPkkt3S2sEIOjP8UZcuDp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9FdwAUdcpLXXUPHCMPeiM0l8rJY.jpg</fanart>
+<info>Rayane, un oficial de policía torpe y heroico a su pesar, esta vez se enfrenta a una situación de lo más increíble. Su abuela fue secuestrada por un cartel mexicano y tiene un máximo de tres días para liberarla. Junto a sus leales compañeros, vivirá aventuras extremas entre París, Abu Dhabi y México.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/qPuMbG5ByO8"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/g9zqz0lGarUqw0w"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://listeamed.net/v/qM1VOPN1pvXxo4k"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/y28daf153tl6"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Club Zero [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Suspense, Drama, Comedia</genre>
+<year>2024</year>
+<tmdb>938250</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/hAz3m2gp7MxGbMXciuxv0smdpcd.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8HHm3BrfMKT3XMqj39FXJxi42wb.jpg</fanart>
+<info>Miss Novak es una maestra que se une al equipo de una escuela de élite para dar clases de nutrición a jóvenes estudiantes. En poco tiempo, la maestra establece un estrecho vínculo con cinco de sus alumnos, sin que el resto de profesores se dé cuenta de lo que sucede. Hasta que todo da un inesperado giro muy peligroso.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/oiC3LNhKq5E"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/QXwkLoZr93h03KW"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://listeamed.net/v/edVqE4rY1805YWm"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/udfvgax9hb1f"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] El rey de la maldita Gran Bretaña [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Crimen, Comedia</genre>
+<year>2024</year>
+<tmdb>904629</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/l3PVT2qj9lJ2DFSYpIO9V8sDol7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/l3PVT2qj9lJ2DFSYpIO9V8sDol7.jpg</fanart>
+<info>Roger Sykes y su banda londinense roban un cargamento de cocaína a la mafia, desencadenando una lucha caótica.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/wkJqLPwhZxs"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/J0lKkd0ZDrhjwzm"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://listeamed.net/v/kKJVORWrlRp53XD"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/e7zrnq9fahy9"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Hombres duros [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Drama, Historia, Película de TV</genre>
+<year>2023</year>
+<tmdb>1179231</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/cHnvJJ1UZQqG1Q0v3dRxe6GasIT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zCP8kn4esCubIrwz2wAZ5Hy7SBw.jpg</fanart>
+<info>Swansea, Gales, año 1994. Cinco hombres corrientes galeses se enfrentan a sus sueños y mentiras cuando se embarcan en uno de los primeros ensayos clínicos del mundo del fármaco que se convertiría en la Viagra. Uno de ellos es Meurig, un hombre que sufre impotencia a causa de su diabetes y que además está afrontando la enfermedad de su esposa Ffion. También está Tommy, un gay que logra participar en estos ensayos a pesar de que en principio están dirigidos a hombres heterosexuales.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/-1kBK6AR4LQ"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/agy9L9Ya0dixDLd"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://listeamed.net/v/JzkPxznqD64xbyd"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/foxiph0czzyz"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Un héroe anónimo [/COLOR][COLOR yellow](2024)[/COLOR]</title>
 <genre>Drama, Música, Familia</genre>
 <year>2024</year>
