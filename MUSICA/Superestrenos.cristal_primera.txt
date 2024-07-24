@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] El especialista [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Acción, Comedia</genre>
+<year>2024</year>
+<tmdb>746036</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/ceiGl0SNZpR01o5lfYImt2QgKuq.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/f8Ybxzmh8CwJnRc2QnOKrqRjHRi.jpg</fanart>
+<info>Es un doble de acción, y al igual que todos en la comunidad de especialistas, sale volando, le disparan, se estrella, se tira desde ventanas y cae desde las alturas más extremas, todo para nuestro entretenimiento. Y ahora, tras un accidente que casi acaba con su carrera, este héroe de clase trabajadora debe seguir la pista de una estrella de cine desaparecida, resolver una conspiración y tratar de recuperar el amor de su vida mientras sigue haciendo su trabajo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/4k8I5TtURG8"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/06mZxkdg8MIbbQl"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://listeamed.net/v/qA3WOmGzb9NxKkz"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Genio  [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Fantasía, Comedia</genre>
+<year>2023</year>
+<tmdb>1189198</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/ykkVuQgvjrVWiEe7TvUQZOrLUgC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/o3oJqXHbJyRmkaTkztYGNdydDaj.jpg</fanart>
+<info>Flora, un genio atrapado durante más de 2.000 años dentro de un joyero antiguo, es llamado accidentalmente al servicio de Bernard, cuya vida se está desmoronando a su alrededor.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/XlDRV0FqZ9Q"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/vYAxBKovxxc4ze6"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://listeamed.net/v/QNB7xA2Ab84E0WG"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://wolfstream.tv/"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Bad Boys: Ride or Die [/COLOR][COLOR yellow](2024)[/COLOR]</title>
 <genre>Acción, Crimen, Suspense, Comedia</genre>
 <year>2024</year>
