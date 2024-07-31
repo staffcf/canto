@@ -24,7 +24,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6efQJ7pu9GPketUDBAhJtgZLkvD.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/2RVcJbWFmICRDsVxRI8F5xRmRsK.jpg</fanart>
 <info>Una mujer llamada Sam trata de sobrevivir a una invasión en la ciudad de Nueva York por criaturas alienígenas sedientas de sangre con oídos ultrasónicos. Tercera entrega de la saga y precuela de las dos anteriores.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/iUQ8eULI_Vk"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/PX4J74wOxVSgWY"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/gxicdnj21amm"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://listeamed.net/v/l4vexvDNjKrO8B9"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/iUQ8eULI_Vk"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/PX4J74wOxVSgWY"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/gxicdnj21amm"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://listeamed.net/v/l4vexvDNjKrO8B9"},{"titulo" : "[COLOR white]Opcion 4 Torrent 1080[/COLOR]","url" : "magnet:?xt=urn:btih:5LH6N7DQXZ4Z7LIF32GAQSL6YL6BSM4W"},{"titulo" : "[COLOR white]Opcion 5 Torrent 4K[/COLOR]","url" : "magnet:?xt=urn:btih:ATNYI7UKNJSRTESY2HJJJKDMJROAQNCM"}</urlsolve>
 </item>
 
 
@@ -36,7 +36,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kJhQfICVsZGeYGGRudgcqiD1zQY.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/qwhnq8pkFEAFXRwmscISOKK90Mu.jpg</fanart>
 <info>Kid (Dev Patel) es un delincuente que acaba de salir de prisión y vive en la India, intentando adaptarse a un mundo marcado por la avaricia y carente de valores espirituales. Allí luchará por buscar venganza por la muerte de su madre y defender a las clases más desfavorecidas.</info>
-<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/BOSn67w68Ks"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/Jevmx6emQWTjmWV"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/upaldge6dcy7"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://listeamed.net/v/dNjgOl4JmwNO9Wn"},{"titulo" : "[COLOR white]Opcion 4 Torrent 1080[/COLOR]","url" : "magnet:?xt=urn:btih:5LH6N7DQXZ4Z7LIF32GAQSL6YL6BSM4W"}</urlsolve>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/BOSn67w68Ks"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/Jevmx6emQWTjmWV"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/upaldge6dcy7"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://listeamed.net/v/dNjgOl4JmwNO9Wn"}</urlsolve>
 </item>
 
 
