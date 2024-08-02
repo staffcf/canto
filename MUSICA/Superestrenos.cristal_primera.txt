@@ -5,6 +5,18 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Paradox Effect [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Acción, Suspense</genre>
+<year>2024</year>
+<tmdb>1064375</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jY8PZGZVvkcMP9ImdEpm0CU32Sf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xYyPLClpJiA5pq687pGjRel5qgf.jpg</fanart>
+<info>Una mujer inocente se ve obligada a enfrentarse a un peligroso capo que ha secuestrado a su pequeña hija y la retiene para pedir un rescate. Ella se une a un agente corrupto de Interpol, cuyo hijo también está como rehén, para estafar a varios delincuentes y recaudar el rescate para salvar a sus descendientes. Juntos tienen una hora para salvar a sus familias de la ira del pez gordo.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Qhqp7l81ios"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/kbbZr6bwWwsOjKr"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/anghktzy45yx"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://listeamed.net/v/8ozgENLQ0k65mjA"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Niebla sin fronteras [/COLOR][COLOR yellow](2024)[/COLOR]</title>
 <genre>Suspense, Crimen, Misterio</genre>
 <year>2024</year>
