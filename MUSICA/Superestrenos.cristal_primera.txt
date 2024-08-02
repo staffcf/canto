@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Niebla sin fronteras [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Suspense, Crimen, Misterio</genre>
+<year>2024</year>
+<tmdb>1126357</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4MgRn1YPf3EkjfxbkWCMgeXY21I.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7w3lsubWU6UTOBgNqzQ4SPuXm8c.jpg</fanart>
+<info>Una inspectora de la gran ciudad se ve obligada a enfrentarse a los fantasmas de su pasado cuando investiga unos macabros asesinatos en la frontera entre Indonesia y Malasia.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/wWVM1qK909E"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/D0opjYm9GoTkMZ3"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/xfzn7bjuwe70"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://listeamed.net/v/edVqE4rZoK15YWm"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] La venganza del dragón (Maythem!) [/COLOR][COLOR yellow](2023)[/COLOR]</title>
+<genre>Acción, Crimen, Drama</genre>
+<year>2023</year>
+<tmdb>959092</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u9035lysUz3ccloQt0SeIp1Mu8a.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/aswBReNN2adqTiOBnvh96RCDeJP.jpg</fanart>
+<info>Sam es un boxeador profesional a punto de salir de prisión. Mientras está en libertad condicional, su pasado lo alcanza y no tiene más remedio que huir. Cinco años después, ha reconstruido una vida sencilla en una isla exótica de Tailandia con su esposa y su hija, pero cuando un peligroso padrino local lo chantajea, debe embarcarse en una peligrosa misión de contrabando de drogas que resulta en una tragedia. Ahora solo tiene un propósito: buscar una venganza despiadada.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/PmcqVmRPgvk"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/XBOOjjKJraIDvBB"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/f7g3zv7ghtev"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://listeamed.net/v/njJYOd3pGybEe9o"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Daddio [/COLOR][COLOR yellow](2024)[/COLOR]</title>
 <genre>Drama</genre>
 <year>2024</year>
