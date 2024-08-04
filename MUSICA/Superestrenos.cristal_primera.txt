@@ -5,6 +5,30 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Rebel Moon (Capítulo uno): Corte del director [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Acción, Ciencia ficción</genre>
+<year>2024</year>
+<tmdb>848326</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dGfaPSmv8vDUsXlIvfgMi5kn4Bc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dGfaPSmv8vDUsXlIvfgMi5kn4Bc.jpg</fanart>
+<info>La saga de ciencia ficción de Zack Snyder crece con "Rebel Moon (Capitulo 1): El cáliz de la sangre", su descarnado montaje sobre una búsqueda desesperada de guerreros.</info>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/rkxZY9g4kktbw0w"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://listeamed.net/v/njJYOd3AbknEe9o"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Rebel Moon - Parte Dos: El montaje del Director [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Acción, Ciencia ficción</genre>
+<year>2024</year>
+<tmdb>934632</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3XuWJ7tMiTB5FIlyQvdWpdg6geY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3XuWJ7tMiTB5FIlyQvdWpdg6geY.jpg</fanart>
+<info>El fugitivo más buscado del universo lidera una rebelión en "Capitulo dos: La maldición del perdón", el descarnado montaje de Zack Snyder.</info>
+<urlsolve>{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/b2X3qGJKwzFPYmp"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://filelions.to/f/ucy5h34bzvzu"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://listeamed.net/v/m7WJxgJRnXz5Bze"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Un rey supermono [/COLOR][COLOR yellow](2024)[/COLOR]</title>
 <genre>Acción, Aventura, Animación, Comedia, Fantasía</genre>
 <year>2024</year>
