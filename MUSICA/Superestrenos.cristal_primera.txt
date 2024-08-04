@@ -5,6 +5,54 @@
 ==========================================================================================
 
 <item>
+<title>[COLOR white] Un rey supermono [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Acción, Aventura, Animación, Comedia, Fantasía</genre>
+<year>2024</year>
+<tmdb>1085046</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/5jExXGHeBC6Ur5nXpnldrLL5pEP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vwwHt1hNvPpAUEFW6YHdhy9jJmY.jpg</fanart>
+<info>Shimmy, un mono que acaba de descubrir sus poderes de superhéroe, aprende a controlar sus extraordinarias habilidades transformadoras y a impedir que poderosas fuerzas demoníacas sumen al universo en el caos.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/hz8IYlkNL-8"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/7DW1Ok9llZUxyo"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://listeamed.net/v/0DogOGM2nJPxKjM"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://vidhidepre.com/file/45lgvfabvtry"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Emma y el jaguar negro [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Aventura, Familia</genre>
+<year>2024</year>
+<tmdb>959098</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/16XLjykvCrroKxx1sumDHkVr1Q6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/Ahn9zBmRImn0uJ17IuQugjywQZB.jpg</fanart>
+<info>La selva amazónica donde ha crecido Emma le ha proporcionado una amistad única, la que mantiene con Hope, una jaguar que ella misma encontró siendo tan solo una cría. Un acontecimiento trágico hace que Emma tenga que trasladarse a la ciudad de Nueva York y dejar atrás a Hope. Los años pasan, pero Emma no deja de soñar con volver a la selva y estar con su amiga. Con 14 años, hecha una urbanita, Emma descubre que el pueblo de su infancia vive bajo la amenaza de traficantes de animales y decide que ha de volver a la Amazonia con su querida jaguar. Un plan descabellado del que Anja, su excéntrica y encantadora profesora de Biología, intenta disuadirla sin éxito. Junto a Anja, Emma se embarca en un emocionante viaje para reunirse con Hope y salvarla de aquellos que buscan destruir la selva y su fauna salvaje.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/G9AgInuQ2KI"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/D2qDZ9jzkdFk288"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://listeamed.net/v/VqbX53gd9385Qzp"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://vidhidepre.com/file/gwwwgxdh8w3l"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Al rescate de Fondo de Bikini La película de Arenita Mejillas [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Animación, Comedia, Aventura, Familia</genre>
+<year>2024</year>
+<tmdb>831815</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/1VHcx9WJnxvWs0ykefawnhGU55B.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/Vp8FJ9DNIBJzkGQD43V9gQ7M7L.jpg</fanart>
+<info>Cuando Fondo de Bikini es arrastrado fuera del mar, la ardilla científica Arenita Mejillas y su amigo Bob Esponja se embarcan rumbo a Texas para salvar su ciudad.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/Kpl9OagelYs"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/wzgeV6R3zMuG2D"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://listeamed.net/v/qL0YEyPjd2JxDRX"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://vidhidepre.com/file/npb79yr9x2jz"}</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white] Malum [/COLOR][COLOR yellow](2024)[/COLOR]</title>
+<genre>Terror</genre>
+<year>2024</year>
+<tmdb>1094403</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/xcKe9g1oTFqXHJ2hTxCfh5tPAI6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tibc3pquFmeDfcdgRlrtj0ddYrB.jpg</fanart>
+<info>Una oficial de policía novata acepta voluntariamente el último turno en una estación de policía recién clausurada en un intento por descubrir la misteriosa conexión entre la muerte de su padre y un culto vicioso.</info>
+<urlsolve>{"titulo" : "[COLOR red]Trailer[/COLOR]","url" : "https://youtu.be/CegntUX8kRE"},{"titulo" : "[COLOR white]Opcion 1[/COLOR]","url" : "https://streamtape.com/v/r930DDGV76CbbQm"},{"titulo" : "[COLOR white]Opcion 2[/COLOR]","url" : "https://listeamed.net/v/04rQxWWQPGyxb2N"},{"titulo" : "[COLOR white]Opcion 3[/COLOR]","url" : "https://vidhidepre.com/file/nd55o8va901f"}</urlsolve>
+</item>
+
+
+<item>
 <title>[COLOR white] Paradox Effect [/COLOR][COLOR yellow](2024)[/COLOR]</title>
 <genre>Acción, Suspense</genre>
 <year>2024</year>
