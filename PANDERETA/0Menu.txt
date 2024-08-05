@@ -7540,7 +7540,7 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 </item>
 
 <item>
-<title>[COLOR gold]* [COLOR white]Sainz:Vivir Para Competir [COLOR gold]Docuserie[COLOR white][COLOR white][/COLOR]</title>  
+<title>[COLOR gold]* [COLOR white]Sainz: Vivir Para Competir [COLOR gold]Docuserie[COLOR white][COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>138340</tmdb>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Sainz.vivir.para.competir</externallink>
@@ -7620,7 +7620,7 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 </item>
 
 <item>
-<title>[COLOR gold]* [COLOR white]Se Docil:Oracion Y Obediencia [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
+<title>[COLOR gold]* [COLOR white]Se Docil: Oracion Y Obediencia [COLOR gold]Docuserie[COLOR white][/COLOR]</title>  
 <link>cristalazul</link>
 <tmdb>202880</tmdb>
 <externallink>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Series.Docu.Direct/Se.docil.oracion.y.obediencia</externallink>
@@ -7777,6 +7777,16 @@ A partir de ese momento, las autoridades tratan de buscar una solución de emerg
 <info>La historia era simple: Jennifer Walters es una abogada acomplejada por su baja estatura, introvertida y tímida, pero con un talento innato para defender a sus clientes. Un día sufre un fatal accidente y su único pariente disponible para una transfusión de sangre es su primo Bruce Banner</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/wgfYIC1zQ1b4mp6m5cJULEDNdUl.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/4zsMhqvU8mdmCX8CRlqtusYNWEA.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]* [COLOR white]Shogun[COLOR white][/COLOR]</title>  
+<link>cristalazul</link>
+<tmdb>126308</tmdb>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Shogun</externallink>
+<info>Ambientada en el Japón de 1600, lord Yoshii Toranaga lucha por su vida mientras que sus enemigos en el Consejo de regentes se alían contra él cuando un misterioso barco europeo aparece abandonado cerca de un pueblo pesquero.</info>
+<thumbnail>https://image.tmdb.org/t/p/original/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vmPMO1OuGaV9KvRbKFaVHjRTVmx.jpg</fanart>
 </item>
 
 <item>
